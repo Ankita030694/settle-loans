@@ -1,26 +1,103 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* SettleLoans Color System */
+  
+  /* Backgrounds */
+  --color-background: #FFFDF4; /* Main canvas */
+  --color-section-light: #AEDADB; /* Light section backgrounds, testimonials */
+  
+  /* Primary / Actions (Teals) */
+  --color-primary: #08494B; /* Primary CTAs */
+  --color-primary-hover: #396D6F; /* Secondary buttons, hover states */
+  --color-secondary: #396D6F; /* Secondary buttons, active tabs */
+  
+  /* UI Elements */
+  --color-focus: #6B9293; /* Input focus borders, tooltips */
+  --color-disabled: #89B5B6; /* Disabled buttons */
+  --color-border: #D1D1D1; /* Borders, dividers */
+  
+  /* Text & Neutrals */
+  --color-text-hero: #000000; /* Page titles, hero headings */
+  --color-text-body: #171717; /* Body text, labels */
+  --color-text-helper: #454545; /* Helper text, placeholders */
+  --color-text-muted: #747474; /* Muted / disabled text */
+  
+  /* Semantic Mappings for Tailwind */
+  --background: var(--color-background);
+  --foreground: var(--color-text-body);
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  --color-background: var(--color-background);
+  --color-section-light: var(--color-section-light);
+  
+  --color-primary: var(--color-primary);
+  --color-primary-hover: var(--color-primary-hover);
+  --color-secondary: var(--color-secondary);
+  
+  --color-focus: var(--color-focus);
+  --color-disabled: var(--color-disabled);
+  --color-border: var(--color-border);
+  
+  --color-text-hero: var(--color-text-hero);
+  --color-text-body: var(--color-text-body);
+  --color-text-helper: var(--color-text-helper);
+  --color-text-muted: var(--color-text-muted);
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --font-sans: var(--font-satoshi);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-background);
+  color: var(--color-text-body);
+  font-family: var(--font-satoshi), sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Utilities */
+.glass {
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--color-border);
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes pulse-glow {
+  0%, 100% { transform: scale(1); opacity: 0.5; }
+  50% { transform: scale(1.5); opacity: 0.2; }
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 3s ease-in-out infinite;
+}
+
+@keyframes amoeba {
+  0% { border-radius: 50%; transform: translate(0, 0) scale(1); }
+  33% { border-radius: 58% 42% 48% 52% / 52% 48% 52% 48%; transform: translate(1px, -1px) scale(1.02); }
+  66% { border-radius: 42% 58% 52% 48% / 48% 52% 48% 52%; transform: translate(-1px, 1px) scale(0.98); }
+  100% { border-radius: 50%; transform: translate(0, 0) scale(1); }
+}
+
+.animate-amoeba {
+  animation: amoeba 4s ease-in-out infinite;
+}
+
+/* Swiper Custom Styles */
+.settlement-swiper .swiper-slide {
+  transition: all 0.5s ease;
+  width: auto; /* Ensure consistent width behavior */
+}
+.settlement-swiper {
+  overflow: visible !important;
+  padding-bottom: 2rem;
 }

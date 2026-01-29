@@ -8,6 +8,21 @@ importers:
 
   .:
     dependencies:
+      '@fortawesome/free-brands-svg-icons':
+        specifier: ^7.1.0
+        version: 7.1.0
+      '@fortawesome/free-solid-svg-icons':
+        specifier: ^7.1.0
+        version: 7.1.0
+      '@fortawesome/react-fontawesome':
+        specifier: ^3.1.1
+        version: 3.1.1(@fortawesome/fontawesome-svg-core@7.1.0)(react@19.2.3)
+      framer-motion:
+        specifier: ^12.29.0
+        version: 12.29.0(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+      lucide-react:
+        specifier: ^0.563.0
+        version: 0.563.0(react@19.2.3)
       next:
         specifier: 16.1.4
         version: 16.1.4(babel-plugin-react-compiler@1.0.0)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
@@ -17,6 +32,9 @@ importers:
       react-dom:
         specifier: 19.2.3
         version: 19.2.3(react@19.2.3)
+      swiper:
+        specifier: ^12.1.0
+        version: 12.1.0
     devDependencies:
       '@tailwindcss/postcss':
         specifier: ^4
@@ -60,6 +78,29 @@ packages:
 
   '@emnapi/runtime@1.8.1':
     resolution: {integrity: sha512-mehfKSMWjjNol8659Z8KxEMrdSJDDot5SXMq00dM8BN4o+CLNXQ0xH2V7EchNHV4RmbZLmmPdEaXZc5H2FXmDg==}
+
+  '@fortawesome/fontawesome-common-types@7.1.0':
+    resolution: {integrity: sha512-l/BQM7fYntsCI//du+6sEnHOP6a74UixFyOYUyz2DLMXKx+6DEhfR3F2NYGE45XH1JJuIamacb4IZs9S0ZOWLA==}
+    engines: {node: '>=6'}
+
+  '@fortawesome/fontawesome-svg-core@7.1.0':
+    resolution: {integrity: sha512-fNxRUk1KhjSbnbuBxlWSnBLKLBNun52ZBTcs22H/xEEzM6Ap81ZFTQ4bZBxVQGQgVY0xugKGoRcCbaKjLQ3XZA==}
+    engines: {node: '>=6'}
+
+  '@fortawesome/free-brands-svg-icons@7.1.0':
+    resolution: {integrity: sha512-9byUd9bgNfthsZAjBl6GxOu1VPHgBuRUP9juI7ZoM98h8xNPTCTagfwUFyYscdZq4Hr7gD1azMfM9s5tIWKZZA==}
+    engines: {node: '>=6'}
+
+  '@fortawesome/free-solid-svg-icons@7.1.0':
+    resolution: {integrity: sha512-Udu3K7SzAo9N013qt7qmm22/wo2hADdheXtBfxFTecp+ogsc0caQNRKEb7pkvvagUGOpG9wJC1ViH6WXs8oXIA==}
+    engines: {node: '>=6'}
+
+  '@fortawesome/react-fontawesome@3.1.1':
+    resolution: {integrity: sha512-EDllr9hpodc21odmUywHS1alXNiCd4E8sp5GJ5s7wYINz8vSmMiNWpALTiuYODb865YyQ/NlyiN4mbXp7HCNqg==}
+    engines: {node: '>=20'}
+    peerDependencies:
+      '@fortawesome/fontawesome-svg-core': ~6 || ~7
+      react: ^18.0.0 || ^19.0.0
 
   '@img/colour@1.0.0':
     resolution: {integrity: sha512-A5P/LfWGFSl6nsckYtjw9da+19jB8hkJ6ACTGcDfEJ0aE+l2n2El7dsVM7UVHZQ9s2lmYMWlrS21YLy2IR1LUw==}
@@ -391,6 +432,20 @@ packages:
     resolution: {integrity: sha512-LgQMM4WXU3QI+SYgEc2liRgznaD5ojbmY3sb8LxyguVkIg5FxdpTkvk72te2R38/TGKxH634oLxXRGY6d7AP+Q==}
     engines: {node: '>=10.13.0'}
 
+  framer-motion@12.29.0:
+    resolution: {integrity: sha512-1gEFGXHYV2BD42ZPTFmSU9buehppU+bCuOnHU0AD18DKh9j4DuTx47MvqY5ax+NNWRtK32qIcJf1UxKo1WwjWg==}
+    peerDependencies:
+      '@emotion/is-prop-valid': '*'
+      react: ^18.0.0 || ^19.0.0
+      react-dom: ^18.0.0 || ^19.0.0
+    peerDependenciesMeta:
+      '@emotion/is-prop-valid':
+        optional: true
+      react:
+        optional: true
+      react-dom:
+        optional: true
+
   graceful-fs@4.2.11:
     resolution: {integrity: sha512-RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ==}
 
@@ -468,8 +523,19 @@ packages:
     resolution: {integrity: sha512-utfs7Pr5uJyyvDETitgsaqSyjCb2qNRAtuqUeWIAKztsOYdcACf2KtARYXg2pSvhkt+9NfoaNY7fxjl6nuMjIQ==}
     engines: {node: '>= 12.0.0'}
 
+  lucide-react@0.563.0:
+    resolution: {integrity: sha512-8dXPB2GI4dI8jV4MgUDGBeLdGk8ekfqVZ0BdLcrRzocGgG75ltNEmWS+gE7uokKF/0oSUuczNDT+g9hFJ23FkA==}
+    peerDependencies:
+      react: ^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0
+
   magic-string@0.30.21:
     resolution: {integrity: sha512-vd2F4YUyEXKGcLHoq+TEyCjxueSeHnFxyyjNp80yg0XV4vUhnDer/lvvlqM/arB5bXQN5K2/3oinyCRyx8T2CQ==}
+
+  motion-dom@12.29.0:
+    resolution: {integrity: sha512-3eiz9bb32yvY8Q6XNM4AwkSOBPgU//EIKTZwsSWgA9uzbPBhZJeScCVcBuwwYVqhfamewpv7ZNmVKTGp5qnzkA==}
+
+  motion-utils@12.27.2:
+    resolution: {integrity: sha512-B55gcoL85Mcdt2IEStY5EEAsrMSVE2sI14xQ/uAdPL+mfQxhKKFaEag9JmfxedJOR4vZpBGoPeC/Gm13I/4g5Q==}
 
   nanoid@3.3.11:
     resolution: {integrity: sha512-N8SpfPUnUp1bK+PMYW8qSWdl9U+wwNWI4QKxOYDy9JAro3WMX7p2OeVRF9v+347pnakNevPmiHhNmZ2HbFA76w==}
@@ -546,6 +612,10 @@ packages:
       babel-plugin-macros:
         optional: true
 
+  swiper@12.1.0:
+    resolution: {integrity: sha512-BD4CpAOOyEvZ2f0CDx362ea+vmOwukVcmbsQx+0BhRIaBUz8wvcCd//E7RFmvBZCrfyqXCHUVqmgUwts6ywlxw==}
+    engines: {node: '>= 4.7.0'}
+
   tailwindcss@4.1.18:
     resolution: {integrity: sha512-4+Z+0yiYyEtUVCScyfHCxOYP06L5Ne+JiHhY2IjR2KWMIWhJOYZKLSGZaP5HkZ8+bY0cxfzwDE5uOmzFXyIwxw==}
 
@@ -581,6 +651,25 @@ snapshots:
     dependencies:
       tslib: 2.8.1
     optional: true
+
+  '@fortawesome/fontawesome-common-types@7.1.0': {}
+
+  '@fortawesome/fontawesome-svg-core@7.1.0':
+    dependencies:
+      '@fortawesome/fontawesome-common-types': 7.1.0
+
+  '@fortawesome/free-brands-svg-icons@7.1.0':
+    dependencies:
+      '@fortawesome/fontawesome-common-types': 7.1.0
+
+  '@fortawesome/free-solid-svg-icons@7.1.0':
+    dependencies:
+      '@fortawesome/fontawesome-common-types': 7.1.0
+
+  '@fortawesome/react-fontawesome@3.1.1(@fortawesome/fontawesome-svg-core@7.1.0)(react@19.2.3)':
+    dependencies:
+      '@fortawesome/fontawesome-svg-core': 7.1.0
+      react: 19.2.3
 
   '@img/colour@1.0.0':
     optional: true
@@ -828,6 +917,15 @@ snapshots:
       graceful-fs: 4.2.11
       tapable: 2.3.0
 
+  framer-motion@12.29.0(react-dom@19.2.3(react@19.2.3))(react@19.2.3):
+    dependencies:
+      motion-dom: 12.29.0
+      motion-utils: 12.27.2
+      tslib: 2.8.1
+    optionalDependencies:
+      react: 19.2.3
+      react-dom: 19.2.3(react@19.2.3)
+
   graceful-fs@4.2.11: {}
 
   jiti@2.6.1: {}
@@ -881,9 +979,19 @@ snapshots:
       lightningcss-win32-arm64-msvc: 1.30.2
       lightningcss-win32-x64-msvc: 1.30.2
 
+  lucide-react@0.563.0(react@19.2.3):
+    dependencies:
+      react: 19.2.3
+
   magic-string@0.30.21:
     dependencies:
       '@jridgewell/sourcemap-codec': 1.5.5
+
+  motion-dom@12.29.0:
+    dependencies:
+      motion-utils: 12.27.2
+
+  motion-utils@12.27.2: {}
 
   nanoid@3.3.11: {}
 
@@ -976,6 +1084,8 @@ snapshots:
     dependencies:
       client-only: 0.0.1
       react: 19.2.3
+
+  swiper@12.1.0: {}
 
   tailwindcss@4.1.18: {}
 
