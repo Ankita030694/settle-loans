@@ -116,6 +116,7 @@ export default function LoanAfterSettlementPage() {
             ]}
           />
         </aside>
+        </div>
 
         {/* Middle Column: Main Content */}
         <article className="w-full lg:w-3/5 flex-1 max-w-none font-sans text-[var(--color-text-body)]">
@@ -571,7 +572,8 @@ export default function LoanAfterSettlementPage() {
           </div>
         </aside>
 
-      </div>
-    </main>
+      </main>
+      <Footer />
+    </div>
   );
 }
