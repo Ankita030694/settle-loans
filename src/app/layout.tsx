@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import Footer from "@/components/Footer";
+import WhatsAppWidget from "@/components/WhatsAppWidget";
 
 const satoshi = localFont({
   src: "../../public/font/WEB/fonts/Satoshi-Variable.woff2",
@@ -101,6 +102,7 @@ export default function RootLayout({
            {children}
         </div>
         <Footer />
+        <WhatsAppWidget />
       </body>
     </html>
   );
