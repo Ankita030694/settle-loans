@@ -16,11 +16,11 @@ export default function Navbar() {
         <div className="flex items-center h-full">
           <Link href="/" className="flex items-center">
             <Image 
-              src="/logo/logo1.png" 
+              src="/logo/logo.svg" 
               alt="SettleLoans Logo" 
-              width={50} 
-              height={20} 
-              className="object-cover mt-5"
+              width={60} 
+              height={60} 
+              className="object-contain p-2"
               priority
             />
           </Link>

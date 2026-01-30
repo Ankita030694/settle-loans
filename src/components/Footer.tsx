@@ -11,9 +11,9 @@ export default function Footer() {
           
           {/* Column 1: Logo, Description, Contact Cards */}
           <div className="flex flex-col gap-6 w-full lg:w-[350px] shrink-0">
-            <div className="relative w-36 h-36 mb-2">
+            <div className="relative w-36 h-36 mb-5">
                <Image 
-                  src="/logo/logo1.png" 
+                  src="/logo/logo.svg" 
                   alt="SettleLoans Logo" 
                   fill
                   className="object-contain object-left"
