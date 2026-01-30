@@ -20,7 +20,17 @@ export default function PersonalLoanSettlementPage() {
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/services/personal-loan-settlement#webpage",
+        "url": "https://settleloans.in/services/personal-loan-settlement",
+        "name": "Personal Loan Settlement Services | SettleLoans",
+        "description": "Expert personal loan settlement services in India. We help you negotiate with banks, stop recovery harassment, and settle for a reduced amount.",
+        "breadcrumb": { "@id": "https://settleloans.in/services/personal-loan-settlement#breadcrumb" },
+        "inLanguage": "en-IN"
+      },
+      {
         "@type": "BreadcrumbList",
+        "@id": "https://settleloans.in/services/personal-loan-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -44,16 +54,22 @@ export default function PersonalLoanSettlementPage() {
       },
       {
         "@type": "Service",
+        "@id": "https://settleloans.in/services/personal-loan-settlement#service",
         "name": "Personal Loan Settlement",
         "description": "Professional negotiation service to settle unsecured personal loans for a reduced lump sum amount.",
         "provider": {
           "@type": "Organization",
-          "name": "SettleLoans"
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "850"
+          "reviewCount": "850",
+          "itemReviewed": {
+            "@type": "Service",
+            "name": "Personal Loan Settlement"
+          }
         },
         "review": [
           {
@@ -61,19 +77,50 @@ export default function PersonalLoanSettlementPage() {
             "author": { "@type": "Person", "name": "Karthik Nair" },
             "datePublished": "2024-01-10",
             "reviewBody": "My personal loan of 15 lakhs was settling for 6.5 lakhs. Best service for handling bank managers.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+            "itemReviewed": {
+              "@type": "Service",
+              "name": "Personal Loan Settlement"
+            }
           },
           {
             "@type": "Review",
             "author": { "@type": "Person", "name": "Deepa Francis" },
             "datePublished": "2023-12-15",
             "reviewBody": "Saved me from a legal notice. Highly professional team.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+            "itemReviewed": {
+              "@type": "Service",
+              "name": "Personal Loan Settlement"
+            }
           }
         ]
       },
       {
+        "@type": "Article",
+        "@id": "https://settleloans.in/services/personal-loan-settlement#article",
+        "headline": "Personal Loan Debt Relief & Settlement: The Complete Guide",
+        "description": "A comprehensive guide on how to settle personal loans in India, including RBI guidelines, legal risks like Section 138, and the settlement process.",
+        "image": "https://settleloans.in/hero/settlement.png",
+        "author": {
+          "@type": "Organization",
+          "name": "SettleLoans团队"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://settleloans.in/logo/logo.svg"
+          }
+        },
+        "datePublished": "2024-01-01",
+        "dateModified": "2024-01-30",
+        "mainEntityOfPage": { "@id": "https://settleloans.in/services/personal-loan-settlement#webpage" }
+      },
+      {
         "@type": "FAQPage",
+        "@id": "https://settleloans.in/services/personal-loan-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -99,7 +146,7 @@ export default function PersonalLoanSettlementPage() {
               "text": "For unsecured personal loans, waivers typically range from 30% to 50% of the principal + interest. In cases of job loss or critical illness, banks may agree to even higher waivers on a case-by-case basis."
             }
           },
-           {
+          {
             "@type": "Question",
             "name": "Will the bank seize my assets?",
             "acceptedAnswer": {

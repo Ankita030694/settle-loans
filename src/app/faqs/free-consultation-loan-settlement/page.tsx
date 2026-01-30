@@ -13,20 +13,58 @@ export const metadata: Metadata = {
 export default function FreeConsultationPage() {
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "Service",
-    "name": "Free Loan Settlement Consultation",
-    "description": "Expert consultation service to help borrowers understand loan settlement options and manage debt.",
-    "provider": {
-      "@type": "Organization",
-      "name": "SettleLoans",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo1.png"
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/faqs/free-consultation-loan-settlement#webpage",
+        "url": "https://settleloans.in/faqs/free-consultation-loan-settlement",
+        "name": "Free Loan Settlement Consultation | Expert Debt Relief Advice",
+        "description": "Book a free consultation for loan settlement to understand your rights and options. Speak to our legal and financial experts to stop harassment and plan your debt freedom journey.",
+        "breadcrumb": { "@id": "https://settleloans.in/faqs/free-consultation-loan-settlement#breadcrumb" },
+        "inLanguage": "en-IN"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://settleloans.in/faqs/free-consultation-loan-settlement#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://settleloans.in"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "FAQs",
+            "item": "https://settleloans.in/faqs"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Free Consultation",
+            "item": "https://settleloans.in/faqs/free-consultation-loan-settlement"
+          }
+        ]
+      },
+      {
+        "@type": "Service",
+        "@id": "https://settleloans.in/faqs/free-consultation-loan-settlement#service",
+        "name": "Free Loan Settlement Consultation",
+        "description": "Expert consultation service to help borrowers understand loan settlement options and manage debt.",
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://settleloans.in/logo/logo.svg"
+          }
+        },
+        "serviceType": "Financial Consultancy",
+        "areaServed": "India",
+        "isSimilarTo": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement"
       }
-    },
-    "serviceType": "Financial Consultancy",
-    "areaServed": "India",
-    "isSimilarTo": "https://settleloans.in/eligibility-checker-for-loan-settlement"
+    ]
   };
 
   return (

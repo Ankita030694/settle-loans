@@ -13,25 +13,62 @@ export const metadata: Metadata = {
 export default function EligibilityCheckerPage() {
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Loan Settlement Eligibility Checker: Do You Qualify?",
-    "description": "A comprehensive guide and checklist to determine if you are eligible for a one-time loan settlement with banks in India.",
-    "author": {
-      "@type": "Organization",
-      "name": "SettleLoans"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "SettleLoans",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo1.png"
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#webpage",
+        "url": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement",
+        "name": "Check Loan Settlement Eligibility | Am I Eligible? - SettleLoans",
+        "description": "Unsure if you qualify for loan settlement? Use our detailed eligibility checker guide. Understand the 4 core criteria, NPA status rules, and documentation required to settle your debt.",
+        "breadcrumb": { "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#breadcrumb" },
+        "inLanguage": "en-IN"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://settleloans.in"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "FAQs",
+            "item": "https://settleloans.in/faqs"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Eligibility Checker",
+            "item": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement"
+          }
+        ]
+      },
+      {
+        "@type": "Article",
+        "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#article",
+        "headline": "Loan Settlement Eligibility Checker: Do You Qualify?",
+        "description": "A comprehensive guide and checklist to determine if you are eligible for a one-time loan settlement with banks in India.",
+        "author": {
+          "@type": "Organization",
+          "name": "SettleLoans Legal Team"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://settleloans.in/logo/logo.svg"
+          }
+        },
+        "datePublished": "2024-01-20",
+        "dateModified": "2024-01-30",
+        "mainEntityOfPage": { "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#webpage" }
       }
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://settleloans.in/eligibility-checker-for-loan-settlement"
-    }
+    ]
   };
 
   return (

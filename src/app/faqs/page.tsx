@@ -14,38 +14,77 @@ export const metadata: Metadata = {
 export default function FAQsPage() {
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    "name": "SettleLoans FAQ Guides",
-    "description": "Collection of detailed guides and FAQs regarding loan settlement.",
-    "url": "https://settleloans.in/faqs",
-    "mainEntity": {
-      "@type": "ItemList",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Can I Get a Loan After Settlement?",
-          "url": "https://settleloans.in/faqs/can-i-get-loan-after-settlement"
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Loan Settlement Fees",
-          "url": "https://settleloans.in/faqs/loan-settlement-fees"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "Eligibility Checker",
-        },
-        {
-          "@type": "ListItem",
-          "position": 4,
-          "name": "Free Consultation",
-          "url": "https://settleloans.in/free-consultation-loan-settlement"
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/faqs#webpage",
+        "url": "https://settleloans.in/faqs",
+        "name": "Frequently Asked Questions | Loan Settlement Guides - SettleLoans",
+        "description": "Browse our detailed guides and frequently asked questions about loan settlement, eligibility, fees, and more.",
+        "breadcrumb": { "@id": "https://settleloans.in/faqs#breadcrumb" },
+        "inLanguage": "en-IN"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://settleloans.in/faqs#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://settleloans.in"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Services",
+            "item": "https://settleloans.in/services"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "FAQs",
+            "item": "https://settleloans.in/faqs"
+          }
+        ]
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://settleloans.in/faqs#collection",
+        "name": "SettleLoans FAQ Guides",
+        "description": "Collection of detailed guides and FAQs regarding loan settlement.",
+        "url": "https://settleloans.in/faqs",
+        "mainEntity": {
+          "@type": "ItemList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Can I Get a Loan After Settlement?",
+              "url": "https://settleloans.in/faqs/can-i-get-loan-after-settlement"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Loan Settlement Fees",
+              "url": "https://settleloans.in/faqs/loan-settlement-fees"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Eligibility Checker",
+              "url": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Free Consultation",
+              "url": "https://settleloans.in/faqs/free-consultation-loan-settlement"
+            }
+          ]
         }
-      ]
-    }
+      }
+    ]
   };
 
   return (
@@ -161,7 +200,6 @@ export default function FAQsPage() {
 
       </div>
       </main>
-      <Footer />
     </div>
   );
 }

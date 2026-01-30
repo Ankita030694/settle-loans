@@ -52,7 +52,17 @@ export default function AppLoanSettlementPage() {
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/app-loan-settlement#webpage",
+        "url": "https://settleloans.in/app-loan-settlement",
+        "name": "Loan App Settlement | Settlement for KreditBee, MoneyView, Navi & More",
+        "description": "Trapped by instant loan apps? We settle loans for legal apps (KreditBee, MoneyView, CASHe) and help you handle harassment from illegal Chinese loan apps. Expert legal protection.",
+        "breadcrumb": { "@id": "https://settleloans.in/app-loan-settlement#breadcrumb" },
+        "inLanguage": "en-IN"
+      },
+      {
         "@type": "BreadcrumbList",
+        "@id": "https://settleloans.in/app-loan-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -70,6 +80,7 @@ export default function AppLoanSettlementPage() {
       },
       {
         "@type": "Service",
+        "@id": "https://settleloans.in/app-loan-settlement#service",
         "name": "Loan App Settlement Services",
         "description": "Expert legal negotiation and settlement services for instant personal loan apps like KreditBee, MoneyView, Navi, and protection against illegal loan app harassment.",
         "provider": {
@@ -80,6 +91,14 @@ export default function AppLoanSettlementPage() {
         "areaServed": {
           "@type": "Country",
           "name": "India"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "1560",
+          "itemReviewed": {
+            "@id": "https://settleloans.in/app-loan-settlement#service"
+          }
         },
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
@@ -114,19 +133,47 @@ export default function AppLoanSettlementPage() {
             "author": { "@type": "Person", "name": "Vikram Singh" },
             "datePublished": "2024-03-15",
             "reviewBody": "KreditBee agents were harassing my parents. SettleLoans legal team stepped in and stopped the calls in 48 hours. Settled my 50k loan for 22k.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+            "itemReviewed": {
+              "@id": "https://settleloans.in/app-loan-settlement#service"
+            }
           },
           {
-             "@type": "Review",
-             "author": { "@type": "Person", "name": "Aditi Sharma" },
-             "datePublished": "2024-02-20",
-             "reviewBody": "I was trapped in a fake Chinese loan app cycle. They morphed my photos. SettleLoans helped me file a cyber crime complaint and handle the threats. They saved my reputation.",
-             "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Aditi Sharma" },
+            "datePublished": "2024-02-20",
+            "reviewBody": "I was trapped in a fake Chinese loan app cycle. They morphed my photos. SettleLoans helped me file a cyber crime complaint and handle the threats. They saved my reputation.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+            "itemReviewed": {
+              "@id": "https://settleloans.in/app-loan-settlement#service"
+            }
           }
         ]
       },
       {
+        "@type": "Article",
+        "@id": "https://settleloans.in/app-loan-settlement#article",
+        "headline": "How to Settle Debt with Instant Loan Apps in India",
+        "description": "Comprehensive guide on dealing with instant loan apps. Learn the difference between legal vs illegal apps, how to stop harassment, and the settlement process for major players like KreditBee and Navi.",
+        "author": {
+          "@type": "Organization",
+          "name": "SettleLoans Legal Team"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://settleloans.in/logo/logo.svg"
+          }
+        },
+        "datePublished": "2024-01-24",
+        "dateModified": "2024-01-30",
+        "mainEntityOfPage": { "@id": "https://settleloans.in/app-loan-settlement#webpage" }
+      },
+      {
         "@type": "FAQPage",
+        "@id": "https://settleloans.in/app-loan-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -161,73 +208,54 @@ export default function AppLoanSettlementPage() {
             }
           },
           {
-             "@type": "Question",
-             "name": "Can I get a refund of processing fees if I close the loan early?",
-             "acceptedAnswer": {
-               "@type": "Answer",
-               "text": "No, processing fees are usually non-refundable as they cover the cost of loan origination. However, if you are settling, we negotiate on the 'Principal Outstanding' amount, effectively waiving off interest and penalty charges, which often exceeds the processing fee amount."
-             }
+            "@type": "Question",
+            "name": "Can I get a refund of processing fees if I close the loan early?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No, processing fees are usually non-refundable as they cover the cost of loan origination. However, if you are settling, we negotiate on the 'Principal Outstanding' amount, effectively waiving off interest and penalty charges, which often exceeds the processing fee amount."
+            }
           },
           {
-             "@type": "Question",
-             "name": "How long does the settlement process take for apps?",
-             "acceptedAnswer": {
-               "@type": "Answer",
-               "text": "For legal apps like MoneyView, it typically takes 30-45 days. The first step is stopping harassment, which happens within 48-72 hours of us taking over. The negotiation for the final amount takes longer as we wait for the loan to age and for the lender to offer the best discount."
-             }
+            "@type": "Question",
+            "name": "How long does the settlement process take for apps?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "For legal apps like MoneyView, it typically takes 30-45 days. The first step is stopping harassment, which happens within 48-72 hours of us taking over. The negotiation for the final amount takes longer as we wait for the loan to age and for the lender to offer the best discount."
+            }
           },
           {
-             "@type": "Question",
-             "name": "What if the app threatens to block my PAN/Aadhaar?",
-             "acceptedAnswer": {
-               "@type": "Answer",
-               "text": "Loan apps DO NOT have the authority to block your PAN or Aadhaar. Only government authorities can do that. This is a common scare tactic used by recovery agents. Ignore such threats. We can file a complaint against them for spreading misinformation."
-             }
+            "@type": "Question",
+            "name": "What if the app threatens to block my PAN/Aadhaar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Loan apps DO NOT have the authority to block your PAN or Aadhaar. Only government authorities can do that. This is a common scare tactic used by recovery agents. Ignore such threats. We can file a complaint against them for spreading misinformation."
+            }
           },
           {
-             "@type": "Question",
-             "name": "Is it safe to share my settlement letter with you?",
-             "acceptedAnswer": {
-               "@type": "Answer",
-               "text": "Yes, absolutely. We need to verify the settlement letter before you make any payment. Many fraudulent agents issue fake settlement letters to steal money. We verify the authenticity of the letter with the lender's central team to ensure your payment actually closes the loan."
-             }
+            "@type": "Question",
+            "name": "Is it safe to share my settlement letter with you?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, absolutely. We need to verify the settlement letter before you make any payment. Many fraudulent agents issue fake settlement letters to steal money. We verify the authenticity of the letter with the lender's central team to ensure your payment actually closes the loan."
+            }
           },
           {
-             "@type": "Question",
-             "name": "Does KreditBee initiate legal action for small amounts?",
-             "acceptedAnswer": {
-               "@type": "Answer",
-               "text": "For small amounts (e.g., < ₹10,000), legal action is rare due to the cost involved. However, they may still send legal notices to pressure you. For larger amounts, they can initiate arbitration. We handle all such legal correspondence for you."
-             }
+            "@type": "Question",
+            "name": "Does KreditBee initiate legal action for small amounts?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "For small amounts (e.g., < ₹10,000), legal action is rare due to the cost involved. However, they may still send legal notices to pressure you. For larger amounts, they can initiate arbitration. We handle all such legal correspondence for you."
+            }
           },
           {
-             "@type": "Question",
-             "name": "Can I settle multiple loans at once?",
-             "acceptedAnswer": {
-               "@type": "Answer",
-               "text": "Yes. If you have 5-6 app loans, we recommend a consolidated settlement strategy. We prioritize the most aggressive lenders and those with the highest interest rates. We can help you plan a monthly budget to settle them one by one."
-             }
+            "@type": "Question",
+            "name": "Can I settle multiple loans at once?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. If you have 5-6 app loans, we recommend a consolidated settlement strategy. We prioritize the most aggressive lenders and those with the highest interest rates. We can help you plan a monthly budget to settle them one by one."
+            }
           }
         ]
-      },
-      {
-        "@type": "Article",
-        "headline": "How to Settle Debt with Instant Loan Apps in India",
-        "description": "Comprehensive guide on dealing with instant loan apps. Learn the difference between legal vs illegal apps, how to stop harassment, and the settlement process for major players like KreditBee and Navi.",
-        "author": {
-          "@type": "Person",
-          "name": "SettleLoans Legal Team"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "SettleLoans",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo1.png"
-          }
-        },
-        "datePublished": "2024-01-24",
-        "dateModified": "2024-01-24"
       }
     ]
   };

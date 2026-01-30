@@ -26,8 +26,25 @@ const faqs = [
 const FAQ = () => {
   const [openIndex, setOpenIndex] = useState<number | null>(0);
 
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqs.map(faq => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
+  };
+
   return (
     <section id="faq" className="bg-white py-16 relative overflow-hidden">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
       {/* Background Top Gradient/Blur */}
       <div className="absolute top-0 left-0 w-full h-32 bg-gradient-to-b from-[#E0EDFF] to-white pointer-events-none opacity-60" />
       

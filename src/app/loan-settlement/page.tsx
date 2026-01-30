@@ -17,7 +17,17 @@ export default function LoanSettlementPage() {
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/loan-settlement#webpage",
+        "url": "https://settleloans.in/loan-settlement",
+        "name": "Loan Settlement Services in India | Expert Debt Relief - SettleLoans",
+        "description": "Struggling with debt? SettleLoans offers expert loan settlement services to help you become debt-free. Learn about the process, benefits, RBI guidelines, and how to negotiate with banks.",
+        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement#breadcrumb" },
+        "inLanguage": "en-IN"
+      },
+      {
         "@type": "BreadcrumbList",
+        "@id": "https://settleloans.in/loan-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -34,18 +44,26 @@ export default function LoanSettlementPage() {
         ]
       },
       {
-        "@type": "Product",
+        "@type": "Service",
+        "@id": "https://settleloans.in/loan-settlement#service",
         "name": "Loan Settlement Services",
         "description": "Expert legal and financial negotiation services for settling unsecured loans and credit card debts.",
-        "image": "https://settleloans.in/logo/logo1.png",
-        "brand": {
-          "@type": "Brand",
-          "name": "SettleLoans"
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
+        },
+        "areaServed": {
+          "@type": "Country",
+          "name": "India"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.8",
-          "reviewCount": "1250"
+          "reviewCount": "1250",
+          "itemReviewed": {
+            "@id": "https://settleloans.in/loan-settlement#service"
+          }
         },
         "review": [
           {
@@ -53,38 +71,47 @@ export default function LoanSettlementPage() {
             "author": { "@type": "Person", "name": "Arjun Deshmukh" },
             "datePublished": "2023-11-15",
             "reviewBody": "Settled my credit card debt of ₹8.5 Lakhs for just ₹3.2 Lakhs. SettleLoans legal team stopped the harassment immediately.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+            "itemReviewed": {
+              "@id": "https://settleloans.in/loan-settlement#service"
+            }
           },
           {
             "@type": "Review",
             "author": { "@type": "Person", "name": "Meera Krishnan" },
             "datePublished": "2023-12-02",
             "reviewBody": "Professional and empathetic. They helped me close my personal loan during a medical emergency. Highly recommended.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+            "itemReviewed": {
+              "@id": "https://settleloans.in/loan-settlement#service"
+            }
           }
         ]
       },
       {
         "@type": "Article",
+        "@id": "https://settleloans.in/loan-settlement#article",
         "headline": "Complete Guide to Loan Settlement in India",
         "description": "A comprehensive guide on how loan settlement works in India, its benefits, risks, and how SettleLoans can help you get out of debt.",
         "author": {
           "@type": "Organization",
-          "name": "SettleLoans"
+          "name": "SettleLoans Legal Team"
         },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo1.png"
+            "url": "https://settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-01-24",
-        "dateModified": "2024-01-27"
+        "dateModified": "2024-01-30",
+        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement#webpage" }
       },
       {
         "@type": "FAQPage",
+        "@id": "https://settleloans.in/loan-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -118,7 +145,7 @@ export default function LoanSettlementPage() {
               "text": "Loan settlement is considered negative behavior. It drops your CIBIL score by 75-100+ points depending on your credit history. The account status will change to 'Settled' instead of 'Closed', which remains on your report for 7 years and warns future lenders of past default."
             }
           },
-           {
+          {
             "@type": "Question",
             "name": "Does a settlement affect my co-borrower or guarantor?",
             "acceptedAnswer": {
@@ -158,7 +185,7 @@ export default function LoanSettlementPage() {
               "text": "Yes, it is 100% legal. It is a contractual agreement between you and the lender. The RBI allows banks to compromise on bad debts (NPAs) through One-Time Settlements (OTS) to clean up their balance sheets."
             }
           },
-           {
+          {
             "@type": "Question",
             "name": "Can I settle a credit card debt myself?",
             "acceptedAnswer": {
@@ -166,7 +193,7 @@ export default function LoanSettlementPage() {
               "text": "Yes, you can, but it is challenging. Banks often employ aggressive tactics with individuals. Professional settlement firms have collective bargaining power, relationships with bank managers, and legal expertise to ensure you get the best deal and are protected from harassment."
             }
           },
-           {
+          {
             "@type": "Question",
             "name": "Does settlement stop banks or NBFCs from taking legal action?",
             "acceptedAnswer": {

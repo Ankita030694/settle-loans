@@ -47,7 +47,17 @@ export default function CreditScoreImprovementPage() {
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/credit-score-improvement#webpage",
+        "url": "https://settleloans.in/credit-score-improvement",
+        "name": "Credit Score Improvement Services | Remove 'Settled' Status & Boost CIBIL",
+        "description": "Struggling with a low CIBIL score? Learn how to remove 'Settled' status, dispute errors, and use secured cards to rebuild your credit score above 750+. Expert legal guidance.",
+        "breadcrumb": { "@id": "https://settleloans.in/credit-score-improvement#breadcrumb" },
+        "inLanguage": "en-IN"
+      },
+      {
         "@type": "BreadcrumbList",
+        "@id": "https://settleloans.in/credit-score-improvement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -65,6 +75,7 @@ export default function CreditScoreImprovementPage() {
       },
       {
         "@type": "Service",
+        "@id": "https://settleloans.in/credit-score-improvement#service",
         "name": "Credit Score Repair Services",
         "description": "Comprehensive credit repair and score improvement services. We help removing 'Settled' tags, disputing wrong entries, and planning debt consolidation to boost CIBIL.",
         "provider": {
@@ -75,6 +86,14 @@ export default function CreditScoreImprovementPage() {
         "areaServed": {
           "@type": "Country",
           "name": "India"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "1250",
+          "itemReviewed": {
+            "@id": "https://settleloans.in/credit-score-improvement#service"
+          }
         },
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
@@ -109,19 +128,47 @@ export default function CreditScoreImprovementPage() {
             "author": { "@type": "Person", "name": "Amit Deshmukh" },
             "datePublished": "2024-03-01",
             "reviewBody": "My CIBIL was stuck at 620 because of an old 'Settled' credit card. SettleLoans helped me negotiate with the bank to pay the difference and get an NOC. Within 3 months of submitting the NOC to CIBIL, my status changed to 'Closed' and score jumped to 740.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+            "itemReviewed": {
+              "@id": "https://settleloans.in/credit-score-improvement#service"
+            }
           },
           {
-             "@type": "Review",
-             "author": { "@type": "Person", "name": "Priya Sethi" },
-             "datePublished": "2024-02-15",
-             "reviewBody": "I had 3 wrong entries in my report belonging to someone else! I tried mailing CIBIL but got no response. SettleLoans filed a formal dispute and followed up. The entries were removed in 45 days.",
-             "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Priya Sethi" },
+            "datePublished": "2024-02-15",
+            "reviewBody": "I had 3 wrong entries in my report belonging to someone else! I tried mailing CIBIL but got no response. SettleLoans filed a formal dispute and followed up. The entries were removed in 45 days.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+            "itemReviewed": {
+              "@id": "https://settleloans.in/credit-score-improvement#service"
+            }
           }
         ]
       },
       {
+        "@type": "Article",
+        "@id": "https://settleloans.in/credit-score-improvement#article",
+        "headline": "How to Improve CIBIL Score in India: The Ultimate Guide",
+        "description": "A comprehensive 2024 guide on repairing your CIBIL score. Learn how to remove negative flags, manage credit utilization, and use credit builder tools effectively.",
+        "author": {
+          "@type": "Organization",
+          "name": "SettleLoans Credit Experts"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://settleloans.in/logo/logo.svg"
+          }
+        },
+        "datePublished": "2024-01-24",
+        "dateModified": "2024-01-30",
+        "mainEntityOfPage": { "@id": "https://settleloans.in/credit-score-improvement#webpage" }
+      },
+      {
         "@type": "FAQPage",
+        "@id": "https://settleloans.in/credit-score-improvement#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -140,89 +187,70 @@ export default function CreditScoreImprovementPage() {
             }
           },
           {
-             "@type": "Question",
-             "name": "What is the fastest way to build credit history from scratch?",
-             "acceptedAnswer": {
-               "@type": "Answer",
-               "text": "The fastest way is to get a 'Secured Credit Card' against a Fixed Deposit (e.g., IDFC WOW, SBI Unnati, OneCard). Use it for small expenses and pay the FULL bill on time. This builds a positive history in 6 months."
-             }
+            "@type": "Question",
+            "name": "What is the fastest way to build credit history from scratch?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The fastest way is to get a 'Secured Credit Card' against a Fixed Deposit (e.g., IDFC WOW, SBI Unnati, OneCard). Use it for small expenses and pay the FULL bill on time. This builds a positive history in 6 months."
+            }
           },
           {
-             "@type": "Question",
-             "name": "Does checking my own CIBIL score lower it?",
-             "acceptedAnswer": {
-               "@type": "Answer",
-               "text": "No. When you check your own score (via CIBIL website, GPay, or banking apps), it is a 'Soft Inquiry'. Soft inquiries do NOT affect your score. Only when a bank checks your score for a loan application ('Hard Inquiry'), it can drop by a few points."
-             }
+            "@type": "Question",
+            "name": "Does checking my own CIBIL score lower it?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No. When you check your own score (via CIBIL website, GPay, or banking apps), it is a 'Soft Inquiry'. Soft inquiries do NOT affect your score. Only when a bank checks your score for a loan application ('Hard Inquiry'), it can drop by a few points."
+            }
           },
           {
-             "@type": "Question",
-             "name": "I paid my dues but CIBIL still shows outstanding. What to do?",
-             "acceptedAnswer": {
-               "@type": "Answer",
-               "text": "Banks verify data with CIBIL usually once every 30-45 days. If it has been longer, you need to file a 'Dispute' on the CIBIL website using the 'Control Number' from your report. You can also mail the NOC to CIBIL directly."
-             }
+            "@type": "Question",
+            "name": "I paid my dues but CIBIL still shows outstanding. What to do?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Banks verify data with CIBIL usually once every 30-45 days. If it has been longer, you need to file a 'Dispute' on the CIBIL website using the 'Control Number' from your report. You can also mail the NOC to CIBIL directly."
+            }
           },
-           {
-             "@type": "Question",
-             "name": "How much CIBIL score is needed for a Home Loan?",
-             "acceptedAnswer": {
-               "@type": "Answer",
-               "text": "Most banks require a score of 750+ for the best interest rates. If your score is 650-700, you might get a loan but at a higher interest rate. Below 650, rejection probability is high."
-             }
+          {
+            "@type": "Question",
+            "name": "How much CIBIL score is needed for a Home Loan?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Most banks require a score of 750+ for the best interest rates. If your score is 650-700, you might get a loan but at a higher interest rate. Below 650, rejection probability is high."
+            }
           },
-           {
-             "@type": "Question",
-             "name": "Can being an authorized user on a family member's card help?",
-             "acceptedAnswer": {
-               "@type": "Answer",
-               "text": "In India, the concept of 'Authorized User' affecting the user's CIBIL is less prevalent than in the US. The primary cardholder usually bears the credit responsibility. It is better to get your own secured card to build individual history."
-             }
+          {
+            "@type": "Question",
+            "name": "Can being an authorized user on a family member's card help?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "In India, the concept of 'Authorized User' affecting the user's CIBIL is less prevalent than in the US. The primary cardholder usually bears the credit responsibility. It is better to get your own secured card to build individual history."
+            }
           },
-           {
-             "@type": "Question",
-             "name": "Will closing old credit cards hurt my score?",
-             "acceptedAnswer": {
-               "@type": "Answer",
-               "text": "Yes, it can. Closing an old card shortens your 'Credit Age' and reduces your 'Total Available Credit', spiking your utilization ratio. Unless the card has high annual fees, it is better to keep it open and use it occasionally."
-             }
+          {
+            "@type": "Question",
+            "name": "Will closing old credit cards hurt my score?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, it can. Closing an old card shortens your 'Credit Age' and reduces your 'Total Available Credit', spiking your utilization ratio. Unless the card has high annual fees, it is better to keep it open and use it occasionally."
+            }
           },
-           {
-             "@type": "Question",
-             "name": "What is a 'Good' Credit Utilization Ratio?",
-             "acceptedAnswer": {
-               "@type": "Answer",
-               "text": "The golden rule is 30%. If your limit is ₹1 Lakh, try not to spend more than ₹30,000. Consistently using >50% of your limit signals 'Credit Hungriness' to lenders and lowers your score."
-             }
+          {
+            "@type": "Question",
+            "name": "What is a 'Good' Credit Utilization Ratio?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The golden rule is 30%. If your limit is ₹1 Lakh, try not to spend more than ₹30,000. Consistently using >50% of your limit signals 'Credit Hungriness' to lenders and lowers your score."
+            }
           },
-           {
-             "@type": "Question",
-             "name": "Do you charge for removing 'Settled' status?",
-             "acceptedAnswer": {
-               "@type": "Answer",
-               "text": "We charge a consultancy fee to guide you through the negotiation with the bank to convert 'Settled' to 'Closed'. You will have to pay the bank the outstanding dues directly. We ensure the bank gives you the correct paperwork (NOC) and updates CIBIL promptly."
-             }
+          {
+            "@type": "Question",
+            "name": "Do you charge for removing 'Settled' status?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We charge a consultancy fee to guide you through the negotiation with the bank to convert 'Settled' to 'Closed'. You will have to pay the bank the outstanding dues directly. We ensure the bank gives you the correct paperwork (NOC) and updates CIBIL promptly."
+            }
           }
         ]
-      },
-      {
-        "@type": "Article",
-        "headline": "How to Improve CIBIL Score in India: The Ultimate Guide",
-        "description": "A comprehensive 2024 guide on repairing your CIBIL score. Learn how to remove negative flags, manage credit utilization, and use credit builder tools effectively.",
-        "author": {
-          "@type": "Person",
-          "name": "SettleLoans Credit Experts"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "SettleLoans",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo1.png"
-          }
-        },
-        "datePublished": "2024-01-24",
-        "dateModified": "2024-01-24"
       }
     ]
   };

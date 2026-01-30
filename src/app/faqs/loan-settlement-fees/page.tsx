@@ -13,16 +13,58 @@ export const metadata: Metadata = {
 export default function LoanSettlementFeesPage() {
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "PricingPlan",
-    "name": "SettleLoans Service Fee",
-    "description": "Our transparent pricing model for loan settlement services.",
-    "price": "15%",
-    "priceCurrency": "INR",
-    "unitText": "of outstanding debt",
-    "provider": {
-      "@type": "Organization",
-      "name": "SettleLoans"
-    }
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/faqs/loan-settlement-fees#webpage",
+        "url": "https://settleloans.in/faqs/loan-settlement-fees",
+        "name": "Loan Settlement Fees & Charges | Transparent Pricing - SettleLoans",
+        "description": "Understanding loan settlement costs has never been easier. We charge a flat fee of 15% of the outstanding amount, while the bank typically settles for 35%. Total cost to you: 50% of your debt.",
+        "breadcrumb": { "@id": "https://settleloans.in/faqs/loan-settlement-fees#breadcrumb" },
+        "inLanguage": "en-IN"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://settleloans.in/faqs/loan-settlement-fees#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://settleloans.in"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "FAQs",
+            "item": "https://settleloans.in/faqs"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Fees & Charges",
+            "item": "https://settleloans.in/faqs/loan-settlement-fees"
+          }
+        ]
+      },
+      {
+        "@type": "PricingPlan",
+        "@id": "https://settleloans.in/faqs/loan-settlement-fees#pricing",
+        "name": "SettleLoans Service Fee",
+        "description": "Our transparent pricing model for loan settlement services.",
+        "price": "15%",
+        "priceCurrency": "INR",
+        "unitText": "of outstanding debt",
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://settleloans.in/logo/logo.svg"
+          }
+        }
+      }
+    ]
   };
 
   return (

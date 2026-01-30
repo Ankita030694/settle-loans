@@ -47,7 +47,17 @@ export default function CreditCardSettlementPage() {
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/services/credit-card-settlement#webpage",
+        "url": "https://settleloans.in/services/credit-card-settlement",
+        "name": "Credit Card Settlement Services India | Expert Debt Relief - SettleLoans",
+        "description": "Stuck in the credit card Minimum Due trap? SettleLoans helps you legally settle credit card debt for 50% less. Expert protection from recovery agents and arbitration.",
+        "breadcrumb": { "@id": "https://settleloans.in/services/credit-card-settlement#breadcrumb" },
+        "inLanguage": "en-IN"
+      },
+      {
         "@type": "BreadcrumbList",
+        "@id": "https://settleloans.in/services/credit-card-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -71,6 +81,7 @@ export default function CreditCardSettlementPage() {
       },
       {
         "@type": "Service",
+        "@id": "https://settleloans.in/services/credit-card-settlement#service",
         "name": "Credit Card Settlement Services",
         "description": "Comprehensive legal and financial service to settle unsecured credit card debt, aiming for 50-60% waiver on total outstanding. Services include anti-harassment protection, legal defense against arbitration/Section 138, and financial planning.",
         "provider": {
@@ -82,20 +93,96 @@ export default function CreditCardSettlementPage() {
           "@type": "Country",
           "name": "India"
         },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "1250",
+          "itemReviewed": {
+            "@id": "https://settleloans.in/services/credit-card-settlement#service"
+          }
+        },
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
           "name": "Debt Relief Services",
           "itemListElement": [
-            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Credit Card Settlement Negotiation" } },
-            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Harassment Protection" } },
-            { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Legal Defense for Defaulters" } }
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Credit Card Settlement Negotiation"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Harassment Protection"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Legal Defense for Defaulters"
+              }
+            }
           ]
         },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.9",
-          "reviewCount": "1250"
-        }
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Rahul S." },
+            "datePublished": "2024-01-15",
+            "reviewBody": "I had 3 cards and lost my job. SettleLoans stopped the harassment and settled all 3 cards for a 60% waiver. Highly recommended.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+            "itemReviewed": {
+              "@id": "https://settleloans.in/services/credit-card-settlement#service"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Article",
+        "@id": "https://settleloans.in/services/credit-card-settlement#article",
+        "headline": "Credit Card Settlement India: The Complete Guide",
+        "description": "Learn how to escape the minimum due trap and settle your credit card debt legally with a 50% waiver.",
+        "author": {
+          "@type": "Organization",
+          "name": "SettleLoans Editorial Team"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://settleloans.in/logo/logo.svg"
+          }
+        },
+        "datePublished": "2024-01-10",
+        "dateModified": "2024-01-30",
+        "mainEntityOfPage": { "@id": "https://settleloans.in/services/credit-card-settlement#webpage" }
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://settleloans.in/services/credit-card-settlement#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is credit card settlement?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Credit card settlement is a process where the bank agrees to accept a lump-sum payment that is less than the total amount you owe, effectively closing the account and forgiving the remaining debt."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Does settlement affect my CIBIL score?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, it will reflect as 'Settled' in your report, which temporarily lowers your score. However, it is better than a permanent default, and you can rebuild your score over time."
+            }
+          }
+        ]
       }
     ]
   };

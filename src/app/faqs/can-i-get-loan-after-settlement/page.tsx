@@ -15,25 +15,62 @@ export const metadata: Metadata = {
 export default function LoanAfterSettlementPage() {
   const jsonLd = {
     "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Can I Get a Loan After Settlement? A Detailed Guide",
-    "description": "Comprehensive guide on getting a loan after settlement, understanding the impact on your credit score, and steps to rebuild financial health.",
-    "author": {
-      "@type": "Organization",
-      "name": "SettleLoans"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "SettleLoans",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo1.png"
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/faqs/can-i-get-loan-after-settlement#webpage",
+        "url": "https://settleloans.in/faqs/can-i-get-loan-after-settlement",
+        "name": "Can I Get a Loan After Settlement? | Expert Guide - SettleLoans",
+        "description": "Wondering if you can get a loan after settlement? Learn about the impact on CIBIL score, the cooling-off period, and actionable steps to rebuild credit and get approved again.",
+        "breadcrumb": { "@id": "https://settleloans.in/faqs/can-i-get-loan-after-settlement#breadcrumb" },
+        "inLanguage": "en-IN"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://settleloans.in/faqs/can-i-get-loan-after-settlement#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://settleloans.in"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "FAQs",
+            "item": "https://settleloans.in/faqs"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Loan After Settlement",
+            "item": "https://settleloans.in/faqs/can-i-get-loan-after-settlement"
+          }
+        ]
+      },
+      {
+        "@type": "Article",
+        "@id": "https://settleloans.in/faqs/can-i-get-loan-after-settlement#article",
+        "headline": "Can I Get a Loan After Settlement? A Detailed Guide",
+        "description": "Comprehensive guide on getting a loan after settlement, understanding the impact on your credit score, and steps to rebuild financial health.",
+        "author": {
+          "@type": "Organization",
+          "name": "SettleLoans Legal Team"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://settleloans.in/logo/logo.svg"
+          }
+        },
+        "datePublished": "2024-01-24",
+        "dateModified": "2024-01-30",
+        "mainEntityOfPage": { "@id": "https://settleloans.in/faqs/can-i-get-loan-after-settlement#webpage" }
       }
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://settleloans.in/faqs/can-i-get-loan-after-settlement"
-    }
+    ]
   };
 
   return (

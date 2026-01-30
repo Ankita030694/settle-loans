@@ -52,7 +52,17 @@ export default function BusinessLoanSettlementPage() {
     "@context": "https://schema.org",
     "@graph": [
       {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/business-loan-settlement#webpage",
+        "url": "https://settleloans.in/business-loan-settlement",
+        "name": "Business Loan Settlement | MSME & Unsecured Loan Settlement Experts",
+        "description": "Unable to repay your business loan? We specialize in settling Unsecured Business Loans, MSME loans, and handling Cheque Bounce (Sec 138) cases.",
+        "breadcrumb": { "@id": "https://settleloans.in/business-loan-settlement#breadcrumb" },
+        "inLanguage": "en-IN"
+      },
+      {
         "@type": "BreadcrumbList",
+        "@id": "https://settleloans.in/business-loan-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
@@ -70,6 +80,7 @@ export default function BusinessLoanSettlementPage() {
       },
       {
         "@type": "Service",
+        "@id": "https://settleloans.in/business-loan-settlement#service",
         "name": "Business Loan Settlement Services",
         "description": "Legal settlement services for unsecured business loans, MSME debts, and defense against Section 138 cheque bounce cases.",
         "provider": {
@@ -80,6 +91,14 @@ export default function BusinessLoanSettlementPage() {
         "areaServed": {
           "@type": "Country",
           "name": "India"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "1250",
+          "itemReviewed": {
+            "@id": "https://settleloans.in/business-loan-settlement#service"
+          }
         },
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
@@ -114,26 +133,33 @@ export default function BusinessLoanSettlementPage() {
             "author": { "@type": "Person", "name": "Rajesh Gupta" },
             "datePublished": "2024-02-10",
             "reviewBody": "My trading business collapsed post-COVID. I had 4 unsecured loans totaling 25 Lakhs. SettleLoans handled the arbitration notices and settled all accounts for 11 Lakhs. Section 138 cases were withdrawn.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+            "itemReviewed": {
+              "@id": "https://settleloans.in/business-loan-settlement#service"
+            }
           },
           {
              "@type": "Review",
              "author": { "@type": "Person", "name": "Suresh Patel" },
              "datePublished": "2024-01-25",
              "reviewBody": "Recovery agents were visiting my factory and harassing staff. SettleLoans issued legal notices to the NBFCs. The harassment stopped immediately, and we negotiated a 12-month settlement plan.",
-             "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+             "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+             "itemReviewed": {
+              "@id": "https://settleloans.in/business-loan-settlement#service"
+            }
           }
         ]
       },
       {
         "@type": "FAQPage",
+        "@id": "https://settleloans.in/business-loan-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",
             "name": "What happens if I default on an Unsecured Business Loan?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Since there is no collateral to seize, lenders primarily use legal pressure. They will deposit your security cheques to trigger a 'Cheque Bounce' (Section 138 NI Act) case, which is a criminal offense. They may also file for Arbitration. Settlement is the most effective way to close these loans and avoid court convictions."
+              "text": "Since there is no collateral to seize, lenders primarily use legal pressure. They will deposit your security cheques to trigger a 'Cheque Bounce' (Section 138 NI Act) case, which is a criminal offense. Settlement is the most effective way to close these loans and avoid court convictions."
             }
           },
           {
@@ -165,7 +191,7 @@ export default function BusinessLoanSettlementPage() {
              "name": "Difference between Secured and Unsecured Loan Settlement?",
              "acceptedAnswer": {
                "@type": "Answer",
-               "text": "For Unsecured loans, lenders are willing to offer high waivers (up to 50%) because they have no asset to sell. For Secured loans (LAP), settlement is harder because they can sell your property under SARFAESI Act. However, we can still negotiate if the property value is lower than the debt."
+               "text": "For Unsecured loans, lenders are willing to offer high waivers (up to 50%) because they have no asset to sell. For Secured loans (LAP), settlement is harder because they can sell your property under SARFAESI Act. However, we can still negotiate if the property value is LOWER than the debt."
              }
           },
           {
@@ -212,10 +238,11 @@ export default function BusinessLoanSettlementPage() {
       },
       {
         "@type": "Article",
+        "@id": "https://settleloans.in/business-loan-settlement#article",
         "headline": "Business Loan Settlement India: The Complete Guide",
         "description": "How to settle unsecured business loans and deal with Section 138 cases. A guide for MSME owners facing debt crisis.",
         "author": {
-          "@type": "Person",
+          "@type": "Organization",
           "name": "SettleLoans Corporate Team"
         },
         "publisher": {
@@ -223,11 +250,12 @@ export default function BusinessLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo1.png"
+            "url": "https://settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-01-24",
-        "dateModified": "2024-01-27"
+        "dateModified": "2024-01-30",
+        "mainEntityOfPage": { "@id": "https://settleloans.in/business-loan-settlement#webpage" }
       }
     ]
   };
