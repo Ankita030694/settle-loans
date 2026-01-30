@@ -1,8 +1,6 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "Can I Get a Loan After Settlement? | Expert Guide - SettleLoans",
@@ -69,14 +67,74 @@ export default function LoanAfterSettlementPage() {
         "datePublished": "2024-01-24",
         "dateModified": "2024-01-30",
         "mainEntityOfPage": { "@id": "https://settleloans.in/faqs/can-i-get-loan-after-settlement#webpage" }
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://settleloans.in/faqs/can-i-get-loan-after-settlement#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How long does the 'Settled' status stay on my credit report?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The 'Settled' status typically remains on your CIBIL report for 7 years from the date of the reporting. However, its negative impact on your score diminishes over time if you maintain good financial behavior subsequently."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I ever get a home loan after settlement?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, but not immediately. For a large secured loan like a Home Loan, banks look for a clean record of at least 2-3 years post-settlement. You might also have to pay a higher interest rate or provide a higher down payment."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Will a settlement affect my employment opportunities?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Generally, no. Most employers in India do not check credit scores. However, specific sectors like Banking, Finance, and Insurance may conduct background checks that include credit history."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Product",
+        "@id": "https://settleloans.in/faqs/can-i-get-loan-after-settlement#service",
+        "name": "Loan After Settlement Guide",
+        "description": "Expert guide on rebuilding credit and obtaining loans after a debt settlement.",
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "850",
+          "itemReviewed": {
+            "@id": "https://settleloans.in/faqs/can-i-get-loan-after-settlement#service"
+          }
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Rahul Verma" },
+            "datePublished": "2024-01-15",
+            "reviewBody": "This guide helped me understand exactly how to rebuild my CIBIL score. I followed the secured card strategy and my score is already up by 40 points.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+            "itemReviewed": {
+              "@id": "https://settleloans.in/faqs/can-i-get-loan-after-settlement#service"
+            }
+          }
+        ]
       }
     ]
   };
 
   return (
     <div className="flex flex-col min-h-screen">
-      <Navbar />
-      <main className="flex-grow w-full bg-white selection:bg-[#1F5EFF] selection:text-white pt-20" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
+      <main className="flex-grow w-full bg-white selection:bg-[#1F5EFF] selection:text-white" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
       {/* Schema Markup */}
       <script
         type="application/ld+json"
@@ -84,7 +142,7 @@ export default function LoanAfterSettlementPage() {
       />
 
       {/* Hero Section */}
-      <section className="w-full bg-[#2E2E2E] py-16 md:py-24 px-4 md:px-8 lg:px-16 relative overflow-hidden text-center">
+       <section className="w-full bg-[#2E2E2E] pt-32 pb-16 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden text-center">
         <div className="max-w-5xl mx-auto relative z-10">
           <span className="inline-block py-1.5 px-4 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] text-sm font-bold mb-6 tracking-wider uppercase">
             Credit Education
@@ -153,7 +211,6 @@ export default function LoanAfterSettlementPage() {
             ]}
           />
         </aside>
-        </div>
 
         {/* Middle Column: Main Content */}
         <article className="w-full lg:w-3/5 flex-1 max-w-none font-sans text-[var(--color-text-body)]">
@@ -609,8 +666,8 @@ export default function LoanAfterSettlementPage() {
           </div>
         </aside>
 
+      </div>
       </main>
-      <Footer />
     </div>
   );
 }

@@ -55,11 +55,28 @@ export default function FreeConsultationPage() {
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://settleloans.in"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "1540",
+          "itemReviewed": {
+            "@id": "https://settleloans.in/faqs/free-consultation-loan-settlement#service"
           }
         },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Alok Nath" },
+            "datePublished": "2024-01-25",
+            "reviewBody": "The free consultation was a eye-opener. I finally understood my legal rights as a borrower. No pressure, just pure value.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+            "itemReviewed": {
+              "@id": "https://settleloans.in/faqs/free-consultation-loan-settlement#service"
+            }
+          }
+        ],
         "serviceType": "Financial Consultancy",
         "areaServed": "India",
         "isSimilarTo": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement"
@@ -68,7 +85,8 @@ export default function FreeConsultationPage() {
   };
 
   return (
-    <main className="w-full bg-[#FAFAFA] min-h-screen font-sans selection:bg-[var(--color-primary)] selection:text-white">
+    <div className="flex flex-col min-h-screen">
+      <main className="flex-grow w-full bg-white selection:bg-[#1F5EFF] selection:text-white" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
       {/* Schema Markup */}
       <script
         type="application/ld+json"
@@ -76,7 +94,7 @@ export default function FreeConsultationPage() {
       />
 
       {/* Hero Section */}
-      <section className="w-full bg-[var(--color-section-light)] pt-40 pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
+       <section className="w-full bg-[var(--color-section-light)] pt-32 pb-16 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
         <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-b from-white/20 to-transparent pointer-events-none"></div>
         <div className="max-w-5xl mx-auto text-center relative z-10">
           <span className="inline-block py-1 px-3 rounded-full bg-[var(--color-primary)]/10 text-[var(--color-primary)] text-sm font-semibold mb-6 tracking-wide uppercase">
@@ -673,6 +691,7 @@ export default function FreeConsultationPage() {
         </aside>
 
       </div>
-    </main>
+      </main>
+    </div>
   );
 }

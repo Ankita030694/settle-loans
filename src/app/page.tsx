@@ -1,13 +1,8 @@
-import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import SettlementLetters from "@/components/SettlementLetters";
 import ProcessSection from "@/components/ProcessSection";
-import AboutUs from "@/components/AboutUs";
 import Services from "@/components/Services";
-import Testimonials2 from "@/components/Testimonials2";
 import FAQ from "@/components/FAQ";
-import CTA from "@/components/CTA";
-import Footer from "@/components/Footer";
 import ContactForm from "@/components/ContactForm";
 
 export default function Home() {
@@ -20,7 +15,6 @@ export default function Home() {
       </div>
 
       <div className="relative z-10">
-        <Navbar />
         <Hero />
         <SettlementLetters />
         <ProcessSection />

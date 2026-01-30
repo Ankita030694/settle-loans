@@ -25,8 +25,7 @@ import {
   faScaleUnbalancedFlip,
   faHandshake
 } from "@fortawesome/free-solid-svg-icons";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
+
 
 export const metadata: Metadata = {
   title: "NBFC Loan Settlement Services India | Bajaj, Tata Capital, Aditya Birla Loan Settlement",
@@ -79,7 +78,7 @@ export default function NBFCSettlementPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "name": "NBFC Loan Settlement Services",
         "description": "Specialized legal and financial negotiation service for settling unsecured personal loans from Non-Banking Financial Companies (NBFCs) like Bajaj, Tata Capital, Aditya Birla, etc.",
         "provider": {
@@ -249,15 +248,14 @@ export default function NBFCSettlementPage() {
 
   return (
     <div className="flex flex-col min-h-screen">
-      <Navbar />
-      <main className="flex-grow w-full bg-white selection:bg-[#1F5EFF] selection:text-white pt-20" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
+      <main className="flex-grow w-full bg-white selection:bg-[#1F5EFF] selection:text-white" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
        {/* Hero Section - Professional & Clean */}
-       <section className="w-full bg-[#2E2E2E] py-16 md:py-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
+       <section className="w-full bg-[#2E2E2E] pt-32 pb-16 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
         <div className="max-w-5xl mx-auto text-center relative z-10">
           <span className="inline-block py-1.5 px-4 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] text-sm font-bold mb-6 tracking-wider uppercase">
             Specialized Debt Relief
@@ -882,7 +880,6 @@ export default function NBFCSettlementPage() {
 
       </div>
       </main>
-      <Footer />
     </div>
   );
 }

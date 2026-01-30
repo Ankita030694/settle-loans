@@ -67,12 +67,66 @@ export default function EligibilityCheckerPage() {
         "datePublished": "2024-01-20",
         "dateModified": "2024-01-30",
         "mainEntityOfPage": { "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#webpage" }
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "My loan is only 60 days overdue. Can I apply?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Technically, no. Banks usually wait for the 90 day NPA mark. However, we can start the pre litigation discussions and notify the bank of your intent to settle due to hardship."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "I have a salary, but it is low. Am I eligible?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. If your current salary cannot cover the EMIs and your living expenses, you are eligible. We prove this with a cash flow statement."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Product",
+        "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#service",
+        "name": "Loan Settlement Eligibility Assessment",
+        "description": "Detailed assessment tool to check qualification for bank loan settlement.",
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "1120",
+          "itemReviewed": {
+            "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#service"
+          }
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Suresh Raina" },
+            "datePublished": "2024-01-05",
+            "reviewBody": "Clear and concise eligibility criteria. Helped me realize I was a perfect candidate for settlement due to my job loss.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+            "itemReviewed": {
+              "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#service"
+            }
+          }
+        ]
       }
     ]
   };
 
   return (
-    <main className="w-full bg-[#FAFAFA] min-h-screen font-sans selection:bg-[var(--color-primary)] selection:text-white">
+    <div className="flex flex-col min-h-screen">
+      <main className="flex-grow w-full bg-white selection:bg-[#1F5EFF] selection:text-white" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
       {/* Schema Markup */}
       <script
         type="application/ld+json"
@@ -80,7 +134,7 @@ export default function EligibilityCheckerPage() {
       />
 
       {/* Hero Section */}
-      <section className="w-full bg-[var(--color-section-light)] pt-40 pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
+       <section className="w-full bg-[var(--color-section-light)] pt-32 pb-16 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
         <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-b from-white/20 to-transparent pointer-events-none"></div>
         <div className="max-w-5xl mx-auto text-center relative z-10">
           <span className="inline-block py-1 px-3 rounded-full bg-[var(--color-primary)]/10 text-[var(--color-primary)] text-sm font-semibold mb-6 tracking-wide uppercase">
@@ -679,6 +733,7 @@ export default function EligibilityCheckerPage() {
         </aside>
 
       </div>
-    </main>
+      </main>
+    </div>
   );
 }

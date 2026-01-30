@@ -106,7 +106,7 @@ export default function Footer() {
         <div className="w-full bg-gray-200 h-px mt-12 mb-6"></div>
 
         <p className="text-center text-neutral-500 text-sm">
-          © 2026 SettleLoans. All rights reserved.
+          © 2022 SettleLoans. All rights reserved.
         </p>
       </div>
     </footer>

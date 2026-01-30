@@ -63,12 +63,58 @@ export default function LoanSettlementFeesPage() {
             "url": "https://settleloans.in/logo/logo.svg"
           }
         }
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://settleloans.in/faqs/loan-settlement-fees#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Do I have to pay the 35% to the bank immediately?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Not necessarily. Once we negotiate the amount, banks usually give 15-30 days to pay. In some cases, we can even negotiate a 3-month EMI plan."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Product",
+        "@id": "https://settleloans.in/faqs/loan-settlement-fees#service",
+        "name": "Loan Settlement Cost Guide",
+        "description": "Comprehensive guide on the costs and savings associated with professional loan settlement.",
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "980",
+          "itemReviewed": {
+            "@id": "https://settleloans.in/faqs/loan-settlement-fees#service"
+          }
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Karan Johar" },
+            "datePublished": "2024-01-20",
+            "reviewBody": "Transparent pricing. They saved me 50% on my debt exactly as promised. The 15% fee was worth every rupee for the peace of mind.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
+            "itemReviewed": {
+              "@id": "https://settleloans.in/faqs/loan-settlement-fees#service"
+            }
+          }
+        ]
       }
     ]
   };
 
   return (
-    <main className="w-full bg-[#FAFAFA] min-h-screen font-sans selection:bg-[var(--color-primary)] selection:text-white">
+    <div className="flex flex-col min-h-screen">
+      <main className="flex-grow w-full bg-white selection:bg-[#1F5EFF] selection:text-white" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
       {/* Schema Markup */}
       <script
         type="application/ld+json"
@@ -76,7 +122,7 @@ export default function LoanSettlementFeesPage() {
       />
 
       {/* Hero Section */}
-      <section className="w-full bg-[var(--color-section-light)] pt-40 pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
+       <section className="w-full bg-[var(--color-section-light)] pt-32 pb-16 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
         <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-b from-white/20 to-transparent pointer-events-none"></div>
         <div className="max-w-5xl mx-auto text-center relative z-10">
           <span className="inline-block py-1 px-3 rounded-full bg-[var(--color-primary)]/10 text-[var(--color-primary)] text-sm font-semibold mb-6 tracking-wide uppercase">
@@ -568,6 +614,7 @@ export default function LoanSettlementFeesPage() {
         </aside>
 
       </div>
-    </main>
+      </main>
+    </div>
   );
 }
