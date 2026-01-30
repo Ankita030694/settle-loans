@@ -96,25 +96,25 @@ export default function FAQsPage() {
       />
 
       {/* Hero Section */}
-      <section className="w-full bg-[#2E2E2E] pt-32 pb-16 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden text-center">
+      <section className="w-full bg-[#2E2E2E] pt-24 pb-12 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden text-center">
         <div className="max-w-5xl mx-auto relative z-10">
           <span className="inline-block py-1.5 px-4 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] text-sm font-bold mb-6 tracking-wider uppercase">
             Knowledge Base
           </span>
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-black text-[#DEDEDE] mb-8 leading-[1.1] tracking-tight">
+          <h1 className="text-3xl md:text-6xl lg:text-7xl font-black text-[#DEDEDE] mb-8 leading-[1.1] tracking-tight">
             Frequently Asked <br className="hidden md:block"/> Questions
           </h1>
-          <p className="text-lg md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-2xl mx-auto leading-[1.2] font-normal">
+          <p className="text-base md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-2xl mx-auto leading-[1.2] font-normal">
              Explore our detailed guides to understand every aspect of loan settlement.
           </p>
         </div>
       </section>
 
-      {/* Breadcrumb */}
-      <div className="w-full bg-white border-b border-[#DEDEDE]">
+      {/* Breadcrumb - Responsive Scroll */}
+      <div className="w-full bg-white border-b border-[#DEDEDE] overflow-x-auto whitespace-nowrap scrollbar-hide">
         <div className="max-w-7xl mx-auto px-4 md:px-8 py-4">
           <nav aria-label="Breadcrumb">
-            <ol className="flex items-center space-x-2 text-sm text-[#747474]">
+            <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
               <li>
                 <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               </li>

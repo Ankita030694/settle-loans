@@ -166,19 +166,19 @@ export default function PersonalLoanSettlementPage() {
       />
 
       {/* Hero Section */}
-      <section className="w-full bg-[#2E2E2E] pt-32 pb-16 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
+      <section className="w-full bg-[#2E2E2E] pt-24 pb-12 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
         <div className="max-w-5xl mx-auto text-center relative z-10">
-          <span className="inline-block py-1.5 px-4 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] text-sm font-bold mb-6 tracking-wider uppercase">
+          <span className="inline-block py-1.5 px-4 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] text-xs md:text-sm font-bold mb-4 md:mb-6 tracking-wider uppercase">
             Start Your Debt Free Journey
           </span>
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-black text-[#DEDEDE] mb-8 leading-[1.1] tracking-tight">
+          <h1 className="text-3xl md:text-6xl lg:text-7xl font-black text-[#DEDEDE] mb-6 md:mb-8 leading-[1.1] tracking-tight">
             Personal Loan <br className="hidden md:block"/> Debt Relief & Settlement
           </h1>
-          <p className="text-lg md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-3xl mx-auto leading-[1.2] font-normal">
+          <p className="text-base md:text-2xl text-[#DEDEDE]/80 mb-8 md:mb-10 max-w-3xl mx-auto leading-[1.3] font-normal">
             Overwhelmed by high-interest debts? We are a professional <strong>debt settlement company</strong> helping you negotiate directly with banks to settle personal loans for a fraction of the cost.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-             <Link href="/contact" className="inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+             <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-3 md:py-4 px-8 md:px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-base md:text-lg shadow-lg">
               Check Settlement Eligibility
             </Link>
           </div>
@@ -186,10 +186,10 @@ export default function PersonalLoanSettlementPage() {
       </section>
 
       {/* Breadcrumb - Normal Scroll */}
-      <div className="w-full bg-white border-b border-[#DEDEDE]">
+      <div className="w-full bg-white border-b border-[#DEDEDE] overflow-x-auto whitespace-nowrap scrollbar-hide">
         <div className="max-w-7xl mx-auto px-4 md:px-8 py-4">
           <nav aria-label="Breadcrumb">
-            <ol className="flex items-center space-x-2 text-sm text-[#747474]">
+            <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
               <li><Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link></li>
               <li><span className="text-gray-300">/</span></li>
               <li><Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link></li>
@@ -227,10 +227,10 @@ export default function PersonalLoanSettlementPage() {
           
           {/* Intro Hook */}
           <section id="understanding-loan-settlement" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+            <h2 className="text-2xl md:text-4xl font-black text-[#2E2E2E] mb-6 md:mb-8 leading-tight">
               The Personal Loan Trap: <span className="text-[#1F5EFF]">More Common Than You Think</span>
             </h2>
-            <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm hover:shadow-md transition-shadow relative overflow-hidden">
+            <div className="bg-white rounded-2xl p-6 md:p-8 border border-[#DEDEDE] shadow-sm hover:shadow-md transition-shadow relative overflow-hidden">
                <div className="absolute top-0 right-0 w-32 h-32 bg-indigo-50 rounded-bl-full -mr-16 -mt-16 z-0"></div>
                <p className="text-lg leading-relaxed text-[var(--color-text-body)] relative z-10 mb-6">
                  Personal loans are often sold as "easy money" - no collateral, instant approval, money in your account in 24 hours. Banks market them aggressively, bombarding you with pre-approved offers via SMS and email. It feels like financial freedom. But when a job loss, a medical crisis, or an unexpected business failure hits, that "easy money" turns into a suffocating nightmare. Unlike a home loan where you can sell the asset to recover costs, a personal loan leaves you exposed, vulnerable, and often facing aggressive collection tactics.
@@ -841,8 +841,26 @@ export default function PersonalLoanSettlementPage() {
             </p>
           </div>
           
+          {/* Mobile CTA (Visible only on mobile) */}
+          <div className="lg:hidden mt-16 mb-8">
+            <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10">
+              <div className="bg-[#1F5EFF] p-4 text-center">
+                <h3 className="text-lg font-black text-white">Get a Free Estimate</h3>
+              </div>
+              <div className="p-6 text-center">
+                <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
+                  Find out how much you can save on your personal loan today.
+                </p>
+                <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-3 px-4 rounded-[10px] hover:scale-105 transition-all shadow-md">
+                  Calculate Savings
+                </Link>
+                <p className="mt-4 text-xs text-[#DEDEDE]/60 text-center"> Free confidential consultation</p>
+              </div>
+            </div>
+          </div>
+
            <div className="mt-16 pt-8 border-t border-[#DEDEDE] text-center">
-             <p className="text-[#747474] text-sm italic">Disclaimer: The information provided is for educational purposes only and does not constitute legal or financial advice. Every individual's debt situation is unique. Result snippets shown are illustrative of typical outcomes but individual results may vary.</p>
+             <p className="text-[#747474] text-xs md:text-sm italic">Disclaimer: The information provided is for educational purposes only and does not constitute legal or financial advice. Every individual's debt situation is unique. Result snippets shown are illustrative of typical outcomes but individual results may vary.</p>
           </div>
             
 

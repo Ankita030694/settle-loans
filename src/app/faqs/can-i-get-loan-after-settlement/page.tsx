@@ -142,33 +142,33 @@ export default function LoanAfterSettlementPage() {
       />
 
       {/* Hero Section */}
-       <section className="w-full bg-[#2E2E2E] pt-32 pb-16 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden text-center">
+       <section className="w-full bg-[#2E2E2E] pt-24 pb-12 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden text-center">
         <div className="max-w-5xl mx-auto relative z-10">
           <span className="inline-block py-1.5 px-4 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] text-sm font-bold mb-6 tracking-wider uppercase">
             Credit Education
           </span>
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-black text-[#DEDEDE] mb-8 leading-[1.1] tracking-tight">
+          <h1 className="text-3xl md:text-6xl lg:text-7xl font-black text-[#DEDEDE] mb-8 leading-[1.1] tracking-tight">
             Can I Get a Loan <br className="hidden md:block"/> After Settlement?
           </h1>
-          <p className="text-lg md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-2xl mx-auto leading-[1.2] font-normal">
+          <p className="text-base md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-2xl mx-auto leading-[1.2] font-normal">
             The short answer is yes, but it requires patience and a strategic plan. Discover how to navigate the post-settlement landscape and rebuild your financial future.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-             <Link href="/contact" className="inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+             <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
               Talk to an Expert
             </Link>
-             <Link href="#rebuilding-plan" className="inline-flex items-center justify-center bg-white text-[#2E2E2E] font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg border border-[#DEDEDE]">
+             <Link href="#rebuilding-plan" className="w-full sm:w-auto inline-flex items-center justify-center bg-white text-[#2E2E2E] font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg border border-[#DEDEDE]">
               Read the Plan
             </Link>
           </div>
         </div>
       </section>
 
-      {/* Breadcrumb */}
-      <div className="w-full bg-white border-b border-[#DEDEDE]">
+      {/* Breadcrumb - Responsive Scroll */}
+      <div className="w-full bg-white border-b border-[#DEDEDE] overflow-x-auto whitespace-nowrap scrollbar-hide">
         <div className="max-w-7xl mx-auto px-4 md:px-8 py-4">
           <nav aria-label="Breadcrumb">
-            <ol className="flex items-center space-x-2 text-sm text-[#747474]">
+            <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
               <li>
                 <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               </li>
@@ -613,8 +613,33 @@ export default function LoanAfterSettlementPage() {
             </div>
           </section>
 
-          <div className="mt-16 pt-8 border-t border-[var(--color-border)] text-[var(--color-text-muted)] text-sm italic">
+          <div className="mt-16 pt-8 border-t border-[var(--color-border)] text-[var(--color-text-muted)] text-sm italic text-center">
              <p>Disclaimer: Financial recovery timelines vary for every individual. The strategies mentioned above are best practices but do not guarantee specific loan approvals. Always consult with a financial advisor.</p>
+          </div>
+
+          {/* Mobile CTA (Visible only on mobile) */}
+          <div className="lg:hidden mt-16 mb-8">
+            <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
+              <div className="bg-[#1F5EFF] p-6 text-center text-white">
+                <h3 className="text-2xl font-black mb-2">Need a Fresh Start?</h3>
+                <p className="opacity-90 text-sm">Don't let debt trap you forever. Talk to our legal experts today.</p>
+              </div>
+              <div className="p-8 text-center text-[#DEDEDE]">
+                <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-6 rounded-xl hover:scale-105 transition-all shadow-lg text-lg text-center">
+                  Book Free Call
+                </Link>
+                <div className="mt-6 flex items-center justify-center gap-4 text-xs font-bold opacity-60 uppercase tracking-widest">
+                  <span className="flex items-center gap-1">
+                    <svg className="w-3 h-3 text-green-500" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd"></path></svg>
+                    Confidential
+                  </span>
+                  <span className="flex items-center gap-1">
+                    <svg className="w-3 h-3 text-green-500" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd"></path></svg>
+                    Legal Experts
+                  </span>
+                </div>
+              </div>
+            </div>
           </div>
         </article>
 

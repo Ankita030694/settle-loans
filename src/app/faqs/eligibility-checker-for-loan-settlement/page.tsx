@@ -134,34 +134,34 @@ export default function EligibilityCheckerPage() {
       />
 
       {/* Hero Section */}
-       <section className="w-full bg-[var(--color-section-light)] pt-32 pb-16 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
+       <section className="w-full bg-[var(--color-section-light)] pt-24 pb-12 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
         <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-b from-white/20 to-transparent pointer-events-none"></div>
         <div className="max-w-5xl mx-auto text-center relative z-10">
           <span className="inline-block py-1 px-3 rounded-full bg-[var(--color-primary)]/10 text-[var(--color-primary)] text-sm font-semibold mb-6 tracking-wide uppercase">
             Free Assessment Tool
           </span>
-          <h1 className="text-4xl md:text-5xl lg:text-7xl font-bold text-[var(--color-text-hero)] mb-6 leading-[1.1] tracking-tight">
+          <h1 className="text-3xl md:text-5xl lg:text-7xl font-bold text-[var(--color-text-hero)] mb-6 leading-[1.1] tracking-tight">
             Am I Eligible for <br className="hidden md:block"/> Loan Settlement?
           </h1>
-          <p className="text-lg md:text-xl text-[var(--color-text-body)]/80 mb-10 max-w-2xl mx-auto leading-relaxed font-medium">
+          <p className="text-base md:text-xl text-[var(--color-text-body)]/80 mb-10 max-w-2xl mx-auto leading-relaxed font-medium">
             Settlement is not an open option for everyone. It is a specific legal remedy for those in genuine financial distress. Use this detailed guide to check your eligibility status instantly.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-             <Link href="/contact" className="inline-flex items-center justify-center bg-[var(--color-primary)] text-white font-semibold py-4 px-10 rounded-full hover:bg-[var(--color-primary-hover)] transition-all duration-300 text-lg shadow-[0_4px_14px_0_rgba(8,73,75,0.39)] hover:shadow-[0_6px_20px_rgba(8,73,75,0.23)] hover:-translate-y-0.5">
+             <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[var(--color-primary)] text-white font-semibold py-4 px-10 rounded-full hover:bg-[var(--color-primary-hover)] transition-all duration-300 text-lg shadow-[0_4px_14px_0_rgba(8,73,75,0.39)] hover:shadow-[0_6px_20px_rgba(8,73,75,0.23)] hover:-translate-y-0.5">
               Check with Expert
             </Link>
-             <Link href="#checklist" className="inline-flex items-center justify-center bg-white text-[var(--color-text-body)] font-semibold py-4 px-10 rounded-full border border-[var(--color-border)] hover:bg-gray-50 transition-all duration-300 text-lg">
+             <Link href="#checklist" className="w-full sm:w-auto inline-flex items-center justify-center bg-white text-[var(--color-text-body)] font-semibold py-4 px-10 rounded-full border border-[var(--color-border)] hover:bg-gray-50 transition-all duration-300 text-lg">
               Start Assessment
             </Link>
           </div>
         </div>
       </section>
 
-      {/* Breadcrumb */}
-      <div className="w-full bg-white border-b border-[var(--color-border)]">
+      {/* Breadcrumb - Responsive Scroll */}
+      <div className="w-full bg-white border-b border-[var(--color-border)] overflow-x-auto whitespace-nowrap scrollbar-hide">
         <div className="max-w-7xl mx-auto px-4 md:px-8 py-3">
           <nav aria-label="Breadcrumb">
-            <ol className="flex items-center space-x-2 text-sm text-[var(--color-text-muted)]">
+            <ol className="flex items-center space-x-2 text-xs md:text-sm text-[var(--color-text-muted)]">
               <li>
                 <Link href="/" className="hover:text-[var(--color-primary)] transition-colors">Home</Link>
               </li>
@@ -679,8 +679,24 @@ export default function EligibilityCheckerPage() {
             </div>
           </section>
 
-          <div className="mt-16 pt-8 border-t border-[var(--color-border)] text-[var(--color-text-muted)] text-sm italic">
+          <div className="mt-16 pt-8 border-t border-[var(--color-border)] text-center text-[var(--color-text-muted)] text-sm italic">
              <p>Disclaimer: This tool is for informational purposes only. "Eligibility" here refers to the typical criteria banks use to consider settlement. Meeting these criteria does not legally guarantee that a bank must offer you a settlement. Final discretion lies with the lender.</p>
+          </div>
+
+          {/* Mobile CTA (Visible only on mobile) */}
+          <div className="lg:hidden mt-16 mb-8">
+            <div className="bg-white rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.06)] overflow-hidden border border-[var(--color-border)]">
+              <div className="bg-[var(--color-primary)] p-6 text-center text-white">
+                <h3 className="text-2xl font-bold mb-2">Check My Status</h3>
+                <p className="opacity-90 text-sm">Want a professional to review your portfolio for free?</p>
+              </div>
+              <div className="p-8 text-center">
+                <Link href="/contact" className="inline-block w-full bg-[var(--color-primary)] text-white font-semibold py-4 px-6 rounded-xl hover:bg-[var(--color-primary-hover)] transition-all shadow-md text-lg">
+                  Verify Eligibility Now
+                </Link>
+                <p className="mt-4 text-xs text-[var(--color-text-muted)]"> Confidential Review</p>
+              </div>
+            </div>
           </div>
         </article>
 

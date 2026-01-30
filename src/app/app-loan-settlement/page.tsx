@@ -267,41 +267,35 @@ export default function AppLoanSettlementPage() {
       />
 
        {/* Hero Section */}
-       <section className="w-full bg-[#2E2E2E] pt-32 pb-16 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
+      <section className="w-full bg-[#2E2E2E] pt-24 pb-12 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
         <div className="max-w-5xl mx-auto text-center relative z-10">
           <span className="inline-block py-1.5 px-4 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] text-sm font-bold mb-6 tracking-wider uppercase">
-            Digital Debt Relief
+            Mobile Debt Relief
           </span>
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-black text-[#DEDEDE] mb-8 leading-[1.1] tracking-tight">
-            Loan App <br className="hidden md:block"/> Settlement Services
+          <h1 className="text-3xl md:text-6xl lg:text-7xl font-black text-[#DEDEDE] mb-8 leading-[1.1] tracking-tight">
+            App & Instant Loan <br className="hidden md:block"/> Settlement Services
           </h1>
-          <p className="text-lg md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-2xl mx-auto leading-[1.2] font-normal">
-             Harassed by recovery calls? We help you settle with legal apps like <strong>KreditBee & MoneyView</strong> and fight back against <strong>illegal loan apps</strong>.
+          <p className="text-base md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-2xl mx-auto leading-[1.2] font-normal">
+            Trapped in the cycle of high-interest loan apps? Whether it&apos;s legal harassment from apps like KreditBee or illegal blackmail from unauthorized apps, we provide the shield and the solution.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-             <Link href="/contact" className="inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
-              Stop the Calls
+             <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+              Check Your Eligibility
             </Link>
-             <Link href="#legal-vs-illegal" className="inline-flex items-center justify-center bg-white text-[#2E2E2E] font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg border border-[#DEDEDE]">
-              Identify Your App
+             <Link href="#app-types" className="w-full sm:w-auto inline-flex items-center justify-center bg-white text-[#2E2E2E] font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg border border-[#DEDEDE]">
+              How It Works
             </Link>
           </div>
         </div>
       </section>
 
-      {/* Breadcrumb */}
-      <div className="w-full bg-white border-b border-[#DEDEDE]">
+      {/* Breadcrumb - Responsive Scroll */}
+      <div className="w-full bg-white border-b border-[#DEDEDE] overflow-x-auto whitespace-nowrap scrollbar-hide">
         <div className="max-w-7xl mx-auto px-4 md:px-8 py-4">
           <nav aria-label="Breadcrumb">
-            <ol className="flex items-center space-x-2 text-sm text-[#747474]">
+            <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
               <li>
                 <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
-              </li>
-              <li>
-                 <span className="text-gray-300">/</span>
-              </li>
-              <li>
-                <Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link>
               </li>
               <li>
                  <span className="text-gray-300">/</span>
@@ -841,6 +835,30 @@ Regards,<br/>
              <p className="text-[var(--color-text-muted)] text-sm italic">Disclaimer: SettleLoans assists with settlement of loans from RBI-registered entities. We do not facilitate payments to illegal/banned apps and advise strict legal action against them.</p>
           </div>
 
+          {/* Mobile CTA (Visible only on mobile) */}
+          <div className="lg:hidden mt-16 mb-8">
+            <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
+              <div className="bg-[#1F5EFF] p-6 text-center text-white">
+                <h3 className="text-2xl font-black mb-2">Trapped by Apps?</h3>
+                <p className="opacity-90 text-sm">Stop the harassment and settle your app loans legally today.</p>
+              </div>
+              <div className="p-8 text-center text-[#DEDEDE]">
+                <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-6 rounded-xl hover:scale-105 transition-all shadow-lg text-lg">
+                  Get Instant Shield Now
+                </Link>
+                <div className="mt-6 flex items-center justify-center gap-4 text-xs font-bold opacity-60 uppercase tracking-widest">
+                  <span className="flex items-center gap-1">
+                    <svg className="w-3 h-3 text-green-500" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd"></path></svg>
+                    Confidential
+                  </span>
+                  <span className="flex items-center gap-1">
+                    <svg className="w-3 h-3 text-green-500" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd"></path></svg>
+                    Legal Shield
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
         </article>
 
         {/* Right Sticky Column */}
