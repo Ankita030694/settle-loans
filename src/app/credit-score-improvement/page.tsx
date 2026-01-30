@@ -74,7 +74,7 @@ export default function CreditScoreImprovementPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "@id": "https://settleloans.in/credit-score-improvement#service",
         "name": "Credit Score Repair Services",
         "description": "Comprehensive credit repair and score improvement services. We help removing 'Settled' tags, disputing wrong entries, and planning debt consolidation to boost CIBIL.",

@@ -44,7 +44,7 @@ export default function LoanSettlementPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "@id": "https://settleloans.in/loan-settlement#service",
         "name": "Loan Settlement Services",
         "description": "Expert legal and financial negotiation services for settling unsecured loans and credit card debts.",

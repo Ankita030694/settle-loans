@@ -79,7 +79,7 @@ export default function AppLoanSettlementPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "@id": "https://settleloans.in/app-loan-settlement#service",
         "name": "Loan App Settlement Services",
         "description": "Expert legal negotiation and settlement services for instant personal loan apps like KreditBee, MoneyView, Navi, and protection against illegal loan app harassment.",

@@ -48,7 +48,7 @@ export default function FreeConsultationPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "@id": "https://settleloans.in/faqs/free-consultation-loan-settlement#service",
         "name": "Free Loan Settlement Consultation",
         "description": "Expert consultation service to help borrowers understand loan settlement options and manage debt.",

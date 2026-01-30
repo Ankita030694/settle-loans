@@ -79,7 +79,7 @@ export default function BusinessLoanSettlementPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "@id": "https://settleloans.in/business-loan-settlement#service",
         "name": "Business Loan Settlement Services",
         "description": "Legal settlement services for unsecured business loans, MSME debts, and defense against Section 138 cheque bounce cases.",

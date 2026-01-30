@@ -80,7 +80,7 @@ export default function CreditCardSettlementPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "@id": "https://settleloans.in/services/credit-card-settlement#service",
         "name": "Credit Card Settlement Services",
         "description": "Comprehensive legal and financial service to settle unsecured credit card debt, aiming for 50-60% waiver on total outstanding. Services include anti-harassment protection, legal defense against arbitration/Section 138, and financial planning.",

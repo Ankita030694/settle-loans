@@ -53,7 +53,7 @@ export default function PersonalLoanSettlementPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "@id": "https://settleloans.in/services/personal-loan-settlement#service",
         "name": "Personal Loan Settlement",
         "description": "Professional negotiation service to settle unsecured personal loans for a reduced lump sum amount.",

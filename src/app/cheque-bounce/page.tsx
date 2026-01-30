@@ -78,7 +78,7 @@ export default function ChequeBouncePage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "@id": "https://settleloans.in/cheque-bounce#service",
         "name": "Cheque Bounce Legal Defense",
         "description": "Expert legal representation and settlement services for Section 138 NI Act cases. We handle notice replies, court representation, and out-of-court settlements.",
