@@ -134,23 +134,22 @@ export default function EligibilityCheckerPage() {
       />
 
       {/* Hero Section */}
-       <section className="w-full bg-[var(--color-section-light)] pt-24 pb-12 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
-        <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-b from-white/20 to-transparent pointer-events-none"></div>
+       <section className="w-full bg-[#2E2E2E] pt-24 pb-12 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
         <div className="max-w-5xl mx-auto text-center relative z-10">
-          <span className="inline-block py-1 px-3 rounded-full bg-[var(--color-primary)]/10 text-[var(--color-primary)] text-sm font-semibold mb-6 tracking-wide uppercase">
+          <span className="inline-block py-1.5 px-4 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] text-sm font-bold mb-6 tracking-wider uppercase">
             Free Assessment Tool
           </span>
-          <h1 className="text-3xl md:text-5xl lg:text-7xl font-bold text-[var(--color-text-hero)] mb-6 leading-[1.1] tracking-tight">
+          <h1 className="text-3xl md:text-6xl lg:text-7xl font-black text-[#DEDEDE] mb-8 leading-[1.1] tracking-tight">
             Am I Eligible for <br className="hidden md:block"/> Loan Settlement?
           </h1>
-          <p className="text-base md:text-xl text-[var(--color-text-body)]/80 mb-10 max-w-2xl mx-auto leading-relaxed font-medium">
+          <p className="text-base md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-2xl mx-auto leading-[1.2] font-normal">
             Settlement is not an open option for everyone. It is a specific legal remedy for those in genuine financial distress. Use this detailed guide to check your eligibility status instantly.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-             <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[var(--color-primary)] text-white font-semibold py-4 px-10 rounded-full hover:bg-[var(--color-primary-hover)] transition-all duration-300 text-lg shadow-[0_4px_14px_0_rgba(8,73,75,0.39)] hover:shadow-[0_6px_20px_rgba(8,73,75,0.23)] hover:-translate-y-0.5">
+             <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
               Check with Expert
             </Link>
-             <Link href="#checklist" className="w-full sm:w-auto inline-flex items-center justify-center bg-white text-[var(--color-text-body)] font-semibold py-4 px-10 rounded-full border border-[var(--color-border)] hover:bg-gray-50 transition-all duration-300 text-lg">
+             <Link href="#checklist" className="w-full sm:w-auto inline-flex items-center justify-center bg-white text-[#2E2E2E] font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg border border-[#DEDEDE]">
               Start Assessment
             </Link>
           </div>
@@ -158,23 +157,23 @@ export default function EligibilityCheckerPage() {
       </section>
 
       {/* Breadcrumb - Responsive Scroll */}
-      <div className="w-full bg-white border-b border-[var(--color-border)] overflow-x-auto whitespace-nowrap scrollbar-hide">
-        <div className="max-w-7xl mx-auto px-4 md:px-8 py-3">
+      <div className="w-full bg-white border-b border-[#DEDEDE] overflow-x-auto whitespace-nowrap scrollbar-hide">
+        <div className="max-w-7xl mx-auto px-4 md:px-8 py-4">
           <nav aria-label="Breadcrumb">
-            <ol className="flex items-center space-x-2 text-xs md:text-sm text-[var(--color-text-muted)]">
+            <ol className="flex items-center space-x-2 text-xs md:text-sm text-[#747474]">
               <li>
-                <Link href="/" className="hover:text-[var(--color-primary)] transition-colors">Home</Link>
+                <Link href="/" className="hover:text-[#1F5EFF] transition-colors">Home</Link>
               </li>
               <li>
-                 <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7"></path></svg>
+                 <span className="text-gray-300">/</span>
               </li>
               <li>
-                <Link href="/services" className="hover:text-[var(--color-primary)] transition-colors">Services</Link>
+                <Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link>
               </li>
               <li>
-                 <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7"></path></svg>
+                 <span className="text-gray-300">/</span>
               </li>
-              <li className="font-semibold text-[var(--color-text-body)]" aria-current="page">
+              <li className="font-bold text-[#2E2E2E]" aria-current="page">
                 Eligibility Checker
               </li>
             </ol>
@@ -208,7 +207,7 @@ export default function EligibilityCheckerPage() {
           
           {/* Section 1: Introduction */}
           <section id="how-it-works" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mb-8 leading-tight">
+            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
               Does Everyone Qualify for Loan Settlement?
             </h2>
             <div className="bg-white rounded-2xl p-8 border border-[var(--color-border)] shadow-sm hover:shadow-md transition-shadow relative overflow-hidden">
@@ -230,7 +229,7 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 2: The Core 4 Criteria */}
           <section id="checklist" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-6">
+            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               The 4 Core Eligibility Pillars
             </h2>
             <p className="mb-6">
@@ -270,7 +269,7 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 3: NPA Status Rules */}
           <section id="npa-status" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-6">
+             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               The Critical Timeline: NPA & SMA Classifications
             </h2>
              <p className="text-lg mb-6">
@@ -360,7 +359,7 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 4: Settlement vs Restructuring */}
           <section id="settlement-vs-restructuring" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-6">
+            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Am I Eligible for Settlement or Restructuring?
             </h2>
             <p className="mb-6">
@@ -408,7 +407,7 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 5: Eligible Loan Types */}
           <section id="loan-types" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-6">
+            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
                Which Loans Categories Are Eligible?
             </h2>
             <div className="grid md:grid-cols-2 gap-4">
@@ -446,7 +445,7 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 6: Self Assessment Quiz */}
           <section id="self-assessment" className="scroll-mt-32 mb-12">
-             <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mb-8">Self-Assessment Checklist</h2>
+             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Self-Assessment Checklist</h2>
              <p className="mb-6">
                Go through this list honestly. If you check more than 4 "Yes" boxes, you are a strong candidate for settlement.
              </p>
@@ -483,7 +482,7 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 7: Documents Required */}
           <section id="documents" className="scroll-mt-32 mb-12">
-             <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-6">
+             <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Documentation: The "Proof" of Eligibility
             </h2>
             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100">
@@ -530,7 +529,7 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 8: Disqualifications */}
           <section id="disqualifications" className="scroll-mt-32 mb-12">
-            <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-6">
+            <h2 className="text-2xl md:text-3xl font-black text-[#2E2E2E] mb-6">
               Who is NOT Eligible? (Disqualification Factors)
             </h2>
             <p className="mb-6">
@@ -567,7 +566,7 @@ export default function EligibilityCheckerPage() {
 
            {/* Section 9: The Process */}
           <section id="process-overview" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">The Eligibility to Closure Journey</h2>
+            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Eligibility to Closure Journey</h2>
             
             <div className="mb-12">
                <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-6">Step-by-Step Overview</h3>
@@ -624,7 +623,7 @@ export default function EligibilityCheckerPage() {
 
           {/* Section 10: FAQs */}
           <section id="faqs" className="scroll-mt-32 mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mt-16 mb-8">Frequently Asked Questions</h2>
+            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
             <div className="space-y-4 not-prose">
               {[
                 { 
@@ -685,16 +684,25 @@ export default function EligibilityCheckerPage() {
 
           {/* Mobile CTA (Visible only on mobile) */}
           <div className="lg:hidden mt-16 mb-8">
-            <div className="bg-white rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.06)] overflow-hidden border border-[var(--color-border)]">
-              <div className="bg-[var(--color-primary)] p-6 text-center text-white">
-                <h3 className="text-2xl font-bold mb-2">Check My Status</h3>
+            <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
+              <div className="bg-[#1F5EFF] p-6 text-center text-white">
+                <h3 className="text-2xl font-black mb-2">Check My Status</h3>
                 <p className="opacity-90 text-sm">Want a professional to review your portfolio for free?</p>
               </div>
-              <div className="p-8 text-center">
-                <Link href="/contact" className="inline-block w-full bg-[var(--color-primary)] text-white font-semibold py-4 px-6 rounded-xl hover:bg-[var(--color-primary-hover)] transition-all shadow-md text-lg">
+              <div className="p-8 text-center text-[#DEDEDE]">
+                <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-6 rounded-xl hover:scale-105 transition-all shadow-lg text-lg">
                   Verify Eligibility Now
                 </Link>
-                <p className="mt-4 text-xs text-[var(--color-text-muted)]"> Confidential Review</p>
+                <div className="mt-6 flex items-center justify-center gap-4 text-xs font-bold opacity-60 uppercase tracking-widest">
+                  <span className="flex items-center gap-1">
+                    <svg className="w-3 h-3 text-green-500" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd"></path></svg>
+                    Legal Shield
+                  </span>
+                  <span className="flex items-center gap-1">
+                    <svg className="w-3 h-3 text-green-500" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd"></path></svg>
+                    Free Analysis
+                  </span>
+                </div>
               </div>
             </div>
           </div>
@@ -705,18 +713,18 @@ export default function EligibilityCheckerPage() {
           <div className="sticky top-24 space-y-8">
             
             {/* CTA Container */}
-             <div className="bg-white rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.06)] overflow-hidden border border-[var(--color-border)] group">
-               <div className="bg-[var(--color-primary)] p-4 text-center">
-                 <h3 className="text-lg font-bold text-white">Check My Status</h3>
+             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
+               <div className="bg-[#1F5EFF] p-4 text-center">
+                 <h3 className="text-lg font-black text-white">Check My Status</h3>
                </div>
                <div className="p-6 text-center">
-                <p className="mb-6 text-sm text-[var(--color-text-body)] opacity-80 leading-relaxed">
+                <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
                   Want a professional to review your portfolio for free?
                 </p>
-                <Link href="/contact" className="inline-block w-full bg-[var(--color-primary)] text-white font-semibold py-3 px-4 rounded-xl hover:bg-[var(--color-primary-hover)] transition-all shadow-md group-hover:shadow-lg">
+                <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-3 px-4 rounded-[10px] hover:scale-105 transition-all shadow-md group-hover:shadow-lg">
                   Verify Eligibility
                 </Link>
-                <p className="mt-4 text-xs text-[var(--color-text-muted)]"> Confidential Review</p>
+                <p className="mt-4 text-xs text-[#DEDEDE]/60"> Confidential Review</p>
               </div>
             </div>
 
