@@ -3,8 +3,8 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Services in India | Expert Debt Relief - SettleLoans",
-  description: "Struggling with debt? SettleLoans offers expert loan settlement services to help you become debt-free. Learn about the process, benefits, RBI guidelines, and how to negotiate with banks.",
+  title: "Loan Settlement Services in India | Legal Debt Negotiation - SettleLoans",
+  description: "Don't let debt take over your life. SettleLoans provides professional loan settlement and anti-harassment services across India. Settle credit cards & personal loans for 40-70% less.",
   alternates: {
     canonical: "https://settleloans.in/loan-settlement",
   },
@@ -18,8 +18,8 @@ export default function LoanSettlementPage() {
         "@type": "WebPage",
         "@id": "https://settleloans.in/loan-settlement#webpage",
         "url": "https://settleloans.in/loan-settlement",
-        "name": "Loan Settlement Services in India | Expert Debt Relief - SettleLoans",
-        "description": "Struggling with debt? SettleLoans offers expert loan settlement services to help you become debt-free. Learn about the process, benefits, RBI guidelines, and how to negotiate with banks.",
+        "name": "Loan Settlement Services in India | Legal Debt Negotiation - SettleLoans",
+        "description": "Don't let debt take over your life. SettleLoans provides professional loan settlement and anti-harassment services across India. Settle credit cards & personal loans for 40-70% less.",
         "breadcrumb": { "@id": "https://settleloans.in/loan-settlement#breadcrumb" },
         "inLanguage": "en-IN"
       },

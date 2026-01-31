@@ -78,13 +78,13 @@ export default function Footer() {
           <div className="flex flex-col gap-4 w-full lg:w-auto">
              <h3 className="text-xl font-bold text-gray-900 mb-2">Our Offices</h3>
              <div className="flex flex-col gap-3">
-                <span className="text-blue-600 text-base cursor-default">Delhi</span>
-                <span className="text-blue-600 text-base cursor-default">Noida</span>
-                <span className="text-blue-600 text-base cursor-default">Gurugram</span>
-                <span className="text-blue-600 text-base cursor-default">Pune</span>
-                <span className="text-blue-600 text-base cursor-default">Mumbai</span>
-                <span className="text-blue-600 text-base cursor-default">Chennai</span>
-                <span className="text-blue-600 text-base cursor-default">Bengaluru</span>
+               <Link href="/loan-settlement/delhi" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Delhi</Link>
+               <Link href="/loan-settlement/noida" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Noida</Link>
+               <Link href="/loan-settlement/gurgaon" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Gurugram</Link>
+               <Link href="/loan-settlement/pune" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Pune</Link>
+               <Link href="/loan-settlement/mumbai" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Mumbai</Link>
+               <Link href="/loan-settlement/chennai" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Chennai</Link>
+              <Link href="/loan-settlement/bengaluru" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Bengaluru</Link>
              </div>
           </div>
 
@@ -92,8 +92,8 @@ export default function Footer() {
           <div className="flex flex-col gap-4 w-full lg:w-auto">
             <h3 className="text-xl font-bold text-gray-900 mb-2">Legal & Compliance</h3>
             <div className="flex flex-col gap-3">
-              <p className='text-blue-600 hover:text-blue-800 text-base cursor-default'> Terms of Use</p>
-              <p className='text-blue-600 hover:text-blue-800 text-base cursor-default'>Privacy Policy</p>
+              <Link href="/terms-and-conditions" className='text-blue-600 hover:text-blue-800 text-base'>Terms & Conditions</Link>
+              <Link href="/privacy-policy" className='text-blue-600 hover:text-blue-800 text-base'>Privacy Policy</Link>
               <p className='text-blue-600 hover:text-blue-800 text-base cursor-default'>Grievance Redressal</p>
               <p className='text-blue-600 hover:text-blue-800 text-base cursor-default'>Responsible Disclosure</p>
               <p className='text-blue-600 hover:text-blue-800 text-base cursor-default'>Legal Notices</p>
