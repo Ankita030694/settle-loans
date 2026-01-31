@@ -1,0 +1,16 @@
+diff --git a/tsconfig.json b/tsconfig.json
+index 435362c36efaa448d6c4bf600d281d0c8da357df..fa09f48abe29be31cb9daa98c498e15e2f18fae2 100644
+--- a/tsconfig.json
++++ b/tsconfig.json
+@@ -1,7 +1,9 @@
+ {
+-  "extends": "../../tsconfig.json",
+   "compilerOptions": {
+     "module": "esnext"
+   },
+-  "include": ["src", "./test.setup.ts"]
++  "include": [
++    "src",
++    "./test.setup.ts"
++  ]
+ }
