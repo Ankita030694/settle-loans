@@ -94,10 +94,7 @@ export default function Footer() {
             <div className="flex flex-col gap-3">
               <Link href="/terms-and-conditions" className='text-blue-600 hover:text-blue-800 text-base'>Terms & Conditions</Link>
               <Link href="/privacy-policy" className='text-blue-600 hover:text-blue-800 text-base'>Privacy Policy</Link>
-              <p className='text-blue-600 hover:text-blue-800 text-base cursor-default'>Grievance Redressal</p>
-              <p className='text-blue-600 hover:text-blue-800 text-base cursor-default'>Responsible Disclosure</p>
-              <p className='text-blue-600 hover:text-blue-800 text-base cursor-default'>Legal Notices</p>
-              <p className='text-blue-600 hover:text-blue-800 text-base cursor-default'>Compliance Policy</p>
+
             </div>
           </div>
 
