@@ -64,10 +64,7 @@ export default function GurgaonLoanSettlementPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "720",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/loan-settlement/gurgaon#service"
-          }
+          "reviewCount": "720"
         },
         "review": [
           {

@@ -91,10 +91,7 @@ export default function LoanSettlementFeesPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "980",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/faqs/loan-settlement-fees#service"
-          }
+          "reviewCount": "980"
         },
         "review": [
           {
@@ -102,10 +99,7 @@ export default function LoanSettlementFeesPage() {
             "author": { "@type": "Person", "name": "Karan Johar" },
             "datePublished": "2024-01-20",
             "reviewBody": "Transparent pricing. They saved me 50% on my debt exactly as promised. The 15% fee was worth every rupee for the peace of mind.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/faqs/loan-settlement-fees#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           }
         ]
       }

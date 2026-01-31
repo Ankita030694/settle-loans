@@ -92,10 +92,7 @@ export default function ChequeBouncePage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "840",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/cheque-bounce#service"
-          }
+          "reviewCount": "840"
         },
         "review": [
           {
@@ -103,10 +100,7 @@ export default function ChequeBouncePage() {
             "author": { "@type": "Person", "name": "Vikram Singh" },
             "datePublished": "2024-02-20",
             "reviewBody": "I was terrified when I got the court summons. SettleLoans handled the bail and mediation. We settled the matter for the principal amount only. Great legal support!",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/cheque-bounce#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           }
         ]
       },

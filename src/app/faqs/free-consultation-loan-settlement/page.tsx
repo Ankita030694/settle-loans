@@ -60,10 +60,7 @@ export default function FreeConsultationPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "1540",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/faqs/free-consultation-loan-settlement#service"
-          }
+          "reviewCount": "1540"
         },
         "review": [
           {
@@ -71,10 +68,7 @@ export default function FreeConsultationPage() {
             "author": { "@type": "Person", "name": "Alok Nath" },
             "datePublished": "2024-01-25",
             "reviewBody": "The free consultation was a eye-opener. I finally understood my legal rights as a borrower. No pressure, just pure value.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/faqs/free-consultation-loan-settlement#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           }
         ],
         "serviceType": "Financial Consultancy",

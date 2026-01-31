@@ -111,10 +111,7 @@ export default function LoanAfterSettlementPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "850",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/faqs/can-i-get-loan-after-settlement#service"
-          }
+          "reviewCount": "850"
         },
         "review": [
           {
@@ -122,10 +119,7 @@ export default function LoanAfterSettlementPage() {
             "author": { "@type": "Person", "name": "Rahul Verma" },
             "datePublished": "2024-01-15",
             "reviewBody": "This guide helped me understand exactly how to rebuild my CIBIL score. I followed the secured card strategy and my score is already up by 40 points.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/faqs/can-i-get-loan-after-settlement#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           }
         ]
       }

@@ -65,10 +65,7 @@ export default function DelhiLoanSettlementPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "840",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/loan-settlement/delhi#service"
-          }
+          "reviewCount": "840"
         },
         "review": [
           {
@@ -76,30 +73,21 @@ export default function DelhiLoanSettlementPage() {
             "author": { "@type": "Person", "name": "Rajesh Kumar" },
             "datePublished": "2024-01-10",
             "reviewBody": "SettleLoans helped me settle my 12 lakh debt for 5 lakhs in Delhi. The legal team was very professional during the Lok Adalat session.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/loan-settlement/delhi#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           },
           {
             "@type": "Review",
             "author": { "@type": "Person", "name": "Sunita Sharma" },
             "datePublished": "2023-12-05",
             "reviewBody": "The recovery agents stopped calling me within 2 days of joining SettleLoans. Highly recommended for anyone in Delhi facing harassment.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/loan-settlement/delhi#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           },
           {
             "@type": "Review",
             "author": { "@type": "Person", "name": "Amit Goel" },
             "datePublished": "2023-11-20",
             "reviewBody": "Excellent service for credit card settlement. They handled everything with the bank professionally.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/loan-settlement/delhi#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           }
         ]
       },

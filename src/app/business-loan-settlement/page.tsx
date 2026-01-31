@@ -93,10 +93,7 @@ export default function BusinessLoanSettlementPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "1250",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/business-loan-settlement#service"
-          }
+          "reviewCount": "1250"
         },
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
@@ -131,20 +128,14 @@ export default function BusinessLoanSettlementPage() {
             "author": { "@type": "Person", "name": "Rajesh Gupta" },
             "datePublished": "2024-02-10",
             "reviewBody": "My trading business collapsed post-COVID. I had 4 unsecured loans totaling 25 Lakhs. SettleLoans handled the arbitration notices and settled all accounts for 11 Lakhs. Section 138 cases were withdrawn.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/business-loan-settlement#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           },
           {
              "@type": "Review",
              "author": { "@type": "Person", "name": "Suresh Patel" },
              "datePublished": "2024-01-25",
              "reviewBody": "Recovery agents were visiting my factory and harassing staff. SettleLoans issued legal notices to the NBFCs. The harassment stopped immediately, and we negotiated a 12-month settlement plan.",
-             "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-             "itemReviewed": {
-              "@id": "https://settleloans.in/business-loan-settlement#service"
-            }
+             "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           }
         ]
       },

@@ -94,10 +94,7 @@ export default function CreditCardSettlementPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "1250",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/services/credit-card-settlement#service"
-          }
+          "reviewCount": "1250"
         },
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
@@ -132,10 +129,7 @@ export default function CreditCardSettlementPage() {
             "author": { "@type": "Person", "name": "Rahul S." },
             "datePublished": "2024-01-15",
             "reviewBody": "I had 3 cards and lost my job. SettleLoans stopped the harassment and settled all 3 cards for a 60% waiver. Highly recommended.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/services/credit-card-settlement#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           }
         ]
       },

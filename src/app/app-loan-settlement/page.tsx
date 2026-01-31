@@ -93,10 +93,7 @@ export default function AppLoanSettlementPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.8",
-          "reviewCount": "1560",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/app-loan-settlement#service"
-          }
+          "reviewCount": "1560"
         },
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
@@ -131,20 +128,14 @@ export default function AppLoanSettlementPage() {
             "author": { "@type": "Person", "name": "Vikram Singh" },
             "datePublished": "2024-03-15",
             "reviewBody": "KreditBee agents were harassing my parents. SettleLoans legal team stepped in and stopped the calls in 48 hours. Settled my 50k loan for 22k.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/app-loan-settlement#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           },
           {
             "@type": "Review",
             "author": { "@type": "Person", "name": "Aditi Sharma" },
             "datePublished": "2024-02-20",
             "reviewBody": "I was trapped in a fake Chinese loan app cycle. They morphed my photos. SettleLoans helped me file a cyber crime complaint and handle the threats. They saved my reputation.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/app-loan-settlement#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           }
         ]
       },

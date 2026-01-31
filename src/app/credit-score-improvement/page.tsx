@@ -89,10 +89,7 @@ export default function CreditScoreImprovementPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "1250",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/credit-score-improvement#service"
-          }
+          "reviewCount": "1250"
         },
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
@@ -127,20 +124,14 @@ export default function CreditScoreImprovementPage() {
             "author": { "@type": "Person", "name": "Amit Deshmukh" },
             "datePublished": "2024-03-01",
             "reviewBody": "My CIBIL was stuck at 620 because of an old 'Settled' credit card. SettleLoans helped me negotiate with the bank to pay the difference and get an NOC. Within 3 months of submitting the NOC to CIBIL, my status changed to 'Closed' and score jumped to 740.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/credit-score-improvement#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           },
           {
             "@type": "Review",
             "author": { "@type": "Person", "name": "Priya Sethi" },
             "datePublished": "2024-02-15",
             "reviewBody": "I had 3 wrong entries in my report belonging to someone else! I tried mailing CIBIL but got no response. SettleLoans filed a formal dispute and followed up. The entries were removed in 45 days.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/credit-score-improvement#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           }
         ]
       },

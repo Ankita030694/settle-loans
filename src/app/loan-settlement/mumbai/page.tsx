@@ -67,10 +67,7 @@ export default function MumbaiLoanSettlementPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "1280",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/loan-settlement/mumbai#service"
-          }
+          "reviewCount": "1280"
         },
         "review": [
           {

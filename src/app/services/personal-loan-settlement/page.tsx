@@ -63,11 +63,7 @@ export default function PersonalLoanSettlementPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "850",
-          "itemReviewed": {
-            "@type": "Service",
-            "name": "Personal Loan Settlement"
-          }
+          "reviewCount": "850"
         },
         "review": [
           {
@@ -75,22 +71,14 @@ export default function PersonalLoanSettlementPage() {
             "author": { "@type": "Person", "name": "Karthik Nair" },
             "datePublished": "2024-01-10",
             "reviewBody": "My personal loan of 15 lakhs was settling for 6.5 lakhs. Best service for handling bank managers.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@type": "Service",
-              "name": "Personal Loan Settlement"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           },
           {
             "@type": "Review",
             "author": { "@type": "Person", "name": "Deepa Francis" },
             "datePublished": "2023-12-15",
             "reviewBody": "Saved me from a legal notice. Highly professional team.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@type": "Service",
-              "name": "Personal Loan Settlement"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           }
         ]
       },

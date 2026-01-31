@@ -64,10 +64,7 @@ export default function PuneLoanSettlementPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "680",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/loan-settlement/pune#service"
-          }
+          "reviewCount": "680"
         },
         "review": [
           {

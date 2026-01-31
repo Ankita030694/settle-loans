@@ -64,10 +64,7 @@ export default function NoidaLoanSettlementPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "840",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/loan-settlement/noida#service"
-          }
+          "reviewCount": "840"
         },
         "review": [
           {

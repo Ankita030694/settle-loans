@@ -67,10 +67,7 @@ export default function BengaluruLoanSettlementPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "1120",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/loan-settlement/bengaluru#service"
-          }
+          "reviewCount": "1120"
         },
         "review": [
           {

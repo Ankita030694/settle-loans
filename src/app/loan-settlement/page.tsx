@@ -58,10 +58,7 @@ export default function LoanSettlementPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.8",
-          "reviewCount": "1250",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/loan-settlement#service"
-          }
+          "reviewCount": "1250"
         },
         "review": [
           {
@@ -69,20 +66,14 @@ export default function LoanSettlementPage() {
             "author": { "@type": "Person", "name": "Arjun Deshmukh" },
             "datePublished": "2023-11-15",
             "reviewBody": "Settled my credit card debt of ₹8.5 Lakhs for just ₹3.2 Lakhs. SettleLoans legal team stopped the harassment immediately.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/loan-settlement#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           },
           {
             "@type": "Review",
             "author": { "@type": "Person", "name": "Meera Krishnan" },
             "datePublished": "2023-12-02",
             "reviewBody": "Professional and empathetic. They helped me close my personal loan during a medical emergency. Highly recommended.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/loan-settlement#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           }
         ]
       },

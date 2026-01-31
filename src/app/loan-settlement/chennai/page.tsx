@@ -67,10 +67,7 @@ export default function ChennaiLoanSettlementPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "1050",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/loan-settlement/chennai#service"
-          }
+          "reviewCount": "1050"
         },
         "review": [
           {

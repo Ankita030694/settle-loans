@@ -103,10 +103,7 @@ export default function EligibilityCheckerPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.8",
-          "reviewCount": "1120",
-          "itemReviewed": {
-            "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#service"
-          }
+          "reviewCount": "1120"
         },
         "review": [
           {
@@ -114,10 +111,7 @@ export default function EligibilityCheckerPage() {
             "author": { "@type": "Person", "name": "Suresh Raina" },
             "datePublished": "2024-01-05",
             "reviewBody": "Clear and concise eligibility criteria. Helped me realize I was a perfect candidate for settlement due to my job loss.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-            "itemReviewed": {
-              "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#service"
-            }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           }
         ]
       }
