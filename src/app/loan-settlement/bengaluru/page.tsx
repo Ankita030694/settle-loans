@@ -48,7 +48,7 @@ export default function BengaluruLoanSettlementPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "@id": "https://settleloans.in/loan-settlement/bengaluru#service",
         "name": "Bengaluru Loan Settlement & Anti-Harassment Services",
         "description": "Specialized legal representation for Bengaluru residents facing debt crises, offering negotiation at MG Road and protection at Mayo Hall courts.",

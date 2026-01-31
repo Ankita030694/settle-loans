@@ -48,7 +48,7 @@ export default function GurgaonLoanSettlementPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "@id": "https://settleloans.in/loan-settlement/gurgaon#service",
         "name": "Gurgaon Loan Settlement Services",
         "description": "Expert debt settlement and legal assistance for personal loans and credit cards in Gurgaon.",

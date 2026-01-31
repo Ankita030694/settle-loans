@@ -48,7 +48,7 @@ export default function NoidaLoanSettlementPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "@id": "https://settleloans.in/loan-settlement/noida#service",
         "name": "Noida Loan Settlement Services",
         "description": "Expert debt settlement and legal assistance for personal loans and credit cards in Noida and Greater Noida.",

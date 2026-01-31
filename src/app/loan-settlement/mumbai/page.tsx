@@ -48,7 +48,7 @@ export default function MumbaiLoanSettlementPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "@id": "https://settleloans.in/loan-settlement/mumbai#service",
         "name": "Mumbai Loan Settlement & Anti-Harassment Services",
         "description": "Specialized legal representation for Mumbaikars facing debt crises, offering negotiation at BKC headquarters and protection at Lok Adalats.",

@@ -48,7 +48,7 @@ export default function ChennaiLoanSettlementPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "@id": "https://settleloans.in/loan-settlement/chennai#service",
         "name": "Chennai Loan Settlement & Anti-Harassment Services",
         "description": "Specialized legal representation for Chennai residents facing debt crises, offering negotiation at Anna Salai and protection at Lok Adalats.",

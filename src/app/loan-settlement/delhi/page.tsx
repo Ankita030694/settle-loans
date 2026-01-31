@@ -49,7 +49,7 @@ export default function DelhiLoanSettlementPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "@id": "https://settleloans.in/loan-settlement/delhi#service",
         "name": "Delhi Loan Settlement Services",
         "description": "Professional debt negotiation and legal protection services for personal loans and credit cards in Delhi NCR.",

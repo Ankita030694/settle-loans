@@ -48,7 +48,7 @@ export default function PuneLoanSettlementPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
         "@id": "https://settleloans.in/loan-settlement/pune#service",
         "name": "Pune Loan Settlement Services",
         "description": "Expert debt settlement and legal assistance for personal loans and credit cards in Pune.",
