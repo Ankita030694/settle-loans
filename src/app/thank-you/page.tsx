@@ -60,7 +60,7 @@ export default function ThankYouPage() {
           </Link>
           
           <Link 
-            href="tel:+918800000000" // Replace with actual phone if known, or keep generic
+            href="tel:+919821219819"
             className="flex items-center justify-center gap-2 bg-[#1F5EFF] text-white font-bold py-4 px-8 rounded-2xl hover:bg-[#1648CC] transition-all duration-300 group shadow-lg shadow-[#1F5EFF]/20"
           >
             <PhoneCall className="w-5 h-5" />
