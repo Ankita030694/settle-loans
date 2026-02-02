@@ -79,6 +79,24 @@ export default function FAQsPage() {
               "position": 4,
               "name": "Free Consultation",
               "url": "https://settleloans.in/faqs/free-consultation-loan-settlement"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "How to Settle Loan",
+              "url": "https://settleloans.in/faqs/how-to-settle-loan"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "OTS Full Form",
+              "url": "https://settleloans.in/faqs/ots-full-form"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Settle Debt for Less",
+              "url": "https://settleloans.in/faqs/how-to-settle-debt-for-less"
             }
           ]
         }
@@ -192,6 +210,48 @@ export default function FAQsPage() {
                 </p>
                 <div className="text-[#1F5EFF] font-black text-sm flex items-center">
                     Book Now <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+                </div>
+            </Link>
+
+            {/* Card 5 */}
+            <Link href="/faqs/how-to-settle-loan" className="group block bg-[#ffffff] rounded-2xl border border-[#DEDEDE] p-8 shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-1">
+                <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+                </div>
+                <h3 className="text-xl font-black text-black mb-3 group-hover:text-[#1F5EFF] transition-colors">Ultimate How-to-Settle Guide</h3>
+                <p className="text-[#000000]/80 text-sm leading-relaxed mb-4 font-normal">
+                    The most comprehensive guide on negotiating with banks, understanding legal rights, and breaking the debt cycle in 2024-25.
+                </p>
+                <div className="text-[#1F5EFF] font-black text-sm flex items-center">
+                    Master Document <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+                </div>
+            </Link>
+
+            {/* Card 6 */}
+            <Link href="/faqs/ots-full-form" className="group block bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+                <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">
+                    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
+                </div>
+                <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">OTS Full Form & Meaning</h3>
+                <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                    Everything about One Time Settlement: Full form, banking process, RBI guidelines, and how to apply for OTS in 2024-25.
+                </p>
+                <div className="text-[#1F5EFF] font-black text-sm flex items-center">
+                    Learn More <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+                </div>
+            </Link>
+
+            {/* Card 7 */}
+            <Link href="/faqs/how-to-settle-debt-for-less" className="group block bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+                <div className="w-12 h-12 rounded-full bg-rose-50 text-rose-600 flex items-center justify-center mb-6 group-hover:bg-rose-600 group-hover:text-white transition-colors">
+                    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path></svg>
+                </div>
+                <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Settle Debt for Less</h3>
+                <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                    Advanced negotiation strategies to settle credit card and personal loan debts for 30-50% of the total value.
+                </p>
+                <div className="text-[#1F5EFF] font-black text-sm flex items-center">
+                    View Tactics <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
                 </div>
             </Link>
         </div>

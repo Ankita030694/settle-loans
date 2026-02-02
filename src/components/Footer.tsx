@@ -71,6 +71,9 @@ export default function Footer() {
               <Link href="/app-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">App Loan Settlement</Link>
               <Link href="/cheque-bounce" className="text-blue-600 hover:text-blue-800 text-base">Cheque Bounce Resolution</Link>
               <Link href="/credit-score-improvement" className="text-blue-600 hover:text-blue-800 text-base">Credit Score Improvement</Link>
+              <Link href="/faqs/how-to-settle-loan" className="text-blue-600 hover:text-blue-800 text-base">How to Settle Loan</Link>
+              <Link href="/faqs/ots-full-form" className="text-blue-600 hover:text-blue-800 text-base">OTS Full Form</Link>
+              <Link href="/faqs/how-to-settle-debt-for-less" className="text-blue-600 hover:text-blue-800 text-base">Settle Debt for Less</Link>
             </div>
           </div>
 
@@ -84,7 +87,11 @@ export default function Footer() {
                <Link href="/loan-settlement/pune" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Pune</Link>
                <Link href="/loan-settlement/mumbai" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Mumbai</Link>
                <Link href="/loan-settlement/chennai" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Chennai</Link>
-              <Link href="/loan-settlement/bengaluru" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Bengaluru</Link>
+               <Link href="/loan-settlement/bengaluru" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Bengaluru</Link>
+               <Link href="/loan-settlement/karnataka" className="text-blue-600 hover:text-blue-800 text-base">Karnataka</Link>
+               <Link href="/loan-settlement/west-bengal" className="text-blue-600 hover:text-blue-800 text-base">West Bengal</Link>
+               <Link href="/loan-settlement/tamil-nadu" className="text-blue-600 hover:text-blue-800 text-base">Tamil Nadu</Link>
+               <Link href="/loan-settlement/uttar-pradesh" className="text-blue-600 hover:text-blue-800 text-base">Uttar Pradesh</Link>
              </div>
           </div>
 
