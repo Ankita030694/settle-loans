@@ -67,7 +67,18 @@ export default function HowToSettleLoanPage() {
         },
         "datePublished": "2024-02-02",
         "dateModified": "2024-02-02",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/faqs/how-to-settle-loan#webpage" },
+        "mainEntityOfPage": { "@id": "https://settleloans.in/faqs/how-to-settle-loan#webpage" }
+      },
+      {
+        "@type": "Product",
+        "@id": "https://settleloans.in/faqs/how-to-settle-loan#service",
+        "name": "Loan Settlement Guide",
+        "description": "Ultimate guide on how to settle your loan legally and ethically in India.",
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
+        },
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",

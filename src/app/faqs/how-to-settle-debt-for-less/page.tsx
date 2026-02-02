@@ -67,7 +67,18 @@ export default function SettleDebtForLessPage() {
         },
         "datePublished": "2024-02-02",
         "dateModified": "2024-02-02",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/faqs/how-to-settle-debt-for-less#webpage" },
+        "mainEntityOfPage": { "@id": "https://settleloans.in/faqs/how-to-settle-debt-for-less#webpage" }
+      },
+      {
+        "@type": "Product",
+        "@id": "https://settleloans.in/faqs/how-to-settle-debt-for-less#service",
+        "name": "How to Settle Debt Guide",
+        "description": "Expert advice on negotiating with Indian banks to settle debts for significantly lower amounts.",
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
+        },
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",

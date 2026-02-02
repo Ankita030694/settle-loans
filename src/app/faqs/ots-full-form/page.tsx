@@ -67,7 +67,18 @@ export default function OTSFullFormPage() {
         },
         "datePublished": "2024-02-02",
         "dateModified": "2024-02-02",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/faqs/ots-full-form#webpage" },
+        "mainEntityOfPage": { "@id": "https://settleloans.in/faqs/ots-full-form#webpage" }
+      },
+      {
+        "@type": "Product",
+        "@id": "https://settleloans.in/faqs/ots-full-form#service",
+        "name": "One Time Settlement (OTS) Guide",
+        "description": "Comprehensive guide on One Time Settlement (OTS) procedures and RBI guidelines.",
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
+        },
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.8",
