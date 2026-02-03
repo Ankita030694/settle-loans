@@ -39,20 +39,22 @@ const PointerIcon = () => (
 
 const ServiceCard = ({ title, description, pointers, href }: { title: string, description: string, pointers: string[], href?: string }) => (
   <div 
-    className="relative flex-none w-[320px] md:w-[380px] bg-white rounded-[20px] p-6 md:p-8 flex flex-col items-center text-center shadow-[inset_0_0_20.9px_0_rgba(31,94,255,0.53)] backdrop-blur-[7.45px] border border-white/20"
+    className="relative flex-none md:flex-none w-full md:w-[380px] bg-white rounded-[20px] p-4 md:p-8 flex flex-col items-center text-center shadow-[inset_0_0_20.9px_0_rgba(31,94,255,0.53)] backdrop-blur-[7.45px] border border-white/20"
   >
-    <h3 className="text-[#2E2E2E] text-[24px] font-bold leading-none mb-4" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
+    <h3 className="text-[#2E2E2E] text-[18px] md:text-[24px] font-bold leading-none mb-3 md:mb-4" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
       {title}
     </h3>
-    <p className="text-[#2E2E2E] text-[14px] font-normal leading-tight mb-6 min-h-[60px]" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
+    <p className="text-[#2E2E2E] text-[12px] md:text-[14px] font-normal leading-tight mb-4 md:mb-6 min-h-[50px] md:min-h-[60px]" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
       {description}
     </p>
     
     <div className="w-full space-y-3 mb-8">
       {pointers.map((pointer, index) => (
-        <div key={index} className="flex items-center gap-3 text-left">
-          <PointerIcon />
-          <span className="text-[#2E2E2E] text-[14px] font-medium" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
+        <div key={index} className="flex items-center gap-2 md:gap-3 text-left">
+          <div className="scale-75 md:scale-100 origin-left">
+            <PointerIcon />
+          </div>
+          <span className="text-[#2E2E2E] text-[12px] md:text-[14px] font-medium" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
             {pointer}
           </span>
         </div>
@@ -61,7 +63,7 @@ const ServiceCard = ({ title, description, pointers, href }: { title: string, de
 
     <Link 
       href={href || '/contact'}
-      className="mt-auto inline-flex items-center justify-center px-6 py-3 bg-[#2E2E2E] text-white rounded-[10px] text-[18px] font-medium leading-none transition-all duration-300 hover:scale-[1.02] active:scale-[0.98] shadow-[0_1px_6.8px_0_rgba(0,0,0,0.35),inset_0_-4px_4px_0_rgba(255,255,255,0.1),inset_0_4px_4px_0_rgba(255,255,255,0.1)]"
+      className="mt-auto inline-flex items-center justify-center px-4 py-2 md:px-6 md:py-3 bg-[#2E2E2E] text-white rounded-[10px] text-[14px] md:text-[18px] font-medium leading-none transition-all duration-300 hover:scale-[1.02] active:scale-[0.98] shadow-[0_1px_6.8px_0_rgba(0,0,0,0.35),inset_0_-4px_4px_0_rgba(255,255,255,0.1),inset_0_4px_4px_0_rgba(255,255,255,0.1)]"
       style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}
     >
       Enquire Now
@@ -154,7 +156,7 @@ export default function Services() {
         <div className="absolute inset-0 bg-white/40 backdrop-blur-[2px]" />
       </div>
 
-      <div className="relative z-10 max-w-8xl mx-auto px-16">
+      <div className="relative z-10 max-w-8xl mx-auto px-4 md:px-16">
         <div className="text-center mb-12 space-y-4">
           <h2 
             className="text-[#2E2E2E] text-[32px] md:text-[60px] font-bold leading-[1] max-w-4xl mx-auto"
@@ -170,10 +172,9 @@ export default function Services() {
           </p>
         </div>
 
-        {/* Horizontal Scroll Container */}
         <div className="relative">
           <div 
-            className="flex gap-6 overflow-x-auto pb-8 snap-x snap-mandatory no-scrollbar"
+            className="grid grid-cols-1 gap-6 md:flex md:gap-6 md:overflow-x-auto pb-8 md:snap-x md:snap-mandatory no-scrollbar"
             style={{ 
               scrollbarWidth: 'none', 
               msOverflowStyle: 'none',
@@ -188,7 +189,7 @@ export default function Services() {
             `}</style>
             
             {services.map((service, index) => (
-              <div key={index} className="snap-center">
+              <div key={index} className="md:snap-center">
                 <ServiceCard 
                   title={service.title}
                   description={service.description}
