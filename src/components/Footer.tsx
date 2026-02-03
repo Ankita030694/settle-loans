@@ -11,7 +11,7 @@ export default function Footer() {
           
           {/* Column 1: Logo, Description, Contact Cards */}
           <div className="flex flex-col gap-6 w-full lg:w-[350px] shrink-0">
-            <div className="relative w-36 h-36 mb-5">
+            <div className="relative w-36 h-36">
                <Image 
                   src="/logo/logo.svg" 
                   alt="SettleLoans Logo" 
@@ -19,10 +19,7 @@ export default function Footer() {
                   className="object-contain object-left"
                />
             </div>
-            <p className="text-neutral-600 text-sm leading-relaxed font-normal -mt-10">
-              SettleLoans is a digital debt resolution platform that helps individuals and businesses negotiate and settle loans with banks and lenders, simplifying the legal and financial process while reducing recovery stress through transparent, ethical, and professional support across credit cards, personal, business, vehicle, and secured loans.
-            </p>
-
+          
             <div className="flex flex-col gap-4 mt-4">
               {/* Email Card */}
               <a href="mailto:info@settleloan.in" className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-md transition-shadow group">
@@ -71,27 +68,21 @@ export default function Footer() {
               <Link href="/app-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">App Loan Settlement</Link>
               <Link href="/cheque-bounce" className="text-blue-600 hover:text-blue-800 text-base">Cheque Bounce Resolution</Link>
               <Link href="/credit-score-improvement" className="text-blue-600 hover:text-blue-800 text-base">Credit Score Improvement</Link>
-              <Link href="/faqs/how-to-settle-loan" className="text-blue-600 hover:text-blue-800 text-base">How to Settle Loan</Link>
-              <Link href="/faqs/ots-full-form" className="text-blue-600 hover:text-blue-800 text-base">OTS Full Form</Link>
-              <Link href="/faqs/how-to-settle-debt-for-less" className="text-blue-600 hover:text-blue-800 text-base">Settle Debt for Less</Link>
+              
             </div>
           </div>
 
-          {/* Column 3: Our Offices */}
+          {/* Column 3: FAQs */}
           <div className="flex flex-col gap-4 w-full lg:w-auto">
-             <h3 className="text-xl font-bold text-gray-900 mb-2">Our Offices</h3>
+             <h3 className="text-xl font-bold text-gray-900 mb-2">FAQs</h3>
              <div className="flex flex-col gap-3">
-               <Link href="/loan-settlement/delhi" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Delhi</Link>
-               <Link href="/loan-settlement/noida" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Noida</Link>
-               <Link href="/loan-settlement/gurgaon" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Gurugram</Link>
-               <Link href="/loan-settlement/pune" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Pune</Link>
-               <Link href="/loan-settlement/mumbai" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Mumbai</Link>
-               <Link href="/loan-settlement/chennai" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Chennai</Link>
-               <Link href="/loan-settlement/bengaluru" className="text-blue-600 hover:text-blue-800 text-base cursor-default">Bengaluru</Link>
-               <Link href="/loan-settlement/karnataka" className="text-blue-600 hover:text-blue-800 text-base">Karnataka</Link>
-               <Link href="/loan-settlement/west-bengal" className="text-blue-600 hover:text-blue-800 text-base">West Bengal</Link>
-               <Link href="/loan-settlement/tamil-nadu" className="text-blue-600 hover:text-blue-800 text-base">Tamil Nadu</Link>
-               <Link href="/loan-settlement/uttar-pradesh" className="text-blue-600 hover:text-blue-800 text-base">Uttar Pradesh</Link>
+               <Link href="/faqs/how-to-settle-loan" className="text-blue-600 hover:text-blue-800 text-base">How to Settle Loan</Link>
+               <Link href="/faqs/ots-full-form" className="text-blue-600 hover:text-blue-800 text-base">OTS Full Form</Link>
+               <Link href="/faqs/how-to-settle-debt-for-less" className="text-blue-600 hover:text-blue-800 text-base">Settle Debt for Less</Link>
+               <Link href="/faqs/can-i-get-loan-after-settlement" className="text-blue-600 hover:text-blue-800 text-base">Loan After Settlement</Link>
+               <Link href="/faqs/eligibility-checker-for-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Eligibility Checker</Link>
+               <Link href="/faqs/free-consultation-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Free Consultation</Link>
+               <Link href="/faqs/loan-settlement-fees" className="text-blue-600 hover:text-blue-800 text-base">Settlement Fees</Link>
              </div>
           </div>
 
@@ -101,10 +92,80 @@ export default function Footer() {
             <div className="flex flex-col gap-3">
               <Link href="/terms-and-conditions" className='text-blue-600 hover:text-blue-800 text-base'>Terms & Conditions</Link>
               <Link href="/privacy-policy" className='text-blue-600 hover:text-blue-800 text-base'>Privacy Policy</Link>
-
             </div>
           </div>
 
+        </div>
+
+        {/* States Grid Section */}
+        <div className="w-full mt-16 pt-12 border-t border-gray-100">
+          <h3 className="text-xl font-bold text-gray-900 mb-8 uppercase tracking-wider text-sm opacity-70">States & Cities We Serve</h3>
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-x-4 gap-y-3">
+            {[
+              { name: "Andaman & Nicobar", href: "/loan-settlement/andaman-and-nicobar" },
+              { name: "Andhra Pradesh", href: "/loan-settlement/andhra-pradesh" },
+              { name: "Arunachal Pradesh", href: "/loan-settlement/arunachal-pradesh" },
+              { name: "Assam", href: "/loan-settlement/assam" },
+              { name: "Bengaluru", href: "/loan-settlement/bengaluru" },
+              { name: "Bihar", href: "/loan-settlement/bihar" },
+              { name: "Chandigarh", href: "/loan-settlement/chandigarh" },
+              { name: "Chhattisgarh", href: "/loan-settlement/chhattisgarh" },
+              { name: "Chennai", href: "/loan-settlement/chennai" },
+              { name: "Dadra & Nagar Haveli", href: null },
+              { name: "Daman & Diu", href: null },
+              { name: "Delhi", href: "/loan-settlement/delhi" },
+              { name: "Goa", href: "/loan-settlement/goa" },
+              { name: "Gujarat", href: "/loan-settlement/gujarat" },
+              { name: "Gurgaon", href: "/loan-settlement/gurgaon" },
+              { name: "Haryana", href: "/loan-settlement/haryana" },
+              { name: "Himachal Pradesh", href: "/loan-settlement/himachal-pradesh" },
+              { name: "Jammu & Kashmir", href: null },
+              { name: "Jharkhand", href: "/loan-settlement/jharkhand" },
+              { name: "Karnataka", href: "/loan-settlement/karnataka" },
+              { name: "Kerala", href: "/loan-settlement/kerala" },
+              { name: "Ladakh", href: null },
+              { name: "Lakshadweep", href: null },
+              { name: "Madhya Pradesh", href: "/loan-settlement/madhya-pradesh" },
+              { name: "Maharashtra", href: "/loan-settlement/maharashtra" },
+              { name: "Manipur", href: null },
+              { name: "Meghalaya", href: "/loan-settlement/meghalaya" },
+              { name: "Mizoram", href: null },
+              { name: "Mumbai", href: "/loan-settlement/mumbai" },
+              { name: "Nagaland", href: null },
+              { name: "Noida", href: "/loan-settlement/noida" },
+              { name: "Noida", href: "/loan-settlement/noida" },
+              { name: "Odisha", href: "/loan-settlement/odisha" },
+              { name: "Puducherry", href: null },
+              { name: "Puducherry", href: null },
+              { name: "Punjab", href: "/loan-settlement/punjab" },
+              { name: "Pune", href: "/loan-settlement/pune" },
+              { name: "Rajasthan", href: "/loan-settlement/rajasthan" },
+              { name: "Sikkim", href: null },
+              { name: "Tamil Nadu", href: "/loan-settlement/tamil-nadu" },
+              { name: "Telangana", href: "/loan-settlement/telangana" },
+              { name: "Tripura", href: null },
+              { name: "Uttar Pradesh", href: "/loan-settlement/uttar-pradesh" },
+              { name: "Uttarakhand", href: "/loan-settlement/uttarakhand" },
+              { name: "West Bengal", href: "/loan-settlement/west-bengal" }
+            ].sort((a, b) => a.name.localeCompare(b.name)).map((state) => (
+              state.href ? (
+                <Link 
+                  key={state.name} 
+                  href={state.href}
+                  className="text-blue-600 hover:text-blue-800 font-bold text-sm transition-colors duration-200 py-1"
+                >
+                  {state.name}
+                </Link>
+              ) : (
+                <span 
+                  key={state.name} 
+                  className="text-gray-400 text-sm py-1 font-normal cursor-default"
+                >
+                  {state.name}
+                </span>
+              )
+            ))}
+          </div>
         </div>
 
         <div className="w-full bg-gray-200 h-px mt-12 mb-6"></div>
