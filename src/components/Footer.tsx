@@ -31,7 +31,7 @@ export default function Footer() {
                  </div>
                  <FontAwesomeIcon icon={faArrowRight} className="w-4 h-4 text-gray-400 group-hover:translate-x-1 transition-transform" />
               </a>
-
+ 
               {/* Phone Card */}
               <a href="tel:+919821219819" className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-md transition-shadow group">
                  <div className="flex items-center gap-3">
@@ -42,7 +42,7 @@ export default function Footer() {
                  </div>
                  <FontAwesomeIcon icon={faArrowRight} className="w-4 h-4 text-gray-400 group-hover:translate-x-1 transition-transform" />
               </a>
-
+ 
               {/* Address Card */}
               <a href="https://maps.app.goo.gl/Uqcz1TTYyiqjcQC7A" target="_blank" rel="noopener noreferrer" className="flex items-start gap-3 p-3 bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-md transition-shadow">
                  <div className="text-blue-500 bg-blue-50 p-2 rounded-lg shrink-0 mt-0.5">
@@ -54,7 +54,7 @@ export default function Footer() {
               </a>
             </div>
           </div>
-
+ 
           {/* Column 2: Services */}
           <div className="flex flex-col gap-4 w-full lg:w-auto">
             <h3 className="text-xl font-bold text-gray-900 mb-2">Services</h3>
@@ -71,7 +71,7 @@ export default function Footer() {
               
             </div>
           </div>
-
+ 
           {/* Column 3: FAQs */}
           <div className="flex flex-col gap-4 w-full lg:w-auto">
              <h3 className="text-xl font-bold text-gray-900 mb-2">FAQs</h3>
@@ -83,11 +83,14 @@ export default function Footer() {
                <Link href="/faqs/eligibility-checker-for-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Eligibility Checker</Link>
                <Link href="/faqs/free-consultation-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Free Consultation</Link>
                <Link href="/faqs/loan-settlement-fees" className="text-blue-600 hover:text-blue-800 text-base">Settlement Fees</Link>
-              <Link href="/ignoring-calls-of-recovery-agent" className='text-blue-600 hover:text-blue-800 text-base'>Ignoring Recovery Calls?</Link>
-
-             </div>
+               <Link href="/dont-have-job-cant-pay-emi" className="text-blue-600 hover:text-blue-800 text-base">Don't Have Job Can't Pay EMI</Link>
+               <Link href="/loan-settlement-with-iarc" className="text-blue-600 hover:text-blue-800 text-base">Loan Settlement with IARC</Link>
+               <Link href="/how-to-manage-loan-with-no-job" className="text-blue-600 hover:text-blue-800 text-base">Manage Loan With No Job</Link>
+                <Link href="/ignoring-calls-of-recovery-agent" className='text-blue-600 hover:text-blue-800 text-base'>Ignoring Recovery Calls?</Link>
+                <Link href="/loan-settlement-after-settlement-failed" className='text-blue-600 hover:text-blue-800 text-base'>Settlement Failed?</Link>
+              </div>
           </div>
-
+ 
           {/* Column 4: Legal & Compliance */}
           <div className="flex flex-col gap-4 w-full lg:w-auto">
             <h3 className="text-xl font-bold text-gray-900 mb-2">Legal & Compliance</h3>
@@ -96,9 +99,9 @@ export default function Footer() {
               <Link href="/privacy-policy" className='text-blue-600 hover:text-blue-800 text-base'>Privacy Policy</Link>
             </div>
           </div>
-
+ 
         </div>
-
+ 
         {/* States Grid Section */}
         <div className="w-full mt-16 pt-12 border-t border-gray-100">
           <h3 className="text-xl font-bold text-gray-900 mb-8 uppercase tracking-wider text-sm opacity-70">States & Cities We Serve</h3>
@@ -169,9 +172,9 @@ export default function Footer() {
             ))}
           </div>
         </div>
-
+ 
         <div className="w-full bg-gray-200 h-px mt-12 mb-6"></div>
-
+ 
         <p className="text-center text-neutral-500 text-sm">
           © 2022 SettleLoans. All rights reserved.
         </p>
