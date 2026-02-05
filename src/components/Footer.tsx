@@ -83,6 +83,8 @@ export default function Footer() {
                <Link href="/faqs/eligibility-checker-for-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Eligibility Checker</Link>
                <Link href="/faqs/free-consultation-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Free Consultation</Link>
                <Link href="/faqs/loan-settlement-fees" className="text-blue-600 hover:text-blue-800 text-base">Settlement Fees</Link>
+              <Link href="/ignoring-calls-of-recovery-agent" className='text-blue-600 hover:text-blue-800 text-base'>Ignoring Recovery Calls?</Link>
+
              </div>
           </div>
 

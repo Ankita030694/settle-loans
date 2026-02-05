@@ -244,7 +244,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
             changeFrequency: 'weekly',
             priority: 0.8,
         },
-        // Individual Services
+        {
+            url: `${baseUrl}/ignoring-calls-of-recovery-agent`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
         {
             url: `${baseUrl}/services/personal-loan-settlement`,
             lastModified: new Date(),
