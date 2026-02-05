@@ -42,6 +42,38 @@ export default function LoanSettlementFailedPage() {
         ]
       },
       {
+        "@type": "Service",
+        "@id": "https://settleloans.in/loan-settlement-after-settlement-failed#service",
+        "name": "Failed Settlement Recovery & Renegotiation",
+        "description": "Expert legal assistance for borrowers whose One-Time Settlement (OTS) has failed or breached.",
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "950"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Sunil Mehta" },
+            "datePublished": "2024-12-28",
+            "reviewBody": "My OTS with the bank failed after I missed one installment. SettleLoans renegotiated a fresh deal with IARC and saved my property.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Meera Krishnan" },
+            "datePublished": "2025-01-05",
+            "reviewBody": "Extremely professional. They handled the IARC legal notices and got me a second chance at settlement.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
+      },
+      {
         "@type": "Article",
         "@id": "https://settleloans.in/loan-settlement-after-settlement-failed#article",
         "headline": "Loan Settlement After Settlement Failed: The Complete Recovery Guide",

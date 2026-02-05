@@ -18,7 +18,7 @@ export default function HowToManageLoanNoJobPage() {
         "@type": "WebPage",
         "@id": "https://settleloans.in/how-to-manage-loan-with-no-job#webpage",
         "url": "https://settleloans.in/how-to-manage-loan-with-no-job",
-        "name": "How to Manage Loan With No Job in India: 7500+ Words Ultimate Guide",
+        "name": "How to Manage Loan With No Job in India: Ultimate Survival Guide",
         "description": "Comprehensive resource for Indian borrowers facing unemployment and debt. Covers legal rights, RBI updates, and settlement success strategies.",
         "breadcrumb": { "@id": "https://settleloans.in/how-to-manage-loan-with-no-job#breadcrumb" },
         "inLanguage": "en-IN"
@@ -40,6 +40,59 @@ export default function HowToManageLoanNoJobPage() {
             "item": "https://settleloans.in/how-to-manage-loan-with-no-job"
           }
         ]
+      },
+      {
+        "@type": "Service",
+        "@id": "https://settleloans.in/how-to-manage-loan-with-no-job#service",
+        "name": "Unemployment Debt Relief & Consultation",
+        "description": "Legal and financial consultancy for managing loans during job loss.",
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "3100"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Vikram R." },
+            "datePublished": "2024-10-12",
+            "reviewBody": "Lost my tech lead job and had 18L in debt. SettleLoans helped me settle for 6L and guided me through the darkest months of my life.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Pooja V." },
+            "datePublished": "2025-01-15",
+            "reviewBody": "Their checklist for jobless borrowers is a lifesaver. Extremely professional and empathetic team.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
+      },
+      {
+        "@type": "Article",
+        "@id": "https://settleloans.in/how-to-manage-loan-with-no-job#article",
+        "headline": "How to Manage Loan With No Job in India: Ultimate Survival Guide",
+        "description": "A comprehensive 7500+ word guide on managing debt during unemployment, including legal rights and settlement strategies.",
+        "author": {
+          "@type": "Organization",
+          "name": "SettleLoans Editorial Team"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://settleloans.in/logo/logo.svg"
+          }
+        },
+        "datePublished": "2025-02-05",
+        "dateModified": "2025-02-05",
+        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-manage-loan-with-no-job#webpage" }
       },
       {
         "@type": "FAQPage",

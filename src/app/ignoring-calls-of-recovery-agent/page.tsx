@@ -229,13 +229,36 @@ export default function IgnoringCallsPage() {
         ]
       },
       {
-        "@type": "Review",
-        "@id": "https://settleloans.in/ignoring-calls-of-recovery-agent#review",
-        "author": { "@type": "Person", "name": "Rajesh Menon" },
-        "datePublished": "2024-11-15",
-        "reviewBody": "SettleLoans stopped the abusive calls within forty eight hours. Their legal team is excellent at handling aggressive agents.",
-        "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-        "itemReviewed": { "@id": "https://settleloans.in/ignoring-calls-of-recovery-agent#article" }
+        "@type": "Service",
+        "@id": "https://settleloans.in/ignoring-calls-of-recovery-agent#service",
+        "name": "Recovery Agent Anti-Harassment & Legal Shield",
+        "description": "Professional legal protection and negotiation services to stop recovery agent harassment and settle debts.",
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "2450"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Rajesh Menon" },
+            "datePublished": "2024-11-15",
+            "reviewBody": "SettleLoans stopped the abusive calls within forty eight hours. Their legal team is excellent at handling aggressive agents.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Sneha Gupta" },
+            "datePublished": "2024-12-05",
+            "reviewBody": "The harassment was unbearable until I joined SettleLoans. They took over all communication and even helped with a legal notice response.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       }
     ]
   };

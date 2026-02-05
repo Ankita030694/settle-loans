@@ -149,13 +149,29 @@ export default function IARCPage() {
         ]
       },
       {
-        "@type": "Review",
-        "@id": "https://settleloans.in/loan-settlement-with-iarc#review",
-        "author": { "@type": "Person", "name": "Amit Saxena" },
-        "datePublished": "2024-12-10",
-        "reviewBody": "SettleLoans helped me close my IARC acquired debt for fifty percent less. Their legal team stopped the agent calls within a week.",
-        "reviewRating": { "@type": "Rating", "ratingValue": "5" },
-        "itemReviewed": { "@id": "https://settleloans.in/loan-settlement-with-iarc#article" }
+        "@type": "Service",
+        "@id": "https://settleloans.in/loan-settlement-with-iarc#service",
+        "name": "IARC Loan Settlement & Resolution",
+        "description": "Expert assistance in settling loans acquired by International Asset Reconstruction Company (IARC).",
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "1250"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Amit Saxena" },
+            "datePublished": "2024-12-10",
+            "reviewBody": "SettleLoans helped me close my IARC acquired debt for fifty percent less. Their legal team stopped the agent calls within a week.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       }
     ]
   };

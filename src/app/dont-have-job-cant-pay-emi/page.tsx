@@ -42,9 +42,9 @@ export default function JobLossLoanPage() {
         ]
       },
       {
-        "@type": "Product",
+        "@type": "Service",
         "@id": "https://settleloans.in/dont-have-job-cant-pay-emi#service",
-        "name": "Job Loss Debt Relief Services",
+        "name": "Job Loss Debt Relief & Settlement",
         "description": "Professional legal and financial assistance for settling loans after job loss.",
         "provider": {
           "@type": "Organization",
