@@ -149,8 +149,8 @@ export default function IARCPage() {
         ]
       },
       {
-        "@type": "Service",
-        "@id": "https://settleloans.in/loan-settlement-with-iarc#service",
+        "@type": "Product",
+        "@id": "https://settleloans.in/loan-settlement-with-iarc#product",
         "name": "IARC Loan Settlement & Resolution",
         "description": "Expert assistance in settling loans acquired by International Asset Reconstruction Company (IARC).",
         "provider": {

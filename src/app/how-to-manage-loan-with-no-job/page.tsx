@@ -42,8 +42,8 @@ export default function HowToManageLoanNoJobPage() {
         ]
       },
       {
-        "@type": "Service",
-        "@id": "https://settleloans.in/how-to-manage-loan-with-no-job#service",
+        "@type": "Product",
+        "@id": "https://settleloans.in/how-to-manage-loan-with-no-job#product",
         "name": "Unemployment Debt Relief & Consultation",
         "description": "Legal and financial consultancy for managing loans during job loss.",
         "provider": {

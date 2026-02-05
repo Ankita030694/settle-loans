@@ -229,8 +229,8 @@ export default function IgnoringCallsPage() {
         ]
       },
       {
-        "@type": "Service",
-        "@id": "https://settleloans.in/ignoring-calls-of-recovery-agent#service",
+        "@type": "Product",
+        "@id": "https://settleloans.in/ignoring-calls-of-recovery-agent#product",
         "name": "Recovery Agent Anti-Harassment & Legal Shield",
         "description": "Professional legal protection and negotiation services to stop recovery agent harassment and settle debts.",
         "provider": {

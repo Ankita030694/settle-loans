@@ -42,8 +42,8 @@ export default function LoanSettlementFailedPage() {
         ]
       },
       {
-        "@type": "Service",
-        "@id": "https://settleloans.in/loan-settlement-after-settlement-failed#service",
+        "@type": "Product",
+        "@id": "https://settleloans.in/loan-settlement-after-settlement-failed#product",
         "name": "Failed Settlement Recovery & Renegotiation",
         "description": "Expert legal assistance for borrowers whose One-Time Settlement (OTS) has failed or breached.",
         "provider": {
