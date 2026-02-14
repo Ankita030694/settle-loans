@@ -2,6 +2,7 @@ import Hero from "@/components/Hero";
 import SettlementLetters from "@/components/SettlementLetters";
 import ProcessSection from "@/components/ProcessSection";
 import Services from "@/components/Services";
+import BankGrid from "@/components/BankGrid";
 import FAQ from "@/components/FAQ";
 import ContactForm from "@/components/ContactForm";
 
@@ -19,6 +20,7 @@ export default function Home() {
         <SettlementLetters />
         <ProcessSection />
         <Services />
+        <BankGrid />
         <FAQ/>
 
         <ContactForm />

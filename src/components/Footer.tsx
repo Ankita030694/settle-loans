@@ -123,6 +123,8 @@ export default function Footer() {
               { name: "Gujarat", href: "/loan-settlement/gujarat" },
               { name: "Gurgaon", href: "/loan-settlement/gurgaon" },
               { name: "Haryana", href: "/loan-settlement/haryana" },
+              { name: "HDFC Bank Settlement", href: "/loan-settlement/hdfc-bank" },
+              { name: "ICICI Bank Settlement", href: "/loan-settlement/icici-bank" },
               { name: "Himachal Pradesh", href: "/loan-settlement/himachal-pradesh" },
               { name: "Jammu & Kashmir", href: null },
               { name: "Jharkhand", href: "/loan-settlement/jharkhand" },
