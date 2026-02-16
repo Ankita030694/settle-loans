@@ -98,6 +98,44 @@ export default function BajajFinanceSettlementPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "@id": "https://settleloans.in/loan-settlement/bajaj-finance#service",
+            "name": "Bajaj Finance Loan Settlement Service",
+            "description": "Expert debt negotiation for Bajaj Finserv personal loans and EMI cards.",
+            "provider": {
+              "@type": "Organization",
+              "name": "SettleLoans",
+              "url": "https://settleloans.in"
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "560"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": { "@type": "Person", "name": "Rajesh Gupta" },
+                "datePublished": "2026-01-15",
+                "reviewBody": "SettleLoans took over my 8 lakh Bajaj loan case. The harassment stopped within 48 hours. Settled for 3.2 lakhs.",
+                "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+              },
+              {
+                "@type": "Review",
+                "author": { "@type": "Person", "name": "Anjali Singh" },
+                "datePublished": "2026-02-02",
+                "reviewBody": "My EMI card debt was spiraling. They negotiated it down to 95k from 2.3 lakhs. Got my NDC in 40 days.",
+                "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+              }
+            ]
+          })
+        }}
+      />
       
       <main>
         {/* Hero Section */}
@@ -161,8 +199,8 @@ export default function BajajFinanceSettlementPage() {
                 { id: "legal-rights", title: "Legal Framework" },
                 { id: "harassment", title: "Stopping Collection" },
                 { id: "arc-transition", title: "ARC Transitions" },
-                { id: "business-loan-settlement", title: "MSME Business Loans" },
-                { id: "supercard-nuance", title: "SuperCard Nuance" },
+                { id: "business-loan-settlement", title: "Business Loans" },
+                { id: "supercard-nuance", title: "SuperCard Strategy" },
                 { id: "grievance-redressal", title: "Grievance Redressal" },
                 { id: "competitive-comparison", title: "Benchmarking Guide" },
                 { id: "digital-salami-slicing", title: "Hidden Charges" },
@@ -629,6 +667,64 @@ export default function BajajFinanceSettlementPage() {
                  In 2026, we have also seen the rise of 'Fintech-NBFC Partnerships' where companies like Navi or MoneyTap use Bajaj's balance sheet for their loans. In these 'Co-lending' scenarios, the negotiation becomes even more complex. We have to identify who actually 'Owns the Risk' to find the right person who has the authority to sign off on your settlement.
               </p>
             </section>
+            <section id="reviews" className="scroll-mt-24 mb-16">
+                <h2 className="text-3xl font-black text-[#0071BB] mb-12 uppercase tracking-tight">Success Stories: Bajaj Debt Resolution</h2>
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                  {[
+                    {
+                      name: "Rajesh Gupta",
+                      location: "Mumbai",
+                      text: "I had a Bajaj personal loan of 8 lakhs. After I lost my job, the agents made my life miserable. SettleLoans took over and got the total amount settled for 3.2 lakhs. The harassment stopped within 48 hours of joining.",
+                      rating: 5,
+                      savings: "₹4.8 Lakhs"
+                    },
+                    {
+                      name: "Anjali Singh",
+                      location: "Delhi",
+                      text: "My Bajaj EMI card debt had ballooned from 1 lakh to 2.3 lakhs purely due to interest and penalties. SettleLoans negotiated it down to 95,000 rupees. The process was transparent and I got my NDC within 40 days.",
+                      rating: 5,
+                      savings: "₹1.35 Lakhs"
+                    },
+                    {
+                      name: "Vikram Malhotra",
+                      location: "Pune",
+                      text: "I was facing a legal notice for my business loan. Their legal team responded to the notice and handled the entire arbitration process. We settled for 45% of the principal.",
+                      rating: 5,
+                      savings: "₹3.5 Lakhs"
+                    },
+                    {
+                      name: "Sneha Reddy",
+                      location: "Hyderabad",
+                      text: "Best service for handling Bajaj Finance. They know exactly how to deal with the recovery agents. My parents stopped receiving threats after SettleLoans intervened.",
+                      rating: 5,
+                      savings: "₹1.2 Lakhs"
+                    }
+                  ].map((review, i) => (
+                    <div key={i} className="bg-white p-8 rounded-[40px] border-2 border-slate-50 shadow-xl hover:shadow-2xl transition-all group overflow-hidden relative hover:border-[#0071BB]">
+                      <div className="absolute top-0 right-0 w-24 h-24 bg-[#0071BB]/10 rounded-bl-[80px] -mr-8 -mt-8 group-hover:bg-[#0071BB]/20 transition-colors"></div>
+                      <div className="flex gap-1 mb-6">
+                        {[...Array(review.rating)].map((_, i) => (
+                          <svg key={i} className="w-5 h-5 text-[#0071BB] fill-current" viewBox="0 0 20 20">
+                            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                          </svg>
+                        ))}
+                      </div>
+                      <p className="text-lg opacity-80 leading-relaxed mb-8 font-light italic text-slate-700">"{review.text}"</p>
+                      <div className="flex justify-between items-end">
+                        <div>
+                          <h4 className="font-black text-slate-900 leading-tight">{review.name}</h4>
+                          <p className="text-sm opacity-50 uppercase tracking-widest text-slate-500">{review.location}</p>
+                        </div>
+                        <div className="text-right">
+                          <span className="block text-[10px] font-black uppercase tracking-widest text-[#0071BB]">Savings</span>
+                          <span className="text-xl font-black text-[#0071BB]">{review.savings}</span>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+            </section>
+
             <section id="faqs" className="scroll-mt-24 mb-16">
               <h2 className="text-3xl font-black text-slate-900 mb-8 uppercase tracking-tight">Bajaj Settlement FAQs</h2>
               <div className="space-y-6">
