@@ -41,9 +41,39 @@ const banks = [
   },
   {
     name: "RBL Bank",
-    logo: "/banks/63.svg",
+    logo: "/banks/83.svg",
     link: "/loan-settlement/rbl-bank",
     description: "Professional settlement solutions for RBL Bank debt."
+  },
+  {
+    name: "YES Bank",
+    logo: "/banks/65.svg",
+    link: "/loan-settlement/yes-bank",
+    description: "Expert guidance for YES Bank and J.C. Flowers ARC settlements."
+  },
+  {
+    name: "IndusInd Bank",
+    logo: "/banks/46.svg",
+    link: "/loan-settlement/indusind-bank",
+    description: "Navigate IndusInd personal loans and credit card settlements."
+  },
+  {
+    name: "Kisetsu Saison Finance",
+    logo: "/banks/kisetsu.png",
+    link: "/loan-settlement/kisetsu-saison-finance",
+    description: "Specialized OTS strategies for Credit Saison India app loans."
+  },
+  {
+    name: "Bajaj Finance",
+    logo: "/banks/bajaj-finance.png",
+    link: "/loan-settlement/bajaj-finance",
+    description: "Settle Bajaj Finserv personal loans and SuperCard dues."
+  },
+  {
+    name: "Fibe",
+    logo: "/banks/fibe.png",
+    link: "/loan-settlement/fibe",
+    description: "Expert settlement for Fibe (EarlySalary) personal loans."
   }
 ];
 
@@ -72,7 +102,7 @@ export default function BankGrid() {
             >
               <div className="absolute top-0 right-0 w-24 h-24 bg-[#004c94]/5 rounded-bl-full transform translate-x-8 -translate-y-8 group-hover:translate-x-4 group-hover:-translate-y-4 transition-transform duration-500"></div>
               
-              <div className="h-16 w-full flex items-center justify-center mb-8 grayscale group-hover:grayscale-0 transition-all duration-500 transform group-hover:scale-110">
+              <div className="h-16 w-full flex items-center justify-center mb-8 transition-all duration-500 transform group-hover:scale-110">
                 <img 
                   src={bank.logo} 
                   alt={bank.name} 
