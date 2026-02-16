@@ -220,6 +220,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
             changeFrequency: 'weekly',
             priority: 0.9,
         },
+        {
+            url: `${baseUrl}/loan-settlement/rbl-bank`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
 
         {
             url: `${baseUrl}/loan-settlement/chhattisgarh`,

@@ -38,6 +38,12 @@ const banks = [
     logo: "/banks/42.svg",
     link: "/loan-settlement/idfc-first-bank",
     description: "Strategic settlement for IDFC personal loans."
+  },
+  {
+    name: "RBL Bank",
+    logo: "/banks/63.svg",
+    link: "/loan-settlement/rbl-bank",
+    description: "Professional settlement solutions for RBL Bank debt."
   }
 ];
 
