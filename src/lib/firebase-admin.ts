@@ -20,9 +20,9 @@ if (!admin.apps.length) {
             console.log('Firebase Admin initialized with environment variables');
         } else {
             // Local development fallback
-            const envPath = path.resolve(process.cwd(), '../.env');
-            if (fs.existsSync(envPath)) {
-                const serviceAccount = JSON.parse(fs.readFileSync(envPath, 'utf8'));
+            const serviceAccountPath = path.resolve(process.cwd(), '../service-account.json');
+            if (fs.existsSync(serviceAccountPath)) {
+                const serviceAccount = JSON.parse(fs.readFileSync(serviceAccountPath, 'utf8'));
                 admin.initializeApp({
                     credential: admin.credential.cert(serviceAccount)
                 });

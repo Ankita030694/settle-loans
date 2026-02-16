@@ -4,6 +4,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import Footer from "@/components/Footer";
 import WhatsAppWidget from "@/components/WhatsAppWidget";
+import GlobalPopupForm from "@/components/GlobalPopupForm";
 import { Analytics } from "@vercel/analytics/next";
 import Script from "next/script";
 
@@ -126,6 +127,7 @@ export default function RootLayout({
            {children}
         </div>
         <Footer />
+        <GlobalPopupForm />
         <WhatsAppWidget />
         <Analytics />
       </body>
