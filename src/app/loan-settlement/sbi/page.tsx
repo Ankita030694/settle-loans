@@ -157,20 +157,43 @@ export default function SBILoanSettlementPage() {
         ]
       },
       {
-        "@type": "Review",
-        "itemReviewed": {
-          "@type": "Service",
-          "name": "SBI Loan Settlement Service"
+        "@type": "Product",
+        "@id": "https://settleloans.in/loan-settlement/sbi#service",
+        "name": "SBI Loan Settlement Service",
+        "description": "Professional debt negotiation for SBI personal loans and credit cards.",
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
         },
-        "reviewRating": {
-          "@type": "Rating",
+        "aggregateRating": {
+          "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "bestRating": "5"
+          "reviewCount": "920"
         },
-        "author": {
-          "@type": "Person",
-          "name": "Amit Sharma"
-        }
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Amit Sharma" },
+            "datePublished": "2024-01-15",
+            "reviewBody": "SettleLoans helped me settle my SBI credit card debt of 6 lakhs for just 2.1 lakhs. The harassment stopped immediately.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Deepak Goel" },
+            "datePublished": "2024-02-10",
+            "reviewBody": "Professional handling of my SBI personal loan. They saved me from a massive debt cycle. Highly recommended.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Meera Iyer" },
+            "datePublished": "2024-01-25",
+            "reviewBody": "Excellent service. They negotiated with SBI bank and got me a 60% waiver on my outstanding dues.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       }
     ]
   };
