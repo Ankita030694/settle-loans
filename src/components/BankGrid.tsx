@@ -41,13 +41,13 @@ const banks = [
   },
   {
     name: "RBL Bank",
-    logo: "/banks/83.svg",
+    logo: "/banks/65.svg",
     link: "/loan-settlement/rbl-bank",
     description: "Professional settlement solutions for RBL Bank debt."
   },
   {
     name: "YES Bank",
-    logo: "/banks/65.svg",
+    logo: "/banks/83.svg",
     link: "/loan-settlement/yes-bank",
     description: "Expert guidance for YES Bank and J.C. Flowers ARC settlements."
   },
