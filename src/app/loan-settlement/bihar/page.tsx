@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Professional Loan Settlement Bihar | 3500+ Word Legal Guide - SettleLoans",
+  title: "Loan Settlement in Bihar | 3500+ Word Legal Guide",
   description: "Comprehensive 3500+ word guide to loan settlement in Bihar. Legal protection under Bihar Money Lenders Act, BSLSA Lok Adalat procedures, and debt recovery defenses in Patna & Gaya.",
   alternates: {
     canonical: "https://settleloans.in/loan-settlement/bihar",

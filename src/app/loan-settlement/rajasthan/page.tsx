@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Expert Loan Settlement Services in Rajasthan | 40-70% Waiver Experts - SettleLoans",
+  title: "Legal Loan Settlement Services in Rajasthan | 40-70% Debt Waiver",
   description: "Struggling with bank debts in Jaipur, Jodhpur, or Udaipur? Get professional legal representation, stop recovery agent harassment, and settle your credit cards and personal loans with up to 70% waiver. Expert Lok Adalat guidance for Rajasthan residents.",
   alternates: {
     canonical: "https://settleloans.in/loan-settlement/rajasthan",

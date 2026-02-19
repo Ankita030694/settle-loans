@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Professional Loan Settlement Andhra Pradesh | 3500+ Word Legal Guide - SettleLoans",
+  title: "Loan Settlement in Andhra Pradesh | 3500+ Word Legal Guide",
   description: "Comprehensive 3500+ word guide to loan settlement in Andhra Pradesh. Legal protection under AP Money Lenders Act, APSLSA Lok Adalat procedures, and debt recovery defenses in Visakhapatnam & Vijayawada.",
   alternates: {
     canonical: "https://settleloans.in/loan-settlement/andhra-pradesh",

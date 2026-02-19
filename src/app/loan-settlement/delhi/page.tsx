@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Legal Loan Settlement Services in Delhi | 40-70% Waiver Experts - SettleLoans",
+  title: "Legal Loan Settlement Services in Delhi | 40-70% Waiver",
   description: "Struggling with debt in Delhi? Get expert legal representation at Saket, Tis Hazari & Dwarka courts. Settle credit cards & personal loans with 70% waiver. 800+ success stories.",
   alternates: {
     canonical: "https://settleloans.in/loan-settlement/delhi",

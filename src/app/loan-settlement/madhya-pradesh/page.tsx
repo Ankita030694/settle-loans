@@ -16,7 +16,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement in Madhya Pradesh | Legal Debt Relief & Stop Harassment',
+  title: "Loan Settlement in Madhya Pradesh | Legal Debt Relief",
   description: 'Struggling with debt in Madhya Pradesh? Get expert loan settlement services in Bhopal, Indore, and Gwalior. Reduce your debt by up to 50% legally. Guidance on MP Money Lenders Act and Lok Adalats.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-settlement/madhya-pradesh',
@@ -435,7 +435,7 @@ const Page = () => {
                             </Link>
                           </li>
                           <li>
-                            <Link href="/kisan-credit-card-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                            <Link href="/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                               <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>
                               Farmer Debt Support
                             </Link>

@@ -290,7 +290,7 @@ export default function NBFCSettlementPage() {
                  <span className="text-gray-300">/</span>
               </li>
               <li>
-                <Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link>
+                <Link href="/#services" className="hover:text-[#1F5EFF] transition-colors">Services</Link>
               </li>
               <li>
                  <span className="text-gray-300">/</span>
@@ -872,7 +872,7 @@ export default function NBFCSettlementPage() {
                   </Link>
                 </li>
                  <li>
-                  <Link href="/services/anti-harassment" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                  <Link href="/ignoring-calls-of-recovery-agent" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>
                     Harassment Protection
                   </Link>

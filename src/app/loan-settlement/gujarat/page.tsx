@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Professional Loan Settlement Gujarat | 3500+ Word Legal Guide - SettleLoans",
+  title: "Loan Settlement in Gujarat | 3500+ Word Legal Guide",
   description: "Comprehensive 3500+ word guide to loan settlement in Gujarat. Legal protection under Gujarat Money Lenders Act 2011, GSLSA Lok Adalat procedures, and debt recovery defenses in Ahmedabad & Surat.",
   alternates: {
     canonical: "https://settleloans.in/loan-settlement/gujarat",

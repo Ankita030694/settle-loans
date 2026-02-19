@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Professional Loan Settlement Jharkhand | 3500+ Word Legal Guide - SettleLoans",
+  title: "Loan Settlement in Jharkhand | 3500+ Word Legal Guide",
   description: "Comprehensive 3500+ word guide to loan settlement in Jharkhand. Legal protection under CNT/SPT Acts, JHALSA Lok Adalat procedures, and debt recovery defenses in Ranchi & Jamshedpur.",
   alternates: {
     canonical: "https://settleloans.in/loan-settlement/jharkhand",

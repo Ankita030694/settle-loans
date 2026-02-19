@@ -553,7 +553,7 @@ export default function IARCPage() {
                     { title: "Loan Settlement Guide", href: "/loan-settlement" },
                     { title: "Manage Loan with No Job", href: "/how-to-manage-loan-with-no-job" },
                     { title: "Personal Loan Relief", href: "/services/personal-loan-settlement" },
-                    { title: "Stop Bank Harassment", href: "/services/anti-harassment" },
+                    { title: "Stop Bank Harassment", href: "/ignoring-calls-of-recovery-agent" },
                     { title: "Fix CIBIL Score", href: "/credit-score-improvement" }
                   ].map((item, idx) => (
                     <li key={idx}>

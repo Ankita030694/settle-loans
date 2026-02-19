@@ -619,7 +619,7 @@ export default function HowToManageLoanNoJobPage() {
                     { title: "One-Time Settlement", href: "/loan-settlement" },
                     { title: "Personal Loan Relief", href: "/services/personal-loan-settlement" },
                     { title: "Credit Card Debt Loop", href: "/services/credit-card-settlement" },
-                    { title: "Stop Harassment", href: "/services/anti-harassment" },
+                    { title: "Stop Harassment", href: "/ignoring-calls-of-recovery-agent" },
                     { title: "Cheque Bounce Defense", href: "/cheque-bounce" },
                     { title: "Rebuild Your CIBIL", href: "/credit-score-improvement" }
                   ].map((item, idx) => (

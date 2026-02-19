@@ -16,7 +16,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement in Meghalaya | Legal Debt Relief & Tribal Land Protection',
+  title: "Legal Loan Settlement Services in Meghalaya | Settle Debt Legally",
   description: 'Struggling with debt in Meghalaya? Expert loan settlement services in Shillong, Tura, and Jowai. Understand Meghalaya Land Transfer Act protections and settle legally.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-settlement/meghalaya',

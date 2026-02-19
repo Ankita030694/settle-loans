@@ -15,7 +15,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement in Himachal Pradesh | Legal Debt Relief & Stop Harassment',
+  title: "Loan Settlement in Himachal Pradesh | Legal Debt Relief",
   description: 'Struggling with debt in Himachal Pradesh? Expert loan settlement services to stop bank harassment, reduce debt by up to 50%, and settle legally. Expert guidance on HP Money Lenders Act.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-settlement/himachal-pradesh',

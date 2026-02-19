@@ -518,7 +518,7 @@ export default function KisetsuSaisonSettlementPage() {
                 <ul className="space-y-4 text-sm font-bold">
                   <li><Link href="/loan-settlement/idfc-first-bank" className="group flex items-center text-[#2d3748] hover:text-[#004c94] transition-colors"><span className="w-1.5 h-1.5 bg-[#cbd5e0] rounded-full mr-3 group-hover:bg-[#004c94]"></span>IDFC First</Link></li>
                   <li><Link href="/loan-settlement/rbl-bank" className="group flex items-center text-[#2d3748] hover:text-[#004c94] transition-colors"><span className="w-1.5 h-1.5 bg-[#cbd5e0] rounded-full mr-3 group-hover:bg-[#004c94]"></span>RBL Bank</Link></li>
-                  <li><Link href="/loan-settlement/bajaj-finserv" className="group flex items-center text-[#2d3748] hover:text-[#004c94] transition-colors"><span className="w-1.5 h-1.5 bg-[#cbd5e0] rounded-full mr-3 group-hover:bg-[#004c94]"></span>Bajaj Finserv</Link></li>
+                  <li><Link href="/loan-settlement/bajaj-finance" className="group flex items-center text-[#2d3748] hover:text-[#004c94] transition-colors"><span className="w-1.5 h-1.5 bg-[#cbd5e0] rounded-full mr-3 group-hover:bg-[#004c94]"></span>Bajaj Finserv</Link></li>
                 </ul>
               </div>
 

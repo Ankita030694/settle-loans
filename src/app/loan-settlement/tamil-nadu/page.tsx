@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Professional Loan Settlement Services in Tamil Nadu | 40-70% Debt Waiver - SettleLoans",
+  title: "Legal Loan Settlement Services in Tamil Nadu | 40-70% Waiver",
   description: "Struggling with debt in Chennai or Tamil Nadu? Get expert legal representation for loan settlement. Tamil Nadu Money-Lenders Act protection & Coercive Action prevention. Settle credit cards & personal loans with 70% waiver.",
   alternates: {
     canonical: "https://settleloans.in/loan-settlement/tamil-nadu",
