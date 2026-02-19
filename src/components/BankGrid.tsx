@@ -74,6 +74,12 @@ const banks = [
     logo: "/banks/fibe.png",
     link: "/loan-settlement/fibe",
     description: "Expert settlement for Fibe (EarlySalary) personal loans."
+  },
+  {
+    name: "Personal Loan Settlement",
+    logo: "/services/personal-loan.svg",
+    link: "/what-is-personal-loan-settlement",
+    description: "The ultimate guide to understanding personal loan settlement process and RBI rules."
   }
 ];
 
