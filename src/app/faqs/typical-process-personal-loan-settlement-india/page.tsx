@@ -375,7 +375,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                                     Perhaps the biggest hurdle in the typical process for setting a personal loan in India is not the bank, but the internal shame the borrower feels. In Indian society, debt is often seen as a moral failure. Recovery agents exploit this by threatening to visit your workplace or your neighbors.
                                 </p>
                                 <p className="text-lg leading-relaxed mb-6">
-                                    You must realize that a personal loan default is a financial event, not a moral one. Most people don't default because they want to; they default because life happened. The bank's interest rates often 14% to 24%—already include the "risk" of default. They have already math-ed you into their failure rate. By choosing to settle, you are responsibly resolving a failed contract. Professional services like SettleLoans focus on this psychological aspect, providing a "Legal Proxy" that stands between you and the agents, effectively ending the social pressure and allowing you to negotiate from a position of mental strength.
+                                    You must realize that a personal loan default is a financial event, not a moral one. Most people don't default because they want to; they default because life happened. The bank's interest rates, often 14% to 24%, already include the "risk" of default. They have already math-ed you into their failure rate. By choosing to settle, you are responsibly resolving a failed contract. Professional services like SettleLoans focus on this psychological aspect, providing a "Legal Proxy" that stands between you and the agents, effectively ending the social pressure and allowing you to negotiate from a position of mental strength.
                                 </p>
                             </div>
                         </section>
@@ -466,7 +466,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                                 </ul>
                             </div>
                             <p className="text-lg leading-relaxed mb-6">
-                                Send a formal "Settlement Request Letter" via email and registered post (AD). In this letter, mention your loan account number, explain your hardship in 3 to 4 sentences, and state that you wish to initiate a One Time Settlement. Do not mention a specific amount in the first letter. Just open the door. Using "Registered Post" is vital because it creates a legal trail that you tried to resolve the matter in good faith—a point that carries weight if the bank later tries to take you to court.
+                                Send a formal "Settlement Request Letter" via email and registered post (AD). In this letter, mention your loan account number, explain your hardship in 3 to 4 sentences, and state that you wish to initiate a One Time Settlement. Do not mention a specific amount in the first letter. Just open the door. Using "Registered Post" is vital because it creates a legal trail that you tried to resolve the matter in good faith; a point that carries weight if the bank later tries to take you to court.
                             </p>
                         </section>
 
@@ -491,7 +491,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                                 Never agree on the call. Always say, "I need to discuss this with the person lending me the money." This creates a "buffer" and shows you are not desperate. In the typical process for setting a personal loan in India, the bank needs to feel that you are genuinely trying but simply lack the means. If they think you have the money but are being "cheap", they will never give you a deep discount.
                             </p>
                             <p className="text-lg leading-relaxed mb-6">
-                                Negotiation also involves handling the "bad cop"—the aggressive agent who threatens you. When this happens, stay calm and say "I am already in formal communication with your Nodal Officer for an OTS. Please note this call for my records." This usually shuts them down immediately as they realize you know the typical process for setting a personal loan in India.
+                                Negotiation also involves handling the "bad cop", the aggressive agent who threatens you. When this happens, stay calm and say "I am already in formal communication with your Nodal Officer for an OTS. Please note this call for my records." This usually shuts them down immediately as they realize you know the typical process for setting a personal loan in India.
                             </p>
                         </section>
 

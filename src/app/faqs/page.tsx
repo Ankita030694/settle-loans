@@ -103,6 +103,24 @@ export default function FAQsPage() {
               "position": 8,
               "name": "Negotiate Personal Loan Settlement",
               "url": "https://settleloans.in/faqs/how-to-negotiate-personal-loan-settlement"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "CIBIL Impact of Settlement",
+              "url": "https://settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Professional Settlement Steps",
+              "url": "https://settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Settlement Document Checklist",
+              "url": "https://settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal"
             }
           ]
         }
@@ -294,6 +312,48 @@ export default function FAQsPage() {
               </p>
               <div className="text-[#1F5EFF] font-black text-sm flex items-center">
                 Definitive Guide <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 10 */}
+            <Link href="/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score" className="group block bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-rose-50 text-rose-600 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">How Settlement Impacts CIBIL Score</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Deep-dive into the 7-year CIBIL impact of loan settlement and professional roadmap for score rebuilding.
+              </p>
+              <div className="text-[#1F5EFF] font-black text-sm flex items-center">
+                CIBIL Guide <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 11 */}
+            <Link href="/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider" className="group block bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-emerald-50 text-emerald-600 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Comprehensive Settlement Steps</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Master the professional 5-phase process to apply for a loan settlement through an expert service provider.
+              </p>
+              <div className="text-[#1F5EFF] font-black text-sm flex items-center">
+                Process Guide <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 12 */}
+            <Link href="/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal" className="group block bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Settlement Document Checklist</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                The ultimate toolkit for hardship documentation. Learn which papers force banks to accept your waiver proposal.
+              </p>
+              <div className="text-[#1F5EFF] font-black text-sm flex items-center">
+                Doc Checklist <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
               </div>
             </Link>
           </div>

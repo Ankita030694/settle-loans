@@ -415,6 +415,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.8,
         },
         {
+            url: `${baseUrl}/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
             url: `${baseUrl}/terms-and-conditions`,
             lastModified: new Date(),
             changeFrequency: 'monthly',
