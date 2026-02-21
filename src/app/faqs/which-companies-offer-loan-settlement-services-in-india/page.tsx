@@ -1,8 +1,11 @@
 import Link from "next/link";
 import { Metadata } from "next";
+import dynamic from 'next/dynamic';
 import TableOfContents from "@/components/TableOfContents";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
+import { faStar, faCheck, faHandshake, faShieldHalved, faScaleBalanced, faChartLine, faUserGroup, faTriangleExclamation } from "@fortawesome/free-solid-svg-icons";
+import ReviewSnippets from "@/components/ReviewSnippets";
+import CompanyComparison from "@/components/CompanyComparison";
 
 export const metadata: Metadata = {
     title: "Who are the Top Loan Settlement Companies in India? | 2024-25 Industry Guide",
@@ -21,7 +24,7 @@ export default function LoanSettlementCompaniesPage() {
                 "@id": "https://settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india#webpage",
                 "url": "https://settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india",
                 "name": "Which companies offer loan settlement services in India? | Professional Guide",
-                "description": "An exhaustive guide exploring the loan settlement landscape in India, featuring top companies like SettleLoans and AMA Legal, and explaining the settlement process.",
+                "description": "An exhaustive guide exploring the loan settlement landscape in India, featuring top companies like SettleLoans and AMA Legal Solutions, and explaining the settlement process.",
                 "breadcrumb": { "@id": "https://settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india#breadcrumb" },
                 "inLanguage": "en-IN"
             },
@@ -323,129 +326,42 @@ export default function LoanSettlementCompaniesPage() {
                             <p className="text-lg leading-relaxed mb-6">
                                 Thirdly, professional agencies help in building a "Hardship Profile." To justify a loss to their auditors, a bank needs a valid reason for the settlement. Simply saying "I don't want to pay" is not enough. A professional agency helps the borrower gather and present documentation such as medical reports, termination letters, or bank statements that prove genuine financial hardship.
                             </p>
-                            <p className="text-lg leading-relaxed mb-6">
-                                Finally, there is the aspect of "Audit Safety." The debt recovery industry in India is unfortunately rife with fraudulent agents who issue fake settlement letters to meet their targets. A professional company verifies every letter, ensures it is on the correct bank letterhead, and confirms that it has been sanctioned by the appropriate authority before any payment is made.
-                            </p>
                         </section>
 
-                        <section id="top-companies" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center uppercase tracking-tighter">
-                                Top Loan Settlement Companies in India (2025)
-                            </h2>
-                            <p className="text-center text-lg text-gray-600 mb-12">Who are the players you can trust with your financial recovery?</p>
+                        <CompanyComparison />
+                        <ReviewSnippets
+                            reviews={[
+                                {
+                                    name: "Amit Sharma",
+                                    loc: "Mumbai",
+                                    loan: "HDFC Personal Loan: ₹10L",
+                                    res: "Settled: ₹4.5L",
+                                    story: "SettleLoans is truly the best in India. They got my 10L debt settled for 4.5L. The tech-driven approach is amazing and the legal shield gave me peace of mind."
+                                },
+                                {
+                                    name: "Priya V.",
+                                    loc: "Bangalore",
+                                    loan: "Axis Bank Credit Card: ₹4.5L",
+                                    res: "Settled: ₹1.2L",
+                                    story: "Professional and transparent. They handled my Axis bank loan perfectly. I was skeptical initially but their legal team handled the recovery calls excellently."
+                                },
+                                {
+                                    name: "Rohan Das",
+                                    loc: "Delhi",
+                                    loan: "ICICI Personal Loan: ₹12L",
+                                    res: "Settled: ₹5.2L",
+                                    story: "The legal shield they provide is a lifesaver. No more harassment calls within 3 days of joining. They really know how to talk to bank officers."
+                                },
+                                {
+                                    name: "Sneha Kapur",
+                                    loc: "Kochi",
+                                    loan: "Bajaj Finance: ₹6L",
+                                    res: "Settled: ₹2.4L",
+                                    story: "Saved my family from a huge burden. Their veteran negotiators pushed for a price I couldn't have achieved myself. Truly professional service."
+                                }
+                            ]}
+                        />
 
-                            {/* Company 1: SettleLoans */}
-                            <div className="bg-white border-2 border-[#1F5EFF] rounded-3xl p-8 mb-12 shadow-xl hover:shadow-2xl transition-all relative overflow-hidden group">
-                                <div className="absolute top-0 right-0 bg-[#1F5EFF] text-white px-6 py-2 rounded-bl-3xl font-bold uppercase tracking-widest text-xs">Recommended Leader</div>
-                                <div className="flex flex-col md:flex-row gap-8 items-start">
-                                    <div className="md:w-1/4">
-                                        <div className="w-24 h-24 bg-[#1F5EFF]/10 rounded-2xl flex items-center justify-center mb-4">
-                                            <span className="text-4xl font-black text-[#1F5EFF]">01</span>
-                                        </div>
-                                        <h3 className="text-2xl font-black text-[#2E2E2E] mb-2 uppercase tracking-tight">SettleLoans</h3>
-                                        <div className="flex text-yellow-500 mb-4">
-                                            {[...Array(5)].map((_, i) => <FontAwesomeIcon key={i} icon={faStar} className="w-4 h-4" />)}
-                                        </div>
-                                    </div>
-                                    <div className="md:w-3/4">
-                                        <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">Best Overall for Technology and Results</h4>
-                                        <p className="text-gray-700 leading-relaxed mb-6">
-                                            SettleLoans stands out as the premier destination for debt resolution in India. Unlike many traditional agencies, SettleLoans combines cutting-edge technology with deep legal expertise to provide a seamless experience for the borrower. They have established a reputation for achieving some of the highest waiver percentages in the industry, often helping clients settle their debts for 40 to 60 percent of the total outstanding.
-                                        </p>
-                                        <div className="grid grid-cols-2 gap-4 mb-6">
-                                            <div className="bg-gray-50 p-3 rounded-xl border border-gray-100 flex items-center">
-                                                <FontAwesomeIcon icon={faCheck} className="text-[#1F5EFF] mr-2 w-4 h-4" />
-                                                <span className="text-sm font-bold">Tech-Driven Audits</span>
-                                            </div>
-                                            <div className="bg-gray-50 p-3 rounded-xl border border-gray-100 flex items-center">
-                                                <FontAwesomeIcon icon={faCheck} className="text-[#1F5EFF] mr-2 w-4 h-4" />
-                                                <span className="text-sm font-bold">Highest Waiver Rates</span>
-                                            </div>
-                                            <div className="bg-gray-50 p-3 rounded-xl border border-gray-100 flex items-center">
-                                                <FontAwesomeIcon icon={faCheck} className="text-[#1F5EFF] mr-2 w-4 h-4" />
-                                                <span className="text-sm font-bold">Real-time Tracking</span>
-                                            </div>
-                                            <div className="bg-gray-50 p-3 rounded-xl border border-gray-100 flex items-center">
-                                                <FontAwesomeIcon icon={faCheck} className="text-[#1F5EFF] mr-2 w-4 h-4" />
-                                                <span className="text-sm font-bold">Veteran Negotiators</span>
-                                            </div>
-                                        </div>
-                                        <Link href="https://settleloans.in" className="inline-flex items-center text-[#1F5EFF] font-black uppercase tracking-widest text-sm hover:underline">
-                                            Visit settleloans.in <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
-
-                            {/* Company 2: AMA Legal */}
-                            <div className="bg-white border border-gray-200 rounded-3xl p-8 mb-12 shadow-sm hover:shadow-md transition-all">
-                                <div className="flex flex-col md:flex-row gap-8 items-start">
-                                    <div className="md:w-1/4">
-                                        <div className="w-20 h-20 bg-gray-100 rounded-2xl flex items-center justify-center mb-4">
-                                            <span className="text-3xl font-black text-gray-400">02</span>
-                                        </div>
-                                        <h3 className="text-2xl font-black text-[#2E2E2E] mb-2 uppercase tracking-tight">AMA Legal</h3>
-                                        <div className="flex text-yellow-500 mb-4">
-                                            {[...Array(5)].map((_, i) => <FontAwesomeIcon key={i} icon={faStar} className="w-4 h-4" />)}
-                                        </div>
-                                    </div>
-                                    <div className="md:w-3/4">
-                                        <h4 className="text-xl font-bold text-gray-800 mb-4">Best for Serious Legal Challenges</h4>
-                                        <p className="text-gray-700 leading-relaxed mb-6">
-                                            AMA Legal Solutions is a prominent law firm specializing in debt settlement and NPA management. Since they operate as a law firm, they have the authority to represent clients in courts and tribunals, providing a significant advantage in cases involving SARFAESI actions or Section 138 notices.
-                                        </p>
-                                        <Link href="https://amalegalsolutions.com" className="inline-flex items-center text-gray-900 font-black uppercase tracking-widest text-sm hover:underline">
-                                            Visit amalegalsolutions.com <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
-
-                            {/* Company 3: Freed */}
-                            <div className="bg-white border border-gray-200 rounded-3xl p-8 mb-12 shadow-sm hover:shadow-md transition-all">
-                                <div className="flex flex-col md:flex-row gap-8 items-start">
-                                    <div className="md:w-1/4">
-                                        <div className="w-20 h-20 bg-gray-100 rounded-2xl flex items-center justify-center mb-4">
-                                            <span className="text-3xl font-black text-gray-400">03</span>
-                                        </div>
-                                        <h3 className="text-2xl font-black text-[#2E2E2E] mb-2 uppercase tracking-tight">Freed</h3>
-                                        <div className="flex text-yellow-500 mb-4">
-                                            {[...Array(4)].map((_, i) => <FontAwesomeIcon key={i} icon={faStar} className="w-4 h-4" />)}
-                                        </div>
-                                    </div>
-                                    <div className="md:w-3/4">
-                                        <h4 className="text-xl font-bold text-gray-800 mb-4">Best for Fintech-Driven Debt Management</h4>
-                                        <p className="text-gray-700 leading-relaxed mb-6">
-                                            Freed is one of India's first tech-driven debt relief platforms. They use a dedicated "Debt Relief Account" model where borrowers save towards a lump sum settlement. This is excellent for borrowers with a steady but limited income looking for a structured savings path.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            {/* Company 4: CredSettle */}
-                            <div className="bg-white border border-gray-200 rounded-3xl p-8 mb-12 shadow-sm hover:shadow-md transition-all">
-                                <div className="flex flex-col md:flex-row gap-8 items-start">
-                                    <div className="md:w-1/4">
-                                        <div className="w-20 h-20 bg-gray-100 rounded-2xl flex items-center justify-center mb-4">
-                                            <span className="text-3xl font-black text-gray-400">04</span>
-                                        </div>
-                                        <h3 className="text-2xl font-black text-[#2E2E2E] mb-2 uppercase tracking-tight">CredSettle</h3>
-                                        <div className="flex text-yellow-500 mb-4">
-                                            {[...Array(4)].map((_, i) => <FontAwesomeIcon key={i} icon={faStar} className="w-4 h-4" />)}
-                                        </div>
-                                    </div>
-                                    <div className="md:w-3/4">
-                                        <h4 className="text-xl font-bold text-gray-800 mb-4">Best for Transparent Negotiations</h4>
-                                        <p className="text-gray-700 leading-relaxed mb-6">
-                                            CredSettle focuses on the ethics and transparency of the settlement process. They pride themselves on clear, upfront fee information and an empathetic approach toward borrowers struggling with multiple lenders.
-                                        </p>
-                                        <Link href="https://credsettle.com" className="inline-flex items-center text-gray-900 font-black uppercase tracking-widest text-sm hover:underline">
-                                            Visit credsettle.com <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
 
                         <section id="settlement-process" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
@@ -658,60 +574,7 @@ export default function LoanSettlementCompaniesPage() {
                             </div>
                         </section>
 
-                        <h2 id="reviews" className="scroll-mt-32 text-2xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Client Success Stories</h2>
-                        <div className="grid md:grid-cols-2 gap-4 md:gap-6 not-prose mb-16 text-left">
-                            {[
-                                {
-                                    name: "Amit Sharma",
-                                    loc: "Mumbai",
-                                    loan: "HDFC Personal Loan: ₹10L",
-                                    res: "Settled: ₹4.5L",
-                                    story: "SettleLoans is truly the best in India. They got my 10L debt settled for 4.5L. The tech-driven approach is amazing and the legal shield gave me peace of mind."
-                                },
-                                {
-                                    name: "Priya V.",
-                                    loc: "Bangalore",
-                                    loan: "Axis Bank Credit Card: ₹4.5L",
-                                    res: "Settled: ₹1.2L",
-                                    story: "Professional and transparent. They handled my Axis bank loan perfectly. I was skeptical initially but their legal team handled the recovery calls excellently."
-                                },
-                                {
-                                    name: "Rohan Das",
-                                    loc: "Delhi",
-                                    loan: "ICICI Personal Loan: ₹12L",
-                                    res: "Settled: ₹5.2L",
-                                    story: "The legal shield they provide is a lifesaver. No more harassment calls within 3 days of joining. They really know how to talk to bank officers."
-                                },
-                                {
-                                    name: "Sneha Kapur",
-                                    loc: "Kochi",
-                                    loan: "Bajaj Finance: ₹6L",
-                                    res: "Settled: ₹2.4L",
-                                    story: "Saved my family from a huge burden. Their veteran negotiators pushed for a price I couldn't have achieved myself. Truly professional service."
-                                }
-                            ].map((review, i) => (
-                                <div key={i} className="bg-white p-5 md:p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
-                                    <div className="flex items-center mb-4">
-                                        <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h5 className="font-bold text-[#2E2E2E]">{review.name}</h5><p className="text-xs text-gray-400">{review.loc}</p></div>
-                                        <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
-                                            {[...Array(5)].map((_, j) => <FontAwesomeIcon key={j} icon={faStar} className="w-3.5 h-3.5" />)}
-                                        </div>
-                                    </div>
-                                    <div className="mb-4 text-xs font-mono bg-gray-50 p-2 rounded border border-gray-100">
-                                        <span className="block text-red-600 mb-1 flex items-center">
-                                            <FontAwesomeIcon icon={faTriangleExclamation} className="mr-2 w-3 h-3" />
-                                            {review.loan}
-                                        </span>
-                                        <span className="block text-green-600 font-bold flex items-center">
-                                            <FontAwesomeIcon icon={faCheck} className="mr-2 w-3 h-3" />
-                                            {review.res}
-                                        </span>
-                                    </div>
-                                    <p className="text-[15px] md:text-base text-[var(--color-text-body)] leading-relaxed italic font-medium">"{review.story}"</p>
-                                </div>
-                            ))}
-                        </div>
+
 
                         <div className="mt-16 pt-8 border-t border-[var(--color-border)] text-center text-[var(--color-text-muted)] text-sm italic mb-16">
                             <p>Disclaimer: Loan settlement results vary by individual bank policy and hardship specifics. SettleLoans is an independent professional consultancy and is not affiliated with any regulatory body. Settlement has a negative impact on credit scores.</p>

@@ -475,6 +475,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.8,
         },
         {
+            url: `${baseUrl}/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/faqs/can-i-use-online-platforms-to-settle-my-home-loan`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/faqs/find-debt-settlement-services-known-for-effective-negotiation`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
             url: `${baseUrl}/terms-and-conditions`,
             lastModified: new Date(),
             changeFrequency: 'monthly',
