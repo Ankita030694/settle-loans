@@ -397,7 +397,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.8,
         },
         {
-            url: `${baseUrl}/faqs/how-to-settle-debt-for-less`,
+            url: `${baseUrl}/faqs/how-to-negotiate-personal-loan-settlement`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.8,
