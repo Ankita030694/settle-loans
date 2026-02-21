@@ -133,6 +133,30 @@ export default function FAQsPage() {
               "position": 14,
               "name": "Secured vs Unsecured Settlements",
               "url": "https://settleloans.in/faqs/settling-secured-vs-unsecured-loans-india"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "name": "Legal Risks of Default",
+              "url": "https://settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "name": "Credit Card Settlement via Third Party",
+              "url": "https://settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies"
+            },
+            {
+              "@type": "ListItem",
+              "position": 17,
+              "name": "Alternatives to Settlement",
+              "url": "https://settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt"
+            },
+            {
+              "@type": "ListItem",
+              "position": 18,
+              "name": "Student Loan Specialized Programs",
+              "url": "https://settleloans.in/faqs/specialized-programs-student-loan-defaults-india"
             }
           ]
         }
@@ -408,6 +432,62 @@ export default function FAQsPage() {
               </p>
               <div className="text-[#1F5EFF] font-black text-sm flex items-center">
                 Compare Types <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 16 */}
+            <Link href="/faqs/legal-risks-defaulting-loan-without-settlement" className="group block bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-red-50 text-red-600 flex items-center justify-center mb-6 group-hover:bg-red-600 group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Legal Risks of Default</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Comprehensive 5000-word analysis of civil and criminal risks (SARFAESI, Sec 138) of loan default in India.
+              </p>
+              <div className="text-[#1F5EFF] font-black text-sm flex items-center">
+                Legal Guide <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 17 */}
+            <Link href="/faqs/settle-credit-card-dues-third-party-loan-companies" className="group block bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-indigo-50 text-indigo-600 flex items-center justify-center mb-6 group-hover:bg-indigo-600 group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Card Dues & Third Parties</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Should you use third-party companies for card settlement? Legality, benefits, and risk mitigation strategies.
+              </p>
+              <div className="text-[#1F5EFF] font-black text-sm flex items-center">
+                Settlement Guide <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 18 */}
+            <Link href="/faqs/alternatives-to-loan-settlement-managing-debt" className="group block bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-emerald-50 text-emerald-600 flex items-center justify-center mb-6 group-hover:bg-emerald-600 group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Alternatives to Settlement</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Don't ruin your credit. Explore consolidation, DMPs, and refinancing as better paths to financial freedom.
+              </p>
+              <div className="text-[#1F5EFF] font-black text-sm flex items-center">
+                Refinance Guide <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 19 */}
+            <Link href="/faqs/specialized-programs-student-loan-defaults-india" className="group block bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center mb-6 group-hover:bg-blue-600 group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Student Loan Programs</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Specialized guides on Vidya Lakshmi, PM-Vidyalaxmi, and NCGTC guarantees for education loan settlement.
+              </p>
+              <div className="text-[#1F5EFF] font-black text-sm flex items-center">
+                Student Guide <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
               </div>
             </Link>
           </div>

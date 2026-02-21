@@ -451,6 +451,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.8,
         },
         {
+            url: `${baseUrl}/faqs/legal-risks-defaulting-loan-without-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/faqs/settle-credit-card-dues-third-party-loan-companies`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/faqs/alternatives-to-loan-settlement-managing-debt`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/faqs/specialized-programs-student-loan-defaults-india`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
             url: `${baseUrl}/terms-and-conditions`,
             lastModified: new Date(),
             changeFrequency: 'monthly',

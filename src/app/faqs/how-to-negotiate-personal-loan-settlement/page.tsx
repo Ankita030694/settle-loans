@@ -184,6 +184,20 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         "datePublished": "2024-12-28",
                         "reviewBody": "My personal loan settlement was stuck for months. SettleLoans got it closed in 3 weeks with a 60% waiver.",
                         "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+                    },
+                    {
+                        "@type": "Review",
+                        "author": { "@type": "Person", "name": "Deepa Francis" },
+                        "datePublished": "2025-01-05",
+                        "reviewBody": "Saved me from a legal notice. Highly professional team who knows how to handle bank managers effectively.",
+                        "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+                    },
+                    {
+                        "@type": "Review",
+                        "author": { "@type": "Person", "name": "Meera Krishnan" },
+                        "datePublished": "2025-01-15",
+                        "reviewBody": "Extremely professional. They handled the legal notices and got me a second chance at settlement when I had almost given up.",
+                        "reviewRating": { "@type": "Rating", "ratingValue": "5" }
                     }
                 ]
             }
@@ -630,8 +644,8 @@ export default function NegotiatePersonalLoanSettlementPage() {
                             </div>
                         </section>
 
-                        <h2 id="reviews" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Client Success Stories</h2>
-                        <div className="grid md:grid-cols-2 gap-6 not-prose mb-16">
+                        <h2 id="reviews" className="scroll-mt-32 text-2xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase tracking-tighter font-sans">Client Success Stories</h2>
+                        <div className="grid md:grid-cols-2 gap-4 md:gap-6 not-prose mb-16 text-left">
                             {[
                                 {
                                     name: "Rajesh Kumar",
@@ -662,7 +676,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                                     story: "Extremely professional. They handled the legal notices and got me a second chance at settlement when I had almost given up."
                                 }
                             ].map((review, i) => (
-                                <div key={i} className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
+                                <div key={i} className="bg-white p-5 md:p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
                                         <div><h5 className="font-bold text-[#2E2E2E]">{review.name}</h5><p className="text-xs text-gray-400">{review.loc}</p></div>
@@ -684,7 +698,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                                             {review.res}
                                         </span>
                                     </div>
-                                    <p className="text-sm text-[var(--color-text-body)] italic leading-relaxed">"{review.story}"</p>
+                                    <p className="text-[15px] md:text-base text-[var(--color-text-body)] leading-relaxed italic font-medium">"{review.story}"</p>
                                 </div>
                             ))}
                         </div>
