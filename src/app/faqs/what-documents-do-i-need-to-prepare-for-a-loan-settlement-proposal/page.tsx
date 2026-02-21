@@ -293,7 +293,7 @@ export default function DocumentChecklistPage() {
                                 </p>
                             </div>
                             <p className="text-lg leading-relaxed mb-6">
-                                Many borrowers fail because they provide "too little" or "too much irrelevant" information. Providing a 100 page document of your childhood medical history is useless if you are claiming job loss in 2023. A professional documentation strategy focuses on the "Relevant Proof Window" – the 12 to 24 months of data that tells the story of your financial decline.
+                                Many borrowers fail because they provide "too little" or "too much irrelevant" information. Providing a 100 page document of your childhood medical history is useless if you are claiming job loss in 2023. A professional documentation strategy focuses on the "Relevant Proof Window" - the 12 to 24 months of data that tells the story of your financial decline.
                             </p>
                         </section>
 

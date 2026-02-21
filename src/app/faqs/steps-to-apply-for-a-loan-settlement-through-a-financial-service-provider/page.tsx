@@ -366,7 +366,7 @@ export default function SettlementStepsPage() {
                                     <div className="md:w-2/3 p-8">
                                         <h4 className="text-xl font-bold text-gray-900 mb-4">Leveraging Floor Rates</h4>
                                         <p className="text-gray-700 leading-relaxed text-sm">
-                                            Banks have internal "Floor Rates" – the minimum amount they are authorized to accept for a specific loan type. Professionals know these rates for every major bank in India, allowing them to push for the deepest possible waiver without causing a rejection by the bank's audit committee.
+                                            Banks have internal "Floor Rates" - the minimum amount they are authorized to accept for a specific loan type. Professionals know these rates for every major bank in India, allowing them to push for the deepest possible waiver without causing a rejection by the bank's audit committee.
                                         </p>
                                     </div>
                                 </div>

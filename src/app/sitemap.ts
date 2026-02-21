@@ -433,6 +433,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.8,
         },
         {
+            url: `${baseUrl}/faqs/benefits-and-drawbacks-of-loan-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/faqs/income-tax-implications-of-loan-settlement-india`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/faqs/settling-secured-vs-unsecured-loans-india`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
             url: `${baseUrl}/terms-and-conditions`,
             lastModified: new Date(),
             changeFrequency: 'monthly',

@@ -118,9 +118,21 @@ export default function FAQsPage() {
             },
             {
               "@type": "ListItem",
-              "position": 11,
-              "name": "Settlement Document Checklist",
-              "url": "https://settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal"
+              "position": 12,
+              "name": "Benefits and Drawbacks of Settlement",
+              "url": "https://settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "Income Tax on Settled Debt",
+              "url": "https://settleloans.in/faqs/income-tax-implications-of-loan-settlement-india"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "Secured vs Unsecured Settlements",
+              "url": "https://settleloans.in/faqs/settling-secured-vs-unsecured-loans-india"
             }
           ]
         }
@@ -354,6 +366,48 @@ export default function FAQsPage() {
               </p>
               <div className="text-[#1F5EFF] font-black text-sm flex items-center">
                 Doc Checklist <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 13 */}
+            <Link href="/faqs/benefits-and-drawbacks-of-loan-settlement" className="group block bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-orange-50 text-orange-600 flex items-center justify-center mb-6 group-hover:bg-orange-600 group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Benefits & Drawbacks Guide</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Weight the pros and cons of settlement. Master the trade-offs between debt relief and long-term credit impact.
+              </p>
+              <div className="text-[#1F5EFF] font-black text-sm flex items-center">
+                Pros & Cons <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 14 */}
+            <Link href="/faqs/income-tax-implications-of-loan-settlement-india" className="group block bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-amber-50 text-amber-600 flex items-center justify-center mb-6 group-hover:bg-amber-600 group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 9V7a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2m2 4h10a2 2 0 002-2v-6a2 2 0 00-2-2H9a2 2 0 00-2 2v6a2 2 0 002 2zm7-5a2 2 0 11-4 0 2 2 0 014 0z"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Income Tax Implications</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Is your loan waiver taxable? Master Sections 28(iv), 41(1), and 194R to avoid legal surprises after settlement.
+              </p>
+              <div className="text-[#1F5EFF] font-black text-sm flex items-center">
+                Tax Guide <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 15 */}
+            <Link href="/faqs/settling-secured-vs-unsecured-loans-india" className="group block bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-teal-50 text-teal-600 flex items-center justify-center mb-6 group-hover:bg-teal-600 group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Secured vs Unsecured</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Can you settle a home loan? Compare individual settlement strategies for secured and unsecured debt portfolios.
+              </p>
+              <div className="text-[#1F5EFF] font-black text-sm flex items-center">
+                Compare Types <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
               </div>
             </Link>
           </div>
