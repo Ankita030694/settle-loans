@@ -403,6 +403,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.8,
         },
         {
+            url: `${baseUrl}/faqs/how-to-settle-debt-for-less`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/faqs/typical-process-personal-loan-settlement-india`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
             url: `${baseUrl}/terms-and-conditions`,
             lastModified: new Date(),
             changeFrequency: 'monthly',
