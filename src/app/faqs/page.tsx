@@ -131,6 +131,14 @@ export default function FAQsPage() {
             <p className="text-base md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-2xl mx-auto leading-[1.2] font-normal">
               Explore our detailed guides to understand every aspect of loan settlement.
             </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+              <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
+                Get Professional Help
+              </Link>
+              <Link href="#content" className="w-full sm:w-auto inline-flex items-center justify-center bg-white text-[#2E2E2E] font-bold py-4 px-10 rounded-[10px] border border-[#DEDEDE] hover:bg-gray-50 transition-all duration-300 text-lg">
+                Browse All Guides
+              </Link>
+            </div>
           </div>
         </section>
 
@@ -160,7 +168,7 @@ export default function FAQsPage() {
         </div>
 
         {/* Main Content Layout */}
-        <div className="w-full max-w-7xl mx-auto px-4 md:px-8 lg:px-12 py-16 text-[var(--color-text-body)]">
+        <div id="content" className="w-full max-w-7xl mx-auto px-4 md:px-8 lg:px-12 py-16 text-[var(--color-text-body)]">
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             {/* Card 1 */}

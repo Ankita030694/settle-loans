@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
     title: "How to Negotiate a Personal Loan Settlement with Lenders | 2024-25 Guide",
@@ -172,8 +174,15 @@ export default function NegotiatePersonalLoanSettlementPage() {
                     {
                         "@type": "Review",
                         "author": { "@type": "Person", "name": "Rajesh Kumar" },
-                        "datePublished": "2024-02-10",
+                        "datePublished": "2024-12-10",
                         "reviewBody": "SettleLoans helped me negotiate my HDFC personal loan from 8 lakhs down to 3.5 lakhs. The process was transparent and the harassment stopped within days.",
+                        "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+                    },
+                    {
+                        "@type": "Review",
+                        "author": { "@type": "Person", "name": "Sunil Mehta" },
+                        "datePublished": "2024-12-28",
+                        "reviewBody": "My personal loan settlement was stuck for months. SettleLoans got it closed in 3 weeks with a 60% waiver.",
                         "reviewRating": { "@type": "Rating", "ratingValue": "5" }
                     }
                 ]
@@ -191,23 +200,23 @@ export default function NegotiatePersonalLoanSettlementPage() {
                 />
 
                 {/* Hero Section */}
-                <section className="w-full bg-[var(--color-section-light)] pt-24 pb-12 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden min-h-[400px] md:min-h-[500px] flex flex-col justify-center">
-                    <div className="absolute top-0 left-0 w-full h-full bg-gradient-to-b from-white/20 to-transparent pointer-events-none"></div>
+                <section className="w-full bg-[#2E2E2E] pt-24 pb-12 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden min-h-[400px] md:min-h-[500px] flex flex-col justify-center">
+                    <div className="absolute top-0 left-0 w-full h-full bg-black/20 pointer-events-none"></div>
                     <div className="max-w-5xl mx-auto text-center relative z-10">
-                        <span className="inline-block py-1 px-3 rounded-full bg-[var(--color-primary)]/10 text-[var(--color-primary)] text-sm font-semibold mb-6 tracking-wide uppercase">
-                            Master Your Debt
+                        <span className="inline-block py-1.5 px-4 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] text-sm font-bold mb-6 tracking-wider uppercase">
+                            Debt Recovery Experts
                         </span>
-                        <h1 className="text-3xl md:text-5xl lg:text-7xl font-bold text-[var(--color-text-hero)] mb-6 leading-[1.1] tracking-tight">
+                        <h1 className="text-3xl md:text-5xl lg:text-7xl font-black text-[#DEDEDE] mb-8 leading-[1.1] tracking-tight">
                             How can I negotiate a personal <br className="hidden md:block" /> loan settlement with lenders
                         </h1>
-                        <p className="text-base md:text-xl text-[var(--color-text-body)]/80 mb-10 max-w-2xl mx-auto leading-relaxed font-medium">
+                        <p className="text-base md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-3xl mx-auto leading-[1.2] font-normal">
                             Take control of your financial future. Learn the exact strategies used by professional negotiators to settle debts for up to 50% less while protecting your legal rights.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[var(--color-primary)] text-white font-semibold py-4 px-10 rounded-full hover:bg-[var(--color-primary-hover)] transition-all duration-300 text-lg shadow-[0_4px_14px_0_rgba(8,73,75,0.39)] hover:shadow-[0_6px_20px_rgba(8,73,75,0.23)] hover:-translate-y-0.5">
+                            <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
                                 Get Professional Help
                             </Link>
-                            <Link href="#introduction" className="w-full sm:w-auto inline-flex items-center justify-center bg-white text-[var(--color-text-body)] font-semibold py-4 px-10 rounded-full border border-[var(--color-border)] hover:bg-gray-50 transition-all duration-300 text-lg">
+                            <Link href="#introduction" className="w-full sm:w-auto inline-flex items-center justify-center bg-white text-[#2E2E2E] font-bold py-4 px-10 rounded-[10px] border border-[#DEDEDE] hover:bg-gray-50 transition-all duration-300 text-lg">
                                 Read Expert Guide
                             </Link>
                         </div>
@@ -265,7 +274,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                     <article className="w-full lg:w-3/5 flex-1 max-w-none font-sans text-[var(--color-text-body)]">
 
                         <section id="introduction" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Understanding the Art of Personal Loan Settlement Negotiation
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">
@@ -286,7 +295,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="rbi-guidelines" className="scroll-mt-32 mb-16">
-                            <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 RBI Guidelines: Your Legal Shield
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">
@@ -311,7 +320,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="financial-assessment" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Foundation: Self-Financial Assessment
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">
@@ -340,7 +349,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="negotiation-phase-1" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Phase 1: Timing is the Secret Weapon
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">
@@ -368,7 +377,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="negotiation-phase-2" className="scroll-mt-32 mb-16">
-                            <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Phase 2: The Art of the First Offer
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">
@@ -389,7 +398,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="negotiation-phase-3" className="scroll-mt-32 mb-16">
-                            <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Phase 3: Leveraging Hardship Proofs
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">
@@ -419,7 +428,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="common-mistakes" className="scroll-mt-32 mb-16">
-                            <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 10 Fatal Negotiation Mistakes
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">
@@ -450,7 +459,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="settlement-letter-checklist" className="scroll-mt-32 mb-16">
-                            <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 The Settlement Letter Checklist
                             </h2>
                             <p className="text-lg leading-relaxed mb-8">
@@ -504,7 +513,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="post-settlement" className="scroll-mt-32 mb-16">
-                            <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Life After Settlement: Rebuilding
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">
@@ -514,15 +523,15 @@ export default function NegotiatePersonalLoanSettlementPage() {
                                 <h3 className="text-2xl font-bold text-[var(--color-text-hero)] mb-4">How to Rebuild in 3 Steps</h3>
                                 <div className="grid md:grid-cols-3 gap-6 text-left">
                                     <div className="p-4">
-                                        <div className="text-sm font-bold text-[var(--color-primary)] mb-2">STEP 01</div>
+                                        <div className="text-sm font-bold text-[#1F5EFF] mb-2">STEP 01</div>
                                         <p className="text-sm text-gray-700"><strong>Secured Credit Cards:</strong> Apply for a credit card against a Fixed Deposit (FD). Use it for small amounts and pay back 100% on time every month.</p>
                                     </div>
                                     <div className="p-4">
-                                        <div className="text-sm font-bold text-[var(--color-primary)] mb-2">STEP 02</div>
+                                        <div className="text-sm font-bold text-[#1F5EFF] mb-2">STEP 02</div>
                                         <p className="text-sm text-gray-700"><strong>CIBIL Audit:</strong> After 45 days, check your CIBIL report. Ensure it says 'Settled' with zero balance. If it says 'Default', file a dispute immediately.</p>
                                     </div>
                                     <div className="p-4">
-                                        <div className="text-sm font-bold text-[var(--color-primary)] mb-2">STEP 03</div>
+                                        <div className="text-sm font-bold text-[#1F5EFF] mb-2">STEP 03</div>
                                         <p className="text-sm text-gray-700"><strong>Steady Inflow:</strong> Keep a healthy bank balance. Banks look at your average monthly balance (AMB) when reconsidering you after a few years.</p>
                                     </div>
                                 </div>
@@ -533,7 +542,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         </section>
 
                         <section id="why-settleloans" className="scroll-mt-32 mb-16">
-                            <h2 className="text-2xl md:text-3xl font-bold text-[var(--color-primary)] mb-8 leading-tight">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Why Use Professional Negotiators?
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">
@@ -621,19 +630,78 @@ export default function NegotiatePersonalLoanSettlementPage() {
                             </div>
                         </section>
 
+                        <h2 id="reviews" className="scroll-mt-32 text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Client Success Stories</h2>
+                        <div className="grid md:grid-cols-2 gap-6 not-prose mb-16">
+                            {[
+                                {
+                                    name: "Rajesh Kumar",
+                                    loc: "Mumbai",
+                                    loan: "HDFC Personal Loan: ₹8L",
+                                    res: "Settled: ₹3.5L",
+                                    story: "SettleLoans helped me negotiate my HDFC personal loan from 8 lakhs down to 3.5 lakhs. The process was transparent and the harassment stopped within days."
+                                },
+                                {
+                                    name: "Sunil Mehta",
+                                    loc: "Delhi",
+                                    loan: "ICICI Personal Loan: ₹12L",
+                                    res: "Settled: ₹4.8L",
+                                    story: "My personal loan settlement was stuck for months. SettleLoans got it closed in 3 weeks with a 60% waiver. Highly professional team."
+                                },
+                                {
+                                    name: "Deepa Francis",
+                                    loc: "Kochi",
+                                    loan: "Axis Bank Loan: ₹5.5L",
+                                    res: "Settled: ₹2.2L",
+                                    story: "Saved me from a legal notice. Highly professional team who knows how to handle bank managers effectively."
+                                },
+                                {
+                                    name: "Meera Krishnan",
+                                    loc: "Bangalore",
+                                    loan: "Bajaj Finance: ₹4L",
+                                    res: "Settled: ₹1.8L",
+                                    story: "Extremely professional. They handled the legal notices and got me a second chance at settlement when I had almost given up."
+                                }
+                            ].map((review, i) => (
+                                <div key={i} className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
+                                    <div className="flex items-center mb-4">
+                                        <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
+                                        <div><h5 className="font-bold text-[#2E2E2E]">{review.name}</h5><p className="text-xs text-gray-400">{review.loc}</p></div>
+                                        <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
+                                            <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
+                                            <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
+                                            <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
+                                            <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
+                                            <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
+                                        </div>
+                                    </div>
+                                    <div className="mb-4 text-xs font-mono bg-gray-50 p-2 rounded border border-gray-100">
+                                        <span className="block text-red-600 mb-1 flex items-center">
+                                            <FontAwesomeIcon icon={faTriangleExclamation} className="mr-2 w-3 h-3" />
+                                            {review.loan}
+                                        </span>
+                                        <span className="block text-green-600 font-bold flex items-center">
+                                            <FontAwesomeIcon icon={faCheck} className="mr-2 w-3 h-3" />
+                                            {review.res}
+                                        </span>
+                                    </div>
+                                    <p className="text-sm text-[var(--color-text-body)] italic leading-relaxed">"{review.story}"</p>
+                                </div>
+                            ))}
+                        </div>
+
                         <div className="mt-16 pt-8 border-t border-[var(--color-border)] text-center text-[var(--color-text-muted)] text-sm italic mb-16">
                             <p>Disclaimer: Loan settlement is a negotiation process and outcomes are not guaranteed. The information provided is for educational purposes and does not constitute legal or financial advice. Settling a loan has a negative impact on your credit score. SettleLoans is a professional service provider and not an affiliate of the RBI or any banking institution.</p>
                         </div>
 
                         {/* Bottom CTA */}
-                        <section className="bg-[var(--color-primary)] rounded-3xl p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
+                        <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
-                                <h2 className="text-3xl md:text-5xl font-bold mb-6">Ready to Start Your Negotiation?</h2>
-                                <p className="text-lg md:text-xl opacity-90 max-w-2xl mx-auto mb-10 leading-relaxed">
+                                <h2 className="text-3xl md:text-5xl font-black mb-6 uppercase tracking-tighter">Ready to Start Your Negotiation?</h2>
+                                <p className="text-lg md:text-2xl opacity-90 max-w-2xl mx-auto mb-10 leading-tight font-normal">
                                     Join 10,000+ Indians who have successfully settled their debts with professional help. Break the debt cycle today.
                                 </p>
-                                <Link href="/contact" className="inline-block bg-white text-[var(--color-primary)] font-bold py-5 px-12 rounded-full text-xl hover:bg-gray-100 transition-all shadow-xl hover:-translate-y-1">
+                                <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-bold py-5 px-12 rounded-[10px] text-xl hover:bg-gray-100 transition-all shadow-xl hover:-translate-y-1">
                                     Start My Free Analysis
                                 </Link>
                             </div>
@@ -641,13 +709,13 @@ export default function NegotiatePersonalLoanSettlementPage() {
 
                         {/* Mobile Right Column Alternative (Visible only on mobile) */}
                         <div className="lg:hidden mt-16 mb-8">
-                            <div className="bg-white rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.06)] overflow-hidden border border-[var(--color-border)]">
-                                <div className="bg-[var(--color-primary)] p-6 text-center text-white">
-                                    <h3 className="text-2xl font-bold mb-2">Professional Help</h3>
+                            <div className="bg-white rounded-[10px] shadow-[0_8px_30px_rgb(0,0,0,0.06)] overflow-hidden border border-[var(--color-border)]">
+                                <div className="bg-[#1F5EFF] p-6 text-center text-white">
+                                    <h3 className="text-2xl font-bold mb-2 uppercase tracking-wide">Professional Help</h3>
                                     <p className="opacity-90 text-sm">Let our experts handle the negotiations for you.</p>
                                 </div>
                                 <div className="p-8 text-center">
-                                    <Link href="/contact" className="inline-block w-full bg-[var(--color-primary)] text-white font-semibold py-4 px-6 rounded-xl hover:bg-[var(--color-primary-hover)] transition-all shadow-md text-lg text-center">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-bold py-4 px-6 rounded-[10px] hover:scale-105 transition-all shadow-md text-lg text-center">
                                         Consult Experts
                                     </Link>
                                 </div>
@@ -660,15 +728,15 @@ export default function NegotiatePersonalLoanSettlementPage() {
                         <div className="sticky top-24 space-y-8">
 
                             {/* CTA Container */}
-                            <div className="bg-white rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.06)] overflow-hidden border border-[var(--color-border)] group">
-                                <div className="bg-[var(--color-primary)] p-4 text-center">
-                                    <h3 className="text-lg font-bold text-white">Save 50% Today</h3>
+                            <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
+                                <div className="bg-[#1F5EFF] p-4 text-center">
+                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Save 50% Today</h3>
                                 </div>
-                                <div className="p-6 text-center">
-                                    <p className="mb-6 text-sm text-[var(--color-text-body)] opacity-80 leading-relaxed">
+                                <div className="p-8 text-center">
+                                    <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
                                         Start your debt-free journey with clearly defined costs and zero harassment.
                                     </p>
-                                    <Link href="/contact" className="inline-block w-full bg-[var(--color-primary)] text-white font-semibold py-3 px-4 rounded-xl hover:bg-[var(--color-primary-hover)] transition-all shadow-md group-hover:shadow-lg">
+                                    <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-6 rounded-[12px] hover:scale-105 transition-all shadow-md group-hover:shadow-lg text-lg">
                                         Get Free Call
                                     </Link>
                                 </div>

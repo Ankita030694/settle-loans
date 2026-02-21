@@ -23,9 +23,9 @@ export default function SettlementLetters() {
 
   return (
     <section className="relative bg-[#2E2E2E] py-12 md:py-[10vh] overflow-hidden flex flex-col items-center">
-        
+
       <div className="relative z-10 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 w-full text-center mb-12 md:mb-[5vh]">
-        <h2 
+        <h2
           className={`
             max-w-5xl mx-auto font-black leading-[1.1] tracking-tight text-[#DEDEDE]
             text-[clamp(35px,5vh,50px)] sm:text-[clamp(40px,6vh,60px)] md:text-[clamp(50px,7.5vh,75px)]
@@ -36,7 +36,7 @@ export default function SettlementLetters() {
           Real Settlements. <br /> Real Results.
         </h2>
 
-        <p 
+        <p
           className="max-w-3xl mx-auto font-normal leading-[1.07] text-[#DEDEDE] transition-opacity duration-700
             text-[clamp(18px,2.5vh,22px)] md:text-[clamp(22px,3vh,27px)]"
           style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}
@@ -65,54 +65,54 @@ export default function SettlementLetters() {
             }
           }}
           navigation={{
-             prevEl: prevRef.current,
-             nextEl: nextRef.current,
+            prevEl: prevRef.current,
+            nextEl: nextRef.current,
           }}
-          onBeforeInit={(swiper) => {
-             if (typeof swiper.params.navigation !== 'boolean') {
-                const navigation = swiper.params.navigation as any;
-                navigation.prevEl = prevRef.current;
-                navigation.nextEl = nextRef.current;
-             }
+          onBeforeInit={(swiper: SwiperType) => {
+            if (typeof swiper.params.navigation !== 'boolean') {
+              const navigation = swiper.params.navigation as any;
+              navigation.prevEl = prevRef.current;
+              navigation.nextEl = nextRef.current;
+            }
           }}
           modules={[Navigation]}
           className="w-full settlement-swiper !overflow-visible"
         >
           {letters.map((letter) => (
             <SwiperSlide key={letter.id} className="transition-all duration-500 ease-out flex justify-center">
-              {({ isActive, isPrev, isNext }) => {
+              {({ isActive }: { isActive: boolean }) => {
                 // Determine if this slide is one of the "side" slides or the active one
                 // Swiper's loop mode makes indices tricky, so we rely on isActive and neighbor classes if needed, 
                 // but for 1-2-2 we can use opacity based on distance from center.
                 return (
-                  <div 
+                  <div
                     className={`
                       relative rounded-xl transition-all duration-700 ease-out w-full
                       ${isActive ? 'z-20 scale-100 opacity-100' : 'z-10 scale-90 opacity-40 grayscale-[0.8] brightness-50'}
                     `}
-                    style={{ 
+                    style={{
                       aspectRatio: '0.707',
                     }}
                   >
-                      {/* Active Blue Glow */}
-                      {isActive && (
-                           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[100%] h-[100%] z-0 bg-[#007AFF] blur-[30px] opacity-60 pointer-events-none"></div>
-                      )}
-                       
-                      {/* Card Container */ }
-                     <div className={`
+                    {/* Active Blue Glow */}
+                    {isActive && (
+                      <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[100%] h-[100%] z-0 bg-[#1F5EFF] blur-[30px] opacity-60 pointer-events-none"></div>
+                    )}
+
+                    {/* Card Container */}
+                    <div className={`
                          relative rounded-xl overflow-hidden h-full w-full bg-white shadow-2xl z-10
                      `}>
-                           <div className="relative h-full w-full bg-white flex items-center justify-center overflow-hidden">
-                              <Image 
-                                  src={letter.src} 
-                                  alt={letter.alt} 
-                                  fill 
-                                  className="object-contain" 
-                                  sizes="(max-width: 768px) 70vw, (max-width: 1200px) 40vw, 30vw"
-                              />
-                           </div>
-                     </div>
+                      <div className="relative h-full w-full bg-white flex items-center justify-center overflow-hidden">
+                        <Image
+                          src={letter.src}
+                          alt={letter.alt}
+                          fill
+                          className="object-contain"
+                          sizes="(max-width: 768px) 70vw, (max-width: 1200px) 40vw, 30vw"
+                        />
+                      </div>
+                    </div>
                   </div>
                 );
               }}
@@ -122,12 +122,12 @@ export default function SettlementLetters() {
 
         {/* Custom Navigation Buttons */}
         <div className="flex justify-center items-center gap-6 mt-12 relative z-30">
-            <button ref={prevRef} className="swiper-button-prev-custom group flex items-center justify-center w-12 h-12 rounded-full bg-[#1A1A1A] border border-[#333] hover:bg-[#333] transition-all duration-300">
-                <ArrowLeft className="w-6 h-6 text-white/70 group-hover:text-white transition-colors" />
-            </button>
-            <button ref={nextRef} className="swiper-button-next-custom group flex items-center justify-center w-12 h-12 rounded-full bg-[#1A1A1A] border border-[#333] hover:bg-[#333] transition-all duration-300">
-                <ArrowRight className="w-6 h-6 text-white/70 group-hover:text-white transition-colors" />
-            </button>
+          <button ref={prevRef} className="swiper-button-prev-custom group flex items-center justify-center w-12 h-12 rounded-full bg-[#1A1A1A] border border-[#333] hover:bg-[#333] transition-all duration-300">
+            <ArrowLeft className="w-6 h-6 text-white/70 group-hover:text-white transition-colors" />
+          </button>
+          <button ref={nextRef} className="swiper-button-next-custom group flex items-center justify-center w-12 h-12 rounded-full bg-[#1A1A1A] border border-[#333] hover:bg-[#333] transition-all duration-300">
+            <ArrowRight className="w-6 h-6 text-white/70 group-hover:text-white transition-colors" />
+          </button>
         </div>
       </div>
     </section>
