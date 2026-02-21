@@ -154,9 +154,9 @@ export default function FAQsPage() {
             },
             {
               "@type": "ListItem",
-              "position": 18,
-              "name": "Student Loan Specialized Programs",
-              "url": "https://settleloans.in/faqs/specialized-programs-student-loan-defaults-india"
+              "position": 19,
+              "name": "Top Loan Settlement Companies",
+              "url": "https://settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india"
             }
           ]
         }
@@ -486,8 +486,19 @@ export default function FAQsPage() {
               <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
                 Specialized guides on Vidya Lakshmi, PM-Vidyalaxmi, and NCGTC guarantees for education loan settlement.
               </p>
+            </Link>
+
+            {/* Card 20 */}
+            <Link href="/faqs/which-companies-offer-loan-settlement-services-in-india" className="group block bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Top Loan Settlement Companies</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Discover which companies offer loan settlement services in India, their typical processes, and ranking for 2024-25.
+              </p>
               <div className="text-[#1F5EFF] font-black text-sm flex items-center">
-                Student Guide <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+                View Companies <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
               </div>
             </Link>
           </div>
