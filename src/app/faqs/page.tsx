@@ -181,6 +181,30 @@ export default function FAQsPage() {
               "position": 23,
               "name": "How to Choose a Trustworthy Debt Settlement Company",
               "url": "https://settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me"
+            },
+            {
+              "@type": "ListItem",
+              "position": 24,
+              "name": "P2P Lending & Loan Settlements",
+              "url": "https://settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements"
+            },
+            {
+              "@type": "ListItem",
+              "position": 25,
+              "name": "Loan Write-off vs. Settlement",
+              "url": "https://settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements"
+            },
+            {
+              "@type": "ListItem",
+              "position": 26,
+              "name": "Joint Loan Settlement Implications",
+              "url": "https://settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers"
+            },
+            {
+              "@type": "ListItem",
+              "position": 27,
+              "name": "Alternatives to Loan Settlement",
+              "url": "https://settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online"
             }
           ]
         }
@@ -582,6 +606,118 @@ export default function FAQsPage() {
               </p>
               <div className="mt-auto text-[#1F5EFF] font-black text-sm flex items-center">
                 Vetting Guide <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 25: Contact Details for Top-Rated Debt Resolution Companies */}
+            <Link href="/faqs/contact-details-top-rated-debt-resolution-companies-india" className="group flex flex-col h-full bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Company Contact Directory</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Verified phone numbers, addresses, and email contacts for India's top-rated debt resolution and legal advisor firms.
+              </p>
+              <div className="mt-auto text-[#1F5EFF] font-black text-sm flex items-center">
+                View Contacts <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 26: Government-Approved Loan Settlement Services */}
+            <Link href="/faqs/government-approved-loan-settlement-services-online" className="group flex flex-col h-full bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Government-Approved Path</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Learn about the RBI guidelines, Lok Adalat sessions, and legal frameworks that govern loan settlement in India.
+              </p>
+              <div className="mt-auto text-[#1F5EFF] font-black text-sm flex items-center">
+                Learn Regulations <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 27: User Reviews for Popular Settlement Platforms */}
+            <Link href="/faqs/user-reviews-popular-loan-settlement-platforms" className="group flex flex-col h-full bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.382-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Platform User Reviews</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Honest feedback and ratings from real borrowers who successfully used online platforms to resolve their debt.
+              </p>
+              <div className="mt-auto text-[#1F5EFF] font-black text-sm flex items-center">
+                Read Reviews <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 28: Best Deal on Vehicle Loan Settlement */}
+            <Link href="/faqs/best-settlement-deal-vehicle-loan-online-services" className="group flex flex-col h-full bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Vehicle Loan Settlement</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Strategies to secure the best waiver deals for car and bike loans while preventing asset repossession.
+              </p>
+              <div className="mt-auto text-[#1F5EFF] font-black text-sm flex items-center">
+                Save My Vehicle <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 29: P2P Lending (New) */}
+            <Link href="/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements" className="group flex flex-col h-full bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 01-2 2h-1a2 2 0 01-2-2m-9 0a2 2 0 01-2 2H2a2 2 0 01-2-2"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">P2P Lending & Settlements</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                How peer-to-peer lending platforms handle defaults, recovery, and the legal mechanics of P2P loan settlements.
+              </p>
+              <div className="mt-auto text-[#1F5EFF] font-black text-sm flex items-center">
+                P2P Guide <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 30: Write-off vs Settlement (New) */}
+            <Link href="/faqs/difference-between-loan-write-off-and-loan-settlements" className="group flex flex-col h-full bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Write-off vs. Settlement</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Master the technical distinction between bank write-offs and borrower settlements and their impact on credit.
+              </p>
+              <div className="mt-auto text-[#1F5EFF] font-black text-sm flex items-center">
+                Technical Guide <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 31: Joint Loans (New) */}
+            <Link href="/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers" className="group flex flex-col h-full bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Joint Loan Settlements</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Examine the complex legal and credit implications of settling a joint loan for both co-borrowers and guarantors.
+              </p>
+              <div className="mt-auto text-[#1F5EFF] font-black text-sm flex items-center">
+                Co-borrower Guide <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 32: Alternatives (New) */}
+            <Link href="/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online" className="group flex flex-col h-full bg-white rounded-2xl border border-[#DEDEDE] p-8 shadow-sm hover:shadow-lg transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-blue-50 text-blue-600 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] transition-colors">Debt Relief Alternatives</h3>
+              <p className="text-gray-600 text-sm leading-relaxed mb-4 font-normal">
+                Explore debt consolidation, RBI restructuring, and strategic repayment plans as powerful alternatives to settlement.
+              </p>
+              <div className="mt-auto text-[#1F5EFF] font-black text-sm flex items-center">
+                Relief Guide <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
               </div>
             </Link>
           </div>

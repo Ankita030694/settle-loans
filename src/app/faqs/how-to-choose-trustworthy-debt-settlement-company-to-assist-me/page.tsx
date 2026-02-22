@@ -257,11 +257,14 @@ export default function TrustworthyCompanyPage() {
                                 { id: "pillars-of-trust", title: "Core Pillars of Integrity" },
                                 { id: "red-flag-checklist", title: "Scam Detection Checklist" },
                                 { id: "vetting-protocol", title: "7-Step Vetting Protocol" },
+                                { id: "business-economics", title: "Business Integrity" },
+                                { id: "sanction-letter-forensics", title: "Letter Forensics" },
                                 { id: "fee-structures", title: "Fee Myths vs Reality" },
                                 { id: "contract-analysis", title: "Fine Print Analysis" },
                                 { id: "digital-security", title: "Safe Data Practices" },
                                 { id: "social-proof", title: "Authentic Reviews" },
                                 { id: "corporate-governance", title: "Operational Standards" },
+                                { id: "regulatory-landscape-2025", title: "Regulatory Landscape" },
                                 { id: "legal-expertise", title: "Role of Legal Team" },
                                 { id: "faqs", title: "Expert FAQs" }
                             ]}
@@ -396,6 +399,73 @@ export default function TrustworthyCompanyPage() {
                             </div>
                         </section>
 
+                        <section id="business-economics" className="scroll-mt-32 mb-16">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                                Business Integrity: How Professional Agencies Avoid Conflicts of Interest
+                            </h2>
+                            <p className="text-lg leading-relaxed mb-6">
+                                A major concern for many borrowers is whether a debt settlement company is secretly working for the banks. This is a valid fear. In many cases, collection agencies 're-brand' themselves as settlement experts to get closer to the borrower and gather data for the bank. To avoid this conflict of interest, a trustworthy company must follow a strict **Independence Framework**.
+                            </p>
+                            <p className="text-lg leading-relaxed mb-6">
+                                The business model should be built around **Borrower-Side ROI**. If an agency gets paid a commission by the bank, they are biased toward the bank's interests. A truly professional firm like SettleLoans charges only the borrower, ensuring that their only incentive is to maximize the SAVINGS for the client. This independence is verified through corporate governance audits and the absence of 'Master Service Agreements' (MSAs) with the very lenders they are negotiating against.
+                            </p>
+                            <div className="p-8 bg-blue-50 rounded-2xl border border-blue-100 italic text-sm mb-8">
+                                "The hallmark of integrity is the refusal to accept referral fees from banks. If your settlement agent suggests a specific consolidation loan from a bank they also represent, you are looking at a conflict of interest that could cost you lakhs in unnecessary interest."
+                            </div>
+                        </section>
+
+                        <section id="sanction-letter-forensics" className="scroll-mt-32 mb-16">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                                Sanction Letter Forensics: How to Spot a "Photoshop" Settlement
+                            </h2>
+                            <p className="text-lg leading-relaxed mb-6">
+                                One of the most common scams involves fake 'Settlement Letters' or 'Sanction Letters' created by unscrupulous agents to collect their success fees. These letters look real but are ignored by the bank's system. When the bank eventually sues you, the agent has disappeared with your money.
+                            </p>
+                            <div className="grid md:grid-cols-2 gap-8 mb-8">
+                                <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
+                                    <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs">Authentic Markers</h5>
+                                    <ul className="space-y-4 text-xs font-sans">
+                                        <li><FontAwesomeIcon icon={faCheck} className="text-green-500 mr-2" /> Official Bank Letterhead with a physically verifiable branch code.</li>
+                                        <li><FontAwesomeIcon icon={faCheck} className="text-green-500 mr-2" /> Signature of an authorized bank officer with their Employee ID.</li>
+                                        <li><FontAwesomeIcon icon={faCheck} className="text-green-500 mr-2" /> Explicit mention of 'Full and Final Settlement' and the CIBIL 'Settled' status.</li>
+                                        <li><FontAwesomeIcon icon={faCheck} className="text-green-500 mr-2" /> A unique Reference Number that you can verify by calling the bank's official helpline.</li>
+                                    </ul>
+                                </div>
+                                <div className="p-6 bg-red-50 border border-red-100 rounded-2xl shadow-sm">
+                                    <h5 className="font-bold text-red-600 mb-2 uppercase text-xs">Forgery Red Flags</h5>
+                                    <ul className="space-y-4 text-xs font-sans">
+                                        <li><FontAwesomeIcon icon={faTriangleExclamation} className="text-red-500 mr-2" /> Spelling mistakes in the bank's own name or address.</li>
+                                        <li><FontAwesomeIcon icon={faTriangleExclamation} className="text-red-500 mr-2" /> Instruction to pay the settlement amount to a 'Company Account' instead of the bank.</li>
+                                        <li><FontAwesomeIcon icon={faTriangleExclamation} className="text-red-500 mr-2" /> Low-resolution logos or obvious signs of digital 'Doctoring'.</li>
+                                        <li><FontAwesomeIcon icon={faTriangleExclamation} className="text-red-500 mr-2" /> Missing 'Date of Expiry' for the settlement offer.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </section>
+
+                        <section id="escrow-ethics-depth" className="scroll-mt-32 mb-16">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                                Escrow Ethics: Where Should Your Money Sit?
+                            </h2>
+                            <p className="text-lg leading-relaxed mb-6">
+                                A major differentiating factor between legitimate firms and scammers is how they handle your 'Accumulation Funds.' Professional firms often use a **Dedicated Savings Account** (sometimes called an Escrow Account) where you save money for the final lump-sum payment.
+                            </p>
+                            <div className="space-y-8">
+                                <div className="p-8 bg-gray-50 rounded-3xl border border-gray-200">
+                                    <p className="font-bold text-[#2E2E2E] mb-2">The Golden Rule of Custody</p>
+                                    <p className="text-sm opacity-80 leading-relaxed">
+                                        You should always maintain ownership and control over your funds. An agency should NEVER have "Power of Attorney" to withdraw money from your account. The escrow account should be in your name, with a third-party trustee (usually a licensed financial institution) ensuring that the money is only released to the BANK once a sanction letter is verified.
+                                    </p>
+                                </div>
+                                <div className="p-8 bg-gray-50 rounded-3xl border border-gray-200">
+                                    <p className="font-bold text-[#2E2E2E] mb-2">Risks of "Pool Accounts"</p>
+                                    <p className="text-sm opacity-80 leading-relaxed">
+                                        Scam agencies often ask you to deposit money into a "Pool Account" containing funds from hundreds of borrowers. This is illegal and high-risk. If the agency goes bankrupt or the directors flee, your money is gone with no legal recourse. Always insist on an individual account structure.
+                                    </p>
+                                </div>
+                            </div>
+                        </section>
+
                         <section id="fee-structures" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Understanding Fee Structures: Myths vs. Reality
@@ -453,7 +523,19 @@ export default function TrustworthyCompanyPage() {
                             </div>
                         </section>
 
-                        <section id="digital-security" className="scroll-mt-32 mb-16">
+                        <section id="regulatory-landscape-2025" className="scroll-mt-32 mb-16">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                                Regulatory Landscape 2025: The Future of Debt Resolution Oversight
+                            </h2>
+                            <p className="text-lg leading-relaxed mb-6">
+                                As the Indian debt resolution market matures, the regulatory environment is shifting from 'Laissez-faire' to structured oversight. While the RBI does not currently license debt settlement companies directly, the introduction of the **Digital Personal Data Protection (DPDP) Act** and new **Fair Practices Codes** for Lenders has created a de-facto regulatory framework for third-party mediators.
+                            </p>
+                            <p className="text-lg leading-relaxed mb-6">
+                                In 2025, we expect to see the emergence of 'SROs' (Self-Regulatory Organizations) for the debt relief industry. Trustworthy companies are already aligning their operations with these upcoming standards by implementing ISO certifications for data security and establishing independent 'Ombudsman' offices for internal grievance redressal. Choosing a company that is proactive about these regulatory shifts ensures that your case won't be disrupted by future legal changes in the banking sector.
+                            </p>
+                        </section>
+
+                        <section id="legal-expertise" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
                                 Digital Security and Data Privacy in Debt Resolution
                             </h2>
@@ -518,6 +600,28 @@ export default function TrustworthyCompanyPage() {
                                         </div>
                                     </details>
                                 ))}
+                            </div>
+                        </section>
+
+                        <section id="final-vetting-checklist" className="scroll-mt-32 mb-16 bg-blue-600 p-8 md:p-12 rounded-[40px] text-white">
+                            <h2 className="text-3xl font-black mb-6 uppercase tracking-tight">The 60-Second Trust Audit</h2>
+                            <div className="grid md:grid-cols-2 gap-6">
+                                <div className="flex gap-4 items-center">
+                                    <div className="w-8 h-8 rounded-full bg-white/20 flex items-center justify-center flex-shrink-0"><FontAwesomeIcon icon={faCheck} /></div>
+                                    <p className="text-sm font-bold">Does the website list a GST and CIN number?</p>
+                                </div>
+                                <div className="flex gap-4 items-center">
+                                    <div className="w-8 h-8 rounded-full bg-white/20 flex items-center justify-center flex-shrink-0"><FontAwesomeIcon icon={faCheck} /></div>
+                                    <p className="text-sm font-bold">Are there video testimonials from real clients?</p>
+                                </div>
+                                <div className="flex gap-4 items-center">
+                                    <div className="w-8 h-8 rounded-full bg-white/20 flex items-center justify-center flex-shrink-0"><FontAwesomeIcon icon={faCheck} /></div>
+                                    <p className="text-sm font-bold">Is the success fee deferred until after settlement?</p>
+                                </div>
+                                <div className="flex gap-4 items-center">
+                                    <div className="w-8 h-8 rounded-full bg-white/20 flex items-center justify-center flex-shrink-0"><FontAwesomeIcon icon={faCheck} /></div>
+                                    <p className="text-sm font-bold">Do they have a verified physical office location?</p>
+                                </div>
                             </div>
                         </section>
 
