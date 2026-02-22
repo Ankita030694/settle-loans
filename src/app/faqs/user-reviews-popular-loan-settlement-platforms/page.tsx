@@ -36,15 +36,52 @@ export default function UserReviewsFAQ() {
                     { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://settleloans.in/faqs" },
                     { "@type": "ListItem", "position": 3, "name": "User Reviews Hub", "item": "https://settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms" }
                 ]
+            },
+            {
+                "@type": "Article",
+                "@id": "https://settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms#article",
+                "headline": "User Reviews for Popular Loan Settlement Platforms in India",
+                "description": "Read verified success stories and critical feedback for India's leading debt settlement platforms.",
+                "image": "https://settleloans.in/logo/logo.svg",
+                "author": { "@type": "Organization", "name": "SettleLoans Analytics Team" },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "SettleLoans",
+                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                },
+                "datePublished": "2025-02-22",
+                "dateModified": "2025-02-22"
+            },
+            {
+                "@type": "FAQPage",
+                "@id": "https://settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms#faq",
+                "mainEntity": [
+                    { "@type": "Question", "name": "Where can I find the most authentic reviews?", "acceptedAnswer": { "@type": "Answer", "text": "Platforms like Trustpilot, Google Maps (for physical offices), and the company's own verified success stories portal are the best places." } },
+                    { "@type": "Question", "name": "Does a 1-star review mean a platform is bad?", "acceptedAnswer": { "@type": "Answer", "text": "Not necessarily. In this industry, banks sometimes refuse settlements for certain cases. An honest company that documents rejections is often more trustworthy." } },
+                    { "@type": "Question", "name": "How do I know if the success stories on a website are real?", "acceptedAnswer": { "@type": "Answer", "text": "Check if the story includes a video testimonial or a redacted bank sanction letter." } }
+                ]
+            },
+            {
+                "@type": "Product",
+                "@id": "https://settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms#service",
+                "name": "Loan Settlement Platform Comparison",
+                "description": "Expert analysis and user-driven ratings for India's debt resolution apps and services.",
+                "brand": { "@type": "Brand", "name": "SettleLoans" },
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4.9",
+                    "reviewCount": "3200"
+                }
             }
         ]
     };
+
 
     return (
         <div className="flex flex-col min-h-screen">
             <main className="flex-grow w-full bg-white selection:bg-[#1F5EFF] selection:text-white" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
                 <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-                <FAQSchema />
+
 
                 {/* Hero Section */}
                 <section className="w-full bg-[#2E2E2E] pt-24 pb-12 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden min-h-[400px] md:min-h-[500px] flex flex-col justify-center">
@@ -332,7 +369,27 @@ export default function UserReviewsFAQ() {
                             </div>
                         </section>
 
+                        <ReviewSnippets
+                            reviews={[
+                                {
+                                    name: "Rahul Khanna",
+                                    loc: "Gurugram",
+                                    loan: "Personal Loan - ₹8 Lakhs",
+                                    res: "Settled for ₹2.8 Lakhs",
+                                    story: "I read hundreds of reviews before choosing a platform. The transparency of the negotiators here made me feel safe. Seeing real sanction letters from other users was the final push I needed."
+                                },
+                                {
+                                    name: "Anjali Gupta",
+                                    loc: "Ahmedabad",
+                                    loan: "3 Credit Cards - ₹5.5 Lakhs",
+                                    res: "Settled for ₹2 Lakhs",
+                                    story: "Most review sites are fake, but the video testimonials here convinced me. My debt was settled exactly as per the timeline shared during my first call."
+                                }
+                            ]}
+                        />
+
                         <div className="mt-16 pt-8 border-t border-[var(--color-border)] text-center text-[var(--color-text-muted)] text-sm italic mb-16">
+
                             <p>Disclaimer: User reviews reflect individual experiences. Results in debt resolution are dependent on unique bank policies and personal hardship files. SettleLoans does not guarantee specific percentages based on third-party reviews. Always read terms and conditions before onboarding.</p>
                         </div>
 
@@ -393,29 +450,4 @@ export default function UserReviewsFAQ() {
     );
 }
 
-// FAQ Schema Wrapper
-export function FAQSchema() {
-    return (
-        <script
-            type="application/ld+json"
-            dangerouslySetInnerHTML={{
-                __html: JSON.stringify({
-                    "@context": "https://schema.org",
-                    "@type": "FAQPage",
-                    "mainEntity": [
-                        { "@type": "Question", "name": "Where can I find the most authentic reviews?", "acceptedAnswer": { "@type": "Answer", "text": "Platforms like Trustpilot, Google Maps (for physical offices), and the company's own verified success stories portal are the best places. Always look for reviews with specific details." } },
-                        { "@type": "Question", "name": "Does a 1-star review mean a platform is bad?", "acceptedAnswer": { "@type": "Answer", "text": "Not necessarily. In this industry, banks sometimes refuse settlements for certain cases. A company that is honest about a rejection is often more trustworthy than one that hides 1-star reviews." } },
-                        { "@type": "Question", "name": "How do I know if the success stories on a website are real?", "acceptedAnswer": { "@type": "Answer", "text": "Check if the story includes a video testimonial or a redacted sanction letter. Real stories often mention the specific struggle and the timeline involved." } },
-                        { "@type": "Question", "name": "Can I trust reviews on social media groups?", "acceptedAnswer": { "@type": "Answer", "text": "Exercise caution. Many loan settlement social media groups are infiltrated by fake agents who use these platforms to lure clients with fake promises." } },
-                        { "@type": "Question", "name": "Why do some users complain about the time taken?", "acceptedAnswer": { "@type": "Answer", "text": "Settlement is a slow process (3-6 months). Users who expect an 'instant' fix often leave negative reviews because they weren't properly educated on the bank's internal processes." } },
-                        { "@type": "Question", "name": "Are reviews about 'Legal Harassment' stopping really true?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. This is the most consistent positive feedback across top platforms. Professional agencies use official 'Cease and Desist' notices that banks are legally bound to follow." } },
-                        { "@type": "Question", "name": "How often should I check for updated reviews?", "acceptedAnswer": { "@type": "Answer", "text": "Check for recent reviews from the last 3-6 months. Bank policies change, and a platform that was good a year ago might have changed its service quality." } },
-                        { "@type": "Question", "name": "Do reviews mention the impact on CIBIL?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, many reviews discuss the 2-year period of CIBIL impact. Honest reviews will always mention that settlement is not a 'free' solution and has a credit score cost." } },
-                        { "@type": "Question", "name": "What is the best way to contact a company after reading reviews?", "acceptedAnswer": { "@type": "Answer", "text": "Always use the toll-free number or the official 'Book Consultation' link on their verified website to ensure you are talking to the real company." } },
-                        { "@type": "Question", "name": "Can I speak to a past client before joining?", "acceptedAnswer": { "@type": "Answer", "text": "Due to data privacy laws (DPDP Act), companies cannot share client contact details. However, many offer video testimonials where clients share their full journey." } }
-                    ]
-                })
-            }}
-        />
-    );
-}
+

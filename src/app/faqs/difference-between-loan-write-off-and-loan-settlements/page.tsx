@@ -45,9 +45,31 @@ export default function LoanWriteOffVsSettlementPage() {
                 "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" } },
                 "datePublished": "2024-02-22",
                 "dateModified": "2024-02-22"
+            },
+            {
+                "@type": "FAQPage",
+                "@id": "https://settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements#faq",
+                "mainEntity": [
+                    { "@type": "Question", "name": "Does a write-off mean I don't have to pay?", "acceptedAnswer": { "@type": "Answer", "text": "No. A write-off is an internal accounting move by the bank for tax purposes. You are still legally liable to pay the debt, and interest continues to accumulate." } },
+                    { "@type": "Question", "name": "What is the CIBIL status for a write-off?", "acceptedAnswer": { "@type": "Answer", "text": "The status will show as 'Written-Off'. This is considered highly negative by lenders and will prevent you from getting any new credit." } },
+                    { "@type": "Question", "name": "Can I settle a loan after it has been written off?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it is actually one of the best times to settle. Since the bank has already provisioned for the loss, they are often more open to a lump-sum compromise settlement." } }
+                ]
+            },
+            {
+                "@type": "Product",
+                "@id": "https://settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements#service",
+                "name": "Debt Resolution Consultation",
+                "description": "Professional guidance on settling 'Written-Off' accounts and improving CIBIL health through legal settlements.",
+                "brand": { "@type": "Brand", "name": "SettleLoans" },
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4.9",
+                    "reviewCount": "1250"
+                }
             }
         ]
     };
+
 
     return (
         <div className="flex flex-col min-h-screen">

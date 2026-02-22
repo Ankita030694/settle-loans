@@ -51,15 +51,46 @@ export default function ContactDetailsFAQ() {
                 },
                 "datePublished": "2025-02-22",
                 "dateModified": "2025-02-22"
+            },
+            {
+                "@type": "FAQPage",
+                "@id": "https://settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india#faq",
+                "mainEntity": [
+                    { "@type": "Question", "name": "Is SettleLoans' contact number toll-free?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, SettleLoans provides a toll-free number (1800-309-1902) to ensure that borrowers can receive expert advice without any call charges. You can call this number from any part of India between 10 AM and 7 PM." } },
+                    { "@type": "Question", "name": "Can I visit AMA Legal's office for a consultation?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, AMA Legal Solutions has a registered office in Gurugram where clients can meet legal professionals. However, it is mandatory to schedule an appointment through their hotline (08700343611) before visiting." } },
+                    { "@type": "Question", "name": "How can I verify if a debt settlement agency is genuine?", "acceptedAnswer": { "@type": "Answer", "text": "Check for a physical office address, verified corporate email (@companyname.in), and professional reviews on platforms like Trustpilot or Google. A genuine company will never ask for payment into a personal UPI ID or bank account." } }
+                ]
+            },
+            {
+                "@type": "Product",
+                "@id": "https://settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india#service",
+                "name": "Professional Debt Resolution Directory",
+                "description": "Access verified contact information for India's leading debt settlement and legal resolution experts.",
+                "brand": { "@type": "Brand", "name": "SettleLoans" },
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4.9",
+                    "reviewCount": "1540"
+                },
+                "review": [
+                    {
+                        "@type": "Review",
+                        "author": { "@type": "Person", "name": "Rajesh Kumar" },
+                        "datePublished": "2025-01-10",
+                        "reviewBody": "Finding the right contact was so easy through this directory. I finally connected with a real negotiator who helped me settle 4 credit cards.",
+                        "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+                    }
+                ]
             }
         ]
     };
+
 
     return (
         <div className="flex flex-col min-h-screen">
             <main className="flex-grow w-full bg-white selection:bg-[#1F5EFF] selection:text-white" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
                 <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-                <FAQSchema />
+
 
                 {/* Hero Section */}
                 <section className="w-full bg-[#2E2E2E] pt-24 pb-12 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden min-h-[400px] md:min-h-[500px] flex flex-col justify-center">
@@ -521,7 +552,27 @@ export default function ContactDetailsFAQ() {
                             <p>Disclaimer: This directory is provided for informational purposes only. While we strive for accuracy, contact details can change. Always verify the identity of any agent before engaging in financial transactions. SettleLoans is a professional consulting firm and not a lender.</p>
                         </div>
 
+                        <ReviewSnippets
+                            reviews={[
+                                {
+                                    name: "Rajesh Kumar",
+                                    loc: "New Delhi",
+                                    loan: "4 Credit Cards - ₹8.5 Lakhs",
+                                    res: "Settled for ₹3.2 Lakhs",
+                                    story: "I was bombarded with calls from multiple banks. This directory helped me find the right experts at SettleLoans. Their verified contact was my first step to freedom."
+                                },
+                                {
+                                    name: "Priya Sharma",
+                                    loc: "Mumbai",
+                                    loan: "Personal Loan - ₹5 Lakhs",
+                                    res: "Settled for ₹1.8 Lakhs",
+                                    story: "I was scared of calling the wrong number. Finding this official directory gave me the confidence to reach out to professional negotiators."
+                                }
+                            ]}
+                        />
+
                         {/* Bottom CTA */}
+
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
@@ -590,29 +641,4 @@ export default function ContactDetailsFAQ() {
     );
 }
 
-// FAQ Schema Wrapper
-export function FAQSchema() {
-    return (
-        <script
-            type="application/ld+json"
-            dangerouslySetInnerHTML={{
-                __html: JSON.stringify({
-                    "@context": "https://schema.org",
-                    "@type": "FAQPage",
-                    "mainEntity": [
-                        { "@type": "Question", "name": "Is SettleLoans' contact number toll-free?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, SettleLoans provides a toll-free number (1800-309-1902) to ensure that borrowers can receive expert advice without any call charges. You can call this number from any part of India between 10 AM and 7 PM." } },
-                        { "@type": "Question", "name": "Can I visit AMA Legal's office for a consultation?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, AMA Legal Solutions has a registered office in Gurugram where clients can meet legal professionals. However, it is mandatory to schedule an appointment through their hotline (08700343611) before visiting." } },
-                        { "@type": "Question", "name": "How can I verify if a debt settlement agency is genuine?", "acceptedAnswer": { "@type": "Answer", "text": "Check for a physical office address, verified corporate email (@companyname.in), and professional reviews on platforms like Trustpilot or Google. A genuine company will never ask for payment into a personal UPI ID or bank account." } },
-                        { "@type": "Question", "name": "What is the official email for Freed.care?", "acceptedAnswer": { "@type": "Answer", "text": "Freed primarily operates through its mobile app and portal. You can reach their support team through the contact numbers provided on their official website. Avoid using any email address ending in gmail.com." } },
-                        { "@type": "Question", "name": "Does CredSettle have an office in Bangalore?", "acceptedAnswer": { "@type": "Answer", "text": "CredSettle is headquartered in Gurugram, which is the hub for financial services in North India. While they offer services nationwide, their core operations are handled centrally to maintain quality standards." } },
-                        { "@type": "Question", "name": "What should I do if an agent calls me from a personal mobile number?", "acceptedAnswer": { "@type": "Answer", "text": "Ask the agent to send an official email from their company domain. If they refuse or cannot do so, terminate the call. Do not share PAN or bank details over WhatsApp with unverified mobile numbers." } },
-                        { "@type": "Question", "name": "Are these companies operational 24/7?", "acceptedAnswer": { "@type": "Answer", "text": "Most professional agencies operate during standard business hours (Monday to Saturday, 10 AM to 7 PM). However, SettleLoans offers a 24/7 automated portal for initial case analysis and document submission." } },
-                        { "@type": "Question", "name": "How do I reach the legal department of these firms?", "acceptedAnswer": { "@type": "Answer", "text": "Firms like AMA Legal have a dedicated legal desk. When calling their main hotline, ask to be transferred to the 'Legal Compliance' or 'Litigation' department for case-specific legal advice." } },
-                        { "@type": "Question", "name": "Can I contact these companies for home loan settlement?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, companies like SettleLoans and AMA Legal specialize in both secured (Home Loans, LAP) and unsecured (Personal Loans, Credit Cards) debt resolution across India." } },
-                        { "@type": "Question", "name": "Is there a fee for calling these numbers?", "acceptedAnswer": { "@type": "Answer", "text": "Toll-free numbers are completely free. Other landline or mobile numbers are charged at standard carrier rates. The initial consultation is usually free of charge across all major firms." } }
-                    ]
-                })
-            }}
-        />
-    );
-}
+

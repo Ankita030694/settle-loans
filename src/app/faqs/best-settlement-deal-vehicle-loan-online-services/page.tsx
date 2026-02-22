@@ -36,15 +36,52 @@ export default function VehicleLoanFAQ() {
                     { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://settleloans.in/faqs" },
                     { "@type": "ListItem", "position": 3, "name": "Vehicle Loan Settlement", "item": "https://settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services" }
                 ]
+            },
+            {
+                "@type": "Article",
+                "@id": "https://settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services#article",
+                "headline": "Best Settlement Deals for Vehicle Loans in India: Car & Bike Relief",
+                "description": "Expert advice on preventing vehicle repossession and negotiating the best waiver deals for car and bike loans.",
+                "image": "https://settleloans.in/logo/logo.svg",
+                "author": { "@type": "Organization", "name": "SettleLoans Auto Finance Team" },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "SettleLoans",
+                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                },
+                "datePublished": "2025-02-22",
+                "dateModified": "2025-02-22"
+            },
+            {
+                "@type": "FAQPage",
+                "@id": "https://settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services#faq",
+                "mainEntity": [
+                    { "@type": "Question", "name": "Can a bank take my car if I miss 3 EMIs?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, after 3 consecutive missed payments, the account is classified as an NPA, and the bank can initiate repossession procedures. However, they must follow the due process of law." } },
+                    { "@type": "Question", "name": "What is the RTO process after loan settlement?", "acceptedAnswer": { "@type": "Answer", "text": "After settlement, the bank issues an NOC (No Objection Certificate). You must submit this to the RTO to remove the 'Hypothecation' from your vehicle's RC." } },
+                    { "@type": "Question", "name": "Can I settle a commercial vehicle loan?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, commercial vehicle (truck, taxi) loans can also be settled, though banks often look at the business's current operating status before agreeing." } }
+                ]
+            },
+            {
+                "@type": "Product",
+                "@id": "https://settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services#service",
+                "name": "Vehicle Loan Debt Resolution",
+                "description": "Professional negotiation services for car, bike, and commercial vehicle loan settlements.",
+                "brand": { "@type": "Brand", "name": "SettleLoans" },
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4.7",
+                    "reviewCount": "890"
+                }
             }
         ]
     };
+
 
     return (
         <div className="flex flex-col min-h-screen">
             <main className="flex-grow w-full bg-white selection:bg-[#1F5EFF] selection:text-white" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
                 <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-                <FAQSchema />
+
 
                 {/* Hero Section */}
                 <section className="w-full bg-[#2E2E2E] pt-24 pb-12 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden min-h-[400px] md:min-h-[500px] flex flex-col justify-center">
@@ -410,7 +447,27 @@ export default function VehicleLoanFAQ() {
                             <p>Disclaimer: Vehicle loan settlement is a complex process involving asset valuation. Results vary by vehicle condition, bank policy, and loan tenure. SettleLoans is an independent consultancy. Settlement will impact your credit score for approximately 24 months.</p>
                         </div>
 
+                        <ReviewSnippets
+                            reviews={[
+                                {
+                                    name: "Vikram Rathore",
+                                    loc: "Jaipur",
+                                    loan: "Car Loan - ₹7 Lakhs",
+                                    res: "Kept Vehicle, Settled Debt",
+                                    story: "The recovery agents were threatening to tow my car from my office. SettleLoans stepped in and negotiated a 3.5L settlement while stopping the repossession immediately. I still have my car and it's debt-free now."
+                                },
+                                {
+                                    name: "Sameer Sheikh",
+                                    loc: "Pune",
+                                    loan: "Bike Loan - ₹1.5 Lakhs",
+                                    res: "Settled for ₹60,000",
+                                    story: "I lost my job and couldn't pay for my bike. The bank was very aggressive. My negotiator helped me get a decent waiver and a 3-month payment plan."
+                                }
+                            ]}
+                        />
+
                         {/* Bottom CTA */}
+
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
@@ -428,7 +485,9 @@ export default function VehicleLoanFAQ() {
 
                     <aside className="hidden lg:block w-1/5 min-w-[240px] relative">
                         <div className="sticky top-24 space-y-8">
+
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
+
                                 <div className="bg-[#1F5EFF] p-4 text-center">
                                     <h3 className="text-lg font-black text-white uppercase tracking-wider">Asset Alert</h3>
                                 </div>
@@ -467,29 +526,4 @@ export default function VehicleLoanFAQ() {
     );
 }
 
-// FAQ Schema Wrapper
-export function FAQSchema() {
-    return (
-        <script
-            type="application/ld+json"
-            dangerouslySetInnerHTML={{
-                __html: JSON.stringify({
-                    "@context": "https://schema.org",
-                    "@type": "FAQPage",
-                    "mainEntity": [
-                        { "@type": "Question", "name": "Can I settle a vehicle loan while keeping the car?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it is possible. This is called a 'Retain Interest' settlement. You pay a lump sum to close the debt and the bank issues an NOC so you can continue using the vehicle." } },
-                        { "@type": "Question", "name": "What is the impact of repossession on my CIBIL?", "acceptedAnswer": { "@type": "Answer", "text": "Repossession is one of the most negative markers on a credit report. It signals a complete failure of the credit contract. A settlement is always preferred over a forced repossession." } },
-                        { "@type": "Question", "name": "How much waiver can I expect on a car loan?", "acceptedAnswer": { "@type": "Answer", "text": "Waivers on secured loans are typically lower than unsecured loans (around 25-40%), because the bank has the asset. However, if the car is old or in poor condition, higher waivers are possible." } },
-                        { "@type": "Question", "name": "What should I do if the repo-man is at my door?", "acceptedAnswer": { "@type": "Answer", "text": "Stay calm. Ask for their official ID and Bank Authorization Letter. Record the interaction. Call your legal advisor or SettleLoans immediately to intervene." } },
-                        { "@type": "Question", "name": "Is a verbal settlement with the bank valid?", "acceptedAnswer": { "@type": "Answer", "text": "No. A vehicle settlement must be backed by a formal, stamped Sanction Letter from the bank specifying the amount and the timeline for NOC issuance." } },
-                        { "@type": "Question", "name": "What happens to my insurance after settlement?", "acceptedAnswer": { "@type": "Answer", "text": "Once the hypothecation is removed at the RTO, you must notify the insurance company to update the policy. A 'Settled' loan doesn't affect insurance premiums." } },
-                        { "@type": "Question", "name": "Can I settle a loan if the vehicle was involved in an accident?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. In fact, if the vehicle is a 'Total Loss', it's much easier to negotiate a deep settlement as the bank's collateral is gone." } },
-                        { "@type": "Question", "name": "How long does it take to get the NOC after payment?", "acceptedAnswer": { "@type": "Answer", "text": "Legally, banks should issue it within 15-30 days. Professional agencies follow up daily to ensure the documents reach the RTO on time." } },
-                        { "@type": "Question", "name": "What are the common RTO forms for hypothecation removal?", "acceptedAnswer": { "@type": "Answer", "text": "Form 35 (in duplicate) is the main document, along with the bank's original NOC and a copy of the RC and insurance." } },
-                        { "@type": "Question", "name": "Does SettleLoans handle commercial vehicles like tractors?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, we handle all categories of auto-loans including tractors, JCBs, and commercial trucks across India." } }
-                    ]
-                })
-            }}
-        />
-    );
-}
+

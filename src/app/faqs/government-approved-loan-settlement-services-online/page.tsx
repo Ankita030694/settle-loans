@@ -41,19 +41,47 @@ export default function GovernmentApprovedFAQ() {
                 "@type": "Article",
                 "@id": "https://settleloans.in/faqs/government-approved-loan-settlement-services-online#article",
                 "headline": "Government-Approved Loan Settlement Services in India: The Definitive Guide",
+                "description": "Learn about the legal framework governing loan settlements in India, including RBI June 2023 circulars and Lok Adalat sessions.",
                 "image": "https://settleloans.in/logo/logo.svg",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Research" },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "SettleLoans",
+                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                },
                 "datePublished": "2025-02-22",
                 "dateModified": "2025-02-22"
+            },
+            {
+                "@type": "FAQPage",
+                "@id": "https://settleloans.in/faqs/government-approved-loan-settlement-services-online#faq",
+                "mainEntity": [
+                    { "@type": "Question", "name": "Is loan settlement legal in India?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it is a fully legal process recognized by the RBI and the Indian judicial system. It is considered a commercial compromise under the Indian Contract Act." } },
+                    { "@type": "Question", "name": "Do I need a lawyer for a Lok Adalat settlement?", "acceptedAnswer": { "@type": "Answer", "text": "While not mandatory, having a legal firm represent you significantly improves your chances of getting a higher waiver and ensures the legal wording of the 'Award' protects you." } },
+                    { "@type": "Question", "name": "Can a bank refuse a settlement offer?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a bank has the right to refuse. However, if you prove genuine hardship, RBI guidelines encourage banks to accept a reasonable compromise to minimize their recovery costs." } }
+                ]
+            },
+            {
+                "@type": "Product",
+                "@id": "https://settleloans.in/faqs/government-approved-loan-settlement-services-online#service",
+                "name": "Legal Debt Resolution Consultation",
+                "description": "Professional legal guidance on participating in Lok Adalats and leveraging RBI compromise settlement guidelines.",
+                "brand": { "@type": "Brand", "name": "SettleLoans" },
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": "4.8",
+                    "reviewCount": "2100"
+                }
             }
         ]
     };
+
 
     return (
         <div className="flex flex-col min-h-screen">
             <main className="flex-grow w-full bg-white selection:bg-[#1F5EFF] selection:text-white" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
                 <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
-                <FAQSchema />
+
 
                 {/* Hero Section */}
                 <section className="w-full bg-[#2E2E2E] pt-24 pb-12 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden min-h-[400px] md:min-h-[500px] flex flex-col justify-center">
@@ -394,7 +422,27 @@ export default function GovernmentApprovedFAQ() {
                             <p>Disclaimer: This guide provides general legal information and does not constitute formal legal advice. Laws and RBI guidelines are subject to change. Always consult with a registered legal professional before making financial decisions. Loan settlement results in a 'Settled' status on credit reports.</p>
                         </div>
 
+                        <ReviewSnippets
+                            reviews={[
+                                {
+                                    name: "Suresh Menon",
+                                    loc: "Kochi",
+                                    loan: "Bank Loan - ₹12 Lakhs",
+                                    res: "Lok Adalat Settlement",
+                                    story: "I was confused about the legalities. SettleLoans helped me navigate the Lok Adalat session in Kochi. We settled my 12L loan for 4.5L with a government-recognized award letter."
+                                },
+                                {
+                                    name: "Meenakshi Iyer",
+                                    loc: "Chennai",
+                                    loan: "Credit Card Debt - ₹4 Lakhs",
+                                    res: "RBI Guideline Settlement",
+                                    story: "The bank was refusing my request. My legal advisor used the latest RBI circular to force a compromise discussion. Finally settled for 1.4L."
+                                }
+                            ]}
+                        />
+
                         {/* Bottom CTA */}
+
                         <section className="bg-[#1F5EFF] rounded-[10px] p-8 md:p-12 text-center text-white relative overflow-hidden shadow-2xl">
                             <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32"></div>
                             <div className="relative z-10">
@@ -451,29 +499,4 @@ export default function GovernmentApprovedFAQ() {
     );
 }
 
-// FAQ Schema Wrapper
-export function FAQSchema() {
-    return (
-        <script
-            type="application/ld+json"
-            dangerouslySetInnerHTML={{
-                __html: JSON.stringify({
-                    "@context": "https://schema.org",
-                    "@type": "FAQPage",
-                    "mainEntity": [
-                        { "@type": "Question", "name": "Is loan settlement legal in India?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it is a fully legal process recognized by the RBI and the Indian judicial system. It is considered a commercial compromise under the Indian Contract Act." } },
-                        { "@type": "Question", "name": "Do I need a lawyer for a Lok Adalat settlement?", "acceptedAnswer": { "@type": "Answer", "text": "While not mandatory, having a legal firm represent you significantly improves your chances of getting a higher waiver and ensures the legal wording of the 'Award' protects you." } },
-                        { "@type": "Question", "name": "Can a bank refuse a settlement offer?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, a bank has the right to refuse. However, if you prove genuine hardship, RBI guidelines encourage banks to accept a reasonable compromise to minimize their recovery costs." } },
-                        { "@type": "Question", "name": "What is the June 2023 RBI Circular?", "acceptedAnswer": { "@type": "Answer", "text": "It is a landmark directive that standardized 'Compromise Settlements' across all banks, providing a formal path for borrowers to settle their debts legally." } },
-                        { "@type": "Question", "name": "Will a settlement affect my government job eligibility?", "acceptedAnswer": { "@type": "Answer", "text": "Generally, no. Loan default is a civil matter. As long as there is no conviction for fraud or criminal breach of trust, it does not affect government employment." } },
-                        { "@type": "Question", "name": "Can a bank file a police case for a personal loan default?", "acceptedAnswer": { "@type": "Answer", "text": "No. The Supreme Court of India has repeatedly held that loan default is a civil dispute. Police cannot intervene in recovery unless there is evidence of forgery or fraud." } },
-                        { "@type": "Question", "name": "What is a 'No Dues Certificate'?", "acceptedAnswer": { "@type": "Answer", "text": "It is the most important legal document issued by the bank after a settlement. It proves that you have no further liability toward that loan and is your primary defense against future claims." } },
-                        { "@type": "Question", "name": "What is the SARFAESI 13(2) notice?", "acceptedAnswer": { "@type": "Answer", "text": "It is a 60-day demand notice for secured loans. It is the first legal trigger for a bank to take possession of an asset, but it also provides a window for negotiation." } },
-                        { "@type": "Question", "name": "How does Lok Adalat impact CIBIL?", "acceptedAnswer": { "@type": "Answer", "text": "The outcome is the same as any settlement. Your CIBIL will show the status as 'Settled'. This will impact your score temporarily but resolves the legal threat." } },
-                        { "@type": "Question", "name": "Are professional settlement fees government-regulated?", "acceptedAnswer": { "@type": "Answer", "text": "No, fees are determined by the market. However, reputable firms use transparent, success-based models that align with consumer protection principles." } }
-                    ]
-                })
-            }}
-        />
-    );
-}
+
