@@ -5,6 +5,16 @@ export async function POST(request: Request) {
     try {
         const formData = await request.json();
 
+        // Validate phone number
+        const phone = formData.phone || formData.mobile || "";
+        const cleanPhone = phone.toString().replace(/\\D/g, '');
+        if (cleanPhone.length !== 10) {
+            return NextResponse.json(
+                { success: false, error: 'A valid 10-digit phone number is required.' },
+                { status: 400 }
+            );
+        }
+
         const dbData = {
             "Accomodation Status": "",
             "City": formData.state || "",
