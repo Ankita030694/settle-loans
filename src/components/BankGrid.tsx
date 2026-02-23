@@ -74,24 +74,6 @@ const banks = [
     logo: "/banks/fibe.png",
     link: "/loan-settlement/fibe",
     description: "Expert settlement for Fibe (EarlySalary) personal loans."
-  },
-  {
-    name: "Personal Loan Settlement",
-    logo: "/services/personal-loan.svg",
-    link: "/what-is-personal-loan-settlement",
-    description: "The ultimate guide to understanding personal loan settlement process and RBI rules."
-  },
-  {
-    name: "Mastering Loan Settlement",
-    logo: "/services/negotiation.svg",
-    link: "/mastering-loan-settlement",
-    description: "Unlock secret expert tips to negotiate your debt wisely and gain financial freedom."
-  },
-  {
-    name: "Debt Consolidation Banks",
-    logo: "/services/consolidation.svg",
-    link: "/which-banks-offer-debt-consolidation-loans-in-india",
-    description: "Discover the top Indian banks and NBFCs offering debt consolidation loans in 2026."
   }
 ];
 

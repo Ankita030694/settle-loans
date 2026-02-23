@@ -68,6 +68,8 @@ export default function Footer() {
               <Link href="/app-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">App Loan Settlement</Link>
               <Link href="/cheque-bounce" className="text-blue-600 hover:text-blue-800 text-base">Cheque Bounce Resolution</Link>
               <Link href="/credit-score-improvement" className="text-blue-600 hover:text-blue-800 text-base">Credit Score Improvement</Link>
+             
+
               
             </div>
           </div>
@@ -88,6 +90,9 @@ export default function Footer() {
                <Link href="/how-to-manage-loan-with-no-job" className="text-blue-600 hover:text-blue-800 text-base">Manage Loan With No Job</Link>
                 <Link href="/ignoring-calls-of-recovery-agent" className='text-blue-600 hover:text-blue-800 text-base'>Ignoring Recovery Calls?</Link>
                 <Link href="/loan-settlement-after-settlement-failed" className='text-blue-600 hover:text-blue-800 text-base'>Settlement Failed?</Link>
+                 <Link href="/what-is-personal-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Personal Loan Settlement</Link>
+                 <Link href="/mastering-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Mastering Loan Settlement</Link>
+                 <Link href="/which-banks-offer-debt-consolidation-loans-in-india" className="text-blue-600 hover:text-blue-800 text-base">Debt Consolidation Banks</Link>
               </div>
           </div>
  
