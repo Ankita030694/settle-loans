@@ -173,7 +173,6 @@ export default function Hero() {
 
               <ContactForm
                 variant="simple"
-                collectionName="submissions"
                 onCancel={() => setIsFixed(false)}
                 showCloseButton={true}
               />

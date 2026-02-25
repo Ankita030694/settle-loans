@@ -55,7 +55,6 @@ export default function GlobalPopupForm() {
               variant="simple" 
               showCloseButton={true} 
               onCancel={() => setIsOpen(false)}
-              collectionName="ContactPageForm"
             />
           </div>
         </div>

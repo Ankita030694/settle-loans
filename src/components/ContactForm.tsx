@@ -7,14 +7,12 @@ import { X } from 'lucide-react';
 
 interface ContactFormProps {
   variant?: 'section' | 'simple';
-  collectionName?: string;
   onCancel?: () => void;
   showCloseButton?: boolean;
 }
 
 export default function ContactForm({ 
   variant = 'section', 
-  collectionName = 'ContactPageForm',
   onCancel,
   showCloseButton = false
 }: ContactFormProps) {
@@ -34,6 +32,7 @@ export default function ContactForm({
   });
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
+  const [errorMessage, setErrorMessage] = useState('');
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
     let { name, value } = e.target;
@@ -55,6 +54,7 @@ export default function ContactForm({
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setSubmitStatus('idle');
+    setErrorMessage('');
 
     // Validation checks
     if (formData.phone.length !== 10) {
@@ -76,13 +76,16 @@ export default function ContactForm({
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          ...formData,
-          collectionName: collectionName
+          ...formData
         }),
       });
 
-      if (!response.ok) throw new Error('Failed to submit');
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.error || 'Failed to submit');
+      }
 
+      localStorage.setItem(`lastSubmission_${formData.phone}`, Date.now().toString());
       sessionStorage.setItem('formSubmitted', 'true');
       router.push('/thank-you');
       
@@ -102,9 +105,10 @@ export default function ContactForm({
         legalNotice: '',
         queries: '',
       });
-    } catch (error) {
+    } catch (error: any) {
       console.error('Error submitting form:', error);
       setSubmitStatus('error');
+      setErrorMessage(error.message || 'Something went wrong. Please try again.');
     } finally {
       setIsSubmitting(false);
     }
@@ -417,7 +421,7 @@ export default function ContactForm({
           <p className="text-green-600 text-center font-medium mt-2">Thank you! We will contact you soon.</p>
         )}
         {submitStatus === 'error' && (
-          <p className="text-red-600 text-center font-medium mt-2">Something went wrong. Please try again.</p>
+          <p className="text-red-600 text-center font-medium mt-2">{errorMessage}</p>
         )}
 
         {variant === 'simple' && onCancel && (

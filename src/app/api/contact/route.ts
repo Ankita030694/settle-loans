@@ -7,7 +7,7 @@ export async function POST(request: Request) {
 
         // Validate phone number
         const phone = formData.phone || formData.mobile || "";
-        const cleanPhone = phone.toString().replace(/\\D/g, '');
+        const cleanPhone = phone.toString().replace(/\D/g, '');
         if (cleanPhone.length !== 10) {
             return NextResponse.json(
                 { success: false, error: 'A valid 10-digit phone number is required.' },
@@ -22,7 +22,7 @@ export async function POST(request: Request) {
             "Employment status": "",
             "Language": "",
             "Married": "",
-            "Mobile Number": formData.phone || "",
+            "Mobile Number": cleanPhone,
             "Monthly income": formData.monthlyIncome || "",
             "Name": formData.fullName || "",
             "Past Settlement": "",
@@ -35,8 +35,24 @@ export async function POST(request: Request) {
             "Legal Notice": formData.legalNotice || ""
         };
 
-        // Use the collection name the user specified in their recent edit
-        const collectionName = formData.collectionName || 'ContactPageForm';
+        // All submissions should go to 'ContactPageForm' collection only
+        const collectionName = 'ContactPageForm';
+
+        // Check for existing submission in the last 24 hours in the ContactPageForm collection
+        const twentyFourHoursAgo = Date.now() - (24 * 60 * 60 * 1000);
+
+        const existingSubmissions = await adminDb.collection(collectionName)
+            .where('Mobile Number', '==', cleanPhone)
+            .where('created', '>', twentyFourHoursAgo)
+            .limit(1)
+            .get();
+
+        if (!existingSubmissions.empty) {
+            return NextResponse.json(
+                { success: false, error: 'You have already submitted a request today. Please try again after 24 hours.' },
+                { status: 429 }
+            );
+        }
 
         await adminDb.collection(collectionName).add(dbData);
 
