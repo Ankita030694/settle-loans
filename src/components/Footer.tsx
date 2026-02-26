@@ -68,7 +68,10 @@ export default function Footer() {
               <Link href="/app-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">App Loan Settlement</Link>
               <Link href="/cheque-bounce" className="text-blue-600 hover:text-blue-800 text-base">Cheque Bounce Resolution</Link>
               <Link href="/credit-score-improvement" className="text-blue-600 hover:text-blue-800 text-base">Credit Score Improvement</Link>
-             
+              <Link href="/debt-settlement-company-in-india" className="text-blue-600 hover:text-blue-800 text-base">Debt Settlement Company India</Link>
+              <Link href="/loan-settlement-lawyers" className="text-blue-600 hover:text-blue-800 text-base">Loan Settlement Lawyers</Link>
+              <Link href="/punishment-for-non-payment-of-personal-loan-in-india" className="text-blue-600 hover:text-blue-800 text-base">Punishment for Personal Loan Default</Link>
+              <Link href="/charities-that-pay-off-debt-in-india" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Charities That Pay Off Debt</Link>
 
               
             </div>
