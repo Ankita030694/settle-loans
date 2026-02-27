@@ -41,6 +41,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.9,
         },
         {
+            url: `${baseUrl}/missed-your-loan-emi-heres-what-to-do`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
             url: `${baseUrl}/what-is-personal-loan-settlement`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
@@ -602,6 +614,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
         {
             url: `${baseUrl}/charities-that-pay-off-debt-in-india`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,

@@ -205,6 +205,12 @@ export default function FAQsPage() {
               "position": 27,
               "name": "Alternatives to Loan Settlement",
               "url": "https://settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online"
+            },
+            {
+              "@type": "ListItem",
+              "position": 28,
+              "name": "Recovery Agent Harassment Guide",
+              "url": "https://settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information"
             }
           ]
         }
@@ -718,6 +724,20 @@ export default function FAQsPage() {
               </p>
               <div className="mt-auto text-[#1F5EFF] font-black text-sm flex items-center">
                 Relief Guide <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
+              </div>
+            </Link>
+
+            {/* Card 33: Recovery Agent Harassment (New) */}
+            <Link href="/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information" className="group flex flex-col h-full bg-[#1F5EFF] rounded-2xl border border-[#DEDEDE] p-8 shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-1">
+              <div className="w-12 h-12 rounded-full bg-white text-[#1F5EFF] flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path></svg>
+              </div>
+              <h3 className="text-xl font-black text-white mb-3">Recovery Agent Harassment?</h3>
+              <p className="text-white/80 text-sm leading-relaxed mb-4 font-normal">
+                How do they get your number when a friend defaults? Learn the legal steps to stop the calls and protect your privacy.
+              </p>
+              <div className="mt-auto text-white font-black text-sm flex items-center">
+                Stop Calls Now <svg className="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
               </div>
             </Link>
           </div>
