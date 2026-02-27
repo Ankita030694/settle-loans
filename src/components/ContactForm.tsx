@@ -236,7 +236,6 @@ export default function ContactForm({
               className="w-full bg-transparent border-b border-[#6D6D6D] py-1.5 focus:outline-none focus:border-[#2E2E2E] transition-colors text-base text-[#6D6D6D] appearance-none"
             >
               <option value="" disabled hidden>Personal loan dues</option>
-              <option value="No Dues">No Dues</option>
               <option value="Below ₹5 Lakhs">Below ₹5 Lakhs</option>
               <option value="₹5 - ₹10 Lakhs">₹5 - ₹10 Lakhs</option>
               <option value="₹10 - ₹25 Lakhs">₹10 - ₹25 Lakhs</option>
@@ -257,7 +256,6 @@ export default function ContactForm({
               className="w-full bg-transparent border-b border-[#6D6D6D] py-1.5 focus:outline-none focus:border-[#2E2E2E] transition-colors text-base text-[#6D6D6D] appearance-none"
             >
               <option value="" disabled hidden>Credit card dues</option>
-              <option value="No Dues">No Dues</option>
               <option value="Below ₹5 Lakhs">Below ₹5 Lakhs</option>
               <option value="₹5 - ₹10 Lakhs">₹5 - ₹10 Lakhs</option>
               <option value="₹10 - ₹25 Lakhs">₹10 - ₹25 Lakhs</option>
