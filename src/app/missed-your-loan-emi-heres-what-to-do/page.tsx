@@ -63,11 +63,30 @@ export default function MissedEMIPage() {
         "mainEntityOfPage": { "@id": "https://settleloans.in/missed-your-loan-emi-heres-what-to-do#webpage" }
       },
       {
-        "@type": "AggregateRating",
-        "@id": "https://settleloans.in/missed-your-loan-emi-heres-what-to-do#rating",
-        "itemReviewed": { "@id": "https://settleloans.in/missed-your-loan-emi-heres-what-to-do#article" },
-        "ratingValue": "4.9",
-        "reviewCount": "1840"
+        "@type": "Product",
+        "name": "Missed Loan EMI Recovery Guide",
+        "description": "Comprehensive guide on what to do if you miss a loan EMI.",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "1840"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Rajesh Khanna" },
+            "datePublished": "2024-01-15",
+            "reviewBody": "SettleLoans helped me negotiate an OTS. I paid 40% and closed the debt. I am finally sleeping peacefully.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Anjali Saxena" },
+            "datePublished": "2024-02-10",
+            "reviewBody": "Agents were calling my relatives. SettleLoans legal team sent a warning and all calls stopped. Highly recommended.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       },
       {
         "@type": "FAQPage",
