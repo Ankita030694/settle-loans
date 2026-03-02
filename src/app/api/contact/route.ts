@@ -8,9 +8,19 @@ export async function POST(request: Request) {
         // Validate phone number
         const phone = formData.phone || formData.mobile || "";
         const cleanPhone = phone.toString().replace(/\D/g, '');
-        if (cleanPhone.length !== 10) {
+
+        const isValidPhone = cleanPhone.startsWith('0')
+            ? cleanPhone.length === 11
+            : cleanPhone.length === 10;
+
+        if (!isValidPhone) {
             return NextResponse.json(
-                { success: false, error: 'A valid 10-digit phone number is required.' },
+                {
+                    success: false,
+                    error: cleanPhone.startsWith('0')
+                        ? 'A valid 11-digit phone number (starting with 0) is required.'
+                        : 'A valid 10-digit phone number is required.'
+                },
                 { status: 400 }
             );
         }

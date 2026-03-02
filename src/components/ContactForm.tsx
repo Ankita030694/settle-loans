@@ -41,7 +41,9 @@ export default function ContactForm({
     if (name === 'fullName') {
       value = value.replace(/[^a-zA-Z\s]/g, '');
     } else if (name === 'phone') {
-      value = value.replace(/\D/g, '').slice(0, 10);
+      value = value.replace(/\D/g, '');
+      const maxLength = value.startsWith('0') ? 11 : 10;
+      value = value.slice(0, maxLength);
     }
 
     setFormData(prev => ({ ...prev, [name]: value }));
@@ -57,8 +59,14 @@ export default function ContactForm({
     setErrorMessage('');
 
     // Validation checks
-    if (formData.phone.length !== 10) {
-      alert("Please enter a valid 10-digit phone number.");
+    const isValidPhone = formData.phone.startsWith('0') 
+      ? formData.phone.length === 11 
+      : formData.phone.length === 10;
+
+    if (!isValidPhone) {
+      alert(formData.phone.startsWith('0') 
+        ? "Please enter a valid 11-digit phone number (starting with 0)." 
+        : "Please enter a valid 10-digit phone number.");
       return;
     }
 
