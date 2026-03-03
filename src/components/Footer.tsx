@@ -8,53 +8,53 @@ export default function Footer() {
     <footer className="w-full bg-white pt-8 md:pt-[60px] px-4 md:px-[50px] pb-8 md:pb-[60px] mb-0 rounded-t-[20px] md:rounded-t-[40px] overflow-hidden overflow-x-hidden max-w-full">
       <div className="w-full max-w-7xl mx-auto">
         <div className="flex flex-col lg:flex-row justify-between gap-8 md:gap-12 lg:gap-[60px]">
-          
+
           {/* Column 1: Logo, Description, Contact Cards */}
           <div className="flex flex-col gap-6 w-full lg:w-[350px] shrink-0">
             <div className="relative w-36 h-36">
-               <Image 
-                  src="/logo/logo.svg" 
-                  alt="SettleLoans Logo" 
-                  fill
-                  className="object-contain object-left"
-               />
+              <Image
+                src="/logo/logo.svg"
+                alt="SettleLoans Logo"
+                fill
+                className="object-contain object-left"
+              />
             </div>
-          
+
             <div className="flex flex-col gap-4 mt-4">
               {/* Email Card */}
               <a href="mailto:info@settleloan.in" className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-md transition-shadow group">
-                 <div className="flex items-center gap-3">
-                    <div className="text-blue-500 bg-blue-50 p-2 rounded-lg">
-                        <FontAwesomeIcon icon={faEnvelope} className="w-4 h-4" />
-                    </div>
-                    <span className="text-sm font-medium text-gray-700">info@settleloan.in</span>
-                 </div>
-                 <FontAwesomeIcon icon={faArrowRight} className="w-4 h-4 text-gray-400 group-hover:translate-x-1 transition-transform" />
+                <div className="flex items-center gap-3">
+                  <div className="text-blue-500 bg-blue-50 p-2 rounded-lg">
+                    <FontAwesomeIcon icon={faEnvelope} className="w-4 h-4" />
+                  </div>
+                  <span className="text-sm font-medium text-gray-700">info@settleloan.in</span>
+                </div>
+                <FontAwesomeIcon icon={faArrowRight} className="w-4 h-4 text-gray-400 group-hover:translate-x-1 transition-transform" />
               </a>
- 
+
               {/* Phone Card */}
               <a href="tel:+919821219819" className="flex items-center justify-between p-3 bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-md transition-shadow group">
-                 <div className="flex items-center gap-3">
-                    <div className="text-blue-500 bg-blue-50 p-2 rounded-lg">
-                        <FontAwesomeIcon icon={faPhone} className="w-4 h-4" />
-                    </div>
-                    <span className="text-sm font-medium text-gray-700">+91 98212 19819</span>
-                 </div>
-                 <FontAwesomeIcon icon={faArrowRight} className="w-4 h-4 text-gray-400 group-hover:translate-x-1 transition-transform" />
+                <div className="flex items-center gap-3">
+                  <div className="text-blue-500 bg-blue-50 p-2 rounded-lg">
+                    <FontAwesomeIcon icon={faPhone} className="w-4 h-4" />
+                  </div>
+                  <span className="text-sm font-medium text-gray-700">+91 98212 19819</span>
+                </div>
+                <FontAwesomeIcon icon={faArrowRight} className="w-4 h-4 text-gray-400 group-hover:translate-x-1 transition-transform" />
               </a>
- 
+
               {/* Address Card */}
               <a href="https://maps.app.goo.gl/Uqcz1TTYyiqjcQC7A" target="_blank" rel="noopener noreferrer" className="flex items-start gap-3 p-3 bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-md transition-shadow">
-                 <div className="text-blue-500 bg-blue-50 p-2 rounded-lg shrink-0 mt-0.5">
-                     <FontAwesomeIcon icon={faMapMarkerAlt} className="w-4 h-4" />
-                 </div>
-                 <p className="text-sm text-gray-700 leading-relaxed">
-                   Ground Floor, PLATINA TOWER, Mehrauli-Gurgaon Rd, A Block, DLF Phase 1, Gurugram, Haryana 122002
-                 </p>
+                <div className="text-blue-500 bg-blue-50 p-2 rounded-lg shrink-0 mt-0.5">
+                  <FontAwesomeIcon icon={faMapMarkerAlt} className="w-4 h-4" />
+                </div>
+                <p className="text-sm text-gray-700 leading-relaxed">
+                  Ground Floor, PLATINA TOWER, Mehrauli-Gurgaon Rd, A Block, DLF Phase 1, Gurugram, Haryana 122002
+                </p>
               </a>
             </div>
           </div>
- 
+
           {/* Column 2: Services */}
           <div className="flex flex-col gap-4 w-full lg:w-auto">
             <h3 className="text-xl font-bold text-gray-900 mb-2">Services</h3>
@@ -73,35 +73,52 @@ export default function Footer() {
               <Link href="/punishment-for-non-payment-of-personal-loan-in-india" className="text-blue-600 hover:text-blue-800 text-base">Punishment for Personal Loan Default</Link>
               <Link href="/charities-that-pay-off-debt-in-india" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Charities That Pay Off Debt</Link>
 
-              
+
             </div>
           </div>
- 
+
           {/* Column 3: FAQs */}
           <div className="flex flex-col gap-4 w-full lg:w-auto">
-             <h3 className="text-xl font-bold text-gray-900 mb-2">FAQs</h3>
-             <div className="flex flex-col gap-3">
-               <Link href="/faqs/how-to-settle-loan" className="text-blue-600 hover:text-blue-800 text-base">How to Settle Loan</Link>
-               <Link href="/faqs/ots-full-form" className="text-blue-600 hover:text-blue-800 text-base">OTS Full Form</Link>
-               <Link href="/faqs/how-to-settle-debt-for-less" className="text-blue-600 hover:text-blue-800 text-base">Settle Debt for Less</Link>
-               <Link href="/faqs/can-i-get-loan-after-settlement" className="text-blue-600 hover:text-blue-800 text-base">Loan After Settlement</Link>
-               <Link href="/faqs/eligibility-checker-for-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Eligibility Checker</Link>
-               <Link href="/faqs/free-consultation-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Free Consultation</Link>
-               <Link href="/faqs/loan-settlement-fees" className="text-blue-600 hover:text-blue-800 text-base">Settlement Fees</Link>
-               <Link href="/dont-have-job-cant-pay-emi" className="text-blue-600 hover:text-blue-800 text-base">Don't Have Job Can't Pay EMI</Link>
-               <Link href="/loan-settlement-with-iarc" className="text-blue-600 hover:text-blue-800 text-base">Loan Settlement with IARC</Link>
-               <Link href="/how-to-manage-loan-with-no-job" className="text-blue-600 hover:text-blue-800 text-base">Manage Loan With No Job</Link>
-                <Link href="/ignoring-calls-of-recovery-agent" className='text-blue-600 hover:text-blue-800 text-base'>Ignoring Recovery Calls?</Link>
-                <Link href="/loan-settlement-after-settlement-failed" className='text-blue-600 hover:text-blue-800 text-base'>Settlement Failed?</Link>
-                 <Link href="/what-is-personal-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Personal Loan Settlement</Link>
-                 <Link href="/mastering-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Mastering Loan Settlement</Link>
-                 <Link href="/missed-your-loan-emi-heres-what-to-do" className="text-blue-600 hover:text-blue-800 text-base">Missed Your Loan EMI?</Link>
-                 <Link href="/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi" className="text-blue-600 hover:text-blue-800 text-base">Unable to Pay EMI?</Link>
-                 <Link href="/which-banks-offer-debt-consolidation-loans-in-india" className="text-blue-600 hover:text-blue-800 text-base">Debt Consolidation Banks</Link>
-              </div>
+            <h3 className="text-xl font-bold text-gray-900 mb-2">FAQs</h3>
+            <div className="flex flex-col gap-3">
+              <Link href="/faqs/how-to-settle-loan" className="text-blue-600 hover:text-blue-800 text-base">How to Settle Loan</Link>
+              <Link href="/faqs/ots-full-form" className="text-blue-600 hover:text-blue-800 text-base">OTS Full Form</Link>
+              <Link href="/faqs/how-to-settle-debt-for-less" className="text-blue-600 hover:text-blue-800 text-base">Settle Debt for Less</Link>
+              <Link href="/faqs/can-i-get-loan-after-settlement" className="text-blue-600 hover:text-blue-800 text-base">Loan After Settlement</Link>
+              <Link href="/faqs/eligibility-checker-for-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Eligibility Checker</Link>
+              <Link href="/faqs/free-consultation-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Free Consultation</Link>
+              <Link href="/faqs/loan-settlement-fees" className="text-blue-600 hover:text-blue-800 text-base">Settlement Fees</Link>
+              <Link href="/dont-have-job-cant-pay-emi" className="text-blue-600 hover:text-blue-800 text-base">Don't Have Job Can't Pay EMI</Link>
+              <Link href="/loan-settlement-with-iarc" className="text-blue-600 hover:text-blue-800 text-base">Loan Settlement with IARC</Link>
+              <Link href="/how-to-manage-loan-with-no-job" className="text-blue-600 hover:text-blue-800 text-base">Manage Loan With No Job</Link>
+              <Link href="/ignoring-calls-of-recovery-agent" className='text-blue-600 hover:text-blue-800 text-base'>Ignoring Recovery Calls?</Link>
+              <Link href="/loan-settlement-after-settlement-failed" className='text-blue-600 hover:text-blue-800 text-base'>Settlement Failed?</Link>
+              <Link href="/what-is-personal-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Personal Loan Settlement</Link>
+              <Link href="/mastering-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Mastering Loan Settlement</Link>
+              <Link href="/missed-your-loan-emi-heres-what-to-do" className="text-blue-600 hover:text-blue-800 text-base">Missed Your Loan EMI?</Link>
+              <Link href="/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi" className="text-blue-600 hover:text-blue-800 text-base">Unable to Pay EMI?</Link>
+              <Link href="/which-banks-offer-debt-consolidation-loans-in-india" className="text-blue-600 hover:text-blue-800 text-base">Debt Consolidation Banks</Link>
+            </div>
           </div>
- 
-          {/* Column 4: Legal & Compliance */}
+
+          {/* Column 4: Queries */}
+          <div className="flex flex-col gap-4 w-full lg:w-auto">
+            <h3 className="text-xl font-bold text-gray-900 mb-2">Queries</h3>
+            <div className="flex flex-col gap-3">
+              <Link href="/best-lawyer-for-msme-business-loan-dispute" className="text-blue-600 hover:text-blue-800 text-base">MSME Loan Dispute Lawyer</Link>
+              <Link href="/best-lawyer-for-loan-settlement-by-drt" className="text-blue-600 hover:text-blue-800 text-base">DRT Loan Settlement Lawyer</Link>
+              <Link href="/best-lawyer-for-consortium-loan-recovery-defence" className="text-blue-600 hover:text-blue-800 text-base">Consortium Loan Defence</Link>
+              <Link href="/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment" className="text-blue-600 hover:text-blue-800 text-base">Mortgage Default Notice Help</Link>
+              <Link href="/best-lawyer-for-company-loan-matters" className="text-blue-600 hover:text-blue-800 text-base">Company Loan Matters Lawyer</Link>
+              <Link href="/best-lawyer-for-msme-and-business-loans" className="text-blue-600 hover:text-blue-800 text-base">MSME & Business Loan Lawyer</Link>
+              <Link href="/best-lawyer-for-documentation-review-of-loan-agreement" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for Documentation Review of Loan Agreement</Link>
+              <Link href="/best-lawyer-for-loan-recovery-documentation" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for Loan Recovery Documentation</Link>
+              <Link href="/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt" className="text-blue-600 hover:text-blue-800 text-base">DRT Loan Assignment Defence</Link>
+              <Link href="/best-lawyer-for-notice-for-loan-default" className="text-blue-600 hover:text-blue-800 text-base">Notice for Loan Default Help</Link>
+            </div>
+          </div>
+
+          {/* Column 5: Legal & Compliance */}
           <div className="flex flex-col gap-4 w-full lg:w-auto">
             <h3 className="text-xl font-bold text-gray-900 mb-2">Legal & Compliance</h3>
             <div className="flex flex-col gap-3">
@@ -109,9 +126,9 @@ export default function Footer() {
               <Link href="/privacy-policy" className='text-blue-600 hover:text-blue-800 text-base'>Privacy Policy</Link>
             </div>
           </div>
- 
+
         </div>
- 
+
         {/* States Grid Section */}
         <div className="w-full mt-16 pt-12 border-t border-gray-100">
           <h3 className="text-xl font-bold text-gray-900 mb-8 uppercase tracking-wider text-sm opacity-70">States & Cities We Serve</h3>
@@ -166,16 +183,16 @@ export default function Footer() {
               { name: "West Bengal", href: "/loan-settlement/west-bengal" }
             ].sort((a, b) => a.name.localeCompare(b.name)).map((state) => (
               state.href ? (
-                <Link 
-                  key={state.name} 
+                <Link
+                  key={state.name}
                   href={state.href}
                   className="text-blue-600 hover:text-blue-800 font-bold text-sm transition-colors duration-200 py-1"
                 >
                   {state.name}
                 </Link>
               ) : (
-                <span 
-                  key={state.name} 
+                <span
+                  key={state.name}
                   className="text-gray-400 text-sm py-1 font-normal cursor-default"
                 >
                   {state.name}
@@ -184,9 +201,9 @@ export default function Footer() {
             ))}
           </div>
         </div>
- 
+
         <div className="w-full bg-gray-200 h-px mt-12 mb-6"></div>
- 
+
         <p className="text-center text-neutral-500 text-sm">
           © 2022 SettleLoans. All rights reserved.
         </p>

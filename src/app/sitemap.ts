@@ -619,10 +619,70 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.9,
         },
         {
+            url: `${baseUrl}/best-lawyer-for-msme-business-loan-dispute`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/best-lawyer-for-loan-settlement-by-drt`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/best-lawyer-for-consortium-loan-recovery-defence`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
             url: `${baseUrl}/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/best-lawyer-for-company-loan-matters`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/best-lawyer-for-msme-and-business-loans`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        },
+        {
+            url: `${baseUrl}/best-lawyer-for-notice-for-loan-default`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        },
+        {
+            url: 'https://settleloans.in/best-lawyer-for-documentation-review-of-loan-agreement',
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        },
+        {
+            url: 'https://settleloans.in/best-lawyer-for-loan-recovery-documentation',
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
         },
     ]
 }
