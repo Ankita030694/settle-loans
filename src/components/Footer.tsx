@@ -114,6 +114,8 @@ export default function Footer() {
               <Link href="/best-lawyer-for-documentation-review-of-loan-agreement" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for Documentation Review of Loan Agreement</Link>
               <Link href="/best-lawyer-for-loan-recovery-documentation" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for Loan Recovery Documentation</Link>
               <Link href="/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt" className="text-blue-600 hover:text-blue-800 text-base">DRT Loan Assignment Defence</Link>
+              <Link href="/best-lawyer-for-car-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Car Loan Settlement Lawyer</Link>
+              <Link href="/best-lawyer-for-business-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Business Loan Settlement Lawyer</Link>
               <Link href="/best-lawyer-for-notice-for-loan-default" className="text-blue-600 hover:text-blue-800 text-base">Notice for Loan Default Help</Link>
               <Link href="/best-lawyer-for-arc-loan-assignment-dispute" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for ARC Loan Assignment Dispute</Link>
               <Link href="/best-lawyer-for-account-documents-drt" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for Account Documents DRT</Link>
@@ -125,6 +127,14 @@ export default function Footer() {
               <Link href="/best-lawyer-for-drt-case-defence-for-bank-loan-recovery" className="text-blue-600 hover:text-blue-800 text-base">DRT Case Defence Lawyer</Link>
               <Link href="/best-lawyer-for-bank-loan-recovery-defence" className="text-blue-600 hover:text-blue-800 text-base">Bank Recovery Defence Lawyer</Link>
               <Link href="/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes" className="text-blue-600 hover:text-blue-800 text-base">Bounced Security Check Lawyer</Link>
+              <Link href="/best-lawyer-for-personal-loans" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for Personal Loans</Link>
+              <Link href="/best-lawyer-for-MSME-personal-loan" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for MSME Personal Loan</Link>
+              <Link href="/best-lawyer-for-MSME-loan-recovery-defence" className="text-blue-600 hover:text-blue-800 text-base">MSME Loan Recovery Defence</Link>
+              <Link href="/best-lawyer-to-challenge-loan-assignment-to-arc" className="text-blue-600 hover:text-blue-800 text-base">Challenge ARC Assignment</Link>
+              <Link href="/best-lawyer-for-unsecured-loan" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for Unsecured Loan</Link>
+              <Link href="/best-lawyer-for-secured-loan-litigation-drt" className="text-blue-600 hover:text-blue-800 text-base">Secured Loan Litigation Lawyer</Link>
+              <Link href="/best-lawyer-for-loan-against-property-settlement" className="text-blue-600 hover:text-blue-800 text-base">LAP Settlement Lawyer</Link>
+              <Link href="/best-lawyer-for-education-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Education Loan Settlement Lawyer</Link>
             </div>
           </div>
 
