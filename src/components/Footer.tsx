@@ -72,8 +72,6 @@ export default function Footer() {
               <Link href="/loan-settlement-lawyers" className="text-blue-600 hover:text-blue-800 text-base">Loan Settlement Lawyers</Link>
               <Link href="/punishment-for-non-payment-of-personal-loan-in-india" className="text-blue-600 hover:text-blue-800 text-base">Punishment for Personal Loan Default</Link>
               <Link href="/charities-that-pay-off-debt-in-india" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Charities That Pay Off Debt</Link>
-
-
             </div>
           </div>
 
@@ -96,53 +94,12 @@ export default function Footer() {
               <Link href="/what-is-personal-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Personal Loan Settlement</Link>
               <Link href="/mastering-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Mastering Loan Settlement</Link>
               <Link href="/missed-your-loan-emi-heres-what-to-do" className="text-blue-600 hover:text-blue-800 text-base">Missed Your Loan EMI?</Link>
-              <Link href="/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi" className="text-blue-600 hover:text-blue-800 text-base">Unable to Pay EMI?</Link>
+              <Link href="/ what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi" className="text-blue-600 hover:text-blue-800 text-base">Unable to Pay EMI?</Link>
               <Link href="/which-banks-offer-debt-consolidation-loans-in-india" className="text-blue-600 hover:text-blue-800 text-base">Debt Consolidation Banks</Link>
             </div>
           </div>
 
-          {/* Column 4: Queries */}
-          <div className="flex flex-col gap-4 w-full lg:w-auto">
-            <h3 className="text-xl font-bold text-gray-900 mb-2">Queries</h3>
-            <div className="flex flex-col gap-3">
-              <Link href="/best-lawyer-for-msme-business-loan-dispute" className="text-blue-600 hover:text-blue-800 text-base">MSME Loan Dispute Lawyer</Link>
-              <Link href="/best-lawyer-for-loan-settlement-by-drt" className="text-blue-600 hover:text-blue-800 text-base">DRT Loan Settlement Lawyer</Link>
-              <Link href="/best-lawyer-for-consortium-loan-recovery-defence" className="text-blue-600 hover:text-blue-800 text-base">Consortium Loan Defence</Link>
-              <Link href="/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment" className="text-blue-600 hover:text-blue-800 text-base">Mortgage Default Notice Help</Link>
-              <Link href="/best-lawyer-for-company-loan-matters" className="text-blue-600 hover:text-blue-800 text-base">Company Loan Matters Lawyer</Link>
-              <Link href="/best-lawyer-for-msme-and-business-loans" className="text-blue-600 hover:text-blue-800 text-base">MSME & Business Loan Lawyer</Link>
-              <Link href="/best-lawyer-for-documentation-review-of-loan-agreement" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for Documentation Review of Loan Agreement</Link>
-              <Link href="/best-lawyer-for-loan-recovery-documentation" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for Loan Recovery Documentation</Link>
-              <Link href="/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt" className="text-blue-600 hover:text-blue-800 text-base">DRT Loan Assignment Defence</Link>
-              <Link href="/best-lawyer-for-car-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Car Loan Settlement Lawyer</Link>
-              <Link href="/best-lawyer-for-business-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Business Loan Settlement Lawyer</Link>
-              <Link href="/best-lawyer-for-notice-for-loan-default" className="text-blue-600 hover:text-blue-800 text-base">Notice for Loan Default Help</Link>
-              <Link href="/best-lawyer-for-arc-loan-assignment-dispute" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for ARC Loan Assignment Dispute</Link>
-              <Link href="/best-lawyer-for-account-documents-drt" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for Account Documents DRT</Link>
-              <Link href="/drt-lawyer-in-mumbai-loan-recovery" className="text-blue-600 hover:text-blue-800 text-base">DRT Lawyer in Mumbai</Link>
-              <Link href="/best-lawyer-for-home-loan-check-bounce-case" className="text-blue-600 hover:text-blue-800 text-base">Home Loan Check Bounce Lawyer</Link>
-              <Link href="/best-loan-agreement-arbitration-lawyer" className="text-blue-600 hover:text-blue-800 text-base">Loan Arbitration Lawyer</Link>
-              <Link href="/best-project-finance-builder-loan-recovery-matter-lawyer" className="text-blue-600 hover:text-blue-800 text-base">Project Finance Recovery Lawyer</Link>
-              <Link href="/best-lawyer-for-loan-settlement-during-drt" className="text-blue-600 hover:text-blue-800 text-base">Loan Settlement During DRT Lawyer</Link>
-              <Link href="/best-lawyer-for-drt-case-defence-for-bank-loan-recovery" className="text-blue-600 hover:text-blue-800 text-base">DRT Case Defence Lawyer</Link>
-              <Link href="/best-lawyer-for-bank-loan-recovery-defence" className="text-blue-600 hover:text-blue-800 text-base">Bank Recovery Defence Lawyer</Link>
-              <Link href="/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes" className="text-blue-600 hover:text-blue-800 text-base">Bounced Security Check Lawyer</Link>
-              <Link href="/best-lawyer-for-personal-loans" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for Personal Loans</Link>
-              <Link href="/best-lawyer-for-MSME-personal-loan" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for MSME Personal Loan</Link>
-              <Link href="/best-lawyer-for-MSME-loan-recovery-defence" className="text-blue-600 hover:text-blue-800 text-base">MSME Loan Recovery Defence</Link>
-              <Link href="/best-lawyer-to-challenge-loan-assignment-to-arc" className="text-blue-600 hover:text-blue-800 text-base">Challenge ARC Assignment</Link>
-              <Link href="/best-lawyer-for-unsecured-loan" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for Unsecured Loan</Link>
-              <Link href="/best-lawyer-for-secured-loan-litigation-drt" className="text-blue-600 hover:text-blue-800 text-base">Secured Loan Litigation Lawyer</Link>
-              <Link href="/best-lawyer-for-loan-against-property-settlement" className="text-blue-600 hover:text-blue-800 text-base">LAP Settlement Lawyer</Link>
-              <Link href="/best-lawyer-for-education-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Education Loan Settlement Lawyer</Link>
-              <Link href="/best-lawyer-for-loan-and-mortgage-agreements" className="text-blue-600 hover:text-blue-800 text-base">Loan & Mortgage Agreements Lawyer</Link>
-              <Link href="/best-lawyer-for-loan-recovery-cases" className="text-blue-600 hover:text-blue-800 text-base">Loan Recovery Cases Lawyer</Link>
-              <Link href="/best-lawyer-for-bank-harassment-for-loan" className="text-blue-600 hover:text-blue-800 text-base">Bank Harassment for Loan Lawyer</Link>
-              <Link href="/best-lawyer-for-loan-contract" className="text-blue-600 hover:text-blue-800 text-base">Loan Contract Lawyer</Link>
-            </div>
-          </div>
-
-          {/* Column 5: Legal & Compliance */}
+          {/* Column 4: Legal & Compliance */}
           <div className="flex flex-col gap-4 w-full lg:w-auto">
             <h3 className="text-xl font-bold text-gray-900 mb-2">Legal & Compliance</h3>
             <div className="flex flex-col gap-3">
@@ -191,9 +148,7 @@ export default function Footer() {
               { name: "Mumbai", href: "/loan-settlement/mumbai" },
               { name: "Nagaland", href: null },
               { name: "Noida", href: "/loan-settlement/noida" },
-              { name: "Noida", href: "/loan-settlement/noida" },
               { name: "Odisha", href: "/loan-settlement/odisha" },
-              { name: "Puducherry", href: null },
               { name: "Puducherry", href: null },
               { name: "Punjab", href: "/loan-settlement/punjab" },
               { name: "Pune", href: "/loan-settlement/pune" },
@@ -222,6 +177,57 @@ export default function Footer() {
                   {state.name}
                 </span>
               )
+            ))}
+          </div>
+        </div>
+
+        {/* Queries Grid Section */}
+        <div className="w-full mt-12 pt-12 border-t border-gray-100">
+          <h3 className="text-xl font-bold text-gray-900 mb-8 uppercase tracking-wider text-sm opacity-70">Queries</h3>
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-3">
+            {[
+              { name: "MSME Loan Dispute Lawyer", href: "/best-lawyer-for-msme-business-loan-dispute" },
+              { name: "DRT Loan Settlement Lawyer", href: "/best-lawyer-for-loan-settlement-by-drt" },
+              { name: "Consortium Loan Defence", href: "/best-lawyer-for-consortium-loan-recovery-defence" },
+              { name: "Mortgage Default Notice Help", href: "/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment" },
+              { name: "Company Loan Matters Lawyer", href: "/best-lawyer-for-company-loan-matters" },
+              { name: "MSME & Business Loan Lawyer", href: "/best-lawyer-for-msme-and-business-loans" },
+              { name: "Documentation Review Lawyer", href: "/best-lawyer-for-documentation-review-of-loan-agreement" },
+              { name: "Loan Recovery Documentation", href: "/best-lawyer-for-loan-recovery-documentation" },
+              { name: "DRT Loan Assignment Defence", href: "/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt" },
+              { name: "Car Loan Settlement Lawyer", href: "/best-lawyer-for-car-loan-settlement" },
+              { name: "Business Loan Settlement Lawyer", href: "/best-lawyer-for-business-loan-settlement" },
+              { name: "Notice for Loan Default Help", href: "/best-lawyer-for-notice-for-loan-default" },
+              { name: "ARC Loan Assignment Dispute", href: "/best-lawyer-for-arc-loan-assignment-dispute" },
+              { name: "Account Documents DRT Lawyer", href: "/best-lawyer-for-account-documents-drt" },
+              { name: "DRT Lawyer in Mumbai", href: "/drt-lawyer-in-mumbai-loan-recovery" },
+              { name: "Home Loan Check Bounce Lawyer", href: "/best-lawyer-for-home-loan-check-bounce-case" },
+              { name: "Loan Arbitration Lawyer", href: "/best-loan-agreement-arbitration-lawyer" },
+              { name: "Project Finance Recovery Lawyer", href: "/best-project-finance-builder-loan-recovery-matter-lawyer" },
+              { name: "Loan Settlement During DRT", href: "/best-lawyer-for-loan-settlement-during-drt" },
+              { name: "DRT Case Defence Lawyer", href: "/best-lawyer-for-drt-case-defence-for-bank-loan-recovery" },
+              { name: "Bank Recovery Defence Lawyer", href: "/best-lawyer-for-bank-loan-recovery-defence" },
+              { name: "Bounced Security Check Lawyer", href: "/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes" },
+              { name: "Personal Loans Lawyer", href: "/best-lawyer-for-personal-loans" },
+              { name: "MSME Personal Loan Lawyer", href: "/best-lawyer-for-MSME-personal-loan" },
+              { name: "MSME Loan Recovery Defence", href: "/best-lawyer-for-MSME-loan-recovery-defence" },
+              { name: "Challenge ARC Assignment", href: "/best-lawyer-to-challenge-loan-assignment-to-arc" },
+              { name: "Unsecured Loan Lawyer", href: "/best-lawyer-for-unsecured-loan" },
+              { name: "Secured Loan Litigation Lawyer", href: "/best-lawyer-for-secured-loan-litigation-drt" },
+              { name: "LAP Settlement Lawyer", href: "/best-lawyer-for-loan-against-property-settlement" },
+              { name: "Education Loan Settlement Lawyer", href: "/best-lawyer-for-education-loan-settlement" },
+              { name: "Loan & Mortgage Agreement Lawyer", href: "/best-lawyer-for-loan-and-mortgage-agreements" },
+              { name: "Loan Recovery Cases Lawyer", href: "/best-lawyer-for-loan-recovery-cases" },
+              { name: "Bank Harassment for Loan Lawyer", href: "/best-lawyer-for-bank-harassment-for-loan" },
+              { name: "Loan Contract Lawyer", href: "/best-lawyer-for-loan-contract" }
+            ].map((query) => (
+              <Link
+                key={query.name}
+                href={query.href}
+                className="text-blue-600 hover:text-blue-800 font-bold text-sm transition-colors duration-200 py-1"
+              >
+                {query.name}
+              </Link>
             ))}
           </div>
         </div>
