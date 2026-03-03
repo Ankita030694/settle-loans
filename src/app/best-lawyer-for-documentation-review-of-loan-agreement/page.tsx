@@ -144,12 +144,6 @@ export default function DocumentationReviewPage() {
                                 <li>
                                     <span className="text-gray-300">/</span>
                                 </li>
-                                <li>
-                                    <Link href="/services" className="hover:text-[#1F5EFF] transition-colors">Services</Link>
-                                </li>
-                                <li>
-                                    <span className="text-gray-300">/</span>
-                                </li>
                                 <li className="font-bold text-[#2E2E2E]" aria-current="page">
                                     Loan Agreement Review
                                 </li>
