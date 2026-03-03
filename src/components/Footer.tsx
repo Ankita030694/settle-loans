@@ -115,6 +115,16 @@ export default function Footer() {
               <Link href="/best-lawyer-for-loan-recovery-documentation" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for Loan Recovery Documentation</Link>
               <Link href="/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt" className="text-blue-600 hover:text-blue-800 text-base">DRT Loan Assignment Defence</Link>
               <Link href="/best-lawyer-for-notice-for-loan-default" className="text-blue-600 hover:text-blue-800 text-base">Notice for Loan Default Help</Link>
+              <Link href="/best-lawyer-for-arc-loan-assignment-dispute" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for ARC Loan Assignment Dispute</Link>
+              <Link href="/best-lawyer-for-account-documents-drt" className="text-blue-600 hover:text-blue-800 text-base">Best Lawyer for Account Documents DRT</Link>
+              <Link href="/drt-lawyer-in-mumbai-loan-recovery" className="text-blue-600 hover:text-blue-800 text-base">DRT Lawyer in Mumbai</Link>
+              <Link href="/best-lawyer-for-home-loan-check-bounce-case" className="text-blue-600 hover:text-blue-800 text-base">Home Loan Check Bounce Lawyer</Link>
+              <Link href="/best-loan-agreement-arbitration-lawyer" className="text-blue-600 hover:text-blue-800 text-base">Loan Arbitration Lawyer</Link>
+              <Link href="/best-project-finance-builder-loan-recovery-matter-lawyer" className="text-blue-600 hover:text-blue-800 text-base">Project Finance Recovery Lawyer</Link>
+              <Link href="/best-lawyer-for-loan-settlement-during-drt" className="text-blue-600 hover:text-blue-800 text-base">Loan Settlement During DRT Lawyer</Link>
+              <Link href="/best-lawyer-for-drt-case-defence-for-bank-loan-recovery" className="text-blue-600 hover:text-blue-800 text-base">DRT Case Defence Lawyer</Link>
+              <Link href="/best-lawyer-for-bank-loan-recovery-defence" className="text-blue-600 hover:text-blue-800 text-base">Bank Recovery Defence Lawyer</Link>
+              <Link href="/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes" className="text-blue-600 hover:text-blue-800 text-base">Bounced Security Check Lawyer</Link>
             </div>
           </div>
 

@@ -684,5 +684,59 @@ export default function sitemap(): MetadataRoute.Sitemap {
             changeFrequency: 'monthly',
             priority: 0.8,
         },
+        {
+            url: 'https://settleloans.in/best-lawyer-for-arc-loan-assignment-dispute',
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        },
+        {
+            url: 'https://settleloans.in/best-lawyer-for-account-documents-drt',
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        },
+        {
+            url: 'https://settleloans.in/drt-lawyer-in-mumbai-loan-recovery',
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        },
+        {
+            url: 'https://settleloans.in/best-loan-agreement-arbitration-lawyer',
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        },
+        {
+            url: 'https://settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer',
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        },
+        {
+            url: 'https://settleloans.in/best-lawyer-for-loan-settlement-during-drt',
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        },
+        {
+            url: 'https://settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery',
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        },
+        {
+            url: 'https://settleloans.in/best-lawyer-for-bank-loan-recovery-defence',
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        },
+        {
+            url: 'https://settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes',
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        },
     ]
 }
