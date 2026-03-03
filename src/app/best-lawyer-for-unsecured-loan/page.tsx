@@ -68,6 +68,92 @@ export default function UnsecuredLoanLawyerPage() {
                         "reviewRating": { "@type": "Rating", "ratingValue": "5" }
                     }
                 ]
+            },
+            {
+                "@type": "FAQPage",
+                "@id": "https://settleloans.in/best-lawyer-for-unsecured-loan#faq",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": "Can I be jailed for defaulting on a personal loan?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "No. In India, a simple loan default is a civil matter, not criminal. You cannot be jailed for being unable to pay. However, if you issued a check that bounced (Section 138) or if you used fake documents to get the loan (Section 420), criminal proceedings can be initiated. A lawyer ensures that cases are kept in the civil domain."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "How much 'haircut' can I expect in a credit card settlement?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "For credit cards, where the interest is very high, it is common to settle for 25% to 40% of the total outstanding amount. In extreme cases of medical emergency or job loss, it can go even lower. The key is to wait for the debt to be 'aged' (usually 6+ months of non-payment) before beginning negotiations."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Recovery agents are calling my office. What should I do?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "This is a violation of the RBI Fair Practice Code. Immediately send a formal complaint to the bank's Nodal Officer. If they don't stop, have your lawyer file a suit for injunction and damages in the local civil court. Banks are very afraid of judgments that penalize them for privacy violations."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Is 'Debt Settlement' the same as 'Debt Consolidation'?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "No. Consolidation means taking one large loan to pay off many small ones. Settlement means paying a portion of the debt to close the account forever. Settlement is usually better for those in deep financial crisis, while consolidation is better for those who can still afford their EMIs but want to simplify their life."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Can the bank attach my house for an unsecured personal loan?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Technically, yes, if they win a court case and get a 'Decree of Execution'. However, this is a very long process taking 5-10 years. For unsecured loans, banks rarely go this far because the cost of litigation often exceeds the loan amount. They prefer to settle."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What happens if I ignore the DRT Summons?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "NEVER ignore a court or tribunal summons. If you don't appear, the DRT will pass an 'Ex-Parte' order against you, meaning the bank automatically wins. It is much harder to reverse an ex-parte order than it is to defend the case from the start."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "How long does the 'Settled' status stay on CIBIL?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "It stays for 7 years. But remember, after 2-3 years of responsible behavior with new (secured) credit lines, the impact of that 'Settled' status diminishes significantly in the eyes of new lenders."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Can a lawyer help me if my debt is already with an ARC?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Yes. Asset Reconstruction Companies (ARCs) buy bad loans from banks at a deep discount (sometimes for 20-30 cents on the dollar). This actually makes it EASIER to settle with an ARC than with the original bank, because the ARC has a lower 'break-even' point."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Should I sign the 'Restructuring' agreement offered by the bank?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Only if you are 100% sure you can pay the new EMI. Restructuring often increases the total interest you will pay. If you fail to pay a restructured loan, your legal position becomes weaker because you have signed a new admission of debt."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Can I travel abroad if I have a pending loan case?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "In 99.9% of civil loan cases, there is no restriction on foreign travel. Only in very high-value cases (usually above ₹100 Crore) can a bank ask for a 'Look Out Circular' (LOC). For personal or unsecured loans, you are free to travel."
+                        }
+                    }
+                ]
             }
         ]
     };

@@ -135,6 +135,10 @@ export default function Footer() {
               <Link href="/best-lawyer-for-secured-loan-litigation-drt" className="text-blue-600 hover:text-blue-800 text-base">Secured Loan Litigation Lawyer</Link>
               <Link href="/best-lawyer-for-loan-against-property-settlement" className="text-blue-600 hover:text-blue-800 text-base">LAP Settlement Lawyer</Link>
               <Link href="/best-lawyer-for-education-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Education Loan Settlement Lawyer</Link>
+              <Link href="/best-lawyer-for-loan-and-mortgage-agreements" className="text-blue-600 hover:text-blue-800 text-base">Loan & Mortgage Agreements Lawyer</Link>
+              <Link href="/best-lawyer-for-loan-recovery-cases" className="text-blue-600 hover:text-blue-800 text-base">Loan Recovery Cases Lawyer</Link>
+              <Link href="/best-lawyer-for-bank-harassment-for-loan" className="text-blue-600 hover:text-blue-800 text-base">Bank Harassment for Loan Lawyer</Link>
+              <Link href="/best-lawyer-for-loan-contract" className="text-blue-600 hover:text-blue-800 text-base">Loan Contract Lawyer</Link>
             </div>
           </div>
 
