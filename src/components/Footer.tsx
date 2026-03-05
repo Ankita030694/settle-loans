@@ -219,7 +219,13 @@ export default function Footer() {
               { name: "Loan & Mortgage Agreement Lawyer", href: "/best-lawyer-for-loan-and-mortgage-agreements" },
               { name: "Loan Recovery Cases Lawyer", href: "/best-lawyer-for-loan-recovery-cases" },
               { name: "Bank Harassment for Loan Lawyer", href: "/best-lawyer-for-bank-harassment-for-loan" },
-              { name: "Loan Contract Lawyer", href: "/best-lawyer-for-loan-contract" }
+              { name: "Loan Contract Lawyer", href: "/best-lawyer-for-loan-contract" },
+              { name: "5 Lakhs Loan Settlement", href: "/5-lakhs-loan-settlement" },
+              { name: "10 Lakhs Loan Settlement", href: "/10-lakhs-loan-settlement" },
+              { name: "50 Lakhs Loan Settlement", href: "/50-lakhs-loan-settlement" },
+              { name: "1 Crore Loan Settlement", href: "/1-crore-loan-settlement" },
+              { name: "5 Crore Loan Settlement", href: "/5-crore-loan-settlement" },
+              { name: "10 Crore Loan Settlement", href: "/10-crore-loan-settlement" }
             ].map((query) => (
               <Link
                 key={query.name}
