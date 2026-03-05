@@ -228,7 +228,17 @@ export default function Footer() {
               { name: "10 Crore Loan Settlement", href: "/10-crore-loan-settlement" },
               { name: "Loan Settlement Near Me", href: "/loan-settlement-near-me" },
               { name: "How to Settle Loan with Bank", href: "/how-to-settle-loan-with-bank" },
-              { name: "Loan Settlement Amount Calculator", href: "/loan-settlement-amount-calculator" }
+              { name: "Loan Settlement Amount Calculator", href: "/loan-settlement-amount-calculator" },
+              { name: "Negotiation Steps Strategy", href: "/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender" },
+              { name: "Home Loan Settlement Lawyer", href: "/best-lawyer-for-home-loan-settlement" },
+              { name: "EMI Default Consequences", href: "/what-happens-if-loan-emi-not-paid" },
+              { name: "Loan Settlement Process", href: "/loan-settlement-process-in-india" },
+              { name: "Loan Settlement Rules", href: "/loan-settlement-rules-india" },
+              { name: "Gold Loan Auction Settlement", href: "/gold-loan-settlement-process" },
+              { name: "Gold Loan Interest India", href: "/gold-loan-interest-in-india" },
+              { name: "Gold Loan Near Me", href: "/gold-loan-near-me" },
+              { name: "Legal Help Settlement", href: "/legal-help-for-loan-settlement" },
+              { name: "Legal Notice Recovery", href: "/legal-notice-for-loan-recovery" }
             ].map((query) => (
               <Link
                 key={query.name}
