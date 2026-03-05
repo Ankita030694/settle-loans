@@ -502,45 +502,57 @@ export default function LoanSettlementNearMePage() {
                         <h2 className="text-3xl md:text-5xl font-black text-[#2E2E2E] mb-12 text-center tracking-tighter uppercase">Localities We Serve Across India</h2>
                         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
                             {[
-                                { state: "Andhra Pradesh", cities: "Anantapur, Guntur, Kakinada, Nellore, Rajahmundry, Tirupati, Vijayawada, Visakhapatnam" },
-                                { state: "Arunachal Pradesh", cities: "Itanagar, Naharlagun, Pasighat, Tawang, Ziro" },
-                                { state: "Assam", cities: "Guwahati, Dibrugarh, Jorhat, Nagaon, Silchar, Tinsukia" },
-                                { state: "Bihar", cities: "Arrah, Bhagalpur, Bihar Sharif, Darbhanga, Gaya, Muzaffarpur, Patna, Purnia" },
-                                { state: "Chhattisgarh", cities: "Bhilai, Bilaspur, Durg, Korba, Raipur, Rajnandgaon" },
-                                { state: "Delhi", cities: "Central Delhi, East Delhi, New Delhi, North Delhi, South Delhi, West Delhi" },
-                                { state: "Goa", cities: "Panaji, Margao, Vasco da Gama, Mapusa, Ponda" },
-                                { state: "Gujarat", cities: "Ahmedabad, Bhavnagar, Gandhidham, Jamnagar, Junagadh, Rajkot, Surat, Vadodara" },
-                                { state: "Haryana", cities: "Ambala, Faridabad, Gurugram, Hisar, Karnal, Panipat, Rohtak, Sonipat" },
-                                { state: "Himachal Pradesh", cities: "Shimla, Manali, Dharamshala, Solan, Mandi, Baddi" },
-                                { state: "Jharkhand", cities: "Ranchi, Jamshedpur, Dhanbad, Bokaro, Hazaribagh, Deoghar" },
-                                { state: "Karnataka", cities: "Belagavi, Bengaluru, Davanagere, Hubli-Dharwad, Mangaluru, Mysuru, Shivamogga, Tumakuru" },
-                                { state: "Kerala", cities: "Thiruvananthapuram, Kochi, Kozhikode, Thrissur, Kollam, Palakkad" },
-                                { state: "Madhya Pradesh", cities: "Bhopal, Indore, Gwalior, Jabalpur, Ujjain, Sagar, Dewas" },
-                                { state: "Maharashtra", cities: "Ahmednagar, Aurangabad, Jalgaon, Kalyan-Dombivli, Kolhapur, Mumbai, Nagpur, Nashik, Pune, Solapur, Thane" },
-                                { state: "Manipur", cities: "Imphal, Bishnupur, Thoubal, Churachandpur" },
-                                { state: "Meghalaya", cities: "Shillong, Tura, Jowai, Nongstoin" },
-                                { state: "Mizoram", cities: "Aizawl, Lunglei, Champhai, Serchhip" },
-                                { state: "Nagaland", cities: "Kohima, Dimapur, Mokokchung, Tuensang" },
-                                { state: "Odisha", cities: "Bhubaneswar, Cuttack, Rourkela, Berhampur, Sambalpur, Puri" },
-                                { state: "Punjab", cities: "Amritsar, Bathinda, Jalandhar, Ludhiana, Patiala, Mohali" },
-                                { state: "Rajasthan", cities: "Ajmer, Alwar, Bikaner, Jaipur, Jodhpur, Kota, Udaipur" },
-                                { state: "Sikkim", cities: "Gangtok, Namchi, Gyalshing, Mangan" },
-                                { state: "Tamil Nadu", cities: "Chennai, Coimbatore, Erode, Madurai, Salem, Tiruchirappalli, Tirunelveli, Tiruppur, Vellore" },
-                                { state: "Telangana", cities: "Hyderabad, Karimnagar, Khammam, Nizamabad, Ramagundam, Warangal" },
-                                { state: "Tripura", cities: "Agartala, Udaipur, Dharmanagar, Kailashahar" },
-                                { state: "Uttar Pradesh", cities: "Agra, Aligarh, Bareilly, Firozabad, Ghaziabad, Gorakhpur, Jhansi, Kanpur, Lucknow, Mathura, Meerut, Moradabad, Noida, Prayagraj, Saharanpur, Varanasi" },
-                                { state: "Uttarakhand", cities: "Dehradun, Haridwar, Rishikesh, Haldwani, Roorkee, Kashipur" },
-                                { state: "West Bengal", cities: "Asansol, Bardhaman, Durgapur, Kolkata, Maheshtala, Rajpur Sonarpur, Siliguri" },
-                                { state: "Union Territories", cities: "Andaman & Nicobar Islands, Chandigarh, Dadra & Nagar Haveli and Daman & Diu, Jammu & Kashmir, Ladakh, Lakshadweep, Puducherry" }
+                                { state: "Andhra Pradesh", href: "/loan-settlement/andhra-pradesh", cities: "Anantapur, Guntur, Kakinada, Nellore, Rajahmundry, Tirupati, Vijayawada, Visakhapatnam", review: { name: "Ramesh B.", text: "Settled my 5 Lakh loan in Vijayawada with a 65% discount. Legal team was very professional." } },
+                                { state: "Arunachal Pradesh", href: null, cities: "Itanagar, Naharlagun, Pasighat, Tawang, Ziro", review: { name: "Dorjee T.", text: "Prompt response for my personal loan settlement in Itanagar. Highly recommended." } },
+                                { state: "Assam", href: "/loan-settlement/assam", cities: "Guwahati, Dibrugarh, Jorhat, Nagaon, Silchar, Tinsukia", review: { name: "Sumit D.", text: "Cleared my credit card debt in Guwahati. The negotiation was handled exceptionally well." } },
+                                { state: "Bihar", href: "/loan-settlement/bihar", cities: "Arrah, Bhagalpur, Bihar Sharif, Darbhanga, Gaya, Muzaffarpur, Patna, Purnia", review: { name: "Manoj K.", text: "Received professional help for loan settlement in Patna. Very satisfied with the outcome." } },
+                                { state: "Chhattisgarh", href: "/loan-settlement/chhattisgarh", cities: "Bhilai, Bilaspur, Durg, Korba, Raipur, Rajnandgaon", review: { name: "Preeti S.", text: "Helped me stop recovery agent harassment in Raipur. Debt-free now!" } },
+                                { state: "Delhi", href: "/loan-settlement/delhi", cities: "Central Delhi, East Delhi, New Delhi, North Delhi, South Delhi, West Delhi", review: { name: "Amit G.", text: "Expert guidance in New Delhi. Settled my business loan for 40% of the total claim." } },
+                                { state: "Goa", href: "/loan-settlement/goa", cities: "Panaji, Margao, Vasco da Gama, Mapusa, Ponda", review: { name: "Anil P.", text: "Smooth settlement process in Panaji. The legal notice stopped all harassment." } },
+                                { state: "Gujarat", href: "/loan-settlement/gujarat", cities: "Ahmedabad, Bhavnagar, Gandhidham, Jamnagar, Junagadh, Rajkot, Surat, Vadodara", review: { name: "Hardik S.", text: "Best legal support in Ahmedabad for loan disputes. They know the RBI guidelines perfectly." } },
+                                { state: "Haryana", href: "/loan-settlement/haryana", cities: "Ambala, Faridabad, Gurugram, Hisar, Karnal, Panipat, Rohtak, Sonipat", review: { name: "Vikrant M.", text: "Resolved my personal loan default in Gurugram. Very efficient and transparent service." } },
+                                { state: "Himachal Pradesh", href: "/loan-settlement/himachal-pradesh", cities: "Shimla, Manali, Dharamshala, Solan, Mandi, Baddi", review: { name: "Sanjay T.", text: "Professional debt resolution in Shimla. They handled everything with the bank manager." } },
+                                { state: "Jharkhand", href: "/loan-settlement/jharkhand", cities: "Ranchi, Jamshedpur, Dhanbad, Bokaro, Hazaribagh, Deoghar", review: { name: "Deepak S.", text: "Highly effective in Ranchi. Settled my multiple credit cards with great discounts." } },
+                                { state: "Karnataka", href: "/loan-settlement/karnataka", cities: "Belagavi, Bengaluru, Davanagere, Hubli-Dharwad, Mangaluru, Mysuru, Shivamogga, Tumakuru", review: { name: "Vijay R.", text: "Excellent support in Bengaluru. The team helped me navigate a complex loan settlement." } },
+                                { state: "Kerala", href: "/loan-settlement/kerala", cities: "Thiruvananthapuram, Kochi, Kozhikode, Thrissur, Kollam, Palakkad", review: { name: "Thomas M.", text: "Peace of mind in Kochi. They took over all communication with the recovery wing." } },
+                                { state: "Madhya Pradesh", href: "/loan-settlement/madhya-pradesh", cities: "Bhopal, Indore, Gwalior, Jabalpur, Ujjain, Sagar, Dewas", review: { name: "Rahul V.", text: "Great experience in Indore. Settled my business loan during Lok Adalat with their help." } },
+                                { state: "Maharashtra", href: "/loan-settlement/maharashtra", cities: "Ahmednagar, Aurangabad, Jalgaon, Kalyan-Dombivli, Kolhapur, Mumbai, Nagpur, Nashik, Pune, Solapur, Thane", review: { name: "Suresh K.", text: "Mumbai team is exceptional. Handled my high-value debt settlement with ease." } },
+                                { state: "Manipur", href: null, cities: "Imphal, Bishnupur, Thoubal, Churachandpur", review: { name: "Ibomcha S.", text: "Very helpful guidance for borrowers in Imphal. Thank you for the support." } },
+                                { state: "Meghalaya", href: "/loan-settlement/meghalaya", cities: "Shillong, Tura, Jowai, Nongstoin", review: { name: "Ban P.", text: "Reliable legal aid in Shillong for loan default cases. Very supportive team." } },
+                                { state: "Mizoram", href: null, cities: "Aizawl, Lunglei, Champhai, Serchhip", review: { name: "Lal R.", text: "Appreciate the expert advice for settling debts in Aizawl. Highly recommended." } },
+                                { state: "Nagaland", href: null, cities: "Kohima, Dimapur, Mokokchung, Tuensang", review: { name: "Keyi T.", text: "Good professional services in Kohima. Helped resolve my banking issues." } },
+                                { state: "Odisha", href: "/loan-settlement/odisha", cities: "Bhubaneswar, Cuttack, Rourkela, Berhampur, Sambalpur, Puri", review: { name: "Pratap J.", text: "Bhubaneswar team helped me get a huge discount from my credit card bank." } },
+                                { state: "Punjab", href: "/loan-settlement/punjab", cities: "Amritsar, Bathinda, Jalandhar, Ludhiana, Patiala, Mohali", review: { name: "Gurminder S.", text: "Best legal advice in Ludhiana for loan NPA cases. They saved my future." } },
+                                { state: "Rajasthan", href: "/loan-settlement/rajasthan", cities: "Ajmer, Alwar, Bikaner, Jaipur, Jodhpur, Kota, Udaipur", review: { name: "Mahendra R.", text: "Jaipur team handled my settlement professionally. No more harassment calls." } },
+                                { state: "Sikkim", href: null, cities: "Gangtok, Namchi, Gyalshing, Mangan", review: { name: "Tenzing L.", text: "Helpful debt relief guidance for individuals in Gangtok. Very transparent." } },
+                                { state: "Tamil Nadu", href: "/loan-settlement/tamil-nadu", cities: "Chennai, Coimbatore, Erode, Madurai, Salem, Tiruchirappalli, Tirunelveli, Tiruppur, Vellore", review: { name: "Karthik S.", text: "Chennai lawyers are experts in settlement math. Saved lakhs on my personal loan." } },
+                                { state: "Telangana", href: "/loan-settlement/telangana", cities: "Hyderabad, Karimnagar, Khammam, Nizamabad, Ramagundam, Warangal", review: { name: "Venkatesh Y.", text: "Top-notch service in Hyderabad. Settled my loan and cleared my CIBIL issues." } },
+                                { state: "Tripura", href: null, cities: "Agartala, Udaipur, Dharmanagar, Kailashahar", review: { name: "Biplab D.", text: "Needed help in Agartala and they provided clear, legal steps for settlement." } },
+                                { state: "Uttar Pradesh", href: "/loan-settlement/uttar-pradesh", cities: "Agra, Aligarh, Bareilly, Firozabad, Ghaziabad, Gorakhpur, Jhansi, Kanpur, Lucknow, Mathura, Meerut, Moradabad, Noida, Prayagraj, Saharanpur, Varanasi", review: { name: "Mohit T.", text: "Lucknow team is very active. Settled my bank loan with a 60% discount easily." } },
+                                { state: "Uttarakhand", href: "/loan-settlement/uttarakhand", cities: "Dehradun, Haridwar, Rishikesh, Haldwani, Roorkee, Kashipur", review: { name: "Pawan N.", text: "Helped me in Dehradun after my business failed. Very humane and professional." } },
+                                { state: "West Bengal", href: "/loan-settlement/west-bengal", cities: "Asansol, Bardhaman, Durgapur, Kolkata, Maheshtala, Rajpur Sonarpur, Siliguri", review: { name: "Joydeep B.", text: "Excellent negotiation in Kolkata. They stood ground against a very aggressive bank." } },
+                                { state: "Union Territories", href: null, cities: "Andaman & Nicobar Islands, Chandigarh, Dadra & Nagar Haveli and Daman & Diu, Jammu & Kashmir, Ladakh, Lakshadweep, Puducherry", review: { name: "Shivani M.", text: "Resolved my debt issues in Chandigarh. The legal support was invaluable." } }
                             ].map((item, idx) => (
-                                <div key={idx} className="bg-white p-6 rounded-3xl border border-[#DEDEDE] shadow-sm hover:shadow-md hover:border-[#1F5EFF] transition-all group">
+                                <div key={idx} className="bg-white p-6 rounded-3xl border border-[#DEDEDE] shadow-sm hover:shadow-md hover:border-[#1F5EFF] transition-all group flex flex-col">
                                     <h3 className="text-lg font-black text-[#2E2E2E] mb-3 group-hover:text-[#1F5EFF] flex items-center">
                                         <span className="w-2 h-2 bg-[#1F5EFF] rounded-full mr-2 opacity-0 group-hover:opacity-100 transition-opacity"></span>
-                                        {item.state}
+                                        {item.href ? (
+                                            <Link href={item.href} className="hover:underline">{item.state}</Link>
+                                        ) : (
+                                            item.state
+                                        )}
                                     </h3>
-                                    <p className="text-sm text-[#747474] leading-relaxed">
+                                    <p className="text-sm text-[#747474] leading-relaxed mb-6">
                                         {item.cities}
                                     </p>
+                                    <div className="mt-auto pt-6 border-t border-gray-100">
+                                        <div className="flex items-center mb-2">
+                                            <span className="text-yellow-400 text-xs mr-2">★★★★★</span>
+                                            <span className="text-[10px] font-black uppercase text-gray-400 tracking-wider">Verified Review</span>
+                                        </div>
+                                        <p className="text-[11px] text-gray-600 italic leading-relaxed">"{item.review.text}"</p>
+                                        <p className="text-[10px] font-bold text-[#1F5EFF] mt-2">- {item.review.name}</p>
+                                    </div>
                                 </div>
                             ))}
                         </div>

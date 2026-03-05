@@ -226,7 +226,9 @@ export default function Footer() {
               { name: "1 Crore Loan Settlement", href: "/1-crore-loan-settlement" },
               { name: "5 Crore Loan Settlement", href: "/5-crore-loan-settlement" },
               { name: "10 Crore Loan Settlement", href: "/10-crore-loan-settlement" },
-              { name: "Loan Settlement Near Me", href: "/loan-settlement-near-me" }
+              { name: "Loan Settlement Near Me", href: "/loan-settlement-near-me" },
+              { name: "How to Settle Loan with Bank", href: "/how-to-settle-loan-with-bank" },
+              { name: "Loan Settlement Amount Calculator", href: "/loan-settlement-amount-calculator" }
             ].map((query) => (
               <Link
                 key={query.name}
