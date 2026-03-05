@@ -829,6 +829,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.9,
         },
         {
+            url: `${baseUrl}/loan-settlement-near-me`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.8,
+        },
+        {
             url: `${baseUrl}/50-lakhs-loan-settlement`,
             lastModified: new Date(),
             changeFrequency: 'monthly',
