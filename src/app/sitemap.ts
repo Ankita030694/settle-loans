@@ -17,6 +17,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.8,
         },
         {
+            url: `${baseUrl}/SME-loan-dispute-resolution`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/legal-case-for-loan-sanction-without-consent`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
             url: `${baseUrl}/faqs`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
@@ -974,6 +986,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
         {
             url: `${baseUrl}/loan-default-recovery-freeze-defense`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/loan-agreement-drafting-review`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/best-nbfc-loan-settlement-lawyer`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,

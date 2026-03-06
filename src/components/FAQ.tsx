@@ -4,7 +4,18 @@ import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import Image from 'next/image';
 
-const faqs = [
+interface FAQItem {
+  question: string;
+  answer: string;
+}
+
+interface FAQProps {
+  items?: FAQItem[];
+  title?: string;
+  description?: string;
+}
+
+const defaultFaqs = [
   {
     question: "What types of loans can SettleLoans help with?",
     answer: "We specialize in settling unsecured loans such as personal loans, credit card debts, and business loans. We also provide legal representation for dealing with digital lending apps and NBFC loans."
@@ -23,13 +34,17 @@ const faqs = [
   }
 ];
 
-const FAQ = () => {
+const FAQ: React.FC<FAQProps> = ({
+  items = defaultFaqs,
+  title = "Frequently Asked Questions",
+  description = "Clear answers to help you understand our process, pricing, and what to expect at every step."
+}) => {
   const [openIndex, setOpenIndex] = useState<number | null>(0);
 
   const faqSchema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    "mainEntity": faqs.map(faq => ({
+    "mainEntity": items.map(faq => ({
       "@type": "Question",
       "name": faq.question,
       "acceptedAnswer": {
@@ -47,19 +62,24 @@ const FAQ = () => {
       />
       {/* Background Top Gradient/Blur */}
       <div className="absolute top-0 left-0 w-full h-32 bg-gradient-to-b from-[#E0EDFF] to-white pointer-events-none opacity-60" />
-      
+
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="flex flex-col lg:flex-row gap-12 lg:gap-20 items-start">
-          
+
           {/* Left Column */}
           <div className="lg:w-[45%] space-y-6">
             <h2 className="text-[#2E2E2E] text-[48px] md:text-[60px] font-bold leading-[0.95] tracking-tight" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
-              Frequently Asked <br className="hidden md:block"/> Questions
+              {title.split(' ').map((word, i, arr) => (
+                <React.Fragment key={i}>
+                  {word}{' '}
+                  {i === 1 && <br className="hidden md:block" />}
+                </React.Fragment>
+              ))}
             </h2>
             <p className="text-[#6D6D6D] text-[18px] md:text-[22px] font-normal leading-[1.2] max-w-md transition-all duration-300" style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
-              Clear answers to help you understand our process, pricing, and what to expect at every step.
+              {description}
             </p>
-            
+
             <div className="flex items-center gap-4 py-2">
               <div className="flex -space-x-3 overflow-hidden">
                 {[
@@ -85,8 +105,8 @@ const FAQ = () => {
 
           {/* Right Column (Accordion) */}
           <div className="lg:w-[55%] w-full space-y-4">
-            {faqs.map((faq, index) => (
-              <div 
+            {items.map((faq, index) => (
+              <div
                 key={index}
                 className="overflow-hidden transition-all duration-300"
               >
@@ -99,11 +119,11 @@ const FAQ = () => {
                   </span>
                   <span className={`flex-shrink-0 transition-transform duration-300 ${openIndex === index ? 'rotate-90' : ''}`}>
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M9 5L16 12L9 19" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"/>
+                      <path d="M9 5L16 12L9 19" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" />
                     </svg>
                   </span>
                 </button>
-                
+
                 <AnimatePresence>
                   {openIndex === index && (
                     <motion.div

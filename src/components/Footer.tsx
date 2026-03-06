@@ -246,7 +246,11 @@ export default function Footer() {
               { name: "Corporate Loan Matters", href: "/business-corporate-loan-matters" },
               { name: "Cyber Loan Disputes", href: "/digital-online-cyber-loan-disputes" },
               { name: "Post-Settlement Help", href: "/post-loan-settlement-legal-help" },
-              { name: "Recovery Freeze Defense", href: "/loan-default-recovery-freeze-defense" }
+              { name: "Recovery Freeze Defense", href: "/loan-default-recovery-freeze-defense" },
+              { name: "SME Loan Dispute", href: "/SME-loan-dispute-resolution" },
+              { name: "Unsanctioned Loan Case", href: "/legal-case-for-loan-sanction-without-consent" },
+              { name: "Loan Agreement Review", href: "/loan-agreement-drafting-review" },
+              { name: "NBFC Settlement Lawyer", href: "/best-nbfc-loan-settlement-lawyer" }
             ].map((query) => (
               <Link
                 key={query.name}
