@@ -238,7 +238,15 @@ export default function Footer() {
               { name: "Gold Loan Interest India", href: "/gold-loan-interest-in-india" },
               { name: "Gold Loan Near Me", href: "/gold-loan-near-me" },
               { name: "Legal Help Settlement", href: "/legal-help-for-loan-settlement" },
-              { name: "Legal Notice Recovery", href: "/legal-notice-for-loan-recovery" }
+              { name: "Legal Notice Recovery", href: "/legal-notice-for-loan-recovery" },
+              { name: "Working Capital Legal Help", href: "/working-capital-loan-legal-help" },
+              { name: "Startup Loan Advisory", href: "/startup-loan-legal-advisory" },
+              { name: "Loan Dispute Resolution", href: "/loan-parties-dispute-resolution" },
+              { name: "Foreclosure Assistance", href: "/loan-default-emi-foreclosure-assistance" },
+              { name: "Corporate Loan Matters", href: "/business-corporate-loan-matters" },
+              { name: "Cyber Loan Disputes", href: "/digital-online-cyber-loan-disputes" },
+              { name: "Post-Settlement Help", href: "/post-loan-settlement-legal-help" },
+              { name: "Recovery Freeze Defense", href: "/loan-default-recovery-freeze-defense" }
             ].map((query) => (
               <Link
                 key={query.name}
