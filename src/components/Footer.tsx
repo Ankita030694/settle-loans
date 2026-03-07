@@ -254,7 +254,11 @@ export default function Footer() {
               { name: "Bad Loan Recovery Strategy", href: "/bad-loan-recovery-strategy" },
               { name: "Microfinance Settlement Lawyer", href: "/best-microfinance-loan-settlement-lawyer" },
               { name: "Non-Closure Relief", href: "/legal-help-for-non-closure-of-settled-loan" },
-              { name: "EMI Settlement Lawyer", href: "/best-loan-emi-settlement-lawyer" }
+              { name: "EMI Settlement Lawyer", href: "/best-loan-emi-settlement-lawyer" },
+              { name: "Mudra Loan Settlement", href: "/mudra-loan-settlement-legal-help" },
+              { name: "Forged Loan Signatures", href: "/dispute-over-forged-loan-signatures" },
+              { name: "Payday Loan Settlement", href: "/payday-loan-settlement-lawyer" },
+              { name: "Overdue Loan Protection", href: "/overdue-loan-legal-protection" }
             ].map((query) => (
               <Link
                 key={query.name}
