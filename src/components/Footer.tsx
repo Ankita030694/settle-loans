@@ -250,7 +250,11 @@ export default function Footer() {
               { name: "SME Loan Dispute", href: "/SME-loan-dispute-resolution" },
               { name: "Unsanctioned Loan Case", href: "/legal-case-for-loan-sanction-without-consent" },
               { name: "Loan Agreement Review", href: "/loan-agreement-drafting-review" },
-              { name: "NBFC Settlement Lawyer", href: "/best-nbfc-loan-settlement-lawyer" }
+              { name: "NBFC Settlement Lawyer", href: "/best-nbfc-loan-settlement-lawyer" },
+              { name: "Bad Loan Recovery Strategy", href: "/bad-loan-recovery-strategy" },
+              { name: "Microfinance Settlement Lawyer", href: "/best-microfinance-loan-settlement-lawyer" },
+              { name: "Non-Closure Relief", href: "/legal-help-for-non-closure-of-settled-loan" },
+              { name: "EMI Settlement Lawyer", href: "/best-loan-emi-settlement-lawyer" }
             ].map((query) => (
               <Link
                 key={query.name}
