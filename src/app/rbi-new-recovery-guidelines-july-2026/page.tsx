@@ -438,40 +438,43 @@ export default function RBIRecoveryGuidelines2026Page() {
                             </div>
                         </section>
 
-                        <section id="success-stories" className="scroll-mt-32 mb-20">
-                            <ReviewSnippets
-                                title="Recent Ombudsman Victories"
-                                reviews={[
+                        <section id="success-stories" className="scroll-mt-32 mb-12">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Regulatory Victory</h2>
+                            <div className="grid md:grid-cols-2 gap-6 not-prose">
+                                {[
                                     {
-                                        name: "Vikram Malhotra",
+                                        name: "Vikram M.",
                                         loc: "Mumbai",
-                                        loan: "Unsecured Personal Loan",
-                                        res: "₹50,000 Compensation",
-                                        story: "An agent called my workplace 15 times in one day. I used the 2026 guideline draft to petition the Ombudsman. The bank was fined and ordered to pay me for damage to mijn professional reputation."
+                                        type: "Personal Loan",
+                                        outcome: "₹50,000 Compensation",
+                                        story: "An agent called my workplace 15 times in one day. I used the 2026 guideline draft to petition the Ombudsman. The bank was fined and ordered to pay me for damage to my professional reputation."
                                     },
                                     {
-                                        name: "Sunita Reddy",
+                                        name: "Sunita R.",
                                         loc: "Hyderabad",
-                                        loan: "NBFC Credit Card",
-                                        res: "Harassment Stopped",
+                                        type: "NBFC Credit Card",
+                                        outcome: "Harassment Stopped",
                                         story: "The recovery agency was using abusive language. One legal notice citing the 'Fair Practices Code' and vicarious liability protocols stopped all calls within 24 hours. Knowledge is truly power."
-                                    },
-                                    {
-                                        name: "Rajesh Khanna",
-                                        loc: "New Delhi",
-                                        loan: "Secured Business Loan",
-                                        res: "Agent Suspension",
-                                        story: "The bank tried to visit my house late at night. I recorded the interaction and reported them. The RBI ordered the bank to suspend the recovery agency's license for 3 months."
-                                    },
-                                    {
-                                        name: "Amrita Singh",
-                                        loc: "Chandigarh",
-                                        loan: "Gold Loan Recovery",
-                                        res: "Privacy Restored",
-                                        story: "They contacted my father-in-law for my loan. The lawyers at SettleLoans helped me draft a complaint that forced the bank to issue a written apology and a 40% waiver on my interest."
                                     }
-                                ]}
-                            />
+                                ].map((review, i) => (
+                                    <div key={i} className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
+                                        <div className="flex items-center mb-4">
+                                            <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
+                                                {review.name.charAt(0)}
+                                            </div>
+                                            <div>
+                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <p className="text-xs text-gray-400">{review.loc}</p>
+                                            </div>
+                                            <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
+                                        </div>
+                                        <div className="mb-4 text-xs font-mono bg-green-50 p-2 rounded border border-green-100 uppercase tracking-tighter">
+                                            <span className="block text-green-700 font-bold">{review.outcome}</span>
+                                        </div>
+                                        <p className="text-sm text-gray-600 italic leading-relaxed">"{review.story}"</p>
+                                    </div>
+                                ))}
+                            </div>
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">

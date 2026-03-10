@@ -631,6 +631,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.9,
         },
         {
+            url: `${baseUrl}/bank-filed-fir-for-loan-default`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
             url: `${baseUrl}/best-lawyer-for-msme-business-loan-dispute`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
@@ -1100,6 +1106,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
         {
             url: `${baseUrl}/recovery-agents-calling-family-members-law`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/can-i-go-to-jail-for-loan-default-in-india`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/police-case-for-credit-card-debt`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,

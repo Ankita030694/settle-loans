@@ -405,54 +405,57 @@ export default function RecoveryHarassmentComplaintPage() {
                             </div>
                         </section>
 
-                        <section id="success-stories" className="scroll-mt-32 mb-20 mt-20">
-                            <ReviewSnippets
-                                title="Complaint Redressal Wins"
-                                reviews={[
+                        <section id="success-stories" className="scroll-mt-32 mb-12">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Redressal Victory</h2>
+                            <div className="grid md:grid-cols-2 gap-6 not-prose">
+                                {[
                                     {
-                                        name: "Amit Deshmukh",
-                                        loc: "MUMBAI",
-                                        loan: "Credit Card Default",
-                                        res: "₹75,000 Compensation",
+                                        name: "Amit D.",
+                                        loc: "Mumbai",
+                                        type: "Credit Card Default",
+                                        outcome: "₹75,000 Compensation",
                                         story: "An agent messaged my boss on LinkedIn. I filed a complaint with the RBI Ombudsman using screenshots. The RBI didn't just stop the agents; they ordered the bank to pay me ₹75k for defamation."
                                     },
                                     {
-                                        name: "Sumanth Reddy",
-                                        loc: "HYDERABAD",
-                                        loan: "Unpaid Business Loan",
-                                        res: "FIR filed, Loan waived",
+                                        name: "Sumanth R.",
+                                        loc: "Hyderabad",
+                                        type: "Unpaid Business Loan",
+                                        outcome: "FIR filed & Interest Waived",
                                         story: "Agents tried to seize my factory illegally. I called the police and filed an FIR under Section 441 IPC (Trespass). The bank was so scared of the criminal case that they waived 100% of my interest in exchange for withdrawing the complaint."
-                                    },
-                                    {
-                                        name: "Richa Sharma",
-                                        loc: "GURUGRAM",
-                                        loan: "Educational Loan",
-                                        res: "Cyber Portal Victory",
-                                        story: "Agents were sending morphed images on WhatsApp. I reported it to the National Cyber Crime Reporting Portal. The police traced the number to an unauthorized agency, which was shut down, and my debt was written off."
-                                    },
-                                    {
-                                        name: "Arun Jaitley",
-                                        loc: "DELHI",
-                                        loan: "Personal Loan: 5L",
-                                        res: "PNO Apology, 40% Waiver",
-                                        story: "I sent a strongly worded legal notice to the bank PNO citing the 2026 RBI guidelines. Within 48 hours, I received a personalized apology and a lucrative settlement offer to close the account."
                                     }
-                                ]}
-                            />
+                                ].map((review, i) => (
+                                    <div key={i} className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
+                                        <div className="flex items-center mb-4">
+                                            <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
+                                                {review.name.charAt(0)}
+                                            </div>
+                                            <div>
+                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <p className="text-xs text-gray-400">{review.loc}</p>
+                                            </div>
+                                            <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
+                                        </div>
+                                        <div className="mb-4 text-xs font-mono bg-green-50 p-2 rounded border border-green-100 uppercase tracking-tighter">
+                                            <span className="block text-green-700 font-bold">{review.outcome}</span>
+                                        </div>
+                                        <p className="text-sm text-gray-600 italic leading-relaxed">"{review.story}"</p>
+                                    </div>
+                                ))}
+                            </div>
                         </section>
 
                         <section id="comprehensive-faqs" className="scroll-mt-32 mb-12 mt-20">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8 leading-none">Harassment Complaint FAQs</h2>
                             <div className="space-y-4 not-prose">
                                 {jsonLd["@graph"][4]["mainEntity"]?.map((faq: any, i: number) => (
-                                    <details key={i} className="group bg-white border border-[#DEDEDE] rounded-[24px] overflow-hidden hover:shadow-lg transition-all border-b-8 border-b-[#1F5EFF]/30 shadow-sm mb-6">
-                                        <summary className="flex justify-between items-center p-8 cursor-pointer font-black text-[#2E2E2E] list-none bg-gray-50 group-open:bg-white transition-colors border-b border-[#DEDEDE] group-open:border-transparent">
-                                            <span className="text-xl leading-none">{i + 1}. {faq.name}</span>
-                                            <span className="transition-transform group-open:rotate-180 p-2 bg-[#1F5EFF] rounded-full text-white">
-                                                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M19 9l-7 7-7 7"></path></svg>
+                                    <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
+                                        <summary className="flex justify-between items-center p-5 cursor-pointer font-black text-[#2E2E2E] list-none bg-gray-50 group-open:bg-white transition-colors">
+                                            <span className="text-lg">{i + 1}. {faq.name}</span>
+                                            <span className="transition-transform group-open:rotate-180">
+                                                <svg className="w-5 h-5 text-[#1F5EFF]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7 7"></path></svg>
                                             </span>
                                         </summary>
-                                        <div className="px-8 pb-8 text-[#2E2E2E] opacity-90 leading-relaxed pt-6 mt-0 bg-white font-medium text-lg italic">
+                                        <div className="px-5 pb-5 text-[#2E2E2E] opacity-90 leading-relaxed border-t border-[#DEDEDE] pt-4 mt-0 bg-white">
                                             {faq.acceptedAnswer.text}
                                         </div>
                                     </details>

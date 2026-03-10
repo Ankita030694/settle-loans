@@ -269,7 +269,10 @@ export default function Footer() {
               { name: "Bank Recovery Complaint", href: "/bank-recovery-harassment-complaint" },
               { name: "RBI Recovery Rules", href: "/rbi-rules-for-recovery-agents" },
               { name: "Recovery Agents Home Visit", href: "/can-recovery-agents-come-home" },
-              { name: "Family Calling Law", href: "/recovery-agents-calling-family-members-law" }
+              { name: "Family Calling Law", href: "/recovery-agents-calling-family-members-law" },
+              { name: "Jail for Loan Default", href: "/can-i-go-to-jail-for-loan-default-in-india" },
+              { name: "Police Case Card Debt", href: "/police-case-for-credit-card-debt" },
+              { name: "Bank Filed FIR Help", href: "/bank-filed-fir-for-loan-default" }
             ].map((query) => (
               <Link
                 key={query.name}

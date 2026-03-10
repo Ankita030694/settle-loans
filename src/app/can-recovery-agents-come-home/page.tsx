@@ -396,54 +396,57 @@ export default function CanRecoveryAgentsComeHomePage() {
                             </div>
                         </section>
 
-                        <section id="success-stories-home-defense" className="scroll-mt-32 mb-20 mt-20">
-                            <ReviewSnippets
-                                title="Home Defense Victories"
-                                reviews={[
+                        <section id="success-stories-home-defense" className="scroll-mt-32 mb-12">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Home Protection</h2>
+                            <div className="grid md:grid-cols-2 gap-6 not-prose">
+                                {[
                                     {
-                                        name: "Rahul Verma",
-                                        loc: "NEW DELHI",
-                                        loan: "Aggressive Home Visit",
-                                        res: "Apology & Waiver",
+                                        name: "Rahul V.",
+                                        loc: "New Delhi",
+                                        type: "Aggressive Home Visit",
+                                        outcome: "Apology & Waiver",
                                         story: "Two agents tried to push their way into my living room at 7:30 PM. I recorded them, cited IPC 441, and called the PCR. The police came and warned them. The next day, the bank branch manager called to apologize and offered a one-time settlement with a 65% discount."
                                     },
                                     {
-                                        name: "Priya Menon",
-                                        loc: "BENGALURU",
-                                        loan: "Identity Verification Win",
-                                        res: "Fraud Agency Exposed",
+                                        name: "Priya M.",
+                                        loc: "Bengaluru",
+                                        type: "Identity Verification Win",
+                                        outcome: "Fraud Agency Exposed",
                                         story: "An agent visited and refused to show a bank ID. I used the credentials checklist from SettleLoans. It turned out he was from a fake sub-agency not even empanelled by the bank. I filed an RBI CMS complaint, and the bank had to freeze my interest accumulation for 6 months."
-                                    },
-                                    {
-                                        name: "Sanjay Gupta",
-                                        loc: "KANPUR",
-                                        loan: "Unsecured Personal Loan",
-                                        res: "Notice Violation Success",
-                                        story: "Agents showed up without any prior written notice. I showed them the RBI guideline on my phone. They tried to argue, but I told them I wouldn't open the gate without a PDF of the bank's authorization. They left and never came back."
-                                    },
-                                    {
-                                        name: "Anita Raj",
-                                        loc: "PUNE",
-                                        loan: "Credit Card Overdue",
-                                        res: "Public Shaming Redressal",
-                                        story: "Agents were shouting in the building lobby. I recorded the noise and sent it to the bank's PNO. I threatened to file a defamation suit. The bank settled the entire 4L credit card bill for just 1.2L to avoid litigation."
                                     }
-                                ]}
-                            />
+                                ].map((review, i) => (
+                                    <div key={i} className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
+                                        <div className="flex items-center mb-4">
+                                            <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
+                                                {review.name.charAt(0)}
+                                            </div>
+                                            <div>
+                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <p className="text-xs text-gray-400">{review.loc}</p>
+                                            </div>
+                                            <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
+                                        </div>
+                                        <div className="mb-4 text-xs font-mono bg-green-50 p-2 rounded border border-green-100 uppercase tracking-tighter">
+                                            <span className="block text-green-700 font-bold">{review.outcome}</span>
+                                        </div>
+                                        <p className="text-sm text-gray-600 italic leading-relaxed">"{review.story}"</p>
+                                    </div>
+                                ))}
+                            </div>
                         </section>
 
                         <section id="technical-faqs-visits" className="scroll-mt-32 mb-12 mt-20">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8 leading-none italic">Home Visit Technical FAQs</h2>
                             <div className="space-y-4 not-prose">
                                 {jsonLd["@graph"][4]["mainEntity"]?.map((faq: any, i: number) => (
-                                    <details key={i} className="group bg-white border border-[#DEDEDE] rounded-[24px] overflow-hidden hover:shadow-lg transition-all border-b-8 border-b-[#1F5EFF]/30 shadow-sm mb-6">
-                                        <summary className="flex justify-between items-center p-8 cursor-pointer font-black text-[#2E2E2E] list-none bg-gray-50 group-open:bg-white transition-colors border-b border-[#DEDEDE] group-open:border-transparent">
-                                            <span className="text-xl leading-none">{i + 1}. {faq.name}</span>
-                                            <span className="transition-transform group-open:rotate-180 p-2 bg-[#1F5EFF] rounded-full text-white">
-                                                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M19 9l-7 7-7 7"></path></svg>
+                                    <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
+                                        <summary className="flex justify-between items-center p-5 cursor-pointer font-black text-[#2E2E2E] list-none bg-gray-50 group-open:bg-white transition-colors">
+                                            <span className="text-lg">{i + 1}. {faq.name}</span>
+                                            <span className="transition-transform group-open:rotate-180">
+                                                <svg className="w-5 h-5 text-[#1F5EFF]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7 7"></path></svg>
                                             </span>
                                         </summary>
-                                        <div className="px-8 pb-8 text-[#2E2E2E] opacity-90 leading-relaxed pt-6 mt-0 bg-white font-medium text-lg italic uppercase tracking-tighter">
+                                        <div className="px-5 pb-5 text-[#2E2E2E] opacity-90 leading-relaxed border-t border-[#DEDEDE] pt-4 mt-0 bg-white">
                                             {faq.acceptedAnswer.text}
                                         </div>
                                     </details>

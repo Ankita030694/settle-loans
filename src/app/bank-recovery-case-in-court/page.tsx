@@ -418,47 +418,50 @@ export default function BankRecoveryCasePage() {
                             </ul>
                         </section>
 
-                        <section id="success-stories" className="scroll-mt-32 mb-20">
-                            <ReviewSnippets
-                                title="Litigation Defense Victories"
-                                reviews={[
+                        <section id="success-stories" className="scroll-mt-32 mb-12">
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center uppercase">Real Stories of Litigation Defense</h2>
+                            <div className="grid md:grid-cols-2 gap-6 not-prose">
+                                {[
                                     {
-                                        name: "Harish Gupta",
-                                        loc: "DELHI",
-                                        loan: "Personal Loan Case: 15L",
-                                        res: "Summary Suit Dismissed",
+                                        name: "Harish G.",
+                                        loc: "Delhi",
+                                        type: "Personal Loan Case",
+                                        outcome: "Summary Suit Dismissed",
                                         story: "The bank filed an Order 37 suit. We proved the 'Acknowledgment of Debt' was forged. The court granted unconditional leave to defend, and the bank eventually settled for 4L."
                                     },
                                     {
-                                        name: "Suman Rao",
-                                        loc: "HYDERABAD",
-                                        loan: "High-Value Credit Card",
-                                        res: "Decree Set Aside",
+                                        name: "Suman R.",
+                                        loc: "Hyderabad",
+                                        type: "Credit Card Default",
+                                        outcome: "Decree Set Aside",
                                         story: "I received an ex-parte decree notice for an address I left 5 years ago. We proved improper service under Order 9 Rule 13. The court restored the case, allowing us to settle on fair terms."
-                                    },
-                                    {
-                                        name: "Amitabh Shah",
-                                        loc: "AHMEDABAD",
-                                        loan: "Business Overdraft: 50L",
-                                        res: "DRT Settlement",
-                                        story: "The bank was pushing for a Recovery Certificate. We identified accounting errors in their penal interest. The DRT ordered a reconciliation, forcing the bank to offer a 40% waiver."
-                                    },
-                                    {
-                                        name: "Suresh Babu",
-                                        loc: "CHENNAI",
-                                        loan: "Home Loan Recovery",
-                                        res: "Stoppage of Auction",
-                                        story: "My property was at the auction stage. We found the bank had not followed the mandatory 60-day notice period under SARFAESI. The High Court stayed the auction, giving us time to pay via OTS."
                                     }
-                                ]}
-                            />
+                                ].map((review, i) => (
+                                    <div key={i} className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
+                                        <div className="flex items-center mb-4">
+                                            <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
+                                                {review.name.charAt(0)}
+                                            </div>
+                                            <div>
+                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <p className="text-xs text-gray-400">{review.loc}</p>
+                                            </div>
+                                            <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
+                                        </div>
+                                        <div className="mb-4 text-xs font-mono bg-green-50 p-2 rounded border border-green-100 uppercase tracking-tighter">
+                                            <span className="block text-green-700 font-bold">{review.outcome}</span>
+                                        </div>
+                                        <p className="text-sm text-gray-600 italic leading-relaxed">"{review.story}"</p>
+                                    </div>
+                                ))}
+                            </div>
                         </section>
 
                         <section id="faqs" className="scroll-mt-32 mb-12">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest leading-none">Bank Recovery Case FAQs</h2>
                             <div className="space-y-4 not-prose">
                                 {jsonLd["@graph"][4]["mainEntity"]?.map((faq: any, i: number) => (
-                                    <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20 shadow-sm">
+                                    <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
                                         <summary className="flex justify-between items-center p-5 cursor-pointer font-black text-[#2E2E2E] list-none bg-gray-50 group-open:bg-white transition-colors">
                                             <span className="text-lg">{i + 1}. {faq.name}</span>
                                             <span className="transition-transform group-open:rotate-180">
