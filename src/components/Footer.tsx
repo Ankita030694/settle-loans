@@ -258,7 +258,10 @@ export default function Footer() {
               { name: "Mudra Loan Settlement", href: "/mudra-loan-settlement-legal-help" },
               { name: "Forged Loan Signatures", href: "/dispute-over-forged-loan-signatures" },
               { name: "Payday Loan Settlement", href: "/payday-loan-settlement-lawyer" },
-              { name: "Overdue Loan Protection", href: "/overdue-loan-legal-protection" }
+              { name: "Overdue Loan Protection", href: "/overdue-loan-legal-protection" },
+              { name: "RBI Recovery Rules 2026", href: "/rbi-new-recovery-guidelines-july-2026" },
+              { name: "Bank Legal Notice Guide", href: "/bank-sent-legal-notice-for-loan-what-to-do" },
+              { name: "Personal Loan Case Guide", href: "/can-bank-file-case-for-personal-loan" }
             ].map((query) => (
               <Link
                 key={query.name}
