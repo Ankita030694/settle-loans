@@ -261,7 +261,15 @@ export default function Footer() {
               { name: "Overdue Loan Protection", href: "/overdue-loan-legal-protection" },
               { name: "RBI Recovery Rules 2026", href: "/rbi-new-recovery-guidelines-july-2026" },
               { name: "Bank Legal Notice Guide", href: "/bank-sent-legal-notice-for-loan-what-to-do" },
-              { name: "Personal Loan Case Guide", href: "/can-bank-file-case-for-personal-loan" }
+              { name: "Personal Loan Case Guide", href: "/can-bank-file-case-for-personal-loan" },
+              { name: "Credit Card Default Action", href: "/legal-action-for-credit-card-default" },
+              { name: "Bank Arbitration Notice", href: "/bank-arbitration-notice-loan" },
+              { name: "Bank Recovery Case Guide", href: "/bank-recovery-case-in-court" },
+              { name: "Recovery Agent Harassment", href: "/recovery-agents-threatening-me-what-to-do" },
+              { name: "Bank Recovery Complaint", href: "/bank-recovery-harassment-complaint" },
+              { name: "RBI Recovery Rules", href: "/rbi-rules-for-recovery-agents" },
+              { name: "Recovery Agents Home Visit", href: "/can-recovery-agents-come-home" },
+              { name: "Family Calling Law", href: "/recovery-agents-calling-family-members-law" }
             ].map((query) => (
               <Link
                 key={query.name}
