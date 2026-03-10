@@ -81,6 +81,92 @@ export default function PoliceCaseCardDebtPage() {
                         "reviewRating": { "@type": "Rating", "ratingValue": "5" }
                     }
                 ]
+            },
+            {
+                "@type": "FAQPage",
+                "@id": "https://settleloans.in/police-case-for-credit-card-debt#faq",
+                "mainEntity": [
+                    {
+                        "@type": "Question",
+                        "name": "Can a bank file an FIR for credit card default?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Generally, no. Default is civil. An FIR can only be filed if you committed fraud; like using fake documents to get the card."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What should I do if an agent threatens me with a police case?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Record the call. Ask for the FIR number and station name. 99% of the time, it's a bluff. Report the agent to the bank's Nodal Officer immediately."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Can the police arrest me at my office?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "In civil debt, no. Only a court-issued warrant in a criminal case allows for arrest. Simple credit card default does not lead to arrest warrants."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Is credit card debt 'time-barred' after 3 years?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Under the Limitation Act, a bank must file a lawsuit within 3 years of the default. If they don't, they legally lose the right to sue for recovery, though they can still ask for the money."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Can an agent call my HR or manager?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Absolutely not. Contacting your employer is a gross violation of privacy and RBI guidelines. You can sue the bank for defamation if this happens."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Is a WhatsApp message a valid legal summons?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "A genuine summons will be a PDF from a court portal with a case number, not a typed text message with threats. Always look for the Case Number and verify it on the e-Courts portal."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What happens if I ignore a Section 25 PSS Act notice?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Ignoring it allows the bank to file a criminal case in court. A Magistrate may then issue a summons. It is always better to reply via a lawyer and offer to settle."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "What is Section 503 of IPC?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "It's the law against Criminal Intimidation. If a recovery agent threatens you with injury to reputation or property, you can file an FIR against THEM under this section."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Will my credit score ever recover after a settlement?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Yes. Once settled, your score will dip. But if you take a small gold loan or a secured card and pay regularly, your score will improve within 12-18 months."
+                        }
+                    },
+                    {
+                        "@type": "Question",
+                        "name": "Can SettleLoans help me file a counter-case against agents?",
+                        "acceptedAnswer": {
+                            "@type": "Answer",
+                            "text": "Yes. If harassment is severe, we help you draft formal complaints to the police and the RBI, putting the bank on the defensive and facilitating a better settlement."
+                        }
+                    }
+                ]
             }
         ]
     };
