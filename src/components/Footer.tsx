@@ -272,7 +272,12 @@ export default function Footer() {
               { name: "Family Calling Law", href: "/recovery-agents-calling-family-members-law" },
               { name: "Jail for Loan Default", href: "/can-i-go-to-jail-for-loan-default-in-india" },
               { name: "Police Case Card Debt", href: "/police-case-for-credit-card-debt" },
-              { name: "Bank Filed FIR Help", href: "/bank-filed-fir-for-loan-default" }
+              { name: "Bank Filed FIR Help", href: "/bank-filed-fir-for-loan-default" },
+              { name: "Loan Settlement: Good or Bad?", href: "/is-loan-settlement-a-good-option-for-borrowers" },
+              { name: "Blacklisted After Settlement?", href: "/will-banks-blacklist-you-after-loan-settlement" },
+              { name: "Can You Get a Loan Again?", href: "/can-you-get-a-loan-again-after-settling-a-previous-loan" },
+              { name: "Settle or Repay?", href: "/when-should-you-choose-loan-settlement-instead-of-repayment" },
+              { name: "Bank Settlement %", href: "/what-percentage-do-banks-accept-in-loan-settlement" }
             ].map((query) => (
               <Link
                 key={query.name}
