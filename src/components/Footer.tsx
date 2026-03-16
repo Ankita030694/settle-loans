@@ -277,7 +277,17 @@ export default function Footer() {
               { name: "Blacklisted After Settlement?", href: "/will-banks-blacklist-you-after-loan-settlement" },
               { name: "Can You Get a Loan Again?", href: "/can-you-get-a-loan-again-after-settling-a-previous-loan" },
               { name: "Settle or Repay?", href: "/when-should-you-choose-loan-settlement-instead-of-repayment" },
-              { name: "Bank Settlement %", href: "/what-percentage-do-banks-accept-in-loan-settlement" }
+              { name: "Bank Settlement %", href: "/what-percentage-do-banks-accept-in-loan-settlement" },
+              { name: "Choosing a Trustworthy Provider", href: "/how-to-choose-a-trustworthy-debt-settlement-provider" },
+              { name: "Trustworthy Agency Near Me", href: "/how-to-find-a-trustworthy-debt-settlement-agency-near-me" },
+              { name: "Questions for Debt Consultant", href: "/what-questions-should-i-ask-a-debt-settlement-consultant" },
+              { name: "Services for Multiple Creditors", href: "/debt-settlement-services-that-work-with-multiple-creditors" },
+              { name: "Minimum Debt Requirements", href: "/what-is-minimun-debt-amount-required-for-settlement-programs" },
+              { name: "Business Loan Offers", href: "/debt-settlement-offers-for-business-loans" },
+              { name: "Legal Implications of Non-Payment", href: "/are-there-legal-implecations-or-non-payment-during-debt-settlement" },
+              { name: "Settlement Timeline Guide", href: "/how-long-does-a-debt-settlement-typically-take" },
+              { name: "Fees & Success Rates", href: "/compare-debt-settlement-fees-and-success-rate" },
+              { name: "Avoid Settlement Scams", href: "/how-to-avoid-debt-settlement-scams-in-india" }
             ].map((query) => (
               <Link
                 key={query.name}

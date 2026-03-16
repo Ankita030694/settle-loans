@@ -342,6 +342,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.9,
         },
         {
+            url: `${baseUrl}/compare-debt-settlement-fees-and-success-rate`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/how-to-avoid-debt-settlement-scams-in-india`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
             url: `${baseUrl}/business-loan-settlement`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
@@ -1123,6 +1135,42 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.9,
         },
         {
+            url: `${baseUrl}/how-to-choose-a-trustworthy-debt-settlement-provider`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/how-to-find-a-trustworthy-debt-settlement-agency-near-me`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/what-questions-should-i-ask-a-debt-settlement-consultant`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/debt-settlement-services-that-work-with-multiple-creditors`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/what-is-minimun-debt-amount-required-for-settlement-programs`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/debt-settlement-offers-for-business-loans`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
             url: `${baseUrl}/is-loan-settlement-a-good-option-for-borrowers`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
@@ -1130,6 +1178,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
         {
             url: `${baseUrl}/will-banks-blacklist-you-after-loan-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/are-there-legal-implecations-or-non-payment-during-debt-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/how-long-does-a-debt-settlement-typically-take`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,
