@@ -94,7 +94,7 @@ export default function Footer() {
               <Link href="/what-is-personal-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Personal Loan Settlement</Link>
               <Link href="/mastering-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Mastering Loan Settlement</Link>
               <Link href="/missed-your-loan-emi-heres-what-to-do" className="text-blue-600 hover:text-blue-800 text-base">Missed Your Loan EMI?</Link>
-              <Link href="/ what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi" className="text-blue-600 hover:text-blue-800 text-base">Unable to Pay EMI?</Link>
+              <Link href="/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi" className="text-blue-600 hover:text-blue-800 text-base">Unable to Pay EMI?</Link>
               <Link href="/which-banks-offer-debt-consolidation-loans-in-india" className="text-blue-600 hover:text-blue-800 text-base">Debt Consolidation Banks</Link>
             </div>
           </div>
@@ -287,7 +287,14 @@ export default function Footer() {
               { name: "Legal Implications of Non-Payment", href: "/are-there-legal-implecations-or-non-payment-during-debt-settlement" },
               { name: "Settlement Timeline Guide", href: "/how-long-does-a-debt-settlement-typically-take" },
               { name: "Fees & Success Rates", href: "/compare-debt-settlement-fees-and-success-rate" },
-              { name: "Avoid Settlement Scams", href: "/how-to-avoid-debt-settlement-scams-in-india" }
+              { name: "Avoid Settlement Scams", href: "/how-to-avoid-debt-settlement-scams-in-india" },
+              { name: "What is the Success Rate of Debt Settlement?", href: "/what-is-the-success-rate-of-debt-settlement-programs" },
+              { name: "Debt Settlement vs Bankruptcy Comparison", href: "/debt-settlement-vs-bankruptcy" },
+              { name: "Dealing with Debt Collection Calls", href: "/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program" },
+              { name: "Alternatives to Settlement for Small Debts", href: "/find-alternatives-solutions-to-debt-settlement-for-small-debts" },
+              { name: "Consumer Protection Laws in India", href: "/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india" },
+              { name: "Settlement vs Consolidation Guide", href: "/debt-settlement-vs-debt-consolidation" },
+              { name: "Required Documents for Settlement", href: "/what-documents-are-needed-for-debt-settlement-services" }
             ].map((query) => (
               <Link
                 key={query.name}

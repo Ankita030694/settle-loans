@@ -1211,6 +1211,48 @@ export default function sitemap(): MetadataRoute.Sitemap {
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/what-is-the-success-rate-of-debt-settlement-programs`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/debt-settlement-vs-bankruptcy`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/find-alternatives-solutions-to-debt-settlement-for-small-debts`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.7,
+        },
+        {
+            url: `${baseUrl}/debt-settlement-vs-debt-consolidation`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.7,
+        },
+        {
+            url: `${baseUrl}/what-documents-are-needed-for-debt-settlement-services`,
+            lastModified: new Date(),
+            changeFrequency: 'monthly',
+            priority: 0.7,
         }
     ];
 }
