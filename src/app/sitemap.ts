@@ -395,6 +395,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
             changeFrequency: 'weekly',
             priority: 0.9,
         },
+        {
+            url: `${baseUrl}/app-loan-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/best-apps-for-managing-and-settling-unsecured-loans`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
         // FAQ Subpages
         {
             url: `${baseUrl}/faqs/can-i-get-loan-after-settlement`,
@@ -642,6 +654,26 @@ export default function sitemap(): MetadataRoute.Sitemap {
             changeFrequency: 'weekly',
             priority: 0.9,
         },
+        {
+            url: `${baseUrl}/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+
+
         {
             url: `${baseUrl}/bank-filed-fir-for-loan-default`,
             lastModified: new Date(),
@@ -1253,6 +1285,36 @@ export default function sitemap(): MetadataRoute.Sitemap {
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 0.7,
+        },
+        {
+            url: `${baseUrl}/best-apps-for-managing-and-settling-unsecured-loans`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
         }
     ];
 }

@@ -66,6 +66,7 @@ export default function Footer() {
               <Link href="/business-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Business Loan Settlement</Link>
               <Link href="/services/nbfc-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">NBFC Loan Settlement</Link>
               <Link href="/app-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">App Loan Settlement</Link>
+              <Link href="/best-apps-for-managing-and-settling-unsecured-loans" className="text-gray-300 hover:text-white transition-colors duration-200 font-bold underline">Best Apps for Loan Management</Link>
               <Link href="/cheque-bounce" className="text-blue-600 hover:text-blue-800 text-base">Cheque Bounce Resolution</Link>
               <Link href="/credit-score-improvement" className="text-blue-600 hover:text-blue-800 text-base">Credit Score Improvement</Link>
               <Link href="/debt-settlement-company-in-india" className="text-blue-600 hover:text-blue-800 text-base">Debt Settlement Company India</Link>
@@ -294,7 +295,13 @@ export default function Footer() {
               { name: "Alternatives to Settlement for Small Debts", href: "/find-alternatives-solutions-to-debt-settlement-for-small-debts" },
               { name: "Consumer Protection Laws in India", href: "/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india" },
               { name: "Settlement vs Consolidation Guide", href: "/debt-settlement-vs-debt-consolidation" },
-              { name: "Required Documents for Settlement", href: "/what-documents-are-needed-for-debt-settlement-services" }
+              { name: "Required Documents for Settlement", href: "/what-documents-needed-for-debt-settlement-services" },
+              { name: "Best Apps for Loan Management", href: "/best-apps-for-managing-and-settling-unsecured-loans" },
+              { name: "Benefits & Drawbacks of Settlement", href: "/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement" },
+              { name: "Loan Settlement Charges Guide", href: "/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms" },
+              { name: "Debt Relief Agencies Bangalore", href: "/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore" },
+              { name: "Verify Settlement Offer Authenticity", href: "/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms" },
+              { name: "How to Initiate F&F Settlement", href: "/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank" }
             ].map((query) => (
               <Link
                 key={query.name}
