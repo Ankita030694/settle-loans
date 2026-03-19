@@ -84,14 +84,10 @@ export default function ChennaiCreditCounselingPage() {
         ]
       },
       {
-        "@type": "Service",
+        "@type": "Product",
+        "@id": "https://settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai#product",
         "name": "Credit Counseling Services Chennai",
         "description": "Free financial literacy and credit counseling services for debt resolution in Chennai.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Financial Literacy Centres (FLCs)",
-          "url": "https://settleloans.in"
-        },
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"

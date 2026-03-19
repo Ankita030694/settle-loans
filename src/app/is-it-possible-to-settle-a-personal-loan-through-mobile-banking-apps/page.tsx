@@ -63,14 +63,9 @@ export default function MobileAppLoanSettlementPage() {
         "mainEntityOfPage": { "@id": "https://settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#webpage" }
       },
       {
-        "@type": "Service",
-        "@id": "https://settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#service",
+        "@type": "Product",
+        "@id": "https://settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#product",
         "name": "Digital Loan Settlement Consultation",
-        "provider": {
-          "@type": "Organization",
-          "name": "SettleLoans",
-          "url": "https://settleloans.in"
-        },
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"

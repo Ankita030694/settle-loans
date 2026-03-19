@@ -149,14 +149,9 @@ export default function LoanSettlementDocumentsPage() {
         ]
       },
       {
-        "@type": "Service",
-        "@id": "https://settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#service",
+        "@type": "Product",
+        "@id": "https://settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#product",
         "name": "Loan Settlement Document Advisory",
-        "provider": {
-          "@type": "Organization",
-          "name": "SettleLoans",
-          "url": "https://settleloans.in"
-        },
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"

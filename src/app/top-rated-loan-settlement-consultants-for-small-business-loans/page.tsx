@@ -63,14 +63,9 @@ export default function BusinessLoanSettlementPage() {
         "mainEntityOfPage": { "@id": "https://settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#webpage" }
       },
       {
-        "@type": "Service",
-        "@id": "https://settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#service",
+        "@type": "Product",
+        "@id": "https://settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#product",
         "name": "Business Loan Settlement Consultation",
-        "provider": {
-          "@type": "Organization",
-          "name": "SettleLoans",
-          "url": "https://settleloans.in"
-        },
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"

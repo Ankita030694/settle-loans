@@ -63,14 +63,9 @@ export default function CompareLoanAppsPage() {
         "mainEntityOfPage": { "@id": "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#webpage" }
       },
       {
-        "@type": "Service",
-        "@id": "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#service",
+        "@type": "Product",
+        "@id": "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#product",
         "name": "Loan Settlement App Comparison Advisory",
-        "provider": {
-          "@type": "Organization",
-          "name": "SettleLoans",
-          "url": "https://settleloans.in"
-        },
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"

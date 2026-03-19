@@ -63,14 +63,9 @@ export default function VehicleLoanSettlementPage() {
         "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#webpage" }
       },
       {
-        "@type": "Service",
-        "@id": "https://settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#service",
+        "@type": "Product",
+        "@id": "https://settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#product",
         "name": "Vehicle Loan Settlement Consultation",
-        "provider": {
-          "@type": "Organization",
-          "name": "SettleLoans",
-          "url": "https://settleloans.in"
-        },
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"

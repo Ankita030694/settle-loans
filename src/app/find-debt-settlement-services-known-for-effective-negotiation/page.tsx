@@ -63,14 +63,9 @@ export default function EffectiveNegotiationPage() {
         "mainEntityOfPage": { "@id": "https://settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#webpage" }
       },
       {
-        "@type": "Service",
-        "@id": "https://settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#service",
+        "@type": "Product",
+        "@id": "https://settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#product",
         "name": "Debt Settlement Negotiation Service",
-        "provider": {
-          "@type": "Organization",
-          "name": "SettleLoans",
-          "url": "https://settleloans.in"
-        },
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"

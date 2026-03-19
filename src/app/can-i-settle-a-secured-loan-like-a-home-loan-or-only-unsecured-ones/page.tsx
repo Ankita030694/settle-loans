@@ -67,15 +67,10 @@ export default function SecuredVsUnsecuredSettlementPage() {
         "mainEntityOfPage": { "@id": `${pageUrl}#webpage` }
       },
       {
-        "@type": "Service",
-        "@id": `${pageUrl}#service`,
+        "@type": "Product",
+        "@id": `${pageUrl}#product`,
         "name": "Loan Settlement Consultation",
         "description": "Professional guidance for settling secured and unsecured loans in India.",
-        "provider": {
-          "@type": "Organization",
-          "name": "SettleLoans",
-          "url": "https://settleloans.in"
-        },
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
