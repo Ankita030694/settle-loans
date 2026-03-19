@@ -71,11 +71,18 @@ export default function CompareLoanAppsPage() {
           "name": "SettleLoans",
           "url": "https://settleloans.in"
         },
+        "brand": {
+          "@type": "Brand",
+          "name": "SettleLoans"
+        },
+        "image": "https://settleloans.in/logo/logo.svg",
         "description": "Expert guidance on comparing and choosing the best digital loan settlement platform in India, from AMA Connect to FREED.",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "1300"
+          "reviewCount": "1300",
+          "bestRating": "5",
+          "worstRating": "1"
         },
         "review": [
           {
@@ -83,14 +90,14 @@ export default function CompareLoanAppsPage() {
             "author": { "@type": "Person", "name": "Priya A." },
             "datePublished": "2024-01-18",
             "reviewBody": "I downloaded AMA Connect when five apps were calling all my contacts. Within 24 hours of legal notice, the calls stopped completely. They settled all my app loans within 2 months.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
           },
           {
             "@type": "Review",
             "author": { "@type": "Person", "name": "Neha K." },
             "datePublished": "2024-02-22",
             "reviewBody": "SettleLoans used my credit card harassment recordings as legal leverage. The bank offered a 70% waiver almost immediately after the legal notice. The app comparison guide helped me understand my options first.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
           }
         ]
       },

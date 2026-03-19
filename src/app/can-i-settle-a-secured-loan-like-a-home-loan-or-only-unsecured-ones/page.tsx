@@ -73,12 +73,20 @@ export default function SecuredVsUnsecuredSettlementPage() {
         "description": "Professional guidance for settling secured and unsecured loans in India.",
         "provider": {
           "@type": "Organization",
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
+        },
+        "brand": {
+          "@type": "Brand",
           "name": "SettleLoans"
         },
+        "image": `${baseUrl}/logo/logo.svg`,
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "1250"
+          "reviewCount": "1250",
+          "bestRating": "5",
+          "worstRating": "1"
         },
         "review": [
           {
@@ -86,14 +94,14 @@ export default function SecuredVsUnsecuredSettlementPage() {
             "author": { "@type": "Person", "name": "Vikram S." },
             "datePublished": "2024-02-15",
             "reviewBody": "Settled my complex home loan dispute with their help. Highly recommended for secured debt.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
           },
           {
             "@type": "Review",
             "author": { "@type": "Person", "name": "Priya M." },
             "datePublished": "2024-03-01",
             "reviewBody": "They handled the bank notices perfectly. Very professional team.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
           }
         ]
       },

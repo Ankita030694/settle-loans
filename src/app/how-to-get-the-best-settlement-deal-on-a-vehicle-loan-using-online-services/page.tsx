@@ -71,6 +71,11 @@ export default function VehicleLoanSettlementPage() {
           "name": "SettleLoans",
           "url": "https://settleloans.in"
         },
+        "brand": {
+          "@type": "Brand",
+          "name": "SettleLoans"
+        },
+        "image": "https://settleloans.in/logo/logo.svg",
         "areaServed": "India",
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
@@ -95,7 +100,9 @@ export default function VehicleLoanSettlementPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "1250"
+          "reviewCount": "1250",
+          "bestRating": "5",
+          "worstRating": "1"
         },
         "review": [
           {
@@ -103,14 +110,14 @@ export default function VehicleLoanSettlementPage() {
             "author": { "@type": "Person", "name": "Rahul T." },
             "datePublished": "2024-01-15",
             "reviewBody": "SettleLoans handled my HDFC car loan settlement perfectly. I saved over 60% and got my No Dues Certificate without any hassle.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
           },
           {
             "@type": "Review",
             "author": { "@type": "Person", "name": "Anjali S." },
             "datePublished": "2024-02-10",
             "reviewBody": "I was terrified of losing my bike. The team stopped the recovery calls and got me a settlement that fit my budget. Highly recommended!",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
           }
         ]
       },

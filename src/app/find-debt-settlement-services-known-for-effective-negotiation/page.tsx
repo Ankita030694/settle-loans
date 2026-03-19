@@ -71,11 +71,18 @@ export default function EffectiveNegotiationPage() {
           "name": "SettleLoans",
           "url": "https://settleloans.in"
         },
+        "brand": {
+          "@type": "Brand",
+          "name": "SettleLoans"
+        },
+        "image": "https://settleloans.in/logo/logo.svg",
         "description": "Expert legal-backed negotiation services for settling unsecured loans and credit card debts in India.",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "1450"
+          "reviewCount": "1450",
+          "bestRating": "5",
+          "worstRating": "1"
         },
         "review": [
           {
@@ -83,14 +90,14 @@ export default function EffectiveNegotiationPage() {
             "author": { "@type": "Person", "name": "Mahesh T." },
             "datePublished": "2024-02-10",
             "reviewBody": "SettleLoans sent cease-and-desist notices the same day I enrolled. Within 6 weeks, three credit cards were settled for just 35% of the outstanding. Their negotiation expertise is unmatched.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
           },
           {
             "@type": "Review",
             "author": { "@type": "Person", "name": "Kavitha R." },
             "datePublished": "2024-03-05",
             "reviewBody": "I tried negotiating myself for months and got nowhere. SettleLoans sent one legal notice and the bank's manager called within 72 hours. We settled quickly and professionally.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
           }
         ]
       },

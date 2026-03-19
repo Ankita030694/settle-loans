@@ -89,8 +89,14 @@ export default function ChennaiCreditCounselingPage() {
         "description": "Free financial literacy and credit counseling services for debt resolution in Chennai.",
         "provider": {
           "@type": "Organization",
-          "name": "Financial Literacy Centres (FLCs)"
+          "name": "Financial Literacy Centres (FLCs)",
+          "url": "https://settleloans.in"
         },
+        "brand": {
+          "@type": "Brand",
+          "name": "SettleLoans"
+        },
+        "image": "https://settleloans.in/logo/logo.svg",
         "areaServed": {
           "@type": "City",
           "name": "Chennai"
@@ -98,7 +104,9 @@ export default function ChennaiCreditCounselingPage() {
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.8",
-          "reviewCount": "980"
+          "reviewCount": "980",
+          "bestRating": "5",
+          "worstRating": "1"
         },
         "review": [
           {
@@ -106,14 +114,14 @@ export default function ChennaiCreditCounselingPage() {
             "author": { "@type": "Person", "name": "Lakshmi P." },
             "datePublished": "2024-01-25",
             "reviewBody": "The credit counseling recommended by SettleLoans changed my entire perspective. I learned proper budgeting and got my three loans settled for under 40% of the outstanding. Exceptional guidance.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
           },
           {
             "@type": "Review",
             "author": { "@type": "Person", "name": "Raghavan T." },
             "datePublished": "2024-03-10",
             "reviewBody": "Five predatory apps were harassing me daily. The government-approved counselor in Chennai helped me file an RBI Sachet complaint. The apps stopped, and SettleLoans settled everything cleanly.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
           }
         ]
       }

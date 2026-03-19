@@ -71,11 +71,18 @@ export default function BusinessLoanSettlementPage() {
           "name": "SettleLoans",
           "url": "https://settleloans.in"
         },
+        "brand": {
+          "@type": "Brand",
+          "name": "SettleLoans"
+        },
+        "image": "https://settleloans.in/logo/logo.svg",
         "description": "Expert negotiation and legal support for MSME and small business loan settlement in India.",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
-          "reviewCount": "1250"
+          "reviewCount": "1250",
+          "bestRating": "5",
+          "worstRating": "1"
         },
         "review": [
           {
@@ -83,14 +90,14 @@ export default function BusinessLoanSettlementPage() {
             "author": { "@type": "Person", "name": "Rahul Sharma" },
             "datePublished": "2024-02-15",
             "reviewBody": "SettleLoans helped my manufacturing unit settle a 50 lakh loan when we were on the verge of closure. Their team is professional and highly effective.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
           },
           {
             "@type": "Review",
             "author": { "@type": "Person", "name": "Anjali Mehta" },
             "datePublished": "2024-03-01",
             "reviewBody": "AMA Legal Solutions provided great legal protection against recovery agents. Highly recommend their service for business owners.",
-            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+            "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
           }
         ]
       },
