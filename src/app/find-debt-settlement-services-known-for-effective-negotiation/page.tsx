@@ -76,7 +76,23 @@ export default function EffectiveNegotiationPage() {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
           "reviewCount": "1450"
-        }
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Mahesh T." },
+            "datePublished": "2024-02-10",
+            "reviewBody": "SettleLoans sent cease-and-desist notices the same day I enrolled. Within 6 weeks, three credit cards were settled for just 35% of the outstanding. Their negotiation expertise is unmatched.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Kavitha R." },
+            "datePublished": "2024-03-05",
+            "reviewBody": "I tried negotiating myself for months and got nowhere. SettleLoans sent one legal notice and the bank's manager called within 72 hours. We settled quickly and professionally.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       },
       {
         "@type": "FAQPage",

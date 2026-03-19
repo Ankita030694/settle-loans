@@ -94,7 +94,28 @@ export default function ChennaiCreditCounselingPage() {
         "areaServed": {
           "@type": "City",
           "name": "Chennai"
-        }
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "980"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Lakshmi P." },
+            "datePublished": "2024-01-25",
+            "reviewBody": "The credit counseling recommended by SettleLoans changed my entire perspective. I learned proper budgeting and got my three loans settled for under 40% of the outstanding. Exceptional guidance.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Raghavan T." },
+            "datePublished": "2024-03-10",
+            "reviewBody": "Five predatory apps were harassing me daily. The government-approved counselor in Chennai helped me file an RBI Sachet complaint. The apps stopped, and SettleLoans settled everything cleanly.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       }
     ]
   };

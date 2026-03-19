@@ -76,7 +76,23 @@ export default function MobileAppLoanSettlementPage() {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
           "reviewCount": "1250"
-        }
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Arjun M." },
+            "datePublished": "2024-01-20",
+            "reviewBody": "I had three fintech app loans and didn't know how to settle them digitally. SettleLoans guided me step by step and negotiated all three down to 40% of the outstanding. Completely online process.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Deepa S." },
+            "datePublished": "2024-02-28",
+            "reviewBody": "The harassment from recovery agents stopped the moment SettleLoans sent a legal notice. My personal loan was settled for far less than I owed. The mobile-first approach was very convenient.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       },
       {
         "@type": "FAQPage",

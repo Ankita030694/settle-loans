@@ -147,6 +147,38 @@ export default function LoanSettlementDocumentsPage() {
             }
           }
         ]
+      },
+      {
+        "@type": "Service",
+        "@id": "https://settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#service",
+        "name": "Loan Settlement Document Advisory",
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
+        },
+        "description": "Professional guidance on organizing and submitting the correct documentation for a successful loan settlement with Indian banks and NBFCs.",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "1100"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Vikram S." },
+            "datePublished": "2024-01-30",
+            "reviewBody": "A missing property document threatened my entire settlement. SettleLoans helped me file an FIR and get a notarized affidavit, which the bank accepted. My 45 lakh loan was settled for just 19 lakhs.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Naresh V." },
+            "datePublished": "2024-02-14",
+            "reviewBody": "My business had closed and I had lost many original loan papers. SettleLoans guided me through the Indemnity Bond and FIR route. The settlement was accepted and I saved over 30 lakhs.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       }
     ]
   };

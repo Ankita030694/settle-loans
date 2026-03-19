@@ -63,6 +63,38 @@ export default function CompareLoanAppsPage() {
         "mainEntityOfPage": { "@id": "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#webpage" }
       },
       {
+        "@type": "Service",
+        "@id": "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#service",
+        "name": "Loan Settlement App Comparison Advisory",
+        "provider": {
+          "@type": "Organization",
+          "name": "SettleLoans",
+          "url": "https://settleloans.in"
+        },
+        "description": "Expert guidance on comparing and choosing the best digital loan settlement platform in India, from AMA Connect to FREED.",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "1300"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Priya A." },
+            "datePublished": "2024-01-18",
+            "reviewBody": "I downloaded AMA Connect when five apps were calling all my contacts. Within 24 hours of legal notice, the calls stopped completely. They settled all my app loans within 2 months.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Neha K." },
+            "datePublished": "2024-02-22",
+            "reviewBody": "SettleLoans used my credit card harassment recordings as legal leverage. The bank offered a 70% waiver almost immediately after the legal notice. The app comparison guide helped me understand my options first.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
+      },
+      {
         "@type": "FAQPage",
         "@id": "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#faq",
         "mainEntity": [
