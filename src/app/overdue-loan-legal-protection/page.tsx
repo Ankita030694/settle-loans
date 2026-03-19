@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Metadata } from "next";
-import TableOfContents from "@/components/TableOfContents";
+import TableOfContents from "../../components/TableOfContents";
 
 export const metadata: Metadata = {
     title: "Overdue Loan Legal Protection India | Defaulter Rights & Recovery Defense",

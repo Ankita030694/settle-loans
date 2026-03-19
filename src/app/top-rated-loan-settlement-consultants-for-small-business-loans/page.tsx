@@ -719,7 +719,7 @@ export default function BusinessLoanSettlementPage() {
             <section id="faqs" className="scroll-mt-32 mb-12">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest bg-blue-600 text-white p-6 rounded-2xl text-center">Business Debt FAQ</h2>
               <div className="space-y-4 not-prose">
-                {jsonLd["@graph"][4].mainEntity.map((faq, i) => (
+                {(jsonLd["@graph"] as any)[4]?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-2xl overflow-hidden hover:shadow-xl transition-all border-b-8 border-b-[#1F5EFF]/20">
                     <summary className="flex justify-between items-center p-6 cursor-pointer font-black text-[#2E2E2E] list-none bg-gray-50/50 group-open:bg-white transition-colors">
                       <span className="text-xl leading-tight">{i + 1}. {faq.name}</span>

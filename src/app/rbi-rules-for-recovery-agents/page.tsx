@@ -423,7 +423,7 @@ export default function RBIRulesRecoveryAgentsPage() {
                         <section id="faqs-rbi-guidelines" className="scroll-mt-32 mb-12 mt-20">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 uppercase tracking-widest decoration-[#1F5EFF] underline underline-offset-8 leading-none italic">RBI Guidelines Technical FAQs</h2>
                             <div className="space-y-4 not-prose">
-                                {jsonLd["@graph"][4]["mainEntity"]?.map((faq: any, i: number) => (
+                                {(jsonLd["@graph"] as any)[4]?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-[24px] overflow-hidden hover:shadow-lg transition-all border-b-8 border-b-[#1F5EFF]/30 shadow-sm mb-6">
                                         <summary className="flex justify-between items-center p-8 cursor-pointer font-black text-[#2E2E2E] list-none bg-gray-50 group-open:bg-white transition-colors border-b border-[#DEDEDE] group-open:border-transparent">
                                             <span className="text-xl leading-none">{i + 1}. {faq.name}</span>

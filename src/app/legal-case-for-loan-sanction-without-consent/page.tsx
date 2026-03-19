@@ -480,7 +480,7 @@ export default function LoanSanctionWithoutConsentPage() {
                         <section id="faqs" className="scroll-mt-32 mb-12">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Fraud Legal FAQs</h2>
                             <div className="space-y-4 not-prose">
-                                {jsonLd["@graph"][4]["mainEntity"]?.map((faq: any, i: number) => (
+                                {(jsonLd["@graph"] as any)[4]?.mainEntity?.map((faq: any, i: number) => (
                                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
                                         <summary className="flex justify-between items-center p-5 cursor-pointer font-black text-[#2E2E2E] list-none bg-gray-50 group-open:bg-white transition-colors">
                                             <span className="text-lg">{i + 1}. {faq.name}</span>
