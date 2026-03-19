@@ -66,13 +66,18 @@ export default function Footer() {
               <Link href="/business-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Business Loan Settlement</Link>
               <Link href="/services/nbfc-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">NBFC Loan Settlement</Link>
               <Link href="/app-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">App Loan Settlement</Link>
+              <Link href="/how-do-digital-lending-companies-handle-loan-settlement-requests" className="text-blue-600 hover:text-blue-800 text-base">Digital Lending Settlement Guide</Link>
+              <Link href="/what-are-the-income-tax-implications-of-a-settled-debt-amount" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Income Tax Implications of Settled Debt</Link>
               <Link href="/best-apps-for-managing-and-settling-unsecured-loans" className="text-gray-300 hover:text-white transition-colors duration-200 font-bold underline">Best Apps for Loan Management</Link>
               <Link href="/cheque-bounce" className="text-blue-600 hover:text-blue-800 text-base">Cheque Bounce Resolution</Link>
               <Link href="/credit-score-improvement" className="text-blue-600 hover:text-blue-800 text-base">Credit Score Improvement</Link>
               <Link href="/debt-settlement-company-in-india" className="text-blue-600 hover:text-blue-800 text-base">Debt Settlement Company India</Link>
               <Link href="/loan-settlement-lawyers" className="text-blue-600 hover:text-blue-800 text-base">Loan Settlement Lawyers</Link>
               <Link href="/punishment-for-non-payment-of-personal-loan-in-india" className="text-blue-600 hover:text-blue-800 text-base">Punishment for Personal Loan Default</Link>
-              <Link href="/charities-that-pay-off-debt-in-india" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Charities That Pay Off Debt</Link>
+               <Link href="/charities-that-pay-off-debt-in-india" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Charities That Pay Off Debt</Link>
+              <Link href="/compare-features-of-loan-settlement-services-offered-by-major-financial-apps" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Compare Loan Settlement Apps</Link>
+              <Link href="/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Vehicle Loan Settlement Deal</Link>
+              
             </div>
           </div>
 
@@ -301,7 +306,18 @@ export default function Footer() {
               { name: "Loan Settlement Charges Guide", href: "/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms" },
               { name: "Debt Relief Agencies Bangalore", href: "/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore" },
               { name: "Verify Settlement Offer Authenticity", href: "/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms" },
-              { name: "How to Initiate F&F Settlement", href: "/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank" }
+              { name: "How to Initiate F&F Settlement", href: "/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank" },
+              { name: "Small Business Loan Settlement Consultants", href: "/top-rated-loan-settlement-consultants-for-small-business-loans" },
+              { name: "Compare Debt Relief Programs India", href: "/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers" },
+              { name: "Digital Lending Settlement Guide", href: "/how-do-digital-lending-companies-handle-loan-settlement-requests" },
+              { name: "Income Tax Implications of Settled Debt", href: "/what-are-the-income-tax-implications-of-a-settled-debt-amount" },
+              { name: "Required Settlement Documents", href: "/what-documents-are-required-for-loan-settlement-with-a-professional-service" },
+              { name: "Secured vs Unsecured Settlement", href: "/can-i-settle-a-secured-loan-like-a-home-loan-or-only-unsecured-ones" },
+               { name: "Settle via Mobile App", href: "/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps" },
+              { name: "Effective Debt Negotiation Services", href: "/find-debt-settlement-services-known-for-effective-negotiation" },
+              { name: "Compare Loan Settlement Apps", href: "/compare-features-of-loan-settlement-services-offered-by-major-financial-apps" },
+              { name: "Best Vehicle Loan Settlement Deal", href: "/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services" },
+              { name: "Government Approved Credit Counseling Chennai", href: "/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai" }
             ].map((query) => (
               <Link
                 key={query.name}

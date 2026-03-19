@@ -589,6 +589,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.8,
         },
         {
+            url: `${baseUrl}/compare-features-of-loan-settlement-services-offered-by-major-financial-apps`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.8,
+        },
+        {
             url: `${baseUrl}/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
@@ -668,6 +674,48 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
         {
             url: `${baseUrl}/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/top-rated-loan-settlement-consultants-for-small-business-loans`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/how-do-digital-lending-companies-handle-loan-settlement-requests`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/what-are-the-income-tax-implications-of-a-settled-debt-amount`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/what-documents-are-required-for-loan-settlement-with-a-professional-service`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/can-i-settle-a-secured-loan-like-a-home-loan-or-only-unsecured-ones`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/find-debt-settlement-services-known-for-effective-negotiation`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,
@@ -1312,6 +1360,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
         {
             url: `${baseUrl}/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,
