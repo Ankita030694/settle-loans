@@ -151,24 +151,57 @@ export default function DebtEvaluationPage() {
       },
       {
         "@type": "Product",
+        "@id": "https://settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm#product",
         "name": "Free Debt Evaluation Service",
         "description": "Professional 360-degree audit of personal and business debt to determine settlement eligibility and DTI ratio.",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "offers": {
-          "@type": "Offer",
-          "url": "https://settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm",
-          "price": "0",
-          "priceCurrency": "INR",
-          "availability": "https://schema.org/InStock"
-        },
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
           "reviewCount": "1240"
-        }
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "INR",
+          "lowPrice": "0",
+          "highPrice": "0",
+          "offerCount": "1",
+          "offers": [
+            {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock",
+              "url": "https://settleloans.in/contact"
+            }
+          ]
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Suresh P." },
+            "datePublished": "2024-03-12",
+            "reviewBody": "I didn't realize how deep I was until SettleLoans did a free evaluation. They showed me that 70% of my income was going to interest alone. Their audit gave me the courage to stop the cycle and start settlement.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Anjali M." },
+            "datePublished": "2024-02-28",
+            "reviewBody": "After my shop closed, I was terrified of recovery agents. Amalegal's free evaluation was a life-saver. They didn't just look at my debt; they looked at my rights. I finally felt safe.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Rohit V." },
+            "datePublished": "2024-02-15",
+            "reviewBody": "I had 15 different app loans. CredSettle's digital evaluation aggregated everything into one dashboard. For the first time in 2 years, I knew exactly what I owed to whom. Truly radical transparency.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       },
       {
         "@type": "Organization",

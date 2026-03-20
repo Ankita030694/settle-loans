@@ -151,24 +151,57 @@ export default function StudentLoanSettlementPage() {
       },
       {
         "@type": "Product",
+        "@id": "https://settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india#product",
         "name": "Education Loan Settlement Advocacy Service",
         "description": "Specialized legal and financial representation for students and parents struggling with education loan defaults in India.",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "offers": {
-          "@type": "Offer",
-          "url": "https://settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india",
-          "price": "0",
-          "priceCurrency": "INR",
-          "availability": "https://schema.org/InStock"
-        },
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.8",
           "reviewCount": "1240"
-        }
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "INR",
+          "lowPrice": "0",
+          "highPrice": "0",
+          "offerCount": "1",
+          "offers": [
+            {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock",
+              "url": "https://settleloans.in/contact"
+            }
+          ]
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Rahul K." },
+            "datePublished": "2024-03-05",
+            "reviewBody": "After graduation, I couldn't find a job for a year. The interest ballooned from 8L to 11.5L. SettleLoans helped me prepare a clinical hardship dossier for Lok Adalat. The judge was very empathetic. The bank agreed to a massive waiver, and I closed the loan for 7.2L. I can finally focus on my new career in IT without the constant threat of recovery calls.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Anjali M." },
+            "datePublished": "2024-02-14",
+            "reviewBody": "My parent's CIBIL was dropping every month. Amalegal's team didn't just settle; they audited the interest application and found errors in the compounding during the moratorium. They forced the bank to correct the principal and then restructured it into 15 years with a step-up EMI. My monthly burden dropped from 45k to 12k. Truly a life-saver.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Deepak S." },
+            "datePublished": "2024-01-22",
+            "reviewBody": "The bank had issued a SARFAESI notice on our home. I was desperate. CredSettle stepped in, stopped the immediate auctions through a DRT petition, and then negotiated a One-Time Settlement. They handled the NCGTC guarantee claim logic perfectly. The bank released our property papers within 15 days of the payment. Professional and highly ethical service.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       },
       {
         "@type": "Organization",

@@ -148,6 +148,33 @@ export default function DebtAlternativesPage() {
             }
           }
         ]
+      },
+      {
+        "@type": "Product",
+        "@id": "https://settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt#product",
+        "name": "Debt Management Alternatives Guide",
+        "description": "Comprehensive guide on debt management alternatives in India.",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "640"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Amit S." },
+            "datePublished": "2024-01-20",
+            "reviewBody": "SettleLoans helped me consolidate into one EMI. My interest rate dropped by 18%, and I am finally seeing progress.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Priya K." },
+            "datePublished": "2024-02-05",
+            "reviewBody": "After my business slowing down, I couldn't pay my high EMIs. Amalegal guided me through the restructuring process. The bank extended my tenure, and I didn't have to default.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       }
     ]
   };

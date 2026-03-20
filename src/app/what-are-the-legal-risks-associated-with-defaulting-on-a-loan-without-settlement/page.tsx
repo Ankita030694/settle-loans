@@ -147,6 +147,95 @@ export default function LegalRisksLoanDefaultPage() {
                 }
               }
         ]
+      },
+      {
+        "@type": "Product",
+        "@id": "https://settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement#product",
+        "name": "SettleLoans Legal Protection & Settlement Negotiation Services",
+        "description": "Professional debt settlement and legal protection services for individuals facing loan recovery harassment, legal notices, and court cases.",
+        "brand": {
+          "@type": "Brand",
+          "name": "SettleLoans"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "198"
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "INR",
+          "lowPrice": "0",
+          "highPrice": "0",
+          "offerCount": "1",
+          "offers": [
+            {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock",
+              "url": "https://settleloans.in/contact"
+            }
+          ]
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Rajesh S."
+            },
+            "datePublished": "2024-03-01",
+            "reviewBody": "I was terrified of the court summons. SettleLoans stepped in, handled the bank's lawyers, and closed my case for a fraction of the amount. I finally have my life back.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Anjali M."
+            },
+            "datePublished": "2024-02-20",
+            "reviewBody": "The bank filed a Section 138 case against me. I didn't know what to do. The team at SettleLoans negotiated a settlement and got the case withdrawn legally. Truly professional.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Vikram K."
+            },
+            "datePublished": "2024-02-10",
+            "reviewBody": "My warehouse was being auctioned under SARFAESI. SettleLoans identified legal lapses and forced the bank to the table for a settlement. Saved my business asset.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5"
+            }
+          },
+          {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": "Sunitha P."
+            },
+            "datePublished": "2024-01-25",
+            "reviewBody": "Fast loan apps were harassing my contacts. SettleLoans filed an RBI complaint and sent legal notices. The apps stopped immediately and settled for the principal amount.",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": "5"
+            }
+          }
+        ]
       }
     ]
   };

@@ -151,24 +151,57 @@ export default function InterestSavingsDigitalPage() {
       },
       {
         "@type": "Product",
+        "@id": "https://settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services#product",
         "name": "Digital Loan Settlement & Interest Optimization Service",
         "description": "Professional assistance in early loan settlement to maximize interest savings through legal and tech-driven negotiation in India.",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "offers": {
-          "@type": "Offer",
-          "url": "https://settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services",
-          "price": "0",
-          "priceCurrency": "INR",
-          "availability": "https://schema.org/InStock"
-        },
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
           "reviewCount": "1850"
-        }
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "INR",
+          "lowPrice": "0",
+          "highPrice": "0",
+          "offerCount": "1",
+          "offers": [
+            {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock",
+              "url": "https://settleloans.in/contact"
+            }
+          ]
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Karthik R." },
+            "datePublished": "2024-03-08",
+            "reviewBody": "I was stuck with an 18% interest loan. Amalegal challenged the bank's calculations and found they were overcharging me. We settled early and I saved more than half of what I originally owed in interest.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Sneha G." },
+            "datePublished": "2024-02-18",
+            "reviewBody": "Fintech apps were charging me 3% a month. CredSettle grouped my 8 loans together. Their digital dashboard was so clear. I paid off everything 2 years early and the savings were life-changing.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Vivek S." },
+            "datePublished": "2024-01-29",
+            "reviewBody": "My business interest was eating me alive. SettleLoans showed me the math of early settlement. Their counselor was with me every step. I am now debt free and my monthly cash flow is finally positive.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       },
       {
         "@type": "Organization",

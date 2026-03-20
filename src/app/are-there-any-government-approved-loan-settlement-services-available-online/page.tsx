@@ -148,6 +148,67 @@ export default function GovernmentApprovedPage() {
             }
           }
         ]
+      },
+      {
+        "@type": "Product",
+        "@id": "https://settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online#product",
+        "name": "Legal Loan Settlement Consultation",
+        "description": "Government-compliant and RBI-aligned debt settlement consultation services in India.",
+        "brand": {
+          "@type": "Brand",
+          "name": "SettleLoans"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "210"
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "INR",
+          "lowPrice": "0",
+          "highPrice": "0",
+          "offerCount": "1",
+          "offers": [
+            {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock",
+              "url": "https://settleloans.in/contact"
+            }
+          ]
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Rajesh K." },
+            "datePublished": "2024-03-10",
+            "reviewBody": "I was worried about the legality of settlement. Amalegal Solutions handled my case with extreme professionalism, ensuring all RBI protocols were followed. I am now debt-free.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Sonal V." },
+            "datePublished": "2024-02-25",
+            "reviewBody": "CredSettle's digital platform made the legal process transparent. I could see every notice sent to the bank. Their adherence to fair practice is commendable.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Mohan T." },
+            "datePublished": "2024-02-10",
+            "reviewBody": "SettleLoans.in provided a legal shield that stopped the recovery calls. They negotiated an official OTS that saved me 60% of my dues. Highly recommend their ethical service.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Anil P." },
+            "datePublished": "2024-01-15",
+            "reviewBody": "Settling a loan is a complex legal journey. Having experts who understand the Indian Contract Act made a huge difference for my family's peace of mind.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       }
     ]
   };

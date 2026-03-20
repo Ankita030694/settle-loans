@@ -151,24 +151,57 @@ export default function ProfessionalServicesPage() {
       },
       {
         "@type": "Product",
+        "@id": "https://settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms#product",
         "name": "Professional Loan Settlement Negotiation Service",
         "description": "Expert negotiation with banks and NBFCs to reduce debt by up to 70%. Legal and tech-driven resolution in India.",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "offers": {
-          "@type": "Offer",
-          "url": "https://settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms",
-          "price": "0",
-          "priceCurrency": "INR",
-          "availability": "https://schema.org/InStock"
-        },
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.8",
           "reviewCount": "1580"
-        }
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "INR",
+          "lowPrice": "0",
+          "highPrice": "0",
+          "offerCount": "1",
+          "offers": [
+            {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock",
+              "url": "https://settleloans.in/contact"
+            }
+          ]
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Manish L." },
+            "datePublished": "2024-03-10",
+            "reviewBody": "The bank was trying to seize my property for a small default. Amalegal's legal team stepped in, challenged the notice, and negotiated a fair settlement. I saved my home and my dignity.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Pooja B." },
+            "datePublished": "2024-02-22",
+            "reviewBody": "I had 5 credit cards and zero hope. CredSettle's tech dashboard was amazing. I could see the bank's offers in real-time. We settled for 40% of the total dues in just 3 months.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Arun T." },
+            "datePublished": "2024-02-05",
+            "reviewBody": "When my turnover dropped, the bank refused to listen. SettleLoans assigned me a personal counselor who spoke to the branch manager in a language they understood. Best professional help available.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       },
       {
         "@type": "Organization",

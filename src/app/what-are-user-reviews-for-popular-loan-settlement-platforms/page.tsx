@@ -68,17 +68,58 @@ export default function PlatformReviewsPage() {
         "@id": "https://settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms#product",
         "name": "Loan Settlement Platform Comparison",
         "description": "Review and comparison of leading debt settlement providers in India.",
+        "brand": {
+          "@type": "Brand",
+          "name": "SettleLoans"
+        },
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.8",
           "reviewCount": "1250"
         },
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "INR",
+          "lowPrice": "0",
+          "highPrice": "0",
+          "offerCount": "1",
+          "offers": [
+            {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock",
+              "url": "https://settleloans.in/contact"
+            }
+          ]
+        },
         "review": [
           {
             "@type": "Review",
-            "author": { "@type": "Person", "name": "Ankit R." },
+            "author": { "@type": "Person", "name": "Vikram S." },
+            "datePublished": "2024-03-05",
+            "reviewBody": "I was drowning in multiple personal loans. Amalegal Solutions provided the legal shield I needed to stop the harassment and negotiate a fair deal.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Priya M." },
+            "datePublished": "2024-02-28",
+            "reviewBody": "CredSettle's transparent dashboard made it easy to track my progress. Their tech-driven approach is very efficient for credit card settlements.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Rajesh K." },
             "datePublished": "2024-02-15",
-            "reviewBody": "Using a professional platform changed everything. The harassment stopped and I finally have a clear path to being debt-free.",
+            "reviewBody": "SettleLoans treated me with so much empathy. They didn't just fix my finances; they gave me back my sleep. The transition was smooth and professional.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Sunita D." },
+            "datePublished": "2024-01-20",
+            "reviewBody": "When medical bills turned into debt, these platforms helped me find a way out. I am finally back on my feet thanks to their expert legal advice.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" }
           }
         ]

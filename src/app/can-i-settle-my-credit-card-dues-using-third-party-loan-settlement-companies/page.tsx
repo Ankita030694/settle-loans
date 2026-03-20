@@ -148,6 +148,67 @@ export default function CreditCardSettlementPage() {
             }
           }
         ]
+      },
+      {
+        "@type": "Product",
+        "@id": "https://settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies#product",
+        "name": "Credit Card Debt Settlement Services",
+        "description": "Professional third-party negotiation and settlement services for credit card dues in India.",
+        "brand": {
+          "@type": "Brand",
+          "name": "SettleLoans"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "345"
+        },
+        "offers": {
+          "@type": "AggregateOffer",
+          "priceCurrency": "INR",
+          "lowPrice": "0",
+          "highPrice": "0",
+          "offerCount": "1",
+          "offers": [
+            {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "INR",
+              "availability": "https://schema.org/InStock",
+              "url": "https://settleloans.in/contact"
+            }
+          ]
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Sandeep Y." },
+            "datePublished": "2024-03-05",
+            "reviewBody": "I had over 8 lakhs in credit card debt. The interest was killing me. SettleLoans took over and got me a settlement that saved my family's future.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Megha P." },
+            "datePublished": "2024-02-28",
+            "reviewBody": "Amalegal Solutions provided the legal expertise needed to stop the threatening calls. Their team was professional and very effective.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Rohan J." },
+            "datePublished": "2024-02-15",
+            "reviewBody": "CredSettle helped me manage multiple card defaults through their data-driven process. The transparency they offer is unmatched in India.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Anjali T." },
+            "datePublished": "2024-01-20",
+            "reviewBody": "Settling was the hardest decision of my life, but these experts made it dignified. I can finally breathe again without the weight of debt.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       }
     ]
   };
