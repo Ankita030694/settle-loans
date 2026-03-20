@@ -1375,6 +1375,60 @@ export default function sitemap(): MetadataRoute.Sitemap {
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,
-        }
+        },
+        {
+            url: `${baseUrl}/what-are-user-reviews-for-popular-loan-settlement-platforms`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/are-there-any-government-approved-loan-settlement-services-available-online`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/which-professional-services-assist-in-negotiating-loan-settlement-terms`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/what-are-the-interest-savings-by-settling-loans-early-through-digital-services`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/are-there-specialized-programs-for-settling-student-loan-defaults-in-india`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
     ];
 }

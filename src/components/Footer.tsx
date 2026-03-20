@@ -317,7 +317,17 @@ export default function Footer() {
               { name: "Effective Debt Negotiation Services", href: "/find-debt-settlement-services-known-for-effective-negotiation" },
               { name: "Compare Loan Settlement Apps", href: "/compare-features-of-loan-settlement-services-offered-by-major-financial-apps" },
               { name: "Best Vehicle Loan Settlement Deal", href: "/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services" },
-              { name: "Government Approved Credit Counseling Chennai", href: "/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai" }
+              { name: "Government Approved Credit Counseling Chennai", href: "/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai" },
+              { name: "Legal Risks of Loan Default", href: "/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement" },
+              { name: "Loan Settlement Platform Reviews", href: "/what-are-user-reviews-for-popular-loan-settlement-platforms" },
+              { name: "Credit Card Settlement via Third-Party", href: "/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies" },
+              { name: "Debt Settlement Alternatives", href: "/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt" },
+              { name: "Government Approved Settlement Guide", href: "/are-there-any-government-approved-loan-settlement-services-available-online" },
+              { name: "Free Debt Evaluation", href: "/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm" },
+              { name: "Professional Negotiation Services", href: "/which-professional-services-assist-in-negotiating-loan-settlement-terms" },
+              { name: "Interest Savings Early Settlement", href: "/what-are-the-interest-savings-by-settling-loans-early-through-digital-services" },
+              { name: "Student Loan Settlement India", href: "/are-there-specialized-programs-for-settling-student-loan-defaults-in-india" },
+              { name: "Fintech Loan Settlement Plans", href: "/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps" }
             ].map((query) => (
               <Link
                 key={query.name}
