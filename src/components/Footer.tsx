@@ -327,7 +327,13 @@ export default function Footer() {
               { name: "Professional Negotiation Services", href: "/which-professional-services-assist-in-negotiating-loan-settlement-terms" },
               { name: "Interest Savings Early Settlement", href: "/what-are-the-interest-savings-by-settling-loans-early-through-digital-services" },
               { name: "Student Loan Settlement India", href: "/are-there-specialized-programs-for-settling-student-loan-defaults-in-india" },
-              { name: "Fintech Loan Settlement Plans", href: "/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps" }
+              { name: "Fintech Loan Settlement Plans", href: "/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps" },
+              { name: "Average Settlement Timeframe", href: "/what-is-the-average-timeframe-for-completing-a-loan-settlement-process" },
+              { name: "Online Settlement Initiation", href: "/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal" },
+              { name: "CFP Debt Advisory", href: "/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement" },
+              { name: "Settlement Support Options", href: "/what-customer-support-options-do-loan-settlement-companies-provide" },
+              { name: "Write-off vs Settlement", href: "/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement" },
+              { name: "Track Settlement Status", href: "/can-i-track-my-loan-settlement-status-through-financial-service-websites" }
             ].map((query) => (
               <Link
                 key={query.name}

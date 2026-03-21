@@ -298,6 +298,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
             changeFrequency: 'weekly',
             priority: 0.9,
         },
+        {
+            url: `${baseUrl}/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/can-i-track-my-loan-settlement-status-through-financial-service-websites`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
 
         {
             url: `${baseUrl}/loan-settlement/chhattisgarh`,
@@ -1426,6 +1438,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
         {
             url: `${baseUrl}/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/what-is-the-average-timeframe-for-completing-a-loan-settlement-process`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/what-customer-support-options-do-loan-settlement-companies-provide`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,
