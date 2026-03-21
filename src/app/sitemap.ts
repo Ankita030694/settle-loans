@@ -1466,5 +1466,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
             changeFrequency: 'weekly',
             priority: 0.9,
         },
+        {
+            url: `${baseUrl}/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/get-contact-details-for-top-rated-debt-resolution-companies-in-india`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
     ];
 }
+

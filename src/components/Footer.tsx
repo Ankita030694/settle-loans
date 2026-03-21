@@ -333,8 +333,13 @@ export default function Footer() {
               { name: "CFP Debt Advisory", href: "/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement" },
               { name: "Settlement Support Options", href: "/what-customer-support-options-do-loan-settlement-companies-provide" },
               { name: "Write-off vs Settlement", href: "/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement" },
-              { name: "Track Settlement Status", href: "/can-i-track-my-loan-settlement-status-through-financial-service-websites" }
+              { name: "Track Settlement Status", href: "/can-i-track-my-loan-settlement-status-through-financial-service-websites" },
+              { name: "Submit Settlement Offer", href: "/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender" },
+              { name: "Settlement Eligibility", href: "/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms" },
+              { name: "Credit Card Settlement Quote", href: "/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt" },
+              { name: "Debt Resolution Directory", href: "/get-contact-details-for-top-rated-debt-resolution-companies-in-india" }
             ].map((query) => (
+
               <Link
                 key={query.name}
                 href={query.href}
