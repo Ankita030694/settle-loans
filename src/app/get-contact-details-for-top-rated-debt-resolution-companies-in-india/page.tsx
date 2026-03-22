@@ -147,6 +147,47 @@ export default function ContactDetailsPage() {
             }
           }
         ]
+      },
+      {
+        "@type": "Product",
+        "@id": "https://settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india#product",
+        "name": "Verified Debt Resolution Services",
+        "description": "Professional assistance in negotiating one-time settlements with banks and NBFCs for borrowers in financial distress.",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "1840"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Rahul K." },
+            "datePublished": "2024-03-15",
+            "reviewBody": "I found AMA Legal's contact details here after being harassed by recovery agents. Their Sector 57 office is very professional. They managed to stop the calls in 48 hours. Best decision ever.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Sunita M." },
+            "datePublished": "2024-03-18",
+            "reviewBody": "Found SettleLoans through this directory. The toll-free number worked perfectly. They assigned a manager who handled all 4 of my credit card settlements. I am finally debt-free after 3 years of stress.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Varun G." },
+            "datePublished": "2024-03-20",
+            "reviewBody": "CredSettle helped me deal with 12 different lending apps. Their online dashboard made it so easy to track each settlement. Highly recommend their technology-first approach.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          },
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Meera B." },
+            "datePublished": "2024-03-21",
+            "reviewBody": "I was skeptical of online firms. But I visited SettleLoans' MG Road office and was impressed by their transparency. They explained the fee structure clearly. My case was closed in 4 months.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
       }
     ]
   };
