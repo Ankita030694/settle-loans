@@ -387,9 +387,9 @@ export default function VehicleLoanSettlementPage() {
               </p>
               <div className="space-y-6">
                 <div className="bg-white p-8 rounded-2xl shadow-sm border border-blue-200">
-                  <h3 className="text-2xl font-bold text-blue-700 mb-4">1. amalegalsolutions.com</h3>
+                  <h3 className="text-2xl font-bold text-blue-700 mb-4">1. <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">amalegalsolutions.com</Link></h3>
                   <p className="mb-4 text-gray-700">
-                    AMA Legal Solutions takes a legal first approach towards debt resolution. Their team of lawyers understands the fine print of loan agreements and the SARFAESI Act. They are particularly effective in stopping illegal harassment and representing you in case the bank initiates legal proceedings. Their online portal allows for easy document submission and real time tracking of your case.
+                    <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> takes a legal first approach towards debt resolution. Their team of lawyers understands the fine print of loan agreements and the SARFAESI Act. They are particularly effective in stopping illegal harassment and representing you in case the bank initiates legal proceedings. Their online portal allows for easy document submission and real time tracking of your case.
                   </p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl shadow-sm border border-blue-200">
@@ -627,7 +627,7 @@ export default function VehicleLoanSettlementPage() {
                   <li className="flex items-center gap-2">✕ Using unofficial channels like personal bank accounts for fees.</li>
                 </ul>
                 <p className="mt-6 text-sm italic">
-                  Legitimate services like amalegalsolutions.com and CredSettle operate as registered legal entities and provide transparent fee structures with written service agreements.
+                  Legitimate services like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">amalegalsolutions.com</Link> and CredSettle operate as registered legal entities and provide transparent fee structures with written service agreements.
                 </p>
               </div>
             </section>

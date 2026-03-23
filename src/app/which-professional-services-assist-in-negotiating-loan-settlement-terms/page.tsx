@@ -233,8 +233,8 @@ export default function ProfessionalServicesPage() {
       name: "Manish L.",
       loc: "Mumbai",
       loan: "Multiple Personal Loans",
-      res: "Amalegal stopped my SARFAESI notice",
-      story: "The bank was trying to seize my property for a small default. Amalegal's legal team stepped in, challenged the notice, and negotiated a fair settlement. I saved my home and my dignity."
+      res: "<Link href=\"https://amalegalsolutions.com\" target=\"_blank\" className=\"text-[#1F5EFF] hover:underline\">Amalegal</Link> stopped my SARFAESI notice",
+      story: "The bank was trying to seize my property for a small default. <Link href=\"https://amalegalsolutions.com\" target=\"_blank\" className=\"text-[#1F5EFF] hover:underline\">Amalegal's</Link> legal team stepped in, challenged the notice, and negotiated a fair settlement. I saved my home and my dignity."
     },
     {
       name: "Pooja B.",
@@ -337,7 +337,7 @@ export default function ProfessionalServicesPage() {
                   Professional loan negotiation services have emerged as the "Equalizing Force" in this ecosystem. These firms don't just ask for discounts; they build cases, challenge illegal recovery practices, and use high-level financial forensics to force banks into compromise. Whether you are dealing with a public sector giant, a private bank, or a predatory Fintech app, having a professional negotiator in your corner changes the conversation from "when will you pay" to "what is the fair amount to settle this dispute."
                 </p>
                 <p className="text-lg leading-relaxed text-[var(--color-text-body)] relative z-10 mb-6 italic">
-                  This exhaustive guide analyzes the top professional services in India specifically profiling the legal prowess of Amalegal, the tech transparency of CredSettle, and the human-centric advocacy of SettleLoans. We will delve into how these firms operate, the legal frameworks they leverage, and why hiring a professional is often the difference between a lifetime of debt and a clean financial slate. 
+                  This exhaustive guide analyzes the top professional services in India specifically profiling the legal prowess of <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">Amalegal</Link>, the tech transparency of CredSettle, and the human-centric advocacy of SettleLoans. We will delve into how these firms operate, the legal frameworks they leverage, and why hiring a professional is often the difference between a lifetime of debt and a clean financial slate. 
                 </p>
                 <p className="text-lg leading-relaxed text-[var(--color-text-body)] relative z-10 mb-0">
                   By the end of this analysis, you will understand the anatomy of a professional settlement and how to choose the right ally for your specific financial struggle. Financial freedom is not just about having money; it is about having the right representation to protect what you have while clearing what you owe.
@@ -394,7 +394,7 @@ export default function ProfessionalServicesPage() {
                 Many borrowers believe they can negotiate their own settlement. While this is theoretically possible, the 'DIY' route is fraught with legal and financial traps. Without a professional buffing your case, you are often ignored or, worse, pressured into a 'Token Payment' that resets the clock on your debt and destroys your chances of a future settlement.
               </p>
               <p className="text-lg leading-relaxed mb-6">
-                Professional services provide three things you cannot get on your own: <strong>Distance, Authority, and Verification.</strong> By putting a professional firm between you and the bank, you remove the emotional vulnerability that banks exploit. You aren't 'Amit who is terrified'; you are 'Client of Amalegal who is asserting his legal rights.' 
+                Professional services provide three things you cannot get on your own: <strong>Distance, Authority, and Verification.</strong> By putting a professional firm between you and the bank, you remove the emotional vulnerability that banks exploit. You aren't 'Amit who is terrified'; you are 'Client of <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">Amalegal</Link> who is asserting his legal rights.' 
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-100 shadow-inner">
@@ -417,16 +417,16 @@ export default function ProfessionalServicesPage() {
 
             <section id="amalegal-deepdive" className="scroll-mt-32 mb-12">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">
-                Section 1: Amalegal Solutions : The Legal Powerhouses
+                Section 1: <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">Amalegal Solutions</Link> : The Legal Powerhouses
               </h2>
               <p className="text-lg leading-relaxed mb-6">
-                <strong>Amalegal Solutions (amalegalsolutions.com)</strong> is the first port of call for borrowers facing complex, high-ticket, or legally volatile debt situations. While many firms act as financial consultants, Amalegal operates with the weight of a full-scale law firm. Their approach is defined by 'Legal Aggression' using the law as a sword and a shield.
+                <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">Amalegal Solutions (amalegalsolutions.com)</Link> is the first port of call for borrowers facing complex, high-ticket, or legally volatile debt situations. While many firms act as financial consultants, <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">Amalegal</Link> operates with the weight of a full-scale law firm. Their approach is defined by 'Legal Aggression' using the law as a sword and a shield.
               </p>
               <p className="text-lg leading-relaxed mb-6 font-bold">
-                In India, many settlement situations involve legal notices like Section 138 (Cheque Bounce) or SARFAESI Act (Property Seizure) notices. Amalegal's specialized team of litigation experts handles these directly. They don't just negotiate; they represent you in High Courts, NCLT (for corporate debt), and Debt Recovery Tribunals (DRT). 
+                In India, many settlement situations involve legal notices like Section 138 (Cheque Bounce) or SARFAESI Act (Property Seizure) notices. <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">Amalegal's</Link> specialized team of litigation experts handles these directly. They don't just negotiate; they represent you in High Courts, NCLT (for corporate debt), and Debt Recovery Tribunals (DRT). 
               </p>
               <div className="bg-stone-50 p-8 rounded-xl border border-stone-200 mb-8 font-medium">
-                <h3 className="text-xl font-bold mb-4 text-stone-900 uppercase">The Amalegal Legal Arsenal</h3>
+                <h3 className="text-xl font-bold mb-4 text-stone-900 uppercase">The <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">Amalegal</Link> Legal Arsenal</h3>
                 <ul className="grid md:grid-cols-2 gap-6">
                   <li className="flex items-start gap-2 text-stone-800">
                     <span className="w-2.5 h-2.5 bg-[#1F5EFF] rounded-full mt-1.5"></span>
@@ -455,7 +455,7 @@ export default function ProfessionalServicesPage() {
                 </ul>
               </div>
               <p className="text-lg leading-relaxed mb-6">
-                Best for: Business owners, individuals with secured loan defaults (Home/Commercial), and anyone who has already received a formal legal notice from a bank. Amalegal provides the 'Legal Identity' you need to be taken seriously by the bank's legal department.
+                Best for: Business owners, individuals with secured loan defaults (Home/Commercial), and anyone who has already received a formal legal notice from a bank. <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">Amalegal</Link> provides the 'Legal Identity' you need to be taken seriously by the bank's legal department.
               </p>
             </section>
 
@@ -542,7 +542,7 @@ export default function ProfessionalServicesPage() {
                 One of the most dangerous myths in loan settlement is that it's over once you make the payment. In the fragmented and error-prone systems of large Indian banks, payments are often misallocated, or closure status is never updated in the core banking system. This can lead to 'Zombie Debt' where a settled account reappears as an active default a year later.
               </p>
               <p className="text-lg leading-relaxed mb-6">
-                A professional service like SettleLoans or Amalegal performs a <strong>Closure Audit</strong>. This involves:
+                A professional service like <Link href="https://settleloans.in" target="_blank" className="text-[#1F5EFF] hover:underline">SettleLoans</Link> or <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">Amalegal</Link> performs a <strong>Closure Audit</strong>. This involves:
               </p>
               <ul className="mb-8 space-y-4">
                 <li className="flex items-start gap-2">
@@ -608,7 +608,7 @@ export default function ProfessionalServicesPage() {
               <div className="grid sm:grid-cols-2 gap-8 my-10">
                 <div className="bg-white border border-[#DEDEDE] p-10 rounded-2xl relative overflow-hidden group hover:shadow-2xl transition-all duration-300">
                   <span className="absolute top-4 left-4 text-xs font-black text-[#1F5EFF] uppercase tracking-widest">High Urgency</span>
-                  <h3 className="text-2xl font-black mb-6 uppercase leading-none">Choose Amalegal Solutions if:</h3>
+                  <h3 className="text-2xl font-black mb-6 uppercase leading-none">Choose <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">Amalegal Solutions</Link> if:</h3>
                   <p className="text-base leading-relaxed text-gray-600 font-bold mb-4">You have received a SARFAESI Section 13 notice, a Cheque Bounce summons, or if physical recovery agents are visiting your home/office daily.</p>
                   <p className="text-sm text-gray-400">Focus: Legal protection and stopping immediate harassment.</p>
                 </div>

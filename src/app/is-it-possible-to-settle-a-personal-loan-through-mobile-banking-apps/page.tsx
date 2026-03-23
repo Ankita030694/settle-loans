@@ -277,7 +277,7 @@ export default function MobileAppLoanSettlementPage() {
                 In the last five years, India has witnessed a dramatic shift in how financial services are consumed. From the bustling streets of Mumbai to the remote villages of Kerala, the smartphone has become the primary branch for millions of banking customers. You can open an account, invest in mutual funds, and even get an Instant Loan in less than 60 seconds. However, when it comes to the complex and often stressful world of loan settlement, the digital road is not always as smooth as the disbursal route.
               </p>
               <p className="text-lg leading-relaxed mb-6">
-                As more borrowers find themselves navigating the high interest cycles of personal loans and credit cards, a common question arises: "Can I just settle my loan through my banking app without talking to a recovery agent?" This guide is a deep dive into the reality of digital loan settlement in India. We will look at why banks like HDFC, ICICI, and SBI have different rules for their apps, how fintech giants are handling defaults, and how revolutionary tools like the **AMA Connect** app from **ama legal solutions** are providing a new shield for borrowers.
+                As more borrowers find themselves navigating the high interest cycles of personal loans and credit cards, a common question arises: "Can I just settle my loan through my banking app without talking to a recovery agent?" This guide is a deep dive into the reality of digital loan settlement in India. We will look at why banks like HDFC, ICICI, and SBI have different rules for their apps, how fintech giants are handling defaults, and how revolutionary tools like the **AMA Connect** app from <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">ama legal solutions</Link> are providing a new shield for borrowers.
               </p>
             </section>
 
@@ -333,7 +333,7 @@ export default function MobileAppLoanSettlementPage() {
             <section id="ama-connect" className="scroll-mt-32 mb-16">
                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">AMA Connect App: The Power of Legal-Tech</h2>
                <p className="text-lg mb-6 leading-relaxed">
-                 While traditional banking apps focus on recovery, the **AMA Connect** app focuses on protection. It is a revolutionary solution that bridges the gap between a borrower in distress and the complex legal system of India. Features like the **Harassment Shield** allow a user to report illegal calls from recovery agents directly from their phone, which triggers a legal notice from verified advocates.
+                 While traditional banking apps focus on recovery, the <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Connect</Link> app focuses on protection. It is a revolutionary solution that bridges the gap between a borrower in distress and the complex legal system of India. Features like the **Harassment Shield** allow a user to report illegal calls from recovery agents directly from their phone, which triggers a legal notice from verified advocates.
                </p>
                <div className="bg-blue-600 text-white p-8 rounded-2xl shadow-xl mb-8">
                  <h3 className="text-2xl font-bold mb-6">Key Features of AMA Connect</h3>
@@ -392,7 +392,7 @@ export default function MobileAppLoanSettlementPage() {
                    <div className="flex-shrink-0 w-12 h-12 bg-black text-white rounded-xl flex items-center justify-center font-black text-xl">03</div>
                    <div>
                      <h4 className="text-xl font-bold mb-2">The Legal Buffer and Cease-and-Desist</h4>
-                     <p className="text-lg leading-relaxed text-gray-600 mb-4">Once you have raised your request, send your legal notice via ama legal solutions. There is often a 7 to 10 day buffer period. During this time, the bank's internal collections system is updated to Legal/Disputed. This stops the automated IVR calls and recovery agent visits, giving you the space to breathe.</p>
+                     <p className="text-lg leading-relaxed text-gray-600 mb-4">Once you have raised your request, send your legal notice via <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">ama legal solutions</Link>. There is often a 7 to 10 day buffer period. During this time, the bank's internal collections system is updated to Legal/Disputed. This stops the automated IVR calls and recovery agent visits, giving you the space to breathe.</p>
                    </div>
                 </div>
                 <div className="flex gap-6">
@@ -600,7 +600,7 @@ export default function MobileAppLoanSettlementPage() {
               </p>
               <h3 className="text-xl font-bold mb-4">The Counter-AI: Legal Advocacy</h3>
               <p className="text-lg mb-6 leading-relaxed">
-                For every aggressive recovery bot, there is a protective legal bot. The **AMA Connect** app is already working on "Negotiation AI" that can talk to these bank bots. This creates a level playing field where a borrower's rights are defended by the same technology that the banks use to collect.
+                For every aggressive recovery bot, there is a protective legal bot. The <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Connect</Link> app is already working on "Negotiation AI" that can talk to these bank bots. This creates a level playing field where a borrower's rights are defended by the same technology that the banks use to collect.
               </p>
             </section>
 
@@ -612,7 +612,7 @@ export default function MobileAppLoanSettlementPage() {
               </p>
               <h3 className="text-xl font-bold mb-4">Settlement for Businesses</h3>
               <p className="text-lg mb-6 leading-relaxed">
-                Business loan settlement via apps is different from personal loans. It requires a "Business Viability Report." The **AMA Connect** app allows MSME owners to upload their GST filings and ledger books to the **Secure Vault**. This data is then used to negotiate a "Structured Settlement" that allows the business to survive while the debt is cleared.
+                Business loan settlement via apps is different from personal loans. It requires a "Business Viability Report." The <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Connect</Link> app allows MSME owners to upload their GST filings and ledger books to the **Secure Vault**. This data is then used to negotiate a "Structured Settlement" that allows the business to survive while the debt is cleared.
               </p>
             </section>
 
@@ -671,7 +671,7 @@ export default function MobileAppLoanSettlementPage() {
                       </li>
                       <li className="flex items-start gap-4">
                         <span className="w-6 h-6 bg-red-200 text-red-800 rounded-full flex items-center justify-center text-xs font-black">5</span>
-                        <p className="text-sm font-bold text-red-900 leading-snug">Draft OTS Notice: Send a formal One-Time Settlement (OTS) request via your legal team at ama legal solutions.</p>
+                        <p className="text-sm font-bold text-red-900 leading-snug">Draft OTS Notice: Send a formal One-Time Settlement (OTS) request via your legal team at <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">ama legal solutions</Link>.</p>
                       </li>
                       <li className="flex items-start gap-4">
                         <span className="w-6 h-6 bg-red-200 text-red-800 rounded-full flex items-center justify-center text-xs font-black">6</span>
@@ -760,7 +760,7 @@ export default function MobileAppLoanSettlementPage() {
                 In the end, the best way to handle digital debt is to prevent it. Digital financial literacy is not just about knowing how to use an app, but understanding the algorithms that drive them. When you see a "Pre-approved" offer, remember that it is an invitation to spend, not a reward for good behavior.
               </p>
               <p className="text-lg leading-relaxed mb-6">
-                True digital freedom comes from knowing your rights under the RBI 2025 guidelines and the DPDP Act 2023. It comes from having a legal partner like **ama legal solutions** who can decode the fine print for you. Whether you choose to settle your loan or pay it in full, ensure that you do so with complete transparency and a clear path toward credit recovery. Your smartphone should be a tool for wealth creation, not a gateway to a debt trap.
+                True digital freedom comes from knowing your rights under the RBI 2025 guidelines and the DPDP Act 2023. It comes from having a legal partner like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">ama legal solutions</Link> who can decode the fine print for you. Whether you choose to settle your loan or pay it in full, ensure that you do so with complete transparency and a clear path toward credit recovery. Your smartphone should be a tool for wealth creation, not a gateway to a debt trap.
               </p>
             </section>
 

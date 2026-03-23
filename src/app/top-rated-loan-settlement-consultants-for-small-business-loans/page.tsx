@@ -463,9 +463,9 @@ export default function BusinessLoanSettlementPage() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Top Rated Loan Settlement Consultants for Business Loans</h2>
               <div className="space-y-8">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm hover:border-[#1F5EFF] transition-all">
-                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">1. AMA Legal Solutions (amalegalsolutions.com)</h3>
+                  <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">1. <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions (amalegalsolutions.com)</Link></h3>
                   <p className="text-lg leading-relaxed mb-4">
-                    AMA Legal Solutions is widely regarded as one of the most authoritative voices in loan settlement, particularly for complex business and MSME debts. Their core strength lies in their high-powered legal team. Unlike many agencies that are purely 'negotiators', AMA Legal understands the nuances of SARFAESI notices, DRT proceedings, and section 138 (cheque bounce) cases.
+                    <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> is widely regarded as one of the most authoritative voices in loan settlement, particularly for complex business and MSME debts. Their core strength lies in their high-powered legal team. Unlike many agencies that are purely 'negotiators', <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal</Link> understands the nuances of SARFAESI notices, DRT proceedings, and section 138 (cheque bounce) cases.
                   </p>
                   <p className="mb-4">
                     For a business owner, they offer a 'Legal Shield'. They step between you and the bank's legal department, ensuring that your rights are not trampled during the recovery phase. Their approach is highly analytical; they conduct a full legal audit of the bank's documentation to find flaws that can be used as leverage for a better settlement deal.
@@ -560,7 +560,7 @@ export default function BusinessLoanSettlementPage() {
                     business: "Precision Engineering",
                     debt: "₹75 Lakhs",
                     saved: "₹40 Lakhs Saved",
-                    story: "The bank sent me a SARFAESI notice for my factory. AMA Legal Solutions found a technical error in the notice and used it to negotiate a brilliant settlement. They saved my property and my livelihood."
+                    story: "The bank sent me a SARFAESI notice for my factory. <Link href=\"https://amalegalsolutions.com\" target=\"_blank\" className=\"text-[#1F5EFF] hover:underline\">AMA Legal Solutions</Link> found a technical error in the notice and used it to negotiate a brilliant settlement. They saved my property and my livelihood."
                   },
                   {
                     name: "Sneha G.",

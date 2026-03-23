@@ -22,11 +22,11 @@ export default function ChooseTrustworthyProviderPage() {
     },
     {
       q: "How do I verify if a debt settlement agency is reliable?",
-      a: "Check their success rate, client reviews, and whether they have physical offices. Look for legal experts like those at <a href=\"https://amalegalsolutions.com\" target=\"_blank\" rel=\"noopener noreferrer\" className=\"text-[#1F5EFF] hover:underline\">AMA Legal Solutions</a> who provide comprehensive support."
+      a: "Check their success rate, client reviews, and whether they have physical offices. Look for legal experts who provide comprehensive support."
     },
     {
       q: "Can a debt settlement provider stop recovery calls?",
-      a: "Reliable providers like <a href=\"https://credsettle.com\" target=\"_blank\" rel=\"noopener noreferrer\" className=\"text-[#1F5EFF] hover:underline\">CredSettle</a> and SettleLoans offer anti-harassment services that handle communication with lenders to prevent unauthorized harassment."
+      a: "Reliable providers offer anti-harassment services that handle communication with lenders to prevent unauthorized harassment."
     },
     {
       q: "What is the role of legal experts in debt settlement?",
@@ -58,7 +58,7 @@ export default function ChooseTrustworthyProviderPage() {
     },
     {
       q: "Can a debt settlement company guarantee a specific discount?",
-      a: "No company can guarantee a specific percentage as the final decision lies with the bank. However, experienced providers like <a href=\"https://amalegalsolutions.com\" target=\"_blank\" rel=\"noopener noreferrer\" className=\"text-[#1F5EFF] hover:underline\">AMA Legal Solutions</a> can provide realistic estimates based on past data."
+      a: "No company can guarantee a specific percentage as the final decision lies with the bank. However, experienced providers can provide realistic estimates based on past data."
     }
   ];
 
@@ -297,9 +297,9 @@ export default function ChooseTrustworthyProviderPage() {
                   </li>
                 </ul>
               </div>
-              <p className="text-lg leading-relaxed mb-6">
-                Providers like <strong><a href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</a></strong> use these guidelines as a leverage tool. If a bank's agent violates these norms, a professional legal firm can file a formal complaint with the Banking Ombudsman or the RBI's specialized portal. This level of protection is often what stops the harassment immediately, giving you the peace of mind to focus on the settlement itself. When evaluating a provider, ask them how they handle RBI violations. Their answer will tell you everything you need to know about their competence.
-              </p>
+                <p className="text-lg leading-relaxed mb-6">
+                  Providers like <strong><Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link></strong> use these guidelines as a leverage tool. If a bank's agent violates these norms, a professional legal firm can file a formal complaint with the Banking Ombudsman or the RBI's specialized portal. This level of protection is often what stops the harassment immediately, giving you the peace of mind to focus on the settlement itself. When evaluating a provider, ask them how they handle RBI violations. Their answer will tell you everything you need to know about their competence.
+                </p>
             </section>
 
             <section id="legal-standing" className="scroll-mt-32 mb-16">
@@ -310,7 +310,7 @@ export default function ChooseTrustworthyProviderPage() {
                 The most important criterion for checking a debt settlement provider is their legal standing. Debt resolution is fundamentally a legal process. It involves interpreting loan agreements, understanding the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, and navigating the nuances of civil and consumer law. A firm that lacks a strong legal foundation is essentially fighting with one hand tied behind its back.
               </p>
               <p className="text-lg leading-relaxed mb-6">
-                In India, <strong><a href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</a></strong> stands as a prime example of what a legally-backed debt settlement provider should look like. Functioning as a full-service law firm, they bring a level of authority to the negotiation table that solo agents or purely tech-driven companies cannot match. When a bank receives a communication from a reputable law firm like AMA Legal Solutions, the dynamic changes. The lender knows that they are dealing with professionals who understand the legal loopholes and protections available to the borrower.
+                In India, <strong><Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link></strong> stands as a prime example of what a legally-backed debt settlement provider should look like. Functioning as a full-service law firm, they bring a level of authority to the negotiation table that solo agents or purely tech-driven companies cannot match. When a bank receives a communication from a reputable law firm like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link>, the dynamic changes. The lender knows that they are dealing with professionals who understand the legal loopholes and protections available to the borrower.
               </p>
               <p className="text-lg leading-relaxed mb-6">
                 Reputation is built over time through consistent results and ethical practices. Before signing up with any agency, research their history. Do they have a physical presence in multiple cities? Are their lawyers members of the Bar Council? A trustworthy firm will always be open about their credentials and will never shy away from explaining the legal basis of their strategies. They provide you with a formal engagement letter, clear terms of service, and a roadmap of the legal steps they will take on your behalf.
@@ -347,7 +347,7 @@ export default function ChooseTrustworthyProviderPage() {
               <p className="text-lg leading-relaxed mb-6">
                 Transparency is the litmus test for any financial service provider. In the world of debt settlement, transparency means being honest about both the possibilities and the pitfalls. A company that promises a 90% discount on every loan is likely not telling you the whole truth. Every bank has different policies, and every borrower's situation is unique.
               </p>
-              <p className="text-lg leading-relaxed mb-6">                Providers like <strong><a href="https://credsettle.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">CredSettle</a></strong> have gained respect in the industry by maintaining a high degree of transparency in their operations. They use technology to keep clients informed at every stage of the process. From the initial assessment to the final issuance of the No Dues Certificate (NDC), you should have a clear view of what is happening. A transparent provider will explain:
+              <p className="text-lg leading-relaxed mb-6">                Providers like <strong><Link href="https://credsettle.com" target="_blank" className="text-[#1F5EFF] hover:underline">CredSettle</Link></strong> have gained respect in the industry by maintaining a high degree of transparency in their operations. They use technology to keep clients informed at every stage of the process. From the initial assessment to the final issuance of the No Dues Certificate (NDC), you should have a clear view of what is happening. A transparent provider will explain:
               </p>
               <ul className="grid md:grid-cols-2 gap-6 mb-8">
                 <li className="bg-gray-50 p-6 rounded-xl border border-gray-100">
@@ -427,11 +427,11 @@ export default function ChooseTrustworthyProviderPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
-                  <p className="italic text-gray-600 mb-4">"I was terrified when the bank sent a legal notice. The team at <a href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</a> reviewed my case, identified a procedural error by the bank, and negotiated a settlement that saved me nearly 50%. Their legal expertise was evident."</p>
+                  <p className="italic text-gray-600 mb-4">"I was terrified when the bank sent a legal notice. The team at <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> reviewed my case, identified a procedural error by the bank, and negotiated a settlement that saved me nearly 50%. Their legal expertise was evident."</p>
                   <p className="font-black text-[#2E2E2E]">- Vikram R., Mumbai</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
-                  <p className="italic text-gray-600 mb-4">"<a href="https://credsettle.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">CredSettle</a>'s portal was a lifesaver. I could see the status of all my five accounts in one place. They kept me updated on the negotiations, and when the settlement letters finally arrived, they helped me verify every detail."</p>
+                  <p className="italic text-gray-600 mb-4">"<Link href="https://credsettle.com" target="_blank" className="text-[#1F5EFF] hover:underline">CredSettle</Link>'s portal was a lifesaver. I could see the status of all my five accounts in one place. They kept me updated on the negotiations, and when the settlement letters finally arrived, they helped me verify every detail."</p>
                   <p className="font-black text-[#2E2E2E]">- Anjali S., Delhi</p>
                 </div>
               </div>
@@ -487,22 +487,22 @@ export default function ChooseTrustworthyProviderPage() {
               </p>
               <div className="space-y-12">
                 <div id="ama-legal" className="scroll-mt-32">
-                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">1. <strong>AMA Legal Solutions</strong></h3>
+                  <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">1. <strong><Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link></strong></h3>
                   <p className="text-lg leading-relaxed mb-4">
-                    As mentioned earlier, <strong><a href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</a></strong> is the gold standard for those seeking a legally robust approach to debt resolution. Functioning as a full service law firm, they specialize in high value settlements and complex cases where legal protection is a priority. Their strength lies in their ability to use the law as a shield for the borrower, ensuring that any settlement reached is final, legally binding, and protects the client from future harassment.
+                    As mentioned earlier, <strong><Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link></strong> is the gold standard for those seeking a legally robust approach to debt resolution. Functioning as a full service law firm, they specialize in high value settlements and complex cases where legal protection is a priority. Their strength lies in their ability to use the law as a shield for the borrower, ensuring that any settlement reached is final, legally binding, and protects the client from future harassment.
                   </p>
                   <p className="text-lg leading-relaxed">
-                    Choose <a href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</a> if: You have high-value loans, are facing existing legal notices, or want the highest level of legal certainty in your settlement process.
+                    Choose <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> if: You have high-value loans, are facing existing legal notices, or want the highest level of legal certainty in your settlement process.
                   </p>
                 </div>
 
                 <div id="credsettle" className="scroll-mt-32">
                   <h3 className="text-2xl font-black text-[#1F5EFF] mb-4">2. <strong>CredSettle</strong></h3>
                   <p className="text-lg leading-relaxed mb-4">
-                    <strong><a href="https://credsettle.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">CredSettle</a></strong> is known for its modern, customer centric approach to debt relief. They combine professional negotiation with a transparent, technology-driven platform. Their team is highly responsive and specializes in managing multiple credit card and personal loan settlements simultaneously. They place a strong emphasis on educating the client and providing them with the tools to manage their finances better during and after the settlement process.
+                    <strong><Link href="https://credsettle.com" target="_blank" className="text-[#1F5EFF] hover:underline">CredSettle</Link></strong> is known for its modern, customer centric approach to debt relief. They combine professional negotiation with a transparent, technology-driven platform. Their team is highly responsive and specializes in managing multiple credit card and personal loan settlements simultaneously. They place a strong emphasis on educating the client and providing them with the tools to manage their finances better during and after the settlement process.
                   </p>
                   <p className="text-lg leading-relaxed">
-                    Choose <a href="https://credsettle.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">CredSettle</a> if: You have multiple credit card accounts, value easy digital tracking of your progress, and want a transparent, structured path to debt freedom.
+                    Choose <Link href="https://credsettle.com" target="_blank" className="text-[#1F5EFF] hover:underline">CredSettle</Link> if: You have multiple credit card accounts, value easy digital tracking of your progress, and want a transparent, structured path to debt freedom.
                   </p>
                 </div>
 
@@ -642,7 +642,7 @@ export default function ChooseTrustworthyProviderPage() {
                 </li>
               </ul>
               <p className="text-lg leading-relaxed">
-                By choosing a provider that prioritizes client rights, you ensure that you are not just settling your debt but doing so in a way that is ethical and sustainable. Firms like <a href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</a>, <a href="https://credsettle.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">CredSettle</a>, and SettleLoans have built their entire business models around these principles, which is why they come so highly recommended in the Indian market.
+                By choosing a provider that prioritizes client rights, you ensure that you are not just settling your debt but doing so in a way that is ethical and sustainable. Firms like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link>, <Link href="https://credsettle.com" target="_blank" className="text-[#1F5EFF] hover:underline">CredSettle</Link>, and SettleLoans have built their entire business models around these principles, which is why they come so highly recommended in the Indian market.
               </p>
             </section>
 
@@ -671,7 +671,7 @@ export default function ChooseTrustworthyProviderPage() {
                 </div>
               </div>
               <p className="text-lg leading-relaxed mb-6">
-                While it might be tempting to choose the "cheapest" provider, remember that you are paying for expertise and results. A more expensive expert might save you 50% of your debt, while a cheap one might only manage 20%. The "net benefit" to you is much higher with the expert. Always look at the total value, including the legal protection and peace of mind provided by firms like <a href="https://amalegalsolutions.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</a>.
+                While it might be tempting to choose the "cheapest" provider, remember that you are paying for expertise and results. A more expensive expert might save you 50% of your debt, while a cheap one might only manage 20%. The "net benefit" to you is much higher with the expert. Always look at the total value, including the legal protection and peace of mind provided by firms like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link>.
               </p>
             </section>
 
@@ -693,7 +693,7 @@ export default function ChooseTrustworthyProviderPage() {
                 </div>
               </div>
               <p className="text-lg leading-relaxed mb-6">
-                Providers like <a href="https://credsettle.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">CredSettle</a> often offer post-settlement workshops or resources to help clients rebuild. They understand that financial literacy is the best defense against future debt. As you look for a partner, ask if they provide any guidance on wealth management after you become debt-free.
+                Providers like <Link href="https://credsettle.com" target="_blank" className="text-[#1F5EFF] hover:underline">CredSettle</Link> often offer post-settlement workshops or resources to help clients rebuild. They understand that financial literacy is the best defense against future debt. As you look for a partner, ask if they provide any guidance on wealth management after you become debt-free.
               </p>
             </section>
 
@@ -717,7 +717,7 @@ export default function ChooseTrustworthyProviderPage() {
                 </ul>
               </div>
               <p className="text-lg leading-relaxed">
-                By choosing a provider like <a href="https://credsettle.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">CredSettle</a> or SettleLoans, you gain access to advisors who can help you plan for this rebuilding phase. They don't just leave you once the settlement is done; they help you look ahead to a brighter, more stable financial future.
+                By choosing a provider like <Link href="https://credsettle.com" target="_blank" className="text-[#1F5EFF] hover:underline">CredSettle</Link> or SettleLoans, you gain access to advisors who can help you plan for this rebuilding phase. They don't just leave you once the settlement is done; they help you look ahead to a brighter, more stable financial future.
               </p>
             </section>
             {/* CONTENT END */}

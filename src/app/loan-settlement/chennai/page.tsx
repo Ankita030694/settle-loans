@@ -488,7 +488,7 @@ export default function ChennaiLoanSettlementPage() {
             </section>
 
             <div className="mt-20 pt-10 border-t border-gray-100 text-center text-gray-400 text-[10px] italic uppercase tracking-widest leading-relaxed">
-               <p>Disclaimer: SettleLoans (AMA Legal Solutions) is a specialized debt consultancy service in Chennai. We provide legal negotiation and financial advisory; however, the final settlement percentage is at the lender's discretion. Impact on credit scores is inherent to the settlement process. We do not guarantee a specific waiver percentage but strive for the best possible outcome for our clients under Tamil Nadu and Indian law.</p>
+               <p>Disclaimer: SettleLoans (<Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link>) is a specialized debt consultancy service in Chennai. We provide legal negotiation and financial advisory; however, the final settlement percentage is at the lender's discretion. Impact on credit scores is inherent to the settlement process. We do not guarantee a specific waiver percentage but strive for the best possible outcome for our clients under Tamil Nadu and Indian law.</p>
             </div>
           </article>
 

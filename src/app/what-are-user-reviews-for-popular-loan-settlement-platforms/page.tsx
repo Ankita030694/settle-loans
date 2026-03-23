@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
   title: "What Are User Reviews for Popular Loan Settlement Platforms? | 2024 Audit",
-  description: "Independent audit of user reviews for popular loan settlement platforms in India. Compare Amalegal Solutions, CredSettle, and SettleLoans.in based on real user feedback.",
+  description: "Independent audit of user reviews for popular loan settlement platforms in India. Compare <Link href=\"https://amalegalsolutions.com\" target=\"_blank\" className=\"text-[#1F5EFF] hover:underline\">Amalegal Solutions</Link>, CredSettle, and SettleLoans.in based on real user feedback.",
   alternates: {
     canonical: "https://settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms",
   },
@@ -262,9 +262,9 @@ export default function PlatformReviewsPage() {
             <h1 className="text-3xl md:text-6xl lg:text-7xl font-black text-[#DEDEDE] mb-8 leading-[1.1] tracking-tight">
               What Are User Reviews for <br className="hidden md:block" /> Popular Loan Settlement Platforms?
             </h1>
-            <p className="text-base md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-2xl mx-auto leading-[1.2] font-normal">
-              Get the honest truth about debt relief in India. We analyze real user feedback for Amalegal Solutions, CredSettle, and SettleLoans to help you find your path to freedom.
-            </p>
+              <p className="text-base md:text-2xl text-[#DEDEDE]/80 mb-10 max-w-2xl mx-auto leading-[1.2] font-normal">
+                Get the honest truth about debt relief in India. We analyze real user feedback for <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link>, CredSettle, and SettleLoans to help you find your path to freedom.
+              </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center bg-[#1F5EFF] text-white font-bold py-4 px-10 rounded-[10px] hover:scale-105 transition-all duration-300 text-lg shadow-lg">
                 Start Your Debt-Free Journey
@@ -327,7 +327,7 @@ export default function PlatformReviewsPage() {
                   In recent years, India has seen a significant surge in debt settlement platforms. As more individuals find themselves caught in the complex web of high-interest loans and aggressive recovery tactics, these specialized consultancies have emerged as a beacon of hope. But with many options available, a common question arises: What do real users actually think about these services?
                 </p>
                 <p className="text-lg leading-relaxed text-[var(--color-text-body)] relative z-10 mb-6 font-bold text-[#1F5EFF]">
-                  This comprehensive audit looks into the user reviews and operational models of three major players in the Indian market: Amalegal Solutions, CredSettle, and SettleLoans.in. Our goal is to provide you with the clarity needed to choose a partner that aligns with your specific financial situation.
+                  This comprehensive audit looks into the user reviews and operational models of three major players in the Indian market: <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link>, CredSettle, and SettleLoans.in. Our goal is to provide you with the clarity needed to choose a partner that aligns with your specific financial situation.
                 </p>
               </div>
             </section>
@@ -378,7 +378,7 @@ export default function PlatformReviewsPage() {
                 AMA Legal Solutions: <span className="text-[#1F5EFF]">The Legal Shield for Complex Debt</span>
               </h2>
               <p className="text-lg leading-relaxed mb-6">
-                Amalegal Solutions (amalegalsolutions.com) is widely recognized as a premier law firm in India specializing in debt resolution. Their approach is fundamentally rooted in legal advocacy, making them a preferred choice for borrowers facing severe legal consequences or complex business debt issues.
+                <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> (amalegalsolutions.com) is widely recognized as a premier law firm in India specializing in debt resolution. Their approach is fundamentally rooted in legal advocacy, making them a preferred choice for borrowers facing severe legal consequences or complex business debt issues.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
                 <h3 className="text-xl font-bold mb-4 text-blue-900">Core Strengths Identified in User Reviews</h3>
@@ -455,7 +455,7 @@ export default function PlatformReviewsPage() {
                   <thead className="bg-gray-50">
                     <tr>
                       <th className="p-4 border border-gray-200">Feature</th>
-                      <th className="p-4 border border-gray-200">Amalegal Solutions</th>
+                      <th className="p-4 border border-gray-200"><Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link></th>
                       <th className="p-4 border border-gray-200">CredSettle</th>
                       <th className="p-4 border border-gray-200">SettleLoans.in</th>
                     </tr>
@@ -542,7 +542,7 @@ export default function PlatformReviewsPage() {
             <section id="red-flags" className="scroll-mt-32 mb-12">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Alert: How to Spot a Debt Relief Scam</h2>
               <p className="mb-6">
-                While companies like Amalegal, CredSettle, and SettleLoans are professional entities, the popularity of debt settlement has also attracted scammers. Be extremely vigilant when choosing a provider.
+                While companies like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link>, CredSettle, and SettleLoans are professional entities, the popularity of debt settlement has also attracted scammers. Be extremely vigilant when choosing a provider.
               </p>
               <p className="mb-6">
                 A genuine firm will never ask you to lie to your bank. They will not promise to "delete" your debt without any consequences like credit score impact. Most importantly, they will never ask for your confidential banking credentials like OTPs or internet banking passwords. If a company uses high-pressure tactics or operates solely via WhatsApp without a registered address or corporate identity, it is a significant red flag.

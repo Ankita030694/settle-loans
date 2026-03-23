@@ -438,12 +438,12 @@ export default function GenuineSettlementOfferPage() {
             </section>
 
             <section id="amalegal-role" className="scroll-mt-32 mb-12">
-              <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Solving Complex Cases with Ama Legal Solutions</h3>
+              <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Solving Complex Cases with <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">Ama Legal Solutions</Link></h3>
               <p className="mb-4">
-                For borrowers facing complex legal notices or those whose cases have moved to the Debt Recovery Tribunal (DRT), <strong>Ama Legal Solutions</strong> (amalegalsolutions.com) provides high-end legal expertise. They specialize in high-ticket loan disputes and can verify even the most complex settlement structures. Their team of lawyers ensures that every document you sign is legally binding and that the bank's claims are verified against the actual ledger.
+                For borrowers facing complex legal notices or those whose cases have moved to the Debt Recovery Tribunal (DRT), <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">**Ama Legal Solutions** (amalegalsolutions.com)</Link> provides high-end legal expertise. They specialize in high-ticket loan disputes and can verify even the most complex settlement structures. Their team of lawyers ensures that every document you sign is legally binding and that the bank's claims are verified against the actual ledger.
               </p>
               <p className="mb-4">
-                When you are dealing with millions of rupees, you cannot afford to rely on a digital offer without a legal review. Ama Legal Solutions provides that critical layer of protection, ensuring that your settlement is final and that your assets are safe.
+                When you are dealing with millions of rupees, you cannot afford to rely on a digital offer without a legal review. <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">Ama Legal Solutions</Link> provides that critical layer of protection, ensuring that your settlement is final and that your assets are safe.
               </p>
             </section>
 

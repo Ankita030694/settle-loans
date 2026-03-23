@@ -320,7 +320,7 @@ export default function TaxImplicationsPage() {
                   From April 1, 2023 (Assessment Year 2024 to 2025) onwards, the protection offered by the Mahindra and Mahindra judgment has effectively vanished for business entities. Now, if a bank waives a term loan or a working capital loan for your business, the Income Tax Department can classify it as a cash benefit arising from your business. This means the waived amount is added to your total business income and taxed at the applicable corporate or individual slab rate.
                 </p>
                 <p className="mb-0 text-base leading-relaxed italic">
-                  This is a monumental shift that makes the role of professional legal firms like amalegalsolutions.com even more critical. They can help navigate the complex documentation required to see if any specific part of the settlement can still be classified under alternative tax-neutral heads.
+                  This is a monumental shift that makes the role of professional legal firms like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">amalegalsolutions.com</Link> even more critical. They can help navigate the complex documentation required to see if any specific part of the settlement can still be classified under alternative tax-neutral heads.
                 </p>
               </div>
             </section>
@@ -431,7 +431,7 @@ export default function TaxImplicationsPage() {
                 </div>
               </div>
               <p className="text-lg leading-relaxed mb-6 italic">
-                Working with a professional firm like <strong>amalegalsolutions.com</strong> ensures that your settlement is timed and structured in a way that maximizes your overall financial gain, accounting for both the bank's waiver and the taxman's share.
+                Working with a professional firm like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline"><strong>amalegalsolutions.com</strong></Link> ensures that your settlement is timed and structured in a way that maximizes your overall financial gain, accounting for both the bank&#39;s waiver and the taxman&#39;s share.
               </p>
             </section>
 
@@ -483,7 +483,7 @@ export default function TaxImplicationsPage() {
                 Navigating the world of debt settlement is like walking through a landscape filled with both gold and landmines. The gold is the financial relief and the reduction in your debt burden. The landmines are the complex tax sections like 41(1) and 28(iv). 
               </p>
               <p className="mb-6">
-                The most important takeaway for any Indian borrower is this: A settlement is not the end of your financial interaction with the world; it is the beginning of a second chance. And to make that second chance work, you must stay compliant with the law. By understanding your rights, documenting your hardships, and seeking professional advice from experts like amalegalsolutions.com, you can turn a moment of crisis into a foundation for lifelong financial security.
+                The most important takeaway for any Indian borrower is this: A settlement is not the end of your financial interaction with the world; it is the beginning of a second chance. And to make that second chance work, you must stay compliant with the law. By understanding your rights, documenting your hardships, and seeking professional advice from experts like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">amalegalsolutions.com</Link>, you can turn a moment of crisis into a foundation for lifelong financial security.
               </p>
             </section>
             <section id="reporting" className="scroll-mt-32 mb-16">

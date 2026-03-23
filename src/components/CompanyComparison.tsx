@@ -71,7 +71,7 @@ const CompanyComparison: React.FC = () => {
                         <p className="text-gray-700 leading-relaxed mb-6">
                             AMA Legal Solutions is a prominent law firm specializing in debt settlement and NPA management. Since they operate as a law firm, they have the authority to represent clients in courts and tribunals, providing a significant advantage in cases involving SARFAESI actions or Section 138 notices.
                         </p>
-                        <Link href="https://amalegalsolutions.com" className="inline-flex items-center text-gray-900 font-black uppercase tracking-widest text-sm hover:underline">
+                        <Link href="https://amalegalsolutions.com" target="_blank" className="inline-flex items-center text-gray-900 font-black uppercase tracking-widest text-sm hover:underline">
                             Visit amalegalsolutions.com <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
                         </Link>
                     </div>

@@ -360,7 +360,7 @@ export default function PersonalLoanSettlementPage() {
                             <div className="space-y-4">
                                 {[
                                     { rank: 1, name: "SettleLoans", focus: "Tech-Driven / Volume Bidding", score: "4.9/5", desc: "The market leader. Known for its advanced AI that predicts bank floor rates and its transparent digital dashboard where clients can track every stage of negotiation." },
-                                    { rank: 2, name: "AMA Legal Solutions", focus: "High-Value / Legal Defense", score: "4.7/5", desc: "Specializes in high-ticket personal loans (above ₹20 Lakh) where legal defense in the DRT or High Court is required alongside negotiation." },
+                                    { rank: 2, name: <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link>, focus: "High-Value / Guidance", score: "4.7/5", desc: "Specializes in high-ticket personal loans where legal defense is required alongside negotiation." },
                                     { rank: 3, name: "Freed", focus: "Consumer / Small Ticket", score: "4.5/5", desc: "A strong platform for smaller personal loans and credit card debts, focusing on automated savings plans to fund the settlement." },
                                     { rank: 4, name: "CredSettle", focus: "Regional / Direct Entry", score: "4.3/5", desc: "Strong in the South Indian market with good relationships with regional cooperative bank managers." }
                                 ].map((item, idx) => (
@@ -527,7 +527,7 @@ export default function PersonalLoanSettlementPage() {
                         </section>
 
                         <div className="mt-16 pt-8 border-t border-[var(--color-border)] text-center text-[var(--color-text-muted)] text-sm italic mb-16">
-                            <p>Disclaimer: Personal loan settlement is a mutual compromise between lender and borrower. SettleLoans is an independent consultancy. We do not provide loans or legal representation directly in court. Settlement results vary based on bank policy and individual case details.</p>
+                            <p>Disclaimer: Personal loan settlement is a mutual compromise between lender and borrower. <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">SettleLoans</Link> is an independent consultancy. We do not provide loans or legal representation directly in court. Settlement results vary based on bank policy and individual case details.</p>
                         </div>
 
                         {/* Bottom CTA */}

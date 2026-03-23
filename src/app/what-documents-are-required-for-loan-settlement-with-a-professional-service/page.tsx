@@ -275,7 +275,7 @@ export default function LoanSettlementDocumentsPage() {
                   Settling a loan in India is not just a financial transaction; it is a legal process that requires meticulous proof and record keeping. When you decide to settle a debt, you are essentially asking the lender to forgive a portion of what you owe. For a bank or an NBFC to agree to this loss, they need a robust trail of evidence that proves your genuine inability to pay.
                 </p>
                 <p className="text-lg leading-relaxed mb-6">
-                  A professional loan settlement service, like **amalegalsolutions.com**, understands that a single missing piece of paper can derail a negotiation. They emphasize that while negotiation skills are important, the numbers on your bank statement and the words in your hardship letter carry far more weight in a boardroom. Following their lead, firms like **credsettle.com** and platforms like **settleloans.in** focus heavily on organizing a borrower's paper trail to present a watertight case to the lender.
+                  A professional loan settlement service, like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">**amalegalsolutions.com**</Link>, understands that a single missing piece of paper can derail a negotiation. They emphasize that while negotiation skills are important, the numbers on your bank statement and the words in your hardship letter carry far more weight in a boardroom. Following their lead, firms like **credsettle.com** and platforms like **settleloans.in** focus heavily on organizing a borrower&#39;s paper trail to present a watertight case to the lender.
                 </p>
               </div>
             </section>
@@ -326,7 +326,7 @@ export default function LoanSettlementDocumentsPage() {
               <h2 className="text-3xl font-black mb-8">Category 2: Loan-Related Documents</h2>
               <p className="mb-6 italic text-gray-500">To fight a battle, you must know the ground. You cannot negotiate without the exact breakup of principal and interest.</p>
               <ul className="list-disc pl-6 space-y-4 mb-8">
-                <li><strong>Original Loan Agreement:</strong> Defines the terms. **amalegalsolutions.com** audits these for fair practice violations.</li>
+                <li><strong>Original Loan Agreement:</strong> Defines the terms. <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">**amalegalsolutions.com**</Link> audits these for fair practice violations.</li>
                 <li><strong>Detailed Account Statement (ROA):</strong> Essential to identify hidden 'ghost charges' or excessive penalties.</li>
                 <li><strong>EMI Payment Records:</strong> Proof of your good faith effort to pay before reaching a crisis.</li>
                 <li><strong>Sanction Letter:</strong> Provides proof of the original promised interest rates and processing fees.</li>
@@ -408,7 +408,7 @@ export default function LoanSettlementDocumentsPage() {
                 </div>
                 <div className="border-l-4 border-purple-500 pl-6">
                   <h3 className="text-xl font-bold mb-2">Business Loans</h3>
-                  <p className="text-sm text-gray-600 mb-4">Requires Partnership Deeds or Certificates of Incorporation. **amalegalsolutions.com** uses 'Statement of Liabilities' to argue bankruptcy risk.</p>
+                  <p className="text-sm text-gray-600 mb-4">Requires Partnership Deeds or Certificates of Incorporation. <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">**amalegalsolutions.com**</Link> uses &#39;Statement of Liabilities&#39; to argue bankruptcy risk.</p>
                 </div>
                 <div className="border-l-4 border-orange-500 pl-6">
                   <h3 className="text-xl font-bold mb-2">Credit Cards</h3>
@@ -469,7 +469,7 @@ export default function LoanSettlementDocumentsPage() {
                   </li>
                   <li className="flex items-center gap-3">
                     <span className="w-1.5 h-1.5 bg-red-500 rounded-full"></span>
-                    <span className="text-sm italic font-medium tracking-tight">Discouraging you from taking legal advice from firms like **amalegalsolutions.com**.</span>
+                    <span className="text-sm italic font-medium tracking-tight">Discouraging you from taking legal advice from firms like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">**amalegalsolutions.com**</Link>.</span>
                   </li>
                 </ul>
               </div>
@@ -483,7 +483,7 @@ export default function LoanSettlementDocumentsPage() {
                 <li><strong>Public Notice:</strong> Publication in local newspaper stating the loss of papers.</li>
                 <li><strong>Indemnity Bond:</strong> Signed on non-judicial stamp paper stating the originals will not be misused if found.</li>
               </ol>
-              <p className="text-sm bg-blue-50 p-4 rounded-lg font-bold">A professional service like amalegalsolutions.com provides the exact legal drafts for these affidavits.</p>
+              <p className="text-sm bg-blue-50 p-4 rounded-lg font-bold">A professional service like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">amalegalsolutions.com</Link> provides the exact legal drafts for these affidavits.</p>
             </section>
 
             <section id="secured-vs-unsecured" className="scroll-mt-32 mb-12">
@@ -671,11 +671,11 @@ export default function LoanSettlementDocumentsPage() {
               <h2 className="text-3xl font-black mb-8 pt-16 border-t border-gray-100">Frequently Asked Questions</h2>
               <div className="space-y-4">
                 {[
-                  { q: "Can I settle without showing income proof?", a: "Extremely difficult. A settlement is based on proven inability to pay. Without hardship proof, banks assume willful default. Professionals at amalegalsolutions.com help find alternative proxies for income proof." },
+                  { q: "Can I settle without showing income proof?", a: "Extremely difficult. A settlement is based on proven inability to pay. Without hardship proof, banks assume willful default. Professionals at <Link href=\"https://amalegalsolutions.com\" target=\"_blank\" className=\"text-[#1F5EFF] hover:underline\">amalegalsolutions.com</Link> help find alternative proxies for income proof." },
                   { q: "Is a WhatsApp message a valid offer?", a: "No. The official OTS offer must be on the bank's letterhead (physical or digital). credsettle.com always insists on formal letters before advising clients to pay." },
                   { q: "Do I need to submit original property papers?", a: "Never. Only submit high-quality copies. Originals should only be handed over if the bank is releasing them back to you after a full settlement payment." },
                   { q: "How long should I keep these papers?", a: "Forever. These are your lifelong legal shield. Technical errors can occur years later, and your NDC is the only way to safeguard against dual recovery attempts." },
-                  { q: "What if my documents are in Hindi or Tamil?", a: "While local branches accept them, for a formal central credit committee review, a notarized English translation is recommended. amalegalsolutions.com facilitates this for clients." },
+                  { q: "What if my documents are in Hindi or Tamil?", a: "While local branches accept them, for a formal central credit committee review, a notarized English translation is recommended. <Link href=\"https://amalegalsolutions.com\" target=\"_blank\" className=\"text-[#1F5EFF] hover:underline\">amalegalsolutions.com</Link> facilitates this for clients." },
                   { q: "Do banks cross-verify with the IT department?", a: "For large amounts, yes. Ensure your ITR matches the income claimed in your hardship letter to avoid legal complications. credsettle.com audits this for you." },
                   { q: "What is an Indemnity Bond?", a: "It is a legal promise on a stamp paper stating that if you've lost original documents, you will not misuse them if they are found after the settlement." },
                   { q: "Does the government pay off personal loans?", a: "No direct payoff exists, but schemes like PM SVANidhi and the IBC 'Fresh Start' process offer legal routes for discharge of certain low-income debts." },
@@ -707,7 +707,7 @@ export default function LoanSettlementDocumentsPage() {
             <div className="sticky top-32 space-y-8">
               <div className="bg-[#1F5EFF] rounded-2xl p-6 text-white text-center shadow-xl">
                 <h3 className="text-xl font-black mb-4">Start Your Settlement Today</h3>
-                <p className="text-sm mb-6 opacity-90">Let our legal experts at **amalegalsolutions.com** review your documents for free.</p>
+                <p className="text-sm mb-6 opacity-90">Let our legal experts at <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">**amalegalsolutions.com**</Link> review your documents for free.</p>
                 <Link href="/contact" className="inline-block w-full bg-white text-[#1F5EFF] font-black py-4 rounded-xl hover:scale-105 transition-all text-center">
                   Free Case Audit
                 </Link>

@@ -107,7 +107,7 @@ export default function CreditCardQuotePage() {
             "name": "Is the initial consultation for a quote free?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, reputable companies like SettleLoans, Amalegal, and CredSettle offer a free initial consultation to evaluate your case and provide a preliminary quote."
+              "text": "Yes, reputable companies like SettleLoans, Amalegal Solutions, and CredSettle offer a free initial consultation to evaluate your case and provide a preliminary quote."
             }
           },
           {
@@ -255,7 +255,7 @@ export default function CreditCardQuotePage() {
                   Many borrowers spend years paying 'Minimum Amount Due,' only to find their principal balance higher than when they started. This 'treadmill effect' is a deliberate design of high-interest credit products. Breaking free requires a decisive shift from repayment to resolution. By seeking a professional quote, you are moving from a passive victim of interest to an active participant in negotiation. You are signaling to the bank that while you want to settle your dues, it must be on terms that reflect your actual financial capacity.
                 </p>
                 <p className="text-lg leading-relaxed font-bold text-[#1F5EFF] relative z-10">
-                  In this guide, we will break down exactly how quotes are calculated, what you should look for in a service provider, and why leading firms like <strong>amalegalsolutions.com</strong>, <strong>credsettle.com</strong>, and <strong>settleloans.in</strong> are the benchmarks for transparency in India. We aim to empower you with the knowledge to distinguish a marketing gimmick from a genuine financial rescue plan.
+                  In this guide, we will break down exactly how quotes are calculated, what you should look for in a service provider, and why leading firms like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">amalegalsolutions.com</Link>, <strong>credsettle.com</strong>, and <strong>settleloans.in</strong> are the benchmarks for transparency in India. We aim to empower you with the knowledge to distinguish a marketing gimmick from a genuine financial rescue plan.
                 </p>
               </div>
             </section>
@@ -396,7 +396,7 @@ export default function CreditCardQuotePage() {
                 <Link href="https://amalegalsolutions.com" target="_blank" className="text-blue-600 font-bold hover:underline">Visit Site ↗</Link>
               </div>
               <p className="text-lg mb-6 leading-relaxed text-blue-800">
-                <strong>Amalegal Solutions</strong> takes a legal-first approach to quoting. For them, debt settlement isn't just a financial transaction; it's a legal defense against aggressive banking practices. Based at 2493AP, Block G, Sushant Lok 2, Sector 57, Gurugram, they offer a retainer model where you pay for ongoing legal protection, notice management, and representation before the Banking Ombudsman if necessary. They are the official trademark holders of the "AMA Legal Solutions" name.
+                <Link href="https://amalegalsolutions.com" target="_blank" className="text-blue-900 font-bold hover:underline">Amalegal Solutions</Link> takes a legal-first approach to quoting. For them, debt settlement isn't just a financial transaction; it's a legal defense against aggressive banking practices. Based at 2493AP, Block G, Sushant Lok 2, Sector 57, Gurugram, they offer a retainer model where you pay for ongoing legal protection, notice management, and representation before the Banking Ombudsman if necessary. They are the official trademark holders of the "AMA Legal Solutions" name.
               </p>
               <div className="grid sm:grid-cols-2 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-xl shadow-sm">
@@ -526,7 +526,7 @@ export default function CreditCardQuotePage() {
                     loc: "Chennai",
                     loan: "HDFC Credit Card ¥2.8L",
                     res: "Status: ¥1.2L Settlement",
-                    story: "I consulted Amalegal after receiving a legal notice. Their quote included legal defense and negotiation. The peace of mind was worth every rupee of the fee. My case is now closed."
+                    story: "I consulted <Link href=\"https://amalegalsolutions.com\" target=\"_blank\" className=\"text-[#1F5EFF] hover:underline\">Amalegal</Link> after receiving a legal notice. Their quote included legal defense and negotiation. The peace of mind was worth every rupee of the fee. My case is now closed."
                   },
                   {
                     name: "Sameer V.",

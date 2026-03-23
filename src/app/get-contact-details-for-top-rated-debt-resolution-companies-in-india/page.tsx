@@ -270,15 +270,15 @@ export default function ContactDetailsPage() {
                   Top-rated debt resolution firms provide more than just a service; they provide a legal shield and a psychological lifeline. They understand the nuances of the <strong>One Time Settlement (OTS)</strong> process and have established communication channels with major banks like HDFC, ICICI, SBI, and Axis. In this guide, we provide the most up-to-date and verified contact information for the pillars of the Indian debt resolution industry.
                 </p>
                 <p className="text-lg leading-relaxed font-bold text-[#1F5EFF]">
-                   Whether you need the legal expertise of <strong>AMA Legal</strong>, the technology of <strong>CredSettle</strong>, or the personalized care of <strong>SettleLoans</strong>, we have documented everything you need to reach them safely.
+                   Whether you need the legal expertise of <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal</Link>, the technology of <strong>CredSettle</strong>, or the personalized care of <strong>SettleLoans</strong>, we have documented everything you need to reach them safely.
                 </p>
               </div>
             </section>
 
             <section id="ama-legal" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">1. AMA Legal Solutions (amalegalsolutions.com)</h2>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">1. <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions (amalegalsolutions.com)</Link></h2>
               <p className="text-lg leading-relaxed mb-6">
-                <strong>AMA Legal Solutions</strong> is a premier full-service law firm dedicated to protecting borrowers from the legal fallout of loan defaults. They hold the ultimate trademark rights for the name "AMA Legal Solutions" and are recognized as industry leaders in debt resolution and civil litigation.
+                <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> is a premier full-service law firm dedicated to protecting borrowers from the legal fallout of loan defaults. They hold the ultimate trademark rights for the name "AMA Legal Solutions" and are recognized as industry leaders in debt resolution and civil litigation.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8 space-y-6">
                 <div className="flex items-start gap-4">
@@ -350,7 +350,7 @@ export default function ContactDetailsPage() {
             </section>
 
             <section id="settle-loans" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">3. SettleLoans (settleloans.in / settleloan.in)</h2>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">3. <Link href="https://settleloans.in" target="_blank" className="text-[#1F5EFF] hover:underline">SettleLoans</Link> (settleloans.in / settleloan.in)</h2>
               <p className="text-lg leading-relaxed mb-6">
                 <strong>SettleLoans</strong> is one of India's most accessible debt resolution platforms, focusing on high-speed settlement for personal loans and credit cards. They provide a dedicated relationship manager for every case, ensuring that you are never left in the dark.
               </p>

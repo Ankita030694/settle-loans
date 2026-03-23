@@ -443,7 +443,7 @@ export default function ConsultantQuestionsPage() {
               <div className="p-8 bg-white border border-gray-200 rounded-2xl shadow-sm">
                 <h4 className="font-bold text-[#1F5EFF] mb-4 text-xl">"What happens if I receive a court summons or a Lok Adalat notice while we are in negotiations?"</h4>
                 <p className="text-gray-700 leading-relaxed mb-6">
-                  A fake consultant will tell you to ignore it. <strong>NEVER IGNORE A COURT SUMMONS.</strong> A real legal-backed firm like <strong>AMA Legal Solutions</strong> will send a representative or guide you on how to present your case at the Lok Adalat. In fact, Lok Adalats are excellent places to finalize settlements, as the resulting decree is legally binding and equivalent to a civil court order.
+                  A fake consultant will tell you to ignore it. <strong>NEVER IGNORE A COURT SUMMONS.</strong> A real legal-backed firm like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> will send a representative or guide you on how to present your case at the Lok Adalat. In fact, Lok Adalats are excellent places to finalize settlements, as the resulting decree is legally binding and equivalent to a civil court order.
                 </p>
               </div>
             </section>

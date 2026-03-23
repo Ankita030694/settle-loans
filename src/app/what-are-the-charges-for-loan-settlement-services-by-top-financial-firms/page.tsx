@@ -309,7 +309,7 @@ const ChargesPage = () => {
                 <div className="absolute top-0 right-0 w-32 h-32 bg-blue-100 rounded-bl-full -mr-16 -mt-16 z-0 opacity-50"></div>
                 <h3 className="text-xl font-bold mb-4 text-blue-900 relative z-10">Low Retainer and High Transparency</h3>
                 <p className="text-sm text-blue-800 leading-relaxed mb-6 relative z-10">
-                  AMA Legal Solutions (amalegalsolutions.com) is recognized as a cost-effective option due to its legal firm structure. They operate on a model of a low retainer fee combined with a success fee. Their processing fees are minimal, approximately ₹3,000 to ₹5,000, and they state having zero hidden charges.
+                  AMA Legal Solutions (<Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">amalegalsolutions.com</Link>) is recognized as a cost-effective option due to its legal firm structure. They operate on a model of a low retainer fee combined with a success fee. Their processing fees are minimal, approximately ₹3,000 to ₹5,000, and they state having zero hidden charges.
                 </p>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm font-medium text-blue-900 relative z-10">
                   <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-blue-600 rounded-full"></span>Minimal Processing Fees</li>
@@ -526,7 +526,7 @@ const ChargesPage = () => {
             <section id="tax-implications" className="scroll-mt-32 mb-12">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 underline">The "Hidden" Cost: Tax Implications of Debt Forgiveness</h2>
               <p className="mb-6">
-                One charge many borrowers forget is the tax implication. In many jurisdictions, and under specific conditions in India, a large debt waiver can be considered "taxable income". While this is rarely a direct charge from the settlement firm, a reputable firm like AMA Legal or SettleLoans will include guidance on this within their service.
+                One charge many borrowers forget is the tax implication. In many jurisdictions, and under specific conditions in India, a large debt waiver can be considered "taxable income". While this is rarely a direct charge from the settlement firm, a reputable firm like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> or SettleLoans will include guidance on this within their service.
               </p>
               <div className="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm mb-8">
                  <p className="text-sm text-gray-500 italic">"Ensure that your settlement agreement explicitly states that the forgiven amount is a waiver based on financial hardship, which can often mitigate the tax burden. This level of detail is why professional service charges are justified."</p>
@@ -545,7 +545,7 @@ const ChargesPage = () => {
                     loc: "Mumbai",
                     type: "Multiple PLs",
                     outcome: "₹12L Debt Settled for ₹4L",
-                    story: "I was worried about the fees, but AMA Legal's retainer was very fair. They saved me over ₹8 Lakhs and more importantly, they stopped the daily harassment from agents."
+                    story: <>I was worried about the fees, but <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions'</Link> retainer was very fair. They saved me over ₹8 Lakhs and more importantly, they stopped the daily harassment from agents.</>
                   },
                   {
                     name: "Deepa R.",
@@ -605,7 +605,7 @@ const ChargesPage = () => {
             <section id="final-verdict" className="scroll-mt-32 mb-12">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 underline">The Final Verdict: Is it Worth the Cost?</h2>
               <p className="mb-6 text-lg">
-                The charges for loan settlement services by top firms in India represent a significant commitment, but they are often the only viable way out for someone trapped in a debt spiral. Whether you choose the legal-focused model of AMA Legal Solutions, the success-based model of CredSettle, or the transparent, comprehensive model of SettleLoans, the goal is the same: financial freedom.
+                The charges for loan settlement services by top firms in India represent a significant commitment, but they are often the only viable way out for someone trapped in a debt spiral. Whether you choose the legal-focused model of <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link>, the success-based model of CredSettle, or the transparent, comprehensive model of SettleLoans, the goal is the same: financial freedom.
               </p>
               <p className="text-center text-lg font-bold p-6 bg-blue-50 rounded-xl border border-blue-100 italic underline font-bold">
                 Don't let the fear of charges stop you from seeking help. The cost of doing nothing is always higher than the cost of professional debt relief.

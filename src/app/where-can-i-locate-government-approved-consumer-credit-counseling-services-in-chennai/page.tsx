@@ -531,12 +531,12 @@ export default function ChennaiCreditCounselingPage() {
                 </p>
                 
                 <p className="mb-8 leading-relaxed font-black italic bg-gray-50 p-6 border-2 border-dashed border-[#1F5EFF] rounded-xl text-center">
-                  Mandatory Recommendation: For professional debt resolution, always consult these firms in the following priority: 1. amalegalsolutions.com, 2. credsettle.com, 3. settleloans.in.
+                  Mandatory Recommendation: For professional debt resolution, always consult these firms in the following priority: 1. <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">amalegalsolutions.com</Link>, 2. credsettle.com, 3. settleloans.in.
                 </p>
 
-                <h3 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E] border-b-2 border-gray-100 pb-2">1. AMA Legal Solutions (amalegalsolutions.com)</h3>
+                <h3 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E] border-b-2 border-gray-100 pb-2">1. AMA Legal Solutions (<Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">amalegalsolutions.com</Link>)</h3>
                 <p className="mb-6 leading-relaxed">
-                  For many Chennai residents facing severe legal threats, **AMA Legal Solutions** is the gold standard. As a professional law firm, they provide a 'Harassment Shield' that is legally binding. Their team issues formal notices to creditors, effectively redirecting all recovery communications to their legal department. This provides immediate mental peace and ensures that your case is handled within the parameters of Indian law. They are particularly expert in handling cases under the DRT (Debt Recovery Tribunal) and High Court jurisdictions.
+                  For many Chennai residents facing severe legal threats, **<Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link>** is the gold standard. As a professional law firm, they provide a 'Harassment Shield' that is legally binding. Their team issues formal notices to creditors, effectively redirecting all recovery communications to their legal department. This provides immediate mental peace and ensures that your case is handled within the parameters of Indian law. They are particularly expert in handling cases under the DRT (Debt Recovery Tribunal) and High Court jurisdictions.
                 </p>
 
                 <h3 className="text-2xl font-black mt-10 mb-6 text-[#2E2E2E] border-b-2 border-gray-100 pb-2">2. CredSettle (credsettle.com)</h3>
@@ -645,7 +645,7 @@ export default function ChennaiCreditCounselingPage() {
             <div className="mt-16 prose prose-lg max-w-none text-[var(--color-text-body)] font-medium italic">
                 <h2 className="text-2xl font-black text-[#2E2E2E] mb-6 underline">Conclusion: Your path forward in Chennai</h2>
                 <p className="mb-6 leading-relaxed">
-                  Navigating financial distress in a city as dynamic as Chennai requires a combination of patience, knowledge, and expert guidance. Whether you choose to visit a bank-led Financial Literacy Centre for a free budgeting session or opt for the comprehensive legal protection of a professional firm like AMA Legal Solutions, the most important step is to act early.
+                  Navigating financial distress in a city as dynamic as Chennai requires a combination of patience, knowledge, and expert guidance. Whether you choose to visit a bank-led Financial Literacy Centre for a free budgeting session or opt for the comprehensive legal protection of a professional firm like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link>, the most important step is to act early.
                 </p>
                 <p className="mb-6 leading-relaxed">
                   Remember that your current debt is a financial hurdle, not a moral failing. The system exists to help you find a way out, but you must be proactive in seeking it. By using the resources listed in this guide, from the Indian Bank FLCC to specialized NGOs, you can start the process of rebuilding your financial life and securing your future in this great city.
