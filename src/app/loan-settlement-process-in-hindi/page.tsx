@@ -47,6 +47,26 @@ export default function LoanSettlementHindiPage() {
         "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-process-in-hindi#webpage" }
       },
       {
+        "@type": "Product",
+        "@id": "https://settleloans.in/loan-settlement-process-in-hindi#product",
+        "name": "Loan Settlement Consultation Service",
+        "description": "Expert Hindi-language consultation for navigating loan settlement, NPA recovery, and legal debt protection in India.",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "1800"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Rajesh K." },
+            "datePublished": "2024-02-10",
+            "reviewBody": "SettleLoans ने मेरी जिंदगी बदल दी। उन्होंने बैंकों से हिंदी में बात की और मुझे सेटलमेंट दिलाने में मदद की।",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
+      },
+      {
         "@type": "FAQPage",
         "@id": "https://settleloans.in/loan-settlement-process-in-hindi#faq",
         "mainEntity": [

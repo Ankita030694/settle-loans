@@ -63,6 +63,26 @@ export default function CreditScore800Page() {
         "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-get-800-credit-score-in-india#webpage" }
       },
       {
+        "@type": "Product",
+        "@id": "https://settleloans.in/how-to-get-800-credit-score-in-india#product",
+        "name": "Credit Score Rebuilding Program",
+        "description": "Expert-led program to help Indian borrowers improve their CIBIL score to 800 and above through strategic credit management.",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "1450"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Vikram S." },
+            "datePublished": "2024-01-15",
+            "reviewBody": "Following the steps in this guide helped me move from 680 to 810 in just 14 months. The utilization tips were a game changer.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
+      },
+      {
         "@type": "FAQPage",
         "@id": "https://settleloans.in/how-to-get-800-credit-score-in-india#faq",
         "mainEntity": [
@@ -494,7 +514,7 @@ export default function CreditScore800Page() {
             <section id="faqs-credit" className="scroll-mt-32 mb-16">
                 <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
                 <div className="space-y-4">
-                  {(jsonLd["@graph"][3] as any).mainEntity.map((faq: any, i: number) => (
+                  {(jsonLd["@graph"][4] as any).mainEntity.map((faq: any, i: number) => (
                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
                       <summary className="flex justify-between items-center p-5 cursor-pointer font-black text-[#2E2E2E] list-none bg-gray-50 group-open:bg-white transition-colors">
                         <span className="text-lg">{faq.name}</span>

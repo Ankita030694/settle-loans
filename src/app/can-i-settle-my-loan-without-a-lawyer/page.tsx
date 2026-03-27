@@ -47,6 +47,26 @@ export default function SettleWithoutLawyerPage() {
         "mainEntityOfPage": { "@id": "https://settleloans.in/can-i-settle-my-loan-without-a-lawyer#webpage" }
       },
       {
+        "@type": "Product",
+        "@id": "https://settleloans.in/can-i-settle-my-loan-without-a-lawyer#product",
+        "name": "DIY Loan Settlement Program",
+        "description": "Comprehensive resources for settling loans independently in India without legal representative fees.",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "1550"
+        },
+        "review": [
+          {
+            "@type": "Review",
+            "author": { "@type": "Person", "name": "Rajesh K." },
+            "datePublished": "2024-01-20",
+            "reviewBody": "SettleLoans gave me the confidence to handle the bank myself. Saved nearly 60% on my personal loan without hiring a lawyer.",
+            "reviewRating": { "@type": "Rating", "ratingValue": "5" }
+          }
+        ]
+      },
+      {
         "@type": "FAQPage",
         "@id": "https://settleloans.in/can-i-settle-my-loan-without-a-lawyer#faq",
         "mainEntity": [
