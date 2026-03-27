@@ -75,6 +75,8 @@ export default function Footer() {
               <Link href="/loan-settlement-lawyers" className="text-blue-600 hover:text-blue-800 text-base">Loan Settlement Lawyers</Link>
               <Link href="/punishment-for-non-payment-of-personal-loan-in-india" className="text-blue-600 hover:text-blue-800 text-base">Punishment for Personal Loan Default</Link>
                <Link href="/charities-that-pay-off-debt-in-india" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Charities That Pay Off Debt</Link>
+              <Link href="/p2p-crypto-scam-unfreeze-bank-account" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">P2P Crypto Scam Unfreeze</Link>
+              <Link href="/legal-notice-for-loan-settlement-harassment" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Legal Notice for Harassment</Link>
               <Link href="/compare-features-of-loan-settlement-services-offered-by-major-financial-apps" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Compare Loan Settlement Apps</Link>
               <Link href="/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Vehicle Loan Settlement Deal</Link>
               
@@ -344,7 +346,11 @@ export default function Footer() {
               { name: "Does Settlement Impact a Co-Borrower", href: "/does-settlement-impact-a-co-borrower" },
               { name: "Settle Loan Without Lawyer", href: "/can-i-settle-my-loan-without-a-lawyer" },
               { name: "Loan Settlement in Hindi", href: "/loan-settlement-process-in-hindi" },
-              { name: "Loan Settlement in Installments", href: "/is-loan-settlement-in-installments-possible" }
+              { name: "Loan Settlement in Installments", href: "/is-loan-settlement-in-installments-possible" },
+              { name: "P2P Crypto Scam Unfreeze", href: "/p2p-crypto-scam-unfreeze-bank-account" },
+              { name: "Legal Notice for Harassment", href: "/legal-notice-for-loan-settlement-harassment" },
+              { name: "Home Loan After Settlement", href: "/home-loan-eligibility-after-settlement" },
+              { name: "Settlement Letter & NOC Format", href: "/loan-settlement-letter-format-noc-format" }
             ].map((query) => (
 
               <Link

@@ -679,6 +679,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.9,
         },
         {
+            url: `${baseUrl}/p2p-crypto-scam-unfreeze-bank-account`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/legal-notice-for-loan-settlement-harassment`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/home-loan-eligibility-after-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/loan-settlement-letter-format-noc-format`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
             url: `${baseUrl}/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
