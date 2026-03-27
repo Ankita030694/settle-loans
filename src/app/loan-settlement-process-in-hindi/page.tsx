@@ -55,7 +55,8 @@ export default function LoanSettlementHindiPage() {
           { q: "लोक अदालत 2025 कब है?", a: "2025 की मुख्य तारीखें 8 मार्च, 10 मई, 13 सितंबर और 13 दिसंबर हैं। यह सेटलमेंट के सबसे बड़े मौके होते हैं।" },
           { q: "सेटलमेंट के लिए कितना डिस्काउंट मिल सकता है?", a: "आमतौर पर 40% से 70% तक का डिस्काउंट मिल सकता है, बशर्ते आपकी आर्थिक तंगी का प्रमाण सही हो।" },
           { q: "क्या सेटलमेंट के बाद पुलिस घर आएगी?", a: "नहीं, लोन डिफॉल्ट एक सिविल मामला है। पुलिस इसमें दखल नहीं दे सकती।" },
-          { q: "सेटलमेंट लेटर की पहचान कैसे करें?", a: "हमेशा बैंक के लेटरहेड पर, मुहर और साइन के साथ होना चाहिए। कभी भी मौखिक वादे पर पैसा न दें।" }
+          { q: "सेटलमेंट लेटर की पहचान कैसे करें?", a: "हमेशा बैंक के लेटरहेड पर, मुहर और साइन के साथ होना चाहिए। कभी भी मौखिक वादे पर पैसा न दें।" },
+          { q: "क्या सेटलमेंट पर टैक्स लगता है?", a: "हाँ, आयकर विभाग माफ की गई राशि को कुछ स्थितियों में इनकम मानकर टैक्स लगा सकता है, विशेषकर बिज़नेस लोन में।" }
         ]
       }
     ]
@@ -107,14 +108,18 @@ export default function LoanSettlementHindiPage() {
             <TableOfContents
               items={[
                 { id: "intro", title: "कर्ज मुक्ति की राह" },
+                { id: "loan-status", title: "Settled बनाम Closed" },
                 { id: "rbi-2025", title: "RBI नियम 2025" },
                 { id: "legal-notice", title: "धारा 138 बनाम धारा 25" },
                 { id: "lok-adalat-2025", title: "लोक अदालत 2025 लिस्ट" },
                 { id: "debt-types", title: "कार्ड बनाम पर्सनल लोन" },
+                { id: "business-edu", title: "बिज़नेस और एजुकेशन लोन" },
                 { id: "npa-timeline", title: "NPA का रोडमैप" },
                 { id: "step-guide", title: "6-चरणीय DIY फ्रेमवर्क" },
-                { id: "hardship-docs", title: "हार्डशिप पोर्टफोलियो" },
+                { id: "hardship-docs", title: "ज़रूरी दस्तावेजों की सूची" },
+                { id: "bank-nuances", title: "बैंक बनाम NBFC" },
                 { id: "agent-handling", title: "रिकवरी एजेंट और अधिकार" },
+                { id: "tax-impact", title: "टैक्स के नियम" },
                 { id: "cibil-recovery", title: "सिबिल सुधार प्लान" },
                 { id: "success-stories", title: "सच्ची कहानियाँ" },
                 { id: "faqs", title: "अक्सर पूछे जाने वाले सवाल" }
@@ -135,6 +140,35 @@ export default function LoanSettlementHindiPage() {
               <p className="text-lg leading-relaxed text-[var(--color-text-body)] mb-6 underline">
                 यह 5000+ शब्दों का विस्तृत लेख आपको 2025 के नवीनतम आरबीआई नियमों के आधार पर कर्ज से मुक्ति दिलाने के लिए तैयार किया गया है।
               </p>
+            </section>
+
+            <section id="loan-status" className="scroll-mt-32 mb-12">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter">
+                लोन स्टेटस: Settled, Closed और Written Off में अंतर
+              </h2>
+              <div className="space-y-4">
+                <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl flex flex-col md:flex-row gap-4 items-center">
+                  <div className="w-12 h-12 rounded-full bg-green-100 text-green-600 flex items-center justify-center font-black flex-shrink-0">✓</div>
+                  <div>
+                    <h4 className="font-bold text-[#2E2E2E]">Closed (बंद):</h4>
+                    <p className="text-sm">जब आप पूरा पैसा समय पर चुका देते हैं। सिबिल के लिए यह सबसे बेहतरीन स्थिति है। आपको 'No Dues Certificate' मिलता है।</p>
+                  </div>
+                </div>
+                <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl flex flex-col md:flex-row gap-4 items-center">
+                  <div className="w-12 h-12 rounded-full bg-yellow-100 text-yellow-600 flex items-center justify-center font-black flex-shrink-0">!</div>
+                  <div>
+                    <h4 className="font-bold text-[#2E2E2E]">Settled (सेटल):</h4>
+                    <p className="text-sm">जब आप पूरी रकम नहीं चुका पाते और बैंक कम पैसे में मामला खत्म करता है। सिबिल में 'Settled' लिखा आता है, जिससे भविष्य में लोन मिलना थोड़ा मुश्किल हो सकता है।</p>
+                  </div>
+                </div>
+                <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl flex flex-col md:flex-row gap-4 items-center">
+                  <div className="w-12 h-12 rounded-full bg-red-100 text-red-600 flex items-center justify-center font-black flex-shrink-0">X</div>
+                  <div>
+                    <h4 className="font-bold text-[#2E2E2E]">Written Off (बट्टे खाते में डालना):</h4>
+                    <p className="text-sm">जब बैंक मान लेता है कि पैसा नहीं मिलेगा और वह उसे रिकॉर्ड से हटा देता है। यह सिबिल के लिए सबसे हानिकारक है और भविष्य के सभी लोन विकल्प बंद कर देता है।</p>
+                  </div>
+                </div>
+              </div>
             </section>
 
             <section id="rbi-2025" className="scroll-mt-32 mb-12">
@@ -234,6 +268,26 @@ export default function LoanSettlementHindiPage() {
               </div>
             </section>
 
+            <section id="business-edu" className="scroll-mt-32 mb-12">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
+                बिज़नेस और एजुकेशन लोन में सेटलमेंट
+              </h2>
+              <div className="space-y-6">
+                <div className="p-6 bg-[#2E2E2E] text-white rounded-2xl">
+                  <h4 className="text-[#1F5EFF] font-bold mb-4">बिज़नेस लोन (Business Loans):</h4>
+                  <p className="text-sm leading-relaxed mb-4">
+                    यदि आपका बिज़नेस पूरी तरह फेल हो चुका है, तो बैंक स्टॉक ऑडिट और पुराने टर्नओवर की जाँच करेगा। कोलैटरल (गिरवी) लोन में सेटलमेंट थोड़ा मुश्किल होता है, लेकिन अनसिक्योर्ड बिज़नेस लोन में 50-60% की छूट मिल सकती है।
+                  </p>
+                </div>
+                <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl italic">
+                  <h4 className="text-[#1F5EFF] font-bold mb-4 underline">एजुकेशन लोन (Education Loans):</h4>
+                  <p className="text-sm leading-relaxed md:text-base">
+                    इसमें मानवीय पक्ष (Emotional Aspect) मजबूत होता है। यदि छात्र की नौकरी नहीं लगी है या आर्थिक स्थिति बेहद खराब है, तो बैंक लोक अदालत के जरिए काफी ज्यादा रियायत दे सकते हैं। छात्र के डिग्री प्रूफ और जॉब सर्च रिकॉर्ड बैंक को ज़रूर दिखाएँ।
+                  </p>
+                </div>
+              </div>
+            </section>
+
             <section id="npa-timeline" className="scroll-mt-32 mb-12">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
                 NPA का रोडमैप (0-180 दिन)
@@ -279,6 +333,120 @@ export default function LoanSettlementHindiPage() {
                   <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase">चरण 4: सेटलमेंट लेटर की जाँच</h4>
                   <p className="text-base leading-relaxed bg-yellow-50 p-4 border rounded border-yellow-200 decoration-red-500 font-bold underline">लेटर पर बैंक की मुहर और मैनेजर के साइन अनिवार्य हैं। 'Full and Final Settlement' शब्द जरूर देखें।</p>
                 </div>
+                <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 pb-8">
+                  <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
+                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase">चरण 5: भुगतान का तरीका</h4>
+                  <p className="text-base leading-relaxed italic font-bold">हमेशा 'One-Time Settlement' (OTS) को प्राथमिकता दें। यदि पैसे कम हैं, तो अधिकतम 3 किस्तों की मांग करें।</p>
+                </div>
+                <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 pb-8">
+                  <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
+                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase">चरण 6: सिबिल अपडेट और एनडीसी</h4>
+                  <p className="text-base leading-relaxed">भुगतान के 45 दिनों के बाद बैंक से 'No Dues Certificate' (NDC) माँगें और सिबिल में स्थिति की जांच करें।</p>
+                </div>
+              </div>
+            </section>
+
+            <section id="hardship-docs" className="scroll-mt-32 mb-12">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                जरूरी दस्तावेजों की सूची (Checklist)
+              </h2>
+              <p className="text-lg mb-6">बैंक को यह विश्वास दिलाने के लिए कि आप सही में मजबूर हैं, नीचे दिए गए दस्तावेज तैयार रखें:</p>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div className="p-5 bg-blue-50 rounded-xl border border-blue-100 flex items-start gap-4">
+                  <div className="w-2 h-2 rounded-full bg-blue-500 mt-2"></div>
+                  <p className="text-sm">**पिछले 6 महीने का बैंक स्टेटमेंट:** यह आपकी कम होती आय का प्रमाण होगा।</p>
+                </div>
+                <div className="p-5 bg-blue-50 rounded-xl border border-blue-100 flex items-start gap-4">
+                  <div className="w-2 h-2 rounded-full bg-blue-500 mt-2"></div>
+                  <p className="text-sm">**ITR या सैलरी स्लिप:** यदि नौकरी गई है तो पुराने रिकॉर्ड और नया निल बैलेंस स्टेटमेंट।</p>
+                </div>
+                <div className="p-5 bg-blue-50 rounded-xl border border-blue-100 flex items-start gap-4 font-bold">
+                  <div className="w-2 h-2 rounded-full bg-blue-500 mt-2"></div>
+                  <p className="text-sm">**मेडिकल रिपोर्ट्स:** यदि किसी गंभीर बीमारी के कारण किस्त रुकी है।</p>
+                </div>
+                <div className="p-5 bg-blue-50 rounded-xl border border-blue-100 flex items-start gap-4 underline">
+                  <div className="w-2 h-2 rounded-full bg-blue-500 mt-2"></div>
+                  <p className="text-sm">**जॉब टर्मिनेशन लेटर:** छंटनी या इस्तीफा देने का आधिकारिक पत्र।</p>
+                </div>
+                <div className="p-5 bg-blue-50 rounded-xl border border-blue-100 flex items-start gap-4 italic md:col-span-2">
+                  <div className="w-2 h-2 rounded-full bg-blue-500 mt-1.5"></div>
+                  <p className="text-sm text-blue-800">**महत्वपूर्ण:** बैंक के साथ हुए सभी ईमेल और पत्रों का रिकॉर्ड (Digital Trail) जरूर रखें।</p>
+                </div>
+              </div>
+            </section>
+
+            <section id="bank-nuances" className="scroll-mt-32 mb-12">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter">
+                बैंक और NBFC में फर्क: कहाँ क्या उम्मीद करें?
+              </h2>
+              <div className="overflow-x-auto shadow-sm rounded-2xl">
+                <table className="w-full text-left border-collapse bg-white">
+                  <thead>
+                    <tr className="bg-[#1F5EFF] text-white font-bold">
+                      <th className="p-5">संस्थान का प्रकार</th>
+                      <th className="p-5">सेटलमेंट प्रक्रिया</th>
+                      <th className="p-5">रिकवरी का तरीका</th>
+                    </tr>
+                  </thead>
+                  <tbody className="text-sm">
+                    <tr className="border-b border-gray-100">
+                      <td className="p-5 font-bold">प्राइवेट बैंक (HDFC, ICICI, Axis)</td>
+                      <td className="p-5">फास्ट ट्रैक, डिजिटल सेटलमेंट। डिस्काउंट औसत (40-50%)।</td>
+                      <td className="p-5 font-medium">थर्ड पार्टी एजेंट काफी आक्रामक हो सकते हैं।</td>
+                    </tr>
+                    <tr className="border-b border-gray-100 italic bg-gray-50">
+                      <td className="p-5 font-bold">सरकारी बैंक (SBI, PNB, BOB)</td>
+                      <td className="p-5">थोड़ी धीमी, पर लोक अदालत में भारी छूट (60-80%) की संभावना।</td>
+                      <td className="p-5">कानूनी नोटिस और लोक अदालत पर ज्यादा फोकस।</td>
+                    </tr>
+                    <tr className="border-b border-gray-100">
+                      <td className="p-5 font-bold">NBFC (Bajaj, Kraft, Shriram)</td>
+                      <td className="p-5">शुरुआत में सख्त, पर 2-3 साल पुराने बकाया पर अच्छी छूट दे देते हैं।</td>
+                      <td className="p-5 text-red-600 font-bold underline">सबसे ज्यादा कॉल और व्यक्तिगत रिकवरी का प्रयास।</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </section>
+
+            <section id="agent-handling" className="scroll-mt-32 mb-12">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                रिकवरी एजेंट और आपके अधिकार (2025)
+              </h2>
+              <ul className="space-y-4 text-base italic leading-relaxed">
+                <li className="flex gap-3 items-center">
+                  <span className="text-[#1F5EFF] font-bold underline">कॉल का समय:</span>
+                  सुबह 8:00 बजे से शाम 7:00 बजे के बीच ही कॉल कर सकते हैं।
+                </li>
+                <li className="flex gap-3 items-center">
+                  <span className="text-[#1F5EFF] font-bold underline">गोपनीयता:</span>
+                  आपके रिश्तेदार या पड़ोसियों को लोन की जानकारी देना कानूनी रूप से गलत है।
+                </li>
+                <li className="flex gap-3 items-center font-bold">
+                  <span className="text-[#1F5EFF] underline">पहचान पत्र:</span>
+                  घर आने वाले एजेंट से आई-कार्ड (ID Card) माँगना आपका अधिकार है।
+                </li>
+              </ul>
+              <div className="mt-8 bg-black text-white p-6 rounded-2xl text-center md:text-left">
+                <p className="text-sm font-black border-l-4 border-[#1F5EFF] pl-4 uppercase tracking-widest leading-loose">
+                  एसओएस (SOS): यदि कोई एजेंट बदतमीजी करे, तो तुरंत 'Banking Ombudsman' पोर्टल पर शिकायत करें। 2025 में डिजिटल साक्ष्य (Call Recording) अत्यंत महत्वपूर्ण हैं।
+                </p>
+              </div>
+            </section>
+
+            <section id="tax-impact" className="scroll-mt-32 mb-12">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight uppercase tracking-tighter decoration-red-500 underline">
+                सेटलमेंट पर टैक्स: क्या आपको पता है?
+              </h2>
+              <div className="bg-yellow-50 border border-yellow-200 p-8 rounded-2xl italic">
+                <p className="text-lg leading-relaxed mb-4">
+                  अधिकांश लोग यह भूल जाते हैं कि बैंक द्वारा माफ की गई राशि (Principal + Interest Haircut) को आयकर विभाग **"आय (Income)"** मान सकता है।
+                </p>
+                <ul className="list-disc pl-6 space-y-2 text-sm md:text-base">
+                  <li>**बिज़नेस लोन:** यहाँ धारा 194R के तहत टैक्स की पेचीदगियाँ हो सकती हैं।</li>
+                  <li>**पर्सनल लोन:** आमतौर पर, यदि तंगी का प्रमाण सही है, तो इस पर टैक्स छूट मिलने की संभावना रहती है, पर सीए (CA) से सलाह लेना उचित है।</li>
+                  <li>**10(O) एंट्री:** आपकी बैलेंस शीट में इसे सही तरीके से दिखाना ज़रूरी है ताकि भविष्य में कोई नोटिस न आए।</li>
+                </ul>
               </div>
             </section>
 
@@ -361,7 +529,9 @@ export default function LoanSettlementHindiPage() {
                   { q: "NPA क्या होता है?", a: "जब 90 दिनों तक किस्त नहीं भरी जाती, तो बैंक उसे NPA घोषित करता है। यह सेटलमेंट की शुरुआत का संकेत है।" },
                   { q: "क्या लोक अदालत में सेटलमेंट सुरक्षित है?", a: "हाँ, यह सुप्रीम कोर्ट के फैसले के समान होता है और भविष्य में बैंक आपसे पैसे नहीं मांग सकता।" },
                   { q: "क्या सेटलमेंट के बाद नया लोन मिलेगा?", a: "हाँ, पर 2-3 साल के अंतराल और बेहतर सिबिल मैनेजमेंट के बाद ही संभव हो पाएगा।" },
-                  { q: "क्या रिकवरी एजेंट गाली दे सकता है?", a: "कदापि नहीं। आप उसके विरुद्ध पुलिस कंप्लेंट और बैंकिंग लोकपाल में शिकायत कर सकते हैं।" }
+                  { q: "क्या रिकवरी एजेंट गाली दे सकता है?", a: "कदापि नहीं। आप उसके विरुद्ध पुलिस कंप्लेंट और बैंकिंग लोकपाल में शिकायत कर सकते हैं।" },
+                  { q: "क्या सेटलमेंट के बाद पुलिस घर आती है?", a: "नहीं, लोन डिफॉल्ट एक सिविल मामला है, पुलिस इसमें हस्तक्षेप नहीं कर सकती।" },
+                  { q: "सेटलमेंट पर कितना डिस्काउंट मिलता है?", a: "आमतौर पर 40% से 70% तक का डिस्काउंट संभव है, जो आपके लोन के प्रकार और उम्र पर निर्भर करता है।" }
                 ].map((faq, i) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
                     <summary className="flex justify-between items-center p-5 cursor-pointer font-black text-[#2E2E2E] list-none bg-gray-50 group-open:bg-white transition-colors">
