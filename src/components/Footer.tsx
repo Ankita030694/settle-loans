@@ -337,7 +337,14 @@ export default function Footer() {
               { name: "Submit Settlement Offer", href: "/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender" },
               { name: "Settlement Eligibility", href: "/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms" },
               { name: "Credit Card Settlement Quote", href: "/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt" },
-              { name: "Debt Resolution Directory", href: "/get-contact-details-for-top-rated-debt-resolution-companies-in-india" }
+              { name: "Debt Resolution Directory", href: "/get-contact-details-for-top-rated-debt-resolution-companies-in-india" },
+              { name: "Medical Emergency Loan Settlement", href: "/support-for-loan-settlement-during-medical-emergencies" },
+              { name: "800 Credit Score Guide", href: "/how-to-get-800-credit-score-in-india" },
+              { name: "Can I Convert Settled to Closed Later", href: "/can-i-convert-settled-to-closed-later" },
+              { name: "Does Settlement Impact a Co-Borrower", href: "/does-settlement-impact-a-co-borrower" },
+              { name: "Settle Loan Without Lawyer", href: "/can-i-settle-my-loan-without-a-lawyer" },
+              { name: "Loan Settlement in Hindi", href: "/loan-settlement-process-in-hindi" },
+              { name: "Loan Settlement in Installments", href: "/is-loan-settlement-in-installments-possible" }
             ].map((query) => (
 
               <Link

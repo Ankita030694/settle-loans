@@ -673,6 +673,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.9,
         },
         {
+            url: `${baseUrl}/is-loan-settlement-in-installments-possible`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
             url: `${baseUrl}/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
@@ -1486,6 +1492,42 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
         {
             url: `${baseUrl}/get-contact-details-for-top-rated-debt-resolution-companies-in-india`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/support-for-loan-settlement-during-medical-emergencies`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/how-to-get-800-credit-score-in-india`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/can-i-convert-settled-to-closed-later`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/does-settlement-impact-a-co-borrower`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/can-i-settle-my-loan-without-a-lawyer`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/loan-settlement-process-in-hindi`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,
