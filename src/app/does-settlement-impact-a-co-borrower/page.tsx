@@ -228,9 +228,11 @@ export default function CoBorrowerSettlementImpactPage() {
               items={[
                 { id: "co-borrowing-myth", title: "The Co-Borrowing Myth" },
                 { id: "legal-liability", title: "Joint & Several Liability" },
+                { id: "right-of-subrogation", title: "Right of Subrogation" },
                 { id: "cibil-score-impact", title: "Credit Score Consequences" },
                 { id: "legal-risks-explained", title: "Legal Risks for Co-Borrowers" },
                 { id: "impact-on-future-loans", title: "The Future Loan Hurdle" },
+                { id: "asset-separation", title: "Asset Separation Strategies" },
                 { id: "settlement-mechanics", title: "Settlement Mechanics" },
                 { id: "rights-protection", title: "Protecting Your Rights" },
                 { id: "rbi-guidelines", title: "RBI Governance Rules" },
@@ -244,6 +246,8 @@ export default function CoBorrowerSettlementImpactPage() {
                 { id: "clean-hands-doctrine", title: "Clean Hands Doctrine" },
                 { id: "business-partner-default", title: "Business Partner Default" },
                 { id: "visa-immigration", title: "Visa & Immigration Risks" },
+                { id: "spouse-impact", title: "Spouse's Credit Eligibility" },
+                { id: "court-room-dynamics", title: "Co-Borrower vs. Guarantor in Court" },
                 { id: "faqs", title: "Frequently Asked Questions" }
               ]}
             />
@@ -274,15 +278,31 @@ export default function CoBorrowerSettlementImpactPage() {
                 Joint & Several Liability: The Legal Reality
               </h2>
               <p className="text-lg leading-relaxed mb-6">
-                The backbone of almost every loan agreement in India is the principle of "Joint and Several Liability." This is a legal term that every co-applicant must memorize.
+                The backbone of almost every loan agreement in India is the principle of "Joint and Several Liability." This is a legal term that every co-applicant must memorize. In simple terms, it means the bank has the right to recover the <strong>entire</strong> amount from any one of the borrowers.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
                 <h4 className="font-bold mb-4">What it actually means for you:</h4>
                 <ul className="space-y-4">
-                  <li><strong>Lender's Choice:</strong> The bank doesn't have to follow an order. They can choose to recover 100% of the money from the co-borrower even if the primary borrower has assets.</li>
-                  <li><strong>No '50% Rule':</strong> Legally, you are responsible for 100% of the outstanding dues. If the primary borrower pays nothing, the burden of the entire 100% falls on you.</li>
-                  <li><strong>Default Equality:</strong> A default by the primary borrower is legally considered a default by the co-borrower. The bank can initiate recovery proceedings against both simultaneously.</li>
+                  <li><strong>The "Solvent Party" Target:</strong> If the primary borrower has no assets but the co-borrower has a steady job or a house, the bank will spend 90% of its recovery energy on the co-borrower. They follow the "path of least resistance."</li>
+                  <li><strong>No '50% Rule':</strong> There is no legal provision that says you only pay your share. You are legally a "Primary Debtor." If the loan is for 10 Lakhs, you owe 10 Lakhs.</li>
+                  <li><strong>The Release Clause:</strong> You cannot be released from this liability unless the bank explicitly issues a release letter, usually only after the loan is closed or a new, equally eligible co-borrower is substituted.</li>
                 </ul>
+              </div>
+            </section>
+
+            <section id="right-of-subrogation" className="scroll-mt-32 mb-12">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight uppercase tracking-tighter">The Right of Subrogation: Your Legal Shield</h2>
+              <p className="text-lg leading-relaxed mb-6">
+                If you, as a co-borrower, end up paying the bank to settle the loan, you are not necessarily losing that money forever. Under the Indian Contract Act, you have the <strong>Right of Subrogation</strong>.
+              </p>
+              <div className="bg-blue-50 p-8 rounded-xl border border-blue-100 text-[#2E2E2E] italic">
+                <p className="text-sm font-bold mb-4">What is Subrogation?</p>
+                <p className="text-sm leading-relaxed mb-4">
+                  Once you pay the bank, you legally "step into the shoes" of the bank. You inherit the bank's right to recover that money from the primary borrower. 
+                </p>
+                <p className="text-sm leading-relaxed">
+                  <strong>Practical Step:</strong> You can file a civil suit against the primary borrower to recover the 50% (or 100%) that you paid on their behalf. While this doesn't fix your CIBIL immediately, it provides a legal path for financial recovery from the person who actually used the funds.
+                </p>
               </div>
             </section>
 
@@ -339,7 +359,7 @@ export default function CoBorrowerSettlementImpactPage() {
 
             <section id="impact-on-future-loans" className="scroll-mt-32 mb-12">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">The Future Loan Hurdle</h2>
-              <p className="mb-6">
+              <p className="mb-6 leading-relaxed text-lg">
                 A "Settled" status is what bankers call a 'Red Flag.' Most automated credit approval systems will automatically reject any application where a previous settlement is present.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
@@ -349,6 +369,20 @@ export default function CoBorrowerSettlementImpactPage() {
                   <li>• Refusal of Home Loan or Car Loan processing.</li>
                   <li>• Negative impact on joint applications with a spouse.</li>
                   <li>• Difficulties in securing business credit as a director.</li>
+                </ul>
+              </div>
+            </section>
+
+            <section id="asset-separation" className="scroll-mt-32 mb-12">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Asset Separation Strategies</h2>
+              <p className="text-lg leading-relaxed mb-6">
+                If you suspect the primary borrower is going to default, you must act early to protect your individual assets. Once a legal suit or SARFAESI action is initiated, it becomes much harder to secure your position.
+              </p>
+              <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm italic">
+                <ul className="space-y-4 text-sm">
+                  <li><strong>1. Separate Bank Accounts:</strong> Ensure your salary and savings are in a bank different from the one where the loan was taken. This prevents the bank from exercising the "Right of Set-off."</li>
+                  <li><strong>2. Documenting Non-Benefit:</strong> Keep records proving that you did not receive or use the loan proceeds. While this doesn't stop the liability, it can be useful for negotiation or appealing a 'Willful Defaulter' tag.</li>
+                  <li><strong>3. Independent Legal Review:</strong> If you were coerced into signing, you might have grounds to challenge the agreement, though this is a complex and long-term legal route.</li>
                 </ul>
               </div>
             </section>
@@ -415,9 +449,15 @@ export default function CoBorrowerSettlementImpactPage() {
 
             <section id="education-loan-impact" className="scroll-mt-32 mb-12">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Education Loans: A Parent's Dilemma</h2>
-              <p className="mb-6 leading-relaxed">
-                Education loans in India almost always require a parent as a co-borrower. If a student moves abroad and stops paying, or fails to get a job, the bank immediately targets the parent's retirement savings or their home. Settling an education loan might save the parent's current cash flow, but it permanently damages the student's credit start and the parent's ability to take top-up loans or medical loans in their senior years.
+              <p className="mb-6 leading-relaxed text-lg">
+                Education loans in India almost always require a parent as a co-borrower. If a student moves abroad and stops paying, the bank immediately targets the parent.
               </p>
+              <div className="bg-red-50 p-6 border-l-4 border-red-500 rounded-r-xl mb-6">
+                  <p className="text-sm text-red-900 font-bold mb-2">The Long-term Risk for Parents:</p>
+                  <p className="text-xs text-red-800 leading-relaxed">
+                      Settling an education loan might save current cash flow, but it permanently damages the student's credit start and the parent's ability to take top-up loans or medical loans in their senior years. <strong>Worse:</strong> If the student plans to return to India for a corporate job, the "Settled" status on their CIBIL can lead to rejections during background checks in top-tier companies.
+                  </p>
+              </div>
             </section>
 
             <section id="criminal-vs-civil" className="scroll-mt-32 mb-12">
@@ -445,6 +485,20 @@ export default function CoBorrowerSettlementImpactPage() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Impact on Visa and Immigration Applications</h2>
               <p className="mb-6 leading-relaxed">
                 While most countries don't check CIBIL for a tourist visa, countries like Canada, the UK, and Australia check 'financial standing' for residency and work permits. A massive defaulted or settled loan on your record can sometimes be flagged during the verification of your assets or financial reliability, potentially stalling your immigration dreams.
+              </p>
+            </section>
+
+            <section id="spouse-impact" className="scroll-mt-32 mb-12">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Impact on Spouse's Credit Eligibility</h2>
+              <p className="mb-6 leading-relaxed">
+                If you are a co-borrower on a loan that is being settled, and you later apply for a joint Home Loan with your spouse, your 'Settled' status will likely cause the entire application to be rejected. While your spouse's individual score might be 800+, the bank looks at the 'lowest common denominator' in a joint application. This means your past can tether your spouse's future financial opportunities as well.
+              </p>
+            </section>
+
+            <section id="court-room-dynamics" className="scroll-mt-32 mb-12">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Co-Borrower vs. Guarantor in Court</h2>
+              <p className="mb-6 leading-relaxed">
+                In a court of law, a <strong>Guarantor</strong> can sometimes argue that the bank did not exhaust all options with the primary borrower before coming after them. However, a <strong>Co-Borrower</strong> has no such defense. You are considered to have received the benefit of the loan (even if you didn't). This makes defending a co-borrower in court much harder than defending a guarantor, highlighting the extreme risk of signing as a co-applicant.
               </p>
             </section>
 
@@ -524,7 +578,16 @@ export default function CoBorrowerSettlementImpactPage() {
                   { q: "Is the co-borrower responsible for the primary borrower's personal credit card debt?", a: "Only if they are a 'Add-on' cardholder or a co-applicant for that specific credit card account. They are not liable for the primary borrower's other independent debts." },
                   { q: "How long does it take for SettleLoans to negotiate a settlement?", a: "Typically, it takes 30 to 90 days depending on the bank and the complexity of the joint liability. We handle all communications during this period." },
                   { q: "Can a co-borrower settle the loan without the primary borrower knowing?", a: "Yes, you can pay the debt to save your own credit. You would then legally step into the bank's shoes and can attempt to recover that money from the primary borrower through a 'Suit for Subrogation'." },
-                  { q: "What is a No Dues Certificate and why do I need it?", a: "It is the only legal proof that the bank has no more claims against you. Without it, you can never prove to another lender that the old 'Settled' or 'Closed' debt is actually resolved." }
+                  { q: "What is a No Dues Certificate and why do I need it?", a: "It is the only legal proof that the bank has no more claims against you. Without it, you can never prove to another lender that the old 'Settled' or 'Closed' debt is actually resolved." },
+                  { q: "If I pay the full amount as a co-borrower, will the primary's score also improve?", a: "Yes. Since it is the same account, if the account status changes to 'Closed,' it reflects as 'Closed' on both the primary and co-borrower's CIBIL reports." },
+                  { q: "Can the bank block my personal savings account if I am a co-borrower on a defaulted loan?", a: "Yes, under the 'Right of Set-off,' a bank can technically freeze or deduct money from your other accounts within the same bank to recover the dues of a loan where you are a co-borrower." },
+                  { q: "Can I be a co-borrower to a friend's business loan?", a: "It is extremely risky. If the business fails or your friend defaults, your personal assets and credit score are fully liable, regardless of your role in the business." },
+                  { q: "What happens if the primary borrower is declared bankrupt?", a: "The entire burden of the loan falls on the co-borrower. The bank will move 100% of the recovery efforts toward you as the solvent party." },
+                  { q: "Does the size of the loan change the impact on the co-borrower?", a: "The credit score impact is the same whether the loan is for ₹50,000 or ₹50 Lakhs. However, the legal and asset risk increases significantly with the loan amount." },
+                  { q: "Can I negotiate a settlement for myself and leave the primary borrower out?", a: "Generally, no. A settlement is for the 'Account,' not the 'Person.' The account status changes for everyone attached to it." },
+                  { q: "Will I receive a separate No Dues Certificate?", a: "Usually, the bank issues one NDC for the account, naming all the borrowers. Ensure your name is correctly mentioned in that document." },
+                  { q: "Can a co-borrower be a student?", a: "In practice, students are often primary borrowers with parents as co-borrowers. A student can be a co-borrower for a family car or home loan, but it is not advised for someone without their own income." },
+                  { q: "Does a settlement end the 'Joint and Several Liability'?", a: "Yes, once the settlement is paid and the NDC is issued, the legal contract is terminated, and neither party has further liability to the bank." }
                 ].map((faq, i) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
                     <summary className="flex justify-between items-center p-5 cursor-pointer font-black text-[#2E2E2E] list-none bg-gray-50 group-open:bg-white transition-colors">

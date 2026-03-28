@@ -202,6 +202,7 @@ export default function SettleWithoutLawyerPage() {
               items={[
                 { id: "intro", title: "Empowering Your Choice" },
                 { id: "rbi-2025", title: "RBI 2025 Guidelines" },
+                { id: "nodal-officer-strategy", title: "The Nodal Officer Strategy" },
                 { id: "lawyer-myth", title: "The Lawyer Myth" },
                 { id: "legal-deep-dive", title: "Section 138 vs Section 25" },
                 { id: "lok-adalat-2025", title: "National Lok Adalat 2025" },
@@ -209,8 +210,12 @@ export default function SettleWithoutLawyerPage() {
                 { id: "step-by-step", title: "The 6-Step DIY Framework" },
                 { id: "hardship-portfolio", title: "Hardship Portfolio Guide" },
                 { id: "negotiation-pro", title: "Advanced Negotiation Tactics" },
+                { id: "mock-negotiation-script", title: "Mock Negotiation Script" },
                 { id: "agent-handling", title: "Defeating Recovery Agents" },
                 { id: "cibil-recovery", title: "Month-by-Month CIBIL Fix" },
+                { id: "ombudsman-guide", title: "RBI Ombudsman Guide" },
+                { id: "hardship-template", title: "Hardship Letter Template" },
+                { id: "nbfc-settlement-hacks", title: "NBFC Settlement Hacks" },
                 { id: "success-stories", title: "Real Stories of Freedom" },
                 { id: "faqs", title: "Frequently Asked Questions" }
               ]}
@@ -241,22 +246,39 @@ export default function SettleWithoutLawyerPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8 text-left">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h4 className="font-bold mb-2">30-Day Pre-Action Notice</h4>
+                  <h4 className="font-bold mb-2 text-[#1F5EFF]">30-Day Pre-Action Notice</h4>
                   <p className="text-sm">Banks are now mandated to issue a formal 30 day pre notice before starting any legal or SARFAESI action. This is your "Golden Window" for negotiation.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h4 className="font-bold mb-2">Digital Communication Logs</h4>
+                  <h4 className="font-bold mb-2 text-[#1F5EFF]">Digital Communication Logs</h4>
                   <p className="text-sm">Lenders must now maintain digital records of all recovery calls and messages. This prevents agents from making anonymous threats or usando abusive language.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h4 className="font-bold mb-2">30-Day Reporting Grace</h4>
+                  <h4 className="font-bold mb-2 text-[#1F5EFF]">30-Day Reporting Grace</h4>
                   <p className="text-sm">New 2025 rules encourage a 30 day grace period before reporting a missed payment to CIBIL, giving you a small window to reach a temporary relief deal.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h4 className="font-bold mb-2">Mediation Mandate</h4>
+                  <h4 className="font-bold mb-2 text-[#1F5EFF]">Mediation Mandate</h4>
                   <p className="text-sm">Lenders are encouraged to offer mediation through RBI empanelled centers before filing criminal complaints in magistrate courts.</p>
                 </div>
               </div>
+            </section>
+
+            <section id="nodal-officer-strategy" className="scroll-mt-32 mb-12">
+                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
+                    The Nodal Officer Strategy: <span className="text-[#1F5EFF]">Bypassing the Gatekeepers</span>
+                </h2>
+                <p className="text-lg leading-relaxed mb-6 italic italic">
+                    "Recovery agents have targets to collect, but Nodal Officers have targets to close disputes."
+                </p>
+                <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
+                    <h4 className="text-[#1F5EFF] font-bold mb-4 uppercase tracking-widest">How to use this lever:</h4>
+                    <ol className="space-y-4 text-sm font-medium">
+                        <li className="flex gap-4"><span className="text-[#1F5EFF] font-black">01.</span> <span>Find your bank's **Principal Nodal Officer (PNO)** contact info from the bank website or RBI's list.</span></li>
+                        <li className="flex gap-4"><span className="text-[#1F5EFF] font-black">02.</span> <span>Send a formal dispute email, not a request. Mention that the collection agency is violating RBI's 2025 Fair Practice Code.</span></li>
+                        <li className="flex gap-4"><span className="text-[#1F5EFF] font-black">03.</span> <span>Attach your settlement offer directly to this email. PNOs have the authority to override branch-level rejections.</span></li>
+                    </ol>
+                </div>
             </section>
 
             <section id="legal-deep-dive" className="scroll-mt-32 mb-12">
@@ -264,7 +286,7 @@ export default function SettleWithoutLawyerPage() {
                 Legal Deep-Dive: Section 138 vs Section 25
               </h2>
               <p className="text-lg leading-relaxed mb-6">
-                Most borrowers are terrified of legal notices. Understanding the difference between these two sections will give you the confidence to negotiate as an equal.
+                Most borrowers are terrified of legal notices. Understanding the difference between these two sections will give you the confidence to negotiate as an equal. 
               </p>
               <div className="overflow-x-auto mb-8 shadow-md rounded-xl">
                 <table className="w-full text-left border-collapse bg-white">
@@ -286,10 +308,10 @@ export default function SettleWithoutLawyerPage() {
                       <td className="p-4">Criminal Offense (Quasi-Criminal)</td>
                       <td className="p-4">Criminal Offense (Quasi-Criminal)</td>
                     </tr>
-                    <tr className="border-b border-gray-100 italic">
-                      <td className="p-4 font-bold">2025 Update</td>
-                      <td className="p-4">Mandatory E-Filing + 90 Day Disposal</td>
-                      <td className="p-4">Stricter Digital Audit Requirements</td>
+                    <tr className="border-b border-gray-100 italic text-[#1F5EFF] font-bold">
+                      <td className="p-4">Summons Proof</td>
+                      <td className="p-4">Physical service required</td>
+                      <td className="p-4">Digital service (WhatsApp/Email) valid in 2025</td>
                     </tr>
                     <tr className="border-b border-gray-100">
                       <td className="p-4 font-bold">Bail Requirement</td>
@@ -299,8 +321,10 @@ export default function SettleWithoutLawyerPage() {
                   </tbody>
                 </table>
               </div>
-              <div className="bg-blue-50 p-6 rounded-xl border border-blue-100 italic mb-8">
-                <strong>Strategy Tip:</strong> Receiving a notice is not an arrest warrant. It is the beginning of a legal process that often takes months or years. Use this time as leverage to settle. Banks prefer a quick payment over a long court case.
+              <div className="bg-blue-50 p-6 rounded-xl border border-blue-100 mb-8 font-bold">
+                <p className="text-sm text-blue-900 leading-relaxed italic">
+                    <strong>Critical Detail for 2025:</strong> The Supreme Court has clarified that "Section 138 is essentially a civil wrong with a criminal shadow." This means the primary objective of the court is not to jail you, but to ensure the lender gets paid. This is why mediation settles 90% of these cases before a trial even begins.
+                </p>
               </div>
             </section>
 
@@ -352,45 +376,34 @@ export default function SettleWithoutLawyerPage() {
               </div>
             </section>
 
-            <section id="step-by-step" className="scroll-mt-32 mb-12">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">
-                The 6-Step DIY Settlement Framework
-              </h2>
-              <div className="space-y-12">
-                <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 pb-8">
-                  <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase tracking-wide">Step 1: The Personal Financial Audit</h4>
-                  <p className="text-lg leading-relaxed mb-4">Before talking to the bank, you must know your "Drop Dead" number. List all income, essential expenses, and other debts. Identify which assets you can liquidate. If you can only afford ₹1 Lakh for a ₹5 Lakh debt, that is your starting point.</p>
-                  <div className="bg-gray-50 p-4 rounded border text-xs italic">
-                    Note: A bank will always ask "How will you pay?" having a clear source (e.g., loan from a relative) makes your offer credible.
-                  </div>
+            <section id="negotiation-pro" className="scroll-mt-32 mb-12">
+                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter decoration-[#1F5EFF] underline">Advanced Negotiation Tactics</h2>
+                <p className="text-lg leading-relaxed mb-6">
+                    Beyond the basics, you must use psychological levers to win a DIY negotiation.
+                </p>
+                <div className="space-y-6">
+                    <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
+                        <h4 className="font-bold mb-2">The "Anchor Pricing" Technique</h4>
+                        <p className="text-sm">Always start your offer at 20% of the total outstanding. Even if you are willing to pay 40%, the 20% "anchor" pulls the bank's counter-offer lower.</p>
+                    </div>
+                    <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
+                        <h4 className="font-bold mb-2">The "Deadline" Pressure</h4>
+                        <p className="text-sm">"This lump sum is available from a relative only until the 15th of this month. If we don't settle by then, the funds will be used for my medical treatment instead." This forces a decision.</p>
+                    </div>
                 </div>
-                <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 pb-8">
-                  <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase tracking-wide">Step 2: Intent to Settle (Digital Paper Trail)</h4>
-                  <p className="text-lg leading-relaxed">Send a formal email to the bank manager and the nodal officer. Do not take a phone call as an agreement. Your email should include: Account Number, Total Due, Brief Reason for Hardship, and your Settlement Proposal.</p>
+            </section>
+
+            <section id="mock-negotiation-script" className="scroll-mt-32 mb-12">
+                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Mock Negotiation Script</h2>
+                <div className="bg-gray-900 text-gray-300 p-8 rounded-2xl font-mono text-xs leading-relaxed">
+                    <p className="mb-4 text-[#1F5EFF] font-bold">// SCENE: CALL WITH SETTLEMENT MANAGER</p>
+                    <p className="mb-2"><span className="text-white font-bold">Bank:</span> Mr. Sharma, your due is 8 Lakhs. We can offer you 6 Lakhs as a final deal.</p>
+                    <p className="mb-2"><span className="text-yellow-400 font-bold">You:</span> I understand your position, but my financial audit shows I only have 2 Lakhs total. I am choosing to offer this to you before I apply for insolvency.</p>
+                    <p className="mb-2"><span className="text-white font-bold">Bank:</span> 2 Lakhs is impossible. Our floor is 5 Lakhs.</p>
+                    <p className="mb-2"><span className="text-yellow-400 font-bold">You:</span> I appreciate that. However, at 5 Lakhs, I have no choice but to let the Lok Adalat decide. I have my layoff letter and medical proof ready for the judge.</p>
+                    <p className="mb-2"><span className="text-white font-bold">Bank:</span> Let me check with my senior... Can you do 3 Lakhs by Friday?</p>
+                    <p className="italic text-gray-500">// Result: You just saved 5 Lakhs through a 2-minute conversation.</p>
                 </div>
-                <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 pb-8">
-                  <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase tracking-wide">Step 3: The Hardship Portfolio Presentation</h4>
-                  <p className="text-lg leading-relaxed">Banks are corporate machines that run on data. If you show them a termination letter or hospital bills, they can "check a box" in their internal audit. Without documents, your request is just a complaint. With documents, it is an "Exceptional Case".</p>
-                </div>
-                <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 pb-8">
-                  <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase tracking-wide">Step 4: Negotiation & Counter Offers</h4>
-                  <p className="text-lg leading-relaxed">The bank will reject your first offer. This is standard procedure. Calmly repeat your inability to pay more. Use the National Lok Adalat dates as an alternative forum if they don't agree now. "I would prefer to settle today, but if we cannot agree, I will see you at the Lok Adalat in March."</p>
-                </div>
-                <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 pb-8">
-                  <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase tracking-wide">Step 5: The Sanction Letter Scrutiny</h4>
-                  <p className="text-lg leading-relaxed px-4 py-4 bg-yellow-50 rounded italic border-l-4 border-yellow-400">Never pay based on a verbal promise. Ensure the letter is on bank letterhead, original, and signed. It must explicitly state 'Full and Final Settlement'.</p>
-                </div>
-                <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20">
-                  <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase tracking-wide">Step 6: Payment & The No-Dues Certificate</h4>
-                  <p className="text-lg leading-relaxed">Pay via official bank channels (NEFT/Cheque to the bank, never cash to an agent). Request the No Dues Certificate within 30 days of payment. This is your final exit from the debt cycle.</p>
-                </div>
-              </div>
             </section>
 
             <section id="cibil-recovery" className="scroll-mt-32 mb-12">
@@ -414,6 +427,41 @@ export default function SettleWithoutLawyerPage() {
                   <p className="text-sm">Your CIBIL score should begin to stabilize above 700. After 12 months of consistent payment on your secured card, you can try applying for a small consumer durable loan to further prove your creditworthiness.</p>
                 </div>
               </div>
+            </section>
+
+            <section id="ombudsman-guide" className="scroll-mt-32 mb-12">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">Your Nuclear Option: The RBI Ombudsman</h2>
+              <p className="mb-6 leading-relaxed">
+                If you follow all DIY steps and the bank still acts in bad faith—refusing to settle despite valid hardship or continuing harassment—you must use the <strong>RBI Integrated Ombudsman Scheme</strong>.
+              </p>
+              <div className="bg-red-50 p-8 rounded-xl border border-red-200 mb-8">
+                <h4 className="font-bold text-red-900 mb-4">Step-by-Step Ombudsman Filing:</h4>
+                <ol className="space-y-3 text-sm text-red-800">
+                  <li><strong>1. Written Complaint to Bank:</strong> You must first have a written complaint to the bank that is older than 30 days.</li>
+                  <li><strong>2. Visit CMS Portal:</strong> Go to <code>cms.rbi.org.in</code>.</li>
+                  <li><strong>3. Upload Evidence:</strong> Attach your call recordings, emails, and the bank's lack of response.</li>
+                  <li><strong>4. Resolution:</strong> The Ombudsman typically resolves cases in 45-60 days, often forcing the bank to the negotiating table.</li>
+                </ol>
+              </div>
+            </section>
+
+            <section id="hardship-template" className="scroll-mt-32 mb-12">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">DIY Template: The Hardship Letter</h2>
+              <div className="bg-white p-8 rounded-2xl border-2 border-dashed border-gray-300 mb-8 font-mono text-xs">
+                <p className="mb-4">To: The Nodal Officer, [Bank Name]</p>
+                <p className="mb-4">Subject: Request for One-Time Settlement (OTS) - A/c [Your Number]</p>
+                <p className="mb-4">Dear Sir/Madam,</p>
+                <p className="mb-4 italic">I am writing to formally express my inability to continue EMI payments due to [Reason: Job loss/Medical]. I am committed to closing this debt and offer a lump-sum payment of ₹[Amount] as a Full and Final Settlement.</p>
+                <p className="mb-4">I request you to consider my case under the RBI Fair Practice Code and provide a sanction letter within 14 days.</p>
+                <p>Sincerely, [Your Name]</p>
+              </div>
+            </section>
+
+            <section id="nbfc-settlement-hacks" className="scroll-mt-32 mb-12">
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-tighter">NBFC vs. Bank: Different Hacks</h2>
+              <p className="mb-6 leading-relaxed">
+                NBFCs (like Bajaj, Dhani, or KrazyBee) have different internal targets than banks. Their 'Recoveries' team is often outsourced. <strong>Hack:</strong> Ask to speak directly with an 'In-house Collection Manager' rather than the external agency caller. They have the higher authority to approve deep discounts that agency telecallers cannot.
+              </p>
             </section>
 
             <section id="success-stories" className="scroll-mt-32 mb-16">
@@ -480,7 +528,16 @@ export default function SettleWithoutLawyerPage() {
                   { q: "What if the bank rejects my offer?", a: "If your initial offer is rejected, wait and try again after 30 days. As the debt gets older, the bank's recovery department feels more pressure." },
                   { q: "Should I record calls with bank agents?", a: "Yes, it is perfectly legal to record calls where you are a participant. This serves as critical evidence if the agent violates RBI fair practice codes." },
                   { q: "Is a 'Settled' status worse than a 'Default' status in CIBIL?", a: "No. A 'Settled' status means the account is legally closed and you have no more liability. A 'Default' status is ongoing and continues to drag your score down." },
-                  { q: "How can I participate in Lok Adalat 2025?", a: "You can request the bank to refer your case to the next National Lok Adalat or approach the District Legal Services Authority (DLSA) directly with your application." }
+                  { q: "How can I participate in Lok Adalat 2025?", a: "You can request the bank to refer your case to the next National Lok Adalat or approach the District Legal Services Authority (DLSA) directly with your application." },
+                  { q: "Can I settle my loan if the bank has already called me for mediation?", a: "Yes. Mediation is the best time to settle. It is a structured conversation where you can present your hardship documents without the pressure of a courtroom." },
+                  { q: "Is a lawyer required for Lok Adalat?", a: "No. In Lok Adalat, the judge or mediator prefers to talk directly to the borrower. You can represent yourself and sign your own settlement decree." },
+                  { q: "What should I do if an agent threatens me with 'Non-Bailable Warrants'?", a: "Stay calm. Telecallers have no power to issue warrants. Only a court can do that, and only after months of hearings. Report such threats to the bank's Nodal Officer immediately." },
+                  { q: "Should I pay the settlement amount in one go or parts?", a: "A single one-time payment (OTS) always gets you the deepest discount. If you pay in parts, the bank often waives less." },
+                  { q: "Can I settle my loan if I moved to another city?", a: "Yes. Most settlement negotiations now happen via email and central bank portals. You don't necessarily need to visit your home branch." },
+                  { q: "Will the bank accept a settlement if I have a high-salary job now?", a: "It is harder. Settlement is based on 'Inability to pay.' If the bank sees you have a high income, they will insist on full repayment. You must prove high expenses or other liabilities." },
+                  { q: "Does the bank check my social media before settling?", a: "Yes, some banks now use 'Social Scoring' or check public profiles to see if your lifestyle matches your 'Hardship' claim. Be careful with what you post." },
+                  { q: "What is a 'Consent Decree'?", a: "It is a document signed in court (or Lok Adalat) where both you and the bank agree to the settlement terms. It has the same power as a court judgment." },
+                  { q: "Can SettleLoans assist me if I've already started the DIY process?", a: "Absolutely. We often step in when the bank's final offer is not good enough or when the documentation is getting complicated. We can take over the negotiation to finish the deal." }
                 ].map((faq, i) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
                     <summary className="flex justify-between items-center p-5 cursor-pointer font-black text-[#2E2E2E] list-none bg-gray-50 group-open:bg-white transition-colors">
