@@ -74,7 +74,9 @@ export default function Footer() {
               <Link href="/debt-settlement-company-in-india" className="text-blue-600 hover:text-blue-800 text-base">Debt Settlement Company India</Link>
               <Link href="/loan-settlement-lawyers" className="text-blue-600 hover:text-blue-800 text-base">Loan Settlement Lawyers</Link>
               <Link href="/punishment-for-non-payment-of-personal-loan-in-india" className="text-blue-600 hover:text-blue-800 text-base">Punishment for Personal Loan Default</Link>
-               <Link href="/charities-that-pay-off-debt-in-india" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Charities That Pay Off Debt</Link>
+              <Link href="/charities-that-pay-off-debt-in-india" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Charities That Pay Off Debt</Link>
+              <Link href="/how-to-identify-fake-recovery-agents" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Identify Fake Recovery Agents</Link>
+              <Link href="/rbi-guidelines-calling-after-7pm" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">RBI Rules: Calling After 7 PM</Link>
               <Link href="/p2p-crypto-scam-unfreeze-bank-account" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">P2P Crypto Scam Unfreeze</Link>
               <Link href="/legal-notice-for-loan-settlement-harassment" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Legal Notice for Harassment</Link>
               <Link href="/compare-features-of-loan-settlement-services-offered-by-major-financial-apps" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Compare Loan Settlement Apps</Link>
@@ -350,9 +352,18 @@ export default function Footer() {
               { name: "P2P Crypto Scam Unfreeze", href: "/p2p-crypto-scam-unfreeze-bank-account" },
               { name: "Legal Notice for Harassment", href: "/legal-notice-for-loan-settlement-harassment" },
               { name: "Home Loan After Settlement", href: "/home-loan-eligibility-after-settlement" },
-              { name: "Settlement Letter & NOC Format", href: "/loan-settlement-letter-format-noc-format" }
-            ].map((query) => (
-
+              { name: "Settlement Letter & NOC Format", href: "/loan-settlement-letter-format-noc-format" },
+              { name: "Economic Downturn Settlement", href: "/loan-settlement-for-borrowers-facing-economic-downturn" },
+              { name: "Debt-Free Future Plan", href: "/settle-loans-plan-for-building-debt-free-future-after-settlement" },
+              { name: "Avoid Aggressive Recovery", href: "/settle-loans-support-for-avoiding-aggressive-recovery-practices" },
+              { name: "Check Active Loans", href: "/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide" },
+              { name: "Financial Reset Strategy", href: "/loan-settlement-for-borrowers-planning-financial-reset" },
+              { name: "Why Credit Score Drops", href: "/why-does-my-credit-score-drop-even-though-i-pay-on-time" },
+              { name: "Smart Way to Manage EMI", href: "/smart-ways-to-manage-emi-payments" },
+              { name: "How to Identify Fake Recovery Agents", href: "/how-to-identify-fake-recovery-agents" },
+              { name: "RBI Guidelines: Calling After 7 PM", href: "/rbi-guidelines-calling-after-7pm" },
+              { name: "Handle Loan Default Without Panicking", href: "/handle-loan-default-without-panicking" }
+            ].filter((q): q is { name: string; href: string } => !!q.href).map((query) => (
               <Link
                 key={query.name}
                 href={query.href}
