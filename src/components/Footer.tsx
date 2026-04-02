@@ -81,7 +81,8 @@ export default function Footer() {
               <Link href="/legal-notice-for-loan-settlement-harassment" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Legal Notice for Harassment</Link>
               <Link href="/compare-features-of-loan-settlement-services-offered-by-major-financial-apps" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Compare Loan Settlement Apps</Link>
               <Link href="/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Vehicle Loan Settlement Deal</Link>
-              
+              <Link href="/recovery-agents-calling-family-members" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Recovery Agent Calling Family Members</Link>
+
             </div>
           </div>
 
@@ -265,6 +266,7 @@ export default function Footer() {
               { name: "Microfinance Settlement Lawyer", href: "/best-microfinance-loan-settlement-lawyer" },
               { name: "Non-Closure Relief", href: "/legal-help-for-non-closure-of-settled-loan" },
               { name: "EMI Settlement Lawyer", href: "/best-loan-emi-settlement-lawyer" },
+              { name: "Loan Settlement for Salaried People", href: "/loan-settlement-for-salaried-people" },
               { name: "Mudra Loan Settlement", href: "/mudra-loan-settlement-legal-help" },
               { name: "Forged Loan Signatures", href: "/dispute-over-forged-loan-signatures" },
               { name: "Payday Loan Settlement", href: "/payday-loan-settlement-lawyer" },
@@ -317,7 +319,7 @@ export default function Footer() {
               { name: "Income Tax Implications of Settled Debt", href: "/what-are-the-income-tax-implications-of-a-settled-debt-amount" },
               { name: "Required Settlement Documents", href: "/what-documents-are-required-for-loan-settlement-with-a-professional-service" },
               { name: "Secured vs Unsecured Settlement", href: "/can-i-settle-a-secured-loan-like-a-home-loan-or-only-unsecured-ones" },
-               { name: "Settle via Mobile App", href: "/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps" },
+              { name: "Settle via Mobile App", href: "/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps" },
               { name: "Effective Debt Negotiation Services", href: "/find-debt-settlement-services-known-for-effective-negotiation" },
               { name: "Compare Loan Settlement Apps", href: "/compare-features-of-loan-settlement-services-offered-by-major-financial-apps" },
               { name: "Best Vehicle Loan Settlement Deal", href: "/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services" },
@@ -362,7 +364,27 @@ export default function Footer() {
               { name: "Smart Way to Manage EMI", href: "/smart-ways-to-manage-emi-payments" },
               { name: "How to Identify Fake Recovery Agents", href: "/how-to-identify-fake-recovery-agents" },
               { name: "RBI Guidelines: Calling After 7 PM", href: "/rbi-guidelines-calling-after-7pm" },
-              { name: "Handle Loan Default Without Panicking", href: "/handle-loan-default-without-panicking" }
+              { name: "Handle Loan Default Without Panicking", href: "/handle-loan-default-without-panicking" },
+              { name: "Recovery Agent Harassment Complaint", href: "/recovery-agent-harassment-complaint" },
+              { name: "Recovery Agent Home Visit Rules", href: "/recovery-agent-home-visit-rules" },
+              { name: "Recovery Agent Calling Family Members", href: "/recovery-agents-calling-family-members" },
+              { name: "Recovery Agent Calling References", href: "/recovery-agent-calling-references" },
+              { name: "RBI Guidelines: Calling After 7 PM", href: "/rbi-guidelines-calling-after-7pm" },
+              { name: "How to Stop Loan Recovery Harassment", href: "/how-to-stop-loan-recovery-harassment" },
+              { name: "RBI Rules for Recovery Agents", href: "/rbi-rules-for-recovery-agents" },
+              { name: "Bank Recovery Agent Threatening Me", href: "/bank-recovery-agent-threatening-me" },
+              { name: "DRT Case Defence for Borrowers", href: "/drt-case-defence-for-borrowers" },
+              { name: "DRT Notice Reply Guide", href: "/drt-notice-reply" },
+              { name: "Loan Settlement for Self-Employed", href: "/loan-settlement-for-self-employed" },
+              { name: "Loan Settlement for Salaried People", href: "/loan-settlement-for-salaried-people" },
+              { name: "Loan Settlement for Startup Founders", href: "/loan-settlement-for-startup-founders" },
+              { name: "Loan Settlement for MSME Owners", href: "/loan-settlement-for-msme-owners" },
+              { name: "Loan Settlement for Traders", href: "/loan-settlement-for-traders" },
+              { name: "Loan settlement during medical emergency", href: "/loan-settlement-during-medical-emergency" },
+              { name: "Loan settlement during job loss", href: "/loan-settlement-during-job-loss" },
+              { name: "Loan settlement for senior citizens", href: "/loan-settlement-for-senior-citizens" },
+              { name: "Possession Notice Challenge", href: "/possession-notice-challenge" },
+              { name: "Auction Notice Challenge", href: "/auction-notice-challenge" }
             ].filter((q): q is { name: string; href: string } => !!q.href).map((query) => (
               <Link
                 key={query.name}
