@@ -78,13 +78,24 @@ export default function ContactForm({
     setIsSubmitting(true);
 
     try {
+      const searchParams = new URLSearchParams(window.location.search);
+      const utmParameters = {
+        utm_source: searchParams.get('utm_source') || '',
+        utm_medium: searchParams.get('utm_medium') || '',
+        utm_campaign: searchParams.get('utm_campaign') || '',
+        utm_term: searchParams.get('utm_term') || '',
+        utm_content: searchParams.get('utm_content') || '',
+      };
+
       const response = await fetch('/api/contact', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          ...formData
+          ...formData,
+          fullUrl: window.location.href,
+          utmParameters
         }),
       });
 

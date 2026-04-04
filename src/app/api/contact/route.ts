@@ -42,7 +42,13 @@ export async function POST(request: Request) {
             "Total personal loan amount": formData.totalPersonalLoanDues || "",
             "created": Date.now(),
             "question11": formData.recoveryPressure === 'yes' ? 'Facing some harassment' : 'No pressure',
-            "Legal Notice": formData.legalNotice || ""
+            "Legal Notice": formData.legalNotice || "",
+            "Full URL": formData.fullUrl || "",
+            "UTM Source": formData.utmParameters?.utm_source || "",
+            "UTM Medium": formData.utmParameters?.utm_medium || "",
+            "UTM Campaign": formData.utmParameters?.utm_campaign || "",
+            "UTM Term": formData.utmParameters?.utm_term || "",
+            "UTM Content": formData.utmParameters?.utm_content || ""
         };
 
         // All submissions should go to 'ContactPageForm' collection only

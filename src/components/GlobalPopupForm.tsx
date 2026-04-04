@@ -2,11 +2,19 @@
 
 import React, { useState, useEffect } from 'react';
 import ContactForm from './ContactForm';
+import { usePathname } from 'next/navigation';
 
 export default function GlobalPopupForm() {
   const [isOpen, setIsOpen] = useState(false);
+  const pathname = usePathname();
 
   useEffect(() => {
+    // Don't show the popup on the contact page
+    if (pathname === '/contact') {
+      setIsOpen(false);
+      return;
+    }
+
     // Check if the popup has already been shown in this session
     const hasBeenShown = sessionStorage.getItem('globalPopupShown');
 
@@ -18,7 +26,7 @@ export default function GlobalPopupForm() {
 
       return () => clearTimeout(timer);
     }
-  }, []);
+  }, [pathname]);
 
   // Close on escape key
   useEffect(() => {
