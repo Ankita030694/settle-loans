@@ -57,7 +57,7 @@ export default function ContactDetailsFAQ() {
                 "@id": "https://settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india#faq",
                 "mainEntity": [
                     { "@type": "Question", "name": "Is SettleLoans' contact number toll-free?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, SettleLoans provides a toll-free number (1800-309-1902) to ensure that borrowers can receive expert advice without any call charges. You can call this number from any part of India between 10 AM and 7 PM." } },
-                    { "@type": "Question", "name": "Can I visit AMA Legal's office for a consultation?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, AMA Legal Solutions has a registered office in Gurugram where clients can meet legal professionals. However, it is mandatory to schedule an appointment through their hotline (08700343611) before visiting." } },
+                    { "@type": "Question", "name": "Can I visit AMA Legal's office for a consultation?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, AMA Legal Solutions has a registered office in Gurugram where clients can meet legal professionals. However, it is mandatory to schedule an appointment through their hotline (9821219819) before visiting." } },
                     { "@type": "Question", "name": "How can I verify if a debt settlement agency is genuine?", "acceptedAnswer": { "@type": "Answer", "text": "Check for a physical office address, verified corporate email (@companyname.in), and professional reviews on platforms like Trustpilot or Google. A genuine company will never ask for payment into a personal UPI ID or bank account." } }
                 ]
             },
@@ -364,7 +364,7 @@ export default function ContactDetailsFAQ() {
                                             <FontAwesomeIcon icon={faPhone} className="text-gray-600 mt-1 mr-4" />
                                             <div>
                                                 <p className="font-bold text-[#2E2E2E]">Legal Hotline</p>
-                                                <p className="text-lg">08700343611</p>
+                                                <p className="text-lg">9821219819</p>
                                             </div>
                                         </div>
                                         <div className="flex items-start">
@@ -523,7 +523,7 @@ export default function ContactDetailsFAQ() {
                             <div className="space-y-4 not-prose">
                                 {[
                                     { q: "Is SettleLoans' contact number toll-free?", a: "Yes, SettleLoans provides a toll-free number (1800-309-1902) to ensure that borrowers can receive expert advice without any call charges. You can call this number from any part of India between 10 AM and 7 PM." },
-                                    { q: "Can I visit AMA Legal's office for a consultation?", a: "Yes, AMA Legal Solutions has a registered office in Gurugram where clients can meet legal professionals. However, it is mandatory to schedule an appointment through their hotline (08700343611) before visiting." },
+                                    { q: "Can I visit AMA Legal's office for a consultation?", a: "Yes, AMA Legal Solutions has a registered office in Gurugram where clients can meet legal professionals. However, it is mandatory to schedule an appointment through their hotline (9821219819) before visiting." },
                                     { q: "How can I verify if a debt settlement agency is genuine?", a: "Check for a physical office address, verified corporate email (@companyname.in), and professional reviews on platforms like Trustpilot or Google. A genuine company will never ask for payment into a personal UPI ID or bank account." },
                                     { q: "What is the official email for Freed.care?", a: "Freed primarily operates through its mobile app and portal. You can reach their support team through the contact numbers provided on their official website. Avoid using any email address ending in gmail.com." },
                                     { q: "Does CredSettle have an office in Bangalore?", a: "CredSettle is headquartered in Gurugram, which is the hub for financial services in North India. While they offer services nationwide, their core operations are handled centrally to maintain quality standards." },

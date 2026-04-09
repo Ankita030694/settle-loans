@@ -292,7 +292,7 @@ export default function ContactDetailsPage() {
                   <div className="mt-1 w-6 h-6 rounded-full bg-blue-600 text-white flex items-center justify-center font-bold text-xs">P</div>
                   <div>
                     <h4 className="font-bold text-blue-900">Primary Helpline</h4>
-                    <p className="text-blue-800 font-bold text-xl">8700343611</p>
+                    <p className="text-blue-800 font-bold text-xl">9821219819</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">

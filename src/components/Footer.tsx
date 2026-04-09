@@ -93,6 +93,7 @@ export default function Footer() {
               <Link href="/terms-and-conditions" className='text-blue-600 hover:text-blue-800 text-base'>Terms & Conditions</Link>
               <Link href="/privacy-policy" className='text-blue-600 hover:text-blue-800 text-base'>Privacy Policy</Link>
               <Link href="/loan-settlement-by-bank" className='text-blue-600 hover:text-blue-800 text-base'>Loan Settlement for Banks</Link>
+              <Link href = "/loan-settlement-by-city" className='text-blue-600 hover:text-blue-800 text-base'>Loan Settlement by City</Link>
             </div>
           </div>
 
