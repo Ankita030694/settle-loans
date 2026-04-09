@@ -66,22 +66,7 @@ export default function Footer() {
               <Link href="/business-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Business Loan Settlement</Link>
               <Link href="/services/nbfc-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">NBFC Loan Settlement</Link>
               <Link href="/app-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">App Loan Settlement</Link>
-              <Link href="/how-do-digital-lending-companies-handle-loan-settlement-requests" className="text-blue-600 hover:text-blue-800 text-base">Digital Lending Settlement Guide</Link>
-              <Link href="/what-are-the-income-tax-implications-of-a-settled-debt-amount" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Income Tax Implications of Settled Debt</Link>
-              <Link href="/best-apps-for-managing-and-settling-unsecured-loans" className="text-gray-300 hover:text-white transition-colors duration-200 font-bold underline">Best Apps for Loan Management</Link>
-              <Link href="/cheque-bounce" className="text-blue-600 hover:text-blue-800 text-base">Cheque Bounce Resolution</Link>
-              <Link href="/credit-score-improvement" className="text-blue-600 hover:text-blue-800 text-base">Credit Score Improvement</Link>
-              <Link href="/debt-settlement-company-in-india" className="text-blue-600 hover:text-blue-800 text-base">Debt Settlement Company India</Link>
-              <Link href="/loan-settlement-lawyers" className="text-blue-600 hover:text-blue-800 text-base">Loan Settlement Lawyers</Link>
-              <Link href="/punishment-for-non-payment-of-personal-loan-in-india" className="text-blue-600 hover:text-blue-800 text-base">Punishment for Personal Loan Default</Link>
-              <Link href="/charities-that-pay-off-debt-in-india" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Charities That Pay Off Debt</Link>
-              <Link href="/how-to-identify-fake-recovery-agents" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Identify Fake Recovery Agents</Link>
-              <Link href="/rbi-guidelines-calling-after-7pm" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">RBI Rules: Calling After 7 PM</Link>
-              <Link href="/p2p-crypto-scam-unfreeze-bank-account" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">P2P Crypto Scam Unfreeze</Link>
-              <Link href="/legal-notice-for-loan-settlement-harassment" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Legal Notice for Harassment</Link>
-              <Link href="/compare-features-of-loan-settlement-services-offered-by-major-financial-apps" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Compare Loan Settlement Apps</Link>
-              <Link href="/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Vehicle Loan Settlement Deal</Link>
-              <Link href="/recovery-agents-calling-family-members" className="text-blue-600 hover:text-blue-800 text-base font-bold underline">Recovery Agent Calling Family Members</Link>
+              
 
             </div>
           </div>
@@ -97,16 +82,7 @@ export default function Footer() {
               <Link href="/faqs/eligibility-checker-for-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Eligibility Checker</Link>
               <Link href="/faqs/free-consultation-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Free Consultation</Link>
               <Link href="/faqs/loan-settlement-fees" className="text-blue-600 hover:text-blue-800 text-base">Settlement Fees</Link>
-              <Link href="/dont-have-job-cant-pay-emi" className="text-blue-600 hover:text-blue-800 text-base">Don't Have Job Can't Pay EMI</Link>
-              <Link href="/loan-settlement-with-iarc" className="text-blue-600 hover:text-blue-800 text-base">Loan Settlement with IARC</Link>
-              <Link href="/how-to-manage-loan-with-no-job" className="text-blue-600 hover:text-blue-800 text-base">Manage Loan With No Job</Link>
-              <Link href="/ignoring-calls-of-recovery-agent" className='text-blue-600 hover:text-blue-800 text-base'>Ignoring Recovery Calls?</Link>
-              <Link href="/loan-settlement-after-settlement-failed" className='text-blue-600 hover:text-blue-800 text-base'>Settlement Failed?</Link>
-              <Link href="/what-is-personal-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Personal Loan Settlement</Link>
-              <Link href="/mastering-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Mastering Loan Settlement</Link>
-              <Link href="/missed-your-loan-emi-heres-what-to-do" className="text-blue-600 hover:text-blue-800 text-base">Missed Your Loan EMI?</Link>
-              <Link href="/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi" className="text-blue-600 hover:text-blue-800 text-base">Unable to Pay EMI?</Link>
-              <Link href="/which-banks-offer-debt-consolidation-loans-in-india" className="text-blue-600 hover:text-blue-800 text-base">Debt Consolidation Banks</Link>
+              
             </div>
           </div>
 
@@ -116,6 +92,7 @@ export default function Footer() {
             <div className="flex flex-col gap-3">
               <Link href="/terms-and-conditions" className='text-blue-600 hover:text-blue-800 text-base'>Terms & Conditions</Link>
               <Link href="/privacy-policy" className='text-blue-600 hover:text-blue-800 text-base'>Privacy Policy</Link>
+              <Link href="/loan-settlement-by-bank" className='text-blue-600 hover:text-blue-800 text-base'>Loan Settlement for Banks</Link>
             </div>
           </div>
 
@@ -323,12 +300,12 @@ export default function Footer() {
               { name: "Effective Debt Negotiation Services", href: "/find-debt-settlement-services-known-for-effective-negotiation" },
               { name: "Compare Loan Settlement Apps", href: "/compare-features-of-loan-settlement-services-offered-by-major-financial-apps" },
               { name: "Best Vehicle Loan Settlement Deal", href: "/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services" },
-              { name: "Government Approved Credit Counseling Chennai", href: "/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai" },
+              { name: "Government Credit Counseling Chennai", href: "/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai" },
               { name: "Legal Risks of Loan Default", href: "/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement" },
               { name: "Loan Settlement Platform Reviews", href: "/what-are-user-reviews-for-popular-loan-settlement-platforms" },
               { name: "Credit Card Settlement via Third-Party", href: "/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies" },
               { name: "Debt Settlement Alternatives", href: "/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt" },
-              { name: "Government Approved Settlement Guide", href: "/are-there-any-government-approved-loan-settlement-services-available-online" },
+              { name: "Government Settlement Guide", href: "/are-there-any-government-approved-loan-settlement-services-available-online" },
               { name: "Free Debt Evaluation", href: "/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm" },
               { name: "Professional Negotiation Services", href: "/which-professional-services-assist-in-negotiating-loan-settlement-terms" },
               { name: "Interest Savings Early Settlement", href: "/what-are-the-interest-savings-by-settling-loans-early-through-digital-services" },
@@ -384,7 +361,33 @@ export default function Footer() {
               { name: "Loan settlement during job loss", href: "/loan-settlement-during-job-loss" },
               { name: "Loan settlement for senior citizens", href: "/loan-settlement-for-senior-citizens" },
               { name: "Possession Notice Challenge", href: "/possession-notice-challenge" },
-              { name: "Auction Notice Challenge", href: "/auction-notice-challenge" }
+              { name: "Auction Notice Challenge", href: "/auction-notice-challenge" },
+              { name: "Digital Lending Settlement Guide", href: "/how-do-digital-lending-companies-handle-loan-settlement-requests" },
+              { name: "Income Tax Implications of Settled Debt", href: "/what-are-the-income-tax-implications-of-a-settled-debt-amount" },
+              { name: "Best Apps for Loan Management", href: "/best-apps-for-managing-and-settling-unsecured-loans" },
+              { name: "Cheque Bounce Resolution", href: "/cheque-bounce" },
+              { name: "Credit Score Improvement", href: "/credit-score-improvement" },
+              { name: "Debt Settlement Company India", href: "/debt-settlement-company-in-india" },
+              { name: "Loan Settlement Lawyers", href: "/loan-settlement-lawyers" },
+              { name: "Punishment for Personal Loan Default", href: "/punishment-for-non-payment-of-personal-loan-in-india" },
+              { name: "Charities That Pay Off Debt", href: "/charities-that-pay-off-debt-in-india" },
+              { name: "Identify Fake Recovery Agents", href: "/how-to-identify-fake-recovery-agents" },
+              { name: "RBI Rules: Calling After 7 PM", href: "/rbi-guidelines-calling-after-7pm" },
+              { name: "P2P Crypto Scam Unfreeze", href: "/p2p-crypto-scam-unfreeze-bank-account" },
+              { name: "Legal Notice for Harassment", href: "/legal-notice-for-loan-settlement-harassment" },
+              { name: "Compare Loan Settlement Apps", href: "/compare-features-of-loan-settlement-services-offered-by-major-financial-apps" },
+              { name: "Vehicle Loan Settlement Deal", href: "/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services" },
+              { name: "Recovery Agent Calling Family Members", href: "/recovery-agents-calling-family-members" },
+              { name: "Don't Have Job Can't Pay EMI", href: "/dont-have-job-cant-pay-emi" },
+              { name: "Loan Settlement with IARC", href: "/loan-settlement-with-iarc" },
+              { name: "Manage Loan With No Job", href: "/how-to-manage-loan-with-no-job" },
+              { name: "Ignoring Recovery Calls?", href: "/ignoring-calls-of-recovery-agent" },
+              { name: "Settlement Failed?", href: "/loan-settlement-after-settlement-failed" },
+              { name: "Personal Loan Settlement", href: "/what-is-personal-loan-settlement" },
+              { name: "Mastering Loan Settlement", href: "/mastering-loan-settlement" },
+              { name: "Missed Your Loan EMI?", href: "/missed-your-loan-emi-heres-what-to-do" },
+              { name: "Unable to Pay EMI?", href: "/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi" },
+              { name: "Debt Consolidation Banks", href: "/which-banks-offer-debt-consolidation-loans-in-india" },
             ].filter((q): q is { name: string; href: string } => !!q.href).map((query) => (
               <Link
                 key={query.name}
