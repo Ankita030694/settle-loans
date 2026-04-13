@@ -58,7 +58,11 @@ export default function ContactForm({
     setSubmitStatus('idle');
     setErrorMessage('');
 
-    // Validation checks
+    if (!formData.fullName.trim()) {
+      alert("Please enter your full name.");
+      return;
+    }
+
     const isValidPhone = formData.phone.startsWith('0') 
       ? formData.phone.length === 11 
       : formData.phone.length === 10;
@@ -70,8 +74,18 @@ export default function ContactForm({
       return;
     }
 
-    if (formData.email && !validateEmail(formData.email)) {
+    if (!formData.email.trim()) {
+      alert("Please enter your email address.");
+      return;
+    }
+
+    if (!validateEmail(formData.email)) {
       alert("Please enter a valid email address.");
+      return;
+    }
+
+    if (!formData.state) {
+      alert("Please select your state.");
       return;
     }
 
