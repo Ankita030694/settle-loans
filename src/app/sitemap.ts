@@ -65,6 +65,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 1.0,
         },
         {
+            url: `${baseUrl}/does-settlement-erase-the-debt-completely`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
             url: `${baseUrl}/loan-settlement-for-salaried-people`,
             lastModified: new Date(),
             changeFrequency: 'weekly',

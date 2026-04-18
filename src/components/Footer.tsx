@@ -69,6 +69,7 @@ export default function Footer() {
               <Link href="/how-to-settle-7-day-loan-apps" className="text-blue-600 hover:text-blue-800 text-base">7-Day Loan Settlement</Link>
               <Link href="/best-loan-settlement-company-in-bangalore-mumbai-delhi" className="text-blue-600 hover:text-blue-800 text-base">Best Settlement Company (Metros)</Link>
               <Link href="/settlement-of-personal-loan-immediately-with-low-funds" className="text-blue-600 hover:text-blue-800 text-base">Immediate Personal Loan Settlement (Low Funds)</Link>
+              <Link href="/does-settlement-erase-the-debt-completely" className="text-blue-600 hover:text-blue-800 text-base">Does Settlement Erase Debt Completely?</Link>
               
 
             </div>
