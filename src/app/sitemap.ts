@@ -47,10 +47,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 1.0,
         },
         {
+            url: `${baseUrl}/how-to-settle-7-day-loan-apps`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
             url: `${baseUrl}/which-banks-offer-debt-consolidation-loans-in-india`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/settlement-of-personal-loan-immediately-with-low-funds`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
         },
         {
             url: `${baseUrl}/loan-settlement-for-salaried-people`,
@@ -159,6 +171,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/best-loan-settlement-company-in-bangalore-mumbai-delhi`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
         },
         {
             url: `${baseUrl}/loan-settlement/arunachal-pradesh`,
@@ -1732,6 +1750,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
         {
             url: `${baseUrl}/auction-notice-challenge`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/can-recovery-agents-call-family-colleagues`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,

@@ -66,6 +66,9 @@ export default function Footer() {
               <Link href="/business-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Business Loan Settlement</Link>
               <Link href="/services/nbfc-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">NBFC Loan Settlement</Link>
               <Link href="/app-loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">App Loan Settlement</Link>
+              <Link href="/how-to-settle-7-day-loan-apps" className="text-blue-600 hover:text-blue-800 text-base">7-Day Loan Settlement</Link>
+              <Link href="/best-loan-settlement-company-in-bangalore-mumbai-delhi" className="text-blue-600 hover:text-blue-800 text-base">Best Settlement Company (Metros)</Link>
+              <Link href="/settlement-of-personal-loan-immediately-with-low-funds" className="text-blue-600 hover:text-blue-800 text-base">Immediate Personal Loan Settlement (Low Funds)</Link>
               
 
             </div>
@@ -260,6 +263,7 @@ export default function Footer() {
               { name: "RBI Recovery Rules", href: "/rbi-rules-for-recovery-agents" },
               { name: "Recovery Agents Home Visit", href: "/can-recovery-agents-come-home" },
               { name: "Family Calling Law", href: "/recovery-agents-calling-family-members-law" },
+              { name: "Can Agents Call Family?", href: "/can-recovery-agents-call-family-colleagues" },
               { name: "Jail for Loan Default", href: "/can-i-go-to-jail-for-loan-default-in-india" },
               { name: "Police Case Card Debt", href: "/police-case-for-credit-card-debt" },
               { name: "Bank Filed FIR Help", href: "/bank-filed-fir-for-loan-default" },
