@@ -533,7 +533,7 @@ export default function LoanSettlementDRTPage() {
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/how-to-handle-recovery-agent-harrasement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
+                                        <Link href="/harassment-by-recovery-agents" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
                                             <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>
                                             Stopping Bank Harassment
                                         </Link>

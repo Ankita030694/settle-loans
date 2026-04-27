@@ -15,10 +15,11 @@ export default function GlobalPopupForm() {
       return;
     }
 
-    // Check if the popup has already been shown in this session
+    // Check if the popup has already been shown in this session or if form submitted
     const hasBeenShown = sessionStorage.getItem('globalPopupShown');
+    const hasSubmitted = localStorage.getItem('formSubmitted');
 
-    if (!hasBeenShown) {
+    if (!hasBeenShown && !hasSubmitted) {
       const timer = setTimeout(() => {
         setIsOpen(true);
         sessionStorage.setItem('globalPopupShown', 'true');

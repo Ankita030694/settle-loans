@@ -744,7 +744,7 @@ export default function DRTLoanAssignmentPage() {
                                         { title: "MSME Defense", href: "/best-lawyer-for-msme-business-loan-dispute" },
                                         { title: "Consortium Loans", href: "/best-lawyer-for-consortium-loan-recovery-defence" },
                                         { title: "Settle with IARC", href: "/loan-settlement-with-iarc" },
-                                        { title: "Recovery Harassment", href: "/how-to-handle-recovery-agent-harrasement" }
+                                        { title: "Recovery Harassment", href: "/harassment-by-recovery-agents" }
                                     ].map((page, i) => (
                                         <Link key={i} href={page.href} className="text-sm font-bold text-[#2E2E2E]/70 hover:text-[#1F5EFF] transition-colors flex items-center gap-2 group">
                                             <span className="w-1.5 h-1.5 rounded-full bg-[#DEDEDE] group-hover:bg-[#1F5EFF] transition-colors"></span>

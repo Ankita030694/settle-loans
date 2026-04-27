@@ -289,7 +289,7 @@ export default function Footer() {
               { name: "Alternatives to Settlement for Small Debts", href: "/find-alternatives-solutions-to-debt-settlement-for-small-debts" },
               { name: "Consumer Protection Laws in India", href: "/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india" },
               { name: "Settlement vs Consolidation Guide", href: "/debt-settlement-vs-debt-consolidation" },
-              { name: "Required Documents for Settlement", href: "/what-documents-needed-for-debt-settlement-services" },
+              { name: "Required Documents for Settlement", href: "/what-documents-are-needed-for-debt-settlement-services" },
               { name: "Best Apps for Loan Management", href: "/best-apps-for-managing-and-settling-unsecured-loans" },
               { name: "Benefits & Drawbacks of Settlement", href: "/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement" },
               { name: "Loan Settlement Charges Guide", href: "/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms" },

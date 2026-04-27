@@ -119,6 +119,7 @@ export default function ContactForm({
       }
 
       localStorage.setItem(`lastSubmission_${formData.phone}`, Date.now().toString());
+      localStorage.setItem('formSubmitted', 'true');
       sessionStorage.setItem('formSubmitted', 'true');
       router.push('/thank-you');
       

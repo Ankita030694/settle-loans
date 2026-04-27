@@ -704,10 +704,10 @@ export default function LoanDefaultNoticePage() {
                                 </h3>
                                 <div className="flex flex-col gap-4">
                                     {[
-                                        { title: "DRT Case Defense", href: "/best-lawyer-for-debt-recovery-tribunal-case" },
+                                        { title: "DRT Case Defense", href: "/best-lawyer-for-drt-case-defence-for-bank-loan-recovery" },
                                         { title: "Challenge Auction", href: "/how-to-stop-e-auction-by-bank" },
                                         { title: "NPA Settlement", href: "/npa-loan-settlement-process" },
-                                        { title: "SARFAESI Act Guide", href: "/sarfaesi-act-2002-overview" },
+                                        { title: "SARFAESI Act Guide", href: "/bad-loan-recovery-strategy" },
                                         { title: "Consortium Loans", href: "/best-lawyer-for-consortium-loan-recovery-defence" }
                                     ].map((page, i) => (
                                         <Link key={i} href={page.href} className="text-sm font-bold text-[#2E2E2E]/70 hover:text-[#1F5EFF] transition-colors flex items-center gap-2 group">

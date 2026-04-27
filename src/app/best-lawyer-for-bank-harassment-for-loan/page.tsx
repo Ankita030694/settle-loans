@@ -567,7 +567,7 @@ export default function BankHarassmentLawyerPage() {
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link href="/how-to-handle-recovery-agent-harrasement" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors font-bold text-sm">
+                                        <Link href="/harassment-by-recovery-agents" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors font-bold text-sm">
                                             <div className="w-1.5 h-1.5 rounded-full bg-[#DEDEDE] group-hover:bg-[#1F5EFF] transition-colors"></div>
                                             Recovery Harassment
                                         </Link>
