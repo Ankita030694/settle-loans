@@ -577,7 +577,7 @@ export default function TradingLoanSettlementPage() {
                                 ))}
                             </div>
                         </section>
-            </section>
+
 
                         <div className="mt-16 p-8 bg-[#1F5EFF] rounded-3xl text-white text-center">
                             <h2 className="text-3xl font-black mb-6">Reclaim Your Financial Future Today</h2>
