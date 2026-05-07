@@ -5,6 +5,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
     return [
         {
+            url: `${baseUrl}/sample-letter-to-bank-for-loan`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/loc-cant-be-issues-for-mere-bank-loan-default-delhi-high-court`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/unsecured-personal-loan-definition`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
             url: `${baseUrl}/top-10-instant-loan-apps-revolutionizing-access-to-credit-in-india`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
@@ -12,6 +30,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
         {
             url: `${baseUrl}/trading-loan-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/bank-loan-settlement-rules`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/bank-loan-settlement-guidelines`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/debt-settlement-company-in-india`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 1.0,
@@ -1794,6 +1830,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
             url: `${baseUrl}/loan-settlement-vs-repayment`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/does-foreclosure-of-loan-affect-cibil`,
+            lastModified: new Date(),
+            changeFrequency: "weekly",
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/rbi-july-2026-recovery-guidelines`,
+            lastModified: new Date(),
+            changeFrequency: "weekly",
             priority: 0.9,
         },
     ];
