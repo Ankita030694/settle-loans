@@ -5,6 +5,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
     return [
         {
+            url: `${baseUrl}/top-10-instant-loan-apps-revolutionizing-access-to-credit-in-india`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/trading-loan-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
             url: baseUrl,
             lastModified: new Date(),
             changeFrequency: 'monthly',
@@ -1762,6 +1774,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
         },
         {
             url: `${baseUrl}/can-recovery-agents-call-family-colleagues`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/which-bank-provide-personal-loan-for-cibil-defaulters`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/how-to-improve-cibil-score-after-loan-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/loan-settlement-vs-repayment`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,

@@ -394,6 +394,11 @@ export default function Footer() {
               { name: "Missed Your Loan EMI?", href: "/missed-your-loan-emi-heres-what-to-do" },
               { name: "Unable to Pay EMI?", href: "/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi" },
               { name: "Debt Consolidation Banks", href: "/which-banks-offer-debt-consolidation-loans-in-india" },
+              { name: "Personal Loan for CIBIL Defaulters", href: "/which-bank-provide-personal-loan-for-cibil-defaulters" },
+              { name: "Improve CIBIL After Settlement", href: "/how-to-improve-cibil-score-after-loan-settlement" },
+              { name: "Loan Settlement vs Repayment", href: "/loan-settlement-vs-repayment" },
+              { name: "Top 10 Instant Loan Apps", href: "/top-10-instant-loan-apps-revolutionizing-access-to-credit-in-india" },
+              { name: "Trading Loan Settlement", href: "/trading-loan-settlement" },
             ].filter((q): q is { name: string; href: string } => !!q.href).map((query) => (
               <Link
                 key={query.name}
