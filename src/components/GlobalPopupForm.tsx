@@ -15,18 +15,11 @@ export default function GlobalPopupForm() {
       return;
     }
 
-    // Check if the popup has already been shown in this session or if form submitted
-    const hasBeenShown = sessionStorage.getItem('globalPopupShown');
-    const hasSubmitted = localStorage.getItem('formSubmitted');
+    const timer = setTimeout(() => {
+      setIsOpen(true);
+    }, 5000); // 5 seconds delay
 
-    if (!hasBeenShown && !hasSubmitted) {
-      const timer = setTimeout(() => {
-        setIsOpen(true);
-        sessionStorage.setItem('globalPopupShown', 'true');
-      }, 5000); // 5 seconds delay
-
-      return () => clearTimeout(timer);
-    }
+    return () => clearTimeout(timer);
   }, [pathname]);
 
   // Close on escape key
