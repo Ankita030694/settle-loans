@@ -17,7 +17,7 @@ export default function GlobalPopupForm() {
 
     const timer = setTimeout(() => {
       setIsOpen(true);
-    }, 5000); // 5 seconds delay
+    }, 2000); // 2 seconds delay
 
     return () => clearTimeout(timer);
   }, [pathname]);
