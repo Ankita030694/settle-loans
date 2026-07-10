@@ -5,6 +5,35 @@ export async function POST(request: Request) {
     try {
         const formData = await request.json();
 
+        // Verify reCAPTCHA token
+        const recaptchaToken = formData.recaptchaToken;
+        const secretKey = process.env.RECAPTCHA_SECRET_KEY;
+
+        if (secretKey && recaptchaToken) {
+            const verifyUrl = `https://www.google.com/recaptcha/api/siteverify?secret=${secretKey}&response=${recaptchaToken}`;
+            const recaptchaRes = await fetch(verifyUrl, { method: 'POST' });
+            const recaptchaJson = await recaptchaRes.json();
+            
+            // Log the score to the terminal
+            console.log('--- reCAPTCHA Verification ---');
+            console.log('Success:', recaptchaJson.success);
+            console.log('Score:', recaptchaJson.score);
+            console.log('Action:', recaptchaJson.action);
+            console.log('------------------------------');
+            
+            if (!recaptchaJson.success || recaptchaJson.score < 0.5) {
+                return NextResponse.json(
+                    { success: false, error: 'reCAPTCHA verification failed. Please try again.' },
+                    { status: 400 }
+                );
+            }
+        } else if (secretKey && !recaptchaToken) {
+            return NextResponse.json(
+                { success: false, error: 'reCAPTCHA token missing.' },
+                { status: 400 }
+            );
+        }
+
         // Validate phone number
         const phone = formData.phone || formData.mobile || "";
         const cleanPhone = phone.toString().replace(/\D/g, '');

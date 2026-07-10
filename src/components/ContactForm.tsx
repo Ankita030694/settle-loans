@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 import { X } from 'lucide-react';
+import { useGoogleReCaptcha } from 'react-google-recaptcha-v3';
 
 interface ContactFormProps {
   variant?: 'section' | 'simple';
@@ -33,6 +34,7 @@ export default function ContactForm({
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitStatus, setSubmitStatus] = useState<'idle' | 'success' | 'error'>('idle');
   const [errorMessage, setErrorMessage] = useState('');
+  const { executeRecaptcha } = useGoogleReCaptcha();
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
     let { name, value } = e.target;
@@ -92,6 +94,13 @@ export default function ContactForm({
     setIsSubmitting(true);
 
     try {
+      let recaptchaToken = '';
+      if (executeRecaptcha) {
+        recaptchaToken = await executeRecaptcha('contact_form_submit');
+      } else {
+        console.warn('Execute recaptcha not yet available');
+      }
+
       const searchParams = new URLSearchParams(window.location.search);
       const utmParameters = {
         utm_source: searchParams.get('utm_source') || '',
@@ -109,7 +118,8 @@ export default function ContactForm({
         body: JSON.stringify({
           ...formData,
           fullUrl: window.location.href,
-          utmParameters
+          utmParameters,
+          recaptchaToken
         }),
       });
 

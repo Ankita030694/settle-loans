@@ -7,6 +7,7 @@ import WhatsAppWidget from "@/components/WhatsAppWidget";
 import GlobalPopupForm from "@/components/GlobalPopupForm";
 import { Analytics } from "@vercel/analytics/next";
 import Script from "next/script";
+import ReCaptchaWrapper from "@/components/ReCaptchaWrapper";
 
 const satoshi = localFont({
   src: "../../public/font/WEB/fonts/Satoshi-Variable.woff2",
@@ -122,14 +123,16 @@ export default function RootLayout({
       <body
         className={`${satoshi.variable} antialiased`}
       >
-        <Navbar />
-        <div>
-           {children}
-        </div>
-        <Footer />
-        <GlobalPopupForm />
-        <WhatsAppWidget />
-        <Analytics />
+        <ReCaptchaWrapper>
+          <Navbar />
+          <div>
+             {children}
+          </div>
+          <Footer />
+          <GlobalPopupForm />
+          <WhatsAppWidget />
+          <Analytics />
+        </ReCaptchaWrapper>
       </body>
     </html>
   );
