@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
-import { TableOfContents } from '@/components/TableOfContents';
+import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "Education Loan Defaults: Legal Liability of Parents as Co-Signers",
@@ -12,14 +12,14 @@ export const metadata: Metadata = {
 };
 
 const tocItems = [
-  { id: 'introduction', label: 'The Tragic Reality of Education Loan Defaults' },
-  { id: 'legal-liability', label: 'Legal Liability of Parents as Co-Signers' },
-  { id: 'bank-harassment', label: 'How Banks Target Retirement Savings' },
-  { id: 'cibil-impact', label: 'Impact on Parents\' CIBIL Scores' },
-  { id: 'recovery-tactics', label: 'Aggressive Education Loan Recovery Tactics' },
-  { id: 'settlement-solution', label: 'How to Settle an Education Loan in India' },
-  { id: 'success-stories', label: 'Success Stories: Education Loans Settled' },
-  { id: 'faqs', label: 'Frequently Asked Questions' }
+  { id: 'introduction', title: 'The Tragic Reality of Education Loan Defaults' },
+  { id: 'legal-liability', title: 'Legal Liability of Parents as Co-Signers' },
+  { id: 'bank-harassment', title: 'How Banks Target Retirement Savings' },
+  { id: 'cibil-impact', title: 'Impact on Parents\' CIBIL Scores' },
+  { id: 'recovery-tactics', title: 'Aggressive Education Loan Recovery Tactics' },
+  { id: 'settlement-solution', title: 'How to Settle an Education Loan in India' },
+  { id: 'success-stories', title: 'Success Stories: Education Loans Settled' },
+  { id: 'faqs', title: 'Frequently Asked Questions' }
 ];
 
 export default function ParentsLegalLiabilityPage() {

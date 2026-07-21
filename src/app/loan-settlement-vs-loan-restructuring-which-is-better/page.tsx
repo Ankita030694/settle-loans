@@ -194,6 +194,17 @@ export default function LoanRestructuringVsSettlement() {
     ]
   };
 
+  const tocItems = [
+    { id: 'introduction', title: 'Navigating the Debt Trap' },
+    { id: 'what-is-loan-restructuring', title: 'What is Restructuring?' },
+    { id: 'what-is-loan-settlement', title: 'What is Settlement?' },
+    { id: 'mathematical-breakdown', title: 'The Math' },
+    { id: 'decision-matrix', title: 'Decision Matrix' },
+    { id: 'rbi-guidelines', title: 'RBI Guidelines' },
+    { id: 'success-stories', title: 'Success Stories' },
+    { id: 'faqs', title: 'FAQs' }
+  ];
+
   return (
     <div className="min-h-screen flex flex-col font-sans w-full bg-white">
       {/* JSON-LD Schema Injection */}
@@ -242,7 +253,7 @@ export default function LoanRestructuringVsSettlement() {
           <aside className="hidden lg:block lg:w-1/5 relative">
             <div className="sticky top-24">
               {/* Assuming TableOfContents component maps to section IDs */}
-              <TableOfContents />
+              <TableOfContents items={tocItems} />
             </div>
           </aside>
 

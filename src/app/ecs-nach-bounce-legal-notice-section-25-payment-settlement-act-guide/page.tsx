@@ -215,14 +215,14 @@ export default function Section25NoticePage() {
   };
 
   const tocItems = [
-    { id: 'introduction', label: 'Introduction' },
-    { id: 'understanding-section-25', label: 'Understanding Section 25' },
-    { id: 'statutory-timeline', label: 'The Legal Timeline' },
-    { id: 'criminal-implications', label: 'Criminal Implications (Jail Time)' },
-    { id: 'section-138-vs-25', label: 'Section 138 vs. Section 25' },
-    { id: 'how-to-defend', label: 'How to Defend Yourself' },
-    { id: 'success-stories', label: 'Success Stories' },
-    { id: 'faqs', label: 'Frequently Asked Questions' }
+    { id: 'introduction', title: 'Introduction' },
+    { id: 'understanding-section-25', title: 'Understanding Section 25' },
+    { id: 'statutory-timeline', title: 'The Legal Timeline' },
+    { id: 'criminal-implications', title: 'Criminal Implications (Jail Time)' },
+    { id: 'section-138-vs-25', title: 'Section 138 vs. Section 25' },
+    { id: 'how-to-defend', title: 'How to Defend Yourself' },
+    { id: 'success-stories', title: 'Success Stories' },
+    { id: 'faqs', title: 'Frequently Asked Questions' }
   ];
 
   return (
