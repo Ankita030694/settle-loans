@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
-import { TableOfContents } from '@/components/TableOfContents';
+import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "Can the Bank Deduct Loan EMI from a Joint Account if Only One Person Defaulted?",
