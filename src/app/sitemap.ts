@@ -1952,5 +1952,65 @@ export default function sitemap(): MetadataRoute.Sitemap {
             changeFrequency: 'weekly',
             priority: 0.9,
         },
+        {
+            url: `${baseUrl}/can-bank-recovery-agents-contact-my-employer-or-hr-about-loan-default`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/instant-loan-app-harassment-can-they-access-contacts-and-gallery`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/is-it-legal-for-recovery-agents-to-visit-home-on-sundays-or-public-holidays`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/can-another-bank-freeze-my-salary-account-for-a-different-bank-loan-default`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
+        {
+            url: `${baseUrl}/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 0.9,
+        },
     ];
 }

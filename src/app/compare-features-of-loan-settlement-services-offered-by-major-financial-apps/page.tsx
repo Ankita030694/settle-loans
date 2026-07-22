@@ -636,52 +636,54 @@ export default function CompareLoanAppsPage() {
           </article>
 
           {/* Right Column: Sidebar (Sticky) */}
-          <aside className="hidden lg:block w-1/4 relative">
-            <div className="sticky top-24 space-y-8">
-              <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
-                <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white italic tracking-wider">Secure Your Future</h3>
-                </div>
-                <div className="p-6 text-center">
-                  <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold italic tracking-tight underline">
-                    Start your digital journey to a debt-free life today with expert negotiation.
+          <aside className="hidden lg:block w-1/5 relative shrink-0">
+            <div className="sticky top-24 space-y-6">
+              
+              <div className="bg-[#2E2E2E] rounded-[2rem] p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
+                <div className="absolute top-0 right-0 w-32 h-32 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-500"></div>
+                <div className="relative z-10">
+                  <h4 className="text-2xl font-black mb-4 leading-tight">Agents Calling Your Boss?</h4>
+                  <p className="text-sm text-gray-300 mb-8 leading-relaxed">
+                    Stop the harassment legally and protect your employment reputation.
                   </p>
-                  <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-3 px-4 rounded-[10px] hover:scale-105 transition-all shadow-md group-hover:shadow-lg italic tracking-tighter uppercase underline">
-                    Talk to an Expert
+                  <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-bold py-3.5 px-4 rounded-xl hover:bg-blue-600 transition-colors shadow-lg shadow-blue-500/30">
+                    Send Legal Notice
                   </Link>
-                  <p className="mt-4 text-[10px] text-[#DEDEDE]/60 uppercase tracking-[0.2em] font-black underline">100% Confidential</p>
                 </div>
               </div>
 
-              <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-xs font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 italic underline">Related Guides</h3>
-                <ul className="space-y-4 text-[11px] font-bold italic">
+              <div className="bg-white rounded-[2rem] p-8 border border-[#DEDEDE] shadow-sm">
+                <h4 className="text-xs font-black uppercase tracking-widest text-[#747474] border-b border-[#DEDEDE] pb-4 mb-6">
+                  LEGAL RESOURCES
+                </h4>
+                <ul className="space-y-4">
                   <li>
-                    <Link href="/loan-settlement-lawyers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
-                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>
-                      Legal Rights of Borrowers
+                    <Link href="/rbi-guidelines-for-loan-recovery" className="group flex items-center text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-4 transition-colors"></span>
+                      RBI Guidelines Explained
                     </Link>
                   </li>
                   <li>
-                    <Link href="/punishment-for-non-payment-of-personal-loan-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
-                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>
-                      Default Consequences
+                    <Link href="/dealing-with-harassment" className="group flex items-center text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-4 transition-colors"></span>
+                      Dealing with Harassment
                     </Link>
                   </li>
                   <li>
-                    <Link href="/ignoring-calls-of-recovery-agent" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
-                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>
-                      Dealing with Agents
+                    <Link href="/settle-loan-legally" className="group flex items-center text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-4 transition-colors"></span>
+                      Settle Your Loan Legally
                     </Link>
                   </li>
                   <li>
-                    <Link href="/debt-settlement-company-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
-                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>
-                      Settlement vs. Default
+                    <Link href="/filing-defamation-cases" className="group flex items-center text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">
+                      <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-4 transition-colors"></span>
+                      Filing Defamation Cases
                     </Link>
                   </li>
                 </ul>
               </div>
+
             </div>
           </aside>
 

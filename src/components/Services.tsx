@@ -181,13 +181,6 @@ export default function Services() {
               WebkitOverflowScrolling: 'touch'
             }}
           >
-            {/* Custom Styles for hiding scrollbar */}
-            <style jsx>{`
-              .no-scrollbar::-webkit-scrollbar {
-                display: none;
-              }
-            `}</style>
-            
             {services.map((service, index) => (
               <div key={index} className="md:snap-center">
                 <ServiceCard 
