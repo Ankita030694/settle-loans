@@ -613,7 +613,7 @@ export default function SettlementVsConsolidationPage() {
             <section id="faqs" className="scroll-mt-32 mb-12">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 uppercase tracking-widest text-[#1F5EFF]">Comprehensive Financial FAQ</h2>
               <div className="space-y-6 not-prose">
-                {jsonLd["@graph"]?.[4] && "mainEntity" in jsonLd["@graph"][4] && (jsonLd["@graph"][4] as any).mainEntity.map((faq: any, i: number) => (
+                {jsonLd["@graph"]?.[4] && "mainEntity" in jsonLd["@graph"][4] && (jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-2xl overflow-hidden hover:shadow-xl transition-all border-b-8 border-b-[#1F5EFF]/10">
                     <summary className="flex justify-between items-center p-6 cursor-pointer font-black text-[#2E2E2E] list-none bg-gray-50/50 group-open:bg-white transition-colors">
                       <span className="text-xl leading-tight">{i + 1}. {faq.name}</span>

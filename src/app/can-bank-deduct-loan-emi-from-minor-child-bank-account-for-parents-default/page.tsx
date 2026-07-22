@@ -169,7 +169,7 @@ export default function MinorChildAccountDeductionPage() {
     ]
   };
 
-  const faqs = jsonLd["@graph"][4].mainEntity;
+  const faqs = (jsonLd["@graph"][4] as any).mainEntity || [];
 
   const tocItems = [
     { id: "shocking-reality", title: "The Shocking Reality of Minor Account Deductions" },

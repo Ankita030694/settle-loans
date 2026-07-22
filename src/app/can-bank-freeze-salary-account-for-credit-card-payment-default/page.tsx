@@ -176,7 +176,7 @@ export default function SalaryAccountFreezePage() {
     ]
   };
 
-  const faqs = jsonLd["@graph"][4].mainEntity;
+  const faqs = (jsonLd["@graph"][4] as any).mainEntity || [];
 
   const tocItems = [
     { id: "the-survival-crisis", title: "The Survival Crisis: Frozen Salary" },

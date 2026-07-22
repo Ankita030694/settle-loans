@@ -784,7 +784,7 @@ export default function RecoveryAgentHarassmentGuide() {
               <div className="space-y-4">
                 {jsonLd["@graph"]?.map((item: any, idx: number) => {
                   if (item["@type"] === "FAQPage" && item.mainEntity) {
-                    return item.mainEntity.map((faq: any, faqIdx: number) => (
+                    return item?.mainEntity?.map((faq: any, faqIdx: number) => (
                       <details key={`${idx}-${faqIdx}`} className="group bg-white border border-gray-200 rounded-2xl overflow-hidden hover:shadow-md transition-all">
                         <summary className="flex justify-between items-center p-6 cursor-pointer font-black text-gray-900 list-none bg-gray-50 group-open:bg-[#1F5EFF] group-open:text-white transition-colors">
                           <span className="text-lg">{faqIdx + 1}. {faq.name}</span>

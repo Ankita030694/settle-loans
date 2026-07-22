@@ -616,7 +616,7 @@ export default function DebtProgramComparisonPage() {
             <section id="faqs" className="scroll-mt-32 mb-12">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12 uppercase tracking-tighter text-center">Frequently Asked Questions</h2>
               <div className="space-y-8">
-                {jsonLd["@graph"][3] && "mainEntity" in jsonLd["@graph"][3] && (jsonLd["@graph"][3] as any).mainEntity.map((faq: any, i: number) => (
+                {jsonLd["@graph"][3] && "mainEntity" in jsonLd["@graph"][3] && (jsonLd["@graph"][3] as any)?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-gray-100 rounded-[40px] overflow-hidden hover:shadow-2xl transition-all border-b-8 border-b-gray-100 hover:border-b-[#1F5EFF]">
                     <summary className="flex justify-between items-center p-10 cursor-pointer font-black text-2xl text-gray-900 list-none transition-colors group-open:bg-gray-50">
                       <span className="flex-1 pr-10">{i + 1}. {faq.name}</span>

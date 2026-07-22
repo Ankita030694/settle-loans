@@ -492,7 +492,7 @@ export default function IARCPage() {
             <section id="faqs" className="scroll-mt-32 mb-12">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">Important FAQs on IARC Loan Settlement</h2>
               <div className="space-y-4 not-prose">
-                {jsonLd["@graph"][3]?.mainEntity?.map((faq, i) => (
+                {jsonLd["@graph"][3]?.mainEntity?.map((faq: any, i: number) => (
                   <details key={i} className="group bg-white border border-[#DEDEDE] rounded-2xl overflow-hidden hover:shadow-md transition-all duration-300">
                     <summary className="flex justify-between items-center p-6 cursor-pointer font-black text-[#2E2E2E] list-none bg-white group-open:bg-[#1F5EFF]/5">
                       <span className="text-lg pr-4">{faq.name}</span>

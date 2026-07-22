@@ -557,7 +557,7 @@ export default function MedicalEmergenciesSettlementPage() {
               <section id="faqs-med" className="scroll-mt-32 mb-16">
                 <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">FAQs: Your Questions Answered</h2>
                 <div className="space-y-4">
-                  {(jsonLd["@graph"][4] as any).mainEntity.map((faq: any, i: number) => (
+                  {(jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, i: number) => (
                     <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all border-b-4 border-b-[#1F5EFF]/20">
                       <summary className="flex justify-between items-center p-5 cursor-pointer font-black text-[#2E2E2E] list-none bg-gray-50 group-open:bg-white transition-colors">
                         <span className="text-lg">{faq.name}</span>

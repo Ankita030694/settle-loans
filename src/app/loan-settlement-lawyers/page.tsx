@@ -542,7 +542,7 @@ export default function LoanSettlementLawyersPage() {
           <section id="faqs" className="scroll-mt-32 mb-12">
             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8">Frequently Asked Questions</h2>
             <div className="space-y-4 not-prose">
-              {(jsonLd["@graph"].find((g: any) => g["@type"] === "FAQPage") as any).mainEntity.map((faq: any, i: number) => (
+              {(jsonLd["@graph"].find((g: any) => g["@type"] === "FAQPage") as any)?.mainEntity?.map((faq: any, i: number) => (
                 <details key={i} className="group bg-white border border-[#DEDEDE] rounded-xl overflow-hidden hover:shadow-md transition-all">
                   <summary className="flex justify-between items-center p-5 cursor-pointer font-black text-[#2E2E2E] list-none bg-[#E3EDFF]/50 group-open:bg-[#E3EDFF]">
                     <span className="text-lg pr-4">{i + 1}. {faq.name}</span>

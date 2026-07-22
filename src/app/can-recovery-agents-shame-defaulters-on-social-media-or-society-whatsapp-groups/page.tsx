@@ -461,7 +461,7 @@ export default function SocialMediaShamingDefensePage() {
                 Frequently Asked Questions
               </h2>
               <div className="space-y-4">
-                {jsonLd["@graph"][4].mainEntity.map((faq: { name: string; acceptedAnswer: { text: string } }, index: number) => (
+                {(jsonLd["@graph"][4] as any).mainEntity?.map((faq: { name: string; acceptedAnswer: { text: string } }, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
                     <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
