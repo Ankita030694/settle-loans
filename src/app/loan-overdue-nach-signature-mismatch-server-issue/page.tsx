@@ -184,13 +184,13 @@ export default function NachBounceGuidePage() {
   ];
 
   const tocItems = [
-    { id: 'introduction', label: 'Understanding Technical Bounces' },
-    { id: 'liability', label: 'Who Pays the Penalty?' },
-    { id: 'signature-mismatch', label: 'NACH Signature Mismatch Explained' },
-    { id: 'server-issues', label: 'Bank Server Issue EMI Bounces' },
-    { id: 'action-steps', label: 'Steps to Fight Bounce Charges' },
-    { id: 'success-stories', label: 'Success Stories' },
-    { id: 'faqs', label: 'Frequently Asked Questions' },
+    { id: 'introduction', title: 'Understanding Technical Bounces' },
+    { id: 'liability', title: 'Who Pays the Penalty?' },
+    { id: 'signature-mismatch', title: 'NACH Signature Mismatch Explained' },
+    { id: 'server-issues', title: 'Bank Server Issue EMI Bounces' },
+    { id: 'action-steps', title: 'Steps to Fight Bounce Charges' },
+    { id: 'success-stories', title: 'Success Stories' },
+    { id: 'faqs', title: 'Frequently Asked Questions' },
   ];
 
   return (
