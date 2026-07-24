@@ -148,6 +148,19 @@ export default function PrivacyPolicyPage() {
               </p>
             </section>
 
+            {/* Data Usage & Deletion (Right to be Forgotten) */}
+            <section className="mb-12">
+              <h2 className="text-2xl md:text-3xl font-black mb-6">Data Usage & Deletion</h2>
+              <p className="mb-6">
+                Your data is exclusively used to facilitate loan settlement negotiations, keep you informed about your case progress, and improve our services. We do not sell your personal data to third parties.
+              </p>
+              <div className="bg-blue-50 border-l-4 border-[#1F5EFF] p-6 rounded-r-xl">
+                <p className="m-0 text-sm md:text-base text-blue-900 leading-relaxed font-medium">
+                  <strong>Want your data removed?</strong> If you wish to have your personal data completely removed from our systems, simply contact us at <a href="mailto:info@settleloans.in" className="text-[#1F5EFF] hover:underline font-bold">info@settleloans.in</a>, and we will promptly process your deletion request.
+                </p>
+              </div>
+            </section>
+
             {/* Contacting SettleLoans */}
             <section className="mb-12 bg-[#1F5EFF]/5 border border-[#1F5EFF]/20 rounded-3xl p-8 text-center">
               <h2 className="text-3xl font-black mb-4">Contacting SettleLoans</h2>

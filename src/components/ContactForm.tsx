@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import Image from 'next/image';
+import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { X } from 'lucide-react';
 import { useGoogleReCaptcha } from 'react-google-recaptcha-v3';
@@ -448,6 +449,15 @@ export default function ContactForm({
             rows={variant === 'section' ? 3 : 2}
             className="w-full bg-transparent border-b border-[#6D6D6D] py-1.5 focus:outline-none focus:border-[#2E2E2E] transition-colors text-base text-[#2E2E2E] placeholder:text-[#6D6D6D] resize-none"
           />
+        </div>
+
+        {/* Disclaimer Text */}
+        <div className="text-center text-xs md:text-sm text-[#2E2E2E] mt-4 mb-2 leading-relaxed">
+          By clicking submit, you agree to share these details with us for the purpose of contacting you regarding our services. Please read our{' '}
+          <Link href="/privacy-policy" className="text-[#f59e0b] font-semibold hover:underline">
+            Privacy Policy
+          </Link>{' '}
+          for more details.
         </div>
 
         {/* Submit Button */}
