@@ -205,7 +205,7 @@ export default function NachBounceGuidePage() {
           style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}
         >
           {/* Hero Section */}
-          <section className="w-full bg-[#2E2E2E] pt-24 pb-12 md:pt-40 md:pb-24 px-4 md:px-8 lg:px-16 relative overflow-hidden">
+          <section className="w-full bg-[#2E2E2E] pt-16 pb-8 md:pt-28 md:pb-16 px-4 md:px-8 lg:px-16 relative overflow-hidden">
             <div className="max-w-5xl mx-auto text-center relative z-10">
               <span className="inline-block py-1.5 px-4 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] text-sm font-bold mb-6 tracking-wider uppercase">
                 Fight Bounce Charges
