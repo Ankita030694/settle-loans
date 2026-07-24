@@ -534,7 +534,7 @@ export default function Page() {
               <section id="faq" className="scroll-mt-32 mb-16">
                 <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Frequently Asked Questions</h2>
                 <div className="space-y-4">
-                  {jsonLd[3].mainEntity.map((faq: any, index: number) => (
+                  {jsonLd[3].mainEntity?.map((faq: any, index: number) => (
                     <details key={index} name="faq-accordion" className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md group cursor-pointer transition-shadow">
                       <summary className="font-bold text-lg text-[#2E2E2E] list-none flex justify-between items-center">
                         {faq.name}
