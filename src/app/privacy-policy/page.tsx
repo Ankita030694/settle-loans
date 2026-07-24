@@ -63,7 +63,7 @@ export default function PrivacyPolicyPage() {
               </ul>
               <div className="mt-8 bg-blue-50 border-l-4 border-[#1F5EFF] p-6 rounded-r-xl">
                 <p className="m-0 text-sm md:text-base text-blue-900 leading-relaxed font-medium">
-                  By providing your mobile number or email address, you consent to receive essential service communications from SettleLoans—even if your number is registered on the DND list.
+                  By providing your mobile number or email address, you consent to receive essential service communications from SettleLoans, even if your number is registered on the DND list.
                 </p>
               </div>
             </section>

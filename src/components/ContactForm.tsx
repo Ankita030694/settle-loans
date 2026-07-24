@@ -454,7 +454,11 @@ export default function ContactForm({
         {/* Disclaimer Text */}
         <div className="text-center text-xs md:text-sm text-[#2E2E2E] mt-4 mb-2 leading-relaxed">
           By clicking submit, you agree to share these details with us for the purpose of contacting you regarding our services. Please read our{' '}
-          <Link href="/privacy-policy" className="text-[#f59e0b] font-semibold hover:underline">
+          <Link 
+            href="/privacy-policy" 
+            className="text-[#f59e0b] font-semibold hover:underline"
+            onClick={onCancel}
+          >
             Privacy Policy
           </Link>{' '}
           for more details.
