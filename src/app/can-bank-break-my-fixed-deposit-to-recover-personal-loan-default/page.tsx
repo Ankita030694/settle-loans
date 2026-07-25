@@ -2,7 +2,7 @@ import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata = {
-  title: 'Can Banks Break Your FD to Recover a Personal Loan Default?',
+  title: 'Banker\'s Right of Set-Off: Can Banks Break Your FD?',
   description: 'Understand the Banker\'s Right of General Lien and Set-Off. Learn if a bank can break your FD or freeze your savings account for a loan default in India.',
   alternates: {
     canonical: 'https://www.settleloans.in/can-bank-break-my-fixed-deposit-to-recover-personal-loan-default',
@@ -14,7 +14,7 @@ export default function BankersRightOfSetOffPage() {
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Banker's Right of Set-Off: Can a Bank Break Your Fixed Deposit to Recover a Loan?",
+      "name": "Banker's Right of Set-Off: Can Banks Break Your FD?",
       "description": "Understand the Banker's Right of General Lien and Set-Off. Learn if a bank can break your FD or freeze your savings account for a loan default in India.",
       "url": "https://www.settleloans.in/can-bank-break-my-fixed-deposit-to-recover-personal-loan-default"
     },
@@ -39,7 +39,7 @@ export default function BankersRightOfSetOffPage() {
     {
       "@context": "https://schema.org",
       "@type": "Article",
-      "headline": "Banker's Right of Set-Off: Can a Bank Break Your Fixed Deposit to Recover a Loan?",
+      "headline": "Banker's Right of Set-Off: Can Banks Break Your FD?",
       "description": "An eye-opening guide explaining the Banker's Right of General Lien and Set-Off, and how banks can liquidate FDs or freeze savings to recover loan defaults.",
       "author": {
         "@type": "Organization",

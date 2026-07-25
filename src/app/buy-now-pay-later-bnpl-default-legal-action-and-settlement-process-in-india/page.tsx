@@ -3,7 +3,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "BNPL Defaults: Legal Action & Settlement Process in India",
+  title: "BNPL Defaults: Legal Action & Settlement",
   description: "Learn about the consequences of defaulting on BNPL apps like Amazon Pay Later, Simpl, or ZestMoney. Understand legal actions, CIBIL score drop, and how to negotiate a debt settlement.",
   alternates: {
     canonical: "https://www.settleloans.in/buy-now-pay-later-bnpl-default-legal-action-and-settlement-process-in-india",
@@ -26,7 +26,7 @@ export default function BNPLDefaultPage() {
     {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Buy Now Pay Later (BNPL) Defaults: Legal Action and Settlement Process in India",
+      "name": "BNPL Defaults: Legal Action & Settlement",
       "description": "Explains how BNPL apps are legally backed by traditional NBFCs, meaning a default on a BNPL purchase ruins a CIBIL score and outlines how to negotiate a rapid settlement.",
       "url": "https://www.settleloans.in/buy-now-pay-later-bnpl-default-legal-action-and-settlement-process-in-india"
     },
@@ -57,7 +57,7 @@ export default function BNPLDefaultPage() {
     {
       "@context": "https://schema.org",
       "@type": "Article",
-      "headline": "Buy Now Pay Later (BNPL) Defaults: Legal Action and Settlement Process in India",
+      "headline": "BNPL Defaults: Legal Action & Settlement",
       "author": {
         "@type": "Organization",
         "name": "SettleLoans"
