@@ -658,7 +658,7 @@ export default function CompareLoanAppsPage() {
                 </h4>
                 <ul className="space-y-4">
                   <li>
-                    <Link href="/rbi-guidelines-for-loan-recovery" className="group flex items-center text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">
+                    <Link href="/rbi-new-recovery-guidelines-july-2026" className="group flex items-center text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-4 transition-colors"></span>
                       RBI Guidelines Explained
                     </Link>

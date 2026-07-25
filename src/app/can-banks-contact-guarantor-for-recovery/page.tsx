@@ -621,7 +621,7 @@ export default function Page() {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/rbi-guidelines-for-loan-recovery" className="group flex items-center text-gray-600 hover:text-[#1F5EFF] text-sm font-medium transition-colors">
+                  <Link href="/rbi-new-recovery-guidelines-july-2026" className="group flex items-center text-gray-600 hover:text-[#1F5EFF] text-sm font-medium transition-colors">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                     RBI Recovery Guidelines
                   </Link>

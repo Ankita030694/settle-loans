@@ -651,7 +651,7 @@ export default function BusinessLoanForeclosurePage() {
                     </Link>
                   </li>
                   <li>
-                    <Link href="/rbi-guidelines-for-loan-recovery" className="flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors group">
+                    <Link href="/rbi-new-recovery-guidelines-july-2026" className="flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors group">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>
                       RBI Recovery Rules
                     </Link>

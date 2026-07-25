@@ -2,7 +2,7 @@ import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata = {
-  title: 'Banker\'s Right of Set-Off: Can a Bank Break Your Fixed Deposit to Recover a Loan?',
+  title: 'Can Banks Break Your FD to Recover a Personal Loan Default?',
   description: 'Understand the Banker\'s Right of General Lien and Set-Off. Learn if a bank can break your FD or freeze your savings account for a loan default in India.',
   alternates: {
     canonical: 'https://www.settleloans.in/can-bank-break-my-fixed-deposit-to-recover-personal-loan-default',
@@ -510,7 +510,7 @@ export default function BankersRightOfSetOffPage() {
                   <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Legal Guides</h4>
                   <ul className="space-y-4">
                     {[
-                      { text: "RBI Guidelines on Loan Recovery", link: "/rbi-guidelines-for-loan-recovery" },
+                      { text: "RBI Guidelines on Loan Recovery", link: "/rbi-new-recovery-guidelines-july-2026" },
                       { text: "What to Do If EMI is Missed", link: "/what-happens-if-loan-emi-not-paid" },
                       { text: "Can Police Arrest for Loan?", link: "/can-i-go-to-jail-for-loan-default-in-india" },
                       { text: "How to Stop Harassment", link: "/how-to-stop-loan-recovery-harassment" }

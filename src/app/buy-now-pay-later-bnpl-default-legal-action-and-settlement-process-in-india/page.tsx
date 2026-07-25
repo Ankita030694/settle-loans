@@ -3,7 +3,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Buy Now Pay Later (BNPL) Defaults: Legal Action and Settlement Process in India",
+  title: "BNPL Defaults: Legal Action & Settlement Process in India",
   description: "Learn about the consequences of defaulting on BNPL apps like Amazon Pay Later, Simpl, or ZestMoney. Understand legal actions, CIBIL score drop, and how to negotiate a debt settlement.",
   alternates: {
     canonical: "https://www.settleloans.in/buy-now-pay-later-bnpl-default-legal-action-and-settlement-process-in-india",
