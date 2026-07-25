@@ -51,8 +51,10 @@ export default function PrivacyPolicyPage() {
               </p>
               <ul className="space-y-4 list-none pl-0">
                 {[
-                  "Full name, email address, mailing address, and phone number for identification and secure communication.",
-                  "Company name, team size, and business type when you enquire on behalf of an organisation.",
+                  "Contact Information: Full name, email address, phone number, and state of residence for identification and secure communication.",
+                  "Financial Details: Monthly income, personal loan dues, credit card dues, and payment capacity to accurately assess your financial standing and eligibility for settlement.",
+                  "Debt Situation Data: Information regarding recovery agent pressure, legal notices received, and personal situation descriptions to tailor our legal protection and settlement strategies.",
+                  "Company Information: Company name, team size, and business type when you enquire on behalf of an organisation.",
                   "Billing details required to process professional fees (we never store full credit/debit card numbers)."
                 ].map((item, idx) => (
                   <li key={idx} className="flex items-start gap-3">
@@ -152,7 +154,7 @@ export default function PrivacyPolicyPage() {
             <section className="mb-12">
               <h2 className="text-2xl md:text-3xl font-black mb-6">Data Usage & Deletion</h2>
               <p className="mb-6">
-                Your data is exclusively used to facilitate loan settlement negotiations, keep you informed about your case progress, and improve our services. We do not sell your personal data to third parties.
+                Your personal, financial, and debt-related data is exclusively used to evaluate your eligibility for debt settlement programs, formulate tailored legal/recovery defense strategies, facilitate loan settlement negotiations, and keep you informed about your case progress. We do not sell your personal data to third parties.
               </p>
               <div className="bg-blue-50 border-l-4 border-[#1F5EFF] p-6 rounded-r-xl">
                 <p className="m-0 text-sm md:text-base text-blue-900 leading-relaxed font-medium">
