@@ -7,7 +7,7 @@ interface TableOfContentsProps {
   items: { id: string; title: string }[];
 }
 
-export default function TableOfContents({ items = [] }: TableOfContentsProps) {
+export function TableOfContents({ items = [] }: TableOfContentsProps) {
   const [activeId, setActiveId] = useState<string>("");
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
@@ -119,3 +119,5 @@ export default function TableOfContents({ items = [] }: TableOfContentsProps) {
     </>
   );
 }
+
+export default TableOfContents;
