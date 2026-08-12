@@ -263,6 +263,131 @@ const nextConfig: NextConfig = {
         destination: '/loan-settlement/sbi',
         permanent: true,
       },
+      {
+        source: '/eligibility-checker-for-loan-settlement',
+        destination: '/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms',
+        permanent: true,
+      },
+      {
+        source: '/index.html',
+        destination: '/',
+        permanent: true,
+      },
+      {
+        source: '/free-consultation-loan-settlement',
+        destination: '/contact',
+        permanent: true,
+      },
+      {
+        source: '/loan-settlement-fees',
+        destination: '/compare-debt-settlement-fees-and-success-rate',
+        permanent: true,
+      },
+      {
+        source: '/eligibility',
+        destination: '/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms',
+        permanent: true,
+      },
+      {
+        source: '/resources',
+        destination: '/all-queries',
+        permanent: true,
+      },
+      {
+        source: '/harassment-by-recovery-agents',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/%20what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi',
+        destination: '/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi',
+        permanent: true,
+      },
+      {
+        source: '/html/privacy-policy.html',
+        destination: '/privacy-policy',
+        permanent: true,
+      },
+      {
+        source: '/services/loan-settlement',
+        destination: '/services/personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/service/free-credit-report',
+        destination: '/credit-score-improvement',
+        permanent: true,
+      },
+      {
+        source: '/blog/credit-information',
+        destination: '/credit-score-improvement',
+        permanent: true,
+      },
+      {
+        source: '/blog/how-to-neotiate-a-lump-sum',
+        destination: '/faqs/how-to-negotiate-personal-loan-settlement',
+        permanent: true,
+      },
+      {
+        source: '/static/media/Terms_and_Conditions.ef33aeceb3258dd6ff40.pdf',
+        destination: '/terms-and-conditions',
+        permanent: true,
+      },
+      {
+        source: '/static/media/Privacy_Policy.d267c00ea98943bba513.pdf',
+        destination: '/privacy-policy',
+        permanent: true,
+      },
+      {
+        source: '/blog/how-to-rebuild-your-credit-score',
+        destination: '/credit-score-improvement',
+        permanent: true,
+      },
+      {
+        source: '/service/cibil-building-programme',
+        destination: '/credit-score-improvement',
+        permanent: true,
+      },
+      {
+        source: '/service/settlement-and-foreclosure',
+        destination: '/loan-settlement-process-in-india',
+        permanent: true,
+      },
+      {
+        source: '/blog/impact-of-bank-harassment',
+        destination: '/how-to-stop-loan-recovery-harassment',
+        permanent: true,
+      },
+      {
+        source: '/faq',
+        destination: '/all-queries',
+        permanent: true,
+      },
+      {
+        source: '/blog/bank-lied',
+        destination: '/all-queries',
+        permanent: true,
+      },
+      {
+        source: '/blog/debt-liberation',
+        destination: '/all-queries',
+        permanent: true,
+      },
+      {
+        source: '/blogs',
+        destination: '/all-queries',
+        permanent: true,
+      },
+      {
+        source: '/about',
+        destination: '/contact',
+        permanent: true,
+      },
+      {
+        source: '/service/personal-loan',
+        destination: '/services/personal-loan-settlement',
+        permanent: true,
+      },
     ];
 
   },
