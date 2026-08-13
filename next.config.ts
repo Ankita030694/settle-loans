@@ -11,6 +11,14 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+  async rewrites() {
+    return [
+      {
+        source: '/sitemap',
+        destination: '/html-sitemap',
+      }
+    ];
+  },
   async redirects() {
     return [
       {
