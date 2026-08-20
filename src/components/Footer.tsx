@@ -96,6 +96,8 @@ export default function Footer() {
             <div className="flex flex-col gap-3">
               <Link href="/terms-and-conditions" className='text-blue-600 hover:text-blue-800 text-base'>Terms & Conditions</Link>
               <Link href="/privacy-policy" className='text-blue-600 hover:text-blue-800 text-base'>Privacy Policy</Link>
+              <Link href="/how-to-avoid-loan-settlement-scams" className='text-blue-600 hover:text-blue-800 text-base'>Avoid Settlement Scams</Link>
+              <Link href="/recovery-agent-visiting-workplace-office" className='text-blue-600 hover:text-blue-800 text-base'>Recovery Agent Workplace Visits</Link>
               <Link href="/loan-settlement-by-bank" className='text-blue-600 hover:text-blue-800 text-base'>Loan Settlement for Banks</Link>
               <Link href = "/loan-settlement-by-city" className='text-blue-600 hover:text-blue-800 text-base'>Loan Settlement by City</Link>
             </div>

@@ -5,25 +5,91 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
     return [
         {
-            url: `${baseUrl}/remove-settled-status-from-cibil`,
+            url: `${baseUrl}/no-dues-certificate-after-loan-settlement`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 1.0,
         },
         {
-            url: `${baseUrl}/personal-loan-settlement-percentage`,
+            url: `${baseUrl}/bank-one-time-settlement-ots-policy`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 1.0,
         },
         {
-            url: `${baseUrl}/cannot-pay-personal-loan-emi`,
+            url: `${baseUrl}/how-to-settle-credit-card-debt`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 1.0,
         },
         {
-            url: `${baseUrl}/multiple-personal-loan-settlement`,
+            url: `${baseUrl}/loan-settlement-vs-debt-consolidation`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/how-to-avoid-loan-settlement-scams`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/can-i-go-to-jail-for-loan-default`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/section-138-cheque-bounce-loan-default`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/lok-adalat-notice-for-personal-loan`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/recovery-agent-visiting-workplace-office`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/recovery-agents-calling-relatives-friends`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/bank-one-time-settlement-ots-policy`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/how-to-settle-credit-card-debt`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/how-to-avoid-loan-settlement-scams`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/section-138-cheque-bounce-loan-default`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/lok-adalat-notice-for-personal-loan`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 1.0,
@@ -2233,12 +2299,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
             lastModified: new Date(),
             changeFrequency: 'weekly',
             priority: 0.9,
-        },
-        {
-            url: `${baseUrl}/remove-settled-status-from-cibil`,
-            lastModified: new Date(),
-            changeFrequency: 'weekly',
-            priority: 1.0,
         },
         {
             url: `${baseUrl}/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default`,
