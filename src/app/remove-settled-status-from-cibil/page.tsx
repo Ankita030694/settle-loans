@@ -195,8 +195,20 @@ const jsonLdGraph = {
       "name": "CIBIL Settled-to-Closed Status Upgrade & Dispute Resolution",
       "description": "Expert legal advisory, bank balance waiver negotiation, No Dues Certificate retrieval, and bureau dispute filing to upgrade 'Settled' loan accounts to 'Closed' in CIBIL, Experian, and CRIF reports.",
       "url": "https://settleloans.in/remove-settled-status-from-cibil",
+      "image": "https://settleloans.in/og-image.jpg",
+      "telephone": "+91-99999-99999",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Connaught Place",
+        "addressLocality": "New Delhi",
+        "addressRegion": "Delhi",
+        "postalCode": "110001",
+        "addressCountry": "IN"
+      },
       "provider": {
         "@type": "Organization",
+        "@id": "https://settleloans.in/#organization",
         "name": "SettleLoans",
         "url": "https://settleloans.in"
       },

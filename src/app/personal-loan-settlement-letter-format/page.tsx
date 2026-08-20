@@ -195,6 +195,14 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
+      "image": "https://settleloans.in/logo/logo.svg",
+      "telephone": "+91-9821219819",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "India"
+      },
       "@id": "https://settleloans.in/personal-loan-settlement-letter-format#service",
       "name": "Personal Loan Settlement Legal Advisory & Documentation Services",
       "description": "Professional drafting of bank settlement letters, OTS negotiation, anti-harassment legal protection, and CIBIL score rehabilitation for distressed borrowers in India.",

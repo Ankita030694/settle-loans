@@ -212,6 +212,14 @@ export default function MultiplePersonalLoanSettlementPage() {
       },
       {
         '@type': 'FinancialService',
+      'image': 'https://settleloans.in/logo/logo.svg',
+      'telephone': '+91-9821219819',
+      'priceRange': '₹₹',
+      'address': {
+        '@type': 'PostalAddress',
+        'addressCountry': 'IN',
+        'addressLocality': 'India'
+      },
         '@id': 'https://settleloans.in/multiple-personal-loan-settlement#service',
         'name': 'Multiple Personal Loan Settlement Program',
         'description': 'Comprehensive legal advocacy and multi-lender debt negotiation program to resolve multiple unsecured personal loans, credit card balances, and fintech app debts across Indian banks and NBFCs.',

@@ -173,6 +173,14 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
+      "image": "https://settleloans.in/logo/logo.svg",
+      "telephone": "+91-9821219819",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "India"
+      },
       "@id": "https://settleloans.in/personal-loan-settlement-cibil-impact#service",
       "name": "Personal Loan Debt Settlement & CIBIL Resolution Assistance",
       "description": "Comprehensive legal advisory, bank OTS negotiation, harassment defense, and CIBIL credit recovery strategies for distressed personal loan borrowers across India.",

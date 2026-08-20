@@ -196,6 +196,14 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
+      "image": "https://settleloans.in/logo/logo.svg",
+      "telephone": "+91-9821219819",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "India"
+      },
       "@id": "https://settleloans.in/personal-loan-settlement-percentage#service",
       "name": "Personal Loan Settlement & OTS Percentage Advisory Services",
       "description": "Professional legal evaluation, RBI NPA provisioning analysis, hardship negotiation, and OTS discount optimization for distressed borrowers across India.",

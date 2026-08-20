@@ -194,6 +194,14 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
+      "image": "https://settleloans.in/logo/logo.svg",
+      "telephone": "+91-9821219819",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "India"
+      },
       "@id": "https://settleloans.in/personal-loan-legal-notice#service",
       "name": "Personal Loan Legal Notice Defense & Settlement Services",
       "description": "Expert advocate legal notice reply drafting, Section 138/25 defense, anti-harassment injunctions, and RBI-compliant One-Time Settlement (OTS) negotiations for distressed borrowers across India.",

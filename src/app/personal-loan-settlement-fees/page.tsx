@@ -193,6 +193,14 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
+      "image": "https://settleloans.in/logo/logo.svg",
+      "telephone": "+91-9821219819",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "India"
+      },
       "@id": "https://settleloans.in/personal-loan-settlement-fees#service",
       "name": "Debt Settlement Legal Advisory & Fee Evaluation Services",
       "description": "Transparent, success-linked loan settlement legal representation, anti-harassment protection, and OTS negotiation for borrowers facing financial distress across India.",

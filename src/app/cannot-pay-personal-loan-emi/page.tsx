@@ -193,6 +193,14 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
+      "image": "https://settleloans.in/logo/logo.svg",
+      "telephone": "+91-9821219819",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "India"
+      },
       "@id": "https://settleloans.in/cannot-pay-personal-loan-emi#service",
       "name": "Emergency Personal Loan Dispute, Restructuring & Debt Settlement Advisory",
       "description": "Comprehensive legal advisory, harassment protection, RBI ombudsman escalations, loan restructuring, and One-Time Settlement (OTS) negotiations for distressed personal loan borrowers across India.",

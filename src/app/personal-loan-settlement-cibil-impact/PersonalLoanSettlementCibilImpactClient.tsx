@@ -227,28 +227,28 @@ export default function PersonalLoanSettlementCibilImpactClient() {
         }
       `}</style>
 
-      {/* A. Editorial Hero Section - White Background & Compact Title */}
-      <section className="w-full bg-white border-b border-slate-200 pt-8 pb-7 md:pt-12 md:pb-9 px-4 md:px-8 lg:px-16 relative overflow-hidden">
+      {/* A. Editorial Hero Section - Custom Charcoal (#2D313D) Theme */}
+      <section className="w-full bg-[#2D313D] border-b border-slate-700/60 pt-8 pb-7 md:pt-12 md:pb-9 px-4 md:px-8 lg:px-16 relative overflow-hidden text-white">
         <div className="max-w-4xl mx-auto text-center relative z-10">
           {/* Badge Pill */}
-          <div className="inline-flex items-center gap-2 py-1 px-3.5 rounded-full bg-blue-50 border border-blue-200 text-[#1F5EFF] text-xs font-black mb-3 tracking-wider uppercase">
-            <Sparkles className="w-3.5 h-3.5 text-[#1F5EFF]" />
+          <div className="inline-flex items-center gap-2 py-1 px-3.5 rounded-full bg-[#1F5EFF]/20 border border-[#1F5EFF]/40 text-blue-300 text-xs font-black mb-3 tracking-wider uppercase">
+            <Sparkles className="w-3.5 h-3.5 text-[#60A5FA]" />
             CIBIL Forensics &amp; Legal Debt Relief Guide
           </div>
 
           {/* H1 Headline - Compact Title */}
-          <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-slate-900 mb-3 leading-snug tracking-tight">
+          <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
             Does Personal Loan Settlement Affect CIBIL?{' '}
-            <span className="text-[#1F5EFF]">Score Impact, Legal Rights &amp; 750+ Recovery</span>
+            <span className="text-[#60A5FA]">Score Impact, Legal Rights &amp; 750+ Recovery</span>
           </h1>
 
           {/* Subtitle */}
-          <p className="text-xs sm:text-sm md:text-base text-slate-600 mb-5 max-w-2xl mx-auto leading-relaxed font-normal">
+          <p className="text-xs sm:text-sm md:text-base text-slate-300 mb-5 max-w-2xl mx-auto leading-relaxed font-normal">
             Personal loan settlement reduces your CIBIL score by 75–150 points and records a &quot;Settled&quot; status for up to 7 years. An authentic legal settlement halts penal interest, prevents litigation, and enables prime score recovery in 18–24 months.
           </p>
 
           {/* Author & Review Meta Bar */}
-          <div className="flex flex-wrap items-center justify-center gap-2.5 sm:gap-4 text-xs text-slate-500 mb-5 pb-3 border-b border-slate-100 max-w-xl mx-auto">
+          <div className="flex flex-wrap items-center justify-center gap-2.5 sm:gap-4 text-xs text-slate-400 mb-5 pb-3 border-b border-slate-700/60 max-w-xl mx-auto">
             <div className="flex items-center gap-1.5">
               <div className="w-5 h-5 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-[9px]">
                 AJ
@@ -257,20 +257,20 @@ export default function PersonalLoanSettlementCibilImpactClient() {
                 Written by{' '}
                 <Link
                   href="/authors/ashish-jhangra"
-                  className="text-slate-900 hover:text-[#1F5EFF] font-semibold underline decoration-[#1F5EFF] underline-offset-2"
+                  className="text-white hover:text-blue-300 font-semibold underline decoration-[#1F5EFF] underline-offset-2"
                 >
                   Ashish Jhangra
                 </Link>
               </span>
             </div>
-            <div className="hidden sm:block text-slate-300">•</div>
+            <div className="hidden sm:block text-slate-500">•</div>
             <div className="flex items-center gap-1.5">
-              <ShieldCheck className="w-3.5 h-3.5 text-emerald-600" />
+              <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
               <span>Reviewed by SettleLoans Legal Advisory Team</span>
             </div>
-            <div className="hidden sm:block text-slate-300">•</div>
+            <div className="hidden sm:block text-slate-500">•</div>
             <div className="flex items-center gap-1.5">
-              <Calendar className="w-3.5 h-3.5 text-[#1F5EFF]" />
+              <Calendar className="w-3.5 h-3.5 text-blue-300" />
               <span>Updated: August 19, 2026</span>
             </div>
           </div>
@@ -286,9 +286,9 @@ export default function PersonalLoanSettlementCibilImpactClient() {
             </Link>
             <a
               href="#cibil-impact-mechanics"
-              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-slate-50 hover:bg-slate-100 text-slate-700 font-semibold py-2.5 px-4 rounded-xl border border-slate-200 transition-all duration-300 text-xs sm:text-sm"
+              className="w-full sm:w-auto inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/15 text-white font-semibold py-2.5 px-4 rounded-xl border border-white/20 transition-all duration-300 text-xs sm:text-sm"
             >
-              <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
+              <BookOpen className="w-4 h-4 text-blue-300" />
               <span>Read Full Credit Impact Analysis</span>
             </a>
           </div>

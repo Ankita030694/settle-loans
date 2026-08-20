@@ -195,6 +195,14 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
+      "image": "https://settleloans.in/logo/logo.svg",
+      "telephone": "+91-9821219819",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "India"
+      },
       "@id": "https://settleloans.in/personal-loan-settlement-vs-restructuring#service",
       "name": "Personal Loan Restructuring & Settlement Legal Advisory",
       "description": "Expert financial evaluation, bank restructuring representation, compromise OTS settlement negotiation, anti-harassment legal protection, and CIBIL score rehabilitation services across India.",

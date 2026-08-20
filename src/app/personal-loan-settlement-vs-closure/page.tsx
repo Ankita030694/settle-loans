@@ -193,6 +193,14 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
+      "image": "https://settleloans.in/logo/logo.svg",
+      "telephone": "+91-9821219819",
+      "priceRange": "₹₹",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN",
+        "addressLocality": "India"
+      },
       "@id": "https://settleloans.in/personal-loan-settlement-vs-closure#service",
       "name": "Loan Settlement & CIBIL Closure Legal Advisory Services",
       "description": "Expert legal representation, bank compromise negotiation, anti-harassment defense, and CIBIL score rehabilitation services for borrowers across India.",
