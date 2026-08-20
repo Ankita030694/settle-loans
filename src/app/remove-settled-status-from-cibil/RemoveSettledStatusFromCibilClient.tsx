@@ -1,7 +1,8 @@
 'use client';
 import CompanySection from '@/components/CompanySection';
+import StatsStrip from '@/components/StatsStrip';
 
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import {
   ShieldCheck,
@@ -35,75 +36,6 @@ import {
   ArrowUpRight,
   AlertCircle
 } from 'lucide-react';
-
-// Animated Dynamic Counter with Intersection Observer and Smooth Cubic Deceleration
-function AnimatedCounter({
-  end,
-  duration = 2000,
-  prefix = '',
-  suffix = '',
-  decimals = 0,
-}: {
-  end: number;
-  duration?: number;
-  prefix?: string;
-  suffix?: string;
-  decimals?: number;
-}) {
-  const [count, setCount] = useState(0);
-  const [isVisible, setIsVisible] = useState(false);
-  const counterRef = useRef<HTMLSpanElement>(null);
-
-  useEffect(() => {
-    const observer = new IntersectionObserver(
-      ([entry]) => {
-        if (entry.isIntersecting) {
-          setIsVisible(true);
-        }
-      },
-      { threshold: 0.2 }
-    );
-
-    if (counterRef.current) {
-      observer.observe(counterRef.current);
-    }
-
-    return () => observer.disconnect();
-  }, []);
-
-  useEffect(() => {
-    if (!isVisible) return;
-
-    let startTime: number | null = null;
-    let animationFrame: number;
-
-    const animate = (currentTime: number) => {
-      if (!startTime) startTime = currentTime;
-      const progress = Math.min((currentTime - startTime) / duration, 1);
-      // Smooth ease-out cubic deceleration
-      const easeOut = 1 - Math.pow(1 - progress, 3);
-      setCount(easeOut * end);
-
-      if (progress < 1) {
-        animationFrame = requestAnimationFrame(animate);
-      } else {
-        setCount(end);
-      }
-    };
-
-    animationFrame = requestAnimationFrame(animate);
-
-    return () => cancelAnimationFrame(animationFrame);
-  }, [isVisible, end, duration]);
-
-  return (
-    <span ref={counterRef} className="font-black">
-      {prefix}
-      {decimals > 0 ? count.toFixed(decimals) : Math.floor(count).toLocaleString('en-IN')}
-      {suffix}
-    </span>
-  );
-}
 
 // Interactive Collapsible FAQ Item Component
 const FAQItem = ({
@@ -377,43 +309,8 @@ export default function RemoveSettledStatusFromCibilClient() {
         </div>
       </section>
 
-      {/* Crisp Light-Themed Stats Strip */}
-      <section className="w-full bg-slate-50 border-b border-slate-200 py-4 px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 text-slate-900">
-        <div className="max-w-[1720px] mx-auto grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 text-center">
-          <div className="p-2 border-r border-slate-200 last:border-none">
-            <div className="text-xl sm:text-2xl md:text-3xl font-black text-[#1F5EFF]">
-              <AnimatedCounter end={30} suffix="–45" /> Days
-            </div>
-            <div className="text-[11px] sm:text-xs text-slate-600 font-medium mt-0.5">
-              RBI Bureau Update Cycle
-            </div>
-          </div>
-          <div className="p-2 border-r border-slate-200 last:border-none">
-            <div className="text-xl sm:text-2xl md:text-3xl font-black text-emerald-600">
-              ₹0 Arrears
-            </div>
-            <div className="text-[11px] sm:text-xs text-slate-600 font-medium mt-0.5">
-              Unconditional NDC Guarantee
-            </div>
-          </div>
-          <div className="p-2 border-r border-slate-200 last:border-none">
-            <div className="text-xl sm:text-2xl md:text-3xl font-black text-amber-600">
-              <AnimatedCounter end={750} prefix="" suffix="+" />
-            </div>
-            <div className="text-[11px] sm:text-xs text-slate-600 font-medium mt-0.5">
-              Target Rebound Milestone
-            </div>
-          </div>
-          <div className="p-2">
-            <div className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900">
-              <AnimatedCounter end={1850} suffix="+" /> Cases
-            </div>
-            <div className="text-[11px] sm:text-xs text-slate-600 font-medium mt-0.5">
-              4.9/5 Rating Resolved
-            </div>
-          </div>
-        </div>
-      </section>
+      {/* B. Crisp Light-Themed Stats Strip */}
+      <StatsStrip />
 
       {/* Main Content Grid: Left TOC (240px-280px), Middle Content (Expanded), Right Sidebar (280px-320px) */}
       <div className="w-full max-w-[1720px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 py-8 md:py-12">
@@ -777,102 +674,26 @@ export default function RemoveSettledStatusFromCibilClient() {
                     </h3>
                   </div>
                 </div>
-                <div className="hidden sm:flex items-center gap-1.5 text-xs text-blue-200 bg-blue-900/60 px-3 py-1 rounded-full border border-blue-500/30">
-                  <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-                  <span>RBI Compliant Legal Protocol</span>
-                </div>
+                <a
+                  href="/images/infographics/remove-settled-status-from-cibil.jpg"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-xs text-[#1F5EFF] hover:text-blue-300 font-bold flex items-center gap-1 transition-colors"
+                >
+                  <span className="hidden sm:inline">Open Full Size</span>
+                  <ExternalLink className="w-3.5 h-3.5" />
+                </a>
               </div>
 
-              {/* Sleek Compact Infographic Canvas */}
-              <div className="p-4 md:p-6 bg-gradient-to-b from-slate-50 to-blue-50/40">
-                {/* 4 Concise Horizontal Pillars */}
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3.5 mb-6">
-                  {/* Pillar 1 */}
-                  <div className="bg-white border border-slate-200 rounded-2xl p-3.5 shadow-sm hover:border-[#1F5EFF] transition-all">
-                    <div className="flex items-center gap-2 mb-1.5">
-                      <div className="w-6 h-6 rounded-lg bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-black text-xs">
-                        1
-                      </div>
-                      <h4 className="font-bold text-xs md:text-sm text-slate-900">Forensic Audit</h4>
-                    </div>
-                    <p className="text-[11px] md:text-xs text-slate-600 leading-snug">
-                      Isolate loan account ID, verify written-off loss, and audit CIR across all 4 bureaus.
-                    </p>
-                  </div>
-
-                  {/* Pillar 2 */}
-                  <div className="bg-white border border-slate-200 rounded-2xl p-3.5 shadow-sm hover:border-[#1F5EFF] transition-all">
-                    <div className="flex items-center gap-2 mb-1.5">
-                      <div className="w-6 h-6 rounded-lg bg-indigo-100 text-indigo-600 flex items-center justify-center font-black text-xs">
-                        2
-                      </div>
-                      <h4 className="font-bold text-xs md:text-sm text-slate-900">Balance Remittance</h4>
-                    </div>
-                    <p className="text-[11px] md:text-xs text-slate-600 leading-snug">
-                      Negotiate zero penal interest and pay net waived principal via direct NEFT/RTGS.
-                    </p>
-                  </div>
-
-                  {/* Pillar 3 */}
-                  <div className="bg-white border border-slate-200 rounded-2xl p-3.5 shadow-sm hover:border-[#1F5EFF] transition-all">
-                    <div className="flex items-center gap-2 mb-1.5">
-                      <div className="w-6 h-6 rounded-lg bg-emerald-100 text-emerald-600 flex items-center justify-center font-black text-xs">
-                        3
-                      </div>
-                      <h4 className="font-bold text-xs md:text-sm text-slate-900">Unconditional NDC</h4>
-                    </div>
-                    <p className="text-[11px] md:text-xs text-slate-600 leading-snug">
-                      Secure official bank letterhead NDC explicitly certifying ₹0 balance &amp; &quot;Closed&quot; status.
-                    </p>
-                  </div>
-
-                  {/* Pillar 4 */}
-                  <div className="bg-white border border-slate-200 rounded-2xl p-3.5 shadow-sm hover:border-[#1F5EFF] transition-all">
-                    <div className="flex items-center gap-2 mb-1.5">
-                      <div className="w-6 h-6 rounded-lg bg-amber-100 text-amber-600 flex items-center justify-center font-black text-xs">
-                        4
-                      </div>
-                      <h4 className="font-bold text-xs md:text-sm text-slate-900">Bureau Rectification</h4>
-                    </div>
-                    <p className="text-[11px] md:text-xs text-slate-600 leading-snug">
-                      Automated 30-day bank upload or CIBIL DCN dispute escalation to reach 750+ score.
-                    </p>
-                  </div>
-                </div>
-
-                {/* Horizontal Milestone Progress Line */}
-                <div className="bg-white border border-slate-200 rounded-2xl p-4 shadow-sm mb-2">
-                  <div className="text-[11px] font-bold uppercase tracking-wider text-slate-500 mb-3 flex items-center justify-between">
-                    <span>Statutory Execution Timeline</span>
-                    <span className="text-[#1F5EFF] font-bold">Standard Duration: 30 to 45 Days Total</span>
-                  </div>
-                  <div className="relative flex items-center justify-between">
-                    <div className="absolute left-0 right-0 top-1/2 -translate-y-1/2 h-1 bg-slate-100 rounded-full z-0"></div>
-                    <div className="relative z-10 text-center">
-                      <div className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-[10px] font-bold flex items-center justify-center mx-auto mb-1">
-                        D1
-                      </div>
-                      <span className="text-[10px] font-semibold text-slate-700 block">Audit &amp; Filing</span>
-                    </div>
-                    <div className="relative z-10 text-center">
-                      <div className="w-6 h-6 rounded-full bg-indigo-600 text-white text-[10px] font-bold flex items-center justify-center mx-auto mb-1">
-                        D15
-                      </div>
-                      <span className="text-[10px] font-semibold text-slate-700 block">Balance Payment</span>
-                    </div>
-                    <div className="relative z-10 text-center">
-                      <div className="w-6 h-6 rounded-full bg-emerald-600 text-white text-[10px] font-bold flex items-center justify-center mx-auto mb-1">
-                        D30
-                      </div>
-                      <span className="text-[10px] font-semibold text-slate-700 block">NDC Issued</span>
-                    </div>
-                    <div className="relative z-10 text-center">
-                      <div className="w-6 h-6 rounded-full bg-amber-600 text-white text-[10px] font-bold flex items-center justify-center mx-auto mb-1">
-                        D45
-                      </div>
-                      <span className="text-[10px] font-semibold text-slate-700 block">CIBIL &quot;Closed&quot;</span>
-                    </div>
-                  </div>
+              {/* Compact Landscape Infographic Image */}
+              <div className="p-3 md:p-4 bg-slate-50">
+                <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-sm bg-white">
+                  <img
+                    src="/images/infographics/remove-settled-status-from-cibil.jpg"
+                    alt="CIBIL Settled to Closed Status Upgrade Architecture and Legal Roadmap Infographic"
+                    className="w-full h-auto object-contain max-h-[420px] mx-auto hover:scale-[1.01] transition-transform duration-300"
+                    loading="lazy"
+                  />
                 </div>
               </div>
 

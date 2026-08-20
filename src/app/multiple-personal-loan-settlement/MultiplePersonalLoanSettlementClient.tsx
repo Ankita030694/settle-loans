@@ -1,7 +1,8 @@
 "use client";
 import CompanySection from '@/components/CompanySection';
+import StatsStrip from '@/components/StatsStrip';
 
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 import {
   ChevronDown,
@@ -27,62 +28,6 @@ import {
   X,
   ExternalLink
 } from 'lucide-react';
-
-interface CounterProps {
-  end: number;
-  duration?: number;
-  prefix?: string;
-  suffix?: string;
-}
-
-function AnimatedCounter({ end, duration = 2000, prefix = "", suffix = "" }: CounterProps) {
-  const [count, setCount] = useState(0);
-  const countRef = useRef<HTMLSpanElement>(null);
-  const [hasAnimated, setHasAnimated] = useState(false);
-
-  useEffect(() => {
-    const observer = new IntersectionObserver(
-      ([entry]) => {
-        if (entry.isIntersecting && !hasAnimated) {
-          setHasAnimated(true);
-          const startTime = performance.now();
-          const startValue = 0;
-          const endValue = end;
-
-          const updateCounter = (currentTime: number) => {
-            const elapsed = currentTime - startTime;
-            const progress = Math.min(elapsed / duration, 1);
-            // Smooth cubic deceleration
-            const easeOutCubic = 1 - Math.pow(1 - progress, 3);
-            const current = Math.floor(startValue + (endValue - startValue) * easeOutCubic);
-            setCount(current);
-
-            if (progress < 1) {
-              requestAnimationFrame(updateCounter);
-            } else {
-              setCount(endValue);
-            }
-          };
-
-          requestAnimationFrame(updateCounter);
-        }
-      },
-      { threshold: 0.15 }
-    );
-
-    if (countRef.current) {
-      observer.observe(countRef.current);
-    }
-
-    return () => observer.disconnect();
-  }, [end, duration, hasAnimated]);
-
-  return (
-    <span ref={countRef}>
-      {prefix}{count.toLocaleString('en-IN')}{suffix}
-    </span>
-  );
-}
 
 const TOC_SECTIONS = [
   { id: 'multi-debt-crisis', title: '1. Anatomy of the Multi-Debt Spiral in India' },
@@ -247,48 +192,7 @@ export default function MultiplePersonalLoanSettlementClient() {
       </header>
 
       {/* 2. CRISP LIGHT-THEMED STATS STRIP */}
-      <section className="w-full bg-slate-50 border-b border-slate-200 py-4 px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 text-slate-900">
-        <div className="max-w-[1720px] mx-auto">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 divide-y md:divide-y-0 md:divide-x divide-slate-200">
-            <div className="flex flex-col items-center justify-center text-center p-2">
-              <span className="text-2xl sm:text-3xl font-black text-[#1F5EFF]">
-                <AnimatedCounter end={120} prefix="₹" suffix="Cr+" />
-              </span>
-              <span className="text-xs font-semibold text-slate-600 uppercase tracking-wider mt-0.5">
-                Total Multi-Debt Resolved
-              </span>
-            </div>
-
-            <div className="flex flex-col items-center justify-center text-center p-2 pt-3 md:pt-2">
-              <span className="text-2xl sm:text-3xl font-black text-emerald-600">
-                <AnimatedCounter end={18500} suffix="+" />
-              </span>
-              <span className="text-xs font-semibold text-slate-600 uppercase tracking-wider mt-0.5">
-                Borrowers Legally Protected
-              </span>
-            </div>
-
-            <div className="flex flex-col items-center justify-center text-center p-2 pt-3 md:pt-2">
-              <span className="text-2xl sm:text-3xl font-black text-amber-600">
-                <AnimatedCounter end={58} suffix="%" />
-              </span>
-              <span className="text-xs font-semibold text-slate-600 uppercase tracking-wider mt-0.5">
-                Average Principal Waiver
-              </span>
-            </div>
-
-            <div className="flex flex-col items-center justify-center text-center p-2 pt-3 md:pt-2">
-              <div className="flex items-center gap-1.5 text-2xl sm:text-3xl font-black text-[#1F5EFF]">
-                <span>4.9</span>
-                <span className="text-base font-bold text-amber-500">★★★★★</span>
-              </div>
-              <span className="text-xs font-semibold text-slate-600 uppercase tracking-wider mt-0.5">
-                1,850+ Verified Client Reviews
-              </span>
-            </div>
-          </div>
-        </div>
-      </section>
+      <StatsStrip />
 
       {/* 3. WIDESCREEN 3-COLUMN LAYOUT CONTAINER */}
       <div className="w-full max-w-[1720px] mx-auto px-3 sm:px-4 md:px-6 lg:px-8 xl:px-10 py-8 md:py-12">
