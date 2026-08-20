@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/og-image.jpg',
+        url: 'https://settleloans.in/images/infographics/cannot-pay-personal-loan-emi.jpg',
         width: 1200,
         height: 630,
         alt: 'I Cannot Pay My Personal Loan EMI Guide',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Cannot Pay Personal Loan EMI? Immediate Legal Action Guide',
     description: 'Practical emergency steps, RBI anti-harassment rules, moratorium options, and legal debt settlement strategies for distressed borrowers in India.',
-    images: ['https://settleloans.in/og-image.jpg'],
+    images: ['https://settleloans.in/images/infographics/cannot-pay-personal-loan-emi.jpg'],
   },
   keywords: [
     'i cannot pay my personal loan emi what should i do',
@@ -47,39 +47,21 @@ const jsonLdGraph = {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
-      "@id": "https://settleloans.in/cannot-pay-personal-loan-emi#article",
-      "headline": "I Cannot Pay My Personal Loan EMI: Immediate Emergency Steps, Legal Rights & Relief Options",
-      "description": "An exhaustive, legally validated guide for Indian borrowers who cannot pay their personal loan EMI due to job loss, medical crisis, or financial distress. Covers RBI borrower protections, moratorium requests, restructuring, recovery defense, and one-time debt settlement.",
-      "image": "https://settleloans.in/og-image.jpg",
-      "datePublished": "2026-08-19T09:00:00+05:30",
-      "dateModified": "2026-08-19T09:00:00+05:30",
-      "mainEntityOfPage": "https://settleloans.in/cannot-pay-personal-loan-emi",
-      "author": {
-        "@type": "Person",
-        "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+      "@type": "WebPage",
+      "@id": "https://settleloans.in/cannot-pay-personal-loan-emi#webpage",
+      "url": "https://settleloans.in/cannot-pay-personal-loan-emi",
+      "name": "I Cannot Pay My Personal Loan EMI: What Should I Do? (2026 Relief Guide)",
+      "description": "Cannot pay your personal loan EMI? Discover immediate 24-hour crisis steps, RBI borrower protection rules, legal notice defense, and how to settle or restructure safely.",
+      "breadcrumb": {
+        "@id": "https://settleloans.in/cannot-pay-personal-loan-emi#breadcrumb"
       },
-      "publisher": {
-        "@type": "Organization",
+      "inLanguage": "en-IN",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://settleloans.in/#website",
         "name": "SettleLoans",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
-        }
+        "url": "https://settleloans.in"
       }
-    },
-    {
-      "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
-      "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
-      "sameAs": [
-        "https://www.linkedin.com/company/settleloans",
-        "https://twitter.com/settleloans",
-        "https://www.facebook.com/settleloans"
-      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -94,14 +76,116 @@ const jsonLdGraph = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services & Guides",
-          "item": "https://settleloans.in/services"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
           "name": "Cannot Pay Personal Loan EMI",
           "item": "https://settleloans.in/cannot-pay-personal-loan-emi"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://settleloans.in/cannot-pay-personal-loan-emi#article",
+      "headline": "I Cannot Pay My Personal Loan EMI: Immediate Emergency Steps, Legal Rights & Relief Options",
+      "description": "An exhaustive, legally validated guide for Indian borrowers who cannot pay their personal loan EMI due to job loss, medical crisis, or financial distress. Covers RBI borrower protections, moratorium requests, restructuring, recovery defense, and one-time debt settlement.",
+      "image": "https://settleloans.in/images/infographics/cannot-pay-personal-loan-emi.jpg",
+      "datePublished": "2026-08-19T09:00:00+05:30",
+      "dateModified": "2026-08-19T09:00:00+05:30",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/cannot-pay-personal-loan-emi#webpage"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ashish Jhangra",
+        "url": "https://settleloans.in/authors/ashish-jhangra"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://settleloans.in/#organization",
+        "name": "SettleLoans",
+        "url": "https://settleloans.in",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://settleloans.in/logo/logo.svg"
+        }
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://settleloans.in/cannot-pay-personal-loan-emi#product",
+      "name": "Emergency Personal Loan Dispute, Restructuring & Debt Settlement Advisory",
+      "description": "Comprehensive legal advisory, harassment protection, RBI ombudsman escalations, loan restructuring, and One-Time Settlement (OTS) negotiations for distressed personal loan borrowers across India.",
+      "image": "https://settleloans.in/images/infographics/cannot-pay-personal-loan-emi.jpg",
+      "brand": {
+        "@type": "Brand",
+        "name": "SettleLoans"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1850",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rohit V. Kulkarni"
+          },
+          "datePublished": "2026-07-11",
+          "reviewBody": "When I lost my IT job, my ₹6.2 Lakh personal loan EMI was impossible to pay. SettleLoans stepped in within 24 hours, issued a legal hardship notice to the bank, stopped non-stop collection calls, and negotiated a structured OTS at ₹2.65 Lakhs with official No Dues Certificate. Life saver!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meenakshi Sundaram"
+          },
+          "datePublished": "2026-06-28",
+          "reviewBody": "Recovery agents were threatening to visit my workplace. SettleLoans advocates filed an immediate RBI Fair Practices Code complaint and represented my case. The harassment stopped immediately, and they helped me get a 6-month restructuring plan.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deepak Chawla"
+          },
+          "datePublished": "2026-05-14",
+          "reviewBody": "I was overwhelmed with panic after missing 3 consecutive EMIs. SettleLoans provided clear legal clarity that personal loan default is a civil matter. They represented me in National Lok Adalat and settled two personal loans with 55% waiver.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ananya Sengupta"
+          },
+          "datePublished": "2026-08-04",
+          "reviewBody": "Highly professional and empathetic team. They explained the exact differences between restructuring and OTS, helped me avoid fake instant loan apps, and safeguarded my legal rights throughout the dispute resolution.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
         }
       ]
     },
@@ -192,84 +276,18 @@ const jsonLdGraph = {
       ]
     },
     {
-      "@type": "FinancialService",
-      "image": "https://settleloans.in/logo/logo.svg",
-      "telephone": "+91-9821219819",
-      "priceRange": "₹₹",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN",
-        "addressLocality": "India"
+      "@type": "Organization",
+      "@id": "https://settleloans.in/#organization",
+      "name": "SettleLoans",
+      "url": "https://settleloans.in",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://settleloans.in/logo/logo.svg"
       },
-      "@id": "https://settleloans.in/cannot-pay-personal-loan-emi#service",
-      "name": "Emergency Personal Loan Dispute, Restructuring & Debt Settlement Advisory",
-      "description": "Comprehensive legal advisory, harassment protection, RBI ombudsman escalations, loan restructuring, and One-Time Settlement (OTS) negotiations for distressed personal loan borrowers across India.",
-      "url": "https://settleloans.in/cannot-pay-personal-loan-emi",
-      "provider": {
-        "@type": "Organization",
-        "name": "SettleLoans",
-        "url": "https://settleloans.in"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "1850",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Rohit V. Kulkarni"
-          },
-          "datePublished": "2026-07-11",
-          "reviewBody": "When I lost my IT job, my ₹6.2 Lakh personal loan EMI was impossible to pay. SettleLoans stepped in within 24 hours, issued a legal hardship notice to the bank, stopped non-stop collection calls, and negotiated a structured OTS at ₹2.65 Lakhs with official No Dues Certificate. Life saver!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Meenakshi Sundaram"
-          },
-          "datePublished": "2026-06-28",
-          "reviewBody": "Recovery agents were threatening to visit my workplace. SettleLoans advocates filed an immediate RBI Fair Practices Code complaint and represented my case. The harassment stopped immediately, and they helped me get a 6-month restructuring plan.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Deepak Chawla"
-          },
-          "datePublished": "2026-05-14",
-          "reviewBody": "I was overwhelmed with panic after missing 3 consecutive EMIs. SettleLoans provided clear legal clarity that personal loan default is a civil matter. They represented me in National Lok Adalat and settled two personal loans with 55% waiver.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Ananya Sengupta"
-          },
-          "datePublished": "2026-08-04",
-          "reviewBody": "Highly professional and empathetic team. They explained the exact differences between restructuring and OTS, helped me avoid fake instant loan apps, and safeguarded my legal rights throughout the dispute resolution.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        }
+      "sameAs": [
+        "https://www.linkedin.com/company/settleloans",
+        "https://twitter.com/settleloans",
+        "https://www.facebook.com/settleloans"
       ]
     }
   ]

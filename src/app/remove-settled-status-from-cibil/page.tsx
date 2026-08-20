@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/og-image.jpg',
+        url: 'https://settleloans.in/images/infographics/remove-settled-status-from-cibil.jpg',
         width: 1200,
         height: 630,
         alt: 'How to Remove Settled Status from CIBIL Guide',
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Remove Settled Status from CIBIL Report (2026 Legal Guide)',
     description: 'Step-by-step guide on converting a "Settled" status to "Closed" in CIBIL, Experian, and CRIF reports. Discover RBI rules, NDC retrieval, and score recovery.',
-    images: ['https://settleloans.in/og-image.jpg'],
+    images: ['https://settleloans.in/images/infographics/remove-settled-status-from-cibil.jpg'],
   },
 };
 
@@ -45,39 +45,21 @@ const jsonLdGraph = {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
-      "@id": "https://settleloans.in/remove-settled-status-from-cibil#article",
-      "headline": "How to Remove Settled Status from CIBIL: The Complete Legal & Procedural Guide to Upgrade to Closed",
-      "description": "An exhaustive, authoritative guide explaining how borrowers in India can legitimately remove or upgrade a 'Settled' loan remark in CIBIL, CRIF, and Experian reports to 'Closed' status by paying residual balances, securing an authentic No Dues Certificate, and filing bureau dispute rectifications.",
-      "image": "https://settleloans.in/og-image.jpg",
-      "datePublished": "2026-08-19T09:00:00+05:30",
-      "dateModified": "2026-08-19T09:00:00+05:30",
-      "mainEntityOfPage": "https://settleloans.in/remove-settled-status-from-cibil",
-      "author": {
-        "@type": "Person",
-        "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+      "@type": "WebPage",
+      "@id": "https://settleloans.in/remove-settled-status-from-cibil#webpage",
+      "url": "https://settleloans.in/remove-settled-status-from-cibil",
+      "name": "How to Remove Settled Status from CIBIL: Legal Guide to 'Closed' (2026)",
+      "description": "Learn how to remove settled status from CIBIL and convert it to 'Closed'. Step-by-step process to pay residual balance, get No Dues Certificate, file CIBIL disputes, and rebuild credit to 750+.",
+      "breadcrumb": {
+        "@id": "https://settleloans.in/remove-settled-status-from-cibil#breadcrumb"
       },
-      "publisher": {
-        "@type": "Organization",
+      "inLanguage": "en-IN",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://settleloans.in/#website",
         "name": "SettleLoans",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
-        }
+        "url": "https://settleloans.in"
       }
-    },
-    {
-      "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
-      "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
-      "sameAs": [
-        "https://www.linkedin.com/company/settleloans",
-        "https://twitter.com/settleloans",
-        "https://www.facebook.com/settleloans"
-      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -92,14 +74,116 @@ const jsonLdGraph = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services & Guides",
-          "item": "https://settleloans.in/services"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
           "name": "Remove Settled Status from CIBIL",
           "item": "https://settleloans.in/remove-settled-status-from-cibil"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://settleloans.in/remove-settled-status-from-cibil#article",
+      "headline": "How to Remove Settled Status from CIBIL: The Complete Legal & Procedural Guide to Upgrade to Closed",
+      "description": "An exhaustive, authoritative guide explaining how borrowers in India can legitimately remove or upgrade a 'Settled' loan remark in CIBIL, CRIF, and Experian reports to 'Closed' status by paying residual balances, securing an authentic No Dues Certificate, and filing bureau dispute rectifications.",
+      "image": "https://settleloans.in/images/infographics/remove-settled-status-from-cibil.jpg",
+      "datePublished": "2026-08-19T09:00:00+05:30",
+      "dateModified": "2026-08-19T09:00:00+05:30",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/remove-settled-status-from-cibil#webpage"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ashish Jhangra",
+        "url": "https://settleloans.in/authors/ashish-jhangra"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://settleloans.in/#organization",
+        "name": "SettleLoans",
+        "url": "https://settleloans.in",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://settleloans.in/logo/logo.svg"
+        }
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://settleloans.in/remove-settled-status-from-cibil#product",
+      "name": "CIBIL Settled-to-Closed Status Upgrade & Dispute Resolution",
+      "description": "Expert legal advisory, bank balance waiver negotiation, No Dues Certificate retrieval, and bureau dispute filing to upgrade 'Settled' loan accounts to 'Closed' in CIBIL, Experian, and CRIF reports.",
+      "image": "https://settleloans.in/images/infographics/remove-settled-status-from-cibil.jpg",
+      "brand": {
+        "@type": "Brand",
+        "name": "SettleLoans"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1850",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Harishankar V. Pillai"
+          },
+          "datePublished": "2026-07-15",
+          "reviewBody": "I settled my ICICI personal loan in 2023 with a ₹1.4 Lakh discount. When I applied for a SBI home loan in 2026, my application was blocked due to the 'Settled' tag. SettleLoans coordinated with ICICI's nodal operations, helped me pay the exact net balance of ₹1.4 Lakh without penal charges, secured the unconditional NDC, and updated CIBIL to 'Closed' within 35 days. My home loan was approved at 8.4%!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meenakshi Sundaram"
+          },
+          "datePublished": "2026-06-28",
+          "reviewBody": "Axis Bank had falsely reported my settled credit card as 'Written Off' with an active ₹85,000 overdue. SettleLoans advocates issued a formal legal notice under RBI circulars. The bank rectified the entry, cleared all overdue balances, and updated the record properly. Exceptional legal precision and support.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gaurav K. Malhotra"
+          },
+          "datePublished": "2026-08-04",
+          "reviewBody": "I fell victim to an online 'CIBIL clearance agent' who took ₹25,000 and did nothing. Then I found SettleLoans. They clearly explained the real legal process. We approached HDFC Bank formally, paid the genuine principal haircut, and received the authentic bank closure letter. My CIBIL score has rebounded from 610 to 765.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sunita Rawat"
+          },
+          "datePublished": "2026-05-30",
+          "reviewBody": "SettleLoans guided me through rebuilding my credit after settling two NBFC instant loans. They gave me a foolproof blueprint with secured cards and dispute mechanisms. Today my CIBIL score is 778 and I just received my pre-approved auto loan.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
         }
       ]
     },
@@ -190,88 +274,18 @@ const jsonLdGraph = {
       ]
     },
     {
-      "@type": "FinancialService",
-      "@id": "https://settleloans.in/remove-settled-status-from-cibil#service",
-      "name": "CIBIL Settled-to-Closed Status Upgrade & Dispute Resolution",
-      "description": "Expert legal advisory, bank balance waiver negotiation, No Dues Certificate retrieval, and bureau dispute filing to upgrade 'Settled' loan accounts to 'Closed' in CIBIL, Experian, and CRIF reports.",
-      "url": "https://settleloans.in/remove-settled-status-from-cibil",
-      "image": "https://settleloans.in/og-image.jpg",
-      "telephone": "+91-99999-99999",
-      "priceRange": "₹₹",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Connaught Place",
-        "addressLocality": "New Delhi",
-        "addressRegion": "Delhi",
-        "postalCode": "110001",
-        "addressCountry": "IN"
+      "@type": "Organization",
+      "@id": "https://settleloans.in/#organization",
+      "name": "SettleLoans",
+      "url": "https://settleloans.in",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://settleloans.in/logo/logo.svg"
       },
-      "provider": {
-        "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
-        "name": "SettleLoans",
-        "url": "https://settleloans.in"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "1850",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Harishankar V. Pillai"
-          },
-          "datePublished": "2026-07-15",
-          "reviewBody": "I settled my ICICI personal loan in 2023 with a ₹1.4 Lakh discount. When I applied for a SBI home loan in 2026, my application was blocked due to the 'Settled' tag. SettleLoans coordinated with ICICI's nodal operations, helped me pay the exact net balance of ₹1.4 Lakh without penal charges, secured the unconditional NDC, and updated CIBIL to 'Closed' within 35 days. My home loan was approved at 8.4%!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Meenakshi Sundaram"
-          },
-          "datePublished": "2026-06-28",
-          "reviewBody": "Axis Bank had falsely reported my settled credit card as 'Written Off' with an active ₹85,000 overdue. SettleLoans advocates issued a formal legal notice under RBI circulars. The bank rectified the entry, cleared all overdue balances, and updated the record properly. Exceptional legal precision and support.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Gaurav K. Malhotra"
-          },
-          "datePublished": "2026-08-04",
-          "reviewBody": "I fell victim to an online 'CIBIL clearance agent' who took ₹25,000 and did nothing. Then I found SettleLoans. They clearly explained the real legal process. We approached HDFC Bank formally, paid the genuine principal haircut, and received the authentic bank closure letter. My CIBIL score has rebounded from 610 to 765.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sunita Rawat"
-          },
-          "datePublished": "2026-05-30",
-          "reviewBody": "SettleLoans guided me through rebuilding my credit after settling two NBFC instant loans. They gave me a foolproof blueprint with secured cards and dispute mechanisms. Today my CIBIL score is 778 and I just received my pre-approved auto loan.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        }
+      "sameAs": [
+        "https://www.linkedin.com/company/settleloans",
+        "https://twitter.com/settleloans",
+        "https://www.facebook.com/settleloans"
       ]
     }
   ]

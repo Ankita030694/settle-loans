@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/og-image.jpg',
+        url: 'https://settleloans.in/images/infographics/settlement-process.jpg',
         width: 1200,
         height: 630,
         alt: 'Personal Loan Settlement vs Restructuring Guide',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Personal Loan Settlement vs Restructuring: Which Option Is Right For You?',
     description: 'Compare monthly EMI reduction vs one-time settlement haircut. Discover credit bureau impacts, total interest costs, RBI rules, and legal protections.',
-    images: ['https://settleloans.in/og-image.jpg'],
+    images: ['https://settleloans.in/images/infographics/settlement-process.jpg'],
   },
 };
 
@@ -49,39 +49,21 @@ const jsonLdGraph = {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-vs-restructuring#article",
-      "headline": "Personal Loan Settlement vs Restructuring: CIBIL Score Impact, Legal Nuances & Financial Decision Matrix",
-      "description": "An exhaustive, authoritative comparison between personal loan restructuring and one-time debt settlement in India. Evaluates EMI modifications, total interest outgo, CIBIL reporting codes, RBI regulatory frameworks, and credit score rehabilitation.",
-      "image": "https://settleloans.in/og-image.jpg",
-      "datePublished": "2026-08-19T10:00:00+05:30",
-      "dateModified": "2026-08-19T10:00:00+05:30",
-      "mainEntityOfPage": "https://settleloans.in/personal-loan-settlement-vs-restructuring",
-      "author": {
-        "@type": "Person",
-        "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+      "@type": "WebPage",
+      "@id": "https://settleloans.in/personal-loan-settlement-vs-restructuring#webpage",
+      "url": "https://settleloans.in/personal-loan-settlement-vs-restructuring",
+      "name": "Personal Loan Settlement vs Restructuring: CIBIL Score Impact & Decision Guide (2026)",
+      "description": "Confused between personal loan settlement vs restructuring? Compare EMI reduction vs one-time settlement haircut, CIBIL score drop (-50 vs -120 pts), RBI guidelines, total repayment cost & recovery roadmap.",
+      "breadcrumb": {
+        "@id": "https://settleloans.in/personal-loan-settlement-vs-restructuring#breadcrumb"
       },
-      "publisher": {
-        "@type": "Organization",
+      "inLanguage": "en-IN",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://settleloans.in/#website",
         "name": "SettleLoans",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
-        }
+        "url": "https://settleloans.in"
       }
-    },
-    {
-      "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
-      "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
-      "sameAs": [
-        "https://www.linkedin.com/company/settleloans",
-        "https://twitter.com/settleloans",
-        "https://www.facebook.com/settleloans"
-      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -96,14 +78,116 @@ const jsonLdGraph = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services & Guides",
-          "item": "https://settleloans.in/services"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
           "name": "Personal Loan Settlement vs Restructuring",
           "item": "https://settleloans.in/personal-loan-settlement-vs-restructuring"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://settleloans.in/personal-loan-settlement-vs-restructuring#article",
+      "headline": "Personal Loan Settlement vs Restructuring: CIBIL Score Impact, Legal Nuances & Financial Decision Matrix",
+      "description": "An exhaustive, authoritative comparison between personal loan restructuring and one-time debt settlement in India. Evaluates EMI modifications, total interest outgo, CIBIL reporting codes, RBI regulatory frameworks, and credit score rehabilitation.",
+      "image": "https://settleloans.in/images/infographics/settlement-process.jpg",
+      "datePublished": "2026-08-19T10:00:00+05:30",
+      "dateModified": "2026-08-19T10:00:00+05:30",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/personal-loan-settlement-vs-restructuring#webpage"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ashish Jhangra",
+        "url": "https://settleloans.in/authors/ashish-jhangra"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://settleloans.in/#organization",
+        "name": "SettleLoans",
+        "url": "https://settleloans.in",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://settleloans.in/logo/logo.svg"
+        }
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://settleloans.in/personal-loan-settlement-vs-restructuring#product",
+      "name": "Personal Loan Restructuring & Settlement Legal Advisory",
+      "description": "Expert financial evaluation, bank restructuring representation, compromise OTS settlement negotiation, anti-harassment legal protection, and CIBIL score rehabilitation services across India.",
+      "image": "https://settleloans.in/images/infographics/settlement-process.jpg",
+      "brand": {
+        "@type": "Brand",
+        "name": "SettleLoans"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1850",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vikramaditya Sengupta"
+          },
+          "datePublished": "2026-07-12",
+          "reviewBody": "I was overwhelmed by ₹14 Lakhs in personal loans after an unexpected salary cut. SettleLoans evaluated my cash flow and proved that restructuring would only increase my total interest by ₹3.8 Lakhs without solving my crisis. They negotiated an OTS settlement with a 56% waiver and got my official NDC in 30 days. Life-changing legal advice!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pooja Deshmukh"
+          },
+          "datePublished": "2026-06-04",
+          "reviewBody": "My bank refused to listen to my request for tenure extension when I lost my job. SettleLoans advocates intervened, drafted a formal hardship representation citing RBI guidelines, and successfully secured a 24-month tenure restructuring that lowered my EMI from ₹34,000 to ₹17,500. Highly recommended for distressed borrowers!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Manish Aggarwal"
+          },
+          "datePublished": "2026-08-01",
+          "reviewBody": "The clearest comparison of settlement vs restructuring in India. They helped me understand the exact CIBIL score impact and why paying a lump sum settlement made far more sense for my unsecured credit cards than getting trapped in perpetual EMIs.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rohan Natarajan"
+          },
+          "datePublished": "2026-05-19",
+          "reviewBody": "Recovery agents were threatening my family with legal notices. SettleLoans served a formal legal response under RBI Fair Practices Code, stopped the harassment within 24 hours, and negotiated a structured compromise settlement that saved me ₹6.2 Lakhs.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
         }
       ]
     },
@@ -194,84 +278,18 @@ const jsonLdGraph = {
       ]
     },
     {
-      "@type": "FinancialService",
-      "image": "https://settleloans.in/logo/logo.svg",
-      "telephone": "+91-9821219819",
-      "priceRange": "₹₹",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN",
-        "addressLocality": "India"
+      "@type": "Organization",
+      "@id": "https://settleloans.in/#organization",
+      "name": "SettleLoans",
+      "url": "https://settleloans.in",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://settleloans.in/logo/logo.svg"
       },
-      "@id": "https://settleloans.in/personal-loan-settlement-vs-restructuring#service",
-      "name": "Personal Loan Restructuring & Settlement Legal Advisory",
-      "description": "Expert financial evaluation, bank restructuring representation, compromise OTS settlement negotiation, anti-harassment legal protection, and CIBIL score rehabilitation services across India.",
-      "url": "https://settleloans.in/personal-loan-settlement-vs-restructuring",
-      "provider": {
-        "@type": "Organization",
-        "name": "SettleLoans",
-        "url": "https://settleloans.in"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "1850",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Vikramaditya Sengupta"
-          },
-          "datePublished": "2026-07-12",
-          "reviewBody": "I was overwhelmed by ₹14 Lakhs in personal loans after an unexpected salary cut. SettleLoans evaluated my cash flow and proved that restructuring would only increase my total interest by ₹3.8 Lakhs without solving my crisis. They negotiated an OTS settlement with a 56% waiver and got my official NDC in 30 days. Life-changing legal advice!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Pooja Deshmukh"
-          },
-          "datePublished": "2026-06-04",
-          "reviewBody": "My bank refused to listen to my request for tenure extension when I lost my job. SettleLoans advocates intervened, drafted a formal hardship representation citing RBI guidelines, and successfully secured a 24-month tenure restructuring that lowered my EMI from ₹34,000 to ₹17,500. Highly recommended for distressed borrowers!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Manish Aggarwal"
-          },
-          "datePublished": "2026-08-01",
-          "reviewBody": "The clearest comparison of settlement vs restructuring in India. They helped me understand the exact CIBIL score impact and why paying a lump sum settlement made far more sense for my unsecured credit cards than getting trapped in perpetual EMIs.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Rohan Natarajan"
-          },
-          "datePublished": "2026-05-19",
-          "reviewBody": "Recovery agents were threatening my family with legal notices. SettleLoans served a formal legal response under RBI Fair Practices Code, stopped the harassment within 24 hours, and negotiated a structured compromise settlement that saved me ₹6.2 Lakhs.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        }
+      "sameAs": [
+        "https://www.linkedin.com/company/settleloans",
+        "https://twitter.com/settleloans",
+        "https://www.facebook.com/settleloans"
       ]
     }
   ]

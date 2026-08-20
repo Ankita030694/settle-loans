@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/og-image.jpg',
+        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-percentage.jpg',
         width: 1200,
         height: 630,
         alt: 'What Percentage is Personal Loan Settlement in India - SettleLoans Comprehensive Guide',
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     title: 'What Percentage is Personal Loan Settlement? (2026 Average Discounts & Rules)',
     description:
       'Discover average personal loan settlement percentages in India: 30%–50% compromise formulas, principal vs interest waivers, bank comparison matrix, and fund arrangement guidelines.',
-    images: ['https://settleloans.in/og-image.jpg'],
+    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-percentage.jpg'],
   },
 };
 
@@ -50,39 +50,21 @@ const jsonLdGraph = {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-percentage#article",
-      "headline": "What Percentage is Personal Loan Settlement in India? (2026 Average Discounts, OTS Formulas & Fund Planning)",
-      "description": "An exhaustive, authoritative guide explaining what percentage banks and NBFCs accept for personal loan settlement in India. Covers average 30%–50% settlement benchmarks, RBI NPA provisioning formulas, bank-by-bank negotiation flexibility, and fund planning blueprints.",
-      "image": "https://settleloans.in/og-image.jpg",
-      "datePublished": "2026-08-19T10:00:00+05:30",
-      "dateModified": "2026-08-19T10:00:00+05:30",
-      "mainEntityOfPage": "https://settleloans.in/personal-loan-settlement-percentage",
-      "author": {
-        "@type": "Person",
-        "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+      "@type": "WebPage",
+      "@id": "https://settleloans.in/personal-loan-settlement-percentage#webpage",
+      "url": "https://settleloans.in/personal-loan-settlement-percentage",
+      "name": "What Percentage is Personal Loan Settlement in India? (2026 OTS Guide)",
+      "description": "Wondering what percentage is personal loan settlement in India? Discover average settlement percentages (30%–50%), bank discount formulas, NPA timelines & fund planning guide.",
+      "breadcrumb": {
+        "@id": "https://settleloans.in/personal-loan-settlement-percentage#breadcrumb"
       },
-      "publisher": {
-        "@type": "Organization",
+      "inLanguage": "en-IN",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://settleloans.in/#website",
         "name": "SettleLoans",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
-        }
+        "url": "https://settleloans.in"
       }
-    },
-    {
-      "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
-      "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
-      "sameAs": [
-        "https://www.linkedin.com/company/settleloans",
-        "https://twitter.com/settleloans",
-        "https://www.facebook.com/settleloans"
-      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -97,14 +79,116 @@ const jsonLdGraph = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services & Guides",
-          "item": "https://settleloans.in/services"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
           "name": "Personal Loan Settlement Percentage",
           "item": "https://settleloans.in/personal-loan-settlement-percentage"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://settleloans.in/personal-loan-settlement-percentage#article",
+      "headline": "What Percentage is Personal Loan Settlement in India? (2026 Average Discounts, OTS Formulas & Fund Planning)",
+      "description": "An exhaustive, authoritative guide explaining what percentage banks and NBFCs accept for personal loan settlement in India. Covers average 30%–50% settlement benchmarks, RBI NPA provisioning formulas, bank-by-bank negotiation flexibility, and fund planning blueprints.",
+      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-percentage.jpg",
+      "datePublished": "2026-08-19T10:00:00+05:30",
+      "dateModified": "2026-08-19T10:00:00+05:30",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/personal-loan-settlement-percentage#webpage"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ashish Jhangra",
+        "url": "https://settleloans.in/authors/ashish-jhangra"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://settleloans.in/#organization",
+        "name": "SettleLoans",
+        "url": "https://settleloans.in",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://settleloans.in/logo/logo.svg"
+        }
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://settleloans.in/personal-loan-settlement-percentage#product",
+      "name": "Personal Loan Settlement & OTS Percentage Advisory Services",
+      "description": "Professional legal evaluation, RBI NPA provisioning analysis, hardship negotiation, and OTS discount optimization for distressed borrowers across India.",
+      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-percentage.jpg",
+      "brand": {
+        "@type": "Brand",
+        "name": "SettleLoans"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1850",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rohan Deshmukh"
+          },
+          "datePublished": "2026-07-22",
+          "reviewBody": "My personal loan dues had escalated to ₹11.2 Lakhs due to massive penal interest after losing my tech job. SettleLoans advocates represented my case, eliminated all penal charges, and secured an official OTS sanction from HDFC Bank at ₹4.1 Lakhs—less than 37% of total dues. Outstanding transparency!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meenakshi Sundaram"
+          },
+          "datePublished": "2026-08-04",
+          "reviewBody": "I was anxious about whether banks actually accept 40% settlements. SettleLoans explained the exact NPA timeline and bank provisioning math. They negotiated my Axis Bank personal loan down to 34% of the outstanding claim with a verified ₹0 No Dues Certificate.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kunal Singhal"
+          },
+          "datePublished": "2026-06-14",
+          "reviewBody": "Bajaj Finserv recovery agents were demanding ₹7.8 Lakhs on an original ₹5 Lakh loan. SettleLoans halted agent harassment within 48 hours and closed the entire dispute at National Lok Adalat for ₹2.4 Lakhs (31% of claimed dues). Life-changing legal support.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pooja Banerjee"
+          },
+          "datePublished": "2026-07-11",
+          "reviewBody": "Their settlement percentage calculator gave me an accurate fund target of ₹3.5 Lakhs on my ₹9 Lakhs ICICI loan. In exactly 4 months, SettleLoans secured an OTS letter for ₹3.45 Lakhs. Highly professional and honest team.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
         }
       ]
     },
@@ -195,84 +279,18 @@ const jsonLdGraph = {
       ]
     },
     {
-      "@type": "FinancialService",
-      "image": "https://settleloans.in/logo/logo.svg",
-      "telephone": "+91-9821219819",
-      "priceRange": "₹₹",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN",
-        "addressLocality": "India"
+      "@type": "Organization",
+      "@id": "https://settleloans.in/#organization",
+      "name": "SettleLoans",
+      "url": "https://settleloans.in",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://settleloans.in/logo/logo.svg"
       },
-      "@id": "https://settleloans.in/personal-loan-settlement-percentage#service",
-      "name": "Personal Loan Settlement & OTS Percentage Advisory Services",
-      "description": "Professional legal evaluation, RBI NPA provisioning analysis, hardship negotiation, and OTS discount optimization for distressed borrowers across India.",
-      "url": "https://settleloans.in/personal-loan-settlement-percentage",
-      "provider": {
-        "@type": "Organization",
-        "name": "SettleLoans",
-        "url": "https://settleloans.in"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "1850",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Rohan Deshmukh"
-          },
-          "datePublished": "2026-07-22",
-          "reviewBody": "My personal loan dues had escalated to ₹11.2 Lakhs due to massive penal interest after losing my tech job. SettleLoans advocates represented my case, eliminated all penal charges, and secured an official OTS sanction from HDFC Bank at ₹4.1 Lakhs—less than 37% of total dues. Outstanding transparency!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Meenakshi Sundaram"
-          },
-          "datePublished": "2026-08-04",
-          "reviewBody": "I was anxious about whether banks actually accept 40% settlements. SettleLoans explained the exact NPA timeline and bank provisioning math. They negotiated my Axis Bank personal loan down to 34% of the outstanding claim with a verified ₹0 No Dues Certificate.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Kunal Singhal"
-          },
-          "datePublished": "2026-06-14",
-          "reviewBody": "Bajaj Finserv recovery agents were demanding ₹7.8 Lakhs on an original ₹5 Lakh loan. SettleLoans halted agent harassment within 48 hours and closed the entire dispute at National Lok Adalat for ₹2.4 Lakhs (31% of claimed dues). Life-changing legal support.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Pooja Banerjee"
-          },
-          "datePublished": "2026-07-11",
-          "reviewBody": "Their settlement percentage calculator gave me an accurate fund target of ₹3.5 Lakhs on my ₹9 Lakhs ICICI loan. In exactly 4 months, SettleLoans secured an OTS letter for ₹3.45 Lakhs. Highly professional and honest team.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        }
+      "sameAs": [
+        "https://www.linkedin.com/company/settleloans",
+        "https://twitter.com/settleloans",
+        "https://www.facebook.com/settleloans"
       ]
     }
   ]

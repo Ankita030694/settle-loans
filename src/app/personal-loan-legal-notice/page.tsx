@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/og-image.jpg',
+        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-lawyer.jpg',
         width: 1200,
         height: 630,
         alt: 'Legal Notice for Personal Loan Default Guide',
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Legal Notice for Personal Loan Default: Real Consequences & Reply Guide',
     description: 'Complete legal guide for Indian borrowers on handling bank notices, Section 138/25 proceedings, avoiding arrest, and negotiating an authentic One-Time Settlement (OTS).',
-    images: ['https://settleloans.in/og-image.jpg'],
+    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-lawyer.jpg'],
   },
 };
 
@@ -48,39 +48,21 @@ const jsonLdGraph = {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-legal-notice#article",
-      "headline": "Legal Notice for Personal Loan Default: Real Consequences, Reply Format & Legal Protection",
-      "description": "An authoritative, forensic guide on handling bank legal notices for personal loan defaults in India. Learn the difference between civil default and criminal liability, Section 138 NI Act vs. Section 25 PSS Act, how to reply within 15 days, and how to negotiate a One-Time Settlement.",
-      "image": "https://settleloans.in/og-image.jpg",
-      "datePublished": "2026-08-19T09:00:00+05:30",
-      "dateModified": "2026-08-19T09:00:00+05:30",
-      "mainEntityOfPage": "https://settleloans.in/personal-loan-legal-notice",
-      "author": {
-        "@type": "Person",
-        "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+      "@type": "WebPage",
+      "@id": "https://settleloans.in/personal-loan-legal-notice#webpage",
+      "url": "https://settleloans.in/personal-loan-legal-notice",
+      "name": "Legal Notice for Personal Loan Default: Real Consequences & Reply Guide (2026)",
+      "description": "Received a legal notice for personal loan default in India? Discover if you can go to jail, Section 138 vs Section 25 PSS Act, 15-day reply procedure, fake notice identification, and RBI-backed settlement options.",
+      "breadcrumb": {
+        "@id": "https://settleloans.in/personal-loan-legal-notice#breadcrumb"
       },
-      "publisher": {
-        "@type": "Organization",
+      "inLanguage": "en-IN",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://settleloans.in/#website",
         "name": "SettleLoans",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
-        }
+        "url": "https://settleloans.in"
       }
-    },
-    {
-      "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
-      "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
-      "sameAs": [
-        "https://www.linkedin.com/company/settleloans",
-        "https://twitter.com/settleloans",
-        "https://www.facebook.com/settleloans"
-      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -95,14 +77,116 @@ const jsonLdGraph = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services & Legal Guides",
-          "item": "https://settleloans.in/services"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
           "name": "Legal Notice for Personal Loan Default",
           "item": "https://settleloans.in/personal-loan-legal-notice"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://settleloans.in/personal-loan-legal-notice#article",
+      "headline": "Legal Notice for Personal Loan Default: Real Consequences, Reply Format & Legal Protection",
+      "description": "An authoritative, forensic guide on handling bank legal notices for personal loan defaults in India. Learn the difference between civil default and criminal liability, Section 138 NI Act vs. Section 25 PSS Act, how to reply within 15 days, and how to negotiate a One-Time Settlement.",
+      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-lawyer.jpg",
+      "datePublished": "2026-08-19T09:00:00+05:30",
+      "dateModified": "2026-08-19T09:00:00+05:30",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/personal-loan-legal-notice#webpage"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ashish Jhangra",
+        "url": "https://settleloans.in/authors/ashish-jhangra"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://settleloans.in/#organization",
+        "name": "SettleLoans",
+        "url": "https://settleloans.in",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://settleloans.in/logo/logo.svg"
+        }
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://settleloans.in/personal-loan-legal-notice#product",
+      "name": "Personal Loan Legal Notice Defense & Settlement Services",
+      "description": "Expert advocate legal notice reply drafting, Section 138/25 defense, anti-harassment injunctions, and RBI-compliant One-Time Settlement (OTS) negotiations for distressed borrowers across India.",
+      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-lawyer.jpg",
+      "brand": {
+        "@type": "Brand",
+        "name": "SettleLoans"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1850",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suresh Krishnamurthy"
+          },
+          "datePublished": "2026-07-11",
+          "reviewBody": "I received a Section 138 cheque bounce notice from an NBFC demanding ₹7.2 Lakhs with threats of immediate arrest. SettleLoans advocates drafted a forensic legal reply within 8 days, proved my medical crisis, and represented me at Lok Adalat. The entire loan was settled for ₹2.9 Lakhs with full court withdrawal.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pooja Malhotra"
+          },
+          "datePublished": "2026-06-28",
+          "reviewBody": "Recovery agents were sending fake advocate notices on WhatsApp claiming police FIR under Section 420. SettleLoans verified the notice as fraudulent, sent a strict legal counter-notice to the bank's Nodal Officer, and halted all harassment immediately. We later closed the loan through official OTS.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Arjun Venkatesh"
+          },
+          "datePublished": "2026-05-14",
+          "reviewBody": "When an arbitration notice arrived for my personal loan default in Bengaluru, I was panicking about property attachment. SettleLoans filed objections against the unilateral arbitrator and mediated an authentic One-Time Settlement directly with the bank. Received my No Dues Certificate within 3 weeks!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deepak Rajpal"
+          },
+          "datePublished": "2026-08-02",
+          "reviewBody": "Highly professional legal representation. Their advocates drafted an airtight reply to an HDFC Bank legal notice, stopping Section 25 PSS proceedings and structuring an affordable 3-installment settlement. Can't thank the SettleLoans team enough.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
         }
       ]
     },
@@ -193,84 +277,18 @@ const jsonLdGraph = {
       ]
     },
     {
-      "@type": "FinancialService",
-      "image": "https://settleloans.in/logo/logo.svg",
-      "telephone": "+91-9821219819",
-      "priceRange": "₹₹",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN",
-        "addressLocality": "India"
+      "@type": "Organization",
+      "@id": "https://settleloans.in/#organization",
+      "name": "SettleLoans",
+      "url": "https://settleloans.in",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://settleloans.in/logo/logo.svg"
       },
-      "@id": "https://settleloans.in/personal-loan-legal-notice#service",
-      "name": "Personal Loan Legal Notice Defense & Settlement Services",
-      "description": "Expert advocate legal notice reply drafting, Section 138/25 defense, anti-harassment injunctions, and RBI-compliant One-Time Settlement (OTS) negotiations for distressed borrowers across India.",
-      "url": "https://settleloans.in/personal-loan-legal-notice",
-      "provider": {
-        "@type": "Organization",
-        "name": "SettleLoans",
-        "url": "https://settleloans.in"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "1850",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Suresh Krishnamurthy"
-          },
-          "datePublished": "2026-07-11",
-          "reviewBody": "I received a Section 138 cheque bounce notice from an NBFC demanding ₹7.2 Lakhs with threats of immediate arrest. SettleLoans advocates drafted a forensic legal reply within 8 days, proved my medical crisis, and represented me at Lok Adalat. The entire loan was settled for ₹2.9 Lakhs with full court withdrawal.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Pooja Malhotra"
-          },
-          "datePublished": "2026-06-28",
-          "reviewBody": "Recovery agents were sending fake advocate notices on WhatsApp claiming police FIR under Section 420. SettleLoans verified the notice as fraudulent, sent a strict legal counter-notice to the bank's Nodal Officer, and halted all harassment immediately. We later closed the loan through official OTS.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Arjun Venkatesh"
-          },
-          "datePublished": "2026-05-14",
-          "reviewBody": "When an arbitration notice arrived for my personal loan default in Bengaluru, I was panicking about property attachment. SettleLoans filed objections against the unilateral arbitrator and mediated an authentic One-Time Settlement directly with the bank. Received my No Dues Certificate within 3 weeks!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Deepak Rajpal"
-          },
-          "datePublished": "2026-08-02",
-          "reviewBody": "Highly professional legal representation. Their advocates drafted an airtight reply to an HDFC Bank legal notice, stopping Section 25 PSS proceedings and structuring an affordable 3-installment settlement. Can't thank the SettleLoans team enough.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        }
+      "sameAs": [
+        "https://www.linkedin.com/company/settleloans",
+        "https://twitter.com/settleloans",
+        "https://www.facebook.com/settleloans"
       ]
     }
   ]

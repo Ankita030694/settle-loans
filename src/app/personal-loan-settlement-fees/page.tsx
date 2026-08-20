@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/og-image.jpg',
+        url: 'https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg',
         width: 1200,
         height: 630,
         alt: 'How Much Do Loan Settlement Companies Charge in India - Comprehensive Fee Guide',
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How Much Do Loan Settlement Companies Charge? Fees, Models & Scams (2026)',
     description: 'Exhaustive guide on loan settlement charges in India: 10%–20% success fees, upfront scam warnings, calculation worksheets, and RBI fair practice guidelines.',
-    images: ['https://settleloans.in/og-image.jpg'],
+    images: ['https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg'],
   },
 };
 
@@ -47,39 +47,21 @@ const jsonLdGraph = {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-fees#article",
-      "headline": "How Much Do Loan Settlement Companies Charge in India? (2026 Fee Guide, Pricing Models & Scam Warnings)",
-      "description": "An exhaustive investigative guide into loan settlement company fee structures in India. Compare success fee vs enrolled debt models (10–20% of savings), upfront fee scam red flags, RBI fair practices, legal safeguards, and real calculation case studies.",
-      "image": "https://settleloans.in/og-image.jpg",
-      "datePublished": "2026-08-19T10:00:00+05:30",
-      "dateModified": "2026-08-19T10:00:00+05:30",
-      "mainEntityOfPage": "https://settleloans.in/personal-loan-settlement-fees",
-      "author": {
-        "@type": "Person",
-        "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+      "@type": "WebPage",
+      "@id": "https://settleloans.in/personal-loan-settlement-fees#webpage",
+      "url": "https://settleloans.in/personal-loan-settlement-fees",
+      "name": "How Much Do Loan Settlement Companies Charge? Fees & Scams (2026)",
+      "description": "Wondering how much loan settlement companies charge in India? Compare standard success fee models (10–20% of savings), upfront fee red flags, RBI rules & fee calculator.",
+      "breadcrumb": {
+        "@id": "https://settleloans.in/personal-loan-settlement-fees#breadcrumb"
       },
-      "publisher": {
-        "@type": "Organization",
+      "inLanguage": "en-IN",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://settleloans.in/#website",
         "name": "SettleLoans",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
-        }
+        "url": "https://settleloans.in"
       }
-    },
-    {
-      "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
-      "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
-      "sameAs": [
-        "https://www.linkedin.com/company/settleloans",
-        "https://twitter.com/settleloans",
-        "https://www.facebook.com/settleloans"
-      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -94,14 +76,116 @@ const jsonLdGraph = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services & Guides",
-          "item": "https://settleloans.in/services"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
           "name": "Personal Loan Settlement Fees",
           "item": "https://settleloans.in/personal-loan-settlement-fees"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://settleloans.in/personal-loan-settlement-fees#article",
+      "headline": "How Much Do Loan Settlement Companies Charge in India? (2026 Fee Guide, Pricing Models & Scam Warnings)",
+      "description": "An exhaustive investigative guide into loan settlement company fee structures in India. Compare success fee vs enrolled debt models (10–20% of savings), upfront fee scam red flags, RBI fair practices, legal safeguards, and real calculation case studies.",
+      "image": "https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg",
+      "datePublished": "2026-08-19T10:00:00+05:30",
+      "dateModified": "2026-08-19T10:00:00+05:30",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/personal-loan-settlement-fees#webpage"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ashish Jhangra",
+        "url": "https://settleloans.in/authors/ashish-jhangra"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://settleloans.in/#organization",
+        "name": "SettleLoans",
+        "url": "https://settleloans.in",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://settleloans.in/logo/logo.svg"
+        }
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://settleloans.in/personal-loan-settlement-fees#product",
+      "name": "Debt Settlement Legal Advisory & Fee Evaluation Services",
+      "description": "Transparent, success-linked loan settlement legal representation, anti-harassment protection, and OTS negotiation for borrowers facing financial distress across India.",
+      "image": "https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg",
+      "brand": {
+        "@type": "Brand",
+        "name": "SettleLoans"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1850",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rajesh Nambiar"
+          },
+          "datePublished": "2026-07-12",
+          "reviewBody": "I was quoted ₹1.5 Lakhs upfront by a shady debt relief agency in Mumbai. Luckily, I consulted SettleLoans. They explained the transparent 15% success-on-savings model, halted recovery agent harassment within 48 hours, and settled my ₹8.5 Lakhs personal loan for ₹3.4 Lakhs. I saved over ₹5 Lakhs net!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ananya Mukherjee"
+          },
+          "datePublished": "2026-08-01",
+          "reviewBody": "Total transparency from day one. No hidden costs or false promises about CIBIL. SettleLoans charged their success fee only after ICICI Bank issued the official OTS sanction letter. Outstanding legal defense.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vikram Rathore"
+          },
+          "datePublished": "2026-05-19",
+          "reviewBody": "As a small business owner with personal credit card debt of ₹14 Lakhs, I was terrified of upfront fee scams. SettleLoans advocates handled everything ethically under Indian Contract Act norms. Settled at 42% of total dues.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deepak Chawla"
+          },
+          "datePublished": "2026-06-28",
+          "reviewBody": "Their fee calculator was spot on. Paid a nominal legal retainer and the success fee only after receiving my final No Dues Certificate. Saved me from severe court litigation and predatory collection agents.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
         }
       ]
     },
@@ -192,84 +276,18 @@ const jsonLdGraph = {
       ]
     },
     {
-      "@type": "FinancialService",
-      "image": "https://settleloans.in/logo/logo.svg",
-      "telephone": "+91-9821219819",
-      "priceRange": "₹₹",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN",
-        "addressLocality": "India"
+      "@type": "Organization",
+      "@id": "https://settleloans.in/#organization",
+      "name": "SettleLoans",
+      "url": "https://settleloans.in",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://settleloans.in/logo/logo.svg"
       },
-      "@id": "https://settleloans.in/personal-loan-settlement-fees#service",
-      "name": "Debt Settlement Legal Advisory & Fee Evaluation Services",
-      "description": "Transparent, success-linked loan settlement legal representation, anti-harassment protection, and OTS negotiation for borrowers facing financial distress across India.",
-      "url": "https://settleloans.in/personal-loan-settlement-fees",
-      "provider": {
-        "@type": "Organization",
-        "name": "SettleLoans",
-        "url": "https://settleloans.in"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "1850",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Rajesh Nambiar"
-          },
-          "datePublished": "2026-07-12",
-          "reviewBody": "I was quoted ₹1.5 Lakhs upfront by a shady debt relief agency in Mumbai. Luckily, I consulted SettleLoans. They explained the transparent 15% success-on-savings model, halted recovery agent harassment within 48 hours, and settled my ₹8.5 Lakhs personal loan for ₹3.4 Lakhs. I saved over ₹5 Lakhs net!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Ananya Mukherjee"
-          },
-          "datePublished": "2026-08-01",
-          "reviewBody": "Total transparency from day one. No hidden costs or false promises about CIBIL. SettleLoans charged their success fee only after ICICI Bank issued the official OTS sanction letter. Outstanding legal defense.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Vikram Rathore"
-          },
-          "datePublished": "2026-05-19",
-          "reviewBody": "As a small business owner with personal credit card debt of ₹14 Lakhs, I was terrified of upfront fee scams. SettleLoans advocates handled everything ethically under Indian Contract Act norms. Settled at 42% of total dues.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Deepak Chawla"
-          },
-          "datePublished": "2026-06-28",
-          "reviewBody": "Their fee calculator was spot on. Paid a nominal legal retainer and the success fee only after receiving my final No Dues Certificate. Saved me from severe court litigation and predatory collection agents.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        }
+      "sameAs": [
+        "https://www.linkedin.com/company/settleloans",
+        "https://twitter.com/settleloans",
+        "https://www.facebook.com/settleloans"
       ]
     }
   ]

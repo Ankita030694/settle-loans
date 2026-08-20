@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/og-image.jpg',
+        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-letter-format.jpg',
         width: 1200,
         height: 630,
         alt: 'Personal Loan Settlement Letter Format and Templates Guide',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Personal Loan Settlement Letter Format & Bank Request Samples (2026)',
     description: 'Learn how to write a formal OTS request letter to your bank manager. Free customizable templates for medical hardship, job loss, and business distress.',
-    images: ['https://settleloans.in/og-image.jpg'],
+    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-letter-format.jpg'],
   },
 };
 
@@ -49,39 +49,21 @@ const jsonLdGraph = {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-letter-format#article",
-      "headline": "Personal Loan Settlement Letter Format: Ready-to-Use OTS Templates, Bank Request Samples & RBI Rules",
-      "description": "An exhaustive practical guide on drafting a legally sound personal loan settlement letter to Indian banks and NBFCs, featuring ready-to-copy OTS templates, hardship proof checklists, RBI compromise directives, and post-settlement NOC protocols.",
-      "image": "https://settleloans.in/og-image.jpg",
-      "datePublished": "2026-08-19T10:00:00+05:30",
-      "dateModified": "2026-08-19T10:00:00+05:30",
-      "mainEntityOfPage": "https://settleloans.in/personal-loan-settlement-letter-format",
-      "author": {
-        "@type": "Person",
-        "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+      "@type": "WebPage",
+      "@id": "https://settleloans.in/personal-loan-settlement-letter-format#webpage",
+      "url": "https://settleloans.in/personal-loan-settlement-letter-format",
+      "name": "Personal Loan Settlement Letter Format: Templates & Bank Samples (2026)",
+      "description": "Download ready-to-use personal loan settlement letter formats for Indian banks. Get formal OTS request templates for job loss, medical crisis, RBI guidelines & approval tips.",
+      "breadcrumb": {
+        "@id": "https://settleloans.in/personal-loan-settlement-letter-format#breadcrumb"
       },
-      "publisher": {
-        "@type": "Organization",
+      "inLanguage": "en-IN",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://settleloans.in/#website",
         "name": "SettleLoans",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
-        }
+        "url": "https://settleloans.in"
       }
-    },
-    {
-      "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
-      "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
-      "sameAs": [
-        "https://www.linkedin.com/company/settleloans",
-        "https://twitter.com/settleloans",
-        "https://www.facebook.com/settleloans"
-      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -96,14 +78,116 @@ const jsonLdGraph = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services & Guides",
-          "item": "https://settleloans.in/services"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
           "name": "Personal Loan Settlement Letter Format",
           "item": "https://settleloans.in/personal-loan-settlement-letter-format"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://settleloans.in/personal-loan-settlement-letter-format#article",
+      "headline": "Personal Loan Settlement Letter Format: Ready-to-Use OTS Templates, Bank Request Samples & RBI Rules",
+      "description": "An exhaustive practical guide on drafting a legally sound personal loan settlement letter to Indian banks and NBFCs, featuring ready-to-copy OTS templates, hardship proof checklists, RBI compromise directives, and post-settlement NOC protocols.",
+      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-letter-format.jpg",
+      "datePublished": "2026-08-19T10:00:00+05:30",
+      "dateModified": "2026-08-19T10:00:00+05:30",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/personal-loan-settlement-letter-format#webpage"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ashish Jhangra",
+        "url": "https://settleloans.in/authors/ashish-jhangra"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://settleloans.in/#organization",
+        "name": "SettleLoans",
+        "url": "https://settleloans.in",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://settleloans.in/logo/logo.svg"
+        }
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://settleloans.in/personal-loan-settlement-letter-format#product",
+      "name": "Personal Loan Settlement Legal Advisory & Documentation Services",
+      "description": "Professional drafting of bank settlement letters, OTS negotiation, anti-harassment legal protection, and CIBIL score rehabilitation for distressed borrowers in India.",
+      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-letter-format.jpg",
+      "brand": {
+        "@type": "Brand",
+        "name": "SettleLoans"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1850",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rajesh Nambiar"
+          },
+          "datePublished": "2026-06-12",
+          "reviewBody": "I used SettleLoans' personal loan settlement letter format for my ₹8 Lakh loan with HDFC Bank after a prolonged layoff. Their legal team refined my hardship letter, attached my severance proof, and negotiated a 55% waiver. Received my official NDC within 4 weeks of payment!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deepika Sharma"
+          },
+          "datePublished": "2026-07-22",
+          "reviewBody": "Recovery agents were threatening me non-stop. SettleLoans drafted a formal OTS proposal letter combined with an anti-harassment representation citing RBI circulars. The calls stopped completely, and the bank accepted a 45% one-time settlement.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vikas Agarwal"
+          },
+          "datePublished": "2026-05-18",
+          "reviewBody": "The medical hardship template provided here is incredibly comprehensive. It gave the exact legal phrasing needed to convince the credit committee of my genuine insolvency after major surgery. Resolved two personal loans smoothly.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sunita Kulkarni"
+          },
+          "datePublished": "2026-08-01",
+          "reviewBody": "Clear, legally structured, and highly effective templates. Helped me draft an OTS letter to SBI that got approved by the Stressed Assets Recovery Branch in under 20 days.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
         }
       ]
     },
@@ -194,84 +278,18 @@ const jsonLdGraph = {
       ]
     },
     {
-      "@type": "FinancialService",
-      "image": "https://settleloans.in/logo/logo.svg",
-      "telephone": "+91-9821219819",
-      "priceRange": "₹₹",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN",
-        "addressLocality": "India"
+      "@type": "Organization",
+      "@id": "https://settleloans.in/#organization",
+      "name": "SettleLoans",
+      "url": "https://settleloans.in",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://settleloans.in/logo/logo.svg"
       },
-      "@id": "https://settleloans.in/personal-loan-settlement-letter-format#service",
-      "name": "Personal Loan Settlement Legal Advisory & Documentation Services",
-      "description": "Professional drafting of bank settlement letters, OTS negotiation, anti-harassment legal protection, and CIBIL score rehabilitation for distressed borrowers in India.",
-      "url": "https://settleloans.in/personal-loan-settlement-letter-format",
-      "provider": {
-        "@type": "Organization",
-        "name": "SettleLoans",
-        "url": "https://settleloans.in"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "1850",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Rajesh Nambiar"
-          },
-          "datePublished": "2026-06-12",
-          "reviewBody": "I used SettleLoans' personal loan settlement letter format for my ₹8 Lakh loan with HDFC Bank after a prolonged layoff. Their legal team refined my hardship letter, attached my severance proof, and negotiated a 55% waiver. Received my official NDC within 4 weeks of payment!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Deepika Sharma"
-          },
-          "datePublished": "2026-07-22",
-          "reviewBody": "Recovery agents were threatening me non-stop. SettleLoans drafted a formal OTS proposal letter combined with an anti-harassment representation citing RBI circulars. The calls stopped completely, and the bank accepted a 45% one-time settlement.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Vikas Agarwal"
-          },
-          "datePublished": "2026-05-18",
-          "reviewBody": "The medical hardship template provided here is incredibly comprehensive. It gave the exact legal phrasing needed to convince the credit committee of my genuine insolvency after major surgery. Resolved two personal loans smoothly.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Sunita Kulkarni"
-          },
-          "datePublished": "2026-08-01",
-          "reviewBody": "Clear, legally structured, and highly effective templates. Helped me draft an OTS letter to SBI that got approved by the Stressed Assets Recovery Branch in under 20 days.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        }
+      "sameAs": [
+        "https://www.linkedin.com/company/settleloans",
+        "https://twitter.com/settleloans",
+        "https://www.facebook.com/settleloans"
       ]
     }
   ]

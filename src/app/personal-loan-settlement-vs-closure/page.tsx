@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/og-image.jpg',
+        url: 'https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg',
         width: 1200,
         height: 630,
         alt: 'Loan Settlement vs Loan Closure CIBIL Impact Guide',
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement vs Loan Closure: CIBIL Impact & Credit Recovery Guide',
     description: 'Learn the exact difference between Settled and Closed in CIBIL, credit score drop, RBI compromise norms, and how to protect your financial future.',
-    images: ['https://settleloans.in/og-image.jpg'],
+    images: ['https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg'],
   },
 };
 
@@ -47,39 +47,21 @@ const jsonLdGraph = {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-vs-closure#article",
-      "headline": "Loan Settlement vs. Loan Closure in CIBIL: Complete Credit Impact, Legal Distinction & Score Recovery Guide",
-      "description": "An exhaustive comparative analysis between loan settlement and loan closure in India, evaluating CIBIL score mechanics, account status tags, legal standing under RBI guidelines, future loan eligibility, and how to convert Settled to Closed.",
-      "image": "https://settleloans.in/og-image.jpg",
-      "datePublished": "2026-08-19T10:00:00+05:30",
-      "dateModified": "2026-08-19T10:00:00+05:30",
-      "mainEntityOfPage": "https://settleloans.in/personal-loan-settlement-vs-closure",
-      "author": {
-        "@type": "Person",
-        "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+      "@type": "WebPage",
+      "@id": "https://settleloans.in/personal-loan-settlement-vs-closure#webpage",
+      "url": "https://settleloans.in/personal-loan-settlement-vs-closure",
+      "name": "Loan Settlement vs Loan Closure CIBIL: Score Impact & Differences (2026)",
+      "description": "Understand the difference between loan settlement vs loan closure in CIBIL. Compare credit score impact (-150 vs +40 pts), 7-year remarks, RBI rules & recovery roadmap.",
+      "breadcrumb": {
+        "@id": "https://settleloans.in/personal-loan-settlement-vs-closure#breadcrumb"
       },
-      "publisher": {
-        "@type": "Organization",
+      "inLanguage": "en-IN",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://settleloans.in/#website",
         "name": "SettleLoans",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
-        }
+        "url": "https://settleloans.in"
       }
-    },
-    {
-      "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
-      "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
-      "sameAs": [
-        "https://www.linkedin.com/company/settleloans",
-        "https://twitter.com/settleloans",
-        "https://www.facebook.com/settleloans"
-      ]
     },
     {
       "@type": "BreadcrumbList",
@@ -94,14 +76,116 @@ const jsonLdGraph = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Services & Guides",
-          "item": "https://settleloans.in/services"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
           "name": "Personal Loan Settlement vs Closure",
           "item": "https://settleloans.in/personal-loan-settlement-vs-closure"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://settleloans.in/personal-loan-settlement-vs-closure#article",
+      "headline": "Loan Settlement vs. Loan Closure in CIBIL: Complete Credit Impact, Legal Distinction & Score Recovery Guide",
+      "description": "An exhaustive comparative analysis between loan settlement and loan closure in India, evaluating CIBIL score mechanics, account status tags, legal standing under RBI guidelines, future loan eligibility, and how to convert Settled to Closed.",
+      "image": "https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg",
+      "datePublished": "2026-08-19T10:00:00+05:30",
+      "dateModified": "2026-08-19T10:00:00+05:30",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://settleloans.in/personal-loan-settlement-vs-closure#webpage"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Ashish Jhangra",
+        "url": "https://settleloans.in/authors/ashish-jhangra"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://settleloans.in/#organization",
+        "name": "SettleLoans",
+        "url": "https://settleloans.in",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://settleloans.in/logo/logo.svg"
+        }
+      }
+    },
+    {
+      "@type": "Product",
+      "@id": "https://settleloans.in/personal-loan-settlement-vs-closure#product",
+      "name": "Loan Settlement & CIBIL Closure Legal Advisory Services",
+      "description": "Expert legal representation, bank compromise negotiation, anti-harassment defense, and CIBIL score rehabilitation services for borrowers across India.",
+      "image": "https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg",
+      "brand": {
+        "@type": "Brand",
+        "name": "SettleLoans"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1850",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Siddharth Malhotra"
+          },
+          "datePublished": "2026-06-20",
+          "reviewBody": "I was utterly confused whether to stretch my finances for full closure or opt for an OTS. SettleLoans explained the exact CIBIL difference, negotiated a 52% reduction on my ₹12 Lakh personal loan, and got my official NDC. In 16 months, I rebuilt my score from 590 to 748 using their secured card roadmap.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meenakshi Sundaram"
+          },
+          "datePublished": "2026-07-15",
+          "reviewBody": "The bank was falsely reporting my settled loan as 'Written Off' with active overdue arrears. SettleLoans advocates drafted a formal legal notice and raised an RBI Ombudsman complaint. The bureau status was corrected to 'Settled' with ₹0 balance within 3 weeks.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rohit Verma"
+          },
+          "datePublished": "2026-05-28",
+          "reviewBody": "Clear, honest, and legally sound advice. They clearly laid out why full closure is ideal if you have funds, but why settlement is a lifesaver if you are facing genuine financial collapse. Helped me save ₹7.5 Lakhs across two bank loans.",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kavita Sengupta"
+          },
+          "datePublished": "2026-08-04",
+          "reviewBody": "After two years of settlement, SettleLoans guided me through the process of paying the residual haircut back to the bank to convert my CIBIL tag from Settled to Closed. My home loan was sanctioned last month without any hitch!",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "worstRating": "1"
+          }
         }
       ]
     },
@@ -192,84 +276,18 @@ const jsonLdGraph = {
       ]
     },
     {
-      "@type": "FinancialService",
-      "image": "https://settleloans.in/logo/logo.svg",
-      "telephone": "+91-9821219819",
-      "priceRange": "₹₹",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "IN",
-        "addressLocality": "India"
+      "@type": "Organization",
+      "@id": "https://settleloans.in/#organization",
+      "name": "SettleLoans",
+      "url": "https://settleloans.in",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://settleloans.in/logo/logo.svg"
       },
-      "@id": "https://settleloans.in/personal-loan-settlement-vs-closure#service",
-      "name": "Loan Settlement & CIBIL Closure Legal Advisory Services",
-      "description": "Expert legal representation, bank compromise negotiation, anti-harassment defense, and CIBIL score rehabilitation services for borrowers across India.",
-      "url": "https://settleloans.in/personal-loan-settlement-vs-closure",
-      "provider": {
-        "@type": "Organization",
-        "name": "SettleLoans",
-        "url": "https://settleloans.in"
-      },
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "4.9",
-        "reviewCount": "1850",
-        "bestRating": "5",
-        "worstRating": "1"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Siddharth Malhotra"
-          },
-          "datePublished": "2026-06-20",
-          "reviewBody": "I was utterly confused whether to stretch my finances for full closure or opt for an OTS. SettleLoans explained the exact CIBIL difference, negotiated a 52% reduction on my ₹12 Lakh personal loan, and got my official NDC. In 16 months, I rebuilt my score from 590 to 748 using their secured card roadmap.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Meenakshi Sundaram"
-          },
-          "datePublished": "2026-07-15",
-          "reviewBody": "The bank was falsely reporting my settled loan as 'Written Off' with active overdue arrears. SettleLoans advocates drafted a formal legal notice and raised an RBI Ombudsman complaint. The bureau status was corrected to 'Settled' with ₹0 balance within 3 weeks.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Rohit Verma"
-          },
-          "datePublished": "2026-05-28",
-          "reviewBody": "Clear, honest, and legally sound advice. They clearly laid out why full closure is ideal if you have funds, but why settlement is a lifesaver if you are facing genuine financial collapse. Helped me save ₹7.5 Lakhs across two bank loans.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        },
-        {
-          "@type": "Review",
-          "author": {
-            "@type": "Person",
-            "name": "Kavita Sengupta"
-          },
-          "datePublished": "2026-08-04",
-          "reviewBody": "After two years of settlement, SettleLoans guided me through the process of paying the residual haircut back to the bank to convert my CIBIL tag from Settled to Closed. My home loan was sanctioned last month without any hitch!",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5"
-          }
-        }
+      "sameAs": [
+        "https://www.linkedin.com/company/settleloans",
+        "https://twitter.com/settleloans",
+        "https://www.facebook.com/settleloans"
       ]
     }
   ]
