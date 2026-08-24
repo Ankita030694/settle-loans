@@ -971,7 +971,7 @@ export default function RblBankCreditCardSettlementPage() {
               </h2>
 
               <div className="space-y-4">
-                {jsonLdGraph['@graph'][4].mainEntity.map((faq, index) => (
+                {(jsonLdGraph['@graph'][4] as any).mainEntity.map((faq: any, index: number) => (
                   <details
                     key={index}
                     className="group border border-slate-200 rounded-2xl overflow-hidden bg-white shadow-sm transition-all duration-200 open:border-blue-300 open:shadow-md"

@@ -985,7 +985,7 @@ export default function IndusIndBankPersonalLoanSettlementPage() {
               </p>
 
               <div className="space-y-3">
-                {jsonLdGraph['@graph'][4].mainEntity.map((faq, idx) => (
+                {(jsonLdGraph['@graph'][4] as any).mainEntity.map((faq: any, idx: number) => (
                   <details
                     key={idx}
                     className="group border border-slate-200 rounded-2xl overflow-hidden bg-white shadow-sm transition-all"
