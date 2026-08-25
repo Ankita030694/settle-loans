@@ -224,6 +224,16 @@ export default function SitemapPage() {
               { name: "LOC for Loan Default Law", href: "/loc-cant-be-issues-for-mere-bank-loan-default-delhi-high-court" },
               { name: "Unsecured Personal Loan Definition", href: "/unsecured-personal-loan-definition" },
               { name: "Sample Letter to Bank for Loan", href: "/sample-letter-to-bank-for-loan" },
+              { name: "DRT Loan Settlement Process", href: "/drt-loan-settlement-process" },
+              { name: "Bank FIR for Loan Default Reality Check", href: "/bank-fir-for-loan-default-reality-check" },
+              { name: "Police Complaint Format for Harassment", href: "/police-complaint-format-recovery-agent-harassment" },
+              { name: "Job Loss Loan Settlement Guide", href: "/job-loss-loan-settlement-process" },
+              { name: "Medical Emergency Loan Settlement", href: "/medical-emergency-loan-default-settlement" },
+              { name: "Guarantor Liability in Settlement", href: "/guarantor-liability-personal-loan-settlement" },
+              { name: "Court Stay Order Against Recovery", href: "/stay-order-against-bank-loan-recovery" },
+              { name: "Ring App Loan Default Settlement", href: "/ring-app-loan-default-settlement" },
+              { name: "Faircent & P2P Loan Settlement", href: "/faircent-p2p-loan-settlement-process" },
+              { name: "RBI Ombudsman Complaint Guide", href: "/rbi-ombudsman-complaint-loan-recovery-harassment" },
             ];
 
   // Filter out any null hrefs and reverse to show latest first (assuming latest appended at the bottom)
