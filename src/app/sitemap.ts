@@ -5,6 +5,66 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
     return [
         {
+            url: `${baseUrl}/bank-freeze-salary-account-loan-default`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/police-station-call-for-loan-default`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/smfg-india-credit-loan-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/poonawalla-fincorp-loan-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/kissht-loan-settlement-process`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/moneyview-loan-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/personal-loan-settlement-chandigarh`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/personal-loan-settlement-lucknow`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/personal-loan-settlement-jaipur`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/personal-loan-settlement-ahmedabad`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
             url: `${baseUrl}/bank-arbitration-notice-reply`,
             lastModified: new Date(),
             changeFrequency: 'weekly',

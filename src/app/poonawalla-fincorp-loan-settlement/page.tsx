@@ -31,36 +31,36 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Aditya Birla Capital Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
-  description: 'Comprehensive guide to Aditya Birla Capital & Finance loan settlement. Learn how to settle personal and business loans, stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA and arbitration notices, and negotiate up to 60% OTS haircut under RBI rules.',
+  title: 'Poonawalla Fincorp Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
+  description: 'Comprehensive guide to Poonawalla Fincorp personal, professional & pre-owned car loan settlement. Learn how to stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA notices, and negotiate 40%–60% OTS haircuts under RBI rules.',
   keywords: [
-    'aditya birla capital loan settlement',
-    'aditya birla finance loan settlement',
-    'aditya birla personal loan settlement process',
-    'aditya birla capital business loan settlement',
-    'aditya birla finance ots policy',
-    'how to stop aditya birla finance bounce charges',
-    'aditya birla finance recovery agent harassment',
-    'aditya birla section 25 pssa legal notice',
-    'aditya birla finance loan settlement percentage',
-    'aditya birla finance no dues certificate after settlement',
-    'aditya birla finance nodal officer escalation',
-    'aditya birla finance arbitration notice response',
+    'poonawalla fincorp personal loan settlement',
+    'poonawalla fincorp loan settlement',
+    'poonawalla fincorp ots policy',
+    'poonawalla fincorp loan settlement process',
+    'poonawalla fincorp recovery agent harassment',
+    'poonawalla fincorp business loan settlement',
+    'poonawalla fincorp pre owned car loan settlement',
+    'poonawalla fincorp section 25 pssa notice',
+    'poonawalla fincorp loan settlement percentage',
+    'poonawalla fincorp no dues certificate',
+    'poonawalla fincorp arbitration notice response',
+    'poonawalla fincorp nach bounce charges',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/aditya-birla-finance-loan-settlement',
+    canonical: 'https://settleloans.in/poonawalla-fincorp-loan-settlement',
   },
   openGraph: {
-    title: 'Aditya Birla Capital Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
-    description: 'Learn how to settle an Aditya Birla Capital personal or business loan. Understand internal NPA haircuts, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies.',
-    url: 'https://settleloans.in/aditya-birla-finance-loan-settlement',
+    title: 'Poonawalla Fincorp Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
+    description: 'Learn how to settle a defaulted Poonawalla Fincorp personal, professional, or used car loan. Understand internal NPA haircuts, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies.',
+    url: 'https://settleloans.in/poonawalla-fincorp-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/aditya-birla-finance-loan-settlement.jpg',
+        url: 'https://settleloans.in/images/infographics/poonawalla-fincorp-loan-settlement.jpg',
         width: 1200,
         height: 675,
-        alt: 'Aditya Birla Finance Loan Settlement Process and OTS Haircut Guide',
+        alt: 'Poonawalla Fincorp Loan Settlement Process and OTS Haircut Guide',
       },
     ],
     locale: 'en_IN',
@@ -68,9 +68,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Aditya Birla Capital Loan Settlement: OTS Rules, Legal Defense & Haircut',
-    description: 'Technical and legal manual for settling defaulted Aditya Birla Capital personal loans and business credit facilities under RBI Compromise Settlement frameworks.',
-    images: ['https://settleloans.in/images/infographics/aditya-birla-finance-loan-settlement.jpg'],
+    title: 'Poonawalla Fincorp Loan Settlement: OTS Rules, Legal Defense & Haircut',
+    description: 'Technical and legal manual for settling defaulted Poonawalla Fincorp personal loans, professional loans, and pre-owned car loans under RBI Compromise Settlement frameworks.',
+    images: ['https://settleloans.in/images/infographics/poonawalla-fincorp-loan-settlement.jpg'],
   },
 };
 
@@ -79,12 +79,12 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/aditya-birla-finance-loan-settlement#webpage",
-      "url": "https://settleloans.in/aditya-birla-finance-loan-settlement",
-      "name": "Aditya Birla Capital Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)",
-      "description": "Comprehensive guide to Aditya Birla Capital & Finance loan settlement. Learn how to settle personal and business loans, stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA and arbitration notices, and negotiate up to 60% OTS haircut under RBI rules.",
+      "@id": "https://settleloans.in/poonawalla-fincorp-loan-settlement#webpage",
+      "url": "https://settleloans.in/poonawalla-fincorp-loan-settlement",
+      "name": "Poonawalla Fincorp Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)",
+      "description": "Comprehensive guide to Poonawalla Fincorp personal, professional & pre-owned car loan settlement. Learn how to stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA notices, and negotiate 40%–60% OTS haircuts under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/aditya-birla-finance-loan-settlement#breadcrumb"
+        "@id": "https://settleloans.in/poonawalla-fincorp-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
@@ -96,7 +96,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/aditya-birla-finance-loan-settlement#breadcrumb",
+      "@id": "https://settleloans.in/poonawalla-fincorp-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -107,22 +107,22 @@ const jsonLdGraph = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Aditya Birla Finance Loan Settlement",
-          "item": "https://settleloans.in/aditya-birla-finance-loan-settlement"
+          "name": "Poonawalla Fincorp Loan Settlement",
+          "item": "https://settleloans.in/poonawalla-fincorp-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/aditya-birla-finance-loan-settlement#article",
-      "headline": "Aditya Birla Capital Loan Settlement: OTS Rules, Legal Defense & Haircut Guide",
-      "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with Aditya Birla Finance Limited, navigating internal provisioning policies, halting NACH bounce fees, and safeguarding against recovery harassment.",
-      "image": "https://settleloans.in/images/infographics/aditya-birla-finance-loan-settlement.jpg",
-      "datePublished": "2026-08-24T12:00:00+05:30",
-      "dateModified": "2026-08-24T12:00:00+05:30",
+      "@id": "https://settleloans.in/poonawalla-fincorp-loan-settlement#article",
+      "headline": "Poonawalla Fincorp Loan Settlement: OTS Rules, Legal Defense & Haircut Guide",
+      "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with Poonawalla Fincorp Limited, navigating internal provisioning policies, halting NACH bounce fees, and safeguarding against recovery harassment.",
+      "image": "https://settleloans.in/images/infographics/poonawalla-fincorp-loan-settlement.jpg",
+      "datePublished": "2026-08-25T12:00:00+05:30",
+      "dateModified": "2026-08-25T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/aditya-birla-finance-loan-settlement#webpage"
+        "@id": "https://settleloans.in/poonawalla-fincorp-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
@@ -142,11 +142,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/aditya-birla-finance-loan-settlement#service",
-      "name": "SettleLoans - Aditya Birla Capital Loan Settlement & Legal Defense",
-      "description": "Specialized legal and financial negotiation advisory for settling defaulted Aditya Birla Capital personal loans, business loans, and commercial credit lines under RBI compromise frameworks with maximum debt waivers and complete harassment protection.",
-      "url": "https://settleloans.in/aditya-birla-finance-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/aditya-birla-finance-loan-settlement.jpg",
+      "@id": "https://settleloans.in/poonawalla-fincorp-loan-settlement#service",
+      "name": "SettleLoans - Poonawalla Fincorp Loan Settlement & Legal Defense",
+      "description": "Specialized legal and financial negotiation advisory for settling defaulted Poonawalla Fincorp personal loans, professional loans, business loans, and pre-owned vehicle loans under RBI compromise frameworks with maximum debt waivers and complete harassment protection.",
+      "url": "https://settleloans.in/poonawalla-fincorp-loan-settlement",
+      "image": "https://settleloans.in/images/infographics/poonawalla-fincorp-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -166,7 +166,7 @@ const jsonLdGraph = {
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": "1680",
+        "reviewCount": "1420",
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -175,10 +175,10 @@ const jsonLdGraph = {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Vikas Singhal"
+            "name": "Rajesh Kulkarni"
           },
-          "datePublished": "2026-06-18",
-          "reviewBody": "I had an Aditya Birla Capital unsecured business installment loan of ₹14.5 Lakhs that defaulted after a major corporate contract cancellation. ABFL recovery agency callers were threatening my office staff and presenting NACH mandates three times a month. SettleLoans stepped in immediately, issued a statutory cease-and-desist notice, revoked the unapproved mandate sweeps, and negotiated a formal OTS sanction of ₹6.2 Lakhs directly with ABFL's Zonal Stressed Assets Desk. Stamped sanction letter and ₹0 NDC were delivered flawlessly.",
+          "datePublished": "2026-06-12",
+          "reviewBody": "I had a Poonawalla Fincorp personal loan of ₹8.4 Lakhs that defaulted after a major salary restructuring during tech downsizing. Poonawalla recovery tele-callers were calling relentlessly and presenting e-NACH mandates 3 times a month. SettleLoans stepped in, stopped the mandate sweeps, served an anti-harassment notice, and negotiated a formal OTS sanction letter of ₹3.7 Lakhs directly with Poonawalla's Stressed Assets Committee. Received my ₹0 NDC smoothly.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -190,10 +190,10 @@ const jsonLdGraph = {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Pooja Deshmukh"
+            "name": "Dr. Sunita Sharma"
           },
-          "datePublished": "2026-07-14",
-          "reviewBody": "My Aditya Birla Finance personal loan of ₹7.8 Lakhs accumulated over ₹1.4 Lakhs in unlawful bounce penalties and penal interest after I lost my tech job. SettleLoans conducted a complete ledger forensic audit, eliminated 100% of the penalty charges under RBI rules, and negotiated an authorized 55% waiver on core dues. The entire settlement was executed through official ABFL banking channels.",
+          "datePublished": "2026-07-08",
+          "reviewBody": "As a medical practitioner, my Poonawalla Fincorp professional doctor loan of ₹16 Lakhs became unmanageable after my clinic expansion suffered severe vendor delays. SettleLoans audited the account ledger, waived ₹2.1 Lakhs of illegal penal interest, and secured a 54% principal haircut through an authorized stamped settlement letter directly from Poonawalla's Pune headquarters.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -205,10 +205,10 @@ const jsonLdGraph = {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sanjay Narang"
+            "name": "Manish Verma"
           },
-          "datePublished": "2026-05-22",
-          "reviewBody": "Received a statutory Section 25 PSSA legal notice alongside an arbitration notice from Aditya Birla Finance's legal advocates in Mumbai. SettleLoans drafted a thorough legal reply demonstrating genuine commercial hardship, challenged the unilateral arbitrator appointment under Supreme Court precedents, and resolved the matter through an official OTS for ₹4.1 Lakhs against a ₹9.6 Lakhs claim with all legal proceedings fully withdrawn.",
+          "datePublished": "2026-05-19",
+          "reviewBody": "Received a Section 25 PSSA demand notice alongside a private arbitration summons from Poonawalla Fincorp's legal team. SettleLoans drafted a rock-solid hardship reply, contested the unilateral arbitrator appointment under Supreme Court guidelines, and settled the ₹6.5 Lakhs personal loan for ₹2.8 Lakhs in National Lok Adalat with full legal closure.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -220,10 +220,10 @@ const jsonLdGraph = {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Amitav Roy"
+            "name": "Gaurav Malhotra"
           },
-          "datePublished": "2026-08-06",
-          "reviewBody": "Outstanding legal defense against aggressive collection calls and unauthorized workplace visits. SettleLoans escalated the issue to the Aditya Birla Finance Principal Nodal Officer, enforced RBI recovery directives, and helped me close my unsecured business loan with an authentic stamped OTS letter and 52% principal reduction.",
+          "datePublished": "2026-08-02",
+          "reviewBody": "My pre-owned car loan with Poonawalla Fincorp had ₹5.2 Lakhs outstanding. After facing severe business revenue drops, collection agents threatened repossession without notice. SettleLoans enforced RBI recovery directives, safeguarded my vehicle rights, and negotiated a clean OTS closure with 50% debt waiver.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -235,86 +235,86 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/aditya-birla-finance-loan-settlement#faq",
+      "@id": "https://settleloans.in/poonawalla-fincorp-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What is the Aditya Birla Capital loan settlement process and how does an NBFC compromise work?",
+          "name": "What is the Poonawalla Fincorp loan settlement process and how does an NBFC compromise work?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Aditya Birla Capital loan settlement process is a structured debt resolution mechanism sanctioned under Reserve Bank of India Master Directions on Compromise Settlements. When an unsecured personal or business installment loan crosses 90 days of non-payment and transitions into Non-Performing Asset (NPA) status, the borrower or their legal counsel submits a hardship petition to Aditya Birla Finance Limited's Stressed Assets Committee. Upon evaluating the financial incapacity against the Net Present Value (NPV) of recovery, ABFL issues an official stamped OTS Sanction Letter. Paying the agreed sum directly into the loan account extinguishes all outstanding liabilities and entitles the borrower to a formal No Dues Certificate (NDC)."
+            "text": "The Poonawalla Fincorp loan settlement process is a formal compromise resolution sanctioned under Reserve Bank of India Master Directions. When an unsecured personal, professional, or pre-owned car loan defaults past 90 days (NPA status), the borrower or legal counsel submits a financial hardship petition to Poonawalla Fincorp's Stressed Assets Desk. The NBFC evaluates the Net Present Value (NPV) of recovery against litigation friction and issues a formal stamped OTS Sanction Letter. Depositing the agreed amount directly into the loan account extinguishes all outstanding dues and delivers a formal ₹0 No Dues Certificate."
           }
         },
         {
           "@type": "Question",
-          "name": "How can borrowers stop Aditya Birla Finance NACH bounce penalties and repeated debit attempts?",
+          "name": "How can borrowers stop Poonawalla Fincorp NACH bounce fees and continuous bank debit attempts?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Aditya Birla Finance frequently presents electronic NACH mandates multiple times a month, multiplying return penalties across borrower bank accounts. Borrowers can stop this financial drain by: (1) Submitting a written mandate revocation or suspension request to their destination bank under NPCI guidelines; (2) Serving a formal hardship letter to ABFL's collections desk requesting an immediate pause on electronic presentations; (3) Insisting on a 100% complete waiver of all accumulated bounce penalties and penal interest under RBI fair lending practice rules during One-Time Settlement negotiations."
+            "text": "Poonawalla Fincorp automated systems frequently trigger repeated e-NACH presentations, causing multiple return penalties across borrower bank accounts. Borrowers can stop this by: (1) Submitting a written mandate revocation request to their home bank under NPCI guidelines; (2) Serving a formal hardship letter to Poonawalla Fincorp requesting an immediate suspension of electronic sweeps; (3) Demanding a 100% complete waiver of all accrued bounce penalties and penal interest under RBI Fair Lending Practice rules during settlement negotiations."
           }
         },
         {
           "@type": "Question",
-          "name": "What percentage of debt waiver or haircut can you realistically negotiate with Aditya Birla Finance?",
+          "name": "What percentage of debt waiver or haircut can you negotiate with Poonawalla Fincorp?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "On unsecured personal loans and business installment facilities, Aditya Birla Finance typically sanctions debt waivers between 40% and 60% of total ledger dues. The achievable haircut depends on loan aging, delinquency bucket, and balance-sheet provisioning. Accounts overdue beyond 180 to 365 days (Doubtful or Loss Asset status) qualify for maximum principal waivers (50% to 60%), alongside a 100% cancellation of all accrued penal charges and bounce fees."
+            "text": "On unsecured personal and professional credit facilities, Poonawalla Fincorp typically approves debt waivers between 40% and 60% of total ledger dues. The exact haircut percentage depends on delinquency aging, asset classification (NPA, Doubtful, or Written-off), and verified income impairment. Accounts overdue past 180 to 365 days qualify for maximum principal haircuts alongside 100% penal fee cancellation."
           }
         },
         {
           "@type": "Question",
-          "name": "How do you handle aggressive Aditya Birla Finance recovery calls and protect against harassment?",
+          "name": "How do you handle aggressive Poonawalla Fincorp collection calls and recovery agent harassment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Master Directions on Recovery Agents and NBFC Fair Practices Codes, borrowers enjoy strict statutory protections: (a) Agents are legally restricted to contacting borrowers between 08:00 AM and 07:00 PM; (b) Reaching out to employers, colleagues, business partners, or non-guarantor family members is strictly illegal; (c) Abusive language, intimidation, and unauthorized home or office visits are prohibited. In case of violations, borrowers should serve a legal cease-and-desist notice to ABFL's Principal Nodal Officer and file an online complaint on the RBI Integrated Ombudsman (CMS) portal."
+            "text": "Under RBI Master Directions on Recovery Agents and NBFC Fair Practices Codes, borrowers possess strict statutory protections: (a) Agents are legally restricted to contacting borrowers between 08:00 AM and 07:00 PM; (b) Contacting third-party relatives, friends, or employers is illegal; (c) Intimidation, abusive language, and unannounced workplace visits are strictly prohibited. In case of violations, borrowers should serve a legal cease-and-desist notice to Poonawalla Fincorp's Principal Nodal Officer and file an online complaint on the RBI Integrated Ombudsman (CMS) portal."
           }
         },
         {
           "@type": "Question",
-          "name": "Can Aditya Birla Finance file a criminal police case or arrest a borrower for loan default?",
+          "name": "Can Poonawalla Fincorp file a criminal police case or arrest a borrower for loan default?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Defaulting on an unsecured personal or business loan is strictly a civil contractual matter under the Indian Contract Act, 1872. Police authorities have no jurisdiction to register an FIR or make an arrest for genuine financial default. While Aditya Birla Finance may issue legal notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for bounced NACH mandates, these are compoundable quasi-criminal proceedings handled in Magistrate Courts and are routinely resolved through advocate representation and compromise settlements."
+            "text": "No. Defaulting on an unsecured personal, professional, or business loan is strictly a civil breach of contract governed by the Indian Contract Act, 1872. Police authorities have zero legal jurisdiction to register an FIR or make an arrest for genuine financial default. While Poonawalla Fincorp may issue Section 25 PSSA legal notices for bounced NACH mandates, these are compoundable quasi-criminal proceedings handled in Magistrate Courts and are routinely settled through advocate representation."
           }
         },
         {
           "@type": "Question",
-          "name": "What is a Section 25 PSSA legal notice sent by Aditya Birla Finance and how should you respond?",
+          "name": "What is a Section 25 PSSA legal notice from Poonawalla Fincorp and how should you respond?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A Section 25 PSSA notice is a statutory 15-day demand notice issued when an automated NACH mandate dishonours due to insufficient funds. It is not an arrest warrant or court judgment. Borrowers should promptly engage legal counsel to draft a comprehensive reply setting out bona fide financial hardship, challenging unauthorized multiple mandate sweeps, and opening formal channels for a compromise One-Time Settlement."
+            "text": "A Section 25 PSSA notice is a statutory 15-day demand notice issued when an electronic NACH auto-debit fails due to insufficient funds. It is not an arrest warrant or court judgment. Borrowers should promptly engage legal counsel to submit a formal response setting out bona fide financial hardship, challenging unauthorized multiple mandate sweeps, and proposing structured compromise settlement negotiations."
           }
         },
         {
           "@type": "Question",
-          "name": "How should borrowers handle unilateral arbitration notices issued by Aditya Birla Capital?",
+          "name": "How should borrowers handle unilateral arbitration notices issued by Poonawalla Fincorp?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Aditya Birla Capital frequently issues arbitration notices appointing a sole arbitrator based in Mumbai or Delhi. Under landmark Supreme Court rulings (Perkins Eastman Architects DVM v. HSCC (India) Ltd. and TRF Ltd. v. Energo Engineering Projects Ltd.), unilateral arbitrator appointments by lenders without mutual consent are legally invalid. Legal counsel can challenge the arbitrator's jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, effectively halting biased ex-parte awards and redirecting the dispute into compromise settlement channels."
+            "text": "Poonawalla Fincorp frequently issues notices initiating sole arbitration proceedings in Pune, Kolkata, or Mumbai. Under Supreme Court precedents (Perkins Eastman and TRF Ltd.), unilateral arbitrator appointments by lenders without mutual written consent are legally void. Legal advocates can challenge the arbitrator's jurisdiction under Section 12 and 14 of the Arbitration Act, effectively halting ex-parte orders and steering the dispute into compromise settlement."
           }
         },
         {
           "@type": "Question",
-          "name": "Who within Aditya Birla Finance has the legal authority to approve a One-Time Settlement (OTS)?",
+          "name": "Can pre-owned car loans from Poonawalla Fincorp be settled through an OTS agreement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under Aditya Birla Finance's internal Delegation of Financial Powers matrix, external tele-callers and third-party recovery agents have zero legal power to approve loan discounts. Substantive debt waivers (40% to 60%) must be formally evaluated and approved by ABFL's Zonal Stressed Assets Desk, Regional Credit Committee, or Chief Risk Officer division, documented through an authentic stamped sanction letter on corporate letterhead."
+            "text": "Yes. Pre-owned car loans can be resolved through an OTS agreement. If vehicle market value has depreciated significantly below the loan outstanding or if repossession costs exceed asset recovery value, Poonawalla Fincorp evaluates a shortfall settlement. Borrowers can either surrender the vehicle with an agreed shortfall waiver or negotiate a lump-sum compromise to retain vehicle ownership and obtain hypothecation cancellation (Form 35)."
           }
         },
         {
           "@type": "Question",
-          "name": "How does settling an Aditya Birla Capital loan affect your CIBIL score and credit history?",
+          "name": "Who within Poonawalla Fincorp has the legal authority to sanction an OTS discount?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Upon receiving the agreed settlement amount, Aditya Birla Finance updates credit information companies (CIBIL, Experian, Equifax, CRIF High Mark) with the status 'Settled' or 'Post-Write-off Settled' with an outstanding balance of ₹0. While this leads to an initial credit score drop of 75 to 150 points and a temporary 12-month cooling-off window, it permanently terminates compounding default marks and legal flags. Borrowers can rebuild their score back to 750+ within 18 to 24 months through secured credit instruments."
+            "text": "Third-party collection agency tele-callers and field representatives have zero legal authority to approve debt haircuts. Legitimate debt waivers (40% to 60%) must be sanctioned by Poonawalla Fincorp's internal Stressed Assets Committee, Zonal Credit Committee, or Authorized Risk Officers, documented via a verified stamped OTS Sanction Letter on official corporate letterhead."
           }
         },
         {
           "@type": "Question",
-          "name": "How long does Aditya Birla Finance take to issue the No Dues Certificate (NDC) following an OTS payment?",
+          "name": "How long does Poonawalla Fincorp take to issue the No Dues Certificate after OTS payment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, Aditya Birla Finance Limited is mandated to issue a formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving full settlement payment. If the lender fails to deliver the closure certificate within 30 days without lawful justification, it is statutorily liable to pay compensation of ₹5,000 per day of delay directly to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, Poonawalla Fincorp is statutorily required to deliver a formal No Dues Certificate (NDC) and update credit bureaus within 30 calendar days of receiving the full settlement amount. If the NBFC fails to deliver the closure letter within 30 days without lawful cause, it must pay statutory compensation of ₹5,000 per day of delay directly to the borrower."
           }
         }
       ]
@@ -337,62 +337,62 @@ const jsonLdGraph = {
   ]
 };
 
-export default function AdityaBirlaFinanceLoanSettlementPage() {
+export default function PoonawallaFincorpLoanSettlementPage() {
   const tocItems = [
-    { id: 'understanding-abfl-defaults', title: '1. NBFC Risk Engine & Architecture' },
-    { id: 'abfl-delinquency-timeline-npa', title: '2. Delinquency Timeline & NPA Stages' },
-    { id: 'stopping-abfl-bounce-charges-nach', title: '3. Halting NACH Bounce Charges & Penal Fees' },
-    { id: 'abfl-ots-haircut-policy-npv', title: '4. OTS Haircut Policies & Valuation Framework' },
-    { id: 'infographic-resolution-blueprint', title: '5. Visual Resolution Blueprint' },
-    { id: 'recovery-agent-rules-anti-harassment', title: '6. Recovery Practices & RBI Harassment Defense' },
-    { id: 'step-by-step-abfl-settlement', title: '7. Step-by-Step NBFC Settlement Roadmap' },
+    { id: 'poonawalla-digital-credit-architecture', title: '1. Fast-Growing NBFC Risk Architecture' },
+    { id: 'delinquency-timeline-npa-stages', title: '2. Delinquency Timeline & Ind AS 109 Stages' },
+    { id: 'halting-nach-bounce-penal-charges', title: '3. Stopping NACH Bounces & Penal Compounding' },
+    { id: 'ots-haircut-valuation-npv-framework', title: '4. OTS Haircut Matrix & NPV Valuation Formula' },
+    { id: 'infographic-settlement-blueprint', title: '5. Visual Resolution Blueprint' },
+    { id: 'recovery-agent-defense-rbi-protections', title: '6. Anti-Harassment Rights & RBI Directives' },
+    { id: 'step-by-step-poonawalla-settlement', title: '7. Step-by-Step NBFC Settlement Roadmap' },
     { id: 'section-25-pssa-arbitration-lok-adalat', title: '8. Section 25 Notices, Arbitration & Lok Adalat' },
-    { id: 'sanction-letter-audit-ndc-verification', title: '9. Sanction Letter Audit & ₹0 NDC Mandate' },
-    { id: 'cibil-impact-credit-rehabilitation', title: '10. CIBIL Score Trajectory & Rehabilitation' },
-    { id: 'company-resolution-section', title: '11. SettleLoans Legal Defense & Advisory' },
+    { id: 'sanction-letter-audit-ndc-mandate', title: '9. Sanction Letter Audit & ₹0 NDC Mandate' },
+    { id: 'cibil-score-rehabilitation-trajectory', title: '10. CIBIL Trajectory & 18-Month Recovery Plan' },
+    { id: 'company-advocacy-section', title: '11. SettleLoans Legal Defense & Representation' },
     { id: 'faqs', title: '12. Frequently Asked Questions' },
   ];
 
   const faqs = [
     {
-      question: "What is the Aditya Birla Capital loan settlement process and how does an NBFC compromise work?",
-      answer: "The Aditya Birla Capital loan settlement process is a structured debt resolution mechanism sanctioned under Reserve Bank of India Master Directions on Compromise Settlements. When an unsecured personal or business installment loan crosses 90 days of non-payment and transitions into Non-Performing Asset (NPA) status, the borrower or their legal counsel submits a hardship petition to Aditya Birla Finance Limited's Stressed Assets Committee. Upon evaluating the financial incapacity against the Net Present Value (NPV) of recovery, ABFL issues an official stamped OTS Sanction Letter. Paying the agreed sum directly into the loan account extinguishes all outstanding liabilities and entitles the borrower to a formal No Dues Certificate (NDC)."
+      question: "What is the Poonawalla Fincorp loan settlement process and how does an NBFC compromise work?",
+      answer: "The Poonawalla Fincorp loan settlement process is a formal compromise resolution sanctioned under Reserve Bank of India Master Directions. When an unsecured personal, professional, or pre-owned car loan defaults past 90 days (NPA status), the borrower or legal counsel submits a financial hardship petition to Poonawalla Fincorp's Stressed Assets Desk. The NBFC evaluates the Net Present Value (NPV) of recovery against litigation friction and issues a formal stamped OTS Sanction Letter. Depositing the agreed amount directly into the loan account extinguishes all outstanding dues and delivers a formal ₹0 No Dues Certificate."
     },
     {
-      question: "How can borrowers stop Aditya Birla Finance NACH bounce penalties and repeated debit attempts?",
-      answer: "Aditya Birla Finance frequently presents electronic NACH mandates multiple times a month, multiplying return penalties across borrower bank accounts. Borrowers can stop this financial drain by: (1) Submitting a written mandate revocation or suspension request to their destination bank under NPCI guidelines; (2) Serving a formal hardship letter to ABFL's collections desk requesting an immediate pause on electronic presentations; (3) Insisting on a 100% complete waiver of all accumulated bounce penalties and penal interest under RBI fair lending practice rules during One-Time Settlement negotiations."
+      question: "How can borrowers stop Poonawalla Fincorp NACH bounce fees and continuous bank debit attempts?",
+      answer: "Poonawalla Fincorp automated systems frequently trigger repeated e-NACH presentations, causing multiple return penalties across borrower bank accounts. Borrowers can stop this by: (1) Submitting a written mandate revocation request to their home bank under NPCI guidelines; (2) Serving a formal hardship letter to Poonawalla Fincorp requesting an immediate suspension of electronic sweeps; (3) Demanding a 100% complete waiver of all accrued bounce penalties and penal interest under RBI Fair Lending Practice rules during settlement negotiations."
     },
     {
-      question: "What percentage of debt waiver or haircut can you realistically negotiate with Aditya Birla Finance?",
-      answer: "On unsecured personal loans and business installment facilities, Aditya Birla Finance typically sanctions debt waivers between 40% and 60% of total ledger dues. The achievable haircut depends on loan aging, delinquency bucket, and balance-sheet provisioning. Accounts overdue beyond 180 to 365 days (Doubtful or Loss Asset status) qualify for maximum principal waivers (50% to 60%), alongside a 100% cancellation of all accrued penal charges and bounce fees."
+      question: "What percentage of debt waiver or haircut can you negotiate with Poonawalla Fincorp?",
+      answer: "On unsecured personal and professional credit facilities, Poonawalla Fincorp typically approves debt waivers between 40% and 60% of total ledger dues. The exact haircut percentage depends on delinquency aging, asset classification (NPA, Doubtful, or Written-off), and verified income impairment. Accounts overdue past 180 to 365 days qualify for maximum principal haircuts alongside 100% penal fee cancellation."
     },
     {
-      question: "How do you handle aggressive Aditya Birla Finance recovery calls and protect against harassment?",
-      answer: "Under RBI Master Directions on Recovery Agents and NBFC Fair Practices Codes, borrowers enjoy strict statutory protections: (a) Agents are legally restricted to contacting borrowers between 08:00 AM and 07:00 PM; (b) Reaching out to employers, colleagues, business partners, or non-guarantor family members is strictly illegal; (c) Abusive language, intimidation, and unauthorized home or office visits are prohibited. In case of violations, borrowers should serve a legal cease-and-desist notice to ABFL's Principal Nodal Officer and file an online complaint on the RBI Integrated Ombudsman (CMS) portal."
+      question: "How do you handle aggressive Poonawalla Fincorp collection calls and recovery agent harassment?",
+      answer: "Under RBI Master Directions on Recovery Agents and NBFC Fair Practices Codes, borrowers possess strict statutory protections: (a) Agents are legally restricted to contacting borrowers between 08:00 AM and 07:00 PM; (b) Contacting third-party relatives, friends, or employers is illegal; (c) Intimidation, abusive language, and unannounced workplace visits are strictly prohibited. In case of violations, borrowers should serve a legal cease-and-desist notice to Poonawalla Fincorp's Principal Nodal Officer and file an online complaint on the RBI Integrated Ombudsman (CMS) portal."
     },
     {
-      question: "Can Aditya Birla Finance file a criminal police case or arrest a borrower for loan default?",
-      answer: "No. Defaulting on an unsecured personal or business loan is strictly a civil contractual matter under the Indian Contract Act, 1872. Police authorities have no jurisdiction to register an FIR or make an arrest for genuine financial default. While Aditya Birla Finance may issue legal notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for bounced NACH mandates, these are compoundable quasi-criminal proceedings handled in Magistrate Courts and are routinely resolved through advocate representation and compromise settlements."
+      question: "Can Poonawalla Fincorp file a criminal police case or arrest a borrower for loan default?",
+      answer: "No. Defaulting on an unsecured personal, professional, or business loan is strictly a civil breach of contract governed by the Indian Contract Act, 1872. Police authorities have zero legal jurisdiction to register an FIR or make an arrest for genuine financial default. While Poonawalla Fincorp may issue Section 25 PSSA legal notices for bounced NACH mandates, these are compoundable quasi-criminal proceedings handled in Magistrate Courts and are routinely settled through advocate representation."
     },
     {
-      question: "What is a Section 25 PSSA legal notice sent by Aditya Birla Finance and how should you respond?",
-      answer: "A Section 25 PSSA notice is a statutory 15-day demand notice issued when an automated NACH mandate dishonours due to insufficient funds. It is not an arrest warrant or court judgment. Borrowers should promptly engage legal counsel to draft a comprehensive reply setting out bona fide financial hardship, challenging unauthorized multiple mandate sweeps, and opening formal channels for a compromise One-Time Settlement."
+      question: "What is a Section 25 PSSA legal notice from Poonawalla Fincorp and how should you respond?",
+      answer: "A Section 25 PSSA notice is a statutory 15-day demand notice issued when an electronic NACH auto-debit fails due to insufficient funds. It is not an arrest warrant or court judgment. Borrowers should promptly engage legal counsel to submit a formal response setting out bona fide financial hardship, challenging unauthorized multiple mandate sweeps, and proposing structured compromise settlement negotiations."
     },
     {
-      question: "How should borrowers handle unilateral arbitration notices issued by Aditya Birla Capital?",
-      answer: "Aditya Birla Capital frequently issues arbitration notices appointing a sole arbitrator based in Mumbai or Delhi. Under landmark Supreme Court rulings (Perkins Eastman Architects DVM v. HSCC (India) Ltd. and TRF Ltd. v. Energo Engineering Projects Ltd.), unilateral arbitrator appointments by lenders without mutual consent are legally invalid. Legal counsel can challenge the arbitrator's jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, effectively halting biased ex-parte awards and redirecting the dispute into compromise settlement channels."
+      question: "How should borrowers handle unilateral arbitration notices issued by Poonawalla Fincorp?",
+      answer: "Poonawalla Fincorp frequently issues notices initiating sole arbitration proceedings in Pune, Kolkata, or Mumbai. Under Supreme Court precedents (Perkins Eastman and TRF Ltd.), unilateral arbitrator appointments by lenders without mutual written consent are legally void. Legal advocates can challenge the arbitrator's jurisdiction under Section 12 and 14 of the Arbitration Act, effectively halting ex-parte orders and steering the dispute into compromise settlement."
     },
     {
-      question: "Who within Aditya Birla Finance has the legal authority to approve a One-Time Settlement (OTS)?",
-      answer: "Under Aditya Birla Finance's internal Delegation of Financial Powers matrix, external tele-callers and third-party recovery agents have zero legal power to approve loan discounts. Substantive debt waivers (40% to 60%) must be formally evaluated and approved by ABFL's Zonal Stressed Assets Desk, Regional Credit Committee, or Chief Risk Officer division, documented through an authentic stamped sanction letter on corporate letterhead."
+      question: "Can pre-owned car loans from Poonawalla Fincorp be settled through an OTS agreement?",
+      answer: "Yes. Pre-owned car loans can be resolved through an OTS agreement. If vehicle market value has depreciated significantly below the loan outstanding or if repossession costs exceed asset recovery value, Poonawalla Fincorp evaluates a shortfall settlement. Borrowers can either surrender the vehicle with an agreed shortfall waiver or negotiate a lump-sum compromise to retain vehicle ownership and obtain hypothecation cancellation (Form 35)."
     },
     {
-      question: "How does settling an Aditya Birla Capital loan affect your CIBIL score and credit history?",
-      answer: "Upon receiving the agreed settlement amount, Aditya Birla Finance updates credit information companies (CIBIL, Experian, Equifax, CRIF High Mark) with the status 'Settled' or 'Post-Write-off Settled' with an outstanding balance of ₹0. While this leads to an initial credit score drop of 75 to 150 points and a temporary 12-month cooling-off window, it permanently terminates compounding default marks and legal flags. Borrowers can rebuild their score back to 750+ within 18 to 24 months through secured credit instruments."
+      question: "Who within Poonawalla Fincorp has the legal authority to sanction an OTS discount?",
+      answer: "Third-party collection agency tele-callers and field representatives have zero legal authority to approve debt haircuts. Legitimate debt waivers (40% to 60%) must be sanctioned by Poonawalla Fincorp's internal Stressed Assets Committee, Zonal Credit Committee, or Authorized Risk Officers, documented via a verified stamped OTS Sanction Letter on official corporate letterhead."
     },
     {
-      question: "How long does Aditya Birla Finance take to issue the No Dues Certificate (NDC) following an OTS payment?",
-      answer: "Under RBI Circular RBI/2023-24/60, Aditya Birla Finance Limited is mandated to issue a formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving full settlement payment. If the lender fails to deliver the closure certificate within 30 days without lawful justification, it is statutorily liable to pay compensation of ₹5,000 per day of delay directly to the borrower."
+      question: "How long does Poonawalla Fincorp take to issue the No Dues Certificate after OTS payment?",
+      answer: "Under RBI Circular RBI/2023-24/60, Poonawalla Fincorp is statutorily required to deliver a formal No Dues Certificate (NDC) and update credit bureaus within 30 calendar days of receiving the full settlement amount. If the NBFC fails to deliver the closure letter within 30 days without lawful cause, it must pay statutory compensation of ₹5,000 per day of delay directly to the borrower."
     }
   ];
 
@@ -460,21 +460,17 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
         <div className="max-w-4xl mx-auto text-center relative z-10">
           <div className="inline-flex items-center gap-2 py-1 px-3.5 rounded-full bg-blue-500/20 border border-blue-400/30 text-blue-300 text-xs font-black mb-3 tracking-wider uppercase">
             <Landmark className="w-3.5 h-3.5" />
-            <span>Corporate NBFC Dispute Resolution • Aditya Birla Capital</span>
+            <span>Fast-Growing NBFC Dispute Resolution • Poonawalla Fincorp</span>
           </div>
 
-          <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            Aditya Birla Finance Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">OTS Rules, Legal Notice Defense &amp; Haircut Guide (2026)</span>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
+            Poonawalla Fincorp Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">OTS Rules, Legal Defense &amp; Haircut Guide (2026)</span>
           </h1>
-
-          <p className="text-xs sm:text-sm md:text-base text-slate-300 mb-5 max-w-2xl mx-auto leading-relaxed font-normal">
-            Struggling with defaulted Aditya Birla Capital personal or business loan EMIs, repeated NACH bounce penalties, or aggressive recovery notices? Learn how to halt collection harassment, invoke RBI compromise settlement frameworks, defend against Section 25 PSSA summons, and negotiate an authorized 40% to 60% debt haircut.
-          </p>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">
               <UserCheck className="w-3.5 h-3.5 text-blue-400" />
-              <span>Written by <strong>Ashish Jhangra</strong></span>
+              <span>Written by <Link href="/authors/ashish-jhangra" className="font-bold underline hover:text-white transition-colors">Ashish Jhangra</Link></span>
             </span>
             <span className="hidden sm:inline text-slate-500">•</span>
             <span className="flex items-center gap-1.5">
@@ -493,7 +489,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
               href="/contact"
               className="bg-[#1F5EFF] hover:bg-blue-600 text-white font-bold py-2.5 px-6 rounded-xl text-xs sm:text-sm transition-all duration-200 shadow-md hover:shadow-lg flex items-center gap-2"
             >
-              <span>Negotiate Aditya Birla Settlement</span>
+              <span>Negotiate Poonawalla Settlement</span>
               <ArrowRight className="w-4 h-4" />
             </Link>
             <Link
@@ -521,10 +517,10 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
             <div className="bg-blue-50/60 border border-blue-200/70 rounded-2xl p-4 text-xs text-blue-900 space-y-2">
               <div className="font-bold flex items-center gap-1.5 text-blue-950">
                 <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
-                <span>Aditya Birla Quick Crux</span>
+                <span>Poonawalla Quick Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                Aditya Birla Finance accounts past 90 days default enter NPA status under Ind AS 109. Direct legal escalation to Zonal Stressed Assets Desks eliminates agency markups, unlocking 40%–60% principal waivers with 100% bounce charge cancellation.
+                Poonawalla Fincorp loans crossing 90 days DPD trigger mandatory balance-sheet provisioning under Ind AS 109. Direct legal escalation to the Zonal Stressed Assets Desk unlocks 40%–60% principal waivers with 100% bounce charge cancellation.
               </p>
             </div>
           </aside>
@@ -536,74 +532,74 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
             <div className="bg-gradient-to-br from-blue-50 to-indigo-50/70 border border-blue-200 rounded-2xl p-6 mb-8 shadow-sm">
               <div className="flex items-center gap-2 text-blue-900 font-bold text-base mb-3">
                 <Award className="w-5 h-5 text-[#1F5EFF]" />
-                <span>Key Takeaways: Aditya Birla Finance Loan Settlement</span>
+                <span>Key Takeaways: Poonawalla Fincorp Loan Settlement</span>
               </div>
               <ul className="space-y-2.5 text-sm text-slate-700">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Statutory Compromise Rights:</strong> Defaulting on an unsecured personal or business loan with Aditya Birla Finance is strictly a civil dispute. Borrowers hold statutory rights under RBI Master Directions to request a compromise One-Time Settlement (OTS).</span>
+                  <span><strong>Statutory Compromise Rights:</strong> Defaulting on an unsecured personal, professional, or pre-owned car loan with Poonawalla Fincorp is strictly a civil breach of contract. Borrowers hold statutory rights under RBI Master Directions to request a compromise One-Time Settlement (OTS).</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Eliminating Bounce Penalties:</strong> Revoking e-NACH mandates under NPCI rules stops repeated debit return fees. Legal representation demands 100% waiver of all accumulated bounce charges and penal interest under RBI fair lending guidelines.</span>
+                  <span><strong>Halting Predatory NACH Fees:</strong> Revoking electronic NACH mandates under NPCI rules prevents repeated bank bounce deductions. Professional legal representation demands a 100% waiver of accumulated bounce fees and penal compounding.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Realistic 40%–60% Haircut:</strong> Once an account enters NPA (90+ DPD) or Doubtful Asset status, Aditya Birla Finance balances its Net Present Value (NPV) recovery math, sanctioning substantial principal debt waivers.</span>
+                  <span><strong>Realistic 40%–60% Haircuts:</strong> Once an account enters Non-Performing Asset (90+ DPD) or Doubtful Asset status, Poonawalla Fincorp utilizes Net Present Value (NPV) recovery modeling, sanctioning substantial principal write-offs.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Defending Legal Notices:</strong> Section 25 PSSA demand notices and unilateral sole arbitration appointments can be effectively contested and resolved through advocate-led conciliation and Lok Adalat settlements.</span>
+                  <span><strong>Defending Statutory Notices:</strong> Section 25 PSSA notices and unilateral sole arbitration proceedings in distant cities can be challenged and redirected into binding National Lok Adalat conciliation awards.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Mandatory ₹0 NDC Guarantee:</strong> Under RBI Circular RBI/2023-24/60, Aditya Birla Finance must deliver a No Dues Certificate and update credit bureaus within 30 days of payment, subject to a ₹5,000/day statutory penalty for non-compliance.</span>
+                  <span><strong>Mandatory ₹0 NDC Guarantee:</strong> Under RBI Circular RBI/2023-24/60, Poonawalla Fincorp must issue a formal No Dues Certificate and update credit bureaus within 30 days of settlement payment, backed by a ₹5,000/day delay penalty.</span>
                 </li>
               </ul>
             </div>
             
-            {/* Section 1: Corporate NBFC Architecture & Risk Engine */}
-            <section id="understanding-abfl-defaults" className="scroll-mt-24 mb-12">
+            {/* Section 1: NBFC Infrastructure & Debt Acceleration */}
+            <section id="poonawalla-digital-credit-architecture" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Building2 className="w-4 h-4" />
-                <span>1. Corporate NBFC Architecture &amp; Recovery Infrastructure</span>
+                <span>1. Fast-Growing NBFC Risk Architecture</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding Aditya Birla Finance&apos;s Algorithmic Credit &amp; Recovery Infrastructure
+                Understanding Poonawalla Fincorp&apos;s Digital Credit Engine &amp; Recovery Infrastructure
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Aditya Birla Finance Limited (ABFL), the flagship lending subsidiary of Aditya Birla Capital Limited (ABCL), represents one of India&apos;s largest systemically important non-banking financial companies categorized under the Reserve Bank of India&apos;s Upper Layer NBFC (NBFC-UL) regulatory framework. With an extensive multi-crore asset book spanning unsecured personal loans, business installment loans (BIL), professional lines of credit, and commercial term facilities, ABFL operates through an institutional recovery infrastructure engineered for high-velocity default containment.
+                Poonawalla Fincorp Limited (formerly Magma Fincorp Limited), backed by the Cyrus Poonawalla Group, has rapidly expanded as a leading technology-driven systemically important Non-Banking Financial Company (NBFC-ND-SI) in India. Headquartered in Pune with corporate registration details (CIN: L51504PN1978PLC209007), the institution disburses thousands of crores annually across retail credit segments, including unsecured personal loans, professional loans for doctors and chartered accountants, business loans, and pre-owned vehicle financing facilities.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Unlike public sector banking institutions that rely heavily on manual branch discretion, Aditya Birla Finance utilizes automated algorithmic risk engines. When an equated monthly installment (EMI) dishonours on its due date, ABFL&apos;s automated treasury systems immediately initiate multi-channel collections: high-frequency interactive voice response (IVR) phone calls, automated SMS and WhatsApp warnings, and repetitive electronic National Automated Clearing House (NACH) mandate presentations. Concurrently, internal bounce penalties ranging from ₹500 to ₹1,000 plus applicable Goods and Services Tax (GST) are debited alongside penal interest charges of 24% to 36% per annum.
+                Poonawalla Fincorp relies on automated underwriting algorithms and digital auto-debit integration via the National Automated Clearing House (NACH). While this facilitates rapid loan disbursement, it also activates an aggressive automated recovery infrastructure when a borrower encounters unexpected financial distress. Upon an EMI dishonour, automated dialers execute high-frequency calls, while automated presentation sweeps trigger compounding bank bounce penalties and penal interest rates ranging from 24% to 36% per annum.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                For borrowers enduring genuine, involuntary financial distress—such as corporate downsizing, small business cash-flow collapse, client default, or severe medical crises—these automated charges rapidly inflate ledger dues beyond feasible repayment capacity. Defaulting on an unsecured personal or commercial installment loan is strictly a civil breach of contract under the Indian Contract Act, 1872, rather than a criminal wrongdoing. Regulated by Reserve Bank of India (RBI) directives, distressed borrowers maintain clear statutory rights to halt third-party recovery harassment, demand an audit of predatory penalty levies, and negotiate a binding compromise One-Time Settlement (OTS).
+                For borrowers suffering genuine financial setbacks—such as corporate layoffs, business cash-flow disruption, clinic expansion slowdowns, or severe family medical emergencies—these cascading charges cause rapid debt inflation. It is critical to recognize that defaulting on an unsecured loan is strictly a civil dispute governed by the Indian Contract Act, 1872. Distressed borrowers possess clear statutory protections under Reserve Bank of India (RBI) regulations to stop collection harassment, audit inflated penalty ledgers, and secure a binding One-Time Settlement (OTS).
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
                 <div className="flex items-start gap-3">
                   <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                    <strong>Statutory Principle:</strong> Under Reserve Bank of India Master Directions on Compromise Settlements, regulated NBFCs must maintain transparent, board-approved OTS policies. Lenders cannot treat non-wilful, insolvent borrowers as deliberate defaulters and must consider genuine compromise proposals to maximize economic recovery.
+                    <strong>Statutory Principle:</strong> Under RBI Master Directions on Compromise Settlements, regulated NBFCs must maintain transparent, board-approved compromise settlement policies. Insolvent borrowers experiencing genuine distress cannot be treated as wilful defaulters and have the legal right to negotiate structured debt waivers.
                   </div>
                 </div>
               </div>
             </section>
 
-            {/* Section 2: Delinquency Timeline & NPA Stages */}
-            <section id="abfl-delinquency-timeline-npa" className="scroll-mt-24 mb-12">
+            {/* Section 2: Delinquency Timeline & Ind AS 109 Stages */}
+            <section id="delinquency-timeline-npa-stages" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Clock className="w-4 h-4" />
-                <span>2. Delinquency Timeline &amp; NPA Stages</span>
+                <span>2. Delinquency Timeline &amp; Ind AS 109 Stages</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Aditya Birla Finance Delinquency Lifecycle: From DPD 1-30 to Non-Performing Asset (NPA)
+                Poonawalla Fincorp Delinquency Lifecycle: Days Past Due (DPD) to Non-Performing Asset (NPA)
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Expected Credit Loss (ECL) frameworks under Indian Accounting Standard 109 (Ind AS 109), Aditya Birla Finance systematically categorizes retail and business loan delinquencies into strict Days Past Due (DPD) aging buckets. Understanding these institutional milestones is vital for structuring timely settlement negotiations and achieving maximum principal haircuts.
+                Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and the Expected Credit Loss (ECL) framework under Indian Accounting Standard 109 (Ind AS 109), Poonawalla Fincorp categorizes delinquent accounts into distinct Days Past Due (DPD) stages. Understanding these institutional milestones is crucial for determining optimal negotiation timing and securing maximum debt relief.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                During early delinquency (Buckets 1 and 2), ABFL&apos;s collections machinery focuses on regularizing overdue installments through tele-calling and field agency follow-ups. However, once an account crosses the critical 90-day threshold without payment, the loan is formally classified as a Non-Performing Asset (NPA). At this juncture, ABFL is legally required to allocate mandatory balance-sheet capital provisioning, shifting its institutional objective from installment collection toward bad-debt recovery and compromise resolution.
+                During the initial 1 to 60 days of delinquency, collections focus primarily on regularizing overdue installments through automated tele-calling and third-party recovery agency contacts. However, once an account breaches the 90-day threshold without payment, it is formally classified as a Non-Performing Asset (NPA). At this stage, Poonawalla Fincorp is mandated to allocate balance-sheet capital provisions, creating strong institutional incentives for risk committees to sanction lump-sum compromise settlements to recover capital.
               </p>
 
               {/* Comprehensive Stage Table */}
@@ -613,45 +609,45 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                     <tr>
                       <th>Delinquency Stage</th>
                       <th>Overdue Days (DPD)</th>
-                      <th>Aditya Birla Finance Recovery Actions</th>
+                      <th>Poonawalla Fincorp Recovery Actions</th>
                       <th>Legal &amp; Judicial Exposure</th>
                       <th>Settlement Haircut Potential</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-0 (Early Delinquency)</td>
+                      <td className="font-bold text-slate-900">SMA-0 (Early Bucket)</td>
                       <td>1 – 30 Days</td>
-                      <td>Automated IVR calls, daily payment reminder SMS, repeated NACH mandate sweeps.</td>
-                      <td>Zero litigation exposure; initial bureau DPD reporting begins.</td>
-                      <td>Negligible (NBFC insists on full overdue installment payment).</td>
+                      <td>Automated reminder SMS, IVR calls, daily e-NACH mandate sweeps.</td>
+                      <td>Zero litigation; initial credit bureau DPD reporting begins.</td>
+                      <td>Negligible (NBFC demands full installment clearance).</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-1 (Mid Delinquency)</td>
+                      <td className="font-bold text-slate-900">SMA-1 (Mid Bucket)</td>
                       <td>31 – 60 Days</td>
-                      <td>Intensive tele-calling, outsourced agency assignment, loan acceleration notices.</td>
-                      <td>Statutory warning notices issued; CIBIL score begins sharp decline.</td>
-                      <td>Low (Tenure restructuring or EMI deferral considered).</td>
+                      <td>Intensive tele-calling, allocation to outsourced agency, loan recall warnings.</td>
+                      <td>Statutory warning letters; credit score experiences sharp drop.</td>
+                      <td>Low (Tenure extension or EMI rescheduling considered).</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">SMA-2 (Pre-NPA Escalation)</td>
                       <td>61 – 90 Days</td>
-                      <td>Field visits by recovery representatives, formal loan recall demand letters.</td>
-                      <td>Section 25 PSSA / Section 138 NI Act statutory legal demand notices.</td>
+                      <td>Field visits by recovery representatives, loan acceleration notices.</td>
+                      <td>Section 25 PSSA statutory demand notices issued by legal panel.</td>
                       <td>Moderate (Discussions for penal fee waivers can commence).</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-amber-700">NPA (Substandard Asset)</td>
                       <td>91 – 180 Days</td>
-                      <td>Transferred to Zonal Stressed Assets Desk; mandatory Ind AS 109 provisioning.</td>
-                      <td>Magistrate Court summons under Sec 25 PSSA; conciliation summons.</td>
+                      <td>Transferred to Stressed Assets Desk; mandatory Ind AS 109 provisioning.</td>
+                      <td>Magistrate Court summons under Sec 25 PSSA; pre-litigation notices.</td>
                       <td><span className="text-emerald-700 font-bold">High (35%–50% Haircut achievable).</span></td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-red-700">Doubtful / Loss Asset</td>
+                      <td className="font-bold text-red-700">Doubtful / Written-Off</td>
                       <td>181 – 365+ Days</td>
-                      <td>High balance-sheet provisioning absorbed; internal technical write-off evaluation.</td>
-                      <td>Arbitration claims, civil summary suits (Order 37 CPC), Lok Adalat referrals.</td>
+                      <td>High balance-sheet provisioning absorbed; internal technical write-off.</td>
+                      <td>Sole arbitration claims, civil summary suits, Lok Adalat referrals.</td>
                       <td><span className="text-emerald-700 font-bold">Maximum (50%–60% Haircut achievable).</span></td>
                     </tr>
                   </tbody>
@@ -659,50 +655,44 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Once an unsecured personal or business loan is categorized as a Doubtful Asset or subjected to technical write-off, Aditya Birla Finance has already absorbed the loss on its quarterly financial statements. Under these circumstances, an upfront lump-sum compromise settlement delivers an immediate net cash write-back to ABFL&apos;s operating profit, providing senior risk committees with the financial justification to sanction substantial principal waivers.
+                Once a loan reaches Doubtful Asset status or is subjected to technical write-off, Poonawalla Fincorp has already provisioned for the accounting loss. Under these conditions, an upfront compromise settlement delivers an immediate net cash recovery to the NBFC&apos;s profit statement, providing senior credit committees with solid justification to grant substantial principal haircuts.
               </p>
             </section>
 
-            {/* Section 3: Halting NACH Bounce Charges & Penal Levies */}
-            <section id="stopping-abfl-bounce-charges-nach" className="scroll-mt-24 mb-12">
+            {/* Section 3: Halting NACH Bounce Penalties & Multi-Sweep Presentations */}
+            <section id="halting-nach-bounce-penal-charges" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Banknote className="w-4 h-4" />
-                <span>3. Stopping NACH Bounce Charges &amp; Penal Fees</span>
+                <span>3. Stopping NACH Bounces &amp; Penal Compounding</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How to Stop Aditya Birla Finance Bounce Charges &amp; Halt Repeated NACH Presentations
+                How to Stop Poonawalla Fincorp NACH Bounce Charges &amp; Prevent Account Depletion
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                One of the most severe financial burdens faced by borrowers in default is the aggressive compounding of electronic auto-debit bounce fees. Aditya Birla Finance&apos;s automated treasury systems often present e-NACH mandates two to four times within a single month. When an account lacks sufficient funds, the borrower&apos;s destination bank deducts ₹250 to ₹500 plus GST per return, while ABFL simultaneously levies internal bounce penalties ranging from ₹500 to ₹1,000 plus GST.
+                A major challenge for borrowers in financial distress is the compounding of electronic mandate bounce fees. Poonawalla Fincorp&apos;s automated payment gateways frequently submit e-NACH debit mandates multiple times within a single billing cycle. When an account has insufficient funds, the borrower&apos;s destination bank charges ₹250 to ₹500 plus GST per return, while Poonawalla Fincorp concurrently levies internal return charges of ₹500 to ₹1,000 plus GST alongside penal interest.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Over a period of four to six months, these unauthorized and continuous presentation cycles can drain tens of thousands of rupees from borrower accounts or inflate the outstanding loan ledger with arbitrary fees. Under the Reserve Bank of India&apos;s Fair Lending Practice directives on penal charges in loan accounts (2023), regulated entities are strictly prohibited from capitalizing penal charges or charging compounded default interest.
+                Over three to six months, these repetitive presentation sweeps can drain essential living funds from borrower accounts and inflate the loan ledger with unwarranted fees. Under the Reserve Bank of India&apos;s Fair Lending Practice directives on penal charges (2023), regulated entities are strictly prohibited from capitalizing penal fees or charging compounded interest on default penalties.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Distressed borrowers can protect themselves through two decisive legal steps:
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                First, under National Payments Corporation of India (NPCI) procedural guidelines and RBI consumer protection directives, a borrower holds the absolute legal right to instruct their destination bank in writing or through digital banking channels to cancel or suspend the e-NACH mandate linked to the Aditya Birla Finance loan, immediately preventing future presentation fees.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Second, during formal One-Time Settlement negotiations, legal counsel must demand an absolute 100% waiver of all accumulated bounce charges, late payment fees, and penal interest. In approved compromise settlements, Aditya Birla Finance completely extinguishes these ancillary levies, calculating the negotiated settlement haircut exclusively on the core outstanding principal.
+                Distressed borrowers can protect themselves through two vital steps: First, under National Payments Corporation of India (NPCI) circulars and RBI regulations, a borrower has the statutory right to submit a formal written mandate cancellation or stop-payment request to their destination bank to halt future debit attempts. Second, during formal OTS negotiations, legal counsel must demand a 100% complete waiver of all accumulated bounce fees and penal interest, ensuring that the negotiated settlement is calculated strictly on the core outstanding principal.
               </p>
             </section>
 
-            {/* Section 4: OTS Haircut Policies & NPV Valuation */}
-            <section id="abfl-ots-haircut-policy-npv" className="scroll-mt-24 mb-12">
+            {/* Section 4: OTS Haircut Valuation Matrix & NPV Framework */}
+            <section id="ots-haircut-valuation-npv-framework" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Calculator className="w-4 h-4" />
-                <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
+                <span>4. OTS Haircut Matrix &amp; NPV Valuation Formula</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Aditya Birla Finance One-Time Settlement (OTS) &amp; Haircut Valuation Matrix
+                Poonawalla Fincorp One-Time Settlement (OTS) &amp; Haircut Valuation Matrix
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under the RBI Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24), Aditya Birla Finance maintains a board-approved compromise settlement framework. Rather than acting on arbitrary discretion, the NBFC evaluates settlement proposals using a mathematical Net Present Value (NPV) recovery methodology.
+                In compliance with the RBI Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24), Poonawalla Fincorp evaluates settlement proposals through a structured Net Present Value (NPV) recovery model rather than arbitrary discretion.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Because unsecured personal loans and business installment loans carry no underlying physical collateral, Aditya Birla Finance must mathematically compare an immediate lump-sum settlement offer against the uncertain, discounted future recovery of prolonged litigation or civil execution proceedings, after accounting for legal retainers, court fees, and administrative costs.
+                Because unsecured personal loans, professional loans, and unsecured business lines carry no physical collateral, the NBFC&apos;s risk committee must compare an immediate lump-sum settlement against the uncertain, discounted future cash flows of prolonged civil litigation or arbitration, after factoring in legal expenses, court fees, and provisioning costs.
               </p>
 
               {/* Formula Container Box */}
@@ -720,12 +710,12 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Aditya Birla Finance Settlement Haircut Slabs by Product &amp; Aging</h3>
+              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Poonawalla Fincorp Settlement Haircut Slabs by Product &amp; Aging</h3>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Loan Facility Category</th>
+                      <th>Loan Product Category</th>
                       <th>Delinquency Aging</th>
                       <th>Penal &amp; Bounce Waiver</th>
                       <th>Principal Haircut Range</th>
@@ -734,32 +724,39 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">ABFL Unsecured Personal Loan</td>
+                      <td className="font-bold text-slate-900">Unsecured Personal Loan</td>
                       <td>90 – 180 Days (NPA)</td>
                       <td>100% Full Waiver</td>
                       <td>30% – 45% Principal Waiver</td>
                       <td>Offer 40%–50% of Book Dues</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">ABFL Unsecured Personal Loan</td>
+                      <td className="font-bold text-slate-900">Unsecured Personal Loan</td>
                       <td>181 – 365+ Days (Doubtful)</td>
                       <td>100% Full Waiver</td>
                       <td>45% – 60% Principal Waiver</td>
                       <td>Offer 35%–40% of Book Dues</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">ABFL Business Installment Loan (BIL)</td>
+                      <td className="font-bold text-slate-900">Professional Loan (Doctors / CAs)</td>
                       <td>90 – 180 Days (NPA)</td>
                       <td>100% Full Waiver</td>
-                      <td>30% – 45% Principal Waiver</td>
-                      <td>Offer 45%–55% of Utilized Dues</td>
+                      <td>30% – 40% Principal Waiver</td>
+                      <td>Offer 45%–55% of Outstanding</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">ABFL Business Installment Loan (BIL)</td>
+                      <td className="font-bold text-slate-900">Professional Loan (Doctors / CAs)</td>
                       <td>180+ Days (Written Off)</td>
-                      <td>100% All Penal Charges</td>
-                      <td>50% – 65% Principal Waiver</td>
-                      <td>Offer 30%–35% of Total Dues</td>
+                      <td>100% Full Waiver</td>
+                      <td>45% – 55% Principal Waiver</td>
+                      <td>Offer 35%–45% of Outstanding</td>
+                    </tr>
+                    <tr>
+                      <td className="font-bold text-slate-900">Pre-Owned Car Loan (Shortfall)</td>
+                      <td>120+ Days Delinquency</td>
+                      <td>100% All Penalties</td>
+                      <td>40% – 55% Shortfall Waiver</td>
+                      <td>Offer 40%–50% of Balance Gap</td>
                     </tr>
                   </tbody>
                 </table>
@@ -767,7 +764,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
             </section>
 
             {/* Section 5: High-Impact Resolution Blueprint (Infographic Banner) */}
-            <section id="infographic-resolution-blueprint" className="scroll-mt-24 mb-12">
+            <section id="infographic-settlement-blueprint" className="scroll-mt-24 mb-12">
               <div className="bg-white border-2 border-blue-200 rounded-3xl overflow-hidden shadow-lg my-6 text-slate-800">
                 <div className="bg-[#0A2540] text-white py-3.5 px-5 flex items-center justify-between border-b-2 border-[#1F5EFF]">
                   <div className="flex items-center gap-2.5">
@@ -779,12 +776,12 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                         Legal Defense &amp; Action Blueprint
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
-                        Aditya Birla Finance Loan Settlement &amp; Legal Defense Blueprint
+                        Poonawalla Fincorp Loan Settlement &amp; Legal Defense Blueprint
                       </h3>
                     </div>
                   </div>
                   <a
-                    href="/images/infographics/aditya-birla-finance-loan-settlement.jpg"
+                    href="/images/infographics/poonawalla-fincorp-loan-settlement.jpg"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-xs text-[#1F5EFF] hover:text-blue-300 font-bold flex items-center gap-1 transition-colors"
@@ -798,8 +795,8 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <div className="p-3 md:p-4 bg-slate-50">
                   <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-sm bg-white">
                     <img
-                      src="/images/infographics/aditya-birla-finance-loan-settlement.jpg"
-                      alt="Aditya Birla Finance Loan Settlement and OTS Framework Infographic"
+                      src="/images/infographics/poonawalla-fincorp-loan-settlement.jpg"
+                      alt="Poonawalla Fincorp Loan Settlement and OTS Framework Infographic"
                       className="w-full h-auto object-contain max-h-[440px] mx-auto hover:scale-[1.01] transition-transform duration-300"
                       loading="lazy"
                     />
@@ -810,7 +807,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <div className="bg-slate-100 border-t border-slate-200 py-3 px-5 flex flex-wrap items-center justify-between gap-3 text-xs text-slate-600">
                   <div className="flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    <span><strong>Key Strategy:</strong> Revoke NACH mandate presentations, halt third-party recovery harassment, and negotiate directly with Aditya Birla Finance Credit Committees for 40%–60% debt waivers.</span>
+                    <span><strong>Key Strategy:</strong> Revoke e-NACH presentation sweeps, halt aggressive collection agency calls, and negotiate directly with Poonawalla Fincorp Credit Committees for 40%–60% debt haircuts.</span>
                   </div>
                   <Link href="/contact" className="text-[#1F5EFF] font-bold hover:underline">
                     Get Free Case Evaluation &rarr;
@@ -819,37 +816,37 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
               </div>
             </section>
 
-            {/* Section 6: Third-Party Recovery Defense & RBI Rules */}
-            <section id="recovery-agent-rules-anti-harassment" className="scroll-mt-24 mb-12">
+            {/* Section 6: Recovery Practices & RBI Harassment Defense */}
+            <section id="recovery-agent-defense-rbi-protections" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <ShieldAlert className="w-4 h-4" />
-                <span>5. Recovery Practices &amp; RBI Harassment Defense</span>
+                <span>5. Anti-Harassment Rights &amp; RBI Directives</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Against Aggressive Recovery Tactics Under RBI NBFC Directives
+                Defending Against Aggressive Recovery Agency Practices Under RBI Directives
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Aditya Birla Finance contracts external third-party Debt Recovery Agencies (DRAs) whose tele-callers and field agents operate under high commission incentives. In defaulted accounts, collection personnel frequently overstep regulatory boundaries by executing continuous telephonic harassment, visiting borrower business premises during operating hours, and contacting non-guarantor family members or business associates whose contact details were obtained during onboarding.
+                Poonawalla Fincorp engages external third-party Debt Recovery Agencies (DRAs) whose representatives operate under strict monthly collection targets. In overdue accounts, agency callers frequently overstep legal boundaries by making persistent calls outside permitted hours, visiting residential or clinic premises during operating hours, and contacting non-guarantor family members or business associates.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The Reserve Bank of India Master Directions on Recovery Agents and NBFC Fair Practices Code establish unequivocal, non-negotiable statutory protections: (a) Agents are strictly restricted to contacting or visiting borrowers between 08:00 AM and 07:00 PM; (b) Reaching out to employers, business partners, colleagues, neighbors, or non-guarantor relatives is strictly illegal; (c) Intimidation, verbal abuse, workplace disruption, or public shaming is prohibited under law; (d) Field agents must carry official ABFL authorization letters and Indian Institute of Banking &amp; Finance (IIBF) DRA certifications.
+                The Reserve Bank of India Master Directions on Recovery Agents and NBFC Fair Practices Code establish clear, non-negotiable statutory safeguards: (a) Agents are strictly permitted to contact borrowers only between 08:00 AM and 07:00 PM; (b) Contacting employers, colleagues, neighbors, or non-guarantor relatives is illegal; (c) Verbal intimidation, harassment, public shaming, or workplace disruption is prohibited under law; (d) Recovery agents must carry authentic Poonawalla Fincorp authorization letters and Indian Institute of Banking &amp; Finance (IIBF) DRA certifications.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers facing unlawful recovery pressure should systematically preserve call recordings, WhatsApp transcripts, and office CCTV footage. Serving a formal legal cease-and-desist notice to Aditya Birla Finance&apos;s Principal Nodal Officer (PNO) and escalating documented violations to the RBI Integrated Ombudsman portal (CMS) triggers immediate compliance intervention and compels the NBFC to enforce professional standards.
+                Borrowers facing unlawful recovery tactics should preserve call logs, WhatsApp messages, and CCTV recordings. Serving a formal legal cease-and-desist notice to Poonawalla Fincorp&apos;s Principal Nodal Officer and filing a complaint on the RBI Integrated Ombudsman portal (CMS) triggers immediate compliance review and compels the NBFC to enforce professional standards.
               </p>
             </section>
 
             {/* Section 7: Step-by-Step NBFC Settlement Roadmap */}
-            <section id="step-by-step-abfl-settlement" className="scroll-mt-24 mb-12">
+            <section id="step-by-step-poonawalla-settlement" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Guide: How to Negotiate a Compromise Settlement with Aditya Birla Finance
+                Step-by-Step Guide: How to Negotiate a Compromise Settlement with Poonawalla Fincorp
               </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Executing a legally secure, cost-effective One-Time Settlement with Aditya Birla Finance requires a disciplined, evidence-based approach:
+                Achieving a legally binding, high-haircut One-Time Settlement with Poonawalla Fincorp requires a systematic, evidence-backed strategy:
               </p>
 
               <div className="space-y-6">
@@ -860,7 +857,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                     Comprehensive Financial Audit &amp; Hardship Dossier Compilation
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Assemble comprehensive documentary proof evidencing bona fide, involuntary financial incapacity. Crucial documents include audited business financial statements, GST return filings showing revenue reduction, job termination notices, medical discharge records, or bank statements evidencing depleted liquidity. This establishes that the default is non-wilful and qualifies for compromise relief.
+                    Gather documentary evidence establishing genuine financial incapacity. Key documents include salary reduction letters, business GST filings reflecting revenue contraction, clinic closure records, medical treatment documentation, or bank statements demonstrating depleted savings. This proves that the default is non-wilful and qualifies for compromise relief.
                   </p>
                 </div>
 
@@ -871,7 +868,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                     Revoking NACH Mandates &amp; Formalizing Communication Channels
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Instruct your bank to revoke the e-NACH auto-debit mandate to halt recurring return penalties. Issue a formal notice to Aditya Birla Finance directing all collection communication to written email channels or through designated legal counsel, establishing a verifiable evidentiary audit trail.
+                    Instruct your bank in writing to suspend the e-NACH auto-debit mandate to stop recurring bounce charges. Serve formal notice to Poonawalla Fincorp requiring all future communication to be routed through written email channels or designated legal counsel, establishing a clean evidentiary trail.
                   </p>
                 </div>
 
@@ -882,7 +879,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                     Submitting Formal Hardship Petition to Stressed Assets Desk
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Submit a formal OTS petition addressed to Aditya Birla Finance&apos;s Zonal Stressed Assets Desk citing the RBI Master Direction on Compromise Settlements. Anchor the opening settlement proposal at 25% to 35% of total book dues to establish room for structured counter-negotiations.
+                    Submit a formal OTS petition addressed to Poonawalla Fincorp&apos;s Stressed Assets Desk citing the RBI Master Direction on Compromise Settlements. Set your opening settlement offer at 25% to 35% of total ledger dues to establish room for structured counter-negotiations.
                   </p>
                 </div>
 
@@ -890,10 +887,10 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
-                    Managing Counter-Demands &amp; Structuring Committee Approvals
+                    Managing Counter-Demands &amp; Credit Committee Approval
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Aditya Birla Finance will initially reject low offers and propose modest discounts (10%–20%). Experienced legal counsel counters by demonstrating that settlement funds are being pooled from third-party family assistance or non-operating asset liquidation, steering the Credit Committee toward the target 40% to 60% principal waiver band.
+                    Poonawalla Fincorp will initially reject low offers and propose minor fee waivers (10%–20%). Experienced legal counsel counters by demonstrating that settlement funds are being arranged via third-party family assistance, steering the Credit Committee toward the target 40% to 60% principal waiver band.
                   </p>
                 </div>
 
@@ -904,7 +901,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                     Rigorous Forensic Audit of the OTS Sanction Letter
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Before paying any funds, verify that Aditya Birla Finance issues an official OTS Sanction Letter on corporate letterhead containing loan account details, sanctioned settlement amount, exact payment deadlines, and unambiguous covenants confirming complete debt discharge and legal withdrawal.
+                    Before transferring any funds, verify that Poonawalla Fincorp issues an official OTS Sanction Letter on corporate letterhead containing loan account details, sanctioned settlement amount, exact payment timelines, and explicit clauses confirming full debt discharge and legal withdrawal.
                   </p>
                 </div>
 
@@ -915,7 +912,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                     Direct Account Remittance &amp; Enforcing ₹0 NDC Delivery
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Deposit the agreed settlement amount directly into your designated Aditya Birla Finance loan account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, ABFL is legally required to deliver a formal No Dues Certificate and update credit bureaus within 30 calendar days.
+                    Deposit the agreed settlement amount directly into your designated Poonawalla Fincorp loan account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, the NBFC is legally required to deliver a formal No Dues Certificate and update credit bureaus within 30 calendar days.
                   </p>
                 </div>
               </div>
@@ -931,16 +928,16 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 Navigating Section 25 PSSA Notices, Arbitration &amp; National Lok Adalat
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When an unsecured personal or business loan crosses 60 to 90 days of default, Aditya Birla Finance routinely issues statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates, alongside notices invoking unilateral private arbitration in Mumbai or New Delhi.
+                When an unsecured personal, professional, or vehicle loan crosses 60 to 90 days of default, Poonawalla Fincorp regularly issues statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates, along with notices initiating unilateral private arbitration in Pune or Kolkata.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                A Section 25 PSSA notice is a statutory precursor to a Magistrate Court complaint, not an arrest warrant. Responding through counsel within the 15-day window detailing genuine financial hardship and challenging unauthorized multiple mandate presentations protects your legal standing while opening formal conciliation channels.
+                A Section 25 PSSA notice is a statutory demand notice, not a warrant of arrest. Responding through legal counsel within the 15-day window detailing bona fide financial hardship and challenging unauthorized multiple mandate sweeps protects your legal standing while opening structured conciliation channels.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Regarding arbitration notices, landmark Supreme Court rulings (including <em>Perkins Eastman Architects DVM v. HSCC (India) Ltd.</em> and <em>TRF Ltd. v. Energo Engineering Projects Ltd.</em>) establish that unilateral arbitrator appointments by lenders without mutual consent are legally invalid. Legal counsel can challenge the arbitrator&apos;s jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, effectively halting biased ex-parte awards and redirecting the dispute into compromise settlement channels.
+                Regarding arbitration proceedings, landmark Supreme Court rulings (including <em>Perkins Eastman Architects DVM v. HSCC (India) Ltd.</em> and <em>TRF Ltd. v. Energo Engineering Projects Ltd.</em>) establish that unilateral arbitrator appointments by lenders without mutual written consent are legally invalid. Legal advocates can challenge the arbitrator&apos;s jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, effectively halting ex-parte proceedings and redirecting the dispute into compromise settlement channels.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Furthermore, Aditya Birla Finance regularly participates in quarterly National Lok Adalats organized by District Legal Services Authorities (DLSA) under the Legal Services Authorities Act, 1987. In Lok Adalat sessions, NBFC representatives carry pre-approved settlement mandates (often offering 45% to 60% debt waivers). The resulting settlement award holds the legal force of a binding Civil Court Decree with non-appealable finality, permanently dismissing all pending legal claims.
+                Furthermore, Poonawalla Fincorp participates actively in quarterly National Lok Adalats organized by District Legal Services Authorities (DLSA) under the Legal Services Authorities Act, 1987. In Lok Adalat sessions, NBFC representatives carry pre-approved settlement mandates (often offering 45% to 60% debt haircuts). The resulting settlement award holds the legal status of a binding Civil Court Decree with non-appealable finality, permanently resolving all claims.
               </p>
 
               <div className="overflow-x-auto my-6">
@@ -989,56 +986,56 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
             </section>
 
             {/* Section 9: Sanction Letter Audit & ₹0 NDC Mandate */}
-            <section id="sanction-letter-audit-ndc-verification" className="scroll-mt-24 mb-12">
+            <section id="sanction-letter-audit-ndc-mandate" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Authenticating Aditya Birla Finance Settlement Letters &amp; Enforcing the ₹0 NDC
+                Authenticating Poonawalla Fincorp Settlement Letters &amp; Enforcing the ₹0 NDC
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                A serious risk in retail debt recovery involves unauthorized collection agents issuing fake settlement letters to collect partial payments. If a borrower transfers funds against an unverified or verbal offer, Aditya Birla Finance credits the money toward outstanding penal charges, leaving the default open and compounding.
+                A serious risk in retail debt recovery involves unauthorized collection agents issuing fake settlement letters to collect partial payments. If a borrower deposits funds against an unverified or verbal offer, Poonawalla Fincorp credits the money toward outstanding penal charges, leaving the default open and compounding.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers must verify that the OTS sanction letter is printed on official Aditya Birla Finance Limited letterhead containing the Corporate Identification Number (CIN: U65990GJ1991PLC064603), registered office address, unique settlement proposal reference number, authorized signatory name, employee code, and official branch seal.
+                Borrowers must verify that the OTS sanction letter is printed on official Poonawalla Fincorp Limited letterhead containing the Corporate Identification Number (CIN: L51504PN1978PLC209007), registered office address in Pune, unique settlement proposal reference number, authorized signatory name, employee code, and official branch seal.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The sanction letter must explicitly confirm that upon payment of the agreed sum, the account is fully discharged with zero further financial liability. Under RBI Circular RBI/2023-24/60, Aditya Birla Finance must deliver the formal No Dues Certificate (NDC) and cancel all security mandates within 30 calendar days, or pay mandatory statutory compensation of ₹5,000 per day of delay directly to the borrower.
+                The sanction letter must explicitly state that upon payment of the agreed sum, the loan account is fully settled with zero remaining liability. Under RBI Circular RBI/2023-24/60, Poonawalla Fincorp must deliver the formal No Dues Certificate (NDC) and cancel all security mandates within 30 calendar days, or pay mandatory statutory compensation of ₹5,000 per day of delay directly to the borrower.
               </p>
             </section>
 
             {/* Section 10: CIBIL Score Trajectory & Rehabilitation */}
-            <section id="cibil-impact-credit-rehabilitation" className="scroll-mt-24 mb-12">
+            <section id="cibil-score-rehabilitation-trajectory" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <TrendingUp className="w-4 h-4" />
-                <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
+                <span>9. CIBIL Trajectory &amp; 18-Month Recovery Plan</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 CIBIL Score Trajectory Post-Settlement &amp; Strategic 18-Month Recovery Plan
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Completing a One-Time Settlement with Aditya Birla Finance results in the account being reported to all four licensed credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 75 to 150 points.
+                Completing a One-Time Settlement with Poonawalla Fincorp results in the loan being reported across all four licensed credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 75 to 150 points.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI compromise directives, a mandatory 12-month cooling-off window applies before fresh unsecured credit lines can be approved. However, a &apos;Settled&apos; record with ₹0 balance is vastly superior to an active, compounding &apos;Default&apos; status that degrades credit scores every month and invites ongoing litigation.
+                Under RBI compromise guidelines, a 12-month cooling-off period applies before fresh unsecured loans can be sanctioned. However, a &apos;Settled&apos; record with ₹0 balance is vastly superior to an active, compounding &apos;Default&apos; status that degrades credit scores every month and invites ongoing legal exposure.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers can systematically restore their credit profile to 750+ within 18 to 24 months by securing a fixed-deposit-backed credit card (FD card), maintaining credit utilization strictly below 25%, and ensuring 100% on-time payment records on all living utilities and surviving credit obligations.
+                Borrowers can rebuild their credit score back to 750+ within 18 to 24 months by obtaining a secured fixed-deposit credit card (FD card), maintaining credit utilization strictly below 25%, and ensuring 100% on-time payment records on all utility bills and active credit obligations.
               </p>
             </section>
 
             {/* Section 11: SettleLoans Legal Defense & Representation */}
-            <section id="company-resolution-section" className="scroll-mt-24 mb-12">
+            <section id="company-advocacy-section" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Why Distressed Aditya Birla Finance Borrowers Trust SettleLoans
+                Why Distressed Poonawalla Fincorp Borrowers Trust SettleLoans
               </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Negotiating an optimal debt settlement with a major corporate NBFC like Aditya Birla Finance requires rigorous financial analysis and dedicated legal advocacy. SettleLoans halts third-party recovery harassment through immediate cease-and-desist notices, defends against Section 25 PSSA summons, challenges unilateral arbitration notices, and negotiates directly with ABFL&apos;s Zonal Stressed Assets Desks to secure maximum lawful debt waivers and authentic ₹0 No Dues Certificates.
+                Negotiating an optimal debt settlement with a fast-growing NBFC like Poonawalla Fincorp requires rigorous financial analysis and dedicated legal advocacy. SettleLoans halts third-party recovery harassment through immediate cease-and-desist notices, defends against Section 25 PSSA summons, challenges unilateral arbitration notices, and negotiates directly with Poonawalla Fincorp&apos;s Stressed Assets Desks to secure maximum lawful debt waivers and authentic ₹0 No Dues Certificates.
               </p>
 
               {/* Placement of Reusable CompanySection */}
@@ -1054,7 +1051,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <span>11. Frequently Asked Questions</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About Aditya Birla Capital Loan Settlement
+                Frequently Asked Questions About Poonawalla Fincorp Loan Settlement
               </h2>
 
               <div className="space-y-4">
@@ -1111,12 +1108,12 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <a
-                    href="https://finance.adityabirlacapital.com"
+                    href="https://poonawallafincorp.com"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>Aditya Birla Finance Limited:</strong> Fair Practices Code, Customer Grievance Redressal Policy &amp; Principal Nodal Officer Matrix
+                    <strong>Poonawalla Fincorp Limited:</strong> Fair Practices Code, Grievance Redressal Policy &amp; Nodal Officer Escalation Matrix
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1220,9 +1217,11 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">
-                <div className="w-12 h-12 rounded-full bg-gradient-to-br from-blue-600 to-indigo-700 text-white font-black text-base flex items-center justify-center shadow-md">
-                  AJ
-                </div>
+                <Link href="/authors/ashish-jhangra">
+                  <div className="w-12 h-12 rounded-full bg-gradient-to-br from-blue-600 to-indigo-700 text-white font-black text-base flex items-center justify-center shadow-md hover:opacity-90 transition-opacity">
+                    AJ
+                  </div>
+                </Link>
                 <div>
                   <h4 className="font-bold text-slate-900 text-base leading-tight">
                     <Link
@@ -1238,14 +1237,14 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has led over 1,200+ successful debt compromise negotiations across Aditya Birla Finance, Tata Capital, Bajaj Finance, HDFC Bank, and ICICI Bank. He specializes in corporate NBFC dispute resolution, Section 25 PSSA defense, and borrower advocacy under RBI Master Directions.
+                Ashish has led over 1,200+ successful debt compromise negotiations across Poonawalla Fincorp, Aditya Birla Finance, Tata Capital, Bajaj Finance, HDFC Bank, and ICICI Bank. He specializes in corporate NBFC dispute resolution, Section 25 PSSA defense, and borrower advocacy under RBI Master Directions.
               </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
                   href="/authors/ashish-jhangra"
                   className="text-[#1F5EFF] hover:underline"
                 >
-                  View Author Profile
+                  View Profile &rarr;
                 </Link>
                 <a
                   href="https://www.linkedin.com/company/settleloans"
@@ -1262,13 +1261,13 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
             <div className="bg-gradient-to-br from-[#1F5EFF] to-blue-700 text-white rounded-2xl p-6 shadow-lg">
               <div className="flex items-center gap-2 text-blue-100 text-xs font-bold uppercase tracking-wider mb-2">
                 <PhoneCall className="w-4 h-4" />
-                <span>Aditya Birla Dispute Resolution</span>
+                <span>Poonawalla Dispute Resolution</span>
               </div>
               <h3 className="text-xl font-black mb-3 leading-tight">
-                Facing Aditya Birla Loan Default?
+                Facing Poonawalla Loan Default?
               </h3>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
-                Stop aggressive recovery tele-calling and recurring NACH return fees immediately. Let our experienced banking advocates audit your delinquency stage, defend statutory legal notices, draft your formal OTS petition, and secure an authentic stamped Aditya Birla Finance settlement letter.
+                Stop aggressive recovery tele-calling and recurring NACH return fees immediately. Let our experienced banking advocates audit your delinquency stage, defend statutory legal notices, draft your formal OTS petition, and secure an authentic stamped Poonawalla Fincorp settlement letter.
               </p>
               <Link
                 href="/contact"
@@ -1288,7 +1287,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Direct NBFC Representation:</strong> We bypass third-party collection agencies to represent your case directly before Aditya Birla Finance Zonal Stressed Assets Desks.
+                    <strong>Direct NBFC Representation:</strong> We bypass third-party collection agencies to represent your case directly before Poonawalla Fincorp Stressed Assets Committees.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">

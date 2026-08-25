@@ -4,6 +4,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import CompanySection from '@/components/CompanySection';
 import StatsStrip from '@/components/StatsStrip';
+import SidebarTOC from '@/components/SidebarTOC';
 import {
   ShieldCheck,
   AlertTriangle,
@@ -471,23 +472,7 @@ export default function BankArbitrationNoticeReplyPage() {
           
           {/* Left Column: Table of Contents + Executive Crux */}
           <aside className="w-full lg:sticky lg:top-24 space-y-4">
-            <div className="bg-slate-50 border border-slate-200 rounded-2xl p-4 shadow-sm">
-              <div className="flex items-center gap-2 pb-3 mb-3 border-b border-slate-200 text-slate-900 font-bold text-sm">
-                <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
-                <span>Table of Contents</span>
-              </div>
-              <nav className="space-y-1 text-xs">
-                {tocItems.map((item) => (
-                  <a
-                    key={item.id}
-                    href={`#${item.id}`}
-                    className="block py-1.5 px-2.5 rounded-lg text-slate-600 hover:bg-slate-200/60 hover:text-slate-900 transition-all duration-150 leading-snug"
-                  >
-                    {item.title}
-                  </a>
-                ))}
-              </nav>
-            </div>
+            <SidebarTOC items={tocItems} />
 
             {/* Quick Executive Case Crux Box */}
             <div className="bg-blue-50/60 border border-blue-200/70 rounded-2xl p-4 text-xs text-blue-900 space-y-2">

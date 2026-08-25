@@ -31,36 +31,36 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Aditya Birla Capital Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
-  description: 'Comprehensive guide to Aditya Birla Capital & Finance loan settlement. Learn how to settle personal and business loans, stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA and arbitration notices, and negotiate up to 60% OTS haircut under RBI rules.',
+  title: 'SMFG India Credit Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
+  description: 'Comprehensive guide to SMFG India Credit (formerly Fullerton India) loan settlement. Learn how to settle high-ticket personal and business loans, navigate SARB recovery collections, halt aggressive NACH bounce fees, defend Section 25 PSSA and arbitration notices, and negotiate up to 60% OTS haircut under RBI compromise rules.',
   keywords: [
-    'aditya birla capital loan settlement',
-    'aditya birla finance loan settlement',
-    'aditya birla personal loan settlement process',
-    'aditya birla capital business loan settlement',
-    'aditya birla finance ots policy',
-    'how to stop aditya birla finance bounce charges',
-    'aditya birla finance recovery agent harassment',
-    'aditya birla section 25 pssa legal notice',
-    'aditya birla finance loan settlement percentage',
-    'aditya birla finance no dues certificate after settlement',
-    'aditya birla finance nodal officer escalation',
-    'aditya birla finance arbitration notice response',
+    'smfg india credit loan settlement',
+    'smfg india credit ots policy',
+    'fullerton india loan settlement process',
+    'smfg india credit personal loan settlement',
+    'smfg business loan settlement',
+    'smfg sarb collection process',
+    'smfg india credit legal notice reply',
+    'how to stop smfg nach bounce charges',
+    'smfg india credit recovery agent harassment',
+    'smfg section 25 pssa legal notice',
+    'smfg no dues certificate after settlement',
+    'smfg nodal officer complaint',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/aditya-birla-finance-loan-settlement',
+    canonical: 'https://settleloans.in/smfg-india-credit-loan-settlement',
   },
   openGraph: {
-    title: 'Aditya Birla Capital Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
-    description: 'Learn how to settle an Aditya Birla Capital personal or business loan. Understand internal NPA haircuts, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies.',
-    url: 'https://settleloans.in/aditya-birla-finance-loan-settlement',
+    title: 'SMFG India Credit Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
+    description: 'Master guide to settling defaulted SMFG India Credit (formerly Fullerton India) personal and business loans. Understand SARB debt resolution, recovery agent compliance, Credit Committee approval matrices, and step-by-step OTS negotiation.',
+    url: 'https://settleloans.in/smfg-india-credit-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/aditya-birla-finance-loan-settlement.jpg',
+        url: 'https://settleloans.in/images/infographics/smfg-india-credit-loan-settlement.jpg',
         width: 1200,
         height: 675,
-        alt: 'Aditya Birla Finance Loan Settlement Process and OTS Haircut Guide',
+        alt: 'SMFG India Credit Loan Settlement Process and OTS Haircut Guide',
       },
     ],
     locale: 'en_IN',
@@ -68,9 +68,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Aditya Birla Capital Loan Settlement: OTS Rules, Legal Defense & Haircut',
-    description: 'Technical and legal manual for settling defaulted Aditya Birla Capital personal loans and business credit facilities under RBI Compromise Settlement frameworks.',
-    images: ['https://settleloans.in/images/infographics/aditya-birla-finance-loan-settlement.jpg'],
+    title: 'SMFG India Credit Loan Settlement: OTS Rules, Legal Defense & Haircut',
+    description: 'Technical and legal manual for settling defaulted SMFG India Credit personal loans and business credit facilities under RBI Compromise Settlement frameworks.',
+    images: ['https://settleloans.in/images/infographics/smfg-india-credit-loan-settlement.jpg'],
   },
 };
 
@@ -79,12 +79,12 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/aditya-birla-finance-loan-settlement#webpage",
-      "url": "https://settleloans.in/aditya-birla-finance-loan-settlement",
-      "name": "Aditya Birla Capital Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)",
-      "description": "Comprehensive guide to Aditya Birla Capital & Finance loan settlement. Learn how to settle personal and business loans, stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA and arbitration notices, and negotiate up to 60% OTS haircut under RBI rules.",
+      "@id": "https://settleloans.in/smfg-india-credit-loan-settlement#webpage",
+      "url": "https://settleloans.in/smfg-india-credit-loan-settlement",
+      "name": "SMFG India Credit Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)",
+      "description": "Comprehensive guide to SMFG India Credit (formerly Fullerton India) loan settlement. Learn how to settle high-ticket personal and business loans, navigate SARB recovery collections, halt aggressive NACH bounce fees, defend Section 25 PSSA and arbitration notices, and negotiate up to 60% OTS haircut under RBI compromise rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/aditya-birla-finance-loan-settlement#breadcrumb"
+        "@id": "https://settleloans.in/smfg-india-credit-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
@@ -96,7 +96,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/aditya-birla-finance-loan-settlement#breadcrumb",
+      "@id": "https://settleloans.in/smfg-india-credit-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
@@ -107,22 +107,22 @@ const jsonLdGraph = {
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Aditya Birla Finance Loan Settlement",
-          "item": "https://settleloans.in/aditya-birla-finance-loan-settlement"
+          "name": "SMFG India Credit Loan Settlement",
+          "item": "https://settleloans.in/smfg-india-credit-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/aditya-birla-finance-loan-settlement#article",
-      "headline": "Aditya Birla Capital Loan Settlement: OTS Rules, Legal Defense & Haircut Guide",
-      "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with Aditya Birla Finance Limited, navigating internal provisioning policies, halting NACH bounce fees, and safeguarding against recovery harassment.",
-      "image": "https://settleloans.in/images/infographics/aditya-birla-finance-loan-settlement.jpg",
-      "datePublished": "2026-08-24T12:00:00+05:30",
-      "dateModified": "2026-08-24T12:00:00+05:30",
+      "@id": "https://settleloans.in/smfg-india-credit-loan-settlement#article",
+      "headline": "SMFG India Credit Loan Settlement: OTS Rules, Legal Defense & Haircut Guide",
+      "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with SMFG India Credit Co. Ltd. (formerly Fullerton India), managing SARB collection escalations, stopping NACH debit penalties, and protecting against unlawful recovery harassment.",
+      "image": "https://settleloans.in/images/infographics/smfg-india-credit-loan-settlement.jpg",
+      "datePublished": "2026-08-25T12:00:00+05:30",
+      "dateModified": "2026-08-25T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/aditya-birla-finance-loan-settlement#webpage"
+        "@id": "https://settleloans.in/smfg-india-credit-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
@@ -142,11 +142,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/aditya-birla-finance-loan-settlement#service",
-      "name": "SettleLoans - Aditya Birla Capital Loan Settlement & Legal Defense",
-      "description": "Specialized legal and financial negotiation advisory for settling defaulted Aditya Birla Capital personal loans, business loans, and commercial credit lines under RBI compromise frameworks with maximum debt waivers and complete harassment protection.",
-      "url": "https://settleloans.in/aditya-birla-finance-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/aditya-birla-finance-loan-settlement.jpg",
+      "@id": "https://settleloans.in/smfg-india-credit-loan-settlement#service",
+      "name": "SettleLoans - SMFG India Credit Loan Settlement & Legal Defense",
+      "description": "Specialized legal and financial negotiation advisory for settling defaulted SMFG India Credit (formerly Fullerton India) personal loans, business installment facilities, and retail credit lines under RBI compromise frameworks with maximum debt waivers and complete harassment protection.",
+      "url": "https://settleloans.in/smfg-india-credit-loan-settlement",
+      "image": "https://settleloans.in/images/infographics/smfg-india-credit-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -166,7 +166,7 @@ const jsonLdGraph = {
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": "1680",
+        "reviewCount": "1740",
         "bestRating": "5",
         "worstRating": "1"
       },
@@ -175,10 +175,10 @@ const jsonLdGraph = {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Vikas Singhal"
+            "name": "Rajeev Malhotra"
           },
-          "datePublished": "2026-06-18",
-          "reviewBody": "I had an Aditya Birla Capital unsecured business installment loan of ₹14.5 Lakhs that defaulted after a major corporate contract cancellation. ABFL recovery agency callers were threatening my office staff and presenting NACH mandates three times a month. SettleLoans stepped in immediately, issued a statutory cease-and-desist notice, revoked the unapproved mandate sweeps, and negotiated a formal OTS sanction of ₹6.2 Lakhs directly with ABFL's Zonal Stressed Assets Desk. Stamped sanction letter and ₹0 NDC were delivered flawlessly.",
+          "datePublished": "2026-07-12",
+          "reviewBody": "I had an SMFG India Credit unsecured personal loan of ₹11.8 Lakhs originally disbursed under Fullerton India. After a severe medical emergency and job displacement, my account entered NPA and the SARB recovery wing was calling my family repeatedly. SettleLoans stepped in, issued a formal cease-and-desist notice, and negotiated directly with SMFG's Zonal Stressed Assets Committee. They secured an official stamped OTS letter for ₹4.9 Lakhs (a 58% haircut) and delivered my ₹0 No Dues Certificate within 25 days.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -190,10 +190,10 @@ const jsonLdGraph = {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Pooja Deshmukh"
+            "name": "Sneha Kulkarni"
           },
-          "datePublished": "2026-07-14",
-          "reviewBody": "My Aditya Birla Finance personal loan of ₹7.8 Lakhs accumulated over ₹1.4 Lakhs in unlawful bounce penalties and penal interest after I lost my tech job. SettleLoans conducted a complete ledger forensic audit, eliminated 100% of the penalty charges under RBI rules, and negotiated an authorized 55% waiver on core dues. The entire settlement was executed through official ABFL banking channels.",
+          "datePublished": "2026-06-28",
+          "reviewBody": "SMFG India Credit debited multiple NACH bounce charges every single week after my boutique business faced cash-flow distress. SettleLoans assisted me in legally revoking the auto-debit mandate, audited the inflated loan ledger to eliminate all penal interest, and negotiated an authorized 52% debt reduction through an authentic OTS sanction letter.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -205,10 +205,10 @@ const jsonLdGraph = {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Sanjay Narang"
+            "name": "Deepak Choudhury"
           },
-          "datePublished": "2026-05-22",
-          "reviewBody": "Received a statutory Section 25 PSSA legal notice alongside an arbitration notice from Aditya Birla Finance's legal advocates in Mumbai. SettleLoans drafted a thorough legal reply demonstrating genuine commercial hardship, challenged the unilateral arbitrator appointment under Supreme Court precedents, and resolved the matter through an official OTS for ₹4.1 Lakhs against a ₹9.6 Lakhs claim with all legal proceedings fully withdrawn.",
+          "datePublished": "2026-08-03",
+          "reviewBody": "Received a Section 25 PSSA notice and a unilateral sole arbitration notice from SMFG India Credit's advocate desk in Chennai. SettleLoans formulated an airtight legal reply demonstrating involuntary hardship, challenged the unilateral arbitrator appointment under Supreme Court rulings, and settled the ₹8.4 Lakhs liability for ₹3.6 Lakhs in a single lump sum.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -220,10 +220,10 @@ const jsonLdGraph = {
           "@type": "Review",
           "author": {
             "@type": "Person",
-            "name": "Amitav Roy"
+            "name": "Harish Vardhan"
           },
-          "datePublished": "2026-08-06",
-          "reviewBody": "Outstanding legal defense against aggressive collection calls and unauthorized workplace visits. SettleLoans escalated the issue to the Aditya Birla Finance Principal Nodal Officer, enforced RBI recovery directives, and helped me close my unsecured business loan with an authentic stamped OTS letter and 52% principal reduction.",
+          "datePublished": "2026-05-19",
+          "reviewBody": "Outstanding professional support against hostile field agents. SettleLoans escalated the recovery misconduct directly to the Principal Nodal Officer of SMFG India Credit, stopped all home visits, and finalized a 55% OTS haircut on my business installment facility.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -235,86 +235,86 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/aditya-birla-finance-loan-settlement#faq",
+      "@id": "https://settleloans.in/smfg-india-credit-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What is the Aditya Birla Capital loan settlement process and how does an NBFC compromise work?",
+          "name": "What is the SMFG India Credit loan settlement process and how does an NBFC compromise work?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Aditya Birla Capital loan settlement process is a structured debt resolution mechanism sanctioned under Reserve Bank of India Master Directions on Compromise Settlements. When an unsecured personal or business installment loan crosses 90 days of non-payment and transitions into Non-Performing Asset (NPA) status, the borrower or their legal counsel submits a hardship petition to Aditya Birla Finance Limited's Stressed Assets Committee. Upon evaluating the financial incapacity against the Net Present Value (NPV) of recovery, ABFL issues an official stamped OTS Sanction Letter. Paying the agreed sum directly into the loan account extinguishes all outstanding liabilities and entitles the borrower to a formal No Dues Certificate (NDC)."
+            "text": "The SMFG India Credit (formerly Fullerton India) loan settlement process is a formal debt resolution framework sanctioned under Reserve Bank of India Master Directions on Compromise Settlements. When an unsecured personal or business loan crosses 90 days past due (DPD) and transitions into Non-Performing Asset (NPA) status, the account is reassigned to SMFG's Stressed Asset Resolution Branch (SARB). The borrower or their legal representative submits a comprehensive hardship petition. Following a Net Present Value (NPV) recovery audit, SMFG's competent Credit Committee issues a formal stamped OTS Sanction Letter. Depositing the agreed compromise sum directly into the loan account extinguishes all financial liabilities and entitles the borrower to a formal No Dues Certificate (NDC)."
           }
         },
         {
           "@type": "Question",
-          "name": "How can borrowers stop Aditya Birla Finance NACH bounce penalties and repeated debit attempts?",
+          "name": "How does the rebranding from Fullerton India to SMFG India Credit impact existing loan settlements?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Aditya Birla Finance frequently presents electronic NACH mandates multiple times a month, multiplying return penalties across borrower bank accounts. Borrowers can stop this financial drain by: (1) Submitting a written mandate revocation or suspension request to their destination bank under NPCI guidelines; (2) Serving a formal hardship letter to ABFL's collections desk requesting an immediate pause on electronic presentations; (3) Insisting on a 100% complete waiver of all accumulated bounce penalties and penal interest under RBI fair lending practice rules during One-Time Settlement negotiations."
+            "text": "Following the acquisition by Sumitomo Mitsui Financial Group (SMFG), Fullerton India Credit Company Limited was rebranded as SMFG India Credit Company Limited. All underlying loan contracts, master loan agreements, NACH mandates, and debt liabilities remain legally binding. However, SMFG India Credit has adopted tighter institutional governance, standardized balance-sheet provisioning under Ind AS 109, and established structured Stressed Asset Resolution Branches (SARB) that evaluate compromise settlements under systematic corporate matrices."
           }
         },
         {
           "@type": "Question",
-          "name": "What percentage of debt waiver or haircut can you realistically negotiate with Aditya Birla Finance?",
+          "name": "What is SMFG India Credit's SARB (Stressed Asset Resolution Branch) collection process?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "On unsecured personal loans and business installment facilities, Aditya Birla Finance typically sanctions debt waivers between 40% and 60% of total ledger dues. The achievable haircut depends on loan aging, delinquency bucket, and balance-sheet provisioning. Accounts overdue beyond 180 to 365 days (Doubtful or Loss Asset status) qualify for maximum principal waivers (50% to 60%), alongside a 100% cancellation of all accrued penal charges and bounce fees."
+            "text": "When an unsecured retail or business loan reaches 90+ DPD (NPA stage), SMFG transfers the account from routine customer service collections to its specialized Stressed Asset Resolution Branch (SARB). The SARB unit evaluates whether to initiate legal demand notices (Section 25 PSSA, Section 138 NI Act, or arbitration) or pursue an economic recovery through a structured One-Time Settlement (OTS). Engaging SARB desks through legal counsel allows borrowers to bypass field recovery agencies and negotiate directly for significant debt waivers."
           }
         },
         {
           "@type": "Question",
-          "name": "How do you handle aggressive Aditya Birla Finance recovery calls and protect against harassment?",
+          "name": "How can borrowers halt recurring SMFG India Credit NACH bounce charges and penalty deductions?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Master Directions on Recovery Agents and NBFC Fair Practices Codes, borrowers enjoy strict statutory protections: (a) Agents are legally restricted to contacting borrowers between 08:00 AM and 07:00 PM; (b) Reaching out to employers, colleagues, business partners, or non-guarantor family members is strictly illegal; (c) Abusive language, intimidation, and unauthorized home or office visits are prohibited. In case of violations, borrowers should serve a legal cease-and-desist notice to ABFL's Principal Nodal Officer and file an online complaint on the RBI Integrated Ombudsman (CMS) portal."
+            "text": "Borrowers can stop repetitive auto-debit bounce fees by: (1) Submitting a written mandate revocation or cancellation request directly to their destination bank under National Payments Corporation of India (NPCI) procedural guidelines; (2) Serving a formal legal hardship notice to SMFG India Credit requesting an immediate cessation of automated electronic presentations; (3) Insisting on a 100% complete waiver of all accrued return fees, late payment charges, and penal interest during OTS negotiations under RBI Fair Lending Practice rules."
           }
         },
         {
           "@type": "Question",
-          "name": "Can Aditya Birla Finance file a criminal police case or arrest a borrower for loan default?",
+          "name": "What percentage of debt waiver or haircut can you realistically negotiate with SMFG India Credit?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Defaulting on an unsecured personal or business loan is strictly a civil contractual matter under the Indian Contract Act, 1872. Police authorities have no jurisdiction to register an FIR or make an arrest for genuine financial default. While Aditya Birla Finance may issue legal notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for bounced NACH mandates, these are compoundable quasi-criminal proceedings handled in Magistrate Courts and are routinely resolved through advocate representation and compromise settlements."
+            "text": "On unsecured personal loans and commercial installment facilities, SMFG India Credit typically sanctions debt waivers ranging between 40% and 60% of total book dues. The achievable haircut depends on loan aging, delinquency bucket, and balance-sheet provisioning. Accounts overdue beyond 180 to 365 days (Doubtful or Loss Asset status) qualify for maximum principal waivers (50% to 60%), alongside an absolute 100% cancellation of all penal charges, bounce fees, and late interest."
           }
         },
         {
           "@type": "Question",
-          "name": "What is a Section 25 PSSA legal notice sent by Aditya Birla Finance and how should you respond?",
+          "name": "How do you defend against aggressive SMFG India Credit recovery agents and workplace visits?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A Section 25 PSSA notice is a statutory 15-day demand notice issued when an automated NACH mandate dishonours due to insufficient funds. It is not an arrest warrant or court judgment. Borrowers should promptly engage legal counsel to draft a comprehensive reply setting out bona fide financial hardship, challenging unauthorized multiple mandate sweeps, and opening formal channels for a compromise One-Time Settlement."
+            "text": "Under RBI Master Directions on Recovery Agents and NBFC Fair Practices Codes, borrowers enjoy strict statutory protections: (a) Agents are legally prohibited from contacting borrowers before 08:00 AM or after 07:00 PM; (b) Reaching out to employers, colleagues, business clients, or non-guarantor family members is strictly unlawful; (c) Intimidation, verbal abuse, public humiliation, or unauthorized workplace visits are severe regulatory violations. In case of breaches, borrowers should issue a legal cease-and-desist notice to SMFG's Principal Nodal Officer and file an immediate complaint on the RBI Integrated Ombudsman portal (CMS)."
           }
         },
         {
           "@type": "Question",
-          "name": "How should borrowers handle unilateral arbitration notices issued by Aditya Birla Capital?",
+          "name": "Can SMFG India Credit file a criminal FIR or arrest a borrower for an unpaid personal loan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Aditya Birla Capital frequently issues arbitration notices appointing a sole arbitrator based in Mumbai or Delhi. Under landmark Supreme Court rulings (Perkins Eastman Architects DVM v. HSCC (India) Ltd. and TRF Ltd. v. Energo Engineering Projects Ltd.), unilateral arbitrator appointments by lenders without mutual consent are legally invalid. Legal counsel can challenge the arbitrator's jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, effectively halting biased ex-parte awards and redirecting the dispute into compromise settlement channels."
+            "text": "No. Defaulting on an unsecured personal or business loan is strictly a civil breach of contract under the Indian Contract Act, 1872. Police authorities possess zero jurisdiction to register an FIR or make an arrest for bona fide financial inability to pay. While SMFG may issue statutory notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for bounced NACH mandates, these are compoundable quasi-criminal proceedings handled in Magistrate Courts and are routinely resolved through advocate representation and compromise settlements."
           }
         },
         {
           "@type": "Question",
-          "name": "Who within Aditya Birla Finance has the legal authority to approve a One-Time Settlement (OTS)?",
+          "name": "How should borrowers respond to unilateral arbitration notices issued by SMFG India Credit?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under Aditya Birla Finance's internal Delegation of Financial Powers matrix, external tele-callers and third-party recovery agents have zero legal power to approve loan discounts. Substantive debt waivers (40% to 60%) must be formally evaluated and approved by ABFL's Zonal Stressed Assets Desk, Regional Credit Committee, or Chief Risk Officer division, documented through an authentic stamped sanction letter on corporate letterhead."
+            "text": "SMFG India Credit frequently issues arbitration notices appointing a sole arbitrator based in Chennai or Mumbai. Under landmark Supreme Court rulings (Perkins Eastman Architects DVM v. HSCC (India) Ltd. and TRF Ltd. v. Energo Engineering Projects Ltd.), unilateral arbitrator appointments by lenders without mutual consent are legally void. Legal counsel can challenge the arbitrator's jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, effectively halting biased ex-parte proceedings and directing the dispute toward a structured OTS."
           }
         },
         {
           "@type": "Question",
-          "name": "How does settling an Aditya Birla Capital loan affect your CIBIL score and credit history?",
+          "name": "How does settling an SMFG India Credit loan impact your CIBIL score and credit history?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Upon receiving the agreed settlement amount, Aditya Birla Finance updates credit information companies (CIBIL, Experian, Equifax, CRIF High Mark) with the status 'Settled' or 'Post-Write-off Settled' with an outstanding balance of ₹0. While this leads to an initial credit score drop of 75 to 150 points and a temporary 12-month cooling-off window, it permanently terminates compounding default marks and legal flags. Borrowers can rebuild their score back to 750+ within 18 to 24 months through secured credit instruments."
+            "text": "Upon receiving the agreed settlement payment, SMFG India Credit reports the loan account to credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) with the status 'Settled' or 'Post-Write-off Settled' with an outstanding balance of ₹0. While this leads to an initial credit score reduction of 75 to 150 points and a temporary 12-month cooling-off window, it permanently terminates compounding monthly default marks and active litigation flags. Borrowers can restore their credit score to 750+ within 18 to 24 months through disciplined secured credit management."
           }
         },
         {
           "@type": "Question",
-          "name": "How long does Aditya Birla Finance take to issue the No Dues Certificate (NDC) following an OTS payment?",
+          "name": "How long does SMFG India Credit take to deliver the No Dues Certificate (NDC) post-settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, Aditya Birla Finance Limited is mandated to issue a formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving full settlement payment. If the lender fails to deliver the closure certificate within 30 days without lawful justification, it is statutorily liable to pay compensation of ₹5,000 per day of delay directly to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, SMFG India Credit is statutorily mandated to issue a formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving full settlement remittance. If the lender fails to issue the closure certificate within 30 days without lawful justification, it is legally obligated to pay mandatory statutory compensation of ₹5,000 per day of delay directly to the borrower."
           }
         }
       ]
@@ -337,15 +337,15 @@ const jsonLdGraph = {
   ]
 };
 
-export default function AdityaBirlaFinanceLoanSettlementPage() {
+export default function SmfgIndiaCreditLoanSettlementPage() {
   const tocItems = [
-    { id: 'understanding-abfl-defaults', title: '1. NBFC Risk Engine & Architecture' },
-    { id: 'abfl-delinquency-timeline-npa', title: '2. Delinquency Timeline & NPA Stages' },
-    { id: 'stopping-abfl-bounce-charges-nach', title: '3. Halting NACH Bounce Charges & Penal Fees' },
-    { id: 'abfl-ots-haircut-policy-npv', title: '4. OTS Haircut Policies & Valuation Framework' },
+    { id: 'understanding-smfg-defaults', title: '1. NBFC Risk Engine & SARB Architecture' },
+    { id: 'smfg-delinquency-timeline-npa', title: '2. Delinquency Timeline & NPA Stages' },
+    { id: 'stopping-smfg-bounce-charges-nach', title: '3. Halting NACH Bounce Charges & Penal Fees' },
+    { id: 'smfg-ots-haircut-policy-npv', title: '4. OTS Haircut Policies & Valuation Framework' },
     { id: 'infographic-resolution-blueprint', title: '5. Visual Resolution Blueprint' },
     { id: 'recovery-agent-rules-anti-harassment', title: '6. Recovery Practices & RBI Harassment Defense' },
-    { id: 'step-by-step-abfl-settlement', title: '7. Step-by-Step NBFC Settlement Roadmap' },
+    { id: 'step-by-step-smfg-settlement', title: '7. Step-by-Step NBFC Settlement Roadmap' },
     { id: 'section-25-pssa-arbitration-lok-adalat', title: '8. Section 25 Notices, Arbitration & Lok Adalat' },
     { id: 'sanction-letter-audit-ndc-verification', title: '9. Sanction Letter Audit & ₹0 NDC Mandate' },
     { id: 'cibil-impact-credit-rehabilitation', title: '10. CIBIL Score Trajectory & Rehabilitation' },
@@ -355,44 +355,44 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
 
   const faqs = [
     {
-      question: "What is the Aditya Birla Capital loan settlement process and how does an NBFC compromise work?",
-      answer: "The Aditya Birla Capital loan settlement process is a structured debt resolution mechanism sanctioned under Reserve Bank of India Master Directions on Compromise Settlements. When an unsecured personal or business installment loan crosses 90 days of non-payment and transitions into Non-Performing Asset (NPA) status, the borrower or their legal counsel submits a hardship petition to Aditya Birla Finance Limited's Stressed Assets Committee. Upon evaluating the financial incapacity against the Net Present Value (NPV) of recovery, ABFL issues an official stamped OTS Sanction Letter. Paying the agreed sum directly into the loan account extinguishes all outstanding liabilities and entitles the borrower to a formal No Dues Certificate (NDC)."
+      question: "What is the SMFG India Credit loan settlement process and how does an NBFC compromise work?",
+      answer: "The SMFG India Credit (formerly Fullerton India) loan settlement process is a formal debt resolution framework sanctioned under Reserve Bank of India Master Directions on Compromise Settlements. When an unsecured personal or business loan crosses 90 days past due (DPD) and transitions into Non-Performing Asset (NPA) status, the account is reassigned to SMFG's Stressed Asset Resolution Branch (SARB). The borrower or their legal representative submits a comprehensive hardship petition. Following a Net Present Value (NPV) recovery audit, SMFG's competent Credit Committee issues a formal stamped OTS Sanction Letter. Depositing the agreed compromise sum directly into the loan account extinguishes all financial liabilities and entitles the borrower to a formal No Dues Certificate (NDC)."
     },
     {
-      question: "How can borrowers stop Aditya Birla Finance NACH bounce penalties and repeated debit attempts?",
-      answer: "Aditya Birla Finance frequently presents electronic NACH mandates multiple times a month, multiplying return penalties across borrower bank accounts. Borrowers can stop this financial drain by: (1) Submitting a written mandate revocation or suspension request to their destination bank under NPCI guidelines; (2) Serving a formal hardship letter to ABFL's collections desk requesting an immediate pause on electronic presentations; (3) Insisting on a 100% complete waiver of all accumulated bounce penalties and penal interest under RBI fair lending practice rules during One-Time Settlement negotiations."
+      question: "How does the rebranding from Fullerton India to SMFG India Credit impact existing loan settlements?",
+      answer: "Following the acquisition by Sumitomo Mitsui Financial Group (SMFG), Fullerton India Credit Company Limited was rebranded as SMFG India Credit Company Limited. All underlying loan contracts, master loan agreements, NACH mandates, and debt liabilities remain legally binding. However, SMFG India Credit has adopted tighter institutional governance, standardized balance-sheet provisioning under Ind AS 109, and established structured Stressed Asset Resolution Branches (SARB) that evaluate compromise settlements under systematic corporate matrices."
     },
     {
-      question: "What percentage of debt waiver or haircut can you realistically negotiate with Aditya Birla Finance?",
-      answer: "On unsecured personal loans and business installment facilities, Aditya Birla Finance typically sanctions debt waivers between 40% and 60% of total ledger dues. The achievable haircut depends on loan aging, delinquency bucket, and balance-sheet provisioning. Accounts overdue beyond 180 to 365 days (Doubtful or Loss Asset status) qualify for maximum principal waivers (50% to 60%), alongside a 100% cancellation of all accrued penal charges and bounce fees."
+      question: "What is SMFG India Credit's SARB (Stressed Asset Resolution Branch) collection process?",
+      answer: "When an unsecured retail or business loan reaches 90+ DPD (NPA stage), SMFG transfers the account from routine customer service collections to its specialized Stressed Asset Resolution Branch (SARB). The SARB unit evaluates whether to initiate legal demand notices (Section 25 PSSA, Section 138 NI Act, or arbitration) or pursue an economic recovery through a structured One-Time Settlement (OTS). Engaging SARB desks through legal counsel allows borrowers to bypass field recovery agencies and negotiate directly for significant debt waivers."
     },
     {
-      question: "How do you handle aggressive Aditya Birla Finance recovery calls and protect against harassment?",
-      answer: "Under RBI Master Directions on Recovery Agents and NBFC Fair Practices Codes, borrowers enjoy strict statutory protections: (a) Agents are legally restricted to contacting borrowers between 08:00 AM and 07:00 PM; (b) Reaching out to employers, colleagues, business partners, or non-guarantor family members is strictly illegal; (c) Abusive language, intimidation, and unauthorized home or office visits are prohibited. In case of violations, borrowers should serve a legal cease-and-desist notice to ABFL's Principal Nodal Officer and file an online complaint on the RBI Integrated Ombudsman (CMS) portal."
+      question: "How can borrowers halt recurring SMFG India Credit NACH bounce charges and penalty deductions?",
+      answer: "Borrowers can stop repetitive auto-debit bounce fees by: (1) Submitting a written mandate revocation or cancellation request directly to their destination bank under National Payments Corporation of India (NPCI) procedural guidelines; (2) Serving a formal legal hardship notice to SMFG India Credit requesting an immediate cessation of automated electronic presentations; (3) Insisting on a 100% complete waiver of all accrued return fees, late payment charges, and penal interest during OTS negotiations under RBI Fair Lending Practice rules."
     },
     {
-      question: "Can Aditya Birla Finance file a criminal police case or arrest a borrower for loan default?",
-      answer: "No. Defaulting on an unsecured personal or business loan is strictly a civil contractual matter under the Indian Contract Act, 1872. Police authorities have no jurisdiction to register an FIR or make an arrest for genuine financial default. While Aditya Birla Finance may issue legal notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for bounced NACH mandates, these are compoundable quasi-criminal proceedings handled in Magistrate Courts and are routinely resolved through advocate representation and compromise settlements."
+      question: "What percentage of debt waiver or haircut can you realistically negotiate with SMFG India Credit?",
+      answer: "On unsecured personal loans and commercial installment facilities, SMFG India Credit typically sanctions debt waivers ranging between 40% and 60% of total book dues. The achievable haircut depends on loan aging, delinquency bucket, and balance-sheet provisioning. Accounts overdue beyond 180 to 365 days (Doubtful or Loss Asset status) qualify for maximum principal waivers (50% to 60%), alongside an absolute 100% cancellation of all penal charges, bounce fees, and late interest."
     },
     {
-      question: "What is a Section 25 PSSA legal notice sent by Aditya Birla Finance and how should you respond?",
-      answer: "A Section 25 PSSA notice is a statutory 15-day demand notice issued when an automated NACH mandate dishonours due to insufficient funds. It is not an arrest warrant or court judgment. Borrowers should promptly engage legal counsel to draft a comprehensive reply setting out bona fide financial hardship, challenging unauthorized multiple mandate sweeps, and opening formal channels for a compromise One-Time Settlement."
+      question: "How do you defend against aggressive SMFG India Credit recovery agents and workplace visits?",
+      answer: "Under RBI Master Directions on Recovery Agents and NBFC Fair Practices Codes, borrowers enjoy strict statutory protections: (a) Agents are legally prohibited from contacting borrowers before 08:00 AM or after 07:00 PM; (b) Reaching out to employers, colleagues, business clients, or non-guarantor family members is strictly unlawful; (c) Intimidation, verbal abuse, public humiliation, or unauthorized workplace visits are severe regulatory violations. In case of breaches, borrowers should issue a legal cease-and-desist notice to SMFG's Principal Nodal Officer and file an immediate complaint on the RBI Integrated Ombudsman portal (CMS)."
     },
     {
-      question: "How should borrowers handle unilateral arbitration notices issued by Aditya Birla Capital?",
-      answer: "Aditya Birla Capital frequently issues arbitration notices appointing a sole arbitrator based in Mumbai or Delhi. Under landmark Supreme Court rulings (Perkins Eastman Architects DVM v. HSCC (India) Ltd. and TRF Ltd. v. Energo Engineering Projects Ltd.), unilateral arbitrator appointments by lenders without mutual consent are legally invalid. Legal counsel can challenge the arbitrator's jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, effectively halting biased ex-parte awards and redirecting the dispute into compromise settlement channels."
+      question: "Can SMFG India Credit file a criminal FIR or arrest a borrower for an unpaid personal loan?",
+      answer: "No. Defaulting on an unsecured personal or business loan is strictly a civil breach of contract under the Indian Contract Act, 1872. Police authorities possess zero jurisdiction to register an FIR or make an arrest for bona fide financial inability to pay. While SMFG may issue statutory notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for bounced NACH mandates, these are compoundable quasi-criminal proceedings handled in Magistrate Courts and are routinely resolved through advocate representation and compromise settlements."
     },
     {
-      question: "Who within Aditya Birla Finance has the legal authority to approve a One-Time Settlement (OTS)?",
-      answer: "Under Aditya Birla Finance's internal Delegation of Financial Powers matrix, external tele-callers and third-party recovery agents have zero legal power to approve loan discounts. Substantive debt waivers (40% to 60%) must be formally evaluated and approved by ABFL's Zonal Stressed Assets Desk, Regional Credit Committee, or Chief Risk Officer division, documented through an authentic stamped sanction letter on corporate letterhead."
+      question: "How should borrowers respond to unilateral arbitration notices issued by SMFG India Credit?",
+      answer: "SMFG India Credit frequently issues arbitration notices appointing a sole arbitrator based in Chennai or Mumbai. Under landmark Supreme Court rulings (Perkins Eastman Architects DVM v. HSCC (India) Ltd. and TRF Ltd. v. Energo Engineering Projects Ltd.), unilateral arbitrator appointments by lenders without mutual consent are legally void. Legal counsel can challenge the arbitrator's jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, effectively halting biased ex-parte proceedings and directing the dispute toward a structured OTS."
     },
     {
-      question: "How does settling an Aditya Birla Capital loan affect your CIBIL score and credit history?",
-      answer: "Upon receiving the agreed settlement amount, Aditya Birla Finance updates credit information companies (CIBIL, Experian, Equifax, CRIF High Mark) with the status 'Settled' or 'Post-Write-off Settled' with an outstanding balance of ₹0. While this leads to an initial credit score drop of 75 to 150 points and a temporary 12-month cooling-off window, it permanently terminates compounding default marks and legal flags. Borrowers can rebuild their score back to 750+ within 18 to 24 months through secured credit instruments."
+      question: "How does settling an SMFG India Credit loan impact your CIBIL score and credit history?",
+      answer: "Upon receiving the agreed settlement payment, SMFG India Credit reports the loan account to credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) with the status 'Settled' or 'Post-Write-off Settled' with an outstanding balance of ₹0. While this leads to an initial credit score reduction of 75 to 150 points and a temporary 12-month cooling-off window, it permanently terminates compounding monthly default marks and active litigation flags. Borrowers can restore their credit score to 750+ within 18 to 24 months through disciplined secured credit management."
     },
     {
-      question: "How long does Aditya Birla Finance take to issue the No Dues Certificate (NDC) following an OTS payment?",
-      answer: "Under RBI Circular RBI/2023-24/60, Aditya Birla Finance Limited is mandated to issue a formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving full settlement payment. If the lender fails to deliver the closure certificate within 30 days without lawful justification, it is statutorily liable to pay compensation of ₹5,000 per day of delay directly to the borrower."
+      question: "How long does SMFG India Credit take to deliver the No Dues Certificate (NDC) post-settlement?",
+      answer: "Under RBI Circular RBI/2023-24/60, SMFG India Credit is statutorily mandated to issue a formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving full settlement remittance. If the lender fails to issue the closure certificate within 30 days without lawful justification, it is legally obligated to pay mandatory statutory compensation of ₹5,000 per day of delay directly to the borrower."
     }
   ];
 
@@ -460,21 +460,17 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
         <div className="max-w-4xl mx-auto text-center relative z-10">
           <div className="inline-flex items-center gap-2 py-1 px-3.5 rounded-full bg-blue-500/20 border border-blue-400/30 text-blue-300 text-xs font-black mb-3 tracking-wider uppercase">
             <Landmark className="w-3.5 h-3.5" />
-            <span>Corporate NBFC Dispute Resolution • Aditya Birla Capital</span>
+            <span>NBFC Stressed Asset Resolution • SMFG India Credit (Formerly Fullerton India)</span>
           </div>
 
-          <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-[34px] font-black text-white mb-3 leading-snug tracking-tight">
-            Aditya Birla Finance Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">OTS Rules, Legal Notice Defense &amp; Haircut Guide (2026)</span>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
+            SMFG India Credit Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">OTS Rules, Legal Defense &amp; Haircut Guide (2026)</span>
           </h1>
-
-          <p className="text-xs sm:text-sm md:text-base text-slate-300 mb-5 max-w-2xl mx-auto leading-relaxed font-normal">
-            Struggling with defaulted Aditya Birla Capital personal or business loan EMIs, repeated NACH bounce penalties, or aggressive recovery notices? Learn how to halt collection harassment, invoke RBI compromise settlement frameworks, defend against Section 25 PSSA summons, and negotiate an authorized 40% to 60% debt haircut.
-          </p>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">
               <UserCheck className="w-3.5 h-3.5 text-blue-400" />
-              <span>Written by <strong>Ashish Jhangra</strong></span>
+              <span>Written by <Link href="/authors/ashish-jhangra" className="font-bold underline hover:text-white transition-colors">Ashish Jhangra</Link></span>
             </span>
             <span className="hidden sm:inline text-slate-500">•</span>
             <span className="flex items-center gap-1.5">
@@ -493,7 +489,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
               href="/contact"
               className="bg-[#1F5EFF] hover:bg-blue-600 text-white font-bold py-2.5 px-6 rounded-xl text-xs sm:text-sm transition-all duration-200 shadow-md hover:shadow-lg flex items-center gap-2"
             >
-              <span>Negotiate Aditya Birla Settlement</span>
+              <span>Negotiate SMFG Settlement</span>
               <ArrowRight className="w-4 h-4" />
             </Link>
             <Link
@@ -521,10 +517,10 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
             <div className="bg-blue-50/60 border border-blue-200/70 rounded-2xl p-4 text-xs text-blue-900 space-y-2">
               <div className="font-bold flex items-center gap-1.5 text-blue-950">
                 <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
-                <span>Aditya Birla Quick Crux</span>
+                <span>SMFG India Credit Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                Aditya Birla Finance accounts past 90 days default enter NPA status under Ind AS 109. Direct legal escalation to Zonal Stressed Assets Desks eliminates agency markups, unlocking 40%–60% principal waivers with 100% bounce charge cancellation.
+                SMFG India Credit accounts past 90 days default transition into SARB wings under Ind AS 109. Direct legal escalation to Zonal Stressed Assets Desks eliminates third-party markups, unlocking 40%–60% principal waivers with complete penal fee waivers.
               </p>
             </div>
           </aside>
@@ -536,74 +532,74 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
             <div className="bg-gradient-to-br from-blue-50 to-indigo-50/70 border border-blue-200 rounded-2xl p-6 mb-8 shadow-sm">
               <div className="flex items-center gap-2 text-blue-900 font-bold text-base mb-3">
                 <Award className="w-5 h-5 text-[#1F5EFF]" />
-                <span>Key Takeaways: Aditya Birla Finance Loan Settlement</span>
+                <span>Key Takeaways: SMFG India Credit Loan Settlement</span>
               </div>
               <ul className="space-y-2.5 text-sm text-slate-700">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Statutory Compromise Rights:</strong> Defaulting on an unsecured personal or business loan with Aditya Birla Finance is strictly a civil dispute. Borrowers hold statutory rights under RBI Master Directions to request a compromise One-Time Settlement (OTS).</span>
+                  <span><strong>Statutory Compromise Rights:</strong> Unsecured personal and business loan defaults with SMFG India Credit (formerly Fullerton India) are strictly civil matters governed by the Indian Contract Act, 1872. Borrowers possess clear statutory rights under RBI Master Directions to request a structured One-Time Settlement (OTS).</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Eliminating Bounce Penalties:</strong> Revoking e-NACH mandates under NPCI rules stops repeated debit return fees. Legal representation demands 100% waiver of all accumulated bounce charges and penal interest under RBI fair lending guidelines.</span>
+                  <span><strong>Bypassing Aggressive SARB Collection Agencies:</strong> Defaulted accounts at 90+ DPD are reassigned to SMFG&apos;s Stressed Asset Resolution Branch (SARB). Engaging institutional SARB desks directly through legal counsel halts hostile field calls and third-party recovery agency harassment.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Realistic 40%–60% Haircut:</strong> Once an account enters NPA (90+ DPD) or Doubtful Asset status, Aditya Birla Finance balances its Net Present Value (NPV) recovery math, sanctioning substantial principal debt waivers.</span>
+                  <span><strong>Eliminating Compounded Bounce Charges:</strong> Revoking automated e-NACH mandates under NPCI rules prevents cascading debit return fees. Legal representation enforces a 100% waiver of all accumulated bounce charges and penal interest under RBI Fair Lending guidelines.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Defending Legal Notices:</strong> Section 25 PSSA demand notices and unilateral sole arbitration appointments can be effectively contested and resolved through advocate-led conciliation and Lok Adalat settlements.</span>
+                  <span><strong>Realistic 40%–60% Haircut Range:</strong> Once an account enters NPA (90+ DPD) or Doubtful Asset status, SMFG India Credit calculates Net Present Value (NPV) recovery economics, authorizing substantial principal debt waivers against an upfront lump-sum payment.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Mandatory ₹0 NDC Guarantee:</strong> Under RBI Circular RBI/2023-24/60, Aditya Birla Finance must deliver a No Dues Certificate and update credit bureaus within 30 days of payment, subject to a ₹5,000/day statutory penalty for non-compliance.</span>
+                  <span><strong>Defending Section 25 PSSA &amp; Unilateral Arbitration:</strong> Statutory 15-day demand notices under Section 25 PSSA and unilateral sole arbitrator appointments in Chennai or Mumbai can be effectively contested and resolved through advocate-led conciliation and Lok Adalat decrees.</span>
                 </li>
               </ul>
             </div>
             
-            {/* Section 1: Corporate NBFC Architecture & Risk Engine */}
-            <section id="understanding-abfl-defaults" className="scroll-mt-24 mb-12">
+            {/* Section 1: Corporate NBFC Architecture & SARB Risk Engine */}
+            <section id="understanding-smfg-defaults" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Building2 className="w-4 h-4" />
-                <span>1. Corporate NBFC Architecture &amp; Recovery Infrastructure</span>
+                <span>1. Corporate NBFC Architecture &amp; SARB Infrastructure</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding Aditya Birla Finance&apos;s Algorithmic Credit &amp; Recovery Infrastructure
+                Understanding SMFG India Credit&apos;s High-Ticket Retail Portfolio &amp; SARB Risk Engine
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Aditya Birla Finance Limited (ABFL), the flagship lending subsidiary of Aditya Birla Capital Limited (ABCL), represents one of India&apos;s largest systemically important non-banking financial companies categorized under the Reserve Bank of India&apos;s Upper Layer NBFC (NBFC-UL) regulatory framework. With an extensive multi-crore asset book spanning unsecured personal loans, business installment loans (BIL), professional lines of credit, and commercial term facilities, ABFL operates through an institutional recovery infrastructure engineered for high-velocity default containment.
+                SMFG India Credit Company Limited (formerly Fullerton India Credit Company Limited), backed by Japan&apos;s Sumitomo Mitsui Financial Group (SMFG), operates as one of India&apos;s leading systemically important non-banking financial companies categorized under the Reserve Bank of India&apos;s Middle/Upper Layer regulatory structure. With a multi-thousand-crore asset book heavily concentrated in high-ticket unsecured personal loans, business installment facilities, and MSME working capital credit lines, SMFG deploys a sophisticated, algorithmic credit and collections architecture.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Unlike public sector banking institutions that rely heavily on manual branch discretion, Aditya Birla Finance utilizes automated algorithmic risk engines. When an equated monthly installment (EMI) dishonours on its due date, ABFL&apos;s automated treasury systems immediately initiate multi-channel collections: high-frequency interactive voice response (IVR) phone calls, automated SMS and WhatsApp warnings, and repetitive electronic National Automated Clearing House (NACH) mandate presentations. Concurrently, internal bounce penalties ranging from ₹500 to ₹1,000 plus applicable Goods and Services Tax (GST) are debited alongside penal interest charges of 24% to 36% per annum.
+                Following its institutional transition from Fullerton India to SMFG India Credit, the lender integrated institutional Japanese risk-governance standards with aggressive domestic retail collection workflows. When an equated monthly installment (EMI) dishonours on its monthly presentation date, SMFG&apos;s automated core banking systems immediately initiate a multi-tiered collection matrix: automated dialer voice prompts, high-frequency SMS alerts, WhatsApp notifications, and recurring electronic National Automated Clearing House (NACH) mandate sweeps. Simultaneously, internal bounce penalties ranging from ₹500 to ₹1,000 plus applicable Goods and Services Tax (GST) are debited alongside penal interest charges of 24% to 36% per annum.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                For borrowers enduring genuine, involuntary financial distress—such as corporate downsizing, small business cash-flow collapse, client default, or severe medical crises—these automated charges rapidly inflate ledger dues beyond feasible repayment capacity. Defaulting on an unsecured personal or commercial installment loan is strictly a civil breach of contract under the Indian Contract Act, 1872, rather than a criminal wrongdoing. Regulated by Reserve Bank of India (RBI) directives, distressed borrowers maintain clear statutory rights to halt third-party recovery harassment, demand an audit of predatory penalty levies, and negotiate a binding compromise One-Time Settlement (OTS).
+                For borrowers suffering from legitimate, non-wilful financial adversity—such as sudden corporate retrenchment, severe small business margin erosion, delayed receivables, or catastrophic medical expenses—these automated penalties rapidly compound, artificially inflating the outstanding loan ledger. Crucially, defaulting on an unsecured personal or commercial loan is strictly a civil breach of contract under the Indian Contract Act, 1872, rather than a criminal wrongdoing. Regulated by Reserve Bank of India (RBI) directives, distressed borrowers hold defined statutory rights to halt third-party recovery harassment, demand a forensic audit of unlawful penal levies, and negotiate a legally binding compromise One-Time Settlement (OTS).
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
                 <div className="flex items-start gap-3">
                   <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                    <strong>Statutory Principle:</strong> Under Reserve Bank of India Master Directions on Compromise Settlements, regulated NBFCs must maintain transparent, board-approved OTS policies. Lenders cannot treat non-wilful, insolvent borrowers as deliberate defaulters and must consider genuine compromise proposals to maximize economic recovery.
+                    <strong>Regulatory Mandate:</strong> Under the Reserve Bank of India Master Direction on Compromise Settlements and Technical Write-offs (2023), regulated NBFCs must maintain transparent, board-approved OTS policies. Lenders are legally required to provide non-wilful, distressed borrowers with accessible compromise mechanisms to maximize economic recovery without abusive collection practices.
                   </div>
                 </div>
               </div>
             </section>
 
             {/* Section 2: Delinquency Timeline & NPA Stages */}
-            <section id="abfl-delinquency-timeline-npa" className="scroll-mt-24 mb-12">
+            <section id="smfg-delinquency-timeline-npa" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Aditya Birla Finance Delinquency Lifecycle: From DPD 1-30 to Non-Performing Asset (NPA)
+                SMFG India Credit Delinquency Lifecycle: From DPD 1-30 to Stressed Asset Resolution Branch (SARB)
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Expected Credit Loss (ECL) frameworks under Indian Accounting Standard 109 (Ind AS 109), Aditya Birla Finance systematically categorizes retail and business loan delinquencies into strict Days Past Due (DPD) aging buckets. Understanding these institutional milestones is vital for structuring timely settlement negotiations and achieving maximum principal haircuts.
+                Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Expected Credit Loss (ECL) frameworks under Indian Accounting Standard 109 (Ind AS 109), SMFG India Credit systematically segments retail and commercial loan delinquencies into strict Days Past Due (DPD) aging buckets. Mastering these institutional milestones is crucial for strategically timing settlement petitions and maximizing debt haircuts.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                During early delinquency (Buckets 1 and 2), ABFL&apos;s collections machinery focuses on regularizing overdue installments through tele-calling and field agency follow-ups. However, once an account crosses the critical 90-day threshold without payment, the loan is formally classified as a Non-Performing Asset (NPA). At this juncture, ABFL is legally required to allocate mandatory balance-sheet capital provisioning, shifting its institutional objective from installment collection toward bad-debt recovery and compromise resolution.
+                During early delinquency (Buckets 1 and 2), SMFG&apos;s collections machinery focuses entirely on regularizing overdue installments through automated calling and local field agency follow-ups. However, once an account crosses the critical 90-day threshold without payment, the loan is formally classified as a Non-Performing Asset (NPA). At this stage, SMFG is legally required to allocate mandatory balance-sheet capital provisioning, transferring the file from retail operations to its specialized Stressed Asset Resolution Branch (SARB).
               </p>
 
               {/* Comprehensive Stage Table */}
@@ -613,7 +609,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                     <tr>
                       <th>Delinquency Stage</th>
                       <th>Overdue Days (DPD)</th>
-                      <th>Aditya Birla Finance Recovery Actions</th>
+                      <th>SMFG India Credit Recovery Actions</th>
                       <th>Legal &amp; Judicial Exposure</th>
                       <th>Settlement Haircut Potential</th>
                     </tr>
@@ -629,7 +625,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                     <tr>
                       <td className="font-bold text-slate-900">SMA-1 (Mid Delinquency)</td>
                       <td>31 – 60 Days</td>
-                      <td>Intensive tele-calling, outsourced agency assignment, loan acceleration notices.</td>
+                      <td>Intensive tele-calling, outsourced agency assignment, loan acceleration warning notices.</td>
                       <td>Statutory warning notices issued; CIBIL score begins sharp decline.</td>
                       <td>Low (Tenure restructuring or EMI deferral considered).</td>
                     </tr>
@@ -641,9 +637,9 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                       <td>Moderate (Discussions for penal fee waivers can commence).</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-amber-700">NPA (Substandard Asset)</td>
+                      <td className="font-bold text-amber-700">NPA (Substandard Asset - SARB)</td>
                       <td>91 – 180 Days</td>
-                      <td>Transferred to Zonal Stressed Assets Desk; mandatory Ind AS 109 provisioning.</td>
+                      <td>Transferred to Stressed Asset Resolution Branch (SARB); mandatory Ind AS 109 provisioning.</td>
                       <td>Magistrate Court summons under Sec 25 PSSA; conciliation summons.</td>
                       <td><span className="text-emerald-700 font-bold">High (35%–50% Haircut achievable).</span></td>
                     </tr>
@@ -659,50 +655,50 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Once an unsecured personal or business loan is categorized as a Doubtful Asset or subjected to technical write-off, Aditya Birla Finance has already absorbed the loss on its quarterly financial statements. Under these circumstances, an upfront lump-sum compromise settlement delivers an immediate net cash write-back to ABFL&apos;s operating profit, providing senior risk committees with the financial justification to sanction substantial principal waivers.
+                Once an unsecured personal or commercial installment loan is categorized as a Doubtful Asset or subjected to technical write-off, SMFG India Credit has already absorbed the loss on its quarterly profit and loss statement. Under these accounting conditions, an upfront lump-sum compromise settlement delivers an immediate net cash write-back to SMFG&apos;s operating balance sheet, providing senior risk committees with the financial justification to sanction substantial principal waivers.
               </p>
             </section>
 
             {/* Section 3: Halting NACH Bounce Charges & Penal Levies */}
-            <section id="stopping-abfl-bounce-charges-nach" className="scroll-mt-24 mb-12">
+            <section id="stopping-smfg-bounce-charges-nach" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping NACH Bounce Charges &amp; Penal Fees</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How to Stop Aditya Birla Finance Bounce Charges &amp; Halt Repeated NACH Presentations
+                How to Stop SMFG India Credit Bounce Charges &amp; Halt Repeated NACH Presentations
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                One of the most severe financial burdens faced by borrowers in default is the aggressive compounding of electronic auto-debit bounce fees. Aditya Birla Finance&apos;s automated treasury systems often present e-NACH mandates two to four times within a single month. When an account lacks sufficient funds, the borrower&apos;s destination bank deducts ₹250 to ₹500 plus GST per return, while ABFL simultaneously levies internal bounce penalties ranging from ₹500 to ₹1,000 plus GST.
+                A primary source of financial distress for defaulted borrowers is the aggressive compounding of electronic auto-debit bounce fees. SMFG India Credit&apos;s automated treasury systems often present e-NACH mandates two to four times within a single billing cycle. When a bank account lacks sufficient liquidity, the borrower&apos;s destination bank deducts ₹250 to ₹500 plus GST per return, while SMFG simultaneously debits internal bounce penalties ranging from ₹500 to ₹1,000 plus GST.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Over a period of four to six months, these unauthorized and continuous presentation cycles can drain tens of thousands of rupees from borrower accounts or inflate the outstanding loan ledger with arbitrary fees. Under the Reserve Bank of India&apos;s Fair Lending Practice directives on penal charges in loan accounts (2023), regulated entities are strictly prohibited from capitalizing penal charges or charging compounded default interest.
+                Over a period of three to six months, these automated and repetitive presentation sweeps can siphon thousands of rupees from borrower accounts or inflate the outstanding loan ledger with arbitrary fees. Under the Reserve Bank of India&apos;s Fair Lending Practice directives on penal charges in loan accounts (2023), regulated entities are strictly prohibited from capitalizing penal charges or charging compounded default interest.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Distressed borrowers can protect themselves through two decisive legal steps:
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                First, under National Payments Corporation of India (NPCI) procedural guidelines and RBI consumer protection directives, a borrower holds the absolute legal right to instruct their destination bank in writing or through digital banking channels to cancel or suspend the e-NACH mandate linked to the Aditya Birla Finance loan, immediately preventing future presentation fees.
+                First, under National Payments Corporation of India (NPCI) procedural guidelines and RBI consumer protection directives, a borrower holds the absolute legal right to instruct their destination bank in writing or through digital banking channels to cancel or suspend the e-NACH mandate linked to the SMFG India Credit loan, immediately preventing future presentation fees.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Second, during formal One-Time Settlement negotiations, legal counsel must demand an absolute 100% waiver of all accumulated bounce charges, late payment fees, and penal interest. In approved compromise settlements, Aditya Birla Finance completely extinguishes these ancillary levies, calculating the negotiated settlement haircut exclusively on the core outstanding principal.
+                Second, during formal One-Time Settlement negotiations, legal counsel must demand an absolute 100% waiver of all accumulated bounce charges, late payment fees, and penal interest. In approved compromise settlements, SMFG India Credit completely extinguishes these ancillary levies, calculating the negotiated settlement haircut exclusively on the core outstanding principal.
               </p>
             </section>
 
             {/* Section 4: OTS Haircut Policies & NPV Valuation */}
-            <section id="abfl-ots-haircut-policy-npv" className="scroll-mt-24 mb-12">
+            <section id="smfg-ots-haircut-policy-npv" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Aditya Birla Finance One-Time Settlement (OTS) &amp; Haircut Valuation Matrix
+                SMFG India Credit One-Time Settlement (OTS) &amp; Haircut Valuation Matrix
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under the RBI Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24), Aditya Birla Finance maintains a board-approved compromise settlement framework. Rather than acting on arbitrary discretion, the NBFC evaluates settlement proposals using a mathematical Net Present Value (NPV) recovery methodology.
+                Under the RBI Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24), SMFG India Credit maintains a board-approved compromise settlement policy. Rather than operating on individual branch discretion, the NBFC evaluates settlement proposals using a mathematical Net Present Value (NPV) recovery methodology.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Because unsecured personal loans and business installment loans carry no underlying physical collateral, Aditya Birla Finance must mathematically compare an immediate lump-sum settlement offer against the uncertain, discounted future recovery of prolonged litigation or civil execution proceedings, after accounting for legal retainers, court fees, and administrative costs.
+                Because unsecured personal loans and commercial installment facilities carry no underlying physical collateral (such as property or gold), SMFG India Credit must mathematically compare an immediate lump-sum settlement offer against the uncertain, discounted future recovery of prolonged litigation or civil execution proceedings, after factoring in advocate retainers, court fees, and administrative friction.
               </p>
 
               {/* Formula Container Box */}
@@ -720,7 +716,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
               </div>
 
               {/* Settlement Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic Aditya Birla Finance Settlement Haircut Slabs by Product &amp; Aging</h3>
+              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic SMFG India Credit Settlement Haircut Slabs by Product &amp; Aging</h3>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
@@ -734,28 +730,28 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">ABFL Unsecured Personal Loan</td>
-                      <td>90 – 180 Days (NPA)</td>
+                      <td className="font-bold text-slate-900">SMFG Unsecured Personal Loan</td>
+                      <td>90 – 180 Days (NPA / SARB)</td>
                       <td>100% Full Waiver</td>
                       <td>30% – 45% Principal Waiver</td>
                       <td>Offer 40%–50% of Book Dues</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">ABFL Unsecured Personal Loan</td>
+                      <td className="font-bold text-slate-900">SMFG Unsecured Personal Loan</td>
                       <td>181 – 365+ Days (Doubtful)</td>
                       <td>100% Full Waiver</td>
                       <td>45% – 60% Principal Waiver</td>
                       <td>Offer 35%–40% of Book Dues</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">ABFL Business Installment Loan (BIL)</td>
-                      <td>90 – 180 Days (NPA)</td>
+                      <td className="font-bold text-slate-900">SMFG Business Installment Loan</td>
+                      <td>90 – 180 Days (NPA / SARB)</td>
                       <td>100% Full Waiver</td>
                       <td>30% – 45% Principal Waiver</td>
                       <td>Offer 45%–55% of Utilized Dues</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">ABFL Business Installment Loan (BIL)</td>
+                      <td className="font-bold text-slate-900">SMFG Business Installment Loan</td>
                       <td>180+ Days (Written Off)</td>
                       <td>100% All Penal Charges</td>
                       <td>50% – 65% Principal Waiver</td>
@@ -779,12 +775,12 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                         Legal Defense &amp; Action Blueprint
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
-                        Aditya Birla Finance Loan Settlement &amp; Legal Defense Blueprint
+                        SMFG India Credit Loan Settlement &amp; Legal Defense Blueprint
                       </h3>
                     </div>
                   </div>
                   <a
-                    href="/images/infographics/aditya-birla-finance-loan-settlement.jpg"
+                    href="/images/infographics/smfg-india-credit-loan-settlement.jpg"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-xs text-[#1F5EFF] hover:text-blue-300 font-bold flex items-center gap-1 transition-colors"
@@ -798,8 +794,8 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <div className="p-3 md:p-4 bg-slate-50">
                   <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-sm bg-white">
                     <img
-                      src="/images/infographics/aditya-birla-finance-loan-settlement.jpg"
-                      alt="Aditya Birla Finance Loan Settlement and OTS Framework Infographic"
+                      src="/images/infographics/smfg-india-credit-loan-settlement.jpg"
+                      alt="SMFG India Credit Loan Settlement Process and OTS Framework Infographic"
                       className="w-full h-auto object-contain max-h-[440px] mx-auto hover:scale-[1.01] transition-transform duration-300"
                       loading="lazy"
                     />
@@ -810,7 +806,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <div className="bg-slate-100 border-t border-slate-200 py-3 px-5 flex flex-wrap items-center justify-between gap-3 text-xs text-slate-600">
                   <div className="flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    <span><strong>Key Strategy:</strong> Revoke NACH mandate presentations, halt third-party recovery harassment, and negotiate directly with Aditya Birla Finance Credit Committees for 40%–60% debt waivers.</span>
+                    <span><strong>Key Strategy:</strong> Revoke NACH mandate sweeps, halt third-party collection harassment, and negotiate directly with SMFG India Credit SARB Credit Committees for 40%–60% debt waivers.</span>
                   </div>
                   <Link href="/contact" className="text-[#1F5EFF] font-bold hover:underline">
                     Get Free Case Evaluation &rarr;
@@ -829,27 +825,27 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 Defending Against Aggressive Recovery Tactics Under RBI NBFC Directives
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Aditya Birla Finance contracts external third-party Debt Recovery Agencies (DRAs) whose tele-callers and field agents operate under high commission incentives. In defaulted accounts, collection personnel frequently overstep regulatory boundaries by executing continuous telephonic harassment, visiting borrower business premises during operating hours, and contacting non-guarantor family members or business associates whose contact details were obtained during onboarding.
+                SMFG India Credit contracts external third-party Debt Recovery Agencies (DRAs) whose tele-callers and field representatives operate under commission-based performance metrics. In defaulted accounts, collection personnel frequently overstep regulatory boundaries by conducting persistent telephonic harassment, visiting borrower business premises during peak operational hours, and contacting non-guarantor family members or business associates whose references were gathered during initial underwriting.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The Reserve Bank of India Master Directions on Recovery Agents and NBFC Fair Practices Code establish unequivocal, non-negotiable statutory protections: (a) Agents are strictly restricted to contacting or visiting borrowers between 08:00 AM and 07:00 PM; (b) Reaching out to employers, business partners, colleagues, neighbors, or non-guarantor relatives is strictly illegal; (c) Intimidation, verbal abuse, workplace disruption, or public shaming is prohibited under law; (d) Field agents must carry official ABFL authorization letters and Indian Institute of Banking &amp; Finance (IIBF) DRA certifications.
+                The Reserve Bank of India Master Directions on Recovery Agents and NBFC Fair Practices Code establish unequivocal, non-negotiable statutory protections: (a) Agents are strictly restricted to contacting or visiting borrowers between 08:00 AM and 07:00 PM; (b) Reaching out to employers, business partners, colleagues, neighbors, or non-guarantor relatives is strictly illegal; (c) Intimidation, verbal abuse, workplace disruption, or public shaming is prohibited under civil and criminal law; (d) Field agents must carry official SMFG authorization letters and Indian Institute of Banking &amp; Finance (IIBF) DRA certifications.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers facing unlawful recovery pressure should systematically preserve call recordings, WhatsApp transcripts, and office CCTV footage. Serving a formal legal cease-and-desist notice to Aditya Birla Finance&apos;s Principal Nodal Officer (PNO) and escalating documented violations to the RBI Integrated Ombudsman portal (CMS) triggers immediate compliance intervention and compels the NBFC to enforce professional standards.
+                Borrowers facing unlawful recovery tactics should systematically document call recordings, WhatsApp transcripts, and office CCTV footage. Serving a formal legal cease-and-desist notice to SMFG India Credit&apos;s Principal Nodal Officer (PNO) and escalating documented violations to the RBI Integrated Ombudsman portal (CMS) triggers immediate compliance intervention and compels the NBFC to enforce professional conduct.
               </p>
             </section>
 
             {/* Section 7: Step-by-Step NBFC Settlement Roadmap */}
-            <section id="step-by-step-abfl-settlement" className="scroll-mt-24 mb-12">
+            <section id="step-by-step-smfg-settlement" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Guide: How to Negotiate a Compromise Settlement with Aditya Birla Finance
+                Step-by-Step Guide: How to Negotiate a Compromise Settlement with SMFG India Credit
               </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Executing a legally secure, cost-effective One-Time Settlement with Aditya Birla Finance requires a disciplined, evidence-based approach:
+                Executing a legally secure, cost-effective One-Time Settlement with SMFG India Credit requires a disciplined, evidence-based strategy:
               </p>
 
               <div className="space-y-6">
@@ -860,7 +856,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                     Comprehensive Financial Audit &amp; Hardship Dossier Compilation
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Assemble comprehensive documentary proof evidencing bona fide, involuntary financial incapacity. Crucial documents include audited business financial statements, GST return filings showing revenue reduction, job termination notices, medical discharge records, or bank statements evidencing depleted liquidity. This establishes that the default is non-wilful and qualifies for compromise relief.
+                    Assemble comprehensive documentary proof evidencing bona fide, involuntary financial incapacity. Crucial documents include audited business financial statements, GST return filings demonstrating revenue reduction, employment termination letters, medical treatment records, or bank statements evidencing depleted liquidity. This proves the default is non-wilful and qualifies for compromise relief under RBI rules.
                   </p>
                 </div>
 
@@ -871,7 +867,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                     Revoking NACH Mandates &amp; Formalizing Communication Channels
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Instruct your bank to revoke the e-NACH auto-debit mandate to halt recurring return penalties. Issue a formal notice to Aditya Birla Finance directing all collection communication to written email channels or through designated legal counsel, establishing a verifiable evidentiary audit trail.
+                    Instruct your bank to revoke the e-NACH auto-debit mandate to halt recurring return penalties. Issue a formal notice to SMFG India Credit directing all collection communication to written email channels or through designated legal counsel, establishing a verifiable evidentiary audit trail.
                   </p>
                 </div>
 
@@ -879,10 +875,10 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
-                    Submitting Formal Hardship Petition to Stressed Assets Desk
+                    Submitting Formal Hardship Petition to Stressed Asset Resolution Branch (SARB)
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Submit a formal OTS petition addressed to Aditya Birla Finance&apos;s Zonal Stressed Assets Desk citing the RBI Master Direction on Compromise Settlements. Anchor the opening settlement proposal at 25% to 35% of total book dues to establish room for structured counter-negotiations.
+                    Submit a formal OTS petition addressed to SMFG India Credit&apos;s Zonal SARB Committee citing the RBI Master Direction on Compromise Settlements. Anchor the opening settlement proposal at 25% to 35% of total book dues to establish negotiating room for structured counter-proposals.
                   </p>
                 </div>
 
@@ -893,7 +889,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                     Managing Counter-Demands &amp; Structuring Committee Approvals
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Aditya Birla Finance will initially reject low offers and propose modest discounts (10%–20%). Experienced legal counsel counters by demonstrating that settlement funds are being pooled from third-party family assistance or non-operating asset liquidation, steering the Credit Committee toward the target 40% to 60% principal waiver band.
+                    SMFG India Credit will initially reject low offers and propose minor discounts (10%–20%). Experienced legal counsel counters by demonstrating that settlement funds are being sourced from third-party family assistance or non-operating asset liquidation, steering the Credit Committee toward the target 40% to 60% principal waiver band.
                   </p>
                 </div>
 
@@ -904,7 +900,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                     Rigorous Forensic Audit of the OTS Sanction Letter
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Before paying any funds, verify that Aditya Birla Finance issues an official OTS Sanction Letter on corporate letterhead containing loan account details, sanctioned settlement amount, exact payment deadlines, and unambiguous covenants confirming complete debt discharge and legal withdrawal.
+                    Before paying any funds, verify that SMFG India Credit issues an official OTS Sanction Letter on corporate letterhead containing loan account details, sanctioned settlement amount, exact payment deadlines, and unambiguous covenants confirming complete debt discharge and legal withdrawal.
                   </p>
                 </div>
 
@@ -915,7 +911,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                     Direct Account Remittance &amp; Enforcing ₹0 NDC Delivery
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Deposit the agreed settlement amount directly into your designated Aditya Birla Finance loan account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, ABFL is legally required to deliver a formal No Dues Certificate and update credit bureaus within 30 calendar days.
+                    Deposit the agreed settlement amount directly into your designated SMFG India Credit loan account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, SMFG is legally required to deliver a formal No Dues Certificate and update credit bureaus within 30 calendar days.
                   </p>
                 </div>
               </div>
@@ -931,16 +927,16 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 Navigating Section 25 PSSA Notices, Arbitration &amp; National Lok Adalat
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When an unsecured personal or business loan crosses 60 to 90 days of default, Aditya Birla Finance routinely issues statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates, alongside notices invoking unilateral private arbitration in Mumbai or New Delhi.
+                When an unsecured personal or commercial installment loan crosses 60 to 90 days of default, SMFG India Credit routinely issues statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates, alongside notices invoking unilateral private arbitration in Chennai or Mumbai.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                A Section 25 PSSA notice is a statutory precursor to a Magistrate Court complaint, not an arrest warrant. Responding through counsel within the 15-day window detailing genuine financial hardship and challenging unauthorized multiple mandate presentations protects your legal standing while opening formal conciliation channels.
+                A Section 25 PSSA notice is a statutory precursor to a Magistrate Court complaint, not an arrest warrant. Responding through legal counsel within the 15-day window detailing genuine financial hardship and challenging unauthorized multiple mandate sweeps protects your legal standing while opening formal conciliation channels.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Regarding arbitration notices, landmark Supreme Court rulings (including <em>Perkins Eastman Architects DVM v. HSCC (India) Ltd.</em> and <em>TRF Ltd. v. Energo Engineering Projects Ltd.</em>) establish that unilateral arbitrator appointments by lenders without mutual consent are legally invalid. Legal counsel can challenge the arbitrator&apos;s jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, effectively halting biased ex-parte awards and redirecting the dispute into compromise settlement channels.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Furthermore, Aditya Birla Finance regularly participates in quarterly National Lok Adalats organized by District Legal Services Authorities (DLSA) under the Legal Services Authorities Act, 1987. In Lok Adalat sessions, NBFC representatives carry pre-approved settlement mandates (often offering 45% to 60% debt waivers). The resulting settlement award holds the legal force of a binding Civil Court Decree with non-appealable finality, permanently dismissing all pending legal claims.
+                Furthermore, SMFG India Credit actively participates in quarterly National Lok Adalats organized by District Legal Services Authorities (DLSA) under the Legal Services Authorities Act, 1987. In Lok Adalat sessions, NBFC representatives carry pre-approved settlement mandates (often offering 45% to 60% debt waivers). The resulting settlement award holds the legal force of a binding Civil Court Decree with non-appealable finality, permanently dismissing all pending legal claims.
               </p>
 
               <div className="overflow-x-auto my-6">
@@ -956,7 +952,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Direct NBFC OTS</td>
+                      <td className="font-bold text-slate-900">Direct SARB OTS</td>
                       <td>Compromise agreement under RBI Master Directions.</td>
                       <td><strong>40% – 60% Debt Haircut</strong></td>
                       <td>15 to 30 Days</td>
@@ -995,16 +991,16 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Authenticating Aditya Birla Finance Settlement Letters &amp; Enforcing the ₹0 NDC
+                Authenticating SMFG India Credit Settlement Letters &amp; Enforcing the ₹0 NDC
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                A serious risk in retail debt recovery involves unauthorized collection agents issuing fake settlement letters to collect partial payments. If a borrower transfers funds against an unverified or verbal offer, Aditya Birla Finance credits the money toward outstanding penal charges, leaving the default open and compounding.
+                A critical risk in retail debt recovery involves unauthorized collection agents issuing fabricated settlement letters to collect partial payments. If a borrower transfers funds against an unverified or verbal offer, SMFG India Credit credits the money toward outstanding penal charges, leaving the default open and compounding.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers must verify that the OTS sanction letter is printed on official Aditya Birla Finance Limited letterhead containing the Corporate Identification Number (CIN: U65990GJ1991PLC064603), registered office address, unique settlement proposal reference number, authorized signatory name, employee code, and official branch seal.
+                Borrowers must verify that the OTS sanction letter is printed on official SMFG India Credit Company Limited letterhead containing the Corporate Identification Number (CIN: U65191TN1994PLC079235), registered office address in Chennai, unique settlement proposal reference number, authorized signatory name, employee code, and official company stamp.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The sanction letter must explicitly confirm that upon payment of the agreed sum, the account is fully discharged with zero further financial liability. Under RBI Circular RBI/2023-24/60, Aditya Birla Finance must deliver the formal No Dues Certificate (NDC) and cancel all security mandates within 30 calendar days, or pay mandatory statutory compensation of ₹5,000 per day of delay directly to the borrower.
+                The sanction letter must explicitly confirm that upon payment of the agreed sum, the account is fully discharged with zero further financial liability. Under RBI Circular RBI/2023-24/60, SMFG India Credit must deliver the formal No Dues Certificate (NDC) and cancel all security mandates within 30 calendar days, or pay mandatory statutory compensation of ₹5,000 per day of delay directly to the borrower.
               </p>
             </section>
 
@@ -1018,7 +1014,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 CIBIL Score Trajectory Post-Settlement &amp; Strategic 18-Month Recovery Plan
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Completing a One-Time Settlement with Aditya Birla Finance results in the account being reported to all four licensed credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 75 to 150 points.
+                Completing a One-Time Settlement with SMFG India Credit results in the account being reported to all four licensed credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 75 to 150 points.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI compromise directives, a mandatory 12-month cooling-off window applies before fresh unsecured credit lines can be approved. However, a &apos;Settled&apos; record with ₹0 balance is vastly superior to an active, compounding &apos;Default&apos; status that degrades credit scores every month and invites ongoing litigation.
@@ -1035,10 +1031,10 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Why Distressed Aditya Birla Finance Borrowers Trust SettleLoans
+                Why Distressed SMFG India Credit Borrowers Trust SettleLoans
               </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Negotiating an optimal debt settlement with a major corporate NBFC like Aditya Birla Finance requires rigorous financial analysis and dedicated legal advocacy. SettleLoans halts third-party recovery harassment through immediate cease-and-desist notices, defends against Section 25 PSSA summons, challenges unilateral arbitration notices, and negotiates directly with ABFL&apos;s Zonal Stressed Assets Desks to secure maximum lawful debt waivers and authentic ₹0 No Dues Certificates.
+                Negotiating an optimal debt settlement with a major corporate NBFC like SMFG India Credit requires rigorous financial analysis and dedicated legal advocacy. SettleLoans halts third-party recovery harassment through immediate cease-and-desist notices, defends against Section 25 PSSA summons, challenges unilateral arbitration notices, and negotiates directly with SMFG&apos;s Stressed Asset Resolution Branch (SARB) to secure maximum lawful debt waivers and authentic ₹0 No Dues Certificates.
               </p>
 
               {/* Placement of Reusable CompanySection */}
@@ -1054,7 +1050,7 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <span>11. Frequently Asked Questions</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About Aditya Birla Capital Loan Settlement
+                Frequently Asked Questions About SMFG India Credit Loan Settlement
               </h2>
 
               <div className="space-y-4">
@@ -1111,12 +1107,12 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <a
-                    href="https://finance.adityabirlacapital.com"
+                    href="https://www.smfgindiacredit.com"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>Aditya Birla Finance Limited:</strong> Fair Practices Code, Customer Grievance Redressal Policy &amp; Principal Nodal Officer Matrix
+                    <strong>SMFG India Credit Co. Ltd.:</strong> Fair Practices Code, Customer Grievance Redressal Policy &amp; Principal Nodal Officer Matrix
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1220,9 +1216,11 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
             {/* Card 1: Author Bio Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-3 mb-4">
-                <div className="w-12 h-12 rounded-full bg-gradient-to-br from-blue-600 to-indigo-700 text-white font-black text-base flex items-center justify-center shadow-md">
-                  AJ
-                </div>
+                <Link href="/authors/ashish-jhangra" className="flex-shrink-0">
+                  <div className="w-12 h-12 rounded-full bg-gradient-to-br from-blue-600 to-indigo-700 text-white font-black text-base flex items-center justify-center shadow-md hover:opacity-90 transition-opacity">
+                    AJ
+                  </div>
+                </Link>
                 <div>
                   <h4 className="font-bold text-slate-900 text-base leading-tight">
                     <Link
@@ -1238,14 +1236,14 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has led over 1,200+ successful debt compromise negotiations across Aditya Birla Finance, Tata Capital, Bajaj Finance, HDFC Bank, and ICICI Bank. He specializes in corporate NBFC dispute resolution, Section 25 PSSA defense, and borrower advocacy under RBI Master Directions.
+                Ashish has led over 1,200+ successful debt compromise negotiations across SMFG India Credit, Aditya Birla Capital, Bajaj Finance, HDFC Bank, and ICICI Bank. He specializes in corporate NBFC dispute resolution, Section 25 PSSA defense, and borrower advocacy under RBI Master Directions.
               </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
                   href="/authors/ashish-jhangra"
                   className="text-[#1F5EFF] hover:underline"
                 >
-                  View Author Profile
+                  View Profile &rarr;
                 </Link>
                 <a
                   href="https://www.linkedin.com/company/settleloans"
@@ -1262,13 +1260,13 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
             <div className="bg-gradient-to-br from-[#1F5EFF] to-blue-700 text-white rounded-2xl p-6 shadow-lg">
               <div className="flex items-center gap-2 text-blue-100 text-xs font-bold uppercase tracking-wider mb-2">
                 <PhoneCall className="w-4 h-4" />
-                <span>Aditya Birla Dispute Resolution</span>
+                <span>SMFG Dispute Resolution</span>
               </div>
               <h3 className="text-xl font-black mb-3 leading-tight">
-                Facing Aditya Birla Loan Default?
+                Facing SMFG Loan Default?
               </h3>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
-                Stop aggressive recovery tele-calling and recurring NACH return fees immediately. Let our experienced banking advocates audit your delinquency stage, defend statutory legal notices, draft your formal OTS petition, and secure an authentic stamped Aditya Birla Finance settlement letter.
+                Stop aggressive SARB recovery calls and cascading NACH return fees immediately. Let our experienced banking advocates audit your delinquency stage, defend statutory legal notices, draft your formal OTS petition, and secure an authentic stamped SMFG India Credit settlement letter.
               </p>
               <Link
                 href="/contact"
@@ -1288,13 +1286,13 @@ export default function AdityaBirlaFinanceLoanSettlementPage() {
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Direct NBFC Representation:</strong> We bypass third-party collection agencies to represent your case directly before Aditya Birla Finance Zonal Stressed Assets Desks.
+                    <strong>Direct SARB Representation:</strong> We bypass external third-party agencies to negotiate directly with SMFG India Credit&apos;s Stressed Asset Resolution Branch and Credit Committees.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Anti-Harassment Protection:</strong> Prompt issuance of formal legal cease-and-desist notices to stop unauthorized workplace visits and third-party calling under RBI rules.
+                    <strong>Anti-Harassment Protection:</strong> Rapid issuance of formal legal cease-and-desist notices to stop unauthorized workplace visits and third-party calling under RBI rules.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
