@@ -8,34 +8,39 @@ interface TableOfContentsProps {
 }
 
 export function TableOfContents({ items = [] }: TableOfContentsProps) {
-  const [activeId, setActiveId] = useState<string>("");
+  const [activeId, setActiveId] = useState<string>(items[0]?.id || "");
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   useEffect(() => {
-    const observer = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            setActiveId(entry.target.id);
+    if (items.length === 0) return;
+
+    const handleScroll = () => {
+      const scrollPosition = window.scrollY + 140;
+      let currentId = items[0]?.id || "";
+
+      for (let i = 0; i < items.length; i++) {
+        const el = document.getElementById(items[i].id);
+        if (el) {
+          const top = el.getBoundingClientRect().top + window.scrollY;
+          if (scrollPosition >= top - 20) {
+            currentId = items[i].id;
           }
-        });
-      },
-      { rootMargin: "-100px 0px -60% 0px" }
-    );
+        }
+      }
+      setActiveId(currentId);
+    };
 
-    items.forEach((heading) => {
-      const element = document.getElementById(heading.id);
-      if (element) observer.observe(element);
-    });
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    handleScroll(); // Initialize on mount
 
-    return () => observer.disconnect();
+    return () => window.removeEventListener("scroll", handleScroll);
   }, [items]);
 
   const handleClick = (e: React.MouseEvent<HTMLAnchorElement>, id: string) => {
     e.preventDefault();
     const element = document.getElementById(id);
     if (element) {
-      const offset = 100; 
+      const offset = 100;
       const bodyRect = document.body.getBoundingClientRect().top;
       const elementRect = element.getBoundingClientRect().top;
       const elementPosition = elementRect - bodyRect;
@@ -57,26 +62,29 @@ export function TableOfContents({ items = [] }: TableOfContentsProps) {
   return (
     <>
       {/* Desktop Sidebar TOC */}
-      <div className="hidden lg:block sticky top-24">
-        <div className="bg-white/80 backdrop-blur-md rounded-2xl border border-[var(--color-border)] shadow-sm p-6">
-          <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 pl-3">
-            Contents
+      <div className="w-full">
+        <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-4 text-slate-800">
+          <h3 className="text-xs font-bold uppercase tracking-wider text-[#1F5EFF] mb-3 pb-2 border-b border-slate-100 flex items-center gap-2">
+            <span>Contents Index</span>
           </h3>
-          <nav className="flex flex-col gap-1">
-            {items.map((heading) => (
-              <a
-                key={heading.id}
-                href={`#${heading.id}`}
-                onClick={(e) => handleClick(e, heading.id)}
-                className={`text-sm py-2 pl-3 border-l-2 transition-all duration-200 ease-in-out ${
-                  activeId === heading.id
-                    ? "border-[var(--color-primary)] text-[var(--color-primary)] font-semibold bg-teal-50/50 rounded-r-md"
-                    : "border-transparent text-[var(--color-text-body)] hover:text-[var(--color-primary)] hover:border-gray-200"
-                }`}
-              >
-                {heading.title}
-              </a>
-            ))}
+          <nav className="flex flex-col gap-1 max-h-[calc(100vh-260px)] overflow-y-auto pr-1">
+            {items.map((heading) => {
+              const isActive = activeId === heading.id;
+              return (
+                <a
+                  key={heading.id}
+                  href={`#${heading.id}`}
+                  onClick={(e) => handleClick(e, heading.id)}
+                  className={`text-xs py-1.5 px-2.5 rounded-lg border-l-2 transition-all duration-200 ease-in-out leading-snug ${
+                    isActive
+                      ? "border-[#1F5EFF] text-[#1F5EFF] font-bold bg-blue-50 shadow-xs"
+                      : "border-transparent text-slate-600 hover:text-slate-900 hover:bg-slate-50"
+                  }`}
+                >
+                  {heading.title}
+                </a>
+              );
+            })}
           </nav>
         </div>
       </div>
@@ -87,30 +95,34 @@ export function TableOfContents({ items = [] }: TableOfContentsProps) {
           {isMobileMenuOpen && (
             <div className="max-h-[60vh] overflow-y-auto p-4 bg-gray-50 border-b border-gray-100">
               <div className="flex flex-col gap-2">
-                {items.map((heading) => (
-                  <a
-                    key={heading.id}
-                    href={`#${heading.id}`}
-                    onClick={(e) => handleClick(e, heading.id)}
-                    className={`block p-3 rounded-xl text-sm transition-all ${
-                      activeId === heading.id
-                        ? "bg-[#1F5EFF] text-white font-bold"
-                        : "bg-white text-gray-700 hover:bg-gray-100"
-                    }`}
-                  >
-                    {heading.title}
-                  </a>
-                ))}
+                {items.map((heading) => {
+                  const isActive = activeId === heading.id;
+                  return (
+                    <a
+                      key={heading.id}
+                      href={`#${heading.id}`}
+                      onClick={(e) => handleClick(e, heading.id)}
+                      className={`block p-3 rounded-xl text-xs sm:text-sm transition-all ${
+                        isActive
+                          ? "bg-[#1F5EFF] text-white font-bold"
+                          : "bg-white text-gray-700 hover:bg-gray-100"
+                      }`}
+                    >
+                      {heading.title}
+                    </a>
+                  );
+                })}
               </div>
             </div>
           )}
           <button 
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
             className="w-full p-4 flex items-center justify-between text-[#2E2E2E] font-bold"
+            aria-label="Table of contents menu"
           >
             <div className="flex items-center gap-3">
               <span className="text-xs text-[#1F5EFF] uppercase tracking-wider font-black">Jump To:</span>
-              <span className="text-sm truncate max-w-[200px]">{activeItem.title}</span>
+              <span className="text-xs sm:text-sm truncate max-w-[200px]">{activeItem.title}</span>
             </div>
             {isMobileMenuOpen ? <ChevronDown size={20} /> : <ChevronUp size={20} /> }
           </button>
