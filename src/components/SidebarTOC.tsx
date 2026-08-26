@@ -12,7 +12,7 @@ interface SidebarTOCProps {
   items: TOCItem[];
 }
 
-export default function SidebarTOC({ items }: SidebarTOCProps) {
+export default function SidebarTOC({ items = [] }: SidebarTOCProps) {
   const [activeId, setActiveId] = useState<string>(items[0]?.id || '');
 
   useEffect(() => {

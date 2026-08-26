@@ -122,7 +122,7 @@ export function TableOfContents({ items = [] }: TableOfContentsProps) {
           >
             <div className="flex items-center gap-3">
               <span className="text-xs text-[#1F5EFF] uppercase tracking-wider font-black">Jump To:</span>
-              <span className="text-xs sm:text-sm truncate max-w-[200px]">{activeItem.title}</span>
+              <span className="text-xs sm:text-sm truncate max-w-[200px]">{activeItem?.title || "Table of Contents"}</span>
             </div>
             {isMobileMenuOpen ? <ChevronDown size={20} /> : <ChevronUp size={20} /> }
           </button>

@@ -307,11 +307,6 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       {
-        source: '/%20what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi',
-        destination: '/what-can-I-do-if-I-m-unable-to-pay-my-bank-loan-emi',
-        permanent: true,
-      },
-      {
         source: '/html/privacy-policy.html',
         destination: '/privacy-policy',
         permanent: true,
