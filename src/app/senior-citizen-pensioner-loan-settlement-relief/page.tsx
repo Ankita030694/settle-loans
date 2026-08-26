@@ -935,7 +935,7 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
                 <h2>11. Frequently Asked Questions: Senior Citizen &amp; Pensioner Debt Relief</h2>
               </div>
               <div className="space-y-3">
-                {jsonLdGraph['@graph'][3].mainEntity.map((faq: any, index: number) => (
+                {((jsonLdGraph['@graph'][3] as any)?.mainEntity || []).map((faq: any, index: number) => (
                   <details
                     key={index}
                     className="group bg-white border border-slate-200 rounded-2xl overflow-hidden transition-all duration-200 open:border-blue-300 open:shadow-sm"

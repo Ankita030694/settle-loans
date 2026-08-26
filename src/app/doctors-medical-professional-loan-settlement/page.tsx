@@ -1250,7 +1250,7 @@ export default function DoctorsLoanSettlementPage() {
               <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Medical Professionals Trust Us</span>
-              </div>
+              </h4>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
