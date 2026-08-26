@@ -372,7 +372,7 @@ export default function BankOfBarodaPersonalLoanSettlementPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdGraph) }}
       />
 
-      <style jsx global>{`
+      <style>{`
         .blog-content table {
           width: 100%;
           border-collapse: separate !important;
