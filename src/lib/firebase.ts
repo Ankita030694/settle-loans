@@ -3,8 +3,10 @@ import { getAnalytics, isSupported } from "firebase/analytics";
 import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
+const apiKey = process.env.NEXT_PUBLIC_FIREBASE_API_KEY || (typeof window === 'undefined' ? 'build-placeholder-key' : '');
+
 const firebaseConfig = {
-    apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
+    apiKey: apiKey || 'build-placeholder-key',
     authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN || "settle-loan.firebaseapp.com",
     projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID || "settle-loan",
     storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET || "settle-loan.firebasestorage.app",
