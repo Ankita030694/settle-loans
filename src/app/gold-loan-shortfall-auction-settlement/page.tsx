@@ -806,7 +806,7 @@ export default function GoldLoanShortfallSettlementPage() {
               </p>
 
               <div className="space-y-3 mt-6">
-                {((jsonLdGraph["@graph"][4] as any)["mainEntity"] as Array<{ name: string; acceptedAnswer: { text: string } }>).map((faq, index: number) => (
+                {(((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.["mainEntity"] || []) as Array<{ name: string; acceptedAnswer: { text: string } }>).map((faq, index: number) => (
                   <details
                     key={index}
                     className="group bg-slate-50 border border-slate-200 rounded-xl p-4 transition-all duration-200 open:bg-blue-50/40 open:border-blue-200"

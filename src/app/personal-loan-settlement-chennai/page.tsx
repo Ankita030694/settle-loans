@@ -956,7 +956,7 @@ export default function Page() {
                 </h2>
 
                 <div className="space-y-4">
-                  {(jsonLdGraph["@graph"][4] as any).mainEntity.map((faq: any, index: number) => (
+                  {((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
                     <details
                       key={index}
                       className="group border border-slate-200 rounded-2xl overflow-hidden mb-4 transition-all duration-200 hover:border-slate-300 bg-white shadow-sm"

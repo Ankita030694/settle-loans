@@ -477,7 +477,7 @@ export default function RemoveWrittenOffStatusPage() {
                 Frequently Asked Questions
               </h2>
               <div className="space-y-4">
-                {(jsonLd["@graph"][4] as any).mainEntity?.map((faq: any, index: number) => (
+                {((jsonLd["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
                     <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">{faq.name}</h4>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>

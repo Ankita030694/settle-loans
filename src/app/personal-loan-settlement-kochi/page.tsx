@@ -373,7 +373,7 @@ const tocItems = [
 ];
 
 export default function Page() {
-  const faqs = (jsonLdGraph["@graph"][4] as any).mainEntity;
+  const faqs = (jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || [];
 
   return (
     <div
