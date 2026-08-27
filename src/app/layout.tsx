@@ -5,6 +5,7 @@ import "./globals.css";
 import Footer from "@/components/Footer";
 import WhatsAppWidget from "@/components/WhatsAppWidget";
 import GlobalPopupForm from "@/components/GlobalPopupForm";
+import PageViewTracker from "@/components/PageViewTracker";
 import { Analytics } from "@vercel/analytics/next";
 import Script from "next/script";
 import ReCaptchaWrapper from "@/components/ReCaptchaWrapper";
@@ -124,6 +125,7 @@ export default function RootLayout({
         className={`${satoshi.variable} antialiased`}
       >
         <ReCaptchaWrapper>
+          <PageViewTracker />
           <Navbar />
           <div>
              {children}

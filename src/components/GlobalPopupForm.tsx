@@ -9,8 +9,8 @@ export default function GlobalPopupForm() {
   const pathname = usePathname();
 
   useEffect(() => {
-    // Don't show the popup on the contact or thank-you pages
-    if (pathname === '/contact' || pathname === '/thank-you') {
+    // Don't show the popup on the contact, thank-you, or admin pages
+    if (pathname === '/contact' || pathname === '/thank-you' || pathname?.startsWith('/admin')) {
       setIsOpen(false);
       return;
     }

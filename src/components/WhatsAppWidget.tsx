@@ -3,10 +3,16 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
+import { usePathname } from 'next/navigation';
 
 const WhatsAppWidget: React.FC = () => {
+  const pathname = usePathname();
   const phoneNumber = '919821219819';
   const message = 'I want to settle my loans';
+  
+  if (pathname?.startsWith('/admin')) {
+    return null;
+  }
   
   const handleClick = () => {
     const encodedMessage = encodeURIComponent(message);
