@@ -5,6 +5,96 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
     return [
         {
+            url: `${baseUrl}/recovery-agents-snatching-bike-on-road-illegal-repo`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/recovery-agent-misbehaving-with-women-legal-action`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/recovery-agents-talking-to-neighbours-landlord`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/should-i-pay-cash-to-bank-recovery-agent`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/recovery-agent-fake-police-call-complaint`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/loan-foreclosure-vs-prepayment-vs-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/cyber-crime-complaint-illegal-loan-apps-blackmail`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/stashfin-loan-default-settlement-process`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/salary-account-ecs-mandate-cancellation-rules`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/personal-loan-settlement-patna`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/personal-loan-settlement-nagpur`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/loan-settlement-for-housewives-and-co-borrowers`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/wilful-defaulter-notice-reply-and-settlement-defense`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/federal-bank-loan-settlement-process`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
+            url: `${baseUrl}/union-bank-of-india-personal-loan-settlement`,
+            lastModified: new Date(),
+            changeFrequency: 'weekly',
+            priority: 1.0,
+        },
+        {
             url: `${baseUrl}/tax-implications-on-loan-settlement-haircut-india`,
             lastModified: new Date(),
             changeFrequency: 'weekly',
