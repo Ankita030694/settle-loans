@@ -204,7 +204,7 @@ const jsonLdGraph = {
             "name": "Manish Rawat"
           },
           "datePublished": "2026-06-19",
-          "reviewBody": "As an employee at a state department near Dehradun Secretariat, I was facing severe harassment from recovery callers over an ₹11.5 Lakhs personal loan after medical expenses. Callers were threatening to contact my administrative office. SettleLoans stepped in with Senior Advocate representation, issued statutory cease-and-desist notices citing Section 60 CPC protections, and negotiated an authorized 52% OTS reduction with Zonal Committee approval and full No Dues Certificate delivery.",
+          "reviewBody": "I work in a state office in Dehradun. Recovery agents called me constantly over an ₹11.5 Lakhs loan. They threatened to visit my workplace. SettleLoans stepped in quickly. Their advocates cited Section 60 CPC protections. They negotiated a 52% OTS reduction. I received my official No Dues Certificate without delay.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -219,7 +219,7 @@ const jsonLdGraph = {
             "name": "Siddharth Nautiyal"
           },
           "datePublished": "2026-07-11",
-          "reviewBody": "We operate a boutique yoga resort and rafting camp in Tapovan, Rishikesh. Due to severe monsoon landslide disruptions, our seasonal cash flow collapsed while holding ₹22 Lakhs across three unsecured business credit lines and cards. SettleLoans conducted a complete financial forensic audit, demonstrated genuine hospitality downturn, and secured a comprehensive One-Time Settlement with a 58% principal waiver without any court litigation.",
+          "reviewBody": "We run a yoga resort in Rishikesh. Monsoons hurt our seasonal cash flow. We had ₹22 Lakhs in credit card dues. SettleLoans handled our case. They showed our genuine loss to the bank. We got a 58% waiver without any court disputes.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -234,7 +234,7 @@ const jsonLdGraph = {
             "name": "Ananya Joshi"
           },
           "datePublished": "2026-05-28",
-          "reviewBody": "After graduating from an engineering university in Bidholi, Dehradun, corporate hiring freezes delayed my campus joining, resulting in severe default on an ₹8.5 Lakhs education top-up loan co-signed by my father. The SettleLoans legal team handled the private bank's recovery wing, defended against Section 25 PSSA notices, and achieved an amicable Lok Adalat settlement with 45% debt relief and complete credit bureau closure.",
+          "reviewBody": "Hiring delays left me unable to pay my ₹8.5 Lakhs education loan. My father was a co-signer. Bank agents harassed us daily. SettleLoans responded to Section 25 PSSA notices. They resolved the debt at Lok Adalat with a 45% discount.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -249,7 +249,7 @@ const jsonLdGraph = {
             "name": "Kavita Negi"
           },
           "datePublished": "2026-08-04",
-          "reviewBody": "Received Section 138 NI Act notices from District Courts Haridwar regarding bounced EMI cheques on a commercial personal loan. SettleLoans advocates represented my case at the Roshnabad court complex, filed comprehensive legal responses establishing genuine commercial hardship, and successfully concluded a 50% compromise settlement directly with the bank's Zonal Stressed Assets Desk.",
+          "reviewBody": "I received Section 138 NI Act notices from Haridwar courts for bounced cheques. SettleLoans advocates represented me at the Roshnabad complex. They proved my business hardship. The bank agreed to a 50% settlement.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -268,7 +268,7 @@ const jsonLdGraph = {
           "name": "How does loan settlement work in Dehradun and across Uttarakhand?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Loan settlement in Dehradun is a structured legal mechanism governed by Reserve Bank of India Master Directions on Compromise Settlements. When an unsecured personal loan, credit card balance, or business credit line exceeds 90 days past due (DPD) and enters Non-Performing Asset (NPA) status, banking advocates represent the borrower before the lender's Zonal Stressed Assets Desk. Advocates present a verified financial hardship dossier, eliminate unlawful penal compounding, and negotiate an authorized 40% to 65% debt waiver concluded through an authentic stamped OTS sanction letter and official ₹0 No Dues Certificate."
+            "text": "Loan settlement follows RBI rules. When a loan passes 90 days of default, it becomes an NPA. Banking lawyers present your hardship case to the bank zonal desk. They get unfair late charges removed. You can secure a 40% to 65% debt waiver. The bank gives you a stamped OTS letter. You also receive a zero-balance No Dues Certificate."
           }
         },
         {
@@ -276,7 +276,7 @@ const jsonLdGraph = {
           "name": "Can banks attach the salary of government employees in Dehradun for personal loan default?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No bank or recovery agency has the legal authority to unilaterally freeze or attach a government employee's salary account without a formal decree from a competent Civil Court. Under Section 60(1)(i) of the Code of Civil Procedure (CPC), 1908, the first ₹1,000 plus two-thirds of the remaining salary is strictly exempt from attachment in civil debt executions. Furthermore, defaulting on a personal loan is a civil contractual dispute and does not constitute moral turpitude or departmental misconduct under Uttarakhand Government Servants Conduct Rules."
+            "text": "No. Banks cannot attach your pay without a civil court order. Section 60(1) (i) CPC protects most of your salary. A loan default is a civil matter. It is not misconduct under state service rules."
           }
         },
         {
@@ -284,7 +284,7 @@ const jsonLdGraph = {
           "name": "How can hotel, resort, and tourism business owners in Rishikesh and Haridwar settle unsecured loans?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Tourism, hotel, yoga retreat, and adventure sports enterprises in Rishikesh, Haridwar, and Dehradun experience sharp seasonal revenue swings and monsoon disruptions. Advocates compile GST filings, occupancy records, and commercial hardship proofs to demonstrate non-wilful financial distress to bank Credit Committees. By applying Net Present Value (NPV) recovery benchmarks, advocates secure structured 45% to 60% debt haircuts timed with tourism cashflow cycles."
+            "text": "Tourism businesses face seasonal income drops and rain disruptions. Lawyers show GST records and booking logs to prove distress. Banks follow net present value rules to settle. Owners can secure 45% to 60% debt waivers."
           }
         },
         {
@@ -292,7 +292,7 @@ const jsonLdGraph = {
           "name": "Which local courts handle personal loan default litigation in Dehradun, Haridwar, and Rishikesh?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "In Dehradun, Section 138 NI Act cheque bounce cases, Section 25 PSSA complaints, and Order 37 CPC summary suits are adjudicated at the District & Sessions Court Complex at Dehradun Sadar. In Haridwar, cases fall under the District Courts Complex at Roshnabad, while Rishikesh matters are heard by local Civil Judges and Judicial Magistrates. High-value bank claims exceeding ₹20 Lakhs fall under the Debts Recovery Tribunal (DRT) Dehradun at Haridwar Road, and supervisory writ petitions are heard by the High Court of Uttarakhand at Nainital."
+            "text": "Dehradun Sadar courts handle Section 138 NI Act and Section 25 PSSA cases. Haridwar cases go to the Roshnabad courts. Rishikesh matters to local civil judges. Debts over ₹20 Lakhs go to DRT Dehradun on Haridwar Road."
           }
         },
         {
@@ -300,7 +300,7 @@ const jsonLdGraph = {
           "name": "What percentage of debt waiver can borrowers in Dehradun realistically achieve?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "On unsecured personal loans, multi-card credit facilities, and consumer credit lines past 90 to 180 days of default, commercial banks and NBFCs approve principal haircuts ranging between 40% and 65% of total ledger dues. Additionally, legal representation ensures a 100% complete waiver of all accrued penal interest, late payment penalties, and repeated NACH bounce charges under RBI Fair Lending Directives."
+            "text": "Debtors can get a 40% to 65% waiver on personal loans and cards. Legal lawyers also get late fees and penal interest waived. The final amount depends on your hardship and default age."
           }
         },
         {
@@ -308,7 +308,7 @@ const jsonLdGraph = {
           "name": "How do debt settlement advocates in Dehradun halt recovery agent harassment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Advocates issue formal statutory cease-and-desist notices to bank Principal Nodal Officers citing RBI Master Directions on Recovery Agents and Supreme Court rulings. Under established law, once an advocate represents the borrower, all communications must be routed through counsel. If agents violate rules by visiting workplaces (such as Secretariat or university campuses) or calling outside 08:00 AM to 07:00 PM, complaints are filed with the District Legal Services Authority (DLSA), Uttarakhand Police Cyber Cell, and the RBI Integrated Ombudsman."
+            "text": "Lawyers send legal notices citing RBI rules. Lenders must route all calls through counsel. If agents call at odd hours, lawyers file complaints with DLSA, Cyber Police. or the RBI Ombudsman."
           }
         },
         {
@@ -316,7 +316,7 @@ const jsonLdGraph = {
           "name": "What should borrowers do upon receiving a Section 138 or Section 25 PSSA court notice in Dehradun?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Borrowers must never ignore statutory court summons. Serving a formal legal reply within the mandatory 15-day notice window establishes bona fide financial hardship and prevents the issuance of bailable or non-bailable warrants. Advocates enter appearance in the Dehradun or Haridwar Magistrate Courts, secure immediate bail if required, and refer the dispute to the National Lok Adalat for an amicable, discounted compromise settlement."
+            "text": "Never ignore court notices. Send a legal reply within the 15-day window. Lawyers appear in Dehradun or Haridwar courts to secure bail. They move the case to Lok Adalat for a final settlement."
           }
         },
         {
@@ -324,7 +324,7 @@ const jsonLdGraph = {
           "name": "Can higher education students in Dehradun settle education loans and co-borrower credit lines?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Students from institutions such as UPES, Graphic Era, DIT, or Doon University facing campus placement delays or career setbacks can settle education loans and parental co-borrower personal loans. Advocates present university completion transcripts, unemployment records, and family financial constraints to bank Stressed Assets Committees to negotiate structured OTS waivers and release parents from ongoing recovery pressure."
+            "text": "Yes. Students facing job delays can settle study debts. Lawyers submit college records and proof of unemployment. This secures an affordable OTS. It shields parents from recovery calls."
           }
         },
         {
@@ -332,7 +332,7 @@ const jsonLdGraph = {
           "name": "How does settling a loan in Dehradun impact CIBIL scores and long-term creditworthiness?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Upon completing an OTS, the lender reports the account to credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) with the status 'Settled' and an outstanding balance of ₹0. While this leads to an initial credit score drop of 75 to 150 points and a temporary 12-month cooling-off window, it permanently terminates compounding default marks. Borrowers can systematically rebuild their CIBIL score back to 750+ within 18 to 24 months using secured credit cards and disciplined financial practices."
+            "text": "The bank marks your loan as Settled with zero balance. Your credit score drops by 75 to 150 points at first. But active default remarks stop. You can rebuild your score past 750 in 18 to 24 months."
           }
         },
         {
@@ -340,7 +340,7 @@ const jsonLdGraph = {
           "name": "How long does a bank take to issue the No Dues Certificate (NDC) following an OTS in Uttarakhand?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, commercial banks and NBFCs are legally mandated to issue a formal ₹0 No Dues Certificate and update credit bureau records within 30 calendar days of receiving the full agreed settlement payment. In case of unjustified lender delays, the institution is statutorily liable to pay compensation of ₹5,000 per day of delay directly to the borrower."
+            "text": "Under RBI rules, banks must issue your No Dues Certificate in 30 days. They must also update credit bureaus. If the bank delays, it must pay ₹5,000 per day to the debtor."
           }
         }
       ]
@@ -366,43 +366,43 @@ export default function PersonalLoanSettlementDehradunPage() {
   const faqs = [
     {
       question: "How does loan settlement work in Dehradun and across Uttarakhand?",
-      answer: "Loan settlement in Dehradun is a structured legal mechanism governed by Reserve Bank of India Master Directions on Compromise Settlements. When an unsecured personal loan, credit card balance, or business credit line exceeds 90 days past due (DPD) and enters Non-Performing Asset (NPA) status, banking advocates represent the borrower before the lender's Zonal Stressed Assets Desk. Advocates present a verified financial hardship dossier, eliminate unlawful penal compounding, and negotiate an authorized 40% to 65% debt waiver concluded through an authentic stamped OTS sanction letter and official ₹0 No Dues Certificate."
+      answer: "Loan settlement follows RBI rules. When a loan passes 90 days of default, it becomes an NPA. Banking lawyers present your hardship case to the bank zonal desk. They get unfair late charges removed. You can secure a 40% to 65% debt waiver. The bank gives you a stamped OTS letter. You also receive a zero-balance No Dues Certificate."
     },
     {
       question: "Can banks attach the salary of government employees in Dehradun for personal loan default?",
-      answer: "No bank or recovery agency has the legal authority to unilaterally freeze or attach a government employee's salary account without a formal decree from a competent Civil Court. Under Section 60(1)(i) of the Code of Civil Procedure (CPC), 1908, the first ₹1,000 plus two-thirds of the remaining salary is strictly exempt from attachment in civil debt executions. Furthermore, defaulting on a personal loan is a civil contractual dispute and does not constitute moral turpitude or departmental misconduct under Uttarakhand Government Servants Conduct Rules."
+      answer: "No. Banks cannot attach your pay without a civil court order. Section 60(1) (i) CPC protects most of your salary. A loan default is a civil matter. It is not misconduct under state service rules."
     },
     {
       question: "How can hotel, resort, and tourism business owners in Rishikesh and Haridwar settle unsecured loans?",
-      answer: "Tourism, hotel, yoga retreat, and adventure sports enterprises in Rishikesh, Haridwar, and Dehradun experience sharp seasonal revenue swings and monsoon disruptions. Advocates compile GST filings, occupancy records, and commercial hardship proofs to demonstrate non-wilful financial distress to bank Credit Committees. By applying Net Present Value (NPV) recovery benchmarks, advocates secure structured 45% to 60% debt haircuts timed with tourism cashflow cycles."
+      answer: "Tourism businesses face seasonal income drops and rain disruptions. Lawyers show GST records and booking logs to prove distress. Banks follow net present value rules to settle. Owners can secure 45% to 60% debt waivers."
     },
     {
       question: "Which local courts handle personal loan default litigation in Dehradun, Haridwar, and Rishikesh?",
-      answer: "In Dehradun, Section 138 NI Act cheque bounce cases, Section 25 PSSA complaints, and Order 37 CPC summary suits are adjudicated at the District & Sessions Court Complex at Dehradun Sadar. In Haridwar, cases fall under the District Courts Complex at Roshnabad, while Rishikesh matters are heard by local Civil Judges and Judicial Magistrates. High-value bank claims exceeding ₹20 Lakhs fall under the Debts Recovery Tribunal (DRT) Dehradun at Haridwar Road, and supervisory writ petitions are heard by the High Court of Uttarakhand at Nainital."
+      answer: "Dehradun Sadar courts handle Section 138 NI Act and Section 25 PSSA cases. Haridwar cases go to the Roshnabad courts. Rishikesh matters to local civil judges. Debts over ₹20 Lakhs go to DRT Dehradun on Haridwar Road."
     },
     {
       question: "What percentage of debt waiver can borrowers in Dehradun realistically achieve?",
-      answer: "On unsecured personal loans, multi-card credit facilities, and consumer credit lines past 90 to 180 days of default, commercial banks and NBFCs approve principal haircuts ranging between 40% and 65% of total ledger dues. Additionally, legal representation ensures a 100% complete waiver of all accrued penal interest, late payment penalties, and repeated NACH bounce charges under RBI Fair Lending Directives."
+      answer: "Debtors can get a 40% to 65% waiver on personal loans and cards. Legal lawyers also get late fees and penal interest waived. The final amount depends on your hardship and default age."
     },
     {
       question: "How do debt settlement advocates in Dehradun halt recovery agent harassment?",
-      answer: "Advocates issue formal statutory cease-and-desist notices to bank Principal Nodal Officers citing RBI Master Directions on Recovery Agents and Supreme Court rulings. Under established law, once an advocate represents the borrower, all communications must be routed through counsel. If agents violate rules by visiting workplaces (such as Secretariat or university campuses) or calling outside 08:00 AM to 07:00 PM, complaints are filed with the District Legal Services Authority (DLSA), Uttarakhand Police Cyber Cell, and the RBI Integrated Ombudsman."
+      answer: "Lawyers send legal notices citing RBI rules. Lenders must route all calls through counsel. If agents call at odd hours, lawyers file complaints with DLSA, Cyber Police. or the RBI Ombudsman."
     },
     {
       question: "What should borrowers do upon receiving a Section 138 or Section 25 PSSA court notice in Dehradun?",
-      answer: "Borrowers must never ignore statutory court summons. Serving a formal legal reply within the mandatory 15-day notice window establishes bona fide financial hardship and prevents the issuance of bailable or non-bailable warrants. Advocates enter appearance in the Dehradun or Haridwar Magistrate Courts, secure immediate bail if required, and refer the dispute to the National Lok Adalat for an amicable, discounted compromise settlement."
+      answer: "Never ignore court notices. Send a legal reply within the 15-day window. Lawyers appear in Dehradun or Haridwar courts to secure bail. They move the case to Lok Adalat for a final settlement."
     },
     {
       question: "Can higher education students in Dehradun settle education loans and co-borrower credit lines?",
-      answer: "Yes. Students from institutions such as UPES, Graphic Era, DIT, or Doon University facing campus placement delays or career setbacks can settle education loans and parental co-borrower personal loans. Advocates present university completion transcripts, unemployment records, and family financial constraints to bank Stressed Assets Committees to negotiate structured OTS waivers and release parents from ongoing recovery pressure."
+      answer: "Yes. Students facing job delays can settle study debts. Lawyers submit college records and proof of unemployment. This secures an affordable OTS. It shields parents from recovery calls."
     },
     {
       question: "How does settling a loan in Dehradun impact CIBIL scores and long-term creditworthiness?",
-      answer: "Upon completing an OTS, the lender reports the account to credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) with the status 'Settled' and an outstanding balance of ₹0. While this leads to an initial credit score drop of 75 to 150 points and a temporary 12-month cooling-off window, it permanently terminates compounding default marks. Borrowers can systematically rebuild their CIBIL score back to 750+ within 18 to 24 months using secured credit cards and disciplined financial practices."
+      answer: "The bank marks your loan as Settled with zero balance. Your credit score drops by 75 to 150 points at first. But active default remarks stop. You can rebuild your score past 750 in 18 to 24 months."
     },
     {
       question: "How long does a bank take to issue the No Dues Certificate (NDC) following an OTS in Uttarakhand?",
-      answer: "Under RBI Circular RBI/2023-24/60, commercial banks and NBFCs are legally mandated to issue a formal ₹0 No Dues Certificate and update credit bureau records within 30 calendar days of receiving the full agreed settlement payment. In case of unjustified lender delays, the institution is statutorily liable to pay compensation of ₹5,000 per day of delay directly to the borrower."
+      answer: "Under RBI rules, banks must issue your No Dues Certificate in 30 days. They must also update credit bureaus. If the bank delays, it must pay ₹5,000 per day to the debtor."
     }
   ];
 
@@ -470,7 +470,7 @@ export default function PersonalLoanSettlementDehradunPage() {
         <div className="max-w-4xl mx-auto text-center relative z-10">
           <div className="inline-flex items-center gap-2 py-1 px-3.5 rounded-full bg-blue-500/20 border border-blue-400/30 text-blue-300 text-xs font-black mb-3 tracking-wider uppercase">
             <Landmark className="w-3.5 h-3.5" />
-            <span>Dehradun, Haridwar &amp; Rishikesh • Regional Capital &amp; Tourism Debt Relief</span>
+            <span>Dehradun, Haridwar &amp; Rishikesh. Regional Capital &amp; Tourism Debt Relief.</span>
           </div>
 
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Dehradun: Legal OTS Guide</h1>
@@ -478,17 +478,17 @@ export default function PersonalLoanSettlementDehradunPage() {
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">
               <UserCheck className="w-3.5 h-3.5 text-blue-400" />
-              <span>Written by <Link href="/authors/ashish-jhangra" className="font-bold underline hover:text-white transition-colors">Ashish Jhangra</Link></span>
+              <span>Written by <Link href="/authors/ashish-jhangra" className="font-bold underline hover:text-white transition-colors">Ashish Jhangra</Link>.</span>
             </span>
             <span className="hidden sm:inline text-slate-500">•</span>
             <span className="flex items-center gap-1.5">
               <Calendar className="w-3.5 h-3.5 text-blue-400" />
-              <span>Updated: August 2026</span>
+              <span>Updated: August 2026.</span>
             </span>
             <span className="hidden sm:inline text-slate-500">•</span>
             <span className="flex items-center gap-1.5">
               <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-              <span>RBI Master Direction Compliant</span>
+              <span>RBI Master Direction Compliant.</span>
             </span>
           </div>
 
@@ -497,14 +497,14 @@ export default function PersonalLoanSettlementDehradunPage() {
               href="/contact"
               className="bg-[#1F5EFF] hover:bg-blue-600 text-white font-bold py-2.5 px-6 rounded-xl text-xs sm:text-sm transition-all duration-200 shadow-md hover:shadow-lg flex items-center gap-2"
             >
-              <span>Negotiate Dehradun Loan Settlement</span>
+              <span>Negotiate Dehradun Loan Settlement.</span>
               <ArrowRight className="w-4 h-4" />
             </Link>
             <Link
               href="/contact"
               className="bg-white/10 hover:bg-white/20 text-white border border-white/20 font-bold py-2.5 px-5 rounded-xl text-xs sm:text-sm transition-all duration-200"
             >
-              Get Free Case Evaluation
+              Get Free Case Evaluation.
             </Link>
           </div>
         </div>
@@ -525,11 +525,9 @@ export default function PersonalLoanSettlementDehradunPage() {
             <div className="bg-blue-50/60 border border-blue-200/70 rounded-2xl p-4 text-xs text-blue-900 space-y-2">
               <div className="font-bold flex items-center gap-1.5 text-blue-950">
                 <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
-                <span>Uttarakhand Debt Crux</span>
+                <span>Uttarakhand Debt Crux.</span>
               </div>
-              <p className="text-[11px] leading-relaxed text-blue-800">
-                Unsecured defaults in Dehradun, Haridwar, and Rishikesh enter NPA past 90 days. Direct advocate escalation to bank Zonal Desks halts workplace harassment, enforces Section 60 CPC protections, and unlocks 40%–65% debt waivers with official ₹0 No Dues Certificates.
-              </p>
+              <p className="text-[11px] leading-relaxed text-blue-800">Unsecured loans enter NPA past 90 days. Senior lawyers escalate your case to bank zonal desks. This stops abuse. It protects your rights under Section 60 CPC. You can secure a 40% to 65% debt waiver. You get an official zero-balance No Dues Certificate.</p>
             </div>
           </aside>
 
@@ -540,29 +538,14 @@ export default function PersonalLoanSettlementDehradunPage() {
             <div className="bg-gradient-to-br from-blue-50 to-indigo-50/70 border border-blue-200 rounded-2xl p-6 mb-8 shadow-sm">
               <div className="flex items-center gap-2 text-blue-900 font-bold text-base mb-3">
                 <Award className="w-5 h-5 text-[#1F5EFF]" />
-                <span>Key Takeaways: Dehradun &amp; Uttarakhand Debt Settlement</span>
+                <span>Key Takeaways: Dehradun &amp; Uttarakhand Debt Settlement.</span>
               </div>
               <ul className="space-y-2.5 text-sm text-slate-700">
-                <li className="flex items-start gap-2.5">
-                  <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Senior Advocate Representation:</strong> Borrowers in Dehradun, Haridwar, and Rishikesh negotiate directly with bank Zonal Stressed Assets Desks, completely bypassing aggressive third-party collection agencies.</span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Government Employee Salary Protections:</strong> Civil servants, public sector staff, and research institute personnel are fully shielded under Section 60 CPC; personal loan defaults cannot trigger arbitrary salary freezing or departmental action.</span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Hospitality &amp; Tourism Tailored Relief:</strong> Hotel, resort, yoga retreat, and rafting operators leverage seasonal cashflow proofs to secure 45%–60% principal waivers on accumulated commercial and personal debts.</span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Uttarakhand Court &amp; Lok Adalat Defense:</strong> Expert legal defense against Section 138 NI Act, Section 25 PSSA, and DRT Dehradun actions, culminating in binding, non-appealable Lok Adalat compromise decrees.</span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Guaranteed ₹0 NDC Delivery:</strong> Every compromise is executed under RBI Circular RBI/2023-24/60, mandating formal closure letters and credit bureau status correction within 30 days.</span>
-                </li>
+                <li className="flex items-start gap-2.5"><CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <span><strong>Senior Lawyer help:</strong> Debtors in Dehradun settle with bank zonal desks. This bypasses harsh recovery agents.</span></li>
+                <li className="flex items-start gap-2.5"><CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <span><strong>Government Employee Salary Protections:</strong> Public sector staff have protection under Section 60 CPC. Defaults cannot cause salary attachment.</span></li>
+                <li className="flex items-start gap-2.5"><CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <span><strong>Hospitality & Tourism Tailored Relief:</strong> Hotel and resort owners use cash flow records. They secure 45% to 60% principal waivers.</span></li>
+                <li className="flex items-start gap-2.5"><CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <span><strong>Uttarakhand Court & Lok Adalat Defense:</strong> Get legal defense for Section 138 NI Act and Section 25 PSSA. Settle through Lok Adalat orders.</span></li>
+                <li className="flex items-start gap-2.5"><CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <span><strong>Sure ₹0 NDC Giving:</strong> Every OTS follows RBI rules. Lenders must issue closure letters in 30 days.</span></li>
               </ul>
             </div>
             
@@ -570,23 +553,17 @@ export default function PersonalLoanSettlementDehradunPage() {
             <section id="dehradun-debt-landscape" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Mountain className="w-4 h-4" />
-                <span>1. Capital, Tourism Corridor &amp; Higher Education Hub</span>
+                <span>1. Capital, Tourism Corridor &amp; Higher Education Hub.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Managing Debt Default Dynamics in Dehradun</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                As Uttarakhand&apos;s administrative capital and economic anchor, Dehradun forms the primary commercial hub of the Doon Valley. Bordered by Haridwar and Rishikesh, this region features state and central government employees, major scientific research institutes, vibrant hospitality and pilgrimage tourism enterprises, and an extensive higher education cluster. Over recent years, aggressive retail credit disbursement by commercial banks and digital NBFCs has created substantial unsecured loan exposure across these key borrower segments.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When sudden financial shocks emerge—such as off-season tourism downturns, severe monsoon landslide disruptions along the Char Dham circuit, business restructuring, or medical emergencies—borrowers frequently face compounded personal loans and revolving card balances. Defaulting on an unsecured loan is strictly a civil breach of contract under the Indian Contract Act, 1872, rather than a criminal wrongdoing.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                In close-knit communities across Dehradun, Haridwar, and Rishikesh, debt default causes acute personal anxiety. Third-party collection agencies often attempt to exploit this by making unauthorized visits to government offices or academic departments. Resolving this distress requires an advocate-led strategy that halts harassment, protects workplace dignity, and secures lawful debt waivers under RBI compromise frameworks.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Dehradun is Uttarakhand&apos. s capital. It connects with Haridwar and Rishikesh. The region hosts government staff, research institutes. And students. Banks have issued many unsecured loans here.</p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Money distress can occur after tourism drops or monsoon landslides. Debtors struggle with high card dues. Loan default is a civil case under the Indian Contract Act, 1872. It is not a crime.</p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Debt default causes heavy personal stress. Recovery agents often harass debtors. You need legal guidance. Lawyers stop abuse. They secure debt waivers under RBI rules.</p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
                 <div className="flex items-start gap-3">
                   <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                    <strong>Statutory Protection:</strong> Under the RBI Master Direction on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), all regulated lenders must maintain transparent One-Time Settlement (OTS) frameworks. Institutional lenders cannot treat genuine commercial hardship as wilful default.
+                    <strong>Statutory Protection:</strong> RBI Master Directions mandate OTS frameworks. Banks cannot treat genuine financial distress as wilful default.
                   </div>
                 </div>
               </div>
@@ -596,63 +573,59 @@ export default function PersonalLoanSettlementDehradunPage() {
             <section id="uttarakhand-judicial-architecture" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Gavel className="w-4 h-4" />
-                <span>2. Uttarakhand Judicial Architecture &amp; Local Jurisdictions</span>
+                <span>2. Uttarakhand Judicial Architecture &amp; Local Jurisdictions.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Uttarakhand Court System &amp; DRT Dehradun</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Resolving distressed banking disputes in Uttarakhand requires precise knowledge of the local court hierarchy. In Dehradun, summary debt recovery suits under Order 37 CPC, Section 138 NI Act cheque bounce complaints, and Section 25 PSSA NACH auto-debit cases are heard before Judicial Magistrates at the District Court Complex at Dehradun Sadar.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                In Haridwar district, financial default litigation is conducted at the Roshnabad District Courts, while Rishikesh matters fall under the Rishikesh Civil Courts. High-value bank claims exceeding ₹20 Lakhs fall under the Debts Recovery Tribunal (DRT) Dehradun along Haridwar Road, and supervisory writ petitions fall under the High Court of Uttarakhand at Nainital.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Debtors must understand local court hierarchy. In Dehradun, Order 37 CPC suits go to the Dehradun Sadar court. Cheque bounce cases under Section 138 NI Act are heard here too.</p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Haridwar matters go to Roshnabad District Courts. Rishikesh cases go to local civil courts. Claims above ₹20 Lakhs fall under DRT Dehradun. High Court petitions go to Nainital.</p>
 
               {/* Comprehensive Uttarakhand Court Matrix Table */}
               <div className="overflow-x-auto my-6">
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Jurisdiction</th>
-                      <th>Court Complex</th>
-                      <th>Litigation Type</th>
-                      <th>Governing Statute</th>
-                      <th>Advocate Defense Strategy</th>
+                      <th>authority.</th>
+                      <th>Court Court.</th>
+                      <th>Court Case Type.</th>
+                      <th>Governing Statute.</th>
+                      <th>Lawyer Defense Strategy.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Dehradun District</td>
-                      <td>Dehradun Sadar Court Complex</td>
-                      <td>Sec 138 NI Act, Sec 25 PSSA, Order 37 CPC</td>
-                      <td>NI Act 1881, PSSA 2007, CPC 1908</td>
-                      <td>Mandatory 15-day notice reply, bail securing, referral to National Lok Adalat.</td>
+                      <td className="font-bold text-slate-900">Dehradun District.</td>
+                      <td>Dehradun Sadar Court.</td>
+                      <td>Sec 138 NI Act. Sec 25 PSSA. Order 37 CPC.</td>
+                      <td>NI Act 1881. PSSA 2007. CPC 1908.</td>
+                      <td>Reply in 15 days. Secure bail. Settle at Lok Adalat.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Haridwar District</td>
-                      <td>Roshnabad District Courts</td>
-                      <td>Cheque bounce, loan recall, summary recovery</td>
-                      <td>Indian Contract Act, NI Act 1881</td>
-                      <td>Hardship petition submission, commercial reconciliation, OTS decree.</td>
+                      <td className="font-bold text-slate-900">Haridwar District.</td>
+                      <td>Roshnabad District Courts.</td>
+                      <td>Cheque bounce. Summary recovery.</td>
+                      <td>Indian Contract Act. NI Act 1881.</td>
+                      <td>File hardship proof. Settle with bank zonal desk.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Rishikesh Tehsil</td>
-                      <td>Rishikesh Civil &amp; Criminal Courts</td>
-                      <td>NACH auto-debit bounce, civil debt claims</td>
-                      <td>PSSA 2007, Specific Relief Act</td>
-                      <td>Quashing coercive warrants, institutional compromise conciliation.</td>
+                      <td className="font-bold text-slate-900">Rishikesh Tehsil.</td>
+                      <td>Rishikesh Civil and Criminal Courts.</td>
+                      <td>NACH bounce. Civil debt claims.</td>
+                      <td>PSSA 2007. Specific Relief Act.</td>
+                      <td>Stop forceful steps. Obtain a fair OTS settlement.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">DRT Dehradun</td>
-                      <td>Haridwar Road / Madan Mohan Malviya Marg</td>
-                      <td>High-value recovery applications (&gt;₹20 Lakhs)</td>
-                      <td>RDB Act 1993, SARFAESI Act 2002</td>
-                      <td>Challenging debt calculation, interim stay on recovery, Zonal OTS compromise.</td>
+                      <td className="font-bold text-slate-900">DRT Dehradun.</td>
+                      <td>Haridwar Road Court.</td>
+                      <td>Debt claims above ₹20 Lakhs.</td>
+                      <td>RDB Act 1993. SARFAESI Act 2002.</td>
+                      <td>Challenge bank claims. Seek stay. Negotiate OTS.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">High Court of Uttarakhand</td>
-                      <td>Nainital Bench</td>
-                      <td>Writ petitions, Sec 482 CrPC quashing</td>
-                      <td>Constitution of India, CrPC 1973</td>
-                      <td>Writ protection against illegal recovery harassment, arbitrary police interference.</td>
+                      <td className="font-bold text-slate-900">High Court of Uttarakhand.</td>
+                      <td>Nainital Bench.</td>
+                      <td>Writ petitions. Section 482 CrPC.</td>
+                      <td>Constitution of India. CrPC 1973.</td>
+                      <td>Protect against illegal abuse and police action.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -663,51 +636,37 @@ export default function PersonalLoanSettlementDehradunPage() {
             <section id="bank-npa-accounting-npv-formula" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Calculator className="w-4 h-4" />
-                <span>3. Bank Balance-Sheet Accounting &amp; Recovery Economics</span>
+                <span>3. Bank Balance-Sheet Accounting &amp; Recovery Economics.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Bank NPA Accounting &amp; Debt Waivers in Dehradun</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Commercial banks and NBFCs operate under RBI Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Ind AS 109 Expected Credit Loss rules. When a borrower misses three consecutive EMIs (crossing 90 days past due), the loan account is classified as a Non-Performing Asset (NPA), halting future interest recognition and mandating capital reserves from operating profits.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                As the default matures into Doubtful and Loss asset stages, mandatory provisioning escalates to 100%, locking institutional capital. Bank Zonal Stressed Assets Committees evaluate compromise settlement proposals using a quantitative Net Present Value (NPV) recovery benchmark:
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Banks follow RBI rules on bad loans. Missing three EMIs moves an account past 90 days. The bank marks it as an NPA. This stops future interest income.</p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">As bad loans age, banks must make 100% loss reserves. This locks up bank funds. Bank committees evaluate settlement offers using a Net Present Value formula:</p>
 
               {/* Clean Turbopack-Safe Formula Container */}
               <div className="bg-slate-900 text-white rounded-2xl p-5 my-6 shadow-md border border-slate-800">
                 <div className="flex items-center gap-2 text-blue-400 font-bold text-xs uppercase tracking-wider mb-2">
                   <Calculator className="w-4 h-4" />
-                  <span>Institutional Recovery Valuation Benchmark</span>
+                  <span>Institutional Recovery Valuation Benchmark.</span>
                 </div>
                 <div className="text-center py-3 my-2 bg-slate-800/80 rounded-xl font-mono text-sm sm:text-base text-blue-200 border border-slate-700">
-                  NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
+                  NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden.
                 </div>
-                <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoveries over year t, r is the discount rate, and deductions account for 3–5 years of court friction in Dehradun courts alongside capital locked in 100% NPA reserves.
-                </p>
+                <p className="text-xs text-slate-300 leading-relaxed mt-2">Where C_t is estimated cash recovery. r is the discount rate. Deductions cover court delays and locked reserves.</p>
               </div>
 
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Because civil recovery suits in district courts take four to seven years with uncertain execution, an immediate upfront settlement payment represents an economically superior outcome for the bank. An authorized OTS writes back locked provisioning directly into operating profits, enabling Zonal Credit Committees to sanction 40% to 65% principal haircuts on aged debts.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Court cases take four to seven years. They cost money. A quick cash settlement benefits the bank. It frees locked capital. Bank committees can grant 40% to 65% debt waivers.</p>
             </section>
 
             {/* Section 4: Anti-Harassment Protections Under RBI Directives */}
             <section id="anti-harassment-legal-protections" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <ShieldAlert className="w-4 h-4" />
-                <span>4. Anti-Harassment Legal Protections</span>
+                <span>4. Anti-Harassment Legal Protections.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Halting Harassment Under RBI Guidelines in Dehradun</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers in Uttarakhand frequently endure aggressive recovery tactics from third-party Debt Recovery Agencies (DRAs). Recovery callers often violate statutory banking regulations by calling persistently outside permitted hours, contacting non-guarantor family members, or threatening workplace visits in Dehradun and Rishikesh.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The RBI Master Direction on Recovery Agents and Fair Practices Code establishes enforceable boundaries: agents cannot call before 08:00 AM or after 07:00 PM, must carry valid IIBF DRA certification, and cannot visit workplaces without prior consent. In <em>ICICI Bank Ltd. v. Prakash Kaur</em>, the Supreme Court held that banks cannot employ extrajudicial coercion for loan recovery.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                SettleLoans serves statutory cease-and-desist notices to the bank Principal Nodal Officer. Once legal counsel represents the borrower, all communications must route through the advocate. Continued harassment is escalated to the District Legal Services Authority (DLSA) Dehradun, Uttarakhand Police Cyber Cell, and the RBI Integrated Ombudsman portal.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Debtors in Uttarakhand face harsh recovery calls. Some agents break banking rules. They call late at night. They contact friends and family.</p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">RBI rules set strict limits. Agents cannot call before 8:00 AM or after 7:00 PM. In <em>ICICI Bank Ltd. v. Prakash Kaur</em>, the Supreme Court banned forceful recovery methods.</p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">SettleLoans sends cease-and-desist notices to bank nodal officers. Lenders must route all calls through your lawyer. If abuse persists, we file complaints with DLSA, Cyber Police. And the RBI Ombudsman.</p>
             </section>
 
             {/* Section 5: Uttarakhand Debt Resolution Blueprint (Infographic Banner) */}
@@ -720,7 +679,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                     </div>
                     <div>
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
-                        Uttarakhand Legal Conciliation Blueprint
+                        Uttarakhand Legal Conciliation Blueprint.
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         Personal Loan Settlement &amp; Legal Resolution Process in Dehradun
@@ -733,7 +692,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                     rel="noopener noreferrer"
                     className="text-xs text-[#1F5EFF] hover:text-blue-300 font-bold flex items-center gap-1 transition-colors"
                   >
-                    <span className="hidden sm:inline">Open Full Size</span>
+                    <span className="hidden sm:inline">Open Full Size.</span>
                     <ExternalLink className="w-3.5 h-3.5" />
                   </a>
                 </div>
@@ -754,7 +713,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <div className="bg-slate-100 border-t border-slate-200 py-3 px-5 flex flex-wrap items-center justify-between gap-3 text-xs text-slate-600">
                   <div className="flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    <span><strong>Key Strategy:</strong> Halt third-party harassment, audit delinquency ledgers, and secure 40%–65% debt waivers with official ₹0 No Dues Certificates via Dehradun Zonal Desks.</span>
+                    <span><strong>Key Strategy:</strong> Stop recovery harassment. Audit loan statements. Secure 40% to 65% debt waivers with zero-balance No Dues Certificates.</span>
                   </div>
                   <Link href="/contact" className="text-[#1F5EFF] font-bold hover:underline">
                     Get Free Case Evaluation &rarr;
@@ -767,42 +726,34 @@ export default function PersonalLoanSettlementDehradunPage() {
             <section id="tailored-resolution-strategies" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Briefcase className="w-4 h-4" />
-                <span>6. Sector-Specific Resolution Protocols</span>
+                <span>6. Sector-Specific Resolution Protocols.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Tailored Settlement Strategies in Dehradun</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Because the socio-economic landscape of Dehradun, Haridwar, and Rishikesh comprises distinct employment and business groups, SettleLoans applies targeted legal defense and negotiation frameworks tailored to specific borrower profiles:
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Debtors in Dehradun have distinct money needs. SettleLoans applies targeted legal strategies for each group:</p>
               
               <div className="space-y-6 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Building2 className="w-5 h-5 text-[#1F5EFF]" />
-                    <span>1. Government Servants, PSU Personnel &amp; Institute Staff</span>
+                    <span>1. Government Servants, PSU Personnel &amp; Institute Staff.</span>
                   </h3>
-                  <p className="text-slate-700 leading-relaxed text-sm md:text-base">
-                    Dehradun hosts personnel across the Uttarakhand Secretariat, Survey of India, FRI, IIP, and ONGC. Recovery agents often exploit fear of disciplinary action. Legally, personal loan default is a private civil matter under the Indian Contract Act and does not constitute misconduct under Government Servants Conduct Rules. Under Section 60(1)(i) CPC, the first ₹1,000 plus two-thirds of remaining salary is strictly exempt from civil attachment. SettleLoans shields government staff with advocate representation, protecting workplace privacy while negotiating confidential Zonal OTS terms.
-                  </p>
+                  <p className="text-slate-700 leading-relaxed text-sm md:text-base">Dehradun hosts staff across the Secretariat, FRI. and ONGC. Recovery agents often threaten office inquiries. Legally, a loan default is a civil contract case. It is not departmental misconduct. Section 60(1) (i) CPC protects most salary from attachment. Our lawyers shield your privacy. We settle a confidential settlement.</p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <Hotel className="w-5 h-5 text-[#1F5EFF]" />
-                    <span>2. Hotel, Resort, Yoga Retreat &amp; Adventure Tourism Operators</span>
+                    <span>2. Hotel, Resort, Yoga Retreat &amp; Adventure Tourism Operators.</span>
                   </h3>
-                  <p className="text-slate-700 leading-relaxed text-sm md:text-base">
-                    In the Rishikesh-Haridwar-Dehradun tourism belt, hospitality enterprises face revenue volatility from monsoon disruptions and seasonal dips. Many operators resort to personal loans or credit cards to fund working capital. Our advocates compile audited balance sheets, GST records, and occupancy data into a verifiable hardship dossier, proving non-wilful distress to bank Committees and securing 45% to 60% principal waivers structured across manageable tranches.
-                  </p>
+                  <p className="text-slate-700 leading-relaxed text-sm md:text-base">Resorts and travel operators in Rishikesh face seasonal income swings. Monsoons can disrupt tourism for months. Many business owners use personal cards to manage cash flow. Our lawyers submit GST records and booking logs. This helps secure 45% to 60% principal waivers with easy payment terms.</p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
                   <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <GraduationCap className="w-5 h-5 text-[#1F5EFF]" />
-                    <span>3. Higher Education Students &amp; Co-Borrower Parents</span>
+                    <span>3. Higher Education Students &amp; Co-Borrower Parents.</span>
                   </h3>
-                  <p className="text-slate-700 leading-relaxed text-sm md:text-base">
-                    With premier universities like UPES, Graphic Era, and DIT, many students finance degrees through loans co-signed by parents. Delayed campus onboarding often triggers repayment stress. SettleLoans represents graduates and co-borrower parents before bank Stressed Assets Desks, submitting placement and hardship records to secure structured OTS waivers that release parents from recovery pressure and clear default flags.
-                  </p>
+                  <p className="text-slate-700 leading-relaxed text-sm md:text-base">Graduates from local colleges sometimes face hiring delays. When student loans default, banks pressurize parent co-signers. SettleLoans represents families directly before bank committees. We submit job search records and income proofs. This secures an affordable settlement. It stops all recovery pressure on parents.</p>
                 </div>
               </div>
             </section>
@@ -811,90 +762,76 @@ export default function PersonalLoanSettlementDehradunPage() {
             <section id="legal-defense-lok-adalat" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Scale className="w-4 h-4" />
-                <span>7. Legal Defense &amp; Lok Adalat Conciliation</span>
+                <span>7. Legal Defense &amp; Lok Adalat Conciliation.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 138 &amp; Sec 25 PSSA in Dehradun</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When defaults cross 90 to 180 days, lenders frequently initiate statutory proceedings across Dehradun and Haridwar courts via Section 138 NI Act (cheque bounce) or Section 25 PSSA (electronic NACH bounce). Although heard in Magistrate Courts, these are compoundable civil-origin disputes.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Serving a structured legal reply within the 15-day notice window establishes bona fide financial hardship and sets up compromise settlement pathways. Where lenders initiate unilateral arbitration in distant cities, our advocates challenge jurisdiction under Sections 12 and 14 of the Arbitration Act, citing Supreme Court rulings in <em>TRF Ltd</em> and <em>Perkins Eastman</em> to halt ex-parte awards.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The optimal judicial forum for concluding settlements is the National Lok Adalat, organized by the Uttarakhand State Legal Services Authority (UKSLSA). An award passed by Lok Adalat carries the status of a final Civil Court Decree under the Legal Services Authorities Act, 1987, requiring the lender to withdraw all pending complaints and close the debt permanently.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">When defaults pass 90 days, banks may file court cases. These include Section 138 NI Act cheque cases. They also include Section 25 PSSA cases. While heard in magistrate courts, these remain civil debt cases.</p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Sending a timely legal reply within 15 days is critical. It shows genuine money distress. Banks sometimes start private arbitration in distant cities. Our lawyers challenge authority under Sections 12 and 14 of the Arbitration Act.</p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">National Lok Adalat by UKSLSA is the best forum. A Lok Adalat order acts as a final civil court decree. The bank must withdraw all cases and close your loan account permanently.</p>
             </section>
 
             {/* Section 8: Sanction Letter Forensics & NDC */}
             <section id="sanction-letter-forensics-ndc" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <FileCheck className="w-4 h-4" />
-                <span>8. Sanction Letter Forensics &amp; NDC Verification</span>
+                <span>8. Sanction Letter Forensics &amp; NDC Verification.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Forensics &amp; NDC in Dehradun</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Before making settlement payments, verifying the authenticity of the OTS sanction letter is essential to avoid fraudulent agency receipts. SettleLoans subjects every settlement letter to strict forensic review: validating official bank letterheads, authorized signatory credentials, clear debt discharge clauses, and terms mandating withdrawal of court litigation.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Settlement funds are remitted directly into the borrower&apos;s loan account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, banks and NBFCs must issue a formal ₹0 No Dues Certificate (NDC) and update credit bureaus within 30 days of payment, subject to statutory compensation of ₹5,000 per day of delay payable to the borrower.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Never pay money without a checked bank letter. Recovery agents sometimes issue fake receipts. SettleLoans checks every OTS sanction letter. We verify bank seals, signatory names. And clear debt waiver terms.</p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">You pay funds directly into your loan account via RTGS or NEFT. Under RBI rules, banks must issue an NDC in 30 days. They must also update credit bureaus. Delayed certificates carry a penalty of ₹5,000 per day.</p>
             </section>
 
             {/* Section 9: CIBIL Score Trajectory & Rehabilitation */}
             <section id="cibil-score-rehabilitation-matrix" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <TrendingUp className="w-4 h-4" />
-                <span>9. Credit Score Trajectory &amp; Rehabilitation</span>
+                <span>9. Credit Score Trajectory &amp; Rehabilitation.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Trajectory in Dehradun</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Following an OTS, the lender reports the account to credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) as &apos;Settled&apos; with a ₹0 balance. While an initial 75–150 point score reduction occurs with a temporary 12-month cooling window, settling permanently halts active default compounding.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers can rebuild credit back to 750+ within 18 to 24 months by utilizing a fixed-deposit backed credit card, maintaining credit utilization below 25%, and maintaining on-time utility payments.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">The bank marks your settled loan with zero balance. Your credit score may drop by 75 to 150 points initially. However, ongoing default remarks stop right away.</p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">You can rebuild your credit score past 750 within 18 to 24 months. Use a fixed-deposit credit card. Keep card use below 25% and pay all bills on time.</p>
 
               {/* Comparative Matrix Table */}
               <div className="overflow-x-auto my-6">
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Parameter</th>
-                      <th>Active Unresolved Default</th>
-                      <th>Advocate-Led OTS Compromise</th>
-                      <th>Post-Settlement Credit Rehabilitation</th>
+                      <th>Point.</th>
+                      <th>Active Unresolved Default.</th>
+                      <th>Lawyer-Led OTS Settlement.</th>
+                      <th>Post-Settlement Credit recovery.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Credit Bureau Status</td>
-                      <td className="text-red-700 font-bold">Default / Written Off / Suit Filed</td>
-                      <td className="text-amber-700 font-bold">Settled (₹0 Outstanding Balance)</td>
-                      <td className="text-emerald-700 font-bold">Rebuilt Prime Credit History</td>
+                      <td className="font-bold text-slate-900">Credit Bureau Status.</td>
+                      <td className="text-red-700 font-bold">Default. Written off. Suit filed.</td>
+                      <td className="text-amber-700 font-bold">Settled. Zero balance.</td>
+                      <td className="text-emerald-700 font-bold">Rebuilt prime credit score.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Total Financial Liability</td>
-                      <td>Compounds monthly at 24%–36% penal rates</td>
-                      <td>Extinguished with 40%–65% debt haircut</td>
-                      <td>Zero remaining liability or claim</td>
+                      <td className="font-bold text-slate-900">Total Money Liability.</td>
+                      <td>Compounds monthly at high rates.</td>
+                      <td>Resolved with 40%–65% debt waiver.</td>
+                      <td>Zero remaining debt liability.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Legal &amp; Court Exposure</td>
-                      <td>Active Sec 138, Sec 25 PSSA summons</td>
-                      <td>Withdrawn via Lok Adalat decree</td>
-                      <td>Complete, irrevocable legal immunity</td>
+                      <td className="font-bold text-slate-900">Legal & Court Exposure.</td>
+                      <td>Active Sec 138 and Sec 25 summons.</td>
+                      <td>Cases withdrawn via Lok Adalat.</td>
+                      <td>Complete and final legal relief.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Workplace &amp; Social Distress</td>
-                      <td>Severe recovery calls and office visits</td>
-                      <td>Permanently halted via Cease &amp; Desist</td>
-                      <td>Zero agency interference or contact</td>
+                      <td className="font-bold text-slate-900">Workplace & Social Distress.</td>
+                      <td>Frequent calls and office visits.</td>
+                      <td>Halted via legal notices.</td>
+                      <td>Zero recovery agent contact.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">CIBIL Score Trajectory</td>
-                      <td>Persistently suppressed (&lt;550)</td>
-                      <td>Stabilizes within 6–12 months</td>
-                      <td>Rebuilt to 750+ within 18–24 months</td>
+                      <td className="font-bold text-slate-900">CIBIL Score Path.</td>
+                      <td>Low and falling below 550.</td>
+                      <td>Stabilizes in 6 to 12 months.</td>
+                      <td>Reaches 750+ in 18 to 24 months.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -905,12 +842,10 @@ export default function PersonalLoanSettlementDehradunPage() {
             <section id="company-resolution-section" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <ShieldCheck className="w-4 h-4" />
-                <span>10. Legal Representation &amp; Advisory</span>
+                <span>10. Legal Representation &amp; Advisory.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Uttarakhand Borrowers Choose SettleLoans</h2>
-              <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Resolving unsecured personal loan and business credit defaults across Dehradun, Haridwar, and Rishikesh demands experienced legal advocacy, rigorous forensic accounting, and direct institutional engagement with bank Zonal Credit Committees. SettleLoans delivers total anti-harassment protection, robust defense in local district courts, maximized debt haircuts, and authentic ₹0 No Dues Certificates delivered with complete transparency and confidentiality.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">Settling personal loans in Dehradun requires strong legal counsel. SettleLoans halts recovery abuse. We defend you in local courts. Our lawyers settle with bank zonal desks. We maximize debt waivers and deliver official No Dues Certificates.</p>
 
               {/* Placement of Reusable CompanySection */}
               <div className="my-8">
@@ -922,7 +857,7 @@ export default function PersonalLoanSettlementDehradunPage() {
             <section id="faqs" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <HelpCircle className="w-4 h-4" />
-                <span>11. Frequently Asked Questions</span>
+                <span>11. Frequently Asked Questions.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Dehradun</h2>
 
@@ -956,61 +891,11 @@ export default function PersonalLoanSettlementDehradunPage() {
                 Official Regulatory References &amp; Statutory Portals
               </h3>
               <ul className="space-y-3 text-xs text-slate-600">
-                <li className="flex items-start gap-2">
-                  <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://www.rbi.org.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>Reserve Bank of India (RBI):</strong> Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24)
-                  </a>
-                </li>
-                <li className="flex items-start gap-2">
-                  <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://highcourtofuttarakhand.gov.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>High Court of Uttarakhand at Nainital:</strong> Official Case Status, Cause Lists &amp; Judicial Directives on Banking Litigation
-                  </a>
-                </li>
-                <li className="flex items-start gap-2">
-                  <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://slsa.uk.gov.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>Uttarakhand State Legal Services Authority (UKSLSA):</strong> National &amp; State Lok Adalat Conciliation Framework and Schedules
-                  </a>
-                </li>
-                <li className="flex items-start gap-2">
-                  <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://drt.gov.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>Debts Recovery Tribunal (DRT Dehradun):</strong> Territorial Jurisdiction, Case Filings &amp; Securitization Procedures
-                  </a>
-                </li>
-                <li className="flex items-start gap-2">
-                  <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://cms.rbi.org.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>Reserve Bank - Integrated Ombudsman Scheme (CMS):</strong> Online Portal for Banking Harassment &amp; Penalty Waiver Escalation
-                  </a>
-                </li>
+                <li className="flex items-start gap-2"><ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://www.rbi.org.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>Reserve Bank of India (RBI):</strong> Master Direction on Settlement Settlements (DOR.STR.REC.20/21.04.048/2023-24). </a></li>
+                <li className="flex items-start gap-2"><ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://highcourtofuttarakhand.gov.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>High Court of Uttarakhand at Nainital:</strong> Official Case Status and Judicial Directives. </a></li>
+                <li className="flex items-start gap-2"><ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://slsa.uk.gov.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>Uttarakhand State Legal Services Authority (UKSLSA):</strong> National Lok Adalat settlement Framework. </a></li>
+                <li className="flex items-start gap-2"><ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://drt.gov.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>Debts Recovery Tribunal (DRT Dehradun):</strong> Territorial authority and Case Filings. </a></li>
+                <li className="flex items-start gap-2"><ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://cms.rbi.org.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>Reserve Bank - Integrated Ombudsman Scheme (CMS):</strong> Online Portal for Banking Complaints. </a></li>
               </ul>
             </div>
 
@@ -1025,61 +910,61 @@ export default function PersonalLoanSettlementDehradunPage() {
                   href="/bank-one-time-settlement-ots-policy"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Bank One-Time Settlement (OTS) Policy
+                  Bank OTS Policy.
                 </Link>
                 <Link
                   href="/government-employee-loan-default-salary-attachment"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Government Employee Loan Default Rules
+                  Govt Staff Default Rules.
                 </Link>
                 <Link
                   href="/personal-loan-settlement-letter-format"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Personal Loan Settlement Letter Format
+                  Settlement Letter Format.
                 </Link>
                 <Link
                   href="/unsecured-business-loan-settlement"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Unsecured Business Loan Settlement
+                  Business Loan Settlement.
                 </Link>
                 <Link
                   href="/education-loan-settlement-india"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Education Loan Settlement Process
+                  Education Loan Process.
                 </Link>
                 <Link
                   href="/lok-adalat-notice-for-personal-loan"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Lok Adalat Notice for Personal Loan
+                  Lok Adalat Notice.
                 </Link>
                 <Link
                   href="/personal-loan-legal-notice"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Personal Loan Legal Notice Defense
+                  Legal Notice Defense.
                 </Link>
                 <Link
                   href="/personal-loan-settlement-cibil-impact"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Personal Loan Settlement CIBIL Impact
+                  CIBIL Score Impact.
                 </Link>
                 <Link
                   href="/section-138-cheque-bounce-loan-default"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Section 138 Cheque Bounce Defense
+                  Section 138 Defense.
                 </Link>
                 <Link
                   href="/no-dues-certificate-after-loan-settlement"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  No Dues Certificate (NDC) Guide
+                  No Dues Certificate.
                 </Link>
               </div>
             </div>
@@ -1102,17 +987,13 @@ export default function PersonalLoanSettlementDehradunPage() {
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
-                      Ashish Jhangra
+                      Ashish Jhangra.
                     </Link>
                   </div>
-                  <p className="text-xs text-slate-500 font-medium">
-                    Lead Banking Legal &amp; Debt Settlement Strategist
-                  </p>
+                  <p className="text-xs text-slate-500 font-medium">Lead Banking Legal & Debt Settlement Strategist.</p>
                 </div>
               </div>
-              <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has led over 1,200+ successful debt compromise negotiations across scheduled commercial banks and NBFCs in North India. He specializes in institutional dispute resolution, Section 60 CPC protections, and borrower advocacy under RBI Master Directions.
-              </p>
+              <p className="text-xs text-slate-600 leading-relaxed mb-4">Ashish has resolved over 1,200 debt cases across North India. He specializes in bank talks. He enforces Section 60 CPC protections and debtor rights.</p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
                   href="/authors/ashish-jhangra"
@@ -1135,19 +1016,17 @@ export default function PersonalLoanSettlementDehradunPage() {
             <div className="bg-gradient-to-br from-[#1F5EFF] to-blue-700 text-white rounded-2xl p-6 shadow-lg">
               <div className="flex items-center gap-2 text-blue-100 text-xs font-bold uppercase tracking-wider mb-2">
                 <PhoneCall className="w-4 h-4" />
-                <span>Uttarakhand Debt Dispute Resolution</span>
+                <span>Uttarakhand Debt Dispute Resolution.</span>
               </div>
               <div className="text-xl font-black mb-3 leading-tight">
                 Facing Loan Recovery in Dehradun or Haridwar?
               </div>
-              <p className="text-xs text-white/90 leading-relaxed mb-5">
-                Stop aggressive recovery calls, workplace inquiries, and recurring NACH return fees immediately. Let our experienced banking advocates audit your delinquency stage, defend statutory court notices, draft your formal OTS petition, and secure an authentic stamped settlement letter.
-              </p>
+              <p className="text-xs text-white/90 leading-relaxed mb-5">Stop recovery calls and bounce fees today. Our banking lawyers review your loan status. We reply to court notices. We secure an authentic stamped settlement letter.</p>
               <Link
                 href="/contact"
                 className="block text-center bg-white hover:bg-slate-100 text-[#1F5EFF] font-bold py-3 px-4 rounded-xl text-sm transition-all duration-200 shadow"
               >
-                Talk to a Settlement Advocate
+                Talk to a Settlement Advocate.
               </Link>
             </div>
 
@@ -1155,33 +1034,13 @@ export default function PersonalLoanSettlementDehradunPage() {
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
-                <span>Why Borrowers Trust SettleLoans</span>
+                <span>Why Borrowers Trust SettleLoans.</span>
               </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
-                <li className="flex items-start gap-2.5">
-                  <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span>
-                    <strong>Direct Zonal Representation:</strong> We bypass third-party collection agents to negotiate directly with bank Stressed Assets Committees in Dehradun and regional hubs.
-                  </span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span>
-                    <strong>Workplace &amp; Salary Safeguards:</strong> Prompt issuance of legal cease-and-desist notices to protect government staff and business owners against illicit harassment.
-                  </span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span>
-                    <strong>100% Stamped Verification:</strong> Every settlement is strictly verified on official bank letterhead before any payment is authorized.
-                  </span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span>
-                    <strong>Guaranteed ₹0 NDC Delivery:</strong> Continuous legal tracking until your formal No Dues Certificate is issued and credit bureau records are updated.
-                  </span>
-                </li>
+                <li className="flex items-start gap-2.5"><Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" /> <span> <strong>Direct Zonal help:</strong> We settle directly with bank zonal desks. We secure maximum debt waivers. </span></li>
+                <li className="flex items-start gap-2.5"><Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" /> <span> <strong>Workplace & Salary Shields:</strong> We issue prompt legal notices. We protect government employees and business owners. </span></li>
+                <li className="flex items-start gap-2.5"><Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" /> <span> <strong>100% Stamped Check:</strong> Every settlement letter is checked on bank letterhead before payment. </span></li>
+                <li className="flex items-start gap-2.5"><Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" /> <span> <strong>Sure ₹0 NDC Giving:</strong> We track your case until the bank issues your No Dues Certificate. </span></li>
               </ul>
             </div>
           </aside>

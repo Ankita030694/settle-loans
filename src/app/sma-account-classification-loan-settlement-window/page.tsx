@@ -176,7 +176,7 @@ const jsonLdGraph = {
             "name": "Vivek Singhania"
           },
           "datePublished": "2026-06-18",
-          "reviewBody": "My business credit line of ₹42 Lakhs with HDFC Bank was at 72 days overdue in the SMA-2 category. The branch manager threatened immediate NPA tagging and SARFAESI notice issuance. SettleLoans legal advocates stepped in, submitted a formal restructuring proposal under RBI Prudential Directions, and negotiated a 65% penal interest waiver and a structured 3-month closure plan. We averted an NPA tag and safeguarded our commercial credit reputation.",
+          "reviewBody": "My business credit line of ₹42 Lakhs with HDFC Bank was 72 days overdue in SMA-2. The branch manager threatened an immediate NPA tag and SARFAESI action. SettleLoans stepped in. They sent a formal restructuring plan under RBI rules. They secured a 65% penal interest waiver and a 3-month closure plan. We stopped the NPA tag and saved our credit standing.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -191,7 +191,7 @@ const jsonLdGraph = {
             "name": "Meenakshi Sundaram"
           },
           "datePublished": "2026-07-04",
-          "reviewBody": "After unexpected hospital bills, my personal loan and credit card accounts totaling ₹18 Lakhs with ICICI Bank slipped into SMA-1 status (45 DPD). Recovery agents began making threatening phone calls. SettleLoans issued a formal Notice of Representation, cited RBI Fair Lending Directions to stop all harassment, and secured an executive pre-NPA compromise waiver reducing my outstanding liability significantly.",
+          "reviewBody": "After hospital bills, my loans of ₹18 Lakhs with ICICI Bank slipped into SMA-1 at 45 DPD. Recovery agents began calling with threats. SettleLoans sent a formal Notice of Representation. They cited RBI Fair Lending rules to stop the calls. They also secured a pre-NPA waiver that cut my total debt.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
             "name": "Anirudh Malhotra"
           },
           "datePublished": "2026-07-29",
-          "reviewBody": "Our MSME term loan of ₹30 Lakhs with Axis Bank was at Day 84 in SMA-2. We faced imminent NPA classification at Day 90. SettleLoans conducted an immediate financial forensic audit, demonstrated our operational liquidity squeeze, and secured a full and final Pre-NPA One-Time Settlement of ₹11 Lakhs directly from the zonal credit committee within 5 days.",
+          "reviewBody": "Our MSME term loan of ₹30 Lakhs with Axis Bank was at Day 84 in SMA-2. We faced an NPA tag at Day 90. SettleLoans ran a fast financial audit. They proved our cash flow crunch. They secured a pre-NPA One-Time Settlement of ₹11 Lakhs from the zonal committee in 5 days.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -221,7 +221,7 @@ const jsonLdGraph = {
             "name": "Pradeep Deshmukh"
           },
           "datePublished": "2026-08-15",
-          "reviewBody": "State Bank of India issued an informal pre-NPA warning for our ₹55 Lakh working capital facility at Day 65 (SMA-2). The team at SettleLoans engaged with SBI zonal resolution officers, submitted an unassailable financial dossier under the RBI Prudential Framework, and negotiated a structured compromise that saved our manufacturing unit from asset attachment.",
+          "reviewBody": "State Bank of India sent a pre-NPA warning for our ₹55 Lakh facility at Day 65 in SMA-2. The SettleLoans team met SBI zonal officers. They filed a strong dossier under RBI rules. They negotiated a structured deal that saved our factory from asset seizure.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -240,7 +240,7 @@ const jsonLdGraph = {
           "name": "What is the RBI Special Mention Account (SMA) classification framework?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Special Mention Account (SMA) framework is an early-warning supervisory mechanism mandated by the Reserve Bank of India (RBI) under its Prudential Framework for Resolution of Stressed Assets. It requires banks and NBFCs to classify loan accounts showing signs of incipient stress before they become Non-Performing Assets (NPAs). For term loans, accounts are classified based on Days Past Due (DPD): SMA-0 represents overdue of 1 to 30 days, SMA-1 spans 31 to 60 days overdue, and SMA-2 covers 61 to 90 days overdue. Once an account exceeds 90 days of continuous default, it is formally classified as a Non-Performing Asset."
+            "text": "The SMA framework is an early-warning system from the Reserve Bank of India (RBI). It helps banks track loan stress before an account becomes a Non-Performing Asset (NPA). Term loans are tracked by Days Past Due (DPD). SMA-0 covers 1 to 30 days overdue. SMA-1 spans 31 to 60 days. SMA-2 covers 61 to 90 days. After 90 days of default, the loan becomes an NPA."
           }
         },
         {
@@ -248,7 +248,7 @@ const jsonLdGraph = {
           "name": "Why is the SMA-2 (61–90 days) stage the most critical window for loan settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The SMA-2 stage represents the final 30-day window before a bank is legally mandated by the RBI to declare the loan an NPA. At Day 91, the bank must freeze revenue recognition on the account, lock 15% to 25% of the loan amount into mandatory loss provisions, and report the default to CRILC and credit bureaus as an NPA. Because bank branch and zonal managers face severe internal scrutiny for additions to their gross NPA books, they possess maximum institutional urgency during the SMA-2 window to approve deep penal waivers, restructuring, or pre-NPA compromise settlements."
+            "text": "SMA-2 is the final 30-day window before an account turns into an NPA at Day 91. At that point, banks must freeze income and set aside 15% to 25% in cash provisions. Branch managers face strict scrutiny for rising NPA numbers. This gives borrowers strong leverage to negotiate fee waivers, loan restructuring, or a pre-NPA settlement."
           }
         },
         {
@@ -256,7 +256,7 @@ const jsonLdGraph = {
           "name": "Can a borrower negotiate a One-Time Settlement (OTS) while an account is in SMA status before NPA?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Under RBI Master Directions on Resolution of Stressed Assets and Board-Approved Loan Settlement Policies, commercial banks and NBFCs have full statutory discretion to enter into compromise settlements or debt restructuring during the SMA stage. In fact, pre-NPA settlements are often executed faster and with fewer bureaucratic hurdles than post-NPA settlements because the lender can resolve the stress under standard stressed asset protocols without triggering formal provisioning and DRT litigation write-offs."
+            "text": "Yes. Under RBI Master Directions on Stressed Assets, banks and NBFCs can agree to compromise settlements or loan restructuring during SMA stages. Pre-NPA settlements are often faster than post-NPA deals because lenders resolve the debt before mandatory court action starts."
           }
         },
         {
@@ -264,7 +264,7 @@ const jsonLdGraph = {
           "name": "What is the Central Repository of Information on Large Credits (CRILC) and how does SMA reporting work?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "CRILC is a centralized database maintained by the RBI where scheduled commercial banks, all-India financial institutions, and NBFCs must report credit information on borrowers with aggregate fund-based and non-fund-based exposures of ₹5 Crores and above. Lenders are mandated to report SMA-0, SMA-1, and SMA-2 classifications on a weekly and monthly basis. This real-time reporting alerts all other consortium or multiple-banking lenders to incipient stress, triggering joint lender forum actions."
+            "text": "CRILC is an RBI database. Banks and NBFCs must report borrower loans of ₹5 Crores and above to CRILC. Lenders report SMA-0, SMA-1, and SMA-2 tags on weekly and monthly cycles. This real-time reporting alerts all consortium lenders about emerging loan stress."
           }
         },
         {
@@ -272,7 +272,7 @@ const jsonLdGraph = {
           "name": "How does negotiating a settlement in the SMA stage protect the borrower from SARFAESI and legal suits?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under Section 13(2) of the SARFAESI Act, 2002, a secured lender can only issue a statutory 60-day demand notice after an account has been formally classified as a Non-Performing Asset (past 90 days overdue). By negotiating and executing a pre-NPA settlement or restructuring during the SMA-0, SMA-1, or SMA-2 period, the borrower resolves the default before the 90-day mark, completely preventing the bank from acquiring the legal jurisdiction to issue SARFAESI notices, seize mortgaged properties, or initiate DRT/Section 138 legal proceedings."
+            "text": "Under Section 13(2) of the SARFAESI Act, 2002, a bank can only issue a 60-day demand notice after declaring an NPA. Settling during the SMA window clears the debt before Day 90. This prevents the bank from issuing SARFAESI notices, seizing property, or filing DRT cases."
           }
         },
         {
@@ -280,7 +280,7 @@ const jsonLdGraph = {
           "name": "What penal charges and compound interest waivers can be secured during the SMA stage?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under the RBI Master Direction on Fair Lending Practice – Penal Charges in Loan Accounts (applicable across banks and NBFCs), penal interest cannot be compounded or used as a revenue-generation tool. During SMA negotiations, specialized debt resolution advocates routinely secure 100% waivers of accrued penal interest, bounce charges, late payment fees, and unverified collection surcharges, allowing the borrower to settle the account on the core contractual principal and baseline interest."
+            "text": "Under RBI rules on Fair Lending Practices, banks cannot compound penal interest. During SMA talks, legal advocates often secure 100% waivers on penal interest, bounce fees. And late charges. This lets you settle based on core principal and regular interest."
           }
         },
         {
@@ -288,7 +288,7 @@ const jsonLdGraph = {
           "name": "How does an SMA-stage pre-NPA settlement impact CIBIL and other credit bureau scores?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Settling a debt during the SMA phase avoids the highly damaging 'NPA' classification tag on credit bureau records (CIBIL, Experian, Equifax, CRIF High Mark). While credit reports will reflect historical 30 to 60 DPD overdue entries, concluding the account through a structured pre-NPA closure or regularized restructuring updates the current balance to ₹0 and stops cumulative negative reporting. This allows credit rehabilitation back to a 750+ score within 12 to 18 months, far faster than the 24 to 36 months required after post-NPA legal settlements."
+            "text": "Settling during the SMA stage keeps the damaging 'NPA' tag off your credit report. While reports show past 30 to 60 DPD entries, closing the account sets the active balance to ₹0. This allows your credit score to recover to 750+ within 12 to 18 months."
           }
         },
         {
@@ -296,7 +296,7 @@ const jsonLdGraph = {
           "name": "What documentation must be verified in a Pre-NPA Settlement Sanction Letter before making payment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The pre-NPA settlement sanction letter must be issued on official bank letterhead with digital signatures and proposal tracking numbers from an authorized Credit Committee authority (Assistant General Manager or Zonal Head). It must explicitly state the exact compromise sum, clear payment milestones, full waiver of penal interest and administrative fees, unconditional cessation of recovery actions, and a binding covenant to issue a formal No Dues Certificate and update credit bureaus to ₹0 balance within 30 days of final remittance."
+            "text": "The sanction letter must be on official bank letterhead with digital signatures and approval reference numbers from a senior credit officer. It must state the exact settlement amount, payment dates, full waiver of penal fees. And an agreement to issue a ₹0 No Dues Certificate within 30 days."
           }
         },
         {
@@ -304,7 +304,7 @@ const jsonLdGraph = {
           "name": "What should a borrower do if bank recovery agents start harassing them during SMA-1 or SMA-2?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Borrowers should immediately engage specialized legal counsel to serve a formal Notice of Representation and Cease-and-Desist letter to the bank's Principal Officer and Nodal Grievance Officer. Under the RBI Fair Practices Code and Master Direction on Recovery Agents, lenders are strictly prohibited from making threatening phone calls, contacting relatives or employers, visiting outside authorized hours (8 AM to 7 PM), or using abusive language. Once formal legal representation is served, all communication must flow exclusively through appointed advocates."
+            "text": "Borrowers should hire legal counsel to send a formal Notice of Representation to the bank Nodal Officer. Under RBI Fair Practice Codes, agents cannot make threatening calls or visit outside 8 AM to 7 PM. Once legal notice is served, the bank must talk only through your lawyer."
           }
         }
       ]
@@ -460,7 +460,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                 <span>Pre-NPA Resolution Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                Under RBI prudential guidelines, commercial banks must classify stressed loans across SMA-0 (1–30 DPD), SMA-1 (31–60 DPD), and SMA-2 (61–90 DPD) before declaring a formal Non-Performing Asset (NPA). The SMA-2 stage is the ultimate institutional leverage window where borrowers can negotiate substantial penal interest waivers, restructured tenures, or pre-NPA compromise settlements before court suits and SARFAESI enforcement begin.
+                Under RBI rules, banks track overdue debt across SMA-0 (1–30 DPD), SMA-1 (31–60 DPD), and SMA-2 (61–90 DPD) before declaring an NPA. The SMA-2 stage offers the best settlement window. Borrowers can secure penal fee waivers, tenure extensions, or a pre-NPA compromise before court action starts.
               </p>
             </div>
           </aside>
@@ -477,23 +477,23 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
               <ul className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Early Stress Recognition under RBI Norms:</strong> The RBI Prudential Framework mandates continuous monitoring and categorization of overdue debt into SMA-0 (1–30 days), SMA-1 (31–60 days), and SMA-2 (61–90 days) before non-performing asset tagging.</span>
+                  <span><strong>Early Stress Recognition under RBI Norms:</strong> The RBI Prudential Framework tracks overdue loans across SMA-0 (1–30 days), SMA-1 (31–60 days), and SMA-2 (61–90 days) before NPA tagging.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>The Crucial 61–90 Day SMA-2 Leverage Window:</strong> Commercial banks face heavy balance sheet provisioning obligations and executive scrutiny at Day 90, making bank managers highly receptive to pre-NPA compromise settlements and restructuring during the SMA-2 phase.</span>
+                  <span><strong>The Crucial 61–90 Day SMA-2 Leverage Window:</strong> Banks face heavy cash provision rules and audits at Day 90. This makes managers eager to approve pre-NPA settlements in SMA-2.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Complete Immunity from SARFAESI &amp; Civil Litigation:</strong> Settle or restructure before the 90-day threshold to permanently block the bank from issuing SARFAESI Section 13(2) demand notices, filing Section 138 NI Act complaints, or instituting DRT recovery suits.</span>
+                  <span><strong>Complete Immunity from SARFAESI &amp. Civil Litigation:</strong> Settling before Day 90 stops the bank from issuing SARFAESI Section 13(2) notices, Section 138 NI Act pleas, or DRT claims.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>100% Penal Charges &amp; Compound Interest Waivers:</strong> In compliance with RBI Fair Lending Directions, borrowers can secure comprehensive waivers on penal charges, compound interests, and arbitrary collection fees during advocate-led pre-NPA negotiations.</span>
+                  <span><strong>100% Penal Charges &amp. Compound Interest Waivers:</strong> Under RBI Fair Lending rules, borrowers can secure full waivers on penal interest, compound fees. And bounce charges.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Protection of Credit Bureau Profile &amp; Accelerated Recovery:</strong> A pre-NPA structured resolution prevents a catastrophic &quot;NPA&quot; mark on CIBIL, Experian, and CRIF reports, enabling a rapid credit score restoration back to 750+ within 12 to 18 months.</span>
+                  <span><strong>Protection of Credit Bureau Profile &amp. Accelerated Recovery:</strong> A pre-NPA settlement prevents an NPA tag on CIBIL and helps rebuild your score to 750+ within 12 to 18 months.</span>
                 </li>
               </ul>
             </div>
@@ -502,16 +502,16 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
             <section id="demystifying-sma-account-classification" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Demystifying RBI Special Mention Account (SMA) Framework</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When an individual borrower, professional, or commercial enterprise encounters unexpected cash flow friction and defaults on a scheduled monthly loan installment or overdraft interest charge, the account does not immediately become a Non-Performing Asset (NPA). Under the regulatory architecture designed by the Reserve Bank of India (RBI), lending institutions across India—including major commercial banks such as State Bank of India, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, Bank of Baroda, and leading Non-Banking Financial Companies (NBFCs)—are legally required to track loan default through an incremental supervisory framework known as <strong>Special Mention Accounts (SMA)</strong>.
+                When you miss a loan payment, your account does not turn into an NPA overnight. Under Reserve Bank of India (RBI) rules, banks and NBFCs must track late payments through an early stage called <strong>Special Mention Accounts (SMA)</strong>. Major lenders like SBI, HDFC Bank, ICICI Bank, Axis Bank, Kotak, and Bank of Baroda follow this rule.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The SMA categorization system was instituted by the RBI as an early warning mechanism to detect incipient financial stress in borrower accounts long before they slip into unrecoverable default. Instead of treating every missed equated monthly installment (EMI) as an immediate trigger for coercive litigation, the central banking regulator established a 90-day pre-NPA observation runway divided into three distinct operational tiers: <strong>SMA-0, SMA-1, and SMA-2</strong>.
+                The RBI created the SMA system as an early-warning tool. It flags debt stress before default becomes permanent. Instead of suing right away, banks use a 90-day review period split into three levels: <strong>SMA-0, SMA-1, and SMA-2</strong>.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                For millions of borrowers across India, this 90-day runway is misunderstood. Many borrowers interpret the initial collection messages and automated bank reminders as mere harassment, choosing either to avoid the lender or to make panic borrowings from high-interest predatory apps to service current EMIs. In reality, the SMA period represents the single most powerful legal and financial window of opportunity for a distressed borrower. When approached strategically with experienced banking advocates, the pre-NPA window allows borrowers to negotiate deep penal waivers, tenure extensions, principal restructurings, or comprehensive One-Time Settlements (OTS) before the bank locks into adversarial litigation.
+                Many borrowers misunderstand this 90-day window. Some panic and borrow from costly apps. Others avoid bank calls. In truth, the SMA window is your best chance to settle. With the help of debt advocates, you can secure fee waivers, longer loan terms, or a One-Time Settlement (OTS) before court action starts.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                By understanding how commercial banks classify delinquent accounts and the immense internal balance sheet pressures bank executives face as an account approaches the 90-day threshold, borrowers can transform an impending default crisis into a proactive debt resolution settlement.
+                Knowing how banks classify debt gives you leverage. You can turn early default stress into an affordable settlement.
               </p>
             </section>
 
@@ -519,10 +519,10 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
             <section id="statutory-framework-rbi-prudential-directions" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Architecture</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The Special Mention Account framework is codified under the <strong>RBI Prudential Framework for Resolution of Stressed Assets (Circular RBI/2018-19/203 DBR.No.BP.BC.45/21.04.048/2018-19 dated June 7, 2019)</strong> and corresponding Master Directions governing NBFC Scale-Based Regulations. These statutory directives require all scheduled commercial banks, all-India financial institutions, and deposit-taking NBFCs to recognize financial stress immediately upon default.
+                The SMA system is set under the <strong>RBI Prudential Framework for Resolution of Stressed Assets (Circular RBI/2018-19/203 dated June 7, 2019)</strong>. It requires all banks and NBFCs to spot loan stress as soon as an EMI is missed.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The foundational pillar of this statutory framework is the precise calculation of <strong>Days Past Due (DPD)</strong>. Under RBI clarification circulars on asset classification (including Circular RBI/2021-2022/125 on Prudential Norms on Income Recognition, Asset Classification and Provisioning), the DPD counter must run continuously from the exact date the installment or interest charge falls due. If an EMI is scheduled for payment on the 5th of a month and remains unpaid at the end-of-day core banking batch processing on the 5th, the account registers 1 Day Past Due on the 6th morning.
+                The core metric is <strong>Days Past Due (DPD)</strong>. Under RBI Circular RBI/2021-2022/125 on IRACP norms, the DPD counter runs from the exact due date. If an EMI is due on the 5th and unpaid by day-end processing, the loan registers 1 DPD on the 6th morning.
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-4">
@@ -532,7 +532,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                     <span>RBI Prudential Framework (June 7, 2019)</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Mandates that lenders must initiate a review of the borrower account within 30 days of default (SMA-0/SMA-1) and formulate a legally binding Resolution Plan (RP) within a mandatory 180-day implementation timeline.
+                    Banks must review stressed accounts within 30 days of default. They must frame a viable Resolution Plan within 180 days.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-2">
@@ -541,7 +541,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                     <span>CRILC Centralized Reporting System</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Under Section 21 and Section 35A of the Banking Regulation Act, 1949, lenders must report all credit exposures of ₹5 Crores and above to the Central Repository of Information on Large Credits (CRILC) on weekly and monthly cycles upon entering SMA categories.
+                    Under Section 21 and Section 35A of the Banking Regulation Act, 1949, lenders report loans of ₹5 Crores and above to CRILC on weekly and monthly cycles.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-2">
@@ -550,7 +550,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                     <span>End-of-Day Core Banking Automation</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Asset classification cannot be delayed or manually overridden by branch managers. Core Banking Solutions (CBS) automatically trigger SMA tags based on mathematical DPD count at day-end batch runs.
+                    Branch staff cannot delay or change SMA tags. Core banking software assigns DPD tags automatically during night batch runs.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-2">
@@ -559,7 +559,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                     <span>Fair Lending Penal Charges Directives (2023–2024)</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Lenders are legally barred from compounding penal interest or disguising penalties as commercial interest rates. Penalties during SMA stages must remain strictly non-capitalized administrative levies.
+                    Lenders cannot compound penal interest or add extra rates. fines during SMA stages must remain strictly non-interest fees.
                   </p>
                 </div>
               </div>
@@ -570,7 +570,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                   <span>Regulatory Protection: Cross-Default Realities in Consortium and Retail Lending</span>
                 </div>
                 <p className="leading-relaxed text-blue-800">
-                  When a commercial borrower or high-net-worth individual slips into SMA-2 with one lending institution, automated credit bureau and CRILC triggers alert all other financial institutions where the borrower maintains active credit facilities. However, under Indian banking law and Supreme Court precedents, an SMA classification in one bank does not give another non-defaulted lender the legal right to unilaterally recall performing facilities without establishing an actual contractual breach or independent monetary default.
+                  When a loan enters SMA-2, CRILC and bureau alerts notify your other lenders. However, under Indian banking law, an SMA tag in one bank does not let another bank recall performing loans without a direct contract breach.
                 </p>
               </div>
             </section>
@@ -579,56 +579,56 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
             <section id="deconstructing-sma-0-sma-1-sma-2-thresholds" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Deconstructing SMA-0, SMA-1, and SMA-2</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The classification of a stressed account progresses through four distinct regulatory milestones based on the continuous duration of unpaid contractual obligations. For term loans, revolving cash credit facilities, working capital overdrafts, and retail credit products, the operational mechanics are defined below:
+                Loan stress moves through four stages based on how long payments are overdue. Here is how term loans, credit lines. And overdrafts are classified:
               </p>
 
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full text-xs sm:text-sm">
                   <thead>
                     <tr>
-                      <th>SMA Classification</th>
-                      <th>DPD Threshold (Term Loans)</th>
-                      <th>Revolving Facilities (CC/OD Triggers)</th>
-                      <th>Lender Actions &amp; Settlement Leverage</th>
+                      <th>SMA Classification.</th>
+                      <th>DPD Threshold (Term Loans).</th>
+                      <th>Revolving Facilities (CC/OD Triggers).</th>
+                      <th>Lender Actions &amp. Settlement Leverage.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-semibold text-slate-900">SMA-0</td>
-                      <td>1 to 30 Days Overdue</td>
-                      <td>Outstanding balance within limit but overdue interest unpaid 1–30 days</td>
-                      <td>Automated SMS/email reminders; zero litigation threat; ideal for fee waivers &amp; EMI date realignment.</td>
+                      <td className="font-semibold text-slate-900">SMA-0.</td>
+                      <td>1 to 30 Days Overdue.</td>
+                      <td>Balance within limit. But interest unpaid for 1–30 days.</td>
+                      <td>Automated SMS and email reminders. zero legal threat. easy fee waivers.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">SMA-1</td>
-                      <td>31 to 60 Days Overdue</td>
-                      <td>Outstanding in excess of sanctioned limit/drawing power for 31–60 days</td>
-                      <td>Branch credit manager outreach; tele-calling; prime window for debt restructuring or tenure extension.</td>
+                      <td className="font-semibold text-slate-900">SMA-1.</td>
+                      <td>31 to 60 Days Overdue.</td>
+                      <td>Balance exceeds sanctioned limit for 31–60 days.</td>
+                      <td>Credit officer calls. great window for restructuring or tenure extension.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">SMA-2</td>
-                      <td>61 to 90 Days Overdue</td>
-                      <td>Continuous overdraft excess or non-renewal of limits for 61–90 days</td>
-                      <td>Maximum lender panic; zonal recovery involvement; ultimate pre-NPA OTS &amp; 50%–70% waiver window.</td>
+                      <td className="font-semibold text-slate-900">SMA-2.</td>
+                      <td>61 to 90 Days Overdue.</td>
+                      <td>Overdraft excess or unrenewed limits for 61–90 days.</td>
+                      <td>High bank urgency. zonal review. best window for 50%–70% OTS waivers.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Formal NPA</td>
-                      <td>91+ Days Overdue</td>
-                      <td>Out of order status continuously exceeding 90 days</td>
-                      <td>Mandatory 15%–25% provisioning; SARFAESI Section 13(2) notice; DRT suits; Section 138 NI Act legal complaints.</td>
+                      <td className="font-semibold text-slate-900">Formal NPA.</td>
+                      <td>91+ Days Overdue.</td>
+                      <td>Account out of order for more than 90 days.</td>
+                      <td>Mandatory 15%–25% provisioning. SARFAESI Section 13(2) notices. DRT suits.</td>
                     </tr>
                   </tbody>
                 </table>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                In <strong>SMA-0 (1–30 DPD)</strong>, the loan default is categorized by the bank as transient or technical liquidity friction. The primary objective of the bank is soft automated recovery through digital payment links and telephonic reminders. Borrowers can easily resolve issues at this stage by requesting interest date adjustments or paying the singular overdue installment without long-term credit impairment.
+                In <strong>SMA-0 (1–30 DPD)</strong>, the bank sees default as short-term cash friction. The bank sends digital payment links and reminders. You can clear the single due EMI or adjust payment dates without harming your credit profile.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When an account migrates to <strong>SMA-1 (31–60 DPD)</strong>, the bank recognizes genuine cash flow stress. At this stage, credit risk officers begin monitoring the borrower&apos;s primary transaction accounts and debit turnover. Lenders become open to restructuring discussions, such as converting accumulated interest into a Term Loan (FITL) or extending the repayment tenure to reduce the monthly EMI burden.
+                In <strong>SMA-1 (31–60 DPD)</strong>, the bank sees real cash flow stress. Credit officers track account turnover. Lenders become open to restructuring. For example, funding unpaid interest into a term loan or extending tenure.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The entry into <strong>SMA-2 (61–90 DPD)</strong> marks the critical inflection point in Indian banking. At 61 days overdue, the bank&apos;s automated risk systems flag the account for executive zonal oversight. The branch manager faces intense quarterly performance pressure because an account crossing Day 90 will instantly inflate the branch&apos;s Gross Non-Performing Asset (GNPA) ratio. This administrative and financial pressure creates an unprecedented window of leverage for the borrower to propose an advocate-represented settlement.
+                Entry into <strong>SMA-2 (61–90 DPD)</strong> is the turning point. At 61 days overdue, risk teams flag the account. Branch managers face quarterly pressure to avoid new NPAs. This urgency gives you massive leverage to negotiate a compromise OTS.
               </p>
             </section>
 
@@ -636,53 +636,53 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
             <section id="bank-accounting-economics-pre-npa-provisioning" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank SMA Accounting &amp; Balance Sheet Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To understand why commercial banks are willing to grant substantial waivers during the SMA-2 phase, one must examine the severe financial penalties imposed on banks by the RBI upon NPA classification. Under RBI Master Directions on Income Recognition and Asset Classification (IRAC) norms, the moment an account crosses Day 90:
+                Banks offer large waivers in SMA-2 because NPA rules are costly. Under RBI Income Recognition and Asset Classification (IRAC) norms, crossing Day 90 triggers two fines:
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                First, the bank is statutorily prohibited from recognizing any accrued interest as income. All unrealized interest debited to the borrower&apos;s account must be reversed from the bank&apos;s Profit &amp; Loss account. Second, the bank is mandated to lock away fresh regulatory capital into non-earning <strong>provisions</strong>. For standard assets, a bank maintains a nominal 0.40% provisioning buffer. However, once a loan becomes a Sub-Standard NPA, the bank must immediately set aside <strong>15% of the total secured outstanding balance and 25% of the unsecured balance</strong>.
+                First, the bank must stop recording interest as income. It must reverse unpaid interest from its books. Second, it must lock cash in <strong>loss provisions</strong>. Standard loans require just 0.40% provisioning. But a Sub-Standard NPA requires <strong>15% for secured loans and 25% for unsecured loans</strong>.
               </p>
 
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full text-xs sm:text-sm">
                   <thead>
                     <tr>
-                      <th>Asset Classification Tier</th>
-                      <th>Regulatory Provisioning Required</th>
-                      <th>Interest Income Recognition</th>
-                      <th>Bank Commercial Impact</th>
+                      <th>Asset Classification Tier.</th>
+                      <th>Regulatory Provisioning Required.</th>
+                      <th>Interest Income Recognition.</th>
+                      <th>Bank Commercial Impact.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-semibold text-slate-900">Standard Performing Asset</td>
-                      <td>0.40% baseline provision</td>
-                      <td>100% recognized on accrual basis</td>
-                      <td>Healthy return on capital; standard branch profitability.</td>
+                      <td className="font-semibold text-slate-900">Standard Performing Asset.</td>
+                      <td>0.40% baseline provision.</td>
+                      <td>100% recognized on accrual basis.</td>
+                      <td>Normal return on capital. regular branch earnings.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">SMA-0, SMA-1, SMA-2</td>
-                      <td>0.40% to 5.0% early stress buffer</td>
-                      <td>Recognized on accrual basis until Day 90</td>
-                      <td>Intense pressure to recover before income reversal at Day 90.</td>
+                      <td className="font-semibold text-slate-900">SMA-0, SMA-1, SMA-2.</td>
+                      <td>0.40% to 5.0% early stress buffer.</td>
+                      <td>Recognized on accrual basis until Day 90.</td>
+                      <td>High pressure to collect before income reversal at Day 90.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Sub-Standard NPA (Up to 12 Months)</td>
-                      <td>15% (Secured) / 25% (Unsecured)</td>
-                      <td>Completely halted; recognized only on cash realization</td>
-                      <td>Severe capital lock-up; negative impact on bank quarterly earnings.</td>
+                      <td className="font-semibold text-slate-900">Sub-Standard NPA (Up to 12 Months).</td>
+                      <td>15% (Secured) / 25% (Unsecured).</td>
+                      <td>Halted. recognized only on cash receipt.</td>
+                      <td>Heavy capital lock-up. hits quarterly bank profit.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Doubtful NPA (1 to 3 Years)</td>
-                      <td>25% to 100% based on collateral age</td>
-                      <td>Completely frozen</td>
-                      <td>Extreme balance sheet drag; aggressive push for ARC portfolio sell-off.</td>
+                      <td className="font-semibold text-slate-900">Doubtful NPA (1 to 3 Years).</td>
+                      <td>25% to 100% based on asset age.</td>
+                      <td>Completely frozen.</td>
+                      <td>High drag on balance sheet. pushes loan sale to ARCs.</td>
                     </tr>
                   </tbody>
                 </table>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a borrower offers a cash compromise settlement of ₹15 Lakhs on a distressed ₹25 Lakh loan during SMA-2, the bank recovers immediate liquidity, avoids reversing ₹3 Lakhs in accrued interest, and avoids setting aside ₹6.25 Lakhs in fresh loss provisions. To decide whether to accept this pre-NPA compromise or trigger legal proceedings at Day 90, bank credit committees calculate the <strong>Net Present Value (NPV) of Stressed Asset Recovery</strong>:
+                If you offer a cash settlement in SMA-2, the bank gets instant recovery. It avoids interest reversals and loss provisioning. Bank credit committees evaluate settlements using the <strong>Net Present Value (NPV) Recovery Benchmark</strong>:
               </p>
 
               {/* JSX Formula Container Box */}
@@ -695,12 +695,12 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                   NPV_PreNPA = ∑ [ Cash_Recovery_t / (1 + r)^t ] - Mandatory_NPA_Provisioning - Litigation_Expenses - Cost_of_Capital_Lockup
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where Cash_Recovery_t represents the net funds realized over time, r is the bank cost of capital (typically 10%–14%), and deductions account for 3 to 5 years of DRT/SARFAESI court delays, advocate litigation fees, auction valuation discounts, and capital locked in non-yielding statutory provisions.
+                  Cash_Recovery_t is estimated cash flow. r is cost of capital. Deductions include legal fees and capital locked in RBI provisions.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Because litigation before Debt Recovery Tribunals (DRT) and Civil Courts in India requires an average of 4 to 6 years and yields uncertain recovery, the mathematical NPV of an immediate advocate-negotiated cash settlement during the SMA-2 phase is almost always superior to prolonged post-NPA litigation for the bank.
+                Court battles in DRT take 4 to 6 years with uncertain outcomes. That is why an immediate cash settlement during SMA-2 is mathematically better for the bank.
               </p>
             </section>
 
@@ -710,7 +710,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                 5. SMA Classification &amp; Pre-NPA Settlement Visual Roadmap
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The visual roadmap below details the complete 4-tier lifecycle from Day 1 initial overdue to Day 90 formal NPA classification, highlighting the strategic pre-NPA settlement window where borrowers can negotiate maximum waivers and avoid coercive court actions.
+                The visual roadmap below shows the full path from Day 1 overdue to Day 90 NPA tagging. It highlights the pre-NPA window where you can secure maximum waivers and avoid court action.
               </p>
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
@@ -727,15 +727,15 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs text-slate-600 mt-2">
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
                   <span className="font-bold text-slate-900 block mb-1">Stages 1–2: SMA-0 &amp; SMA-1 (1–60 DPD)</span>
-                  <span>Automated notices and early stress signals; ideal window to restructure EMIs, convert overdrafts to term facilities, or waive early penal charges.</span>
+                  <span>Automated alerts; prime time to adjust EMIs, convert credit lines, or waive fees.</span>
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
                   <span className="font-bold text-slate-900 block mb-1">Stage 3: SMA-2 (61–90 DPD) - Prime Window</span>
-                  <span>High bank urgency before Day 90 provisioning; legal advocates negotiate 50%–70% penal interest waivers and structured pre-NPA compromise closures.</span>
+                  <span>Bank urgency peaks before Day 90; advocates secure 50%–70% waivers and structured OTS deals.</span>
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
                   <span className="font-bold text-slate-900 block mb-1">Stage 4: Formal NPA (91+ DPD)</span>
-                  <span>Mandatory 15%–25% provisioning locks in; lender initiates SARFAESI Sec 13(2), DRT recovery, and Section 138 cheque bounce proceedings.</span>
+                  <span>Mandatory 15%–25% provisioning starts; bank files SARFAESI Sec 13(2), DRT, and Sec 138 pleas.</span>
                 </div>
               </div>
             </section>
@@ -744,41 +744,41 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
             <section id="borrower-leverage-pre-90-day-window-waivers" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Strategic Legal Advantage</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Navigating the pre-90-day SMA window requires a proactive legal strategy rather than passive waiting. Unrepresented borrowers who attempt to negotiate directly with branch staff or collection agents often face aggressive threats, misleading verbal promises, or demands to liquidate personal assets. In contrast, when specialized debt defense advocates represent the borrower, the negotiation shifts from the collection agency floor to the authorized Credit Approval Committee.
+                Handling the pre-90-day SMA window needs proactive legal steps. Borrowers who negotiate alone often face threats from collection agents or demands to sell assets. With legal representation, talks move from recovery agents to the bank credit committee.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A structured advocate-led pre-NPA resolution strategy follows four rigorous institutional phases:
+                A structured legal strategy follows four clear phases:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Notice of Legal Representation &amp; Fair Lending Protection</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Advocates serve a formal Notice of Representation to the bank&apos;s Principal Officer and Nodal Grievance Officer. This statutory communication invokes the <strong>RBI Master Direction on Fair Practices Code</strong>, halts all abusive recovery agent telephone calls and unannounced domestic visits, and mandates that all resolution discussions occur exclusively in writing through legal counsel.
+                    Advocates serve a formal notice to the bank Nodal Officer. This invokes the <strong>RBI Fair Practices Code</strong>, halts agent calls and home visits. And requires all talks to be in writing through legal counsel.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 2: Forensic Ledger Audit &amp; Penal Charge Dissection</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Our banking lawyers analyze the complete loan account statement from inception. We identify and challenge unlawful capitalized penal interest, exorbitant late payment charges, arbitrary inspection levies, and unauthorized processing fees that violate the <strong>RBI Fair Lending Directives (August 2023 / April 2024)</strong>.
+                    Our lawyers review loan account statements from start to finish. We dispute unlawful compound interest and late fees under <strong>RBI Fair Lending Directives (August 2023 / April 2024)</strong>.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 3: Financial Hardship Dossier Submission to Zonal Sanction Authorities</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    We bypass front-line recovery agents and submit a comprehensive financial hardship dossier directly to the bank&apos;s Zonal Stressed Asset Management Branch (SAMB). The dossier includes audited income statements, GST turnover decline records, medical emergency certificates, or commercial contract cancellation proofs, substantiating the borrower&apos;s genuine inability to service original terms.
+                    We bypass front-line recovery staff. We submit a complete financial hardship dossier directly to the bank Zonal Stressed Asset branch. The file includes income drops, tax files, or medical records to prove genuine distress.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 4: Structuring the Pre-NPA Compromise Settlement or Restructuring</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Leveraging the bank&apos;s urgent need to avert a Day 90 NPA classification, advocates structure a mutually agreed compromise settlement offering immediate lump-sum or short tranche payments against the core principal, securing complete waivers of accumulated penal interest and closing the debt with zero legal exposure.
+                    Using the bank need to prevent an NPA tag at Day 90, advocates structure a compromise settlement. This secures full waivers of penal interest and closes the debt with zero court risk.
                   </p>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                By presenting a credible, legally sound, and commercially viable proposal before Day 90, borrowers achieve closure on terms far more favorable than those available once the loan enters the bureaucratic quagmire of post-NPA litigation.
+                By presenting a clear legal settlement before Day 90, you get far better terms than after an account goes to court.
               </p>
             </section>
 
@@ -786,13 +786,13 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
             <section id="forensic-verification-pre-npa-settlement-sanctions" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. SMA Settlement Forensic Sanction Checklist</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A dangerous hazard during the SMA-1 and SMA-2 stages involves unofficial or deceptive settlement representations made by outsourced recovery agencies. Under severe pressure to hit monthly collection targets, third-party recovery agents frequently send WhatsApp messages, unofficial emails, or verbal assurances promising that paying a partial token amount will &quot;settle&quot; the account.
+                A big risk in SMA-1 and SMA-2 is fake settlement offers from third-party recovery agents. Under pressure to hit monthly targets, agents send unofficial messages promising to settle debt for a small token sum.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                If a borrower deposits funds without a formal, legally sanctioned approval from the bank&apos;s competent authority, the bank merely treats the deposit as a partial EMI credit. The DPD counter continues to run, the account slips into NPA at Day 90, and the borrower remains liable for the entire remaining balance.
+                If you pay without a formal approval letter from the bank, the bank treats the cash as a normal partial payment. The DPD clock keeps ticking, the loan turns into an NPA at Day 90. And you still owe the full balance.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Before remitting a single rupee towards a pre-NPA compromise, every settlement document must pass five mandatory forensic checks:
+                Before paying any settlement sum, check these five essential safety points:
               </p>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 my-4">
@@ -802,7 +802,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                     <span>Official Bank Letterhead &amp; Sanction Reference</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    The sanction letter must be issued on official bank stationery featuring registered corporate logos, branch codes, a unique approval tracking number, and digital/physical signatures of an authorized Assistant General Manager or Zonal Head.
+                    The sanction letter must be on official bank letterhead with bank logos, approval tracking numbers. And authorized bank signatures.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm space-y-1.5">
@@ -811,7 +811,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                     <span>Exact Compromise Amount &amp; Tranche Deadlines</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    The letter must specify the exact final settlement sum down to the rupee and state clear, agreed payment dates without ambiguous escalation clauses or penalty revival conditions.
+                    The letter must state the exact final settlement sum in rupees, with clear payment dates and no hidden penalty terms.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm space-y-1.5">
@@ -820,7 +820,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                     <span>Total Debt Extinguishment Covenant</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    The agreement must unambiguously stipulate that upon remittance of the agreed settlement sum, all remaining principal, accrued normal interest, penal charges, and processing fees are fully and irrevocably waived.
+                    The agreement must confirm that once you pay the settlement sum, all remaining principal, interest. And penal fees are fully waived.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm space-y-1.5">
@@ -829,7 +829,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                     <span>Mandatory Legal Forbearance &amp; NDC Timeline</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    The sanction must bind the lender to refrain from initiating SARFAESI, DRT, or Section 138 proceedings, return all deposited title deeds, and deliver a formal No Dues Certificate within 30 days under RBI mandates.
+                    The sanction must stop SARFAESI or Section 138 actions, return original title deeds. And promise a No Dues Certificate within 30 days under RBI rules.
                   </p>
                 </div>
               </div>
@@ -840,7 +840,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                   <span>Strict Remittance Protocol: Direct Loan Account Deposit Exclusively</span>
                 </span>
                 <p className="leading-relaxed">
-                  Never transfer settlement funds to personal accounts of recovery executives, collection agency UPI handles, or third-party accounts. All payments must be deposited directly into your designated loan account number via RTGS, NEFT, or an Account Payee Demand Draft drawn in favor of the lending bank.
+                  Never pay into personal accounts or agent UPI handles. Always deposit settlement funds directly into your loan account via RTGS, NEFT, or an Account Payee Demand Draft drawn in favor of the bank.
                 </p>
               </div>
             </section>
@@ -849,10 +849,10 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
             <section id="settlement-remittance-ndc-cibil-rectification" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Settlement Remittance Execution, Statutory No Dues</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Remitting the agreed pre-NPA compromise amount fulfills the financial obligation of the settlement. However, the legal resolution is complete only when the lending institution delivers a formal No Dues Certificate (NDC) and updates credit bureau registries to reflect zero outstanding liability.
+                Paying the agreed settlement sum fulfills your financial duty. But the legal process ends only when the bank issues a formal No Dues Certificate (NDC) and updates credit bureaus to ₹0 balance.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under <strong>RBI Circular RBI/2023-24/60 (Responsible Lending Conduct – Release of Movable/Immovable Property Documents and Issuance of NDC)</strong>, all commercial banks and NBFCs are statutorily mandated to adhere to strict post-settlement timelines:
+                Under <strong>RBI Circular RBI/2023-24/60 (Responsible Lending Conduct)</strong>, all banks and NBFCs must follow strict settlement timelines:
               </p>
 
               <div className="p-4 rounded-2xl bg-emerald-50 border border-emerald-200 text-xs sm:text-sm text-emerald-950 space-y-2">
@@ -861,7 +861,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                   <span>Mandatory 30-Day NDC Delivery &amp; ₹5,000/Day Statutory Delay Penalty</span>
                 </div>
                 <p className="leading-relaxed text-emerald-900">
-                  Lenders are legally obligated to issue an official <strong>No Dues Certificate (NDC) / Loan Closure Certificate</strong>, return all original title deeds, vehicle hypothecation NOCs, and pledged security instruments, and update credit information companies (CIBIL, Experian, Equifax, CRIF High Mark) within <strong>30 calendar days</strong> of final settlement receipt. Any failure or unjustified delay renders the lender liable to pay compensation of <strong>₹5,000 per day of delay</strong> directly to the borrower.
+                  Lenders must issue a <strong>No Dues Certificate (NDC)</strong>, return all original property deeds or vehicle NOCs. And update credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) within <strong>30 calendar days</strong>. If the bank delays without cause, it must pay payout of <strong>₹5,000 per day of delay</strong> directly to the borrower.
                 </p>
               </div>
 
@@ -869,24 +869,24 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                 Credit Bureau Dynamics: SMA Resolution vs. Post-NPA Default Tagging
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Resolving debt during the SMA phase produces vastly superior credit score outcomes compared to settling after formal NPA classification:
+                Settling debt during the SMA stage gives you much better credit results than waiting for an NPA tag:
               </p>
               <ul className="space-y-2 text-xs sm:text-sm text-slate-700">
                 <li className="flex items-start gap-2">
                   <BadgePercent className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Elimination of the Catastrophic NPA Tag:</strong> The account avoids being categorized as &quot;NPA / Loss Asset&quot; on CIBIL and Experian. It is reported as closed or settled with the balance permanently recorded as ₹0.</span>
+                  <span><strong>No NPA Tag on Credit Bureau:</strong> The loan avoids the &quot;NPA / Loss Asset&quot. mark on CIBIL and Experian. The active balance is set to ₹0.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <BadgePercent className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Cessation of Continuous Negative DPD Reporting:</strong> Resolving the account halts the monthly accumulation of delinquent DPD entries (such as 90+, 180+, 360+ DPD), capping the historical credit damage at the 30–60 day level.</span>
+                  <span><strong>Stops Negative DPD Accumulation:</strong> Closing the account halts late DPD tracking (such as 90+ or 180+ DPD), limiting credit damage to the 30–60 day mark.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <BadgePercent className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Accelerated Score Rehabilitation Runway:</strong> Because the loan was settled prior to formal NPA write-off, borrowers can rehabilitate their CIBIL score back to 750+ within 12 to 18 months using secured credit cards and strict credit discipline, compared to 36+ months for post-NPA accounts.</span>
+                  <span><strong>Faster Credit Score Recovery:</strong> Because the loan settled before NPA write-off, you can rebuild your CIBIL score to 750+ within 12 to 18 months, instead of 36+ months.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <BadgePercent className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Preservation of Commercial Banking Relationships:</strong> A pre-NPA resolution allows business promoters and salaried individuals to retain clean banking standing with non-defaulted lenders across the Indian financial ecosystem.</span>
+                  <span><strong>Preserves Banking Relationships:</strong> A clean pre-NPA closure helps you keep good banking ties with other non-defaulted lenders across India.</span>
                 </li>
               </ul>
             </section>
@@ -895,53 +895,53 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
             <section id="pre-npa-sma-vs-post-npa-recovery-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Pre-NPA (SMA) Settlement vs. Post-NPA Legal Recovery</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A direct comparison between resolving debt in the pre-NPA SMA window versus waiting until after NPA classification illustrates why early proactive intervention delivers decisive legal and financial advantages:
+                Comparing pre-NPA settlement with post-NPA litigation shows why acting early protects your rights and finances:
               </p>
 
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full text-xs sm:text-sm">
                   <thead>
                     <tr>
-                      <th>Resolution Dimension</th>
-                      <th>Pre-NPA SMA Resolution Window (1–90 Days)</th>
-                      <th>Post-NPA Legal Recovery Phase (91+ Days)</th>
+                      <th>Resolution Dimension.</th>
+                      <th>Pre-NPA SMA Resolution Window (1–90 Days).</th>
+                      <th>Post-NPA Legal Recovery Phase (91+ Days).</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-semibold text-slate-900">Statutory Asset Status</td>
-                      <td>Standard Stressed (SMA-0, SMA-1, SMA-2)</td>
-                      <td>Non-Performing Asset (Sub-Standard / Doubtful / Loss)</td>
+                      <td className="font-semibold text-slate-900">Statutory Asset Status.</td>
+                      <td>Standard Stressed (SMA-0, SMA-1, SMA-2).</td>
+                      <td>Non-Performing Asset (Sub-Standard / Doubtful / Loss).</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Bank Capital Provisioning</td>
-                      <td>Nominal (0.40% to 5.0%)</td>
-                      <td>Mandatory 15% to 25% (up to 100% over time)</td>
+                      <td className="font-semibold text-slate-900">Bank Capital Provisioning.</td>
+                      <td>Nominal (0.40% to 5.0%).</td>
+                      <td>Mandatory 15% to 25% (up to 100% over time).</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">SARFAESI Legal Exposure</td>
-                      <td>Zero. Bank has no legal jurisdiction under Sec 13(2)</td>
-                      <td>Immediate 60-day demand notice and property possession actions</td>
+                      <td className="font-semibold text-slate-900">SARFAESI Legal Exposure.</td>
+                      <td>Zero. Bank has no power under Sec 13(2).</td>
+                      <td>60-day demand notice and property auction actions.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Court Litigation Threat</td>
-                      <td>Zero active DRT, Civil, or Summary Suits</td>
-                      <td>Active DRT Original Applications, Section 138 complaints</td>
+                      <td className="font-semibold text-slate-900">Court Litigation Threat.</td>
+                      <td>Zero active DRT or Summary Suits.</td>
+                      <td>Active DRT suits and Section 138 complaints.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Penal Interest Waivers</td>
-                      <td>Up to 100% penal charges and compound levies waived</td>
-                      <td>Heavy accumulated legal fees and court costs added to ledger</td>
+                      <td className="font-semibold text-slate-900">Penal Interest Waivers.</td>
+                      <td>Up to 100% penal charges and compound fees waived.</td>
+                      <td>Heavy court fees and legal charges added to debt.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">CIBIL Restoration Timeline</td>
-                      <td>Fast restoration (12 to 18 months to reach 750+)</td>
-                      <td>Prolonged recovery (24 to 36+ months post-settlement)</td>
+                      <td className="font-semibold text-slate-900">CIBIL Restoration Timeline.</td>
+                      <td>Fast recovery (12 to 18 months to reach 750+).</td>
+                      <td>Slow recovery (24 to 36+ months post-settlement).</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Consortium / CRILC Impact</td>
-                      <td>Contained within early-stress observation metrics</td>
-                      <td>Consortium-wide default tagging and credit freeze</td>
+                      <td className="font-semibold text-slate-900">Consortium / CRILC Impact.</td>
+                      <td>Kept within early-stress tracking metrics.</td>
+                      <td>Consortium-wide default alert and credit freeze.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -953,7 +953,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
               <div className="border-t border-slate-200 pt-8 space-y-4">
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Pre-NPA Legal Defense</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Resolving loan default within the RBI Special Mention Account (SMA) window requires rapid, decisive legal advocacy backed by deep mastery of banking jurisprudence, accounting regulations, and institutional credit committee hierarchies. SettleLoans represents borrowers across India: serving formal representation notices to halt recovery harassment, conducting forensic audits of loan ledgers to eliminate unlawful penal charges, and negotiating directly with bank zonal authorities to execute pre-NPA compromise settlements and restructuring before Day 90.
+                  Resolving debt during the SMA window requires prompt legal action. SettleLoans helps borrowers across India. We serve formal notices to stop recovery agent calls. We review loan ledgers to remove illegal penal fees. Finally, we negotiate directly with bank zonal authorities to secure pre-NPA compromise settlements and restructuring before Day 90.
                 </p>
               </div>
 
@@ -968,7 +968,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: SMA Account Classification</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
-                Direct, legally verified answers to critical questions regarding the RBI SMA framework, Days-Past-Due calculation, penal waivers, and pre-NPA settlement rights in India.
+                Direct, legally verified answers to critical questions regarding the RBI SMA framework, Days-Past-Due calculation, penal waivers. And pre-NPA settlement rights in India.
               </p>
 
               <div className="space-y-3">
@@ -1133,11 +1133,11 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                   <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
                     <div className="font-bold text-slate-900 text-sm">Ashish Jhangra</div>
                   </Link>
-                  <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
+                  <p className="text-xs text-slate-500">Chief Banking &amp. Debt Resolution Expert</p>
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-3">
-                Specialist in RBI stressed asset frameworks, SMA-0/1/2 account resolutions, pre-NPA compromise negotiations, and banking dispute litigation with over a decade of debt advisory expertise.
+                Expert in RBI stressed asset rules, SMA-0/1/2 account resolutions, pre-NPA settlements. And banking disputes with over 10 years of experience.
               </p>
               <div className="pt-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
                 <Link href="/authors/ashish-jhangra" className="text-xs text-[#1F5EFF] hover:underline flex items-center gap-1 font-semibold">
@@ -1159,7 +1159,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
               </div>
               <div className="font-bold text-base text-white mb-2">Loan Overdue in SMA-1 or SMA-2 Stage?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
-                Do not wait for Day 90 NPA classification and SARFAESI action. Engage debt defense advocates to leverage the bank provisioning pressure and secure a deep waiver or compromise settlement.
+                Do not wait for Day 90 NPA tagging or SARFAESI action. Hire debt defense advocates to leverage bank provisioning urgency and secure a deep settlement.
               </p>
               <Link
                 href="/contact"

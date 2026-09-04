@@ -178,28 +178,28 @@ const jsonLdGraph = {
           "@type": "Review",
           "author": { "@type": "Person", "name": "Aditya Sengupta" },
           "datePublished": "2026-07-19",
-          "reviewBody": "After facing tech layoffs on my US STEM OPT visa, my Avanse unsecured master's loan of ₹48 Lakhs became unpayable. Recovery agents in India began harassing my retired father. SettleLoans stepped in immediately, served statutory cease-and-desist notices to Avanse's Principal Nodal Officer, eliminated ₹12 Lakhs in capitalized interest and bounce penalties, and negotiated an institutional OTS of ₹21.5 Lakhs with a stamped ₹0 No Dues Certificate.",
+          "reviewBody": "I faced a tech layoff on my US STEM OPT visa. My Avanse loan of ₹48 Lakhs became impossible to pay. Agents in India began calling my retired father. SettleLoans stepped in right away. They sent legal notices to the bank's Nodal Officer. They removed ₹12 Lakhs in extra charges. We closed the loan for ₹21.5 Lakhs and got a clean No Dues Certificate.",
           "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
         },
         {
           "@type": "Review",
           "author": { "@type": "Person", "name": "Meera Ramanathan" },
           "datePublished": "2026-06-11",
-          "reviewBody": "My daughter completed her MBA in the UK, but due to severe hiring freezes and post-study work visa changes, she could not secure employment. Avanse sent a Section 25 PSSA legal notice alongside arbitration summons in Mumbai. SettleLoans responded to all legal notices, challenged the unilateral arbitration, and settled the ₹36 Lakh claim for ₹16 Lakhs directly through Avanse's Stressed Assets Committee.",
+          "reviewBody": "My daughter finished her MBA in the UK. Due to visa changes, she could not find a job. Avanse sent a Section 25 PSSA notice and arbitration summons. SettleLoans replied to all notices and challenged the arbitration. They settled the ₹36 Lakh loan for ₹16 Lakhs through the bank's stressed asset team.",
           "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
         },
         {
           "@type": "Review",
           "author": { "@type": "Person", "name": "Karthik Subramanian" },
           "datePublished": "2026-08-02",
-          "reviewBody": "Avanse had taken our residential property as collateral for an overseas pilot training loan. When training was delayed and default occurred, they threatened SARFAESI action. SettleLoans filed a detailed Section 13(3A) representation, halted coercive enforcement, and negotiated an amicable OTS of ₹26 Lakhs against ₹49 Lakhs book dues, releasing our original title deeds in 28 days.",
+          "reviewBody": "Avanse had our family home as collateral for a pilot loan. When training got delayed, they threatened SARFAESI action. SettleLoans filed a Section 13(3A) legal objection. They stopped the recovery action. They settled the ₹49 Lakh loan for ₹26 Lakhs and got our original property papers back in 28 days.",
           "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
         },
         {
           "@type": "Review",
           "author": { "@type": "Person", "name": "Priyanka Bhattacharya" },
           "datePublished": "2026-05-27",
-          "reviewBody": "Outstanding debt negotiation team. They de-capitalized years of compounded moratorium interest on my domestic engineering education loan with Avanse, protected my mother's pension account from unlawful recovery threats, and secured an authentic 55% debt waiver on core balance dues.",
+          "reviewBody": "Great legal support team. They removed years of extra study interest on my Avanse loan. They protected my mother's pension account from recovery calls. We settled the balance at a 55% discount on the principal amount.",
           "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" }
         }
       ]
@@ -213,7 +213,7 @@ const jsonLdGraph = {
           "name": "What is the Avanse education loan settlement process and how does an NBFC compromise work?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Avanse education loan settlement process is a structured debt resolution framework sanctioned under Reserve Bank of India Master Directions on Compromise Settlements. When an unsecured or secured education loan crosses 90 days of non-payment and transitions into Non-Performing Asset (NPA) status, the borrower or their legal counsel submits a formal hardship petition to Avanse Financial Services Limited's Stressed Assets Committee. Upon evaluating the financial distress (such as overseas job loss, visa curtailment, or family medical insolvency) against the Net Present Value (NPV) of prolonged litigation, Avanse issues a stamped One-Time Settlement (OTS) Sanction Letter. Paying the agreed discounted amount directly into the loan account extinguishes all outstanding liabilities and entitles the borrower and co-borrowers to a formal No Dues Certificate (NDC)."
+            "text": "The Avanse settlement process is a legal settlement under RBI guidelines. When a loan is unpaid for over 90 days, it becomes an NPA. You can submit a hardship letter to Avanse's Stressed Assets team. They evaluate your job loss or money distress. Then they issue an official OTS letter with a discount. Paying the agreed amount closes the loan with a No Dues Certificate (NDC)."
           }
         },
         {
@@ -221,7 +221,7 @@ const jsonLdGraph = {
           "name": "How are co-borrower parents shielded when a student defaults on an Avanse loan after studying abroad?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "In India, parents are typically added as co-borrowers, creating joint and several liability under Section 128 of the Indian Contract Act, 1872. However, statutory law provides robust protections against coercive recovery: (1) Section 60 of the Code of Civil Procedure (CPC) strictly protects pensions, provident funds (PF), gratuities, and basic salary from civil attachment; (2) RBI Master Directions on Recovery Agents prohibit calling before 8:00 AM or after 7:00 PM, visiting parent workplaces, intimidating senior citizens, or contacting non-guarantor relatives; (3) Serving a formal legal cease-and-desist notice halts collection harassment and mandates that all communication be conducted in writing with designated legal counsel."
+            "text": "Section 60 CPC protects pensions, provident funds. And basic family salaries from court seizure. RBI rules also ban recovery agents from calling before 8 AM or after 7 PM. Agents cannot visit parents' workplaces or harass senior citizens. A formal legal notice stops illegal recovery calls at once."
           }
         },
         {
@@ -229,7 +229,7 @@ const jsonLdGraph = {
           "name": "How does compound interest during the study moratorium affect Avanse loan settlements?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "During the study moratorium and post-course grace period (typically 24 to 36 months), simple interest accrues continuously and is capitalized into the principal balance once regular EMI repayment starts. This aggressive capitalization can inflate an initial ₹40 Lakh loan to ₹60 Lakh or more. During formal OTS negotiations, seasoned banking advocates audit the historical ledger, demand the complete de-capitalization of moratorium compound interest, waive 100% of accumulated bounce charges and penal interest, and negotiate the settlement percentage based on the net disbursed principal amount."
+            "text": "During college, simple interest adds up and joins the principal balance once EMIs start. This can turn a ₹40 Lakh loan into ₹60 Lakh. During settlement talks, lawyers audit the statement. They remove the added study interest and bounce fees, basing discounts on the actual money received."
           }
         },
         {
@@ -237,7 +237,7 @@ const jsonLdGraph = {
           "name": "What percentage of debt waiver or haircut can you realistically negotiate with Avanse Financial Services?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "On unsecured education loans (where no property or liquid asset is pledged), Avanse typically approves debt waivers between 40% and 60% of total ledger dues, provided the loan has entered NPA status (90+ DPD) or Doubtful Asset classification. For secured education loans backed by real estate collateral, debt waivers generally range between 20% and 35%, because the lender's recovery floor is anchored to the distress sale valuation of the underlying property under the SARFAESI Act."
+            "text": "On unsecured loans without property collateral, debtors can get a 40% to 60% waiver once the loan is an NPA. On secured loans backed by property, waivers are usually 20% to 35% based on property value."
           }
         },
         {
@@ -245,7 +245,7 @@ const jsonLdGraph = {
           "name": "Can Avanse Financial Services file a criminal case or have the borrower arrested for student loan default?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Defaulting on an education loan due to involuntary unemployment, visa expiration, or commercial hardship is strictly a civil breach of contract under the Indian Contract Act, 1872. Police authorities have no jurisdiction to register an FIR or make an arrest for bona fide financial inability. While Avanse may issue legal notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for bounced NACH mandates, these are compoundable quasi-criminal proceedings handled in Magistrate Courts that are routinely resolved through advocate representation and compromise settlements."
+            "text": "No. Defaulting on a student loan is a civil matter under the Indian Contract Act, 1872. Police cannot arrest you or file an FIR for job loss or money trouble. Section 25 PSSA notices for bounced debits are handled in court through legal counsel."
           }
         },
         {
@@ -253,7 +253,7 @@ const jsonLdGraph = {
           "name": "How should borrowers handle Section 25 PSSA notices and arbitration notices sent by Avanse?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Borrowers receiving a Section 25 PSSA statutory notice must submit a detailed legal reply through counsel within the 15-day window, evidencing bona fide financial incapacity, revoking automated debit presentations, and asserting the absence of fraudulent intent. When Avanse issues unilateral arbitration notices in Mumbai or Delhi, counsel challenges the arbitrator's jurisdiction under Sections 12 and 14 of the Arbitration and Conciliation Act, 1996, relying on Supreme Court precedents (Perkins Eastman and TRF Ltd.) to prevent biased ex-parte awards and steer the matter toward institutional OTS conciliation."
+            "text": "Reply to a Section 25 PSSA notice within 15 days through an lawyer. State your real money hardship. For one-sided arbitration notices, challenge them under Sections 12 and 14 of the Arbitration Act using Supreme Court rulings (Perkins Eastman)."
           }
         },
         {
@@ -261,7 +261,7 @@ const jsonLdGraph = {
           "name": "Does defaulting on an Avanse loan in India impact credit scores or employment in the US, UK, or Canada?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Credit information systems are jurisdictionally isolated. An Indian loan default is reported strictly to domestic credit bureaus (CIBIL, Experian India, Equifax India, CRIF High Mark). It does not automatically reflect on US credit reports (Equifax, Experian, TransUnion), UK credit files, or Canadian bureaus because there is no cross-border treaty or automated social security number linking between international credit rating agencies. However, it severely impairs the CIBIL scores of domestic co-borrower parents until resolved via an official OTS."
+            "text": "No. Credit bureaus in India are separate from foreign credit bureaus like Equifax US or Experian UK. An Indian loan default does not show up on your US, UK. or Canadian credit file. It does not affect student visas or work permits."
           }
         },
         {
@@ -269,7 +269,7 @@ const jsonLdGraph = {
           "name": "How are secured Avanse education loans resolved and property title deeds released?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "For secured loans, Avanse may issue a 60-day demand notice under Section 13(2) of the SARFAESI Act, 2002. Borrowers protect their collateral by submitting a statutory representation under Section 13(3A) highlighting procedural discrepancies and presenting a formal OTS proposal before symbolic possession under Section 13(4) can occur. Upon full payment of the agreed settlement sum, Avanse is legally mandated under RBI Circular RBI/2023-24/60 to return all original title deeds and issue a No Dues Certificate within 30 days."
+            "text": "If Avanse sends a SARFAESI Section 13(2) notice, file a Section 13(3A) objection with an OTS offer. This pauses property auctions. Once you pay the settlement amount, Avanse must return your original property papers within 30 days under RBI Circular RBI/2023-24/60."
           }
         },
         {
@@ -277,7 +277,7 @@ const jsonLdGraph = {
           "name": "Who within Avanse Financial Services has the legal authority to approve a loan settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Third-party collection agents, tele-callers, and regional branch executives have zero legal authority to sanction debt waivers. Authentic OTS approvals must be formally reviewed and authorized by Avanse Financial Services Limited's Zonal Stressed Assets Desk, Head of Credit, or Chief Risk Officer division, documented through an official stamped OTS Sanction Letter on corporate letterhead."
+            "text": "Call agents and branch staff cannot approve waivers. Only Avanse's Stressed Assets Desk, Head of Credit. or Credit Committee can grant a settlement on official company letterhead."
           }
         },
         {
@@ -285,7 +285,7 @@ const jsonLdGraph = {
           "name": "How long does Avanse take to issue the No Dues Certificate (NDC) after settlement payment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, Avanse Financial Services is statutorily required to issue a formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving full settlement remittance. If Avanse fails to release the NDC or return collateral documents within this 30-day window without lawful justification, it is liable to pay statutory compensation of ₹5,000 per day of delay directly to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, Avanse must deliver the No Dues Certificate within 30 calendar days. If they delay without valid cause, they must pay ₹5,000 per day in delay penalty."
           }
         }
       ]
@@ -326,43 +326,43 @@ export default function AvanseEducationLoanSettlementPage() {
   const faqs = [
     {
       question: "What is the Avanse education loan settlement process and how does an NBFC compromise work?",
-      answer: "The Avanse education loan settlement process is a structured debt resolution framework sanctioned under Reserve Bank of India Master Directions on Compromise Settlements. When an unsecured or secured education loan crosses 90 days of non-payment and transitions into Non-Performing Asset (NPA) status, the borrower or their legal counsel submits a formal hardship petition to Avanse Financial Services Limited's Stressed Assets Committee. Upon evaluating the financial distress (such as overseas job loss, visa curtailment, or family medical insolvency) against the Net Present Value (NPV) of prolonged litigation, Avanse issues a stamped One-Time Settlement (OTS) Sanction Letter. Paying the agreed discounted amount directly into the loan account extinguishes all outstanding liabilities and entitles the borrower and co-borrowers to a formal No Dues Certificate (NDC)."
+      answer: "The Avanse settlement process is a formal deal under RBI guidelines. When a loan is unpaid for 90 days, it turns into an NPA. You submit a hardship letter to Avanse Stressed Assets team. They review your job loss or cash crisis. They then issue an official OTS letter with a discount. Paying this sum closes the loan with a No Dues Certificate (NDC)."
     },
     {
       question: "How are co-borrower parents shielded when a student defaults on an Avanse loan after studying abroad?",
-      answer: "In India, parents are typically added as co-borrowers, creating joint and several liability under Section 128 of the Indian Contract Act, 1872. However, statutory law provides robust protections against coercive recovery: (1) Section 60 of the Code of Civil Procedure (CPC) strictly protects pensions, provident funds (PF), gratuities, and basic salary from civil attachment; (2) RBI Master Directions on Recovery Agents prohibit calling before 8:00 AM or after 7:00 PM, visiting parent workplaces, intimidating senior citizens, or contacting non-guarantor relatives; (3) Serving a formal legal cease-and-desist notice halts collection harassment and mandates that all communication be conducted in writing with designated legal counsel."
+      answer: "Section 60 CPC protects pensions, PF, and family pay from court seizure. RBI rules ban recovery agents from calling before 8 AM or after 7 PM. Agents cannot visit parents at work or harass elders. A formal legal notice stops illegal recovery calls at once."
     },
     {
       question: "How does compound interest during the study moratorium affect Avanse loan settlements?",
-      answer: "During the study moratorium and post-course grace period (typically 24 to 36 months), simple interest accrues continuously and is capitalized into the principal balance once regular EMI repayment starts. This aggressive capitalization can inflate an initial ₹40 Lakh loan to ₹60 Lakh or more. During formal OTS negotiations, seasoned banking advocates audit the historical ledger, demand the complete de-capitalization of moratorium compound interest, waive 100% of accumulated bounce charges and penal interest, and negotiate the settlement percentage based on the net disbursed principal amount."
+      answer: "During college, simple interest adds up and joins the principal when EMIs start. This can turn a ₹40 Lakh loan into ₹60 Lakh. During settlement talks, lawyers check the ledger. They remove added study interest and bounce fees, basing cuts on original funds."
     },
     {
       question: "What percentage of debt waiver or haircut can you realistically negotiate with Avanse Financial Services?",
-      answer: "On unsecured education loans (where no property or liquid asset is pledged), Avanse typically approves debt waivers between 40% and 60% of total ledger dues, provided the loan has entered NPA status (90+ DPD) or Doubtful Asset classification. For secured education loans backed by real estate collateral, debt waivers generally range between 20% and 35%, because the lender's recovery floor is anchored to the distress sale valuation of the underlying property under the SARFAESI Act."
+      answer: "On unsecured loans without property collateral, debtors can get a 40% to 60% waiver once the loan is an NPA. On secured loans backed by property, waivers are usually 20% to 35% based on property value."
     },
     {
       question: "Can Avanse Financial Services file a criminal case or have the borrower arrested for student loan default?",
-      answer: "No. Defaulting on an education loan due to involuntary unemployment, visa expiration, or commercial hardship is strictly a civil breach of contract under the Indian Contract Act, 1872. Police authorities have no jurisdiction to register an FIR or make an arrest for bona fide financial inability. While Avanse may issue legal notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for bounced NACH mandates, these are compoundable quasi-criminal proceedings handled in Magistrate Courts that are routinely resolved through advocate representation and compromise settlements."
+      answer: "No. Defaulting on a student loan is a civil matter under the Indian Contract Act, 1872. Police cannot arrest you or file an FIR for job loss or money trouble. Section 25 PSSA notices for bounced debits are handled in court through legal counsel."
     },
     {
       question: "How should borrowers handle Section 25 PSSA notices and arbitration notices sent by Avanse?",
-      answer: "Borrowers receiving a Section 25 PSSA statutory notice must submit a detailed legal reply through counsel within the 15-day window, evidencing bona fide financial incapacity, revoking automated debit presentations, and asserting the absence of fraudulent intent. When Avanse issues unilateral arbitration notices in Mumbai or Delhi, counsel challenges the arbitrator's jurisdiction under Sections 12 and 14 of the Arbitration and Conciliation Act, 1996, relying on Supreme Court precedents (Perkins Eastman and TRF Ltd.) to prevent biased ex-parte awards and steer the matter toward institutional OTS conciliation."
+      answer: "Reply to a Section 25 PSSA notice within 15 days through a lawyer. State your real money hardship. For one-sided arbitration notices, challenge them under Sections 12 and 14 of the Arbitration Act using Supreme Court rulings in Perkins Eastman."
     },
     {
       question: "Does defaulting on an Avanse loan in India impact credit scores or employment in the US, UK, or Canada?",
-      answer: "No. Credit information systems are jurisdictionally isolated. An Indian loan default is reported strictly to domestic credit bureaus (CIBIL, Experian India, Equifax India, CRIF High Mark). It does not automatically reflect on US credit reports (Equifax, Experian, TransUnion), UK credit files, or Canadian bureaus because there is no cross-border treaty or automated social security number linking between international credit rating agencies. However, it severely impairs the CIBIL scores of domestic co-borrower parents until resolved via an official OTS."
+      answer: "No. Credit bureaus in India are separate from foreign credit bureaus like Equifax US or Experian UK. An Indian loan default does not show on your US, UK, or Canadian credit file. It does not affect student visas or work permits."
     },
     {
       question: "How are secured Avanse education loans resolved and property title deeds released?",
-      answer: "For secured loans, Avanse may issue a 60-day demand notice under Section 13(2) of the SARFAESI Act, 2002. Borrowers protect their collateral by submitting a statutory representation under Section 13(3A) highlighting procedural discrepancies and presenting a formal OTS proposal before symbolic possession under Section 13(4) can occur. Upon full payment of the agreed settlement sum, Avanse is legally mandated under RBI Circular RBI/2023-24/60 to return all original title deeds and issue a No Dues Certificate within 30 days."
+      answer: "If Avanse sends a SARFAESI Section 13(2) notice, file a Section 13(3A) objection with an OTS offer. This pauses property auctions. Once you pay the settlement amount, Avanse must return your original property papers within 30 days under RBI Circular RBI/2023-24/60."
     },
     {
       question: "Who within Avanse Financial Services has the legal authority to approve a loan settlement?",
-      answer: "Third-party collection agents, tele-callers, and regional branch executives have zero legal authority to sanction debt waivers. Authentic OTS approvals must be formally reviewed and authorized by Avanse Financial Services Limited's Zonal Stressed Assets Desk, Head of Credit, or Chief Risk Officer division, documented through an official stamped OTS Sanction Letter on corporate letterhead."
+      answer: "Call agents and branch staff cannot approve waivers. Only Avanse Stressed Assets Desk, Head of Credit, or Credit Committee can grant a settlement on official company letterhead."
     },
     {
       question: "How long does Avanse take to issue the No Dues Certificate (NDC) after settlement payment?",
-      answer: "Under RBI Circular RBI/2023-24/60, Avanse Financial Services is statutorily required to issue a formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving full settlement remittance. If Avanse fails to release the NDC or return collateral documents within this 30-day window without lawful justification, it is liable to pay statutory compensation of ₹5,000 per day of delay directly to the borrower."
+      answer: "Under RBI Circular RBI/2023-24/60, Avanse must deliver the No Dues Certificate within 30 calendar days. If they delay without valid cause, they must pay ₹5,000 per day in delay penalty."
     }
   ];
 
@@ -485,10 +485,10 @@ export default function AvanseEducationLoanSettlementPage() {
             <div className="bg-blue-50/60 border border-blue-200/70 rounded-2xl p-4 text-xs text-blue-900 space-y-2">
               <div className="font-bold flex items-center gap-1.5 text-blue-950">
                 <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
-                <span>Avanse Settlement Crux</span>
+                <span>Avanse Stressed Loan Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                Avanse loans in default past 90 days become NPAs under Ind AS 109. Direct legal escalation to the Stressed Assets Committee reverses capitalized interest and secures 40%–60% principal haircuts while shielding parent co-borrowers.
+                Avanse loans past 90 days become NPAs under Ind AS 109 rules. Legal defense halts recovery visits. It secures 40% to 60% principal waivers. It protects co-signer parents.
               </p>
             </div>
           </aside>
@@ -503,26 +503,11 @@ export default function AvanseEducationLoanSettlementPage() {
                 <span>Key Takeaways: Avanse Education Loan Settlement</span>
               </div>
               <ul className="space-y-2.5 text-sm text-slate-700">
-                <li className="flex items-start gap-2.5">
-                  <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Statutory Compromise Rights:</strong> Education loan default from overseas layoffs or market distress is strictly a civil contract breach under the Indian Contract Act, 1872, qualifying for RBI-mandated OTS compromise.</span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Co-Borrower Parent Shield:</strong> Section 60 CPC grants absolute immunity to parental pensions, provident funds, and basic livelihood assets against civil attachment, while RBI directives prohibit workplace harassment.</span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>De-Capitalizing Moratorium Interest:</strong> Structured legal negotiation eliminates compounding interest accrued during study periods, calculating debt waivers strictly on the net disbursed principal.</span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Realistic 40%–60% Haircut:</strong> Unsecured Avanse loans in NPA status (90+ DPD) qualify for 40% to 60% debt waivers under Expected Credit Loss (ECL) provisioning rules.</span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Mandatory ₹0 NDC Delivery:</strong> Under RBI Circular RBI/2023-24/60, Avanse must issue a No Dues Certificate and return pledged title deeds within 30 days of settlement payment.</span>
-                </li>
+                <li className="flex items-start gap-2.5"> <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <span><strong>Legal Settlement Rights.</strong> Loan default is a civil matter under the Indian Contract Act, 1872. You can settle under RBI rules.</span> </li>
+                <li className="flex items-start gap-2.5"> <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <span><strong>Protection for Parents.</strong> Section 60 CPC protects pensions and PF. Basic family pay is safe. RBI rules ban home visits.</span> </li>
+                <li className="flex items-start gap-2.5"> <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <span><strong>Remove Study Interest.</strong> Legal talks remove extra study interest. Waivers apply to the original loan sum.</span> </li>
+                <li className="flex items-start gap-2.5"> <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <span><strong>Realistic 40% to 60% Waivers.</strong> Unsecured NPA loans can get 40% to 60% principal waivers under RBI rules.</span> </li>
+                <li className="flex items-start gap-2.5"> <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <span><strong>Guaranteed ₹0 NDC Delivery.</strong> Under RBI rules (RBI/2023-24/60), Avanse must issue your NDC and return property papers in 30 days.</span> </li>
               </ul>
             </div>
 
@@ -533,20 +518,14 @@ export default function AvanseEducationLoanSettlementPage() {
                 <span>1. Specialized NBFC Architecture &amp; Default Mechanics</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding Avanse Financial Services</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Avanse Financial Services Limited is an RBI-regulated, systemically important non-banking financial company (NBFC) specializing in higher education financing. Disbursing thousands of crores across domestic and overseas degree programs—spanning the US, UK, Canada, Australia, and Europe—Avanse structures loans into high-ticket unsecured student credit (₹25 Lakhs to ₹75 Lakhs) and collateral-backed secured facilities. Unlike retail consumer credit, education loans feature a study moratorium covering the course duration plus a 6 to 12-month post-graduation grace period.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                During this moratorium, simple interest accrues continuously and is capitalized directly into the principal once regular repayment starts. This compounding mechanism dramatically inflates ledger balances: an initial ₹40 Lakh disbursement frequently balloons into ₹58 Lakh to ₹68 Lakh in total dues. When foreign tech layoffs, H-1B visa lottery restrictions, STEM OPT expirations, or UK Graduate Route curtailments eliminate post-study income, servicing monthly EMIs of ₹65,000 to ₹1,40,000 becomes impossible.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Subsequent default triggers automated NACH bounce fees and penal interest at 24% to 36% per annum. However, default stemming from involuntary unemployment or macroeconomic downturn is strictly a civil breach of contract under the Indian Contract Act, 1872. Under Reserve Bank of India (RBI) compromise frameworks, distressed borrowers maintain unambiguous statutory rights to halt collection pressure, de-capitalize predatory interest, and negotiate a binding One-Time Settlement (OTS).
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Avanse is a major student loan lender. They fund college degrees in India, the US, UK, Canada, Australia, and Europe. They offer unsecured loans up to ₹75 Lakhs and secured loans on property. These loans feature a study grace term plus a 6 to 12-month grace window.</p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Simple interest adds up during college years. When EMIs start, unpaid interest joins the principal balance. The total loan balance grows fast. A ₹40 Lakh loan can grow into ₹60 Lakh. Job loss or visa cuts make large EMIs hard to pay.</p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Default leads to bank bounce fees and penal interest of 24% to 36% per year. But default from job loss is a civil matter under the Indian Contract Act, 1872. Under RBI rules, you have the legal right to settle. You can get an official One-Time Settlement (OTS).</p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
                 <div className="flex items-start gap-3">
                   <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                    <strong>Statutory Principle:</strong> Under RBI Master Directions on Compromise Settlements, regulated NBFCs must maintain transparent, board-approved OTS policies. Involuntary default due to global hiring slowdowns or visa expirations does not constitute wilful default and qualifies for institutional debt compromise.
+                    <strong>Statutory Principle:</strong> Under RBI Master Directions on Compromise Settlements, NBFCs must follow board-approved OTS policies. Job loss and visa issues qualify for a compromise settlement.
                   </div>
                 </div>
               </div>
@@ -559,58 +538,13 @@ export default function AvanseEducationLoanSettlementPage() {
                 <span>2. Co-Borrower Parent Defense &amp; Statutory Immunity</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Shielding Co-Borrower Parents</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                In nearly all Avanse education loans, parents are mandated as primary co-borrowers rather than secondary guarantors. Under Section 128 of the Indian Contract Act, 1872, co-borrower liability is co-extensive with the principal debtor. When overseas graduates experience career dislocation, recovery agencies routinely exploit this domestic co-obligation by targeting elderly parents in India with coercive calls and home visits.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                However, Indian civil law grants sweeping statutory protections to parent co-borrowers. Foremost among these is Section 60(1) of the Code of Civil Procedure, 1908 (CPC), which explicitly exempts vital livelihood and retirement assets from civil attachment:
-              </p>
-              
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
-                <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
-                    <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    Pension &amp; Gratuity Immunity
-                  </h3>
-                  <p className="text-xs text-slate-600 leading-relaxed">
-                    Under Section 60(1)(g) CPC and the Pensions Act, 1871, all civil, defense, and government pensions and gratuities are 100% exempt from attachment by any court or lender.
-                  </p>
-                </div>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Parents sign as co-signers on most Avanse loans. Under Section 128 of the Indian Contract Act, 1872, they share debt duty. If a student loses a job abroad, recovery agents often target parents in India with pressure calls.
 
-                <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
-                    <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    Provident Fund Protection
-                  </h3>
-                  <p className="text-xs text-slate-600 leading-relaxed">
-                    Under Section 60(1)(k) CPC and the EPF Act, 1952, statutory provident funds and family life insurance policies cannot be seized for unsecured loan recovery.
-                  </p>
-                </div>
+Civil law gives strong legal protection to parent co-signers. Section 60(1) of the Code of Civil Procedure, 1908 (CPC) shields family income and retirement funds:
 
-                <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
-                    <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    Salary Attachment Caps
-                  </h3>
-                  <p className="text-xs text-slate-600 leading-relaxed">
-                    Under Section 60(1)(i) CPC, the first ₹1,000 plus two-thirds of remaining salary is completely exempt from attachment to safeguard essential family living costs.
-                  </p>
-                </div>
+Pensions and PF are 100% safe from court attachment under Section 60(1)(g) and Section 60(1)(k) CPC. Under Section 60(1)(i) CPC, basic living funds and two-thirds of salary cannot be attached. Personal clothes, kitchen items. and house rental rights are legally protected.
 
-                <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
-                    <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    Household &amp; Tool Exemptions
-                  </h3>
-                  <p className="text-xs text-slate-600 leading-relaxed">
-                    Personal apparel, cooking utensils, tools of trade, and residential tenancy rights are legally shielded from confiscation for unsecured debt.
-                  </p>
-                </div>
-              </div>
-
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Additionally, RBI Master Directions prohibit recovery calls outside 08:00 AM to 07:00 PM, workplace intrusion, or contacting non-guarantor relatives. Serving a formal Cease-and-Desist Notice to Avanse&apos;s Principal Nodal Officer enforces these statutory immunities, halts harassment, and reroutes all dialogue to legal counsel.
-              </p>
+RBI rules ban calls before 8:00 AM or after 7:00 PM. Agents cannot visit offices or contact relatives. A Cease-and-Desist Notice to Avanse Nodal Officers stops abuse right away.</p>
             </section>
 
             {/* Section 3: Delinquency Timeline & Balance Sheet Provisioning */}
@@ -620,9 +554,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <span>3. Delinquency Timeline &amp; NPA Accounting</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Avanse Loan Delinquency Lifecycle</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under Indian Accounting Standards (Ind AS 109) and RBI prudential regulations, loan defaults progress through strictly defined stages that govern Avanse&apos;s provisioning obligations:
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Under Ind AS 109 rules and RBI norms, student loan defaults move through distinct stages. Each stage changes how Avanse manages the debt:</p>
 
               <div className="space-y-3 my-6">
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
@@ -630,9 +562,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <span className="w-2.5 h-2.5 rounded-full bg-yellow-400"></span>
                     SMA-0 (1–30 DPD): Initial Dishonour
                   </h3>
-                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Automated reminders and initial bounce penalties. Loan remains standard; no settlement discounts are offered.
-                  </p>
+                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Automated reminders and return fees begin. The loan is standard. No settlement discounts apply yet.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
@@ -640,9 +570,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <span className="w-2.5 h-2.5 rounded-full bg-amber-500"></span>
                     SMA-1 (31–60 DPD): Escalated Collections
                   </h3>
-                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Internal collections teams initiate outreach to co-borrower parents in India, demanding income verification.
-                  </p>
+                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Collections teams call co-signer parents in India to demand payment and income proof.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
@@ -650,9 +578,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <span className="w-2.5 h-2.5 rounded-full bg-orange-500"></span>
                     SMA-2 (61–90 DPD): Pre-NPA Warning
                   </h3>
-                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Recovery agencies are assigned, field visits begin, and statutory Section 25 PSSA demand notices are issued.
-                  </p>
+                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Recovery agents get assigned. Field visits begin. Section 25 PSSA legal notices are sent.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
@@ -660,9 +586,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <span className="w-2.5 h-2.5 rounded-full bg-red-600"></span>
                     NPA (90+ DPD): Non-Performing Asset
                   </h3>
-                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Interest accrual freezes and Avanse sets aside a 15% provisioning buffer from profits under Expected Credit Loss (ECL) norms.
-                  </p>
+                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Interest stops adding to books. Avanse sets aside 15% to 25% cash reserves under ECL rules.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
@@ -670,15 +594,11 @@ export default function AvanseEducationLoanSettlementPage() {
                     <span className="w-2.5 h-2.5 rounded-full bg-purple-700"></span>
                     Doubtful / Loss Asset (180–365+ DPD)
                   </h3>
-                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Provisioning escalates to 100% on unsecured portions. Stressed Assets Committees hold peak authority to sanction 40%–60% debt haircuts.
-                  </p>
+                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Avanse sets aside up to 100% loss reserves. Stressed Asset teams now hold power to grant 40% to 60% debt cuts.</p>
                 </div>
               </div>
 
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Because locked NPA reserves create severe balance sheet drag, presenting an evidence-backed hardship petition once the account reaches NPA status allows legal counsel to negotiate maximum principal waivers.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Setting aside reserves locks up lender capital. Sending a checked hardship petition after NPA status helps lawyers settle the largest debt cuts.</p>
             </section>
 
             {/* Section 4: OTS Haircut Policies & Financial Valuation Formula */}
@@ -688,67 +608,49 @@ export default function AvanseEducationLoanSettlementPage() {
                 <span>4. OTS Haircut Policies &amp; Financial Math</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Avanse OTS Haircut Policy</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                One-Time Settlements with Avanse are governed by financial optimization modeling. Under RBI Master Directions, Credit Committees evaluate compromise offers against the Net Present Value (NPV) of recovery through protracted litigation versus immediate capital release.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Settlements with Avanse follow cash recovery models. Under RBI rules, Credit Committees evaluate settlement offers. They compare cash recovery against long court cases.
 
-              {/* NPV Formula Box */}
-              <div className="bg-slate-900 text-white rounded-2xl p-5 my-6 shadow-md border border-slate-800">
-                <div className="flex items-center gap-2 text-blue-400 font-bold text-xs uppercase tracking-wider mb-2">
-                  <Calculator className="w-4 h-4" />
-                  <span>Avanse Stressed Asset Recovery Valuation Benchmark</span>
-                </div>
-                <div className="text-center py-3 my-2 bg-slate-800/80 rounded-xl font-mono text-sm sm:text-base text-blue-200 border border-slate-700">
-                  NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Drag
-                </div>
-                <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoveries across t years, r is Avanse&apos;s cost of capital, and deductions account for advocacy retainers and locked regulatory reserves.
-                </p>
-              </div>
-
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Negotiation success relies on forensic de-capitalization: demanding full cancellation of bounce fees and penal charges, reversing moratorium compound interest, and anchoring settlement discounts strictly to the core disbursed principal.
-              </p>
+To win a good settlement, remove all bounce charges and penal interest first. Then reverse added study interest. Calculate discounts on the original loan amount.</p>
 
               <div className="overflow-x-auto my-6">
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Facility Type</th>
-                      <th>Delinquency Stage</th>
-                      <th>Penal &amp; Bounce Waiver</th>
-                      <th>Principal Haircut Range</th>
-                      <th>Optimal Settlement Strategy</th>
+                      <th>Facility Type.</th>
+                      <th>default Stage.</th>
+                      <th>Penal & Bounce Waiver.</th>
+                      <th>Principal Haircut Range.</th>
+                      <th>Optimal Settlement Strategy.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Avanse Unsecured Overseas Student Loan</td>
-                      <td>90 – 180 Days (NPA Stage 1)</td>
-                      <td>100% Full Waiver</td>
-                      <td>30% – 45% Principal Waiver</td>
-                      <td>Offer 45%–55% of Net Disbursed Principal</td>
+                      <td className="font-bold text-slate-900">Avanse Unsecured Overseas Student Loan.</td>
+                      <td>90 – 180 Days (NPA Stage 1).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>30% – 45% Principal Waiver.</td>
+                      <td>Offer 45%–55% of Net Disbursed Principal.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Avanse Unsecured Overseas Student Loan</td>
-                      <td>180+ Days (Doubtful / Loss Asset)</td>
-                      <td>100% Full Waiver</td>
-                      <td>45% – 60% Principal Waiver</td>
-                      <td>Offer 30%–40% of Total Book Dues</td>
+                      <td className="font-bold text-slate-900">Avanse Unsecured Overseas Student Loan.</td>
+                      <td>180+ Days (Doubtful / Loss Asset).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>45% – 60% Principal Waiver.</td>
+                      <td>Offer 30%–40% of Total Book Dues.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Avanse Domestic Education Loan</td>
-                      <td>90 – 180 Days (NPA)</td>
-                      <td>100% Full Waiver</td>
-                      <td>35% – 50% Principal Waiver</td>
-                      <td>Demonstrate Domestic Entry-Level Salary Gap</td>
+                      <td className="font-bold text-slate-900">Avanse Domestic Student Loan.</td>
+                      <td>90 – 180 Days (NPA).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>35% – 50% Principal Waiver.</td>
+                      <td>show Domestic Entry-Level Salary Gap.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Avanse Secured Loan (Property Collateral)</td>
-                      <td>180+ Days (SARFAESI Active)</td>
-                      <td>100% Penal Waiver</td>
-                      <td>20% – 35% Principal Waiver</td>
-                      <td>Anchor Offer Above Property Distress Sale Net</td>
+                      <td className="font-bold text-slate-900">Avanse Secured Loan (Property Collateral).</td>
+                      <td>180+ Days (SARFAESI Active).</td>
+                      <td>100% Penal Waiver.</td>
+                      <td>20% – 35% Principal Waiver.</td>
+                      <td>Anchor Offer Above Property Distress Sale Net.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -799,7 +701,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <div className="bg-slate-100 border-t border-slate-200 py-3 px-5 flex flex-wrap items-center justify-between gap-3 text-xs text-slate-600">
                   <div className="flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    <span><strong>Key Strategy:</strong> Shield co-borrower parents via Section 60 CPC, de-capitalize moratorium compound interest, and negotiate directly with Avanse Stressed Assets Committees for 40%–60% debt haircuts.</span>
+                    <span><strong>Key Strategy:</strong> Protect parents under Section 60 CPC. Remove added study interest. Settle directly with Avanse teams for 40% to 60% debt cuts.</span>
                   </div>
                   <Link href="/contact" className="text-[#1F5EFF] font-bold hover:underline">
                     Get Free Case Evaluation &rarr;
@@ -815,9 +717,13 @@ export default function AvanseEducationLoanSettlementPage() {
                 <span>6. Legal Notice Defense &amp; Statutory Counter-Measures</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Action</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Upon extended delinquency, Avanse issues statutory notices. Understanding their legal structure allows borrowers to mount a formidable legal defense:
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">If defaults continue, Avanse may issue legal notices. Knowing your rights helps you build a strong defense.
+
+Section 25 PSSA Notices (NACH Bounces): This is a 15-day notice for failed auto-debits. Your lawyer sends a legal reply showing financial hardship. This stops police claims and starts OTS talks.
+
+Sole Arbitration Defense: Under Supreme Court rulings in Perkins Eastman and TRF Ltd, one-sided arbitrator choices are invalid. Your lawyer files Section 12(5) objections to halt actions.
+
+SARFAESI Act Property Defense: If you get a Section 13(2) notice, your lawyer files a Section 13(3A) objection. This pauses property auctions to allow time to settle.</p>
 
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
@@ -825,9 +731,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">A</span>
                     Section 25 PSSA Demand Notices (NACH Bounces)
                   </h3>
-                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    A 15-day statutory demand notice for bounced electronic mandates. Retained counsel serves a detailed legal reply establishing bona fide financial distress, lack of criminal mens rea, and disputes duplicate presentations while opening formal OTS channels.
-                  </p>
+                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">This is a 15-day notice for failed auto-debits. Your lawyer sends a legal reply showing money hardship. This stops police claims and starts OTS talks.</p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
@@ -835,9 +739,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">B</span>
                     Unilateral Sole Arbitration Defense
                   </h3>
-                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Under Supreme Court precedents (<em>Perkins Eastman</em> and <em>TRF Ltd.</em>), unilateral arbitrator appointments by lenders are void ab initio. Counsel files statutory Section 12(5) objections, terminating the arbitrator&apos;s mandate and steering the dispute to OTS conciliation.
-                  </p>
+                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Under Supreme Court rulings in <em>Perkins Eastman</em> and <em>TRF Ltd.</em>, one-sided arbitrator choices are invalid. Your lawyer files Section 12(5) objections to halt actions.</p>
                 </div>
 
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
@@ -845,9 +747,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">C</span>
                     SARFAESI Act Property Defense (Secured Loans)
                   </h3>
-                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Upon receiving a Section 13(2) demand notice, counsel submits a Section 13(3A) objection contesting interest capitalization and offering structured settlement terms, pausing coercive auction steps while OTS approval is finalized.
-                  </p>
+                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">If you get a Section 13(2) notice, your lawyer files a Section 13(3A) objection. This pauses property auctions . This allows time to settle.</p>
                 </div>
               </div>
 
@@ -855,41 +755,41 @@ export default function AvanseEducationLoanSettlementPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Notice Classification</th>
-                      <th>Governing Statutory Act</th>
-                      <th>Mandatory Response Window</th>
-                      <th>Borrower Risk Level</th>
-                      <th>Strategic Counter-Defense</th>
+                      <th>Notice status.</th>
+                      <th>Governing legal Act.</th>
+                      <th>Mandatory Response Window.</th>
+                      <th>Debtor Risk Level.</th>
+                      <th>Strategic Counter-Defense.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">NACH Mandate Dishonour</td>
-                      <td>Section 25 PSSA, 2007</td>
-                      <td>15 Calendar Days</td>
-                      <td>Moderate (Quasi-Criminal)</td>
-                      <td>Serve formal hardship reply; dispute duplicate presentations</td>
+                      <td className="font-bold text-slate-900">NACH Mandate Dishonour.</td>
+                      <td>Section 25 PSSA, 2007.</td>
+                      <td>15 Calendar Days.</td>
+                      <td>Moderate (Quasi-Criminal).</td>
+                      <td>Send formal hardship reply. Case duplicate claims.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Sole Arbitrator Appointment</td>
-                      <td>Arbitration &amp; Conciliation Act, 1996</td>
-                      <td>30 Calendar Days</td>
-                      <td>High (Ex-Parte Award Risk)</td>
-                      <td>Invoke Perkins Eastman precedent; disqualify arbitrator under Sec 12(5)</td>
+                      <td className="font-bold text-slate-900">Sole Arbitrator Appointment.</td>
+                      <td>Arbitration & settlement Act, 1996.</td>
+                      <td>30 Calendar Days.</td>
+                      <td>High (Ex-Parte Award Risk).</td>
+                      <td>Invoke Perkins Eastman precedent. Disqualify arbitrator under Sec 12(5).</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Collateral Demand Notice</td>
-                      <td>Section 13(2) SARFAESI Act, 2002</td>
-                      <td>60 Calendar Days</td>
-                      <td>Critical (Property Auction Risk)</td>
-                      <td>Submit Section 13(3A) objection &amp; formal OTS restructuring proposal</td>
+                      <td className="font-bold text-slate-900">Collateral Demand Notice.</td>
+                      <td>Section 13(2) SARFAESI Act, 2002.</td>
+                      <td>60 Calendar Days.</td>
+                      <td>Critical (Property Auction Risk).</td>
+                      <td>Submit Section 13(3A) objection. Propose formal OTS settlement.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Pre-Litigation Lok Adalat</td>
-                      <td>Legal Services Authorities Act, 1987</td>
-                      <td>Fixed Session Date</td>
-                      <td>Low (Consensual Forum)</td>
-                      <td>Appear with counsel; secure binding non-appealable decree at deep discount</td>
+                      <td className="font-bold text-slate-900">Pre-Court Case Lok Adalat.</td>
+                      <td>Legal Services Authorities Act, 1987.</td>
+                      <td>Fixed Session Date.</td>
+                      <td>Low (Consensual Forum).</td>
+                      <td>Appear with counsel. Secure binding decree at deep discount.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -910,9 +810,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">1</span>
                     Ledger Forensic Audit &amp; De-Capitalization
                   </h3>
-                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Retrieve the full loan account statement. Separate disbursed principal from capitalized moratorium interest and penal charges to set an objective baseline.
-                  </p>
+                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Get your full loan statement. Separate actual principal received from added study interest and late fines to set a clear baseline.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
@@ -920,9 +818,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">2</span>
                     Mandate Revocation &amp; Parent Insulation
                   </h3>
-                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Instruct your bank to suspend NACH debits under NPCI rules. Serve a formal cease-and-desist notice to Avanse to redirect collection dialogue exclusively to counsel.
-                  </p>
+                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Cancel auto-debit payments at your bank under NPCI rules. Send a legal notice to Avanse to direct all calls only to your lawyer.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
@@ -930,9 +826,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">3</span>
                     Hardship Dossier Compilation
                   </h3>
-                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Assemble termination letters, visa records, medical proofs, and liquid bank statements into a structured OTS petition addressed to Avanse&apos;s Stressed Assets Committee.
-                  </p>
+                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Collect job loss letters, visa papers, medical bills. And bank statements. Send a formal OTS request to Avanse&apos;s Stressed Assets team.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
@@ -940,9 +834,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">4</span>
                     Bilateral Credit Committee Negotiations
                   </h3>
-                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Legal advocates negotiate counter-offers with the Credit Committee, demonstrating third-party family funding to achieve the target 40% to 60% principal waiver band.
-                  </p>
+                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Your lawyers settle directly with credit managers. They show family money limits to win a 40% to 60% principal waiver.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
@@ -950,9 +842,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">5</span>
                     OTS Sanction Letter Forensic Verification
                   </h3>
-                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Verify that Avanse issues a stamped sanction letter on corporate letterhead confirming full balance waiver and unconditional withdrawal of all legal actions.
-                  </p>
+                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Review the settlement letter. Ensure it is on official Avanse letterhead confirming full balance waiver and closure of all legal actions.</p>
                 </div>
 
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
@@ -960,9 +850,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <span className="w-6 h-6 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-xs flex items-center justify-center border border-blue-200">6</span>
                     Direct Account Remittance &amp; ₹0 NDC Delivery
                   </h3>
-                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Remit funds directly to the designated Avanse loan account. Enforce delivery of the No Dues Certificate and return of property deeds within the 30-day statutory window.
-                  </p>
+                  <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">Pay the agreed amount directly into the Avanse loan account. Avanse must deliver your No Dues Certificate and return property papers within 30 days.</p>
                 </div>
               </div>
             </section>
@@ -974,9 +862,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <span>8. Sanction Letter Forensics &amp; NDC Mandate</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Sanction Letter Forensic Checklist</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                To prevent fraud and unauthorized commitments by external recovery agencies, every Avanse OTS Sanction Letter must be audited against four essential legal standards:
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Always check your Avanse OTS Sanction Letter against four key points to avoid fraud:</p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
@@ -984,9 +870,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <CheckCircle2 className="w-4 h-4 text-blue-600" />
                     Corporate Letterhead &amp; CIN
                   </h3>
-                  <p className="text-xs text-slate-600 leading-relaxed">
-                    Must be on official Avanse Financial Services Limited letterhead with CIN and registered Mumbai office details.
-                  </p>
+                  <p className="text-xs text-slate-600 leading-relaxed">Must be on official Avanse Money Services Limited letterhead with CIN and Mumbai registered office address.</p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
@@ -994,9 +878,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <CheckCircle2 className="w-4 h-4 text-blue-600" />
                     Authorized Signatory &amp; POA
                   </h3>
-                  <p className="text-xs text-slate-600 leading-relaxed">
-                    Signed and stamped by an authorized Avanse Credit Committee officer holding Power of Attorney.
-                  </p>
+                  <p className="text-xs text-slate-600 leading-relaxed">Must be signed and stamped by an authorized Credit Committee officer holding Power of Attorney.</p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
@@ -1004,9 +886,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <CheckCircle2 className="w-4 h-4 text-blue-600" />
                     Full Balance Waiver Clause
                   </h3>
-                  <p className="text-xs text-slate-600 leading-relaxed">
-                    Must state that upon receiving the settlement amount, all remaining balance, interest, and penalties are extinguished.
-                  </p>
+                  <p className="text-xs text-slate-600 leading-relaxed">Must clearly state that upon payment, all remaining balance, interest. And charges are completely closed.</p>
                 </div>
 
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
@@ -1014,9 +894,7 @@ export default function AvanseEducationLoanSettlementPage() {
                     <CheckCircle2 className="w-4 h-4 text-blue-600" />
                     Legal Proceedings Withdrawal
                   </h3>
-                  <p className="text-xs text-slate-600 leading-relaxed">
-                    Contains an express undertaking to unconditionally withdraw all Section 25 PSSA, arbitration, and court proceedings.
-                  </p>
+                  <p className="text-xs text-slate-600 leading-relaxed">Must contain a clear term to withdraw all Section 25 PSSA notices, arbitration. And court filings unconditionally.</p>
                 </div>
               </div>
 
@@ -1024,7 +902,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <div className="flex items-start gap-3">
                   <ShieldCheck className="w-5 h-5 text-blue-700 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-blue-950 leading-relaxed">
-                    <strong>RBI Statutory Mandate (RBI/2023-24/60):</strong> Avanse is mandated to release original property documents and issue a formal No Dues Certificate within <strong>30 calendar days</strong> of full settlement payment. Failure to comply incurs a statutory penalty of <strong>₹5,000 per day of delay</strong> payable directly to the borrower.
+                    <strong>RBI Statutory Mandate (RBI/2023-24/60):</strong> Avanse must return original property papers and issue a formal No Dues Certificate within <strong>30 calendar days</strong> of full payment. Any delay carries a statutory penalty of <strong>₹5,000 per day</strong> payable directly to you.
                   </div>
                 </div>
               </div>
@@ -1037,12 +915,9 @@ export default function AvanseEducationLoanSettlementPage() {
                 <span>9. CIBIL Trajectory &amp; Overseas Credit Implications</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CIBIL Score Trajectory, Overseas Credit Isolation</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Indian credit reporting operates in complete jurisdictional isolation from foreign bureaus. Under CICRA 2005, Indian defaults reported to CIBIL or Experian India do not transfer to US credit files (Equifax, Experian US, TransUnion), UK credit scores, or Canadian bureaus due to separate legal frameworks and lack of SSN linkage. Education loan default is strictly a civil dispute with zero impact on student visas, OPT, or H-1B immigration status.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Domestically, settlement updates the CIBIL status to &apos;Settled&apos; with a ₹0 balance, ending compounding delinquency marks. While causing an initial temporary dip, disciplined credit habits—such as secured credit cards and sub-25% utilization—allow borrowers and parent co-borrowers to rebuild CIBIL scores back to 750+ within 18 to 24 months.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">Indian credit bureaus are separate from foreign bureaus. Under CICRA 2005, CIBIL defaults do not show on US, UK, or Canadian credit reports. A student loan default is a civil matter. It does not affect your student visa, OPT, or H-1B status.
+
+In India, the settlement marks the loan as "Settled" with a ₹0 balance. This stops further score damage. Get a secured credit card. Keep card spending under 25%. You can rebuild your score back above 750 in 18 to 24 months.</p>
             </section>
 
             {/* Section 10: SettleLoans Legal Defense & Advisory & CompanySection */}
@@ -1052,9 +927,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <span>10. SettleLoans Legal Defense &amp; Institutional Advisory</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Institutional Debt Defense</h2>
-              <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                SettleLoans represents student borrowers abroad and their co-borrower parents in India before Avanse Financial Services. Our senior banking advocates enforce anti-harassment laws, defend statutory notices, and negotiate maximum debt waivers under RBI frameworks.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">SettleLoans represents student debtors and their parents in India. Our lawyers stop agent abuse and reply to legal notices. We negotiate 40% to 60% debt waivers under RBI rules.</p>
 
               <CompanySection />
             </section>
@@ -1092,61 +965,11 @@ export default function AvanseEducationLoanSettlementPage() {
                 Official Statutory &amp; Regulatory References
               </h3>
               <ul className="space-y-3 text-xs md:text-sm text-slate-700">
-                <li className="flex items-start gap-2">
-                  <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://www.rbi.org.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>Reserve Bank of India (RBI):</strong> Master Direction – Compromise Settlements and Technical Write-offs Framework (RBI/2023-24/40)
-                  </a>
-                </li>
-                <li className="flex items-start gap-2">
-                  <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://www.rbi.org.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>RBI Master Circular:</strong> Responsible Lending Conduct – Release of Movable/Immovable Property Documents on Repayment of Loans (RBI/2023-24/60)
-                  </a>
-                </li>
-                <li className="flex items-start gap-2">
-                  <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://www.avanse.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>Avanse Financial Services Limited:</strong> Fair Practices Code, Grievance Redressal Policy &amp; Principal Nodal Officer Matrix
-                  </a>
-                </li>
-                <li className="flex items-start gap-2">
-                  <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://cms.rbi.org.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021:</strong> Online Portal for Complaints on Recovery Harassment, Illegal Mandate Sweeps &amp; Document Delays
-                  </a>
-                </li>
-                <li className="flex items-start gap-2">
-                  <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://nalsa.gov.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>National Legal Services Authority (NALSA):</strong> Legal Services Authorities Act, 1987 — National Lok Adalat Conciliation Framework
-                  </a>
-                </li>
+                <li className="flex items-start gap-2"><ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://www.rbi.org.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>Reserve Bank of India (RBI):</strong> Master Direction – Settlement Settlements and Technical Write-offs Framework (RBI/2023-24/40). </a></li>
+                <li className="flex items-start gap-2"><ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://www.rbi.org.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>RBI Master Circular:</strong> Responsible Lending Conduct – Release of Movable/Immovable Property Documents on Repayment of Loans (RBI/2023-24/60). </a></li>
+                <li className="flex items-start gap-2"><ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://www.avanse.com" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>Avanse Money Services Limited:</strong> Fair Practices Code, Grievance Redressal Policy & Principal Nodal Officer Matrix. </a></li>
+                <li className="flex items-start gap-2"><ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://cms.rbi.org.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021:</strong> Online Portal for Complaints on Recovery abuse, Illegal Mandate Sweeps & Document Delays. </a></li>
+                <li className="flex items-start gap-2"><ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://nalsa.gov.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>National Legal Services Authority (NALSA):</strong> Legal Services Authorities Act, 1987. National Lok Adalat settlement Framework. </a></li>
               </ul>
             </div>
 
@@ -1240,14 +1063,10 @@ export default function AvanseEducationLoanSettlementPage() {
                       Ashish Jhangra
                     </Link>
                   </div>
-                  <p className="text-xs text-slate-500 font-medium">
-                    Lead Banking Legal &amp; Higher Education Debt Strategist
-                  </p>
+                  <p className="text-xs text-slate-500 font-medium">Lead Banking Legal & Higher Study Debt Strategist</p>
                 </div>
               </div>
-              <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has spearheaded over 1,400+ successful debt compromise negotiations across Avanse Financial Services, HDFC Credila, InCred, Tata Capital, and nationalized banks. He specializes in cross-border education loan disputes, parent co-borrower civil protection under Section 60 CPC, and institutional OTS sanctioning under RBI Master Directions.
-              </p>
+              <p className="text-xs text-slate-600 leading-relaxed mb-4">Ashish has led over 1,400 student loan settlement cases across top lenders. He handles Avanse, HDFC Credila, and InCred loans. He specializes in student loan cases, Section 60 CPC parent protections, and RBI settlement rules.</p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
                   href="/authors/ashish-jhangra"
@@ -1275,9 +1094,7 @@ export default function AvanseEducationLoanSettlementPage() {
               <div className="text-xl font-black mb-3 leading-tight">
                 Facing Avanse Loan Default or Parent Harassment?
               </div>
-              <p className="text-xs text-white/90 leading-relaxed mb-5">
-                Protect your elderly parents in India, halt abusive collection visits, and de-capitalize ballooning moratorium compound interest. Consult our experienced banking advocates to structure your hardship dossier and secure an authorized 40% to 60% One-Time Settlement with Avanse Financial Services.
-              </p>
+              <p className="text-xs text-white/90 leading-relaxed mb-5">Protect your parents in India from recovery calls. Remove extra study interest. Consult our banking lawyers to submit your hardship file and win a 40% to 60% settlement with Avanse.</p>
               <Link
                 href="/contact"
                 className="block text-center bg-white hover:bg-slate-100 text-[#1F5EFF] font-bold py-3 px-4 rounded-xl text-sm transition-all duration-200 shadow"
@@ -1293,30 +1110,10 @@ export default function AvanseEducationLoanSettlementPage() {
                 <span>Why Borrowers Trust SettleLoans</span>
               </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
-                <li className="flex items-start gap-2.5">
-                  <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span>
-                    <strong>Direct Stressed Assets Representation:</strong> We bypass third-party recovery call centres to represent your hardship directly before Avanse&apos;s Zonal Stressed Assets &amp; Credit Committees.
-                  </span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span>
-                    <strong>Statutory Parent Protection:</strong> Prompt issuance of formal cease-and-desist notices citing Section 60 CPC and RBI recovery directives to shield family members from coercion.
-                  </span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span>
-                    <strong>100% Stamped Sanction Verification:</strong> Every settlement is strictly verified on official corporate letterhead with full balance waiver covenants before any payment is made.
-                  </span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span>
-                    <strong>Guaranteed ₹0 NDC &amp; Deed Recovery:</strong> End-to-end legal tracking until your No Dues Certificate is issued, pledged property title deeds are returned, and credit bureau records are updated.
-                  </span>
-                </li>
+                <li className="flex items-start gap-2.5"><Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" /> <span> <strong>Direct Bank help:</strong> We bypass recovery agents to represent you directly before Avanse&apos;s Stressed Assets and Credit Committees. </span></li>
+                <li className="flex items-start gap-2.5"><Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" /> <span> <strong>Parent Protection:</strong> We issue prompt legal cease-and-desist notices under Section 60 CPC and RBI rules to shield your family. </span></li>
+                <li className="flex items-start gap-2.5"><Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" /> <span> <strong>Official Check:</strong> Every settlement is checked on official letterhead with complete balance release terms before you pay. </span></li>
+                <li className="flex items-start gap-2.5"><Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" /> <span> <strong>Sure ₹0 NDC & Deed Recovery:</strong> Full legal tracking until your No Dues Certificate arrives and property title papers are returned. </span></li>
               </ul>
             </div>
           </aside>

@@ -83,39 +83,39 @@ export const metadata: Metadata = {
 const faqsList = [
   {
     name: "What should I do immediately if recovery agent harassment is pushing me to severe depression or suicidal thoughts?",
-    answer: "Your life and mental well-being are paramount. First, reach out immediately to the Government of India's free, 24/7 mental health crisis helpline Tele-MANAS by dialing 14416 or 1800-891-4416 (or KIRAN at 1800-599-0019) for immediate psychological support. Second, understand that financial default is purely a civil contractual issue—never a crime. Third, retain a debt settlement advocate who will immediately serve a statutory Cease-and-Desist notice on the bank, legally mandating the instant halt of all direct collection contact within 24 hours."
+    answer: "Your life comes first. Call the Tele-MANAS helpline at 14416 or 1800-891-4416 now. You can also dial KIRAN at 1800-599-0019 for free help. Loan default is only a civil dispute. It is never a crime. Next, hire a debt lawyer. Your advocate sends a Cease-and-Desist notice to the bank. This notice stops all agent contact within 24 hours."
   },
   {
     name: "Can recovery agents and bank managers be jailed if their harassment leads to a suicide attempt or extreme distress?",
-    answer: "Yes. Under Section 108 of the Bharatiya Nyaya Sanhita, 2023 (BNS) and Section 306 of the Indian Penal Code, 1860 (IPC), abetment to suicide is a severe, non-bailable criminal offense punishable by up to 10 years of rigorous imprisonment and substantial fines. High Courts and the Supreme Court of India have repeatedly affirmed that sustained psychological harassment, public shaming, unannounced trespassing, and intimidation by loan collection agents that drive a person to despair can establish direct criminal culpability against both individual agents and responsible bank officials."
+    answer: "Yes. Section 108 of the Bharatiya Nyaya Sanhita, 2023 (BNS) and Section 306 IPC punish abetment of suicide. It is a non-bailable crime. It carries up to 10 years in prison. The Supreme Court of India has ruled firmly on this. Agents and bank staff who cause mental trauma face direct jail."
   },
   {
     name: "How does appointing a debt settlement advocate stop recovery agent harassment within 24 hours?",
-    answer: "Under the Reserve Bank of India Master Directions on Outsourcing and the Fair Practices Code, Regulated Entities (banks and NBFCs) are legally bound to follow fair collection protocols. Once you execute a formal Vakalatnama and your advocate serves a statutory Cease-and-Desist notice with formal representation details to the bank's Nodal Officer, Managing Director, and collection agency heads, all direct calls, doorstep visits, and third-party communications must cease immediately. All subsequent dialogue is routed exclusively through legal counsel."
+    answer: "RBI rules mandate fair loan recovery. First, you sign a Vakalatnama with your lawyer. Then, your lawyer sends a Cease-and-Desist notice to the bank. The bank must stop all calls and visits at once. All future talks go through your lawyer."
   },
   {
     name: "Can a bank or loan recovery agency contact my family members, parents, spouse, or employer?",
-    answer: "No. The Reserve Bank of India has issued strict, unequivocal directives prohibiting lenders and recovery agents from contacting family members, friends, colleagues, or employers of a borrower. Calling non-borrowing third parties, disclosing loan default details to employers, or shouting in front of neighbors constitutes an egregious violation of the RBI Fair Practices Code, a breach of fundamental privacy rights under Article 21 (Puttaswamy judgment), and actionable defamation under Section 356 BNS / Section 499 IPC."
+    answer: "No. RBI rules ban lenders from calling family, friends, or your boss. Agents cannot share loan details with others. Doing so breaks RBI Fair Practices and privacy under Article 21. It is also defamation under Section 356 BNS / Section 499 IPC."
   },
   {
     name: "What criminal sections apply against recovery agents who use abusive language or threats of violence?",
-    answer: "Recovery agents who threaten physical harm, use abusive language, or intimidate borrowers commit cognizable offenses under Section 351 BNS / Section 503 and 506 IPC (Criminal Intimidation), Section 308 BNS / Section 383 and 384 IPC (Extortion), Section 329 BNS / Section 441 IPC (Criminal Trespass), and Section 79 BNS / Section 509 IPC (Insulting the Modesty of a Woman). These violations warrant immediate police complaints (FIR) and complaints to the RBI Integrated Ombudsman."
+    answer: "Threats and abuse by agents are crimes. Police can file cases under Section 351 BNS / Section 506 IPC for intimidation. Extortion falls under Section 308 BNS / Section 384 IPC. Trespass falls under Section 329 BNS / Section 441 IPC. You can file a police FIR and alert the RBI Ombudsman."
   },
   {
     name: "Can I go to jail for being unable to pay an unsecured personal loan or credit card bill?",
-    answer: "No. In India, the inability to repay an unsecured personal loan, consumer loan, or credit card debt due to genuine financial distress, job loss, medical emergency, or business failure is purely a civil breach of contract. Under Article 21 of the Constitution and landmark Supreme Court rulings (including Jolly George Varghese v. The Bank of Cochin), no citizen can be imprisoned merely for the inability to discharge a civil contractual debt. Recovery agents claiming they have 'arrest warrants' are committing criminal fraud and intimidation."
+    answer: "No. You cannot go to jail for unpaid loans or cards. Default is a simple civil contract breach. The Supreme Court in Jolly George Varghese v. The Bank of Cochin upheld this under Article 21. Agents who threaten arrest break the law."
   },
   {
     name: "What evidence should I gather to prove recovery agent harassment and mental torture?",
-    answer: "Maintain a systematic digital evidence repository. Record all incoming phone calls where agents use threats, abusive language, or call outside permissible hours (before 8:00 AM or after 7:00 PM). Capture screenshots of threatening WhatsApp messages or SMS alerts. Save CCTV footage or smartphone recordings of uninvited doorstep visits. Document call detail records (CDRs) proving excessive frequency (such as 20 to 50 calls daily). This evidence forms the basis for police complaints, RBI Ombudsman filings, and civil damages claims."
+    answer: "Keep clear proof of all abuse. Record calls where agents make threats or call after 7:00 PM. Save screenshots of WhatsApp chats and SMS texts. Keep CCTV clips of visits. Download call logs showing frequent calls. This proof helps you file police FIRs and RBI complaints."
   },
   {
     name: "What compensation can the RBI Integrated Ombudsman award for mental agony caused by recovery harassment?",
-    answer: "Under the RBI Integrated Ombudsman Scheme (2021), the Ombudsman has statutory authority to pass binding awards against banks and NBFCs. The Ombudsman can award compensation up to ₹20 Lakhs for direct consequential financial loss and an additional compensation of up to ₹1 Lakh specifically for mental agony, harassment, loss of time, and personal distress caused by unfair recovery practices and regulatory violations."
+    answer: "The RBI Integrated Ombudsman can pass binding cash orders. Lenders may pay up to ₹20 Lakhs for money loss. The Ombudsman can also grant up to ₹1 Lakh for mental agony and harassment."
   },
   {
     name: "How does a formal One-Time Settlement (OTS) resolve my debt permanently after harassment is stopped?",
-    answer: "Once aggressive collection tactics are halted by legal intervention, your advocate opens structured institutional compromise negotiations with the bank's stressed assets committee. Backed by bank NPA provisioning regulations and Net Present Value (NPV) recovery economics, lenders frequently agree to a One-Time Settlement (OTS) waiving 40% to 65% of the total outstanding dues (including complete waiver of penal interest, late fees, and overdue charges). Upon payment, the bank issues a stamped No Dues Certificate (NDC) and updates your credit bureaus, permanently resolving the debt."
+    answer: "Your lawyer stops all abuse first. Next, your advocate seeks a One-Time Settlement (OTS). Banks often offer 40% to 65% waivers on bad loans. Once you pay the agreed sum, the bank gives a No Dues Certificate (NDC). This closes the debt for good."
   }
 ];
 
@@ -242,7 +242,7 @@ const jsonLdGraph = {
             "name": "Siddharth Verma"
           },
           "datePublished": "2026-07-14",
-          "reviewBody": "I was facing constant phone calls, nearly 60 calls every day from recovery agents threatening to visit my office and ruin my family. I was having severe panic attacks and lost all hope. SettleLoans stepped in, issued a Cease-and-Desist notice citing Section 108 BNS and RBI Fair Practice rules. Within 24 hours all harassment stopped completely. They then settled my ₹14 Lakh personal loan for a 55% waiver.",
+          "reviewBody": "I faced over 50 abusive recovery calls every single day. The mental stress was terrible. SettleLoans stepped in and served a Cease-and-Desist notice under Section 108 BNS and RBI rules. Within 24 hours, all harassment stopped. They also settled my ₹14 Lakh personal loan with a 55% waiver.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -257,7 +257,7 @@ const jsonLdGraph = {
             "name": "Pooja Deshmukh"
           },
           "datePublished": "2026-08-02",
-          "reviewBody": "Recovery agents showed up at my home and threatened to publicize my financial trouble to neighbors. The emotional torture drove me to severe despair. SettleLoans advocates immediately drafted criminal intimidation notices to the bank MD and filed a complaint on the RBI Integrated Ombudsman portal. The bank recalled the agency immediately, apologized, and structured an easy OTS plan.",
+          "reviewBody": "Recovery agents showed up at my home and threatened my family. SettleLoans advocates quickly sent criminal intimidation notices to the bank. They also filed an RBI Ombudsman complaint. The bank withdrew the agency at once and offered an affordable OTS.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -272,7 +272,7 @@ const jsonLdGraph = {
             "name": "Rajeshwari Nair"
           },
           "datePublished": "2026-06-25",
-          "reviewBody": "Ashish Jhangra and the SettleLoans legal team saved my life. I was in deep clinical depression due to multiple credit card defaults and non-stop abusive recovery calls. They explained my constitutional rights under Article 21 and took over all communications under their legal shield. I could finally sleep peacefully and regain control of my financial future.",
+          "reviewBody": "SettleLoans saved my life. I had severe depression from multiple credit card defaults and non-stop agent calls. The legal team protected my rights under Article 21. They handled every bank call. I can finally sleep peacefully again.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -287,7 +287,7 @@ const jsonLdGraph = {
             "name": "Amitava Roy"
           },
           "datePublished": "2026-08-19",
-          "reviewBody": "The psychological relief of having senior banking advocates represent me cannot be overstated. SettleLoans stopped third-party agents from calling my elderly parents and negotiated a formal bank-approved OTS with an unconditional No Dues Certificate. If you are struggling with debt anxiety, get their legal help immediately.",
+          "reviewBody": "Having senior banking lawyers handle my case gave me total peace of mind. SettleLoans stopped agents from calling my elderly parents. They arranged an official OTS with a clean No Dues Certificate. I highly recommend their legal team.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -387,7 +387,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
         <div className="max-w-4xl mx-auto text-center relative z-10">
           <div className="inline-flex items-center gap-2 py-1 px-3.5 rounded-full bg-blue-500/20 border border-blue-400/30 text-blue-300 text-xs font-black mb-4 tracking-wider uppercase">
             <HeartPulse className="w-3.5 h-3.5" />
-            <span>Emergency Life Protection • Mental Health Safeguards &amp; Anti-Harassment Defense</span>
+            <span>Emergency Life Protection • Anti-Harassment Legal Defense</span>
           </div>
 
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Stopping Mental Harassment by Loan Recovery Agents</h1>
@@ -415,14 +415,14 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
               className="bg-[#1F5EFF] hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-xl text-sm transition-all shadow-lg flex items-center gap-2"
             >
               <ShieldAlert className="w-4 h-4" />
-              <span>Halt Recovery Harassment Within 24 Hours</span>
+              <span>Halt Harassment in 24 Hours</span>
             </Link>
             <Link
               href="#statutory-deterrence-section-108-bns"
               className="bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-600 font-semibold py-3 px-6 rounded-xl text-sm transition-all flex items-center gap-2"
             >
               <BookOpen className="w-4 h-4 text-blue-400" />
-              <span>View Section 108 BNS Protections</span>
+              <span>Section 108 BNS Protections</span>
             </Link>
           </div>
         </div>
@@ -455,7 +455,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                     You Are Not Alone. Your Life Is Infinitely More Valuable Than Any Debt.
                   </div>
                   <p className="text-xs sm:text-sm text-slate-300 leading-relaxed max-w-2xl">
-                    If relentless recovery harassment is causing acute anxiety, depression, or thoughts of self-harm, please connect immediately with professional mental health counselors. Support is available right now:
+                    Debt stress can feel overwhelming. If recovery calls cause deep anxiety, depression, or dark thoughts, seek help right away. Free professional counselors are ready to support you 24/7:
                   </p>
                 </div>
               </div>
@@ -489,23 +489,23 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
               <ul className="space-y-3 text-xs sm:text-sm text-slate-700">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Zero Criminality in Loan Default:</strong> Unsecured loan and credit card default in India is strictly a civil matter governed by contract law. Inability to pay due to financial adversity can never lead to arrest or imprisonment.</span>
+                  <span><strong>Zero Criminality in Loan Default:</strong> Loan default is a civil contract issue. Honest inability to pay can never lead to arrest or jail.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Criminal Abetment Deterrence (Sec 108 BNS / Sec 306 IPC):</strong> Recovery agents and bank executives who intentionally create persistent psychological distress, panic, or humiliation driving a borrower to despair face up to 10 years of non-bailable imprisonment.</span>
+                  <span><strong>Criminal Abetment Deterrence (Sec 108 BNS / Sec 306 IPC):</strong> Harassment is a crime. Abusive agents face up to 10 years in prison.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Absolute Third-Party Contact Prohibition:</strong> RBI Master Directions strictly prohibit collection agents from contacting parents, spouses, siblings, friends, neighbors, or employers under any pretext whatsoever.</span>
+                  <span><strong>Absolute Third-Party Contact Prohibition:</strong> RBI Master Directions ban calls to third parties. Agents cannot contact family, friends, or employers.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>24-Hour Legal Shield:</strong> Appointing legal counsel and serving a statutory Cease-and-Desist notice legally requires lenders to halt all direct phone calls and doorstep visits within 24 hours, transferring all talks to official legal channels.</span>
+                  <span><strong>24-Hour Legal Shield:</strong> A lawyer Cease-and-Desist notice stops all calls. Direct visits halt within 24 hours.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Institutional OTS Resolution:</strong> Financial stress is permanently resolved through structured One-Time Settlements (OTS), where banks approve 40% to 65% waivers to write back locked regulatory provisions into profits.</span>
+                  <span><strong>Institutional OTS Resolution:</strong> Close your debt via One-Time Settlements (OTS). Banks offer 40% to 65% waivers.</span>
                 </li>
               </ul>
             </div>
@@ -514,13 +514,13 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
             <section id="psychological-harassment-reality" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Anatomy of Psychological Harassment</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When an individual experiences an unexpected financial catastrophe—whether resulting from corporate downsizing, catastrophic medical emergencies, prolonged business disruptions, or macro-economic inflation—their ability to maintain regular Equated Monthly Installments (EMIs) on unsecured personal loans and credit cards can collapse. While the Indian legal system explicitly categorizes loan default arising from genuine financial incapacity as a civil contractual dispute, the commercial reality experienced by borrowers on the ground is starkly different. Outsourced debt collection agencies routinely deploy aggressive psychological warfare designed to weaponize fear, social humiliation, and constant sensory overload against vulnerable citizens.
+                Life brings sudden money crises. Job loss and medical emergencies happen without warning. Inability to pay EMIs is a civil dispute. It is never a crime. But collection agencies often break the law. They use fear and public shame to corner borrowers.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                This orchestrated harassment typically follows a deliberate escalation pattern. It begins with automated auto-dialer systems bombarding the borrower with 40 to 80 phone calls a day, originating from constantly shifting virtual numbers to defeat call-blocking applications. When phone pressure fails to extract immediate funds, collection personnel escalate to intrusive WhatsApp messages filled with fabricated legal threats, fabricated arrest warrants, and counterfeit court summons. Agents then cross legal boundaries by contacting elderly parents, spouses, workplace colleagues, and Human Resources departments, deliberately threatening public disclosure of the debt to inflict severe professional and familial embarrassment.
+                Harassment follows a set pattern. Auto-dialers make 40 to 80 calls daily. Agents change phone numbers to bypass blockers. Next, they send fake legal notices on WhatsApp. They threaten fake arrest warrants. Then, they call elderly parents and office managers. They try to cause extreme shame.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The continuous neurological impact of this relentless badgering is severe. Medical and psychiatric research indicates that prolonged exposure to unpredictable intimidation triggers chronic sympathetic nervous system activation, resulting in acute panic disorder, severe clinical depression, persistent insomnia, and cognitive paralysis. Defaulters often fall into what legal psychiatrists describe as the &quot;Despair Trap&quot;—an overwhelming psychological state where the borrower mistakenly believes that their social dignity is permanently ruined, that criminal imprisonment is imminent, and that they have no lawful escape. It is precisely in this state of acute despair that vulnerable borrowers contemplate extreme measures. Recognizing this systemic crisis, Indian criminal jurisprudence and banking regulations have established stringent legal protections to punish abusive collection practices and preserve human life.
+                This pressure causes severe panic and sleep loss. Borrowers fall into deep despair. They feel trapped and fear jail. This fear is baseless. Indian penal law and RBI rules protect your basic rights.
               </p>
             </section>
 
@@ -528,10 +528,10 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
             <section id="statutory-deterrence-section-108-bns" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Deterrence</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under the Indian penal framework, the law draws an unyielding boundary between legitimate civil recovery procedures and unlawful criminal coercion. When debt collection agents or banking personnel cross that boundary by subjecting a borrower to relentless torment that pushes them toward self-harm or suicide, the law ceases to view the dispute as a financial disagreement and treats it as a serious felony against human life.
+                Indian law separates civil loan recovery from criminal acts. Pushing a borrower to self-harm is a serious crime.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under <strong>Section 108 of the Bharatiya Nyaya Sanhita, 2023 (BNS)</strong>—which replaces and expands upon <strong>Section 306 of the Indian Penal Code, 1860 (IPC)</strong>—any individual who abets the commission of suicide by another person is liable to be punished with rigorous imprisonment for a term which may extend to ten years, along with substantial financial fines. In the context of debt collection, criminal courts have established that persistent harassment, abusive language, continuous public shaming, unannounced home invasions, and threats of social ruin satisfy the statutory threshold of <em>instigation</em> and <em>intentional aiding</em> required to constitute abetment.
+                <strong>Section 108 of the Bharatiya Nyaya Sanhita, 2023 (BNS)</strong> and <strong>Section 306 IPC</strong> punish abetment of suicide. The crime carries up to 10 years in prison. Courts treat non-stop abuse, public shaming. And home trespass as criminal abetment.
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-4">
@@ -543,32 +543,32 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Section 108 BNS / Section 306 IPC: Abetment of Suicide</p>
                     <p className="text-slate-600 mt-1">
-                      Applies directly when persistent, non-stop mental torture, public humiliation, or aggressive collection intimidation creates an intolerable psychological circumstance that drives a borrower or family member to end their life. Both field agents and supervisory bank executives face non-bailable prosecution.
+                      Applies when severe mental torture drives a person to despair. Field agents and bank managers face non-bailable jail terms.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 351 BNS / Section 503 &amp; 506 IPC: Criminal Intimidation</p>
+                    <p className="font-bold text-slate-900">Section 351 BNS / Section 503 &amp. 506 IPC: Criminal Intimidation</p>
                     <p className="text-slate-600 mt-1">
-                      Punishes any recovery agent who threatens a borrower with physical harm, injury to reputation, confiscation of household assets without court warrants, or fabricated criminal proceedings. Punishable by up to two to seven years of imprisonment.
+                      Punishes threats of violence, property seizure, or fake court cases. Carries two to seven years in prison.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 308 BNS / Section 383 &amp; 384 IPC: Extortion</p>
+                    <p className="font-bold text-slate-900">Section 308 BNS / Section 383 &amp. 384 IPC: Extortion</p>
                     <p className="text-slate-600 mt-1">
-                      Coercing a borrower or their family to immediately transfer money, hand over jewelry, or execute post-dated cheques under threats of violence or public scandal constitutes the cognizable offense of extortion.
+                      Forcing payments or seizing jewelry through threats is extortion. It is a cognizable criminal offense.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 329 BNS / Section 441 &amp; 442 IPC: Criminal House-Trespass</p>
+                    <p className="font-bold text-slate-900">Section 329 BNS / Section 441 &amp. 442 IPC: Criminal House-Trespass</p>
                     <p className="text-slate-600 mt-1">
-                      Entering a borrower&apos;s private residence without express invitation, refusing to vacate after being asked to leave, or barging through doorways represents criminal trespass, entitling the occupant to immediate police intervention.
+                      Entering private homes without consent is illegal. Call police at 112 for criminal house-trespass.
                     </p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The judicial precedent on this issue is decisive. Various State High Courts and the Supreme Court of India have repeatedly refused to quash First Information Reports (FIRs) filed under Section 306 IPC / Section 108 BNS against collection agency heads and bank recovery managers where documentary evidence showed sustained harassment preceding a suicide attempt. The judiciary has made it clear that corporate recovery targets cannot serve as an excuse for driving human beings to despair.
+                High Courts and the Supreme Court refuse to quash FIRs under Section 306 IPC / Section 108 BNS. Lenders cannot use recovery targets to torture borrowers.
               </p>
             </section>
 
@@ -576,16 +576,16 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
             <section id="constitutional-sanctity-article-21" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Constitutional Sanctity</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The defense of a distressed borrower in India is rooted in the highest constitutional protections guaranteed by the Constitution of India. Article 21 guarantees that no person shall be deprived of their life or personal liberty except according to procedure established by law. Over decades of jurisprudence, the Supreme Court of India has established that the right to life encompasses far more than mere animal existence; it guarantees the right to live with human dignity, mental peace, and freedom from unconstitutional physical or psychological coercion.
+                Borrower rights are backed by the Constitution of India. Article 21 protects life and personal liberty. Life means living with dignity and peace. It bars mental and physical abuse.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                In the monumental nine-judge Constitution Bench judgment in <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) 10 SCC 1</em>, the apex court affirmed that privacy is a fundamental right that protects both informational privacy and spatial privacy. The court ruled that every citizen possesses an inviolable spatial sanctum within their home and personal life where third parties cannot intrude without lawful judicial warrants. When debt collectors call third parties, post public notices in housing societies, or create public disturbances in residential corridors, they commit direct violations of the borrower&apos;s fundamental constitutional rights.
+                In <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) 10 SCC 1</em>, privacy was made a fundamental right. It shields your personal life and home. Agents who call relatives or shout in corridors break constitutional law.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Furthermore, in the landmark ruling <em>ICICI Bank Ltd. v. Prakash Kaur &amp; Ors. (2007) 2 SCC 711</em>, the Supreme Court severely rebuked banking practices that deploy musclemen and aggressive recovery agents, holding emphatically that banks cannot employ strong-arm tactics or extra-judicial intimidation to recover dues. The court held that all recoveries must strictly conform to civil procedure and the rule of law.
+                In <em>ICICI Bank Ltd. v. Prakash Kaur &amp. Ors. (2007) 2 SCC 711</em>, the Supreme Court banned musclemen. All loan recoveries must follow court due process.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Similarly, in <em>Jolly George Varghese v. The Bank of Cochin (1980) 2 SCC 360</em>, Justice V.R. Krishna Iyer declared that detaining or punishing an impoverished debtor who lacks the financial means to satisfy a civil decree violates Article 21 of the Constitution and international human rights conventions. The court ruled that financial poverty is not a crime, and genuine inability to discharge contractual debt can never be equated with criminal evasion.
+                In <em>Jolly George Varghese v. The Bank of Cochin (1980) 2 SCC 360</em>, Justice V.R. Krishna Iyer ruled that poverty is not a crime. Poor debtors cannot be jailed for unpaid debts.
               </p>
             </section>
 
@@ -593,10 +593,10 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
             <section id="rbi-master-directions-fair-practices" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. RBI Master Directions &amp; Fair Practices Code</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The Reserve Bank of India has enacted rigorous, binding regulatory frameworks to govern debt collection practices across all Scheduled Commercial Banks, Non-Banking Financial Companies (NBFCs), and Small Finance Banks. These mandates are codified under the <em>Master Direction – Reserve Bank of India (Managing Risks and Code of Conduct in Outsourcing of Financial Services by Regulated Entities) Directions</em> and the <em>Master Circular on Fair Practices Code (FPC)</em>.
+                The RBI sets binding rules for debt recovery. These rules apply to all banks and NBFCs under the <em>Master Direction on Outsourcing</em> and the <em>Fair Practices Code (FPC)</em>.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                These RBI directions lay down explicit, non-negotiable boundaries governing borrower interactions:
+                Every recovery agent must follow these strict rules:
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
@@ -607,25 +607,25 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Permitted Contact Hours (8:00 AM to 7:00 PM Only)</p>
-                    <p className="text-slate-600">Recovery agents are strictly prohibited from calling or visiting borrowers before 8:00 AM or after 7:00 PM. Calls at late hours constitute severe regulatory breaches.</p>
+                    <p className="text-slate-600">Agents can only call between 8:00 AM and 7:00 PM. Night calls break RBI rules.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Strict Prohibition on Third-Party Outreach</p>
-                    <p className="text-slate-600">Lenders cannot contact family members, friends, neighbors, or workplace colleagues regarding a borrower&apos;s personal debt, nor can they disclose loan status to third parties.</p>
+                    <p className="text-slate-600">Lenders cannot call your family, friends, or office. Sharing debt details with others is illegal.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">Mandatory Identification &amp; Authorization</p>
-                    <p className="text-slate-600">Every collection representative visiting a borrower must carry official bank authorization letters and photo identification issued by the certified recovery agency.</p>
+                    <p className="font-bold text-slate-900 mb-1">Mandatory Identification &amp. Authorization</p>
+                    <p className="text-slate-600">Visiting agents must carry official bank authorization letters. They must also show valid ID cards.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Recognition of Legal Representation</p>
-                    <p className="text-slate-600">If a borrower formally appoints a legal advocate and requests that all communications be routed through counsel, the lender and its agents must immediately comply.</p>
+                    <p className="text-slate-600">When you appoint a lawyer, direct agent contact must stop. All talks must move to counsel.</p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Crucially, the Reserve Bank of India has established the doctrine of strict <strong>vicarious liability</strong> for Regulated Entities (REs). Commercial banks and NBFCs cannot deflect blame onto third-party collection agencies by claiming that abusive agents were independent contractors. Under RBI regulations, the principal lender is held directly accountable for any breach committed by its outsourced vendors. Under the <em>RBI Integrated Ombudsman Scheme (2021)</em>, the Ombudsman is empowered to award compensation up to ₹20 Lakhs for consequential losses and up to ₹1 Lakh for mental harassment, in addition to imposing severe regulatory reprimands and audit penalties on non-compliant lending institutions.
+                Banks hold strict vicarious liability for agent misconduct. Under the <em>RBI Integrated Ombudsman Scheme (2021)</em>, you can win up to ₹20 Lakhs for losses and up to ₹1 Lakh for mental agony.
               </p>
             </section>
 
@@ -651,10 +651,10 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
             <section id="twenty-four-hour-advocate-intervention" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The 24-Hour Advocate Intervention</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                For a distressed borrower suffering from intense anxiety, panic attacks, or despair, the most critical priority is achieving an immediate, permanent cessation of recovery agent calls and doorstep visits. Attempting to reason verbally with aggressive telecallers or field agents is rarely effective, as collection agencies operate under high-pressure commission quotas that incentivize aggressive badgering. The only method proven to halt harassment instantly is establishing formal legal representation.
+                Borrowers need quick relief from abusive calls and visits. Arguing with telecallers does not work. The fastest way to stop abuse is legal representation.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a borrower retains SettleLoans, our senior banking advocates execute a formal <strong>Vakalatnama</strong> (statutory power of legal representation) and immediately issue an authoritative <strong>Statutory Cease-and-Desist Notice</strong>. This legal notice is served concurrently upon the Principal Nodal Officer, the Head of Collections, the Legal Affairs Department, and the Managing Director of the lending institution, as well as the contracted recovery agency.
+                When you hire SettleLoans, our lawyers act fast. We file a <strong>Vakalatnama</strong> and send a <strong>Statutory Cease-and-Desist Notice</strong>. We serve it to bank directors and collection agencies.
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 space-y-3">
@@ -664,26 +664,26 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                 </div>
                 <div className="space-y-2.5 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Hour 0 to 2: Case Intake &amp; Evidence Compilation</p>
-                    <p className="text-slate-600 mt-1">Our legal team reviews all call logs, recordings, abusive WhatsApp messages, and agent visit records to establish documented violations of Section 108/351 BNS and RBI Fair Practice codes.</p>
+                    <p className="font-bold text-slate-900">Hour 0 to 2: Case Intake &amp. Evidence Compilation</p>
+                    <p className="text-slate-600 mt-1">We log call records and abusive chats. We note violations of Section 108/351 BNS and RBI codes.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Hour 2 to 6: Drafting &amp; Dispatch of Cease-and-Desist Notice</p>
-                    <p className="text-slate-600 mt-1">We serve formal legal notices demanding the immediate withdrawal of third-party recovery agents, highlighting criminal abetment liability and warning of police FIR filings if harassment continues.</p>
+                    <p className="font-bold text-slate-900">Hour 2 to 6: Drafting &amp. Dispatch of Cease-and-Desist Notice</p>
+                    <p className="text-slate-600 mt-1">We issue legal notices demanding an immediate halt to calls. We warn of criminal abetment liability.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Hour 6 to 18: Institutional Escalation &amp; Ombudsman Filing</p>
-                    <p className="text-slate-600 mt-1">We lodge formal complaints on the RBI Integrated Ombudsman portal and bank internal grievance cells, placing the lender under direct regulatory scrutiny.</p>
+                    <p className="font-bold text-slate-900">Hour 6 to 18: Institutional Escalation &amp. Ombudsman Filing</p>
+                    <p className="text-slate-600 mt-1">We file complaints with the RBI Ombudsman. This puts the bank under regulatory audit.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Hour 18 to 24: Direct Contact Freezes &amp; Dialogue Shift</p>
-                    <p className="text-slate-600 mt-1">The bank commands its collection agency to stand down. All direct calls and home visits cease completely. All future communications are redirected exclusively to our legal advocates.</p>
+                    <p className="font-bold text-slate-900">Hour 18 to 24: Direct Contact Freezes &amp. Dialogue Shift</p>
+                    <p className="text-slate-600 mt-1">The bank orders agents to stop calls. All visits halt. Communications shift to our advocates.</p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                By transferring the entire communication burden from the borrower to qualified legal counsel, the emotional trauma and psychological pressure evaporate within hours. The borrower regains peace of mind, family stability, and the mental space necessary to focus on health, career, and structured debt resolution.
+                Moving communication to lawyers stops panic immediately. You gain peace of mind. You can focus on your job, health. And debt settlement.
               </p>
             </section>
 
@@ -691,18 +691,18 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
             <section id="bank-npa-accounting-npv-recovery" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting Realities</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To understand why financial distress can always be resolved without panic or despair, one must analyze the institutional economics that govern bad debt inside commercial banks and NBFCs. Under the Reserve Bank of India Prudential Norms on Income Recognition, Asset Classification and Provisioning, when a borrower defaults on an unsecured credit card or personal loan for more than 90 days, the lender is legally required to classify the account as a Non-Performing Asset (NPA).
+                Debt stress is solvable because banks follow clear rules. Under RBI norms, overdue loans become Non-Performing Assets (NPAs) after 90 days.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Once an account becomes an NPA, banking accounting rules prohibit the lender from recognizing accrued interest as income. More importantly, the bank must set aside substantial capital from its operating profits as mandatory regulatory provisions:
+                When a loan becomes an NPA, the bank locks profits as mandatory provisions:
               </p>
               <ul className="list-disc pl-5 space-y-1.5 text-xs sm:text-sm text-slate-700">
-                <li><strong>Substandard Asset (Overdue 90 to 365 Days):</strong> Mandatory 15% provisioning on total unsecured exposure.</li>
-                <li><strong>Doubtful Asset (Overdue 12 to 24 Months):</strong> Mandatory 100% provisioning on the unsecured balance.</li>
-                <li><strong>Loss Asset / Written-Off Portfolio:</strong> 100% full balance sheet write-off against the bank&apos;s annual earnings.</li>
+                <li><strong>Substandard Asset (90 to 365 Days):</strong> Bank locks 15% in reserve funds.</li>
+                <li><strong>Doubtful Asset (12 to 24 Months):</strong> Bank locks 100% of the unsecured balance.</li>
+                <li><strong>Loss Asset / Written-Off Portfolio:</strong> 100% balance sheet write-off against profit.</li>
               </ul>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mt-3">
-                If a bank initiates civil litigation in local District Courts or Summary Suits under Order 37 CPC to recover an unsecured personal loan, it faces significant economic headwinds. The bank must advance non-refundable court fees (typically 1% to 3%), pay continuous advocate litigation retainers, and endure 3 to 5 years of procedural delays. Furthermore, under Section 60 of the Code of Civil Procedure (CPC), essential domestic furniture, cooking utensils, wearing apparel, and necessary tools of livelihood are legally immune from attachment. Consequently, the bank&apos;s risk committees evaluate bad loan recovery using a strict Net Present Value (NPV) recovery formula:
+                Suing in court takes 3 to 5 years. Banks must pay court fees and lawyer costs. Under Section 60 of the Code of Civil Procedure (CPC), essential clothes, beds. And tools cannot be seized. Banks use a Net Present Value (NPV) recovery formula:
               </p>
 
               {/* Recovery Valuation Formula Box */}
@@ -715,12 +715,12 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoveries across annual time intervals t, r is the bank&apos;s cost of capital discount rate, and deductions account for 3 to 5 years of court friction, litigation fees, and locked regulatory capital.
+                  C_t is recovery cash flow over time t. r is the discount rate. Court delays reduce bank returns.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Because protracted civil litigation produces a heavily discounted, negative Net Present Value, lending institutions have immense financial incentive to accept a structured One-Time Settlement (OTS). By approving a 40% to 65% waiver of the total balance, the bank receives immediate cash liquidity, permanently removes non-performing debt from its audit records, and reverses locked regulatory provisions back into quarterly operating profits. Doorstep harassment is merely a low-cost, coercive tactic deployed by third-party commission agents before the file is escalated to senior compromise settlement executives.
+                Court suits offer low net returns. Banks prefer structured One-Time Settlements (OTS). A 40% to 65% waiver gives quick cash and frees locked provisions.
               </p>
             </section>
 
@@ -728,10 +728,10 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
             <section id="structured-ots-sanction-ndc" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Structured One-Time Settlement (OTS) Forensics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When borrowers are trapped in a cycle of harassment, a common and dangerous mistake is making panic-driven token payments or transferring funds via personal UPI to collection agents who promise verbally that calls will stop. Such informal payments are virtually always credited toward penal charges and overdue late fees, leaving the primary principal liability untouched and inviting renewed harassment within weeks.
+                Never pay cash or UPI to agents directly. Informal cash only pays late fees. Your main loan balance stays unchanged.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To achieve complete, permanent financial liberation and guarantee legal finality, the settlement process must follow rigid forensic verification protocols:
+                A valid settlement needs three clear steps:
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 space-y-3">
@@ -742,77 +742,77 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">1. Verified OTS Sanction Letter</p>
-                    <p className="text-slate-600">Issued on official bank letterhead with digital signatures of authorized credit authorities, detailing the exact agreed compromise sum, waiver percentage, and payment milestones.</p>
+                    <p className="text-slate-600">Issued on bank letterhead. It states the agreed sum, waiver rate. And payment dates.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">2. Direct Account Remittance</p>
-                    <p className="text-slate-600">Settlement payments are deposited directly into the borrower&apos;s specific loan account number through official banking channels—never through cash or third-party intermediaries.</p>
+                    <p className="text-slate-600">Pay only to your official bank loan account. Never use personal agent UPI links.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">3. Bank-Stamped No Dues Certificate</p>
-                    <p className="text-slate-600">Issuance of an unconditional No Dues Certificate (NDC) under RBI Circular RBI/2023-24/60, confirming complete discharge of debt and closing the file across credit bureaus.</p>
+                    <p className="text-slate-600">Get a No Dues Certificate under RBI Circular RBI/2023-24/60. This closes the loan forever.</p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Following execution of the One-Time Settlement, the bank updates credit information companies (CIBIL, Experian, CRIF, Equifax) reflecting the status as &quot;Settled&quot; or &quot;Post-Write-Off Settled&quot;. This completely removes all legal risk, permanently immunizes your household from collection contact, and establishes the foundation for systematic credit score rehabilitation over subsequent quarters.
+                After full payment, credit bureaus update the status to &quot;Settled&quot;. This ends your debt liability and stops calls permanently.
               </p>
             </section>
 
             {/* Section 9: Comparative Penal Matrix */}
             <section id="comparative-penal-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Harassment Tactics vs Penal Provisions Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The comparative statutory matrix below provides a definitive breakdown of common recovery agent harassment tactics, the corresponding penal provisions under the Bharatiya Nyaya Sanhita (BNS) and Indian Penal Code (IPC), specific RBI regulatory violations, and the precise legal remedies available to protect borrowers:
+                This table outlines illegal recovery acts, penal sections, RBI violations. And direct legal solutions:
               </p>
               
               <div className="overflow-x-auto">
                 <table>
                   <thead>
                     <tr>
-                      <th>Harassment Tactic</th>
-                      <th>Penal Offense (BNS / IPC)</th>
-                      <th>RBI Regulatory Violation</th>
-                      <th>Direct Legal Remedy</th>
+                      <th>Harassment Tactic.</th>
+                      <th>Penal Offense (BNS / IPC).</th>
+                      <th>RBI Regulatory Violation.</th>
+                      <th>Direct Legal Remedy.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-semibold text-slate-900">Pushing Defaulter to Extreme Despair / Suicide Threats</td>
-                      <td>Section 108 BNS / Section 306 IPC (Abetment to Suicide)</td>
-                      <td>Severe breach of Customer Dignity &amp; Fair Practices Code</td>
-                      <td>Immediate Police FIR against Agency &amp; Bank Nodal Officers; Tele-MANAS Crisis Support</td>
+                      <td className="font-semibold text-slate-900">Pushing Defaulter to Extreme Despair / Suicide Threats.</td>
+                      <td>Section 108 BNS / Section 306 IPC (Abetment to Suicide).</td>
+                      <td>Breach of Customer Dignity &amp. Fair Practices Code.</td>
+                      <td>File Police FIR. Call Tele-MANAS at 14416.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Abusive Language, Verbal Threats of Violence</td>
-                      <td>Section 351 BNS / Section 503 &amp; 506 IPC (Criminal Intimidation)</td>
-                      <td>Outsourcing Master Direction Para 7 (Harassment Bar)</td>
-                      <td>Criminal Complaint to Magistrate (Sec 175 BNSS); Cease-and-Desist Notice</td>
+                      <td className="font-semibold text-slate-900">Abusive Language, Verbal Threats of Violence.</td>
+                      <td>Section 351 BNS / Section 503 &amp. 506 IPC (Criminal Intimidation).</td>
+                      <td>Outsourcing Master Direction Para 7 (Harassment Bar).</td>
+                      <td>File Complaint with Magistrate (Sec 175 BNSS). Send Cease-and-Desist Notice.</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">Calling Relatives, Friends, Employers or HR Dept.</td>
-                      <td>Section 356 BNS / Section 499 IPC (Defamation); Sec 66E IT Act</td>
-                      <td>Strict Privacy Violation; Contact Bar on Non-Borrowing Third Parties</td>
-                      <td>RBI Integrated Ombudsman Filing for Compensation up to ₹20 Lakhs; Defamation Suit</td>
+                      <td>Section 356 BNS / Section 499 IPC (Defamation). Sec 66E IT Act.</td>
+                      <td>Privacy Breach. Ban on Calling Third Parties.</td>
+                      <td>File RBI Ombudsman Complaint for up to ₹20 Lakhs. Defamation Claim.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Forced Doorstep Entry, Corridors Shouting &amp; Trespass</td>
-                      <td>Section 329 BNS / Section 441 &amp; 442 IPC (House-Trespass)</td>
-                      <td>Doorstep Visit Norms Violation (8 AM–7 PM Only; ID Mandate)</td>
-                      <td>Immediate 112 Police Emergency Call for Unlawful Trespass; Video Evidence Injunction</td>
+                      <td className="font-semibold text-slate-900">Forced Doorstep Entry, Corridors Shouting &amp. Trespass.</td>
+                      <td>Section 329 BNS / Section 441 &amp. 442 IPC (House-Trespass).</td>
+                      <td>Visit Rules Breach (8 AM–7 PM Only. ID Mandate).</td>
+                      <td>Call 112 Police for Trespass. Record Video Proof.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Fabricated Arrest Warrants &amp; Fake Court Summons</td>
-                      <td>Section 336 &amp; 338 BNS / Section 465 &amp; 468 IPC (Forgery &amp; Fraud)</td>
-                      <td>Deceptive Debt Collection Practices Prohibition</td>
-                      <td>Bar Council Complaint &amp; Cyber Crime Portal FIR against Agency Telecallers</td>
+                      <td className="font-semibold text-slate-900">Fabricated Arrest Warrants &amp. Fake Court Summons.</td>
+                      <td>Section 336 &amp. 338 BNS / Section 465 &amp. 468 IPC (Forgery &amp. Fraud).</td>
+                      <td>Ban on Deceptive Debt Collection Practices.</td>
+                      <td>File Bar Council Complaint &amp. Cyber Crime FIR.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Coercing Immediate Cash Delivery or Asset Seizure</td>
-                      <td>Section 308 BNS / Section 383 &amp; 384 IPC (Extortion)</td>
-                      <td>Direct Payment Rule Breach; Unlawful Seizure Prohibition</td>
-                      <td>Criminal Extortion Police FIR; High Court Writ Petition under Article 226</td>
+                      <td className="font-semibold text-slate-900">Coercing Immediate Cash Delivery or Asset Seizure.</td>
+                      <td>Section 308 BNS / Section 383 &amp. 384 IPC (Extortion).</td>
+                      <td>Breach of Payment Rules. Ban on Unlawful Seizure.</td>
+                      <td>File Police Extortion FIR. File High Court Writ under Article 226.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -822,12 +822,12 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
             {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-compassionate-defense" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Anti-Harassment Defense Framework</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  No human being should ever experience the agony of waking up in terror of ringing phones, abusive debt collection threats, or fear of uninvited agents standing outside their home. Financial hardship is a life circumstance—it is never a moral failure, and it is never a crime. At SettleLoans, our mission is to stand as an unbreakable shield between distressed borrowers and predatory collection practices.
+                  No one should live in fear of collection threats. Debt is a money issue. It is never a moral failure. SettleLoans shields borrowers from rogue collection agents.
                 </p>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Our team of veteran banking litigators, constitutional advocates, and institutional negotiators provides comprehensive nationwide protection. From the moment you retain our counsel, we enforce your statutory rights under Section 108 BNS, the RBI Fair Practices Code, and Supreme Court privacy mandates. We serve decisive Cease-and-Desist notices that halt third-party harassment within 24 hours, take over every incoming lender communication, and negotiate directly with senior banking authorities to secure structured 40% to 65% One-Time Settlements backed by official No Dues Certificates. We restore your peace of mind, protect your family&apos;s dignity, and help you rebuild your financial freedom with confidence.
+                  Our banking advocates offer strong legal defense across India. We protect your rights under Section 108 BNS, RBI Fair Practices rules, and Supreme Court privacy mandates. We issue Cease-and-Desist notices that halt harassment within 24 hours. Then, we negotiate 40% to 65% One-Time Settlements. We secure clean No Dues Certificates and restore your peace.
                 </p>
               </div>
 
@@ -842,7 +842,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Harassment, Legal Rights &amp; Crisis Support</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
-                Verified legal answers regarding recovery agent harassment, Section 108 BNS abetment laws, mental health crisis resources, and debt settlement protocols in India.
+                Read clear answers on recovery abuse, Section 108 BNS laws, crisis helplines. And debt relief in India.
               </p>
 
               <div className="space-y-3">
@@ -879,7 +879,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
                 >
-                  <span className="font-semibold text-slate-800">Tele-MANAS (Ministry of Health &amp; Family Welfare Mental Health Support)</span>
+                  <span className="font-semibold text-slate-800">Tele-MANAS Health Helpline</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
@@ -888,7 +888,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
                 >
-                  <span className="font-semibold text-slate-800">Bharatiya Nyaya Sanhita, 2023 (Section 108 Abetment &amp; Sec 351 Intimidation)</span>
+                  <span className="font-semibold text-slate-800">Bharatiya Nyaya Sanhita Law (Section 108 BNS)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
@@ -897,7 +897,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
                 >
-                  <span className="font-semibold text-slate-800">RBI Master Direction – Managing Risks &amp; Code of Conduct in Outsourcing</span>
+                  <span className="font-semibold text-slate-800">RBI Master Direction on Outsourcing</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
@@ -906,7 +906,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
                 >
-                  <span className="font-semibold text-slate-800">RBI Integrated Ombudsman Scheme (Recovery Harassment Grievance Portal)</span>
+                  <span className="font-semibold text-slate-800">RBI Integrated Ombudsman Portal</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
@@ -915,7 +915,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm sm:col-span-2"
                 >
-                  <span className="font-semibold text-slate-800">Supreme Court of India (Prakash Kaur &amp; Puttaswamy Privacy Precedents)</span>
+                  <span className="font-semibold text-slate-800">Supreme Court Rulings (Prakash Kaur &amp; Puttaswamy)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
               </div>
@@ -1007,11 +1007,11 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                       Ashish Jhangra
                     </Link>
                   </div>
-                  <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
+                  <p className="text-xs text-slate-500">Chief Banking &amp. Debt Resolution Expert</p>
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-3">
-                Distinguished authority in banking jurisprudence, civil liberties against unlawful recovery agent intimidation, Section 108 BNS criminal abetment deterrence, and institutional compromise settlements across India.
+                Expert in banking law, borrower rights, Section 108 BNS abetment protections. And bank debt settlements in India.
               </p>
               <div className="pt-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
                 <Link href="/authors/ashish-jhangra" className="text-[#1F5EFF] font-semibold hover:underline flex items-center gap-1">
@@ -1033,7 +1033,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
               </div>
               <div className="font-bold text-base text-white mb-2">Pushed to Despair by Collection Agents?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
-                Do not suffer psychological torture in silence. Retain our senior advocates to issue an immediate Cease-and-Desist notice, halt all calls and visits within 24 hours, and negotiate a 40%–65% OTS.
+                Do not suffer harassment in silence. Hire our lawyers to send a Cease-and-Desist notice. We stop calls within 24 hours and negotiate a 40%–65% OTS.
               </p>
               <Link
                 href="/contact"

@@ -178,7 +178,7 @@ const jsonLdGraph = {
             "name": "Kavita Deshmukh"
           },
           "datePublished": "2026-06-12",
-          "reviewBody": "I downloaded an instant ₹5,000 cash advance app that disbursed only ₹2,800 and began demanding ₹8,500 after 6 days. When I protested, extortionists created morphed vulgar pictures and threatened to send them to all 450 contacts scraped from my phone. SettleLoans stepped in immediately, drafted a cyber crime petition for cybercrime.gov.in, blocked 14 virtual VoIP numbers via the Chakshu portal, and issued a legal notice citing RBI Digital Lending Guidelines. The extortion calls ceased completely within 24 hours.",
+          "reviewBody": "I downloaded a cash advance app that gave only ₹2,800. After 6 days, they demanded ₹8,500. When I refused, scammers created morphed photos to blackmail my contacts. SettleLoans helped file a cyber complaint on cybercrime.gov.in. They blocked 14 VoIP numbers on Chakshu. All harassment stopped in 24 hours.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -193,7 +193,7 @@ const jsonLdGraph = {
             "name": "Anurag Sengupta"
           },
           "datePublished": "2026-07-04",
-          "reviewBody": "A fraudulent Chinese loan app syndicate trapped me in an endless cycle, demanding ₹1.2 Lakhs across 8 linked dummy UPI IDs. The legal team at SettleLoans guided me through filing a formal FIR under Sections 308 and 318 of the BNS and Section 66E of the IT Act with the Cyber Cell in Kolkata. They established that the loan contract was completely void ab initio under RBI regulations. I did not pay a single further rupee to the cyber syndicates.",
+          "reviewBody": "A fake Chinese loan app demanded ₹1.2 Lakhs across dummy UPI IDs. SettleLoans guided me through filing a police FIR under Sections 308 and 318 BNS and Section 66E IT Act. They showed how the loan was void ab initio under RBI rules. I did not pay another rupee.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -208,7 +208,7 @@ const jsonLdGraph = {
             "name": "Pooja Sundaram"
           },
           "datePublished": "2026-07-28",
-          "reviewBody": "Recovery goons from an unregistered app called my elderly parents and office colleagues using spoofed virtual numbers. SettleLoans provided instant advocate defense, coordinated with the National Cyber Crime Helpline on 1930 to freeze the scammer's beneficiary bank accounts, and drafted an unassailable legal immunity statement for my family and employer. Their quick legal intervention saved my reputation and mental peace.",
+          "reviewBody": "Recovery agents called my parents and coworkers using virtual numbers. SettleLoans provided fast legal help. They called the 1930 helpline to freeze the scammer's bank accounts. They drafted a legal notice that protected my family and job completely.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -223,7 +223,7 @@ const jsonLdGraph = {
             "name": "Vikramaditya Rathore"
           },
           "datePublished": "2026-08-15",
-          "reviewBody": "I was overwhelmed by aggressive blackmail messages demanding triple the principal on an APK loan downloaded outside the Play Store. SettleLoans showed me the exact statutory provisions under the IT Act and RBI Digital Lending Norms. They helped me compile WhatsApp digital evidence, register complaints on the Chakshu portal, and lodge an online FIR. Outstanding professional support for anyone facing cyber extortion.",
+          "reviewBody": "I faced blackmail messages demanding triple the loan amount. SettleLoans explained my legal rights under the IT Act and RBI rules. They helped compile WhatsApp proof, filed a Chakshu complaint, and lodged an online FIR. Great legal support.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -242,7 +242,7 @@ const jsonLdGraph = {
           "name": "What should I do immediately if an illegal loan app is blackmailing me with morphed photos?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Immediately take timestamped screenshots and video screen recordings of all threatening WhatsApp messages, call logs, and morphed images before blocking the sender. Do NOT remit any extortion money, as paying guarantees repeated demands. Call the National Cyber Crime Helpline at 1930 immediately, file a formal complaint under 'Report Crime Against Women/Children' or 'Report Other Cyber Crime' at cybercrime.gov.in, report the extortionist phone numbers on the Department of Telecommunications Chakshu portal (sancharsaathi.gov.in), and broadcast a standardized disclaimer message to your phone contacts alerting them of the data breach."
+            "text": "Take timestamped screenshots and screen recordings of all threat messages, call logs, and morphed photos. Do NOT pay any money. Call the National Cyber Crime Helpline at 1930 right away. File a formal complaint at cybercrime.gov.in. Report scammer phone numbers on the Chakshu portal (sancharsaathi.gov.in). Send a warning text to your contacts about the data breach."
           }
         },
         {
@@ -250,7 +250,7 @@ const jsonLdGraph = {
           "name": "Are loans from 7-day unregistered mobile lending apps legally enforceable in India?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Under the Reserve Bank of India (RBI) Digital Lending Guidelines of September 2022 and Section 23 of the Indian Contract Act, 1872, any digital lending agreement executed by an entity not registered as a Bank or Non-Banking Financial Company (NBFC) is unlawful, void ab initio, and legally unenforceable. These fraudulent syndicates operate entirely outside Indian banking regulations, have zero legal right to demand recovery through civil or criminal courts, and cannot report defaults to credit bureaus such as CIBIL or Experian."
+            "text": "No. Under RBI Digital Lending Guidelines and Section 23 of the Indian Contract Act, 1872, loans from unregistered entities are void ab initio. These scam apps operate outside banking laws. They have zero legal right to collect debts or report to CIBIL."
           }
         },
         {
@@ -258,7 +258,7 @@ const jsonLdGraph = {
           "name": "How do I file a cyber crime complaint against an illegal loan app on cybercrime.gov.in?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Visit the official National Cyber Crime Reporting Portal at cybercrime.gov.in. Click 'Register a Complaint', accept the terms, and register using your mobile number and state. Select the category 'Cyber Crime Against Women/Children' if morphed/obscene images are involved, or 'Report Other Cyber Crime'. Enter the incident date, time, and narrative describing the digital extortion, contact theft, and blackmail. Upload PDF/JPEG evidence including screenshots of threats, loan application screens, bank account transactions, and UPI IDs used for extortion. Submit the complaint and record the unique 15-digit Acknowledgement Number for local police station FIR conversion."
+            "text": "Visit the National Cyber Crime Reporting Portal at cybercrime.gov.in. Click 'Register a Complaint'. Select 'Report Crime Against Women/Children' for morphed images, or 'Report Other Cyber Crime'. Enter the incident date, time, and details. Upload screenshots and UPI transaction proof. Submit the form and save the 15-digit Acknowledgement Number for your police FIR."
           }
         },
         {
@@ -266,7 +266,7 @@ const jsonLdGraph = {
           "name": "What is the Chakshu portal and how does it stop loan app recovery callers?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Chakshu facility, hosted under the Department of Telecommunications (DoT) Sanchar Saathi platform (sancharsaathi.gov.in/sfc), allows citizens to report suspected fraudulent, threatening, or extortion communications received via phone calls, SMS, or WhatsApp. When you report predatory loan recovery numbers with screenshots, telecom operators and law enforcement initiate instant verification. If found fraudulent, the mobile numbers are disconnected nationwide, associated SIM cards are permanently deactivated, and the perpetrator's handset IMEI is blacklisted across all Indian telecom networks."
+            "text": "The Chakshu portal on sancharsaathi.gov.in lets citizens report fraud calls, SMS, and WhatsApp threats. When you report numbers with proof, telecom operators verify the scam. They disconnect the mobile numbers, cancel the SIM cards, and blacklist the phone IMEI across India."
           }
         },
         {
@@ -274,7 +274,7 @@ const jsonLdGraph = {
           "name": "Which criminal sections of BNS and the IT Act apply to loan app blackmail and extortion?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Illegal loan app blackmailers are criminally liable under multiple statutes: Section 308 of the Bharatiya Nyaya Sanhita (BNS) for Extortion, Section 318 for Cheating, Section 351 for Criminal Intimidation, Section 356 for Defamation, and Section 79 for Insulting the Modesty of a Woman (corresponding to legacy IPC Sections 384, 420, 506, 499, and 509). Additionally, under the Information Technology Act, 2000, Section 43/66 penalizes unauthorized data hacking, Section 66C penalizes identity theft, Section 66E penalizes violation of privacy, and Section 67/67A penalizes the electronic transmission of sexually explicit or morphed material, carrying up to 5 to 7 years of non-bailable imprisonment."
+            "text": "Blackmailers face charges under multiple laws: Section 308 BNS for Extortion, Section 318 BNS for Cheating, Section 351 BNS for Criminal Intimidation, Section 356 BNS for Defamation, and Section 79 BNS for Insulting Modesty. Under the IT Act, 2000, Sections 43/66 penalize hacking, Section 66C penalizes identity theft, Section 66E penalizes privacy breach, and Sections 67/67A penalize obscene media sharing with up to 7 years in jail."
           }
         },
         {
@@ -282,7 +282,7 @@ const jsonLdGraph = {
           "name": "Can illegal Chinese loan apps ruin my CIBIL credit score?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Only RBI-regulated banks, registered NBFCs, and authorized credit institutions hold membership with Indian Credit Information Companies (CIBIL, Experian, Equifax, CRIF High Mark) under the Credit Information Companies (Regulation) Act, 2005. Unregistered 7-day Chinese lending apps have zero access to credit bureau reporting infrastructure and cannot legally damage your CIBIL score or report an overdue balance. Any recovery agent threat claiming they will 'ruin your CIBIL profile forever' is a complete psychological bluff."
+            "text": "No. Only RBI-regulated banks and NBFCs can report to credit bureaus under the Credit Information Companies Act, 2005. Unregistered 7-day loan apps have zero access to credit bureaus. They cannot report debts or damage your CIBIL score."
           }
         },
         {
@@ -290,7 +290,7 @@ const jsonLdGraph = {
           "name": "Will the local police arrest me if an illegal loan app claims I committed fraud?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Absolutely not. The Supreme Court of India and state police advisories have repeatedly affirmed that victims of illegal digital lending scams are victims of organized cybercrime, not criminals. The perpetrators operate unlawful hawala channels, impersonate legal NBFCs, and violate federal privacy laws. Local police will never arrest a borrower for non-payment to an illegal syndicate; instead, law enforcement will register an FIR against the scam operators for extortion, cyber terrorism, and data theft."
+            "text": "No. Victims of illegal loan apps are victims of cybercrime, not criminals. The Supreme Court and police advisories make this clear. The police will not arrest you for non-payment. Instead, police will register an FIR against the scam operators."
           }
         },
         {
@@ -298,7 +298,7 @@ const jsonLdGraph = {
           "name": "Why does paying extortion money to illegal loan apps never end the blackmail?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Illegal loan apps operate on an algorithm of infinite extortion. When a victim pays an inflated demand to prevent morphed photos from being distributed, the cyber syndicate marks that user as a 'high-yield compliant target'. Within hours, the criminals automatically credit unauthorized micro-amounts into your account without consent or demand additional payments from sister dummy apps, threatening wider contact dissemination. The extortion only stops when you cut all communication, secure your accounts, register police FIRs, and deploy formal legal defense."
+            "text": "Paying blackmail money never stops the threats. Scammers mark paying victims as easy targets. They demand more money or credit unwanted funds to extort you again. The only way to stop extortion is to cut contact, file an FIR, block numbers on Chakshu, and get legal defense."
           }
         },
         {
@@ -306,7 +306,7 @@ const jsonLdGraph = {
           "name": "What device permissions do RBI Digital Lending Guidelines strictly prohibit loan apps from accessing?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under the RBI Digital Lending Guidelines issued on September 2, 2022, mobile lending applications are strictly prohibited from accessing device contact lists, call logs, SMS text archives, photo galleries, media storage, or camera access (except a one-time onboarding camera permission for video KYC with explicit user consent). Furthermore, biometric data collection is completely forbidden. Any app demanding blanket device access violates RBI prudential regulations and is considered an illegal, predatory platform."
+            "text": "Under RBI Digital Lending Guidelines of September 2022, loan apps cannot access phone contacts, call logs, SMS texts, or photo galleries. Blanket device access is illegal. Apps that demand these permissions violate RBI rules."
           }
         },
         {
@@ -314,7 +314,7 @@ const jsonLdGraph = {
           "name": "How can legal counsel assist victims trapped in illegal loan app extortion syndicates?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Experienced cyber and debt defense advocates draft comprehensive criminal complaints under the BNS and IT Act, convert online cyber portal entries into registered police FIRs, coordinate with cyber crime cells to freeze scammer beneficiary mule accounts and UPI handles, issue formal cease-and-desist notices to rogue recovery agencies, and provide clients with verified legal immunity documentation to protect their employment, family reputation, and social standing."
+            "text": "Banking and cyber lawyers draft criminal complaints under the BNS and IT Act. They help convert portal entries into registered police FIRs. Lawyers coordinate with police to freeze mule accounts, issue cease-and-desist notices, and protect your family and career."
           }
         }
       ]
@@ -470,7 +470,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                 <span>Emergency Extortion Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-red-900">
-                Unregistered 7-day mobile lending apps operating outside RBI oversight have zero legal standing in India. Their contracts are void ab initio. Do NOT remit blackmail payments. Immediate cybercrime.gov.in reporting, Chakshu telecom blocking, and advocate-led criminal complaints stop extortion and safeguard your family.
+                Unregistered 7-day loan apps operate outside RBI oversight. Their loan contracts are void ab initio. Do NOT pay blackmail demands. File a cyber complaint on cybercrime.gov.in. Block numbers on the Chakshu portal. Legal notices stop harassment and protect your family.
               </p>
             </div>
           </aside>
@@ -487,23 +487,23 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
               <ul className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Zero Enforceability Under RBI Mandates:</strong> Loans disbursed by unregistered entities or foreign APKs are void ab initio under Section 23 of the Indian Contract Act, 1872 and the RBI Digital Lending Guidelines of September 2022.</span>
+                  <span><strong>Zero Legal Standing Under RBI Rules:</strong> Loans from unregistered apps or APKs are void ab initio under Section 23 of the Indian Contract Act, 1872 and RBI Digital Lending Guidelines.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Immediate National Helpline 1930 &amp; Online Portal:</strong> Victims must register cyber crime complaints immediately at cybercrime.gov.in and dial 1930 to freeze fraudulent beneficiary mule accounts and dummy UPI VPAs.</span>
+                  <span><strong>Fast National Helpline 1930 &amp; Portal:</strong> Report scams on cybercrime.gov.in and dial 1930 to freeze scammer bank accounts and dummy UPI IDs.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Chakshu Portal Number Deactivation:</strong> Reporting predatory WhatsApp numbers and virtual VoIP lines on sancharsaathi.gov.in/sfc triggers DoT telecom deactivation and IMEI hardware blacklisting.</span>
+                  <span><strong>Chakshu Portal Number Blocking:</strong> Reporting threat numbers on sancharsaathi.gov.in triggers mobile number cancellation and IMEI hardware blacklisting.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Severe Criminal Liability on Blackmailers:</strong> Extortion and morphed photo distribution constitute non-bailable cyber offenses punishable by 3 to 7 years of imprisonment under BNS Sections 308, 318, 351, 356 and IT Act Sections 66E, 67, 67A.</span>
+                  <span><strong>Strict Criminal Charges on Blackmailers:</strong> Extortion and morphed photo threats carry 3 to 7 years in jail under BNS Sections 308, 318, 351, 356 and IT Act Sections 66E, 67, 67A.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Complete CIBIL &amp; Police Immunity:</strong> Unregulated apps have zero access to credit bureaus (CIBIL, Experian) and cannot file police cases; borrowers are victims of cybercrime and face zero risk of legal prosecution.</span>
+                  <span><strong>Complete CIBIL &amp; Police Immunity:</strong> Illegal apps cannot report to credit bureaus or file police cases. Borrowers are victims of cybercrime and face zero legal risk.</span>
                 </li>
               </ul>
             </div>
@@ -512,16 +512,16 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
             <section id="anatomy-of-illegal-loan-app-scams-and-blackmail" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Anatomy of 7-Day Chinese Loan App Scams</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Across India, hundreds of thousands of unsuspecting smartphone users have fallen prey to organized transnational cyber syndicates operating predatory mobile lending applications. Promoted aggressively through social media platforms, search engine advertisements, and third-party Android Package Kit (APK) distribution websites under deceptive names such as <em>Cash Advance, Speed Loan, Rupee Master, Quick Credit, Lightning Rupee, or Easy Loan</em>, these applications present themselves as hassle-free financial lifelines promising instant unsecured credit with zero documentation.
+                Across India, many smartphone users fall into illegal loan app traps. Scammers promote apps on social media and fake websites. They use names like Cash Advance, Speed Loan, or Rupee Master. They promise fast cash with no paperwork.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The reality behind these platforms is an engineered cyber fraud network predominantly controlled by overseas syndicates operating through domestic shell companies, mule bank accounts, and unregulated call centers. The entrapment follows a standardized, predatory trajectory: a borrower applies for a micro-loan of ₹5,000; the syndicate deducts exorbitant upfront &quot;processing fees&quot; and disburses only ₹2,800 to ₹3,200; and within 5 to 7 days, automated bots and aggressive call center agents demand repayment of ₹8,000 to ₹12,000—representing annualized interest rates exceeding 2,000% to 5,000%.
+                These platforms are run by organized cyber fraud rings. A borrower applies for a loan of ₹5,000. The app deducts large fees and sends only ₹2,800. After 5 to 7 days, agents demand ₹8,000 or more. The interest rate exceeds 2,000% per year.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a borrower questions the predatory interest rate or requests clarification, the syndicate instantly transitions from financial collection to brutal criminal extortion. Because the application was engineered as malware disguised as a fintech tool, the syndicate exploits invasive device permissions granted during installation to harvest the victim&apos;s complete contact phonebook, photo gallery, call records, and location data. Recovery agents deploy obscene threats, send abusive WhatsApp voice notes, create fabricated pornography using artificial intelligence facial morphing, and threaten to broadcast defamatory material to the victim&apos;s family, employer, and social circle.
+                When borrowers question these rates, agents start blackmailing them. The app acts as spyware. It steals contact lists, photos, and location data. Agents make vulgar threats and send voice notes. They create morphed photos using AI tools. They threaten to send these photos to family and coworkers.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Understanding that you are dealing with a violent cyber extortion syndicate rather than a legitimate financial institution is the foundational step toward reclaiming your freedom. Victims must recognize that paying extortion demands will never terminate the harassment; instead, decisive statutory intervention, police FIR registration, and comprehensive legal defense provide the only permanent resolution.
+                These scammers run extortion rings, not real banks. Paying money will never stop the threats. Filing a police FIR and getting legal help is the only way to end the harassment.
               </p>
             </section>
 
@@ -529,10 +529,10 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
             <section id="statutory-framework-bns-it-act-rbi-digital-lending" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Cyber Crime &amp; BNS Legal Framework</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The operations of illegal loan applications violate multiple federal statutes, constitutional privacy mandates, and central banking directives in India. Both criminal law and regulatory jurisprudence provide sweeping protections to borrowers while subjecting syndicate operators and local recovery goons to severe non-bailable criminal penalties.
+                Illegal loan apps violate multiple criminal laws and RBI directives. Indian law provides strong protections to victims while punishing scammers with non-bailable prison terms.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The primary legal pillars weaponized to crush loan app blackmail syndicates include:
+                The main legal laws used against loan app blackmail include:
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-4">
@@ -542,7 +542,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                     <span>Bharatiya Nyaya Sanhita (BNS) 2023 Provisions</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Extortion is penalized under <strong>Section 308 BNS</strong> (legacy Section 384 IPC), Cheating under <strong>Section 318 BNS</strong> (Section 420 IPC), Criminal Intimidation under <strong>Section 351 BNS</strong> (Section 506 IPC), Defamation under <strong>Section 356 BNS</strong> (Section 499/500 IPC), and Insulting Modesty of Women under <strong>Section 79 BNS</strong> (Section 509 IPC).
+                    Extortion is punishable under <strong>Section 308 BNS</strong> (legacy Section 384 IPC). Cheating falls under <strong>Section 318 BNS</strong> (Section 420 IPC). Criminal intimidation falls under <strong>Section 351 BNS</strong> (Section 506 IPC). Defamation falls under <strong>Section 356 BNS</strong>, and insulting women falls under <strong>Section 79 BNS</strong>.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-2">
@@ -551,7 +551,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                     <span>Information Technology (IT) Act, 2000</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Contact scraping violates <strong>Section 43 &amp; 66</strong> (unauthorized data access/hacking), <strong>Section 66C</strong> (identity theft), <strong>Section 66E</strong> (privacy violation), and photo morphing violates <strong>Sections 67 &amp; 67A</strong> (electronic transmission of sexually explicit material), carrying up to 7 years imprisonment.
+                    Data theft violates <strong>Section 43 &amp; 66</strong>. Identity theft violates <strong>Section 66C</strong>. Privacy breach violates <strong>Section 66E</strong>. Morphed photo sharing violates <strong>Sections 67 &amp; 67A</strong>, carrying up to 7 years in prison.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-2">
@@ -560,7 +560,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                     <span>RBI Digital Lending Guidelines (Sept 2022)</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Mandates that digital loans must originate exclusively from RBI-regulated Banks/NBFCs. Strictly prohibits mobile apps from accessing contact lists, photo galleries, call logs, or media storage, declaring all unauthorized digital lending practices unlawful.
+                    Digital loans must come only from RBI-regulated banks or NBFCs. Apps cannot access contacts, photos, or call logs. Unregulated lending apps are illegal.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-2">
@@ -569,7 +569,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                     <span>Section 23 Indian Contract Act, 1872</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Agreements with unlawful objects or considerations are <strong>void ab initio</strong>. Because unregistered lending syndicates operate in violation of the Banking Regulation Act and Money Lenders Acts, the underlying loan agreement possesses zero legal existence.
+                    Contracts with unlawful purposes are <strong>void ab initio</strong>. Because illegal lending apps violate banking acts, the loan has zero legal existence.
                   </p>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                   <span>Supreme Court Precedent: Fundamental Right to Privacy</span>
                 </div>
                 <p className="leading-relaxed text-blue-800">
-                  In the landmark nine-judge Constitution Bench ruling in <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017)</em>, the Supreme Court established that informational privacy, bodily integrity, and dignity are inviolable fundamental rights under Article 21 of the Constitution. The non-consensual harvesting of phone contacts and AI morphing of private photographs represent severe constitutional and criminal violations for which victims are entitled to immediate state protection and substantial civil damages.
+                  In the <em>Puttaswamy (2017)</em> case, the Supreme Court ruled that privacy is a fundamental right under Article 21. Stealing phone contacts and morphing photos violates constitutional rights. Victims have the right to state protection and legal relief.
                 </p>
               </div>
             </section>
@@ -589,47 +589,47 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
             <section id="contact-list-scraping-and-morphed-photo-blackmail" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Deconstructing the Blackmail Playbook</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Predatory lending applications rely on sophisticated psychological warfare designed to induce panic, shame, and immediate financial surrender. By deconstructing the operational architecture of these extortion rings, victims can systematically neutralize their leverage.
+                Predatory loan apps use fear and shame to force quick payments. Understanding their playbook helps you stop their threats:
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The cyber syndicate&apos;s extortion lifecycle operates across five distinct phases:
+                The extortion ring operates in five distinct phases:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-600 bg-slate-50 space-y-1">
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Invasive Spyware Infiltration via Sideloaded APKs</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    When installing the application outside the Google Play Store or via spoofed web portals, the app requests extensive runtime permissions for `READ_CONTACTS`, `READ_EXTERNAL_STORAGE`, `ACCESS_FINE_LOCATION`, and `CAMERA`. Behind the loan interface, a background script exfiltrates the user&apos;s complete address book (names, numbers, email IDs) and cached image thumbnails to an unencrypted remote command server.
+                    When users install sideloaded APKs, the app asks for contact, storage, and camera access. A hidden script steals phone contacts and photos to remote servers.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Synthetic Default &amp; Automated Harassment Blitz</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    On day 5 or 6—frequently prior to the actual agreed repayment date—the system triggers automated abusive SMS messages and VoIP calls generated via virtual numbers (+92, +880, +84, +63, or spoofed +91 series). Agents impersonating police officers, CBI agents, or judicial magistrates threaten imminent home raids, asset attachment, and public arrest.
+                    On day 5 or 6, automated systems send abusive SMS and VoIP calls. Scammers pretend to be police or court officers to threaten fake home raids.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: AI-Facial Morphing &amp; Obscene Defamation Collateral</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    If the victim hesitates, the syndicate downloads the borrower&apos;s selfie provided during initial KYC or profile photo and superimposes it onto pornographic, nudist, or defamatory templates using automated generative AI tools. The extortionists format these into graphic posters labeling the victim a &quot;fraudster,&quot; &quot;thief,&quot; or &quot;sex worker&quot; alongside contact numbers of family members.
+                    Scammers take the borrower&apos;s selfie and create morphed vulgar photos using AI tools. They create graphic posters labeling the borrower a fraud.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: WhatsApp Group Creation &amp; Direct Relative Intimidation</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Extortionists create temporary WhatsApp groups comprising the victim&apos;s parents, spouse, siblings, friends, and corporate colleagues scraped from the contact list. They post the morphed images along with threatening demands, claiming the relatives are liable as &quot;guarantors&quot; and demanding immediate transfers to rotating UPI handles.
+                    Scammers create temporary WhatsApp groups with the victim&apos;s family, friends, and coworkers. They share morphed photos and demand immediate payment.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 5: Hawala Laundering Through Layered Mule Accounts</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Extorted funds are routed through hundreds of compromised domestic savings accounts (mule accounts) opened using forged credentials. Within minutes, funds are converted into cryptocurrency (USDT) on peer-to-peer exchanges and transferred to offshore wallets, completing the transnational hawala cycle.
+                    Extorted funds move through stolen bank accounts (mule accounts). Funds are converted to cryptocurrency and sent offshore.
                   </p>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Recognizing this mechanical playbook proves that the recovery agents have zero personal connection, legal claim, or genuine authority over you. Their sole weapon is psychological shame; once you establish a proactive legal defense and notify your social circle, their coercive leverage collapses entirely.
+                This playbook proves scammers have no legal power over you. Their only weapon is shame. Once you inform your contacts and file an FIR, their power is gone.
               </p>
             </section>
 
@@ -637,10 +637,10 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
             <section id="extortion-trap-economics-and-infinite-recovery-loop" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. The Extortion Trap Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A critical mistake made by panic-stricken victims is believing that paying the demanded amount will end the nightmare. In digital extortion psychology, remitting money confirms vulnerability and validates the effectiveness of the blackmail.
+                Many victims make the mistake of paying blackmail money. But in cyber extortion, paying money only proves that threats work.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Consider the real-world mathematical reality of compliance versus legal resistance:
+                The table below compares paying extortion versus taking legal action:
               </p>
 
               <div className="overflow-x-auto my-4">
@@ -655,35 +655,35 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                   <tbody>
                     <tr>
                       <td className="font-semibold text-slate-900">Financial Loss</td>
-                      <td>Escalates rapidly: ₹3,000 becomes ₹50,000–₹2,00,000+</td>
-                      <td>₹0 additional payments; complete financial halt</td>
+                      <td>Losses grow from ₹3,000 to ₹2,00,000+</td>
+                      <td>₹0 extra payments; complete financial stop</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">Harassment Duration</td>
-                      <td>Perpetual: demands continue across linked dummy apps</td>
-                      <td>Terminated within 24 to 72 hours following FIR &amp; blocking</td>
+                      <td>Never ends; new apps demand more money</td>
+                      <td>Stops in 24 to 72 hours after FIR &amp; blocking</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">Contact Exposure</td>
-                      <td>High risk: syndicate retains data to re-extort in future</td>
-                      <td>Neutralized: preemptive social disclaimer disarms threat</td>
+                      <td>High risk; scammers keep your data</td>
+                      <td>Protected by warning contacts in advance</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">Legal Protection</td>
-                      <td>Zero legal record; ongoing vulnerability to threats</td>
-                      <td>Official Police Cyber Crime FIR &amp; Telecom blocking</td>
+                      <td>Zero police record; ongoing risks</td>
+                      <td>Official police cyber FIR and telecom blocking</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">CIBIL Bureau Impact</td>
-                      <td>₹0 impact (unregulated apps cannot report to CIBIL)</td>
-                      <td>₹0 impact (unregulated apps cannot report to CIBIL)</td>
+                      <td>₹0 impact (unregulated apps cannot report)</td>
+                      <td>₹0 impact (unregulated apps cannot report)</td>
                     </tr>
                   </tbody>
                 </table>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under financial fraud economics, an extortion syndicate models victim yield using the <strong>Extortion Vulnerability Index</strong>. When a victim complies, the syndicate&apos;s algorithm tags the profile as a high-value recurring target:
+                Extortion syndicates track compliant targets using standard fraud models:
               </p>
 
               {/* JSX Formula Box */}
@@ -696,12 +696,12 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                   Extortion_Risk = [ Compliance_Payments × Scraped_Contacts ] / [ Legal_Resistance + FIR_Action + Telecom_Blacklisting ]
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where extortion risk multiplies exponentially whenever compliance payments are made, and drops to zero when robust legal resistance, formal police FIR registration, and telecom number blacklisting are executed.
+                  Extortion risk rises when you pay money. It drops to zero when you file an FIR, block numbers on Chakshu, and get legal counsel.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Because the underlying transaction is completely unlawful and void ab initio, you have zero legal obligation to repay a single rupee. The law stands entirely on your side.
+                Because the loan is void ab initio, you do not owe any money. The law protects you completely.
               </p>
             </section>
 
@@ -711,7 +711,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                 5. Emergency Cyber Crime Redressal &amp; FIR Visual Roadmap
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The visual roadmap below provides a rapid 5-step operational protocol to dismantle loan app extortion: from evidence preservation and National Cyber Crime Portal registration to Chakshu telecom blocking, police station FIR conversion, and invoking statutory RBI digital lending protections.
+                This 5-step roadmap shows how to stop loan app blackmail fast. Save your chat evidence. File a complaint on cybercrime.gov.in. Block scam numbers on the Chakshu portal. Convert your complaint to a police FIR. Use RBI rules to stop harassment.
               </p>
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
@@ -728,15 +728,15 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs text-slate-600 mt-2">
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
                   <span className="font-bold text-slate-900 block mb-1">Steps 1–2: Evidence &amp; Portal FIR</span>
-                  <span>Preserve timestamped chats, call records, and UPI transactions; register online FIR at cybercrime.gov.in or dial helpline 1930.</span>
+                  <span>Save chat screenshots, call logs, and UPI payment receipts. File a complaint on cybercrime.gov.in or dial helpline 1930.</span>
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
                   <span className="font-bold text-slate-900 block mb-1">Steps 3–4: Chakshu &amp; Police FIR</span>
-                  <span>Report scam numbers on DoT Chakshu portal to deactivate SIMs and blacklist IMEIs; convert portal complaint to registered local police FIR.</span>
+                  <span>Report scam numbers on the Chakshu portal to block SIM cards and phones. Take your complaint to your local police station to file an FIR.</span>
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
                   <span className="font-bold text-slate-900 block mb-1">Step 5: RBI Immunity &amp; Legal Shield</span>
-                  <span>Invoke RBI 2022 Digital Lending Guidelines; deploy advocate defense to achieve total harassment cessation and social protection.</span>
+                  <span>Use RBI digital lending rules to prove the loan is illegal. Get help from legal experts to stop threats and protect your family.</span>
                 </div>
               </div>
             </section>
@@ -745,10 +745,10 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
             <section id="step-by-step-cybercrime-portal-and-1930-reporting" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Guide</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The Ministry of Home Affairs (MHA), Government of India, operates the <strong>National Cyber Crime Reporting Portal (NCRP)</strong> at <a href="https://cybercrime.gov.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline font-semibold">cybercrime.gov.in</a> alongside the dedicated 24x7 <strong>Citizen Financial Cyber Fraud Reporting Helpline (1930)</strong>. Registering your complaint through these official channels creates an immutable legal record and triggers nationwide inter-agency enforcement.
+                The Ministry of Home Affairs runs the <strong>National Cyber Crime Reporting Portal (NCRP)</strong> at <a href="https://cybercrime.gov.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline font-semibold">cybercrime.gov.in</a>. You can also dial the 24x7 <strong>Financial Fraud Helpline 1930</strong>. Filing a complaint creates an official police record. It alerts cyber crime teams across India to track the scammers.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Follow this precise, legally vetted step-by-step protocol to file your cyber complaint:
+                Follow these simple steps to file your cyber complaint:
               </p>
 
               <div className="space-y-4 my-4">
@@ -758,7 +758,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                     <span>Phase 1: Digital Evidence Preservation &amp; Audit</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Before blocking numbers or wiping apps, capture high-resolution screenshots of all threatening WhatsApp chats, SMS texts, and call logs. Record incoming threat calls if possible. Capture screenshots of the loan app interface showing the loan ID, disbursed amount, repayment demand, and recipient bank account details or UPI VPAs (e.g., `merchant123@ybl` or `paytm-9876543210@paytm`). Compile all evidence into a chronological PDF document.
+                    Do not delete apps or block numbers yet. Take screenshots of all threat messages, WhatsApp chats, and call records. Record threat calls if you can. Take screenshots of the app showing loan amounts and bank accounts or UPI IDs used by scammers. Save all screenshots into one PDF file.
                   </p>
                 </div>
 
@@ -768,7 +768,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                     <span>Phase 2: Immediate Reporting on 1930 Financial Helpline</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    If you transferred any money to the extortionists under coercion, dial <strong>1930</strong> immediately from your registered mobile number. Provide the operator with your bank account number, transaction reference (UTR) numbers, the scammer&apos;s beneficiary account/UPI details, and timestamp. The 1930 mechanism communicates directly with the Indian Cyber Crime Coordination Centre (I4C) and beneficiary banks to freeze the laundered funds in the scammer&apos;s mule account before withdrawal.
+                    If you sent money to scammers, call <strong>1930</strong> right away. Give the officer your bank account details, transaction UTR numbers, and scammer UPI IDs. The 1930 team contacts banks to freeze stolen funds in scammer accounts before cash is taken out.
                   </p>
                 </div>
 
@@ -778,7 +778,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                     <span>Phase 3: Formal Complaint Lodgment on cybercrime.gov.in</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Navigate to <a href="https://cybercrime.gov.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline">cybercrime.gov.in</a> and select <strong>&quot;Register a Complaint&quot;</strong>. If morphed, nude, or sexually explicit photos are involved, select <strong>&quot;Report Crime Against Women/Children&quot;</strong> (which triggers expedited priority investigation); otherwise, select <strong>&quot;Report Other Cyber Crime&quot;</strong>. Create an account or log in via OTP, enter your state and district jurisdiction, and fill in the comprehensive incident details.
+                    Visit <a href="https://cybercrime.gov.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline">cybercrime.gov.in</a> and click <strong>&quot;Register a Complaint&quot;</strong>. If scammers use morphed or obscene photos, choose <strong>&quot;Report Crime Against Women/Children&quot;</strong> for fast priority action. For other threats, choose <strong>&quot;Report Other Cyber Crime&quot;</strong>. Log in using your mobile number and OTP. Select your state and district.
                   </p>
                 </div>
 
@@ -788,7 +788,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                     <span>Phase 4: Categorization, Accused Details &amp; Narrative Upload</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Under Category, select <em>&quot;Cyber Blackmail / Threatening&quot;</em>, <em>&quot;Online Cyber Extortion&quot;</em>, or <em>&quot;Impersonation / Cheating&quot;</em>. In the Suspect Details tab, enter all phone numbers, WhatsApp accounts, app names, APK download links, and dummy bank accounts used by the syndicate. In the Incident Description box, enter a concise factual narrative detailing the unauthorized contact scraping, extortion threats, and violation of RBI Digital Lending Guidelines. Upload your PDF evidence file and submit.
+                    Choose <em>&quot;Cyber Blackmail / Threatening&quot;</em> or <em>&quot;Online Cyber Extortion&quot;</em> as the category. In suspect details, enter scammer phone numbers, app names, APK links, and UPI IDs. In the incident box, explain how scammers stole your contacts and made threats. Attach your PDF evidence file and submit.
                   </p>
                 </div>
 
@@ -798,7 +798,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                     <span>Phase 5: Acknowledgement Generation &amp; Local Police Station FIR Conversion</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Upon successful submission, the portal generates an official <strong>15-digit NCRP Acknowledgement Number</strong>. Download the official PDF acknowledgement slip. Print two physical copies, attach your evidence annexures, and submit them to your local district Cyber Crime Police Station or territorial police station with a formal request letter to register a regular <strong>First Information Report (FIR)</strong> under Sections 308, 318, 351, 356 BNS and Sections 66, 66E, 67, 67A IT Act.
+                    After submitting, you will get a <strong>15-digit NCRP Acknowledgement Number</strong>. Download and print the PDF receipt. Take two copies with your evidence to your local police station or Cyber Cell. Ask the police to register an <strong>FIR</strong> under BNS Sections 308, 318, 351, 356 and IT Act Sections 66, 66E, 67, 67A.
                   </p>
                 </div>
               </div>
@@ -809,7 +809,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                   <span>Crucial Tip: Mandatory Acceptance of Online Cyber Complaints</span>
                 </span>
                 <p className="leading-relaxed">
-                  Under Ministry of Home Affairs advisories, local police stations cannot refuse to accept an NCRP acknowledgement or demand that you resolve the matter privately with the loan app. The portal submission operates as an official electronic complaint that must be forwarded to the designated Cyber Cell for formal inquiry and FIR registration.
+                  Police stations cannot reject your NCRP cyber complaint. Ministry rules require police to accept online cyber slips. They cannot tell you to pay or settle with illegal apps. Officers must register your complaint and take legal action.
                 </p>
               </div>
             </section>
@@ -818,10 +818,10 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
             <section id="chakshu-portal-reporting-and-telecom-blocking" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Chakshu Portal Reporting</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A major breakthrough in combating digital lending syndicates is the <strong>Chakshu facility</strong>, launched by the Department of Telecommunications (DoT) under the <strong>Sanchar Saathi</strong> initiative (<a href="https://sancharsaathi.gov.in/sfc" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline font-semibold">sancharsaathi.gov.in/sfc</a>). Chakshu empowers citizens to report suspected fraud communications received via phone calls, SMS, or WhatsApp messages before a financial loss occurs.
+                The Department of Telecommunications (DoT) runs the <strong>Chakshu facility</strong> on the <strong>Sanchar Saathi</strong> portal (<a href="https://sancharsaathi.gov.in/sfc" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline font-semibold">sancharsaathi.gov.in/sfc</a>). Chakshu lets citizens report fake calls, threat SMS, and WhatsApp messages fast.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When you report loan app recovery numbers on Chakshu, the DoT initiates rapid telecom enforcement:
+                Reporting scam numbers on Chakshu leads to rapid action:
               </p>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 my-4">
@@ -831,7 +831,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                     <span>Nationwide Mobile Number Disconnection</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Telecom Service Providers (Airtel, Jio, Vi, BSNL) immediately verify flagged numbers. If found non-compliant with KYC norms or tied to bulk automated spam/threats, the connection is instantly severed nationwide.
+                    Telecom companies like Airtel, Jio, Vi, and BSNL check reported numbers. If numbers use fake KYC or send threat messages, telecom firms disconnect them across India.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl bg-slate-50 border border-slate-200 space-y-1.5">
@@ -840,25 +840,25 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                     <span>Handset IMEI Hardware Blacklisting</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Under the Central Equipment Identity Register (CEIR), the DoT permanently blacklists the physical IMEI of mobile handsets used by recovery goons, rendering their smartphones permanently inoperable on any Indian cellular network.
+                    Through the Central Equipment Identity Register (CEIR), the government blocks the phone IMEI numbers used by scammers. Their mobile devices cannot connect to any Indian phone network.
                   </p>
                 </div>
-                <div className="p-4 rounded-xl bg-slate-50 border border-slate-200 space-y-1.5">
+                <div className="p-4 rounded-xl border border-slate-200 space-y-1.5">
                   <div className="flex items-center gap-2 font-bold text-slate-900 text-xs sm:text-sm">
                     <Eye className="w-4 h-4 text-purple-600" />
                     <span>WhatsApp Account Permanent Banning</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Coordinated reporting between DoT and Meta leads to automated algorithmic bans on WhatsApp accounts linked to reported numbers, preventing the dissemination of threat messages or contact group creation.
+                    Reports sent to WhatsApp lead to permanent bans on scammer accounts. This stops scammers from sending threat messages or making fake contact groups.
                   </p>
                 </div>
-                <div className="p-4 rounded-xl bg-slate-50 border border-slate-200 space-y-1.5">
+                <div className="p-4 rounded-xl border border-slate-200 space-y-1.5">
                   <div className="flex items-center gap-2 font-bold text-slate-900 text-xs sm:text-sm">
                     <Building2 className="w-4 h-4 text-emerald-600" />
                     <span>UPI VPA &amp; Merchant Escrow Freezing</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    National Payments Corporation of India (NPCI) and banking partners freeze associated UPI handles (VPAs) and nodal merchant accounts, cutting off the syndicate&apos;s ability to collect or launder funds.
+                    Payment authorities and banks freeze scammer UPI IDs and merchant accounts. This stops fraud rings from collecting or moving extorted money.
                   </p>
                 </div>
               </div>
@@ -867,11 +867,11 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                 How to Submit a Chakshu Report in 3 Minutes
               </h3>
               <ol className="list-decimal pl-5 space-y-1.5 text-xs sm:text-sm text-slate-700">
-                <li>Visit <strong>sancharsaathi.gov.in</strong> and click on the <strong>Chakshu</strong> icon.</li>
-                <li>Under <em>Medium of Communication</em>, select &quot;Call&quot;, &quot;SMS&quot;, or &quot;WhatsApp&quot;.</li>
-                <li>Under <em>Fraud Category</em>, choose &quot;Fake Loan / Loan App Extortion &amp; Harassment&quot;.</li>
-                <li>Enter the threatening mobile number, date and time of communication, and attach screenshots of the threat messages or morphed images.</li>
-                <li>Verify your identity via mobile OTP and submit the report. Record the complaint reference number.</li>
+                <li>Open <strong>sancharsaathi.gov.in</strong> and click the <strong>Chakshu</strong> tab.</li>
+                <li>Under <em>Medium</em>, choose &quot;Call&quot;, &quot;SMS&quot;, or &quot;WhatsApp&quot;.</li>
+                <li>Under <em>Fraud Category</em>, pick &quot;Fake Loan / Extortion&quot;.</li>
+                <li>Enter the scammer phone number, time of call, and upload screenshots of threat messages.</li>
+                <li>Verify your number with an OTP and submit. Save your complaint reference number.</li>
               </ol>
             </section>
 
@@ -879,10 +879,10 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
             <section id="legal-immunity-and-stopping-third-party-harassment" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Legal Immunity Protocols</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The single most terrifying threat deployed by loan app extortionists is contacting the victim&apos;s family members, friends, or employer. Implementing a proactive communication and legal immunity protocol neutralizes this tactic before the syndicate can inflict emotional damage.
+                Scammers often threaten to call your family, friends, and employer. Taking fast action removes the fear of blackmail before scammers cause harm.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Follow this comprehensive 4-pillar defense strategy to secure your social and legal environment:
+                Follow these 4 defense steps to protect yourself and your family:
               </p>
 
               <div className="space-y-3 my-4">
@@ -892,7 +892,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                     <span>Pillar 1: Broadcast the Standardized Contact Disclaimer Message</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Immediately send a standardized broadcast message / WhatsApp status to your entire phone contact list alerting them to a data breach. Explain that an unauthorized cyber syndicate hacked your device data and is circulating fabricated, AI-morphed images and extortion messages. Instruct all contacts to block any unfamiliar numbers and report them immediately. Proactive disclosure completely eliminates the extortionist&apos;s element of surprise and shame.
+                    Send a quick broadcast message and post a WhatsApp status to your contacts. Warn them that cyber criminals hacked your device data and are sending fake morphed images. Ask everyone to block unknown numbers and report threat calls. Telling people early removes the scammer&apos;s power to shame you.
                   </p>
                 </div>
 
@@ -902,7 +902,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                     <span>Pillar 2: Technical Device Sanitization &amp; Permission Revocation</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Uninstall the offending application immediately. Navigate to your Android Settings → Apps → App Permissions, and audit all remaining permissions. Revoke contact, storage, and camera access for any unverified tools. For maximum security, backup your essential files, perform a complete factory data reset of your smartphone to purge hidden spyware binaries, and update all critical account passwords (Google, banking, social media) with Two-Factor Authentication (2FA).
+                    Delete the fake loan app right away. Open Android Settings and check App Permissions. Turn off contact, storage, and camera access for unknown apps. Back up your files and do a factory reset on your phone to remove hidden spyware. Change your email and bank passwords, and turn on Two-Factor Authentication (2FA).
                   </p>
                 </div>
 
@@ -912,7 +912,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                     <span>Pillar 3: Advocate-Drafted Legal Cease-and-Desist Notice</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    When recovery calls originate from domestic agency numbers, our debt defense advocates serve a formal <strong>Notice of Legal Representation and Cease-and-Desist Injunction</strong>. This notice cites the <strong>RBI Master Directions on Fair Practices Code</strong>, Section 308 BNS, and the IT Act, placing the recovery agency and its directors on strict legal notice of personal criminal and civil liability for any continued third-party contact.
+                    If domestic call centers call you, our debt lawyers send a legal <strong>Cease-and-Desist Notice</strong>. This notice cites <strong>RBI Fair Practices Code</strong>, Section 308 BNS, and the IT Act. It warns agency directors of criminal charges and civil lawsuits if they contact your friends or family.
                   </p>
                 </div>
 
@@ -922,7 +922,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                     <span>Pillar 4: Formal Employer &amp; HR Advisory Documentation</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    If extortionists threaten to call your corporate HR or workplace desk, submit a formal written advisory to your HR department enclosing your registered <strong>Cyber Crime NCRP Acknowledgement Slip</strong>. Human Resource departments across India are well-versed in digital lending fraud; presenting an official police complaint confirms that you are a victim of cybercrime, preventing any workplace disciplinary or reputation repercussions.
+                    If scammers threaten your office, write a short email to your HR team. Attach your official <strong>NCRP Cyber Crime Complaint Slip</strong>. HR teams know about loan app scams across India. Showing an official police complaint proves you are a victim of cyber crime and protects your job.
                   </p>
                 </div>
               </div>
@@ -932,7 +932,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
             <section id="legal-vs-illegal-lending-apps-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Legitimate NBFC Digital Lenders vs. Illegal Extortion</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Differentiating between regulated digital lenders and fraudulent extortion syndicates is crucial for determining the appropriate legal strategy:
+                Knowing the difference between legal digital lenders and illegal loan scams helps you take the right legal steps:
               </p>
 
               <div className="overflow-x-auto my-4">
@@ -947,33 +947,33 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                   <tbody>
                     <tr>
                       <td className="font-semibold text-slate-900">Regulatory Registration</td>
-                      <td>Mandatory RBI NBFC license or scheduled commercial bank</td>
-                      <td>Unregistered shell companies / illegal offshore APKs</td>
+                      <td>Must have RBI NBFC license or bank permit</td>
+                      <td>Fake shell apps and illegal download APKs</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">Loan Tenure &amp; APR</td>
-                      <td>Minimum 3 to 36 months; capped APR disclosed upfront</td>
-                      <td>5 to 7 days; 2,000% to 5,000% disguised interest</td>
+                      <td>3 to 36 months; clear interest rates disclosed upfront</td>
+                      <td>5 to 7 days; fake fees with 2,000%+ interest</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">Device Permissions</td>
-                      <td>Zero access to contacts, photos, or call logs (RBI 2022)</td>
-                      <td>Mandatory contact scraping, gallery theft &amp; location tracking</td>
+                      <td>No access to contacts, photos, or call records (RBI 2022)</td>
+                      <td>Forces contact theft, photo access, and GPS tracking</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">Credit Bureau Reporting</td>
-                      <td>Official monthly reporting to CIBIL, Experian, Equifax, CRIF</td>
-                      <td>Zero access to credit bureaus; no ability to affect CIBIL</td>
+                      <td>Reports monthly to CIBIL, Experian, Equifax, and CRIF</td>
+                      <td>Zero bureau access; cannot harm your CIBIL score</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">Recovery Practices</td>
-                      <td>Strict RBI Fair Practices Code; 8 AM–7 PM hours; no harassment</td>
-                      <td>Violent extortion, AI photo morphing, contact blackmail</td>
+                      <td>Strict RBI Fair Practices rules; calls only 8 AM to 7 PM</td>
+                      <td>Violent threats, morphed photos, and contact blackmail</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">Legal Recourse</td>
-                      <td>Civil recovery, arbitration, Lok Adalat compromise</td>
-                      <td>Void ab initio; zero legal recourse; subject to criminal FIR</td>
+                      <td>Civil court claims, arbitration, or Lok Adalat settlements</td>
+                      <td>Void ab initio; zero legal power; subject to police FIR</td>
                     </tr>
                   </tbody>
                 </table>
@@ -985,7 +985,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
               <div className="border-t border-slate-200 pt-8 space-y-4">
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Emergency Cyber Defense</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating the trauma of illegal loan app blackmail requires swift, decisive legal intervention from experienced debt defense and cyber law advocates. At SettleLoans, our legal team provides comprehensive emergency protection: drafting immediate cyber crime complaints for the National Portal (cybercrime.gov.in), facilitating local police station FIR registration under the BNS and IT Act, coordinating with telecom authorities on the Chakshu platform to disconnect predator numbers, serving cease-and-desist notices to rogue recovery agencies, and providing victims with absolute legal immunity and peace of mind.
+                  Dealing with loan app blackmail is stressful. SettleLoans provides fast legal help. Our team files cyber complaints on cybercrime.gov.in and helps register police FIRs under BNS and IT Act laws. We report scam numbers on Chakshu to block phone lines. We serve legal cease-and-desist notices to recovery agencies to stop all harassment and protect your family.
                 </p>
               </div>
 
@@ -1000,7 +1000,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Cyber Crime Complaints Against Loan Apps</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
-                Direct, legally verified answers to critical questions regarding illegal loan app blackmail, cyber cell FIR registration, and borrower rights in India.
+                Here are clear answers to common questions about illegal loan app blackmail, filing cyber FIRs, and borrower rights in India.
               </p>
 
               <div className="space-y-3">
@@ -1169,7 +1169,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-3">
-                Specialist in digital lending cyber defense, predatory app extortion defense, BNS/IT Act criminal complaint advocacy, and RBI compliance with over a decade of legal and financial resolution experience.
+                Expert in cyber debt defense, loan app blackmail protection, BNS and IT Act complaints, and RBI compliance with over 10 years of experience.
               </p>
               <div className="pt-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
                 <Link href="/authors/ashish-jhangra" className="text-xs text-[#1F5EFF] hover:underline flex items-center gap-1 font-semibold">
@@ -1191,7 +1191,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
               </div>
               <div className="font-bold text-base text-white mb-2">Facing Threats or Morphed Photo Blackmail?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
-                Do NOT pay extortion money. Connect with our dedicated cyber debt defense advocates immediately to block callers, register police FIRs, and protect your family and career.
+                Do not pay blackmail money. Speak with our cyber debt defense lawyers now. We help block scam numbers, file police FIRs, and protect your family and career.
               </p>
               <Link
                 href="/contact"

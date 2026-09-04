@@ -184,7 +184,7 @@ const jsonLdGraph = {
             "name": "Suresh Nambiar"
           },
           "datePublished": "2026-07-18",
-          "reviewBody": "Recovery agents visited my home shouting that they would bring a transport truck to take my living room sofa, refrigerator, and my wife's gold bangles for an unpaid personal loan. SettleLoans advocates issued an immediate legal notice for criminal intimidation and trespass. The bank immediately pulled the agency and we settled the entire loan at a 55% discount.",
+          "reviewBody": "Recovery agents visited my home. They shouted and threatened to bring a truck. They said they would take my sofa, fridge, and gold for an unpaid loan. SettleLoans advocates sent an urgent legal notice. The bank withdrew the agency. We settled the debt at a 55% waiver.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -199,7 +199,7 @@ const jsonLdGraph = {
             "name": "Pooja Deshmukh"
           },
           "datePublished": "2026-08-02",
-          "reviewBody": "An NBFC collection executive threatened to forcibly enter my apartment and confiscate electronic appliances. SettleLoans explained Section 60 CPC exemptions and filed complaints with the Banking Ombudsman. Within three days, all threatening calls ceased and a formal settlement letter was issued.",
+          "reviewBody": "An NBFC agent threatened to enter my flat and take appliances. SettleLoans explained Section 60 CPC exemptions. They filed complaints with the Banking Ombudsman. Within three days, threatening calls stopped. The bank issued a formal settlement letter.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -214,7 +214,7 @@ const jsonLdGraph = {
             "name": "Harish Vardhan"
           },
           "datePublished": "2026-06-11",
-          "reviewBody": "The fear of having recovery personnel barge into our home and humiliate my family in front of society neighbors was crippling. Ashish Jhangra and the SettleLoans legal team provided ironclad protection, stopping illegal home visits and negotiating an official bank compromise.",
+          "reviewBody": "I feared agents barging in and humiliating my family. Ashish Jhangra and the SettleLoans legal team provided strong defense. They stopped illegal home visits. They helped us negotiate an official bank settlement.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -229,7 +229,7 @@ const jsonLdGraph = {
             "name": "Gurpreet Singh"
           },
           "datePublished": "2026-08-15",
-          "reviewBody": "Extremely knowledgeable legal counsel. They demonstrated how third-party recovery agencies manufacture fake confiscation notices. Their proactive representation gave us our peace of mind back.",
+          "reviewBody": "The legal guidance was very clear. They showed us how third-party agencies make fake seizure notices. Their legal representation restored our peace of mind.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -248,7 +248,7 @@ const jsonLdGraph = {
           "name": "Can a bank recovery agent legally enter my house and seize furniture or electronics for an unpaid personal loan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Bank recovery agents have absolute zero judicial authority to seize movable property or enter your home without your explicit permission. Personal loans and credit cards are unsecured debts governed strictly by civil contract law. Any unauthorized entry into your residence constitutes criminal trespass under Section 441/447 of the Indian Penal Code (IPC), and any forced removal of household items constitutes criminal theft, dacoity, or robbery."
+            "text": "No. Bank recovery agents have zero legal power to seize movable items. They cannot enter your home without your permission. Personal loans and credit cards are unsecured debts under civil contract law. Entering without permission is criminal trespass under Section 329 BNS (Section 441 IPC). Forcible removal of goods is theft or robbery."
           }
         },
         {
@@ -256,7 +256,7 @@ const jsonLdGraph = {
           "name": "Can recovery agents take my wife's gold jewelry or Mangalsutra to recover credit card dues?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Absolutely not. Recovery agents have no legal power to touch, demand, or confiscate any personal jewelry. Furthermore, under Section 60(1)(a) of the Code of Civil Procedure, 1908 (CPC), even a civil court cannot attach personal ornaments such as a Mangalsutra or religious jewelry that a woman cannot part with by religious and cultural usage. Strihidhan is the absolute personal property of the woman and cannot be attached for her husband's or family member's debts."
+            "text": "No. Recovery agents have no legal power to touch or take personal jewelry. Under Section 60(1)(a) CPC, even courts cannot attach personal ornaments like a Mangalsutra or religious jewelry. Strihidhan is the personal property of a woman. It cannot be taken for her husband's or family debts."
           }
         },
         {
@@ -264,7 +264,7 @@ const jsonLdGraph = {
           "name": "What should I do if a recovery agent threatens to bring a truck to repossess household goods?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Record all telephone calls, WhatsApp messages, or audio-visual interactions as concrete evidence. Inform the agent calmly that debt default is purely a civil dispute and that threatening extra-judicial confiscation constitutes criminal intimidation under Section 506 IPC and extortion under Section 383 IPC. Immediately contact a debt settlement advocate to issue a formal legal notice to the bank and lodge an official complaint with the local police station and the RBI Integrated Ombudsman."
+            "text": "Save all phone recordings, messages, and videos as proof. Tell the agent that loan default is a civil matter. Threats of extra-judicial seizure are criminal intimidation under Section 351 BNS (Section 506 IPC) and extortion under Section 308 BNS (Section 383 IPC). Contact an advocate, notify the bank, and file police and RBI complaints."
           }
         },
         {
@@ -272,7 +272,7 @@ const jsonLdGraph = {
           "name": "Can a bank attach my household goods through a court order for personal loan default?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A bank can only seek attachment of movable property after winning a full civil recovery suit or Order 37 summary suit, obtaining a formal decree, and initiating execution proceedings under Order XXI CPC. Even in such rare execution proceedings, the attachment must be conducted exclusively by an official Court Bailiff carrying a sealed court warrant, never by bank recovery agents. Moreover, Section 60 CPC strictly exempts essential bedding, clothing, cooking utensils, tools of trade, and basic subsistence furniture."
+            "text": "A bank can only seek property attachment after winning a civil recovery suit and getting a court decree. Attachment must be done by an official Court Bailiff with a sealed court warrant, never by recovery agents. Moreover, Section 60 CPC exempts basic bedding, clothing, utensils, tools of trade, and basic furniture."
           }
         },
         {
@@ -280,7 +280,7 @@ const jsonLdGraph = {
           "name": "Does the SARFAESI Act allow banks to take household items for unsecured loans?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The SARFAESI Act, 2002 applies exclusively to secured loans where specific immovable or movable property has been formally hypothecated, pledged, or mortgaged to the bank as collateral (such as home loans or auto loans). Unsecured personal loans and credit cards have no underlying security interest, meaning banks cannot invoke SARFAESI Act Section 13(2) or 13(4) repossession powers against unsecured borrowers."
+            "text": "No. The SARFAESI Act, 2002 applies only to secured loans where specific property is mortgaged or hypothecated, like home or car loans. Personal loans and credit cards have no collateral. Banks cannot use SARFAESI Section 13(2) or 13(4) repossession against unsecured loans."
           }
         },
         {
@@ -288,7 +288,7 @@ const jsonLdGraph = {
           "name": "What items are completely exempt from seizure under Section 60 of the Code of Civil Procedure (CPC)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Section 60(1) CPC explicitly exempts necessary wearing apparel, cooking vessels, beds and bedding of the judgment-debtor and family, personal ornaments of religious usage (including Mangalsutra), tools of artisans, implements of husbandry, necessary agricultural produce, books of account, and the residential home of an agriculturist or domestic worker. Basic furniture essential for living dignity is legally safeguarded."
+            "text": "Section 60(1) CPC exempts clothes, cooking pots, beds, and bedding. It also protects sacred ornaments like Mangalsutras, artisan tools, farm equipment, farm produce, account books, and homes of farmers or laborers. Basic household furniture is legally safe."
           }
         },
         {
@@ -296,7 +296,7 @@ const jsonLdGraph = {
           "name": "What are the permissible hours and rules for recovery agent visits under RBI guidelines?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under the RBI Master Directions on Fair Practices Code and Outsourcing Guidelines, recovery agents are strictly restricted to visiting or calling borrowers only between 8:00 AM and 7:00 PM. Agents are strictly prohibited from using physical force, shouting, using foul language, threatening family members, visiting workplaces without consent, or creating a scene in the residential neighborhood."
+            "text": "Under RBI rules and Fair Practices Codes, agents can only visit or call between 8:00 AM and 7:00 PM. Agents must not use physical force, shouting, abusive words, or threats. They cannot harass family or create scenes in your neighborhood."
           }
         },
         {
@@ -304,7 +304,7 @@ const jsonLdGraph = {
           "name": "How does hiring a debt settlement advocate stop illegal property confiscation threats?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A debt settlement advocate files a formal Vakalatnama and serves a statutory Cease-and-Desist notice to the lender's nodal officers and collection heads. Under RBI directives, once a borrower is formally represented by legal counsel, lenders must route all communications through the advocate. If agents continue harassment, the advocate files counter-proceedings under criminal statutes and RBI Ombudsman rules, while negotiating a structured 40% to 65% One-Time Settlement (OTS)."
+            "text": "A debt settlement advocate files a Vakalatnama and sends a Cease-and-Desist notice. Under RBI rules, lenders must route all communications through the lawyer once hired. If agents harass you, the lawyer files criminal and RBI Ombudsman complaints while securing a 40% to 65% OTS."
           }
         }
       ]
@@ -443,7 +443,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                 <span>Executive Legal Crux</span>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed">
-                Third-party recovery agents have zero judicial power to seize movable property or enter your home without consent. Unsecured personal loans and credit cards carry no asset hypothecation. Threatening to confiscate furniture, appliances, or gold jewelry constitutes criminal trespass and extortion under the Indian Penal Code.
+                Third-party recovery agents have zero power to seize property. They cannot enter your home without your consent. Unsecured personal loans and credit cards carry no asset charge. Threatening to take furniture, appliances, or gold is criminal trespass and extortion under Indian penal law.
               </p>
             </div>
 
@@ -462,23 +462,23 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
               <ul className="space-y-3 text-xs sm:text-sm text-slate-700">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Zero Repossession Power:</strong> Bank recovery agents and collection agencies have absolutely no legal right or judicial warrant to seize household furniture, electronic appliances, or personal goods.</span>
+                  <span><strong>Zero Repossession Power:</strong> Bank recovery agents have no right or court warrant to seize household furniture, appliances, or personal goods.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Section 60 CPC Statutory Shield:</strong> Indian civil law strictly exempts essential household goods, cooking utensils, bedding, tools of trade, and women&apos;s personal ornaments (such as Mangalsutra) from court attachment.</span>
+                  <span><strong>Section 60 CPC Statutory Shield:</strong> Civil law strictly protects basic household items, beds, cooking pots, and women&apos;s ornaments like Mangalsutras from court attachment.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>No SARFAESI for Unsecured Debt:</strong> The SARFAESI Act applies only to secured collateral. Personal loans and credit cards are unsecured commercial contracts with zero claim over domestic assets.</span>
+                  <span><strong>No SARFAESI for Unsecured Debt:</strong> The SARFAESI Act applies only to secured loans. Personal loans are unsecured debts with no claim on home goods.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Actionable Criminal Offenses:</strong> Forcible entry into your residence or threats to remove items constitutes criminal trespass (Section 441 IPC), extortion (Section 383 IPC), and criminal intimidation (Section 506 IPC).</span>
+                  <span><strong>Actionable Criminal Offenses:</strong> Entering without consent or threatening to take goods is criminal trespass (Section 329 BNS), extortion (Section 308 BNS), and intimidation (Section 351 BNS).</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Advocate-Led Resolution:</strong> Engaging legal counsel stops coercive collection visits immediately and redirects institutional disputes toward structured One-Time Settlement (OTS) with significant principal waivers.</span>
+                  <span><strong>Advocate-Led Resolution:</strong> Hiring a lawyer stops coercive visits at once. It redirects talks toward a structured One-Time Settlement (OTS) with 40% to 65% waivers.</span>
                 </li>
               </ul>
             </div>
@@ -487,10 +487,10 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
             <section id="the-property-confiscation-myth" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Property Confiscation Myth</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When financial distress strikes—whether through unexpected job retrenchment, business revenue collapse, severe medical crises, or inflation-driven liquidity strain—borrowers navigating overdue personal loans or credit card accounts frequently encounter extreme collection tactics. Among the most traumatic and coercive methods deployed by unregulated third-party collection agencies is the fabrication of imminent property confiscation. Borrowers across Indian metropolitan centers and regional towns report receiving threatening telephone calls, aggressive WhatsApp voice notes, or confrontational doorstep visits where recovery personnel boast that they will arrive with commercial transport trucks and laborers to haul away domestic furniture, LED televisions, double-door refrigerators, air conditioners, and gold ornaments.
+                Financial distress can strike through job loss, medical costs, or inflation. Borrowers with overdue personal loans often face harsh collection tactics. Many recovery agencies make false threats of property seizure. They call or visit homes, threatening to bring trucks for sofas, TVs, fridges, and gold.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To evaluate the reality behind these aggressive maneuvers, one must understand the fundamental legal nature of Indian debt collection. Collection agents and private recovery agencies operate exclusively as outsourced service contractors under private agency agreements with commercial banks and Non-Banking Financial Companies (NBFCs). Under Indian statutory law, recovery agents possess exactly zero judicial, police, or statutory authority. They are not court bailiffs, they do not hold warrants of attachment, and they have no legal right to step past your residential threshold without your express, voluntary permission. The persistent claim that an agency can unilaterally repossess movable domestic items is a calculated psychological bluff designed to exploit social shame, panic, and legal unfamiliarity to extract immediate funds.
+                To protect your rights, know how debt collection works. Collection agents are private workers hired by banks. They hold zero police or court powers. They are not court bailiffs. They hold no attachment warrants. They cannot enter your home without permission. Their threats to take goods are empty bluffs to create fear.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded-r-xl my-4">
                 <div className="flex items-center gap-2 text-amber-900 font-bold text-xs uppercase tracking-wider mb-1">
@@ -498,11 +498,11 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                   <span>Foundational Legal Precept</span>
                 </div>
                 <p className="text-xs sm:text-sm text-amber-800 leading-relaxed">
-                  No private entity, bank manager, or recovery agent in India possesses the power to confiscate movable property for an unsecured loan default without an explicit, stamped Execution Warrant issued by a competent Civil Court judge following a completed trial.
+                  No agency, bank manager, or agent can take movable goods for unsecured debt without a stamped court warrant.
                 </p>
               </div>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Furthermore, personal loan agreements and credit card cardholder agreements represent unsecured commercial contracts governed by the Indian Contract Act, 1872. When a borrower signs a personal loan sanction letter, no charge, pledge, hypothecation, or mortgage is created over the borrower&apos;s personal domestic goods or family possessions. The lender extends capital based solely on credit scoring, income underwriting, and personal covenant. Consequently, defaulting on such repayments represents a civil breach of contract, conferring upon the lender only the right to pursue civil litigation for monetary recovery, rather than any proprietary claim over the physical chattels residing inside the borrower&apos;s home.
+                Personal loans and cards are unsecured under the Indian Contract Act, 1872. When taking a personal loan, you do not mortgage your goods. Unpaid debt is a civil matter. The lender can only file a court suit. They have no legal claim over items in your home.
               </p>
             </section>
 
@@ -510,10 +510,10 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
             <section id="statutory-framework-cpc-section-60" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Section 60 CPC Property Protections</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Even in the rare event that a commercial bank initiates a formal civil lawsuit, spends years litigating, and successfully secures a final monetary decree against a debtor, the Indian legal system provides comprehensive, non-negotiable statutory protections for individuals and their families. The cornerstone of this protection is codified under Section 60 of the Code of Civil Procedure, 1908 (CPC), which governs the attachment and sale of property in execution of a court decree.
+                Even if a bank wins a court lawsuit, Indian law protects families. The key shield is Section 60 of the Code of Civil Procedure, 1908 (CPC). This section governs property attachment during court execution.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The legislative intent behind Section 60 CPC is rooted in constitutional principles of human dignity and basic survival. The Parliament of India explicitly recognized that no judicial recovery mechanism should ever reduce a debtor and their dependent family to destitution or strip away the fundamental necessities of civilized human life. The first proviso to Section 60(1) contains an exhaustive list of properties that are strictly immune and exempt from any attachment or sale whatsoever:
+                Section 60 CPC is rooted in human dignity. Parliament ensures no court process leaves a family without basic goods. Section 60(1) provisos list items that are strictly safe from attachment:
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-4">
@@ -525,32 +525,32 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Proviso (a): Wearing Apparel, Cooking Utensils &amp; Bedding</p>
                     <p className="text-slate-600 mt-1">
-                      The necessary wearing apparel, cooking vessels, beds, and bedding of the judgment-debtor, his wife, and children, and such personal ornaments as, in accordance with religious usage, cannot be parted with by any woman (expressly safeguarding Mangalsutras, sindoor ornaments, and sacred wedding jewelry).
+                      Clothes, cooking pots, beds, and bedding for the family. It protects Mangalsutras.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Proviso (b): Tools of Artisans &amp; Implements of Husbandry</p>
                     <p className="text-slate-600 mt-1">
-                      Tools of artisans, instruments used for earning livelihood, implements of husbandry, and such cattle and seed-grain as may, in the opinion of the court, be necessary to enable the judgment-debtor to earn his basic livelihood.
+                      Tools of trade, farm tools, cattle, and seed grain.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Proviso (c): Houses of Agriculturists &amp; Domestic Servants</p>
                     <p className="text-slate-600 mt-1">
-                      Houses and other buildings (with the materials and the sites thereof and the land immediately appurtenant thereto and necessary for their enjoyment) belonging to an agriculturist, laborer, or domestic worker and occupied by him.
+                      Homes belonging to farmers, workers, or laborers.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Proviso (g) &amp; (k): Pensions, Gratuity &amp; Provident Funds</p>
                     <p className="text-slate-600 mt-1">
-                      Stipends and gratuities allowed to pensioners of the government, family pensions, and all compulsory deposits in Public Provident Fund (PPF) accounts and Employee Provident Fund (EPF) structures.
+                      Pensions, family funds, and savings in PPF and EPF.
                     </p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Regarding personal gold and jewelry, Indian jurisprudence establishes a crucial distinction between general commercial investment assets and personal wedding ornaments or Strihidhan. Under Hindu law and customary Indian personal jurisprudence, Strihidhan represents the absolute, unencumbered individual property of a married woman. Even if a husband has defaulted on a massive personal loan or business credit card, no court bailiff—and certainly no bank recovery agent—can touch or attach the wife&apos;s jewelry, wedding gifts, or inherited gold. To attempt to confiscate or coerce the surrender of a woman&apos;s gold for a family member&apos;s unsecured debt is a grave civil wrong and a direct criminal violation.
+                Indian law protects wedding ornaments and Strihidhan. Under Indian law, Strihidhan belongs solely to a married woman. Even if her husband defaults on a loan, no one can attach her gold. Demanding a woman&apos;s jewelry for family debt is illegal.
               </p>
             </section>
 
@@ -558,13 +558,13 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
             <section id="sarfaesi-act-unsecured-debt-limits" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The SARFAESI Act vs. Unsecured Debt</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Recovery agents frequently use legal jargon to intimidate unsuspecting citizens, routinely brandishing notices that cite the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002. Agents will claim that under SARFAESI statutory powers, the bank has the immediate authority to take constructive or physical possession of the borrower&apos;s residence and auction off all internal contents without court intervention.
+                Recovery agents often use confusing terms to scare borrowers. They show letters quoting the SARFAESI Act, 2002. Agents claim that under SARFAESI rules, the bank can take your home and auction furniture without a court order.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                This tactic represents a deliberate misrepresentation of Indian banking statutes. The SARFAESI Act was enacted by Parliament exclusively to empower secured creditors—such as housing finance corporations, mortgage lenders, and commercial banks extending secured overdrafts against registered commercial or residential real estate—to enforce security interests without the mandatory pre-intervention of a civil court. Under Section 13(2) and Section 13(4) of the SARFAESI Act, a lender can only take possession of property that was specifically pledged, hypothecated, or mortgaged as designated collateral at the inception of the loan facility.
+                This claim is false. The SARFAESI Act applies only to secured loans. It covers home loans or mortgage loans backed by property. Under Section 13(2) and 13(4) SARFAESI, lenders can only repossess assets pledged as security.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                By statutory definition, unsecured personal loans, instant mobile app loans, consumer durable financing, and revolving credit card lines have zero security interest. The lender holds no title deeds, no registered mortgage deed with the Sub-Registrar, and no hypothecation agreement over domestic furniture. Consequently, invoking SARFAESI notices or threatening summary repossession for an unsecured loan default is legally void <em>ab initio</em>. When collection agents attempt to enforce non-existent security powers, they open themselves and the principal lending institution to severe regulatory sanctions and judicial reprimand.
+                Personal loans and cards are unsecured. The bank holds no charge over household items. Using SARFAESI notices for unsecured debt is illegal. Agents making such threats break banking rules.
               </p>
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
                 <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
@@ -574,11 +574,11 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700 mt-3">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Secured Loans (Home / Auto Loans)</p>
-                    <p className="text-slate-600">The specific mortgaged house or hypothecated vehicle is registered collateral. If defaulted, lenders can repossess the specific asset under SARFAESI or contractual hypothecation clauses, but cannot touch general unhypothecated household contents.</p>
+                    <p className="text-slate-600">The home or car is pledged security. Lenders can repossess that asset under SARFAESI. But they cannot touch general household items.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Unsecured Loans (Personal / Credit Cards)</p>
-                    <p className="text-slate-600">Zero collateral pledged. The lender has no proprietary claim over any domestic item, electronic gadget, furniture, or gold. Recovery is strictly limited to monetary civil recovery suits with no summary repossession powers.</p>
+                    <p className="text-slate-600">Zero collateral is pledged. The lender has no claim over furniture or gold. Recovery is limited to civil suits.</p>
                   </div>
                 </div>
               </div>
@@ -588,18 +588,18 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
             <section id="bank-npa-accounting-npv-formula" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; Seizure Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To understand why collection agencies resort to dramatic threats of bringing trucks to seize furniture rather than pursuing legitimate judicial remedies, one must examine the internal balance sheet economics of Indian banking. Under the Reserve Bank of India (RBI) Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances, an unsecured personal loan or credit card account is classified as a Non-Performing Asset (NPA) once repayments remain past due for more than 90 days.
+                Why do recovery agencies make false threats instead of going to court? The answer lies in bank balance sheets. Under RBI rules, unpaid loans turn into Non-Performing Assets (NPAs) after 90 days.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Once an account enters NPA status, the lending institution is prohibited from recognizing accrued interest as income and is mandated to lock away significant risk capital as regulatory provisions:
+                When an account turns into an NPA, the bank cannot book interest as profit. It must lock away funds as provisions:
               </p>
               <ul className="list-disc pl-5 space-y-1.5 text-xs sm:text-sm text-slate-700">
-                <li><strong>Substandard Assets (Up to 12 Months NPA):</strong> Mandatory 15% provisioning on the total outstanding exposure for unsecured facilities.</li>
-                <li><strong>Doubtful Assets - Category 1 (12 to 24 Months NPA):</strong> Mandatory 100% provisioning on the unsecured portion of the exposure.</li>
-                <li><strong>Loss Assets / Written-Off Portfolio:</strong> 100% full balance sheet write-off against the bank&apos;s operating profits.</li>
+                <li><strong>Substandard Assets (Up to 12 Months NPA):</strong> 15% provisioning on unsecured loans.</li>
+                <li><strong>Doubtful Assets - Category 1 (12 to 24 Months NPA):</strong> 100% provisioning on unsecured loans.</li>
+                <li><strong>Loss Assets / Written-Off Portfolio:</strong> 100% full balance sheet write-off against reserves.</li>
               </ul>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mt-3">
-                If a bank decides to initiate formal civil litigation in a District Commercial Court to recover an unsecured personal loan of ₹5 Lakhs to ₹15 Lakhs, it must pay 1% to 3% upfront non-refundable court fees, engage external legal advocates, and endure 36 to 60 months of judicial delays. Because movable household items inside a residential apartment have negligible resale value at public judicial auctions and are largely protected under Section 60 CPC, the institutional recovery yield from civil litigation is deeply negative. Consequently, institutional risk and recovery committees utilize a Net Present Value (NPV) financial calculation to evaluate settlement viability:
+                Filing a court suit for ₹5 Lakhs takes 3 to 5 years. It costs heavy legal fees. Household goods have zero auction value. They are protected under Section 60 CPC. Thus, court suits yield poor returns. Banks judge recovery via Net Present Value (NPV):
               </p>
 
               {/* Recovery Valuation Formula Box */}
@@ -612,12 +612,12 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoveries across annual intervals t, r is the bank&apos;s cost of capital discount rate, and deductions account for 3 to 5 years of legal fees, administrative overhead, and locked regulatory capital.
+                  Here, C_t is the expected cash recovery. The letter r is the bank discount rate. Deductions cover legal fees and locked funds.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Because prolonged litigation on unsecured debt yields a severely diminished Net Present Value, banks have immense commercial motivation to resolve the debt through a negotiated One-Time Settlement (OTS). By agreeing to a 40% to 65% principal haircut, the bank immediately recovers upfront liquidity, eliminates bad debt from its books, and instantly writes back locked provisioning reserves to boost its quarterly net profit. The recovery agency&apos;s violent threats of truck repossession are simply a frantic effort to collect before the bank officially transfers the file to the structured settlement desk.
+                Court cases yield low returns. Thus, banks prefer a fast One-Time Settlement (OTS). A 40% to 65% waiver gives the bank quick cash. It frees locked funds. Threats of trucks are cheap scare tactics before settlement talks begin.
               </p>
             </section>
 
@@ -643,33 +643,33 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
             <section id="criminal-countermeasures-illegal-threats" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Criminal Countermeasures &amp; Penal Remedies</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a recovery agent arrives at a borrower&apos;s home, forces entry, refuses to leave, creates a public disturbance in a residential society, or threatens physical confiscation of furniture or personal gold, the agent transitions from a commercial representative into a perpetrator of cognizable criminal offenses. Under the Indian Penal Code (IPC) and the Bharatiya Nyaya Sanhita (BNS), such aggressive actions carry severe criminal liability:
+                Entering a home without consent or threatening to take goods is a crime. Under the Bharatiya Nyaya Sanhita (BNS) and IPC, such acts trigger criminal charges:
               </p>
               
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 my-4">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 441 &amp; 447 IPC (Criminal Trespass)</h3>
-                  <p className="text-xs text-slate-600">Entering into or upon property in possession of another with intent to commit an offense, intimidate, insult, or annoy is punishable by imprisonment.</p>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 329 BNS (Section 441 IPC: Trespass)</h3>
+                  <p className="text-xs text-slate-600">Entering without consent to threaten or insult is criminal trespass. It carries jail time.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 383 &amp; 384 IPC (Extortion)</h4>
-                  <p className="text-xs text-slate-600">Intentionally putting any person in fear of injury, public humiliation, or property loss to coerce the delivery of funds constitutes criminal extortion.</p>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 308 BNS (Section 383 IPC: Extortion)</h4>
+                  <p className="text-xs text-slate-600">Using fear of public shame or loss of goods to force payment is extortion.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 503 &amp; 506 IPC (Criminal Intimidation)</h4>
-                  <p className="text-xs text-slate-600">Threatening injury to person, reputation, or property to force a person to do any act they are not legally bound to do is a punishable penal offense.</p>
+                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 351 BNS (Section 503 IPC: Intimidation)</h4>
+                  <p className="text-xs text-slate-600">Threats to your person, name, or home to force payment constitute intimidation.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">RBI Master Directions on Outsourcing</h4>
-                  <p className="text-xs text-slate-600">RBI mandates that banks are vicariously liable for all misconduct by collection agents, imposing penalties and compensation awards up to ₹20 Lakhs.</p>
+                  <p className="text-xs text-slate-600">The RBI holds banks liable for agent actions. The Ombudsman can order compensation up to ₹20 Lakhs.</p>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                In landmark rulings such as <em>ICICI Bank Ltd. v. Prakash Kaur &amp; Ors. (2007) 2 SCC 711</em>, the Supreme Court of India severely condemned the use of musclemen and aggressive recovery agents by banks, holding that banks cannot employ extra-judicial methods or intimidation to repossess property or recover loans. The apex court reiterated that recovery must strictly follow the rule of law and due process through established judicial forums.
+                In <em>ICICI Bank Ltd. v. Prakash Kaur &amp; Ors. (2007) 2 SCC 711</em>, the Supreme Court banned musclemen for debt collection. The court ordered banks to follow civil steps.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When our legal team represents a distressed borrower, we immediately document all unlawful communications, phone recordings, and surveillance footage. We serve a formal Cease-and-Desist notice upon the bank&apos;s managing director and nodal grievance officer, citing the exact penal provisions violated by the agency. This legal intervention halts home visits immediately, shifts the bank into defensive risk mitigation, and forces institutional representatives to negotiate a peaceful compromise.
+                When our legal team steps in, we save call records and video clips. We send a Cease-and-Desist notice to bank leaders and nodal officers. This halts home visits at once. It starts peaceful settlement talks.
               </p>
             </section>
 
@@ -677,7 +677,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
             <section id="civil-court-execution-reality" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Civil Court Execution Realities for Assets</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To thoroughly dismantle the fear of abrupt household confiscation, borrowers must understand how a legitimate court-ordered attachment actually functions in the Indian judicial framework. A bank cannot simply walk into a court and obtain a property attachment order overnight. The procedural pipeline under the Code of Civil Procedure, 1908 involves extensive multi-year stages:
+                How does a real court attachment work in India? A bank cannot get a property attachment order overnight. The process under the Code of Civil Procedure, 1908 involves 5 slow stages:
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 space-y-3">
@@ -688,29 +688,29 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                 <div className="space-y-2.5 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Stage 1: Filing of Civil Suit / Order 37 Summary Suit</p>
-                    <p className="text-slate-600 mt-1">The bank files a recovery suit in the appropriate City Civil or Commercial Court. Formal court summons are served upon the defendant borrower, who has full statutory rights to file a Written Statement and Leave to Defend.</p>
+                    <p className="text-slate-600 mt-1">The bank files a case in court. Summons are sent to the borrower. You can file a reply and defend yourself.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Stage 2: Adjudication &amp; Trial</p>
-                    <p className="text-slate-600 mt-1">Both sides present evidence, cross-examine witnesses, and contest disputed penal interest and arbitrary charges over an average duration of 2 to 4 years.</p>
+                    <p className="text-slate-600 mt-1">Both sides show evidence. They argue disputed fees over 2 to 4 years.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Stage 3: Passing of Money Decree</p>
-                    <p className="text-slate-600 mt-1">If the court rules in favor of the lender, it passes a formal Money Decree specifying the adjudicated debt amount.</p>
+                    <p className="text-slate-600 mt-1">If the court rules for the bank, it passes a money decree.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Stage 4: Execution Petition Under Order XXI CPC</p>
-                    <p className="text-slate-600 mt-1">To enforce the decree, the bank must file a separate Execution Petition under Order 21 CPC, identifying non-exempt assets owned solely by the judgment-debtor.</p>
+                    <p className="text-slate-600 mt-1">The bank files an execution plea under Order 21 CPC to find non-exempt assets.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Stage 5: Official Execution by Court Bailiff</p>
-                    <p className="text-slate-600 mt-1">Any physical attachment must be conducted exclusively by an appointed Court Bailiff with an official, sealed warrant, adhering strictly to Section 60 CPC exemptions.</p>
+                    <p className="text-slate-600 mt-1">Any attachment is done only by a Court Bailiff with a court warrant. They must follow Section 60 CPC exemptions.</p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When this reality is compared against the false claims of recovery agents who claim they will arrive tomorrow morning with a transport truck, the bluff is entirely exposed. Banks rarely if ever initiate full civil execution on retail unsecured debts due to the prohibitive cost-to-benefit ratio, making negotiated compromise the preferred resolution mechanism for both parties.
+                This shows agent threats are empty bluffs. Banks rarely file court execution cases for small personal loans. A negotiated settlement is best for both sides.
               </p>
             </section>
 
@@ -718,10 +718,10 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
             <section id="settlement-negotiation-ndc-cibil" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. OTS Settlement &amp; NDC for Unsecured Debt</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A critical danger faced by unrepresented borrowers during recovery disputes is making informal cash payments or online UPI transfers to collection agents based on verbal promises of loan closure. Recovery personnel frequently tell borrowers, &quot;Pay ₹30,000 today and we will not bring the truck to seize your furniture.&quot; In reality, such informal payments are treated as partial interest servicing, leaving the principal balance untouched, keeping the account delinquent, and allowing harassment to resume the following month.
+                Never make cash or UPI payments to agents. Agents may say, &quot;Pay ₹30,000 today and we will not bring the truck.&quot; But cash is often lost. The bank marks it as penal interest. Harassment resumes next month.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To achieve genuine, irrevocable legal closure of an overdue unsecured personal loan or credit card portfolio, borrowers must follow strict statutory settlement protocols:
+                To settle personal loans or credit cards safely, follow three clear rules:
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 space-y-3">
@@ -732,21 +732,21 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">1. Official Sanction Letter</p>
-                    <p className="text-slate-600">A formal Settlement Sanction Letter issued directly on official bank letterhead with unique reference number, detailed waiver amount, and explicit installment schedule.</p>
+                    <p className="text-slate-600">Get an OTS letter on bank letterhead. It must show the waiver sum.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">2. Direct Bank Remittance</p>
-                    <p className="text-slate-600">Remittance executed exclusively through formal banking channels (RTGS, NEFT, or Account Payee Demand Draft) payable directly to the designated loan account number.</p>
+                    <p className="text-slate-600">Pay into your loan account via NEFT or RTGS.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">3. Stamped NDC &amp; CIBIL Update</p>
-                    <p className="text-slate-600">Delivery of a formal, stamped No Dues Certificate (NDC) within 30 days under RBI Circular RBI/2023-24/60, followed by credit bureau status closure.</p>
+                    <p className="text-slate-600">Get a stamped No Dues Certificate. Check credit bureau updates.</p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Following full execution of the One-Time Settlement, the bank updates the credit information companies (CIBIL, Experian, CRIF High Mark, and Equifax) with the status &quot;Settled&quot; or &quot;Post-Write-Off Settled&quot;. While a settlement note temporarily impacts the credit score, it completely terminates all outstanding liabilities, eliminates legal exposure, and allows the borrower to systematically rebuild their credit profile through secured credit facilities and disciplined financial management over 12 to 24 months.
+                Credit bureaus update your file to &apos;Settled&apos;. This ends legal risk. It stops all agent visits for good.
               </p>
             </section>
 
@@ -754,7 +754,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
             <section id="asset-protection-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Asset Seizure &amp; Property Protection Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The comparative matrix below details the statutory boundaries, legal authority, and borrower protections across the various recovery channels operating in India:
+                The comparative matrix below details legal limits, authority, and borrower protections across recovery channels in India:
               </p>
               
               <div className="overflow-x-auto">
@@ -772,37 +772,37 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                     <tr>
                       <td className="font-semibold text-slate-900">Third-Party Recovery Agents</td>
                       <td>Private Agency Contract (Zero Judicial Authority)</td>
-                      <td><strong>Absolute Zero</strong> (Illegal &amp; Criminal Trespass)</td>
-                      <td><strong>Absolute Zero</strong> (Extortion under Sec 383 IPC)</td>
-                      <td>Police complaint (Sec 506/441 IPC), RBI Ombudsman complaint, Cease-and-Desist Notice</td>
+                      <td><strong>Zero</strong>. Seizure is illegal and criminal trespass.</td>
+                      <td><strong>Zero</strong>. Taking gold is extortion under Section 308 BNS.</td>
+                      <td>Section 329 BNS complaint. RBI Ombudsman. Cease-and-Desist notice.</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">Civil Court Execution (Order 21 CPC)</td>
                       <td>Judicial Warrant executed by Official Court Bailiff</td>
-                      <td><strong>Strictly Limited</strong> (Essential furniture, beds, cooking vessels exempted by Sec 60 CPC)</td>
-                      <td><strong>Zero</strong> for Strihidhan / Mangalsutra; Commercial bullion only if specifically decreed</td>
-                      <td>Objection Petition under Order XXI Rule 58 CPC; Claiming Section 60 statutory exemptions</td>
+                      <td><strong>Strictly Limited</strong>. Section 60 CPC protects beds, clothes, and basic furniture.</td>
+                      <td><strong>Zero</strong> for Strihidhan / Mangalsutra. Bullion only if decreed.</td>
+                      <td>Order XXI Rule 58 CPC plea. Section 60 CPC exemptions.</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">SARFAESI Act Proceedings</td>
                       <td>Authorized Officer under SARFAESI Act, 2002</td>
-                      <td><strong>Zero</strong> for unsecured loans; Only hypothecated collateral for secured debts</td>
-                      <td><strong>Zero</strong> unless pledged gold loan with formal pawn agreement</td>
-                      <td>Section 17 Securitisation Application before the Debts Recovery Tribunal (DRT)</td>
+                      <td><strong>Zero</strong> for unsecured loans. Only pledged collateral for secured debt.</td>
+                      <td><strong>Zero</strong> unless pledged under a formal gold loan.</td>
+                      <td>Section 17 plea before DRT.</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">Lok Adalat Settlement</td>
                       <td>Statutory Conciliation under Legal Services Authorities Act</td>
-                      <td><strong>None</strong> (Purely voluntary mutual compromise forum)</td>
-                      <td><strong>None</strong> (Consensual settlement with 40%–65% waiver)</td>
-                      <td>Final, binding consent award with zero execution litigation exposure</td>
+                      <td><strong>None</strong>. Voluntary mutual compromise forum.</td>
+                      <td><strong>None</strong>. Consensual settlement with 40%–65% waiver.</td>
+                      <td>Final consent award with no court cases.</td>
                     </tr>
                     <tr>
                       <td className="font-semibold text-slate-900">Section 138 NI Act (Cheque Bounce)</td>
                       <td>Metropolitan / Judicial Magistrate Court</td>
-                      <td><strong>Zero</strong> (Quasi-criminal penalty; no asset attachment during trial)</td>
-                      <td><strong>Zero</strong> (Bailable proceeding focusing on compounding)</td>
-                      <td>Bail application, legal defense on cheque misuse, compounding via One-Time Settlement</td>
+                      <td><strong>Zero</strong>. Quasi-criminal case with no asset seizure.</td>
+                      <td><strong>Zero</strong>. Bailable process focusing on loan resolution.</td>
+                      <td>Bail plea. Legal defense. Compounding via OTS.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -814,7 +814,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
               <div className="border-t border-slate-200 pt-8 space-y-4">
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Asset Seizure Defense</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Living under the constant dread of aggressive recovery agents storming your residence, threatening your family, and attempting to confiscate your personal belongings is an emotionally devastating ordeal. At SettleLoans, our senior legal advocates, ex-banking professionals, and debt resolution specialists provide comprehensive nationwide protection for distressed borrowers. We immediately invoke statutory protections under Section 60 CPC and RBI Fair Practices Directions, serve formal Vakalatnama and Cease-and-Desist notices to halt third-party intimidation, and negotiate directly with bank zonal authorities to secure structured 40% to 65% One-Time Settlements backed by official, bank-stamped No Dues Certificates.
+                  Living in fear of debt agents is stressful. At SettleLoans, our team defends borrowers across India. We enforce rights under Section 60 CPC and RBI rules. We send Cease-and-Desist notices to stop harassment. We then negotiate 40% to 65% OTS waivers and No Dues Certificates.
                 </p>
               </div>
 
@@ -829,7 +829,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Can Agents Take Household Goods or Gold?</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
-                Clear, legally verified answers to essential questions regarding recovery agent limitations, property attachment rules, Section 60 CPC exemptions, and borrower defense in India.
+                Clear answers on recovery agent limits, property attachment rules, Section 60 CPC exemptions, and borrower defense.
               </p>
 
               <div className="space-y-3">
@@ -875,7 +875,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
                 >
-                  <span className="font-semibold text-slate-800">RBI Master Direction – Managing Risks &amp; Code of Conduct in Outsourcing</span>
+                  <span className="font-semibold text-slate-800">RBI Master Direction on Outsourcing &amp; Conduct</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
@@ -884,7 +884,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
                 >
-                  <span className="font-semibold text-slate-800">Supreme Court of India (ICICI Bank v. Prakash Kaur Ruling on Harassment)</span>
+                  <span className="font-semibold text-slate-800">Supreme Court of India (ICICI Bank v. Prakash Kaur)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
@@ -893,7 +893,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
                 >
-                  <span className="font-semibold text-slate-800">RBI Integrated Ombudsman Scheme (Recovery Harassment Grievances)</span>
+                  <span className="font-semibold text-slate-800">RBI Integrated Ombudsman Scheme (Grievance Portal)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
@@ -902,7 +902,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm sm:col-span-2"
                 >
-                  <span className="font-semibold text-slate-800">Indian Penal Code, 1860 (Sections 441 Trespass, 383 Extortion &amp; 506 Intimidation)</span>
+                  <span className="font-semibold text-slate-800">Indian Penal Code (Sections 441 Trespass &amp; 383 Extortion)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
               </div>
@@ -998,7 +998,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-3">
-                Distinguished authority in banking jurisprudence, civil asset protection under Section 60 CPC, criminal defense against debt recovery extortion, and RBI compromise settlement frameworks with over a decade of institutional advisory leadership.
+                Expert in banking law, asset protection under Section 60 CPC, criminal defense against debt harassment, and RBI settlement frameworks.
               </p>
               <div className="pt-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
                 <Link href="/authors/ashish-jhangra" className="text-[#1F5EFF] font-semibold hover:underline flex items-center gap-1">
@@ -1020,7 +1020,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
               </div>
               <div className="font-bold text-base text-white mb-2">Threatened With Asset Confiscation?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
-                Do not allow recovery agents to intimidate your family with illegal seizure threats. Engage our senior advocates to issue immediate legal notices, halt doorstep visits, and negotiate a 40%–65% OTS.
+                Do not let recovery agents intimidate your family with illegal seizure threats. Our advocates send legal notices, stop doorstep visits, and secure 40% to 65% OTS waivers.
               </p>
               <Link
                 href="/contact"

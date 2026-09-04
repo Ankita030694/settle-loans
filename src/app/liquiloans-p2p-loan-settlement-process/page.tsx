@@ -82,7 +82,7 @@ const jsonLdGraph = {
       "@id": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process#webpage",
       "url": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process",
       "name": "LiquiLoans Settlement Process: NDX P2P Loan Relief & Legal Defense (2026)",
-      "description": "Comprehensive legal guide to LiquiLoans (NDX P2P) loan settlement. Learn how to settle zero-cost EMI, healthcare, and EdTech loans, stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA notices, and negotiate 40%–60% debt haircuts under RBI rules.",
+      "description": "Learn how to settle LiquiLoans (NDX P2P) loans legally. Stop recovery harassment, cancel NACH bounce fees, and get 40% to 60% debt waivers under RBI rules.",
       "breadcrumb": {
         "@id": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process#breadcrumb"
       },
@@ -116,7 +116,7 @@ const jsonLdGraph = {
       "@type": "Article",
       "@id": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process#article",
       "headline": "LiquiLoans Settlement Process: Resolving NDX P2P Zero-Cost EMI, Healthcare & EdTech Loans",
-      "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with NDX P2P Lending Technologies (LiquiLoans), navigating P2P regulatory frameworks, halting recurring NACH bounce fees, and safeguarding against collection harassment.",
+      "description": "A complete guide on negotiating One-Time Settlements (OTS) with NDX P2P (LiquiLoans). Stop e-NACH bounce fees and resolve legal notices safely.",
       "image": "https://www.settleloans.in/images/infographics/liquiloans-p2p-loan-settlement-process.jpg",
       "datePublished": "2026-09-03T12:00:00+05:30",
       "dateModified": "2026-09-03T12:00:00+05:30",
@@ -144,7 +144,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process#service",
       "name": "SettleLoans - LiquiLoans NDX P2P Loan Settlement & Legal Defense",
-      "description": "Specialized legal and financial negotiation advisory for settling defaulted LiquiLoans consumer credit facilities, EdTech skilling loans, and elective healthcare installments under RBI compromise frameworks with maximum debt waivers and complete anti-harassment protection.",
+      "description": "Expert legal advisory for settling defaulted LiquiLoans consumer credit facilities under RBI compromise frameworks with maximum debt waivers.",
       "url": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process",
       "image": "https://www.settleloans.in/images/infographics/liquiloans-p2p-loan-settlement-process.jpg",
       "telephone": "+91-99999-99999",
@@ -178,7 +178,7 @@ const jsonLdGraph = {
             "name": "Kunal Sengupta"
           },
           "datePublished": "2026-07-12",
-          "reviewBody": "I enrolled in an advanced software bootcamp with zero-cost EMI financed by NDX P2P (LiquiLoans). When my company conducted layoffs, I could not service the ₹1.85 Lakh balance. Third-party collection callers were calling my family members and threatening legal action. SettleLoans intervened, issued a formal statutory cease-and-desist notice citing RBI P2P guidelines, stopped the harassment, and negotiated a structured compromise settlement for ₹80,000 directly with NDX P2P Stressed Assets division. The official stamped sanction letter and ₹0 NDC were issued without dispute.",
+          "reviewBody": "I had a ₹1.85 Lakh LiquiLoans EdTech loan. When layoffs hit, I could not pay. Agents called my family. SettleLoans sent a legal notice under RBI rules. They negotiated a ₹80,000 settlement with NDX P2P. I got my stamped letter and ₹0 NDC quickly.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -193,7 +193,7 @@ const jsonLdGraph = {
             "name": "Meera Swaminathan"
           },
           "datePublished": "2026-08-04",
-          "reviewBody": "Financed an elective dental procedure of ₹2.2 Lakhs through LiquiLoans at a dental chain. Severe medical complications left me unable to work for four months. My bank account suffered multiple NACH bounce penalties of over ₹16,000 alongside aggressive WhatsApp messages. SettleLoans took over legal representation, helped me revoke the auto-debit mandate, audited the ledger to eliminate 100% of the penalty fees, and secured a 52% principal settlement with a genuine NDX P2P sanction letter and credit bureau update.",
+          "reviewBody": "I took a ₹2.2 Lakh dental loan through LiquiLoans. Medical issues stopped my income. I had ₹16,000 in NACH bounce fees. SettleLoans revoked the mandate and removed 100% of the penalty fees. They settled the loan at a 52% discount.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -208,7 +208,7 @@ const jsonLdGraph = {
             "name": "Rahul Batra"
           },
           "datePublished": "2026-06-19",
-          "reviewBody": "Received a formal Section 25 PSSA demand notice from an advocate representing NDX P2P Lending Technologies for bounced e-mandates on my skilling loan. SettleLoans drafted a thorough legal reply detailing bona fide hardship, demonstrated lack of wilful default, and steered the matter into National Lok Adalat. We settled the ₹1.6 Lakh debt for ₹64,000 under a binding judicial award with full legal withdrawal.",
+          "reviewBody": "I got a Section 25 PSSA notice from NDX P2P for my skilling loan. SettleLoans sent a detailed reply showing hardship. They resolved the matter at National Lok Adalat. I settled the ₹1.6 Lakh debt for ₹64,000 with full case closure.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -223,7 +223,7 @@ const jsonLdGraph = {
             "name": "Nandita Iyer"
           },
           "datePublished": "2026-08-22",
-          "reviewBody": "LiquiLoans outsourced recovery agents were calling my office reception repeatedly. SettleLoans immediately escalated the statutory violation to the NDX P2P Principal Nodal Officer and filed an RBI Ombudsman complaint. Within two weeks, the rogue agency was removed, and SettleLoans negotiated an authorized 55% OTS haircut. Excellent legal guidance from Ashish Jhangra and his team.",
+          "reviewBody": "LiquiLoans recovery agents called my office. SettleLoans escalated the issue to the NDX P2P Nodal Officer and RBI Ombudsman. The calls stopped at once. They secured a 55% settlement discount with an official sanction letter.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -242,7 +242,7 @@ const jsonLdGraph = {
           "name": "What is LiquiLoans and how does settlement work?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "LiquiLoans is NDX P2P Lending Technologies, an RBI-registered NBFC-P2P platform. Under RBI compromise directives, NDX P2P negotiates lump-sum settlements offering 40% to 60% debt waivers."
+            "text": "LiquiLoans is run by NDX P2P Lending Technologies, an RBI-registered NBFC-P2P. Under RBI rules, NDX P2P approves One-Time Settlements (OTS). Borrowers can get 40% to 60% debt waivers to close their loans."
           }
         },
         {
@@ -250,7 +250,7 @@ const jsonLdGraph = {
           "name": "Can zero-cost EMI loans for EdTech or healthcare be settled?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Borrowers sign credit agreements with NDX P2P. Even during institute disputes, the facility is an unsecured civil credit line eligible for One-Time Settlement."
+            "text": "Yes. Zero-cost EMI loans for EdTech or healthcare are unsecured credit lines. Default is a civil contract dispute. You can settle these loans under RBI compromise rules."
           }
         },
         {
@@ -258,7 +258,7 @@ const jsonLdGraph = {
           "name": "How can borrowers stop repetitive LiquiLoans NACH bounce charges?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Revoke electronic NACH mandates via bank under NPCI rules. Advocates also secure 100% waiver of accumulated bounce charges under RBI fair lending directives."
+            "text": "Ask your bank to cancel the e-NACH mandate under NPCI rules. This stops fresh charges. During settlement talks, demand a 100% waiver of all past bounce fees under RBI Fair Lending rules."
           }
         },
         {
@@ -266,7 +266,7 @@ const jsonLdGraph = {
           "name": "What debt haircut percentage can you negotiate on LiquiLoans defaults?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Borrowers typically achieve 40% to 60% principal waivers on accounts past 90 days (NPA) or 180 days (Written-off), alongside complete elimination of late fees."
+            "text": "Borrowers can negotiate 40% to 60% principal waivers on loans overdue past 90 days (NPA). You can also get a 100% waiver on all late fees and penalty charges."
           }
         },
         {
@@ -274,7 +274,7 @@ const jsonLdGraph = {
           "name": "How to handle recovery agent harassment from LiquiLoans?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI directives, agents cannot call outside 08:00 AM to 07:00 PM, contact family, or threaten arrest. Issue cease-and-desist notices and file Ombudsman complaints."
+            "text": "Under RBI rules, recovery agents cannot call before 8:00 AM or after 7:00 PM. They cannot call family or visit your workplace. You can send a legal notice and file an RBI Ombudsman complaint."
           }
         },
         {
@@ -282,7 +282,7 @@ const jsonLdGraph = {
           "name": "Can NDX P2P file a criminal case or arrest a borrower?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Defaulting on unsecured credit is strictly a civil dispute under the Indian Contract Act, 1872. Police cannot register FIRs or arrest borrowers for genuine loan default."
+            "text": "No. Loan default is a civil dispute under the Indian Contract Act, 1872. Police cannot arrest you or file an FIR for unpaid personal loans."
           }
         },
         {
@@ -290,7 +290,7 @@ const jsonLdGraph = {
           "name": "What is a Section 25 PSSA notice from LiquiLoans?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "It is a 15-day statutory demand for a bounced NACH debit instruction. Borrowers must reply through counsel detailing hardship and initiating settlement conciliation."
+            "text": "A Section 25 PSSA notice is a 15-day demand notice for a bounced auto-debit. Your lawyer should send a reply showing hardship and start settlement talks."
           }
         },
         {
@@ -298,7 +298,7 @@ const jsonLdGraph = {
           "name": "How long does NDX P2P take to issue the No Dues Certificate?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, NDX P2P must deliver the No Dues Certificate and update credit bureaus within 30 calendar days, backed by statutory delay penalties."
+            "text": "Under RBI Circular RBI/2023-24/60, NDX P2P must issue your No Dues Certificate within 30 days of payment. If they delay, they must pay ₹5,000 per day in compensation."
           }
         }
       ]
@@ -340,35 +340,35 @@ export default function LiquiLoansP2PLoanSettlementPage() {
   const faqs = [
     {
       question: "What is LiquiLoans and how does settlement work?",
-      answer: "LiquiLoans (NDX P2P Lending Technologies) is an RBI-registered NBFC-P2P platform. Under RBI compromise rules, it approves lump-sum settlements with 40% to 60% debt haircuts to recover investor capital."
+      answer: "LiquiLoans is run by NDX P2P Lending Technologies, an RBI-registered NBFC-P2P. Under RBI rules, NDX P2P approves One-Time Settlements (OTS). Borrowers can get 40% to 60% debt waivers to close their loans."
     },
     {
       question: "Can zero-cost EMI loans for EdTech or healthcare be settled?",
-      answer: "Yes. Borrowers sign direct tripartite contracts with NDX P2P. Defaulting constitutes a civil breach, making facilities fully eligible for compromise settlements under RBI norms."
+      answer: "Yes. Zero-cost EMI loans for EdTech or healthcare are unsecured credit lines. Default is a civil contract dispute. You can settle these loans under RBI compromise rules."
     },
     {
       question: "How can borrowers stop repetitive LiquiLoans NACH bounce charges?",
-      answer: "Revoke e-NACH mandates via your bank under NPCI guidelines. Advocates also secure full 100% waiver of accumulated return fees under RBI fair lending rules."
+      answer: "Ask your bank to cancel the e-NACH mandate under NPCI rules. This stops fresh charges. During settlement talks, demand a 100% waiver of all past bounce fees under RBI Fair Lending rules."
     },
     {
       question: "What debt haircut percentage can you negotiate on LiquiLoans defaults?",
-      answer: "Borrowers typically secure 40% to 60% principal waivers on accounts past 90 DPD (NPA) or 180 DPD (written-off), alongside 100% penal fee waivers."
+      answer: "Borrowers can negotiate 40% to 60% principal waivers on loans overdue past 90 days (NPA). You can also get a 100% waiver on all late fees and penalty charges."
     },
     {
       question: "How to handle recovery agent harassment from LiquiLoans?",
-      answer: "Under RBI rules, recovery callers cannot contact family, visit offices without notice, or call outside 8 AM–7 PM. File cease-and-desist notices and RBI Ombudsman complaints."
+      answer: "Under RBI rules, recovery agents cannot call before 8:00 AM or after 7:00 PM. They cannot call family or visit your workplace. You can send a legal notice and file an RBI Ombudsman complaint."
     },
     {
       question: "Can NDX P2P file a criminal case or arrest a borrower?",
-      answer: "No. Loan default is strictly a civil dispute under the Indian Contract Act. Police cannot arrest borrowers or file FIRs for unsecured loan defaults."
+      answer: "No. Loan default is a civil dispute under the Indian Contract Act, 1872. Police cannot arrest you or file an FIR for unpaid personal loans."
     },
     {
       question: "What is a Section 25 PSSA notice from LiquiLoans?",
-      answer: "A Section 25 PSSA notice is a 15-day demand notice for bounced auto-debit sweeps. Legal counsel replies to establish genuine hardship and open formal OTS negotiations."
+      answer: "A Section 25 PSSA notice is a 15-day demand notice for a bounced auto-debit. Your lawyer should send a reply showing hardship and start settlement talks."
     },
     {
       question: "How long does NDX P2P take to issue the No Dues Certificate?",
-      answer: "Under RBI Circular RBI/2023-24/60, NDX P2P must deliver the No Dues Certificate and update credit bureaus within 30 days, backed by ₹5,000/day delay compensation."
+      answer: "Under RBI Circular RBI/2023-24/60, NDX P2P must issue your No Dues Certificate within 30 days of payment. If they delay, they must pay ₹5,000 per day in compensation."
     }
   ];
 
@@ -494,7 +494,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <span>LiquiLoans Resolution Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                Defaulted LiquiLoans (NDX P2P) zero-cost EMI facilities are unsecured peer credit contracts. Directly engaging the platform&apos;s Stressed Assets division halts predatory bounce charges and third-party calling, securing 40%–60% principal waivers under RBI compromise guidelines.
+                Defaulted LiquiLoans (NDX P2P) zero-cost EMI loans are unsecured peer credit contracts. Dealing directly with the platform&apos;s Stressed Assets team stops bounce charges and collection calls. It helps you secure 40% to 60% debt waivers under RBI rules.
               </p>
             </div>
           </aside>
@@ -511,23 +511,23 @@ export default function LiquiLoansP2PLoanSettlementPage() {
               <ul className="space-y-2.5 text-sm text-slate-700">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Civil Contract Dispute:</strong> Defaulting on consumer P2P loans from NDX P2P Lending Technologies (LiquiLoans) for EdTech or healthcare is strictly a civil breach under the Indian Contract Act, 1872, eligible for One-Time Settlements (OTS).</span>
+                  <span><strong>Civil Contract Dispute:</strong> Defaulting on LiquiLoans P2P credit for EdTech or healthcare is a civil contract matter under the Indian Contract Act, 1872. It qualifies for One-Time Settlements (OTS).</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Halt Bounce Penalties:</strong> Revoking e-NACH mandates via your bank under NPCI rules stops repetitive return fees. Advocates demand a 100% waiver of accumulated bounce charges under RBI fair lending guidelines.</span>
+                  <span><strong>Halt Bounce Penalties:</strong> Canceling your e-NACH mandate stops repeat return fees. You can demand a 100% waiver of all penalty fees under RBI fair lending rules.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Realistic 40% to 60% Haircut:</strong> Because P2P facilities carry zero collateral and RBI rules bar platform credit guarantees, NDX P2P evaluates Net Present Value recovery, approving 40% to 60% principal waivers.</span>
+                  <span><strong>Realistic 40% to 60% Haircut:</strong> Unsecured P2P loans carry no collateral. NDX P2P uses Net Present Value (NPV) recovery models to approve 40% to 60% debt discounts.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Formal Legal Defense:</strong> Section 25 PSSA summons and unilateral arbitration notices can be contested through legal counsel and redirected into binding National Lok Adalat awards.</span>
+                  <span><strong>Formal Legal Defense:</strong> You can counter Section 25 PSSA notices and single-arbitrator notices with legal replies. Many disputes settle at National Lok Adalat.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Mandatory NDC Delivery:</strong> Under RBI Circular RBI/2023-24/60, NDX P2P must deliver an official No Dues Certificate within 30 days of payment, backed by statutory delay compensation.</span>
+                  <span><strong>Mandatory NDC Delivery:</strong> Under RBI Circular RBI/2023-24/60, NDX P2P must issue your No Dues Certificate within 30 days of settlement.</span>
                 </li>
               </ul>
             </div>
@@ -540,19 +540,19 @@ export default function LiquiLoansP2PLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding LiquiLoans</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                LiquiLoans is the commercial brand of NDX P2P Lending Technologies Private Limited, an RBI-registered NBFC-P2P platform under RBI Directions, 2017. Operating as a digital matchmaker connecting retail borrowers with peer lenders, LiquiLoans powers zero-cost equated monthly installments (EMIs) for elective healthcare and EdTech courses.
+                LiquiLoans is the brand name of NDX P2P Lending Technologies. It is an RBI-registered NBFC-P2P platform. It links borrowers with peer lenders for zero-cost EMI plans. These cover health bills and EdTech courses.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers execute a tripartite contract assigning liability to NDX P2P. During financial hardship like job loss or medical crises, NDX P2P treats the debt as independent of merchant performance.
+                Borrowers sign a direct contract with NDX P2P. Job loss or health issues can cause loan defaults. NDX P2P treats this loan as a direct debt. It does not depend on course issues.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Defaulting constitutes a civil dispute under the Indian Contract Act, 1872, enabling compromise settlements under RBI frameworks.
+                Loan default is a civil contract matter under the Indian Contract Act, 1872. You have the right to seek a compromise deal under RBI rules.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
                 <div className="flex items-start gap-3">
                   <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                    <strong>Statutory Principle:</strong> Under RBI directives, NBFC-P2P platforms cannot provide credit guarantees (FLDG). Defaulted loans represent direct loss to peer investors, driving platform recovery desks to prioritize compromise settlements over litigation.
+                    <strong>Statutory Principle:</strong> Under RBI rules, P2P firms cannot give credit guarantees. Unpaid loans cause direct losses to peer lenders. This leads platform teams to accept compromise deals over slow court cases.
                   </div>
                 </div>
               </div>
@@ -566,10 +566,10 @@ export default function LiquiLoansP2PLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">LiquiLoans Default Timeline</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The transition of a defaulted LiquiLoans facility follows regulatory milestones under RBI Prudential IRACP Norms and August 2024 Master Directions for NBFC-P2P entities. During early delinquency (SMA-0 and SMA-1), automated calling engines attempt to regularize overdue installments.
+                Unpaid LiquiLoans accounts follow RBI IRACP rules and the August 2024 P2P directions. In early stages (SMA-0 and SMA-1), calling systems send payment reminders.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Once an installment remains unpaid beyond 90 days past due (DPD), the account is classified as a Substandard Non-Performing Asset (NPA). Because peer lenders bear 100% of credit risk, LiquiLoans shifts its objective toward capital recovery through compromise settlements.
+                After 90 days past due (DPD), the loan becomes an NPA. Peer lenders bear the credit risk. This leads LiquiLoans to recover cash quickly through compromise deals.
               </p>
 
               {/* Comprehensive Stage Table */}
@@ -577,47 +577,47 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Delinquency Stage</th>
-                      <th>Aging</th>
-                      <th>Operational Actions</th>
-                      <th>Legal Exposure</th>
-                      <th>Haircut Potential</th>
+                      <th>Delinquency Stage.</th>
+                      <th>Overdue Days (DPD).</th>
+                      <th>Recovery Actions.</th>
+                      <th>Legal Exposure.</th>
+                      <th>Haircut Potential.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-0</td>
-                      <td>1-30 DPD</td>
-                      <td>Automated calling, e-NACH sweeps.</td>
-                      <td>Zero judicial risk.</td>
-                      <td>Negligible.</td>
+                      <td className="font-bold text-slate-900">SMA-0 (Early Stage).</td>
+                      <td>1 – 30 Days.</td>
+                      <td>Automated calls and repeat e-NACH debit attempts.</td>
+                      <td>Zero legal risk. Initial bureau tracking begins.</td>
+                      <td>Zero waiver. Full EMI payment required.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-1</td>
-                      <td>31-60 DPD</td>
-                      <td>Tele-calling, reminder notices.</td>
-                      <td>Statutory warnings.</td>
-                      <td>Low (Restructuring).</td>
+                      <td className="font-bold text-slate-900">SMA-1 (Mid Stage).</td>
+                      <td>31 – 60 Days.</td>
+                      <td>Phone calls and written reminder notices.</td>
+                      <td>Formal demand warnings sent. Credit score drops.</td>
+                      <td>Low waiver. Tenure changes or EMI pauses considered.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-2</td>
-                      <td>61-90 DPD</td>
-                      <td>Agency assignment, recall letters.</td>
-                      <td>Section 25 PSSA notices.</td>
-                      <td>Moderate (Penal fee waiver).</td>
+                      <td className="font-bold text-slate-900">SMA-2 (Pre-NPA Stage).</td>
+                      <td>61 – 90 Days.</td>
+                      <td>Agency assignment and formal loan recall notices.</td>
+                      <td>Section 25 PSSA notices sent for failed debits.</td>
+                      <td>Moderate waiver. Late fee waiver discussions start.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-amber-700">Substandard NPA</td>
-                      <td>91-180 DPD</td>
-                      <td>Transferred to Stressed Assets Desk.</td>
-                      <td>Summons under Sec 25 PSSA.</td>
+                      <td className="font-bold text-amber-700">Substandard NPA.</td>
+                      <td>91 – 180 Days.</td>
+                      <td>Transferred to Stressed Assets Desk. Loss reserves booked.</td>
+                      <td>Magistrate Court notices under Sec 25 PSSA. Pre-litigation notices.</td>
                       <td><span className="text-emerald-700 font-bold">High (35% to 50% Haircut).</span></td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-red-700">Written-Off Asset</td>
-                      <td>181+ DPD</td>
-                      <td>Technical write-off on ledger.</td>
-                      <td>Arbitration, Lok Adalat.</td>
+                      <td className="font-bold text-red-700">Written-Off Asset.</td>
+                      <td>181+ Days.</td>
+                      <td>Written off in platform ledger. Full loss provisions made.</td>
+                      <td>Digital arbitration or Lok Adalat summons.</td>
                       <td><span className="text-emerald-700 font-bold">Maximum (50% to 60% Haircut).</span></td>
                     </tr>
                   </tbody>
@@ -625,7 +625,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Once an account crosses 180 days of default, peer lenders absorb the financial loss, creating institutional incentives for NDX P2P to sanction deep debt haircuts.
+                Once a loan is overdue past 180 days, peer lenders absorb the accounting loss. A lump-sum OTS payment provides quick cash recovery, prompting NDX P2P to grant large debt discounts.
               </p>
             </section>
 
@@ -637,13 +637,13 @@ export default function LiquiLoansP2PLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping LiquiLoans NACH Bounce Penalty Loops</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers struggling with cash-flow crises face compounding penalty loops from automated debit sweeps. NDX P2P automated systems repeatedly present electronic NACH mandates during billing cycles. Each failed presentation triggers bank return charges of ₹295 to ₹590 alongside internal late payment penalties and penal interest of 24% to 36% per annum.
+                Repeated auto-debits drain bank accounts and add heavy bounce fees. NDX P2P systems make repeated NACH debit attempts. Each failed debit adds bank fees of ₹295 to ₹590. It also adds late fees and penal interest.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Over months of distress, repetitive presentations accumulate into artificial penalty fees. Under RBI Fair Lending Practice directives (Circular RBI/2023-24/53), regulated lenders cannot capitalize penal charges or charge compounded interest on default fees.
+                These extra fees inflate your balance unfairly. Under RBI Fair Lending rules (Circular RBI/2023-24/53), lenders cannot add penal charges to principal debt. They cannot charge compound interest on penalties.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Distressed borrowers can halt this financial drain by instructing their bank to revoke the specific NACH mandate under NPCI rules. Formal legal advocacy during OTS negotiations enforces a 100% waiver of accumulated bounce penalties and penal interest.
+                You can cancel the e-NACH mandate through your bank under NPCI rules. During settlement talks, our team demands a 100% waiver of all bounce fees.
               </p>
             </section>
 
@@ -655,10 +655,10 @@ export default function LiquiLoansP2PLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">LiquiLoans Settlement Haircut Valuation</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under the RBI Master Direction on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), NDX P2P operates under an established settlement policy. Because point-of-sale EdTech and healthcare loans carry zero collateral, the platform evaluates proposals through mathematical Net Present Value (NPV) recovery methodology rather than rigid contractual demands.
+                Under RBI Master Directions (DOR.STR.REC.20/21.04.048/2023-24), NDX P2P follows a clear settlement policy. EdTech and health loans have no collateral. The platform uses Net Present Value (NPV) models to judge offers.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                LiquiLoans weighs immediate lump-sum settlement certainty against discounted future cashflows of legal litigation through civil courts. Factoring advocate fees, court costs, and recovery agency commissions, an immediate settlement offer represents the optimal economic outcome for peer lenders.
+                LiquiLoans compares fast cash recovery against the high costs and long delays of civil court suits. An upfront settlement offer gives peer lenders the best cash return.
               </p>
 
               {/* Formula Container Box */}
@@ -671,7 +671,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Platform Overheads
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents projected peer recovery cashflows, r is the discount rate, and deductions account for 2 to 4 years of Civil Court delays and collection commissions.
+                  Where C_t is expected recovery cash, r is the discount rate, and deductions account for 2 to 4 years of legal delays and collection costs.
                 </p>
               </div>
 
@@ -681,41 +681,41 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Credit Facility</th>
-                      <th>Delinquency Aging</th>
-                      <th>Penal Waiver</th>
-                      <th>Principal Haircut</th>
-                      <th>Target Settlement Offer</th>
+                      <th>Credit Facility.</th>
+                      <th>Delinquency Aging.</th>
+                      <th>Fee Waiver.</th>
+                      <th>Principal Haircut.</th>
+                      <th>Target Settlement Offer.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">EdTech Skilling Loan</td>
-                      <td>90-180 DPD (NPA)</td>
-                      <td>100% Waiver</td>
-                      <td>35% to 45% Waiver</td>
-                      <td>Offer 45% to 55% Dues</td>
+                      <td className="font-bold text-slate-900">EdTech Skilling Loan.</td>
+                      <td>90 – 180 Days (NPA).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>35% to 45% Waiver.</td>
+                      <td>Offer 45% to 55% of Dues.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">EdTech Skilling Loan</td>
-                      <td>181+ DPD (Written-Off)</td>
-                      <td>100% Waiver</td>
-                      <td>45% to 60% Waiver</td>
-                      <td>Offer 35% to 40% Dues</td>
+                      <td className="font-bold text-slate-900">EdTech Skilling Loan.</td>
+                      <td>181+ Days (Written Off).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>45% to 60% Waiver.</td>
+                      <td>Offer 35% to 40% of Dues.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Elective Healthcare EMI</td>
-                      <td>90-180 DPD (NPA)</td>
-                      <td>100% Waiver</td>
-                      <td>30% to 45% Waiver</td>
-                      <td>Offer 45% to 55% Dues</td>
+                      <td className="font-bold text-slate-900">Elective Healthcare EMI.</td>
+                      <td>90 – 180 Days (NPA).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>30% to 45% Waiver.</td>
+                      <td>Offer 45% to 55% of Dues.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Consumer Credit Facility</td>
-                      <td>180+ DPD (Doubtful)</td>
-                      <td>100% Waiver</td>
-                      <td>50% to 60% Waiver</td>
-                      <td>Offer 30% to 35% Dues</td>
+                      <td className="font-bold text-slate-900">Consumer Credit Line.</td>
+                      <td>180+ Days (Doubtful).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>50% to 60% Waiver.</td>
+                      <td>Offer 30% to 35% of Dues.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -766,7 +766,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <div className="bg-slate-100 border-t border-slate-200 py-3 px-5 flex flex-wrap items-center justify-between gap-3 text-xs text-slate-600">
                   <div className="flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    <span><strong>Key Strategy:</strong> Suspend NACH debit loops, halt outsourced agency harassment, and negotiate directly with NDX P2P Credit Committees for 40% to 60% debt haircuts.</span>
+                    <span><strong>Key Strategy:</strong> Stop e-NACH auto-debit sweeps. Halt recovery agency calls. Negotiate directly with NDX P2P for 40% to 60% debt waivers.</span>
                   </div>
                   <Link href="/contact" className="text-[#1F5EFF] font-bold hover:underline">
                     Get Free Case Evaluation &rarr;
@@ -783,13 +783,13 @@ export default function LiquiLoansP2PLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Harassment Under RBI NBFC-P2P Rules</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                To maximize cash recovery for peer lenders, NDX P2P frequently outsources overdue consumer accounts to third-party Debt Recovery Agencies (DRAs). Commission-driven tele-callers often resort to unlawful collection tactics including persistent calling from virtual numbers, contacting reference contacts, or reaching out to employers.
+                NDX P2P often hires third-party Debt Recovery Agencies (DRAs) to collect overdue loans. Tele-callers may call repeatedly, contact your friends, or message coworkers.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                RBI Master Directions on Recovery Agents establish strict statutory safeguards. Recovery agents cannot call before 08:00 AM or after 07:00 PM, contact non-guarantor family or employers, or use abusive threats of police action.
+                Under RBI Master Directions on Recovery Agents, strict rules protect borrowers. Agents cannot call before 8:00 AM or after 7:00 PM. They cannot contact family or visit your office without notice.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers should preserve call recordings and chat transcripts as evidence. Serving a cease-and-desist notice on NDX P2P Principal Nodal Officer and filing complaints on the RBI Integrated Ombudsman portal triggers immediate compliance intervention.
+                Save all call recordings and WhatsApp messages. A formal advocate notice to NDX P2P&apos;s Principal Nodal Officer stops harassment quickly. You can also file an RBI Ombudsman complaint.
               </p>
             </section>
 
@@ -801,7 +801,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with NDX P2P</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Executing a legally enforceable compromise settlement on a defaulted LiquiLoans facility requires a disciplined procedural strategy:
+                Follow this 6-step roadmap to settle your LiquiLoans facility safely:
               </p>
 
               <div className="space-y-6">
@@ -811,7 +811,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                     Hardship Dossier &amp; Service Failure Documentation
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Compile proof of distress like job loss, medical records, or course non-delivery to substantiate non-wilful default.
+                    Gather proof of hardship. Include layoff letters, medical bills, or course cancellation records. This proves your default is non-wilful under RBI compromise guidelines.
                   </p>
                 </div>
 
@@ -821,7 +821,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                     NACH Mandate Revocation &amp; Counsel Notice
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Cancel the e-NACH mandate via your bank to stop bounce fees and redirect collection calls to legal counsel.
+                    Cancel the e-NACH mandate via your bank to stop bounce fees. Send a written notice directing all collection calls to your advocate.
                   </p>
                 </div>
 
@@ -831,7 +831,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                     Submitting Structured Compromise Petition
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Submit a formal OTS proposal to NDX P2P Stressed Assets Desk under RBI compromise rules, anchoring opening offers at 25% to 30%.
+                    Submit a formal settlement petition directly to NDX P2P&apos;s Stressed Assets Desk. Start your opening settlement offer at 25% to 30% of total dues.
                   </p>
                 </div>
 
@@ -841,7 +841,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                     Managing Counter-Demands &amp; Haircut Approvals
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Counter platform pushback using hardship documentation and third-party fund constraints, steering negotiations toward 40% to 60% principal waivers.
+                    Present proof of available lump-sum funds. Negotiate firmly with the Credit Committee to secure a 40% to 60% principal debt waiver.
                   </p>
                 </div>
 
@@ -851,7 +851,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                     Forensic Verification of Stamped Sanction Letter
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Verify the stamped settlement letter on official NDX P2P letterhead with CIN, exact discounted figure, and discharge covenants before remitting funds.
+                    Review the written OTS letter carefully. Ensure it includes your loan account number, CIN (U67200MH2015PTC262114), agreed amount, and full-discharge terms.
                   </p>
                 </div>
 
@@ -861,7 +861,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                     Direct Remittance &amp; ₹0 NDC Enforcement
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Pay directly into NDX P2P loan account and secure the No Dues Certificate within 30 days under RBI Circular RBI/2023-24/60.
+                    Pay the agreed sum directly into the NDX P2P loan account via RTGS or NEFT. Under RBI rules, NDX P2P must send your No Dues Certificate within 30 days.
                   </p>
                 </div>
               </div>
@@ -875,54 +875,51 @@ export default function LiquiLoansP2PLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating LiquiLoans Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When an account crosses 60 to 90 days of default, NDX P2P issues statutory legal notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for bounced NACH instructions, alongside private arbitration notices. A Section 25 PSSA notice is a 15-day demand notice, not an arrest warrant. Responding promptly through legal counsel detailing genuine hardship preserves your defense while opening settlement conciliation.
+                A Section 25 PSSA notice gives you 15 days to reply. Your lawyer should explain your hardship and dispute unfair bounce fees. LiquiLoans may also start digital arbitration in Mumbai. Under Supreme Court rulings (<em>Perkins Eastman</em> and <em>TRF Ltd.</em>), unilateral arbitrator appointments are void ab initio. Your counsel can challenge the arbitrator under Sections 12 and 14 of the Arbitration Act.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                LiquiLoans frequently invokes digital arbitration appointing a sole arbitrator in Mumbai. Under Supreme Court rulings in Perkins Eastman and TRF Ltd., unilateral arbitrator appointments are void ab initio. Legal counsel can challenge the arbitrator under Section 12 and 14 of the Arbitration Act, halting ex-parte proceedings.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                NDX P2P also participates in National Lok Adalats through District Legal Services Authorities (DLSA), offering 45% to 60% debt haircuts resulting in non-appealable Civil Court Decrees.
+                NDX P2P also joins National Lok Adalat sessions held by the DLSA. Bank officers can approve 45% to 60% debt waivers here. Lok Adalat settlements end with a final Civil Court Decree with zero appeals.
               </p>
 
               <div className="overflow-x-auto my-6">
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Resolution Channel</th>
-                      <th>Legal Mechanism</th>
-                      <th>Haircut Potential</th>
-                      <th>Timeline</th>
-                      <th>Enforceability</th>
+                      <th>Resolution Channel.</th>
+                      <th>Legal Mechanism.</th>
+                      <th>Haircut Potential.</th>
+                      <th>Timeline.</th>
+                      <th>Enforceability.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Direct P2P Platform OTS</td>
+                      <td className="font-bold text-slate-900">Direct P2P OTS.</td>
                       <td>Compromise agreement under RBI rules.</td>
-                      <td>40% to 60% Haircut</td>
-                      <td>15-30 Days</td>
-                      <td>Binding contract with NDC.</td>
+                      <td>40% to 60% Debt Haircut.</td>
+                      <td>15 to 30 Days.</td>
+                      <td>Binding private contract with ₹0 NDC.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">National Lok Adalat</td>
+                      <td className="font-bold text-slate-900">National Lok Adalat.</td>
                       <td>Judicial conciliation before DLSA panel.</td>
-                      <td>45% to 60% Haircut</td>
-                      <td>Single session</td>
-                      <td>Civil Court Decree (Final).</td>
+                      <td>45% to 60% Debt Haircut.</td>
+                      <td>Single-day session.</td>
+                      <td>Civil Court Decree (Zero appeal).</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Arbitration Defense</td>
+                      <td className="font-bold text-slate-900">Arbitration Defense.</td>
                       <td>Contesting unilateral arbitrator jurisdiction.</td>
-                      <td>Converts to OTS</td>
-                      <td>3-8 Months</td>
+                      <td>Variable (Converts to OTS).</td>
+                      <td>3 to 8 Months.</td>
                       <td>Section 34 / 14 challenge.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Section 25 PSSA Defense</td>
+                      <td className="font-bold text-slate-900">Section 25 PSSA Defense.</td>
                       <td>Magistrate court compoundable defense.</td>
-                      <td>35% to 50% Haircut</td>
-                      <td>2-6 Months</td>
-                      <td>Formal criminal withdrawal.</td>
+                      <td>35% to 50% Debt Haircut.</td>
+                      <td>2 to 6 Months.</td>
+                      <td>Formal case withdrawal upon payment.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -937,13 +934,10 @@ export default function LiquiLoansP2PLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating LiquiLoans Settlement Sanction Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Fintech borrowers must avoid unauthorized collection agents issuing fake settlement letters. Depositing money without an authentic stamped sanction letter leads to funds being absorbed into penal fees without loan closure.
+                Never pay settlement money based on phone calls or WhatsApp chats. Your OTS sanction letter must come on official NDX P2P Lending Technologies letterhead. It must show CIN U67200MH2015PTC262114, Mumbai address, loan details, agreed amount, and official stamp.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers must verify the OTS letter is on official NDX P2P Lending Technologies letterhead displaying CIN U67200MH2015PTC262114, Mumbai address, loan details, sanctioned amount, and authorized signatory credentials.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The settlement amount must be transferred exclusively into the designated NDX P2P nodal account. Under RBI Circular RBI/2023-24/60, NDX P2P must issue a formal No Dues Certificate within 30 days. Unreasonable delays incur a mandatory penalty of ₹5,000 per day payable to the borrower.
+                Pay only into the official NDX P2P bank account. Under RBI Circular RBI/2023-24/60, NDX P2P must issue your No Dues Certificate within 30 days. Delays carry a penalty of ₹5,000 per day.
               </p>
             </section>
 
@@ -955,13 +949,10 @@ export default function LiquiLoansP2PLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">LiquiLoans CIBIL Score Trajectory &amp; Score Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Settling with NDX P2P updates credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) to Settled or Post-Write-off Settled with zero balance. While causing an initial score dip, it stops compounding defaults, monthly DPD accruals, and legal risks.
+                Settling with NDX P2P marks your loan as <strong>&apos;Settled&apos;</strong> with a <strong>₹0</strong> balance across CIBIL, Experian, Equifax, and CRIF High Mark. Your score may dip at first, but all default growth stops.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI rules, a 12-month cooling-off period applies before banks approve fresh credit. However, a Settled record with zero balance is far superior to an ongoing default.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers can rebuild credit scores to 750+ within 18 to 24 months using secured credit cards, keeping credit utilization below 25%, and ensuring timely repayments on existing facilities.
+                You can rebuild your credit score back above 750 within 18 to 24 months. Use secured credit cards, keep your credit usage under 25%, and pay all bills on time.
               </p>
             </section>
 
@@ -975,7 +966,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 Why Distressed LiquiLoans Borrowers Trust SettleLoans
               </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Navigating a debt compromise with an institutional P2P platform like NDX P2P Lending Technologies requires specialized financial analysis and rigorous legal defense. SettleLoans halts aggressive recovery calls through cease-and-desist notices, responds to Section 25 PSSA summons, challenges unilateral arbitration, and negotiates directly with LiquiLoans Stressed Assets division for maximum debt haircuts and ₹0 No Dues Certificates.
+                SettleLoans provides expert legal help for P2P loan defaults. We issue cease-and-desist notices to stop harassment. We handle Section 25 PSSA notices and arbitration claims. Our advocates negotiate directly with LiquiLoans for maximum debt waivers and verified ₹0 NDCs.
               </p>
 
               {/* Placement of Reusable CompanySection */}
@@ -1030,7 +1021,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>Reserve Bank of India (RBI):</strong> Non-Banking Financial Company – Peer to Peer Lending Platform Directions, 2017 (Updated August 2024)
+                    <strong>Reserve Bank of India (RBI):</strong> NBFC Peer to Peer Lending Directions, 2017 (Updated August 2024).
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1041,7 +1032,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>Reserve Bank of India (RBI):</strong> Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24)
+                    <strong>Reserve Bank of India (RBI):</strong> Master Direction on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24).
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1052,7 +1043,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>NDX P2P Lending Technologies:</strong> Fair Practices Code, Grievance Redressal Policy and Nodal Officer Matrix
+                    <strong>NDX P2P Lending Technologies:</strong> Fair Practices Code, Grievance Policy and Nodal Officer Matrix.
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1063,7 +1054,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021:</strong> Portal for Complaints Regarding NBFC-P2P Harassment
+                    <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021:</strong> Portal for Complaints on NBFC-P2P Harassment.
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1074,7 +1065,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>National Legal Services Authority (NALSA):</strong> Legal Services Authorities Act, 1987 — Lok Adalat Conciliation
+                    <strong>National Legal Services Authority (NALSA):</strong> Legal Services Authorities Act, 1987 — Lok Adalat Settlement Rules.
                   </a>
                 </li>
               </ul>
@@ -1176,7 +1167,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has led over 1,200+ successful debt compromise negotiations across specialized fintech lenders, NBFC-P2P platforms, and commercial banks. He specializes in point-of-sale credit disputes, Section 25 PSSA legal defense, and borrower protection under RBI Master Directions.
+                Ashish has led over 1,200 successful loan settlements across fintech lenders, P2P platforms, and commercial banks. He specializes in point-of-sale credit disputes, Section 25 PSSA defense, and RBI borrower rights.
               </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
@@ -1206,7 +1197,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 Facing LiquiLoans Loan Default?
               </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
-                Stop aggressive recovery tele-calling and recurring NACH return fees immediately. Let our experienced banking advocates audit your delinquency stage, defend statutory legal notices, draft your formal OTS petition, and secure an authentic stamped NDX P2P settlement letter.
+                Stop recovery agent calls and repeat NACH bounce fees today. Our experienced banking advocates audit your loan stage, reply to legal notices, and secure an official stamped NDX P2P settlement letter.
               </p>
               <Link
                 href="/contact"
@@ -1226,25 +1217,25 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Direct Platform Representation:</strong> We bypass third-party collection agencies to negotiate directly with NDX P2P Lending Technologies Stressed Assets division.
+                    <strong>Direct Platform Representation:</strong> We bypass collection agencies. We negotiate directly with NDX P2P Stressed Assets teams.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Anti-Harassment Protection:</strong> Immediate issuance of formal statutory cease-and-desist notices to stop unauthorized workplace visits and third-party calling under RBI rules.
+                    <strong>Anti-Harassment Protection:</strong> We issue prompt legal notices to stop illegal workplace visits and calls to family members.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>100% Stamped Verification:</strong> Every settlement agreement is strictly authenticated on official corporate letterhead before any payment is authorized.
+                    <strong>100% Stamped Verification:</strong> We check every settlement letter on corporate letterhead before you make any payment.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Guaranteed ₹0 NDC Delivery:</strong> End-to-end legal tracking until your formal No Dues Certificate is delivered and all credit bureaus are updated.
+                    <strong>Guaranteed ₹0 NDC Delivery:</strong> We track your case until NDX P2P delivers your No Dues Certificate and updates CIBIL.
                   </span>
                 </li>
               </ul>

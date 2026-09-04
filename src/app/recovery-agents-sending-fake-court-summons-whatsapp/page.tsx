@@ -88,7 +88,7 @@ const jsonLdGraph = {
       "@id": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#webpage",
       "url": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp",
       "name": "Fake Court Notice by Loan Recovery Agent on WhatsApp: Legal Rights & FIR Process",
-      "description": "Exhaustive legal guide on borrower protections against fabricated court notices, bogus arrest summons, and forged Lok Adalat orders sent on WhatsApp by loan recovery agencies. Covers Section 336/338 BNS, Sections 465/471 IPC, RBI Fair Practices Code, and debt settlement strategies.",
+      "description": "Are recovery agents sending fake court notices or arrest threats on WhatsApp? Learn your rights under Section 338 BNS and how to take legal action.",
       "breadcrumb": {
         "@id": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#breadcrumb"
       },
@@ -122,7 +122,7 @@ const jsonLdGraph = {
       "@type": "Article",
       "@id": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#article",
       "headline": "Fake Court Notice by Loan Recovery Agent on WhatsApp: Legal Rights, Forgery Laws & How to Take Action",
-      "description": "An in-depth legal examination of forged court summons, fake Lok Adalat seals, and deceptive arrest threats delivered via WhatsApp by loan collection agencies. Details criminal liabilities under Sections 336/338 BNS and Sections 465/471 IPC, RBI Fair Practices Code, and advocate-led debt resolution protocols.",
+      "description": "Legal guide on handling fake court summons on WhatsApp from recovery agents. Covers Section 338 BNS forgery laws, RBI rules, and loan settlements.",
       "image": "https://www.settleloans.in/images/infographics/recovery-agents-sending-fake-court-summons-whatsapp.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
@@ -166,7 +166,7 @@ const jsonLdGraph = {
       "@type": "FinancialService",
       "@id": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#service",
       "name": "SettleLoans - Legal Defense & Loan Settlement Services",
-      "description": "Nationwide legal defense against unlawful recovery agent intimidation, forged court notices, and criminal deception, paired with institutional One-Time Settlement (OTS) negotiations.",
+      "description": "Legal protection for borrowers facing fake court summons and recovery threats on WhatsApp. We stop harassment and negotiate One-Time Settlements.",
       "url": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp",
       "image": "https://www.settleloans.in/images/infographics/recovery-agents-sending-fake-court-summons-whatsapp.jpg",
       "telephone": "+91-99999-99999",
@@ -200,7 +200,7 @@ const jsonLdGraph = {
             "name": "Rajeshwar Sharma"
           },
           "datePublished": "2026-07-22",
-          "reviewBody": "I received an urgent PDF on WhatsApp stamped with a fake District Court seal and a fabricated arrest warrant for a ₹4 Lakh overdue personal loan. SettleLoans advocates verified on the e-Courts portal that no such case existed, filed an official cyber crime complaint, and issued a legal notice to the bank. The bank recalled the agency and settled the loan for a 50% waiver.",
+          "reviewBody": "I got an urgent PDF on WhatsApp with a fake court seal and arrest threat for my ₹4 Lakh loan. SettleLoans checked the e-Courts portal and found no case. They filed a cyber crime complaint and served a legal notice on the bank. The bank recalled the agency and settled the loan with a 50% waiver.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -215,7 +215,7 @@ const jsonLdGraph = {
             "name": "Sunita Menon"
           },
           "datePublished": "2026-08-05",
-          "reviewBody": "A collection agency sent me a fake National Lok Adalat summon claiming police would come to my office within 2 hours. SettleLoans stepped in immediately, explained Section 465 IPC forgery laws, and filed an RBI Ombudsman complaint. All threatening messages stopped instantly.",
+          "reviewBody": "An agency sent me a fake Lok Adalat notice. They claimed police would come to my office in two hours. SettleLoans stepped in fast. They cited Section 465 IPC forgery laws and filed an RBI Ombudsman complaint. All threats stopped at once.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -230,7 +230,7 @@ const jsonLdGraph = {
             "name": "Manish Agarwal"
           },
           "datePublished": "2026-06-19",
-          "reviewBody": "The psychological terror of receiving fake police notices on WhatsApp was unbearable. Ashish Jhangra and his legal team took charge, demonstrated the forgery to the lender's nodal desk, and secured a clean settlement with an official No Dues Certificate.",
+          "reviewBody": "Receiving fake police notices on WhatsApp caused huge panic. Ashish Jhangra and his legal team took charge. They proved the forgery to the bank nodal desk. They also got me a clean settlement with an official No Dues Certificate.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -245,7 +245,7 @@ const jsonLdGraph = {
             "name": "Kavita Rao"
           },
           "datePublished": "2026-08-14",
-          "reviewBody": "Highly professional legal experts. They exposed the fabricated digital stamps on the recovery agent's WhatsApp notice. With their legal shield, I was able to settle my credit card dues peacefully without fear.",
+          "reviewBody": "Very professional legal team. They proved the digital stamps on the WhatsApp notice were fake. With their legal shield, I settled my credit card dues peacefully.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -264,7 +264,7 @@ const jsonLdGraph = {
           "name": "Can Indian courts serve legal summons or arrest warrants directly through WhatsApp?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under the Code of Civil Procedure, 1908 (Order V Rule 9), official court summons must be served by an authorized Court Bailiff, registered post with acknowledgment due, speed post, or an approved courier. While the Supreme Court and High Courts permit electronic service via WhatsApp or email in specific ongoing civil litigation, it requires prior judicial sanction, an authentic Case Number Record (CNR) verifiable on the official e-Courts portal, and an accompanying court-stamped process memo. Indian courts never send informal PDF arrest warrants or urgent settlement ultimatums over WhatsApp from personal mobile numbers."
+            "text": "Under Order V Rule 9 CPC, court summons must come through a Court Bailiff, registered post, speed post, or approved courier. Courts allow WhatsApp notice only during active cases with prior judicial approval. Even then, it needs a valid 16-digit CNR number on the e-Courts portal. Courts never send informal PDF arrest threats on WhatsApp from personal numbers."
           }
         },
         {
@@ -272,7 +272,7 @@ const jsonLdGraph = {
           "name": "Is sending a fake court notice or fabricated judicial seal a criminal offense in India?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, it is a grave cognizable criminal offense. Fabricating court documents, forging judicial seals, creating counterfeit judge signatures, or sending bogus arrest summons constitutes Forgery under Section 465 IPC (Section 336 BNS), Forgery of Court Records under Section 466 IPC (Section 338 BNS, carrying up to 7 years imprisonment), Forgery for Purpose of Cheating under Section 468 IPC, Using Forged Documents under Section 471 IPC (Section 340 BNS), Criminal Intimidation under Section 506 IPC (Section 351 BNS), Extortion under Section 383/384 IPC (Section 308 BNS), and Digital Impersonation Fraud under Section 66D of the Information Technology Act, 2000."
+            "text": "Yes. It is a grave crime. Making fake court papers breaks Section 466 IPC and Section 338 BNS. It carries up to seven years in jail. It also violates Section 471 IPC (Section 340 BNS), Section 506 IPC (Section 351 BNS), and Section 66D of the IT Act."
           }
         },
         {
@@ -280,7 +280,7 @@ const jsonLdGraph = {
           "name": "How can I verify if a court notice received on WhatsApp is real or fake?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Every genuine Indian court summon contains a 16-digit alphanumeric Case Information System (CIS) Case Number Record (CNR) number, a designated court room number, and the presiding judicial officer's designation. You can independently verify any genuine case by entering the CNR number on the official e-Courts mobile app or website (services.ecourts.gov.in). If the notice lacks a verifiable CNR number, contains urgent countdown timers, demands immediate UPI transfers, or mentions immediate police raid teams, it is 100% fabricated."
+            "text": "Real court notices contain a 16-digit CNR number, court room number, and judge name. Enter the CNR number on the e-Courts website (services.ecourts.gov.in) to verify it. If a notice lacks a CNR number or demands urgent UPI transfers, it is 100% fake."
           }
         },
         {
@@ -288,7 +288,7 @@ const jsonLdGraph = {
           "name": "Can National Lok Adalat issue an arrest warrant or police seizure order?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. National Lok Adalats organized under the Legal Services Authorities Act, 1987 are strictly voluntary, pre-litigation or pending dispute conciliation bodies. Lok Adalats possess zero punitive powers, cannot issue non-bailable warrants, cannot direct police arrests, and cannot order asset attachment. Any notice claiming that a Lok Adalat has issued an arrest warrant or directed local police to raid your house is entirely fraudulent."
+            "text": "No. National Lok Adalats under the Legal Services Authorities Act, 1987 are voluntary conciliation bodies. They cannot issue arrest warrants or direct police raids. Any notice claiming a Lok Adalat issued an arrest warrant is completely fraudulent."
           }
         },
         {
@@ -296,7 +296,7 @@ const jsonLdGraph = {
           "name": "What immediate legal steps should I take after receiving a fake court notice on WhatsApp?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Do not delete the chat. Take complete high-resolution screenshots showing the sender's phone number, profile image, date, and time. Export the full WhatsApp chat history along with the raw PDF file. Do not make any panic payments. Engage a debt settlement advocate to serve a statutory Cease-and-Desist notice upon the lending bank's Principal Nodal Officer and Managing Director, and file an official complaint on the National Cyber Crime Reporting Portal (cybercrime.gov.in) and with the local police station."
+            "text": "Do not delete the chat. Take full screenshots showing the sender number, date, and time. Save the raw PDF file. Do not make panic payments. Have a lawyer send a notice to the bank and file a complaint on cybercrime.gov.in."
           }
         },
         {
@@ -304,7 +304,7 @@ const jsonLdGraph = {
           "name": "Is the lending bank legally responsible for fake notices sent by outsourced recovery agencies?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Under the Reserve Bank of India (RBI) Master Directions on Outsourcing of Financial Services and Fair Practices Code (Circular RBI/2022-23/108), regulated commercial banks and NBFCs bear absolute vicarious liability for all acts and omissions of their outsourced recovery agencies. The RBI strictly prohibits lenders from engaging in deceptive intimidation or sending misleading legal representations. Borrowers can file a formal complaint with the RBI Integrated Ombudsman for severe monetary compensation and disciplinary action against the bank."
+            "text": "Yes. Under RBI Circular RBI/2022-23/108, banks and NBFCs are strictly liable for the actions of their collection agencies. Borrowers can file a complaint with the RBI Integrated Ombudsman to demand action and compensation."
           }
         },
         {
@@ -312,7 +312,7 @@ const jsonLdGraph = {
           "name": "Can I go to jail for defaulting on an unsecured personal loan or credit card?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Defaulting on an unsecured personal loan or credit card is purely a civil breach of contract under the Indian Contract Act, 1872. There is no criminal liability, arrest, or imprisonment for honest financial inability to repay unsecured commercial debt in India. Arrest is only conceivable in cases involving proven fraudulent loan applications with forged income credentials (cheating) or dishonored cheques under Section 138 of the Negotiable Instruments Act, which are bailable offenses resolved through compounding."
+            "text": "No. Unsecured loan default is a civil matter under the Indian Contract Act, 1872. You cannot be jailed for honest financial inability to pay. Arrest only applies in proven loan fraud or Section 138 NI Act cheque bounce cases."
           }
         },
         {
@@ -320,7 +320,7 @@ const jsonLdGraph = {
           "name": "How does legal representation by SettleLoans resolve the dispute and protect the borrower?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "SettleLoans advocates issue a formal Vakalatnama and legal representation notice to the bank's senior leadership, bringing an immediate halt to all third-party collection harassment. By exposing the forged notices and invoking criminal statutes alongside RBI regulations, our legal team shifts the lender into defensive risk mitigation. We then steer the matter into institutional channels to negotiate an official 40% to 65% One-Time Settlement (OTS) supported by a genuine bank sanction letter and No Dues Certificate."
+            "text": "SettleLoans lawyers issue a formal legal notice to bank leadership. This stops third-party collection harassment immediately. We expose fake notices and negotiate a 40% to 65% One-Time Settlement with an official No Dues Certificate."
           }
         }
       ]
@@ -456,10 +456,8 @@ export default function FakeCourtNoticeWhatsAppPage() {
             <SidebarTOC items={tocItems} />
           </aside>
 
-          {/* Middle Column: Main Editorial Body */}
           <main className="blog-content w-full bg-white space-y-10 min-w-0">
             
-            {/* Top Key Takeaways Box */}
             <div className="bg-gradient-to-br from-blue-50 to-indigo-50 border border-blue-200 rounded-2xl p-6 shadow-sm">
               <div className="flex items-center gap-2 text-blue-900 font-bold text-sm uppercase tracking-wider mb-4">
                 <Award className="w-5 h-5 text-[#1F5EFF]" />
@@ -468,35 +466,34 @@ export default function FakeCourtNoticeWhatsAppPage() {
               <ul className="space-y-3 text-xs sm:text-sm text-slate-700">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Zero Judicial Validity:</strong> Indian courts do not dispatch informal PDF summons, urgent arrest threats, or immediate seizure orders through WhatsApp from personal mobile numbers.</span>
+                  <span><strong>Zero Judicial Validity:</strong> Indian courts never send informal PDF summons or arrest threats on WhatsApp from personal numbers.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Severe Criminal Forgery Penalties:</strong> Fabricating court records, judges&apos; signatures, or Lok Adalat stamps violates Section 338 BNS and Section 466 IPC, punishable by up to 7 years of rigorous imprisonment.</span>
+                  <span><strong>Criminal Forgery Penalties:</strong> Forging court records, judge signatures, or Lok Adalat stamps breaks Section 338 BNS and Section 466 IPC. It brings up to 7 years in jail.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Verifiable on e-Courts Portal:</strong> Every authentic Indian court proceeding carries a verifiable 16-digit CNR number on the official e-Courts portal; fake notices invariably lack authentic case metadata.</span>
+                  <span><strong>Verifiable on e-Courts:</strong> Every real case has a 16-digit CNR number on the e-Courts portal. Fake notices lack valid case data.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Vicarious Bank Liability:</strong> Under RBI Master Directions, commercial banks and NBFCs are strictly liable for the deceptive acts of their outsourced collection agencies, exposing lenders to heavy regulatory penalties.</span>
+                  <span><strong>Vicarious Bank Liability:</strong> Under RBI rules, banks bear full legal liability for deceptive acts by their collection agencies.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Advocate-Led Strategic Shield:</strong> Serving statutory Cease-and-Desist notices and criminal complaints forces lenders to withdraw aggressive agencies and negotiate structured 40% to 65% One-Time Settlements (OTS).</span>
+                  <span><strong>Advocate-Led Defense:</strong> Legal notices and complaints stop harassment fast. They open the door to a 40% to 65% One-Time Settlement (OTS).</span>
                 </li>
               </ul>
             </div>
 
-            {/* Section 1: The Rise of Deceptive WhatsApp Legal Notices */}
             <section id="rise-of-deceptive-whatsapp-notices" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Rise of Deceptive WhatsApp Legal Notices</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Across India&apos;s rapidly evolving digital lending landscape, distressed borrowers navigating overdue personal loans, credit card balances, or micro-fintech borrowings are increasingly confronted with an alarming collection tactic: receiving counterfeit legal notices, fabricated court summons, and phony arrest warrants directly on WhatsApp. Unregulated third-party collection agencies, operating under immense pressure to recover delinquent accounts, frequently bypass legitimate judicial channels to deploy high-pressure psychological warfare. These agencies generate deceptive PDF documents adorned with forged emblems of the Supreme Court of India, National Lok Adalat seals, bogus police department crests, and fictitious judicial signatures designed to induce instantaneous panic.
+                Many borrowers across India face an alarming collection tactic. Recovery agents send fake legal notices, false court summons, and phony arrest warrants on WhatsApp. Unregulated collection agencies try to create sudden panic. They paste fake Supreme Court emblems, bogus Lok Adalat seals, and fake judge signatures onto PDF files.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The core motivation behind these fabricated electronic notices is to create an artificial legal emergency. The messages typically accompany threatening ultimatums stating that a non-bailable arrest warrant has been signed by a Chief Judicial Magistrate, that a local police team has been dispatched to the borrower&apos;s workplace, or that a National Lok Adalat bench will issue attachment orders within two hours unless an immediate online transfer is executed. For borrowers unfamiliar with the intricate procedures of Indian civil and criminal jurisprudence, such graphic threats create severe emotional distress, prompting many to borrow from predatory loan sharks or liquidate family savings to appease aggressive recovery agents.
+                These fake notices aim to create an artificial legal crisis. Messages claim a Chief Judicial Magistrate signed an arrest warrant. They claim police are on the way to your workplace. They set 2-hour payment deadlines to push borrowers into panic. Fearing jail, many people take costly loans or spend family savings to pay.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded-r-xl my-4">
                 <div className="flex items-center gap-2 text-amber-900 font-bold text-xs uppercase tracking-wider mb-1">
@@ -504,22 +501,21 @@ export default function FakeCourtNoticeWhatsAppPage() {
                   <span>Foundational Legal Reality</span>
                 </div>
                 <p className="text-xs sm:text-sm text-amber-800 leading-relaxed">
-                  Defaulting on an unsecured personal loan or credit card is strictly a civil dispute governed by contract law. No judicial magistrate, civil court, or police station in India issues immediate arrest warrants, WhatsApp seizure notices, or two-hour repayment countdowns for an unsecured financial default.
+                  Defaulting on an unsecured personal loan or credit card is a civil dispute. No magistrate, civil judge, or police officer issues arrest warrants on WhatsApp for an unpaid loan.
                 </p>
               </div>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To effectively dismantle this deceptive practice, borrowers must understand that third-party recovery agencies possess absolute zero judicial authority. They are neither officers of the court nor law enforcement officials. When collection agents fabricate judicial stationery or send counterfeit legal notices across messaging platforms, they cross the boundary from aggressive civil debt collection into serious, cognizable criminal offenses punishable under Indian penal statutes.
+                Third-party recovery agencies have zero judicial power. They are not court officers or police. Making fake court papers is a serious crime under Indian law.
               </p>
             </section>
 
-            {/* Section 2: Forensics of Forgery */}
             <section id="forensics-identifying-fake-court-summons" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Forensics of Forgery</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Identifying a forged WhatsApp legal notice requires analyzing specific structural, grammatical, and procedural red flags inherent in collection agency fabrications. Authentic judicial notices in India adhere to strict statutory formatting under the High Court Rules and the Civil Procedure Code, 1908. In contrast, recovery agency fabrications are typically produced using desktop publishing templates that contain glaring legal and factual anomalies.
+                You can identify a fake WhatsApp notice by checking a few clear signs. Real court notices follow strict rules under the Civil Procedure Code, 1908. Recovery agent fakes use cheap digital templates full of legal errors.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The most critical forensic indicator is the complete absence of a valid Case Information System (CIS) Case Number Record (CNR). Under the nationwide e-Courts initiative managed by the e-Committee of the Supreme Court of India, every single plaint, petition, summary suit, or criminal complaint registered across District Courts and High Courts is assigned a unique, immutable 16-digit alphanumeric CNR number. If a notice received on WhatsApp displays vague notations such as &quot;Case Ref: REC/2026/DL/9812&quot; or &quot;Summons No: NBFC/COURT/772&quot; rather than a verifiable CNR number, the document is an absolute fabrication.
+                The biggest red flag is a missing Case Information System (CIS) Case Number Record (CNR). Under Supreme Court rules, every registered court case has a unique 16-digit alphanumeric CNR number. If a notice shows vague codes like &quot;Case Ref: REC/2026/DL/9812&quot; instead of a CNR number, it is fake.
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-4">
@@ -529,101 +525,98 @@ export default function FakeCourtNoticeWhatsAppPage() {
                 </h3>
                 <div className="space-y-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">1. Fabrication of National Lok Adalat Powers</p>
+                    <p className="font-bold text-slate-900">1. Fake Lok Adalat Powers</p>
                     <p className="text-slate-600 mt-1">
-                      Agencies routinely send PDF notices titled &quot;National Lok Adalat Final Arrest Notice&quot; or &quot;Lok Adalat Non-Bailable Warrant&quot;. Under the Legal Services Authorities Act, 1987, Lok Adalats are purely voluntary conciliation forums. They possess zero criminal jurisdiction, cannot issue arrest warrants, and cannot direct police attachment. Any notice claiming punitive Lok Adalat action is an outright forgery.
+                      Agencies send notices titled &quot;Lok Adalat Arrest Notice&quot;. Under the Legal Services Authorities Act, 1987, Lok Adalats are voluntary forums. They have no criminal powers and cannot order arrests. Any arrest notice from a Lok Adalat is fake.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">2. Fictitious Urgency &amp; Direct UPI / Bank Transfer Demands</p>
+                    <p className="font-bold text-slate-900">2. Urgent Deadlines and Direct UPI Demands</p>
                     <p className="text-slate-600 mt-1">
-                      Legitimate court summons provide a formal hearing date typically scheduled several weeks in advance to allow the defendant to engage legal counsel and file a Written Statement. Fake WhatsApp notices almost always demand immediate payment within 2 to 4 hours and include individual UPI QR codes or private agency account numbers to avert imminent arrest.
+                      Real court summons give several weeks to respond. Fake notices demand payment in 2 to 4 hours. They include private UPI QR codes to steal money.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">3. Blatant Jumbling of Civil &amp; Criminal Statutory Provisions</p>
+                    <p className="font-bold text-slate-900">3. Mixing Civil and Criminal Laws</p>
                     <p className="text-slate-600 mt-1">
-                      Forged notices frequently cite incompatible sections of law on a single page, such as combining Section 138 of the Negotiable Instruments Act (cheque bounce), Section 420 of the Indian Penal Code (cheating), Section 25 of the Payment and Settlement Systems Act, and Section 13(2) of the SARFAESI Act, alongside civil breach of contract claims, revealing non-lawyer drafting.
+                      Fake notices often mix Section 138 NI Act, Section 420 IPC, Section 25 PSSA, and SARFAESI on one page. This messy drafting reveals an agent fake.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">4. Pixelated Seals, Fake Ashoka Emblems &amp; Generic Stamps</p>
+                    <p className="font-bold text-slate-900">4. Blurry Seals and Fake Emblems</p>
                     <p className="text-slate-600 mt-1">
-                      Forgers cut and paste low-resolution graphic images of the State Emblem of India (Lion Capital of Ashoka), generic clip-art scales of justice, and forged rubber stamps reading &quot;Chief Legal Cell - High Court Verified&quot;. Genuine judicial processes carry physical court-stamped seals and verifiable administrative signatures.
+                      Forgers copy blurry images of the Ashoka Emblem and generic scales of justice. Real court summons carry physical stamped seals and clear official signatures.
                     </p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Whenever a borrower receives a suspicious document on WhatsApp, they can instantly verify its authenticity by searching the e-Courts portal (services.ecourts.gov.in) using the CNR number or searching by party name across the relevant District Court registry. If no active record appears on the official judicial repository, the document is an unlawful instrument of extortion.
+                Borrowers can check any notice on the e-Courts website (services.ecourts.gov.in). Search using the CNR number or party name. If no case appears, the document is an extortion attempt.
               </p>
             </section>
 
-            {/* Section 3: Statutory Criminal Protections */}
             <section id="statutory-criminal-laws-bns-ipc" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Criminal Protections</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The creation, transmission, and deployment of counterfeit judicial documents to coerce debt repayment is not merely an ethical violation or an administrative irregularity; it represents severe criminal misconduct under the substantive penal laws of India. Following the enactment of the Bharatiya Nyaya Sanhita, 2023 (BNS) replacing the Indian Penal Code, 1860 (IPC), the statutory framework provides formidable criminal remedies against recovery agents, agency directors, and principal lending officers who authorize such practices.
+                Sending fake court notices to collect debt is a major crime in India. Under the Bharatiya Nyaya Sanhita, 2023 (BNS) and the Indian Penal Code, 1860 (IPC), strict laws punish this conduct.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under the Indian Penal Code and its corresponding provisions in the Bharatiya Nyaya Sanhita, the key criminal sections governing forged notices include:
+                Key penal sections that apply to fake legal notices include:
               </p>
               
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 my-4">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 466 IPC / Section 338 BNS</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    <strong>Forgery of Court Records:</strong> Whoever forges a document purporting to be a record or proceeding of or in a Court of Justice, or a register or certificate, shall be punished with imprisonment of either description for a term which may extend to 7 years, and shall also be liable to fine. This is a severe, non-bailable offense.
+                    <strong>Forgery of Court Records:</strong> Forging court papers carries up to 7 years in jail and fines. This is a serious, non-bailable offense.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 471 IPC / Section 340 BNS</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    <strong>Using as Genuine a Forged Document:</strong> Whoever fraudulently or dishonestly uses as genuine any document or electronic record which he knows or has reason to believe to be a forged document, shall be punished in the same manner as if he had forged such document.
+                    <strong>Using as Genuine a Forged Document:</strong> Using a forged document as genuine carries the same penalty as making it.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 468 IPC / Section 336(3) BNS</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    <strong>Forgery for Purpose of Cheating:</strong> Forging judicial summons with the intent to deceive a debtor into transferring money to an unauthorized collection agency constitutes criminal forgery for cheating, carrying up to 7 years imprisonment.
+                    <strong>Forgery for Purpose of Cheating:</strong> Forging court summons to trick a borrower into paying brings up to 7 years in jail.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 383/384 IPC / Section 308 BNS</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    <strong>Extortion:</strong> Intentionally putting any person in fear of injury, public arrest, or social disgrace to induce them to deliver money constitutes criminal extortion, carrying rigorous imprisonment up to 3 years.
+                    <strong>Extortion:</strong> Putting someone in fear of arrest to demand money is criminal extortion. It carries up to 3 years in jail.
                   </p>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Additionally, transmitting forged documents through electronic communication channels activates Section 66D of the Information Technology Act, 2000 (cheating by personation by using computer resources), which carries up to 3 years imprisonment and substantial fines, as well as Section 170 IPC / Section 204 BNS for personating a public servant or court officer.
+                Sending forged files digitally also breaks Section 66D of the Information Technology Act, 2000. It also violates Section 170 IPC / Section 204 BNS for pretending to be a public officer.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                In numerous authoritative rulings, including <em>ICICI Bank Ltd. v. Prakash Kaur &amp; Ors. (2007)</em> and subsequent High Court directives, the judiciary has held that financial institutions cannot outsource debt collection to rogue elements who resort to forgery and criminal intimidation. When an aggrieved borrower files a well-documented criminal complaint citing these exact penal provisions, the burden of criminal liability falls directly upon the collection agency and the commissioning bank officers.
+                In <em>ICICI Bank Ltd. v. Prakash Kaur &amp; Ors. (2007)</em>, the Supreme Court ruled that banks cannot use musclemen or forgery. Filing a formal criminal complaint puts direct liability on the agency and the bank.
               </p>
             </section>
 
-            {/* Section 4: Bank Accounting Dynamics & NPV Model */}
             <section id="bank-npa-accounting-npv-formula" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To understand why collection agencies resort to desperate measures such as fabricating court summons on WhatsApp, one must examine the internal balance sheet economics and regulatory provisioning mandates governing Indian commercial banks and NBFCs. Under the Reserve Bank of India (RBI) Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances (IRACP), an unsecured loan account is classified as a Non-Performing Asset (NPA) once repayments remain overdue past the 90-day threshold.
+                To understand why agencies send fake notices, look at bank economics. Under RBI Prudential Norms (IRACP), an unsecured loan becomes a Non-Performing Asset (NPA) after 90 days of default.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Once classified as an NPA, the lender is prohibited from recognizing accrued interest as income and is legally compelled to lock away substantial shareholder capital in mandatory risk provisions:
+                Once an account is an NPA, the bank must set aside capital in mandatory provisions:
               </p>
               <ul className="list-disc pl-5 space-y-1.5 text-xs sm:text-sm text-slate-700">
-                <li><strong>Substandard Assets (NPA up to 12 Months):</strong> Mandatory 15% provisioning on the total outstanding exposure for unsecured facilities.</li>
-                <li><strong>Doubtful Assets (NPA 12 to 24 Months):</strong> Mandatory 100% provisioning on the entire unsecured exposure, locking matching capital from bank reserves.</li>
-                <li><strong>Loss Assets / Written-Off Accounts:</strong> Complete 100% write-off against the institution&apos;s operating profits.</li>
+                <li><strong>Substandard Assets (NPA up to 12 Months):</strong> 15% provision on total unsecured debt.</li>
+                <li><strong>Doubtful Assets (NPA 12 to 24 Months):</strong> 100% provision on the full unsecured amount.</li>
+                <li><strong>Loss Assets / Written-Off Accounts:</strong> Complete 100% write-off on the bank balance sheet.</li>
               </ul>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mt-3">
-                If a lender decides to pursue genuine civil litigation in a District Court or Commercial Court to recover an unsecured personal loan of ₹3 Lakhs to ₹15 Lakhs, it must pay 1% to 3% non-refundable court fees, engage external advocates, and navigate 3 to 5 years of procedural delays. Because unsecured debts carry no hypothecated physical collateral, the net financial yield from prolonged litigation is deeply negative. Consequently, institutional credit and recovery committees evaluate settlement proposals using a Net Present Value (NPV) recovery formula:
+                Filing a civil court case costs 1% to 3% in fees and takes 3 to 5 years. Because unsecured loans have no collateral, court litigation yields poor returns. Banks evaluate cases using the Net Present Value (NPV) recovery formula:
               </p>
 
-              {/* Recovery Valuation Formula Box */}
               <div className="bg-slate-900 text-white rounded-2xl p-5 my-6 shadow-md border border-slate-800">
                 <div className="flex items-center gap-2 text-blue-400 font-bold text-xs uppercase tracking-wider mb-2">
                   <Calculator className="w-4 h-4" />
@@ -633,16 +626,15 @@ export default function FakeCourtNoticeWhatsAppPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoveries across annual intervals t, r is the bank&apos;s cost of capital discount rate, and deductions account for 3 to 5 years of court friction, advocate retainers, and locked regulatory capital reserves.
+                  Here C_t is expected recovery, and r is the discount rate. Deductions include court fees, lawyer retainers, and funds locked in NPA reserves.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Because authentic civil litigation yields an inferior Net Present Value, banks have immense commercial motivation to resolve delinquent accounts through a negotiated One-Time Settlement (OTS). By agreeing to a 40% to 65% principal waiver, the lender instantly unlocks cash liquidity, eliminates toxic debt from its balance sheet, and immediately writes back regulatory provisions to boost quarterly profitability. The recovery agency&apos;s frantic dissemination of fake WhatsApp notices is a desperate attempt to collect exorbitant commissions before the bank formally transfers the debt to the institutional settlement division.
+                Settling the loan gives the bank a better return than court action. A 40% to 65% One-Time Settlement (OTS) unlocks cash and clears provisions. Agents send fake notices in a rush to claim commissions before the bank settles the account.
               </p>
             </section>
 
-            {/* Section 5: Dedicated 16:9 Infographic Banner */}
             <section id="infographic-fake-notices-vs-legal-reality" className="my-8">
               <div className="rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-950">
                 <Image
@@ -660,11 +652,10 @@ export default function FakeCourtNoticeWhatsAppPage() {
               </div>
             </section>
 
-            {/* Section 6: Step-by-Step Criminal & Regulatory Action */}
             <section id="criminal-proceedings-fir-cyber-crime" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Criminal &amp; Regulatory Action</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a borrower receives a forged court notice or fabricated arrest summons on WhatsApp, passive tolerance or verbal arguments with recovery personnel are counterproductive. The borrower must execute a systematic, legally grounded response to shift the liability onto the perpetrators:
+                When you get a fake notice on WhatsApp, do not panic or argue with agents. Follow this step-by-step legal plan:
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 space-y-3">
@@ -674,68 +665,66 @@ export default function FakeCourtNoticeWhatsAppPage() {
                 </div>
                 <div className="space-y-2.5 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Step 1: Forensic Digital Evidence Preservation</p>
+                    <p className="font-bold text-slate-900">Step 1: Save Digital Evidence</p>
                     <p className="text-slate-600 mt-1">
-                      Do not delete the WhatsApp conversation or block the sender immediately. Capture comprehensive full-screen screenshots displaying the sender&apos;s phone number, profile photo, and timestamps. Export the raw WhatsApp chat history (.txt) and preserve the original downloaded PDF document with its digital metadata intact.
+                      Do not delete the chat. Take full screenshots showing the sender number, photo, and time. Save the chat history and the raw PDF file.
                     </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Step 2: Lodge National Cyber Crime Reporting Portal Complaint</p>
+                    <p className="font-bold text-slate-900">Step 2: File a Cyber Crime Complaint</p>
                     <p className="text-slate-600 mt-1">
-                      File a formal complaint on the Government of India National Cyber Crime Reporting Portal (cybercrime.gov.in) under the category of &quot;Online Financial Fraud / Digital Impersonation &amp; Forgery&quot;. Attach the exported chat, forged PDF, and sender phone numbers to generate an official Cyber Crime Acknowledgement Number.
+                      Report the incident on cybercrime.gov.in under digital fraud and forgery. Keep the official complaint number.
                     </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Step 3: Serve Statutory Cease-and-Desist Notice on Principal Bank</p>
+                    <p className="font-bold text-slate-900">Step 3: Serve a Legal Notice on the Bank</p>
                     <p className="text-slate-600 mt-1">
-                      Engage a debt settlement advocate to draft and serve a formal legal notice to the Managing Director, Principal Nodal Officer, and Head of Collections of the lending institution. The notice details the criminal offenses under Section 338 BNS / Section 466 IPC and RBI Circular RBI/2022-23/108, demanding the immediate recall of the agency.
+                      Have a lawyer send a notice to the bank Managing Director and Nodal Officer. Cite Section 338 BNS, Section 466 IPC, and RBI rules.
                     </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Step 4: Escalate to the RBI Integrated Ombudsman</p>
+                    <p className="font-bold text-slate-900">Step 4: Escalate to the RBI Ombudsman</p>
                     <p className="text-slate-600 mt-1">
-                      If the bank fails to provide an adequate resolution within 30 days, file an online escalation on the RBI Complaint Management System (cms.rbi.org.in). The Banking Ombudsman possesses statutory powers to penalize the regulated entity, award compensation up to ₹20 Lakhs for mental harassment, and direct debt restructuring.
+                      If the bank fails to resolve the issue within 30 days, file a complaint on cms.rbi.org.in. The Ombudsman can penalize the bank and award compensation.
                     </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Step 5: File Police Complaint / Section 156(3) CrPC Application</p>
+                    <p className="font-bold text-slate-900">Step 5: File a Police Complaint</p>
                     <p className="text-slate-600 mt-1">
-                      Submit a written complaint to the Station House Officer (SHO) of your local police station seeking registration of an FIR for forgery of court records and extortion. If local police hesitate to register an FIR against corporate collection agencies, your advocate can file an application before the Judicial Magistrate under Section 156(3) CrPC (Section 175 BNSS) to direct an immediate police investigation.
+                      Submit a written complaint to your local police station. If needed, your lawyer can file an application under Section 156(3) CrPC (Section 175 BNSS) before a magistrate.
                     </p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                By initiating formal legal and regulatory counter-proceedings, the dynamic of intimidation is entirely inverted. Lenders quickly recognize that continued aggressive recovery by rogue agencies poses severe operational, reputational, and criminal risks, paving the way for a swift institutional settlement.
+                Taking legal action shifts the pressure back to the lender. Banks realize the severe legal risks and quickly move toward a fair settlement.
               </p>
             </section>
 
-            {/* Section 7: Civil Court & Real Summons Protocols */}
             <section id="civil-procedure-real-summons-protocols" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Civil Court Realities</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To evaluate any document claiming to be a court summons, borrowers must understand the statutory mechanism of service of summons under the Code of Civil Procedure, 1908 (CPC). Order V Rule 9 of the CPC explicitly governs how an Indian court delivers summons to a defendant:
+                To spot fake summons, you should know the legal rules for court notices. Order V Rule 9 CPC sets the exact procedure for serving court summons:
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Summons issued by a competent Civil Judge or Commercial Court must be delivered through an authorized ministerial officer of the court—known as a Court Process Server or Court Bailiff—or transmitted through Registered Post with Acknowledgment Due (RPAD), Speed Post, or High Court-approved courier services. The physical summons document is invariably accompanied by a complete copy of the filed plaint, supporting affidavits, and list of relied-upon documents signed by the plaintiff&apos;s advocate.
+                Real summons come through a Court Bailiff, registered post, speed post, or approved courier. The summons always includes a full copy of the plaint and supporting affidavits.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                While the Supreme Court of India in <em>In Re: Cognizance for Extension of Limitation (2020)</em> and various High Courts have recognized the service of notices via electronic modes including WhatsApp and email, such electronic service is subject to strict judicial prerequisites. It is permissible only after the court has formally instituted the suit, issued specific directions permitting substituted electronic service, and when transmitted by an authenticated court email address or the registered advocate on record, complete with a process tracking affidavit filed before the bench.
+                In <em>In Re: Cognizance for Extension of Limitation (2020)</em>, the Supreme Court allowed electronic notices only under strict conditions. The court must approve electronic service first. The notice must come from an official email or registered lawyer.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                An anonymous WhatsApp message from an unverified mobile number containing a standalone, poorly formatted PDF document, demanding payment within hours to avoid arrest, meets none of the procedural standards of Order V CPC. Recognizing this stark divergence empowers borrowers to reject bogus threats with complete legal confidence.
+                An anonymous WhatsApp PDF demanding money in two hours breaks all Order V CPC rules. Knowing this helps you dismiss bogus threats with confidence.
               </p>
             </section>
 
-            {/* Section 8: Direct Bank Settlement Protocols */}
             <section id="direct-bank-settlement-ots-cibil" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Direct Bank Settlement Protocols</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A critical mistake made by distressed borrowers when subjected to aggressive WhatsApp threats is agreeing to transfer informal partial sums directly to recovery agents or via unverified payment links. Recovery personnel routinely promise, &quot;Pay ₹25,000 immediately and we will cancel the arrest warrant and close your loan.&quot; In practice, such informal transfers are credited entirely toward penal charges, compound interest, and agent commissions, leaving the core principal delinquent and inviting renewed harassment weeks later.
+                Never pay money directly to recovery agents or through unverified links. Agents often claim that paying ₹25,000 will cancel an arrest warrant. In truth, that money goes to penalties and agent fees, leaving the debt unpaid.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To achieve permanent legal closure and extinguish the debt, borrowers must bypass rogue collection agencies and execute an official One-Time Settlement (OTS) directly with the lending institution&apos;s authorized authorities:
+                To close the loan permanently, work directly with the bank on an official One-Time Settlement (OTS):
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 space-y-3">
@@ -747,30 +736,29 @@ export default function FakeCourtNoticeWhatsAppPage() {
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">1. Official Sanction Letter</p>
                     <p className="text-slate-600">
-                      Obtain an authentic Settlement Sanction Letter issued on official bank letterhead, bearing a verifiable reference number, approved waiver amount, and explicit payment schedule signed by an authorized signatory.
+                      Get a settlement letter on bank letterhead. It must state the agreed amount, waiver, and payment dates with an official signature.
                     </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">2. Direct Account Remittance</p>
+                    <p className="font-bold text-slate-900 mb-1">2. Direct Bank Remittance</p>
                     <p className="text-slate-600">
-                      Execute remittances exclusively through formal banking channels (RTGS, NEFT, or Account Payee Demand Draft) payable directly to the designated loan account number, never to third-party agency UPI handles.
+                      Pay money only to your official loan account via RTGS, NEFT, or Demand Draft. Never pay through third-party UPI links.
                     </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">3. Bank-Stamped NDC &amp; CIBIL Update</p>
                     <p className="text-slate-600">
-                      Secure a physical, bank-stamped No Dues Certificate (NDC) within 30 days under RBI Circular RBI/2023-24/60, followed by credit bureau reporting reflecting the status as &quot;Settled&quot;.
+                      Get a stamped No Dues Certificate (NDC) within 30 days under RBI Circular RBI/2023-24/60. The bank will mark the debt as Settled.
                     </p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Following full remittance of the negotiated compromise amount, the bank submits an updated status to credit bureaus (CIBIL, Experian, CRIF High Mark, Equifax). While a &quot;Settled&quot; remark temporarily reflects on credit histories, it permanently halts all legal exposure, stops collection harassment, and allows the borrower to systematically rebuild their credit score over 12 to 24 months through disciplined financial planning.
+                After full payment, the bank updates credit bureaus. While a Settled mark causes a temporary score drop, it ends all legal risks. You can rebuild your credit score above 750 in 12 to 24 months.
               </p>
             </section>
 
-            {/* Section 9: Comparative Matrix Table */}
             <section id="comparative-matrix-fake-vs-real-notices" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Verification Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -789,54 +777,51 @@ export default function FakeCourtNoticeWhatsAppPage() {
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-semibold text-slate-900">Mode of Delivery</td>
-                      <td>Court Process Server, Bailiff, RPAD, Speed Post, or formally sanctioned electronic service</td>
-                      <td>Unverified WhatsApp message, SMS, or Telegram PDF from personal mobile number</td>
-                      <td>Order V Rule 9 CPC (Service of Summons)</td>
+                      <td className="font-semibold text-slate-900">Mode of Delivery.</td>
+                      <td>Court Process Server, Bailiff, RPAD, Speed Post, or court-approved electronic service.</td>
+                      <td>Unverified WhatsApp message or PDF from a private mobile number.</td>
+                      <td>Order V Rule 9 CPC rules on summons.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Case Number &amp; CNR</td>
-                      <td>Unique 16-digit alphanumeric CNR number verifiable on e-Courts portal</td>
-                      <td>Missing, fictitious reference number, or internal agency recovery code</td>
-                      <td>e-Courts Case Information System (CIS) Standards</td>
+                      <td className="font-semibold text-slate-900">Case Number &amp; CNR.</td>
+                      <td>Unique 16-digit CNR number verifiable on the e-Courts portal.</td>
+                      <td>Missing number, fake reference code, or internal recovery tag.</td>
+                      <td>e-Courts Case Information System standards.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Response Timeline</td>
-                      <td>Standard 30 days to enter appearance and file Written Statement</td>
-                      <td>Coercive 2 to 4 hour ultimatum demanding instant funds transfer</td>
-                      <td>Order VIII Rule 1 CPC (Written Statement Timeline)</td>
+                      <td className="font-semibold text-slate-900">Response Timeline.</td>
+                      <td>Standard 30 days to appear in court and file a Written Statement.</td>
+                      <td>Urgent 2 to 4 hour ultimatum demanding instant funds transfer.</td>
+                      <td>Order VIII Rule 1 CPC timeline rules.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Penal Threat Content</td>
-                      <td>Formal civil adjudication notice; no immediate arrest threats for debt default</td>
-                      <td>Threats of immediate police raid, non-bailable arrest, and workplace seizure</td>
-                      <td>Sec 338 BNS / Sec 466 IPC &amp; Sec 506 IPC Intimidation</td>
+                      <td className="font-semibold text-slate-900">Penal Threat Content.</td>
+                      <td>Formal civil suit notice with no arrest threats for debt default.</td>
+                      <td>Threats of immediate police raids, arrest warrants, and workplace visits.</td>
+                      <td>Section 338 BNS, Section 466 IPC, and Section 506 IPC.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Payment Instructions</td>
-                      <td>No payment demands in summons; matters contested before the bench</td>
-                      <td>Demands immediate UPI transfer, personal agency QR code, or unverified link</td>
-                      <td>Sec 468 IPC / Sec 336 BNS (Forgery for Cheating)</td>
+                      <td className="font-semibold text-slate-900">Payment Instructions.</td>
+                      <td>No payment demands in summons; cases are heard before the judge.</td>
+                      <td>Demands immediate UPI payment, personal QR codes, or unverified links.</td>
+                      <td>Section 468 IPC and Section 336 BNS on fraud.</td>
                     </tr>
                   </tbody>
                 </table>
               </div>
             </section>
 
-            {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Relief</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating the fear and confusion of receiving forged legal notices, bogus arrest warrants, and aggressive recovery calls on WhatsApp can be an isolating and overwhelming experience. At SettleLoans, our team of seasoned banking advocates, consumer protection attorneys, and debt resolution professionals provides comprehensive nationwide defense for borrowers in distress. We immediately intervene by filing formal Vakalatnama notices, issuing statutory Cease-and-Desist directives to lending institutions, initiating cyber crime and police proceedings against rogue recovery agencies, and negotiating structured 40% to 65% One-Time Settlements backed by official, bank-stamped No Dues Certificates.
+                  Getting fake legal notices and arrest threats on WhatsApp can be stressful. At SettleLoans, our banking advocates and debt resolution experts protect borrowers. We file formal legal notices, issue Cease-and-Desist directives, and report rogue agencies. We also negotiate 40% to 65% One-Time Settlements with official bank No Dues Certificates.
                 </p>
               </div>
 
-              {/* CompanySection Component */}
               <CompanySection />
             </section>
 
-            {/* Section 11: Frequently Asked Questions */}
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
@@ -1012,7 +997,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-3">
-                Distinguished authority in banking jurisprudence, criminal defense against debt recovery forgery under Sections 336/338 BNS and 465/471 IPC, RBI fair practice enforcement, and institutional compromise debt settlements with over a decade of legal advocacy experience.
+                Distinguished authority in banking law, criminal defense against debt forgery under Sections 336/338 BNS and 465/471 IPC, RBI rules, and debt settlements.
               </p>
               <div className="pt-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
                 <Link href="/authors/ashish-jhangra" className="text-[#1F5EFF] font-semibold hover:underline flex items-center gap-1">
@@ -1034,7 +1019,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
               </div>
               <div className="font-bold text-base text-white mb-2">Received a Fake Court Notice on WhatsApp?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
-                Do not let collection agencies intimidate you with forged summons or arrest threats. Engage our senior advocates to issue immediate Cease-and-Desist notices, file cyber crime complaints, and negotiate an official 40%–65% OTS.
+                Do not let collection agencies intimidate you with fake summons or arrest threats. Our senior advocates issue Cease-and-Desist notices, file complaints, and negotiate a 40% to 65% OTS.
               </p>
               <Link
                 href="/contact"

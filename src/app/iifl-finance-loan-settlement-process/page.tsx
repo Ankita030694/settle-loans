@@ -244,7 +244,7 @@ const jsonLdGraph = {
           "name": "What is the IIFL Finance loan settlement process and how does an NBFC compromise work?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The IIFL Finance loan settlement process is a debt resolution mechanism governed by RBI Master Directions on Compromise Settlements. When an unsecured personal loan or business facility enters NPA status past 90 days of default, the borrower submits a hardship petition to IIFL's Stressed Assets division. Upon evaluating financial incapacity against the Net Present Value (NPV) of recovery, IIFL issues an official stamped OTS Sanction Letter. Depositing the agreed amount into the loan account extinguishes all liabilities and entitles the borrower to a formal No Dues Certificate (NDC)."
+            "text": "The IIFL Finance loan settlement process is a legal debt relief option under RBI rules. If you cannot pay your loan for over 90 days, your account becomes an NPA. You can then submit a hardship letter to IIFL. The bank team reviews your case and offers an OTS deal. Once you pay the agreed amount, IIFL closes your loan. You then get an official No Dues Certificate (NDC)."
           }
         },
         {
@@ -252,7 +252,7 @@ const jsonLdGraph = {
           "name": "How should borrowers handle IIFL gold loan auction shortfall residual balance demand notices?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "When auctioned gold proceeds fail to cover claimed ledger balances, IIFL reclassifies the remaining deficit as an unsecured residual shortfall balance. Borrowers can challenge these claims under Section 176 of the Indian Contract Act by requesting auction records, reserve price compliance, and weight verification. Because residual claims represent high-risk unsecured debts, IIFL's Stressed Assets desks routinely settle these shortfalls through OTS with 50% to 75% debt waivers."
+            "text": "If auctioned gold does not cover your loan, IIFL demands the leftover balance. This balance is an unsecured debt. You can challenge this under Section 176 of the Indian Contract Act. Ask IIFL for auction records, gold weight proofs, and base price details. You can settle this residual debt through an OTS with a 50% to 75% waiver."
           }
         },
         {
@@ -260,7 +260,7 @@ const jsonLdGraph = {
           "name": "What percentage of debt waiver or OTS haircut can you realistically negotiate with IIFL Finance?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "On unsecured personal loans and MSME credit facilities, IIFL Finance routinely approves debt waivers between 40% and 60% of total ledger dues, alongside a 100% complete waiver of bounce fees and penal interest. For aged accounts beyond 180 days (Doubtful/Loss assets) and post-gold-auction shortfalls, debt haircuts reach 50% to 75%."
+            "text": "For personal and MSME loans, IIFL often gives 40% to 60% debt waivers. They also waive 100% of unpaid bounce fees and penal interest. If your loan is over 180 days past due, waivers can reach 50% to 75%."
           }
         },
         {
@@ -268,7 +268,7 @@ const jsonLdGraph = {
           "name": "How can borrowers stop IIFL Finance repeated NACH bounce penalties and auto-debit sweeps?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Borrowers can halt compounding auto-debit penalties by submitting an e-NACH mandate revocation to their destination bank under NPCI rules, notifying IIFL's collections desk to pause electronic sweeps, and demanding a 100% waiver of accumulated bounce charges under RBI Fair Lending Practice directives during OTS negotiations."
+            "text": "You can stop auto-debit bounce fees right away. Ask your bank to cancel your e-NACH mandate under NPCI rules. Tell IIFL to stop auto-debit sweeps. During settlement, ask for a full waiver of all bounce charges under RBI rules."
           }
         },
         {
@@ -276,7 +276,7 @@ const jsonLdGraph = {
           "name": "How do you protect against aggressive IIFL Finance recovery agents and collection harassment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Master Directions on Recovery Agents, collection personnel are restricted to contacting borrowers between 08:00 AM and 07:00 PM. Contacting third parties, relatives, or employers is prohibited. Documented violations should be countered with legal cease-and-desist notices to the IIFL Principal Nodal Officer and escalated to the RBI Integrated Ombudsman portal (CMS)."
+            "text": "RBI rules protect borrowers from recovery agent abuse. Agents can only call between 8 AM and 7 PM. They cannot call your family, boss, or friends. If agents harass you, send a legal notice to the IIFL Nodal Officer. You can also file a complaint on the RBI CMS portal."
           }
         },
         {
@@ -284,7 +284,7 @@ const jsonLdGraph = {
           "name": "Can IIFL Finance file a criminal police case or arrest a borrower for loan default?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Defaulting on an unsecured personal, business, or post-auction residual loan is strictly a civil breach of contract under the Indian Contract Act, 1872. Police authorities have no jurisdiction to register FIRs for genuine financial defaults. Section 25 PSSA notices for bounced mandates are compoundable quasi-criminal proceedings handled in Magistrate Courts and are routinely resolved through advocate-led compromise settlements."
+            "text": "No. A loan default is a civil dispute under the Indian Contract Act, 1872. Police cannot arrest you for genuine financial default. Section 25 PSSA notices for bounced mandates go to court. You can easily settle these cases with legal help."
           }
         },
         {
@@ -292,7 +292,7 @@ const jsonLdGraph = {
           "name": "How should borrowers handle unilateral arbitration notices issued by IIFL Finance in Mumbai?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under Supreme Court rulings (Perkins Eastman and TRF Ltd.), unilateral arbitrator appointments by lenders without mutual consent are invalid. Legal counsel can challenge the arbitrator's jurisdiction under Section 12 and Section 14 of the Arbitration Act, 1996, redirecting the dispute into compromise settlement channels."
+            "text": "The Supreme Court ruled that lenders cannot pick sole arbitrators on their own. This was decided in the Perkins Eastman and TRF Ltd cases. Your lawyer can challenge the arbitrator under Section 12 and Section 14 of the Arbitration Act, 1996. This moves the case to an OTS."
           }
         },
         {
@@ -300,7 +300,7 @@ const jsonLdGraph = {
           "name": "Who within IIFL Finance holds the authorized delegation of powers to approve an OTS proposal?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Outsourced tele-callers and third-party recovery agents have zero legal authority to sanction debt discounts. Binding compromise settlements must be approved by IIFL's Zonal Stressed Assets Desk, Regional Credit Committee, or Chief Risk Officer division, documented through an authentic stamped sanction letter on corporate letterhead."
+            "text": "Recovery agents and call center staff cannot approve debt discounts. Only IIFL Zonal Credit teams and Risk Officers can approve an OTS. Always demand a formal settlement letter on official IIFL letterhead."
           }
         },
         {
@@ -308,7 +308,7 @@ const jsonLdGraph = {
           "name": "How does settling an IIFL loan affect your CIBIL score and credit bureau history?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "IIFL reports settled accounts to credit bureaus as 'Settled' or 'Post-Write-off Settled' with an outstanding balance of ₹0. While this causes a temporary initial score drop of 75 to 150 points, it permanently stops compounding default marks. Borrowers can rebuild their score back to 750+ within 18 to 24 months through disciplined secured credit tools."
+            "text": "IIFL will mark your loan as 'Settled' with a zero balance on your CIBIL report. Your credit score may drop by 75 to 150 points at first. But all negative marks stop. You can rebuild your score back to 750+ within 18 to 24 months using secured credit cards."
           }
         },
         {
@@ -316,7 +316,7 @@ const jsonLdGraph = {
           "name": "What is the mandatory timeline for IIFL Finance to issue the No Dues Certificate (NDC) post-settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, IIFL Finance is legally required to deliver a formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving the full settlement payment. Failure to comply makes the lender liable to pay compensation of ₹5,000 per day of delay directly to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, IIFL must issue your NDC within 30 days of full payment. They must also update your credit report. If they delay, they must pay you ₹5,000 for each day of delay."
           }
         }
       ]
@@ -359,43 +359,43 @@ export default function IIFLFinanceLoanSettlementPage() {
   const faqs = [
     {
       question: "What is the IIFL Finance loan settlement process and how does an NBFC compromise work?",
-      answer: "The IIFL Finance loan settlement process is a debt resolution mechanism governed by RBI Master Directions on Compromise Settlements. When an unsecured personal loan or business facility enters NPA status past 90 days of default, the borrower submits a hardship petition to IIFL's Stressed Assets division. Upon evaluating financial incapacity against the Net Present Value (NPV) of recovery, IIFL issues an official stamped OTS Sanction Letter. Depositing the agreed amount into the loan account extinguishes all liabilities and entitles the borrower to a formal No Dues Certificate (NDC)."
+      answer: "The IIFL Finance loan settlement process is a legal debt relief option under RBI rules. If you cannot pay your loan for over 90 days, your account becomes an NPA. You can then submit a hardship letter to IIFL. The bank team reviews your case and offers an OTS deal. Once you pay the agreed amount, IIFL closes your loan. You then get an official No Dues Certificate (NDC)."
     },
     {
       question: "How should borrowers handle IIFL gold loan auction shortfall residual balance demand notices?",
-      answer: "When auctioned gold proceeds fail to cover claimed ledger balances, IIFL reclassifies the remaining deficit as an unsecured residual shortfall balance. Borrowers can challenge these claims under Section 176 of the Indian Contract Act by requesting auction records, reserve price compliance, and weight verification. Because residual claims represent high-risk unsecured debts, IIFL's Stressed Assets desks routinely settle these shortfalls through OTS with 50% to 75% debt waivers."
+      answer: "If auctioned gold does not cover your loan, IIFL demands the leftover balance. This balance is an unsecured debt. You can challenge this under Section 176 of the Indian Contract Act. Ask IIFL for auction records, gold weight proofs, and base price details. You can settle this residual debt through an OTS with a 50% to 75% waiver."
     },
     {
       question: "What percentage of debt waiver or OTS haircut can you realistically negotiate with IIFL Finance?",
-      answer: "On unsecured personal loans and MSME credit facilities, IIFL Finance routinely approves debt waivers between 40% and 60% of total ledger dues, alongside a 100% complete waiver of bounce fees and penal interest. For aged accounts beyond 180 days (Doubtful/Loss assets) and post-gold-auction shortfalls, debt haircuts reach 50% to 75%."
+      answer: "For personal and MSME loans, IIFL often gives 40% to 60% debt waivers. They also waive 100% of unpaid bounce fees and penal interest. If your loan is over 180 days past due, waivers can reach 50% to 75%."
     },
     {
       question: "How can borrowers stop IIFL Finance repeated NACH bounce penalties and auto-debit sweeps?",
-      answer: "Borrowers can halt compounding auto-debit penalties by submitting an e-NACH mandate revocation to their destination bank under NPCI rules, notifying IIFL's collections desk to pause electronic sweeps, and demanding a 100% waiver of accumulated bounce charges under RBI Fair Lending Practice directives during OTS negotiations."
+      answer: "You can stop auto-debit bounce fees right away. Ask your bank to cancel your e-NACH mandate under NPCI rules. Tell IIFL to stop auto-debit sweeps. During settlement, ask for a full waiver of all bounce charges under RBI rules."
     },
     {
       question: "How do you protect against aggressive IIFL Finance recovery agents and collection harassment?",
-      answer: "Under RBI Master Directions on Recovery Agents, collection personnel are restricted to contacting borrowers between 08:00 AM and 07:00 PM. Contacting third parties, relatives, or employers is prohibited. Documented violations should be countered with legal cease-and-desist notices to the IIFL Principal Nodal Officer and escalated to the RBI Integrated Ombudsman portal (CMS)."
+      answer: "RBI rules protect borrowers from recovery agent abuse. Agents can only call between 8 AM and 7 PM. They cannot call your family, boss, or friends. If agents harass you, send a legal notice to the IIFL Nodal Officer. You can also file a complaint on the RBI CMS portal."
     },
     {
       question: "Can IIFL Finance file a criminal police case or arrest a borrower for loan default?",
-      answer: "No. Defaulting on an unsecured personal, business, or post-auction residual loan is strictly a civil breach of contract under the Indian Contract Act, 1872. Police authorities have no jurisdiction to register FIRs for genuine financial defaults. Section 25 PSSA notices for bounced mandates are compoundable quasi-criminal proceedings handled in Magistrate Courts and are routinely resolved through advocate-led compromise settlements."
+      answer: "No. A loan default is a civil dispute under the Indian Contract Act, 1872. Police cannot arrest you for genuine financial default. Section 25 PSSA notices for bounced mandates go to court. You can easily settle these cases with legal help."
     },
     {
       question: "How should borrowers handle unilateral arbitration notices issued by IIFL Finance in Mumbai?",
-      answer: "Under Supreme Court rulings (Perkins Eastman and TRF Ltd.), unilateral arbitrator appointments by lenders without mutual consent are invalid. Legal counsel can challenge the arbitrator's jurisdiction under Section 12 and Section 14 of the Arbitration Act, 1996, redirecting the dispute into compromise settlement channels."
+      answer: "The Supreme Court ruled that lenders cannot pick sole arbitrators on their own. This was decided in the Perkins Eastman and TRF Ltd cases. Your lawyer can challenge the arbitrator under Section 12 and Section 14 of the Arbitration Act, 1996. This moves the case to an OTS."
     },
     {
       question: "Who within IIFL Finance holds the authorized delegation of powers to approve an OTS proposal?",
-      answer: "Outsourced tele-callers and third-party recovery agents have zero legal authority to sanction debt discounts. Binding compromise settlements must be approved by IIFL's Zonal Stressed Assets Desk, Regional Credit Committee, or Chief Risk Officer division, documented through an authentic stamped sanction letter on corporate letterhead."
+      answer: "Recovery agents and call center staff cannot approve debt discounts. Only IIFL Zonal Credit teams and Risk Officers can approve an OTS. Always demand a formal settlement letter on official IIFL letterhead."
     },
     {
       question: "How does settling an IIFL loan affect your CIBIL score and credit bureau history?",
-      answer: "IIFL reports settled accounts to credit bureaus as 'Settled' or 'Post-Write-off Settled' with an outstanding balance of ₹0. While this causes a temporary initial score drop of 75 to 150 points, it permanently stops compounding default marks. Borrowers can rebuild their score back to 750+ within 18 to 24 months through disciplined secured credit tools."
+      answer: "IIFL will mark your loan as 'Settled' with a zero balance on your CIBIL report. Your credit score may drop by 75 to 150 points at first. But all negative marks stop. You can rebuild your score back to 750+ within 18 to 24 months using secured credit cards."
     },
     {
       question: "What is the mandatory timeline for IIFL Finance to issue the No Dues Certificate (NDC) post-settlement?",
-      answer: "Under RBI Circular RBI/2023-24/60, IIFL Finance is legally required to deliver a formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving the full settlement payment. Failure to comply makes the lender liable to pay compensation of ₹5,000 per day of delay directly to the borrower."
+      answer: "Under RBI Circular RBI/2023-24/60, IIFL must issue your NDC within 30 days of full payment. They must also update your credit report. If they delay, they must pay you ₹5,000 for each day of delay."
     }
   ];
 
@@ -521,7 +521,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <span>IIFL Resolution Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                IIFL Finance accounts past 90 days default enter NPA status under Ind AS 109. Direct legal escalation to Zonal Stressed Assets Desks unlocks 40%–60% principal waivers on personal/business credit and 50%–75% waivers on post-gold-auction residual shortfalls.
+                Loans past 90 days turn into NPA. Speak to the Zonal Stressed Assets Desk. You can get 40% to 60% debt waivers. You can also get 50% to 75% off on gold shortfall claims.
               </p>
             </div>
           </aside>
@@ -538,23 +538,23 @@ export default function IIFLFinanceLoanSettlementPage() {
               <ul className="space-y-2.5 text-sm text-slate-700">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Statutory Compromise Rights:</strong> Defaulting on an IIFL personal loan, MSME facility, or gold auction shortfall is strictly a civil dispute. Borrowers hold rights under RBI Master Directions to negotiate a binding One-Time Settlement (OTS).</span>
+                  <span><strong>Statutory Compromise Rights:</strong> Defaulting on an IIFL loan is a civil matter. Borrowers have the right to seek a legal One-Time Settlement (OTS) under RBI Master Directions.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Gold Auction Shortfall Defense:</strong> When gold liquidation fails to cover claimed balances, residual claims convert into unsecured book debts, settleable with 50% to 75% waivers under Section 176 of the Indian Contract Act.</span>
+                  <span><strong>Gold Auction Shortfall Defense:</strong> If sold gold leaves an unpaid balance, it becomes an unsecured debt. You can settle it with a 50% to 75% waiver under Section 176 of the Indian Contract Act.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Halting Compounding Penalties:</strong> Revoking e-NACH mandates under NPCI rules stops repeated debit return fees. Legal representation enforces a 100% waiver of accumulated bounce charges under RBI Fair Lending directives.</span>
+                  <span><strong>Halting Compounding Penalties:</strong> Cancel your e-NACH mandate via your bank under NPCI rules. This stops extra fees. You can seek a 100% waiver on bounce charges under RBI rules.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Defending Legal Notices:</strong> Section 25 PSSA demand notices and unilateral sole arbitration appointments in Mumbai can be contested under Supreme Court precedents and settled via conciliation or Lok Adalat decrees.</span>
+                  <span><strong>Defending Legal Notices:</strong> You can contest Section 25 PSSA notices and sole arbitrator notices in Mumbai. Resolve them through conciliation or Lok Adalat orders.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Mandatory ₹0 NDC Guarantee:</strong> Under RBI Circular RBI/2023-24/60, IIFL Finance must issue a formal No Dues Certificate and update credit bureaus within 30 days of settlement payment, backed by a statutory ₹5,000/day delay penalty.</span>
+                  <span><strong>Mandatory ₹0 NDC Guarantee:</strong> Under RBI Circular RBI/2023-24/60, IIFL must give you a No Dues Certificate within 30 days. They must pay ₹5,000 per day if they delay.</span>
                 </li>
               </ul>
             </div>
@@ -567,16 +567,16 @@ export default function IIFLFinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding IIFL Finance&apos;s Multi-Product Architecture</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                IIFL Finance Limited, operating as a systemically important non-banking financial company (NBFC-ND-SI) under RBI regulations, manages an extensive retail portfolio spanning digital personal loans, unsecured MSME business installment facilities, and secured gold loans. When a borrower faces financial hardship—such as job loss, business cash-flow contraction, or acute medical emergencies—IIFL&apos;s automated risk engines initiate high-frequency recovery protocols: repetitive e-NACH presentation sweeps, internal bounce penalties of ₹500 to ₹1,000 plus GST, and compounding penal charges.
+                IIFL Finance is an NBFC regulated by the RBI. It gives personal loans, MSME business loans, and gold loans. When you face job loss, income cuts, or medical bills, you may miss EMIs. IIFL then starts recovery steps. These include repeat NACH debit attempts, bounce fees, and extra interest.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Defaulting on an unsecured retail loan or commercial credit facility is purely a civil contractual matter under the Indian Contract Act, 1872. Police authorities have zero jurisdiction to register criminal cases for genuine financial default. Under Reserve Bank of India Master Directions, borrowers maintain the statutory right to halt collection harassment, eliminate illegal bounce penalties, and negotiate an authorized One-Time Settlement (OTS) directly with IIFL&apos;s Stressed Assets desks.
+                Missing loan EMIs is purely a civil matter under the Indian Contract Act, 1872. Police cannot file criminal cases for genuine loan defaults. Under RBI Master Directions, you have the right to stop harassment. You can also waive penalty charges and settle your debt with the IIFL team.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
                 <div className="flex items-start gap-3">
                   <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                    <strong>Statutory Principle:</strong> Under the RBI Master Direction on Compromise Settlements (2023), regulated NBFCs must maintain board-approved compromise policies. Lenders cannot treat distressed borrowers as wilful defaulters and must evaluate genuine OTS proposals based on commercial viability and net economic recovery.
+                    <strong>Statutory Principle:</strong> Under the RBI Master Direction on Compromise Settlements (2023), NBFCs must have board-approved settlement rules. Lenders must review genuine hardship cases. They cannot treat honest borrowers as wilful defaulters.
                   </div>
                 </div>
               </div>
@@ -590,7 +590,7 @@ export default function IIFLFinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">IIFL Finance Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI Income Recognition, Asset Classification and Provisioning (IRACP) norms and Ind AS 109 Expected Credit Loss (ECL) standards, IIFL Finance tracks loan delinquencies through strict Days Past Due (DPD) buckets. After 90 days of non-payment, the loan transitions into a Non-Performing Asset (NPA), obligating IIFL to allocate mandatory balance-sheet provisioning and shifting its focus from installment collection to bad-debt recovery and compromise resolution.
+                IIFL Finance tracks overdue loans using RBI IRACP norms and Ind AS 109 rules. When a loan is unpaid for 90 days, it turns into an NPA. IIFL must then set aside funds for bad debt. The lender then shifts focus from routine EMI calls to one-time debt settlements.
               </p>
 
               {/* Comprehensive Stage Table */}
@@ -598,55 +598,55 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Delinquency Stage</th>
+                      <th>Loan Stage</th>
                       <th>Overdue Days (DPD)</th>
-                      <th>IIFL Finance Recovery Actions</th>
-                      <th>Legal &amp; Judicial Exposure</th>
-                      <th>Settlement Haircut Potential</th>
+                      <th>IIFL Action</th>
+                      <th>Legal Steps</th>
+                      <th>Settlement Waiver</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-0 (Early Delinquency)</td>
+                      <td className="font-bold text-slate-900">SMA-0 (Early Default)</td>
                       <td>1 – 30 Days</td>
-                      <td>Automated IVR calls, daily reminder SMS, repeated NACH mandate sweeps.</td>
-                      <td>Zero litigation exposure; initial bureau DPD reporting begins.</td>
-                      <td>Negligible (NBFC insists on full installment payment).</td>
+                      <td>Automated reminder calls, text alerts, and repeat NACH debits.</td>
+                      <td>No court action. Credit score tracking starts.</td>
+                      <td>Low. IIFL asks for full EMI payment.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-1 (Mid Delinquency)</td>
+                      <td className="font-bold text-slate-900">SMA-1 (Mid Default)</td>
                       <td>31 – 60 Days</td>
-                      <td>Intensive tele-calling, outsourced agency assignment, recall notices.</td>
-                      <td>Statutory warning notices issued; CIBIL score declines.</td>
-                      <td>Low (Tenure restructuring or EMI deferral considered).</td>
+                      <td>Frequent recovery calls and loan recall warning letters.</td>
+                      <td>Legal warning notices sent. CIBIL score falls.</td>
+                      <td>Low. Loan tenure change or EMI pause may be offered.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-2 (Pre-NPA Escalation)</td>
+                      <td className="font-bold text-slate-900">SMA-2 (Pre-NPA Stage)</td>
                       <td>61 – 90 Days</td>
-                      <td>Field visits by recovery personnel, formal loan recall demand letters.</td>
-                      <td>Section 25 PSSA / Section 138 NI Act statutory legal demand notices.</td>
-                      <td>Moderate (Discussions for penal fee waivers commence).</td>
+                      <td>Home visits by agents and loan recall notices.</td>
+                      <td>Notices under Section 25 PSSA or Section 138 NI Act issued.</td>
+                      <td>Fair. Lenders may agree to drop penalty fees.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-amber-700">NPA (Substandard Asset)</td>
                       <td>91 – 180 Days</td>
-                      <td>Transferred to Zonal Stressed Assets Desk; mandatory Ind AS 109 provisioning.</td>
-                      <td>Magistrate Court summons under Sec 25 PSSA; conciliation summons.</td>
-                      <td><span className="text-emerald-700 font-bold">High (35%–50% Haircut achievable).</span></td>
+                      <td>Case moves to the Zonal Stressed Assets Desk under Ind AS 109.</td>
+                      <td>Magistrate Court summons under Sec 25 PSSA or conciliation letter.</td>
+                      <td><span className="text-emerald-700 font-bold">High. 35% to 50% waiver possible.</span></td>
                     </tr>
                     <tr>
                       <td className="font-bold text-red-700">Doubtful / Loss Asset</td>
                       <td>181 – 365+ Days</td>
-                      <td>High balance-sheet provisioning absorbed; internal write-off evaluation.</td>
-                      <td>Arbitration claims, civil summary suits (Order 37 CPC), Lok Adalat referrals.</td>
-                      <td><span className="text-emerald-700 font-bold">Maximum (50%–60% Haircut achievable).</span></td>
+                      <td>Full funds set aside. Loan ready for bad debt write-off.</td>
+                      <td>Arbitration notices, Order 37 CPC suits, or Lok Adalat summons.</td>
+                      <td><span className="text-emerald-700 font-bold">Best. 50% to 60% waiver possible.</span></td>
                     </tr>
                   </tbody>
                 </table>
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Once an account reaches Doubtful Asset status (180+ DPD) or undergoes technical write-off, an upfront compromise settlement delivers an immediate net cash write-back to IIFL&apos;s operating profit, providing Credit Committees with the economic justification to approve substantial principal debt waivers.
+                When a loan is 180+ DPD, IIFL writes off the debt. An OTS payment gives them quick cash. This helps credit teams grant large loan waivers.
               </p>
             </section>
 
@@ -658,10 +658,10 @@ export default function IIFLFinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Stop IIFL Finance Bounce Charges</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Delinquent borrowers frequently face compounding electronic auto-debit bounce fees when IIFL&apos;s treasury presents e-NACH mandates multiple times per month. Each failure results in bank return fees alongside IIFL internal bounce charges and penal interest. Under the RBI&apos;s Fair Lending Practice directives on penal charges (2023), lenders are prohibited from capitalizing penal fees or compounding default interest.
+                Borrowers face heavy bank fees when IIFL presents NACH debits again and again. Each bounce causes bank charges and penalty fees. Under RBI Fair Lending Practice rules (2023), lenders cannot add extra charges to your principal debt.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers can stop this drain by instructing their destination bank to cancel the e-NACH mandate under NPCI procedural guidelines. During subsequent One-Time Settlement negotiations, legal counsel enforces a 100% waiver of all accumulated bounce penalties and penal interest, basing the settlement haircut exclusively on the core principal balance.
+                You can stop these fees easily. Ask your bank to stop the e-NACH mandate under NPCI rules. During OTS talks, ask for a 100% waiver of all bounce fees. This ensures your discount applies straight to your main loan balance.
               </p>
             </section>
 
@@ -673,13 +673,13 @@ export default function IIFLFinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Resolving IIFL Gold Loan Auction Shortfall Notices</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When a borrower defaults on a gold loan, IIFL liquidates the pledged gold through auction. However, when proceeds fail to cover claimed ledger balances—often inflated by high interest and auction costs—IIFL issues legal demand notices claiming an <strong>unsecured residual shortfall balance</strong>.
+                If you miss gold loan EMIs, IIFL sells the pledged gold in an auction. If the sale does not clear the full debt, IIFL sends demand letters. They claim this unpaid gap as an <strong>unsecured shortfall</strong>.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers hold robust statutory protections under Section 176 of the Indian Contract Act, 1872. A pawnee must provide reasonable prior auction notice, maintain transparent weight verification, and set reserve prices aligned with prevailing market rates. If IIFL conducted a distressed auction below market value or applied unauthorized charges, the claim can be legally contested.
+                You have legal rights under Section 176 of the Indian Contract Act, 1872. The lender must give you clear notice before any auction. They must check gold purity and set fair market prices. If IIFL sold your gold too cheap, you can legally challenge the gap claim.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Because the underlying collateral is gone, the residual claim represents an unsecured, high-risk recovery. IIFL&apos;s Stressed Assets Committees routinely approve compromise settlements on post-auction shortfalls, sanctioning <strong>50% to 75% debt waivers</strong> with an authentic ₹0 No Dues Certificate.
+                Since no gold remains, this shortfall is an unsecured debt. IIFL teams often settle these claims through an OTS. They approve <strong>50% to 75% debt waivers</strong> with an official ₹0 No Dues Certificate.
               </p>
             </section>
 
@@ -691,7 +691,7 @@ export default function IIFLFinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">IIFL Finance One-Time Settlement (OTS)</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under the RBI Master Direction on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), IIFL evaluates OTS proposals using a Net Present Value (NPV) recovery methodology, comparing an immediate lump-sum settlement against the uncertain, discounted future recovery of prolonged litigation.
+                Under RBI Master Directions on Compromise Settlements (2023), IIFL tests OTS offers using Net Present Value (NPV). They compare fast cash today against slow, costly court cases.
               </p>
 
               {/* Formula Container Box */}
@@ -704,7 +704,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoveries, r is the discount rate, and deductions account for court friction and capital locked in NPA provisions.
+                  Here C_t is the expected recovery money, r is the discount rate, and deductions cover court fees and locked NPA funds.
                 </p>
               </div>
 
@@ -714,48 +714,48 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Loan Facility Category</th>
-                      <th>Delinquency Aging</th>
-                      <th>Penal &amp; Bounce Waiver</th>
-                      <th>Principal Haircut Range</th>
-                      <th>Target Settlement Offer</th>
+                      <th>Loan Type</th>
+                      <th>Overdue Time</th>
+                      <th>Fee Waiver</th>
+                      <th>Principal Discount</th>
+                      <th>Best Target Offer</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">IIFL Unsecured Personal Loan</td>
+                      <td className="font-bold text-slate-900">IIFL Personal Loan</td>
                       <td>90 – 180 Days (NPA)</td>
                       <td>100% Full Waiver</td>
-                      <td>30% – 45% Principal Waiver</td>
-                      <td>Offer 40%–50% of Book Dues</td>
+                      <td>30% – 45% Waiver</td>
+                      <td>Offer 40%–50% of Total Dues</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">IIFL Unsecured Personal Loan</td>
+                      <td className="font-bold text-slate-900">IIFL Personal Loan</td>
                       <td>181 – 365+ Days (Doubtful)</td>
                       <td>100% Full Waiver</td>
-                      <td>45% – 60% Principal Waiver</td>
-                      <td>Offer 35%–40% of Book Dues</td>
+                      <td>45% – 60% Waiver</td>
+                      <td>Offer 35%–40% of Total Dues</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">IIFL MSME Business Loan</td>
                       <td>90 – 180 Days (NPA)</td>
                       <td>100% Full Waiver</td>
-                      <td>30% – 45% Principal Waiver</td>
-                      <td>Offer 45%–55% of Core Dues</td>
+                      <td>30% – 45% Waiver</td>
+                      <td>Offer 45%–55% of Total Dues</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">IIFL MSME Business Loan</td>
                       <td>180+ Days (Written Off)</td>
-                      <td>100% All Penal Charges</td>
-                      <td>50% – 65% Principal Waiver</td>
+                      <td>100% All Penalty Charges</td>
+                      <td>50% – 65% Waiver</td>
                       <td>Offer 30%–35% of Total Dues</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">IIFL Gold Auction Shortfall</td>
-                      <td>Post-Auction Residual Dues</td>
-                      <td>100% Penalty &amp; Interest Waiver</td>
-                      <td>50% – 75% Deficit Waiver</td>
-                      <td>Offer 25%–35% of Claimed Balance</td>
+                      <td>Post-Auction Leftover Dues</td>
+                      <td>100% Penalty Waiver</td>
+                      <td>50% – 75% Waiver</td>
+                      <td>Offer 25%–35% of Balance</td>
                     </tr>
                   </tbody>
                 </table>
@@ -806,7 +806,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <div className="bg-slate-100 border-t border-slate-200 py-3 px-5 flex flex-wrap items-center justify-between gap-3 text-xs text-slate-600">
                   <div className="flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    <span><strong>Key Strategy:</strong> Stop NACH presentations, challenge gold auction residual shortfalls under Section 176, and negotiate directly with IIFL Stressed Assets Desks for 40%–60% debt waivers.</span>
+                    <span><strong>Key Strategy:</strong> Stop NACH presentations. Challenge gold auction residual shortfalls under Section 176. Negotiate directly with IIFL Stressed Assets Desks for 40%–60% debt waivers.</span>
                   </div>
                   <Link href="/contact" className="text-[#1F5EFF] font-bold hover:underline">
                     Get Free Case Evaluation &rarr;
@@ -823,10 +823,10 @@ export default function IIFLFinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Aggressive IIFL Recovery Tactics Under RBI</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                IIFL Finance engages third-party Debt Recovery Agencies (DRAs) whose representatives often operate under aggressive targets. Under RBI Master Directions on Recovery Agents and NBFC Fair Practices Codes, statutory boundaries are clear: agents may only contact borrowers between 08:00 AM and 07:00 PM; contacting relatives, employers, or colleagues is illegal; and intimidation or workplace visits are strictly prohibited.
+                IIFL Finance hires third-party recovery agencies. These agents often push hard to meet monthly targets. But RBI Master Directions and Fair Practice Codes set clear rules. Agents can only call between 8:00 AM and 7:00 PM. They cannot call your family, boss, or friends. Workplace visits and threats are illegal.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers should document violations, record phone calls, and issue a legal cease-and-desist notice to IIFL&apos;s Principal Nodal Officer while escalating complaints to the RBI Integrated Ombudsman (CMS) portal, compelling IIFL to handle the dispute through lawful settlement channels.
+                Always save call recordings and abusive messages. Send a formal legal notice to the IIFL Principal Nodal Officer. You can also file a complaint on the RBI Integrated Ombudsman portal (CMS). This forces IIFL to resolve your loan through legal settlement talks.
               </p>
             </section>
 
@@ -838,7 +838,7 @@ export default function IIFLFinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step IIFL Finance Settlement Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Securing a legally binding One-Time Settlement with IIFL Finance follows a 6-phase legal roadmap:
+                Follow these 6 simple steps to settle your IIFL loan:
               </p>
 
               <div className="space-y-4">
@@ -848,7 +848,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                     Hardship Dossier Compilation &amp; Ledger Audit
                   </h3>
                   <p className="text-slate-600 text-sm leading-relaxed">
-                    Assemble documentary proof of genuine financial incapacity (salary cuts, business loss statements, hospitalization records) to establish non-wilful default under RBI rules.
+                    Collect proof of your financial crisis. Gather salary cut letters, medical bills, or business loss statements. This proves non-wilful default under RBI rules.
                   </p>
                 </div>
 
@@ -858,7 +858,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                     Revoking NACH Mandates &amp; Formalizing Communication
                   </h3>
                   <p className="text-slate-600 text-sm leading-relaxed">
-                    Cancel the e-NACH auto-debit mandate via your bank to stop bounce charges and direct all communication to written email channels or legal counsel.
+                    Cancel the e-NACH auto-debit with your bank to stop bounce charges. Shift all loan talks to written emails or your lawyer.
                   </p>
                 </div>
 
@@ -868,7 +868,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                     Submitting Hardship Proposal to Stressed Assets Desk
                   </h3>
                   <p className="text-slate-600 text-sm leading-relaxed">
-                    Submit a formal OTS petition to IIFL&apos;s Zonal Stressed Assets Desk citing RBI Master Directions, anchoring the opening offer at 25% to 35% of core dues.
+                    Send a formal OTS letter to the IIFL Zonal Stressed Assets Desk. Cite RBI Master Directions and start with an offer of 25% to 35% of dues.
                   </p>
                 </div>
 
@@ -878,7 +878,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                     Managing Counter-Offers &amp; Credit Committee Approval
                   </h3>
                   <p className="text-slate-600 text-sm leading-relaxed">
-                    Structure counter-negotiations demonstrating limited third-party funding to steer the Credit Committee toward the target 40% to 60% principal waiver range.
+                    Handle counter-offers by showing limited family funds. Guide the Credit Committee to agree to a 40% to 60% principal waiver.
                   </p>
                 </div>
 
@@ -888,7 +888,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                     Forensic Audit of the Official Sanction Letter
                   </h3>
                   <p className="text-slate-600 text-sm leading-relaxed">
-                    Verify that the OTS Sanction Letter is on official IIFL letterhead with full account details, sanctioned amount, payment deadlines, and legal withdrawal clauses.
+                    Check the settlement letter carefully. It must be on official IIFL letterhead with full loan details, agreed amount, and legal closure terms.
                   </p>
                 </div>
 
@@ -898,7 +898,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                     Account Remittance &amp; ₹0 NDC Enforcement
                   </h3>
                   <p className="text-slate-600 text-sm leading-relaxed">
-                    Remit the agreed payment directly into the IIFL loan account and enforce delivery of the formal ₹0 No Dues Certificate within the statutory 30-day window under RBI rules.
+                    Pay the agreed amount directly to your IIFL loan account. Collect your official ₹0 No Dues Certificate within 30 days under RBI rules.
                   </p>
                 </div>
               </div>
@@ -912,51 +912,51 @@ export default function IIFLFinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating IIFL Sec 25 PSSA, Arbitration &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Past 60 to 90 days default, IIFL frequently issues statutory notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for bounced mandates and private arbitration notices in Mumbai. Section 25 notices are compoundable matters that should be responded to through counsel detailing bona fide financial hardship.
+                After 60 to 90 days of default, IIFL may send legal notices under Section 25 of the Payment and Settlement Systems Act (PSSA). They may also send arbitration notices in Mumbai. Section 25 cases are compoundable matters. Your lawyer can reply by explaining your real financial hardship.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Regarding arbitration, Supreme Court rulings (<em>Perkins Eastman</em> and <em>TRF Ltd.</em>) establish that unilateral arbitrator appointments without mutual consent are legally invalid. Legal counsel can challenge the arbitrator&apos;s jurisdiction under Section 12 and Section 14 of the Arbitration Act, redirecting proceedings to compromise settlement. Furthermore, settling matters in National Lok Adalats grants an award with the legal force of a non-appealable Civil Court Decree.
+                The Supreme Court in <em>Perkins Eastman</em> and <em>TRF Ltd</em> ruled that lenders cannot name sole arbitrators on their own. Your counsel can challenge the arbitrator under Section 12 and Section 14 of the Arbitration Act. This redirects your case to an OTS. Settling your matter in National Lok Adalat gives you a final Civil Court Decree with zero appeal risk.
               </p>
 
               <div className="overflow-x-auto my-6">
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Resolution Avenue</th>
-                      <th>Legal Mechanism</th>
-                      <th>Haircut Potential</th>
-                      <th>Typical Timeline</th>
-                      <th>Judicial Finality</th>
+                      <th>Option</th>
+                      <th>Legal Path</th>
+                      <th>Waiver Range</th>
+                      <th>Time Needed</th>
+                      <th>Final Legal Status</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
                       <td className="font-bold text-slate-900">Direct NBFC OTS</td>
-                      <td>Compromise agreement under RBI Master Directions.</td>
-                      <td><strong>40% – 60% Debt Haircut</strong></td>
+                      <td>Settlement pact under RBI Master Directions.</td>
+                      <td><strong>40% – 60% Waiver</strong></td>
                       <td>15 to 30 Days</td>
-                      <td>Binding private contract with ₹0 NDC.</td>
+                      <td>Private contract with ₹0 NDC.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">National Lok Adalat</td>
-                      <td>Judicial conciliation before sitting judge and panel.</td>
-                      <td><strong>45% – 60% Debt Haircut</strong></td>
-                      <td>Single-day session</td>
-                      <td><strong>Civil Court Decree</strong> (Zero appeal).</td>
+                      <td>Court hearing before a judge and panel.</td>
+                      <td><strong>45% – 60% Waiver</strong></td>
+                      <td>1-day session</td>
+                      <td><strong>Civil Court Decree</strong> (No appeal).</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">Arbitration Defense</td>
-                      <td>Contesting unilateral arbitration in distant venues.</td>
+                      <td>Contesting private hearings in far-off cities.</td>
                       <td>Variable (Converts to OTS)</td>
                       <td>3 to 9 Months</td>
                       <td>Subject to Section 34 challenge.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">Section 25 / 138 Defense</td>
-                      <td>Magistrate court compoundable proceedings defense.</td>
-                      <td><strong>35% – 50% Debt Haircut</strong></td>
+                      <td>Legal defense in cheque and NACH bounce cases.</td>
+                      <td><strong>35% – 50% Waiver</strong></td>
                       <td>2 to 6 Months</td>
-                      <td>Formal withdrawal and case disposal.</td>
+                      <td>Case closed and dropped.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -971,10 +971,10 @@ export default function IIFLFinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating IIFL Finance OTS Sanction Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers must verify that their settlement letter is issued directly on official IIFL Finance Limited letterhead bearing the Corporate Identification Number (CIN: L67100MH1995PLC093797), registered office details, unique settlement reference number, authorized signatory name, and official seal. Never remit funds against verbal assurances or unverified third-party receipts.
+                Always check your settlement letter carefully. It must come on official IIFL Finance Limited letterhead. It should show the Corporate Identification Number (CIN: L67100MH1995PLC093797), registered office address, unique reference number, and official seal. Never pay money on verbal promises or unverified links.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI Circular RBI/2023-24/60, IIFL Finance must issue the formal No Dues Certificate (NDC) and cancel all security mandates within 30 calendar days of settlement payment. Failure to issue the closure documentation makes the lender statutorily liable to pay compensation of ₹5,000 per day of delay directly to the borrower.
+                Under RBI Circular RBI/2023-24/60, IIFL Finance must issue your No Dues Certificate (NDC) within 30 days of full payment. They must also remove all security liens. If the lender delays, they must pay you ₹5,000 per day of delay.
               </p>
             </section>
 
@@ -986,10 +986,10 @@ export default function IIFLFinanceLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">IIFL Post-Settlement CIBIL Score Trajectory</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Post-settlement, IIFL reports the account across credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) as <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While an initial credit score drop of 75 to 150 points occurs alongside a 12-month cooling period, it permanently terminates compounding default marks and legal exposure.
+                After settlement, IIFL marks your loan across credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. Your score may drop by 75 to 150 points initially. But all default interest and daily penalties stop permanently.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers can rebuild their credit profile back to 750+ within 18 to 24 months by utilizing fixed-deposit-backed credit cards (FD cards), keeping credit utilization strictly below 25%, and maintaining 100% on-time payment records on all living utilities and surviving accounts.
+                You can rebuild your credit score back to 750+ within 18 to 24 months. Use a fixed-deposit secured credit card (FD card). Keep your credit usage below 25%. Pay all utility bills and active EMIs on time every month.
               </p>
             </section>
 
@@ -1003,7 +1003,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 Why Distressed IIFL Finance Borrowers Trust SettleLoans
               </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                SettleLoans halts third-party recovery harassment through immediate cease-and-desist notices, audits gold loan auction shortfalls under Section 176, defends against Section 25 PSSA summons, challenges unilateral arbitration notices, and negotiates directly with IIFL&apos;s Zonal Stressed Assets Desks to secure maximum lawful debt waivers and authentic ₹0 No Dues Certificates.
+                SettleLoans stops recovery agent harassment with legal cease-and-desist notices. We audit gold loan auction shortfalls under Section 176. We defend Section 25 PSSA court notices and contest sole arbitration claims. Our team works directly with IIFL Zonal Stressed Assets teams to secure maximum debt waivers and genuine ₹0 No Dues Certificates.
               </p>
 
               {/* Placement of Reusable CompanySection */}
@@ -1203,7 +1203,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has led over 1,200+ successful debt compromise negotiations across IIFL Finance, Aditya Birla Capital, Bajaj Finance, HDFC Bank, and ICICI Bank. He specializes in corporate NBFC dispute resolution, Section 25 PSSA defense, gold auction shortfall audits, and borrower advocacy under RBI Master Directions.
+                Ashish has led over 1,200+ loan settlements across IIFL Finance, Bajaj Finance, and top banks. He focuses on NBFC disputes, Section 25 PSSA defense, gold auction audits, and RBI borrower rights.
               </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
@@ -1233,7 +1233,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 Facing IIFL Loan Default or Auction Shortfall?
               </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
-                Stop aggressive recovery tele-calling, recurring NACH return fees, and gold auction shortfall demands immediately. Let our experienced banking advocates audit your delinquency stage, defend statutory legal notices, draft your formal OTS petition, and secure an authentic stamped IIFL Finance settlement letter.
+                Stop recovery agent calls and repeat NACH bounce charges today. Our legal team audits your loan, answers court notices, and secures a stamped IIFL settlement letter with big debt waivers.
               </p>
               <Link
                 href="/contact"
@@ -1253,31 +1253,31 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Direct NBFC Representation:</strong> We bypass third-party collection agencies to represent your case directly before IIFL Finance Zonal Stressed Assets Desks.
+                    <strong>Direct NBFC Representation:</strong> We skip third-party recovery agents and talk directly with IIFL Zonal Stressed Assets teams.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Gold Auction Shortfall Defense:</strong> Forensic audits under Section 176 of the Indian Contract Act to challenge unlawful residual claims and auction markups.
+                    <strong>Gold Auction Shortfall Defense:</strong> We review auction files under Section 176 of the Indian Contract Act to challenge unfair shortfall claims.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Anti-Harassment Protection:</strong> Prompt issuance of formal legal cease-and-desist notices to stop unauthorized workplace visits and third-party calling under RBI rules.
+                    <strong>Anti-Harassment Protection:</strong> We issue prompt legal notices to stop workplace visits and third-party calling under RBI rules.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>100% Stamped Verification:</strong> Every settlement is strictly verified on official corporate letterhead before any payment is authorized.
+                    <strong>100% Stamped Verification:</strong> Every settlement letter is verified on official corporate letterhead before you pay any money.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Guaranteed ₹0 NDC Delivery:</strong> End-to-end legal tracking until your formal No Dues Certificate is issued and credit bureaus are updated.
+                    <strong>Guaranteed ₹0 NDC Delivery:</strong> We track your case until IIFL delivers your No Dues Certificate and clears your credit record.
                   </span>
                 </li>
               </ul>

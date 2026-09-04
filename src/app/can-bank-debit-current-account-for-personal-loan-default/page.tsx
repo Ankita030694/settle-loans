@@ -188,7 +188,7 @@ const jsonLdGraph = {
             "name": "Manish Aggarwal"
           },
           "datePublished": "2026-07-14",
-          "reviewBody": "Our Private Limited manufacturing firm had its primary operational current account frozen by HDFC Bank because I defaulted on an unsecured personal loan taken in my individual capacity. SettleLoans served an urgent legal notice establishing the Salomon principle and separate corporate personality. The bank lifted the hold within 36 hours and we subsequently settled the personal loan at a 55% discount.",
+          "reviewBody": "HDFC Bank froze our company current account for my personal loan default. SettleLoans sent a legal notice using the Salomon corporate separation rule. The bank removed the hold in 36 hours. We then settled the personal loan at a 55% waiver.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -203,7 +203,7 @@ const jsonLdGraph = {
             "name": "Vikramaditya Rao"
           },
           "datePublished": "2026-08-03",
-          "reviewBody": "ICICI Bank unilaterally swept ₹4.2 Lakhs from our Partnership firm current account to offset a personal credit card default of one partner. SettleLoans advocates challenged the total absence of mutuality under Section 171 Contract Act before the Principal Nodal Officer and RBI Ombudsman. The bank reversed the unauthorized debit and approved a fair OTS on the credit card.",
+          "reviewBody": "ICICI Bank debited ₹4.2 Lakhs from our partnership account for a partner's card dues. SettleLoans argued lack of mutuality under Section 171 Contract Act before the RBI Ombudsman. The bank refunded the money and approved an OTS.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -218,7 +218,7 @@ const jsonLdGraph = {
             "name": "Sunita Kulkarni"
           },
           "datePublished": "2026-06-22",
-          "reviewBody": "As a sole proprietor running a retail boutique, Axis Bank blocked my business current account over personal loan dues, paralyzing my GST filings and vendor payments. SettleLoans stepped in, demonstrated the violation of RBI Fair Practices Code and High Court rulings on operational funds, and secured immediate unfreezing while structuring a manageable compromise closure.",
+          "reviewBody": "Axis Bank blocked my proprietorship current account over personal loan dues. This stopped my vendor payments and GST filings. SettleLoans proved violations of the RBI Fair Practices Code. The bank unblocked my account quickly.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -233,7 +233,7 @@ const jsonLdGraph = {
             "name": "Harpreet Singh Bhasin"
           },
           "datePublished": "2026-08-19",
-          "reviewBody": "Kotak Mahindra Bank placed a debit hold on my LLP current account for a personal loan default. SettleLoans drafted a statutory demand highlighting the Limited Liability Partnership Act provisions. The zonal legal team unblocked our funds immediately, allowing us to negotiate a formal 50% principal settlement.",
+          "reviewBody": "Kotak Mahindra Bank put a debit hold on our LLP account for a personal debt. SettleLoans drafted a legal demand under the LLP Act. The bank lifted the hold immediately. We then closed the loan with a 50% discount.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -252,7 +252,7 @@ const jsonLdGraph = {
           "name": "Can a bank legally debit or freeze a Private Limited Company current account for a director's personal loan default?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Under the Companies Act, 2013 and foundational corporate jurisprudence established in Salomon v. Salomon & Co Ltd and upheld by the Supreme Court of India, a Private Limited Company is an independent juristic person distinct from its directors and shareholders. A bank has zero legal authority to freeze, place a lien on, or debit corporate funds for an individual director's personal loan default. Doing so constitutes an illegal conversion of funds and actionable deficiency of service."
+            "text": "No. Under the Companies Act 2013 and the Salomon rule, a company is a separate legal person. A bank cannot freeze or debit corporate accounts for a director's personal loan. Doing so is unlawful and violates banking service rules."
           }
         },
         {
@@ -260,7 +260,7 @@ const jsonLdGraph = {
           "name": "Can a bank freeze a Partnership firm current account if one partner defaults on an individual personal loan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Under the Indian Partnership Act, 1932 and the established banking Doctrine of Mutuality, a bank cannot exercise the Right of Set-Off against a partnership account for the individual debts of a single partner. Partnership property belongs to all partners jointly for partnership purposes; therefore, funds held in the firm's current account cannot be appropriated to satisfy a non-mutual, individual liability."
+            "text": "No. Under the Indian Partnership Act 1932, partnership funds belong to all partners jointly. Under the Doctrine of Mutuality, a bank cannot use firm funds to clear an individual partner's personal loan."
           }
         },
         {
@@ -268,7 +268,7 @@ const jsonLdGraph = {
           "name": "What happens if the business is a Sole Proprietorship? Can the bank freeze the current account?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "In strict legal theory, a sole proprietorship is not a separate legal entity from the individual proprietor. However, commercial banks cannot arbitrarily place a sudden, blanket debit freeze or sweep 100% of operational funds without prior statutory notice. Multiple High Courts have ruled that banks cannot paralyze running business operations, statutory tax remittances (GST, TDS), or employee payroll without due process and reasonable opportunity to respond."
+            "text": "A sole proprietorship shares the owner's legal identity. However, banks cannot place sudden total debit freezes without prior written notice. High Courts rule that banks must not halt active business operations, GST taxes, or employee salaries without due process."
           }
         },
         {
@@ -276,7 +276,7 @@ const jsonLdGraph = {
           "name": "What is the Doctrine of Mutuality under Indian banking law?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Doctrine of Mutuality dictates that a banker's Right of Set-Off can only be exercised when the credit balance and the overdue debt exist between the exact same parties and in the exact same legal capacity. For example, a debt owed by 'Mr. A' in his individual capacity cannot be set off against an account held by 'A & B Associates' (Partnership) or 'ABC Private Limited', because mutuality of legal personality is absent."
+            "text": "The Doctrine of Mutuality requires that debts and credit balances exist between the same parties in the same legal role. A personal loan of an individual cannot be set off against a company or partnership account."
           }
         },
         {
@@ -284,7 +284,7 @@ const jsonLdGraph = {
           "name": "Can a bank freeze a current account maintained at an entirely different banking institution?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. A lending bank or NBFC has no administrative power or legal mechanism to freeze an account held at another banking institution. A third-party bank account can only be attached through a formal judicial decree under Order 21 of the Code of Civil Procedure (CPC), an attachment warrant from the Debt Recovery Tribunal (DRT), or a lawful order from a competent magistrate or tax authority."
+            "text": "No. A lending bank cannot freeze an account held at another bank on its own. It requires a formal court decree under Order 21 CPC, a DRT order, or a legal tax authority order."
           }
         },
         {
@@ -292,7 +292,7 @@ const jsonLdGraph = {
           "name": "What should a business owner do immediately if their current account is frozen?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Immediately: (1) Divert incoming client payments, point-of-sale machines, and UPI QR codes to an alternate bank account; (2) Submit a formal written objection to the Branch Manager challenging the lack of notice and lack of mutuality; (3) Retain debt defense advocates to serve a statutory legal notice on the bank's Principal Nodal Officer; and (4) File an expedited complaint on the RBI Integrated Ombudsman portal (cms.rbi.org.in)."
+            "text": "Take these quick steps: First, divert incoming client payments and POS machines to an alternate bank account. Second, submit a written objection to the Branch Manager. Third, send a legal notice to the Principal Nodal Officer through legal counsel. Fourth, file an online complaint on the RBI CMS portal."
           }
         },
         {
@@ -300,7 +300,7 @@ const jsonLdGraph = {
           "name": "What liabilities does a bank face for wrongfully dishonoring business cheques after an illegal freeze?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under Section 31 of the Negotiable Instruments Act, 1881, a banker is legally bound to honor cheques drawn by a customer when sufficient funds are available. If the bank wrongfully dishonors cheques due to an unauthorized internal hold, it is liable to compensate the drawer for injury to commercial reputation and consequential financial losses under civil law and Consumer Protection forums."
+            "text": "Under Section 31 of the Negotiable Instruments Act 1881, a bank must clear cheques if funds exist. If an unlawful freeze causes cheques to bounce, the bank is liable for commercial damages and business losses."
           }
         },
         {
@@ -308,7 +308,7 @@ const jsonLdGraph = {
           "name": "Can an unlawful business current account freeze be converted into a One-Time Settlement (OTS)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. When legal advocates demonstrate the bank's regulatory non-compliance, breach of mutuality, and exposure to RBI Ombudsman sanctions, the bank's zonal resolution committee is strongly incentivized to vacate the account hold and negotiate a structured One-Time Settlement (OTS) on the personal loan, typically securing 45% to 65% principal waivers and an official No Dues Certificate."
+            "text": "Yes. When legal counsel proves regulatory violations and lack of mutuality, banks often lift the hold. They agree to a One-Time Settlement (OTS) with a 45% to 65% principal waiver and a No Dues Certificate."
           }
         },
         {
@@ -316,7 +316,7 @@ const jsonLdGraph = {
           "name": "How does an individual personal loan default impact a business company's Commercial CIBIL score?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "For Private Limited companies and LLPs, the company's Company Credit Report (CCR / Commercial CIBIL) is maintained under the company's corporate PAN and remains legally distinct from the director's individual CIBIL score. However, for Sole Proprietorships, both individual and business liabilities share the same personal PAN, meaning personal loan defaults directly impair the proprietor's credit score until resolved via an official settlement."
+            "text": "For Private Limited companies and LLPs, commercial CIBIL runs on the company PAN and stays safe. For sole proprietorships, personal and business debts share one PAN. Settling the loan marks it as Settled with ₹0 balance, protecting future credit."
           }
         },
         {
@@ -324,7 +324,7 @@ const jsonLdGraph = {
           "name": "What are the RBI rules regarding the release of No Dues Certificates after settling a loan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, all regulated commercial banks and NBFCs must issue a formal No Dues Certificate (NDC) / Loan Closure Letter and update all credit bureaus within 30 calendar days of receiving full settlement proceeds. Failure to do so attracts a mandatory statutory penalty of ₹5,000 per day payable directly to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, lenders must issue a No Dues Certificate within 30 days of full settlement. Delays require the bank to pay ₹5,000 per day in payout to the borrower."
           }
         }
       ]
@@ -480,7 +480,7 @@ export default function CanBankDebitCurrentAccountPage() {
                 <span>Executive Legal Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                Lending banks cannot unilaterally freeze or debit business current accounts of Private Limited companies, LLPs, or Partnerships for individual personal loan defaults. The Doctrine of Mutuality and separate corporate personality render such extra-judicial holds unlawful.
+                Banks cannot freeze company current accounts for a personal loan default. The Doctrine of Mutuality protects corporate and partnership funds from personal loan recovery.
               </p>
             </div>
           </aside>
@@ -497,23 +497,23 @@ export default function CanBankDebitCurrentAccountPage() {
               <ul className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Strict Corporate Separation:</strong> Under the Companies Act, 2013 and the Salomon principle, a bank cannot freeze a Private Limited company or LLP current account for a director&apos;s or partner&apos;s personal debt.</span>
+                  <span><strong>Corporate Separation.</strong> Under the Companies Act 2013 and the Salomon rule, banks cannot freeze company accounts for personal debts.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>The Doctrine of Mutuality:</strong> The Banker&apos;s Right of Set-Off legally requires complete identity between the debtor and account holder in the exact same legal capacity. Non-mutual cross-account seizures are void ab initio.</span>
+                  <span><strong>Doctrine of Mutuality.</strong> A bank can only set off funds between the same parties in the same legal role. Cross-account debit holds are void.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Partnership Asset Immunity:</strong> Funds maintained in a partnership firm current account belong to the joint partnership estate and cannot be attached or set off to satisfy individual retail liabilities of a single partner.</span>
+                  <span><strong>Partnership Asset Safety.</strong> Partnership funds belong to all partners jointly. They cannot be used to pay one partner&apos;s personal loan.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>High Court Protections on Working Capital:</strong> Even in sole proprietorships, High Courts have held that sudden, unannounced debit freezes crippling running payroll, vendor cheques, and statutory GST obligations violate fair procedure and Article 19(1)(g).</span>
+                  <span><strong>High Court Protections.</strong> Even for sole proprietors, banks cannot freeze working capital or halt GST and salary payouts without due notice.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Advocate Action &amp; 55% Compromise OTS:</strong> Serving a statutory legal notice on the bank&apos;s Principal Nodal Officer forces immediate hold removal and creates powerful leverage to settle the underlying personal loan at a 45% to 65% discount.</span>
+                  <span><strong>Advocate Relief &amp. OTS.</strong> A formal legal notice forces banks to remove holds. Borrowers can then settle debts at a 45% to 65% discount.</span>
                 </li>
               </ul>
             </div>
@@ -522,10 +522,10 @@ export default function CanBankDebitCurrentAccountPage() {
             <section id="banker-set-off-vs-lien-current-accounts" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Demystifying Banker&apos;s Right of Set-Off vs. Right of</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When an entrepreneur or working professional defaults on an unsecured personal loan or credit card, one of the most devastating retaliatory measures commercial lenders attempt is placing a sudden &quot;Total Debit Freeze&quot; or initiating an unauthorized sweep on their business current account. For business owners maintaining their company operational accounts at the same banking institution—such as HDFC Bank, ICICI Bank, Axis Bank, State Bank of India, or Kotak Mahindra Bank—this unexpected action instantly halts vendor payments, paralyzes Goods and Services Tax (GST) remittances, and triggers payroll crises.
+                When a borrower defaults on a personal loan or credit card, some lenders freeze their business current accounts. If your business account is in the same bank, such as HDFC Bank, ICICI Bank, Axis Bank, SBI, or Kotak Mahindra Bank, this action creates huge trouble. It stops vendor payouts, GST tax deposits. And staff salary payments instantly.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To evaluate the legality of this aggressive banking maneuver, one must examine the specific statutory powers commercial banks possess under Indian jurisprudence, and more importantly, the strict judicial boundaries that prevent their misuse:
+                To check if such account freezes are legal, we must understand two key banking rules under Indian law:
               </p>
               
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-4">
@@ -535,7 +535,7 @@ export default function CanBankDebitCurrentAccountPage() {
                     <span>Banker&apos;s Right of General Lien (Section 171)</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Under <strong>Section 171 of the Indian Contract Act, 1872</strong>, a banker holds a general lien over physical securities, commercial papers, bonds, and goods bailed to the bank in the ordinary course of banking business. However, authoritative Supreme Court rulings establish that money deposited in a current account or savings account does not constitute a bailment; it creates a simple debtor-creditor relationship. Consequently, Section 171 cannot be lawfully cited to freeze liquid funds in an operational current account.
+                    Under <strong>Section 171 of the Indian Contract Act 1872</strong>, a bank holds a lien on physical goods and securities in its custody. However, the Supreme Court has ruled that bank account deposits are not bailed goods. They form a simple debtor-creditor link. Therefore, Section 171 cannot be used to freeze liquid cash in a business current account.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-2">
@@ -544,13 +544,13 @@ export default function CanBankDebitCurrentAccountPage() {
                     <span>Banker&apos;s Right of Set-Off (Equitable Remedy)</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    The Right of Set-Off represents an equitable and contractual doctrine allowing a bank to combine credit and debit balances to extinguish a matured, crystalized debt. However, exercising this right is strictly subject to mandatory conditions precedent: strict mutuality of legal capacity, identity of entities, mature debt status, and mandatory prior written notice before any internal balance appropriation can occur.
+                    The Right of Set-Off lets a bank combine accounts to settle a due debt. But it has strict conditions. Both accounts must belong to the exact same person in the exact same legal role. The bank must also give prior written notice before taking any funds.
                   </p>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When branch managers or automated risk systems place an administrative hold on an operational current account without satisfying statutory conditions, the bank acts in excess of its contractual authority. Commercial lenders frequently argue that standard loan application forms contain omnibus set-off clauses allowing them to cross-appropriate any balance in any account. However, established Indian civil jurisprudence confirms that private boilerplate clauses cannot override statutory definitions of corporate personality, the Law of Partnership, or fundamental constitutional rights to conduct business under Article 19(1)(g).
+                When branch managers freeze a business account without fulfilling these legal conditions, they act outside the law. Banks often claim that loan forms have standard clauses allowing cross-account debits. However, court rulings confirm that standard contract terms cannot override legal company laws or constitutional rights to run a business under Article 19(1)(g).
               </p>
             </section>
 
@@ -558,10 +558,10 @@ export default function CanBankDebitCurrentAccountPage() {
             <section id="doctrine-of-mutuality-legal-entity-separation" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. The Doctrine of Mutuality</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The absolute cornerstone of Indian banking and contract law governing cross-account recovery is the <strong>Doctrine of Mutuality</strong>. Under this doctrine, a bank can only set off a debt when the fund owed and the fund held belong to the exact same persons in the exact same legal capacity. If there is any divergence in legal entity status, ownership structure, or fiduciary character, the right of set-off is entirely inapplicable.
+                The core principle governing cross-account recovery is the <strong>Doctrine of Mutuality</strong>. Under this rule, a bank can only set off funds when the debt and the account share the same legal identity. If the legal entity or ownership role is different, the bank cannot touch the funds.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The legal vulnerability or immunity of a business current account depends directly on the constitutional structure under which the commercial enterprise operates:
+                Whether a business current account is safe depends on how the business is set up:
               </p>
 
               <div className="space-y-4 my-4">
@@ -571,7 +571,7 @@ export default function CanBankDebitCurrentAccountPage() {
                     <span>Private Limited &amp; Public Limited Companies (Complete Legal Immunity)</span>
                   </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Under the <strong>Companies Act, 2013</strong> and the foundational corporate law precedent established in <em>Salomon v. Salomon &amp; Co. Ltd.</em>—reaffirmed across landmark Supreme Court of India rulings including <em>Tata Engineering &amp; Locomotive Co. Ltd. v. State of Bihar</em>—an incorporated company is a distinct, independent juristic person entirely separate from its promoters, directors, and shareholders. When an individual director takes an unsecured personal loan or credit card in their personal capacity, the debt is an individual personal liability. The funds in the company&apos;s current account belong to the corporate entity, its institutional shareholders, and its commercial creditors. A bank that freezes or debits a Private Limited company current account for a director&apos;s personal default commits an egregious corporate trespass, actionable conversion of funds, and statutory deficiency of service.
+                    Under the <strong>Companies Act 2013</strong> and the <em>Salomon v. Salomon &amp. Co Ltd</em> rule, a company is a separate legal person. This was upheld by the Supreme Court in <em>Tata Engineering &amp. Locomotive Co Ltd v. State of Bihar</em>. When a director defaults on a personal loan, it is an individual debt. Corporate bank funds belong to the company, shareholders. And suppliers. Freezing a company account for a director&apos;s personal debt is illegal and violates banking laws.
                   </p>
                 </div>
 
@@ -581,7 +581,7 @@ export default function CanBankDebitCurrentAccountPage() {
                     <span>Partnership Firms &amp; Limited Liability Partnerships (LLPs)</span>
                   </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Under the <strong>Indian Partnership Act, 1932</strong> and the <strong>Limited Liability Partnership Act, 2008</strong>, the property and bank accounts of a partnership belong jointly to all partners for the exclusive execution of the partnership business. Because a personal loan availed by one individual partner does not constitute a partnership borrowing, there is an absolute lack of mutuality between the individual debtor and the firm&apos;s current account. A commercial bank cannot debit a partnership current account to liquidate a partner&apos;s individual debt, nor can it freeze the account and thereby prejudice the rights of non-defaulting co-partners.
+                    Under the <strong>Indian Partnership Act 1932</strong> and the <strong>LLP Act 2008</strong>, firm funds belong to all partners together. A personal loan taken by one partner is not a firm debt. There is no mutuality between the partner&apos;s loan and the firm&apos;s account. A bank cannot debit or freeze a partnership account for one partner&apos;s personal loan.
                   </p>
                 </div>
 
@@ -591,13 +591,13 @@ export default function CanBankDebitCurrentAccountPage() {
                     <span>Sole Proprietorships: The Dual Status &amp; Working Capital Nuance</span>
                   </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    In Indian tax and mercantile law, a sole proprietorship is not recognized as a separate legal entity distinct from the individual proprietor. Consequently, banks often argue that mutuality technically exists. However, High Courts across India have established strict equitable curbs: a bank cannot execute a unilateral, unannounced debit freeze or total sweep that empties an active operational business account. Doing so imperils statutory obligations (GST, TDS, Provident Fund) and third-party liabilities, violating procedural fairness and the RBI Master Directions on Fair Practices Code for Lenders.
+                    A sole proprietorship shares the owner&apos;s legal identity. Even so, High Courts have set clear limits. Banks cannot freeze an active business account without prior warning. Freezing working capital halts GST tax payments, employee salaries. And vendor dues. This violates the RBI Fair Practices Code for Lenders.
                   </p>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The presence of multiple business structures underscores why lenders cannot treat business current accounts as generic personal savings reserves. When a bank crosses these corporate and contractual lines, it exposes itself to immediate injunctive relief and substantial financial claims before competent judicial forums.
+                Because company structures differ, banks cannot treat business accounts as personal savings reserves. When banks break these legal rules, borrowers can seek quick court orders and claim damages.
               </p>
             </section>
 
@@ -605,38 +605,38 @@ export default function CanBankDebitCurrentAccountPage() {
             <section id="high-court-rulings-operational-cash-flow" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. High Court Precedents, Article 19(1)(g)</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The constitutional and statutory jurisprudence surrounding bank account freezes has been extensively tested before various High Courts and the Supreme Court of India. The judiciary has consistently ruled that banking institutions cannot function as judge, jury, and executioner by arbitrarily paralyzing running businesses to enforce unsecured civil recovery claims.
+                Indian High Courts and the Supreme Court have ruled on bank account freezes many times. The courts hold that banks cannot act as judge and jury. Lenders cannot freeze running business accounts to force unsecured loan recovery.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Key judicial protections and constitutional principles safeguarding operational business current accounts include:
+                Key legal protections for business current accounts include:
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-3 gap-3 text-xs my-4">
                 <div className="p-3.5 bg-slate-50 rounded-xl border border-slate-200 space-y-1">
                   <span className="font-bold text-slate-900 block flex items-center gap-1.5">
                     <Gavel className="w-3.5 h-3.5 text-blue-600" />
-                    <span>Article 19(1)(g) Freedom of Trade</span>
+                    <span>Article 19(1)(g) Freedom of Trade.</span>
                   </span>
                   <p className="text-slate-600 leading-relaxed">
-                    The Constitution of India guarantees citizens the fundamental right to practice any profession or carry on any trade or business. Arbitrarily shutting down business liquidity without statutory authority constitutes an unreasonable and unlawful restriction on commercial livelihood.
+                    The Indian Constitution protects the right to carry on trade and business. Freezing company cash without legal orders hurts business survival and violates this fundamental right.
                   </p>
                 </div>
                 <div className="p-3.5 bg-slate-50 rounded-xl border border-slate-200 space-y-1">
                   <span className="font-bold text-slate-900 block flex items-center gap-1.5">
                     <Scale className="w-3.5 h-3.5 text-indigo-600" />
-                    <span>Section 31 Negotiable Instruments Act</span>
+                    <span>Section 31 Negotiable Instruments Act.</span>
                   </span>
                   <p className="text-slate-600 leading-relaxed">
-                    Under Section 31 of the NI Act, 1881, a drawee banker with sufficient funds must pay cheques drawn on it. Wrongful dishonor caused by an unauthorized internal debit freeze makes the bank strictly liable to compensate the business owner for commercial injury.
+                    Under Section 31 of the NI Act 1881, a bank must pay cheques if funds exist. Wrongful cheque bounce due to an unlawful freeze makes the bank liable to pay damages.
                   </p>
                 </div>
                 <div className="p-3.5 bg-slate-50 rounded-xl border border-slate-200 space-y-1">
                   <span className="font-bold text-slate-900 block flex items-center gap-1.5">
                     <Landmark className="w-3.5 h-3.5 text-purple-600" />
-                    <span>High Court Restraints on Working Capital</span>
+                    <span>High Court Restraints on Working Capital.</span>
                   </span>
                   <p className="text-slate-600 leading-relaxed">
-                    The Delhi, Madras, and Bombay High Courts have repeatedly held that coercive freezing of active operational accounts destroys enterprise viability, ordering banks to restrict recovery to legitimate civil court execution avenues.
+                    The Delhi, Madras, and Bombay High Courts have ruled against freezing active business accounts. Courts direct banks to use civil court recovery routes instead.
                   </p>
                 </div>
               </div>
@@ -647,12 +647,12 @@ export default function CanBankDebitCurrentAccountPage() {
                   <span>The Statutory Attachment Requirement under Order 38 &amp; Order 21 CPC</span>
                 </div>
                 <p className="leading-relaxed text-blue-800">
-                  Under the <strong>Code of Civil Procedure, 1908 (CPC)</strong>, attaching a debtor&apos;s bank balance prior to judgment (Order 38, Rule 5 CPC) or in execution of a decree (Order 21 CPC) requires a formal judicial hearing where the court evaluates prima facie evidence, intent to defraud, and statutory exemptions. By placing an unannounced internal debit freeze on a business current account, a private commercial bank attempts to bypass the entire judicial machinery of India, exercising coercive extra-judicial powers that even civil courts cannot grant without hearing the affected party.
+                  Under the <strong>Code of Civil Procedure 1908 (CPC)</strong>, attaching a bank account needs a formal court hearing under Order 38 Rule 5 or Order 21 CPC. A private bank cannot bypass the judicial system by freezing accounts on its own.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Furthermore, when a current account freeze forces outbound business cheques to bounce, third-party suppliers and vendors may initiate criminal proceedings under Section 138 of the Negotiable Instruments Act. Because the dishonor was artificially engineered by the bank&apos;s unauthorized hold rather than actual fund insufficiency, the business owner possesses a robust defense against third-party criminal liability and an actionable tort claim against the freezing lender.
+                If an account freeze causes business cheques to bounce, suppliers may file cases under Section 138 of the Negotiable Instruments Act. Because the bounce happened due to the bank&apos;s wrongful hold, business owners have a strong legal defense. They can also sue the bank for commercial damages.
               </p>
             </section>
 
@@ -660,53 +660,53 @@ export default function CanBankDebitCurrentAccountPage() {
             <section id="bank-accounting-npa-npv-recovery-formula" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; Current Account Freezes</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To comprehend why commercial lenders resort to aggressive current account freezes—and how legal counsel turns that desperation into a heavily discounted compromise settlement—one must examine the prudential accounting framework mandated by the Reserve Bank of India. When an unsecured personal loan passes 90 days of non-payment, it is classified as a <strong>Non-Performing Asset (NPA)</strong> under RBI Master Circulars.
+                Banks use current account freezes when loans turn into defaulted Assets (NPAs). Under RBI rules, an unsecured personal loan becomes an NPA after 90 days of non-payment.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                As overdue retail loans age through consecutive delinquency buckets, the lending institution must lock up substantial amounts of its core Tier-1 operating capital to create mandatory bad-debt provisions:
+                As overdue loans age, banks must set aside capital reserves to cover bad debt provisions:
               </p>
 
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full text-xs sm:text-sm">
                   <thead>
                     <tr>
-                      <th>Delinquency Classification</th>
-                      <th>Aging Timeline</th>
-                      <th>Mandatory RBI Capital Provision</th>
-                      <th>Settlement / Haircut Scope</th>
+                      <th>default status.</th>
+                      <th>Aging Timeline.</th>
+                      <th>Mandatory RBI Capital Provision.</th>
+                      <th>Settlement / Haircut Scope.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-semibold text-slate-900">SMA-1 / SMA-2</td>
-                      <td>31 – 90 Days Overdue</td>
-                      <td>5% General Capital Provision</td>
-                      <td>Penal Interest &amp; Overdue Fee Waivers</td>
+                      <td className="font-semibold text-slate-900">SMA-1 / SMA-2.</td>
+                      <td>31 – 90 Days Overdue.</td>
+                      <td>5% General Capital Provision.</td>
+                      <td>Penal Interest &amp. Overdue Fee Waivers.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Substandard NPA</td>
-                      <td>91 – 365 Days Overdue</td>
-                      <td>25% Unsecured Capital Provision</td>
-                      <td>35% – 45% Principal Haircut</td>
+                      <td className="font-semibold text-slate-900">Substandard NPA.</td>
+                      <td>91 – 365 Days Overdue.</td>
+                      <td>25% Unsecured Capital Provision.</td>
+                      <td>35% – 45% Principal Haircut.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Doubtful NPA 1 (D1)</td>
-                      <td>12 – 24 Months Default</td>
-                      <td>100% Full Capital Provisioning</td>
-                      <td>45% – 55% Principal Haircut</td>
+                      <td className="font-semibold text-slate-900">Doubtful NPA 1 (D1).</td>
+                      <td>12 – 24 Months Default.</td>
+                      <td>100% Full Capital reserves.</td>
+                      <td>45% – 55% Principal Haircut.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Doubtful NPA 2 / Loss Asset</td>
-                      <td>24+ Months / Written-Off</td>
-                      <td>100% Full Balance Sheet Write-Off</td>
-                      <td>55% – 65% Principal Haircut</td>
+                      <td className="font-semibold text-slate-900">Doubtful NPA 2 / Loss Asset.</td>
+                      <td>24+ Months / Written-Off.</td>
+                      <td>100% Full Balance Sheet Write-Off.</td>
+                      <td>55% – 65% Principal Haircut.</td>
                     </tr>
                   </tbody>
                 </table>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When an unsecured loan enters Doubtful status, the bank has already recognized a 100% provisioning loss on its balance sheet. Coercive measures—such as freezing unrelated business accounts—are often panicked efforts by branch collection teams to extract cash before the account is transferred to the Stressed Asset Resolution Group. When challenged by legal advocates exposing the illegality of the freeze, the bank&apos;s credit committee calculates the <strong>Net Present Value (NPV) of Recovery</strong> to determine whether to litigate or settle:
+                When a loan reaches Doubtful status, the bank writes off 100% of the capital. Freezing unrelated accounts is a fast attempt by branch teams to recover funds. When legal counsel challenges the freeze, bank committees evaluate the <strong>Net Present Value (NPV) of Recovery</strong> to choose between court fights and settlements:
               </p>
 
               {/* JSX Formula Box */}
@@ -719,12 +719,12 @@ export default function CanBankDebitCurrentAccountPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoverable cash flows over time, r is the discount rate, and deductions account for 3–5 years of court friction, advocate retainers, regulatory risk from Ombudsman complaints, and capital locked in NPA provisions.
+                  C_t shows expected recovery cash flow. r is the discount rate. Deductions cover court costs, lawyer fees. And regulatory fines.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Because defending an illegal current account freeze before the Banking Ombudsman and High Court exposes the bank to substantial regulatory reprimands and damages, lenders recognize that securing immediate 35% to 55% cash recovery via a structured One-Time Settlement delivers mathematically superior balance sheet value.
+                Fighting an illegal account freeze in court costs banks time and money. Lenders prefer taking 35% to 55% quick cash recovery through a One-Time Settlement rather than facing regulatory fines.
               </p>
             </section>
 
@@ -732,7 +732,7 @@ export default function CanBankDebitCurrentAccountPage() {
             <section id="visual-roadmap-business-account-unfreeze" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Business Current Account Unfreezing</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The visual roadmap below details the 5-stage institutional and legal defense progression: from identifying an unlawful business account freeze to invoking legal entity separation, serving advocate demand notices, escalating regulatory violations, and concluding a binding compromise settlement.
+                This 5-stage roadmap shows how to unfreeze a business current account. It guides you from checking illegal bank holds to serving legal notices and securing a debt settlement:
               </p>
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
@@ -748,16 +748,16 @@ export default function CanBankDebitCurrentAccountPage() {
 
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs text-slate-600 mt-2">
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
-                  <span className="font-bold text-slate-900 block mb-1">Stages 1–2: Discovery &amp; Mutuality Shield</span>
-                  <span>Identify unauthorized account freeze; establish corporate entity separation and lack of mutuality under Section 171 Contract Act.</span>
+                  <span className="font-bold text-slate-900 block mb-1">Stages 1–2: Discovery &amp; Mutuality Shield.</span>
+                  <span>Identify unlawful holds. Prove entity separation and lack of mutuality under Section 171 Contract Act.</span>
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
-                  <span className="font-bold text-slate-900 block mb-1">Stages 3–4: Advocate Notice &amp; Ombudsman</span>
-                  <span>Serve statutory advocate legal notice demanding immediate unfreeze; escalate regulatory breach to RBI Integrated Ombudsman portal.</span>
+                  <span className="font-bold text-slate-900 block mb-1">Stages 3–4: Advocate Notice &amp; Ombudsman.</span>
+                  <span>Serve a statutory legal notice. Escalate banking violations to the RBI Integrated Ombudsman portal.</span>
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
-                  <span className="font-bold text-slate-900 block mb-1">Stage 5: Unfreeze &amp; 55% OTS Closure</span>
-                  <span>Lien vacated; negotiate structured compromise settlement; secure bank-stamped zero-balance No Dues Certificate.</span>
+                  <span className="font-bold text-slate-900 block mb-1">Stage 5: Unfreeze &amp; 55% OTS Closure.</span>
+                  <span>Get the hold removed. Negotiate an OTS and obtain an official zero-balance No Dues Certificate.</span>
                 </div>
               </div>
             </section>
@@ -766,38 +766,38 @@ export default function CanBankDebitCurrentAccountPage() {
             <section id="emergency-advocate-4-stage-unfreeze-protocol" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 4-Stage Advocate Protocol to Unfreeze</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a business current account is frozen, standard complaints to branch customer service desks are virtually useless. Branch managers lack the administrative authority to override central risk system holds without formal legal clearance. To unblock commercial cash flow and prevent operational collapse, debt defense advocates execute an aggressive, multi-tiered 4-stage legal protocol:
+                When a business account is frozen, standard complaints to branch desks rarely work. Branch managers cannot remove risk system holds without legal clearance. Legal counsel follows this 4-stage unfreezing protocol:
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Immediate Cash Flow Ring-Fencing &amp; Alternate Banking</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Within 12 to 24 hours of detecting account restrictions, immediately redirect incoming customer electronic fund transfers, point-of-sale card settlement terminals, and UPI merchant QR codes to an unaffected current account at an independent banking institution. This prevents fresh operational revenue from becoming trapped in the disputed account.
+                    Within 24 hours, move customer wire transfers, card swipe machines, and UPI QR codes to an account at another bank. This keeps fresh sales revenue safe from wrongful freezes.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 2: Serving Advocate Statutory Demand Notice</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Your legal counsel serves a formal statutory demand notice on the bank&apos;s Managing Director, Zonal Head, and Principal Nodal Officer. The notice demonstrates the complete absence of mutuality, cites the separate legal personality under the Companies Act or Partnership Act, references Section 31 of the NI Act, and warns of imminent proceedings for commercial damages before the High Court.
+                    Your lawyer serves a legal notice on the bank&apos;s Zonal Head and Principal Nodal Officer. The notice proves lack of mutuality under company law, cites Section 31 NI Act. And warns of claims for damages.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 3: Escalation to RBI Integrated Ombudsman Scheme</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    If the bank fails to vacate the operational hold within 48 hours, an expedited statutory complaint is filed on the <strong>RBI CMS portal (cms.rbi.org.in)</strong> under the category of &quot;Arbitrary Account Freeze / Non-Adherence to Fair Practices Code&quot;. The Banking Ombudsman maintains zero tolerance for unauthorized extra-judicial account seizures.
+                    If the bank does not unfreeze the account within 48 hours, file a complaint on the RBI CMS portal (cms.rbi.org.in). The RBI Ombudsman acts strictly against illegal account freezes.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 4: Emergency High Court Writ (Article 226) or Commercial Court Injunction</h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    For Public Sector Banks, advocates file an emergency Writ Petition under Article 226 of the Constitution of India challenging the arbitrary state action. For private commercial banks, an urgent interlocutory application under Order 39 of the CPC or Section 9 of the Commercial Courts Act is filed to secure an immediate injunction restoring normal debit operations.
+                    For PSU banks, file a Writ Petition under Article 226 in the High Court. For private banks, file an injunction application under Order 39 CPC in commercial court to unfreeze funds immediately.
                   </p>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                This decisive legal strategy strips the lending bank of its unilateral recovery advantage, compelling its senior zonal credit authorities to immediately lift the account freeze and open negotiations for a heavily discounted settlement.
+                This legal approach removes the bank&apos;s recovery advantage. Bank authorities quickly lift account freezes and open discussions for a discounted settlement.
               </p>
             </section>
 
@@ -805,10 +805,10 @@ export default function CanBankDebitCurrentAccountPage() {
             <section id="converting-freeze-into-compromise-ots" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting an Unlawful Account Freeze into an Affordable</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                An unauthorized current account freeze signals that the bank has exhausted standard collection options and is vulnerable to regulatory penalties. By leveraging the bank&apos;s legal non-compliance and exposure to damages under the Negotiable Instruments Act, debt defense advocates convert an intimidating account hold into maximum leverage to negotiate a formal <strong>One-Time Settlement (OTS)</strong> on the delinquent personal loan.
+                An illegal account freeze shows that the bank wants a quick recovery. By exposing regulatory breaches, lawyers can turn this situation into leverage. Borrowers can then negotiate a formal <strong>One-Time Settlement (OTS)</strong> on the overdue personal loan.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Rather than paying inflated penal charges, compound interest, and recovery commissions, the settlement is structured through proven institutional phases:
+                Rather than paying extra fines, the settlement is structured through these key steps:
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-4">
@@ -818,7 +818,7 @@ export default function CanBankDebitCurrentAccountPage() {
                     <span>Hardship Dossier &amp; Income Proof</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Prepare a comprehensive financial hardship dossier documenting bona fide personal cash flow disruptions—such as business turnover contraction, customer bad debts, or medical crises—proving the inability to maintain the original EMI schedule.
+                    Prepare a clear file showing true cash flow drops. Document lower sales, unpaid invoices, or medical costs to prove why EMIs stopped.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl bg-slate-50 border border-slate-200 space-y-2">
@@ -827,7 +827,7 @@ export default function CanBankDebitCurrentAccountPage() {
                     <span>Principal Haircut Benchmarking</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Insist on 100% waiver of accumulated penal interest, late fees, and recovery charges, while securing an institutional <strong>45% to 65% reduction on the principal ledger balance</strong> based on the loan&apos;s NPA provisioning status.
+                    Seek a complete waiver of penal charges and late fees. Aim for a <strong>45% to 65% reduction on principal</strong> based on the loan NPA status.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl bg-slate-50 border border-slate-200 space-y-2">
@@ -836,7 +836,7 @@ export default function CanBankDebitCurrentAccountPage() {
                     <span>Mandatory Lien Release Covenant</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Incorporate an express contractual condition that all account freezes, administrative holds, and negative flags on all business and personal accounts are unconditionally lifted prior to disbursing the settlement amount.
+                    Include an explicit term in the agreement. The bank must lift all debit freezes and internal liens on all accounts before receiving settlement funds.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl bg-slate-50 border border-slate-200 space-y-2">
@@ -845,7 +845,7 @@ export default function CanBankDebitCurrentAccountPage() {
                     <span>Multi-Tranche Payment Flexibility</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Structure the compromised settlement sum into 2 to 4 structured monthly installments, enabling business cash flows to absorb the settlement without causing fresh liquidity stress.
+                    Split the settlement payment into 2 to 4 monthly installments. This helps business cash flow remain smooth without creating new financial stress.
                   </p>
                 </div>
               </div>
@@ -855,10 +855,10 @@ export default function CanBankDebitCurrentAccountPage() {
             <section id="sanction-letter-forensics-ndc-compliance" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; RBI ₹0 NDC</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When settling a loan that previously triggered a business account freeze, executing the settlement without airtight documentary validation carries enormous legal risk. Distressed borrowers frequently fall victim to verbal promises from collection managers who accept compromised payments, only to leave remaining amounts active on the ledger or maintain internal debit flags.
+                When settling a loan that triggered an account freeze, checking paperwork is critical. Never rely on verbal promises from recovery agents. Without written approval, banks may keep debit flags active.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Our advocates audit every settlement document against 4 essential forensic verification benchmarks:
+                Check your settlement documents against these four verification standards:
               </p>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 my-4">
@@ -868,7 +868,7 @@ export default function CanBankDebitCurrentAccountPage() {
                     <span>Official Corporate Letterhead &amp; Proposal Ref</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    The sanction letter must originate directly from the bank&apos;s corporate email domain or official stationery signed by a designated Zonal Credit Manager (Scale-IV or higher).
+                    The settlement letter must come from the bank official email or stationery. It must be signed by an authorized Zonal Credit Manager.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm space-y-1.5">
@@ -877,25 +877,25 @@ export default function CanBankDebitCurrentAccountPage() {
                     <span>Explicit Account Identification &amp; Waiver Breakdown</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    The document must clearly list the loan account number, borrower PAN, pre-settlement balance, principal waiver quantum, and the exact net settlement remittance figure.
+                    The letter must show the loan number, borrower PAN, original balance, waiver amount. And final agreed settlement figure.
                   </p>
                 </div>
-                <div className="p-4 rounded-xl border border-slate-200 shadow-sm space-y-1.5">
+                <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm space-y-1.5">
                   <div className="flex items-center gap-2 font-bold text-slate-900 text-xs sm:text-sm">
                     <Lock className="w-4 h-4 text-purple-600" />
                     <span>Express Covenant on Complete Lien Removal</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    The sanction letter must incorporate an express undertaking that all internal debit freezes, liens, and administrative holds across all connected current accounts stand permanently vacated.
+                    The letter must confirm that all account freezes, liens. And internal debit holds across all business accounts are removed permanently.
                   </p>
                 </div>
-                <div className="p-4 rounded-xl border border-slate-200 shadow-sm space-y-1.5">
+                <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm space-y-1.5">
                   <div className="flex items-center gap-2 font-bold text-slate-900 text-xs sm:text-sm">
                     <Gavel className="w-4 h-4 text-amber-600" />
                     <span>Withdrawal of All Legal Proceedings</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    The bank must formally covenant to withdraw all pending Section 138 NI Act complaints, Section 25 PSSA summons, or civil summary suits upon receipt of the agreed settlement sum.
+                    The bank must agree to withdraw all Section 138 NI Act complaints, Section 25 PSSA notices. And recovery suits once payment is complete.
                   </p>
                 </div>
               </div>
@@ -906,7 +906,7 @@ export default function CanBankDebitCurrentAccountPage() {
                   <span>The Mandatory 30-Day RBI No Dues Certificate Directive</span>
                 </div>
                 <p className="leading-relaxed text-amber-800">
-                  Under <strong>RBI Circular RBI/2023-24/60</strong>, regulated commercial banks and NBFCs are legally mandated to deliver a formal <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong> and update all credit information companies (CIBIL, Experian, Equifax, CRIF High Mark) to zero balance within <strong>30 calendar days</strong> of receiving final settlement payment. Any unjustified delay beyond 30 days incurs a mandatory statutory penalty of <strong>₹5,000 for each day of delay</strong> payable directly to the borrower.
+                  Under <strong>RBI Circular RBI/2023-24/60</strong>, banks must issue a <strong>No Dues Certificate (NDC)</strong> and update credit bureaus (CIBIL, Experian, Equifax, CRIF) to ₹0 balance within <strong>30 calendar days</strong>. If the bank delays beyond 30 days, it must pay a fine of <strong>₹5,000 per day</strong> directly to the borrower.
                 </p>
               </div>
 
@@ -914,7 +914,7 @@ export default function CanBankDebitCurrentAccountPage() {
                 Understanding Commercial CIBIL (CCR) vs. Individual CIBIL Score Rehabilitation
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                For Private Limited companies and LLPs, the company&apos;s Company Credit Report (CCR / Commercial CIBIL) remains completely insulated under the corporate PAN, ensuring business loan eligibility and commercial vendor credit remain unharmed by a director&apos;s personal loan settlement. For sole proprietors, the personal loan status remark changes to <strong>&quot;Settled&quot;</strong> with a current outstanding balance of <strong>₹0</strong>. While this causes a temporary personal score dip, it eliminates collection harassment, unblocks business current accounts, and establishes a clean slate to systematically rebuild the proprietor&apos;s credit score above 750 within 18 to 24 months.
+                For Private Limited companies and LLPs, the Company Credit Report (CCR) runs under the company PAN. It remains completely safe from a director&apos;s personal debt settlement. For sole proprietors, the loan marks as <strong>&quot;Settled&quot;</strong> with a <strong>₹0 balance</strong>. This stops collection calls, clears bank holds. And lets you rebuild your score to 750+ within 18 months.
               </p>
             </section>
 
@@ -922,48 +922,48 @@ export default function CanBankDebitCurrentAccountPage() {
             <section id="comparative-legal-matrix-setoff-vs-injunction" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Current Account Debt Defense Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Comparing the legal mechanisms governing bank account actions and business debt defense enables enterprise founders to understand their strategic options and enforce their rights effectively:
+                Compare the legal options available when a bank freezes a business current account:
               </p>
 
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full text-xs sm:text-sm">
                   <thead>
                     <tr>
-                      <th>Resolution Mechanism</th>
-                      <th>Governing Legal Basis</th>
-                      <th>Business Entity Protection</th>
-                      <th>Typical Timeline</th>
-                      <th>Final Legal Effect</th>
+                      <th>Resolution Mechanism.</th>
+                      <th>Governing Legal Basis.</th>
+                      <th>Business Entity Protection.</th>
+                      <th>Typical Timeline.</th>
+                      <th>Final Legal Effect.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-semibold text-slate-900">Unilateral Banker Set-Off</td>
-                      <td>Section 171 Contract Act (Requires Mutuality &amp; Notice)</td>
-                      <td>Zero Protection (Unlawful blanket freeze on business cash flow)</td>
-                      <td>Instant / Unannounced</td>
-                      <td>High risk of regulatory reprimands and damages via Ombudsman</td>
+                      <td className="font-semibold text-slate-900">one-sided Banker Set-Off.</td>
+                      <td>Section 171 Contract Act.</td>
+                      <td>Zero Protection. Unlawful hold on company cash flow.</td>
+                      <td>Instant / Unannounced.</td>
+                      <td>High risk of regulatory fines via RBI Ombudsman.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Civil Court Attachment (Order 38/21 CPC)</td>
-                      <td>Code of Civil Procedure, 1908 (Requires Judicial Decree)</td>
-                      <td>Full Judicial Scrutiny (Entity separation strictly upheld)</td>
-                      <td>2 – 4 Years</td>
-                      <td>Court decree enforceable only against individual assets</td>
+                      <td className="font-semibold text-slate-900">Civil Court Attachment.</td>
+                      <td>Order 38 Rule 5 and Order 21 CPC.</td>
+                      <td>Full Judicial Review. Company separation is upheld.</td>
+                      <td>2 – 4 Years.</td>
+                      <td>Court decree applies only to individual personal assets.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">High Court Injunction / Ombudsman Order</td>
-                      <td>Article 226 / RBI Integrated Ombudsman Scheme 2021</td>
-                      <td>Immediate Business Protection (Orders unfreezing of working capital)</td>
-                      <td>30 – 45 Days</td>
-                      <td>Enforceable order restoring account operations &amp; awarding costs</td>
+                      <td className="font-semibold text-slate-900">High Court / Ombudsman Order.</td>
+                      <td>Article 226 or RBI Ombudsman Scheme 2021.</td>
+                      <td>Direct Protection. Orders unfreezing of business funds.</td>
+                      <td>30 – 45 Days.</td>
+                      <td>Enforceable order unblocking account operations.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Advocate-Led 55% OTS</td>
-                      <td>Consensual Compromise Settlement Agreement</td>
-                      <td>100% Business Immunity (Accounts unblocked, debts extinguished)</td>
-                      <td>15 – 30 Days</td>
-                      <td>Full debt discharge, formal ₹0 NDC, and permanent closure</td>
+                      <td className="font-semibold text-slate-900">Advocate-Led 55% OTS.</td>
+                      <td>Consensual Compromise Agreement.</td>
+                      <td>100% Protection. Accounts unblocked and debt closed.</td>
+                      <td>15 – 30 Days.</td>
+                      <td>Full debt waiver, formal ₹0 NDC. And clean exit.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -975,7 +975,7 @@ export default function CanBankDebitCurrentAccountPage() {
               <div className="border-t border-slate-200 pt-8 space-y-4">
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Account Unfreezing Legal Relief</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Defending your enterprise against an unlawful current account freeze demands specialized banking litigation counsel who understand corporate jurisprudence, the Doctrine of Mutuality, and institutional debt restructuring frameworks. SettleLoans delivers complete legal defense for business founders, partners, and self-employed professionals across India: serving formal statutory notices, stopping recovery harassment, escalating breaches to the RBI Banking Ombudsman, and negotiating directly with bank zonal authorities to achieve 45% to 65% principal haircuts backed by official No Dues Certificates.
+                  Protecting your business against an unlawful account freeze requires expert banking advocates. SettleLoans helps business founders, partners. And proprietors across India. We serve legal notices, halt recovery pressure, file RBI Ombudsman cases. And secure 45% to 65% principal waivers with official No Dues Certificates.
                 </p>
               </div>
 
@@ -990,7 +990,7 @@ export default function CanBankDebitCurrentAccountPage() {
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Current Account Freezes &amp; Legal Remedies</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
-                Direct, legally verified answers to essential questions regarding business current account freezes, the Doctrine of Mutuality, and loan settlement procedures in India.
+                Find clear answers to key questions about business current account freezes, company laws. And loan settlements in India.
               </p>
 
               <div className="space-y-3">
@@ -1156,11 +1156,11 @@ export default function CanBankDebitCurrentAccountPage() {
                   <Link href="/authors/ashish-jhangra" className="font-bold text-slate-900 text-sm hover:text-[#1F5EFF] transition-colors block">
                     Ashish Jhangra
                   </Link>
-                  <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
+                  <p className="text-xs text-slate-500">Chief Banking &amp. Debt Resolution Expert</p>
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-3">
-                Senior specialist in corporate debt defense, Doctrine of Mutuality disputes, RBI Ombudsman litigation, and enterprise One-Time Settlement negotiations across India.
+                Ashish advises on business debt disputes, RBI Ombudsman cases. And bank account unfreezing. He helps borrowers resolve loans through structured One-Time Settlements.
               </p>
               <div className="pt-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
                 <span className="flex items-center gap-1">
@@ -1185,7 +1185,7 @@ export default function CanBankDebitCurrentAccountPage() {
               </div>
               <div className="font-bold text-base text-white mb-2">Has Your Business Current Account Been Frozen?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
-                Do not allow an illegal bank hold to paralyze your company payroll and operations. Retain seasoned banking advocates to challenge the lack of mutuality and negotiate a 45%–65% OTS.
+                Do not let an illegal hold stop your business payroll and operations. Let our banking advocates challenge the bank hold and negotiate a 45% to 65% OTS.
               </p>
               <Link
                 href="/contact"

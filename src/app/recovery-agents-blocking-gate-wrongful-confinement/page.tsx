@@ -84,35 +84,35 @@ export const metadata: Metadata = {
 const faqsList = [
   {
     name: "Is it illegal for a recovery agent to physically block my doorway or gate?",
-    answer: "Yes, it is strictly illegal and constitutes a cognizable criminal offense. Standing physically in a doorway to prevent entry or exit is classified as Wrongful Restraint under Section 126 of the Bharatiya Nyaya Sanhita, 2023 (Section 339 IPC) and Wrongful Confinement under Section 127 BNS (Section 340 IPC). Recovery agents have no statutory authority to obstruct your personal movement."
+    answer: "Yes. It is illegal and a cognizable crime. Blocking a doorway stops your movement. This acts as Wrongful Restraint under Section 126 BNS (Section 339 IPC). It also counts as Wrongful Confinement under Section 127 BNS (Section 340 IPC). Recovery agents have zero legal right to block you."
   },
   {
     name: "What should I do if a collection agent blocks my car or bike from leaving parking?",
-    answer: "Immediately activate video recording on your smartphone to capture the agent's face, vehicle registration, and the physical obstruction. Clearly state on video that they are unlawfully restricting your constitutional right to locomotion. Dial 112 to request urgent police dispatch for criminal restraint, and avoid escalating into physical violence."
+    answer: "Start video recording on your phone right away. Record the agent's face and vehicle number plate. Film the blockage clearly. State aloud that they are blocking your movement. Dial 112 to call the police for criminal restraint. Stay calm and avoid physical fights."
   },
   {
     name: "Can recovery agents snatch or confiscate my vehicle or house keys by force?",
-    answer: "No. Forcibly snatching keys from your hand or vehicle ignition is an act of criminal force and theft under Section 303 BNS (Section 379 IPC) and extortion under Section 308 BNS (Section 383 IPC). If accompanied by threats or physical intimidation, it amounts to robbery under Section 309 BNS (Section 390 IPC), which is a serious non-bailable offense."
+    answer: "No. Snatching keys by force is illegal. It is theft under Section 303 BNS (Section 379 IPC). It is extortion under Section 308 BNS (Section 383 IPC). If agents use threats, it becomes robbery under Section 309 BNS (Section 390 IPC). Robbery is a serious non-bailable crime."
   },
   {
     name: "What criminal sections apply to recovery agents using physical muscle tactics?",
-    answer: "Key statutory sections include Section 126 BNS (Wrongful Restraint), Section 127 BNS (Wrongful Confinement), Section 351 BNS (Criminal Intimidation), Section 308 BNS (Extortion), Section 189 BNS (Unlawful Assembly if two or more agents participate), and Section 329 BNS (Criminal Trespass on private residential premises)."
+    answer: "Several key penal laws apply. These include Section 126 BNS for Wrongful Restraint. Section 127 BNS applies for Wrongful Confinement. Section 351 BNS covers Criminal Intimidation. Section 308 BNS covers Extortion. Section 189 BNS applies if multiple agents gather. Section 329 BNS covers Criminal Trespass on your property."
   },
   {
     name: "How do I file a police FIR against recovery agents for wrongful confinement?",
-    answer: "Submit a written complaint to the Station House Officer (SHO) under Section 173 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) detailing the date, time, physical obstruction, lender name, agency details, and attach video evidence. If the local station refuses registration, escalate to the Superintendent of Police under Section 175(3) BNSS or file an application before the Judicial Magistrate under Section 223 BNSS."
+    answer: "Submit a written complaint to the police station under Section 173 BNSS. Note the date, time, lender name, and agent details. Attach your video evidence. If the police refuse to register an FIR, write to the SP under Section 175(3) BNSS. You can also file a complaint with the Magistrate under Section 223 BNSS."
   },
   {
     name: "Are banks and NBFCs legally responsible for the criminal acts of their outsourced agents?",
-    answer: "Yes. Under the RBI Master Directions on Outsourcing and vicarious liability doctrines affirmed by the Supreme Court in ICICI Bank v. Prakash Kaur, regulated entities bear direct legal accountability for harassment, intimidation, and unlawful confinement committed by their recovery contractors."
+    answer: "Yes. Banks and NBFCs remain legally responsible. RBI Master Directions on Outsourcing enforce strict rules. The Supreme Court affirmed this in ICICI Bank v. Prakash Kaur. Lenders face direct penalties for threats or confinement committed by recovery agents."
   },
   {
     name: "Can a bank repossess a vehicle on the road without judicial process or court orders?",
-    answer: "No. The Supreme Court has repeatedly ruled that extra-judicial repossessions using musclemen on public roads are illegal. For secured vehicle loans, lenders must follow due process, serve formal pre-seizure notices, provide statutory cure periods, and inventory repossessed goods through lawful mechanisms."
+    answer: "No. The Supreme Court bans musclemen from seizing vehicles on roads. Lenders must follow legal due process. For secured car loans, they must send formal pre-seizure notices. They must give a cure period. Any repossession requires lawful inventory procedures."
   },
   {
     name: "How does appointing a debt settlement advocate stop physical harassment?",
-    answer: "A debt settlement advocate executes a formal Vakalatnama and serves a statutory Cease-and-Desist notice upon the bank's board and nodal officers. Under RBI Fair Practices Code, once legal representation is established, lenders must cease uninvited field visits and route all communication exclusively through legal counsel for structured compromise negotiations."
+    answer: "A debt settlement advocate files a formal Vakalatnama. The lawyer sends a Cease-and-Desist notice to bank nodal officers. Under the RBI Fair Practices Code, lenders must stop home visits once you hire legal counsel. All talks move through your lawyer for a fair OTS settlement."
   }
 ];
 
@@ -220,7 +220,7 @@ const jsonLdGraph = {
             "name": "Vikramaditya Sharma"
           },
           "datePublished": "2026-07-19",
-          "reviewBody": "Three collection agents parked their motorcycles directly behind my car in my apartment basement, preventing me from driving to work. SettleLoans advocates helped me file an immediate police complaint under Section 127 BNS for wrongful confinement and served a Cease-and-Desist notice to the bank. The bank recalled the agency immediately and settled my ₹8.5 Lakh loan at a 55% waiver.",
+          "reviewBody": "Three agents parked bikes behind my car in my basement. They stopped me from driving to work. SettleLoans advocates helped me file a police complaint under Section 127 BNS for wrongful confinement. They sent a Cease-and-Desist notice to the bank. The bank recalled the agents and settled my ₹8.5 Lakh loan with a 55% waiver.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
             "name": "Priyanka Deshmukh"
           },
           "datePublished": "2026-08-03",
-          "reviewBody": "A recovery agent stood in the doorway of my residence and physically blocked my mother from stepping outside. SettleLoans stepped in within hours, citing Supreme Court rulings on Article 21 and Section 126 BNS. The lender issued a written apology, stopped all field visits, and structured a manageable compromise settlement.",
+          "reviewBody": "A recovery agent blocked my house door. He stopped my mother from stepping outside. SettleLoans acted fast. They cited Supreme Court rulings on Article 21 and Section 126 BNS. The bank issued an apology letter, stopped all home visits. And gave a great OTS plan.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -250,7 +250,7 @@ const jsonLdGraph = {
             "name": "Gurpreet Singh"
           },
           "datePublished": "2026-06-25",
-          "reviewBody": "When two agents snatched my motorcycle keys outside my office, SettleLoans guided me through filing a criminal complaint for extortion under Section 308 BNS. Their legal mastery turned the tables on the aggressive recovery agency, leading to complete relief and a clean No Dues Certificate.",
+          "reviewBody": "Two agents grabbed my motorcycle keys outside my office. SettleLoans guided me to file a criminal complaint for extortion under Section 308 BNS. Their legal help stopped the agency immediately. I got total relief and my official No Dues Certificate.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -265,7 +265,7 @@ const jsonLdGraph = {
             "name": "Suresh Venkatraman"
           },
           "datePublished": "2026-08-18",
-          "reviewBody": "Ashish Jhangra and his legal team provided exceptional guidance on wrongful restraint laws. They proved that loan default is purely a civil matter and that physical muscle tactics are punishable crimes. Their intervention gave my family back our peace of mind and settled my debts with dignity.",
+          "reviewBody": "Ashish Jhangra and his legal team gave clear advice on wrongful restraint laws. They showed that loan default is purely a civil matter. Physical force is a crime. Their team protected my family and settled my debts with dignity.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -430,23 +430,23 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
               <ul className="space-y-3 text-xs sm:text-sm text-slate-700">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Cognizable Criminal Offense:</strong> Physically obstructing a doorway or blocking a vehicle constitutes Wrongful Confinement under Section 127 BNS (Section 340 IPC) and Wrongful Restraint under Section 126 BNS (Section 339 IPC).</span>
+                  <span><strong>Cognizable Criminal Offense:</strong> Blocking doors or cars is a crime. It is Wrongful Confinement under Section 127 BNS (Section 340 IPC). It also counts as Wrongful Restraint under Section 126 BNS (Section 339 IPC).</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Vehicle Key Snatching is Extortion &amp; Robbery:</strong> Forcibly seizing car or motorcycle keys is punishable under Section 308 BNS (Extortion) and Section 309 BNS (Robbery), carrying rigorous imprisonment.</span>
+                  <span><strong>Key Snatching is Illegal:</strong> Taking car or bike keys by force is a crime. It is Extortion under Section 308 BNS. It is Robbery under Section 309 BNS. It carries strict jail terms.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Constitutional Liberty Shield:</strong> Article 21 of the Constitution guarantees personal liberty and bodily autonomy, while Article 19(1)(d) guarantees unrestricted freedom of movement across India without private commercial hindrance.</span>
+                  <span><strong>Constitutional Liberty Shield:</strong> Article 21 protects your personal freedom and dignity. Article 19(1)(d) protects your right to move freely anywhere in India. Private recovery agents cannot block your way.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Direct Lender Vicarious Liability:</strong> Banks and NBFCs cannot disown third-party collection agencies; under RBI Master Directions and apex court rulings, lenders face severe regulatory fines and criminal abetment scrutiny.</span>
+                  <span><strong>Direct Lender Liability:</strong> Banks and NBFCs remain responsible for their recovery agents. RBI Master Directions hold lenders accountable for third-party threats and physical abuse.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Legal Representation Halts Physical Visits:</strong> Serving a formal Cease-and-Desist notice through an appointed advocate legally compels the bank to withdraw field agencies and negotiate an institutional 40% to 65% OTS.</span>
+                  <span><strong>Legal Counsel Stops Field Visits:</strong> Serving a Cease-and-Desist notice through an advocate halts home visits. It pushes the bank to negotiate an official 40% to 65% OTS settlement.</span>
                 </li>
               </ul>
             </div>
@@ -455,10 +455,10 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
             <section id="physical-restraint-muscle-tactics-reality" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Physical Restraint &amp; Muscle Tactics Reality</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Defaulting on a retail loan, revolving credit card balance, or business credit line is an intensely challenging economic hardship. However, across residential colonies, apartment complexes, and office parks in India, distressed borrowers increasingly encounter aggressive, high-pressure field collection tactics that cross all statutory boundaries. Third-party recovery agents frequently resort to physical muscle tactics: standing menacingly in front of main entrance doors, blocking residential gates, parking their two-wheelers behind a borrower&apos;s car in a basement driveway to prevent departure, or physically intercepting borrowers as they attempt to leave for work.
+                Defaulting on a loan or credit card creates deep financial stress. In many Indian cities, borrowers face illegal recovery pressure. Recovery agents often use physical force. They stand in front of entrance doors. They block society gates. Some agents park bikes behind a borrower&apos;s car to stop them from driving out. Others block borrowers on their way to work.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                In severe instances, overzealous collection personnel snatch vehicle ignition keys from a borrower&apos;s hands or reach through car windows to extract the keys by force. These agents mistakenly operate under the belief that physical obstruction, public intimidation, and trapping individuals within an enclosed space are legitimate debt recovery techniques. For the borrower and their family members, such confrontations create overwhelming psychological trauma, intense public embarrassment, and genuine terror for personal safety.
+                In worse cases, agents snatch car or bike keys by force. They reach through open car windows. Agents wrongly think these strong-arm tactics are legal recovery steps. In reality, trapping people causes severe mental distress. It harms dignity and endangers personal safety.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded-r-xl my-4">
                 <div className="flex items-center gap-2 text-amber-900 font-bold text-xs uppercase tracking-wider mb-1">
@@ -466,11 +466,11 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
                   <span>Fundamental Legal Principle</span>
                 </div>
                 <p className="text-xs sm:text-sm text-amber-800 leading-relaxed">
-                  Under Indian jurisprudence, an unsecured loan default is exclusively a civil contractual breach governed by the Indian Contract Act, 1872. It is not a crime, nor does it create any physical lien over a citizen&apos;s bodily liberty or freedom of movement. The moment a recovery agent physically blocks an exit, touches a vehicle, or takes keys, they forfeit all commercial legitimacy and commit punishable penal crimes.
+                  Under Indian law, an unsecured loan default is a civil contract matter under the Indian Contract Act, 1872. It is not a crime. It gives no right to block your body or stop your travel. When an agent blocks an exit or takes keys, they commit a criminal crime.
                 </p>
               </div>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Lenders have legally established judicial remedies for financial defaults, such as filing summary recovery suits under Order 37 of the Code of Civil Procedure, 1908, initiating arbitration under the Arbitration and Conciliation Act, 1996, or pursuing negotiable instrument remedies. When recovery agencies abandon the rule of law to deploy street-level confinement, they expose themselves and their principal lending institutions to severe criminal prosecution and crippling regulatory damages.
+                Lenders have lawful civil remedies for defaults. They can file civil summary suits under Order 37 of the Code of Civil Procedure, 1908. They can use the Arbitration and Conciliation Act, 1996. They can pursue cheque bounce cases. They cannot use street muscle. Confinement tactics expose both agents and banks to criminal charges and heavy regulatory fines.
               </p>
             </section>
 
@@ -478,10 +478,10 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
             <section id="statutory-framework-wrongful-confinement" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Penal Law Breakdown</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Indian criminal law strictly prohibits any private individual from restraining or confining another citizen against their will. With the complete operational transition from the Indian Penal Code, 1860 (IPC) to the Bharatiya Nyaya Sanhita, 2023 (BNS), the statutory protections against unlawful physical obstruction have been reaffirmed and fortified under modern procedural standards.
+                Indian criminal law protects citizens from unlawful physical control. No private person can block or trap another citizen. The transition from the Indian Penal Code, 1860 (IPC) to the Bharatiya Nyaya Sanhita, 2023 (BNS) reinforces these rights. Clear legal protections protect personal freedom.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Understanding the precise legal definitions between Wrongful Restraint and Wrongful Confinement is critical for drafting unassailable police complaints and judicial petitions:
+                Two primary offenses apply when agents block movement. These are Wrongful Restraint and Wrongful Confinement:
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-4">
@@ -491,40 +491,40 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
                 </h3>
                 <div className="space-y-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 126 BNS (Corresponding to Section 339 &amp; 341 IPC): Wrongful Restraint</p>
+                    <p className="font-bold text-slate-900">Section 126 BNS (Corresponding to Section 339 &amp. 341 IPC): Wrongful Restraint</p>
                     <p className="text-slate-600 mt-1">
-                      Whoever voluntarily obstructs any person so as to prevent that person from proceeding in any direction in which that person has a right to proceed is guilty of wrongful restraint. When a collection agent stands in front of your doorway, blocks a corridor, or prevents you from walking down the street, they commit a cognizable offense punishable with imprisonment up to one month, a fine, or both.
+                      Wrongful restraint occurs when someone stops you from moving in a direction you have a right to go. An agent standing in your doorway commits this crime. Blocking a corridor or walkway is also punishable. It carries jail time of up to one month, a fine, or both.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 127 BNS (Corresponding to Section 340 &amp; 342 IPC): Wrongful Confinement</p>
+                    <p className="font-bold text-slate-900">Section 127 BNS (Corresponding to Section 340 &amp. 342 IPC): Wrongful Confinement</p>
                     <p className="text-slate-600 mt-1">
-                      Whoever wrongfully restrains any person in such a manner as to prevent that person from proceeding beyond certain circumscribing limits commits wrongful confinement. When agents surround a house, block the only exit gate of a society, park vehicles to trap a borrower inside a garage, or lock gates, they create an unlawful perimeter of confinement, punishable with imprisonment up to one year, substantial fines, or both.
+                      Wrongful confinement happens when someone traps you within a set boundary. Surrounding a home or locking an exit gate forms illegal confinement. Parking vehicles to block a driveway or garage is also illegal. This offense carries imprisonment up to one year, fines, or both.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 308 &amp; 309 BNS (Corresponding to Section 383, 384 &amp; 390 IPC): Extortion &amp; Robbery</p>
+                    <p className="font-bold text-slate-900">Section 308 &amp. 309 BNS (Corresponding to Section 383, 384 &amp. 390 IPC): Extortion &amp. Robbery</p>
                     <p className="text-slate-600 mt-1">
-                      Forcibly snatching car or bike keys, seizing mobile phones to stop recording, or demanding immediate cash or digital transfers under the threat of physical restraint or social humiliation constitutes the grave offenses of extortion and robbery, attracting rigorous imprisonment of up to ten years.
+                      Snatching car or bike keys by force is a serious crime. Grabbing phones to prevent recording is also illegal. Demanding cash under physical threats counts as extortion and robbery. These crimes carry severe jail terms of up to ten years.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 351 BNS (Corresponding to Section 503 &amp; 506 IPC): Criminal Intimidation</p>
+                    <p className="font-bold text-slate-900">Section 351 BNS (Corresponding to Section 503 &amp. 506 IPC): Criminal Intimidation</p>
                     <p className="text-slate-600 mt-1">
-                      Threatening a borrower with injury to their person, reputation, or property during a physical confrontation carries imprisonment of up to two years, which extends to seven years if the threat involves grievous hurt or death.
+                      Threatening harm to your body, name, or property is a crime. Criminal intimidation carries up to two years of jail. If threats involve death or severe harm, jail terms increase up to seven years.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 189 BNS (Corresponding to Section 141 &amp; 143 IPC): Unlawful Assembly</p>
+                    <p className="font-bold text-slate-900">Section 189 BNS (Corresponding to Section 141 &amp. 143 IPC): Unlawful Assembly</p>
                     <p className="text-slate-600 mt-1">
-                      When two or more recovery agents assemble outside a residential building with the common object of committing criminal trespass, wrongful restraint, or enforcing an alleged right through physical intimidation, every member of that assembly is criminally liable under penal law.
+                      When two or more recovery agents gather to intimidate or trespass, they form an unlawful assembly. Every member of that group shares criminal guilt under penal law.
                     </p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                These penal statutes operate independently of any financial dispute. Even if a loan has been categorized as a total default, no lender or outsourced agent acquires the legal authority to override criminal law. The moment an agent blocks a physical path or confiscates personal property, police officers are legally mandated under the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) to accept criminal complaints and take prompt cognizable action.
+                Penal statutes operate separately from loan contracts. Even with unpaid debts, agents cannot break criminal law. When an agent blocks your path or takes property, the police must act. Under the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS), police must register complaints and start formal action.
               </p>
             </section>
 
@@ -532,16 +532,16 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
             <section id="constitutional-locomotion-puttaswamy" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Constitutional Protections</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The right of an Indian citizen to move freely and live without unlawful physical interference is anchored in the foundational constitutional architecture of the Republic of India. Article 19(1)(d) guarantees to all citizens the fundamental right to move freely throughout the territory of India, while Article 21 guarantees that no person shall be deprived of their life or personal liberty except according to procedure established by law.
+                The Indian Constitution protects your right to move freely. Article 19(1)(d) gives all citizens the right to travel across India without illegal barriers. Article 21 ensures that no person loses personal liberty except by lawful procedure. Private recovery agents cannot block your movement.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                In the historic ruling of <em>Maneka Gandhi v. Union of India (1978) 1 SCC 248</em>, the Supreme Court established that the expression &apos;personal liberty&apos; in Article 21 is of the widest amplitude, encompassing the absolute right to locomotion and freedom from physical restraint. Any unauthorized restriction on a citizen&apos;s physical mobility imposed by a private corporate entity or its hired musclemen represents a direct assault on constitutional liberty.
+                In <em>Maneka Gandhi v. Union of India (1978) 1 SCC 248</em>, the Supreme Court gave wide meaning to personal liberty. It includes the full right to physical movement and freedom from restraint. Any private firm using musclemen to block citizens violates fundamental constitutional rights.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The Supreme Court has directly addressed and dismantled the practice of physical recovery harassment in several landmark banking judgments. In <em>ICICI Bank Ltd. v. Prakash Kaur &amp; Ors. (2007) 2 SCC 711</em>, the apex court expressed profound indignation over commercial banks employing musclemen to forcibly intercept vehicles and intimidate borrowers on public roads. The Supreme Court laid down an unequivocal principle: banks and financial institutions are bound by the rule of law and cannot deploy extra-judicial force, intimidation, or coercive physical recovery under the pretext of loan collection.
+                The Supreme Court has condemned physical recovery tactics in key rulings. In <em>ICICI Bank Ltd. v. Prakash Kaur &amp. Ors. (2007) 2 SCC 711</em>, the apex court stopped banks from using musclemen to stop vehicles on public roads. The court ruled that banks must follow the rule of law. They cannot use physical force or threats to collect debts.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                This was further reinforced in <em>Manager, ICICI Bank Ltd. v. Prakash Kaur</em> and subsequent directives where the courts observed that recovery agents who use physical intimidation, block vehicles, or snatch keys commit grave tortious and criminal acts. In the nine-judge Constitution Bench decision in <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) 10 SCC 1</em>, the Supreme Court ruled that spatial privacy and bodily integrity are inviolable aspects of Article 21. When agents position themselves outside a home or block a private driveway, they violate the borrower&apos;s constitutionally protected sphere of autonomy.
+                In <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) 10 SCC 1</em>, the Supreme Court protected bodily privacy under Article 21. Agents standing outside a residence or blocking a driveway violate your constitutional liberty. These acts are civil wrongs and punishable criminal offenses.
               </p>
             </section>
 
@@ -549,10 +549,10 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
             <section id="rbi-master-directions-fair-practices" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. RBI Master Directions &amp; Code of Conduct</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The Reserve Bank of India, acting under statutory powers conferred by Sections 21, 35A, and 45L of the Banking Regulation Act, 1949, and the Reserve Bank of India Act, 1934, has established strict, non-negotiable codes of conduct governing all Regulated Entities (REs)—including Commercial Banks, Small Finance Banks, and Non-Banking Financial Companies (NBFCs).
+                The Reserve Bank of India sets strict rules for debt recovery. These rules draw power from Section 35A of the Banking Regulation Act, 1949 and the RBI Act, 1934. All commercial banks and NBFCs must follow these directives.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Codified within the <em>Master Direction – Reserve Bank of India (Managing Risks and Code of Conduct in Outsourcing of Financial Services by Regulated Entities) Directions</em> and the <em>Master Circular on Fair Practices Code (FPC)</em>, the central bank has imposed absolute prohibitions on any form of physical, verbal, or psychological intimidation:
+                The <em>RBI Master Directions on Outsourcing</em> and the <em>Fair Practices Code (FPC)</em> strictly ban physical threats, confinement. And intimidation:
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
@@ -562,26 +562,26 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
                 </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">Strict Prohibition on Physical Coercion &amp; Restraint</p>
-                    <p className="text-slate-600">Agents are explicitly barred from using physical force, blocking gates, obstructing vehicles, taking keys, or trapping borrowers within residential or office premises.</p>
+                    <p className="font-bold text-slate-900 mb-1">Strict Prohibition on Physical Coercion &amp. Restraint</p>
+                    <p className="text-slate-600">Agents cannot use physical force. They cannot block gates, trap vehicles, snatch keys, or hold borrowers inside properties.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Permissible Interaction Window (8 AM – 7 PM)</p>
-                    <p className="text-slate-600">Field visits and communications are strictly confined between 8:00 AM and 7:00 PM. Visiting outside these statutory hours is a direct regulatory violation.</p>
+                    <p className="text-slate-600">Visits can only happen between 8:00 AM and 7:00 PM. Visiting outside these hours violates RBI rules directly.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">Mandatory DRA Certification &amp; Identification</p>
-                    <p className="text-slate-600">Every visiting agent must hold valid Debt Recovery Agent (DRA) certification accredited by IIBF, carry bank-issued authorization letters, and display official agency ID.</p>
+                    <p className="font-bold text-slate-900 mb-1">Mandatory DRA Certification &amp. Identification</p>
+                    <p className="text-slate-600">Every visiting agent must hold valid DRA certification from IIBF. Agents must show bank authorization letters and photo ID cards.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">Total Ban on Public Shaming &amp; Corridor Scenes</p>
-                    <p className="text-slate-600">Agents are forbidden from shouting in residential corridors, interacting with apartment security, or embarrassing borrowers in front of neighbors or colleagues.</p>
+                    <p className="font-bold text-slate-900 mb-1">Total Ban on Public Shaming &amp. Corridor Scenes</p>
+                    <p className="text-slate-600">Agents cannot shout in hallways. They cannot speak with society guards or shame borrowers before neighbors and coworkers.</p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Crucially, the Reserve Bank of India has established the principle of direct vicarious liability. Lending institutions cannot shield themselves behind independent agency contracts or blame overzealous field staff. If an outsourced recovery contractor commits wrongful confinement or key snatching, the principal bank is held directly liable before the RBI Integrated Ombudsman and Consumer Disputes Redressal Commissions. The Ombudsman possesses the statutory authority to impose hefty financial penalties on the bank, award up to ₹20 Lakhs in compensation for consequential damages, and grant up to ₹1 Lakh specifically for mental agony and harassment.
+                The RBI enforces direct lender liability. Banks cannot blame third-party agencies. If an agent blocks your gate or snatches keys, the principal bank faces fines before the RBI Integrated Ombudsman and Consumer Commissions. The Ombudsman can award payout up to ₹20 Lakhs for actual losses. The Ombudsman can also award up to ₹1 Lakh for mental agony and harassment.
               </p>
             </section>
 
@@ -607,7 +607,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
             <section id="emergency-police-fir-protocol" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Tactical Emergency Protocol</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When faced with physical obstruction, gate blocking, or key snatching by recovery personnel, maintaining absolute composure while executing a disciplined legal protocol is vital. Knowing the exact sequence of actions neutralizes the intimidation, establishes unshakeable digital evidence, and triggers statutory law enforcement mechanisms:
+                If agents block your door or vehicle, stay calm. Follow this structured legal protocol. Taking clear steps creates strong evidence, stops intimidation. And triggers police action:
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 space-y-3">
@@ -619,60 +619,58 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Step 1: Start Continuous Video Recording Immediately</p>
                     <p className="text-slate-600 mt-1">
-                      Activate video recording on your smartphone. Clearly capture the physical obstruction (agents standing across the doorway, blocking vehicles, or holding keys). Record the agents&apos; faces, vehicle number plates, and the exact words spoken. State clearly on camera: &quot;I am attempting to leave my property, and you are physically obstructing me.&quot;
-                    </p>
+                      Turn on video recording on your phone. Record the physical blockage, the agents&apos. faces. And their vehicle numbers. State clearly on camera: &quot;I want to leave my home. But you are physically blocking me.&quot. </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Step 2: Dial Emergency Helpline 112 / 100</p>
                     <p className="text-slate-600 mt-1">
-                      Call 112 immediately and state: &quot;Unknown individuals are physically blocking my gate, obstructing my vehicle, and threatening my safety at my residence.&quot; Request immediate police PCR dispatch for cognizable wrongful confinement.
+                      Call 112 right away. Tell the operator: &quot;Unknown persons are blocking my gate, trapping my car. And threatening me.&quot. Request immediate police dispatch for wrongful confinement.
                     </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Step 3: Alert Building Security &amp; Preserve CCTV Footage</p>
+                    <p className="font-bold text-slate-900">Step 3: Alert Building Security &amp. Preserve CCTV Footage</p>
                     <p className="text-slate-600 mt-1">
-                      Inform your residential society or commercial complex management. Request building security to document the unauthorized trespassers and preserve security CCTV footage of the basement or gate obstruction as corroborative evidence.
+                      Notify your building guards or society committee. Ask security to log the trespassers. Request them to preserve CCTV footage of the gate or parking blockage as proof.
                     </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Step 4: File a Formal Written Police Complaint (FIR)</p>
                     <p className="text-slate-600 mt-1">
-                      Submit a formal written complaint to the local police station under Section 173 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS). Specifically cite Section 126 BNS (Wrongful Restraint), Section 127 BNS (Wrongful Confinement), Section 308 BNS (Extortion), and Section 351 BNS (Criminal Intimidation). Name the recovery agents, collection agency, and the principal lending bank.
+                      Submit a written complaint to the police station under Section 173 BNSS. Cite Section 126 BNS (Wrongful Restraint), Section 127 BNS (Wrongful Confinement), Section 308 BNS (Extortion), and Section 351 BNS (Criminal Intimidation). Name the agents and the bank.
                     </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">Step 5: Judicial Escalation under Section 223 BNSS (Sec 200 CrPC)</p>
                     <p className="text-slate-600 mt-1">
-                      If local police officers hesitate to register an FIR due to false claims that loan disputes are civil matters, instruct your legal advocate to escalate the complaint in writing to the Deputy Commissioner / Superintendent of Police under Section 175(3) BNSS, or file a direct criminal complaint before the Judicial Magistrate First Class under Section 223 BNSS.
+                      If local police do not register an FIR, escalate to the SP under Section 175(3) BNSS. Your lawyer can also file a private criminal complaint before the Judicial Magistrate under Section 223 BNSS.
                     </p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                By establishing an active criminal complaint against the recovery agency and the lending bank, the legal balance changes dramatically. Bank legal departments prioritize mitigating criminal exposure and regulatory reprimands, creating immense leverage for immediate file recall and favorable financial settlement.
+                Filing an official criminal complaint shifts leverage to you. Bank legal teams take criminal complaints seriously. To avoid regulatory fines and court scrutiny, banks recall field agencies and agree to an institutional OTS settlement.
               </p>
             </section>
 
-            {/* Section 7: Bank NPA Accounting, Provisioning Burdens & The NPV Recovery Model */}
+            {/* Section 7: Bank NPA Accounting Economics */}
             <section id="bank-npa-accounting-npv-formula" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To understand why collection agencies resort to aggressive, desperate street-level tactics rather than pursuing formal court litigation, one must examine the institutional accounting mathematics governing non-performing loans in Indian banking. Under the Reserve Bank of India Prudential Norms on Income Recognition, Asset Classification and Provisioning, an unsecured retail loan or credit card facility is categorized as a Non-Performing Asset (NPA) once repayments remain delinquent for more than 90 days.
+                Recovery agents use force because banks are pressured by unpaid loans. An unpaid loan becomes a Non-Performing Asset (NPA) after 90 days.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Once an account enters NPA status, the bank is legally prohibited from recognizing accrued interest as income. More severely, the bank must set aside substantial capital reserves out of its operating profits as mandatory regulatory provisions:
+                When a loan turns to an NPA, banks stop earning interest. They must also lock away their own cash as a safety cushion:
               </p>
               <ul className="list-disc pl-5 space-y-1.5 text-xs sm:text-sm text-slate-700">
-                <li><strong>Substandard NPA (Up to 12 Months Overdue):</strong> Mandatory 15% provisioning on total unsecured exposure.</li>
-                <li><strong>Doubtful NPA - Category 1 (12 to 24 Months Overdue):</strong> Mandatory 100% provisioning on the entire unsecured balance.</li>
-                <li><strong>Loss Assets / Written-Off Portfolio:</strong> 100% full balance sheet write-off against the institution&apos;s bottom line.</li>
+                <li><strong>Substandard NPA:</strong> Banks must set aside 15% of the loan value.</li>
+                <li><strong>Doubtful NPA:</strong> Banks must set aside 100% of the loan value.</li>
+                <li><strong>Loss Assets:</strong> The bank writes off the entire loan as a loss.</li>
               </ul>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mt-3">
-                If a bank files a civil recovery suit in a District Commercial Court to pursue an unsecured loan of ₹5 Lakhs to ₹25 Lakhs, it incurs upfront non-refundable court fees (1% to 3%), heavy advocate retainers, and 3 to 5 years of procedural litigation friction. Because domestic items, family vehicles under lien, and basic livelihood assets cannot be summarily attached under Section 60 of the Code of Civil Procedure, the net financial yield from litigation is heavily negative. Institutional credit risk committees evaluate settlement viability using a Net Present Value (NPV) recovery formula:
+                Civil court cases take 3 to 5 years. They have high fees and lawyer costs. Also, the law protects your basic household items from seizure. Banks use a Net Present Value (NPV) formula to see if a settlement makes sense:
               </p>
 
-              {/* Recovery Valuation Formula Box */}
               <div className="bg-slate-900 text-white rounded-2xl p-5 my-6 shadow-md border border-slate-800">
                 <div className="flex items-center gap-2 text-blue-400 font-bold text-xs uppercase tracking-wider mb-2">
                   <Calculator className="w-4 h-4" />
@@ -682,23 +680,22 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoveries across annual intervals t, r is the bank&apos;s cost of capital discount rate, and deductions account for 3 to 5 years of court friction, litigation fees, and locked regulatory capital.
+                  This formula balances expected cash back against the cost of fighting a long court battle.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Because prolonged litigation and criminal liabilities produce a deeply diminished Net Present Value, lending institutions are commercially incentivized to approve a negotiated One-Time Settlement (OTS). By sanctioning a 40% to 65% principal waiver, the lender recovers immediate cash liquidity, eliminates toxic assets from its balance sheet, and releases locked regulatory provisions back into quarterly net profits. Muscle tactics and physical obstruction are simply unauthorized, low-cost gambits deployed by third-party commission agents before the loan file is escalated to the bank&apos;s formal compromise settlement committee.
+                Long court fights reduce bank profits. Banks prefer a One-Time Settlement (OTS). A 40% to 65% waiver brings fast cash back to the bank. It is cheaper than fighting for years. Rogue street tactics are done by commission agents, not by the bank's legal team.
               </p>
             </section>
 
-            {/* Section 8: Direct OTS Negotiation, Cease-and-Desist Notices & NDC */}
             <section id="cease-and-desist-ots-resolution" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Structured OTS Settlement Protocols</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A dangerous mistake made by borrowers trapped by recovery agents is making hasty token cash payments or direct UPI transfers to visiting agents to defuse immediate physical confrontations. Such informal payments are never credited toward loan principal closure; instead, agencies allocate them toward inflated penal charges and collection commissions, leaving the core default active and ensuring repeated harassment within weeks.
+                Never pay cash to recovery agents. They often keep the money as personal fees. Your loan balance stays high. And the harassment continues.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To achieve permanent legal relief, terminate all physical harassment, and legally extinguish the debt liability, borrowers must follow an institutional three-pillar resolution framework:
+                Follow this 3-step plan to end the debt and stop the harassment:
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 space-y-3">
@@ -708,94 +705,91 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">1. Statutory Cease-and-Desist</p>
-                    <p className="text-slate-600">A formal legal notice served by an appointed advocate upon the bank&apos;s Board, Principal Nodal Officer, and Collection Head, placing on record criminal obstruction acts and demanding all dialogue be routed exclusively through legal counsel.</p>
+                    <p className="font-bold text-slate-900 mb-1">1. Legal Notice</p>
+                    <p className="text-slate-600">Your lawyer notifies the bank of all illegal threats. All communication must now go through your advocate.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">2. Formal Bank OTS Sanction Letter</p>
-                    <p className="text-slate-600">Direct institutional negotiation securing an authentic settlement sanction letter on official bank letterhead, containing specific waiver percentages, precise payment milestones, and zero ambiguity.</p>
+                    <p className="font-bold text-slate-900 mb-1">2. OTS Sanction</p>
+                    <p className="text-slate-600">We negotiate with bank managers to get a signed settlement letter. It confirms your waiver and payment terms.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">3. Bank-Stamped NDC &amp; CIBIL Update</p>
-                    <p className="text-slate-600">Direct payment deposited exclusively into the registered loan account, followed by mandatory issuance of a stamped No Dues Certificate (NDC) under RBI Circular RBI/2023-24/60 and bureau reporting.</p>
+                    <p className="font-bold text-slate-900 mb-1">3. Official NDC</p>
+                    <p className="text-slate-600">You pay the bank directly. They issue a formal No Dues Certificate, clearing your debt status.</p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Once the settlement amount is paid and the official No Dues Certificate is issued, the lender reports the account status to credit information companies (CIBIL, Experian, CRIF High Mark, Equifax) as &quot;Settled&quot; or &quot;Post-Write-Off Settled&quot;. This completely terminates all legal liabilities, removes any risk of future recovery visits, and provides a clear foundation for systematic credit rebuilding.
+                Once paid, the bank updates your status to "Settled" with credit bureaus. This ends your liability and lets you fix your credit score.
               </p>
             </section>
 
-            {/* Section 9: Comparative Legal Matrix */}
             <section id="comparative-enforcement-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Enforcement Powers vs Illegal Restraint Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The comparative matrix below details the statutory boundaries, physical restraint authority, and borrower legal protections across various debt recovery and judicial enforcement mechanisms in India:
+                This table shows who has legal power and who does not.
               </p>
 
               <div className="overflow-x-auto">
                 <table>
                   <thead>
                     <tr>
-                      <th>Recovery / Enforcement Mechanism</th>
-                      <th>Statutory Authority</th>
-                      <th>Power to Block Movement or Seize Keys</th>
-                      <th>Permissible Physical Conduct</th>
-                      <th>Borrower Statutory Legal Remedies</th>
+                      <th>Recovery Source.</th>
+                      <th>Legal Authority.</th>
+                      <th>Can Block Paths?</th>
+                      <th>Permissible Actions.</th>
+                      <th>Your Remedy.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-semibold text-slate-900">Third-Party Recovery Agents</td>
-                      <td>Private Agency SLA (Zero Statutory / Police Powers)</td>
-                      <td><strong>Absolute Zero</strong> (Punishable under Sec 126 &amp; 127 BNS)</td>
-                      <td>Strictly 8 AM to 7 PM; No physical contact, shouting, blocking, or key seizure</td>
-                      <td>Police FIR (Sec 127/308/351 BNS), RBI Ombudsman complaint, Cease-and-Desist notice</td>
+                      <td className="font-semibold text-slate-900">Recovery Agents.</td>
+                      <td>None.</td>
+                      <td>No.</td>
+                      <td>Only visits between 8 AM - 7 PM.</td>
+                      <td>Police Complaint & Lawyer Notice.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Civil Court Execution Bailiff</td>
-                      <td>Order XXI Code of Civil Procedure, 1908</td>
-                      <td><strong>Only under Specific Judicial Execution Warrant</strong></td>
-                      <td>Must produce court identity and execute warrants adhering to Section 60 CPC exemptions</td>
-                      <td>Leave to Defend, Stay of Execution, Application under Order XXI Rule 58 CPC</td>
+                      <td className="font-semibold text-slate-900">Court Bailiff.</td>
+                      <td>Court Warrant.</td>
+                      <td>Only with warrant.</td>
+                      <td>Must show ID & follow rules.</td>
+                      <td>File legal defense in court.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">SARFAESI Authorized Officer</td>
-                      <td>Securitisation Act, 2002 (Secured Assets Only)</td>
-                      <td><strong>Zero for unsecured loans</strong>; Secured property only via DM/CMM order</td>
-                      <td>Mandatory 60-day Section 13(2) notice and formal Panchnama possession inventory</td>
-                      <td>Section 17 Securitisation Application before the Debts Recovery Tribunal (DRT)</td>
+                      <td className="font-semibold text-slate-900">SARFAESI Officer.</td>
+                      <td>Secured Assets Only.</td>
+                      <td>No.</td>
+                      <td>Must send 60-day notice first.</td>
+                      <td>Apply to Debt Recovery Tribunal.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Traffic / State Police Personnel</td>
-                      <td>Motor Vehicles Act, 1988 / BNSS, 2023</td>
-                      <td><strong>Only for Law Enforcement / Traffic Offenses</strong></td>
-                      <td>Cannot act as private debt recovery agents or confiscate keys for bank loan defaults</td>
-                      <td>Complaint to Police Complaints Authority (PCA), High Court Writ under Article 226</td>
+                      <td className="font-semibold text-slate-900">Police.</td>
+                      <td>Crime only.</td>
+                      <td>No.</td>
+                      <td>Cannot collect debts.</td>
+                      <td>Police Complaints Authority.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">National Lok Adalat Bench</td>
-                      <td>Legal Services Authorities Act, 1987</td>
-                      <td><strong>None</strong> (Consensual, Pre-Litigation Mediation Forum)</td>
-                      <td>Zero field visits or physical enforcement; Purely institutional conciliation</td>
-                      <td>Mutually negotiated compromise settlement decree with complete civil finality</td>
+                      <td className="font-semibold text-slate-900">Lok Adalat.</td>
+                      <td>Mediation.</td>
+                      <td>No.</td>
+                      <td>Mutual talk only.</td>
+                      <td>Court-approved settlement.</td>
                     </tr>
                   </tbody>
                 </table>
               </div>
             </section>
 
-            {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Wrongful Confinement Legal Defense</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  No citizen should ever be subjected to unlawful physical confinement, gate blocking, vehicle immobilization, or public humiliation by aggressive debt collection personnel. At SettleLoans, our senior banking advocates, criminal defense litigators, and institutional financial negotiators provide an impenetrable shield of legal protection for borrowers across India. We immediately assert your constitutional rights under Article 21, enforce penal protections under Section 127 BNS, and serve formal Vakalatnama Cease-and-Desist notices that legally compel banks to recall rogue field agencies. By transitioning the conflict from street-level coercion to structured executive OTS negotiations, we secure authentic 40% to 65% principal waivers and verified No Dues Certificates.
+                  No one should be threatened or trapped by collection agents. SettleLoans provides a shield against this harassment. We enforce your rights under Article 21 and Section 127 BNS. We send legal notices to stop field agents immediately. We move your case to formal settlement discussions. Our team helps you get 40% to 65% waivers and your official No Dues Certificate.
                 </p>
               </div>
 
-              {/* CompanySection Component */}
               <CompanySection />
             </section>
 
@@ -806,7 +800,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Muscle Tactics &amp; Legal Remedies</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
-                Comprehensive, expert legal answers regarding wrongful restraint, gate blocking, key snatching, police complaints, and institutional loan settlement.
+                Clear legal answers on gate blocking, key snatching, police complaints. And debt settlement rights.
               </p>
 
               <div className="space-y-3">
@@ -971,11 +965,11 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
                       Ashish Jhangra
                     </Link>
                   </div>
-                  <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
+                  <p className="text-xs text-slate-500">Chief Banking &amp. Debt Resolution Expert</p>
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-3">
-                Distinguished authority in banking jurisprudence, civil liberties against unlawful recovery agent intimidation, criminal wrongful confinement protections under Section 127 BNS, and RBI compromise settlement frameworks.
+                Expert in banking law, borrower rights, Section 127 BNS anti-confinement rules, and RBI compromise settlements.
               </p>
               <div className="pt-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
                 <Link href="/authors/ashish-jhangra" className="text-[#1F5EFF] font-semibold hover:underline flex items-center gap-1">
@@ -997,7 +991,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
               </div>
               <div className="font-bold text-base text-white mb-2">Agents Blocking Your Gate or Vehicle?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
-                Do not endure unlawful physical confinement or key snatching threats. Retain our senior advocates to issue immediate Cease-and-Desist notices, file criminal complaints under Section 127 BNS, and negotiate an institutional 40%–65% OTS.
+                Do not tolerate physical threats or blocked gates. Hire our advocates to send Cease-and-Desist notices, file criminal complaints under Section 127 BNS. And negotiate an official 40%–65% OTS.
               </p>
               <Link
                 href="/contact"

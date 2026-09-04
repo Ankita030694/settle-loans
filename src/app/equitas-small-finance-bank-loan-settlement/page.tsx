@@ -178,13 +178,7 @@ const jsonLdGraph = {
             "name": "M. Senthil Kumar"
           },
           "datePublished": "2026-06-24",
-          "reviewBody": "I operated a retail wholesale agency in Chennai and held an Equitas Small Finance Bank micro-business installment loan of ₹11.8 Lakhs. Following acute market disruptions, cash flow collapsed and the account slipped into NPA. Equitas field recovery agents were showing up at my store during peak business hours and automated NACH presentations created ₹35,000 in return fees. SettleLoans advocates intervened immediately, revoked the mandate sweeps, served an anti-harassment cease-and-desist notice, and structured a formal OTS directly with the Equitas Stressed Assets vertical in Chennai for ₹5.1 Lakhs. The stamped sanction letter and ₹0 NDC were delivered cleanly.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          }
+          "reviewBody": "I ran a retail shop in Chennai. I had an Equitas loan of ₹11.8 Lakhs. Market issues hit my sales hard. My account turned into an NPA. Recovery agents came to my shop daily. NACH bounce fees reached ₹35,000. SettleLoans stepped in fast. They stopped the mandate sweeps at once. They sent a legal notice to halt harassment. Then they spoke to the Equitas Stressed Assets team in Chennai. They settled my loan for ₹5.1 Lakhs. I got the stamped letter and my ₹0 NDC cleanly."
         },
         {
           "@type": "Review",
@@ -193,13 +187,7 @@ const jsonLdGraph = {
             "name": "Ananya Mukherjee"
           },
           "datePublished": "2026-07-19",
-          "reviewBody": "My Equitas SFB unsecured personal loan of ₹6.5 Lakhs went into default after unexpected medical emergencies. The bank added over ₹90,000 in penal interest and return penalties within five months. SettleLoans performed a forensic audit of the loan statement, enforced RBI fair lending directives to wipe out 100% of the penalty levies, and negotiated a 54% debt haircut on the core principal dues. Everything was handled strictly through official banking channels.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          }
+          "reviewBody": "My Equitas unsecured personal loan was ₹6.5 Lakhs. Medical costs caused my default. The bank added ₹90,000 in late fees in five months. SettleLoans checked my loan files. They used RBI fair lending rules to remove all penal fees. They settled the core principal with a 54% waiver. All talks went through official bank channels."
         },
         {
           "@type": "Review",
@@ -208,13 +196,7 @@ const jsonLdGraph = {
             "name": "Rajeshwar Rao"
           },
           "datePublished": "2026-05-15",
-          "reviewBody": "Received a statutory Section 25 PSSA legal demand notice from Equitas Small Finance Bank along with a notice for sole arbitration. I was anxious about potential court proceedings. SettleLoans drafted a thorough legal reply detailing my genuine business loss, challenged the unilateral arbitration appointment under Supreme Court guidelines, and represented me at the National Lok Adalat where the entire dispute was settled for ₹3.8 Lakhs against an outstanding claim of ₹8.4 Lakhs.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          }
+          "reviewBody": "I got a Section 25 PSSA notice from Equitas Bank. They also sent a private arbitration notice. I was worried about court actions. SettleLoans wrote a strong legal reply. They showed my genuine trade loss. They stopped the one-sided arbitrator under Supreme Court rules. They represented me at the National Lok Adalat. My ₹8.4 Lakh debt was settled for ₹3.8 Lakhs."
         },
         {
           "@type": "Review",
@@ -223,13 +205,7 @@ const jsonLdGraph = {
             "name": "Girish Patel"
           },
           "datePublished": "2026-08-11",
-          "reviewBody": "Equitas recovery collection callers were calling my elderly parents and threatening police action. SettleLoans escalated the severe fair practice violations to the Equitas Principal Nodal Officer, halted all third-party collection calls immediately, and negotiated an authorized 50% OTS discount with an official stamped letter and complete ₹0 No Dues Certificate.",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5",
-            "worstRating": "1"
-          }
+          "reviewBody": "Equitas collection agents called my elderly parents. They threatened police action. SettleLoans reported these violations to the Equitas Principal Nodal Officer. All third-party calls stopped at once. SettleLoans then secured an official 50% OTS discount. I received a stamped sanction letter and a full ₹0 No Dues Certificate."
         }
       ]
     },
@@ -242,7 +218,7 @@ const jsonLdGraph = {
           "name": "What is the Equitas Small Finance Bank loan settlement process and how does it work?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Equitas Small Finance Bank loan settlement process is a formal compromise mechanism governed under Reserve Bank of India Master Directions on Compromise Settlements. When an unsecured personal loan, micro-business loan (MBL), or small enterprise facility crosses 90 days of non-payment and transitions into Non-Performing Asset (NPA) status, the borrower submits a comprehensive hardship petition to Equitas SFB's Stressed Assets Resolution Desk. Following a Net Present Value (NPV) recovery evaluation, the bank issues an official stamped OTS Sanction Letter specifying the reduced lump-sum or structured installment amount. Direct payment into the loan account extinguishes all outstanding liabilities and entitles the borrower to a formal No Dues Certificate (NDC)."
+            "text": "Equitas loan settlement is an official compromise process. It runs under RBI compromise rules. A personal loan or micro-business loan crosses 90 days of non-payment. It then turns into a defaulted Asset (NPA). The borrower submits a hardship plea to Equitas SFB's Stressed Assets team. The bank runs a recovery value check. It then issues an official stamped OTS Sanction Letter. This letter states the reduced one-time settlement sum. Paying this amount clears all dues. The bank then issues a ₹0 No Dues Certificate (NDC)."
           }
         },
         {
@@ -250,7 +226,7 @@ const jsonLdGraph = {
           "name": "How can borrowers stop Equitas Small Finance Bank NACH bounce charges and repeated debit sweeps?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Borrowers can halt compounding NACH bounce fees through three structured steps: (1) Formally submit an electronic mandate revocation or stop-payment instruction to their destination bank under NPCI procedural guidelines; (2) Issue a written notice to Equitas Small Finance Bank requesting an immediate cessation of repetitive electronic presentations due to verified hardship; (3) Insist upon a 100% complete waiver of all accumulated bounce penalties and penal interest under the RBI Fair Lending Practice directives during One-Time Settlement negotiations."
+            "text": "Borrowers can stop recurring NACH bounce charges in three steps. First, ask your home bank to cancel the auto-debit mandate under NPCI rules. Second, write to Equitas SFB to stop repeated mandate claims due to genuine hardship. Third, ask for a 100% waiver of all bounce charges and penal interest during OTS talks under RBI Fair Lending Practice rules."
           }
         },
         {
@@ -258,7 +234,7 @@ const jsonLdGraph = {
           "name": "What percentage of debt waiver or haircut can you realistically negotiate with Equitas SFB?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "On unsecured personal loans and micro-business credit facilities, Equitas Small Finance Bank typically sanctions debt waivers ranging from 40% to 60% of total book dues. The achievable haircut depends directly on loan aging, delinquency classification (Substandard vs. Doubtful or Loss Asset), and the borrower's documented insolvency. Accounts delinquent beyond 180 to 365 days that have absorbed substantial balance-sheet provisioning qualify for maximum principal discounts alongside full cancellation of penal fees."
+            "text": "On unsecured personal loans and micro-business credit, Equitas SFB offers 40% to 60% debt waivers. The exact discount depends on loan aging and asset status. Older defaults past 180 to 365 days carry higher balance sheet reserves. These accounts get the largest principal cuts along with a complete waiver of penal charges."
           }
         },
         {
@@ -266,7 +242,7 @@ const jsonLdGraph = {
           "name": "How do you handle aggressive Equitas SFB recovery agents and stop workplace or home harassment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Master Directions on Recovery Agents and Scheduled Commercial Bank Fair Practices Codes, borrowers enjoy strict statutory protections: (a) Agents may only contact borrowers between 08:00 AM and 07:00 PM; (b) Reaching out to employers, colleagues, neighbors, or non-guarantor relatives is strictly illegal; (c) Intimidation, verbal abuse, public humiliation, or unauthorized premises entry is prohibited; (d) Agents must carry official bank ID cards and IIBF DRA certifications. In case of violations, borrowers should serve a legal cease-and-desist notice to Equitas SFB's Principal Nodal Officer and lodge an official complaint on the RBI Integrated Ombudsman portal (CMS)."
+            "text": "RBI Master Directions protect borrowers from recovery agent abuse. Agents may only call or visit between 08:00 AM and 07:00 PM. Contacting employers, friends, neighbors, or non-guarantor relatives is illegal. Agents cannot use abuse, threats, or public shaming. They must carry bank ID cards and IIBF DRA certificates. If agents break rules, send a cease-and-desist notice to the Equitas Principal Nodal Officer. You can also file a complaint on the RBI CMS portal."
           }
         },
         {
@@ -274,7 +250,7 @@ const jsonLdGraph = {
           "name": "Can Equitas Small Finance Bank file a criminal case or arrest a borrower for loan default?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Defaulting on an unsecured personal or micro-business loan is strictly a civil breach of contract under the Indian Contract Act, 1872. Police authorities have zero jurisdiction to register an FIR or make an arrest for genuine commercial or personal financial incapacity. While Equitas SFB may issue statutory legal notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for dishonoured NACH mandates, these are compoundable quasi-criminal proceedings heard in Magistrate Courts and are routinely resolved through advocate representation and compromise settlements."
+            "text": "No. Default on an unsecured personal or business loan is a civil matter under the Indian Contract Act, 1872. Police cannot register an FIR or arrest you for financial hardship. Equitas SFB may issue notices under Section 25 of the PSSA for failed NACH debits. These are compoundable legal matters in Magistrate Courts. Legal advocates resolve them through compromise settlements."
           }
         },
         {
@@ -282,7 +258,7 @@ const jsonLdGraph = {
           "name": "What is a Section 25 PSSA legal notice from Equitas SFB and how should you respond?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A Section 25 PSSA notice is a statutory 15-day demand notice issued when an automated NACH mandate dishonours due to insufficient funds. It is not an arrest warrant or court decree. Borrowers should promptly engage banking legal counsel to issue a comprehensive reply detailing bona fide financial hardship, challenging unauthorized multiple mandate sweeps, and opening formal channels for a compromise One-Time Settlement."
+            "text": "A Section 25 PSSA notice is a 15-day legal demand letter for a bounced NACH debit. It is not an arrest warrant or court decree. You should hire a banking advocate to send a formal reply. The reply must show your genuine financial distress. It must challenge repeated debit sweeps. It opens official channels for an OTS settlement."
           }
         },
         {
@@ -290,7 +266,7 @@ const jsonLdGraph = {
           "name": "How should borrowers handle unilateral arbitration notices issued by Equitas SFB?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Equitas SFB occasionally issues arbitration notices appointing a sole arbitrator. Under landmark Supreme Court rulings (Perkins Eastman Architects DVM v. HSCC (India) Ltd. and TRF Ltd. v. Energo Engineering Projects Ltd.), unilateral arbitrator appointments by lenders without mutual consent are legally void. Legal counsel can challenge the arbitrator's jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, halting unilateral ex-parte awards and redirecting the dispute into compromise settlement channels."
+            "text": "Equitas SFB sometimes sends notices appointing a sole arbitrator. Supreme Court rulings in Perkins Eastman and TRF Ltd make one-sided appointments invalid. Your legal counsel can challenge the arbitrator under Section 12 and Section 14 of the Arbitration Act, 1996. This stops one-sided ex-parte orders and moves the case toward a settlement."
           }
         },
         {
@@ -298,7 +274,7 @@ const jsonLdGraph = {
           "name": "Who within Equitas Small Finance Bank has the authority to sanction a One-Time Settlement (OTS)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under Equitas SFB's internal Delegation of Financial Powers (DoFP) matrix, outsourced tele-callers and field collection agents have zero authority to grant debt waivers. Substantive debt haircuts (40% to 60%) must be evaluated and approved by Equitas SFB's Stressed Assets Resolution Desk, Regional Credit Committee, or Zonal Head of Collections, documented via an authentic stamped sanction letter on official corporate letterhead."
+            "text": "Outsourced callers and field recovery agents have zero authority to grant debt waivers. True debt waivers of 40% to 60% require approval from the Equitas SFB Stressed Assets Desk, Regional Credit Committee, or Zonal Collections Head. The approved deal comes as an official stamped sanction letter on bank letterhead."
           }
         },
         {
@@ -306,7 +282,7 @@ const jsonLdGraph = {
           "name": "How does settling an Equitas SFB loan impact your CIBIL score and credit profile?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Upon receiving the agreed settlement payment, Equitas SFB updates credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) with the status 'Settled' or 'Post-Write-off Settled' with an outstanding balance of ₹0. While this causes a temporary credit score drop of 75 to 150 points and initiates a standard 12-month cooling-off window, it permanently terminates compounding default marks and legal proceedings. Borrowers can rebuild their score back to 750+ within 18 to 24 months through secured credit instruments."
+            "text": "After settlement payment, Equitas SFB marks the account as 'Settled' or 'Post-Write-off Settled' with a ₹0 balance in credit bureaus. Your score may drop by 75 to 150 points during a 12-month cooling-off window. However, this halts monthly default marks and legal risk. You can rebuild your score back to 750+ within 18 to 24 months using a secured credit card."
           }
         },
         {
@@ -314,7 +290,7 @@ const jsonLdGraph = {
           "name": "How long does Equitas Small Finance Bank take to issue the No Dues Certificate (NDC) post-settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, Equitas Small Finance Bank is legally mandated to issue a formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving full settlement payment. If the bank fails to deliver the closure certificate within 30 days without lawful justification, it is statutorily liable to pay compensation of ₹5,000 per day of delay directly to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, Equitas SFB must issue the No Dues Certificate within 30 days of full settlement payment. The bank must also update credit bureau records in this timeframe. If the bank delays without a valid reason, it must pay the borrower ₹5,000 per day of delay."
           }
         }
       ]
@@ -356,43 +332,43 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
   const faqs = [
     {
       question: "What is the Equitas Small Finance Bank loan settlement process and how does it work?",
-      answer: "The Equitas Small Finance Bank loan settlement process is a formal compromise mechanism governed under Reserve Bank of India Master Directions on Compromise Settlements. When an unsecured personal loan, micro-business loan (MBL), or small enterprise facility crosses 90 days of non-payment and transitions into Non-Performing Asset (NPA) status, the borrower submits a comprehensive hardship petition to Equitas SFB's Stressed Assets Resolution Desk. Following a Net Present Value (NPV) recovery evaluation, the bank issues an official stamped OTS Sanction Letter specifying the reduced lump-sum or structured installment amount. Direct payment into the loan account extinguishes all outstanding liabilities and entitles the borrower to a formal No Dues Certificate (NDC)."
+      answer: "Equitas loan settlement is an official compromise process. It runs under RBI compromise rules. A personal loan or micro-business loan crosses 90 days of non-payment. It then turns into a Non-Performing Asset (NPA). The borrower submits a hardship plea to Equitas SFB's Stressed Assets team. The bank runs a recovery value check. It then issues an official stamped OTS Sanction Letter. This letter states the reduced one-time settlement sum. Paying this amount clears all dues. The bank then issues a ₹0 No Dues Certificate (NDC)."
     },
     {
       question: "How can borrowers stop Equitas Small Finance Bank NACH bounce charges and repeated debit sweeps?",
-      answer: "Borrowers can halt compounding NACH bounce fees through three structured steps: (1) Formally submit an electronic mandate revocation or stop-payment instruction to their destination bank under NPCI procedural guidelines; (2) Issue a written notice to Equitas Small Finance Bank requesting an immediate cessation of repetitive electronic presentations due to verified hardship; (3) Insist upon a 100% complete waiver of all accumulated bounce penalties and penal interest under the RBI Fair Lending Practice directives during One-Time Settlement negotiations."
+      answer: "Borrowers can stop recurring NACH bounce charges in three steps. First, ask your home bank to cancel the auto-debit mandate under NPCI rules. Second, write to Equitas SFB to stop repeated mandate claims due to genuine hardship. Third, ask for a 100% waiver of all bounce charges and penal interest during OTS talks under RBI Fair Lending Practice rules."
     },
     {
       question: "What percentage of debt waiver or haircut can you realistically negotiate with Equitas SFB?",
-      answer: "On unsecured personal loans and micro-business credit facilities, Equitas Small Finance Bank typically sanctions debt waivers ranging from 40% to 60% of total book dues. The achievable haircut depends directly on loan aging, delinquency classification (Substandard vs. Doubtful or Loss Asset), and the borrower's documented insolvency. Accounts delinquent beyond 180 to 365 days that have absorbed substantial balance-sheet provisioning qualify for maximum principal discounts alongside full cancellation of penal fees."
+      answer: "On unsecured personal loans and micro-business credit, Equitas SFB offers 40% to 60% debt waivers. The exact discount depends on loan aging and asset status. Older defaults past 180 to 365 days carry higher balance sheet reserves. These accounts get the largest principal cuts along with a complete waiver of penal charges."
     },
     {
       question: "How do you handle aggressive Equitas SFB recovery agents and stop workplace or home harassment?",
-      answer: "Under RBI Master Directions on Recovery Agents and Scheduled Commercial Bank Fair Practices Codes, borrowers enjoy strict statutory protections: (a) Agents may only contact borrowers between 08:00 AM and 07:00 PM; (b) Reaching out to employers, colleagues, neighbors, or non-guarantor relatives is strictly illegal; (c) Intimidation, verbal abuse, public humiliation, or unauthorized premises entry is prohibited; (d) Agents must carry official bank ID cards and IIBF DRA certifications. In case of violations, borrowers should serve a legal cease-and-desist notice to Equitas SFB's Principal Nodal Officer and lodge an official complaint on the RBI Integrated Ombudsman portal (CMS)."
+      answer: "RBI Master Directions protect borrowers from recovery agent abuse. Agents may only call or visit between 08:00 AM and 07:00 PM. Contacting employers, friends, neighbors, or non-guarantor relatives is illegal. Agents cannot use abuse, threats, or public shaming. They must carry bank ID cards and IIBF DRA certificates. If agents break rules, send a cease-and-desist notice to the Equitas Principal Nodal Officer. You can also file a complaint on the RBI CMS portal."
     },
     {
       question: "Can Equitas Small Finance Bank file a criminal case or arrest a borrower for loan default?",
-      answer: "No. Defaulting on an unsecured personal or micro-business loan is strictly a civil breach of contract under the Indian Contract Act, 1872. Police authorities have zero jurisdiction to register an FIR or make an arrest for genuine commercial or personal financial incapacity. While Equitas SFB may issue statutory legal notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for dishonoured NACH mandates, these are compoundable quasi-criminal proceedings heard in Magistrate Courts and are routinely resolved through advocate representation and compromise settlements."
+      answer: "No. Default on an unsecured personal or business loan is a civil matter under the Indian Contract Act, 1872. Police cannot register an FIR or arrest you for financial hardship. Equitas SFB may issue notices under Section 25 of the PSSA for failed NACH debits. These are compoundable legal matters in Magistrate Courts. Legal advocates resolve them through compromise settlements."
     },
     {
       question: "What is a Section 25 PSSA legal notice from Equitas SFB and how should you respond?",
-      answer: "A Section 25 PSSA notice is a statutory 15-day demand notice issued when an automated NACH mandate dishonours due to insufficient funds. It is not an arrest warrant or court decree. Borrowers should promptly engage banking legal counsel to issue a comprehensive reply detailing bona fide financial hardship, challenging unauthorized multiple mandate sweeps, and opening formal channels for a compromise One-Time Settlement."
+      answer: "A Section 25 PSSA notice is a 15-day legal demand letter for a bounced NACH debit. It is not an arrest warrant or court decree. You should hire a banking advocate to send a formal reply. The reply must show your genuine financial distress. It must challenge repeated debit sweeps. It opens official channels for an OTS settlement."
     },
     {
       question: "How should borrowers handle unilateral arbitration notices issued by Equitas SFB?",
-      answer: "Equitas SFB occasionally issues arbitration notices appointing a sole arbitrator. Under landmark Supreme Court rulings (Perkins Eastman Architects DVM v. HSCC (India) Ltd. and TRF Ltd. v. Energo Engineering Projects Ltd.), unilateral arbitrator appointments by lenders without mutual consent are legally void. Legal counsel can challenge the arbitrator's jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, halting unilateral ex-parte awards and redirecting the dispute into compromise settlement channels."
+      answer: "Equitas SFB sometimes sends notices appointing a sole arbitrator. Supreme Court rulings in Perkins Eastman and TRF Ltd make unilateral appointments invalid. Your legal counsel can challenge the arbitrator under Section 12 and Section 14 of the Arbitration Act, 1996. This stops one-sided ex-parte orders and moves the case toward a compromise settlement."
     },
     {
       question: "Who within Equitas Small Finance Bank has the authority to sanction a One-Time Settlement (OTS)?",
-      answer: "Under Equitas SFB's internal Delegation of Financial Powers (DoFP) matrix, outsourced tele-callers and field collection agents have zero authority to grant debt waivers. Substantive debt haircuts (40% to 60%) must be evaluated and approved by Equitas SFB's Stressed Assets Resolution Desk, Regional Credit Committee, or Zonal Head of Collections, documented via an authentic stamped sanction letter on official corporate letterhead."
+      answer: "Outsourced callers and field recovery agents have zero authority to grant debt waivers. True debt waivers of 40% to 60% require approval from the Equitas SFB Stressed Assets Desk, Regional Credit Committee, or Zonal Collections Head. The approved deal comes as an official stamped sanction letter on bank letterhead."
     },
     {
       question: "How does settling an Equitas SFB loan impact your CIBIL score and credit profile?",
-      answer: "Upon receiving the agreed settlement payment, Equitas SFB updates credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) with the status 'Settled' or 'Post-Write-off Settled' with an outstanding balance of ₹0. While this causes a temporary credit score drop of 75 to 150 points and initiates a standard 12-month cooling-off window, it permanently terminates compounding default marks and legal proceedings. Borrowers can rebuild their score back to 750+ within 18 to 24 months through secured credit instruments."
+      answer: "After settlement payment, Equitas SFB marks the account as 'Settled' or 'Post-Write-off Settled' with a ₹0 balance in credit bureaus. Your score may drop by 75 to 150 points during a 12-month cooling-off window. However, this halts monthly default marks and legal risk. You can rebuild your score back to 750+ within 18 to 24 months using a secured credit card."
     },
     {
       question: "How long does Equitas Small Finance Bank take to issue the No Dues Certificate (NDC) post-settlement?",
-      answer: "Under RBI Circular RBI/2023-24/60, Equitas Small Finance Bank is legally mandated to issue a formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving full settlement payment. If the bank fails to deliver the closure certificate within 30 days without lawful justification, it is statutorily liable to pay compensation of ₹5,000 per day of delay directly to the borrower."
+      answer: "Under RBI Circular RBI/2023-24/60, Equitas SFB must issue the No Dues Certificate within 30 days of full settlement payment. The bank must also update credit bureau records in this timeframe. If the bank delays without a valid reason, it must pay the borrower ₹5,000 per day of delay."
     }
   ];
 
@@ -517,9 +493,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Equitas SFB Crux</span>
               </div>
-              <p className="text-[11px] leading-relaxed text-blue-800">
-                Equitas Small Finance Bank retail and micro-business loans crossing 90 days of default enter Non-Performing Asset (NPA) status under RBI IRACP rules. Structured legal representation bypasses field recovery pressure, halts repeated NACH returns, and secures 40%–60% principal waivers with 100% penal cancellation.
-              </p>
+              <p className="text-[11px] leading-relaxed text-blue-800"> Equitas loans past 90 days of default turn into NPA status. This follows RBI IRACP rules. Legal help stops field recovery visits. It stops repeated NACH bounce fees. It secures 40% to 60% principal waivers with zero penal fees. </p>
             </div>
           </aside>
 
@@ -533,26 +507,11 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <span>Key Takeaways: Equitas Small Finance Bank Loan Settlement</span>
               </div>
               <ul className="space-y-2.5 text-sm text-slate-700">
-                <li className="flex items-start gap-2.5">
-                  <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Statutory Compromise Rights:</strong> Loan default with Equitas Small Finance Bank is strictly a civil breach of contract under the Indian Contract Act, 1872. Insolvent retail and micro-business borrowers hold statutory rights under RBI Master Directions to request a compromise One-Time Settlement (OTS).</span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Halting Compounding NACH Charges:</strong> Revoking electronic mandates under NPCI procedural guidelines stops repeated automated presentation fees. Legal advocacy demands a complete 100% waiver of all accumulated bounce charges and penal interest under RBI Fair Lending Practice rules.</span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Realistic 40%–60% Principal Haircuts:</strong> Once an unsecured personal or micro-business loan crosses 90 days into NPA or Doubtful Asset classification, Equitas SFB applies Net Present Value (NPV) recovery calculations that justify significant principal debt waivers.</span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Defending Statutory Summons:</strong> Section 25 PSSA demand notices and unilateral private arbitration notices can be effectively answered and converted into binding, non-appealable settlement awards through National Lok Adalats.</span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Mandatory 30-Day ₹0 NDC Delivery:</strong> Under RBI Circular RBI/2023-24/60, Equitas SFB is legally obligated to release a formal No Dues Certificate and update credit bureaus within 30 calendar days of settlement payment, backed by a statutory ₹5,000/day delay penalty.</span>
-                </li>
+                <li className="flex items-start gap-2.5"> <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <span><strong>legal Compromise Rights.</strong> Loan default is a civil matter under the Indian Contract Act, 1872. Insolvent borrowers have the legal right to ask for an OTS under RBI Master Directions.</span> </li>
+                <li className="flex items-start gap-2.5"> <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <span><strong>Halting adding NACH Charges.</strong> Canceling e-mandates under NPCI rules stops repeated bounce fees. Legal counsel demands a 100% waiver of all bounce charges under RBI Fair Lending Practice rules.</span> </li>
+                <li className="flex items-start gap-2.5"> <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <span><strong>Realistic 40% to 60% Principal Haircuts.</strong> Loans past 90 days enter NPA status. Equitas SFB applies recovery checks that justify deep debt waivers on core principal dues.</span> </li>
+                <li className="flex items-start gap-2.5"> <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <span><strong>Defending legal Summons.</strong> Advocates answer Section 25 PSSA and arbitration notices promptly. They convert disputes into binding settlement awards through National Lok Adalats.</span> </li>
+                <li className="flex items-start gap-2.5"> <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <span><strong>Mandatory 30-Day ₹0 NDC Giving.</strong> Under RBI Circular RBI/2023-24/60, Equitas SFB must issue a No Dues Certificate within 30 days. Delays attract a penalty of ₹5,000 per day.</span> </li>
               </ul>
             </div>
             
@@ -563,20 +522,16 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <span>1. SFB Credit Model &amp; Default Pressures</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding Equitas Small Finance Bank&apos;s Credit</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Equitas Small Finance Bank Limited (Equitas SFB) holds a prominent position in India&apos;s differentiated banking ecosystem. Transitioning from a major microfinance non-banking financial institution into a full-fledged Scheduled Commercial Bank licensed under Section 22 of the Banking Regulation Act, 1949, Equitas SFB maintains a substantial credit portfolio. Its asset book is heavily concentrated in unsecured personal loans, micro-business loans (MBL), self-employed merchant credit lines, used commercial vehicle financing, and small enterprise working capital facilities.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Because Equitas SFB operates with a legacy of ground-level microfinance collections, its recovery infrastructure functions with an intensity distinct from conventional public sector banks. When an equated monthly installment (EMI) or business installment is missed, the bank&apos;s automated systems trigger rapid escalation sequences. Borrowers experience immediate high-frequency automated calling, interactive voice response alerts, repetitive electronic National Automated Clearing House (NACH) mandate presentations, and prompt dispatch of field recovery agents directly to commercial establishments, retail shops, or residences.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                For micro-entrepreneurs, traders, and salaried professionals confronting genuine economic distress—stemming from market downturns, client payment defaults, health emergencies, or loss of employment—this dual pressure of compounding bank bounce penalties and aggressive recovery contact creates severe psychological and operational strain. It is critical for distressed borrowers to recognize that defaulting on an unsecured loan is strictly a civil dispute governed by the Indian Contract Act, 1872. Under Reserve Bank of India (RBI) regulatory frameworks, borrowers possess well-defined statutory rights to stop collection misconduct, mandate an audit of inflated penalty ledgers, and execute an authorized compromise One-Time Settlement (OTS).
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg"> Equitas Small Finance Bank is a major lender in India. It grew from a micro-lender to a small finance bank. It holds a banking license under Section 22 of the Banking Regulation Act, 1949. Its loan book holds personal loans and micro-business loans (MBL). It also funds vehicle loans and small business credit.
+
+Equitas SFB uses strict collection teams. When an EMI is missed, automated systems act quickly. Borrowers get daily phone calls and automated voice alerts. The bank runs repeated NACH auto-debit hits. Field agents often visit shops, workplaces. and homes.
+
+Job loss, business drop, or medical bills can cause default. Adding bounce fees and agent visits adds heavy stress. Loan default is a civil dispute under the Indian Contract Act, 1872. Under RBI rules, you have clear legal rights. You can stop agent abuse, audit penal fees. and seek a formal One-Time Settlement (OTS). </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
                 <div className="flex items-start gap-3">
                   <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                    <strong>Statutory Principle:</strong> Under the Reserve Bank of India Master Directions on Compromise Settlements and Technical Write-offs, all Scheduled Commercial Banks, including Small Finance Banks, are mandated to offer transparent, board-approved compromise mechanisms for non-wilful defaulters experiencing genuine financial insolvency.
+                    <strong>Statutory Principle.</strong> Under RBI Master Directions on Compromise Settlements, all banks must provide compromise mechanisms. This applies to non-wilful defaulters facing genuine financial distress.
                   </div>
                 </div>
               </div>
@@ -589,68 +544,11 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Equitas SFB Delinquency Lifecycle: SMA to NPA</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances (IRACP) and Expected Credit Loss (ECL) frameworks under Indian Accounting Standard 109 (Ind AS 109), Equitas Small Finance Bank classifies overdue credit facilities into strictly regulated Days Past Due (DPD) aging buckets. Understanding these institutional classifications is vital for timing compromise settlement negotiations to achieve maximum debt relief.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                During the Special Mention Account (SMA) stages (DPD 1 through 90), Equitas SFB focuses on aggressive regularisation and overdue collection through tele-calling and ground-level branch personnel. However, once an account crosses the critical 90-day delinquency threshold without full installment regularisation, the loan is formally classified as a Substandard Non-Performing Asset (NPA). At this stage, banking regulations require Equitas SFB to stop accruing interest into its recognized income and allocate mandatory balance-sheet provisioning against potential default losses.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg"> Equitas SFB tracks overdue loans using RBI IRACP norms and Ind AS 109 rules. It groups overdue loans into strict Days Past Due (DPD) stages. Knowing these stages helps you time your settlement talks for maximum debt relief.
 
-              {/* Comprehensive Stage Table */}
-              <div className="overflow-x-auto my-6">
-                <table className="min-w-full bg-white">
-                  <thead>
-                    <tr>
-                      <th>Delinquency Classification</th>
-                      <th>Overdue Days (DPD)</th>
-                      <th>Equitas SFB Operational Actions</th>
-                      <th>Statutory &amp; Legal Exposure</th>
-                      <th>Compromise Haircut Scope</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td className="font-bold text-slate-900">SMA-0 (Initial Default)</td>
-                      <td>1 – 30 Days</td>
-                      <td>Automated IVR calls, daily SMS reminders, repetitive electronic NACH auto-debit sweeps.</td>
-                      <td>Zero legal exposure; initial bureau DPD tracking begins.</td>
-                      <td>Negligible (Bank demands full regularisation of overdue EMI).</td>
-                    </tr>
-                    <tr>
-                      <td className="font-bold text-slate-900">SMA-1 (Mid-Level Arrears)</td>
-                      <td>31 – 60 Days</td>
-                      <td>Intensive telephonic collections, field executive assignments, loan acceleration notices.</td>
-                      <td>Statutory warning letters; noticeable decline in CIBIL credit score.</td>
-                      <td>Low (Tenure extensions or restructuring considered).</td>
-                    </tr>
-                    <tr>
-                      <td className="font-bold text-slate-900">SMA-2 (Pre-NPA Alert)</td>
-                      <td>61 – 90 Days</td>
-                      <td>Branch manager follow-ups, outsourced collection visits, final demand notices.</td>
-                      <td>Section 25 PSSA / Section 138 NI Act statutory 15-day demand notices.</td>
-                      <td>Moderate (Discussions for waiver of penal interest can begin).</td>
-                    </tr>
-                    <tr>
-                      <td className="font-bold text-amber-700">Substandard NPA</td>
-                      <td>91 – 180 Days</td>
-                      <td>Transferred to Stressed Assets Resolution Desk; mandatory Ind AS 109 provisioning.</td>
-                      <td>Magistrate Court summons under Sec 25 PSSA; Lok Adalat pre-conciliation.</td>
-                      <td><span className="text-emerald-700 font-bold">High (35%–50% Principal Haircut).</span></td>
-                    </tr>
-                    <tr>
-                      <td className="font-bold text-red-700">Doubtful / Loss Asset</td>
-                      <td>181 – 365+ Days</td>
-                      <td>High provisioning absorbed; internal technical write-off evaluation by Credit Committee.</td>
-                      <td>Arbitration claims, civil summary recovery suits (Order 37 CPC), Lok Adalat.</td>
-                      <td><span className="text-emerald-700 font-bold">Maximum (50%–60% Debt Haircut).</span></td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
+During early SMA stages (DPD 1 to 90), Equitas SFB focuses on collections. Branch staff and agents make phone calls. Once a loan crosses 90 days unpaid, it becomes a Substandard NPA. The bank must stop booking unpaid interest as income. It must also set aside cash reserves against the bad loan.
 
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When an unsecured personal loan or micro-business loan reaches Doubtful Asset status or undergoes technical write-off, Equitas SFB has already absorbed 100% of the loan value in capital provisions on its balance sheet. Under these circumstances, recovering an upfront lump-sum through a negotiated One-Time Settlement provides the bank with an immediate write-back to operating profit and eliminates persistent bad-asset carrying costs, creating substantial institutional incentive to sanction a deep debt waiver.
-              </p>
+When a loan becomes Doubtful or gets written off, Equitas SFB covers the full loan value in loss reserves. Recovering cash via an OTS gives the bank a fast recovery gain. It cleans bad loan assets from their balance sheet. This gives the bank strong reason to grant a 40% to 60% debt waiver. </p>
             </section>
 
             {/* Section 3: Halting NACH Bounce Charges & Penal Levies */}
@@ -660,21 +558,15 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <span>3. Halting NACH Bounce Charges &amp; Penal Fees</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Equitas SFB Bounce Charges &amp; NACH Hits</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                A primary driver of financial distress among defaulted borrowers is the uninhibited compounding of electronic auto-debit return charges. Equitas Small Finance Bank&apos;s automated treasury operations frequently re-present electronic NACH mandates two to four times in a single billing cycle. When a borrower&apos;s operating bank account lacks sufficient balance, the destination bank levies a return fee ranging from ₹250 to ₹500 plus GST per bounce, while Equitas SFB simultaneously debits internal late payment and return charges of ₹450 to ₹800 plus GST.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Over a period of four to six months, these repetitive presentation sweeps can drain tens of thousands of rupees from a borrower&apos;s essential liquidity or artificially inflate the outstanding loan ledger with arbitrary penalty fees. Under the Reserve Bank of India&apos;s Fair Lending Practice directives on Penal Charges in Loan Accounts (2023), banks and financial institutions are strictly prohibited from compounding penal charges or capitalizing overdue interest into principal.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers facing this cycle must execute two decisive legal maneuvers:
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                First, under National Payments Corporation of India (NPCI) procedural frameworks and RBI consumer protection directives, a borrower maintains the absolute legal authority to issue written instructions or submit a net-banking stop-mandate request to their destination bank to revoke or suspend the specific e-NACH mandate linked to the Equitas SFB loan, immediately arresting further presentation return charges.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Second, during structured One-Time Settlement negotiations, legal advocates demand an absolute 100% complete waiver of all accumulated bounce fees, penal charges, and incidental collection costs. In approved compromise settlements, Equitas SFB completely cancels these ancillary levies, calculating the settlement discount exclusively against the genuine core outstanding principal balance.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg"> Recurring auto-debit return charges create heavy strain for defaulted borrowers. Equitas SFB systems often present NACH mandates multiple times each month. When your bank account lacks funds, your bank charges ₹250 to ₹500 plus GST per bounce. Equitas SFB also adds late charges of ₹450 to ₹800 plus GST.
+
+Over several months, these failed debits cost tens of thousands of rupees. They inflate your total debt with unfair penalty fees. Under RBI Fair Lending Practice rules (2023), banks cannot compound penal charges. They cannot add overdue interest into principal.
+
+Borrowers must take two clear steps to protect their money.
+
+First, ask your bank to cancel the e-NACH auto-debit mandate under NPCI rules. This stops recurring debit hits and halts future bounce fees.
+
+Second, demand a 100% waiver of all bounce fees and penal interest during OTS talks. In approved settlements, Equitas SFB waives these charges in full. It calculates the final settlement sum on the core principal balance. </p>
             </section>
 
             {/* Section 4: OTS Haircut Policies & NPV Valuation */}
@@ -684,12 +576,9 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Equitas SFB One-Time Settlement (OTS)</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under the RBI Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24), Equitas Small Finance Bank adheres to a board-approved compromise settlement policy. Rather than relying on subjective staff discretion, the bank evaluates debt settlement proposals using a mathematical Net Present Value (NPV) recovery methodology.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Because unsecured personal loans and micro-business credit lines possess no underlying physical collateral (such as real estate or machinery) that can be seized under SARFAESI proceedings, Equitas SFB must mathematically evaluate an immediate lump-sum settlement offer against the heavily discounted, uncertain future cash flow of protracted court litigation, accounting for legal fees, advocate retainers, court processing friction, and capital locked in non-accrual provisioning.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg"> Under RBI Master Directions on Compromise Settlements (2023), Equitas SFB follows a board-approved settlement policy. The bank evaluates settlement bids using Net Present Value (NPV) rules rather than staff whim.
+
+Unsecured personal loans and micro-business credit lack physical collateral. Equitas SFB cannot seize property under SARFAESI rules. The bank compares a lump-sum cash offer against the slow pace and costs of civil court suits. It accounts for lawyer fees, court delays. and locked capital reserves. </p>
 
               {/* Formula Container Box */}
               <div className="bg-slate-900 text-white rounded-2xl p-5 my-6 shadow-md border border-slate-800">
@@ -700,9 +589,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <div className="text-center py-3 my-2 bg-slate-800/80 rounded-xl font-mono text-sm sm:text-base text-blue-200 border border-slate-700">
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
-                <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated future recoveries across time period t, r denotes the discount rate, and deductions reflect judicial friction, advocate fees, and capital immobilized under Ind AS 109 provisioning.
-                </p>
+                <p className="text-xs text-slate-300 leading-relaxed mt-2"> Where C_t is estimated cash recovery over time period t. The letter r denotes the discount rate. Deductions cover court fees, legal costs, and Ind AS 109 capital reserves. </p>
               </div>
 
               {/* Settlement Haircut Slabs Table */}
@@ -711,41 +598,41 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Credit Facility Type</th>
-                      <th>Delinquency Aging Category</th>
-                      <th>Penal &amp; Bounce Waiver</th>
-                      <th>Principal Haircut Range</th>
-                      <th>Recommended Opening Offer</th>
+                      <th>Credit Facility Type.</th>
+                      <th>default Aging Category.</th>
+                      <th>Penal & Bounce Waiver.</th>
+                      <th>Principal Haircut Range.</th>
+                      <th>Recommended Opening Offer.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Equitas Unsecured Personal Loan</td>
-                      <td>90 – 180 Days (Substandard NPA)</td>
-                      <td>100% Full Waiver</td>
-                      <td>30% – 45% Principal Waiver</td>
-                      <td>Offer 40%–50% of Core Ledger Dues</td>
+                      <td className="font-bold text-slate-900">Equitas Unsecured Personal Loan.</td>
+                      <td>90 to 180 Days (Substandard NPA).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>30% to 45% Principal Waiver.</td>
+                      <td>Offer 40% to 50% of Core Ledger Dues.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Equitas Unsecured Personal Loan</td>
-                      <td>181 – 365+ Days (Doubtful Asset)</td>
-                      <td>100% Full Waiver</td>
-                      <td>45% – 60% Principal Waiver</td>
-                      <td>Offer 35%–40% of Core Ledger Dues</td>
+                      <td className="font-bold text-slate-900">Equitas Unsecured Personal Loan.</td>
+                      <td>181 to 365+ Days (Doubtful Asset).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>45% to 60% Principal Waiver.</td>
+                      <td>Offer 35% to 40% of Core Ledger Dues.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Equitas Micro-Business Loan (MBL)</td>
-                      <td>90 – 180 Days (Substandard NPA)</td>
-                      <td>100% Full Waiver</td>
-                      <td>30% – 45% Principal Waiver</td>
-                      <td>Offer 45%–55% of Principal Outstanding</td>
+                      <td className="font-bold text-slate-900">Equitas Micro-Business Loan (MBL).</td>
+                      <td>90 to 180 Days (Substandard NPA).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>30% to 45% Principal Waiver.</td>
+                      <td>Offer 45% to 55% of Principal Outstanding.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Equitas Micro-Business Loan (MBL)</td>
-                      <td>180+ Days (Written-Off / Doubtful)</td>
-                      <td>100% All Penal Charges</td>
-                      <td>50% – 65% Principal Waiver</td>
-                      <td>Offer 30%–35% of Total Principal Dues</td>
+                      <td className="font-bold text-slate-900">Equitas Micro-Business Loan (MBL).</td>
+                      <td>180+ Days (Written-Off / Doubtful).</td>
+                      <td>100% All Penal Charges.</td>
+                      <td>50% to 65% Principal Waiver.</td>
+                      <td>Offer 30% to 35% of Total Principal Dues.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -812,15 +699,11 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <span>5. Recovery Practices &amp; RBI Harassment Defense</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Equitas SFB Recovery Practices Under RBI</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Equitas Small Finance Bank utilizes a combination of internal branch recovery executives and outsourced Debt Recovery Agencies (DRAs). Due to high recovery incentive targets, ground-level collection agents frequently cross regulatory boundaries by conducting persistent telephonic harassment, visiting borrower business premises or residences during peak hours, and attempting to contact family members, employers, or business acquaintances whose contact numbers were listed as references during loan onboarding.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The Reserve Bank of India Master Directions on Recovery Agents and Scheduled Commercial Bank Fair Practices Code establish explicit, non-negotiable statutory safeguards: (a) Agents are strictly restricted to calling or visiting borrowers between 08:00 AM and 07:00 PM; (b) Reaching out to employers, colleagues, neighbors, or non-guarantor family members is strictly unlawful; (c) Any form of verbal abuse, physical intimidation, workplace disruption, or public shaming is a punishable regulatory violation; (d) All field recovery personnel must carry authentic bank authorization letters and Indian Institute of Banking &amp; Finance (IIBF) DRA accreditation.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers subjected to collection harassment should systematically document call recordings, text messages, and CCTV recordings. Serving a formal advocate cease-and-desist notice to Equitas SFB&apos;s Principal Nodal Officer (PNO) and escalating documented breaches to the RBI Integrated Ombudsman portal (CMS) triggers immediate regulatory scrutiny, forcing the bank to halt unapproved third-party contact and re-establish formal, professional settlement communication channels.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg"> Equitas Small Finance Bank uses branch recovery staff and outsourced Debt Recovery Agencies (DRAs). Due to high monthly recovery targets, ground agents often break rules. They make endless phone calls. They visit borrower business shops or homes during odd hours. They also try to call family members, employers, or friends listed as loan references.
+
+The RBI Master Directions on Recovery Agents establish strict legal safeguards. Agents may only call or visit borrowers between 08:00 AM and 07:00 PM. Reaching out to employers, colleagues, neighbors, or non-guarantor family is strictly illegal. Any verbal abuse, physical threats, workplace disruption, or public shaming is a punishable offense. All field agents must carry bank authorization letters and IIBF DRA certificates.
+
+Borrowers facing collection abuse should record phone calls, text messages. and visit videos. Serving a legal cease-and-desist notice to the Equitas SFB Principal Nodal Officer (PNO) halts rogue agents. Filing a complaint on the RBI Integrated Ombudsman portal (CMS) triggers swift regulatory action. This forces the bank to stop third-party harassment and open formal settlement talks. </p>
             </section>
 
             {/* Section 7: Step-by-Step SFB Settlement Roadmap */}
@@ -830,74 +713,66 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <span>6. Step-by-Step SFB Settlement Roadmap</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with Equitas</h2>
-              <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Executing a legally airtight, financially optimized One-Time Settlement with Equitas Small Finance Bank requires a structured, evidence-backed approach:
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg"> Executing an official One-Time Settlement with Equitas SFB requires a clear, step-by-step plan: </p>
 
               <div className="space-y-6">
-                {/* Phase 1 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">1</span>
-                    Hardship Dossier Compilation &amp; Financial Incapacity Documentation
+                    Hardship Dossier Compilation &amp; Documentation
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Assemble comprehensive documentary proof establishing bona fide, non-wilful financial hardship. Essential records include audited financial statements showing business revenue contraction, GST return filings evidencing decreased turnover, job termination letters, salary reduction slips, hospital discharge summaries, or bank account statements evidencing depleted liquidity. This substantiates that the default is involuntary and qualifies for OTS relief under RBI frameworks.
+                    Gather documents showing genuine financial hardship. Collect medical bills, job layoff letters, salary cuts, or audited accounts showing business losses. This proves the default is non-wilful and qualifies for an OTS under RBI rules.
                   </p>
                 </div>
 
-                {/* Phase 2 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">2</span>
-                    Mandate Cancellation &amp; Directing Formal Communication
+                    Mandate Cancellation &amp; Directing Communication
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Instruct your bank to revoke the e-NACH auto-debit mandate to halt recurring return charges. Issue a formal written notice to Equitas Small Finance Bank instructing that all future communication regarding the loan account be conducted strictly in writing via official email or through designated legal counsel, establishing an auditable evidentiary record.
+                    Instruct your home bank to cancel e-NACH auto-debits to stop recurring bounce fees. Send a written notice to Equitas SFB directing that all future loan talks happen strictly in writing via official email or legal counsel.
                   </p>
                 </div>
 
-                {/* Phase 3 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">3</span>
                     Submitting Compromise Proposal to Stressed Assets Desk
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Submit a formal OTS petition addressed to Equitas SFB&apos;s Zonal Stressed Assets Resolution Desk citing the RBI Master Direction on Compromise Settlements. Anchor the initial settlement offer at 25% to 35% of total book dues to leave adequate room for structured counter-negotiation while demanding 100% elimination of all penal interest and bounce penalties.
+                    Submit a formal OTS petition to the Equitas SFB Stressed Assets Desk under RBI Master Directions. Start with an offer of 25% to 35% of total ledger dues. Demand a 100% waiver of penal interest and bounce charges.
                   </p>
                 </div>
 
-                {/* Phase 4 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">4</span>
                     Managing Counter-Demands &amp; Credit Committee Escalation
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Equitas SFB will initially reject low opening bids and propose modest discounts (10%–20%). Experienced banking counsel counters by demonstrating that settlement funds are being arranged via third-party familial support or non-business asset liquidation, guiding the Credit Committee toward the target 40% to 60% principal waiver bracket.
+                    Equitas SFB will first counter with small 10% to 20% discounts. Your banking lawyer demonstrates that settlement funds come from third-party family aid. This moves the Credit Committee toward the target 40% to 60% principal waiver.
                   </p>
                 </div>
 
-                {/* Phase 5 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">5</span>
-                    Rigorous Forensic Audit of the OTS Sanction Letter
+                    Rigorous Audit of the OTS Sanction Letter
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Prior to disbursing any funds, examine the official OTS Sanction Letter issued on corporate Equitas Small Finance Bank letterhead. Verify the loan account number, sanctioned compromise sum, explicit payment schedule, and unambiguous legal covenants confirming complete debt extinguishment, cessation of interest, and full withdrawal of pending legal actions.
+                    Before paying any money, audit the official OTS Sanction Letter on Equitas SFB letterhead. Check the loan account number, agreed settlement amount, payment due date. and debt discharge terms.
                   </p>
                 </div>
 
-                {/* Phase 6 */}
                 <div className="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm">
                   <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
                     <span className="w-7 h-7 rounded-lg bg-blue-50 text-[#1F5EFF] font-black text-sm flex items-center justify-center border border-blue-200">6</span>
                     Direct Bank Remittance &amp; Securing ₹0 No Dues Certificate
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Remit the approved settlement amount directly into your designated Equitas SFB loan account via verifiable RTGS/NEFT banking channels. Under RBI Circular RBI/2023-24/60, the bank must issue a formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of payment completion.
+                    Pay the settlement amount directly into your Equitas SFB loan account via NEFT/RTGS. Under RBI Circular RBI/2023-24/60, the bank must issue a ₹0 No Dues Certificate (NDC) and update credit bureaus within 30 days.
                   </p>
                 </div>
               </div>
@@ -911,56 +786,56 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sec 25 PSSA &amp; Lok Adalat for Equitas SFB</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When an unsecured personal loan or micro-business facility remains overdue past 60 to 90 days, Equitas Small Finance Bank frequently serves statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates, or Section 138 of the Negotiable Instruments Act, 1881 for bounced security cheques.
+                When an unsecured loan remains overdue past 60 to 90 days, Equitas SFB often sends legal demand notices. These notices cite Section 25 of the PSSA for bounced NACH debits, or Section 138 of the NI Act for bounced cheques.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                A Section 25 PSSA notice is a statutory precursor to a Magistrate Court complaint, not an arrest warrant or court decree. Serving a comprehensive legal reply within the mandatory 15-day notice window demonstrating involuntary commercial hardship, challenging unauthorized multiple mandate re-presentations, and proposing a structured compromise settlement protects your legal standing while establishing formal conciliation channels.
+                A Section 25 PSSA notice is a 15-day legal demand letter. It is not an arrest warrant or court decree. Serving a prompt legal reply within 15 days shows genuine financial hardship. It challenges repeated mandate claims and proposes a structured settlement.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                In addition, Equitas SFB may issue notices invoking private arbitration. Under landmark Supreme Court rulings (including <em>Perkins Eastman Architects DVM v. HSCC (India) Ltd.</em> and <em>TRF Ltd. v. Energo Engineering Projects Ltd.</em>), unilateral arbitrator appointments by lenders without mutual written consent are legally invalid. Legal counsel can challenge the arbitrator&apos;s jurisdiction under Section 12 and Section 14 of the Arbitration and Conciliation Act, 1996, effectively halting unilateral proceedings and redirecting the dispute into compromise settlement channels.
+                Equitas SFB may also send notices appointing a private arbitrator. Under Supreme Court rulings in Perkins Eastman and TRF Ltd, one-sided arbitrator appointments without mutual consent are invalid. Legal counsel can challenge the arbitrator under Section 12 and 14 of the Arbitration Act, 1996, moving the dispute back to settlement talks.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Equitas Small Finance Bank also actively participates in quarterly National Lok Adalats organized by District Legal Services Authorities (DLSA) under the Legal Services Authorities Act, 1987. During Lok Adalat conciliation sessions, bank officers carry pre-authorized settlement mandates offering 40% to 60% debt waivers. The resulting settlement award carries the legal weight of a binding Civil Court Decree with non-appealable finality, permanently resolving the dispute and dismissing all related legal claims.
+                Equitas SFB also takes part in quarterly National Lok Adalats held by the District Legal Services Authority (DLSA). Bank officers at Lok Adalat carry settlement authority offering 40% to 60% debt cuts. A Lok Adalat settlement award acts as a binding Civil Court Decree with zero appeal, permanently ending the debt dispute.
               </p>
 
               <div className="overflow-x-auto my-6">
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Resolution Avenue</th>
-                      <th>Legal Mechanism</th>
-                      <th>Haircut Potential</th>
-                      <th>Typical Timeline</th>
-                      <th>Judicial Finality</th>
+                      <th>Resolution Avenue.</th>
+                      <th>Legal Mechanism.</th>
+                      <th>Haircut Potential.</th>
+                      <th>Typical Timeline.</th>
+                      <th>Judicial Finality.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Direct SFB OTS</td>
+                      <td className="font-bold text-slate-900">Direct SFB OTS.</td>
                       <td>Compromise agreement under RBI Master Directions.</td>
                       <td><strong>40% – 60% Debt Haircut</strong></td>
-                      <td>15 to 30 Days</td>
+                      <td>15 to 30 Days.</td>
                       <td>Binding private contract with ₹0 NDC.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">National Lok Adalat</td>
-                      <td>Judicial conciliation before sitting judge and panel.</td>
+                      <td className="font-bold text-slate-900">National Lok Adalat.</td>
+                      <td>Judicial settlement before sitting judge and panel.</td>
                       <td><strong>45% – 60% Debt Haircut</strong></td>
-                      <td>Single-day session</td>
+                      <td>Single-day session.</td>
                       <td><strong>Civil Court Decree</strong> (Zero appeal).</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Arbitration Defense</td>
-                      <td>Contesting unilateral arbitrator appointments.</td>
-                      <td>Variable (Converts to OTS)</td>
-                      <td>3 to 9 Months</td>
+                      <td className="font-bold text-slate-900">Arbitration Defense.</td>
+                      <td>Contesting one-sided arbitrator appointments.</td>
+                      <td>Variable (Converts to OTS).</td>
+                      <td>3 to 9 Months.</td>
                       <td>Subject to Section 34 challenge.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Section 25 / 138 Defense</td>
-                      <td>Magistrate court compoundable proceedings defense.</td>
+                      <td className="font-bold text-slate-900">Section 25 / 138 Defense.</td>
+                      <td>Magistrate court compoundable actions defense.</td>
                       <td><strong>35% – 50% Debt Haircut</strong></td>
-                      <td>2 to 6 Months</td>
+                      <td>2 to 6 Months.</td>
                       <td>Formal withdrawal and case disposal.</td>
                     </tr>
                   </tbody>
@@ -975,15 +850,11 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating Equitas SFB Settlement Letters</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                A critical risk in retail debt recovery involves unscrupulous collection agents issuing unverified or verbal settlement promises to collect partial payments. If a borrower deposits money without an authentic, authorized sanction letter, Equitas SFB credits the funds toward accrued penal interest and late charges, keeping the default active and compounding.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers must verify that the OTS sanction letter is issued on official Equitas Small Finance Bank Limited letterhead displaying the Corporate Identification Number (CIN: L65191TN1993PLC025280), registered office address in Chennai, unique settlement proposal reference number, authorized signatory name, employee code, and official branch seal.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The sanction letter must explicitly state that upon receipt of the agreed settlement sum, the loan account stands fully discharged with zero remaining financial liability. Under RBI Circular RBI/2023-24/60, Equitas SFB is legally required to release the formal No Dues Certificate (NDC) and cancel all security mandates within 30 calendar days of payment, subject to a mandatory statutory penalty of ₹5,000 per day of delay payable directly to the borrower.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg"> A big risk in debt recovery is rogue collection agents giving fake verbal settlement promises. If a borrower pays cash without an official bank letter, Equitas SFB treats the money as part-payment. It adjusts the cash against penal fees, keeping the default active.
+
+Borrowers must verify that the OTS sanction letter is issued on official Equitas Small Finance Bank letterhead. It must show the CIN number, Chennai head office address, reference number, officer signature. and branch seal.
+
+The letter must clearly state that paying the settlement amount closes all loan liability. Under RBI Circular RBI/2023-24/60, Equitas SFB must issue the No Dues Certificate (NDC) within 30 days. Failure to do so requires the bank to pay ₹5,000 per day of delay directly to the borrower. </p>
             </section>
 
             {/* Section 10: CIBIL Score Trajectory & Rehabilitation */}
@@ -993,15 +864,11 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery for Equitas SFB</h2>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Completing a One-Time Settlement with Equitas Small Finance Bank results in the account being reported to all four licensed credit information companies (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 75 to 150 points.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI compromise directives, a mandatory 12-month cooling-off window applies before fresh unsecured credit lines can be approved. However, a &apos;Settled&apos; record with zero balance is vastly superior to an active, compounding &apos;Default&apos; status that degrades credit scores every month and invites ongoing legal exposure.
-              </p>
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers can systematically restore their credit profile to 750+ within 18 to 24 months by securing a fixed-deposit-backed credit card (FD card), maintaining credit utilization strictly below 25%, and ensuring 100% on-time payment records on all living utilities and surviving credit obligations.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg"> Completing a One-Time Settlement with Equitas SFB updates your credit records across CIBIL, Experian, Equifax, and CRIF High Mark. The status changes to "Settled" or "Post-Write-off Settled" with a ₹0 balance. This brings a temporary score dip of 75 to 100 points.
+
+Under RBI rules, a 12-month cooling window applies before applying for fresh unsecured loans. However, a "Settled" mark with zero balance is far better than an active default that drops your score every single month.
+
+Borrowers can rebuild their CIBIL score back to 750+ within 18 to 24 months. Take a fixed-deposit credit card (FD card), keep credit usage below 25%. and make all utility and card payments on time. </p>
             </section>
 
             {/* Section 11: SettleLoans Legal Defense & Representation */}
@@ -1013,9 +880,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed Equitas SFB Borrowers Trust SettleLoans
               </h2>
-              <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Negotiating an optimal debt settlement with a Scheduled Commercial Bank like Equitas Small Finance Bank requires rigorous financial analysis and dedicated legal advocacy. SettleLoans halts third-party recovery harassment through immediate cease-and-desist notices, defends against Section 25 PSSA summons, challenges unilateral arbitration notices, and negotiates directly with Equitas SFB&apos;s Zonal Stressed Assets Desks to secure maximum lawful debt waivers and authentic ₹0 No Dues Certificates.
-              </p>
+              <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg"> Settling a defaulted loan with Equitas Small Finance Bank requires legal and financial expertise. SettleLoans halts recovery agent harassment with legal cease-and-desist notices. We reply to Section 25 PSSA notices, contest one-sided arbitration. and negotiate directly with Equitas SFB Stressed Assets Desks. Our team secures 40% to 60% debt waivers and authentic ₹0 No Dues Certificates. </p>
 
               {/* Placement of Reusable CompanySection */}
               <div className="my-8">
@@ -1061,61 +926,11 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 Official Regulatory References &amp; Statutory Circulars
               </h3>
               <ul className="space-y-3 text-xs text-slate-600">
-                <li className="flex items-start gap-2">
-                  <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://www.rbi.org.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>Reserve Bank of India (RBI):</strong> Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24)
-                  </a>
-                </li>
-                <li className="flex items-start gap-2">
-                  <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://www.rbi.org.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>RBI Master Circular:</strong> Fair Practices Code for Scheduled Commercial Banks &amp; Guidelines on Recovery Agents
-                  </a>
-                </li>
-                <li className="flex items-start gap-2">
-                  <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://www.equitasbank.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>Equitas Small Finance Bank Limited:</strong> Customer Grievance Redressal Policy, Fair Practice Code &amp; Principal Nodal Officer Matrix
-                  </a>
-                </li>
-                <li className="flex items-start gap-2">
-                  <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://cms.rbi.org.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021:</strong> Online Portal for Complaints on Bank Harassment, Excessive Bounce Fees &amp; NDC Delays
-                  </a>
-                </li>
-                <li className="flex items-start gap-2">
-                  <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <a
-                    href="https://nalsa.gov.in"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
-                  >
-                    <strong>National Legal Services Authority (NALSA):</strong> Legal Services Authorities Act, 1987 — National Lok Adalat Conciliation Framework
-                  </a>
-                </li>
+                <li className="flex items-start gap-2"> <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://www.rbi.org.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>Reserve Bank of India (RBI):</strong> Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24) </a> </li>
+                <li className="flex items-start gap-2"> <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://www.rbi.org.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>RBI Master Circular:</strong> Fair Practices Code for Scheduled bank Banks & Guidelines on Recovery Agents </a> </li>
+                <li className="flex items-start gap-2"> <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://www.equitasbank.com" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>Equitas Small Finance Bank Limited:</strong> Customer Grievance Redressal Policy, Fair Practice Code & Principal Nodal Officer Matrix </a> </li>
+                <li className="flex items-start gap-2"> <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://cms.rbi.org.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021:</strong> Online Portal for Complaints on Bank harassment, Excessive Bounce Fees & NDC Delays </a> </li>
+                <li className="flex items-start gap-2"> <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" /> <a href="https://nalsa.gov.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors" > <strong>National Legal Services Authority (NALSA):</strong> Legal Services Authorities Act, 1987. National Lok Adalat settlement Framework </a> </li>
               </ul>
             </div>
 
@@ -1209,14 +1024,10 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                       Ashish Jhangra
                     </Link>
                   </div>
-                  <p className="text-xs text-slate-500 font-medium">
-                    Lead Banking Legal &amp; Debt Settlement Strategist
-                  </p>
+                  <p className="text-xs text-slate-500 font-medium"> Lead Banking Legal & Debt Settlement Strategist </p>
                 </div>
               </div>
-              <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has spearheaded over 1,200+ successful debt compromise negotiations across Small Finance Banks and leading NBFCs. He specializes in micro-business loan disputes, Section 25 PSSA defense, and borrower advocacy under RBI Master Directions.
-              </p>
+              <p className="text-xs text-slate-600 leading-relaxed mb-4"> Ashish has spearheaded over 1,200+ successful debt compromise talks across Small Finance Banks and leading NBFCs. He specializes in micro-business loan disputes, Section 25 PSSA defense. And borrower advocacy under RBI Master Directions. </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
                   href="/authors/ashish-jhangra"
@@ -1244,9 +1055,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
               <div className="text-xl font-black mb-3 leading-tight">
                 Facing Equitas SFB Default?
               </div>
-              <p className="text-xs text-white/90 leading-relaxed mb-5">
-                Stop aggressive recovery calls, ground-level visits, and recurring NACH return charges immediately. Let our senior banking advocates audit your loan status, respond to statutory legal notices, draft your formal hardship petition, and secure an authentic stamped Equitas SFB settlement letter.
-              </p>
+              <p className="text-xs text-white/90 leading-relaxed mb-5"> Stop aggressive recovery calls, ground-level visits. And recurring NACH return charges immediately. Let our senior banking advocates audit your loan status, respond to legal legal notices, draft your formal hardship petition. And secure an authentic stamped Equitas SFB settlement letter. </p>
               <Link
                 href="/contact"
                 className="block text-center bg-white hover:bg-slate-100 text-[#1F5EFF] font-bold py-3 px-4 rounded-xl text-sm transition-all duration-200 shadow"
@@ -1262,30 +1071,10 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <span>Why Borrowers Trust SettleLoans</span>
               </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
-                <li className="flex items-start gap-2.5">
-                  <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span>
-                    <strong>Direct Bank Representation:</strong> We bypass outsourced collection agencies to negotiate directly with Equitas SFB Stressed Assets Desks and Credit Committees.
-                  </span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span>
-                    <strong>Anti-Harassment Enforcement:</strong> Immediate issuance of statutory cease-and-desist notices to stop unlawful shop/home visits and third-party calling under RBI directives.
-                  </span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span>
-                    <strong>100% Stamped Verification:</strong> Every settlement sanction letter is rigorously audited on official corporate letterhead before payment is approved.
-                  </span>
-                </li>
-                <li className="flex items-start gap-2.5">
-                  <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span>
-                    <strong>Guaranteed ₹0 NDC Tracking:</strong> End-to-end legal oversight until your official No Dues Certificate is delivered and credit bureau records are updated.
-                  </span>
-                </li>
+                <li className="flex items-start gap-2.5"> <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" /> <span> <strong>Direct Bank help:</strong> We bypass outsourced collection agencies to negotiate directly with Equitas SFB Stressed Assets Desks and Credit Committees. </span> </li>
+                <li className="flex items-start gap-2.5"> <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" /> <span> <strong>Anti-harassment Enforcement:</strong> Immediate issuance of legal cease-and-desist notices to stop unlawful shop/home visits and third-party calling under RBI directives. </span> </li>
+                <li className="flex items-start gap-2.5"> <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" /> <span> <strong>100% Stamped Check:</strong> Every settlement sanction letter is rigorously audited on official corporate letterhead before payment is approved. </span> </li>
+                <li className="flex items-start gap-2.5"> <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" /> <span> <strong>Guaranteed ₹0 NDC Tracking:</strong> End-to-end legal oversight until your official No Dues Certificate is delivered and credit bureau records are updated. </span> </li>
               </ul>
             </div>
           </aside>

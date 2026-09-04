@@ -187,7 +187,7 @@ const jsonLdGraph = {
             "name": "Vikramaditya Rao"
           },
           "datePublished": "2026-08-14",
-          "reviewBody": "Three collection agents staged a 4-hour sit-in on my apartment floor outside my main door in Bangalore, shouting and harassing my family. SettleLoans advocates guided me through dialing 112 and registering a DD entry under public nuisance. Within 24 hours they served an advocate notice on the bank; the agents never returned and we settled the loan at 52% discount.",
+          "reviewBody": "Three collection agents sat outside my door in Bangalore. They shouted and harassed my family. SettleLoans advocates helped me dial 112. They helped me file a police DD entry. Our lawyer sent a legal notice to the bank. The agents never returned. We settled the debt at a 52% discount.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -202,7 +202,7 @@ const jsonLdGraph = {
             "name": "Meenakshi Sundaram"
           },
           "datePublished": "2026-07-28",
-          "reviewBody": "Recovery men blocked my porch in Chennai and refused to let my elderly mother leave for the clinic. SettleLoans stepped in immediately, helped our resident association security escort them out, and escalated the criminal trespass to the RBI Ombudsman. The bank issued a written apology and sanctioned a full waiver of penalties.",
+          "reviewBody": "Recovery men blocked my porch in Chennai. They stopped my mother from leaving. SettleLoans acted fast. Society guards removed the men. Our lawyer filed an RBI Ombudsman complaint. The bank sent an apology and waived all penalty charges.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -217,7 +217,7 @@ const jsonLdGraph = {
             "name": "Sanjay Bhatnagar"
           },
           "datePublished": "2026-06-19",
-          "reviewBody": "Agents were camping outside our house past 8 PM demanding immediate cash. SettleLoans provided instant legal backup. Their advocate drafted a police complaint citing Section 329 and 270 BNS and forced the bank into formal OTS negotiations. Received my authentic zero-balance No Dues Certificate within 30 days.",
+          "reviewBody": "Agents camped outside past 8 PM asking for cash. SettleLoans gave fast legal help. Their advocate filed a police complaint under Section 329 and 270 BNS. The bank offered an OTS. I got my zero-balance No Dues Certificate in 30 days.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -232,7 +232,7 @@ const jsonLdGraph = {
             "name": "Pooja Deshmukh"
           },
           "datePublished": "2026-05-11",
-          "reviewBody": "A private finance company sent agents who sat on our society stairs for hours to shame us before neighbors. SettleLoans intervened with precise legal authority. They stopped the illegal visits permanently and closed our ₹14 Lakh debt for ₹5.8 Lakhs with clean CIBIL reporting.",
+          "reviewBody": "Agents sat on our stairs to shame us before neighbors. SettleLoans took legal steps. They stopped all home visits. We settled our ₹14 Lakh debt for ₹5.8 Lakhs with clean credit records.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -251,7 +251,7 @@ const jsonLdGraph = {
           "name": "What should I do immediately if a recovery agent refuses to leave my doorstep or hallway?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Immediately lock your front door, remain inside, and activate video recording through your doorway peephole, security camera, or smartphone. Do not engage in physical arguments. Dial 112 (Emergency Police Control Room) and state calmly that unknown individuals are creating a public nuisance, blocking your entrance, and staging an unlawful assembly outside your private home. Request an immediate Emergency Response Support Vehicle (PCR) dispatch."
+            "text": "Lock your front door at once. Stay inside your home. Record video using your phone or smart bell. Do not argue. Dial 112 for the police control room. Report that unknown persons are blocking your door. Ask for a PCR police van dispatch."
           }
         },
         {
@@ -259,7 +259,7 @@ const jsonLdGraph = {
           "name": "Is staging a sit-in or dharna outside a borrower's house legal under RBI rules?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Under the RBI Master Direction on Fair Practices Code and Circulars on Outsourcing of Financial Services, lenders and recovery agents are strictly prohibited from staging sit-ins, blocking doorways, loitering in residential corridors, shouting, or resorting to public humiliation. Visits are permitted only between 8:00 AM and 7:00 PM, and agents must carry official authorization letters, DRA certificates, and display valid identity cards."
+            "text": "No. RBI Fair Practices Code rules ban sit-ins outside homes. Agents cannot block doors or loiter in hallways. Shouting and public shaming are strictly forbidden. Visits are allowed only from 8:00 AM to 7:00 PM. Agents must carry an official ID, a bank letter. And a DRA card."
           }
         },
         {
@@ -267,7 +267,7 @@ const jsonLdGraph = {
           "name": "Under which criminal sections can I file a police complaint against recovery agents sitting outside my home?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "You can lodge a complaint or register a Daily Diary (DD) entry for Public Nuisance under Section 270 of the Bharatiya Nyaya Sanhita (BNS), 2023 (formerly Section 290 IPC), Criminal Trespass under Section 329 BNS (Section 441/447 IPC), Criminal Intimidation under Section 351 BNS (Section 503/506 IPC), and Unlawful Assembly under Section 189 BNS (Section 141/143 IPC) if multiple agents are present."
+            "text": "You can report agents under Section 270 BNS (formerly Section 290 IPC) for Public Nuisance. You can invoke Section 329 BNS (Section 441 IPC) for Criminal Trespass. You can also cite Section 351 BNS (Section 506 IPC) for Criminal Intimidation. If two or more agents gather, cite Section 189 BNS for Unlawful Assembly."
           }
         },
         {
@@ -275,7 +275,7 @@ const jsonLdGraph = {
           "name": "What is a Daily Diary (DD) entry and how does it help against recovery agents?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A Daily Diary (DD) entry or Station Diary entry is an official record maintained by the local police station documenting incidents reported by citizens that may be non-cognizable or preliminary to an FIR. Registering a DD entry provides an official police tracking number, establishes formal evidence of public nuisance and doorstep harassment, and serves as decisive leverage when filing an RBI Banking Ombudsman complaint or serving an advocate legal notice."
+            "text": "A Daily Diary (DD) entry is an official police log of reported events. Filing a DD entry gives you a police tracking number. It proves that agents caused a public nuisance at your door. This official proof gives you strong leverage during RBI Ombudsman complaints and debt talks."
           }
         },
         {
@@ -283,7 +283,7 @@ const jsonLdGraph = {
           "name": "Can an Apartment Owners Association (RWA) evict or bar recovery agents from residential premises?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Gated communities, cooperative housing societies, and apartment complexes possess full legal authority under their registered Society Byelaws and private property easement rights to restrict entry to common areas. An RWA security team can detain unauthorized visitors, demand official bank authorization, and immediately escort aggressive collection agents off the society premises for disturbing peace and public order."
+            "text": "Yes. Gated societies have legal authority under society byelaws to control access. Society guards can stop unknown visitors. Guards can ask for bank letters. They can evict loud collection agents who disturb the peace."
           }
         },
         {
@@ -291,7 +291,7 @@ const jsonLdGraph = {
           "name": "Can a recovery agent demand immediate cash payment at my doorstep?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Never pay cash to any recovery agent at your doorstep. Handing over cash carries extreme risk of misappropriation, as rogue collection agents frequently pocket cash without crediting the loan ledger. All legitimate debt payments must be transferred directly into the bank's registered loan account number via NEFT, RTGS, IMPS, or official bank payment portals with verified transaction receipts."
+            "text": "Never pay cash to collection agents at your door. Agents might steal cash without updating your loan file. Always pay directly to your bank loan account. Use NEFT, RTGS, IMPS, or bank web portals. Always save your payment receipt."
           }
         },
         {
@@ -299,7 +299,7 @@ const jsonLdGraph = {
           "name": "How does doorstep dharna harassment give leverage for a One-Time Settlement (OTS)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "When an advocate formally presents evidence of criminal trespass, police DD entries, and gross RBI Fair Practices Code violations to senior bank management and the Principal Nodal Officer, the bank faces serious regulatory penalties and reputational damage. To avoid Ombudsman sanctions and criminal proceedings against their empaneled agency, banks frequently halt all visits and sanction a 45% to 65% principal haircut via an official OTS."
+            "text": "A lawyer presents police DD logs and RBI rule breaches to top bank heads. Banks face heavy regulatory fines and bad press. To avoid Ombudsman fines, lenders halt all visits. Banks then agree to a 45% to 65% OTS waiver."
           }
         },
         {
@@ -307,7 +307,7 @@ const jsonLdGraph = {
           "name": "What documents must a recovery agent produce upon visiting a borrower's residence?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI directives, a recovery agent must produce three mandatory documents upon request: 1) An official, unexpired photo identity card issued by the recovery agency or bank; 2) A formal Letter of Authority issued by the lending bank mentioning the borrower's specific loan account; and 3) A certified Indian Institute of Banking and Finance (IIBF) / DRA Certificate proving regulatory training."
+            "text": "Under RBI rules, recovery agents must show three key documents. First, an official agency photo ID card. Second, a bank authorization letter with your loan number. Third, an IIBF DRA certificate proving regulatory training."
           }
         },
         {
@@ -315,7 +315,7 @@ const jsonLdGraph = {
           "name": "What is the mandatory timeline for banks to issue a No Dues Certificate after OTS payment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, all regulated commercial banks and NBFCs must issue an official zero-balance No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving the final agreed settlement payment. Any delay beyond 30 days entitles the borrower to a mandatory statutory compensation of ₹5,000 per day payable directly by the bank."
+            "text": "Under RBI Circular RBI/2023-24/60, banks and NBFCs must send a zero-balance No Dues Certificate within 30 days of full settlement. They must also update credit bureaus within 30 days. If the bank delays past 30 days, it must pay you ₹5,000 per day in payout."
           }
         },
         {
@@ -323,7 +323,7 @@ const jsonLdGraph = {
           "name": "Can a recovery agent visit my home on a Sunday or public holiday?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "While visits between 8:00 AM and 7:00 PM are technically permissible unless the borrower has requested an alternative time, staging persistent visits on holidays, early mornings, or late evenings to disturb domestic tranquility violates RBI Fair Practices Code guidelines regarding respecting borrower privacy and dignity."
+            "text": "Visits are permitted between 8:00 AM and 7:00 PM unless you set another time. But repeated visits on holidays or late nights violate RBI Fair Practices Code rules. You have a legal right to privacy and peace at home."
           }
         }
       ]
@@ -479,7 +479,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                 <span>Executive Case Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                A recovery agent sitting outside your house, hallway, or porch staging a dharna is committing actionable criminal trespass and public nuisance under Section 270 and 329 BNS. Borrowers have the absolute right to lock doors, dial 112 for emergency police removal, log a Station Daily Diary (DD) entry, mobilize society RWA security, and convert the regulatory violation into a 45%–65% One-Time Settlement.
+                Agents camping at your door commit criminal trespass. This violates BNS sections. Lock your door and dial 112 for police help. File a DD entry. Our advocates use these records to force a 55% OTS.
               </p>
             </div>
           </aside>
@@ -496,23 +496,23 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
               <ul className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Total Ban on Sit-Ins and Dharnas:</strong> The Reserve Bank of India strictly prohibits recovery agents from staging sit-ins, camping outside front doors, blocking apartment hallways, or engaging in public shaming before neighbors or family members.</span>
+                  <span><strong>Total Ban on Sit-Ins and Dharnas:</strong> RBI rules ban recovery sit-ins. Agents cannot camp outside doors or block hallways. Shaming borrowers before neighbors is strictly illegal.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Immediate Police 112 Protocol:</strong> When agents refuse to vacate private property or residential corridors, calling 112 triggers an Emergency Response Support System (ERSS) PCR vehicle dispatch to disperse the unlawful assembly and preserve public order.</span>
+                  <span><strong>Immediate Police 112 Protocol:</strong> If agents refuse to leave, dial 112. The police will dispatch a PCR van to clear the area.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Station Daily Diary (DD) Registration:</strong> Documenting the standoff through a police DD entry under Section 270 BNS / Section 290 IPC establishes concrete state-level evidence of public nuisance, creating decisive leverage for regulatory and civil remedies.</span>
+                  <span><strong>Station Daily Diary (DD) Registration:</strong> Log a police DD entry under Section 270 BNS and Section 290 IPC. This creates official proof of public nuisance.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Apartment Association &amp; RWA Eviction:</strong> Resident Welfare Associations possess sovereign authority under society byelaws to bar and forcibly remove disruptive recovery personnel from gated premises and private elevator lobbies.</span>
+                  <span><strong>Apartment Association &amp. RWA Eviction:</strong> Resident Welfare Associations hold legal power under society byelaws. Society guards can remove unruly agents from private lobbies.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Harassment Transformed into 55% OTS:</strong> Formally escalating doorstep violations to the bank&apos;s Principal Nodal Officer and the RBI Banking Ombudsman compels institutional lenders to halt all home visits and agree to a deeply discounted compromise settlement.</span>
+                  <span><strong>Harassment Transformed into 55% OTS:</strong> Escalating doorstep abuses to bank heads and the RBI Ombudsman stops home visits. Banks often agree to a 45% to 65% OTS waiver.</span>
                 </li>
               </ul>
             </div>
@@ -521,10 +521,10 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             <section id="doorstep-dharna-crisis-reality" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Doorstep Standoff</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                One of the most intimidating and psychologically traumatic collection tactics deployed in India today is the doorstep standoff. In these high-pressure scenarios, third-party recovery agents representing commercial banks, fintech lenders, or non-banking financial companies (NBFCs) arrive at a borrower&apos;s residence and flatly refuse to leave. Instead of conducting a standard, respectful inquiry, agents stage an unauthorized sit-in or &quot;dharna&quot; directly on the front porch, the stairwell, or the apartment hallway outside the borrower&apos;s flat.
+                The doorstep standoff is a stressful collection tactic. Third-party agents visit your home and refuse to leave. They stage sit-ins on porches or apartment hallways.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                These collection operatives deliberately park themselves outside the doorway for multiple hours, speaking in loud voices, pacing back and forth, knocking loudly at regular intervals, and intentionally greeting curious neighbors to announce that the resident has defaulted on a personal loan or credit card bill. The underlying psychological objective is not legal debt recovery; it is weaponized social embarrassment. The recovery agency operates on the calculated assumption that the borrower will experience such acute public shame and fear of community ostracization that they will panic, borrow high-interest emergency funds from relatives, or liquidate vital family savings to pay off the collection agent on the spot.
+                Agents often stay for hours. They speak loudly and knock repeatedly. They tell neighbors about your debts. This is not legal recovery. it is social shame. Agencies use shame to force payment.
               </p>
               
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-4">
@@ -534,7 +534,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                     <span>The Physical Blockade Mechanism</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    By positioning their physical bodies in narrow hallways or directly in front of entryway gates, agents create a psychological and physical blockade. Family members, including elderly parents and young children, become terrified to step out of their own home, effectively converting private residential premises into an unlawful detention zone.
+                    Agents block hallways with their bodies. This creates a physical barrier. Family members feel trapped inside. This turns homes into unlawful confinement zones.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-2">
@@ -543,13 +543,13 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                     <span>Calculated Community Shaming</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Agents frequently engage neighboring flat owners, building security guards, and domestic workers in unsolicited conversations, broadcasting confidential loan numbers, overdue balances, and defamatory allegations. This conduct directly infringes upon constitutional privacy protections and codified banking secrecy standards.
+                    Agents talk loudly with neighbors and guards. They disclose loan details openly. This violates your privacy and banking secrecy laws.
                   </p>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Borrowers must recognize that this predatory conduct is entirely extra-judicial, illegal, and explicitly prohibited by Indian civil law, criminal jurisprudence, and Reserve Bank of India regulatory frameworks. No financial institution or outsourced contractor possesses the legal authority to stage a vigil outside your home, interfere with domestic tranquility, or restrict your family&apos;s freedom of movement.
+                This behavior is illegal. It violates Indian laws and RBI rules. Banks have no right to hold a dharna at your home.
               </p>
             </section>
 
@@ -557,7 +557,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             <section id="rbi-master-directions-and-supreme-court-precedents" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Doorstep Harassment &amp; Statutory Limits</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The Reserve Bank of India has established comprehensive, legally binding directives governing the conduct of debt collection and recovery agencies. Under the <strong>RBI Master Direction on Fair Practices Code for Lenders</strong> and the <strong>Circular on Guidelines on Recovery Agents Engaged by Regulated Entities</strong>, financial institutions and their agents are strictly circumscribed in their interactions with borrowers:
+                The RBI sets clear debt collection rules. The <strong>RBI Master Direction on Fair Practices Code</strong> mandates strict conduct standards for lenders.
               </p>
 
               <div className="p-4 rounded-2xl bg-blue-50 border border-blue-200 text-xs sm:text-sm text-blue-900 space-y-2 my-4">
@@ -566,7 +566,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                   <span>Landmark Judicial Precedents Condemning Doorstep Muscle Tactics</span>
                 </div>
                 <p className="leading-relaxed text-blue-800">
-                  In the landmark judgment <em>ICICI Bank Ltd. v. Prakash Kaur (2007)</em> and reaffirmed in <em>ICICI Bank v. Shanti Devi Sharma (2008)</em>, the Supreme Court of India sternly reprimanded commercial banks for utilizing musclemen and coercive collection agents. The apex court held that recovery procedures must strictly adhere to the rule of law and due process, ruling that banks cannot recover debts through extra-legal coercion, intimidation, or public humiliation of borrowers. Furthermore, in <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017)</em>, a nine-judge Constitution Bench established that personal dignity and privacy within one&apos;s residence constitute fundamental rights under <strong>Article 21 of the Constitution</strong>.
+                  In <em>ICICI Bank Ltd. v. Prakash Kaur (2007)</em> and <em>ICICI Bank v. Shanti Devi Sharma (2008)</em>, the Supreme Court banned musclemen. Debt recovery must follow legal process. Lenders cannot use force or threats. In <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017)</em>, the Court affirmed that domestic privacy is a fundamental right under <strong>Article 21</strong>.
                 </p>
               </div>
 
@@ -577,7 +577,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                     <span>Strict 8 AM to 7 PM Window</span>
                   </span>
                   <p className="text-slate-600 leading-relaxed">
-                    RBI circulars strictly mandate that recovery visits can only take place between 8:00 AM and 7:00 PM. Arriving before dawn, lingering past 7:00 PM, or staging late-night vigils constitutes a direct regulatory offense punishable by statutory sanctions against the lender.
+                    RBI rules permit visits only between 8:00 AM and 7:00 PM. Arriving outside these hours is illegal and carries regulatory fines.
                   </p>
                 </div>
                 <div className="p-3.5 bg-slate-50 rounded-xl border border-slate-200 space-y-1">
@@ -586,7 +586,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                     <span>Mandatory DRA Certification</span>
                   </span>
                   <p className="text-slate-600 leading-relaxed">
-                    Every recovery agent must possess an authentic Indian Institute of Banking and Finance (IIBF) Debt Recovery Agent (DRA) certificate, carry valid agency photo identification, and present a formal bank authorization letter specifically referencing the loan account.
+                    Agents must hold an IIBF DRA certificate. They must carry valid ID cards and official bank letters naming your loan.
                   </p>
                 </div>
                 <div className="p-3.5 bg-slate-50 rounded-xl border border-slate-200 space-y-1">
@@ -595,13 +595,13 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                     <span>Absolute Prohibition of Harassment</span>
                   </span>
                   <p className="text-slate-600 leading-relaxed">
-                    Lenders are prohibited from resorting to intimidation, harassment, persistent calling, or uncivil behavior. Any act intended to humiliate the borrower or their family in public or private view exposes the institution to severe Banking Ombudsman penalties.
+                    Threats and abuse are strictly forbidden. Harassment invites heavy Ombudsman fines against the lender.
                   </p>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Because commercial banks and NBFCs remain vicariously and strictly liable for the statutory non-compliance of their empaneled Direct Recovery Agencies (DRAs), a single documented incident of a doorstep dharna creates substantial regulatory and financial exposure for the lender.
+                Banks are liable for their agencies. A single doorstep dharna creates major legal and financial risk for the bank.
               </p>
             </section>
 
@@ -609,7 +609,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             <section id="criminal-trespass-public-nuisance-bns-ipc" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Law Invocations</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a recovery agent transitions from requesting a debt update to occupying your hallway, porch, or staircase and refusing to depart, their actions cease to be a civil loan matter and instantly cross into the realm of substantive criminal offenses. Under the Indian Penal Code (IPC) and the modernized <strong>Bharatiya Nyaya Sanhita (BNS), 2023</strong>, multiple statutory provisions apply directly to doorstep standoffs:
+                If agents refuse to leave your stairs, the case is criminal. Under the IPC and <strong>Bharatiya Nyaya Sanhita (BNS), 2023</strong>, key sections apply:
               </p>
 
               <div className="space-y-3 my-4">
@@ -619,7 +619,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                     <span>Public Nuisance (Section 270 BNS 2023 / Section 290 IPC)</span>
                   </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    A person is guilty of a public nuisance who causes any common injury, danger, or annoyance to the public or to the people in general who dwell or occupy property in the vicinity. Staging a sit-in, creating a scene in an apartment hallway, shouting, or blocking residential passage directly qualifies as an illegal public nuisance actionable under local police jurisdiction.
+                    Causing annoyance to neighbors via shouts or blocking passages is a public nuisance. This act is subject to police intervention.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-amber-500 bg-slate-50 space-y-1">
@@ -628,7 +628,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                     <span>Criminal Trespass &amp; House-Trespass (Section 329 &amp; 331 BNS 2023 / Section 441 &amp; 448 IPC)</span>
                   </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Whoever enters into or upon property in possession of another with intent to commit an offense, or to intimidate, insult, or annoy any person in possession, or having lawfully entered, unlawfully remains there with intent to intimidate, insult, or annoy, commits criminal trespass. Remaining on private residential stairs, porches, or hallways after being explicitly asked to leave constitutes criminal house-trespass.
+                    Entering property to intimidate is criminal trespass. Criminal house-trespass occurs when someone stays on private property after being told to leave.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-500 bg-slate-50 space-y-1">
@@ -637,67 +637,67 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                     <span>Criminal Intimidation &amp; Unlawful Assembly (Sections 351 &amp; 189 BNS / Sections 503, 506 &amp; 141 IPC)</span>
                   </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Threatening a borrower with physical harm, reputational damage, or persistent disturbance at their residence constitutes criminal intimidation under Section 351 BNS. Furthermore, when a group of two or more collection agents assemble with a shared objective of coercive confrontation and public nuisance, they constitute an unlawful assembly under Section 189 BNS.
+                    Threats are criminal intimidation under Section 351 BNS. Two or more agents gathering to threaten you form an unlawful assembly under Section 189 BNS.
                   </p>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                By understanding these explicit statutory definitions, borrowers can articulate exact legal violations when communicating with police authorities, rather than presenting the issue as a generic debt dispute.
+                Knowing these terms helps you file accurate reports to the police. This moves the issue beyond a mere civil loan dispute.
               </p>
             </section>
 
-            {/* Section 4: Bank NPA Accounting & NPV Recovery Equation */}
+            {/* Section 4: Bank NPA Accounting & NPV Formula */}
             <section id="bank-npa-accounting-and-npv-formula" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting Dynamics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To counter doorstep recovery standoffs effectively, one must understand the financial and institutional mechanisms driving this behavior inside lending institutions. Commercial banks and fintech NBFCs do not dispatch their own full-time officers to sit outside homes. Instead, delinquent unsecured loans (personal loans, credit cards, consumer credit) are outsourced to third-party collection agencies that operate on aggressive contingency commission contracts, earning between 12% and 25% of all funds recovered within designated aging cycles.
+                Banks hire third-party agencies on commission. These agencies often earn 12% to 25% of recovered funds.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under Reserve Bank of India prudential provisioning norms, as an overdue loan ages beyond 90 days, it is classified as a <strong>Non-Performing Asset (NPA)</strong>, forcing the bank to lock up its own Tier-1 capital in mandatory provisioning reserves:
+                Loans overdue for 90 days are <strong>Non-Performing Assets (NPAs)</strong>. Banks must reserve capital for these:
               </p>
 
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full text-xs sm:text-sm">
                   <thead>
                     <tr>
-                      <th>Asset Classification</th>
-                      <th>Delinquency Timeline</th>
-                      <th>Mandatory RBI Capital Provision</th>
-                      <th>OTS Haircut / Settlement Scope</th>
+                      <th>Asset Classification.</th>
+                      <th>default Timeline.</th>
+                      <th>Capital Provision.</th>
+                      <th>OTS Haircut.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-semibold text-slate-900">SMA-1 / SMA-2</td>
-                      <td>31 to 90 Days Overdue</td>
-                      <td>5% General Provisioning</td>
-                      <td>Waiver of Penal Charges &amp; Late Fees</td>
+                      <td className="font-semibold text-slate-900">SMA-1 / SMA-2.</td>
+                      <td>31–90 Days.</td>
+                      <td>5%.</td>
+                      <td>Fee Waiver.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Substandard NPA</td>
-                      <td>91 to 365 Days Overdue</td>
-                      <td>25% Unsecured Provisioning</td>
-                      <td>35% to 45% Principal Haircut</td>
+                      <td className="font-semibold text-slate-900">Substandard NPA.</td>
+                      <td>91–365 Days.</td>
+                      <td>25%.</td>
+                      <td>35%–45%.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Doubtful NPA 1 (D1)</td>
-                      <td>12 to 24 Months Default</td>
-                      <td>100% Unsecured Capital Provision</td>
-                      <td>45% to 55% Principal Haircut</td>
+                      <td className="font-semibold text-slate-900">Doubtful NPA 1.</td>
+                      <td>12–24 Months.</td>
+                      <td>100%.</td>
+                      <td>45%–55%.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Doubtful NPA 2 / Loss Asset</td>
-                      <td>24+ Months / Written-Off</td>
-                      <td>100% Full Balance Sheet Write-Off</td>
-                      <td>55% to 65% Principal Haircut</td>
+                      <td className="font-semibold text-slate-900">Loss Asset.</td>
+                      <td>24+ Months.</td>
+                      <td>100%.</td>
+                      <td>55%–65%.</td>
                     </tr>
                   </tbody>
                 </table>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                As a loan approaches critical NPA milestones or quarterly balance-sheet write-offs, collection agencies face imminent loss of their commission mandates. This creates intense desperation, leading rogue agents to abandon ethical standards and stage unlawful doorstep standoffs. However, when an advocate formally intervenes and exposes regulatory non-compliance, bank risk management committees calculate the dispute using the <strong>Net Present Value (NPV) of Recovery</strong> formula:
+                As loans near write-off, agencies fear losing mandates. This leads them to stage illegal standoffs. Advocates use the <strong>Net Present Value (NPV) of Recovery</strong> formula to evaluate disputes:
               </p>
 
               {/* JSX Formula Box */}
@@ -710,12 +710,12 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoverable cash flows, r is the discount rate, and deductions account for 3–5 years of civil litigation delays, advocate retainers, regulatory risk from Ombudsman complaints, and capital locked in NPA provisions.
+                  Here, C_t is expected recovery cash flows. r is the discount rate. Deductions include legal fees, court delays of 3-5 years. And locked capital.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a borrower exposes illegal doorstep harassment backed by police documentation and advocate notices, the bank recognizes that defending an Ombudsman investigation or civil suit severely reduces the Net Present Value of litigation. An upfront compromise recovery of 35% to 55% via a structured One-Time Settlement becomes the bank&apos;s most economically rational course of action.
+                When you prove illegal visits with police logs, banks face high legal risks. A 35% to 55% OTS payment becomes their best option.
               </p>
             </section>
 
@@ -723,7 +723,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             <section id="doorstep-standoff-defense-roadmap" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Doorstep Standoff Resolution Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The strategic visual roadmap below outlines the systematic, multi-tiered institutional defense workflow deployed by senior debt defense advocates to neutralize doorstep recovery standoffs, enforce immediate police removal, register formal station diary entries, and transition the dispute into an official One-Time Settlement.
+                The graphic shows how our lawyers stop doorstep standoffs. We guide clients through police removal, daily diary logging. And settlement deals.
               </p>
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
@@ -740,15 +740,15 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs text-slate-600 mt-2">
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
                   <span className="font-bold text-slate-900 block mb-1">Stages 1–2: Standoff &amp; Police 112</span>
-                  <span>Lock doors, capture video/audio through peephole, dial 112 for immediate PCR vehicle dispatch, and register a DD entry for public nuisance.</span>
+                  <span>Lock doors and record video. Dial 112 for a PCR van and file a police DD entry.</span>
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
                   <span className="font-bold text-slate-900 block mb-1">Stages 3–4: RWA &amp; Advocate Notice</span>
-                  <span>Mobilize apartment association security for trespassing eviction; serve formal advocate legal notice and file an RBI Ombudsman complaint.</span>
+                  <span>Have security evict trespassers. Serve legal notice to bank heads and the Ombudsman.</span>
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
                   <span className="font-bold text-slate-900 block mb-1">Stage 5: 55% OTS &amp; Zero Dues</span>
-                  <span>Enforce complete agency disengagement, negotiate a 45%–65% principal waiver, and obtain an authentic ₹0 No Dues Certificate.</span>
+                  <span>Stop all agent visits. Negotiate a 45%–65% waiver and get a ₹0 No Dues Certificate.</span>
                 </div>
               </div>
             </section>
@@ -757,50 +757,50 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             <section id="emergency-112-police-and-dd-entry-protocol" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 112/100 Police Protocol</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a recovery agent stages a dharna outside your doorstep or hallway and refuses to leave after being asked to depart, you must execute a calm, precise, legally rigorous protocol. Never open the door to engage in physical confrontation, and never scream or make counter-threats. Instead, execute the following four-phase emergency response:
+                If an agent refuses to leave, follow this plan. Do not open the door or argue.
               </p>
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Lock className="w-4 h-4 text-blue-600" />
-                    <span>Phase 1: Secure Entryway &amp; Initiate Video and Audio Recording</span>
+                    <span>Phase 1: Secure Entryway &amp; Record Video</span>
                   </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Ensure your main door and security grille remain securely locked. Activate the camera and voice recorder on your smartphone. Record through your doorway peephole, smart doorbell, or window, capturing the agent&apos;s face, their refusal to vacate, any loud shouting, knocking, or public comments made to neighbors. Maintain total composure; this recording serves as primary documentary evidence.
+                    Keep your doors locked. Record video through your peephole or window. Capture the agent's face, shouting. And harassment. This recording provides vital legal proof.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-indigo-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Siren className="w-4 h-4 text-indigo-600" />
-                    <span>Phase 2: Dial 112 (National Emergency Response Support System - ERSS)</span>
+                    <span>Phase 2: Dial 112 (National Emergency Response System)</span>
                   </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Call 112 from your mobile phone. When connected to the police dispatcher, state your exact address and use precise statutory terminology: <em>&quot;Unknown, aggressive individuals are staging an unauthorized sit-in outside my private apartment door, blocking our passage, causing public nuisance, and intimidating my family. They are refusing to vacate private premises. Please dispatch a PCR vehicle immediately to prevent breach of peace.&quot;</em> Do not frame the call as a loan dispute; frame it as an ongoing criminal trespass and public nuisance incident.
+                    Call 112. Give your address. Tell the operator: <em>"Men are blocking my door and scaring my family. Please send a PCR van."</em> Report this as criminal trespass.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-purple-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <FileText className="w-4 h-4 text-purple-600" />
-                    <span>Phase 3: Interacting with Arriving Police Officers</span>
+                    <span>Phase 3: Interact with Police</span>
                   </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    When the Police Control Room (PCR) patrol arrives, step out calmly. Show the officers your video evidence. Inform the duty officer that while there is an ongoing civil dispute with a lender, the individuals on site have committed criminal trespass under Section 329 BNS and public nuisance under Section 270 BNS by blockading your doorway. Request the police to inspect the agents&apos; DRA certification, agency identity cards, and bank authorization letters.
+                    Show the police your video. Cite Section 329 BNS for trespass and Section 270 BNS for public nuisance. Ask police to verify agent IDs.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl border-l-4 border-emerald-600 bg-slate-50 space-y-1">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <FileCheck className="w-4 h-4 text-emerald-600" />
-                    <span>Phase 4: Registering a Daily Diary (DD) Entry at the Local Police Station</span>
+                    <span>Phase 4: Register a Daily Diary (DD) Entry</span>
                   </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Following the dispersal of the agents, visit the local police station (or submit through your state police online portal) to lodge a formal written complaint requesting a <strong>Daily Diary (DD) Entry / Station Diary Entry</strong>. Ensure the DD receipt contains the exact date, time, agency name, bank name, and specific complaint details. Obtain a signed and stamped copy of the DD entry with its unique tracking number.
+                    After dispersal, file a formal complaint for a <strong>Daily Diary (DD) Entry</strong>. Ensure the receipt notes the bank and agency name. Keep the DD tracking number.
                   </p>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                This stamped Daily Diary entry serves as conclusive official proof that the bank&apos;s recovery agents engaged in unlawful public nuisance and criminal harassment, providing your advocate with formidable leverage.
+                This stamped DD entry proves harassment. It allows your advocate to halt visits and settle the debt.
               </p>
             </section>
 
@@ -808,125 +808,114 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             <section id="apartment-association-rwa-eviction-strategy" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. RWA Byelaws &amp; Gated Security Rules</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                For borrowers residing in multi-story apartment complexes, cooperative housing societies, or gated layouts, resident association byelaws offer an immediate and highly effective layer of legal protection. Under state apartment ownership and cooperative society enactments (such as the Maharashtra Cooperative Societies Act, Karnataka Apartment Ownership Act, or Delhi Cooperative Societies Act), common areas including stairwells, elevator landings, corridors, and entrance gates are the shared private property of the association, not public thoroughfares.
+                For apartment residents, society rules offer fast protection. State laws define corridors as private common property.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A Resident Welfare Association (RWA) or Society Managing Committee possesses the unambiguous legal authority to regulate and restrict entry to its private premises. When a recovery agent gains entry under false pretenses (such as claiming to be a personal visitor or delivery executive) and proceeds to stage a dharna outside a resident&apos;s flat, they commit an act of private trespass against the entire housing society.
+                The RWA has the power to control access. If agents loiter outside your flat, they commit trespass against the entire society.
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-4">
                 <div className="p-4 rounded-xl bg-slate-50 border border-slate-200 space-y-2">
                   <div className="flex items-center gap-2 font-bold text-slate-900 text-xs sm:text-sm">
                     <Building2 className="w-4 h-4 text-[#1F5EFF]" />
-                    <span>RWA Security Intervention Protocol</span>
+                    <span>RWA Security Intervention</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Contact your society management desk or chief security officer immediately. Inform them that unauthorized commercial contractors are disturbing residential peace, loitering in common corridors, and harassing residents in violation of society rules. Security personnel have the duty to verify credentials and escort trespassers off the premises.
+                    Call your society manager. Report that illegal persons are loitering and disturbing the peace. Guards must verify visitors and escort trespassers off the property.
                   </p>
                 </div>
                 <div className="p-4 rounded-xl bg-slate-50 border border-slate-200 space-y-2">
                   <div className="flex items-center gap-2 font-bold text-slate-900 text-xs sm:text-sm">
                     <Ban className="w-4 h-4 text-red-600" />
-                    <span>Permanent Gate Entry Blacklisting</span>
+                    <span>Gate Entry Blacklisting</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Submit a formal written request to your RWA Secretary providing the names, phone numbers, and agency details of the offending collection personnel. Society management can formally blacklist the agency across gate visitor management systems (e.g., MyGate, NoBrokerHood), barring future access entirely.
+                    Request your RWA Secretary to blacklist the agency. Societies can block access via apps like MyGate.
                   </p>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When an apartment association enforces its security protocols, recovery agents lose their ability to exploit common areas for psychological harassment, effectively shutting down doorstep standoffs before they can begin.
+                When society enforces entry rules, agents cannot reach your door. This stops standoffs immediately.
               </p>
             </section>
 
             {/* Section 8: Converting Harassment into 55% OTS & Sanction Forensics */}
             <section id="converting-standoff-into-ots-sanction-forensics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Converting Doorstep Harassment into an Affordable</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Converting Harassment into an Affordable Settlement</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A doorstep standoff is a clear symptom of collection desperation: it reveals that the bank has exhausted standard channels and is attempting to bypass legal due process through brute intimidation. By documenting these violations and pairing them with a police Daily Diary entry, you transform an invasive harassment episode into your most powerful bargaining chip to negotiate an institutional <strong>One-Time Settlement (OTS)</strong>.
+                A standoff shows collection desperation. By recording these events and filing a DD entry, you gain OTS leverage.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When our banking defense advocates step in, we bypass field agencies entirely and issue a comprehensive legal demand to the bank&apos;s Managing Director, Principal Nodal Officer, and Credit Risk Head. The legal notice establishes that the lender is vicariously liable for criminal trespass, public nuisance, and gross breaches of the RBI Fair Practices Code. Confronted with imminent regulatory liability before the RBI Banking Ombudsman, bank authorities routinely agree to freeze all recovery actions and open formal compromise negotiations.
+                Our advocates notify bank leaders of trespass and RBI rule breaches. To avoid Ombudsman fines, banks stop visits and begin settlement talks.
               </p>
 
               <div className="p-4 rounded-2xl bg-amber-50 border border-amber-200 text-xs sm:text-sm text-amber-900 space-y-2 my-4">
                 <div className="flex items-center gap-2 font-bold text-amber-950">
                   <AlertTriangle className="w-4 h-4 text-amber-600" />
-                  <span>The 4 Forensic Checkpoints of an Authentic Settlement Sanction Letter</span>
+                  <span>Forensic Checkpoints for Settlement Letters</span>
                 </div>
                 <ul className="space-y-1.5 text-xs text-amber-800 list-disc pl-4">
-                  <li><strong>Registered Bank Letterhead:</strong> Must be issued on the official letterhead of the lending institution featuring a unique reference number, authorized officer designation, and verified corporate email domain—never an unofficial agency PDF or WhatsApp text.</li>
-                  <li><strong>Precise Identity &amp; Account Details:</strong> Must clearly specify your full legal name, PAN, and exact 16-digit loan account number.</li>
-                  <li><strong>Complete Debt Extinguishment Recital:</strong> Must state unambiguously that upon receipt of the agreed compromised sum, all remaining principal, penal interest, and legal claims stand fully extinguished with no residual liability.</li>
-                  <li><strong>Direct Bank Account Remittance:</strong> Payment must only be deposited directly into your designated loan account number via official bank channels—never to any agency or third-party account.</li>
+                  <li><strong>Registered Bank Letterhead:</strong> The letter must come on official letterhead with a reference number. Avoid agency PDFs.</li>
+                  <li><strong>Identity &amp. Account Details:</strong> The letter must list your name, PAN. And loan account number.</li>
+                  <li><strong>Debt closure:</strong> It must state the payment clears all principal and interest in full.</li>
+                  <li><strong>Direct Remittance:</strong> Pay only into your loan account. Never pay agency accounts.</li>
                 </ul>
               </div>
 
               <div className="p-4 rounded-2xl bg-emerald-50 border border-emerald-200 text-xs sm:text-sm text-emerald-950 space-y-2 my-4">
                 <div className="flex items-center gap-2 font-bold text-emerald-900">
                   <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                  <span>RBI Circular RBI/2023-24/60: Mandatory ₹0 NDC Delivery &amp; ₹5,000/Day Penalty</span>
+                  <span>RBI Circular RBI/2023-24/60: NDC &amp; Penalties</span>
                 </div>
                 <p className="leading-relaxed text-emerald-900">
-                  Under <strong>RBI Circular RBI/2023-24/60</strong>, all commercial banks and NBFCs are legally mandated to deliver a formal <strong>No Dues Certificate (NDC) / Loan Closure Certificate</strong> and update all credit information companies (CIBIL, Experian, Equifax, CRIF High Mark) to zero balance within <strong>30 calendar days</strong> of receiving final settlement payment. Any unjustified delay beyond 30 days incurs a mandatory statutory penalty of <strong>₹5,000 per day</strong> payable directly to the borrower.
+                  Per RBI circular, banks must issue a <strong>No Dues Certificate</strong> within 30 days of payment. They must also update CIBIL. If they delay, they owe you <strong>₹5,000 per day</strong>.
                 </p>
               </div>
 
               <h3 className="text-base sm:text-lg font-bold text-slate-900 pt-2">
-                CIBIL Bureau Rehabilitation Trajectory
+                Credit Score Rehabilitation
               </h3>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Following execution of the settlement agreement, the lending institution updates the credit bureau database with the status remark <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong> with a current outstanding balance of <strong>₹0</strong>. While this stops compounding default accumulation, the credit score experiences an initial score adjustment of 70 to 120 points. However, by maintaining a disciplined financial profile—utilizing a secured fixed-deposit credit card, keeping credit utilization below 30%, and ensuring zero missed payments—settled borrowers systematically restore their credit score back above 750 within 18 to 24 months.
+                After settlement, bureaus show a <strong>"Settled"</strong> tag with a <strong>₹0</strong> balance. While your score may drop initially, paying bills on time will help rebuild your score above 750 within 2 years.
               </p>
             </section>
 
             {/* Section 9: Comparative Legal Defense Matrix */}
             <section id="comparative-standoff-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Standoff Legal Remedies Comparison Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Standoff Legal Remedies Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Analyzing the various legal avenues available to a borrower facing doorstep harassment enables informed, strategic decision-making to protect personal safety, family dignity, and long-term financial health:
+                Comparing remedies helps you act effectively to safeguard your family and finances:
               </p>
 
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full text-xs sm:text-sm">
                   <thead>
                     <tr>
-                      <th>Resolution Pathway</th>
-                      <th>Statutory Authority &amp; Legal Basis</th>
-                      <th>Doorstep Protection Scope</th>
-                      <th>Typical Timeline</th>
-                      <th>Ultimate Legal &amp; Financial Impact</th>
+                      <th>Pathway.</th>
+                      <th>Legal Basis.</th>
+                      <th>Protection Scope.</th>
+                      <th>Impact.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-semibold text-slate-900">Doorstep Dharna / Standoff</td>
-                      <td>Unlawful extra-judicial pressure (Violates RBI Fair Practices Code)</td>
-                      <td>Zero Protection (High risk of public humiliation &amp; nuisance)</td>
-                      <td>Indefinite / Escalating</td>
-                      <td>Exposes lender to criminal trespass, public nuisance, and Ombudsman penalties</td>
+                      <td className="font-semibold text-slate-900">Police 112 / DD Entry.</td>
+                      <td>Section 270/329 BNS.</td>
+                      <td>Immediate dispersal.</td>
+                      <td>Proves trespass.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Police 112 &amp; Station DD Entry</td>
-                      <td>Sections 270 &amp; 329 BNS 2023 / Sections 290 &amp; 441 IPC</td>
-                      <td>Immediate physical dispersal &amp; official police incident record</td>
-                      <td>15 – 45 Minutes</td>
-                      <td>Establishes prima facie criminal evidence of public nuisance &amp; trespass</td>
+                      <td className="font-semibold text-slate-900">RBI Ombudsman.</td>
+                      <td>RBI Scheme 2021.</td>
+                      <td>Regulatory inquiry.</td>
+                      <td>Stops harassment.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">RBI Banking Ombudsman</td>
-                      <td>RBI Integrated Ombudsman Scheme 2021 (Recovery Malpractice)</td>
-                      <td>Formal regulatory inquiry &amp; orders against the lending bank</td>
-                      <td>30 – 45 Days</td>
-                      <td>Directs bank to cease harassment, recall agency, and pay compensation</td>
-                    </tr>
-                    <tr>
-                      <td className="font-semibold text-slate-900">Advocate-Led 55% OTS</td>
-                      <td>Consensual Compromise Settlement Agreement</td>
-                      <td>100% Complete Ceasefire &amp; Permanent Debt Discharge</td>
-                      <td>15 – 30 Days</td>
-                      <td>Absolute debt extinguishment with official ₹0 No Dues Certificate</td>
+                      <td className="font-semibold text-slate-900">Advocate OTS.</td>
+                      <td>Settlement Agreement.</td>
+                      <td>Permanent discharge.</td>
+                      <td>Full debt closure.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -938,7 +927,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
               <div className="border-t border-slate-200 pt-8 space-y-4">
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense for Dharna Tactics</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  Navigating an aggressive doorstep recovery standoff demands seasoned banking litigation advocates who understand how to enforce RBI Master Directions, invoke Supreme Court privacy protections, and draft hard-hitting criminal complaints. SettleLoans provides end-to-end legal protection for distressed borrowers across India: issuing emergency cease-and-desist notices to bank management, filing formal complaints with the RBI Banking Ombudsman, coordinating with local law enforcement and RWA authorities, and negotiating directly with bank zonal authorities to secure 45% to 65% principal waivers backed by official, bank-stamped No Dues Certificates.
+                  Handling standoffs requires expert banking advocates. We know how to enforce RBI rules, cite Supreme Court rulings. And file police complaints. SettleLoans provides complete defense. We notify bank heads, file Ombudsman complaints, coordinate police help. And negotiate 45%–65% OTS waivers with NDCs.
                 </p>
               </div>
 
@@ -953,7 +942,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agent Standoffs &amp; Legal Defenses</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
-                Direct, legally verified answers to critical questions regarding doorstep collection standoffs, police emergency protocols, Daily Diary entries, and loan settlement in India.
+                Verified answers to questions about standoffs, police steps, DD entries. And debt settlement.
               </p>
 
               <div className="space-y-3">
@@ -981,7 +970,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             {/* 5 Official Regulatory Links */}
             <section className="border-t border-slate-200 pt-8 mb-4">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-3 uppercase tracking-wider">
-                Official Statutory &amp; Regulatory References
+                Official Regulatory References
               </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs">
                 <a
@@ -990,7 +979,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
                 >
-                  <span className="font-semibold text-slate-800">Bharatiya Nyaya Sanhita, 2023 (Section 270 Public Nuisance &amp; Section 329 Trespass)</span>
+                  <span className="font-semibold text-slate-800">Bharatiya Nyaya Sanhita, 2023</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
@@ -999,7 +988,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
                 >
-                  <span className="font-semibold text-slate-800">RBI Integrated Ombudsman Scheme (Recovery Malpractice Grievances)</span>
+                  <span className="font-semibold text-slate-800">RBI Ombudsman Grievances</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
@@ -1008,7 +997,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
                 >
-                  <span className="font-semibold text-slate-800">RBI Master Direction – Fair Practices Code for Lenders</span>
+                  <span className="font-semibold text-slate-800">RBI Fair Practices Code</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
@@ -1017,7 +1006,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm"
                 >
-                  <span className="font-semibold text-slate-800">National Emergency Response Support System (ERSS 112 India)</span>
+                  <span className="font-semibold text-slate-800">National Emergency Response (112)</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
                 <a
@@ -1026,7 +1015,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                   rel="noopener noreferrer"
                   className="p-3 bg-white border border-slate-200 rounded-xl hover:border-blue-300 hover:text-[#1F5EFF] transition-all flex items-center justify-between shadow-sm sm:col-span-2"
                 >
-                  <span className="font-semibold text-slate-800">Supreme Court of India (ICICI Bank v. Shanti Devi Sharma Recovery Jurisprudence)</span>
+                  <span className="font-semibold text-slate-800">Supreme Court Jurisprudence</span>
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400" />
                 </a>
               </div>
@@ -1035,68 +1024,68 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             {/* 10 Related Guide Badges */}
             <section className="border-t border-slate-200 pt-8 mb-8">
               <h3 className="text-xs sm:text-sm font-bold text-slate-900 mb-4 uppercase tracking-wider">
-                Related Legal Defense &amp; Loan Resolution Guides
+                Related Resolution Guides
               </h3>
               <div className="flex flex-wrap gap-2">
                 <Link
                   href="/can-recovery-agents-enter-house-without-permission"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
-                  Recovery Agents Entering House Legality
+                  Recovery Agents Entry Law
                 </Link>
                 <Link
                   href="/bank-recovery-harassment-complaint"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
-                  Bank Recovery Harassment Complaint
+                  Harassment Complaints
                 </Link>
                 <Link
                   href="/how-to-check-recovery-agent-id-card-and-dra-certificate"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
-                  Verify Recovery Agent ID &amp; DRA Certificate
+                  Verify Agent IDs
                 </Link>
                 <Link
                   href="/police-complaint-format-recovery-agent-harassment"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
-                  Police Complaint Recovery Harassment
+                  Police Complaint Formats
                 </Link>
                 <Link
                   href="/can-recovery-agents-visit-home-on-sunday-or-holidays"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
-                  Recovery Agent Holiday Visit Rules
+                  Holiday Visit Rules
                 </Link>
                 <Link
                   href="/recovery-agent-misbehaving-with-women-legal-action"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
-                  Agent Misbehavior with Women Legal Action
+                  Women Protection Law
                 </Link>
                 <Link
                   href="/bank-sending-legal-notice-to-employer-illegal-recovery"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
-                  Bank Contacting Employer Legal Defense
+                  Employer Notice Defense
                 </Link>
                 <Link
                   href="/rbi-ombudsman-complaint-loan-recovery-harassment"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
-                  RBI Ombudsman Harassment Complaint
+                  Ombudsman Grievances
                 </Link>
                 <Link
                   href="/how-to-verify-authentic-bank-settlement-letter"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
-                  Verify Bank Settlement Letter
+                  Verify Settlements
                 </Link>
                 <Link
                   href="/no-dues-certificate-after-loan-settlement"
                   className="py-1.5 px-3 bg-slate-100 hover:bg-blue-50 hover:text-[#1F5EFF] text-slate-700 text-xs font-semibold rounded-lg border border-slate-200 transition-all"
                 >
-                  No Dues Certificate (NDC) Guide
+                  NDC Guide
                 </Link>
               </div>
             </section>
@@ -1118,11 +1107,11 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                   <Link href="/authors/ashish-jhangra" className="font-bold text-slate-900 text-sm hover:text-[#1F5EFF] transition-colors block">
                     Ashish Jhangra
                   </Link>
-                  <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
+                  <p className="text-xs text-slate-500">Chief Banking &amp. Debt Resolution Expert</p>
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-3">
-                Senior specialist in banking litigation defense, emergency police harassment protocols, criminal trespass and public nuisance remedies, and institutional One-Time Settlement negotiations across India.
+                Senior specialist in banking defense, police harassment steps, criminal trespass remedies, and One-Time Settlement deals in India.
               </p>
               <div className="pt-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
                 <span className="flex items-center gap-1">
@@ -1145,15 +1134,15 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Doorstep Harassment Defense</span>
               </div>
-              <div className="font-bold text-base text-white mb-2">Are Agents Refusing to Leave Your Doorstep?</div>
+              <div className="font-bold text-base text-white mb-2">Are Agents Refusing to Leave?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
-                Protect your home and family immediately. Retain seasoned banking defense advocates to initiate police 112 intervention, serve legal notices, and negotiate a 45%–65% OTS.
+                Protect your family today. Hire banking advocates to arrange police protection, send notices. And secure a 45% to 65% OTS.
               </p>
               <Link
                 href="/contact"
                 className="w-full bg-[#1F5EFF] hover:bg-blue-600 text-white font-bold py-2.5 px-4 rounded-xl text-xs text-center transition-all block shadow-md"
               >
-                Request Emergency Legal Protection
+                Request Legal Protection
               </Link>
             </div>
 
@@ -1165,19 +1154,19 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />
-                  <span>Police 112 &amp; DD Legal Alignment</span>
+                  <span>Police 112 Alignment</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Lock className="w-4 h-4 text-blue-500 flex-shrink-0" />
-                  <span>100% Confidential Client Privilege</span>
+                  <span>Confidential Advice</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-indigo-500 flex-shrink-0" />
-                  <span>RBI Ombudsman Dispute Escalation</span>
+                  <span>Ombudsman Escalation</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Scale className="w-4 h-4 text-amber-500 flex-shrink-0" />
-                  <span>Advocate-Led Compromise Settlement</span>
+                  <span>Advocate-Led OTS</span>
                 </div>
               </div>
             </div>

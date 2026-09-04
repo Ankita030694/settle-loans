@@ -192,7 +192,7 @@ const jsonLdGraph = {
             "name": "Subrat Kumar Mohanty"
           },
           "datePublished": "2026-08-14",
-          "reviewBody": "Working as a principal software architect at an Infocity tech campus in Patia Bhubaneswar, unexpected offshore client project cutbacks resulted in severe cash-flow distress on three personal loans totaling ₹21 Lakhs across HDFC Bank and ICICI Bank. When collection agents started calling my tech team lead, SettleLoans intervened immediately. Their legal advocates issued cease-and-desist notices citing RBI Fair Practices codes, halted workplace intrusions, and negotiated a structured 54% OTS waiver directly through the Zonal Credit Committee. The authentic ₹0 No Dues Certificate arrived within 25 days.",
+          "reviewBody": "I worked as a software architect in Infocity Patia. Client project cuts caused severe cash problems on three personal loans of ₹21 Lakhs across HDFC Bank and ICICI Bank. When collection agents started calling my office team, SettleLoans stepped in immediately. Their lawyers sent cease-and-desist notices under RBI Fair Practices rules. They stopped workplace visits and negotiated a 54% OTS waiver directly with the Zonal Credit Committee. I received my ₹0 No Dues Certificate within 25 days.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -207,7 +207,7 @@ const jsonLdGraph = {
             "name": "Bikash Ranjan Rout"
           },
           "datePublished": "2026-07-22",
-          "reviewBody": "Managing mineral transport logistics and earthmoving contracts serving the Keonjhar-Barbil mining belt, delayed client receivables left me unable to service a ₹16.8 Lakhs unsecured credit line. I received a demand notice from the bank Stressed Assets Recovery Branch (SARB) in Ashok Nagar Bhubaneswar along with Section 25 PSSA threats. SettleLoans filed formal legal replies, represented me before the Lok Adalat Bench at DLSA Khordha in the Bhubaneswar Court premises, and obtained a binding judicial conciliation award at 48% of the principal with 100% penal interest waived.",
+          "reviewBody": "I run a mineral transport business serving the Keonjhar mining belt. Delayed client payments left me unable to pay a ₹16.8 Lakhs unsecured credit line. I received a demand notice from the bank SARB in Ashok Nagar Bhubaneswar and Section 25 PSSA threats. SettleLoans filed formal legal replies. They represented me at the DLSA Khordha Lok Adalat bench in Bhubaneswar Court. They secured a binding settlement award at 48% of the principal with full penal interest waiver.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -222,7 +222,7 @@ const jsonLdGraph = {
             "name": "Pravat Kumar Jena"
           },
           "datePublished": "2026-06-19",
-          "reviewBody": "As an employee serving in a State PSU near Master Canteen Bhubaneswar, acute family healthcare hospitalization compelled me to take high-interest unsecured credit card loans totaling ₹8.4 Lakhs. Private collection agencies were threatening to visit my government directorate office. SettleLoans stopped all unauthorized recovery calls within 48 hours, presented my medical hardship dossier, and finalized an approved compromise OTS for ₹3.6 Lakhs with complete legal discharge.",
+          "reviewBody": "I work in a State PSU near Master Canteen Bhubaneswar. Medical emergency costs forced me to take high-interest credit card loans of ₹8.4 Lakhs. Recovery agents threatened to visit my office. SettleLoans stopped all illegal calls within 48 hours. They submitted my medical hardship records and finalized an approved OTS for ₹3.6 Lakhs with complete legal discharge.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -237,7 +237,7 @@ const jsonLdGraph = {
             "name": "Debasis Tripathy"
           },
           "datePublished": "2026-05-11",
-          "reviewBody": "Running a fabrication contracting workshop in Mancheswar Industrial Estate Bhubaneswar, an overdue NBFC business installment loan led to Section 138 cheque bounce summons in the SDJM Court Bhubaneswar. SettleLoans provided seamless courtroom representation, stayed coercive steps, and converted the entire adversarial litigation into a mutually agreed OTS settlement with full case dismissal.",
+          "reviewBody": "I run a fabrication workshop in Mancheswar Industrial Estate. An unpaid NBFC business loan led to Section 138 cheque bounce summons in the SDJM Court Bhubaneswar. SettleLoans provided strong courtroom defense. They stayed coercive steps and converted the litigation into a mutual OTS settlement with full case dismissal.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -256,7 +256,7 @@ const jsonLdGraph = {
           "name": "Why should borrowers in Bhubaneswar hire a debt settlement lawyer instead of dealing with recovery agents directly?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Unsecured loan default is strictly a civil contract dispute. Recovery agents operate on commissions without authority to waive debt. A settlement lawyer protects against harassment, answers bank SARB notices, defends Section 138/25 PSSA court summons, and negotiates genuine 40%–60% OTS haircuts with authentic ₹0 No Dues Certificates directly with Credit Committees."
+            "text": "Unsecured loan default is a civil contract dispute. Recovery agents have no legal power to waive debt. A settlement lawyer protects you from harassment. They answer bank SARB notices and defend Section 138 and Section 25 PSSA court summons. They negotiate authentic 40% to 60% OTS debt waivers directly with bank credit committees."
           }
         },
         {
@@ -264,7 +264,7 @@ const jsonLdGraph = {
           "name": "How does Bhubaneswar's commercial landscape impact loan settlement negotiations for IT engineers and mining contractors?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Lenders recognize that IT project roll-offs in Infocity, delayed government billing, and mining cash-flow crunches in Keonjhar/Angul cause involuntary hardship. Documenting these disruptions prompts bank Stressed Assets Committees to sanction substantial debt write-offs."
+            "text": "Lenders know that IT project delays in Infocity and mining cash crunches in Keonjhar cause real hardship. Documenting these income losses helps bank Stressed Assets Committees approve large debt write-offs."
           }
         },
         {
@@ -272,7 +272,7 @@ const jsonLdGraph = {
           "name": "What legal protections exist against recovery agents visiting Infocity offices or homes in Bhubaneswar?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Master Directions, collection personnel may only call between 08:00 AM and 07:00 PM. Visiting workplaces like Infocity tech parks, contacting employers, or harassing non-guarantor relatives is strictly illegal and subject to RBI Ombudsman penalties."
+            "text": "Under RBI rules, recovery agents may only call between 8:00 AM and 7:00 PM. Visiting workplaces in Infocity, calling employers, or harassing family members is illegal. Borrowers can report violations to the RBI Ombudsman."
           }
         },
         {
@@ -280,7 +280,7 @@ const jsonLdGraph = {
           "name": "Can a bank file a police FIR or arrest a borrower for defaulting on a personal loan in Odisha?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Personal loan default is purely a civil breach of contract under the Indian Contract Act, 1872. Police in Odisha have no authority to register FIRs or detain borrowers for debt default. Section 138 NI Act or 25 PSSA matters are compoundable and handled strictly in magistrate courts."
+            "text": "No. Personal loan default is a civil matter under the Indian Contract Act, 1872. Police in Odisha cannot file FIRs or arrest borrowers for unpaid loans. Section 138 NI Act and Section 25 PSSA cases are bailable matters handled in magistrate courts."
           }
         },
         {
@@ -288,7 +288,7 @@ const jsonLdGraph = {
           "name": "What is a bank Stressed Assets Recovery Branch (SARB) notice and how should borrowers in Bhubaneswar respond?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Past 90 days of default, lenders transfer files to centralized SARB units in Bhubaneswar (e.g. Ashok Nagar). A SARB notice demands full recall. Serving a formal legal reply demonstrates bona fide hardship and initiates structured compromise OTS discussions."
+            "text": "After 90 days of default, banks transfer accounts to centralized SARB units like Ashok Nagar in Bhubaneswar. A SARB notice demands loan recall. Filing a formal legal reply proves real hardship and starts compromise OTS talks."
           }
         },
         {
@@ -296,7 +296,7 @@ const jsonLdGraph = {
           "name": "How does National Lok Adalat at DLSA Khordha resolve personal loan disputes in Bhubaneswar?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "National Lok Adalats organized by DLSA Khordha at Nyaya Seva Sadan facilitate consensual settlements. An agreed award holds the statutory status of a non-appealable Civil Court Decree, permanently closing the debt and terminating all court complaints."
+            "text": "DLSA Khordha organizes quarterly Lok Adalats at Nyaya Seva Sadan in Bhubaneswar Court. An agreed settlement award holds the force of a final Civil Court Decree. It permanently closes the debt and ends all court cases."
           }
         },
         {
@@ -304,7 +304,7 @@ const jsonLdGraph = {
           "name": "What percentage of loan waiver can borrowers in Bhubaneswar realistically achieve through an OTS?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "For accounts overdue by 90 to 180+ days, borrowers can realistically negotiate a 40% to 60% principal debt haircut, alongside a 100% complete waiver of all penal interest, late fines, and NACH bounce fees."
+            "text": "For loans overdue past 90 days, you can negotiate a 40% to 60% principal waiver. Banks also waive 100% of penal interest, late fees. And bounce charges."
           }
         },
         {
@@ -312,7 +312,7 @@ const jsonLdGraph = {
           "name": "How should borrowers handle Section 138 NI Act or Section 25 PSSA court summons in Bhubaneswar?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Engage legal counsel immediately upon receiving court summons from the SDJM Court Bhubaneswar. An advocate enters appearance, challenges improper mandate sweeps, and redirects the case into Lok Adalat conciliation or compromise OTS."
+            "text": "Consult a settlement advocate immediately upon receiving summons from the SDJM Court Bhubaneswar. Your lawyer appears in court. They dispute unfair fees and move the case to Lok Adalat or mutual OTS."
           }
         },
         {
@@ -320,7 +320,7 @@ const jsonLdGraph = {
           "name": "How does loan settlement affect CIBIL scores and how long does credit rehabilitation take in Odisha?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The loan status updates to 'Settled' with a ₹0 balance. While a short-term drop occurs, disciplined credit behavior—such as using a fixed-deposit-backed credit card—restores scores to 750+ within 18 to 24 months."
+            "text": "Your loan status changes to 'Settled' with a ₹0 balance. Your score drops at first. Using a fixed-deposit credit card can restore your score above 750 in 18 to 24 months."
           }
         },
         {
@@ -328,7 +328,7 @@ const jsonLdGraph = {
           "name": "What is the statutory deadline for banks to issue the No Dues Certificate (NDC) post-settlement in Odisha?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, banks must issue an unencumbered NDC and update credit bureaus within 30 days of settlement payment, or pay direct statutory compensation of ₹5,000 per day of delay."
+            "text": "Under RBI Circular RBI/2023-24/60, banks must deliver an NDC within 30 days of payment. Any delay requires the bank to pay ₹5,000 per day in statutory fines."
           }
         }
       ]
@@ -370,43 +370,43 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
   const faqs = [
     {
       question: 'Why should borrowers in Bhubaneswar hire a debt settlement lawyer instead of dealing with recovery agents directly?',
-      answer: 'Unsecured loan default is strictly a civil contract dispute. Recovery agents operate on commissions without authority to waive debt. A settlement lawyer protects against harassment, answers bank SARB notices, defends Section 138/25 PSSA court summons, and negotiates genuine 40%–60% OTS haircuts with authentic ₹0 No Dues Certificates directly with Credit Committees.',
+      answer: 'Unsecured loan default is a civil contract dispute. Recovery agents have no legal power to waive debt. A settlement lawyer protects you from harassment. They answer bank SARB notices and defend Section 138 and Section 25 PSSA court summons. They negotiate authentic 40% to 60% OTS debt waivers directly with bank credit committees.',
     },
     {
       question: "How does Bhubaneswar's commercial landscape impact loan settlement negotiations for IT engineers and mining contractors?",
-      answer: 'Lenders recognize that IT project roll-offs in Infocity, delayed government billing, and mining cash-flow crunches in Keonjhar/Angul cause involuntary hardship. Documenting these disruptions prompts bank Stressed Assets Committees to sanction substantial debt write-offs.',
+      answer: 'Lenders know that IT project delays in Infocity and mining cash crunches in Keonjhar cause real hardship. Documenting these income losses helps bank Stressed Assets Committees approve large debt write-offs.',
     },
     {
       question: 'What legal protections exist against recovery agents visiting Infocity offices or homes in Bhubaneswar?',
-      answer: 'Under RBI Master Directions, collection personnel may only call between 08:00 AM and 07:00 PM. Visiting workplaces like Infocity tech parks, contacting employers, or harassing non-guarantor relatives is strictly illegal and subject to RBI Ombudsman penalties.',
+      answer: 'Under RBI rules, recovery agents may only call between 8:00 AM and 7:00 PM. Visiting workplaces in Infocity, calling employers, or harassing family members is illegal. Borrowers can report violations to the RBI Ombudsman.',
     },
     {
       question: 'Can a bank file a police FIR or arrest a borrower for defaulting on a personal loan in Odisha?',
-      answer: 'No. Personal loan default is purely a civil breach of contract under the Indian Contract Act, 1872. Police in Odisha have no authority to register FIRs or detain borrowers for debt default. Section 138 NI Act or 25 PSSA matters are compoundable and handled strictly in magistrate courts.',
+      answer: 'No. Personal loan default is a civil matter under the Indian Contract Act, 1872. Police in Odisha cannot file FIRs or arrest borrowers for unpaid loans. Section 138 NI Act and Section 25 PSSA cases are bailable matters handled in magistrate courts.',
     },
     {
       question: 'What is a bank Stressed Assets Recovery Branch (SARB) notice and how should borrowers in Bhubaneswar respond?',
-      answer: 'Past 90 days of default, lenders transfer files to centralized SARB units in Bhubaneswar (e.g. Ashok Nagar). A SARB notice demands full recall. Serving a formal legal reply demonstrates bona fide hardship and initiates structured compromise OTS discussions.',
+      answer: 'After 90 days of default, banks transfer accounts to centralized SARB units like Ashok Nagar in Bhubaneswar. A SARB notice demands loan recall. Filing a formal legal reply proves real hardship and starts compromise OTS talks.',
     },
     {
       question: 'How does National Lok Adalat at DLSA Khordha resolve personal loan disputes in Bhubaneswar?',
-      answer: 'National Lok Adalats organized by DLSA Khordha at Nyaya Seva Sadan facilitate consensual settlements. An agreed award holds the statutory status of a non-appealable Civil Court Decree, permanently closing the debt and terminating all court complaints.',
+      answer: 'DLSA Khordha organizes quarterly Lok Adalats at Nyaya Seva Sadan in Bhubaneswar Court. An agreed settlement award holds the force of a final Civil Court Decree. It permanently closes the debt and ends all court cases.',
     },
     {
       question: 'What percentage of loan waiver can borrowers in Bhubaneswar realistically achieve through an OTS?',
-      answer: 'For accounts overdue by 90 to 180+ days, borrowers can realistically negotiate a 40% to 60% principal debt haircut, alongside a 100% complete waiver of all penal interest, late fines, and NACH bounce fees.',
+      answer: 'For loans overdue past 90 days, you can negotiate a 40% to 60% principal waiver. Banks also waive 100% of penal interest, late fees, and bounce charges.',
     },
     {
       question: 'How should borrowers handle Section 138 NI Act or Section 25 PSSA court summons in Bhubaneswar?',
-      answer: 'Engage legal counsel immediately upon receiving court summons from the SDJM Court Bhubaneswar. An advocate enters appearance, challenges improper mandate sweeps, and redirects the case into Lok Adalat conciliation or compromise OTS.',
+      answer: 'Consult a settlement advocate immediately upon receiving summons from the SDJM Court Bhubaneswar. Your lawyer appears in court. They dispute unfair fees and move the case to Lok Adalat or mutual OTS.',
     },
     {
       question: 'How does loan settlement affect CIBIL scores and how long does credit rehabilitation take in Odisha?',
-      answer: 'The loan status updates to \'Settled\' with a ₹0 balance. While a short-term drop occurs, disciplined credit behavior—such as using a fixed-deposit-backed credit card—restores scores to 750+ within 18 to 24 months.',
+      answer: 'Your loan status changes to \'Settled\' with a ₹0 balance. Your score drops at first. Using a fixed-deposit credit card can restore your score above 750 in 18 to 24 months.',
     },
     {
       question: 'What is the statutory deadline for banks to issue the No Dues Certificate (NDC) post-settlement in Odisha?',
-      answer: 'Under RBI Circular RBI/2023-24/60, banks must issue an unencumbered NDC and update credit bureaus within 30 days of settlement payment, or pay direct statutory compensation of ₹5,000 per day of delay.',
+      answer: 'Under RBI Circular RBI/2023-24/60, banks must deliver an NDC within 30 days of payment. Any delay requires the bank to pay ₹5,000 per day in statutory penalties.',
     },
   ];
 
@@ -532,7 +532,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <span>Bhubaneswar Legal Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                For IT engineers in Infocity, mining contractors across Odisha, and public sector employees in Bhubaneswar and Cuttack facing overdue debts, engaging a loan settlement lawyer enables strategic SARB notice defense, stops recovery harassment, and secures 40%–60% OTS principal waivers through bank credit committees and DLSA Khordha Lok Adalats.
+                Borrowers in Bhubaneswar and Cuttack have clear legal rights under RBI rules. Legal debt defense stops agent harassment. It answers SARB notices. It secures 40% to 60% OTS waivers through bank committees and DLSA Lok Adalats.
               </p>
             </div>
           </aside>
@@ -549,23 +549,23 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
               <ul className="space-y-2.5 text-sm text-slate-700">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Strict Civil Contract Dispute:</strong> Unsecured loan default is a civil matter under the Indian Contract Act, 1872. Commercial lenders cannot register police FIRs or execute arrests.</span>
+                  <span><strong>Civil Dispute Rights:</strong> Unsecured loan default is a civil matter under the Indian Contract Act, 1872. Banks cannot file police FIRs or make arrests.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>SARB Notice &amp; Court Defense:</strong> Stressed Assets Recovery Branch recall notices, Section 138 NI Act summons, and Section 25 PSSA notices in Bhubaneswar courts can be defended and redirected into compromise OTS terms.</span>
+                  <span><strong>SARB Notice Defense:</strong> We handle bank SARB notices. We defend Section 138 NI Act and Section 25 PSSA cases. We turn them into OTS terms.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>DLSA Khordha Lok Adalat Conciliation:</strong> Conciliation sessions at the Bhubaneswar Court Complex Nyaya Seva Sadan deliver non-appealable Civil Court Decrees granting 40%–60% principal waivers with permanent closure.</span>
+                  <span><strong>DLSA Khordha Lok Adalat:</strong> Sessions at Nyaya Seva Sadan in Bhubaneswar grant 40% to 60% principal waivers. The decree is final.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>100% Elimination of Penal Levies:</strong> Under RBI fair lending directives, all compounding penal interest, late fines, and recurring e-NACH bounce charges are completely waived during formal settlements.</span>
+                  <span><strong>Waiver of Penal Charges:</strong> Under RBI rules, banks waive 100% of penal fees and late fines. They also waive e-NACH bounce charges.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Statutory 30-Day NDC Delivery:</strong> Under RBI Circular RBI/2023-24/60, lenders must deliver an unencumbered No Dues Certificate within 30 days of settlement payment or pay ₹5,000 per day in delay penalties.</span>
+                  <span><strong>Guaranteed ₹0 NDC:</strong> Under RBI Circular RBI/2023-24/60, banks must deliver your NDC in 30 days. Daily fines of ₹5,000 apply for delays.</span>
                 </li>
               </ul>
             </div>
@@ -578,16 +578,16 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Landscape &amp; Realities in Bhubaneswar</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Bhubaneswar and Cuttack form the administrative and economic engine of Odisha. While the Infocity corridor in Patia hosts global IT firms and industrial estates thrive in Mancheswar and Rasulgarh, an acute debt crisis affects local professionals. Software engineers facing project roll-offs, mining contractors from Keonjhar, Barbil, and Angul coping with delayed receivables, and public sector employees at Lok Seva Bhavan or Nalco frequently find their personal credit lines and cards overextended when income streams face sudden shocks.
+                Bhubaneswar and Cuttack form the business hub of Odisha. Many work in tech firms in Patia. Others run units in Mancheswar. Sudden income cuts cause real stress. IT staff face project delays. Mining contractors in Keonjhar face slow client payments. Credit cards and personal loans quickly become hard to pay.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Defaulting on an unsecured personal loan is strictly a civil breach of contract under the Indian Contract Act, 1872, rather than a criminal wrongdoing. Under Reserve Bank of India (RBI) compromise frameworks and Orissa High Court precedents, distressed borrowers possess statutory rights to stop third-party harassment, contest inflated penal charges, and negotiate enforceable One-Time Settlements (OTS) through qualified debt settlement advocates.
+                Default on a loan is a civil matter under the Indian Contract Act, 1872. Borrowers have clear rights under RBI rules and Orissa High Court rulings. You can stop agent harassment. You can challenge unfair charges and negotiate a One-Time Settlement (OTS).
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
                 <div className="flex items-start gap-3">
                   <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                    <strong>Statutory Principle:</strong> Under RBI Master Direction DOR.STR.REC.20/21.04.048/2023-24, all regulated commercial banks and NBFCs must maintain board-approved compromise settlement policies. Insolvent or cash-strapped borrowers with non-wilful defaults hold the lawful right to propose an institutional OTS to extinguish outstanding liabilities.
+                    <strong>Statutory Principle:</strong> Under RBI Master Direction DOR.STR.REC.20/21.04.048/2023-24, lenders must keep compromise settlement policies. Borrowers facing real cash distress have the legal right to settle debts through an OTS.
                   </div>
                 </div>
               </div>
@@ -603,10 +603,10 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 Statutory Civil Protections &amp; RBI Anti-Harassment Mandates
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When installments default, lenders frequently assign files to aggressive third-party Debt Recovery Agencies (DRAs). However, the Reserve Bank of India strictly regulates collection conduct: contact is permissible solely between 08:00 AM and 07:00 PM; contacting employers, HR teams at Infocity, or non-guarantor relatives is prohibited; and abusive language or unannounced residential confrontations are illegal. Recovery agents must carry official lender authorization and valid IIBF DRA certifications.
+                When EMIs bounce, banks assign files to collection agencies. However, the RBI sets strict rules on collection conduct. Agents may only call between 8:00 AM and 7:00 PM. Calling coworkers, HR teams in Infocity, or non-guarantor relatives is illegal. Agents cannot use abusive words or make surprise home visits. They must carry official bank ID cards.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Unsecured personal loan defaults carry no criminal liability. Local police stations in Bhubaneswar or Cuttack have no statutory mandate to register FIRs or detain borrowers for unpaid bank debt. If collection agencies issue unlawful threats, retaining a loan settlement lawyer in Bhubaneswar ensures prompt cease-and-desist notices to the bank&apos;s Principal Nodal Officer and complaint escalation to the RBI Integrated Ombudsman in Bhubaneswar.
+                Personal loan default carries no criminal fines. Police in Bhubaneswar and Cuttack cannot file FIRs or detain borrowers for debt. If agencies cross legal lines, a settlement lawyer issues formal cease-and-desist notices to the bank. We can also file complaints with the RBI Ombudsman.
               </p>
             </section>
 
@@ -618,7 +618,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Delinquency Lifecycle &amp; NPA Stages in Bhubaneswar</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI&apos;s Prudential Norms (IRACP) and Ind AS 109, loan accounts transition through strict delinquency buckets. At 91 Days Past Due (DPD), the account is classified as a Non-Performing Asset (NPA). The bank must halt interest recognition and allocate mandatory capital provisions from operating profits, shifting institutional focus from monthly collection to bad-debt resolution.
+                Overdue loans follow RBI asset classification rules (IRACP) and Ind AS 109. After 90 days past due, the bank marks the loan as a Non-Performing Asset (NPA). The bank stops adding interest to its books. It also sets aside capital reserves to cover the loss. The bank now focuses on recovering its core capital.
               </p>
 
               {/* 4-Sided Bordered Table for Delinquency Stages */}
@@ -626,47 +626,47 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Delinquency Stage</th>
-                      <th>Days Past Due (DPD)</th>
-                      <th>Bank Collection Actions in Odisha</th>
-                      <th>Legal Exposure in Bhubaneswar</th>
-                      <th>Realistic OTS Haircut Range</th>
+                      <th>default Stage.</th>
+                      <th>Days Past Due (DPD).</th>
+                      <th>Bank Collection Actions in Odisha.</th>
+                      <th>Legal Exposure in Bhubaneswar.</th>
+                      <th>Realistic OTS Haircut Range.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-0 (Initial Default)</td>
-                      <td>1 – 30 Days</td>
-                      <td>Automated reminder SMS, IVR phone calls, repeated e-NACH mandate sweeps.</td>
-                      <td>No litigation; early credit bureau DPD reporting initiated.</td>
-                      <td>Negligible (Bank demands full overdue installment payment).</td>
+                      <td className="font-bold text-slate-900">SMA-0 (Initial Default).</td>
+                      <td>1 – 30 Days.</td>
+                      <td>Automated reminder SMS. Payment reminder calls.</td>
+                      <td>No court cases. Early credit bureau reporting.</td>
+                      <td>Low. Bank asks for full EMI payment.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-1 (Mid Delinquency)</td>
-                      <td>31 – 60 Days</td>
-                      <td>Intensive tele-calling, third-party agency allocation, loan acceleration notices.</td>
-                      <td>Warning demand letters; initial credit score drop of 40–70 points.</td>
-                      <td>Low (Restructuring or tenure extension options explored).</td>
+                      <td className="font-bold text-slate-900">SMA-1 (Mid default).</td>
+                      <td>31 – 60 Days.</td>
+                      <td>Calls from bank agents. Loan recall warning letters.</td>
+                      <td>Warning letters. Credit score drops 40–70 points.</td>
+                      <td>Low. Loan restructuring may be discussed.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-2 (Pre-NPA Stage)</td>
-                      <td>61 – 90 Days</td>
-                      <td>Field visits by recovery personnel, formal loan recall warnings issued.</td>
-                      <td>Section 25 PSSA / Section 138 NI Act statutory legal demand notices.</td>
-                      <td>Moderate (Discussions for penal interest waivers can commence).</td>
+                      <td className="font-bold text-slate-900">SMA-2 (Pre-NPA Stage).</td>
+                      <td>61 – 90 Days.</td>
+                      <td>Home visits by agents. Final loan recall warnings.</td>
+                      <td>Section 138 NI Act or Section 25 PSSA legal notices.</td>
+                      <td>Medium. Discussions on fee waivers can start.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-amber-700">NPA (Substandard Asset)</td>
-                      <td>91 – 180 Days</td>
-                      <td>File transferred to Zonal SARB in Bhubaneswar; mandatory capital provisioning.</td>
-                      <td>Magistrate Court summons under Sec 25 PSSA; DLSA conciliation notices.</td>
+                      <td className="font-bold text-amber-700">NPA (Substandard Asset).</td>
+                      <td>91 – 180 Days.</td>
+                      <td>Case moved to Zonal SARB in Bhubaneswar.</td>
+                      <td>JMFC Court summons under Section 25 PSSA.</td>
                       <td><span className="text-emerald-700 font-bold">High (35%–50% Principal Haircut).</span></td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-red-700">Doubtful / Loss Asset</td>
-                      <td>181 – 365+ Days</td>
-                      <td>Full provisioning absorbed; internal technical write-off evaluation.</td>
-                      <td>Arbitration claims, civil recovery suits, National Lok Adalat referrals.</td>
+                      <td className="font-bold text-red-700">Doubtful / Loss Asset.</td>
+                      <td>181 – 365+ Days.</td>
+                      <td>Full loan loss booked. Technical write-off review.</td>
+                      <td>Civil suits and National Lok Adalat hearings.</td>
                       <td><span className="text-emerald-700 font-bold">Maximum (50%–60% Principal Haircut).</span></td>
                     </tr>
                   </tbody>
@@ -674,7 +674,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Once an account enters Doubtful Asset status (180+ DPD) or undergoes internal technical write-off, the lender has absorbed substantial provisions. An upfront lump-sum OTS then delivers an immediate cash write-back to the balance sheet, motivating bank credit committees to grant 40% to 60% principal haircuts.
+                When a loan turns into a Doubtful Asset past 180 days, the bank books big losses. A lump-sum payment brings instant cash. This leads bank committees to approve 40% to 60% waivers.
               </p>
             </section>
 
@@ -686,7 +686,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPV Valuation Logic &amp; Haircuts in Bhubaneswar</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Lenders evaluate OTS proposals through a mathematical Net Present Value (NPV) recovery methodology mandated by the RBI. Because unsecured loans carry no physical collateral, the bank compares immediate OTS cash against the discounted recovery of civil litigation. In Odisha civil courts, Order 37 summary suits typically require 3 to 5 years, accumulating legal fees and capital provisioning burdens. When an advocate proves that the NPV of an upfront settlement exceeds delayed court recovery, the bank approves substantial debt haircuts.
+                Banks review settlement proposals using RBI Net Present Value (NPV) rules. Unsecured loans carry no collateral. Banks compare settlement cash against slow court lawsuits. Order 37 CPC suits take 3 to 5 years in court. They involve high legal costs and locked bad loan funds. An early settlement gives banks better net cash value.
               </p>
 
               {/* JSX Formula Container Box */}
@@ -699,7 +699,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoveries, r is the discount rate, and deductions account for 3–5 years of court friction and capital locked in NPA provisions.
+                  Here, C_t is recovered cash. The letter r is discount rate. Deductions cover court costs and locked capital.
                 </p>
               </div>
 
@@ -709,41 +709,41 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Credit Facility Category</th>
-                      <th>Delinquency Aging</th>
-                      <th>Penal &amp; Bounce Waiver</th>
-                      <th>Principal Haircut Range</th>
-                      <th>Target Settlement Offer</th>
+                      <th>Credit Facility Category.</th>
+                      <th>default Aging.</th>
+                      <th>Penal &amp. Bounce Waiver.</th>
+                      <th>Principal Haircut Range.</th>
+                      <th>Target Settlement Offer.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Unsecured Personal Loan (IT / Salaried)</td>
-                      <td>90 – 180 Days (NPA)</td>
-                      <td>100% Full Waiver</td>
-                      <td>30% – 45% Principal Waiver</td>
-                      <td>Offer 45%–55% of Outstanding Dues</td>
+                      <td className="font-bold text-slate-900">Unsecured Personal Loan (IT / Salaried).</td>
+                      <td>90 – 180 Days (NPA).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>30% – 45% Principal Waiver.</td>
+                      <td>Pay 45%–55% of Core Balance.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Unsecured Personal Loan (IT / Salaried)</td>
-                      <td>181 – 365+ Days (Doubtful)</td>
-                      <td>100% Full Waiver</td>
-                      <td>45% – 60% Principal Waiver</td>
-                      <td>Offer 35%–40% of Outstanding Dues</td>
+                      <td className="font-bold text-slate-900">Unsecured Personal Loan (IT / Salaried).</td>
+                      <td>181 – 365+ Days (Doubtful).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>45% – 60% Principal Waiver.</td>
+                      <td>Pay 35%–40% of Core Balance.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Unsecured Business Facility (Contractors)</td>
-                      <td>90 – 180 Days (NPA)</td>
-                      <td>100% Full Waiver</td>
-                      <td>30% – 45% Principal Waiver</td>
-                      <td>Offer 45%–55% of Utilized Limit</td>
+                      <td className="font-bold text-slate-900">Unsecured Business Facility (Contractors).</td>
+                      <td>90 – 180 Days (NPA).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>30% – 45% Principal Waiver.</td>
+                      <td>Pay 45%–55% of Drawn Funds.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Credit Card Receivables &amp; Digital Apps</td>
-                      <td>180+ Days (Written Off)</td>
-                      <td>100% All Penal Charges</td>
-                      <td>50% – 65% Principal Waiver</td>
-                      <td>Offer 30%–35% of Total Statement Dues</td>
+                      <td className="font-bold text-slate-900">Credit Card Receivables &amp. Digital Apps.</td>
+                      <td>180+ Days (Written Off).</td>
+                      <td>100% All Penal Charges.</td>
+                      <td>50% – 65% Principal Waiver.</td>
+                      <td>Pay 30%–35% of Total Dues.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -794,7 +794,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <div className="bg-slate-100 border-t border-slate-200 py-3 px-5 flex flex-wrap items-center justify-between gap-3 text-xs text-slate-600">
                   <div className="flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    <span><strong>Key Strategy:</strong> Defend SARB notices in Bhubaneswar, contest Section 138/25 summons, halt recovery harassment, and resolve through DLSA Khordha Lok Adalat for 40%–60% debt haircuts.</span>
+                    <span><strong>Key Strategy:</strong> Stop recovery harassment. Defend Bhubaneswar court notices under Section 138 and Section 25. Secure 40% to 60% debt waivers via DLSA Lok Adalat.</span>
                   </div>
                   <Link href="/contact" className="text-[#1F5EFF] font-bold hover:underline">
                     Consult a Bhubaneswar Advocate &rarr;
@@ -811,10 +811,10 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending SARB Demands &amp; Sec 138 in Bhubaneswar</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When personal loans default past 90 days, lenders transfer files to centralized Stressed Assets Recovery Branches (SARB) in Bhubaneswar, such as SBI SARB in Ashok Nagar or PNB in Saheed Nagar. Lenders frequently issue statutory 15-day demand notices under Section 138 of the Negotiable Instruments Act for bounced cheques or Section 25 of the Payment and Settlement Systems Act (PSSA) for failed e-mandates.
+                When defaults pass 90 days, banks transfer cases to Stressed Assets Recovery Branches (SARB) in Bhubaneswar. These include SBI SARB in Ashok Nagar or PNB in Saheed Nagar. Lenders send 15-day demand notices. They file under Section 138 of the NI Act for cheques. They file under Section 25 of the PSSA for failed e-mandates.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                These notices are statutory invitations to resolve claims rather than arrest warrants. Serving an authoritative legal reply through counsel within 15 days establishes bona fide financial distress, challenges arbitrary penalty accounting, and initiates compromise conciliation. Furthermore, unilateral arbitration appointments in distant metros violate Supreme Court precedents (<em>Perkins Eastman</em> and <em>TRF Ltd.</em>); challenging arbitrator jurisdiction under Section 12 halts ex-parte orders and compels banks toward mutual OTS settlement.
+                A demand notice is not an arrest warrant. An advocate files a formal legal reply within 15 days. This establishes financial hardship and stops unfair fines. Also, one-sided arbitrator appointments violate Supreme Court rulings (<em>Perkins Eastman</em> and <em>TRF Ltd.</em>). Challenging arbitrator jurisdiction under Section 12 halts ex-parte orders and leads banks to mutual OTS settlements.
               </p>
             </section>
 
@@ -826,10 +826,10 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Settling via National Lok Adalat in Bhubaneswar</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The National Lok Adalat organized quarterly by the District Legal Services Authority (DLSA) Khordha at the Nyaya Seva Sadan in Bhubaneswar Court Complex and DLSA Cuttack provides an effective, non-adversarial resolution mechanism. Bank officers attend with pre-delegated authority to sanction 40% to 60% principal waivers and wipe out 100% of accumulated penal fees.
+                The DLSA Khordha hosts quarterly National Lok Adalats at Nyaya Seva Sadan in Bhubaneswar Court. DLSA Cuttack also offers this conciliation process. Bank officers attend with authority. They grant 40% to 60% principal waivers. They also waive 100% of penal fees.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under Section 21 of the Legal Services Authorities Act, 1987, a Lok Adalat Award holds the legal force of a final Civil Court Decree with zero appeal capability. This grants the borrower complete permanent immunity from future litigation and guarantees unconditional dismissal of all pending Section 138 and Section 25 proceedings.
+                Under Section 21 of the Legal Services Authorities Act, 1987, a Lok Adalat Award is final. It acts as a Civil Court Decree. It cannot be appealed. This gives borrowers complete immunity from future claims and dismisses all Section 138 and Section 25 cases.
               </p>
             </section>
 
@@ -841,7 +841,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Settlement Blueprint in Bhubaneswar</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Achieving an authorized, binding One-Time Settlement requires an evidence-driven, legally structured methodology executed across six decisive phases:
+                Achieving a binding One-Time Settlement requires a clear legal strategy across six phases:
               </p>
 
               <div className="space-y-6">
@@ -852,7 +852,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                     Comprehensive Financial Hardship Dossier Compilation
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Assembling undeniable documentary evidence of distress—such as severance letters, medical bills for IT staff, or GST filings and contract delays for mining operators—proves the default was involuntary.
+                    We gather proof of hardship. For example, job loss letters, medical bills, or mining contract payment delays. This proves the default was not willful.
                   </p>
                 </div>
 
@@ -863,7 +863,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                     Suspending e-NACH Mandates &amp; Serving Anti-Harassment Cease-and-Desist Notices
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Instructing bank branches to revoke electronic debit mandates under NPCI rules eliminates recurring bounce fees, while formal legal notices to bank nodal officers halt unauthorized workplace visits.
+                    We help you cancel e-NACH mandates under NPCI rules. We also issue legal notices under RBI rules to stop agent visits.
                   </p>
                 </div>
 
@@ -874,7 +874,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                     Submitting Institutional OTS Hardship Petition to Bank SARB Desks
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Advocates submit a formal compromise petition under RBI Master Directions directly to the bank&apos;s Zonal SARB in Bhubaneswar, anchoring the opening proposal at 25% to 35% of ledger dues.
+                    Our lawyers submit a compromise petition under RBI rules directly to the bank Zonal SARB in Bhubaneswar. We propose realistic terms.
                   </p>
                 </div>
 
@@ -885,7 +885,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                     Managing Counter-Demands &amp; Securing Credit Committee Approval
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    When lenders counter with nominal discounts, advocates demonstrate limited financial capacity, using NPV litigation friction to secure Credit Committee approval within the 40% to 60% haircut band.
+                    When lenders make counter-offers, we show your true payment capacity. We use NPV math to secure Credit Committee approval for 40% to 60% debt waivers.
                   </p>
                 </div>
 
@@ -896,7 +896,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                     Forensic Audit of the OTS Sanction Letter
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Before releasing payment, advocates rigorously audit the sanction letter on official bank letterhead to verify exact account details, payment schedules, full liability release, and litigation withdrawal covenants.
+                    We audit the OTS sanction letter on bank letterhead. We verify account numbers, payment schedules. And legal case withdrawal clauses.
                   </p>
                 </div>
 
@@ -907,7 +907,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                     Direct Account Remittance &amp; Enforcing Statutory ₹0 NDC Delivery
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Funds are remitted directly into the loan account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, lenders must deliver a formal No Dues Certificate within 30 days or face statutory compensation penalties.
+                    You pay the settlement amount directly into your loan account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, the bank must issue your NDC within 30 days.
                   </p>
                 </div>
               </div>
@@ -921,10 +921,10 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Bhubaneswar</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers in Bhubaneswar must guard against recovery fraud where unauthorized agents issue fake settlement receipts. Every legitimate sanction letter must be issued on official bank letterhead, bearing unique proposal reference numbers, authorized officer seals, and explicit covenants confirming complete debt extinction upon payment.
+                Borrowers in Bhubaneswar must avoid fake settlement letters from agents. Every real sanction letter comes on bank letterhead with reference numbers, official seals. And debt discharge clauses.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Post-settlement, the account is reported to credit bureaus as &apos;Settled&apos; with a ₹0 balance. Although this causes an initial credit score drop, compounding monthly default reporting ceases permanently. Borrowers can restore their CIBIL score back to 750+ within 18 to 24 months by utilizing a secured credit card backed by a fixed deposit and maintaining low credit utilization.
+                Settling a loan marks your credit bureau record as &apos;Settled&apos. with a ₹0 balance. This causes a short-term drop in score. But monthly default marks stop completely. You can rebuild your CIBIL score above 750 in 18 to 24 months. Use a secured credit card and pay on time.
               </p>
             </section>
 
@@ -936,7 +936,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparative Resolution Matrix in Bhubaneswar</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Evaluating different legal debt resolution pathways enables borrowers in Bhubaneswar, Cuttack, and across Odisha to select the most effective strategy for their specific financial profile:
+                Reviewing legal debt resolution options helps borrowers in Bhubaneswar and Cuttack choose the best path:
               </p>
 
               {/* 4-Sided Bordered Comparative Table */}
@@ -944,41 +944,41 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Resolution Pathway</th>
-                      <th>Legal Mechanism</th>
-                      <th>Haircut Potential</th>
-                      <th>Resolution Timeline</th>
-                      <th>Judicial Finality</th>
+                      <th>Resolution Pathway.</th>
+                      <th>Legal Mechanism.</th>
+                      <th>Haircut Potential.</th>
+                      <th>Resolution Timeline.</th>
+                      <th>Judicial Finality.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Direct Bank OTS</td>
-                      <td>Compromise settlement under RBI Master Directions.</td>
+                      <td className="font-bold text-slate-900">Direct Bank OTS.</td>
+                      <td>Direct settlement under RBI rules.</td>
                       <td><strong>40% – 60% Debt Haircut</strong></td>
-                      <td>15 to 30 Days</td>
-                      <td>Binding private contract with ₹0 NDC.</td>
+                      <td>15 to 30 Days.</td>
+                      <td>Signed contract with ₹0 NDC.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">National Lok Adalat</td>
-                      <td>Judicial conciliation before DLSA Khordha/Cuttack bench.</td>
+                      <td className="font-bold text-slate-900">National Lok Adalat.</td>
+                      <td>Lok Adalat decree via DLSA bench.</td>
                       <td><strong>45% – 60% Debt Haircut</strong></td>
-                      <td>Single-day session</td>
-                      <td><strong>Civil Court Decree</strong> (Non-appealable).</td>
+                      <td>1 day session.</td>
+                      <td><strong>Civil Court Decree</strong> (Final).</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Arbitration Defense</td>
-                      <td>Challenging unilateral arbitrator appointment under Sec 12.</td>
-                      <td>Variable (Converts to OTS)</td>
-                      <td>3 to 9 Months</td>
-                      <td>Subject to Section 34 challenge.</td>
+                      <td className="font-bold text-slate-900">Arbitration Defense.</td>
+                      <td>Challenge arbitrator under Section 12.</td>
+                      <td>Converts to OTS.</td>
+                      <td>3 to 9 Months.</td>
+                      <td>Settled or challenged under Section 34.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Section 138 / 25 Defense</td>
-                      <td>Magistrate Court compoundable proceedings defense.</td>
+                      <td className="font-bold text-slate-900">Section 138 / 25 Defense.</td>
+                      <td>Defend Section 138 in JMFC court.</td>
                       <td><strong>35% – 50% Debt Haircut</strong></td>
-                      <td>2 to 6 Months</td>
-                      <td>Formal complaint withdrawal and dismissal.</td>
+                      <td>2 to 6 Months.</td>
+                      <td>Court case withdrawn and closed.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -993,7 +993,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in Bhubaneswar Choose SettleLoans</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Navigating complex banking regulations and aggressive court notices in Odisha requires rigorous legal defense. SettleLoans provides complete representation: issuing cease-and-desist notices to stop harassment, defending Section 138/25 summons in Bhubaneswar courts, representing clients at DLSA Khordha Lok Adalats, and negotiating directly with bank SARB desks to secure maximum debt haircuts with authentic ₹0 No Dues Certificates.
+                Disputes and court notices need skilled legal support. SettleLoans helps workers and business owners across Bhubaneswar and Cuttack. We stop harassment. We defend notices in local courts. We also appear at DLSA Lok Adalats to secure maximum debt waivers.
               </p>
 
               {/* Placement of Reusable CompanySection */}
@@ -1059,7 +1059,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>High Court of Orissa (Cuttack):</strong> Judicial Directives on Civil Debt Recovery, Section 138 NI Act Defense &amp; Lok Adalat Conciliation
+                    <strong>High Court of Orissa (Cuttack):</strong> Judicial Directives on Civil Debt Recovery, Section 138 NI Act Defense &amp. Lok Adalat Conciliation
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1070,7 +1070,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>Odisha State Legal Services Authority (OSLSA):</strong> DLSA Khordha (Bhubaneswar Nyaya Seva Sadan) &amp; DLSA Cuttack Lok Adalat Guidelines
+                    <strong>Odisha State Legal Services Authority (OSLSA):</strong> DLSA Khordha (Bhubaneswar Nyaya Seva Sadan) &amp. DLSA Cuttack Lok Adalat Guidelines
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1081,7 +1081,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021:</strong> Online CMS Portal for Bhubaneswar Regional Office &amp; Recovery Agent Harassment Redressal
+                    <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021:</strong> Online CMS Portal for Bhubaneswar Regional Office &amp. Recovery Agent Harassment Redressal
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1092,7 +1092,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>National Legal Services Authority (NALSA):</strong> Legal Services Authorities Act, 1987 — Pre-Litigation Lok Adalat Conciliation Mandates
+                    <strong>National Legal Services Authority (NALSA):</strong> Legal Services Authorities Act, 1987. Pre-Litigation Lok Adalat Conciliation Mandates
                   </a>
                 </li>
               </ul>
@@ -1189,12 +1189,12 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                     </Link>
                   </div>
                   <p className="text-xs text-slate-500 font-medium">
-                    Lead Banking Legal &amp; Debt Settlement Strategist
+                    Lead Banking Legal &amp. Debt Settlement Strategist
                   </p>
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has led over 1,200+ successful debt compromise negotiations across Eastern and Southern India, specializing in unsecured IT tech loan resolution, mining sector credit facilities, Section 138/25 PSSA defense, and Lok Adalat conciliation under RBI Master Directions.
+                Ashish has led over 1,200+ debt compromise talks. He resolves IT loan disputes and mining credit cases. He handles Section 138 NI Act and Section 25 PSSA notices in court. He also secures Lok Adalat settlements under RBI Master Directions.
               </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
@@ -1224,7 +1224,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 Facing Loan Default in Bhubaneswar or Cuttack?
               </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
-                Halt aggressive recovery agent visits to your home or office immediately. Let our senior banking advocates defend SARB notices, contest Section 138/25 court summons, and negotiate an official 40%–60% OTS settlement letter directly with bank Credit Committees.
+                Stop aggressive recovery visits to your home or office now. Let our senior banking advocates defend SARB notices. We contest Section 138 and Section 25 court summonses. We also negotiate 40% to 60% OTS settlement letters directly with bank Credit Committees.
               </p>
               <Link
                 href="/contact"
@@ -1244,31 +1244,31 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Direct Bank Credit Committee Representation:</strong> We bypass third-party recovery agencies to present your case directly before Zonal SARB Desks.
+                    <strong>Direct Bank Talks:</strong> We bypass third-party recovery agencies. We present your case directly before Zonal SARB Desks.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Local Court &amp; Lok Adalat Defense:</strong> Experienced advocate representation in Bhubaneswar Magistrate Courts and DLSA Khordha Nyaya Seva Sadan.
+                    <strong>Local Court Defense:</strong> We provide experienced advocate representation in Bhubaneswar Magistrate Courts and DLSA Khordha.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Anti-Harassment Enforcement:</strong> Prompt legal cease-and-desist notices to stop unlawful recovery visits to tech parks, mining yards, and residences under RBI rules.
+                    <strong>Anti-Harassment Defense:</strong> We send legal cease-and-desist notices. This stops unlawful agent visits to your office and home.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>100% Stamped Verification:</strong> Every settlement is strictly verified on official bank letterhead before any payment is authorized.
+                    <strong>100% Stamped Letters:</strong> Every settlement is strictly verified on official bank letterhead before you pay any money.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Guaranteed ₹0 NDC Delivery:</strong> End-to-end legal tracking until your formal No Dues Certificate is issued and credit bureaus are updated.
+                    <strong>Guaranteed Zero-Balance NDC:</strong> We track your case until you receive your No Dues Certificate and credit reports update.
                   </span>
                 </li>
               </ul>

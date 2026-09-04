@@ -85,35 +85,35 @@ export const metadata: Metadata = {
 const faqsList = [
   {
     name: "Can a digital loan app legally access or download my phone contacts list in India?",
-    answer: "No. Under the Reserve Bank of India (RBI) Digital Lending Guidelines issued in September 2022 and Section 6 of the Digital Personal Data Protection (DPDP) Act, 2023, digital lending apps are categorically barred from accessing mobile phonebooks, call logs, media storage, contact lists, and camera galleries. Any loan application requiring access to contacts as a condition of credit disbursal is operating in direct statutory violation."
+    answer: "No. The RBI Digital Lending Guidelines strictly ban this practice. Section 6 of the DPDP Act 2023 also forbids it. Digital loan apps cannot access your phonebook, call logs, or media gallery. Any loan app demanding contact access violates Indian law."
   },
   {
     name: "What penalties can the Data Protection Board of India impose on loan apps violating the DPDP Act?",
-    answer: "Under the DPDP Act, 2023, the Data Protection Board of India (DPBI) possesses statutory powers to conduct judicial inquiries and impose monetary penalties of up to ₹250 Crores per violation for failing to implement reasonable security safeguards against personal data breaches, and up to ₹200 Crores for non-compliance with data fiduciary obligations concerning user consent and notice."
+    answer: "The Data Protection Board of India holds strong penal powers. It can levy fines up to ₹250 Crores for personal data breaches. It can also impose fines up to ₹200 Crores for failing user consent rules."
   },
   {
     name: "What immediate legal steps should I take if a loan app messages my phone contacts or relatives?",
-    answer: "First, preserve unedited evidence including screenshots, WhatsApp chat exports, call recordings, APK download logs, and phone numbers used by recovery agents. Second, issue a formal statutory Cease-and-Desist notice under the DPDP Act to the lending company's Nodal Grievance Officer and Data Protection Officer. Third, submit a formal complaint to the Data Protection Board of India and register a complaint on the National Cyber Crime Reporting Portal (cybercrime.gov.in)."
+    answer: "First, save all evidence like chat screenshots, call logs, and app links. Next, send a legal Cease-and-Desist notice to the lender. Then, file a complaint with the Data Protection Board. You can also report cyber harassment at cybercrime.gov.in."
   },
   {
     name: "Does giving app permission during installation count as lawful consent under the DPDP Act, 2023?",
-    answer: "No. Section 6 of the DPDP Act establishes that consent must be free, specific, informed, unconditional, and unambiguous with a clear affirmative action. 'Forced bundling' or 'dark pattern' click-through agreements—where an app refuses to function unless broad access to contacts and photos is granted—fail the statutory requirement of valid consent and are legally void ab initio."
+    answer: "No. Section 6 of the DPDP Act requires free and specific consent. Forced permissions are not lawful consent. If an app blocks loans unless you share contacts, the agreement is legally void."
   },
   {
     name: "Can I file an FIR with local police against a loan app for creating WhatsApp groups with my contacts?",
-    answer: "Yes. Scraping your phone contacts and broadcasting morphed images or defamatory messages in WhatsApp groups constitutes cognizable criminal offenses under Section 308 (Extortion) and Section 351 (Criminal Intimidation) of the Bharatiya Nyaya Sanhita (BNS), 2023, alongside Section 66E (Privacy Violation) and Section 67 (Obscenity) of the Information Technology Act, 2000."
+    answer: "Yes. Creating shaming groups or sending morphed photos is a crime. You can file an FIR under Section 308 and Section 351 of the BNS. You can also cite Sections 66E and 67 of the IT Act."
   },
   {
     name: "How does the DPDP Act 2023 affect regulated NBFC partners funding predatory loan apps?",
-    answer: "Under the DPDP Act, regulated NBFCs and banks partnering with digital loan apps are classified as Data Fiduciaries, while the fintech app operates as a Data Processor. Section 8 of the DPDP Act holds the Data Fiduciary directly and vicariously liable for all personal data breaches, illegal harvesting, and processing failures committed by its appointed processors or collection agencies."
+    answer: "Regulated NBFC partners act as Data Fiduciaries under the law. The fintech app acts as a Data Processor. Under Section 8, the NBFC is fully liable for data leaks and illegal contact harvesting."
   },
   {
     name: "What is the procedure for filing a complaint with the Data Protection Board of India (DPBI)?",
-    answer: "You must first exhaust the internal grievance redressal mechanism of the Data Fiduciary by issuing a formal notice. If the lender fails to remediate the violation within the prescribed timeframe or provides an unsatisfactory reply, you submit a digital complaint before the DPBI outlining the factual timeline, specific DPDP sections breached, technical evidence of data exfiltration, and request for statutory inquiry and penal action."
+    answer: "First, send a grievance notice to the lender. If they fail to fix the issue, lodge a complaint on the DPBI portal. List the violated sections, attach evidence, and request statutory action."
   },
   {
     name: "How does a debt settlement advocate help when dealing with an abusive fintech loan app?",
-    answer: "A debt settlement advocate serves comprehensive legal notices citing DPDP Act violations, RBI Digital Lending directives, and BNS penal provisions to the board of directors and compliance heads of the lending entity. This legal intervention compels the immediate shutdown of contact harassment, facilitates the deletion of harvested data, and opens institutional channels for structured debt resolution or One-Time Settlement."
+    answer: "A debt advocate serves legal notices under the DPDP Act and RBI rules. This stops recovery agent harassment immediately. The advocate then helps negotiate a legal One-Time Settlement with full data deletion."
   }
 ];
 
@@ -240,7 +240,7 @@ const jsonLdGraph = {
             "name": "Vikramaditya Sharma"
           },
           "datePublished": "2026-07-15",
-          "reviewBody": "An unauthorized instant loan app extracted my entire phonebook and created a WhatsApp group containing my colleagues and family members to extort money. SettleLoans advocates served an urgent legal notice under the DPDP Act 2023 and filed a complaint with the Data Protection Board and cyber cell. The harassment ceased immediately and all harvested data was purged.",
+          "reviewBody": "An instant loan app accessed my contacts and made WhatsApp groups to threaten me. SettleLoans advocates served a swift legal notice under the DPDP Act 2023. The harassment stopped at once and my data was erased.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -255,7 +255,7 @@ const jsonLdGraph = {
             "name": "Pooja Venkatesh"
           },
           "datePublished": "2026-08-03",
-          "reviewBody": "I was trapped in a cycle of multiple fintech apps demanding exorbitant processing charges and threatening my contacts. SettleLoans stepped in, identified the underlying NBFC data fiduciaries, cited RBI Digital Lending Guidelines and DPDP non-compliance, and settled my dues legally without further contact privacy breaches.",
+          "reviewBody": "Multiple apps harassed my contacts with illegal demands. SettleLoans stepped in and alerted the partner NBFC fiduciaries under RBI and DPDP rules. They settled my debts cleanly without privacy breaches.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -270,7 +270,7 @@ const jsonLdGraph = {
             "name": "Arjun Singhal"
           },
           "datePublished": "2026-06-28",
-          "reviewBody": "Ashish Jhangra and his legal team provided top-tier counsel when an offshore loan app began harassing my workplace. Their expertise in the Digital Personal Data Protection Act and IT Act forced the lender to withdraw its illegal recovery agents immediately.",
+          "reviewBody": "Ashish Jhangra and his legal team gave stellar counsel when an app harassed my office. Their swift action under the DPDP Act and IT Act forced the lender to halt collection agents.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -285,7 +285,7 @@ const jsonLdGraph = {
             "name": "Deepak Chawla"
           },
           "datePublished": "2026-08-20",
-          "reviewBody": "The legal notice drafted by SettleLoans highlighted Section 6 and Section 8 DPDP violations so thoroughly that the NBFC's nodal officer personally intervened, apologized for their third-party agency's contact scraping, and approved a structured compromise settlement.",
+          "reviewBody": "The legal notice from SettleLoans cited DPDP Section 6 and Section 8 violations. The NBFC nodal officer apologized for their agency's conduct and approved a fair compromise settlement.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -450,23 +450,23 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
               <ul className="space-y-3 text-xs sm:text-sm text-slate-700">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Total Prohibition on Contact Harvesting:</strong> The RBI Digital Lending Directives and the DPDP Act strictly prohibit digital loan applications from accessing mobile address books, file directories, and media galleries.</span>
+                  <span><strong>Total Prohibition on Contact Harvesting.</strong> RBI lending rules ban this practice. The DPDP Act also forbids reading phonebooks or photo galleries.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Invalidity of Forced Consent:</strong> Pre-ticked permissions, dark patterns, or blanket permission prompts during app onboarding fail the statutory test of free, informed, and specific consent under Section 6 of the DPDP Act.</span>
+                  <span><strong>Invalidity of Forced Consent.</strong> Forced app permissions fail legal standards. Section 6 of the DPDP Act treats them as void.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Massive DPBI Financial Sanctions:</strong> The Data Protection Board of India holds statutory authority to levy penalties of up to ₹250 Crores on non-compliant fintech data fiduciaries and their regulated NBFC partners.</span>
+                  <span><strong>Massive DPBI Financial Sanctions.</strong> The Data Protection Board can act swiftly. It can levy fines up to ₹250 Crores on lenders.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Cognizable Criminal Offenses:</strong> Messaging extracted phone contacts, creating WhatsApp shaming groups, or threatening photo manipulation constitutes extortion under Section 308 BNS and Section 66E of the IT Act.</span>
+                  <span><strong>Cognizable Criminal Offenses.</strong> Messaging contacts or creating shaming groups is a crime. It is punishable under Section 308 BNS and Section 66E IT Act.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Direct Advocate Intervention:</strong> Serving a statutory Cease-and-Desist notice supported by technical evidence halts cyber harassment immediately and initiates structured debt resolution under formal banking channels.</span>
+                  <span><strong>Direct Advocate Intervention.</strong> A legal Cease-and-Desist notice stops harassment at once. It also opens official bank settlement channels.</span>
                 </li>
               </ul>
             </div>
@@ -475,10 +475,10 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
             <section id="predatory-contact-harvesting-mechanics" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Predatory Ecosystem</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The proliferation of instant mobile loan applications in India has introduced a severe cyber security and human rights vulnerability for retail borrowers. Predatory fintech applications frequently deploy malicious software development kits (SDKs) engineered to execute automated data exfiltration upon installation. Under the guise of calculating creditworthiness, evaluating fraud risk, or verifying user identity, these mobile applications demand comprehensive device permissions. In an instant, the borrower&apos;s complete contact repository, call history, SMS database, camera gallery, and real-time geolocation telemetry are transmitted to remote cloud servers, frequently situated outside sovereign Indian data jurisdiction.
+                Instant loan apps in India pose serious privacy risks. Many apps use tracking kits during installation. They demand phone permissions under false fraud checks. The app then copies contact lists, call logs. And photos to remote servers.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a borrower experiences a liquidity crunch or disputes unlawful hidden processing deductions, these digital lenders do not resort to civil recovery channels. Instead, they weaponize the exfiltrated personal data through automated social shaming and psychological warfare. Rogue collection outfits deploy automated bots and call centers to blast defamatory text messages, doctored images, and fabricated legal warnings to the borrower&apos;s parents, siblings, employers, professional peers, and distant acquaintances. This aggressive tactic exploits social stigma to coerce immediate debt repayment, often forcing individuals into taking additional high-interest loans from sister applications.
+                When a borrower faces financial delay, rogue lenders exploit this data. Recovery agents send abusive texts, morphed photos. And fake notices to relatives. This tactic uses social stigma to extort money quickly.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded-r-xl my-4">
                 <div className="flex items-center gap-2 text-amber-900 font-bold text-xs uppercase tracking-wider mb-1">
@@ -486,11 +486,11 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
                   <span>The Fundamental Cyber Jurisprudence Principle</span>
                 </div>
                 <p className="text-xs sm:text-sm text-amber-800 leading-relaxed">
-                  Third parties whose phone numbers and names reside in your device address book have never interacted with the lending platform, nor have they provided consent for data processing. Harvesting their personal data is a direct violation of their independent constitutional right to privacy, transforming the loan application&apos;s data harvesting into an unlawful and actionable civil and criminal wrong.
+                  People in your phonebook never gave consent. Stealing their data violates their right to privacy. This makes phonebook harvesting both illegal and criminal.
                 </p>
               </div>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Borrowers trapped in this cycle frequently believe that because they tapped &quot;Allow&quot; on their mobile screen during app onboarding, they have surrendered all legal rights. This is a profound legal misconception. Indian data protection jurisprudence, fortified by the Digital Personal Data Protection Act, 2023, establishes that private consent clauses cannot validate illegal data harvesting or indemnify lenders against statutory privacy breaches.
+                Many borrowers think clicking &quot;Allow&quot. waives all rights. That is not true. Under the DPDP Act 2023, forced consent cannot make data theft legal.
               </p>
             </section>
 
@@ -498,10 +498,10 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
             <section id="dpdp-act-2023-statutory-framework" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. The DPDP Act 2023 Statutory Architecture</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The enactment of the Digital Personal Data Protection Act, 2023 (DPDP Act) fundamentally dismantled the exploitative business model of predatory lending apps. Under the DPDP framework, the borrower is legally recognized as a &quot;Data Principal,&quot; while the lending entity and its technology platform operate as &quot;Data Fiduciaries&quot; or &quot;Data Processors.&quot; The Act introduces rigorous statutory obligations regarding how personal data must be sourced, processed, stored, and deleted across India.
+                The DPDP Act 2023 protects loan borrowers across India. The law calls the borrower a &quot;Data Principal&quot;. It calls the lender a &quot;Data Fiduciary&quot;. The Act sets strict rules on collecting, using. And deleting data.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Section 4 of the DPDP Act mandates that personal data can only be processed for a lawful purpose for which the Data Principal has given explicit consent or for certain legitimate uses recognized by law. Section 5 imposes a mandatory obligation on the Data Fiduciary to issue an itemized, clear, and plain-language notice prior to or at the time of seeking consent. This notice must explicitly describe the exact categories of personal data being collected, the specific purpose of processing, the manner in which the Data Principal may exercise rights of correction or erasure, and the procedure for filing a complaint with the Data Protection Board of India.
+                Section 4 requires lawful consent for data processing. Section 5 mandates clear notice before taking any data. The notice must state what data is collected. It must explain user rights and DPBI complaint steps.
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-4">
@@ -511,34 +511,34 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
                 </h3>
                 <div className="space-y-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 6: Invalidation of Forced, Bundled &amp; Deceptive Consent</p>
+                    <p className="font-bold text-slate-900">Section 6: Forced and Bundled Consent is Void.</p>
                     <p className="text-slate-600 mt-1">
-                      Consent must be free, specific, informed, unconditional, and unambiguous with a clear affirmative action. Any consent obtained by making the provision of a loan conditional upon surrendering unrelated device permissions (such as contacts and media) is statutorily invalid. The borrower retains an absolute right to withdraw consent at any time.
+                      Consent must be free, specific. And clear. Forcing contact access for loan approval is illegal. Borrowers can withdraw consent at any time.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 8: General Obligations &amp; Vicarious Liability of Data Fiduciaries</p>
+                    <p className="font-bold text-slate-900">Section 8: Duties and Full Liability of Lenders.</p>
                     <p className="text-slate-600 mt-1">
-                      Lending institutions must implement technical and organizational measures to ensure compliance. Data Fiduciaries remain directly liable for the illegal processing, scraping, and harassment committed by their third-party technical vendors, recovery agencies, or call center partners.
+                      Lenders must safeguard user data. Data Fiduciaries remain liable for unlawful acts by recovery agents and third-party vendors.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 12 &amp; 13: Right to Correction, Erasure &amp; Grievance Redressal</p>
+                    <p className="font-bold text-slate-900">Section 12 &amp. 13: Right to Data Deletion and Grievance Desk.</p>
                     <p className="text-slate-600 mt-1">
-                      Data Principals have a statutory right to demand the immediate deletion of unlawfully collected contact lists and personal data. Data Fiduciaries are obligated to provide a robust grievance redressal mechanism and respond to user complaints within prescribed regulatory timelines.
+                      Data Principals have a legal right to erase personal data. Lenders must provide a grievance desk and answer queries on time.
                     </p>
                   </div>
                   <div className="p-3.5 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 33 &amp; Schedule: Astronomical Penalties for Non-Compliance</p>
+                    <p className="font-bold text-slate-900">Section 33 &amp. Schedule: Heavy fines for Non-Compliance.</p>
                     <p className="text-slate-600 mt-1">
-                      The Data Protection Board of India is empowered to impose severe financial penalties: up to ₹250 Crores for failing to prevent personal data breaches, and up to ₹200 Crores for breaching statutory obligations concerning consent and processing limits.
+                      The DPBI can levy heavy fines. It can penalize breaches up to ₹250 Crores. It can fine consent failures up to ₹200 Crores.
                     </p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a loan application scrapes an entire mobile phonebook containing hundreds of unconsented third parties, it commits an egregious, mass-scale data privacy violation under Section 6 and Section 8. Because the individuals listed in the phonebook never provided consent to the Data Fiduciary, the lender has zero lawful grounds to hold, process, or contact those numbers under the DPDP Act.
+                Scraping an address book breaks Section 6 and Section 8. The people in the list never gave consent. Thus, the lender has no right to hold or call those numbers.
               </p>
             </section>
 
@@ -546,39 +546,39 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
             <section id="rbi-digital-lending-guidelines-permissions" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. RBI Digital Lending Directives vs. Predatory Mobile App</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The statutory mandate under the DPDP Act is reinforced by specific sector-level regulations issued by the Reserve Bank of India. On September 2, 2022, the RBI issued the landmark <em>Guidelines on Digital Lending</em> (Circular RBI/2022-23/111 DOR.CRE.REC.66/21.07.001/2022-23), which are legally binding on all Commercial Banks, Non-Banking Financial Companies (NBFCs), Primary Co-operative Banks, and their Lending Service Providers (LSPs).
+                The DPDP Act aligns with Reserve Bank of India rules. On September 2, 2022, the RBI issued its Digital Lending Guidelines (Circular RBI/2022-23/111 DOR.CRE.REC.66/21.07.001/2022-23). These rules apply to all banks, NBFCs. And lending apps.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The RBI Digital Lending Guidelines establish explicit, non-negotiable boundaries concerning mobile application permissions and borrower data access:
+                The RBI rules set firm restrictions on app access:
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
                 <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
-                  <span>Mandatory RBI Digital Lending App Governance Standards</span>
+                  <span>Mandatory RBI Digital Lending Standards</span>
                 </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">Strict Prohibition on Accessing Media &amp; Contacts</p>
-                    <p className="text-slate-600">Digital lending apps are strictly prohibited from accessing mobile device storage, contact lists, call logs, and photo galleries. Only one-time access for camera and microphone during KYC is permitted.</p>
+                    <p className="font-bold text-slate-900 mb-1">Strict Ban on Access to Contacts and Media.</p>
+                    <p className="text-slate-600">Loan apps cannot access contacts, call logs, or media files. Only one-time camera and microphone access for KYC is allowed.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">Direct Disbursal &amp; Repayment Architecture</p>
-                    <p className="text-slate-600">All loan disbursals and repayments must execute directly between the bank account of the Regulated Entity (RE) and the borrower, completely bypassing third-party pool accounts.</p>
+                    <p className="font-bold text-slate-900 mb-1">Direct Fund Transfer and Loan Repayments.</p>
+                    <p className="text-slate-600">Funds must move directly between bank accounts. Regulated lenders and borrowers cannot use third-party pool accounts.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">Mandatory Key Fact Statement (KFS)</p>
-                    <p className="text-slate-600">Lenders must provide a standardized KFS detailing the true Annual Percentage Rate (APR), recovery mechanisms, and grievance redressal officer details before loan execution.</p>
+                    <p className="font-bold text-slate-900 mb-1">Key Fact Statement (KFS) Rules.</p>
+                    <p className="text-slate-600">Lenders must provide a clear KFS before signing. It must state total APR, recovery rules. And grievance contacts.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">Data Localization &amp; Deletion Mandates</p>
-                    <p className="text-slate-600">All financial and personal data must reside on secure servers located within India. Borrowers have an unconditional right to revoke consent and demand data deletion from app servers.</p>
+                    <p className="font-bold text-slate-900 mb-1">Local Data Storage and Deletion Rules.</p>
+                    <p className="text-slate-600">All borrower data must stay on servers in India. Users can revoke consent and demand full data deletion.</p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The RBI has repeatedly warned that Regulated Entities cannot escape regulatory penalties by blaming third-party fintech applications or outsourced collection agencies. If a partner app scrapes contacts or initiates abusive collection calls, the partner NBFC faces immediate regulatory sanction, suspension of digital lending operations, and heavy financial fines from the Reserve Bank of India.
+                The RBI holds licensed NBFCs strictly responsible. If a partner app abuses contacts, the NBFC faces steep fines and license cancel.
               </p>
             </section>
 
@@ -586,43 +586,43 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
             <section id="criminal-penal-liabilities-bns-it-act" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Penal Liabilities, Blackmail &amp; Cyber Crime Sanctions</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When predatory collection agencies move beyond unauthorized data harvesting to active cyber blackmail—such as threatening to blast defamatory messages, creating WhatsApp shaming groups, or distributing manipulated photographs—their conduct escalates from regulatory non-compliance into serious, cognizable penal offenses under Indian criminal jurisprudence.
+                Threatening borrowers or sharing morphed pictures is a crime. Such conduct triggers immediate criminal liability.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under the Bharatiya Nyaya Sanhita, 2023 (BNS), replacing the Indian Penal Code, and the Information Technology Act, 2000, victims of fintech harassment possess powerful statutory remedies to hold both individual recovery operators and corporate executives criminally liable:
+                Under the Bharatiya Nyaya Sanhita, 2023 (BNS) and the IT Act 2000, borrowers have strong legal remedies against rogue agents:
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
                 <div className="space-y-2.5 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 308 BNS / Section 383 IPC: Extortion</p>
+                    <p className="font-bold text-slate-900">Section 308 BNS / Section 383 IPC: Extortion.</p>
                     <p className="text-slate-600 mt-1">
-                      Coercing a borrower to pay unverified penalty charges or immediate sums under the threat of contacting their family, ruining their professional reputation, or leaking private photographs constitutes the cognizable offense of extortion, carrying severe imprisonment terms.
+                      Demanding money by threatening family or work reputation is extortion. It carries heavy prison terms.
                     </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 351 BNS / Section 503 &amp; 506 IPC: Criminal Intimidation</p>
+                    <p className="font-bold text-slate-900">Section 351 BNS / Section 503 &amp. 506 IPC: Criminal threats.</p>
                     <p className="text-slate-600 mt-1">
-                      Threatening a person with injury to their reputation or property, or threatening their family members with intent to cause alarm, is punishable with up to two years of rigorous imprisonment.
+                      Threatening a person&apos;s reputation or safety to cause fear is punishable with up to two years in jail.
                     </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 356 BNS / Section 499 &amp; 500 IPC: Criminal Defamation</p>
+                    <p className="font-bold text-slate-900">Section 356 BNS / Section 499 &amp. 500 IPC: Criminal Defamation.</p>
                     <p className="text-slate-600 mt-1">
-                      Sending false statements alleging that a borrower is a criminal defaulter or absconder to their workplace colleagues or family contacts constitutes intentional criminal defamation.
+                      Sending false statements about a borrower to relatives or coworkers is criminal defamation.
                     </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Section 66E, 67 &amp; 72A Information Technology Act, 2000</p>
+                    <p className="font-bold text-slate-900">Section 66E, 67 &amp. 72A Information Technology Act, 2000.</p>
                     <p className="text-slate-600 mt-1">
-                      Section 66E penalizes intentional privacy violations and capturing images without consent; Section 67 penalizes transmitting obscene material; and Section 72A punishes disclosure of personal information in breach of lawful contract with up to 3 years imprisonment and statutory fines.
+                      Section 66E bans privacy breaches. Section 67 penalizes obscene media. Section 72A punishes illegal data sharing with up to 3 years in jail.
                     </p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Furthermore, in the landmark judgment <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) 10 SCC 1</em>, the 9-judge Constitution Bench of the Supreme Court affirmed that informational privacy and data autonomy are fundamental rights guaranteed under Article 21 of the Constitution of India. Unlawful digital surveillance and coercive exploitation of private phone records represent a direct violation of constitutional liberty.
+                In Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) 10 SCC 1, the Supreme Court ruled privacy is a fundamental right under Article 21. Stealing contact lists directly violates this constitutional right.
               </p>
             </section>
 
@@ -648,7 +648,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
             <section id="data-protection-board-complaint-procedure" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Legal Procedure</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Navigating the statutory dispute resolution process under the DPDP Act requires strict adherence to procedural protocols. To ensure that the Data Protection Board of India (DPBI) takes immediate cognisance of your complaint, you must follow a structured four-stage escalation framework:
+                Borrowers must follow a clear legal path under the DPDP Act. A structured four-stage plan ensures swift action:
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 space-y-3">
@@ -658,34 +658,34 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
                 </div>
                 <div className="space-y-2.5 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Stage 1: Comprehensive Digital Forensics &amp; Evidence Preservation</p>
+                    <p className="font-bold text-slate-900">Stage 1: Digital Proof &amp. Evidence Collection.</p>
                     <p className="text-slate-600 mt-1">
-                      Collect unedited screenshots of app permissions, WhatsApp threats, call logs, SMS headers, UPI transaction IDs, and APK download links. Export chat transcripts with timestamps and compile contact numbers used by harassment agents.
+                      Save screenshots of permissions, threats, call logs. And receipts. Keep all agent phone numbers and message headers.
                     </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Stage 2: Statutory Notice to Data Protection Officer (DPO) &amp; Nodal Officer</p>
+                    <p className="font-bold text-slate-900">Stage 2: Legal Notice to Data Protection Officer.</p>
                     <p className="text-slate-600 mt-1">
-                      Serve a formal legal notice upon the Data Fiduciary (the lending entity and its partner NBFC) demanding immediate cessation of contact harvesting, complete erasure of exfiltrated data under Section 12 DPDP Act, and a written explanation within statutory deadlines.
+                      Send a formal legal notice to the lender and partner NBFC. Demand an immediate halt to harassment and full data deletion under Section 12.
                     </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Stage 3: Formal Digital Petition Before the Data Protection Board of India</p>
+                    <p className="font-bold text-slate-900">Stage 3: Online Petition to the Data Protection Board.</p>
                     <p className="text-slate-600 mt-1">
-                      Upon expiry of the notice period or upon receiving an unsatisfactory response, file an electronic complaint on the official DPBI portal. Outline the specific sections breached (Sections 4, 5, 6, 8, 9), attach forensic logs, and request an inquiry and imposition of statutory penalties.
+                      If the lender fails to respond, lodge an online complaint on the DPBI portal. List violated sections and attach proof.
                     </p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900">Stage 4: Parallel Escalation to RBI CMS &amp; National Cyber Crime Portal</p>
+                    <p className="font-bold text-slate-900">Stage 4: Reporting to RBI CMS &amp. Cyber Portal.</p>
                     <p className="text-slate-600 mt-1">
-                      File a simultaneous regulatory complaint on the RBI Integrated Ombudsman portal (cms.rbi.org.in) citing Digital Lending Guidelines violations, and lodge a cyber extortion complaint on cybercrime.gov.in (or call 1930) for criminal tracking.
+                      File a complaint on the RBI portal (cms.rbi.org.in). Report criminal threats at cybercrime.gov.in or call 1930.
                     </p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                By executing this structured legal escalation, you transform a vulnerable situation into an overwhelming compliance liability for the lending company. Regulated NBFCs faced with formal DPBI and RBI filings immediately order their third-party collection vendors to cease operations and withdraw all unauthorized agents to avoid catastrophic institutional sanctions.
+                This legal approach shifts pressure to the lender. Facing DPBI fines and RBI scrutiny, regulated NBFCs stop recovery harassment quickly.
               </p>
             </section>
 
@@ -693,18 +693,18 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
             <section id="fintech-accounting-data-penalties-npv" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Fintech NPA Accounting Realities</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To understand why predatory fintech lenders deploy aggressive contact harassment instead of pursuing legitimate civil court recovery, one must examine the balance sheet economics of digital lending portfolios in India. Unlike secured home loans backed by immovable real estate, digital micro-loans are entirely unsecured, high-velocity assets.
+                Apps use aggressive collection because micro-loans are unsecured. Unlike home loans, digital loans carry no collateral.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under the Reserve Bank of India Prudential Norms on Income Recognition, Asset Classification and Provisioning, delinquent unsecured loans must be classified as Non-Performing Assets (NPAs) after 90 days of continuous default. Once classified, the lending institution is hit with heavy mandatory provisioning burdens:
+                Under RBI rules, overdue loans turn into Non-Performing Assets (NPAs) after 90 days. Lenders then face strict provisioning rules:
               </p>
               <ul className="list-disc pl-5 space-y-1.5 text-xs sm:text-sm text-slate-700">
-                <li><strong>Substandard Assets (Up to 12 Months Overdue):</strong> Mandatory 15% provisioning on total unsecured exposure.</li>
-                <li><strong>Doubtful Assets (12 to 24 Months Overdue):</strong> Mandatory 100% total provisioning against unsecured balances.</li>
-                <li><strong>Loss Portfolios / Complete Write-Offs:</strong> 100% deduction directly from the lending institution&apos;s quarterly net profits.</li>
+                <li><strong>Substandard Assets (Up to 12 Months Overdue):</strong> Mandatory 15% provisioning on unsecured debt.</li>
+                <li><strong>Doubtful Assets (12 to 24 Months Overdue):</strong> Mandatory 100% provisioning against overdue balances.</li>
+                <li><strong>Loss Portfolios / Complete Write-Offs:</strong> 100% loss deducted directly from net quarterly profits.</li>
               </ul>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed mt-3">
-                If an NBFC initiates civil recovery suits in a Civil Court or Small Causes Court to recover micro-loans of ₹10,000 to ₹1,00,000, it faces prohibitive legal costs, court filing fees, and 2 to 4 years of litigation delays. Furthermore, because predatory apps frequently operate with non-compliant loan sanction agreements, their documentation fails judicial scrutiny. Institutional risk committees evaluate recovery viability using a Net Present Value (NPV) recovery formula:
+                Civil suits are too slow and costly for small loans. Court fees and litigation delay profits. Lenders therefore evaluate recovery with this formula:
               </p>
 
               {/* Recovery Valuation Formula Box */}
@@ -717,12 +717,12 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - DPDP Penalty Exposure - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoveries across time periods t, r is the institution&apos;s cost of capital discount rate, and deductions account for legal friction, mandatory NPA provisioning, and statutory exposure to DPDP Act penalties (up to ₹250 Crores).
+                  Here C_t is expected cash recovery. And r is the discount rate. Deductions include legal fees, loan provisioning, and DPDP fines up to ₹250 Crores.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a borrower is supported by legal counsel who issues a formal DPDP Act violation notice, the lender&apos;s risk calculus shifts drastically. The potential liability of facing a ₹250 Crore penalty from the Data Protection Board of India and cancellation of NBFC registration by the RBI completely dwarfs the nominal loan balance. Consequently, lenders are highly incentivized to agree to an immediate One-Time Settlement (OTS) with deep principal waivers (often 40% to 70%), purge all exfiltrated data, and issue an official No Dues Certificate.
+                A DPDP legal notice alters the risk balance. The threat of a ₹250 Crore fine exceeds the loan balance. Lenders agree to a One-Time Settlement (OTS) with 40% to 70% waivers and data deletion.
               </p>
             </section>
 
@@ -730,35 +730,35 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
             <section id="cease-desist-evidence-preservation-ots" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Cease-and-Desist Notices, Evidence Preservation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A critical mistake made by distressed borrowers subjected to contact harassment is paying informal extortion amounts to collection agents over UPI or payment links without official documentation. Such payments are routinely pocketed by rogue recovery agents or categorized as &quot;penal interest charges,&quot; leaving the original principal balance delinquent and inviting fresh extortion within days.
+                Never pay cash or UPI sums without official papers. Rogue agents pocket the money, leaving the loan active.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                To permanently eliminate cyber harassment, legally close the debt, and restore peace of mind, borrowers must execute a structured three-pillar legal settlement protocol:
+                Borrowers should resolve their debt using a three-pillar legal plan:
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 space-y-3">
                 <div className="flex items-center gap-2 text-slate-900 font-bold text-xs uppercase tracking-wider">
                   <FileText className="w-4 h-4 text-[#1F5EFF]" />
-                  <span>The Three-Pillar Legal Resolution Architecture</span>
+                  <span>The Three-Pillar Legal Settlement Steps</span>
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">1. Statutory Cease-and-Desist</p>
-                    <p className="text-slate-600">A comprehensive legal demand served on the lender citing DPDP Act Sections 6 &amp; 8, RBI Digital Lending directives, and BNS extortion provisions, compelling the immediate cessation of third-party contact.</p>
+                    <p className="font-bold text-slate-900 mb-1">1. legal Cease-and-Desist.</p>
+                    <p className="text-slate-600">Send a legal notice citing DPDP Sections 6 and 8, RBI rules, and BNS provisions to stop harassment calls immediately.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">2. Formal Sanction Letter</p>
-                    <p className="text-slate-600">Negotiation of an institutional One-Time Settlement (OTS) documented on official NBFC letterhead, detailing the negotiated waiver amount, payment terms, and data deletion confirmation.</p>
+                    <p className="font-bold text-slate-900 mb-1">2. Formal Sanction Letter.</p>
+                    <p className="text-slate-600">Secure an official OTS letter on NBFC letterhead with clear waiver terms and data erasure terms.</p>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <p className="font-bold text-slate-900 mb-1">3. Stamped NDC &amp; CIBIL Update</p>
-                    <p className="text-slate-600">Direct payment into the lender&apos;s official loan account followed by receipt of a stamped No Dues Certificate and formal closure reporting to credit bureaus (CIBIL, Experian, CRIF, Equifax).</p>
+                    <p className="font-bold text-slate-900 mb-1">3. Stamped NDC &amp. CIBIL Update.</p>
+                    <p className="text-slate-600">Pay directly into the lender&apos;s bank account. Obtain a stamped No Dues Certificate and verify bureau closure.</p>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Once the No Dues Certificate is issued, the lender is legally required under RBI guidelines and DPDP data erasure rules to completely wipe all cached device data, contact records, and metadata from its production and backup servers, permanently safeguarding the borrower and their family.
+                After issuing the No Dues Certificate, the lender must delete all stored device data and contact records under DPDP rules.
               </p>
             </section>
 
@@ -766,55 +766,55 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
             <section id="comparative-statutory-protection-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative DPDP Enforcement &amp; Debt Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The comparative matrix below outlines the statutory mandates, data access restrictions, and penal liabilities across different regulatory frameworks governing digital lending in India:
+                The table below outlines legal mandates and fines under Indian digital lending laws:
               </p>
 
               <div className="overflow-x-auto">
                 <table>
                   <thead>
                     <tr>
-                      <th>Statutory Framework</th>
-                      <th>Governing Authority</th>
-                      <th>Contact Scraping Legality</th>
-                      <th>Permissible Data Scope</th>
-                      <th>Penalties &amp; Legal Remedies</th>
+                      <th>legal Framework.</th>
+                      <th>Governing Authority.</th>
+                      <th>Contact Scraping Legality.</th>
+                      <th>allowed Data Scope.</th>
+                      <th>fines &amp. Legal Remedies.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-semibold text-slate-900">DPDP Act, 2023 (Sec 4, 6, 8, 33)</td>
-                      <td>Data Protection Board of India (DPBI)</td>
-                      <td><strong>Strictly Illegal</strong> (Void ab initio without specific consent)</td>
-                      <td>Minimal data strictly necessary for stated loan purpose</td>
-                      <td>Penalties up to ₹250 Crores per violation; mandatory data erasure orders</td>
+                      <td className="font-semibold text-slate-900">DPDP Act, 2023 (Sec 4, 6, 8, 33).</td>
+                      <td>Data Protection Board of India (DPBI).</td>
+                      <td><strong>Strictly Illegal.</strong> (Void without specific consent).</td>
+                      <td>Minimal data strictly needed for the loan.</td>
+                      <td>Fines up to ₹250 Crores per breach. Mandatory data deletion orders.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">RBI Digital Lending Guidelines (2022)</td>
-                      <td>Reserve Bank of India</td>
-                      <td><strong>Explicitly Barred</strong> (Total prohibition on contacts &amp; gallery)</td>
-                      <td>One-time camera/mic access only for direct KYC verification</td>
-                      <td>Cancellation of NBFC license; removal of app from Google Play / Apple App Store</td>
+                      <td className="font-semibold text-slate-900">RBI Digital Lending Guidelines (2022).</td>
+                      <td>Reserve Bank of India.</td>
+                      <td><strong>Explicitly Barred.</strong> (No access to contacts or gallery).</td>
+                      <td>One-time camera and mic access for KYC only.</td>
+                      <td>cancel of NBFC license. App store delisting.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Information Technology Act, 2000</td>
-                      <td>Cyber Crime Police &amp; Adjudicating Officers</td>
-                      <td><strong>Punishable Offense</strong> (Sec 66E, 72A data breach)</td>
-                      <td>Strict adherence to reasonable cybersecurity safeguards</td>
-                      <td>Up to 3 years imprisonment, civil compensation, and corporate liability</td>
+                      <td className="font-semibold text-slate-900">Information Technology Act, 2000.</td>
+                      <td>Cyber Crime Police &amp. Adjudicating Officers.</td>
+                      <td><strong>Punishable Offense.</strong> (Sec 66E, 72A privacy breach).</td>
+                      <td>Strict duty to protect personal data.</td>
+                      <td>Up to 3 years prison. Civil damages and corporate fines.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Bharatiya Nyaya Sanhita, 2023</td>
-                      <td>Criminal Judicial Courts &amp; State Police</td>
-                      <td><strong>Cognizable Crime</strong> (Sec 308 Extortion, Sec 351 Intimidation)</td>
-                      <td>Zero right to intimidate or defame third-party contacts</td>
-                      <td>Non-bailable criminal warrants, police arrest, and confiscation of assets</td>
+                      <td className="font-semibold text-slate-900">Bharatiya Nyaya Sanhita, 2023.</td>
+                      <td>Criminal Judicial Courts &amp. State Police.</td>
+                      <td><strong>Cognizable Crime.</strong> (Sec 308 Extortion, Sec 351 threats).</td>
+                      <td>Zero legal right to harass third-party contacts.</td>
+                      <td>Criminal warrants, police arrest. And asset seizure.</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Consumer Protection Act, 2019</td>
-                      <td>District &amp; State Consumer Commissions</td>
-                      <td><strong>Unfair Trade Practice</strong> &amp; Deficiency of Service</td>
-                      <td>Fair, transparent, and non-coercive contractual terms</td>
-                      <td>Substantial punitive compensation for mental agony and harassment</td>
+                      <td className="font-semibold text-slate-900">Consumer Protection Act, 2019.</td>
+                      <td>District &amp. State Consumer Commissions.</td>
+                      <td><strong>Unfair Trade Practice.</strong> &amp. service defect.</td>
+                      <td>Fair, transparent. And balanced loan terms.</td>
+                      <td>Substantial payout for harassment and distress.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -826,7 +826,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
               <div className="border-t border-slate-200 pt-8 space-y-4">
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Cyber-Legal Defense Framework</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  No borrower should have to endure cyber terrorism, phonebook scraping, defamation of relatives, or abusive WhatsApp messages from predatory digital lenders. At SettleLoans, our senior banking advocates, cyber privacy attorneys, and financial negotiators provide immediate, aggressive defense against illegal fintech collection practices across India. We serve statutory Cease-and-Desist notices invoking the DPDP Act 2023 and RBI Digital Lending directives, file formal complaints before the Data Protection Board of India and cyber cells, and negotiate structured 40% to 70% One-Time Settlements backed by official No Dues Certificates.
+                  No borrower should face cyber threats, phonebook theft, or family harassment from loan apps. SettleLoans provides swift legal defense against predatory lenders across India. Our legal team serves Cease-and-Desist notices under the DPDP Act and RBI rules. We file complaints with the DPBI and cyber police. We negotiate 40% to 70% One-Time Settlements with official No Dues Certificates.
                 </p>
               </div>
 
@@ -841,7 +841,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
                 <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: DPDP Act &amp; Predatory Loan App Complaints</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
-                Verified legal answers regarding the Digital Personal Data Protection Act 2023, Data Protection Board complaints, contact scraping prohibitions, and debt resolution.
+                Verified legal answers regarding the Digital Personal Data Protection Act 2023, Data Protection Board complaints, contact scraping prohibitions. And debt resolution.
               </p>
 
               <div className="space-y-3">
@@ -1006,11 +1006,11 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
                       Ashish Jhangra
                     </Link>
                   </div>
-                  <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
+                  <p className="text-xs text-slate-500">Chief Banking &amp. Debt Resolution Expert</p>
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-3">
-                Authoritative specialist in fintech cyber jurisprudence, Digital Personal Data Protection Act compliance, RBI Digital Lending directives, and nationwide legal defense against predatory collection harassment.
+                Expert in fintech cyber law, DPDP Act compliance, and RBI lending rules. He defends borrowers against illegal recovery harassment nationwide.
               </p>
               <div className="pt-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
                 <Link href="/authors/ashish-jhangra" className="text-[#1F5EFF] font-semibold hover:underline flex items-center gap-1">
@@ -1032,7 +1032,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
               </div>
               <div className="font-bold text-base text-white mb-2">Loan Apps Harassing Your Contacts or Gallery?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
-                Do not endure unconsented contact scraping or cyber extortion. Retain our senior advocates to issue immediate DPDP Cease-and-Desist notices, file DPBI &amp; cyber complaints, and negotiate a 40%–70% OTS.
+                Do not endure contact scraping or cyber extortion. Let our senior advocates issue DPDP notices, file cyber complaints. And secure a 40%–70% OTS.
               </p>
               <Link
                 href="/contact"

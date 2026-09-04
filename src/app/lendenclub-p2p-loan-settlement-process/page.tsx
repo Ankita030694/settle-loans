@@ -179,7 +179,7 @@ const jsonLdGraph = {
             "name": "Vivek Nair"
           },
           "datePublished": "2026-07-18",
-          "reviewBody": "I had availed a retail loan of ₹4.8 Lakhs on the LenDenClub platform. When my software firm downsized, I missed 4 EMIs. The automated tele-callers and agency agents began threatening my family and sending fabricated legal summons over WhatsApp. SettleLoans stepped in, issued immediate cease-and-desist notices citing RBI Digital Lending Guidelines, and negotiated directly with the Innofin Solutions recovery cell. They finalized a genuine OTS sanction of ₹2.3 Lakhs with 100% waiver of late fees and delivered the ₹0 NDC within 3 weeks.",
+          "reviewBody": "I had a ₹4.8 Lakh loan on LenDenClub. I missed 4 EMIs after job loss. Recovery agents called my family and sent threats. SettleLoans sent a legal notice under RBI rules. They negotiated with Innofin Solutions. We closed the debt for ₹2.3 Lakh with zero late fees. I got my ₹0 NDC in 3 weeks.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -194,7 +194,7 @@ const jsonLdGraph = {
             "name": "Sunita Sharma"
           },
           "datePublished": "2026-08-09",
-          "reviewBody": "My LenDenClub facility under Finstree accumulated over ₹38,000 in e-NACH bounce penalties after my boutique business faced prolonged payment delays. The app gave no option to pause or restructure. SettleLoans revoked the electronic mandate at my bank branch under NPCI guidelines, purged all predatory charges from the balance ledger, and closed the debt with an authentic stamped settlement letter at a 48% discount.",
+          "reviewBody": "My LenDenClub loan had ₹38,000 in bounce fees after business slowdowns. SettleLoans stopped the auto-debit at my bank under NPCI rules. They got all unfair charges removed from my ledger. We settled the debt with a stamped letter at a 48% discount.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -209,7 +209,7 @@ const jsonLdGraph = {
             "name": "Amit Singhal"
           },
           "datePublished": "2026-06-22",
-          "reviewBody": "Received a Section 25 PSSA statutory legal notice from an advocate representing LenDenClub lenders. SettleLoans provided prompt legal representation, drafted a comprehensive reply evidencing my genuine medical distress, and transitioned the matter to National Lok Adalat. The matter was concluded with a 50% principal waiver and a binding civil court decree.",
+          "reviewBody": "I got a Section 25 PSSA notice for a bounced auto-debit on LenDenClub. SettleLoans replied quickly with proof of my medical distress. They settled the case in National Lok Adalat. We closed the loan with a 50% principal waiver and a binding court decree.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -224,7 +224,7 @@ const jsonLdGraph = {
             "name": "Pradeep Tiwari"
           },
           "datePublished": "2026-08-25",
-          "reviewBody": "Outsourced collection agents were calling my office reception and threatening home visits. SettleLoans immediately escalated the privacy violations to the Principal Nodal Officer of Innofin Solutions and drafted an RBI Ombudsman complaint. The illegal calls stopped that very afternoon. Within a month, we settled the full liability with an official stamped letter.",
+          "reviewBody": "Recovery agents phoned my workplace and threatened home visits. SettleLoans sent a formal complaint to Innofin Solutions and the RBI Ombudsman. The calls stopped the same day. Within a month, we settled the full loan with a stamped letter.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -243,7 +243,7 @@ const jsonLdGraph = {
           "name": "Can I negotiate and settle a LenDenClub loan directly through the LenDenClub mobile app?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The LenDenClub mobile application functions purely as a front-end servicing and loan origination interface. In-app chatbots and customer support channels are strictly programmed to demand full overdue payments and cannot authorize debt write-offs. To negotiate a binding One-Time Settlement (OTS) with principal waivers, formal representation must be made directly to the Stressed Assets and Legal Recovery Cell of Innofin Solutions Private Limited."
+            "text": "No. The app cannot grant debt waivers. In-app bots and phone callers lack power to settle debt. To get an OTS waiver, your advocate must negotiate with Innofin Solutions directly."
           }
         },
         {
@@ -251,7 +251,7 @@ const jsonLdGraph = {
           "name": "What is the legal entity behind LenDenClub and how does Finstree relate to my loan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "LenDenClub is operated by Innofin Solutions Private Limited, an RBI-registered NBFC-P2P (Peer-to-Peer Lending Platform). Finstree operates as an affiliated platform brand, digital sourcing partner, or co-lending vehicle. All loan contracts, escrow account routings, and legal settlement mandates are legally anchored and governed under Innofin Solutions Private Limited."
+            "text": "LenDenClub is run by Innofin Solutions Private Limited, an RBI-registered NBFC-P2P. Finstree is a sourcing partner. All loan contracts and official settlement letters come from Innofin Solutions."
           }
         },
         {
@@ -259,7 +259,7 @@ const jsonLdGraph = {
           "name": "What percentage of debt waiver or haircut can be negotiated on a defaulted LenDenClub P2P loan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Because LenDenClub loans are completely unsecured civil personal loans without collateral backing, facilities overdue past 90 to 180 days typically qualify for a 40% to 65% waiver on the outstanding principal balance, alongside a 100% waiver of all accumulated penal interest, late payment penalties, and e-NACH bounce charges."
+            "text": "LenDenClub loans are unsecured personal debts. After 90 to 180 days of default, you can negotiate a 40% to 65% principal waiver. All late fees and bounce charges are 100% waived under RBI rules."
           }
         },
         {
@@ -267,7 +267,7 @@ const jsonLdGraph = {
           "name": "How do I stop LenDenClub recovery agents from calling my relatives, friends, and colleagues?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under the RBI Master Directions on Recovery Agents and the RBI Digital Lending Guidelines, collection agencies are strictly forbidden from contacting reference numbers, relatives, or workplace colleagues who are not formal co-borrowers or legal guarantors. Issuing a formal legal cease-and-desist notice to the Principal Nodal Officer of Innofin Solutions and filing a complaint on the RBI Integrated Ombudsman portal halts unlawful contact immediately."
+            "text": "Under RBI rules, recovery agents cannot call third parties. They cannot contact relatives, friends, or coworkers. A legal notice to Innofin Solutions stops all harassment quickly."
           }
         },
         {
@@ -275,7 +275,7 @@ const jsonLdGraph = {
           "name": "Can LenDenClub or its individual retail lenders file an FIR or get me arrested for defaulting?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Default on an unsecured peer-to-peer personal loan is strictly a civil contractual breach under the Indian Contract Act, 1872. The police have no legal jurisdiction to register a First Information Report (FIR) or effectuate an arrest for genuine economic inability to repay debt. Threats of criminal charges or police intervention by collection callers are unlawful and constitute punishable regulatory violations."
+            "text": "No. Loan default is a civil matter under the Indian Contract Act, 1872. Police cannot file an FIR. They cannot arrest you for unpaid debt. Threats of police action are unlawful."
           }
         },
         {
@@ -283,7 +283,7 @@ const jsonLdGraph = {
           "name": "What legal steps should I take if I receive a Section 25 PSSA notice for bounced e-NACH on LenDenClub?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A notice under Section 25 of the Payment and Settlement Systems Act (PSSA) is a 15-day statutory demand notice issued after an electronic NACH mandate failure. It does not mean a court warrant has been issued. You must engage legal counsel immediately to send a formal legal response evidencing genuine financial hardship, refuting any dishonest intention, and opening structured negotiations for an amicable One-Time Settlement."
+            "text": "A Section 25 PSSA notice is a 15-day demand notice after a failed auto-debit. It is not an arrest warrant. A legal reply stating financial hardship stops litigation and opens OTS talks."
           }
         },
         {
@@ -291,7 +291,7 @@ const jsonLdGraph = {
           "name": "Is online digital arbitration initiated by LenDenClub legally binding on the borrower?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Most unilateral digital arbitration notices initiated through private online dispute resolution (ODR) platforms can be formally challenged. Under Supreme Court precedents in Perkins Eastman and TRF Ltd, a lender cannot unilaterally appoint a sole arbitrator without mutual consent. Filing a prompt statutory objection under Section 12(5) and Section 14 of the Arbitration and Conciliation Act halts biased proceedings and steers the dispute toward Lok Adalat or bilateral OTS."
+            "text": "Unilateral digital arbitration without mutual consent is invalid. The Supreme Court established this in Perkins Eastman and TRF Ltd. An advocate can file objections under Section 12 and Section 14 of the Arbitration Act to halt proceedings."
           }
         },
         {
@@ -299,7 +299,7 @@ const jsonLdGraph = {
           "name": "How does settling a LenDenClub loan reflect on my CIBIL credit report and score?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Upon successful completion of the settlement, Innofin Solutions reports the loan account status to CIBIL and other credit bureaus as 'Settled' with an outstanding balance of ₹0. While this causes a temporary drop in your credit score, it extinguishes the compounding default cycle and eliminates legal exposure. Borrowers typically rebuild their CIBIL score back to 750+ within 18 to 24 months using secured credit products."
+            "text": "Innofin Solutions reports the account as 'Settled' with a ₹0 balance in CIBIL. Your score may drop 75 to 120 points temporarily. You can rebuild it back to 750+ in 18 to 24 months with a secured credit card."
           }
         },
         {
@@ -307,7 +307,7 @@ const jsonLdGraph = {
           "name": "How can I ensure a LenDenClub settlement sanction letter is 100% genuine before making payment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Ensure the letter is issued on the official corporate letterhead of Innofin Solutions Private Limited (LenDenClub), containing its Corporate Identification Number (CIN), RBI Registration Number, borrower details, exact loan account number, approved settlement amount, specific payment deadline, and explicit clauses stating that all claims of underlying retail lenders are fully discharged."
+            "text": "A genuine OTS letter must be on official Innofin Solutions letterhead. It must include corporate CIN and RBI registration details. It must specify your loan number and settlement amount. Pay only into the official escrow account."
           }
         },
         {
@@ -315,7 +315,7 @@ const jsonLdGraph = {
           "name": "What is the statutory time frame for LenDenClub to deliver my No Dues Certificate (NDC)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, all regulated financial institutions, including NBFC-P2Ps, are mandated to issue the formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving full settlement remittance. Unjustified delays beyond 30 days entitle the borrower to statutory compensation of ₹5,000 per day of delay."
+            "text": "Under RBI Circular RBI/2023-24/60, lenders must deliver your No Dues Certificate within 30 days. Delays beyond 30 days carry a penalty of ₹5,000 per day payable to the borrower."
           }
         }
       ]
@@ -357,43 +357,43 @@ export default function LenDenClubP2PLoanSettlementPage() {
   const faqs = [
     {
       question: "Can I negotiate and settle a LenDenClub loan directly through the LenDenClub mobile app?",
-      answer: "No. The LenDenClub mobile application functions purely as a front-end servicing and loan origination interface. In-app chatbots and customer support channels are strictly programmed to demand full overdue payments and cannot authorize debt write-offs. To negotiate a binding One-Time Settlement (OTS) with principal waivers, formal representation must be made directly to the Stressed Assets and Legal Recovery Cell of Innofin Solutions Private Limited."
+      answer: "No. The app cannot grant debt waivers. In-app bots and phone callers lack power to settle debt. To get an OTS waiver, your advocate must negotiate with Innofin Solutions directly."
     },
     {
       question: "What is the legal entity behind LenDenClub and how does Finstree relate to my loan?",
-      answer: "LenDenClub is operated by Innofin Solutions Private Limited, an RBI-registered NBFC-P2P (Peer-to-Peer Lending Platform). Finstree operates as an affiliated platform brand, digital sourcing partner, or co-lending vehicle. All loan contracts, escrow account routings, and legal settlement mandates are legally anchored and governed under Innofin Solutions Private Limited."
+      answer: "LenDenClub is run by Innofin Solutions Private Limited, an RBI-registered NBFC-P2P. Finstree is a sourcing partner. All loan contracts and official settlement letters come from Innofin Solutions."
     },
     {
       question: "What percentage of debt waiver or haircut can be negotiated on a defaulted LenDenClub P2P loan?",
-      answer: "Because LenDenClub loans are completely unsecured civil personal loans without collateral backing, facilities overdue past 90 to 180 days typically qualify for a 40% to 65% waiver on the outstanding principal balance, alongside a 100% waiver of all accumulated penal interest, late payment penalties, and e-NACH bounce charges."
+      answer: "LenDenClub loans are unsecured personal debts. After 90 to 180 days of default, you can negotiate a 40% to 65% principal waiver. All late fees and bounce charges are 100% waived under RBI rules."
     },
     {
       question: "How do I stop LenDenClub recovery agents from calling my relatives, friends, and colleagues?",
-      answer: "Under the RBI Master Directions on Recovery Agents and the RBI Digital Lending Guidelines, collection agencies are strictly forbidden from contacting reference numbers, relatives, or workplace colleagues who are not formal co-borrowers or legal guarantors. Issuing a formal legal cease-and-desist notice to the Principal Nodal Officer of Innofin Solutions and filing a complaint on the RBI Integrated Ombudsman portal halts unlawful contact immediately."
+      answer: "Under RBI rules, recovery agents cannot call third parties. They cannot contact relatives, friends, or coworkers. A legal notice to Innofin Solutions stops all harassment quickly."
     },
     {
       question: "Can LenDenClub or its individual retail lenders file an FIR or get me arrested for defaulting?",
-      answer: "No. Default on an unsecured peer-to-peer personal loan is strictly a civil contractual breach under the Indian Contract Act, 1872. The police have no legal jurisdiction to register a First Information Report (FIR) or effectuate an arrest for genuine economic inability to repay debt. Threats of criminal charges or police intervention by collection callers are unlawful and constitute punishable regulatory violations."
+      answer: "No. Loan default is a civil matter under the Indian Contract Act, 1872. Police cannot file an FIR. They cannot arrest you for unpaid debt. Threats of police action are unlawful."
     },
     {
       question: "What legal steps should I take if I receive a Section 25 PSSA notice for bounced e-NACH on LenDenClub?",
-      answer: "A notice under Section 25 of the Payment and Settlement Systems Act (PSSA) is a 15-day statutory demand notice issued after an electronic NACH mandate failure. It does not mean a court warrant has been issued. You must engage legal counsel immediately to send a formal legal response evidencing genuine financial hardship, refuting any dishonest intention, and opening structured negotiations for an amicable One-Time Settlement."
+      answer: "A Section 25 PSSA notice is a 15-day demand notice after a failed auto-debit. It is not an arrest warrant. A legal reply stating financial hardship stops litigation and opens OTS talks."
     },
     {
       question: "Is online digital arbitration initiated by LenDenClub legally binding on the borrower?",
-      answer: "Most unilateral digital arbitration notices initiated through private online dispute resolution (ODR) platforms can be formally challenged. Under Supreme Court precedents in Perkins Eastman and TRF Ltd, a lender cannot unilaterally appoint a sole arbitrator without mutual consent. Filing a prompt statutory objection under Section 12(5) and Section 14 of the Arbitration and Conciliation Act halts biased proceedings and steers the dispute toward Lok Adalat or bilateral OTS."
+      answer: "Unilateral digital arbitration without mutual consent is invalid. The Supreme Court established this in Perkins Eastman and TRF Ltd. An advocate can file objections under Section 12 and Section 14 of the Arbitration Act to halt proceedings."
     },
     {
       question: "How does settling a LenDenClub loan reflect on my CIBIL credit report and score?",
-      answer: "Upon successful completion of the settlement, Innofin Solutions reports the loan account status to CIBIL and other credit bureaus as 'Settled' with an outstanding balance of ₹0. While this causes a temporary drop in your credit score, it extinguishes the compounding default cycle and eliminates legal exposure. Borrowers typically rebuild their CIBIL score back to 750+ within 18 to 24 months using secured credit products."
+      answer: "Innofin Solutions reports the account as 'Settled' with a ₹0 balance in CIBIL. Your score may drop 75 to 120 points temporarily. You can rebuild it back to 750+ in 18 to 24 months with a secured credit card."
     },
     {
       question: "How can I ensure a LenDenClub settlement sanction letter is 100% genuine before making payment?",
-      answer: "Ensure the letter is issued on the official corporate letterhead of Innofin Solutions Private Limited (LenDenClub), containing its Corporate Identification Number (CIN), RBI Registration Number, borrower details, exact loan account number, approved settlement amount, specific payment deadline, and explicit clauses stating that all claims of underlying retail lenders are fully discharged."
+      answer: "A genuine OTS letter must be on official Innofin Solutions letterhead. It must include corporate CIN and RBI registration details. It must specify your loan number and settlement amount. Pay only into the official escrow account."
     },
     {
       question: "What is the statutory time frame for LenDenClub to deliver my No Dues Certificate (NDC)?",
-      answer: "Under RBI Circular RBI/2023-24/60, all regulated financial institutions, including NBFC-P2Ps, are mandated to issue the formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of receiving full settlement remittance. Unjustified delays beyond 30 days entitle the borrower to statutory compensation of ₹5,000 per day of delay."
+      answer: "Under RBI Circular RBI/2023-24/60, lenders must deliver your No Dues Certificate within 30 days. Delays beyond 30 days carry a penalty of ₹5,000 per day payable to the borrower."
     }
   ];
 
@@ -461,7 +461,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
         <div className="max-w-4xl mx-auto text-center relative z-10">
           <div className="inline-flex items-center gap-2 py-1 px-3.5 rounded-full bg-blue-500/20 border border-blue-400/30 text-blue-300 text-xs font-black mb-3 tracking-wider uppercase">
             <Users className="w-3.5 h-3.5" />
-            <span>P2P Credit Dispute Resolution • Retail Borrowers</span>
+            <span>P2P Credit Dispute Resolution. Retail Borrowers.</span>
           </div>
 
           <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">LenDenClub P2P Loan Settlement Process & OTS Rules</h1>
@@ -469,17 +469,17 @@ export default function LenDenClubP2PLoanSettlementPage() {
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">
               <UserCheck className="w-3.5 h-3.5 text-blue-400" />
-              <span>Written by <Link href="/authors/ashish-jhangra" className="font-bold underline hover:text-white transition-colors">Ashish Jhangra</Link></span>
+              <span>Written by <Link href="/authors/ashish-jhangra" className="font-bold underline hover:text-white transition-colors">Ashish Jhangra</Link>.</span>
             </span>
             <span className="hidden sm:inline text-slate-500">•</span>
             <span className="flex items-center gap-1.5">
               <Calendar className="w-3.5 h-3.5 text-blue-400" />
-              <span>Updated: September 2026</span>
+              <span>Updated: September 2026.</span>
             </span>
             <span className="hidden sm:inline text-slate-500">•</span>
             <span className="flex items-center gap-1.5">
               <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-              <span>RBI P2P Master Directions Compliant</span>
+              <span>RBI P2P Master Directions Compliant.</span>
             </span>
           </div>
 
@@ -488,14 +488,14 @@ export default function LenDenClubP2PLoanSettlementPage() {
               href="/contact"
               className="bg-[#1F5EFF] hover:bg-blue-600 text-white font-bold py-2.5 px-6 rounded-xl text-xs sm:text-sm transition-all duration-200 shadow-md hover:shadow-lg flex items-center gap-2"
             >
-              <span>Negotiate LenDenClub Settlement</span>
+              <span>Negotiate LenDenClub Settlement.</span>
               <ArrowRight className="w-4 h-4" />
             </Link>
             <Link
               href="/contact"
               className="bg-white/10 hover:bg-white/20 text-white border border-white/20 font-bold py-2.5 px-5 rounded-xl text-xs sm:text-sm transition-all duration-200"
             >
-              Get Free Case Evaluation
+              Get Free Case Evaluation.
             </Link>
           </div>
         </div>
@@ -516,10 +516,10 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <div className="bg-blue-50/60 border border-blue-200/70 rounded-2xl p-4 text-xs text-blue-900 space-y-2">
               <div className="font-bold flex items-center gap-1.5 text-blue-950">
                 <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
-                <span>LenDenClub Case Crux</span>
+                <span>LenDenClub Case Crux.</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                LenDenClub (Innofin Solutions NBFC-P2P) acts as a regulated marketplace intermediary. Defaulted personal loans are fractionalized across retail lenders, creating aggressive automated collection calls. Direct legal negotiation with the platform recovery cell secures 40% to 65% OTS debt waivers under RBI compromise norms.
+                LenDenClub runs on Innofin Solutions NBFC-P2P. Loans come from small lenders. We talk direct to the platform desk. You can get 40% to 65% OTS waivers under RBI rules.
               </p>
             </div>
           </aside>
@@ -531,28 +531,28 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <div className="bg-gradient-to-br from-blue-50 to-indigo-50/70 border border-blue-200 rounded-2xl p-6 mb-8 shadow-sm">
               <div className="flex items-center gap-2 text-blue-900 font-bold text-base mb-3">
                 <Award className="w-5 h-5 text-[#1F5EFF]" />
-                <span>Key Takeaways: LenDenClub P2P Loan Default Resolution</span>
+                <span>Key Takeaways: LenDenClub P2P Loan Default Resolution.</span>
               </div>
               <ul className="space-y-2.5 text-sm text-slate-700">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>P2P Intermediary Structure:</strong> LenDenClub is operated by Innofin Solutions Private Limited. In-app chatbots cannot grant debt relief; compromise negotiations must be conducted directly with the institutional Stressed Assets Cell.</span>
+                  <span><strong>P2P Platform Setup.</strong> Innofin Solutions runs LenDenClub. App bots cannot waive debt. Real OTS deals are done with the desk.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Revoking e-NACH Bounce Fees:</strong> Automated banking mandates can be revoked under NPCI guidelines, eliminating compounding bank return charges and predatory platform penal interest.</span>
+                  <span><strong>Stop e-NACH Charges.</strong> Stop auto-debit at your bank under NPCI rules. This stops extra fees and bank bounce costs.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Substantial 40%–65% Haircuts:</strong> Because retail P2P loans are entirely unsecured, non-performing portfolios past 90–180 days qualify for major principal waivers based on Net Present Value (NPV) recovery algorithms.</span>
+                  <span><strong>40% to 65% Waivers.</strong> Loans are unsecured. Debts over 90 days past due get 40% to 65% principal cuts.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Statutory Harassment Shield:</strong> RBI guidelines strictly forbid collection agencies from contacting relatives, employers, or non-guarantor references, backed by enforceable regulatory sanctions.</span>
+                  <span><strong>Shield From Agent Calls.</strong> RBI rules ban calls to family or work. Breaking rules brings RBI action.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Guaranteed ₹0 NDC Delivery:</strong> Under RBI Circular RBI/2023-24/60, Innofin Solutions must deliver an official No Dues Certificate and update credit bureaus within 30 days of settlement payment.</span>
+                  <span><strong>Get ₹0 NDC.</strong> Under RBI Circular RBI/2023-24/60, you get your No Dues Certificate within 30 days of payment.</span>
                 </li>
               </ul>
             </div>
@@ -561,20 +561,20 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <section id="p2p-platform-architecture" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Building2 className="w-4 h-4" />
-                <span>1. LenDenClub &amp; P2P Platform Architecture</span>
+                <span>1. LenDenClub &amp; P2P Platform Architecture.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Deconstructing LenDenClub</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                LenDenClub is operated by Innofin Solutions Private Limited, an RBI-registered NBFC-P2P platform matching retail lenders with personal loan borrowers. Unlike commercial banks or balance-sheet NBFCs, capital does not flow from corporate reserves but is fractionalized across hundreds of retail lenders through an independent Trustee Escrow Account. In loans sourced via channels like Finstree, the credit risk rests with individual investors, while loan administration and recovery remain centralized under Innofin Solutions.
+                LenDenClub runs under Innofin Solutions. It is an RBI-registered NBFC-P2P platform. It links small lenders with retail borrowers. Loan funds sit in a Trustee Escrow Account. In loans from Finstree, small lenders carry risk. Innofin Solutions handles loan collections.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When involuntary financial hardship causes default, LenDenClub deploys high-velocity automated dialers and collection agencies. However, the mobile app and AI chatbots have zero legal authority to compromise debt. Achieving a binding One-Time Settlement (OTS) requires bypassing the front-end app and negotiating directly with the Stressed Assets and Legal Recovery Cell of Innofin Solutions Private Limited.
+                If you miss EMIs, the app sends alerts and automated calls. App chatbots have no power to waive debt. To get an OTS deal, you must talk directly to the settlement desk at Innofin Solutions.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
                 <div className="flex items-start gap-3">
                   <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                    <strong>Regulatory Framework:</strong> Under the RBI Master Directions on Peer to Peer Lending Platforms (updated August 2024), NBFC-P2Ps are strictly prohibited from providing credit guarantees or absorbing credit losses on their own balance sheets. However, Innofin Solutions retains contractual power of attorney to negotiate, restructure, and compromise defaulted retail loan assets on behalf of the underlying retail lenders.
+                    <strong>RBI Rules.</strong> Under RBI P2P Master Directions, platforms cannot give credit guarantees. But Innofin Solutions has legal power to settle bad loans for lenders.
                   </div>
                 </div>
               </div>
@@ -584,11 +584,11 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <section id="delinquency-timeline-npa" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Clock className="w-4 h-4" />
-                <span>2. Delinquency Timeline &amp; P2P Portfolio Stress</span>
+                <span>2. Delinquency Timeline &amp; P2P Portfolio Stress.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">P2P Loan Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When a borrower defaults on LenDenClub or Finstree, the facility progresses through statutory Special Mention Account (SMA) stages into Non-Performing Asset (NPA) status past 90 Days Past Due (DPD). Initial collection relies on automated IVR calls and repeated electronic NACH presentations. Crossing 90 DPD triggers mandatory capital provisioning and investor disclosures, compelling the platform to transition from automated recovery to structured loss mitigation.
+                When you miss an EMI, the loan moves through set stages. It turns into an NPA after 90 days of default. The platform sends automated notices and runs auto-debits. Past 90 days, loss write-downs begin. This opens the door for OTS talks.
               </p>
 
               {/* Comprehensive Stage Table */}
@@ -596,47 +596,47 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Delinquency Bucket</th>
-                      <th>Aging (Days Past Due)</th>
-                      <th>Platform &amp; Agency Action</th>
-                      <th>Legal &amp; Judicial Exposure</th>
-                      <th>Settlement Haircut Window</th>
+                      <th>Delinquency Bucket.</th>
+                      <th>Aging (Days Past Due).</th>
+                      <th>Platform &amp; Agency Action.</th>
+                      <th>Legal Exposure.</th>
+                      <th>Settlement Haircut Window.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-0 (Incipient Default)</td>
-                      <td>1 – 30 Days</td>
-                      <td>Automated SMS, push notifications, daily IVR calling, multi-presentation e-NACH attempts.</td>
-                      <td>Nil; initial 30-DPD flag transmitted to credit bureaus.</td>
-                      <td>Negligible (Full installment regularization strictly demanded).</td>
+                      <td className="font-bold text-slate-900">SMA-0 (Incipient Default).</td>
+                      <td>1 – 30 Days.</td>
+                      <td>Automated SMS, push alerts, and IVR calls.</td>
+                      <td>Nil legal action. Initial credit bureau report.</td>
+                      <td>Negligible. Full payment demanded.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-1 (Mid-Stage Delinquency)</td>
-                      <td>31 – 60 Days</td>
-                      <td>Assigned to outsourced tele-calling agencies; high-frequency calls to borrower and references.</td>
-                      <td>Draft legal warning notices issued; CIBIL score plunges 60–100 points.</td>
-                      <td>Low (Tenure restructuring occasionally considered without principal write-offs).</td>
+                      <td className="font-bold text-slate-900">SMA-1 (Mid-Stage Delinquency).</td>
+                      <td>31 – 60 Days.</td>
+                      <td>Outsourced tele-callers contact borrower.</td>
+                      <td>Draft warning notices sent. CIBIL score drops.</td>
+                      <td>Low. Loan tenure restructuring only.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-2 (Pre-NPA Escalation)</td>
-                      <td>61 – 90 Days</td>
-                      <td>Field recovery agencies mobilized; physical residence visits threatened or initiated.</td>
-                      <td>Formal 15-day statutory demand notices under Section 25 PSSA dispatched.</td>
-                      <td>Moderate (Full waiver of late payment penal charges becomes viable).</td>
+                      <td className="font-bold text-slate-900">SMA-2 (Pre-NPA Escalation).</td>
+                      <td>61 – 90 Days.</td>
+                      <td>Field recovery agents assigned.</td>
+                      <td>Section 25 PSSA demand notices dispatched.</td>
+                      <td>Moderate. 100% waiver of late fees possible.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-amber-700">Substandard Asset (NPA)</td>
-                      <td>91 – 180 Days</td>
-                      <td>Portfolio transferred to Stressed Asset Recovery Cell; intensive digital dispute escalation.</td>
-                      <td>Magistrate court criminal summons under Section 25 PSSA; unilateral digital arbitration notices.</td>
+                      <td className="font-bold text-amber-700">Substandard Asset (NPA).</td>
+                      <td>91 – 180 Days.</td>
+                      <td>Stressed Asset team takes over recovery.</td>
+                      <td>Magistrate summons or digital arbitration.</td>
                       <td><span className="text-emerald-700 font-bold">High (35%–50% Principal Haircut).</span></td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-red-700">Doubtful / Loss Asset</td>
-                      <td>181 – 365+ Days</td>
-                      <td>Technical write-off across platform internal ledgers; retail lenders accept portfolio loss write-down.</td>
-                      <td>Pre-litigation Lok Adalat notices; formal summary suit filings or permanent debt impairment.</td>
+                      <td className="font-bold text-red-700">Doubtful / Loss Asset.</td>
+                      <td>181 – 365+ Days.</td>
+                      <td>Technical write-off on internal ledgers.</td>
+                      <td>Lok Adalat notices or permanent debt write-down.</td>
                       <td><span className="text-emerald-700 font-bold">Maximum (50%–65% Total Haircut).</span></td>
                     </tr>
                   </tbody>
@@ -644,7 +644,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Past 180 days (Doubtful and Loss Asset stages), external legal costs and court friction quickly exceed expected recoveries on unsecured debt. LenDenClub&apos;s Stressed Asset Cell prioritizes immediate cash recovery via an authorized One-Time Settlement, unlocking maximum debt haircuts for distressed borrowers.
+                Past 180 days, legal fees cost more than the loan is worth. Innofin Solutions prefers quick cash recovery via an OTS. This lets borrowers get the highest possible debt waivers.
               </p>
             </section>
 
@@ -652,14 +652,14 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <section id="stopping-nach-penalties" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Banknote className="w-4 h-4" />
-                <span>3. Stopping e-NACH Bounces &amp; Penal Accumulation</span>
+                <span>3. Stopping e-NACH Bounces &amp; Penal Accumulation.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Predatory e-NACH &amp; Penal Interest</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Automated treasury systems repeatedly represent dishonoured e-NACH mandates up to four times monthly on defaulted LenDenClub accounts. Each bounce triggers dual financial penalties: destination banks levy return charges of ₹295 to ₹590, while the platform adds internal bounce fees alongside compounding penal interest of 24% to 36% per annum, rapidly inflating outstanding balances beyond the core principal.
+                Auto-debit systems run bank sweeps up to 4 times a month. Each failed attempt adds two fees. Your bank charges ₹295 to ₹590 per bounce. The platform adds late fees of 24% to 36% per year. This makes the total debt grow fast.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers can arrest this compounding penalty cycle under NPCI procedural guidelines by issuing a formal mandate cancellation directly at their destination bank. Furthermore, under RBI Circular RBI/2023-24/60 (Fair Lending Practice - Penal Charges), lenders are barred from capitalizing penal interest. SettleLoans legal counsel routinely enforces a 100% waiver on all accumulated bounce charges and penal levies during settlement structuring.
+                You can stop these fees easily. File a mandate stop form at your bank branch under NPCI rules. Under RBI rules on fair lending, lenders cannot compound penal charges. SettleLoans gets a 100% waiver on all bounce fees and penal interest during OTS talks.
               </p>
             </section>
 
@@ -667,24 +667,24 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <section id="npv-recovery-haircut-models" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Calculator className="w-4 h-4" />
-                <span>4. OTS Haircut Policies &amp; NPV Valuation</span>
+                <span>4. OTS Haircut Policies &amp; NPV Valuation.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">P2P Stressed Asset Valuation</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Unlike secured loans governed by the SARFAESI Act, retail P2P loans are strictly unsecured civil contracts. In persistent default, the platform&apos;s sole legal remedy is civil court litigation. LenDenClub&apos;s Stressed Asset Committee evaluates settlement proposals using Net Present Value (NPV) recovery algorithms, comparing an immediate lump-sum settlement against discounted future cash flows degraded by multi-year court friction and legal retainers.
+                P2P personal loans are unsecured civil debts. They do not fall under the SARFAESI Act. To collect, lenders must go to civil court. LenDenClub uses an NPV model. They weigh quick cash today against years of slow court action.
               </p>
 
               {/* Formula Container Box */}
               <div className="bg-slate-900 text-white rounded-2xl p-5 my-6 shadow-md border border-slate-800">
                 <div className="flex items-center gap-2 text-blue-400 font-bold text-xs uppercase tracking-wider mb-2">
                   <Calculator className="w-4 h-4" />
-                  <span>P2P Stressed Asset Valuation Benchmark</span>
+                  <span>P2P Stressed Asset Valuation Benchmark.</span>
                 </div>
                 <div className="text-center py-3 my-2 bg-slate-800/80 rounded-xl font-mono text-sm sm:text-base text-blue-200 border border-slate-700">
-                  NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Platform Recovery Friction
+                  NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Platform Recovery Friction.
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoveries from retail defaulters across time t, r is the platform hurdle discount rate, and deductions account for 3–5 years of magistrate court delays, advocate retainers, and operational portfolio servicing overhead.
+                  C_t is expected recovery. r is the discount rate. Deductions include 3–5 years of court delay, legal retainers, and servicing costs.
                 </p>
               </div>
 
@@ -694,48 +694,48 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Platform Facility Tier</th>
-                      <th>Delinquency Aging Category</th>
-                      <th>Penal &amp; Bounce Waiver</th>
-                      <th>Principal Haircut Range</th>
-                      <th>Target Settlement Benchmark</th>
+                      <th>Platform Facility Tier.</th>
+                      <th>Delinquency Category.</th>
+                      <th>Penal &amp; Bounce Waiver.</th>
+                      <th>Principal Haircut Range.</th>
+                      <th>Target Settlement Benchmark.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">LenDenClub Retail Personal Loan</td>
-                      <td>90 – 180 Days (NPA)</td>
-                      <td>100% Full Waiver</td>
-                      <td>30% – 45% Principal Waiver</td>
-                      <td>Pay 55%–70% of Core Principal</td>
+                      <td className="font-bold text-slate-900">LenDenClub Retail Personal Loan.</td>
+                      <td>90 – 180 Days (NPA).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>30% – 45% Principal Waiver.</td>
+                      <td>Pay 55%–70% of Core Principal.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">LenDenClub / Finstree Co-Lending</td>
-                      <td>181 – 365 Days (Doubtful)</td>
-                      <td>100% Full Waiver</td>
-                      <td>45% – 60% Principal Waiver</td>
-                      <td>Pay 40%–55% of Core Principal</td>
+                      <td className="font-bold text-slate-900">LenDenClub / Finstree Co-Lending.</td>
+                      <td>181 – 365 Days (Doubtful).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>45% – 60% Principal Waiver.</td>
+                      <td>Pay 40%–55% of Core Principal.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Written-Off P2P Portfolio</td>
-                      <td>365+ Days (Loss Asset)</td>
-                      <td>100% Full Waiver</td>
-                      <td>55% – 65% Principal Waiver</td>
-                      <td>Pay 35%–45% of Core Disbursed Sum</td>
+                      <td className="font-bold text-slate-900">Written-Off P2P Portfolio.</td>
+                      <td>365+ Days (Loss Asset).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>55% – 65% Principal Waiver.</td>
+                      <td>Pay 35%–45% of Core Disbursed Sum.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Critical Medical / Hardship Case</td>
-                      <td>Any Stage (Post-NPA)</td>
-                      <td>100% Full Waiver</td>
-                      <td>50% – 65% Total Haircut</td>
-                      <td>Pay 35%–50% in Single Tranche</td>
+                      <td className="font-bold text-slate-900">Critical Medical / Hardship Case.</td>
+                      <td>Any Stage (Post-NPA).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>50% – 65% Total Haircut.</td>
+                      <td>Pay 35%–50% in Single Tranche.</td>
                     </tr>
                   </tbody>
                 </table>
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Because individual retail lenders suffer yield loss on non-performing loans, returning 40% to 55% of principal in cash allows them to reallocate capital, making structured compromise settlements overwhelmingly rational for Innofin Solutions once genuine hardship is established.
+                Lenders lose yields on bad loans. Getting 40% to 55% of core principal back lets them reinvest. This makes OTS deals good for Innofin Solutions once hardship is shown.
               </p>
             </section>
 
@@ -749,7 +749,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                     </div>
                     <div>
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
-                        Legal Defense &amp; Action Blueprint
+                        Legal Defense &amp; Action Blueprint.
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         LenDenClub P2P Loan Settlement &amp; Debt Resolution Blueprint
@@ -762,7 +762,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                     rel="noopener noreferrer"
                     className="text-xs text-[#1F5EFF] hover:text-blue-300 font-bold flex items-center gap-1 transition-colors"
                   >
-                    <span className="hidden sm:inline">Open Full Size</span>
+                    <span className="hidden sm:inline">Open Full Size.</span>
                     <ExternalLink className="w-3.5 h-3.5" />
                   </a>
                 </div>
@@ -783,7 +783,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <div className="bg-slate-100 border-t border-slate-200 py-3 px-5 flex flex-wrap items-center justify-between gap-3 text-xs text-slate-600">
                   <div className="flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    <span><strong>Core Strategy:</strong> Halt third-party tele-calling, revoke e-NACH presentations, defend Section 25 notices, and negotiate a 40%–65% OTS debt waiver directly with Innofin Solutions.</span>
+                    <span><strong>Core Strategy.</strong> Stop recovery calls. Revoke e-NACH debits. Reply to Section 25 notices. Settle directly with Innofin Solutions for a 40% to 65% OTS waiver.</span>
                   </div>
                   <Link href="/contact" className="text-[#1F5EFF] font-bold hover:underline">
                     Get Free Case Evaluation &rarr;
@@ -796,14 +796,14 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <section id="rbi-anti-harassment-protections" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <ShieldAlert className="w-4 h-4" />
-                <span>5. Statutory Protections &amp; Anti-Harassment Law</span>
+                <span>5. Statutory Protections &amp; Anti-Harassment Law.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Statutory Protections Against P2P Recovery Harassment</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Defaulted LenDenClub borrowers frequently face aggressive collection tactics, including relentless automated tele-calling, calls placed to corporate workplace lines, and unauthorized outreach to relatives who are not legal guarantors. Under the RBI Master Directions on Recovery Agents and Digital Lending Guidelines, these practices are strictly unlawful. Contact is limited to 08:00 AM to 07:00 PM, third-party disclosure is prohibited, and mobile apps cannot access device contacts or photo storage.
+                Borrowers face harsh agent tactics after default. These include non-stop calls. Callers may phone workplaces or reach out to family. Under RBI Master Directions, these acts are illegal. Agents can only call between 8:00 AM and 7:00 PM. Third-party disclosure is banned. Apps cannot read your contacts or photos.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When agencies violate these statutory boundaries, SettleLoans serves formal legal cease-and-desist notices to the Principal Nodal Officer of Innofin Solutions and files escalated complaints on the RBI Integrated Ombudsman portal (CMS). This regulatory intervention halts harassment within 48 hours and establishes significant institutional leverage for settlement talks.
+                If agents break these rules, SettleLoans sends a legal notice. We serve the Nodal Officer of Innofin Solutions. We also file a complaint on the RBI Ombudsman portal (CMS). This stops calls within 48 hours. It gives you strong ground for OTS talks.
               </p>
             </section>
 
@@ -811,11 +811,11 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <section id="step-by-step-settlement-roadmap" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Layers className="w-4 h-4" />
-                <span>6. Step-by-Step P2P Settlement Roadmap</span>
+                <span>6. Step-by-Step P2P Settlement Roadmap.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step LenDenClub Settlement Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Navigating a successful One-Time Settlement with an NBFC-P2P requires a disciplined, legally fortified approach that prevents fraudulent agency arrangements and secures permanent financial release:
+                Settling an NBFC-P2P loan needs a clear legal strategy. This prevents fake agent deals and clears your debt for good.
               </p>
 
               <div className="space-y-6">
@@ -826,7 +826,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                     Forensic Ledger Audit &amp; Entity Identification
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Audit original loan agreements and CIBIL records to isolate core disbursed principal from accumulated bounce fees and penal interest under Innofin Solutions.
+                    Audit your loan agreement and CIBIL file. Separate pure principal from bounce fees and late interest under Innofin Solutions.
                   </p>
                 </div>
 
@@ -837,7 +837,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                     Revocation of e-NACH Mandates &amp; Communication Routing
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Submit a stop-payment instruction at your commercial bank under NPCI rules to stop bounce fees, and instruct the lender in writing to route communications exclusively to legal counsel.
+                    Stop auto-debits at your bank under NPCI rules. This prevents repeat fees. Tell the lender in writing to route calls to your advocate.
                   </p>
                 </div>
 
@@ -848,7 +848,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                     Submission of Involuntary Hardship Dossier
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Compile documentary evidence of genuine distress (layoff letters, hospital records, or business closure filings) and submit a formal OTS petition to the Stressed Assets Cell.
+                    Gather proof of hardship. Examples include job loss slips, hospital bills, or wage cuts. Submit an OTS plea to the settlement desk.
                   </p>
                 </div>
 
@@ -859,7 +859,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                     Multi-Round Financial Negotiation
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Counter low-waiver initial offers by leveraging NPV recovery math and documented hardship, guiding the committee toward the 40% to 65% principal waiver bracket.
+                    Counter low waiver offers with hardship proof. Guide the committee toward a 40% to 65% principal waiver.
                   </p>
                 </div>
 
@@ -870,7 +870,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                     Forensic Verification of the Stamped OTS Sanction Letter
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Forensically audit the settlement sanction letter on official Innofin Solutions letterhead, ensuring exact loan numbers, settlement amounts, and full liability release clauses.
+                    Check the letter on official Innofin Solutions letterhead. Verify your loan number, payment terms, and ₹0 balance clauses.
                   </p>
                 </div>
 
@@ -881,7 +881,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                     Dedicated Escrow Remittance &amp; Enforcement of ₹0 NDC Delivery
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Remit settlement funds directly to the designated Trustee Escrow Account via RTGS/NEFT and track the issuance of the ₹0 No Dues Certificate within the 30-day statutory window.
+                    Pay funds directly to the Trustee Escrow Account via RTGS or NEFT. Track delivery of your ₹0 No Dues Certificate within 30 days.
                   </p>
                 </div>
               </div>
@@ -891,14 +891,14 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <section id="section-25-pssa-arbitration-defense" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <Gavel className="w-4 h-4" />
-                <span>7. Defending Legal Notices &amp; Digital Arbitration</span>
+                <span>7. Defending Legal Notices &amp; Digital Arbitration.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending LenDenClub Sec 25 PSSA &amp; Arbitration</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                At 60 to 90 days of default, lenders frequently issue 15-day statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured e-NACH debits. This is a demand notice rather than a court warrant, and the offense is entirely compoundable. A timely advocate reply demonstrating involuntary distress refutes criminal intent and initiates formal compromise channels.
+                After 60 to 90 days of default, lenders send notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA). This notice is for failed e-NACH debits. It is not an arrest warrant. The offense is fully compoundable in court. An advocate reply showing distress disproves bad intent. It moves the case to an amicable settlement path.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Simultaneously, unilateral digital arbitration initiated on private ODR platforms without mutual consent is legally invalid under Supreme Court precedents in Perkins Eastman and TRF Ltd. Filing statutory objections under Sections 12(5) and 14 of the Arbitration Act halts proceedings and redirects disputes toward National Lok Adalats, where settlements carry the status of a final, non-appealable Civil Court Decree.
+                Unilateral arbitration without mutual consent is invalid. The Supreme Court confirmed this in Perkins Eastman and TRF Ltd rulings. Filing objections under Section 12(5) and Section 14 of the Arbitration Act halts proceedings. It moves the case to National Lok Adalat, where deals carry the status of a final Civil Court Decree.
               </p>
 
               {/* Comparative Matrix Table */}
@@ -906,40 +906,40 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Resolution Channel</th>
-                      <th>Legal Mechanism</th>
-                      <th>Haircut Potential</th>
-                      <th>Timeline</th>
-                      <th>Enforceability</th>
+                      <th>Resolution Channel.</th>
+                      <th>Legal Mechanism.</th>
+                      <th>Haircut Potential.</th>
+                      <th>Timeline.</th>
+                      <th>Enforceability.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Direct Platform OTS</td>
+                      <td className="font-bold text-slate-900">Direct Platform OTS.</td>
                       <td>Bilateral settlement under RBI rules.</td>
-                      <td>40% to 60% Haircut</td>
-                      <td>15-30 Days</td>
+                      <td>40% to 60% Haircut.</td>
+                      <td>15-30 Days.</td>
                       <td>Binding contract with NDC.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">National Lok Adalat</td>
+                      <td className="font-bold text-slate-900">National Lok Adalat.</td>
                       <td>Judicial conciliation before DLSA bench.</td>
-                      <td>45% to 65% Haircut</td>
-                      <td>Single session</td>
+                      <td>45% to 65% Haircut.</td>
+                      <td>Single session.</td>
                       <td>Civil Court Decree (Final).</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Arbitration Defense</td>
+                      <td className="font-bold text-slate-900">Arbitration Defense.</td>
                       <td>Contesting unilateral digital arbitrations.</td>
-                      <td>Converts to OTS</td>
-                      <td>3-8 Months</td>
+                      <td>Converts to OTS.</td>
+                      <td>3-8 Months.</td>
                       <td>Section 34 / 14 challenge.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Section 25 PSSA Defense</td>
+                      <td className="font-bold text-slate-900">Section 25 PSSA Defense.</td>
                       <td>Magistrate court compoundable defense.</td>
-                      <td>35% to 55% Haircut</td>
-                      <td>2-6 Months</td>
+                      <td>35% to 55% Haircut.</td>
+                      <td>2-6 Months.</td>
                       <td>Formal criminal withdrawal.</td>
                     </tr>
                   </tbody>
@@ -947,7 +947,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                National Lok Adalats organized by NALSA offer the most borrower-friendly forum. Held quarterly across district courts, Lok Adalat conciliation benches encourage substantial compromise write-offs that carry the full legal status of a final Civil Court Decree, completely shielding the borrower from future claims.
+                National Lok Adalats organized by NALSA offer the best venue for borrowers. Held quarterly across district courts, Lok Adalat benches grant broad compromise write-offs. Settlements carry the force of a final Civil Court Decree. This protects borrowers from future claims.
               </p>
             </section>
 
@@ -955,14 +955,14 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <section id="sanction-letter-audit-ndc" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <FileCheck className="w-4 h-4" />
-                <span>8. Sanction Letter Forensics &amp; NDC Mandate</span>
+                <span>8. Sanction Letter Forensics &amp; NDC Mandate.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating the OTS Sanction Letter</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Before remitting any funds, borrowers must verify that the settlement sanction letter is issued on official Innofin Solutions Pvt Ltd letterhead containing valid CIN, corporate office addresses, exact loan account numbers, and authorized managerial signatures. Payments must be routed exclusively to designated lender escrow accounts, never to personal accounts or unverified third-party UPI links.
+                Never pay money without a verified settlement letter. The letter must be on official Innofin Solutions letterhead. It must show a CIN, office address, loan number, and manager signature. Pay only into the official escrow account. Never send funds to personal UPI IDs or third-party accounts.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Following remittance, the lender is legally required under RBI Circular RBI/2023-24/60 to issue the No Dues Certificate (NDC) and update credit bureau records within 30 calendar days, subject to statutory delay compensation of ₹5,000 per day payable directly to the borrower.
+                After you pay, RBI Circular RBI/2023-24/60 requires the lender to act. They must issue your No Dues Certificate within 30 days. They must also update credit bureaus. Lenders face a penalty of ₹5,000 per day paid to the borrower for delays beyond 30 days.
               </p>
             </section>
 
@@ -970,14 +970,14 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <section id="cibil-score-trajectory-restoration" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <TrendingUp className="w-4 h-4" />
-                <span>9. CIBIL Bureau Reporting &amp; Credit Rebuilding</span>
+                <span>9. CIBIL Bureau Reporting &amp; Credit Rebuilding.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">LenDenClub CIBIL Bureau Reporting &amp; Score Trajectory</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Upon settlement completion, Innofin Solutions reports the account to CIBIL and all credit bureaus as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While causing an initial temporary credit score dip of 75 to 120 points, it permanently extinguishes compounding default marks and eliminates legal exposure.
+                After settlement, Innofin Solutions marks the loan as <strong>&apos;Settled&apos;</strong> in CIBIL with a <strong>₹0</strong> balance. Your credit score may drop by 75 to 120 points at first. But it stops monthly default marks. It also removes all risk of legal action.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers can rebuild credit back to 750+ within 18 to 24 months by securing an FD-backed credit card, keeping utilization below 25%, and maintaining flawless repayment history, allowing credit algorithms to re-classify them as prime borrowers.
+                You can rebuild your score back to 750+ in 18 to 24 months. Get an FD-backed credit card. Keep card usage below 25%. Pay bills on time to restore prime credit status.
               </p>
             </section>
 
@@ -985,13 +985,13 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <section id="company-resolution-section" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <ShieldCheck className="w-4 h-4" />
-                <span>10. Legal Defense &amp; Representation</span>
+                <span>10. Legal Defense &amp; Representation.</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
                 Why Distressed LenDenClub Borrowers Trust SettleLoans
               </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Resolving a defaulted peer-to-peer loan requires specialized legal expertise at the intersection of banking law, fintech platform architecture, and civil litigation. SettleLoans provides complete end-to-end representation for distressed borrowers: issuing immediate cease-and-desist notices to stop unlawful recovery agent harassment, revoking electronic NACH mandates to arrest predatory bounce charges, drafting comprehensive replies to Section 25 PSSA notices, challenging unilateral digital arbitration proceedings, and negotiating directly with the Stressed Assets Cell of Innofin Solutions Private Limited to secure maximum authorized debt haircuts and authentic ₹0 No Dues Certificates.
+                Settling a defaulted P2P loan takes skilled legal help. SettleLoans gives full legal representation for borrowers in distress. We issue legal notices to stop recovery calls. We cancel bank e-NACH mandates to stop bounce fees. We draft legal replies to Section 25 PSSA notices. We challenge one-sided arbitration cases. Our team negotiates directly with Innofin Solutions to secure top debt waivers and ₹0 No Dues Certificates.
               </p>
 
               {/* Placement of Reusable CompanySection */}
@@ -1046,7 +1046,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>Reserve Bank of India (RBI):</strong> Master Directions – Non-Banking Financial Company - Peer to Peer Lending Platform (Reserve Bank) Directions, 2017 (Updated August 2024)
+                    <strong>Reserve Bank of India (RBI):</strong> Master Directions – Non-Banking Financial Company - Peer to Peer Lending Platform (Reserve Bank) Directions, 2017 (Updated August 2024).
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1057,7 +1057,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>RBI Master Direction:</strong> Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24)
+                    <strong>RBI Master Direction:</strong> Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24).
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1068,7 +1068,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>RBI Circular:</strong> Fair Lending Practice - Penal Charges in Loan Accounts &amp; Release of Property Documents (RBI/2023-24/60)
+                    <strong>RBI Circular:</strong> Fair Lending Practice - Penal Charges in Loan Accounts &amp; Release of Property Documents (RBI/2023-24/60).
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1079,7 +1079,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021:</strong> Statutory Grievance Redressal for P2P Collection Harassment &amp; Excessive NACH Levies
+                    <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021:</strong> Statutory Grievance Redressal for P2P Collection Harassment &amp; Excessive NACH Levies.
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1090,7 +1090,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>National Legal Services Authority (NALSA):</strong> Legal Services Authorities Act, 1987 – National Lok Adalat Pre-Litigation Conciliation
+                    <strong>National Legal Services Authority (NALSA):</strong> Legal Services Authorities Act, 1987 – National Lok Adalat Pre-Litigation Conciliation.
                   </a>
                 </li>
               </ul>
@@ -1107,61 +1107,61 @@ export default function LenDenClubP2PLoanSettlementPage() {
                   href="/faircent-p2p-loan-settlement-process"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Faircent P2P Loan Settlement
+                  Faircent P2P Loan Settlement.
                 </Link>
                 <Link
                   href="/app-loan-settlement"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  App Loan Settlement Guide
+                  App Loan Settlement Guide.
                 </Link>
                 <Link
                   href="/bank-one-time-settlement-ots-policy"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Bank OTS Policy Guide
+                  Bank OTS Policy Guide.
                 </Link>
                 <Link
                   href="/section-25-pssa-notice-loan-default"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Section 25 PSSA Notice Defense
+                  Section 25 PSSA Notice Defense.
                 </Link>
                 <Link
                   href="/personal-loan-settlement-percentage"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Personal Loan Settlement Percentage
+                  Personal Loan Settlement Percentage.
                 </Link>
                 <Link
                   href="/personal-loan-settlement-cibil-impact"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Personal Loan Settlement CIBIL Impact
+                  Personal Loan Settlement CIBIL Impact.
                 </Link>
                 <Link
                   href="/no-dues-certificate-after-loan-settlement"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  No Dues Certificate (NDC) Guide
+                  No Dues Certificate (NDC) Guide.
                 </Link>
                 <Link
                   href="/recovery-agent-calling-late-night-rbi-violation"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Late Night Recovery Calls RBI Rules
+                  Late Night Recovery Calls RBI Rules.
                 </Link>
                 <Link
                   href="/can-recovery-agents-freeze-family-bank-accounts"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Can Recovery Agents Freeze Family Accounts
+                  Can Recovery Agents Freeze Family Accounts.
                 </Link>
                 <Link
                   href="/top-10-rbi-rules-for-loan-defaulters-rights"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Top 10 RBI Rules for Defaulters Rights
+                  Top 10 RBI Rules for Defaulters Rights.
                 </Link>
               </div>
             </div>
@@ -1183,16 +1183,16 @@ export default function LenDenClubP2PLoanSettlementPage() {
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
-                      Ashish Jhangra
+                      Ashish Jhangra.
                     </Link>
                   </div>
                   <p className="text-xs text-slate-500 font-medium">
-                    Lead Banking Legal &amp; Debt Settlement Strategist
+                    Lead Banking Legal &amp; Debt Settlement Strategist.
                   </p>
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has led over 1,500+ successful retail and fintech debt compromise negotiations across LenDenClub, Faircent, LiquiLoans, IDFC FIRST Bank, and Bajaj Finance. He specializes in P2P lending regulatory disputes, Section 25 PSSA defense, and borrower advocacy under Reserve Bank of India directions.
+                Ashish has led over 1,500+ successful debt settlement cases. He handles disputes across LenDenClub, Faircent, and IDFC FIRST Bank. He focuses on P2P lending rules, Section 25 PSSA defense, and borrower legal rights under RBI directions.
               </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
@@ -1207,7 +1207,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                   rel="noopener noreferrer"
                   className="text-slate-500 hover:text-[#1F5EFF]"
                 >
-                  LinkedIn
+                  LinkedIn.
                 </a>
               </div>
             </div>
@@ -1216,19 +1216,19 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <div className="bg-gradient-to-br from-[#1F5EFF] to-blue-700 text-white rounded-2xl p-6 shadow-lg">
               <div className="flex items-center gap-2 text-blue-100 text-xs font-bold uppercase tracking-wider mb-2">
                 <PhoneCall className="w-4 h-4" />
-                <span>P2P Dispute Resolution</span>
+                <span>P2P Dispute Resolution.</span>
               </div>
               <div className="text-xl font-black mb-3 leading-tight">
                 Facing LenDenClub P2P Default?
               </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
-                Halt high-frequency collection calls and compounding e-NACH bounce penalties immediately. Let our senior banking advocates audit your P2P loan ledger, defend against Section 25 PSSA statutory notices, challenge unilateral digital arbitration, and secure an authentic stamped settlement letter directly from Innofin Solutions.
+                Stop daily recovery calls and heavy e-NACH bounce fees. Let our senior banking advocates audit your loan ledger. We defend against Section 25 PSSA notices and challenge unilateral digital arbitration. We secure an authentic stamped settlement letter directly from Innofin Solutions.
               </p>
               <Link
                 href="/contact"
                 className="block text-center bg-white hover:bg-slate-100 text-[#1F5EFF] font-bold py-3 px-4 rounded-xl text-sm transition-all duration-200 shadow"
               >
-                Talk to a Settlement Advocate
+                Talk to a Settlement Advocate &rarr;
               </Link>
             </div>
 
@@ -1236,31 +1236,31 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
               <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
-                <span>Why Borrowers Trust SettleLoans</span>
+                <span>Why Borrowers Trust SettleLoans.</span>
               </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Direct Institutional Negotiation:</strong> We bypass third-party collection agencies to negotiate directly with the Stressed Assets Cell of Innofin Solutions Private Limited.
+                    <strong>Direct Negotiation.</strong> We bypass collection agencies. We negotiate directly with the Stressed Assets Cell of Innofin Solutions Private Limited.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Zero Tolerance Anti-Harassment:</strong> Prompt issuance of formal legal cease-and-desist notices to stop workplace calls and third-party contact violations under RBI directives.
+                    <strong>Anti-Harassment Defense.</strong> We issue swift legal cease-and-desist notices. This stops workplace calls and third-party harassment under RBI rules.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>100% Stamped Verification:</strong> Every settlement is strictly verified on official corporate letterhead before any payment is authorized.
+                    <strong>Stamped Verification.</strong> We verify every settlement on official corporate letterhead before you make any payment.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Guaranteed ₹0 NDC Delivery:</strong> Continuous legal tracking until your formal No Dues Certificate is delivered and credit bureau records reflect complete closure.
+                    <strong>₹0 NDC Delivery.</strong> We track your case until the formal No Dues Certificate arrives and credit bureaus update your file.
                   </span>
                 </li>
               </ul>

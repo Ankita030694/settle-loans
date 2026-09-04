@@ -178,7 +178,7 @@ const jsonLdGraph = {
             "name": "Rohan Deshmukh"
           },
           "datePublished": "2026-07-19",
-          "reviewBody": "My MobiKwik ZIP credit line of ₹25,000 ballooned to over ₹48,000 due to late fees and penal charges. SettleLoans issued a statutory notice to the lending NBFC (Transactree/Lendbox), waived 100% of the late fees, and settled the account for ₹13,500. Received my authentic No Dues Certificate within 3 weeks.",
+          "reviewBody": "My MobiKwik ZIP credit line of ₹25,000 grew fast due to late fees. SettleLoans sent a notice to the lending NBFC (Transactree/Lendbox). They removed all late fees and settled the account for ₹13,500. I got my No Dues Certificate within 3 weeks.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -193,7 +193,7 @@ const jsonLdGraph = {
             "name": "Sneha Sen"
           },
           "datePublished": "2026-08-04",
-          "reviewBody": "An unpaid ₹18,000 MobiKwik ZIP balance was reported as an active default by their partner NBFC, lowering my score to 610. SettleLoans audited the account, negotiated a direct OTS waiver, and closed the line permanently with ₹0 balance reported to CIBIL.",
+          "reviewBody": "An unpaid ₹18,000 MobiKwik ZIP balance hurt my CIBIL score. SettleLoans reviewed my account and negotiated an OTS waiver. They closed the line for good with a ₹0 balance on CIBIL.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -208,7 +208,7 @@ const jsonLdGraph = {
             "name": "Karthik Raja"
           },
           "datePublished": "2026-06-28",
-          "reviewBody": "Collection callers were harassing my workplace for a ₹35,000 ZIP balance. SettleLoans escalated the violation to the NBFC Nodal Officer and RBI Ombudsman. Harassment ceased completely in 48 hours and we settled for a clean 50% principal waiver.",
+          "reviewBody": "Recovery callers were calling my office for a ₹35,000 ZIP balance. SettleLoans escalated the issue to the NBFC Nodal Officer and RBI Ombudsman. The calls stopped in 48 hours. We settled the debt with a 50% principal waiver.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -223,7 +223,7 @@ const jsonLdGraph = {
             "name": "Ananya Mukherjee"
           },
           "datePublished": "2026-08-18",
-          "reviewBody": "SettleLoans verified the stamped settlement letter directly with the regulated NBFC before payment. They ensured the autopay mandate was deactivated and my credit report reflects settled status with zero remaining dues.",
+          "reviewBody": "SettleLoans verified the stamped settlement letter from the NBFC before I paid. They stopped the autopay mandate. My credit report now shows a settled status with zero dues.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -242,7 +242,7 @@ const jsonLdGraph = {
           "name": "Can I legally settle a defaulted MobiKwik ZIP Pay Later credit line?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. MobiKwik ZIP is underwritten by RBI-regulated NBFCs like Transactree Technologies (Lendbox), Suryoday Small Finance Bank, or IDFC FIRST Bank. Under RBI Master Directions on Compromise Settlements (2023), distressed borrowers hold the statutory right to negotiate a formal One-Time Settlement (OTS)."
+            "text": "Yes. Regulated NBFCs fund MobiKwik ZIP credit lines. These include Transactree Technologies (Lendbox), Suryoday Small Finance Bank, and IDFC FIRST Bank. Under RBI Master Directions on Compromise Settlements (2023), borrowers have the legal right to settle. You can negotiate a One-Time Settlement (OTS) if you face financial hardship."
           }
         },
         {
@@ -250,7 +250,7 @@ const jsonLdGraph = {
           "name": "Why does a small MobiKwik ZIP balance of ₹15,000 balloon to ₹35,000+ so rapidly?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Missed billing dates trigger fixed monthly late charges (₹250–₹1,000), 36%–48% annualized penal interest, and 18% GST. Over several billing cycles, these ancillary charges quickly surpass the principal. Under RBI Fair Lending Practice norms, borrowers can demand 100% waiver of these penal levies during OTS."
+            "text": "Missed due dates trigger monthly late fees and high penal interest of 36% to 48%. Extra GST gets added as well. Over a few months, these fees exceed the principal. Under RBI Fair Lending Practice norms, you can ask for a 100% waiver of these penal charges during settlement."
           }
         },
         {
@@ -258,7 +258,7 @@ const jsonLdGraph = {
           "name": "Which entity actually reports my MobiKwik ZIP default to CIBIL and credit bureaus?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "MobiKwik operates as a digital lending application. The default is reported to CIBIL, Experian, Equifax, and CRIF High Mark by the partner NBFC that funded the line (such as Lendbox / Transactree Technologies or Suryoday SFB), listed as an active credit facility with overdue DPD."
+            "text": "MobiKwik is a digital lending app. The partner NBFC funds the loan and reports defaults to CIBIL, Experian, Equifax, and CRIF High Mark. Lenders like Lendbox or Suryoday SFB report your overdue DPD as an active default."
           }
         },
         {
@@ -266,7 +266,7 @@ const jsonLdGraph = {
           "name": "How can I stop recovery agent calls to my family, friends, and workplace for MobiKwik ZIP?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Digital Lending Guidelines and Recovery Agent Directions, contacting reference numbers, phone contacts, employers, or non-guarantors is strictly illegal. Borrowers can stop this conduct by serving a legal cease-and-desist notice and filing an escalation on the RBI Integrated Ombudsman portal (CMS)."
+            "text": "Under RBI Digital Lending Guidelines, agents cannot call your contacts, family, or employer. Such calls are illegal. You can send a legal cease-and-desist notice to stop them. You can also file a complaint on the RBI Integrated Ombudsman portal (CMS)."
           }
         },
         {
@@ -274,7 +274,7 @@ const jsonLdGraph = {
           "name": "What percentage of discount or waiver can be negotiated on a MobiKwik ZIP default?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "In a formal OTS, 100% of late payment charges, penal interest, and GST fees are eliminated. On the core principal, distressed borrowers typically negotiate an approved principal haircut of 40% to 60%, depending on account aging (90+ DPD to written-off status)."
+            "text": "In a formal OTS, lenders waive 100% of late fees, penal interest, and GST. On the principal loan amount, borrowers usually get a 40% to 60% discount. The exact waiver depends on the delay and default age."
           }
         },
         {
@@ -282,7 +282,7 @@ const jsonLdGraph = {
           "name": "Can MobiKwik or its NBFC file a criminal police FIR or arrest me for non-payment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Defaulting on an unsecured BNPL credit line is strictly a civil breach of contract under the Indian Contract Act, 1872. Police authorities have no jurisdiction to register criminal FIRs or make arrests for civil debt default. Threats of police action made by collection agents are illegal scare tactics."
+            "text": "No. An unpaid digital loan is a civil contract matter under the Indian Contract Act, 1872. The police cannot register an FIR or make arrests for unpaid loan dues. Threats of police action from recovery agents are illegal scare tactics."
           }
         },
         {
@@ -290,7 +290,7 @@ const jsonLdGraph = {
           "name": "How do I ensure the settlement offer is authentic and avoid fake settlement fraud?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Never pay funds to personal UPI IDs or agent accounts. An authentic OTS must be supported by an official sanction letter issued on the registered letterhead of the underwriting NBFC, stating the loan account number, settlement amount, and covenants confirming full debt discharge."
+            "text": "Never pay money to personal UPI IDs or agent accounts. A valid OTS must have an official sanction letter. It must come on the letterhead of the lending NBFC. It must show your loan account number, settlement amount, and full debt release terms."
           }
         },
         {
@@ -298,7 +298,7 @@ const jsonLdGraph = {
           "name": "What happens to my CIBIL report after settling the MobiKwik ZIP account?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Upon full settlement payment, the partner NBFC updates all credit bureaus with the status 'Settled' with an outstanding balance of ₹0. This stops compounding default marks and halts legal action, allowing borrowers to rebuild their score back to 750+ over 18 to 24 months."
+            "text": "After you pay the settlement amount, the NBFC marks the account as 'Settled' with ₹0 balance. This stops further negative remarks. It also stops legal action and lets you rebuild your CIBIL score back to 750+ over 18 to 24 months."
           }
         },
         {
@@ -306,7 +306,7 @@ const jsonLdGraph = {
           "name": "How long does it take to receive the No Dues Certificate (NDC) from the partner NBFC?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, regulated lenders must deliver a formal No Dues Certificate and update bureau records within 30 calendar days of settlement. Delays beyond 30 days entitle the borrower to statutory compensation of ₹5,000 per day of delay."
+            "text": "Under RBI Circular RBI/2023-24/60, lenders must issue a No Dues Certificate within 30 days of settlement. They must also update credit bureaus in this time. If they delay past 30 days, they must pay ₹5,000 per day in compensation."
           }
         }
       ]
@@ -348,39 +348,39 @@ export default function MobiKwikZipPayLaterSettlementPage() {
   const faqs = [
     {
       question: "Can I legally settle a defaulted MobiKwik ZIP Pay Later credit line?",
-      answer: "Yes. MobiKwik ZIP is underwritten by RBI-regulated NBFCs like Transactree Technologies (Lendbox), Suryoday Small Finance Bank, or IDFC FIRST Bank. Under RBI Master Directions on Compromise Settlements (2023), distressed borrowers hold the statutory right to negotiate a formal One-Time Settlement (OTS)."
+      answer: "Yes. Regulated NBFCs fund MobiKwik ZIP credit lines. These include Transactree Technologies (Lendbox), Suryoday Small Finance Bank, and IDFC FIRST Bank. Under RBI Master Directions on Compromise Settlements (2023), borrowers have the legal right to settle. You can negotiate a One-Time Settlement (OTS) if you face financial hardship."
     },
     {
       question: "Why does a small MobiKwik ZIP balance of ₹15,000 balloon to ₹35,000+ so rapidly?",
-      answer: "Missed billing dates trigger fixed monthly late charges (₹250–₹1,000), 36%–48% annualized penal interest, and 18% GST. Over several billing cycles, these ancillary charges quickly surpass the principal. Under RBI Fair Lending Practice norms, borrowers can demand 100% waiver of these penal levies during OTS."
+      answer: "Missed due dates trigger monthly late fees and high penal interest of 36% to 48%. Extra GST gets added as well. Over a few months, these fees exceed the principal. Under RBI Fair Lending Practice norms, you can ask for a 100% waiver of these penal charges during settlement."
     },
     {
       question: "Which entity actually reports my MobiKwik ZIP default to CIBIL and credit bureaus?",
-      answer: "MobiKwik operates as a digital lending application. The default is reported to CIBIL, Experian, Equifax, and CRIF High Mark by the partner NBFC that funded the line (such as Lendbox / Transactree Technologies or Suryoday SFB), listed as an active credit facility with overdue DPD."
+      answer: "MobiKwik is a digital lending app. The partner NBFC funds the loan and reports defaults to CIBIL, Experian, Equifax, and CRIF High Mark. Lenders like Lendbox or Suryoday SFB report your overdue DPD as an active default."
     },
     {
       question: "How can I stop recovery agent calls to my family, friends, and workplace for MobiKwik ZIP?",
-      answer: "Under RBI Digital Lending Guidelines and Recovery Agent Directions, contacting reference numbers, phone contacts, employers, or non-guarantors is strictly illegal. Borrowers can stop this conduct by serving a legal cease-and-desist notice and filing an escalation on the RBI Integrated Ombudsman portal (CMS)."
+      answer: "Under RBI Digital Lending Guidelines, agents cannot call your contacts, family, or employer. Such calls are illegal. You can send a legal cease-and-desist notice to stop them. You can also file a complaint on the RBI Integrated Ombudsman portal (CMS)."
     },
     {
       question: "What percentage of discount or waiver can be negotiated on a MobiKwik ZIP default?",
-      answer: "In a formal OTS, 100% of late payment charges, penal interest, and GST fees are eliminated. On the core principal, distressed borrowers typically negotiate an approved principal haircut of 40% to 60%, depending on account aging (90+ DPD to written-off status)."
+      answer: "In a formal OTS, lenders waive 100% of late fees, penal interest, and GST. On the principal loan amount, borrowers usually get a 40% to 60% discount. The exact waiver depends on the delay and default age."
     },
     {
       question: "Can MobiKwik or its NBFC file a criminal police FIR or arrest me for non-payment?",
-      answer: "No. Defaulting on an unsecured BNPL credit line is strictly a civil breach of contract under the Indian Contract Act, 1872. Police authorities have no jurisdiction to register criminal FIRs or make arrests for civil debt default. Threats of police action made by collection agents are illegal scare tactics."
+      answer: "No. An unpaid digital loan is a civil contract matter under the Indian Contract Act, 1872. The police cannot register an FIR or make arrests for unpaid loan dues. Threats of police action from recovery agents are illegal scare tactics."
     },
     {
       question: "How do I ensure the settlement offer is authentic and avoid fake settlement fraud?",
-      answer: "Never pay funds to personal UPI IDs or agent accounts. An authentic OTS must be supported by an official sanction letter issued on the registered letterhead of the underwriting NBFC, stating the loan account number, settlement amount, and covenants confirming full debt discharge."
+      answer: "Never pay money to personal UPI IDs or agent accounts. A valid OTS must have an official sanction letter. It must come on the letterhead of the lending NBFC. It must show your loan account number, settlement amount, and full debt release terms."
     },
     {
       question: "What happens to my CIBIL report after settling the MobiKwik ZIP account?",
-      answer: "Upon full settlement payment, the partner NBFC updates all credit bureaus with the status 'Settled' with an outstanding balance of ₹0. This stops compounding default marks and halts legal action, allowing borrowers to rebuild their score back to 750+ over 18 to 24 months."
+      answer: "After you pay the settlement amount, the NBFC marks the account as 'Settled' with ₹0 balance. This stops further negative remarks. It also stops legal action and lets you rebuild your CIBIL score back to 750+ over 18 to 24 months."
     },
     {
       question: "How long does it take to receive the No Dues Certificate (NDC) from the partner NBFC?",
-      answer: "Under RBI Circular RBI/2023-24/60, regulated lenders must deliver a formal No Dues Certificate and update bureau records within 30 calendar days of settlement. Delays beyond 30 days entitle the borrower to statutory compensation of ₹5,000 per day of delay."
+      answer: "Under RBI Circular RBI/2023-24/60, lenders must issue a No Dues Certificate within 30 days of settlement. They must also update credit bureaus in this time. If they delay past 30 days, they must pay ₹5,000 per day in compensation."
     }
   ];
 
@@ -506,7 +506,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <span>MobiKwik ZIP Quick Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                MobiKwik ZIP accounts past 90 days enter NPA status with underwriting NBFCs like Lendbox and Suryoday. Direct escalation eliminates 100% of late fees and secures 40%–60% principal waivers with official ₹0 No Dues Certificates.
+                MobiKwik ZIP accounts past 90 days become NPAs with partner NBFCs like Lendbox and Suryoday. Direct talks can waive 100% of late fees. Borrowers can secure 40% to 60% principal waivers with official ₹0 No Dues Certificates.
               </p>
             </div>
           </aside>
@@ -523,23 +523,23 @@ export default function MobiKwikZipPayLaterSettlementPage() {
               <ul className="space-y-2.5 text-sm text-slate-700">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Regulated NBFC Framework:</strong> MobiKwik ZIP is an unsecured digital credit product backed by RBI-regulated NBFCs. Defaulting due to financial hardship is strictly a civil matter under RBI compromise settlement directives.</span>
+                  <span><strong>Regulated NBFC Framework:</strong> MobiKwik ZIP is an unsecured credit line. RBI-regulated NBFCs back it. Defaulting is a civil matter under RBI compromise settlement rules.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>100% Late Fee Elimination:</strong> Compounding late charges and penal interest often double ₹10,000–₹60,000 balances. Formal OTS negotiations strike off all penalty levies under RBI Fair Lending Practice rules.</span>
+                  <span><strong>100% Late Fee Elimination:</strong> Late fees and penal charges inflate balances. Formal OTS talks remove all penalty fees per RBI Fair Lending rules.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Structured 40%–60% Principal Haircut:</strong> Accounts overdue beyond 90 days trigger mandatory NBFC bad-debt provisioning, giving risk committees economic rationale to approve deep principal discounts.</span>
+                  <span><strong>Structured 40%–60% Principal Haircut:</strong> Loans overdue past 90 days allow lenders to approve deep principal discounts.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Strict Anti-Harassment Protections:</strong> Calling reference contacts, threatening workplace visits, or using abusive language violates RBI Digital Lending Guidelines and the DPDP Act 2023.</span>
+                  <span><strong>Strict Anti-Harassment Protections.</strong> Calling your contacts or workplace violates RBI Digital Lending Guidelines and the DPDP Act 2023.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Mandatory ₹0 NDC &amp; CIBIL Resolution:</strong> Under RBI Circular RBI/2023-24/60, the partner NBFC must issue a No Dues Certificate within 30 days of settlement, closing active defaults across all bureaus.</span>
+                  <span><strong>Mandatory ₹0 NDC &amp; CIBIL Resolution:</strong> Under RBI Circular RBI/2023-24/60, the NBFC must issue a No Dues Certificate within 30 days. This clears active defaults.</span>
                 </li>
               </ul>
             </div>
@@ -552,19 +552,19 @@ export default function MobiKwikZipPayLaterSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding MobiKwik ZIP&apos;s Digital Lending Architecture</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                MobiKwik ZIP operates as a revolving Buy Now Pay Later (BNPL) micro-credit line marketed by One MobiKwik Systems Limited. While marketed as a digital wallet convenience for utilities and purchases, ZIP is a formal unsecured loan. MobiKwik functions strictly as a Digital Lending Application (DLA) and Lending Service Provider (LSP). The actual credit lines are underwritten and disbursed by RBI-regulated NBFC partners, including Transactree Technologies Private Limited (Lendbox), Suryoday Small Finance Bank, and IDFC FIRST Bank.
+                MobiKwik ZIP is a Buy Now Pay Later (BNPL) credit line. One MobiKwik Systems Limited runs it. It works like an unsecured personal loan. MobiKwik acts as a Digital Lending App (DLA) and Lending Service Provider (LSP). Partner NBFCs fund the loans. Partners include Transactree Technologies (Lendbox), Suryoday Small Finance Bank, and IDFC FIRST Bank.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers are initially assigned credit limits between ₹10,000 and ₹60,000 with a 15-day billing cycle. When unexpected financial emergencies arise—such as medical crises, salary delays, or business shocks—and a payment is missed, automated systems apply heavy late fees (₹250–₹1,000 per cycle), annualized penal interest of 36% to 48%, and 18% GST on all charges. Within months, a modest ₹20,000 balance frequently balloons beyond ₹38,000.
+                Credit limits range from ₹10,000 to ₹60,000. The billing cycle lasts 15 days. If you face job loss or illness, you may miss a payment. The app then adds late fees of ₹250 to ₹1,000. It adds 36% to 48% penal interest. It also adds 18% GST. A ₹20,000 balance can grow past ₹38,000 in months.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Because the partner NBFC reports every delinquency stage to TransUnion CIBIL, Experian, Equifax, and CRIF High Mark, the default severely damages credit scores. Non-payment of an unsecured digital credit line is strictly a civil contractual dispute under the Indian Contract Act, 1872. Borrowers possess clear statutory rights under RBI Master Directions to halt collection harassment, eliminate usurious penalties, and negotiate a formal One-Time Settlement (OTS).
+                The partner NBFC reports late payments to credit bureaus. These include CIBIL, Experian, Equifax, and CRIF High Mark. This default hurts your score. An unpaid loan is a civil dispute under the Indian Contract Act, 1872. Under RBI Master Directions, you have clear rights. You can stop harassment. You can waive unfair fees. You can settle via a One-Time Settlement (OTS).
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
                 <div className="flex items-start gap-3">
                   <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                    <strong>Regulatory Protection:</strong> Under RBI Digital Lending and Compromise Settlement directives, digital lending apps cannot pursue criminal action for civil debt defaults. Partner NBFCs are legally empowered to offer structured compromise debt waivers.
+                    <strong>Regulatory Protection:</strong> Under RBI Digital Lending and Compromise Settlement rules, lenders cannot file criminal cases for civil loan defaults. Partner NBFCs can legally grant compromise debt waivers.
                   </div>
                 </div>
               </div>
@@ -578,10 +578,10 @@ export default function MobiKwikZipPayLaterSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MobiKwik ZIP Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI Income Recognition, Asset Classification and Provisioning (IRACP) norms and Ind AS 109 Expected Credit Loss frameworks, partner NBFCs track defaulted ZIP facilities across Days Past Due (DPD) stages. Understanding these milestones enables borrowers to time settlement negotiations for maximum principal haircuts.
+                Under RBI IRACP norms and Ind AS 109 rules, NBFCs track overdue ZIP loans by Days Past Due (DPD). Knowing these stages helps you time your settlement talks for top principal discounts.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                During the initial 60 days (SMA-0 and SMA-1), automated systems and tele-callers push for full payment. However, once an account reaches 91 DPD, the NBFC must classify the loan as a Non-Performing Asset (NPA) and allocate mandatory balance-sheet loss provisions. This shifts institutional focus from collecting late fees toward securing lump-sum cash recoveries through compromise settlements.
+                In the first 60 days (SMA-0 and SMA-1), collection callers push for full pay. At 91 DPD, the NBFC marks the loan as an NPA. The lender must set aside capital reserves for the bad debt. To recover money, lenders shift focus toward One-Time Settlements.
               </p>
 
               {/* Delinquency Stage Table */}
@@ -589,55 +589,55 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Delinquency Stage</th>
-                      <th>Overdue Days (DPD)</th>
-                      <th>NBFC &amp; App Recovery Actions</th>
-                      <th>Bureau &amp; Legal Status</th>
-                      <th>Settlement Haircut Potential</th>
+                      <th>Delinquency Stage.</th>
+                      <th>Overdue Days (DPD).</th>
+                      <th>NBFC &amp; App Recovery Actions.</th>
+                      <th>Bureau &amp; Legal Status.</th>
+                      <th>Settlement Haircut Potential.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
                       <td className="font-bold text-slate-900">SMA-0 (Grace Period)</td>
-                      <td>1 – 30 Days</td>
-                      <td>Automated WhatsApp alerts, app notifications, recurring UPI autopay debit sweeps.</td>
-                      <td>Initial overdue tag in bureau feeds; minor credit score reduction.</td>
-                      <td>Negligible (App insists on total bill payment plus late fee).</td>
+                      <td>1 – 30 Days.</td>
+                      <td>Automated WhatsApp alerts, app notices, and UPI autopay debit attempts.</td>
+                      <td>Initial overdue tag in bureau feeds. Minor credit score drop.</td>
+                      <td>Negligible. App demands total bill payment plus late fee.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">SMA-1 (Early Delinquency)</td>
-                      <td>31 – 60 Days</td>
-                      <td>Outsourced tele-calling agencies, daily reminder calls, compounding penal charges.</td>
-                      <td>Credit score drops 40–80 points; account flagged as irregular.</td>
-                      <td>Low (Waiver of recent late fees only upon full principal payment).</td>
+                      <td>31 – 60 Days.</td>
+                      <td>Calls from recovery agents, daily reminders, and growing penal charges.</td>
+                      <td>Credit score drops 40 to 80 points. Account marked irregular.</td>
+                      <td>Low. Waiver of recent late fees only upon full principal pay.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">SMA-2 (Pre-NPA Stress)</td>
-                      <td>61 – 90 Days</td>
-                      <td>Intensive recovery calls, formal demand notices sent via email, credit line suspended.</td>
-                      <td>Severe CIBIL downgrade; statutory demand notices prepared.</td>
-                      <td>Moderate (Full late fee waiver with marginal principal discount).</td>
+                      <td>61 – 90 Days.</td>
+                      <td>Frequent collection calls, demand emails, and suspended credit line.</td>
+                      <td>Severe CIBIL drop. Lender prepares formal demand notices.</td>
+                      <td>Moderate. Full late fee waiver with small principal discount.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-amber-700">NPA (Substandard Asset)</td>
-                      <td>91 – 180 Days</td>
-                      <td>Transferred to NBFC Stressed Assets Desk; mandatory Ind AS 109 capital provisioning.</td>
-                      <td>Classified as active default; pre-litigation conciliation notices.</td>
-                      <td><span className="text-emerald-700 font-bold">High (35%–50% Principal Haircut + 100% Fee Waiver).</span></td>
+                      <td>91 – 180 Days.</td>
+                      <td>Moved to NBFC Stressed Assets Desk. Ind AS 109 provisions set.</td>
+                      <td>Marked as active default. Pre-litigation notices issued.</td>
+                      <td><span className="text-emerald-700 font-bold">High. 35%–50% Principal Haircut + 100% Fee Waiver.</span></td>
                     </tr>
                     <tr>
                       <td className="font-bold text-red-700">Doubtful / Loss Asset</td>
-                      <td>181 – 365+ Days</td>
-                      <td>Full provisioning completed; account written off on NBFC balance sheet.</td>
-                      <td>National Lok Adalat referrals; conciliation summons.</td>
-                      <td><span className="text-emerald-700 font-bold">Maximum (50%–60% Principal Haircut + Full Fee Strike-off).</span></td>
+                      <td>181 – 365+ Days.</td>
+                      <td>Full loss provisioned. Loan written off on NBFC balance sheet.</td>
+                      <td>National Lok Adalat referrals and legal summons.</td>
+                      <td><span className="text-emerald-700 font-bold">Maximum. 50%–60% Principal Haircut + Full Fee Strike-off.</span></td>
                     </tr>
                   </tbody>
                 </table>
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Once a defaulted line passes 180 days and is technically written off, the loss is already absorbed on NBFC accounts. Any recovery through a negotiated OTS provides an immediate net cash write-back to operating profits, enabling credit committees to sanction substantial principal discounts.
+                After 180 days, the NBFC writes off the defaulted loan on its books. Any recovery from an OTS brings fresh cash to the lender. This gives credit teams room to approve large principal discounts.
               </p>
             </section>
 
@@ -649,13 +649,13 @@ export default function MobiKwikZipPayLaterSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Eliminate Predatory Late Fees</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Recurring late payment penalties quickly inflate defaulted BNPL balances. Under RBI Fair Lending Practice Directives (Circular RBI/2023-24/53), regulated lenders are strictly barred from compounding or capitalizing penal charges onto loan principal. Penal charges must be reasonable and non-usurious.
+                Late fees make defaulted BNPL balances grow fast. Under RBI Fair Lending Directives (Circular RBI/2023-24/53), lenders cannot add penal charges to principal. Penal charges must stay fair and reasonable.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Repeated automated UPI autopay and e-NACH mandate sweeps also drain bank balances through ₹250–₹500 return charges. Under NPCI and RBI customer protection mandates, borrowers have the legal right to cancel or pause e-mandates directly through mobile banking or UPI applications (Google Pay, PhonePe, BHIM) to halt further presentation penalties.
+                Automated UPI autopay and e-NACH runs can trigger bounce fees of ₹250 to ₹500. Under NPCI and RBI rules, you have the right to pause or cancel e-mandates in your UPI or banking app. This stops extra return charges.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                During compromise negotiations, legal representation demands a complete 100% waiver of all late fees, penal interest, and administrative costs, focusing the settlement solely on the core principal disbursed.
+                During OTS talks, our legal team seeks a 100% waiver of late fees, penal interest, and processing charges. We focus talks only on the original borrowed amount.
               </p>
             </section>
 
@@ -667,10 +667,10 @@ export default function MobiKwikZipPayLaterSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MobiKwik ZIP One-Time Settlement (OTS) Policies</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI Master Directions on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), NBFCs resolve unsecured micro-loans through Net Present Value (NPV) recovery modeling rather than protracted litigation. Legal costs and judicial delays make micro-lawsuits economically unviable for lenders.
+                Under RBI Master Directions (DOR.STR.REC.20/21.04.048/2023-24), NBFCs settle micro-loans through NPV recovery. Litigation costs on small loans are too high for lenders.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When presented with a verified hardship dossier, the NBFC Stressed Assets Committee compares guaranteed upfront settlement funds against the heavily discounted recovery of prolonged collection efforts.
+                When you share a hardship file, the NBFC committee evaluates your case. They prefer guaranteed upfront cash over slow, uncertain collection steps.
               </p>
 
               {/* NPV Formula Box */}
@@ -683,51 +683,51 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoveries, r is the discount rate, and deductions account for 2–4 years of court friction and capital locked in bad-debt provisions.
+                  Where C_t is expected recovery and r is the discount rate. Deductions account for legal costs and provisioning burden.
                 </p>
               </div>
 
               {/* Haircut Slabs Table */}
-              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic MobiKwik ZIP Settlement Haircut Slabs by Aging &amp; Partner NBFC</h3>
+              <h3 className="text-lg font-bold text-slate-900 mb-3">Realistic MobiKwik ZIP Settlement Haircut Slabs</h3>
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Partner NBFC / Lender</th>
+                      <th>Partner NBFC</th>
                       <th>Delinquency Aging</th>
-                      <th>Penal &amp; Late Fee Waiver</th>
-                      <th>Principal Haircut Range</th>
-                      <th>Target Settlement Offer</th>
+                      <th>Fee Waiver</th>
+                      <th>Principal Haircut.</th>
+                      <th>Target Offer.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Transactree Technologies (Lendbox)</td>
-                      <td>90 – 180 Days (NPA)</td>
-                      <td>100% Full Waiver</td>
-                      <td>35% – 45% Principal Waiver</td>
-                      <td>Offer 40%–50% of Core Principal</td>
+                      <td className="font-bold text-slate-900">Lendbox</td>
+                      <td>90 – 180 Days (NPA).</td>
+                      <td>100% Waiver.</td>
+                      <td>35% – 45% Waiver.</td>
+                      <td>Offer 40%–50% of Principal.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Transactree Technologies (Lendbox)</td>
-                      <td>181 – 365+ Days (Written Off)</td>
-                      <td>100% Full Waiver</td>
-                      <td>50% – 60% Principal Waiver</td>
-                      <td>Offer 30%–40% of Core Principal</td>
+                      <td className="font-bold text-slate-900">Lendbox</td>
+                      <td>181+ Days (Written Off).</td>
+                      <td>100% Waiver.</td>
+                      <td>50% – 60% Waiver.</td>
+                      <td>Offer 30%–40% of Principal.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Suryoday Small Finance Bank</td>
-                      <td>90 – 180 Days (NPA)</td>
-                      <td>100% Full Waiver</td>
-                      <td>30% – 40% Principal Waiver</td>
-                      <td>Offer 45%–55% of Disbursed Sum</td>
+                      <td className="font-bold text-slate-900">Suryoday SFB</td>
+                      <td>90 – 180 Days (NPA).</td>
+                      <td>100% Waiver.</td>
+                      <td>30% – 40% Waiver.</td>
+                      <td>Offer 45%–55% of Principal.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">IDFC FIRST Bank / Other Partners</td>
-                      <td>180+ Days (Doubtful Asset)</td>
-                      <td>100% All Penal Charges</td>
-                      <td>45% – 60% Principal Waiver</td>
-                      <td>Offer 35%–45% of Book Principal</td>
+                      <td className="font-bold text-slate-900">IDFC FIRST</td>
+                      <td>180+ Days (Doubtful).</td>
+                      <td>100% Waiver.</td>
+                      <td>45% – 60% Waiver.</td>
+                      <td>Offer 35%–45% of Principal.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -744,7 +744,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                     </div>
                     <div>
                       <span className="text-[10px] font-black uppercase tracking-widest text-blue-300 block">
-                        Legal Defense &amp; Action Blueprint
+                        Legal Defense &amp; Action Blueprint.
                       </span>
                       <h3 className="text-sm md:text-base font-black text-white leading-tight">
                         MobiKwik ZIP Pay Later Debt Settlement &amp; OTS Blueprint
@@ -757,7 +757,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                     rel="noopener noreferrer"
                     className="text-xs text-[#1F5EFF] hover:text-blue-300 font-bold flex items-center gap-1 transition-colors"
                   >
-                    <span className="hidden sm:inline">Open Full Size</span>
+                    <span className="hidden sm:inline">Open Full Size.</span>
                     <ExternalLink className="w-3.5 h-3.5" />
                   </a>
                 </div>
@@ -778,7 +778,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <div className="bg-slate-100 border-t border-slate-200 py-3 px-5 flex flex-wrap items-center justify-between gap-3 text-xs text-slate-600">
                   <div className="flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    <span><strong>Key Strategy:</strong> Identify the partner NBFC, stop third-party harassment, eliminate late fees, and secure a stamped OTS letter with a 40%–60% principal waiver.</span>
+                    <span><strong>Key Strategy:</strong> Find the partner NBFC. Stop agent harassment. Waive all late fees. Secure a stamped OTS letter with a 40%–60% principal waiver.</span>
                   </div>
                   <Link href="/contact" className="text-[#1F5EFF] font-bold hover:underline">
                     Get Free Case Evaluation &rarr;
@@ -795,13 +795,13 @@ export default function MobiKwikZipPayLaterSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Aggressive Collection Tactics, WhatsApp</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Defaulted accounts are often assigned to third-party collection agencies that deploy high-frequency calling, fake legal notices on WhatsApp, and unauthorized contact with family or workplace references.
+                Defaulted accounts often go to third-party collection agencies. Some agents make non-stop calls. Some send fake WhatsApp notices. Others contact your family and coworkers.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI Digital Lending Guidelines (2022) and Recovery Agent Directions, accessing contact lists and calling non-guarantors is strictly unlawful. Recovery calls are restricted between 08:00 AM and 07:00 PM. Furthermore, disclosing financial defaults to third parties breaches the Digital Personal Data Protection (DPDP) Act, 2023.
+                Under RBI Digital Lending Guidelines (2022), agents cannot access your contacts. They cannot call third parties. Calls are only allowed from 8:00 AM to 7:00 PM. Sharing debt data also violates the DPDP Act, 2023.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers facing harassment should preserve call logs and messages. Serving a formal cease-and-desist notice to the NBFC Principal Nodal Officer and escalating violations to the RBI Integrated Ombudsman portal (CMS) triggers immediate compliance intervention.
+                If you face harassment, save call logs and chat records. Send a cease-and-desist notice to the NBFC Nodal Officer. You can also complain to the RBI Integrated Ombudsman (CMS).
               </p>
             </section>
 
@@ -813,7 +813,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step MobiKwik ZIP Settlement Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Resolving a defaulted MobiKwik ZIP account with maximum debt relief follows six structured steps:
+                Follow these six simple steps to settle your MobiKwik ZIP account safely:
               </p>
 
               <div className="space-y-6">
@@ -824,7 +824,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                     Credit Report Audit &amp; Partner NBFC Identification
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Obtain credit reports from CIBIL and Experian to identify the specific underwriting NBFC (e.g., Transactree/Lendbox or Suryoday SFB), verifying the disbursed principal and reported overdue DPD.
+                    Check your CIBIL and Experian reports. Find the underwriting NBFC. Note down the exact borrowed amount and overdue days.
                   </p>
                 </div>
 
@@ -835,7 +835,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                     Revoking Digital Mandates &amp; Centralizing Communications
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Cancel active UPI autopay and e-mandates via banking apps to stop return fees. Instruct the lender in writing that all communications must proceed via email or legal counsel.
+                    Cancel UPI autopay and e-mandates in your banking app. This stops bounce fees. Ask the lender in writing to use only email.
                   </p>
                 </div>
 
@@ -846,7 +846,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                     Compiling Hardship Dossier &amp; Submitting Formal OTS Proposal
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Gather documentary evidence of hardship (medical records, job loss, or business income disruption) and submit a formal compromise petition under RBI Master Directions, opening at 25%–35% of principal.
+                    Collect proof of hardship, such as medical bills or job loss letters. Submit a compromise proposal under RBI Master Directions. Propose 25% to 35% of principal.
                   </p>
                 </div>
 
@@ -857,7 +857,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                     Managing Counter-Demands &amp; Eliminating Late Charges
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Counter agency pushback by citing RBI Fair Lending norms, ensuring a 100% waiver of late fees and negotiating an approved principal discount of 40% to 60%.
+                    Reject unfair counter-demands by citing RBI Fair Lending norms. Demand a 100% waiver of late fees. Negotiate a 40% to 60% principal discount.
                   </p>
                 </div>
 
@@ -868,7 +868,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                     Forensic Verification of the OTS Sanction Letter
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Verify that the settlement sanction letter is on official NBFC letterhead with authorized seals, stating the loan account number and terms confirming complete debt discharge.
+                    Check that the settlement letter is on official NBFC letterhead. Verify the loan number and terms before paying anything.
                   </p>
                 </div>
 
@@ -879,7 +879,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                     Official Account Remittance &amp; Securing the ₹0 No Dues Certificate
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Pay the settlement directly into the official NBFC loan account via NEFT/RTGS. Under RBI Circular RBI/2023-24/60, ensure the No Dues Certificate is issued within 30 calendar days.
+                    Pay the settlement directly to the official NBFC loan account using NEFT or RTGS. Under RBI Circular RBI/2023-24/60, obtain your No Dues Certificate within 30 days.
                   </p>
                 </div>
               </div>
@@ -893,10 +893,10 @@ export default function MobiKwikZipPayLaterSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating MobiKwik Sec 25 PSSA Demands &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Defaulted borrowers frequently receive legal notices citing Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured mandates. These are compoundable demand notices designed to facilitate conciliation rather than criminal action.
+                Borrowers may get demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for failed mandates. These are legal notices meant for conciliation.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Responding through legal counsel detailing bona fide hardship and challenging multiple debit attempts redirects disputes into compromise settlement channels. Additionally, NBFCs refer micro-credit accounts to National Lok Adalats, where pre-approved compromise settlements (40%–60% waivers) receive the finality of a binding Civil Court Decree.
+                A legal reply explaining your hardship helps start formal settlement talks. NBFCs also refer cases to National Lok Adalat. Lok Adalat settlements (40% to 60% waivers) become a binding Civil Court Decree.
               </p>
 
               {/* Legal Resolution Matrix */}
@@ -906,7 +906,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                     <tr>
                       <th>Resolution Channel</th>
                       <th>Governing Framework</th>
-                      <th>Typical Haircut Range</th>
+                      <th>Typical Haircut.</th>
                       <th>Resolution Speed</th>
                       <th>Legal Finality</th>
                     </tr>
@@ -914,31 +914,31 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                   <tbody>
                     <tr>
                       <td className="font-bold text-slate-900">Direct NBFC OTS</td>
-                      <td>RBI Master Direction on Compromise Settlements (2023).</td>
-                      <td><strong>40% – 60% Debt Haircut</strong></td>
-                      <td>15 to 30 Days</td>
-                      <td>Binding settlement contract with ₹0 NDC.</td>
+                      <td>RBI Master Direction (2023).</td>
+                      <td>40% – 60% Haircut</td>
+                      <td>15-30 Days</td>
+                      <td>Binding contract, ₹0 NDC.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">National Lok Adalat</td>
-                      <td>Legal Services Authorities Act, 1987 conciliation.</td>
-                      <td><strong>45% – 60% Debt Haircut</strong></td>
-                      <td>Single-day hearing</td>
-                      <td><strong>Civil Court Decree</strong> (Non-appealable finality).</td>
+                      <td>Legal Services Act, 1987.</td>
+                      <td>45% – 60% Haircut</td>
+                      <td>Single-day</td>
+                      <td>Civil Court Decree.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Section 25 PSSA Defense</td>
-                      <td>Payment and Settlement Systems Act magistrate defense.</td>
-                      <td><strong>35% – 50% Debt Haircut</strong></td>
-                      <td>1 to 3 Months</td>
-                      <td>Compounded settlement and case withdrawal.</td>
+                      <td className="font-bold text-slate-900">Sec 25 PSSA Defense</td>
+                      <td>Payment Systems Act.</td>
+                      <td>35% – 50% Haircut</td>
+                      <td>1-3 Months</td>
+                      <td>Settled, case withdrawal.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">Digital Notice Reply</td>
-                      <td>Advocate response establishing bona fide hardship.</td>
-                      <td>Waiver of 100% late fees</td>
-                      <td>7 to 14 Days</td>
-                      <td>Halts aggressive collection and opens OTS.</td>
+                      <td>Advocate response.</td>
+                      <td>100% Fee Waiver</td>
+                      <td>7-14 Days</td>
+                      <td>Halts collection.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -953,10 +953,10 @@ export default function MobiKwikZipPayLaterSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Forensic Verification of NBFC Settlement Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                To prevent fraud, borrowers must avoid paying unverified UPI accounts. Valid settlements require an official sanction letter from the underwriting NBFC stating CIN details, loan numbers, settlement amounts, and full liability release covenants.
+                Never pay money to personal UPI accounts. Always ask for an official sanction letter from the lending NBFC. It must show company details, loan account numbers, settlement amounts, and full debt release terms.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI Circular RBI/2023-24/60, the lender must issue a No Dues Certificate and update credit bureaus within 30 days of full payment. Failure to do so incurs statutory compensation of ₹5,000 per day of delay payable to the borrower.
+                Under RBI Circular RBI/2023-24/60, lenders must issue a No Dues Certificate and update credit bureaus within 30 days. If the lender delays, they must pay ₹5,000 per day in compensation.
               </p>
             </section>
 
@@ -968,10 +968,10 @@ export default function MobiKwikZipPayLaterSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MobiKwik ZIP Post-Settlement CIBIL Score Trajectory</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Settling a MobiKwik ZIP line updates credit bureau records to <strong>&apos;Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This terminates monthly compounding default records.
+                Settling a MobiKwik ZIP loan updates your credit report to <strong>&apos;Settled&apos;</strong> with a balance of <strong>₹0</strong>. This stops monthly overdue flags and prevents further score drops.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Following a 12-month cooling window, borrowers can systematically restore their credit score above 750 within 18 to 24 months by managing a secured FD credit card, maintaining utilization below 25%, and maintaining on-time payment records.
+                After a 12-month cooling period, you can rebuild your credit score above 750 within 18 to 24 months. Use a secured FD credit card. Keep usage under 25%. Pay every bill on time.
               </p>
             </section>
 
@@ -985,7 +985,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 Why Distressed MobiKwik ZIP Borrowers Trust SettleLoans
               </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                SettleLoans halts third-party recovery harassment through statutory cease-and-desist notices, eliminates 100% of unlawful late fees under RBI fair practice rules, and negotiates formal 40% to 60% principal waivers with verified ₹0 No Dues Certificates.
+                SettleLoans stops recovery calls with legal cease-and-desist notices. We remove 100% of unfair late fees under RBI rules. Our team negotiates 40% to 60% principal waivers and secures verified ₹0 No Dues Certificates.
               </p>
 
               {/* Reusable CompanySection */}
@@ -1051,7 +1051,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>RBI Master Direction:</strong> Compromise Settlements and Technical Write-offs Framework (DOR.STR.REC.20/21.04.048/2023-24)
+                    <strong>RBI Master Direction:</strong> Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24)
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1062,7 +1062,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>RBI Fair Lending Practices:</strong> Penal Charges in Loan Accounts &amp; Prohibition of Compounding (RBI/2023-24/53)
+                    <strong>RBI Fair Lending:</strong> Penal Charges &amp; Prohibition of Compounding (RBI/2023-24/53)
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1073,7 +1073,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021:</strong> Digital Lending &amp; NBFC Recovery Harassment Grievance Redressal Portal
+                    <strong>Reserve Bank:</strong> Integrated Ombudsman Scheme, 2021
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1084,7 +1084,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>National Legal Services Authority (NALSA):</strong> Legal Services Authorities Act, 1987 — National Lok Adalat Conciliation Framework
+                    <strong>NALSA:</strong> Legal Services Authorities Act, 1987 — National Lok Adalat Framework
                   </a>
                 </li>
               </ul>
@@ -1101,7 +1101,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                   href="/app-loan-settlement"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  App Loan Settlement Guide
+                  App Loan Settlement
                 </Link>
                 <Link
                   href="/postpe-bharatpe-credit-line-settlement"
@@ -1119,43 +1119,43 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                   href="/kreditbee-loan-settlement"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  KreditBee Loan Settlement
+                  KreditBee Settlement
                 </Link>
                 <Link
                   href="/moneyview-loan-settlement"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  MoneyView Loan Settlement
+                  MoneyView Settlement
                 </Link>
                 <Link
                   href="/ring-app-loan-default-settlement"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  Ring App Loan Default Settlement
+                  Ring App Default Settlement
                 </Link>
                 <Link
                   href="/cashe-loan-settlement-process"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  CASHe Loan Settlement Process
+                  CASHe Settlement
                 </Link>
                 <Link
                   href="/dpdp-act-violation-complaint-against-loan-apps"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  DPDP Act Complaints Against Apps
+                  DPDP Act Complaints
                 </Link>
                 <Link
                   href="/rbi-ombudsman-complaint-loan-recovery-harassment"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  RBI Ombudsman Harassment Complaint
+                  RBI Ombudsman Complaints
                 </Link>
                 <Link
                   href="/no-dues-certificate-after-loan-settlement"
                   className="py-2 px-3.5 rounded-full bg-white hover:bg-[#1F5EFF] hover:text-white text-slate-700 text-xs font-semibold transition-all duration-200 border border-slate-200 shadow-sm"
                 >
-                  No Dues Certificate (NDC) Guide
+                  No Dues Certificate Guide
                 </Link>
               </div>
             </div>
@@ -1179,12 +1179,12 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                     </Link>
                   </div>
                   <p className="text-xs text-slate-500 font-medium">
-                    Lead Banking Legal &amp; Debt Settlement Strategist
+                    Banking Legal &amp; Settlement Strategist
                   </p>
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has spearheaded over 1,200+ debt compromise resolutions across digital lending platforms, fintech BNPL credit lines, and corporate NBFCs. He specializes in Digital Personal Data Protection Act compliance, RBI Digital Lending Guidelines enforcement, and borrower defense against unlawful collection tactics.
+                Ashish has resolved over 1,200 debt cases. He focuses on DPDP Act compliance, RBI digital lending rules, and borrower rights.
               </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
@@ -1214,13 +1214,13 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 Trapped by MobiKwik ZIP Late Fees?
               </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
-                Stop aggressive recovery calls to your phone contacts and halt recurring bounce fees immediately. Our experienced banking advocates audit your NBFC partner, defend against statutory legal notices, draft your hardship petition, and secure an authentic stamped settlement letter with maximum fee waivers.
+                Stop aggressive recovery calls and end bounce charges. Our team contacts your NBFC, replies to legal notices, and secures official settlement letters.
               </p>
               <Link
                 href="/contact"
                 className="block text-center bg-white hover:bg-slate-100 text-[#1F5EFF] font-bold py-3 px-4 rounded-xl text-sm transition-all duration-200 shadow"
               >
-                Talk to a Settlement Advocate
+                Talk to an Advocate
               </Link>
             </div>
 
@@ -1234,25 +1234,25 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Direct NBFC Representation:</strong> We bypass third-party collection agencies to negotiate directly with underwriting NBFC Stressed Assets Desks.
+                    <strong>Direct NBFC Representation:</strong> We negotiate with NBFC Stressed Assets Desks, not just collection agencies.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Anti-Harassment Protection:</strong> Prompt issuance of formal legal cease-and-desist notices to stop unauthorized calls to family, friends, and employers under RBI rules.
+                    <strong>Anti-Harassment Protection:</strong> We issue cease-and-desist notices to stop unlawful calls to family and employers.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>100% Stamped Verification:</strong> Every settlement is strictly verified on official corporate letterhead before any payment is authorized.
+                    <strong>Stamped Verification:</strong> We verify every settlement letter on official company letterhead before any payment.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Guaranteed ₹0 NDC Delivery:</strong> End-to-end legal tracking until your formal No Dues Certificate is issued and credit bureaus are updated.
+                    <strong>Guaranteed ₹0 NDC Delivery:</strong> We track the process until your No Dues Certificate is issued and records are updated.
                   </span>
                 </li>
               </ul>

@@ -177,7 +177,7 @@ const jsonLdGraph = {
             "name": "R. Soundararajan, Peelamedu"
           },
           "datePublished": "2026-05-18",
-          "reviewBody": "Running an engineering ancillary workshop in Coimbatore, sudden export delays caused severe liquidity failure across multiple loans totaling ₹42 Lakhs. SettleLoans assigned senior banking advocates who issued formal cease-and-desist notices, halted all recovery harassment, and finalized a 52% OTS waiver directly with bank Stressed Asset desks. Authentic No Dues Certificates were delivered in 25 days.",
+          "reviewBody": "I run a workshop in Coimbatore. Export delays caused cash troubles on ₹42 Lakhs in debt. SettleLoans assigned senior banking lawyers. They sent legal notices and stopped recovery calls. They negotiated a 52% OTS waiver with bank SARB desks. I received my No Dues Certificate in 25 days.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -192,7 +192,7 @@ const jsonLdGraph = {
             "name": "M. Karthi, Tirupur Garments Hub"
           },
           "datePublished": "2026-06-22",
-          "reviewBody": "Our garment export unit in Tirupur faced severe cash-flow crunches due to raw cotton price inflation. SettleLoans represented us before the Lok Adalat in Western Tamil Nadu, audited inflated penalty ledgers, and secured a 56% principal haircut with complete legal protection.",
+          "reviewBody": "Our garment unit in Tirupur faced high cotton prices. SettleLoans represented us in Lok Adalat. They checked bank charges and removed false fines. We secured a 56% principal waiver with full legal safety.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -207,7 +207,7 @@ const jsonLdGraph = {
             "name": "S. Nithya, IT Professional, Saravanampatti"
           },
           "datePublished": "2026-07-14",
-          "reviewBody": "Multiple credit cards and personal loans ballooned to ₹18 Lakhs after medical emergencies. SettleLoans structured a clean OTS plan, eliminated 100% of accumulated penal charges, and reduced the total liability to ₹7.8 Lakhs with full confidentiality.",
+          "reviewBody": "Medical bills pushed my card and loan debt to ₹18 Lakhs. SettleLoans created a clear OTS plan. They removed all penal fees and cut my total debt to ₹7.8 Lakhs. The entire process was confidential.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -222,7 +222,7 @@ const jsonLdGraph = {
             "name": "K. Venkatachalam, Kurichi Industrial Estate"
           },
           "datePublished": "2026-08-04",
-          "reviewBody": "As a foundry supplier in Kurichi, OEM payment delays triggered debt default. SettleLoans handled negotiations with our lenders, halted aggressive field visits, and delivered verified bank sanction letters.",
+          "reviewBody": "My foundry unit in Kurichi faced slow client payments. SettleLoans managed talks with our banks. They stopped recovery visits to my unit and delivered verified bank sanction letters.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -241,7 +241,7 @@ const jsonLdGraph = {
           "name": "How does personal loan settlement work in Coimbatore and Western Tamil Nadu?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Personal loan settlement is a formal legal compromise executed between a borrower and a lender under RBI Master Directions. When a borrower in Coimbatore, Tirupur, or Salem faces bona fide financial distress, debt advocates submit an audited hardship petition to the bank's Zonal Stressed Assets Resolution Branch. After waiving penal charges, the bank approves a discounted lump-sum payment (typically 40% to 60% of principal) and issues a stamped sanction letter followed by a No Dues Certificate."
+            "text": "Personal loan settlement is a legal compromise under RBI rules. Distressed borrowers submit hardship files to bank SARB units. Banks waive penal fees. They approve a 40% to 60% lump-sum payment. Borrowers then receive a formal sanction letter and NDC."
           }
         },
         {
@@ -249,7 +249,7 @@ const jsonLdGraph = {
           "name": "Can recovery agents visit my textile unit, factory, or office in Coimbatore?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Under the RBI Fair Practices Code and binding Madras High Court rulings, recovery agents are strictly prohibited from visiting a borrower's workplace, textile factory, or office unannounced. They cannot use intimidation or disclose debt details to colleagues. Unlawful harassment is halted immediately through an advocate-issued cease-and-desist notice and complaints to the RBI Integrated Ombudsman."
+            "text": "No. RBI rules and court rulings ban workplace visits. Recovery agents cannot enter factories or offices. They cannot talk to coworkers. Our lawyers issue formal notices to halt agent visits."
           }
         },
         {
@@ -257,7 +257,7 @@ const jsonLdGraph = {
           "name": "What percentage of loan waiver can borrowers in Coimbatore expect during a One-Time Settlement (OTS)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "On unsecured personal loans, credit cards, and business credit lines classified as NPAs past 90–180 days, borrowers typically achieve principal waivers between 40% and 60%. In addition, 100% of accumulated penal interest, bounce charges, and late fees are fully waived under RBI fair lending guidelines."
+            "text": "Borrowers can secure a 40% to 60% waiver on unsecured loans. Accounts must be overdue past 90 days. Banks also waive 100% of penal interest and late fees."
           }
         },
         {
@@ -265,7 +265,7 @@ const jsonLdGraph = {
           "name": "How does SettleLoans defend against Section 138 NI Act and Section 25 PSSA summons in Coimbatore courts?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "When banks issue statutory notices for bounced cheques or NACH auto-debits, SettleLoans coordinates with local legal counsel across Coimbatore Judicial Magistrate Courts to file formal legal replies, prove lack of mens rea, and transition disputes into compoundable compromise settlements or Lok Adalat awards."
+            "text": "Bounced cheques or auto-debits bring legal notices. Our lawyers file court replies in Coimbatore. We prove genuine hardship. We redirect cases to Lok Adalat for quick settlement."
           }
         },
         {
@@ -273,7 +273,7 @@ const jsonLdGraph = {
           "name": "Is loan settlement legally valid for MSME and textile business owners in Tirupur and Salem?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Unsecured MSME loans, overdrafts, and personal credit lines taken by proprietorships and partnerships in the Tirupur knitwear and Salem industrial clusters are fully eligible for compromise settlement under the RBI Framework for Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24)."
+            "text": "Yes. Unsecured MSME loans and overdrafts qualify. They fall under the RBI Compromise Framework. Owners settle debt without losing factory machines."
           }
         },
         {
@@ -281,7 +281,7 @@ const jsonLdGraph = {
           "name": "Why do banks in Coimbatore agree to write off 40% to 60% of an unsecured loan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under Ind AS 109, banks must allocate heavy capital provisioning against NPA accounts. Pursuing civil suits in Coimbatore civil courts takes 3 to 6 years with heavy legal expenses. Banks utilize Net Present Value (NPV) formulas and recognize that an immediate 40%–60% cash settlement yields greater economic value than prolonged court litigation."
+            "text": "Ind AS 109 rules force banks to set aside cash for bad loans. Civil suits take up to 6 years. Upfront cash settlement gives banks faster value than long court trials."
           }
         },
         {
@@ -289,7 +289,7 @@ const jsonLdGraph = {
           "name": "What documents are required to initiate an advocate-led loan settlement in Coimbatore?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Borrowers need: (1) Loan account statements showing ledger balances; (2) Proof of business or income hardship like audited P&L accounts, GST filings, or salary reduction letters; (3) Bank statements reflecting depleted liquidity; (4) Copies of legal notices received; and (5) A formal vakalatnama or authorization appointing legal counsel."
+            "text": "You need loan statements and income proofs. Businesses need GST returns and P&L sheets. You also need bank notice copies and signed authorization."
           }
         },
         {
@@ -297,7 +297,7 @@ const jsonLdGraph = {
           "name": "How long does a bank take to issue the No Dues Certificate (NDC) in Tamil Nadu?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, all regulated lenders are statutorily mandated to issue the original No Dues Certificate (NDC) within 30 calendar days of receiving full settlement payment. Unjustified delays make the lender liable to pay compensation of ₹5,000 per day of delay directly to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, banks must issue NDCs within 30 days. Unjustified delays cost banks ₹5,000 per day in payout."
           }
         },
         {
@@ -305,7 +305,7 @@ const jsonLdGraph = {
           "name": "How can I rebuild my CIBIL score after settling a loan in Coimbatore?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Post-settlement, the lender updates credit bureaus with a 'Settled' remark and ₹0 overdue balance. You can rebuild your credit score to 750+ within 18 to 24 months by utilizing a secured credit card backed by a Fixed Deposit (FD), keeping credit utilization below 30%, and paying monthly balances on time."
+            "text": "Settled loans show a ₹0 balance in credit bureaus. You can rebuild your score to 750+ within 24 months. Use secured credit cards and pay bills on time."
           }
         }
       ]
@@ -347,39 +347,39 @@ export default function CoimbatoreLoanSettlementPage() {
   const faqs = [
     {
       question: "How does personal loan settlement work in Coimbatore and Western Tamil Nadu?",
-      answer: "Personal loan settlement is a formal legal compromise executed between a borrower and a lender under RBI Master Directions. When a borrower in Coimbatore, Tirupur, or Salem faces bona fide financial distress, debt advocates submit an audited hardship petition to the bank's Zonal Stressed Assets Resolution Branch. After waiving penal charges, the bank approves a discounted lump-sum payment (typically 40% to 60% of principal) and issues a stamped sanction letter followed by a No Dues Certificate."
+      answer: "Personal loan settlement is a legal compromise under RBI rules. Distressed borrowers submit hardship files to bank SARB units. Banks waive penal fees. They approve a 40% to 60% lump-sum payment. Borrowers then receive a formal sanction letter and NDC."
     },
     {
       question: "Can recovery agents visit my textile unit, factory, or office in Coimbatore?",
-      answer: "No. Under the RBI Fair Practices Code and binding Madras High Court rulings, recovery agents are strictly prohibited from visiting a borrower's workplace, textile factory, or office unannounced. They cannot use intimidation or disclose debt details to colleagues. Unlawful harassment is halted immediately through an advocate-issued cease-and-desist notice and complaints to the RBI Integrated Ombudsman."
+      answer: "No. RBI rules and court rulings ban workplace visits. Recovery agents cannot enter factories or offices. They cannot talk to coworkers. Our lawyers issue formal notices to halt agent visits."
     },
     {
       question: "What percentage of loan waiver can borrowers in Coimbatore expect during a One-Time Settlement (OTS)?",
-      answer: "On unsecured personal loans, credit cards, and business credit lines classified as NPAs past 90–180 days, borrowers typically achieve principal waivers between 40% and 60%. In addition, 100% of accumulated penal interest, bounce charges, and late fees are fully waived under RBI fair lending guidelines."
+      answer: "Borrowers can secure a 40% to 60% waiver on unsecured loans. Accounts must be overdue past 90 days. Banks also waive 100% of penal interest and late fees."
     },
     {
       question: "How does SettleLoans defend against Section 138 NI Act and Section 25 PSSA summons in Coimbatore courts?",
-      answer: "When banks issue statutory notices for bounced cheques or NACH auto-debits, SettleLoans coordinates with local legal counsel across Coimbatore Judicial Magistrate Courts to file formal legal replies, prove lack of mens rea, and transition disputes into compoundable compromise settlements or Lok Adalat awards."
+      answer: "Bounced cheques or auto-debits bring legal notices. Our lawyers file court replies in Coimbatore. We prove genuine hardship. We redirect cases to Lok Adalat for quick settlement."
     },
     {
       question: "Is loan settlement legally valid for MSME and textile business owners in Tirupur and Salem?",
-      answer: "Yes. Unsecured MSME loans, overdrafts, and personal credit lines taken by proprietorships and partnerships in the Tirupur knitwear and Salem industrial clusters are fully eligible for compromise settlement under the RBI Framework for Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24)."
+      answer: "Yes. Unsecured MSME loans and overdrafts qualify. They fall under the RBI Compromise Framework. Owners settle debt without losing factory machines."
     },
     {
       question: "Why do banks in Coimbatore agree to write off 40% to 60% of an unsecured loan?",
-      answer: "Under Ind AS 109, banks must allocate heavy capital provisioning against NPA accounts. Pursuing civil suits in Coimbatore civil courts takes 3 to 6 years with heavy legal expenses. Banks utilize Net Present Value (NPV) formulas and recognize that an immediate 40%–60% cash settlement yields greater economic value than prolonged court litigation."
+      answer: "Ind AS 109 rules force banks to set aside cash for bad loans. Civil suits take up to 6 years. Upfront cash settlement gives banks faster value than long court trials."
     },
     {
       question: "What documents are required to initiate an advocate-led loan settlement in Coimbatore?",
-      answer: "Borrowers need: (1) Loan account statements showing ledger balances; (2) Proof of business or income hardship like audited P&L accounts, GST filings, or salary reduction letters; (3) Bank statements reflecting depleted liquidity; (4) Copies of legal notices received; and (5) A formal vakalatnama or authorization appointing legal counsel."
+      answer: "You need loan statements and income proofs. Businesses need GST returns and P&L sheets. You also need bank notice copies and signed authorization."
     },
     {
       question: "How long does a bank take to issue the No Dues Certificate (NDC) in Tamil Nadu?",
-      answer: "Under RBI Circular RBI/2023-24/60, all regulated lenders are statutorily mandated to issue the original No Dues Certificate (NDC) within 30 calendar days of receiving full settlement payment. Unjustified delays make the lender liable to pay compensation of ₹5,000 per day of delay directly to the borrower."
+      answer: "Under RBI Circular RBI/2023-24/60, banks must issue NDCs within 30 days. Unjustified delays cost banks ₹5,000 per day in compensation."
     },
     {
       question: "How can I rebuild my CIBIL score after settling a loan in Coimbatore?",
-      answer: "Post-settlement, the lender updates credit bureaus with a 'Settled' remark and ₹0 overdue balance. You can rebuild your credit score to 750+ within 18 to 24 months by utilizing a secured credit card backed by a Fixed Deposit (FD), keeping credit utilization below 30%, and paying monthly balances on time."
+      answer: "Settled loans show a ₹0 balance in credit bureaus. You can rebuild your score to 750+ within 24 months. Use secured credit cards and pay bills on time."
     }
   ];
 
@@ -505,7 +505,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <span>Coimbatore Debt Case Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                Unsecured loans in Coimbatore, Tirupur, and Salem hold no charge over factory machines or real estate. Under RBI Master Directions, borrowers in financial distress can stop recovery harassment, defend civil notices, and secure 40%–60% OTS waivers.
+                Unsecured loans hold no charge over factory machines or homes. This applies across Coimbatore, Tirupur, and Salem. Under RBI rules, borrowers can stop agent harassment. They can defend legal notices and secure 40% to 60% OTS waivers.
               </p>
             </div>
           </aside>
@@ -522,23 +522,23 @@ export default function CoimbatoreLoanSettlementPage() {
               <ul className="space-y-2.5 text-sm text-slate-700">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Zero Collateral Vulnerability:</strong> Unsecured personal loans, credit cards, and business credit carry no lien on residential properties or factory equipment.</span>
+                  <span><strong>Zero Collateral Risk:</strong> Unsecured loans carry no claim on factory machinery or homes.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Workplace Anti-Harassment Shield:</strong> RBI Fair Practices Code and Madras High Court rulings prohibit recovery agents from entering factories or offices.</span>
+                  <span><strong>Workplace Legal Shield:</strong> RBI rules ban agent visits to factories and offices.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Section 138 &amp; PSSA 25 Civil Resolution:</strong> Legal replies convert cheque and auto-debit bounce notices into structured out-of-court compromise settlements.</span>
+                  <span><strong>Court Notice Defense:</strong> Legal replies convert Section 138 and Section 25 notices into settlements.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Structured 40%–60% Haircuts via NPV Math:</strong> Banks write off significant balances to avoid multi-year civil litigation and mandatory NPA provisioning burdens.</span>
+                  <span><strong>40% to 60% Haircuts:</strong> Banks write off debt to avoid long court suits.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Mandatory ₹0 No Dues Certificate:</strong> Under RBI Circular RBI/2023-24/60, lenders must deliver formal closure letters within 30 days of settlement payment.</span>
+                  <span><strong>Mandatory ₹0 NDC:</strong> Banks must deliver closure letters within 30 days under RBI rules.</span>
                 </li>
               </ul>
             </div>
@@ -551,10 +551,13 @@ export default function CoimbatoreLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Economic Reality of Debt in Coimbatore, Tirupur &amp; Salem</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Coimbatore, the &quot;Manchester of South India,&quot; anchors the vibrant industrial belt of Western Tamil Nadu alongside Tirupur&apos;s knitwear export hub and Salem&apos;s manufacturing base. While this corridor drives major engineering and textile output, it also subjects local entrepreneurs, foundry operators, and IT professionals along Avinashi Road and Saravanampatti to severe market cycles. Fluctuating yarn costs, export shipment delays, and delayed OEM receivables frequently create sudden cash-flow deficits, pushing borrowers into layered personal loans and credit card overdrafts.
+                Coimbatore is a key industrial hub in Tamil Nadu. It links Tirupur textile mills and Salem factories. Many residents run foundries or work in textile units. Others work in IT along Avinashi Road.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When monthly EMIs become unmanageable, borrowers face mounting collection pressure. Retaining an advocate-led <strong>loan settlement company in Coimbatore</strong> enables individuals and MSME owners to establish a formal legal shield. Rather than succumbing to aggressive agency harassment or panic asset liquidations, borrowers can leverage RBI compromise frameworks to negotiate structured, confidential one-time settlements directly with bank credit committees.
+                Yarn price swings and slow client payments cause cash stress. Borrowers often struggle to pay monthly EMIs. Debts can quickly pile up across multiple banks.
+              </p>
+              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
+                Hiring a debt settlement lawyer gives you a legal shield. You do not have to face agent harassment. We use RBI rules to win 40% to 60% waivers from bank committees.
               </p>
             </section>
 
@@ -566,7 +569,7 @@ export default function CoimbatoreLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Unsecured vs Secured Debt in Coimbatore</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Secured loans—such as commercial mortgages on industrial units or home loans under SARFAESI Act, 2002—give lenders direct claims over specific immovable property. Conversely, unsecured personal loans and business lines carry zero hypothecation over residential property or manufacturing machinery. An unsecured lender holds no summary power of attachment and must pursue regular civil court remedies.
+                Secured loans fall under the SARFAESI Act, 2002. Lenders can auction mortgaged assets. In contrast, unsecured loans carry no claim on machines or homes. Lenders cannot seize assets without a court trial.
               </p>
 
               {/* Distinction Table */}
@@ -574,48 +577,48 @@ export default function CoimbatoreLoanSettlementPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Debt Category</th>
-                      <th>Underlying Collateral</th>
-                      <th>Primary Legal Statute</th>
-                      <th>Lender Enforcement Power</th>
-                      <th>Settlement Haircut Scope</th>
+                      <th>Debt Type.</th>
+                      <th>Security.</th>
+                      <th>Governing Law.</th>
+                      <th>Lender Power.</th>
+                      <th>Settlement Range.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Unsecured Personal Loans</td>
-                      <td>None (Clean credit facility)</td>
-                      <td>Indian Contract Act, 1872 &amp; CPC, 1908</td>
-                      <td><strong>Low</strong> (Requires regular civil suit)</td>
+                      <td className="font-bold text-slate-900">Personal Loans.</td>
+                      <td>None (No asset pledged).</td>
+                      <td>Indian Contract Act, 1872 &amp. CPC, 1908.</td>
+                      <td><strong>Low</strong> (Needs civil court suit).</td>
                       <td><strong className="text-emerald-700">40% – 60% Principal Waiver</strong></td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Credit Card Outstandings</td>
-                      <td>None (Revolving unsecured credit)</td>
-                      <td>Indian Contract Act, 1872 &amp; RBI Directions</td>
-                      <td><strong>Minimal</strong> (Civil recovery remedies)</td>
+                      <td className="font-bold text-slate-900">Credit Card Debt.</td>
+                      <td>None (Unsecured line).</td>
+                      <td>Indian Contract Act, 1872 &amp. RBI rules.</td>
+                      <td><strong>Low</strong> (Civil suit only).</td>
                       <td><strong className="text-emerald-700">50% – 70% Total Waiver</strong></td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Unsecured MSME Lines</td>
-                      <td>None (Collateral-free business credit)</td>
-                      <td>RBI Compromise Framework &amp; MSME Act</td>
-                      <td><strong>Low</strong> (Standard civil litigation)</td>
+                      <td className="font-bold text-slate-900">MSME Business Loans.</td>
+                      <td>None (Clean business line).</td>
+                      <td>RBI Compromise Framework &amp. MSME Act.</td>
+                      <td><strong>Low</strong> (Civil suit only).</td>
                       <td><strong className="text-emerald-700">40% – 55% Principal Waiver</strong></td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Secured LAP / Mortgage</td>
-                      <td>Factory sheds, commercial or residential property</td>
-                      <td>SARFAESI Act, 2002 (Sec 13(2), Sec 13(4))</td>
-                      <td><strong>High</strong> (Possession &amp; e-auction)</td>
-                      <td>15% – 25% (Requires asset defense / sale)</td>
+                      <td className="font-bold text-slate-900">Secured LAP / Mortgage.</td>
+                      <td>Factory sheds, commercial or home property.</td>
+                      <td>SARFAESI Act, 2002 (Sec 13(2), Sec 13(4)).</td>
+                      <td><strong>High</strong> (Asset auction).</td>
+                      <td>15% – 25% (Needs asset sale).</td>
                     </tr>
                   </tbody>
                 </table>
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Additionally, Section 60(1)(c) of the Code of Civil Procedure, 1908 (CPC) statutorily exempts the tools of artisans and professional instruments necessary for earning a livelihood from attachment under civil decrees, protecting engineering workshops and textile artisans across Western Tamil Nadu.
+                Under Section 60(1)(c) CPC, livelihood tools cannot be seized in court cases. This protects workshop tools and textile looms across Western Tamil Nadu.
               </p>
             </section>
 
@@ -627,28 +630,28 @@ export default function CoimbatoreLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Halting Recovery Harassment in Coimbatore</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Third-party recovery agencies frequently deploy aggressive collection tactics, including unauthorized visits to factories in Peelamedu or Kurichi and persistent calls to employers. Such coercive measures are strictly unlawful under RBI Master Directions on Fair Practices and binding Madras High Court jurisprudence:
+                Recovery agents often use harsh methods. They may visit factories in Peelamedu or Kurichi. Such actions violate RBI rules and court orders:
               </p>
               <ul className="space-y-3 text-slate-700 my-4 text-sm md:text-base">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-5 h-5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Workplace Visits Prohibited:</strong> Recovery personnel cannot enter factories, IT parks, or offices without explicit prior consent.</span>
+                  <span><strong>Workplace Visits Prohibited:</strong> Agents cannot enter factories or offices without prior consent.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-5 h-5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Zero Third-Party Contact:</strong> Contacting family members, colleagues, or business clients regarding debt default is illegal.</span>
+                  <span><strong>Zero Third-Party Contact:</strong> Calling relatives or coworkers about your debt is illegal.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-5 h-5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Strict Permitted Hours:</strong> Calls are limited strictly between 08:00 AM and 07:00 PM; late-night contact constitutes actionable intimidation.</span>
+                  <span><strong>Strict Calling Hours:</strong> Agents can call only between 08:00 AM and 07:00 PM.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-5 h-5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Mandatory IIBF Certification:</strong> Agents must carry valid bank identity cards and accredited certifications.</span>
+                  <span><strong>Mandatory Certification:</strong> Agents must carry bank ID cards and IIBF certificates.</span>
                 </li>
               </ul>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When SettleLoans steps in, advocates issue formal cease-and-desist notices to bank Nodal Officers, redirecting all communications through legal channels and immediately stopping site disruptions.
+                Our lawyers send formal cease-and-desist notices to bank Nodal Officers. This stops workplace visits immediately.
               </p>
             </section>
 
@@ -660,10 +663,10 @@ export default function CoimbatoreLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 138 &amp; 25 PSSA in Coimbatore</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Lenders frequently issue statutory demand notices under Section 138 of the Negotiable Instruments Act or Section 25 of the Payment and Settlement Systems Act following bounced cheques or NACH auto-debits. Our advocates file comprehensive legal replies establishing genuine commercial hardship, proving absence of mens rea, and transitioning claims toward out-of-court conciliation.
+                Banks send notices when cheques or auto-debits bounce. They cite Section 138 NI Act or Section 25 PSSA. Our advocates file replies proving genuine hardship. We guide disputes toward out-of-court settlements.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When lenders initiate unilateral arbitration in distant jurisdictions, we invoke the Supreme Court ruling in <em>Perkins Eastman</em> to raise jurisdictional challenges under Sections 11 and 12 of the Arbitration Act. This invalidates ex-parte attempts and redirects the dispute to local Lok Adalat conciliation or structured bank settlement committees.
+                If a bank starts arbitration in distant cities, we challenge it. Under Section 12 of the Arbitration Act, we cite the <em>Perkins Eastman</em> ruling. We bring disputes back to local Lok Adalats or bank desks.
               </p>
             </section>
 
@@ -711,7 +714,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <div className="bg-slate-100 border-t border-slate-200 py-3 px-5 flex flex-wrap items-center justify-between gap-3 text-xs text-slate-600">
                   <div className="flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    <span><strong>Key Protocol:</strong> Protect personal assets, halt recovery visits, defend court summons, and negotiate 40%–60% OTS haircuts under RBI directives.</span>
+                    <span><strong>Key Protocol:</strong> Protect assets. Stop recovery visits. Reply to court notices. Secure 40% to 60% OTS waivers under RBI rules.</span>
                   </div>
                   <Link href="/contact" className="text-[#1F5EFF] font-bold hover:underline">
                     Consult Coimbatore Debt Advocate &rarr;
@@ -728,7 +731,7 @@ export default function CoimbatoreLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPV Valuation &amp; Bank Math in Coimbatore</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under the RBI Compromise Settlements Framework (DOR.STR.REC.20/21.04.048/2023-24), lenders evaluate settlement proposals using mathematical Net Present Value benchmarks. When an unsecured loan defaults past 90 days, Ind AS 109 mandates capital provisioning from operating profits (15% to 100%), burdening bank balance sheets.
+                Under the RBI Compromise Framework (2023), banks evaluate offers using Net Present Value (NPV). When a loan passes 90 days overdue, Ind AS 109 forces banks to set aside cash reserves.
               </p>
 
               {/* Formula Container Box */}
@@ -741,12 +744,12 @@ export default function CoimbatoreLoanSettlementPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoveries, r is the discount rate, and deductions account for 3–5 years of court friction and capital locked in NPA provisions.
+                  Here, C_t is estimated recovery and r is discount rate. Deductions cover court fees and blocked capital.
                 </p>
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Civil suits in Coimbatore courts require 3 to 6 years of legal expenses and administrative drag on zero-interest assets. Consequently, an immediate upfront cash settlement of 40% to 55% presents higher economic Net Present Value to the bank than protracted, uncertain litigation.
+                Civil suits in Coimbatore take 3 to 6 years. They also create high legal costs. A fast cash settlement of 40% to 55% gives the bank higher Net Present Value than long litigation.
               </p>
             </section>
 
@@ -758,7 +761,7 @@ export default function CoimbatoreLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step OTS Protocol in Coimbatore</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Executing a legally sound One-Time Settlement involves a structured five-stage procedure:
+                Settling an unsecured loan follows five clear stages:
               </p>
 
               <div className="space-y-6">
@@ -769,7 +772,7 @@ export default function CoimbatoreLoanSettlementPage() {
                     Hardship Dossier Compilation
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    We assemble audited financial statements, GST filings, and cash-flow records establishing that loan default results from bona fide commercial hardship.
+                    We gather financial records, GST returns. And loss accounts. These prove genuine business hardship.
                   </p>
                 </div>
 
@@ -780,7 +783,7 @@ export default function CoimbatoreLoanSettlementPage() {
                     e-NACH Revocation &amp; Legal Shield Activation
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    We instruct your bank to stop automated debit mandates under NPCI rules to stop bounce fees, while serving formal representation notices to lenders.
+                    We stop NACH auto-debits under NPCI rules to stop bounce fees. We also send formal legal notices to lenders.
                   </p>
                 </div>
 
@@ -791,7 +794,7 @@ export default function CoimbatoreLoanSettlementPage() {
                     Submitting Settlement Proposal to Stressed Asset Desks
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Our team bypasses external recovery agents to present formal settlement petitions directly to Zonal Stressed Assets Resolution Branches (SARB).
+                    We submit settlement files directly to Zonal SARB desks.
                   </p>
                 </div>
 
@@ -802,7 +805,7 @@ export default function CoimbatoreLoanSettlementPage() {
                     Principal Haircut Negotiation &amp; 100% Fee Waiver
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    We eliminate 100% of accumulated penal interest and late fees under RBI fair lending codes, negotiating a binding 40% to 60% principal reduction.
+                    We waive 100% of penal fees under RBI fair lending codes. We negotiate a 40% to 60% principal cut.
                   </p>
                 </div>
 
@@ -813,7 +816,7 @@ export default function CoimbatoreLoanSettlementPage() {
                     Sanction Letter Forensic Audit &amp; ₹0 NDC Delivery
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Our legal experts verify the authenticity of the bank&apos;s stamped sanction letter before payment and ensure delivery of the official No Dues Certificate within 30 days.
+                    We check the bank&apos;s stamped sanction letter before payment. We ensure NDC delivery within 30 days.
                   </p>
                 </div>
               </div>
@@ -827,10 +830,10 @@ export default function CoimbatoreLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Coimbatore</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Unscrupulous collection agents sometimes issue unauthorized compromise letters to collect partial funds without closing the loan. SettleLoans performs rigorous forensic verification on every sanction letter, confirming it is issued on official bank letterhead, signed by authorized bank officers, contains exact account numbers, and confirms complete discharge of liability.
+                Some recovery agents issue fake settlement letters to take cash. SettleLoans audits every sanction letter. We confirm official bank letterheads, authorized signatures. And complete waiver clauses.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI Circular RBI/2023-24/60, lenders must release the original No Dues Certificate and update bureau records within 30 calendar days of settlement payment. Failure to comply makes the institution statutorily liable to pay ₹5,000 per day of delay to the borrower.
+                Under RBI Circular RBI/2023-24/60, lenders must issue the No Dues Certificate within 30 days. If they delay, they must pay ₹5,000 per day to the borrower.
               </p>
             </section>
 
@@ -842,10 +845,10 @@ export default function CoimbatoreLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CIBIL Rehabilitation in Coimbatore</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Following settlement, the bank updates credit bureaus (CIBIL, Experian, CRIF High Mark) with the status &apos;Settled&apos; and a ₹0 overdue balance. While this introduces a temporary credit cooling period, it ends compounding delinquency records and removes litigation risks.
+                After settlement, the bank marks the account as &apos;Settled&apos. with ₹0 dues across CIBIL, Experian, and CRIF. This stops interest adding and ends legal risks.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers can systematically restore their CIBIL score to 750+ within 18 to 24 months by utilizing a secured credit card backed by a Fixed Deposit (FD), keeping credit utilization under 30%, making timely payments, and ensuring all closed accounts show zero active dues.
+                You can rebuild your CIBIL score to 750+ within 18 to 24 months. Use an FD-backed credit card, keep credit use under 30%. And pay balances on time.
               </p>
             </section>
 
@@ -857,48 +860,48 @@ export default function CoimbatoreLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Resolution Matrix in Coimbatore</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                A comparison of legal mechanisms available for resolving delinquent loan obligations:
+                Compare legal options for resolving overdue loans in Coimbatore:
               </p>
 
               <div className="overflow-x-auto my-6">
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Resolution Pathway</th>
-                      <th>Legal Mechanism</th>
-                      <th>Haircut Potential</th>
-                      <th>Business Disruption</th>
-                      <th>Finality &amp; Judicial Status</th>
+                      <th>Resolution Route.</th>
+                      <th>Legal Tool.</th>
+                      <th>Waiver Range.</th>
+                      <th>Impact.</th>
+                      <th>Legal Status.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Advocate-Led Bank OTS</td>
-                      <td>Compromise settlement under RBI Master Directions</td>
+                      <td className="font-bold text-slate-900">Advocate-Led Bank OTS.</td>
+                      <td>settlement under RBI rules.</td>
                       <td><strong className="text-emerald-700">40% – 60% Principal Waiver</strong></td>
-                      <td><strong>Zero</strong> (Handled off-site via legal counsel)</td>
+                      <td><strong>Zero</strong> (Handled by lawyers).</td>
                       <td>Binding settlement with ₹0 NDC.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">National Lok Adalat Settlement</td>
-                      <td>Judicial conciliation before sitting judge panel</td>
+                      <td className="font-bold text-slate-900">National Lok Adalat.</td>
+                      <td>Judicial settlement before judge panel.</td>
                       <td><strong className="text-emerald-700">45% – 60% Debt Haircut</strong></td>
-                      <td>Minimal (Single-session conciliation)</td>
-                      <td><strong>Civil Court Decree</strong> (Non-appealable).</td>
+                      <td>Minimal (Single hearing).</td>
+                      <td><strong>Civil Court Decree</strong> (Final order).</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Arbitration Defense</td>
-                      <td>Challenging unilateral sole arbitrator appointments</td>
-                      <td>Converts to OTS</td>
-                      <td>Moderate (Requires formal legal replies)</td>
-                      <td>Jurisdictional objection / stay.</td>
+                      <td className="font-bold text-slate-900">Arbitration Defense.</td>
+                      <td>Challenge to one-sided arbitrator.</td>
+                      <td>Converts to OTS.</td>
+                      <td>Low (Handled via legal replies).</td>
+                      <td>Court stay or transfer.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Sec 138 / 25 PSSA Defense</td>
-                      <td>Magistrate Court defense on bounced auto-debits</td>
+                      <td className="font-bold text-slate-900">Sec 138 / 25 PSSA Defense.</td>
+                      <td>Magistrate Court defense on bounced auto-debits.</td>
                       <td><strong>35% – 50% Debt Haircut</strong></td>
-                      <td>Moderate (Advocate appearance required)</td>
-                      <td>Compoundable settlement &amp; disposal.</td>
+                      <td>Low (Advocate appearance).</td>
+                      <td>Legal compoundable settlement.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -913,7 +916,7 @@ export default function CoimbatoreLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in Coimbatore &amp; Kongu Region Trust SettleLoans</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                SettleLoans provides dedicated legal debt resolution across Coimbatore, Tirupur, Salem, and Erode. We halt recovery harassment through formal legal notices, protect assets from attachment under CPC Section 60(1)(c), defend court summons, and negotiate directly with bank Credit Committees to secure maximum lawful debt waivers and authentic ₹0 No Dues Certificates.
+                SettleLoans gives you legal debt resolution across Coimbatore, Tirupur, and Salem. We stop agent harassment. We defend court summons. We protect assets under CPC Section 60(1)(c). We negotiate 40% to 60% debt waivers under RBI rules.
               </p>
 
               {/* Placement of Reusable CompanySection */}
@@ -978,7 +981,7 @@ export default function CoimbatoreLoanSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>RBI Master Circular:</strong> Fair Practices Code for Lenders, Recovery Agent Conduct &amp; Penal Charge Caps
+                    <strong>RBI Master Circular:</strong> Fair Practices Code for Lenders, Recovery Agent Conduct &amp. Penal Charge Caps
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -989,7 +992,7 @@ export default function CoimbatoreLoanSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>Madras High Court:</strong> Judicial Precedents on Fair Debt Recovery, Prohibition of Third-Party Coercion &amp; Due Process
+                    <strong>Madras High Court:</strong> Judicial Precedents on Fair Debt Recovery, Prohibition of Third-Party Coercion &amp. Due Process
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1000,7 +1003,7 @@ export default function CoimbatoreLoanSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>Reserve Bank - Integrated Ombudsman Scheme:</strong> Grievance Redressal Mechanism for Unlawful Recovery Harassment &amp; NDC Non-Delivery
+                    <strong>Reserve Bank - Integrated Ombudsman Scheme:</strong> Grievance Redressal Mechanism for Unlawful Recovery harassment &amp. NDC Non-Delivery
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1011,7 +1014,7 @@ export default function CoimbatoreLoanSettlementPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>National Legal Services Authority (NALSA):</strong> Legal Services Authorities Act, 1987 — Pre-Litigation Lok Adalat Conciliation
+                    <strong>National Legal Services Authority (NALSA):</strong> Legal Services Authorities Act, 1987. Pre-Litigation Lok Adalat settlement
                   </a>
                 </li>
               </ul>
@@ -1108,12 +1111,12 @@ export default function CoimbatoreLoanSettlementPage() {
                     </Link>
                   </div>
                   <p className="text-xs text-slate-500 font-medium">
-                    Lead Banking Legal &amp; Debt Settlement Strategist
+                    Lead Banking Legal &amp. Debt Settlement Strategist
                   </p>
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has advised over 1,500+ MSME owners, corporate executives, and personal loan borrowers across Tamil Nadu and South India. He specializes in NPA resolution, commercial debt restructuring, and high-value OTS negotiations under RBI Master Directions.
+                Ashish has guided over 1,500 clients in Tamil Nadu. He leads debt settlement and NPA legal defense under RBI rules.
               </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
@@ -1144,7 +1147,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 Facing Loan Default in Coimbatore or Tirupur?
               </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
-                Stop aggressive recovery calls to your family, factory, or office immediately. Our senior banking advocates protect your rights, defend court notices, and negotiate 40%–60% OTS settlements directly with bank Credit Committees.
+                Stop recovery calls to your home or office. Our banking lawyers protect your rights. We defend court notices. We negotiate 40% to 60% OTS settlements with bank desks.
               </p>
               <Link
                 href="/contact"
@@ -1164,25 +1167,25 @@ export default function CoimbatoreLoanSettlementPage() {
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Strict Commercial Confidentiality:</strong> Non-disclosure agreements safeguarding your business standing and local reputation in the Kongu industrial region.
+                    <strong>Commercial Privacy:</strong> Signed agreements protect your privacy in Kongu region.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Zero Workplace Harassment Guarantee:</strong> Immediate issuance of formal cease-and-desist notices to halt workplace visits under RBI directives.
+                    <strong>Zero Workplace harassment:</strong> We send legal notices to stop visits under RBI rules.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Direct Bank Credit Committee Access:</strong> We bypass external agency recovery staff to negotiate directly with Zonal Stressed Assets Desks.
+                    <strong>Direct Bank Access:</strong> We bypass recovery agents and negotiate directly with bank SARB desks.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>100% Stamped Sanction Verification:</strong> Every settlement is legally audited on official corporate letterhead before payments are authorized.
+                    <strong>Sanction Verification:</strong> Every settlement is legally audited on bank letterhead before payment.
                   </span>
                 </li>
               </ul>

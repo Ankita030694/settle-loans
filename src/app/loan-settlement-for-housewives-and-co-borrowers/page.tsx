@@ -185,7 +185,7 @@ const jsonLdGraph = {
             "name": "Pooja Sharma"
           },
           "datePublished": "2026-07-14",
-          "reviewBody": "Added as a non-earning co-applicant on my husband's loan. Recovery agents visited our home threatening my jewelry. SettleLoans advocates intervened, cited Section 60 CPC, stopped all visits, and negotiated a 52% OTS.",
+          "reviewBody": "I was a co-applicant on my husband's loan with no income. Agents visited our home and threatened my gold. SettleLoans cited Section 60 CPC and stopped the agents. They settled the debt at a 52% discount.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -200,7 +200,7 @@ const jsonLdGraph = {
             "name": "Sunita Verma"
           },
           "datePublished": "2026-06-20",
-          "reviewBody": "As a homemaker with zero income, recovery calls were relentless. SettleLoans established my zero-asset defense and secured a compromise settlement with a bank No Dues Certificate.",
+          "reviewBody": "I am a homemaker with no job. The recovery calls were non-stop. SettleLoans used the zero-asset defense for my case. They closed the loan and got me a bank No Dues Certificate.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -215,7 +215,7 @@ const jsonLdGraph = {
             "name": "Meenakshi Sundaram"
           },
           "datePublished": "2026-08-02",
-          "reviewBody": "Bank sent a demand notice naming me as a co-borrower. SettleLoans protected my Stridhan and structured an affordable 4-part installment settlement with complete loan closure.",
+          "reviewBody": "The bank sent me a demand notice as a co-borrower. SettleLoans protected my Stridhan right away. They set up an easy 4-part payment plan to close the loan.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -230,7 +230,7 @@ const jsonLdGraph = {
             "name": "Kavita Deshmukh"
           },
           "datePublished": "2026-05-28",
-          "reviewBody": "Collection agents threatened our household items. SettleLoans cited Supreme Court precedents and Section 60 CPC exemptions, halting harassment instantly and settling for 45% of principal.",
+          "reviewBody": "Agents threatened to take our home items. SettleLoans used Supreme Court rulings and Section 60 CPC rules. They stopped the harassment and settled the loan for 45% of the principal.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -249,7 +249,7 @@ const jsonLdGraph = {
           "name": "Can a bank legally seize a housewife's wedding gold or jewelry for an unpaid loan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Under Section 60(1) proviso (a) of the Code of Civil Procedure (CPC), 1908, a woman's necessary wearing apparel, cooking vessels, and religious ornaments (Mangalsutra, wedding jewelry, and Stridhan) are completely exempt from attachment, seizure, or auction unless explicitly mortgaged as gold loan collateral."
+            "text": "No. Under Section 60(1) proviso (a) of the Code of Civil Procedure (CPC), 1908, your jewelry is safe. A woman's clothes, kitchen vessels, and holy ornaments like the Mangalsutra and Stridhan cannot be seized. Banks cannot attach or auction them for personal loans. This protection holds unless you gave the gold as loan collateral."
           }
         },
         {
@@ -257,7 +257,7 @@ const jsonLdGraph = {
           "name": "What is the extent of legal liability for a non-earning co-borrower under Indian law?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "While Section 128 of the Indian Contract Act defines co-borrower liability as co-extensive, a civil money decree can only be executed against identifiable personal assets. If a non-earning co-borrower owns zero independent income, salary, or commercial property, the bank cannot execute against non-existent assets or touch protected Stridhan."
+            "text": "Section 128 of the Indian Contract Act makes a co-borrower equally liable. But civil courts can only attach assets you actually own. If you have no salary, income, or property, the bank cannot seize anything. They cannot touch non-existent assets or protected Stridhan."
           }
         },
         {
@@ -265,7 +265,7 @@ const jsonLdGraph = {
           "name": "Can recovery agents harass, call, or intimidate a female co-borrower at home?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. The RBI Fair Practices Code strictly prohibits uncivil language, intimidation, and calls outside 8:00 AM to 7:00 PM. Harassing female family members or visiting without authorization is illegal under Sections 503, 506, and 509 IPC (Sections 351, 356, and 79 BNS) and punishable by the RBI Ombudsman."
+            "text": "No. The RBI Fair Practices Code bans abuse and threats. Recovery agents can only call between 8:00 AM and 7:00 PM. Harassing women at home is a crime under Sections 503, 506, and 509 IPC (Sections 351, 356, and 79 BNS). You can report rogue agents directly to the RBI Ombudsman."
           }
         },
         {
@@ -273,7 +273,7 @@ const jsonLdGraph = {
           "name": "What is the Zero-Asset Defense in civil loan recovery execution petitions?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under Order 21 Rule 37 CPC, civil courts cannot order civil detention or coercive execution against a debtor who genuinely lacks disposable income or commercial assets. The Zero-Asset Defense establishes genuine financial distress rather than wilful evasion."
+            "text": "Under Order 21 Rule 37 CPC, civil courts protect borrowers without money. The court will not order detention if you have no income or property. The Zero-Asset Defense proves your hardship in court. It shows you cannot pay due to genuine distress."
           }
         },
         {
@@ -281,7 +281,7 @@ const jsonLdGraph = {
           "name": "Can a housewife or non-earning co-applicant be arrested or sent to jail?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Unsecured loan default is strictly a civil dispute. Arrest is never permitted for civil default unless there is an active criminal cheque bounce case (Section 138 NI Act) directly drawn and signed by that individual."
+            "text": "No. A loan default is purely a civil dispute. Police cannot arrest you for failing to pay an unsecured loan. Arrest only applies if you signed a bounced cheque under Section 138 NI Act."
           }
         },
         {
@@ -289,7 +289,7 @@ const jsonLdGraph = {
           "name": "How does a One-Time Settlement (OTS) resolve liability for both borrower and co-borrower?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "An authentic OTS compromise sanction letter formally discharges both the primary borrower and the co-borrower upon receipt of the agreed settlement sum (typically 45%–65% of principal), issuing a joint No Dues Certificate."
+            "text": "A bank OTS letter clears both the borrower and co-borrower. You pay an agreed sum, usually 45% to 65% of the principal. Once paid, the bank issues a joint No Dues Certificate. This cancels all remaining debt."
           }
         },
         {
@@ -297,7 +297,7 @@ const jsonLdGraph = {
           "name": "What should a housewife do if recovery agents show up unannounced at her doorstep?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Do not let agents inside. Demand their official Bank ID card, DRA certification, and authorization letter. Record the interaction, contact local police if they behave aggressively, and have an advocate issue an emergency cease-and-desist notice."
+            "text": "Do not let agents inside your house. Ask for their bank ID, DRA certificate, and authority letter. Record video of their visit. Call the police if they shout or threaten you. A lawyer can also send them a legal notice to stop visits."
           }
         },
         {
@@ -305,7 +305,7 @@ const jsonLdGraph = {
           "name": "Does loan settlement negatively impact the CIBIL score of a non-earning co-borrower?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes, credit bureaus will reflect a 'Settled' status. However, eliminating debt liability and legal harassment provides permanent relief. Non-earning co-borrowers can gradually rebuild credit later through secured instruments."
+            "text": "Yes. Credit bureaus will mark the loan account as 'Settled'. But it removes your debt burden and ends agent harassment. You can rebuild your credit score later using secured cards or fixed deposits."
           }
         },
         {
@@ -313,7 +313,7 @@ const jsonLdGraph = {
           "name": "What is the mandatory RBI timeline for issuing a No Dues Certificate after settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, lenders must issue a No Dues Certificate within 30 calendar days of receiving full settlement funds. Any delay beyond 30 days incurs a mandatory compensation of ₹5,000 per day payable to the borrower."
+            "text": "Under RBI Circular RBI/2023-24/60, banks must issue a No Dues Certificate within 30 days of payment. If the bank delays beyond 30 days, it must pay you ₹5,000 for each day of delay."
           }
         }
       ]
@@ -469,7 +469,7 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
                 <span>Executive Case Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                Non-earning housewives and co-borrowers face heavy collection harassment during defaults. Under Indian law, Section 60 CPC immunizes Stridhan and jewelry, while the Zero-Asset Defense bars coercive execution against individuals lacking independent income.
+                Housewives and co-borrowers often face harsh debt recovery calls. Under Indian law, Section 60 CPC protects your Stridhan and gold jewelry. The Zero-Asset Defense also stops civil courts from acting against people with no income or property.
               </p>
             </div>
           </aside>
@@ -486,19 +486,19 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
               <ul className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Stridhan &amp; Jewelry Immunity:</strong> Under Section 60(1)(a) CPC and Supreme Court rulings, a woman&apos;s Stridhan, including her Mangalsutra and personal wedding gold, cannot be attached or auctioned for unsecured loan defaults.</span>
+                  <span><strong>Stridhan &amp; Jewelry Immunity:</strong> Under Section 60(1)(a) CPC and Supreme Court orders, your Stridhan is safe. Banks cannot take your Mangalsutra or wedding jewelry for unpaid personal loans.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Zero-Asset Legal Defense:</strong> Civil courts operating under Order 21 Rule 37 CPC cannot order civil detention or property execution against co-applicants with zero independent income or registered assets.</span>
+                  <span><strong>Zero-Asset Legal Defense:</strong> Under Order 21 Rule 37 CPC, civil courts protect borrowers with no income. Courts will not jail or attach property of co-borrowers who have no personal assets.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>RBI Anti-Harassment Rules:</strong> RBI Fair Practices Code strictly prohibits recovery agents from intimidating female family members or calling outside permitted hours (8:00 AM to 7:00 PM).</span>
+                  <span><strong>RBI Anti-Harassment Rules:</strong> The RBI Fair Practices Code bans agent harassment of women. Agents can only call between 8:00 AM and 7:00 PM on working days.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Comprehensive Joint OTS Relief:</strong> Advocate negotiations secure 45% to 65% principal waivers, releasing both primary borrowers and co-applicants with bank-stamped No Dues Certificates.</span>
+                  <span><strong>Comprehensive Joint OTS Relief:</strong> Legal teams can help you settle for 45% to 65% of the principal. The bank then gives both borrowers an official No Dues Certificate.</span>
                 </li>
               </ul>
             </div>
@@ -509,11 +509,11 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
                 1. Non-Earning Co-Borrowers in Indian Retail Banking
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Indian commercial banks and NBFCs frequently require spouses and non-earning homemakers to sign as co-borrowers or personal guarantors on retail credit facilities. While framed as standard administrative paperwork, this practice is designed to create emotional pressure during delinquency. Homemakers with no independent income are often subjected to aggressive phone calls, unlawful legal notices, and doorstep visits threatening the attachment of household goods.
+                Indian banks and NBFCs often ask spouses to sign as co-borrowers. Lenders treat this as routine paperwork. In reality, it creates pressure if the loan defaults. Non-earning wives then face harsh phone calls and legal notices. Recovery agents may even visit their homes. They often threaten to take household goods.
               </p>
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-3.5 rounded-r-xl text-xs sm:text-sm text-slate-700">
                 <strong className="text-slate-900">Legal Protection: </strong>
-                Non-earning accommodation signers retain full constitutional protections under Article 21. Third-party recovery agents possess zero legal authority to seize household articles or enter residences without a valid civil court warrant.
+                You have full legal rights under Article 21 of the Constitution. Recovery agents have no power to seize items or enter your home without a court warrant.
               </div>
             </section>
 
@@ -523,10 +523,10 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
                 2. Joint &amp; Several Liability Legal Limits
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under Section 128 of the Indian Contract Act, 1872, co-borrower liability is co-extensive with the primary borrower. However, there is a fundamental difference between contractual liability and actual civil decree execution. A money decree obtained by a bank can only attach identifiable, executable personal assets owned by the judgment debtor under Order 21 CPC.
+                Under Section 128 of the Indian Contract Act, 1872, co-borrowers share the same debt liability. But there is a clear limit on how banks can collect. Under Order 21 CPC, a court can only attach assets you actually own.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                If the co-borrower is a non-earning housewife with no registered commercial property, salary, or independent bank balance, the bank cannot execute against non-existent assets. Furthermore, lenders cannot attach ancestral joint family properties or assets belonging to other family members.
+                If a housewife has no salary, business, or land, the bank cannot seize anything. Lenders cannot take assets that do not exist. They also cannot touch ancestral family property or assets owned by relatives.
               </p>
             </section>
 
@@ -536,10 +536,10 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
                 3. Stridhan Rights &amp; Section 60 CPC Shield
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A common threat by recovery agents is the seizure of gold jewelry and wedding ornaments. Under Section 60(1) proviso (a) of the Code of Civil Procedure, 1908, necessary wearing apparel, cooking vessels, beds, and personal religious ornaments of a woman (such as Mangalsutra and bridal gold) are statutorily exempt from civil attachment.
+                Recovery agents often threaten to seize gold jewelry and wedding gifts. But the law protects you. Under Section 60(1) proviso (a) of the Code of Civil Procedure, 1908, personal items are safe. A court cannot take your clothes, cooking pots, beds, or sacred jewelry like your Mangalsutra.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                In <em>Pratibha Rani v. Suraj Kumar (1985)</em>, the Supreme Court ruled that <em>Stridhan</em> is the absolute, exclusive property of a woman. It cannot be attached or liquidated for debts incurred by her husband or relatives unless the jewelry was explicitly pledged under a written gold mortgage. Unlawful attempts by agents to confiscate personal jewelry constitute criminal trespass and extortion.
+                In <em>Pratibha Rani v. Suraj Kumar (1985)</em>, the Supreme Court ruled that <em>Stridhan</em> belongs solely to the woman. No bank can take your gold for your husband&apos;s debt. This holds true unless you pledged the gold in a formal mortgage. Any agent trying to take your gold commits criminal trespass and extortion.
               </p>
             </section>
 
@@ -549,7 +549,7 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
                 4. Zero-Asset Defense &amp; NPA Accounting Economics
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under Order 21 Rule 37 CPC, civil courts cannot order the detention or coercive recovery against a debtor who genuinely lacks the financial means to satisfy a claim. Placing certified zero-income affidavits and bank statements on record establishes the <strong>Zero-Asset Defense</strong>, proving bona fide financial incapacity rather than wilful default.
+                Under Order 21 Rule 37 CPC, civil courts cannot jail a debtor who has no money to pay. You can submit certified bank records and zero-income affidavits. This builds a clear <strong>Zero-Asset Defense</strong>. It shows the court that you face real financial hardship rather than wilful default.
               </p>
 
               {/* Formula Box */}
@@ -562,7 +562,7 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-1.5">
-                  Where C_t represents estimated recoveries, r is the discount rate, and deductions account for 3–5 years of court friction and 100% NPA provisioning. Facing an uncollectible non-earning co-borrower, the bank&apos;s expected recovery turns negative, incentivizing a 45%–65% OTS.
+                  Here, C_t is the estimated recovery, and r is the discount rate. Court cases take 3 to 5 years and cost banks heavy legal fees. When a co-borrower has no assets, the bank cannot recover funds. The lender prefers a quick 45% to 65% OTS payout instead.
                 </p>
               </div>
             </section>
@@ -573,7 +573,7 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
                 5. Visual Legal Defense &amp; Settlement Map
               </h2>
               <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
-                The visual roadmap illustrates the 5 core pillars of non-earning co-borrower defense, statutory Stridhan immunity, Zero-Asset framework, RBI protections, and the advocate-led OTS pathway:
+                This chart outlines the 5 key pillars of co-borrower defense. It covers Stridhan rights, the Zero-Asset rule, RBI safeguards, and the steps to get an OTS waiver:
               </p>
 
               <div className="relative w-full aspect-video rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-4 bg-slate-900">
@@ -594,21 +594,21 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
                 6. RBI Anti-Harassment Mandates for Women &amp; Families
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The RBI Master Direction on Fair Practices Code strictly regulates debt collection practices across all regulated lenders:
+                The RBI Master Direction on Fair Practices Code sets strict rules for debt recovery:
               </p>
 
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-2.5 my-3">
                 <div className="p-3 bg-red-50/80 border border-red-200 rounded-xl text-xs">
                   <span className="font-bold text-red-950 block mb-1">No Abusive Tactics</span>
-                  <p className="text-red-800">Strict ban on intimidation, uncivil language, and psychological pressure on female family members.</p>
+                  <p className="text-red-800">Banks cannot use abusive words or threaten female family members.</p>
                 </div>
                 <div className="p-3 bg-amber-50/80 border border-amber-200 rounded-xl text-xs">
                   <span className="font-bold text-amber-950 block mb-1">Strict Calling Hours</span>
-                  <p className="text-amber-800">Calls and visits are permitted strictly between 8:00 AM and 7:00 PM on working days.</p>
+                  <p className="text-amber-800">Agents can only call or visit between 8:00 AM and 7:00 PM.</p>
                 </div>
                 <div className="p-3 bg-blue-50/80 border border-blue-200 rounded-xl text-xs">
                   <span className="font-bold text-blue-950 block mb-1">Privacy Protection</span>
-                  <p className="text-blue-800">Prohibition on contacting neighbors, distant relatives, or disclosing debt details publicly.</p>
+                  <p className="text-blue-800">Agents cannot contact neighbors or reveal your debt to others.</p>
                 </div>
               </div>
             </section>
@@ -620,16 +620,16 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
               </h2>
               <div className="space-y-2.5 my-3">
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200 text-xs sm:text-sm">
-                  <strong>1. Legal Ceasefire Notice:</strong> Formally revoking telephonic consent and directing all communications through legal counsel.
+                  <strong>1. Legal Notice:</strong> Send a formal notice to stop calls. Direct all bank talks to your lawyer.
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200 text-xs sm:text-sm">
-                  <strong>2. Zero-Asset Hardship Dossier:</strong> Submitting verified non-earning affidavits to demonstrate judgment-proof status.
+                  <strong>2. Hardship Proof:</strong> Submit zero-income records to show you have no assets to attach.
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200 text-xs sm:text-sm">
-                  <strong>3. Direct Settlement Committee Negotiations:</strong> Engaging bank zonal heads to secure a 45% to 65% principal waiver.
+                  <strong>3. Bank Talks:</strong> Talk to senior bank officers to get a 45% to 65% loan waiver.
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200 text-xs sm:text-sm">
-                  <strong>4. Dual-Release Sanction &amp; Closure:</strong> Executing a formal compromise sanction letter discharging both signatories.
+                  <strong>4. Final Closure:</strong> Get an official sanction letter that frees both borrowers from the loan.
                 </div>
               </div>
             </section>
@@ -640,16 +640,16 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
                 8. Sanction Forensics &amp; RBI ₹0 NDC Mandate
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                An authentic settlement sanction letter must be on bank letterhead, explicitly name both borrowers with PAN details, state the exact compromised sum, and include a full liability discharge clause. Payments must be made directly to the bank&apos;s official account.
+                An authentic settlement letter must come on official bank letterhead. It must list both borrowers and their PAN numbers. It should state the exact settlement amount and confirm full debt closure. Always pay directly into the official bank loan account.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under <strong>RBI Circular RBI/2023-24/60</strong>, lenders must issue a No Dues Certificate (NDC) and update credit bureaus within 30 days of settlement payment. Delays beyond 30 days mandate a statutory compensation of ₹5,000 per day payable to the borrower.
+                Under <strong>RBI Circular RBI/2023-24/60</strong>, banks must issue a No Dues Certificate (NDC) within 30 days. They must also update credit bureaus. If the bank takes longer than 30 days, it must pay you ₹5,000 per day in compensation.
               </p>
             </section>
 
             {/* Section 9: Comparative Matrix: Myth vs Law */}
             <section id="comparative-defense-matrix" className="space-y-3">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Co-Borrower Legal Rights vs Threats Matrix</h2>
               <div className="overflow-x-auto my-4">
                 <table>
                   <thead>
@@ -664,26 +664,26 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
                     <tr>
                       <td className="font-bold text-slate-900">&quot;We will seize the housewife&apos;s gold jewelry.&quot;</td>
                       <td>Section 60(1)(a) CPC &amp; Pratibha Rani SC Ruling</td>
-                      <td>Stridhan and marriage ornaments are 100% immune from civil attachment.</td>
-                      <td>Serve Cease-and-Desist notice and file police complaint for extortion.</td>
+                      <td>Stridhan and marriage jewelry are 100% safe from court attachment.</td>
+                      <td>Send a legal notice to the bank and file a police complaint if agents threaten you.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">&quot;Police will arrest the non-earning co-borrower.&quot;</td>
                       <td>Article 21 Constitution &amp; Order 21 CPC</td>
-                      <td>Unsecured loan default is strictly a civil dispute. No arrest is permitted.</td>
-                      <td>Escalate grievance to Principal Nodal Officer and RBI Ombudsman.</td>
+                      <td>A loan default is a civil matter. Police cannot arrest you for unpaid loans.</td>
+                      <td>Report unlawful threats to the Principal Nodal Officer and the RBI Ombudsman.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">&quot;We will auction household furniture.&quot;</td>
                       <td>Section 60(1) Proviso (a) CPC</td>
-                      <td>Basic apparel, cooking vessels, and bedding are statutorily exempt.</td>
-                      <td>Bar entry and record video evidence of unlawful trespass.</td>
+                      <td>Basic clothes, cooking pots, and beds cannot be seized by law.</td>
+                      <td>Do not let agents in. Record video proof if they enter without permission.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">&quot;Co-borrower must pay immediately or go to jail.&quot;</td>
                       <td>Order 21 Rule 37 CPC (Zero-Asset Defense)</td>
-                      <td>Courts cannot detain debtors who genuinely lack the means to pay.</td>
-                      <td>Submit Zero-Asset Hardship Affidavits and negotiate 45%–65% OTS.</td>
+                      <td>Courts will not detain debtors who lack the money to pay.</td>
+                      <td>Submit income hardship proofs and negotiate a 45% to 65% OTS waiver.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -693,9 +693,9 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-4">
               <div className="border-t border-slate-200 pt-6 space-y-3">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Homemaker Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                  SettleLoans provides complete legal defense for vulnerable non-earning co-borrowers and homemakers across India. Our advocates halt unlawful collection harassment, assert Stridhan protections, file RBI Ombudsman grievances, and negotiate directly with bank zonal authorities to secure 45% to 65% principal waivers with authentic No Dues Certificates.
+                  SettleLoans helps non-earning co-borrowers and homemakers across India. Our legal team stops recovery harassment and protects your Stridhan rights. We file complaints with the RBI Ombudsman when agents break rules. We also negotiate directly with bank heads to secure 45% to 65% waivers and official No Dues Certificates.
                 </p>
               </div>
 
@@ -878,7 +878,7 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-3">
-                Senior specialist in banking litigation defense, Stridhan and Section 60 CPC asset protections, anti-harassment regulatory representation, and institutional One-Time Settlement negotiations across India.
+                Senior specialist in banking defense, Stridhan rights, and Section 60 CPC protections. He helps borrowers resolve loan disputes and secure bank settlements across India.
               </p>
               <div className="pt-3 border-t border-slate-200 flex items-center justify-between text-xs text-slate-500">
                 <span className="flex items-center gap-1">
@@ -903,7 +903,7 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
               </div>
               <div className="font-bold text-base text-white mb-2">Are Recovery Agents Harassing Family Members?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
-                Protect non-earning co-borrowers and housewives immediately. Retain seasoned banking litigation advocates to stop harassment and negotiate a 45%–65% OTS.
+                Protect housewives and non-earning co-borrowers today. Get legal help to stop recovery calls and settle your debt for 45% to 65% less.
               </p>
               <Link
                 href="/contact"

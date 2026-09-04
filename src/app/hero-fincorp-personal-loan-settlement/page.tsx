@@ -208,7 +208,7 @@ const jsonLdGraph = {
           "name": "What is the Hero FinCorp loan settlement process and how does it work?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Hero FinCorp loan settlement process is an institutional compromise mechanism governed by RBI Master Directions. When an unsecured personal loan crosses 90 days of default into NPA status, the borrower or their legal counsel submits a hardship petition to Hero FinCorp's Special Asset Resolution Branch (SARB). Upon evaluating financial incapacity against recovery NPV, HFCL issues an official stamped OTS Sanction Letter. Depositing the agreed amount directly into the loan account extinguishes all liabilities and entitles the borrower to a formal No Dues Certificate."
+            "text": "The Hero FinCorp loan settlement process is a legal debt relief option under RBI rules. If you cannot pay for over 90 days, your loan becomes an NPA. You can submit a hardship letter to Hero FinCorp's SARB team. The lender reviews your financial crisis and offers an OTS. Once you pay the agreed amount, Hero FinCorp closes your loan. You then get an official No Dues Certificate (NDC)."
           }
         },
         {
@@ -216,7 +216,7 @@ const jsonLdGraph = {
           "name": "How can borrowers stop Hero FinCorp NACH bounce fees and repeated debit sweeps?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Borrowers can halt NACH bounce penalties by instructing their destination bank to cancel the e-NACH mandate under NPCI guidelines. Additionally, serving a formal hardship notice to Hero FinCorp halts electronic sweeps. During OTS negotiations, legal counsel ensures a 100% waiver of all accumulated bounce fees and penal interest under RBI fair lending practice rules."
+            "text": "You can stop NACH bounce charges easily. Ask your bank to cancel the e-NACH mandate under NPCI rules. Send a hardship notice to Hero FinCorp to pause auto-debits. During OTS talks, your lawyer can get a 100% waiver of all bounce fees under RBI fair lending rules."
           }
         },
         {
@@ -224,7 +224,7 @@ const jsonLdGraph = {
           "name": "What percentage of debt waiver can you negotiate on a Hero FinCorp loan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "On unsecured personal loans and loyalty credit lines, Hero FinCorp typically sanctions debt waivers between 40% and 60% of total book dues. Accounts aged past 180 to 365 days (Doubtful/Loss Asset category) qualify for maximum principal haircuts (50% to 65%) plus a complete cancellation of all penal charges."
+            "text": "Hero FinCorp usually approves 40% to 60% debt waivers on personal loans and credit lines. If your loan is over 180 days past due, waivers can reach 50% to 65%. You also get a full waiver of all penalty charges."
           }
         },
         {
@@ -232,7 +232,7 @@ const jsonLdGraph = {
           "name": "How do you protect against aggressive Hero FinCorp recovery agent harassment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Master Directions, recovery agents are strictly prohibited from contacting third parties, visiting workplaces without consent, or calling outside 08:00 AM to 07:00 PM. In case of violations, serving a legal cease-and-desist notice to Hero FinCorp's Principal Nodal Officer and lodging an RBI Ombudsman complaint stops harassment immediately."
+            "text": "RBI rules protect you from recovery agent harassment. Agents can only call between 8:00 AM and 7:00 PM. They cannot call your family or visit your workplace. If agents break rules, send a legal notice to the Hero FinCorp Nodal Officer. You can also complain to the RBI Ombudsman."
           }
         },
         {
@@ -240,7 +240,7 @@ const jsonLdGraph = {
           "name": "Can Hero FinCorp file a police case or arrest a borrower for loan default?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Defaulting on an unsecured personal loan is strictly a civil breach of contract under the Indian Contract Act, 1872. Police authorities cannot file an FIR or make arrests for genuine financial insolvency. Notices under Section 25 PSSA for bounced NACH mandates are compoundable quasi-criminal proceedings handled in Magistrate Courts and resolved through settlement."
+            "text": "No. A loan default is a civil dispute under the Indian Contract Act, 1872. Police cannot arrest you for honest financial troubles. Section 25 PSSA notices for bounced mandates go to court. You can easily resolve these cases through settlement."
           }
         },
         {
@@ -248,7 +248,7 @@ const jsonLdGraph = {
           "name": "What should you do after receiving a Section 25 PSSA notice from Hero FinCorp?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A Section 25 PSSA notice requires a formal legal reply within 15 days detailing bona fide financial hardship, challenging unauthorized multiple mandate presentations, and proposing a structured One-Time Settlement (OTS)."
+            "text": "If you get a Section 25 PSSA notice, reply within 15 days. Your lawyer can explain your financial hardship and challenge unfair mandate presentations. Propose a formal One-Time Settlement (OTS) to close the case."
           }
         },
         {
@@ -256,7 +256,7 @@ const jsonLdGraph = {
           "name": "How should borrowers handle unilateral arbitration notices from Hero FinCorp?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under Supreme Court precedents (Perkins Eastman, TRF Ltd.), unilateral arbitrator appointments by lenders without mutual consent are legally invalid. Counsel can challenge jurisdiction under Section 12 and 14 of the Arbitration Act, redirecting the dispute into settlement channels."
+            "text": "The Supreme Court ruled in Perkins Eastman and TRF Ltd that lenders cannot appoint sole arbitrators on their own. Your lawyer can challenge the arbitrator under Section 12 and Section 14 of the Arbitration Act. This moves the case to an OTS."
           }
         },
         {
@@ -264,7 +264,7 @@ const jsonLdGraph = {
           "name": "Who approves loan settlement within Hero FinCorp?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Settlements must be approved by Hero FinCorp's internal Special Asset Resolution Branch (SARB) or Zonal Credit Risk Committee. External collection tele-callers and agencies have zero legal authority to approve debt discounts."
+            "text": "Only Hero FinCorp's Special Asset Resolution Branch (SARB) or Credit Committee can approve an OTS. Call center agents and recovery staff have zero power to give discounts. Always get a formal letter on official company letterhead."
           }
         },
         {
@@ -272,7 +272,7 @@ const jsonLdGraph = {
           "name": "How does settling a Hero FinCorp loan impact your CIBIL score?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The loan status is updated to 'Settled' with an outstanding balance of ₹0. While your score may drop initially by 75–150 points, it halts compounding default marks and allows full credit restoration to 750+ within 18 to 24 months."
+            "text": "Hero FinCorp updates your CIBIL record to 'Settled' with a ₹0 balance. Your score may drop by 75 to 150 points initially. But all default interest stops. You can rebuild your credit score back to 750+ within 18 to 24 months."
           }
         },
         {
@@ -280,7 +280,7 @@ const jsonLdGraph = {
           "name": "How long does Hero FinCorp take to issue the No Dues Certificate?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, Hero FinCorp must issue the No Dues Certificate (NDC) and update credit bureaus within 30 days of full settlement payment, subject to statutory compensation of ₹5,000 per day of delay."
+            "text": "Under RBI Circular RBI/2023-24/60, Hero FinCorp must issue your No Dues Certificate (NDC) within 30 days of full payment. If they delay, they must pay you ₹5,000 for each day of delay."
           }
         }
       ]
@@ -322,43 +322,43 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
   const faqs = [
     {
       question: "What is the Hero FinCorp loan settlement process and how does it work?",
-      answer: "The Hero FinCorp loan settlement process is an institutional compromise mechanism governed by RBI Master Directions. When an unsecured personal loan crosses 90 days of default into NPA status, the borrower or their legal counsel submits a hardship petition to Hero FinCorp's Special Asset Resolution Branch (SARB). Upon evaluating financial incapacity against recovery NPV, HFCL issues an official stamped OTS Sanction Letter. Depositing the agreed amount directly into the loan account extinguishes all liabilities and entitles the borrower to a formal No Dues Certificate."
+      answer: "The Hero FinCorp loan settlement process is a legal debt relief option under RBI rules. If you cannot pay for over 90 days, your loan becomes an NPA. You can submit a hardship letter to Hero FinCorp's SARB team. The lender reviews your financial crisis and offers an OTS. Once you pay the agreed amount, Hero FinCorp closes your loan. You then get an official No Dues Certificate (NDC)."
     },
     {
       question: "How can borrowers stop Hero FinCorp NACH bounce fees and repeated debit sweeps?",
-      answer: "Borrowers can halt NACH bounce penalties by instructing their destination bank to cancel the e-NACH mandate under NPCI guidelines. Additionally, serving a formal hardship notice to Hero FinCorp halts electronic sweeps. During OTS negotiations, legal counsel ensures a 100% waiver of all accumulated bounce fees and penal interest under RBI fair lending practice rules."
+      answer: "You can stop NACH bounce charges easily. Ask your bank to cancel the e-NACH mandate under NPCI rules. Send a hardship notice to Hero FinCorp to pause auto-debits. During OTS talks, your lawyer can get a 100% waiver of all bounce fees under RBI fair lending rules."
     },
     {
       question: "What percentage of debt waiver can you negotiate on a Hero FinCorp loan?",
-      answer: "On unsecured personal loans and loyalty credit lines, Hero FinCorp typically sanctions debt waivers between 40% and 60% of total book dues. Accounts aged past 180 to 365 days (Doubtful/Loss Asset category) qualify for maximum principal haircuts (50% to 65%) plus a complete cancellation of all penal charges."
+      answer: "Hero FinCorp usually approves 40% to 60% debt waivers on personal loans and credit lines. If your loan is over 180 days past due, waivers can reach 50% to 65%. You also get a full waiver of all penalty charges."
     },
     {
       question: "How do you protect against aggressive Hero FinCorp recovery agent harassment?",
-      answer: "Under RBI Master Directions, recovery agents are strictly prohibited from contacting third parties, visiting workplaces without consent, or calling outside 08:00 AM to 07:00 PM. In case of violations, serving a legal cease-and-desist notice to Hero FinCorp's Principal Nodal Officer and lodging an RBI Ombudsman complaint stops harassment immediately."
+      answer: "RBI rules protect you from recovery agent harassment. Agents can only call between 8:00 AM and 7:00 PM. They cannot call your family or visit your workplace. If agents break rules, send a legal notice to the Hero FinCorp Nodal Officer. You can also complain to the RBI Ombudsman."
     },
     {
       question: "Can Hero FinCorp file a police case or arrest a borrower for loan default?",
-      answer: "No. Defaulting on an unsecured personal loan is strictly a civil breach of contract under the Indian Contract Act, 1872. Police authorities cannot file an FIR or make arrests for genuine financial insolvency. Notices under Section 25 PSSA for bounced NACH mandates are compoundable quasi-criminal proceedings handled in Magistrate Courts and resolved through settlement."
+      answer: "No. A loan default is a civil dispute under the Indian Contract Act, 1872. Police cannot arrest you for honest financial troubles. Section 25 PSSA notices for bounced mandates go to court. You can easily resolve these cases through settlement."
     },
     {
       question: "What should you do after receiving a Section 25 PSSA notice from Hero FinCorp?",
-      answer: "A Section 25 PSSA notice requires a formal legal reply within 15 days detailing bona fide financial hardship, challenging unauthorized multiple mandate presentations, and proposing a structured One-Time Settlement (OTS)."
+      answer: "If you get a Section 25 PSSA notice, reply within 15 days. Your lawyer can explain your financial hardship and challenge unfair mandate presentations. Propose a formal One-Time Settlement (OTS) to close the case."
     },
     {
       question: "How should borrowers handle unilateral arbitration notices from Hero FinCorp?",
-      answer: "Under Supreme Court precedents (Perkins Eastman, TRF Ltd.), unilateral arbitrator appointments by lenders without mutual consent are legally invalid. Counsel can challenge jurisdiction under Section 12 and 14 of the Arbitration Act, redirecting the dispute into settlement channels."
+      answer: "The Supreme Court ruled in Perkins Eastman and TRF Ltd that lenders cannot appoint sole arbitrators on their own. Your lawyer can challenge the arbitrator under Section 12 and Section 14 of the Arbitration Act. This moves the case to an OTS."
     },
     {
       question: "Who approves loan settlement within Hero FinCorp?",
-      answer: "Settlements must be approved by Hero FinCorp's internal Special Asset Resolution Branch (SARB) or Zonal Credit Risk Committee. External collection tele-callers and agencies have zero legal authority to approve debt discounts."
+      answer: "Only Hero FinCorp's Special Asset Resolution Branch (SARB) or Credit Committee can approve an OTS. Call center agents and recovery staff have zero power to give discounts. Always get a formal letter on official company letterhead."
     },
     {
       question: "How does settling a Hero FinCorp loan impact your CIBIL score?",
-      answer: "The loan status is updated to 'Settled' with an outstanding balance of ₹0. While your score may drop initially by 75–150 points, it halts compounding default marks and allows full credit restoration to 750+ within 18 to 24 months."
+      answer: "Hero FinCorp updates your CIBIL record to 'Settled' with a ₹0 balance. Your score may drop by 75 to 150 points initially. But all default interest stops. You can rebuild your credit score back to 750+ within 18 to 24 months."
     },
     {
       question: "How long does Hero FinCorp take to issue the No Dues Certificate?",
-      answer: "Under RBI Circular RBI/2023-24/60, Hero FinCorp must issue the No Dues Certificate (NDC) and update credit bureaus within 30 days of full settlement payment, subject to statutory compensation of ₹5,000 per day of delay."
+      answer: "Under RBI Circular RBI/2023-24/60, Hero FinCorp must issue your No Dues Certificate (NDC) within 30 days of full payment. If they delay, they must pay you ₹5,000 for each day of delay."
     }
   ];
 
@@ -484,7 +484,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <span>Hero FinCorp Case Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                Hero FinCorp accounts past 90 days of default enter Non-Performing Asset (NPA) classification. Direct escalation to the Special Asset Resolution Branch (SARB) eliminates aggressive agency markups, securing 40%–60% principal waivers with 100% bounce fee cancellation.
+                Hero FinCorp loans past 90 days become NPA accounts. Reach out to the SARB team directly. This helps you get 40% to 60% principal waivers. It also waives 100% of all bounce charges.
               </p>
             </div>
           </aside>
@@ -501,23 +501,23 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
               <ul className="space-y-2 text-xs sm:text-sm text-slate-700">
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Statutory OTS Rights:</strong> Defaulting on an unsecured personal loan is strictly a civil matter under the Indian Contract Act. Distressed borrowers hold rights under RBI Master Directions to request a compromise One-Time Settlement (OTS).</span>
+                  <span><strong>Statutory OTS Rights:</strong> Loan default is purely a civil matter under the Indian Contract Act. You have the right to seek an OTS under RBI rules.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Halting Debit Penalties:</strong> Revoking e-NACH mandates through destination banks under NPCI guidelines stops recurring return fees, while legal representation secures 100% cancellation of all penal levies.</span>
+                  <span><strong>Halting Debit Penalties:</strong> Cancel your e-NACH mandate via your bank under NPCI rules. This stops recurring bounce charges immediately.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Realistic 40%–60% Haircut:</strong> Once classified as NPA (90+ DPD) or Doubtful Asset, Hero FinCorp balances its Net Present Value (NPV) recovery math, sanctioning substantial principal debt waivers.</span>
+                  <span><strong>Realistic 40%–60% Haircut:</strong> Once an account is NPA (90+ DPD), Hero FinCorp approves large principal waivers to recover cash quickly.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Defending Legal Notices:</strong> Section 25 PSSA summons and unilateral sole arbitration appointments can be effectively challenged and resolved through advocate conciliation or National Lok Adalat.</span>
+                  <span><strong>Defending Legal Notices:</strong> You can contest Section 25 PSSA notices and sole arbitrator notices. Settle them via Lok Adalat orders.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Mandatory ₹0 NDC Guarantee:</strong> Under RBI Circular RBI/2023-24/60, Hero FinCorp must deliver a formal No Dues Certificate and update credit bureaus within 30 days of full payment.</span>
+                  <span><strong>Mandatory ₹0 NDC Guarantee:</strong> Under RBI rules, Hero FinCorp must deliver your No Dues Certificate within 30 days of full payment.</span>
                 </li>
               </ul>
             </div>
@@ -530,19 +530,19 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Understanding Hero FinCorp&apos;s Retail Credit</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                Hero FinCorp Limited (HFCL), an associate company of the Hero Group, is a systemically important non-banking financial company regulated under the Reserve Bank of India&apos;s Middle and Upper Layer frameworks. HFCL operates an extensive retail loan book encompassing unsecured personal loans, loyalty lines of credit, two-wheeler financing, and small enterprise facilities. To manage portfolio risk across high borrower volumes, the institution relies on automated credit-scoring algorithms and centralized recovery call centers.
+                Hero FinCorp Limited (HFCL) is a large NBFC regulated by the RBI. It offers personal loans, credit lines, and two-wheeler loans. If you suffer job loss or medical crises, you may miss EMIs. HFCL then starts recovery calls and auto-debit sweeps.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                When an equated monthly installment (EMI) dishonours on its scheduled presentation date, HFCL&apos;s automated treasury systems initiate high-frequency interactive voice response (IVR) calls, WhatsApp reminders, and daily electronic NACH sweeps. Simultaneously, internal return charges of ₹500 to ₹1,000 plus GST and penal interest rates of 24% to 36% per annum are applied to the ledger. For individuals facing sudden cash-flow distress, these automated charges quickly compound the total balance.
+                Each missed EMI brings internal bounce fees and penal interest charges. These extra fees quickly inflate your total balance.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                Defaulting on an unsecured credit facility represents a civil contractual breach under the Indian Contract Act, 1872, rather than a criminal wrongdoing. Regulated by RBI directives, borrowers facing genuine financial hardship hold the statutory right to halt recovery harassment, contest inflated penalty charges, and negotiate an authorized compromise One-Time Settlement (OTS).
+                Defaulting on a personal loan is a civil matter under the Indian Contract Act, 1872. It is not a criminal offense. Under RBI Master Directions, you have the legal right to stop harassment and settle your loan through an OTS.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded-r-xl my-4">
                 <div className="flex items-start gap-3">
                   <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                    <strong>Statutory Principle:</strong> Under Reserve Bank of India Master Directions on Compromise Settlements, regulated NBFCs must maintain board-approved OTS policies, enabling transparent debt resolution for non-wilful defaulters.
+                    <strong>Statutory Principle:</strong> Under RBI Master Directions, NBFCs must have board-approved compromise policies. Lenders must offer fair debt resolution to honest borrowers.
                   </div>
                 </div>
               </div>
@@ -556,7 +556,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Hero FinCorp Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                Under RBI Income Recognition, Asset Classification and Provisioning (IRACP) norms and Ind AS 109 Expected Credit Loss standards, Hero FinCorp categorizes loan delinquencies into structured Days Past Due (DPD) stages. Understanding these stages allows borrowers to pinpoint optimal settlement windows and maximize debt waivers.
+                Hero FinCorp follows RBI IRACP norms and Ind AS 109 rules to track late payments. Knowing these stages helps you pick the right time to settle your loan.
               </p>
 
               {/* Comprehensive Stage Table */}
@@ -564,55 +564,55 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Delinquency Stage</th>
+                      <th>Loan Stage</th>
                       <th>Overdue Days (DPD)</th>
-                      <th>Hero FinCorp Actions</th>
-                      <th>Legal Exposure</th>
-                      <th>Settlement Haircut</th>
+                      <th>Hero FinCorp Steps</th>
+                      <th>Legal Risk</th>
+                      <th>Settlement Waiver</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
                       <td className="font-bold text-slate-900">SMA-0</td>
                       <td>1 – 30 Days</td>
-                      <td>Automated IVR calls, daily SMS, NACH sweeps.</td>
-                      <td>Zero legal risk; initial bureau reporting.</td>
-                      <td>Negligible (Full overdue demanded).</td>
+                      <td>Automated reminder calls, text alerts, and NACH debits.</td>
+                      <td>No legal risk. Initial bureau reporting begins.</td>
+                      <td>Low. Full overdue payment demanded.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">SMA-1</td>
                       <td>31 – 60 Days</td>
-                      <td>Intensive tele-calling, agency assignment.</td>
-                      <td>Warning notices; credit score decline.</td>
-                      <td>Low (Restructuring considered).</td>
+                      <td>Daily calls and collection agency assignment.</td>
+                      <td>Warning notices sent. Credit score falls.</td>
+                      <td>Low. Loan restructuring may be offered.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">SMA-2</td>
                       <td>61 – 90 Days</td>
-                      <td>Field collection visits, loan recall notices.</td>
-                      <td>Section 25 PSSA / Section 138 notices.</td>
-                      <td>Moderate (Penal fee waivers open).</td>
+                      <td>Agent home visits and loan recall notices.</td>
+                      <td>Section 25 PSSA or Section 138 notices sent.</td>
+                      <td>Fair. Penalty fee waivers become possible.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-amber-700">NPA (Substandard)</td>
                       <td>91 – 180 Days</td>
-                      <td>Escalation to SARB desk; balance-sheet provisioning.</td>
-                      <td>Magistrate Court summons; conciliation notices.</td>
-                      <td><span className="text-emerald-700 font-bold">High (35%–50% Haircut).</span></td>
+                      <td>Case moves to the SARB desk with balance sheet reserves.</td>
+                      <td>Magistrate Court summons or conciliation notices.</td>
+                      <td><span className="text-emerald-700 font-bold">High. 35% to 50% waiver possible.</span></td>
                     </tr>
                     <tr>
                       <td className="font-bold text-red-700">Doubtful / Loss</td>
                       <td>181 – 365+ Days</td>
-                      <td>Technical write-off review; loss fully absorbed.</td>
-                      <td>Arbitration claims, Lok Adalat referrals.</td>
-                      <td><span className="text-emerald-700 font-bold">Maximum (50%–65% Haircut).</span></td>
+                      <td>Bad debt written off on balance sheet.</td>
+                      <td>Arbitration notices or Lok Adalat summons.</td>
+                      <td><span className="text-emerald-700 font-bold">Best. 50% to 65% waiver possible.</span></td>
                     </tr>
                   </tbody>
                 </table>
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                When an account reaches Doubtful or Loss status, Hero FinCorp has already absorbed the credit provision on its balance sheet. A lump-sum compromise settlement provides an immediate net cash recovery, justifying substantial principal haircuts by internal credit committees.
+                When a loan is in Doubtful status, HFCL sets aside full funds for the loss. A lump-sum OTS gives them fast cash. This makes credit managers approve large principal waivers.
               </p>
             </section>
 
@@ -624,10 +624,10 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Stopping Hero FinCorp Bounce Charges &amp; NACH Hits</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                Repeated automated debit attempts represent one of the most draining financial aspects of loan default. HFCL systems frequently present e-NACH mandates multiple times a month. When an account has insufficient balance, the destination bank deducts ₹250 to ₹500 plus GST, while HFCL levies additional internal bounce fees. Over several months, these charges accumulate into tens of thousands of rupees in unearned penalties.
+                Repeated auto-debit hits drain your bank account. HFCL systems present NACH mandates multiple times a month. Each failed debit adds bank fees and internal penalty charges. These fees can total thousands of rupees.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                Under NPCI guidelines and RBI Fair Lending Practice directives (2023), borrowers have the legal right to instruct their destination bank in writing or via digital banking to cancel or suspend the e-NACH mandate, immediately stopping recurring return fees. Furthermore, formal OTS negotiations require a complete 100% waiver of all accumulated bounce fees, late charges, and penal interest, calculating the settlement discount exclusively on the core outstanding principal.
+                Under NPCI rules and RBI guidelines, you can ask your bank to cancel the e-NACH mandate. This stops repeat fees right away. In your OTS talks, demand a 100% waiver of all bounce charges and penal interest.
               </p>
             </section>
 
@@ -639,7 +639,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Hero FinCorp One-Time Settlement (OTS)</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                Under RBI Master Directions (DOR.STR.REC.20/21.04.048/2023-24), Hero FinCorp evaluates settlement proposals using Net Present Value (NPV) recovery modeling. Because unsecured personal loans carry no physical collateral, HFCL compares an immediate lump-sum settlement against the uncertain, discounted future recovery of multi-year court litigation after deducting advocate fees and administrative costs.
+                Under RBI Master Directions (2023), Hero FinCorp reviews OTS offers using Net Present Value (NPV). Since personal loans have no security, HFCL prefers fast cash today over years of slow court battles.
               </p>
 
               {/* Formula Container Box */}
@@ -652,7 +652,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoveries, r is the discount rate, and deductions account for 3–5 years of court friction and capital locked in NPA provisions.
+                  Here C_t is expected recovery money, r is the discount rate, and deductions cover court costs and locked NPA funds.
                 </p>
               </div>
 
@@ -662,10 +662,10 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Facility Category</th>
-                      <th>Delinquency Aging</th>
-                      <th>Penal Waiver</th>
-                      <th>Principal Haircut</th>
+                      <th>Loan Type</th>
+                      <th>Overdue Time</th>
+                      <th>Fee Waiver</th>
+                      <th>Principal Discount</th>
                       <th>Target Offer</th>
                     </tr>
                   </thead>
@@ -745,7 +745,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <div className="bg-slate-100 border-t border-slate-200 py-2.5 px-5 flex flex-wrap items-center justify-between gap-3 text-xs text-slate-600">
                   <div className="flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    <span><strong>Key Strategy:</strong> Revoke NACH sweeps, halt agency harassment, and negotiate directly with Hero FinCorp SARB Desks for 40%–60% debt waivers.</span>
+                    <span><strong>Key Strategy:</strong> Revoke NACH sweeps. Stop agent harassment. Negotiate directly with Hero FinCorp SARB Desks for 40%–60% debt waivers.</span>
                   </div>
                   <Link href="/contact" className="text-[#1F5EFF] font-bold hover:underline">
                     Get Free Case Evaluation &rarr;
@@ -755,6 +755,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
             </section>
 
             {/* Section 6: Third-Party Recovery Defense & RBI Rules */}
+            {/* Section 6: Third-Party Recovery Defense & RBI Rules */}
             <section id="recovery-agent-rules-anti-harassment" className="scroll-mt-24 mb-10">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <ShieldAlert className="w-4 h-4" />
@@ -762,10 +763,10 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Defending Against Harassment Under RBI NBFC Directives</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                Hero FinCorp contracts third-party Debt Recovery Agencies (DRAs) whose agents operate on aggressive commission targets. Collection personnel often overstep regulatory boundaries through persistent calls, workplace visits, and unauthorized contact with family members. Under RBI Master Directions on Recovery Agents and NBFC Fair Practices Codes, agents are strictly limited to contacting borrowers between 08:00 AM and 07:00 PM, must carry official authorization cards, and are legally barred from contacting non-guarantor relatives or colleagues.
+                Hero FinCorp hires third-party recovery agencies. Agents often push hard to meet monthly targets. But RBI Master Directions set strict rules. Agents can only call between 8:00 AM and 7:00 PM. They cannot call your family or visit your workplace without consent.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                Borrowers facing harassment should preserve call logs, messaging records, and recordings. Serving a formal legal cease-and-desist notice on Hero FinCorp&apos;s Principal Nodal Officer (PNO) and escalating violations to the RBI Integrated Ombudsman portal (CMS) halts unlawful recovery conduct and shifts discussions to formal settlement channels.
+                Always save call logs, messages, and recordings. Send a legal notice to Hero FinCorp&apos;s Principal Nodal Officer (PNO). You can also complain to the RBI Ombudsman. This stops harassment and moves talks to an OTS.
               </p>
             </section>
 
@@ -777,7 +778,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Step-by-Step Guide to a Compromise Settlement with Hero</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                Achieving a legally secure One-Time Settlement with Hero FinCorp follows six structured milestones:
+                Follow these six simple steps to settle your Hero FinCorp loan:
               </p>
 
               <div className="space-y-4">
@@ -787,7 +788,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                     Hardship Dossier Compilation
                   </h3>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Compile verified records demonstrating involuntary financial distress—such as medical summaries, termination letters, or audited balance sheets—proving non-wilful default.
+                    Collect proof of your financial crisis. Gather salary cut slips, medical bills, or job loss letters. This proves non-wilful default under RBI rules.
                   </p>
                 </div>
 
@@ -797,7 +798,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                     NACH Revocation &amp; Formal Communication
                   </h3>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Instruct your bank to cancel automated NACH sweeps to eliminate return fees and direct all settlement communication strictly to written email records through legal counsel.
+                    Ask your bank to cancel automated NACH debits to stop bank charges. Direct all talks to written emails through your lawyer.
                   </p>
                 </div>
 
@@ -807,7 +808,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                     Direct SARB Petition Submission
                   </h3>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Submit a formal OTS petition directly to Hero FinCorp&apos;s Special Asset Resolution Branch (SARB) referencing RBI compromise guidelines with an opening offer of 25%–35% of dues.
+                    Send a formal OTS letter straight to Hero FinCorp&apos;s SARB team. Cite RBI compromise rules and start with an offer of 25% to 35% of dues.
                   </p>
                 </div>
 
@@ -817,7 +818,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                     Committee Approvals &amp; Counter-Offers
                   </h3>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Navigate credit risk committee reviews, demonstrating that settlement funds are sourced from family loans, to secure target 40% to 60% principal waivers.
+                    Handle counter-offers by showing limited family help. Guide the Credit Committee to agree to a 40% to 60% principal waiver.
                   </p>
                 </div>
 
@@ -827,7 +828,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                     Forensic Sanction Letter Audit
                   </h3>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Examine the settlement sanction letter on official Hero FinCorp letterhead to confirm account numbers, exact payment dates, and complete waiver clauses before transferring funds.
+                    Check the settlement letter on official Hero FinCorp letterhead. Confirm loan numbers, exact payment dates, and full waiver terms before paying.
                   </p>
                 </div>
 
@@ -837,7 +838,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                     Direct Payment &amp; ₹0 NDC Issuance
                   </h3>
                   <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
-                    Pay the agreed settlement sum directly into the designated HFCL loan account via RTGS/NEFT and secure the formal No Dues Certificate within 30 days under RBI mandates.
+                    Pay the agreed settlement amount directly to the HFCL loan account. Collect your official No Dues Certificate within 30 days under RBI rules.
                   </p>
                 </div>
               </div>
@@ -851,37 +852,37 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Navigating Hero Fincorp Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                When a loan reaches 60 to 90 days of default, Hero FinCorp routinely issues statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for bounced NACH debits, or notices initiating sole arbitration. A Section 25 notice is a statutory demand, not an arrest warrant. Replying within 15 days demonstrating financial hardship preserves legal rights and establishes groundwork for compromise.
+                After 60 to 90 days of default, Hero FinCorp may send Section 25 PSSA notices for bounced debits. They may also send arbitration notices. A Section 25 notice is not an arrest warrant. Replying within 15 days with hardship proof protects your rights and starts settlement talks.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                For arbitration notices, Supreme Court precedents (<em>Perkins Eastman</em>, <em>TRF Ltd.</em>) establish that unilateral appointments of sole arbitrators by lenders without mutual consent are legally invalid. Legal counsel can challenge the arbitrator&apos;s mandate under Sections 12 and 14 of the Arbitration Act. Furthermore, resolving matters during quarterly National Lok Adalats results in a binding Civil Court Decree with zero appealability, permanently dismissing all pending legal claims.
+                The Supreme Court in <em>Perkins Eastman</em> and <em>TRF Ltd</em> ruled that lenders cannot name sole arbitrators on their own. Your lawyer can challenge the arbitrator under Section 12 and Section 14 of the Arbitration Act. Settling your matter in National Lok Adalat gives you a final Civil Court Decree with zero appeal risk.
               </p>
 
               <div className="overflow-x-auto my-4">
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Resolution Avenue</th>
-                      <th>Legal Mechanism</th>
-                      <th>Haircut Range</th>
-                      <th>Timeline</th>
-                      <th>Judicial Finality</th>
+                      <th>Option</th>
+                      <th>Legal Path</th>
+                      <th>Waiver Range</th>
+                      <th>Time Needed</th>
+                      <th>Final Legal Status</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
                       <td className="font-bold text-slate-900">Direct NBFC OTS</td>
-                      <td>Compromise under RBI Master Directions.</td>
-                      <td><strong>40% – 60% Haircut</strong></td>
+                      <td>Settlement under RBI Master Directions.</td>
+                      <td><strong>40% – 60% Waiver</strong></td>
                       <td>15 to 30 Days</td>
-                      <td>Binding private contract with NDC.</td>
+                      <td>Private contract with ₹0 NDC.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">National Lok Adalat</td>
-                      <td>Judicial conciliation before sitting judge.</td>
-                      <td><strong>45% – 60% Haircut</strong></td>
-                      <td>Single-day session</td>
-                      <td><strong>Civil Court Decree</strong> (Non-appealable).</td>
+                      <td>Court hearing before a sitting judge.</td>
+                      <td><strong>45% – 60% Waiver</strong></td>
+                      <td>1-day session</td>
+                      <td><strong>Civil Court Decree</strong> (No appeal).</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">Arbitration Defense</td>
@@ -892,10 +893,10 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">Section 25 Defense</td>
-                      <td>Magistrate court compoundable defense.</td>
-                      <td><strong>35% – 50% Haircut</strong></td>
+                      <td>Court defense in compoundable mandate cases.</td>
+                      <td><strong>35% – 50% Waiver</strong></td>
                       <td>2 to 6 Months</td>
-                      <td>Case withdrawal on settlement.</td>
+                      <td>Case dropped on settlement.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -910,10 +911,10 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Authenticating Hero FinCorp Settlement Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                Verifying the authenticity of an OTS letter is vital to prevent fraud by unauthorized collection agents. Every authentic settlement letter must be printed on official Hero FinCorp Limited letterhead featuring the Corporate Identification Number (CIN: U74899DL1991PLC046774), registered New Delhi address, authorized signatory details, and unambiguous discharge covenants.
+                Always check your OTS letter before paying. The letter must come on official Hero FinCorp Limited letterhead. It must show CIN: U74899DL1991PLC046774, office address, officer details, and clear loan closure terms.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                Under RBI Circular RBI/2023-24/60, Hero FinCorp is statutorily required to deliver the final No Dues Certificate (NDC) and cancel all security mandates within 30 calendar days of payment, subject to mandatory compensation of ₹5,000 per day of delay payable to the borrower.
+                Under RBI Circular RBI/2023-24/60, Hero FinCorp must deliver your No Dues Certificate (NDC) within 30 days of full payment. If the lender delays, they must pay you ₹5,000 per day of delay.
               </p>
             </section>
 
@@ -925,10 +926,10 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Hero Fincorp Post-Settlement CIBIL Score Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                Following an OTS, Hero FinCorp updates credit bureaus with the status <strong>&apos;Settled&apos;</strong> and an outstanding balance of <strong>₹0</strong>. While credit scores drop by 75–150 points initially, this terminates active compounding default marks and eliminates ongoing litigation risk.
+                After an OTS, Hero FinCorp marks your loan as <strong>&apos;Settled&apos;</strong> with a <strong>₹0</strong> balance. Your score may drop by 75 to 150 points at first. But all default interest and legal risks stop for good.
               </p>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
-                Borrowers can systematically restore their credit score to 750+ within 18 to 24 months by securing a fixed-deposit-backed credit card, keeping credit utilization below 25%, and maintaining flawless on-time payment records on utility bills and surviving accounts.
+                You can rebuild your credit score back to 750+ within 18 to 24 months. Get a secured credit card backed by an FD. Keep credit usage below 25%. Pay all bills and active EMIs on time.
               </p>
             </section>
 
@@ -942,7 +943,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 Why Distressed Hero FinCorp Borrowers Trust SettleLoans
               </h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
-                SettleLoans provides comprehensive legal defense and financial advocacy for borrowers facing defaulted Hero FinCorp loans. Our banking advocates halt recovery agency harassment, respond to statutory Section 25 notices, and negotiate directly with SARB credit desks for maximum lawful haircuts and genuine ₹0 No Dues Certificates.
+                SettleLoans provides legal defense and debt relief for defaulted Hero FinCorp loans. Our advocates stop agent harassment, answer Section 25 notices, and negotiate directly with SARB credit desks for top debt waivers and ₹0 No Dues Certificates.
               </p>
 
               <div className="my-6">
@@ -1083,7 +1084,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-3">
-                Ashish has led 1,200+ successful debt compromise negotiations across Hero FinCorp, Bajaj Finance, and top private banks under RBI Master Directions.
+                Ashish has led 1,200+ loan settlements across Hero FinCorp, Bajaj Finance, and top banks under RBI Master Directions.
               </p>
               <div className="pt-2.5 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link href="/authors/ashish-jhangra" className="text-[#1F5EFF] hover:underline flex items-center gap-1">
@@ -1106,7 +1107,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 Facing Hero FinCorp Default?
               </div>
               <p className="text-xs text-white/90 leading-relaxed mb-4">
-                Halt recovery harassment and recurring NACH charges. Let our banking advocates draft your OTS petition and secure a stamped settlement letter.
+                Stop agent calls and repeat NACH bounce fees today. Let our banking advocates draft your OTS letter and get a stamped settlement deal.
               </p>
               <Link
                 href="/contact"
@@ -1125,19 +1126,19 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
               <ul className="space-y-2.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <Check className="w-3.5 h-3.5 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Direct SARB Access:</strong> Direct representation before Hero FinCorp credit desks.</span>
+                  <span><strong>Direct SARB Access:</strong> Direct talks with Hero FinCorp credit teams.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <Check className="w-3.5 h-3.5 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Anti-Harassment Shield:</strong> Immediate cease-and-desist notices under RBI rules.</span>
+                  <span><strong>Anti-Harassment Shield:</strong> Legal notices to stop illegal calls under RBI rules.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <Check className="w-3.5 h-3.5 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>100% Stamped Letters:</strong> Full verification on corporate letterhead prior to payment.</span>
+                  <span><strong>100% Stamped Letters:</strong> Full verification on company letterhead before you pay.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <Check className="w-3.5 h-3.5 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Guaranteed ₹0 NDC:</strong> Complete tracking until official No Dues Certificate delivery.</span>
+                  <span><strong>Guaranteed ₹0 NDC:</strong> Complete tracking until you get your No Dues Certificate.</span>
                 </li>
               </ul>
             </div>

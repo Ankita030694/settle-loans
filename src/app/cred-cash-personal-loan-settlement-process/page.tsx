@@ -179,7 +179,7 @@ const jsonLdGraph = {
             "name": "Rohan Deshmukh"
           },
           "datePublished": "2026-07-12",
-          "reviewBody": "I had availed a CRED Cash credit line of ₹8.5 Lakhs underwritten by IDFC FIRST Bank. Following a tech layoff in Bengaluru, I defaulted for 5 months. Third-party collection agencies started calling my professional references and sending WhatsApp threats. SettleLoans stepped in, issued immediate cease-and-desist notices under RBI Digital Lending Guidelines, and negotiated directly with IDFC FIRST Bank's Stressed Assets Cell. We finalized an authentic OTS sanction of ₹3.9 Lakhs with 100% penal fee waiver and received the ₹0 NDC within 25 days.",
+          "reviewBody": "I had a ₹8.5 Lakh CRED Cash loan from IDFC FIRST Bank. After losing my tech job in Bengaluru, I missed 5 EMIs. Recovery agents called my office contacts and sent threats on WhatsApp. SettleLoans stepped in right away. They sent legal notices under RBI Digital Lending rules. Then they spoke directly with the bank's stressed asset desk. They closed my loan for ₹3.9 Lakhs and waived all extra charges. I received my zero dues certificate in 25 days.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -194,7 +194,7 @@ const jsonLdGraph = {
             "name": "Ananya Sengupta"
           },
           "datePublished": "2026-08-04",
-          "reviewBody": "My CRED Cash facility underwritten by Newtap Finance accumulated over ₹65,000 in e-NACH bounce charges after my consulting business suffered severe cash-flow delays. The CRED app offered zero resolution options. SettleLoans revoked the electronic mandate at my bank, audited the ledger to eliminate all predatory penalties, and settled the account at a 54% discount with an official stamped sanction letter from Newtap.",
+          "reviewBody": "My Newtap Finance CRED Cash loan had ₹65,000 in bounce fees. My consulting business had slow cash flow. The CRED app gave no help or relief options. SettleLoans helped cancel my bank auto-debit. They removed all unfair penalties from the bill. They settled the whole loan at a 54% discount with an official letter from Newtap.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -209,7 +209,7 @@ const jsonLdGraph = {
             "name": "Karthik Ramanathan"
           },
           "datePublished": "2026-06-28",
-          "reviewBody": "Received a Section 25 PSSA legal demand notice from L&T Finance advocates regarding my ₹6 Lakh CRED Cash loan. SettleLoans provided immediate advocate representation, drafted a comprehensive legal reply evidencing genuine involuntary distress, and converted the adversarial legal action into a smooth National Lok Adalat settlement with a 50% principal waiver.",
+          "reviewBody": "I got a Section 25 PSSA notice from L&T Finance for my ₹6 Lakh CRED loan. SettleLoans gave me quick legal support. Their lawyers replied with proof of my financial issues. They moved my case to the National Lok Adalat. I settled the loan with a 50% waiver.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -224,7 +224,7 @@ const jsonLdGraph = {
             "name": "Varun Malhotra"
           },
           "datePublished": "2026-08-19",
-          "reviewBody": "Exceptional legal defense against aggressive recovery agents visiting my residential society. SettleLoans escalated the privacy violations to the Principal Nodal Officer of the underwriting partner bank and the RBI Ombudsman. The harassment ceased immediately, and we secured a formal compromise OTS on corporate letterhead.",
+          "reviewBody": "Recovery agents visited my home society and created trouble. SettleLoans stopped the harassment quickly. They reported the privacy breach to the bank's Principal Nodal Officer and RBI Ombudsman. The calls stopped at once. We got a formal compromise letter on official letterhead.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -243,7 +243,7 @@ const jsonLdGraph = {
           "name": "Can I settle a CRED Cash personal loan directly inside the CRED mobile app?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. CRED operates strictly as a Lending Service Provider (LSP). All compromise negotiations, principal haircuts, and sanction letters must be formally executed with the underlying Regulated Entity (such as IDFC FIRST Bank, Newtap Finance, or L&T Finance) holding the loan on its balance sheet."
+            "text": "No. CRED is only a digital loan platform (LSP). It does not lend its own funds. You must settle directly with the partner bank or NBFC. This includes lenders like IDFC FIRST Bank, Newtap Finance, or L&T Finance."
           }
         },
         {
@@ -251,7 +251,7 @@ const jsonLdGraph = {
           "name": "Who are the primary lending partners underwriting CRED Cash loans in India?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "CRED Cash credit facilities are underwritten by RBI-regulated entities, principally IDFC FIRST Bank, Newtap Finance (CRED's captive NBFC arm), L&T Finance, and KrazyBee Services. Your sanction letter and CIBIL report state your specific lender."
+            "text": "RBI-regulated lenders provide all CRED Cash loans. Main partners are IDFC FIRST Bank, Newtap Finance, L&T Finance, and KrazyBee Services. Your sanction letter and CIBIL report name your exact lender."
           }
         },
         {
@@ -259,7 +259,7 @@ const jsonLdGraph = {
           "name": "How can borrowers stop continuous e-NACH auto-debit bounce fees on CRED Cash defaults?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Submit a formal mandate cancellation request directly to your destination bank under NPCI guidelines and serve legal notice to the lender. In formal OTS negotiations, legal counsel demands a 100% waiver of all accumulated bounce charges under RBI Fair Lending Practice rules."
+            "text": "Ask your bank to cancel the e-NACH auto-debit mandate under NPCI rules. Send a written notice to the lender as well. During settlement talks, ask for a 100% waiver on bounce fees under RBI rules."
           }
         },
         {
@@ -267,7 +267,7 @@ const jsonLdGraph = {
           "name": "What percentage of debt waiver or haircut can be negotiated on a defaulted CRED Cash loan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Unsecured CRED Cash facilities overdue past 90 to 180 days (NPA/Doubtful Asset status) realistically qualify for a 40% to 60% principal waiver, along with 100% cancellation of accrued penal interest and late fees."
+            "text": "Loans overdue by more than 90 to 180 days can get a 40% to 60% principal waiver. Lenders also drop 100% of unpaid late fees and penal interest."
           }
         },
         {
@@ -275,7 +275,7 @@ const jsonLdGraph = {
           "name": "How do you defend against recovery agents calling workplace colleagues or visiting home for CRED Cash dues?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "RBI recovery directives strictly prohibit contacting employers, colleagues, or non-guarantor relatives, as well as off-hours calling. Serving a cease-and-desist notice to the lender's Principal Nodal Officer and escalating to the RBI Ombudsman halts violations immediately."
+            "text": "RBI rules bar agents from calling coworkers, friends, or family. Agents cannot call outside 8 AM to 7 PM. Send a cease-and-desist letter to the bank's Nodal Officer and complain to the RBI Ombudsman."
           }
         },
         {
@@ -283,7 +283,7 @@ const jsonLdGraph = {
           "name": "Can the partner bank file a police FIR or arrest me for defaulting on a CRED Cash loan?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Default on an unsecured digital personal loan is strictly a civil contractual dispute. Police have no jurisdiction to register an FIR or make an arrest for genuine economic hardship."
+            "text": "No. Default on an unsecured personal loan is a civil matter. The police cannot file an FIR or arrest you for loan defaults due to money problems."
           }
         },
         {
@@ -291,7 +291,7 @@ const jsonLdGraph = {
           "name": "What should you do upon receiving a Section 25 PSSA notice for a bounced CRED Cash payment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A Section 25 PSSA notice is a 15-day statutory demand notice. Engage legal counsel promptly to draft a comprehensive reply detailing involuntary hardship and open formal channels for an OTS compromise or Lok Adalat conciliation."
+            "text": "A Section 25 PSSA notice gives you 15 days to act. Hire an advocate to send a formal legal reply. State your genuine money hardship and request a mutual settlement or Lok Adalat session."
           }
         },
         {
@@ -299,7 +299,7 @@ const jsonLdGraph = {
           "name": "How does settling a CRED Cash loan impact your CIBIL score and credit history?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The lender updates credit bureaus with status 'Settled' and an outstanding balance of ₹0. While causing an initial temporary score dip, it ends compounding delinquency. Borrowers rebuild to 750+ within 18–24 months using secured FD credit cards."
+            "text": "The lender marks the loan as 'Settled' with a ₹0 balance. Your score drops at first. But you can rebuild your score past 750 in 18 to 24 months with a secured credit card."
           }
         },
         {
@@ -307,7 +307,7 @@ const jsonLdGraph = {
           "name": "How do you verify if a CRED Cash settlement sanction letter is genuine and authentic?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Verify that the letter is issued on official corporate letterhead of the underwriting partner bank/NBFC (not generic agency paper), showing corporate CIN, matching loan account number, sanctioned sum, payment schedule, and full liability release covenants."
+            "text": "Make sure the letter is on the official letterhead of the partner bank or NBFC. Check for company CIN, correct loan number, agreed settlement amount, payment dates, and full debt release terms."
           }
         },
         {
@@ -315,7 +315,7 @@ const jsonLdGraph = {
           "name": "What is the statutory timeline for receiving the No Dues Certificate (NDC) after settlement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, lenders must issue the formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of payment, subject to ₹5,000 per day statutory delay compensation."
+            "text": "Under RBI Circular RBI/2023-24/60, lenders must give you the No Dues Certificate within 30 days. They must also update credit bureaus. Late delays carry a penalty of ₹5,000 per day payable to you."
           }
         }
       ]
@@ -357,43 +357,43 @@ export default function CredCashPersonalLoanSettlementPage() {
   const faqs = [
     {
       question: "Can I settle a CRED Cash personal loan directly inside the CRED mobile app?",
-      answer: "No. CRED operates strictly as a Lending Service Provider (LSP). All compromise negotiations, principal haircuts, and sanction letters must be formally executed with the underlying Regulated Entity (such as IDFC FIRST Bank, Newtap Finance, or L&T Finance) holding the loan on its balance sheet."
+      answer: "No. CRED is only a digital loan platform (LSP). It does not lend its own funds. You must settle directly with the partner bank or NBFC. This includes lenders like IDFC FIRST Bank, Newtap Finance, or L&T Finance."
     },
     {
       question: "Who are the primary lending partners underwriting CRED Cash loans in India?",
-      answer: "CRED Cash credit facilities are underwritten by RBI-regulated entities, principally IDFC FIRST Bank, Newtap Finance (CRED's captive NBFC arm), L&T Finance, and KrazyBee Services. Your sanction letter and CIBIL report state your specific lender."
+      answer: "RBI-regulated lenders provide all CRED Cash loans. Main partners are IDFC FIRST Bank, Newtap Finance, L&T Finance, and KrazyBee Services. Your sanction letter and CIBIL report name your exact lender."
     },
     {
       question: "How can borrowers stop continuous e-NACH auto-debit bounce fees on CRED Cash defaults?",
-      answer: "Submit a formal mandate cancellation request directly to your destination bank under NPCI guidelines and serve legal notice to the lender. In formal OTS negotiations, legal counsel demands a 100% waiver of all accumulated bounce charges under RBI Fair Lending Practice rules."
+      answer: "Ask your bank to cancel the e-NACH auto-debit mandate under NPCI rules. Send a written notice to the lender as well. During settlement talks, ask for a 100% waiver on bounce fees under RBI rules."
     },
     {
       question: "What percentage of debt waiver or haircut can be negotiated on a defaulted CRED Cash loan?",
-      answer: "Unsecured CRED Cash facilities overdue past 90 to 180 days (NPA/Doubtful Asset status) realistically qualify for a 40% to 60% principal waiver, along with 100% cancellation of accrued penal interest and late fees."
+      answer: "Loans overdue by more than 90 to 180 days can get a 40% to 60% principal waiver. Lenders also drop 100% of unpaid late fees and penal interest."
     },
     {
       question: "How do you defend against recovery agents calling workplace colleagues or visiting home for CRED Cash dues?",
-      answer: "RBI recovery directives strictly prohibit contacting employers, colleagues, or non-guarantor relatives, as well as off-hours calling. Serving a cease-and-desist notice to the lender's Principal Nodal Officer and escalating to the RBI Ombudsman halts violations immediately."
+      answer: "RBI rules bar agents from calling coworkers, friends, or family. Agents cannot call outside 8 AM to 7 PM. Send a cease-and-desist letter to the bank's Nodal Officer and complain to the RBI Ombudsman."
     },
     {
       question: "Can the partner bank file a police FIR or arrest me for defaulting on a CRED Cash loan?",
-      answer: "No. Default on an unsecured digital personal loan is strictly a civil contractual dispute. Police have no jurisdiction to register an FIR or make an arrest for genuine economic hardship."
+      answer: "No. Default on an unsecured personal loan is a civil matter. The police cannot file an FIR or arrest you for loan defaults due to money problems."
     },
     {
       question: "What should you do upon receiving a Section 25 PSSA notice for a bounced CRED Cash payment?",
-      answer: "A Section 25 PSSA notice is a 15-day statutory demand notice. Engage legal counsel promptly to draft a comprehensive reply detailing involuntary hardship and open formal channels for an OTS compromise or Lok Adalat conciliation."
+      answer: "A Section 25 PSSA notice gives you 15 days to act. Hire an advocate to send a formal legal reply. State your genuine money hardship and request a mutual settlement or Lok Adalat session."
     },
     {
       question: "How does settling a CRED Cash loan impact your CIBIL score and credit history?",
-      answer: "The lender updates credit bureaus with status 'Settled' and an outstanding balance of ₹0. While causing an initial temporary score dip, it ends compounding delinquency. Borrowers rebuild to 750+ within 18–24 months using secured FD credit cards."
+      answer: "The lender marks the loan as 'Settled' with a ₹0 balance. Your score drops at first. But you can rebuild your score past 750 in 18 to 24 months with a secured credit card."
     },
     {
       question: "How do you verify if a CRED Cash settlement sanction letter is genuine and authentic?",
-      answer: "Verify that the letter is issued on official corporate letterhead of the underwriting partner bank/NBFC (not generic agency paper), showing corporate CIN, matching loan account number, sanctioned sum, payment schedule, and full liability release covenants."
+      answer: "Make sure the letter is on the official letterhead of the partner bank or NBFC. Check for company CIN, correct loan number, agreed settlement amount, payment dates, and full debt release terms."
     },
     {
       question: "What is the statutory timeline for receiving the No Dues Certificate (NDC) after settlement?",
-      answer: "Under RBI Circular RBI/2023-24/60, lenders must issue the formal No Dues Certificate (NDC) and update credit bureau records within 30 calendar days of payment, subject to ₹5,000 per day statutory delay compensation."
+      answer: "Under RBI Circular RBI/2023-24/60, lenders must give you the No Dues Certificate within 30 days. They must also update credit bureaus. Late delays carry a penalty of ₹5,000 per day payable to you."
     }
   ];
 
@@ -519,7 +519,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <span>CRED Cash Case Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                CRED acts solely as a front-end tech platform (LSP). Loan contracts and OTS approval powers reside strictly with partner lenders (IDFC FIRST Bank, Newtap Finance, L&T Finance). Direct legal negotiation unlocks 40%–60% principal waivers under RBI compromise rules.
+                CRED acts only as a loan app (LSP). It does not hold loans on its books. Your loan belongs to partner lenders like IDFC FIRST Bank, Newtap Finance, or L&amp;T Finance. Direct legal talks can get you a 40% to 60% principal cut under RBI rules.
               </p>
             </div>
           </aside>
@@ -536,23 +536,23 @@ export default function CredCashPersonalLoanSettlementPage() {
               <ul className="space-y-2.5 text-sm text-slate-700">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>LSP Tripartite Reality:</strong> CRED is not a balance-sheet lender. Settlements cannot be done in-app; negotiations must occur directly with underwriting partners (IDFC FIRST, Newtap, L&T Finance).</span>
+                  <span><strong>LSP Platform Setup:</strong> CRED is not a bank. You cannot settle in the app. You must talk directly to IDFC FIRST, Newtap, or L&amp;T Finance.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Stopping Compounding Penalties:</strong> Revoking e-NACH mandates under NPCI rules halts bank bounce fees. Legal defense eliminates 100% of accrued penal interest under RBI directives.</span>
+                  <span><strong>Stop Extra Fees:</strong> Cancel your e-NACH mandate at your bank to stop bounce charges. Legal steps remove 100% of penal interest under RBI rules.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Substantial 40%–60% Haircuts:</strong> Past 90 DPD (NPA status), lenders calculate Net Present Value recovery math and approve major debt waivers.</span>
+                  <span><strong>Big 40% to 60% Waivers:</strong> After 90 days of default (NPA), banks prefer quick cash settlement over slow court recovery.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Statutory Anti-Harassment Protections:</strong> RBI guidelines prohibit collection agents from contacting workplace colleagues, accessing contacts, or making off-hours calls.</span>
+                  <span><strong>RBI Anti-Harassment Rules:</strong> Agents cannot call your office coworkers, friends, or family. They cannot call before 8 AM or after 7 PM.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Guaranteed ₹0 NDC Delivery:</strong> Under RBI Circular RBI/2023-24/60, lenders must deliver a No Dues Certificate and update credit bureaus within 30 days of settlement payment.</span>
+                  <span><strong>Guaranteed ₹0 NDC Delivery:</strong> Under RBI Circular RBI/2023-24/60, lenders must give your No Dues Certificate within 30 days of full payment.</span>
                 </li>
               </ul>
             </div>
@@ -565,28 +565,28 @@ export default function CredCashPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Deconstructing CRED Cash</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                CRED Cash is marketed as an instant pre-approved personal credit line for prime borrowers with CIBIL scores above 750. However, CRED (Dreamplug Technologies Private Limited) does not originate loans on its own balance sheet. Under the RBI Digital Lending Guidelines (2022), CRED operates strictly as a Digital Lending App (DLA) and Lending Service Provider (LSP).
+                CRED Cash offers quick personal credit lines to borrowers with CIBIL scores over 750. But CRED does not lend its own money. Under RBI Digital Lending Guidelines (2022), CRED is only a digital loan agent (LSP).
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The actual capital is underwritten and disbursed by regulated financial institutions, primarily:
+                The actual funds come from regulated partner institutions:
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                <strong>1. IDFC FIRST Bank Limited:</strong> Originates high-value unsecured credit lines for salaried corporate professionals.
+                <strong>1. IDFC FIRST Bank Limited:</strong> Provides large personal loans to salaried corporate staff.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                <strong>2. Newtap Finance Private Limited:</strong> CRED&apos;s captive RBI-registered NBFC that holds a significant portion of revolving consumer credit lines.
+                <strong>2. Newtap Finance Private Limited:</strong> CRED&apos;s own NBFC unit that manages credit lines.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                <strong>3. L&amp;T Finance Limited &amp; Partner NBFCs:</strong> Institutional lenders (including KrazyBee Services and LiquiLoans) that co-underwrite diversified credit lines.
+                <strong>3. L&amp;T Finance Limited &amp; Partner NBFCs:</strong> Financial partners like KrazyBee Services and LiquiLoans that co-lend credit.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                During default, the CRED mobile application offers zero options for debt compromise or restructuring. Attempting to negotiate via in-app chatbots only yields standard payment demands. To achieve a binding One-Time Settlement (OTS) with substantial principal write-offs, borrowers must bypass the app interface and negotiate directly with the underwriting bank or NBFC holding the loan.
+                If you miss payments, the CRED app cannot help you settle. App chat systems only ask for full dues. To get a true One-Time Settlement (OTS) with deep fee cuts, you must speak directly to the actual lender.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
                 <div className="flex items-start gap-3">
                   <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                    <strong>Regulatory Principle:</strong> Under the RBI Master Direction on Compromise Settlements (2023), only the board-approved Stressed Asset Committee of the underwriting Regulated Entity can sanction loan waivers. In-app promises or recovery agent assertions carry no legal force.
+                    <strong>Regulatory Principle:</strong> Under the RBI Master Direction on Compromise Settlements (2023), only the bank&apos;s Stressed Asset Committee can approve waivers. Messages on the app have no legal value.
                   </div>
                 </div>
               </div>
@@ -600,7 +600,7 @@ export default function CredCashPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CRED Cash Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI IRACP norms and Ind AS 109 Expected Credit Loss frameworks, defaulted CRED Cash facilities move through clear delinquency stages. Early default triggers automated notifications, but once an account crosses 90 Days Past Due (DPD), it is classified as a Non-Performing Asset (NPA). Mandatory capital provisioning shifts the lender&apos;s goal from collection to loss recovery.
+                Defaulted CRED Cash loans move through set stages under RBI IRACP rules and Ind AS 109 norms. Early default brings automated alerts. Once overdue past 90 days, the loan becomes a Non-Performing Asset (NPA). At that point, the bank shifts from simple collection to loss recovery.
               </p>
 
               {/* Comprehensive Stage Table */}
@@ -619,44 +619,44 @@ export default function CredCashPersonalLoanSettlementPage() {
                     <tr>
                       <td className="font-bold text-slate-900">SMA-0 (Initial Default)</td>
                       <td>1 – 30 Days</td>
-                      <td>App alerts, automated IVR phone calls, daily e-NACH presentation attempts.</td>
-                      <td>Zero legal exposure; initial bureau 30-DPD flag recorded.</td>
-                      <td>Negligible (Full installment regularization demanded).</td>
+                      <td>App alerts, automated phone calls, and daily e-NACH debit tries.</td>
+                      <td>No legal action yet. Initial 30-DPD mark on credit file.</td>
+                      <td>Low. Bank asks for full EMI payment.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">SMA-1 (Mid Delinquency)</td>
                       <td>31 – 60 Days</td>
-                      <td>Assigned to external tele-calling agencies; intensive WhatsApp &amp; SMS outreach.</td>
-                      <td>Statutory cure notices issued; CIBIL score drops 50–90 points.</td>
-                      <td>Low (Tenure extension occasionally offered).</td>
+                      <td>Handed to call centers. Constant SMS and WhatsApp messages.</td>
+                      <td>Formal warning notices sent. CIBIL score drops 50 to 90 points.</td>
+                      <td>Low. Bank may offer small tenure changes.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">SMA-2 (Pre-NPA Escalation)</td>
                       <td>61 – 90 Days</td>
-                      <td>Field collection agency allocation; address verification initiated.</td>
-                      <td>Statutory 15-day demand notices under Section 25 PSSA.</td>
-                      <td>Moderate (Penal interest waiver negotiations start).</td>
+                      <td>Field recovery team assigned. Home and office visits planned.</td>
+                      <td>Legal 15-day demand notice under Section 25 PSSA.</td>
+                      <td>Medium. Discussions on penal interest waivers begin.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-amber-700">NPA (Substandard Asset)</td>
                       <td>91 – 180 Days</td>
-                      <td>Transferred to Zonal Stressed Assets Desk; mandatory 15%–25% capital provisioning.</td>
-                      <td>Magistrate Court summons under Sec 25 PSSA; Lok Adalat notices.</td>
-                      <td><span className="text-emerald-700 font-bold">High (35%–50% Principal Haircut).</span></td>
+                      <td>Moved to Stressed Assets team. Bank sets aside 15% to 25% capital.</td>
+                      <td>Court summons under Section 25 PSSA or Lok Adalat notices.</td>
+                      <td><span className="text-emerald-700 font-bold">High (35% to 50% Principal Haircut).</span></td>
                     </tr>
                     <tr>
                       <td className="font-bold text-red-700">Doubtful / Loss Asset</td>
                       <td>181 – 365+ Days</td>
-                      <td>Technical write-off under Ind AS 109; 50%–100% balance-sheet provisioning.</td>
-                      <td>Unilateral sole-arbitration notices; civil summary suits.</td>
-                      <td><span className="text-emerald-700 font-bold">Maximum (50%–60% Total Haircut).</span></td>
+                      <td>Technical write-off under Ind AS 109 rules. 50% to 100% loss booked.</td>
+                      <td>Arbitration notices and civil suits filed.</td>
+                      <td><span className="text-emerald-700 font-bold">Maximum (50% to 60% Total Haircut).</span></td>
                     </tr>
                   </tbody>
                 </table>
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                After 180 days of non-payment, the lender absorbs the accounting loss. A lump-sum compromise settlement provides an immediate net cash write-back to the institution&apos;s operating profit, justifying substantial principal haircuts.
+                After 180 days, the lender books the loss on its balance sheet. A single cash payment helps them recover money fast. This allows them to offer large principal cuts.
               </p>
             </section>
 
@@ -668,13 +668,13 @@ export default function CredCashPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Predatory e-NACH Presentations</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When a borrower defaults on CRED Cash, automated treasury systems repeatedly present the e-NACH mandate up to 4 times a month. Each dishonoured presentation triggers dual fees: your savings bank charges ₹250 to ₹500 plus GST for return charges, while the lender adds ₹500 to ₹1,000 plus GST in internal bounce penalties alongside compounding penal interest of 24%–36% per annum.
+                When you miss a CRED Cash EMI, automated systems present your e-NACH mandate up to 4 times a month. Each failed debit brings heavy double fees. Your bank charges ₹250 to ₹500 plus GST. The lender also adds ₹500 to ₹1,000 plus GST in bounce fines. Penal interest of 24% to 36% per year gets added on top.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under the RBI Fair Lending Practices directives (2023), lenders cannot capitalize penal charges. Borrowers can halt this cycle through two decisive steps:
+                Under RBI Fair Lending Practices rules (2023), lenders cannot add extra interest on penalty charges. You can stop these charges in two simple steps:
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                First, instruct your destination bank in writing or via net banking to cancel the e-NACH mandate linked to the CRED loan under NPCI guidelines. Second, during formal OTS negotiations, ensure legal counsel secures a 100% waiver of all accumulated bounce fees and penal interest, basing the settlement purely on the core principal balance.
+                First, tell your bank in writing or online to cancel the e-NACH mandate under NPCI rules. Second, during formal OTS talks, have your advocate demand a 100% waiver of all bounce fees and penal interest.
               </p>
             </section>
 
@@ -686,7 +686,7 @@ export default function CredCashPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Partner Bank OTS Haircut Valuation</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI compromise directives, partner lenders evaluate settlement proposals using Net Present Value (NPV) recovery algorithms. Because unsecured digital credit lines lack physical collateral, lenders mathematically compare an immediate cash settlement against the discounted future recoveries of multi-year civil litigation, legal fees, and ongoing NPA provisioning burdens.
+                Under RBI compromise rules, partner banks assess settlement offers using Net Present Value (NPV) recovery math. Personal credit lines have no physical collateral. So lenders compare quick settlement cash against long court battles, lawyer costs, and bad-loan provisioning loss.
               </p>
 
               {/* Formula Container Box */}
@@ -699,7 +699,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated future recoveries, r is the discount rate, and deductions account for 3–5 years of court delays, advocate retainers, and regulatory capital locked in NPA provisions.
+                  Here C_t is future money recovered and r is the discount rate. Deductions cover court delays, legal fees, and locked capital.
                 </p>
               </div>
 
@@ -801,7 +801,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <div className="bg-slate-100 border-t border-slate-200 py-3 px-5 flex flex-wrap items-center justify-between gap-3 text-xs text-slate-600">
                   <div className="flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    <span><strong>Core Strategy:</strong> Bypass the CRED app, halt third-party harassment, revoke e-NACH presentations, and settle directly with underwriting credit committees for 40%–60% debt waivers.</span>
+                    <span><strong>Core Strategy:</strong> Stop recovery harassment, cancel auto-debits, and settle directly with bank credit heads for 40% to 60% waivers.</span>
                   </div>
                   <Link href="/contact" className="text-[#1F5EFF] font-bold hover:underline">
                     Get Free Case Evaluation &rarr;
@@ -818,13 +818,13 @@ export default function CredCashPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Halting CRED Cash Harassment Under RBI Directives</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Because CRED Cash caters to prime corporate borrowers, outsourced collection agencies frequently deploy high-pressure tactics including calling workplace numbers, reaching out to colleagues on professional networks, and threatening residential visits.
+                Many collection agencies use harsh pressure tactics. They call your office phone, contact coworkers on social networks, and threaten home visits.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The RBI Master Directions on Recovery Agents and Digital Lending Guidelines strictly prohibit these practices: (a) Agents cannot contact employers, references, or non-guarantors; (b) Communication is permitted only between 08:00 AM and 07:00 PM; (c) Abusive language, intimidation, and impersonation of police officers are punishable regulatory violations.
+                RBI rules strictly ban these actions: (a) Agents cannot contact employers or references; (b) Calls are allowed only between 8:00 AM and 7:00 PM; (c) Threats, abuse, and fake police claims are strict regulatory offenses.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Serving a formal legal cease-and-desist notice to the lender&apos;s Principal Nodal Officer and filing a complaint on the RBI Integrated Ombudsman portal (CMS) triggers immediate compliance review and halts unlawful agency outreach.
+                Sending a legal cease-and-desist letter to the bank&apos;s Nodal Officer stops agency calls quickly. You can also file a complaint on the RBI Ombudsman portal (CMS).
               </p>
             </section>
 
@@ -836,7 +836,7 @@ export default function CredCashPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to CRED Cash Settlement</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Achieving an authorized settlement requires an organized, legally backed process:
+                Follow these clear legal steps to settle your CRED Cash loan safely:
               </p>
 
               <div className="space-y-6">
@@ -847,7 +847,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                     Identify the Underwriting Regulated Entity &amp; Loan Number
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Check your sanction letter or credit bureau report to confirm whether the loan is booked with IDFC FIRST Bank, Newtap Finance, or L&amp;T Finance, and record the 16-digit loan account number.
+                    Check your loan letter or credit report. Find whether your loan is with IDFC FIRST Bank, Newtap Finance, or L&amp;T Finance. Note down your loan account number.
                   </p>
                 </div>
 
@@ -858,7 +858,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                     Revoke e-NACH Mandates &amp; Formalize Communication
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Cancel auto-debit mandates at your bank to stop bounce penalties, and direct the lender in writing to route all communications through formal written channels or legal counsel.
+                    Stop auto-debit payments at your bank to avoid extra bounce fees. Inform the lender in writing to route all notices through your legal counsel.
                   </p>
                 </div>
 
@@ -869,7 +869,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                     Submit Formal Hardship Petition to Stressed Assets Desk
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Compile documented proof of genuine hardship (layoff letters, medical records, or business financial disruption) and submit an OTS petition directly to the partner institution&apos;s Stressed Asset Cell.
+                    Gather proof of hardship like job loss letters, salary cuts, or hospital bills. Send an OTS request directly to the partner bank&apos;s stressed asset desk.
                   </p>
                 </div>
 
@@ -880,7 +880,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                     Negotiate Committee-Level Principal Haircut
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Counter initial low-waiver offers with asset impairment proof and third-party hardship pooling, steering the Credit Committee toward the 40% to 60% principal waiver band.
+                    Reject initial low-discount offers with proof of low income. Negotiate directly with credit managers for a 40% to 60% principal waiver.
                   </p>
                 </div>
 
@@ -891,7 +891,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                     Forensic Verification of the OTS Sanction Letter
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Verify that the settlement sanction letter is on the partner bank/NBFC corporate letterhead, citing exact account numbers, settlement amounts, payment schedules, and complete liability discharge terms.
+                    Review the settlement letter carefully. Ensure it is on the partner bank&apos;s official letterhead with loan details, amount, due date, and debt release terms.
                   </p>
                 </div>
 
@@ -902,7 +902,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                     Direct Account Remittance &amp; Secure ₹0 NDC
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Pay the agreed amount directly into the partner loan account via RTGS/NEFT. Under RBI rules, the lender must deliver the No Dues Certificate and update credit bureaus within 30 days.
+                    Pay the agreed settlement amount directly to the bank via RTGS or NEFT. The lender must issue your No Dues Certificate within 30 days under RBI rules.
                   </p>
                 </div>
               </div>
@@ -916,13 +916,13 @@ export default function CredCashPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sec 25 PSSA &amp; Lok Adalat Defense for CRED Cash</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                After 60 to 90 days of default, lenders may issue 15-day statutory notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for dishonoured NACH debits, or invoke unilateral sole-arbitration in distant metro locations.
+                After 60 to 90 days of default, lenders may send 15-day statutory notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for bounced auto-debits. They may also start sole arbitration in distant cities.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                A Section 25 PSSA notice is a demand notice, not a warrant. Serving a timely legal reply detailing hardship protects legal standing and initiates conciliation. Meanwhile, unilateral arbitrator appointments can be challenged under Supreme Court precedents (<em>Perkins Eastman</em> / <em>TRF Ltd</em>) under Sections 12 &amp; 14 of the Arbitration Act, halting biased awards.
+                A Section 25 PSSA notice is only a demand notice, not a police warrant. A quick legal reply showing financial hardship keeps you safe and opens settlement talks. Under Supreme Court rulings in <em>Perkins Eastman</em> and <em>TRF Ltd</em>, unilateral arbitrator appointments are invalid under Sections 12 and 14 of the Arbitration Act.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Additionally, lenders frequently participate in National Lok Adalats under the Legal Services Authorities Act, 1987. Lok Adalat settlement awards hold the binding power of a final Civil Court Decree with zero rights of appeal.
+                Lenders also settle cases at the National Lok Adalat under the Legal Services Authorities Act, 1987. An award passed in Lok Adalat has the force of a final Civil Court Decree. No one can appeal it.
               </p>
 
               <div className="overflow-x-auto my-6">
@@ -939,31 +939,31 @@ export default function CredCashPersonalLoanSettlementPage() {
                   <tbody>
                     <tr>
                       <td className="font-bold text-slate-900">Direct Partner Bank OTS</td>
-                      <td>Compromise contract under RBI Master Directions.</td>
-                      <td><strong>40% – 60% Debt Haircut</strong></td>
+                      <td>Compromise pact under RBI Master Directions.</td>
+                      <td><strong>40% to 60% Debt Haircut</strong></td>
                       <td>15 to 30 Days</td>
-                      <td>Enforceable private agreement with ₹0 NDC.</td>
+                      <td>Private deal with ₹0 NDC.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">National Lok Adalat</td>
-                      <td>Judicial conciliation before sitting judge and bench.</td>
-                      <td><strong>45% – 60% Debt Haircut</strong></td>
+                      <td>Judicial talks before a sitting judge and bench.</td>
+                      <td><strong>45% to 60% Debt Haircut</strong></td>
                       <td>Single-day session</td>
-                      <td><strong>Civil Court Decree</strong> (Non-appealable).</td>
+                      <td><strong>Civil Court Decree</strong> (No appeals).</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">Arbitration Challenge</td>
-                      <td>Challenging unilateral sole-arbitrator appointment.</td>
-                      <td>Variable (Converts to OTS)</td>
+                      <td>Challenging unfair sole-arbitrator choice.</td>
+                      <td>Variable (Leads to OTS)</td>
                       <td>3 to 8 Months</td>
-                      <td>Halted under Perkins Eastman precedent.</td>
+                      <td>Stayed under Perkins Eastman rule.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">Section 25 PSSA Defense</td>
-                      <td>Magistrate court compoundable defense representation.</td>
-                      <td><strong>35% – 50% Debt Haircut</strong></td>
+                      <td>Magistrate court compoundable legal defense.</td>
+                      <td><strong>35% to 50% Debt Haircut</strong></td>
                       <td>2 to 6 Months</td>
-                      <td>Formal withdrawal upon OTS remittance.</td>
+                      <td>Case closed upon settlement payment.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -978,10 +978,10 @@ export default function CredCashPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating CRED Cash OTS Sanction Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Never pay against verbal offers or collection agency messages. An authentic OTS Sanction Letter must be on the underwriting institution&apos;s corporate letterhead (e.g., IDFC FIRST Bank, Newtap Finance, or L&amp;T Finance) containing CIN, registered address, exact loan number, approved settlement amount, and explicit covenants of complete liability release.
+                Never pay money based on phone calls or WhatsApp chats from recovery agents. An authentic OTS letter must come on the lender&apos;s official corporate letterhead (such as IDFC FIRST Bank, Newtap Finance, or L&amp;T Finance). It must list the company CIN, office address, exact loan number, agreed amount, and full debt release terms.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI Circular RBI/2023-24/60, the lender must issue the formal No Dues Certificate (NDC) and update credit bureaus within 30 calendar days of payment, or pay mandatory statutory compensation of ₹5,000 per day of delay directly to the borrower.
+                Under RBI Circular RBI/2023-24/60, the lender must issue the No Dues Certificate and update credit bureaus within 30 days. If they delay, they must pay you ₹5,000 for each day of delay.
               </p>
             </section>
 
@@ -993,10 +993,10 @@ export default function CredCashPersonalLoanSettlementPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery for CRED Cash</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Settling a CRED Cash loan results in bureaus reporting the status as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While causing an initial drop of 75 to 120 points, it permanently stops compounding default marks and legal exposure.
+                Settling your loan marks the account as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. This causes a short-term drop in your score. But it permanently stops ongoing default remarks and legal risks.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers can rebuild credit back to 750+ within 18 to 24 months by obtaining a secured fixed-deposit credit card (FD card), maintaining credit utilization below 25%, and maintaining flawless repayment records.
+                You can raise your score back above 750 in 18 to 24 months. Use a secured fixed-deposit credit card (FD card), keep card use below 25%, and make all payments on time.
               </p>
             </section>
 
@@ -1010,7 +1010,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 Why Distressed CRED Cash Borrowers Trust SettleLoans
               </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                SettleLoans halts recovery harassment through formal cease-and-desist notices, defends Section 25 PSSA summons, challenges unilateral arbitration, and negotiates directly with the Stressed Assets Desks of IDFC FIRST Bank, Newtap Finance, and L&amp;T Finance to secure maximum authorized debt waivers and authentic ₹0 No Dues Certificates.
+                SettleLoans stops collection harassment through legal notices. We handle Section 25 PSSA notices and challenge unfair arbitration. We negotiate directly with IDFC FIRST Bank, Newtap Finance, and L&amp;T Finance to secure large debt cuts and genuine No Dues Certificates.
               </p>
 
               {/* Placement of Reusable CompanySection */}
@@ -1213,7 +1213,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has spearheaded over 1,500+ successful retail and fintech debt compromise negotiations across IDFC FIRST Bank, Newtap Finance, L&amp;T Finance, Bajaj Finance, and HDFC Bank. He specializes in digital lending dispute resolution, Section 25 PSSA defense, and borrower rights advocacy under RBI regulations.
+                Ashish has led over 1,500 debt settlement cases across top lenders. He handles negotiations with IDFC FIRST Bank, Newtap Finance, L&amp;T Finance, and Bajaj Finance. He specializes in digital loan disputes, Section 25 PSSA legal replies, and borrower rights under RBI rules.
               </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
@@ -1243,7 +1243,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 Facing CRED Cash Loan Default?
               </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
-                Halt third-party recovery tele-calling and recurring e-NACH bounce penalties immediately. Let our senior banking advocates audit your loan ledger, defend against statutory legal notices, draft your formal OTS hardship petition, and secure an authentic stamped settlement letter directly from the underwriting partner bank.
+                Stop aggressive recovery calls and daily auto-debit bounce fees. Our banking advocates review your loan, reply to legal notices, submit your hardship petition, and secure an official settlement letter from your partner bank.
               </p>
               <Link
                 href="/contact"
@@ -1263,25 +1263,25 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Direct Institutional Negotiation:</strong> We bypass front-end digital apps and outsourced agencies to negotiate directly with the Stressed Assets Desks of underwriting banks and NBFCs.
+                    <strong>Direct Bank Talks:</strong> We bypass app bots and speak straight to the Stressed Assets team at your bank or NBFC.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Zero Tolerance Anti-Harassment:</strong> Prompt issuance of formal legal cease-and-desist notices to stop workplace calls and privacy violations under RBI rules.
+                    <strong>Zero Harassment:</strong> We send legal cease-and-desist notices to stop workplace calls under RBI rules.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>100% Stamped Verification:</strong> Every settlement is strictly verified on official corporate letterhead before any payment is authorized.
+                    <strong>Official Verification:</strong> We review all settlement letters on bank letterhead before you pay any money.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Guaranteed ₹0 NDC Delivery:</strong> End-to-end legal tracking until your formal No Dues Certificate is delivered and credit bureau records are updated.
+                    <strong>Guaranteed ₹0 NDC:</strong> We track your case until your No Dues Certificate arrives and credit bureaus update.
                   </span>
                 </li>
               </ul>

@@ -179,7 +179,7 @@ const jsonLdGraph = {
             "name": "Rahul Verma"
           },
           "datePublished": "2026-06-12",
-          "reviewBody": "I had an active Stashfin credit line of ₹2.8 Lakhs with Akara Capital that defaulted when my business revenue dropped. Collection callers were making 15 to 20 calls a day. SettleLoans stepped in immediately, served an anti-harassment cease-and-desist notice under RBI Digital Lending Guidelines, and negotiated directly with Akara Capital's stressed assets team. They closed my loan with an authentic stamped OTS letter for ₹1.15 Lakhs and delivered my ₹0 No Dues Certificate within 25 days.",
+          "reviewBody": "I had a Stashfin loan of ₹2.8 Lakhs with Akara Capital. My business hit a rough patch. Callers made 20 calls a day. SettleLoans stepped in fast. They sent a legal notice under RBI Digital Lending rules. They settled the loan for ₹1.15 Lakhs with an official OTS letter. I got my ₹0 NDC in 25 days.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -194,7 +194,7 @@ const jsonLdGraph = {
             "name": "Kavita Nair"
           },
           "datePublished": "2026-07-08",
-          "reviewBody": "My Stashfin personal loan of ₹1.9 Lakhs accumulated over ₹48,000 in late penalties and repeated NACH bounce fees after job loss. SettleLoans conducted a complete ledger audit, got 100% of the penalty fees waived under RBI Fair Lending rules, and negotiated a formal 56% principal reduction with direct remittance to Akara Capital.",
+          "reviewBody": "My Stashfin loan of ₹1.9 Lakhs had ₹48,000 in late fees after job loss. SettleLoans audited my file. They got 100% of penalty fees waived under RBI Fair Lending rules. They won a 56% principal cut. I paid Akara Capital directly.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -209,7 +209,7 @@ const jsonLdGraph = {
             "name": "Siddharth Malhotra"
           },
           "datePublished": "2026-05-19",
-          "reviewBody": "Received a Section 25 PSSA notice from Akara Capital's advocates in Delhi for a bounced auto-debit. SettleLoans drafted a thorough legal reply demonstrating bona fide commercial hardship and represented me through structured OTS negotiations. The matter was resolved for ₹95,000 against an inflated ledger demand of ₹2.4 Lakhs with all proceedings withdrawn.",
+          "reviewBody": "I got a Section 25 PSSA notice from Akara Capital for a bounced debit. SettleLoans sent a legal reply showing hardship. They settled the debt for ₹95,000 against a claim of ₹2.4 Lakhs. All court cases were closed.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -224,7 +224,7 @@ const jsonLdGraph = {
             "name": "Deepak Joshi"
           },
           "datePublished": "2026-08-04",
-          "reviewBody": "Exceptional legal defense against aggressive recovery tele-calling. SettleLoans escalated my complaint to the Akara Capital Principal Nodal Officer, enforced RBI collection guidelines, and helped me settle my Stashfin card facility with a 54% discount. Highly recommended.",
+          "reviewBody": "Great legal defense against collection callers. SettleLoans escalated the issue to the Akara Capital Nodal Officer. They enforced RBI rules. They helped me settle my Stashfin card with a 54% discount.",
           "reviewRating": {
             "@type": "Rating",
             "ratingValue": "5",
@@ -243,7 +243,7 @@ const jsonLdGraph = {
           "name": "What is the Stashfin loan settlement process and who is the NBFC lender?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Stashfin is the digital lending application interface powered by its RBI-registered NBFC parent, Akara Capital Advisors Private Limited. When an unsecured personal loan or card credit line crosses 90 days of default (NPA), borrowers can submit a formal hardship petition to Akara Capital's Stressed Assets Desk under RBI Master Directions on Compromise Settlements to secure an authorized 50% to 60% principal waiver."
+            "text": "Stashfin is a digital lending app. Its RBI-registered NBFC is Akara Capital Advisors Private Limited. When a loan passes 90 days default, it becomes an NPA. You can file for hardship with Akara Capital. Under RBI rules, you can get a 50% to 60% principal cut."
           }
         },
         {
@@ -251,7 +251,7 @@ const jsonLdGraph = {
           "name": "Can Stashfin or Akara Capital access my phone contacts or harass family members?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Under the RBI Digital Lending Guidelines (2022) and NBFC Fair Practices Code, digital lenders and recovery agents are strictly prohibited from accessing device contacts or reaching out to non-guarantor family members, friends, or employers. Violations warrant immediate cease-and-desist notices and escalation to the RBI Integrated Ombudsman portal."
+            "text": "No. Lenders cannot view your phone contacts under RBI Digital Lending rules (2022). Recovery agents cannot call family or your boss. Illegal calls lead to RBI Ombudsman complaints."
           }
         },
         {
@@ -259,7 +259,7 @@ const jsonLdGraph = {
           "name": "How can borrowers halt repeated Stashfin NACH auto-debit bounce fees?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Borrowers can instruct their bank in writing or online to cancel or suspend the e-NACH mandate under NPCI guidelines. Furthermore, legal counsel ensures a 100% waiver of all accumulated bounce fees and late penalties under RBI Fair Lending Practice rules during compromise settlement negotiations."
+            "text": "You can ask your bank to cancel the e-NACH mandate under NPCI rules. Lawyers secure a 100% waiver of penalty fees under RBI Fair Lending rules during OTS talks."
           }
         },
         {
@@ -267,7 +267,7 @@ const jsonLdGraph = {
           "name": "What percentage of debt waiver can you realistically negotiate with Akara Capital?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Borrowers typically secure 40% to 60% principal waivers on defaulted Stashfin credit lines and personal loans. Accounts overdue beyond 180 to 365 days (Doubtful or Loss Asset status) qualify for maximum principal haircuts alongside complete cancellation of all penal interest and bounce charges."
+            "text": "Borrowers often get 40% to 60% principal waivers on bad loans. Overdue loans past 180 days get top discounts. All penal fees are fully cancelled."
           }
         },
         {
@@ -275,7 +275,7 @@ const jsonLdGraph = {
           "name": "Can Stashfin or Akara Capital file a criminal police case or arrest a borrower?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. Unsecured loan default is strictly a civil breach of contract under the Indian Contract Act, 1872. Police authorities have zero jurisdiction to arrest or file criminal complaints for genuine loan default. Section 25 PSSA notices for bounced auto-debits are compoundable quasi-criminal matters routinely resolved through OTS."
+            "text": "No. Loan default is a civil dispute under the Indian Contract Act, 1872. The police cannot arrest you for debt default. Section 25 PSSA notices are settled via OTS."
           }
         },
         {
@@ -283,7 +283,7 @@ const jsonLdGraph = {
           "name": "What is a Section 25 PSSA legal notice from Akara Capital and how to respond?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A Section 25 PSSA notice is a statutory 15-day demand notice for a bounced NACH mandate, not an arrest warrant. Borrowers should promptly serve a formal legal reply demonstrating bona fide financial hardship, challenging unauthorized debit sweeps, and opening compromise settlement terms."
+            "text": "A Section 25 PSSA notice is a 15-day notice for a bounced debit. It is not an arrest warrant. A lawyer reply explains hardship and proposes an OTS."
           }
         },
         {
@@ -291,7 +291,7 @@ const jsonLdGraph = {
           "name": "How should borrowers handle unilateral arbitration notices from Akara Capital?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under Supreme Court precedents (Perkins Eastman and TRF Ltd.), unilateral arbitrator appointments by lenders without mutual consent are legally invalid. Legal counsel can challenge the arbitrator's jurisdiction under Section 12 and 14 of the Arbitration Act, redirecting the dispute to compromise channels."
+            "text": "Under Supreme Court rules, one-sided arbitrator choices are invalid. A lawyer can challenge the venue under Section 12 and 14 of the Arbitration Act."
           }
         },
         {
@@ -299,7 +299,7 @@ const jsonLdGraph = {
           "name": "Who within Akara Capital has the legal authority to sanction an OTS?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Third-party tele-callers and recovery agents have zero legal authority to sanction debt discounts. Valid OTS approvals must come directly from Akara Capital's Credit Committee or Stressed Assets Division via an official stamped sanction letter on corporate letterhead."
+            "text": "Recovery agents and callers cannot approve discounts. Valid OTS approvals come only from Akara Capital's Credit Committee. You must get a stamped sanction letter on letterhead."
           }
         },
         {
@@ -307,7 +307,7 @@ const jsonLdGraph = {
           "name": "How does settling a Stashfin loan impact your CIBIL score?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Akara Capital reports settled accounts to credit bureaus with status 'Settled' and a ₹0 balance. While this causes a temporary initial score drop, it permanently stops compounding default marks. Borrowers can restore credit scores to 750+ within 18 to 24 months through secured credit cards."
+            "text": "Akara Capital reports settled loans as 'Settled' with a ₹0 balance. This causes a short-term score drop but stops further default marks. You can rebuild your score past 750 in 18 to 24 months with a secured card."
           }
         },
         {
@@ -315,7 +315,7 @@ const jsonLdGraph = {
           "name": "How long does Akara Capital take to issue the No Dues Certificate (NDC)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Circular RBI/2023-24/60, Akara Capital is mandated to issue the No Dues Certificate and update credit bureaus within 30 calendar days of settlement payment, or pay statutory compensation of ₹5,000 per day of delay."
+            "text": "Under RBI Circular RBI/2023-24/60, Akara Capital must issue the No Dues Certificate in 30 days. Delays cost the bank ₹5,000 per day paid to you."
           }
         }
       ]
@@ -357,43 +357,43 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
   const faqs = [
     {
       question: "What is the Stashfin loan settlement process and who is the NBFC lender?",
-      answer: "Stashfin is the digital lending application interface powered by its RBI-registered NBFC parent, Akara Capital Advisors Private Limited. When an unsecured personal loan or card credit line crosses 90 days of default (NPA), borrowers can submit a formal hardship petition to Akara Capital's Stressed Assets Desk under RBI Master Directions on Compromise Settlements to secure an authorized 50% to 60% principal waiver."
+      answer: "Stashfin is a digital lending app. Its RBI-registered NBFC is Akara Capital Advisors Private Limited. When a loan passes 90 days default, it becomes an NPA. You can file for hardship with Akara Capital. Under RBI rules, you can get a 50% to 60% principal cut."
     },
     {
       question: "Can Stashfin or Akara Capital access my phone contacts or harass family members?",
-      answer: "No. Under the RBI Digital Lending Guidelines (2022) and NBFC Fair Practices Code, digital lenders and recovery agents are strictly prohibited from accessing device contacts or reaching out to non-guarantor family members, friends, or employers. Violations warrant immediate cease-and-desist notices and escalation to the RBI Integrated Ombudsman portal."
+      answer: "No. Lenders cannot view your phone contacts under RBI Digital Lending rules (2022). Recovery agents cannot call family or your boss. Illegal calls lead to RBI Ombudsman complaints."
     },
     {
       question: "How can borrowers halt repeated Stashfin NACH auto-debit bounce fees?",
-      answer: "Borrowers can instruct their bank in writing or online to cancel or suspend the e-NACH mandate under NPCI guidelines. Furthermore, legal counsel ensures a 100% waiver of all accumulated bounce fees and late penalties under RBI Fair Lending Practice rules during compromise settlement negotiations."
+      answer: "You can ask your bank to cancel the e-NACH mandate under NPCI rules. Lawyers secure a 100% waiver of penalty fees under RBI Fair Lending rules during OTS talks."
     },
     {
       question: "What percentage of debt waiver can you realistically negotiate with Akara Capital?",
-      answer: "Borrowers typically secure 40% to 60% principal waivers on defaulted Stashfin credit lines and personal loans. Accounts overdue beyond 180 to 365 days (Doubtful or Loss Asset status) qualify for maximum principal haircuts alongside complete cancellation of all penal interest and bounce charges."
+      answer: "Borrowers often get 40% to 60% principal waivers on bad loans. Overdue loans past 180 days get top discounts. All penal fees are fully cancelled."
     },
     {
       question: "Can Stashfin or Akara Capital file a criminal police case or arrest a borrower?",
-      answer: "No. Unsecured loan default is strictly a civil breach of contract under the Indian Contract Act, 1872. Police authorities have zero jurisdiction to arrest or file criminal complaints for genuine loan default. Section 25 PSSA notices for bounced auto-debits are compoundable quasi-criminal matters routinely resolved through OTS."
+      answer: "No. Loan default is a civil dispute under the Indian Contract Act, 1872. The police cannot arrest you for debt default. Section 25 PSSA notices are settled via OTS."
     },
     {
       question: "What is a Section 25 PSSA legal notice from Akara Capital and how to respond?",
-      answer: "A Section 25 PSSA notice is a statutory 15-day demand notice for a bounced NACH mandate, not an arrest warrant. Borrowers should promptly serve a formal legal reply demonstrating bona fide financial hardship, challenging unauthorized debit sweeps, and opening compromise settlement terms."
+      answer: "A Section 25 PSSA notice is a 15-day notice for a bounced debit. It is not an arrest warrant. A lawyer reply explains hardship and proposes an OTS."
     },
     {
       question: "How should borrowers handle unilateral arbitration notices from Akara Capital?",
-      answer: "Under Supreme Court precedents (Perkins Eastman and TRF Ltd.), unilateral arbitrator appointments by lenders without mutual consent are legally invalid. Legal counsel can challenge the arbitrator's jurisdiction under Section 12 and 14 of the Arbitration Act, redirecting the dispute to compromise channels."
+      answer: "Under Supreme Court rules, one-sided arbitrator choices are invalid. A lawyer can challenge the venue under Section 12 and 14 of the Arbitration Act."
     },
     {
       question: "Who within Akara Capital has the legal authority to sanction an OTS?",
-      answer: "Third-party tele-callers and recovery agents have zero legal authority to sanction debt discounts. Valid OTS approvals must come directly from Akara Capital's Credit Committee or Stressed Assets Division via an official stamped sanction letter on corporate letterhead."
+      answer: "Recovery agents and callers cannot approve discounts. Valid OTS approvals come only from Akara Capital's Credit Committee. You must get a stamped sanction letter on letterhead."
     },
     {
       question: "How does settling a Stashfin loan impact your CIBIL score?",
-      answer: "Akara Capital reports settled accounts to credit bureaus with status 'Settled' and a ₹0 balance. While this causes a temporary initial score drop, it permanently stops compounding default marks. Borrowers can restore credit scores to 750+ within 18 to 24 months through secured credit cards."
+      answer: "Akara Capital reports settled loans as 'Settled' with a ₹0 balance. This causes a short-term score drop but stops further default marks. You can rebuild your score past 750 in 18 to 24 months with a secured card."
     },
     {
       question: "How long does Akara Capital take to issue the No Dues Certificate (NDC)?",
-      answer: "Under RBI Circular RBI/2023-24/60, Akara Capital is mandated to issue the No Dues Certificate and update credit bureaus within 30 calendar days of settlement payment, or pay statutory compensation of ₹5,000 per day of delay."
+      answer: "Under RBI Circular RBI/2023-24/60, Akara Capital must issue the No Dues Certificate in 30 days. Delays cost the bank ₹5,000 per day paid to you."
     }
   ];
 
@@ -519,7 +519,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <span>Stashfin Quick Crux</span>
               </div>
               <p className="text-[11px] leading-relaxed text-blue-800">
-                Stashfin credit lines are underwritten by Akara Capital Advisors Private Limited (RBI NBFC). Defaults crossing 90 days enter NPA status. Direct legal escalation to Akara Capital Stressed Assets Committees bypasses agency harassment, eliminates penalty fees, and secures binding 50%–60% principal waivers with authentic ₹0 No Dues Certificates.
+                Stashfin credit lines run on Akara Capital Advisors Private Limited (an RBI NBFC). After 90 days of default, loans become NPAs. Our lawyers take your case straight to Akara Capital committees. We stop agent harassment, waive penalty fees. And win 50% to 60% principal cuts with an official ₹0 No Dues Certificate.
               </p>
             </div>
           </aside>
@@ -536,23 +536,23 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
               <ul className="space-y-2.5 text-sm text-slate-700">
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Statutory Compromise Rights:</strong> Stashfin is powered by Akara Capital Advisors Private Limited. Defaulting on a credit line is strictly a civil breach of contract under the Indian Contract Act, 1872, with statutory rights to a compromise OTS.</span>
+                  <span><strong>legal Compromise Rights:</strong> Stashfin runs under Akara Capital Advisors Private Limited. Default is a civil dispute under the Indian Contract Act, 1872. You have a legal right to request an OTS.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Halting e-NACH Bounce Fees:</strong> Borrowers can cancel or suspend automated NACH mandates at their destination bank under NPCI rules, demanding a 100% waiver of accumulated bounce penalties under RBI Fair Lending Practice rules.</span>
+                  <span><strong>Halting e-NACH Bounce Fees:</strong> You can stop NACH auto-debits at your bank under NPCI rules. You can also demand a 100% waiver of penalty fees under RBI Fair Lending rules.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Achievable 50%–60% Principal Haircut:</strong> Accounts entering Non-Performing Asset (NPA) or Doubtful Asset status past 90–180 DPD qualify for substantial principal debt waivers under Ind AS 109 balance-sheet provisioning.</span>
+                  <span><strong>50% to 60% Principal Haircut:</strong> Accounts in NPA or Doubtful status past 90 to 180 days qualify for large principal waivers under Ind AS 109 rules.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Defending Section 25 Notices &amp; Arbitration:</strong> Section 25 PSSA demand notices and unilateral sole arbitration appointments in New Delhi can be effectively contested and resolved through advocate-led conciliation and Lok Adalats.</span>
+                  <span><strong>Defending Section 25 Notices &amp. Arbitration:</strong> You can defend Section 25 PSSA notices and unfair single-sided arbitration through advocate replies and Lok Adalat.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
-                  <span><strong>Mandatory ₹0 NDC Guarantee:</strong> Under RBI Circular RBI/2023-24/60, Akara Capital must deliver an official stamped No Dues Certificate and update credit bureaus within 30 days of settlement payment.</span>
+                  <span><strong>Mandatory ₹0 NDC Guarantee:</strong> Under RBI Circular RBI/2023-24/60, Akara Capital must issue a stamped ₹0 No Dues Certificate within 30 days of payment.</span>
                 </li>
               </ul>
             </div>
@@ -565,16 +565,16 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding Stashfin&apos;s Credit Architecture</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Stashfin offers revolving credit lines, instant personal loans, and prepaid card-linked credit facilities. While consumers interact with the Stashfin app interface, the underlying credit facility, underwriting capital, and lending licenses are owned and operated by its RBI-registered Non-Banking Financial Company (NBFC), <strong>Akara Capital Advisors Private Limited</strong> (CIN: U67190DL2016PTC291583).
+                Stashfin offers credit lines, instant cash loans. And card credit. The app is just an interface. The actual lender is its RBI-registered NBFC, <strong>Akara Capital Advisors Private Limited</strong> (CIN: U67190DL2016PTC291583).
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When an EMI or minimum monthly payment is missed, automated systems apply recurring late fees, bounce charges of ₹500 to ₹1,000 plus GST, and penal interest rates compounding at 28% to 36% APR. Distressed borrowers must remember that unsecured fintech loan default is strictly a civil breach of contract under the Indian Contract Act, 1872. Under Reserve Bank of India Master Directions on Compromise Settlements, borrowers possess clear statutory rights to halt aggressive recovery tactics and negotiate a formal One-Time Settlement directly with Akara Capital.
+                If you miss an EMI, systems add late fees, bounce charges of ₹500 to ₹1,000. And high interest. But loan default is strictly a civil dispute under the Indian Contract Act, 1872. Under RBI compromise rules, you have the right to stop collection pressure and negotiate a formal OTS directly with Akara Capital.
               </p>
               <div className="bg-amber-50 border-l-4 border-amber-500 p-5 rounded-r-xl my-6">
                 <div className="flex items-start gap-3">
                   <AlertCircle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                   <div className="text-xs sm:text-sm text-amber-900 leading-relaxed">
-                    <strong>Regulatory Principle:</strong> Under the Reserve Bank of India Master Direction on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), regulated NBFCs must maintain board-approved compromise policies to resolve non-performing retail loans fairly.
+                    <strong>Regulatory Principle:</strong> Under RBI Master Directions on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), NBFCs must have board-approved policies to settle bad loans fairly.
                   </div>
                 </div>
               </div>
@@ -588,7 +588,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stashfin Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI Prudential Norms and Ind AS 109 Expected Credit Loss (ECL) frameworks, Akara Capital tracks defaulted Stashfin loan accounts across structured Days Past Due (DPD) buckets. Timing your settlement proposal to align with balance-sheet provisioning milestones is critical for maximizing debt waivers.
+                Under RBI rules and Ind AS 109, Akara Capital tracks default across DPD buckets. Timing your settlement with these stages helps you get the highest discount.
               </p>
 
               {/* Comprehensive Delinquency Stage Table */}
@@ -596,47 +596,47 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Delinquency Stage</th>
-                      <th>Overdue Days (DPD)</th>
-                      <th>Stashfin / Akara Capital Actions</th>
-                      <th>Legal Notice Exposure</th>
-                      <th>Settlement Haircut Potential</th>
+                      <th>default Stage.</th>
+                      <th>Overdue Days (DPD).</th>
+                      <th>Stashfin / Akara Capital Actions.</th>
+                      <th>Legal Notice Exposure.</th>
+                      <th>Settlement Haircut Potential.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-0 (Early Overdue)</td>
-                      <td>1 – 30 Days</td>
-                      <td>Automated IVR calls, SMS reminders, daily NACH debit presentations.</td>
-                      <td>Payment reminders; initial bureau DPD tracking.</td>
+                      <td className="font-bold text-slate-900">SMA-0 (Early Overdue).</td>
+                      <td>1 – 30 Days.</td>
+                      <td>Auto IVR calls, SMS alerts. And daily NACH presentation.</td>
+                      <td>Payment reminders and initial bureau tracking.</td>
                       <td>Zero (Full overdue payment required).</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-1 (Mid Delinquency)</td>
-                      <td>31 – 60 Days</td>
-                      <td>Outsourced tele-calling, digital demand warnings.</td>
-                      <td>Legal warning notices via email and WhatsApp.</td>
-                      <td>Low (Tenure extensions or partial fee relief).</td>
+                      <td className="font-bold text-slate-900">SMA-1 (Mid default).</td>
+                      <td>31 – 60 Days.</td>
+                      <td>Collection agency calls and digital demand alerts.</td>
+                      <td>Warning notices via email and WhatsApp.</td>
+                      <td>Low (Tenure changes or small fee relief).</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">SMA-2 (Pre-NPA Escalation)</td>
-                      <td>61 – 90 Days</td>
-                      <td>Field agency assignment, final loan recall notices.</td>
-                      <td>Section 25 PSSA statutory demand notices issued.</td>
+                      <td className="font-bold text-slate-900">SMA-2 (Pre-NPA Escalation).</td>
+                      <td>61 – 90 Days.</td>
+                      <td>Field visits and final loan recall notices.</td>
+                      <td>Section 25 PSSA legal demand notices sent.</td>
                       <td>Moderate (Penal fee waivers open for discussion).</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-amber-700">NPA (Substandard Asset)</td>
-                      <td>91 – 180 Days</td>
-                      <td>Transferred to Stressed Assets Desk; mandatory Ind AS 109 provisioning.</td>
+                      <td className="font-bold text-amber-700">NPA (Substandard Asset).</td>
+                      <td>91 – 180 Days.</td>
+                      <td>Case moves to Stressed Assets Desk under Ind AS 109.</td>
                       <td>Magistrate Court summons under Sec 25 PSSA.</td>
                       <td><span className="text-emerald-700 font-bold">High (40%–50% Principal Haircut).</span></td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-red-700">Doubtful / Loss Asset</td>
-                      <td>181 – 365+ Days</td>
-                      <td>Full provisioning absorbed; internal technical write-off evaluation.</td>
-                      <td>Arbitration notices; National Lok Adalat referrals.</td>
+                      <td className="font-bold text-red-700">Doubtful / Loss Asset.</td>
+                      <td>181 – 365+ Days.</td>
+                      <td>Full loss provisioned with internal technical write-off.</td>
+                      <td>Arbitration notices and Lok Adalat referrals.</td>
                       <td><span className="text-emerald-700 font-bold">Maximum (50%–60% Principal Haircut).</span></td>
                     </tr>
                   </tbody>
@@ -644,7 +644,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
               </div>
 
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Once an account crosses 180 DPD and reaches technical write-off, Akara Capital has absorbed the loss on its balance sheet. A lump-sum compromise settlement provides immediate provision write-back to operating profits, enabling Credit Committees to sanction deep 50% to 60% principal waivers.
+                When an account crosses 180 DPD, Akara Capital writes it off internally. A one-time cash settlement lets the bank recover money quickly. This allows the Credit Committee to grant 50% to 60% principal cuts.
               </p>
             </section>
 
@@ -656,10 +656,10 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Stop Stashfin NACH Bounce Penalties</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                When auto-debit requests fail, destination banks deduct ₹250 to ₹500 plus GST per return, while Stashfin adds internal bounce fees of ₹500 to ₹1,000 plus GST. Over several months, these repeated presentations unnecessarily drain bank balances. Under RBI Fair Lending Practice rules (2023), lenders are strictly barred from capitalizing penalty charges or compounding default interest.
+                When auto-debits bounce, banks charge ₹250 to ₹500, and Stashfin adds ₹500 to ₹1,000. These fees add up fast. Under RBI Fair Lending Practice rules (2023), lenders cannot add penalty fees to principal or compound them.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under NPCI guidelines, borrowers can instruct their destination bank in writing or online to cancel or suspend the e-NACH mandate registered by Akara Capital. During OTS negotiations, legal counsel demands an absolute 100% cancellation of all accrued late fees, calculating the settlement discount exclusively on the core outstanding principal.
+                You can instruct your bank to stop the e-NACH mandate under NPCI rules. During settlement talks, lawyers secure a 100% waiver of all late fees and calculate cuts only on core principal.
               </p>
             </section>
 
@@ -671,7 +671,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Akara Capital One-Time Settlement (OTS) Policies</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI compromise directives, Akara Capital evaluates settlement proposals using a mathematical Net Present Value (NPV) recovery valuation model. Because Stashfin loans are unsecured with no physical collateral, the NBFC weighs an immediate cash settlement against the delayed, uncertain cash flow of civil litigation over a 3 to 5 year horizon.
+                Under RBI rules, Akara Capital uses Net Present Value (NPV) to evaluate settlements. Since Stashfin loans are unsecured, the lender prefers fast cash over years of slow court action.
               </p>
 
               {/* Formula Container Box */}
@@ -684,7 +684,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                   NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Litigation Costs - Provisioning Burden
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated recoveries, r is the discount rate, and deductions reflect advocate expenses, magistrate court filing costs, and non-accrual provisioning capital.
+                  Here C_t is the cash recovered over time. The letter r is the discount rate. Deductions remove legal costs and bad debt provisions.
                 </p>
               </div>
 
@@ -694,41 +694,41 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Stashfin Facility Type</th>
-                      <th>Aging Bracket</th>
-                      <th>Penal &amp; Bounce Waiver</th>
-                      <th>Principal Haircut Range</th>
-                      <th>Target Settlement Offer</th>
+                      <th>Stashfin Facility Type.</th>
+                      <th>Aging Bracket.</th>
+                      <th>Penal &amp. Bounce Waiver.</th>
+                      <th>Principal Haircut Range.</th>
+                      <th>Target Settlement Offer.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Revolving Card Credit Line</td>
-                      <td>90 – 180 Days (NPA)</td>
-                      <td>100% Full Waiver</td>
-                      <td>35% – 45% Principal Waiver</td>
-                      <td>Offer 40%–50% of Core Principal</td>
+                      <td className="font-bold text-slate-900">Revolving Card Credit Line.</td>
+                      <td>90 – 180 Days (NPA).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>35% – 45% Principal Waiver.</td>
+                      <td>Offer 40%–50% of Core Principal.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Revolving Card Credit Line</td>
-                      <td>181 – 365+ Days (Doubtful)</td>
-                      <td>100% Full Waiver</td>
-                      <td>50% – 60% Principal Waiver</td>
-                      <td>Offer 35%–40% of Core Principal</td>
+                      <td className="font-bold text-slate-900">Revolving Card Credit Line.</td>
+                      <td>181 – 365+ Days (Doubtful).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>50% – 60% Principal Waiver.</td>
+                      <td>Offer 35%–40% of Core Principal.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Personal Term Loan</td>
-                      <td>90 – 180 Days (NPA)</td>
-                      <td>100% Full Waiver</td>
-                      <td>30% – 45% Principal Waiver</td>
-                      <td>Offer 45%–55% of Principal Balance</td>
+                      <td className="font-bold text-slate-900">Personal Term Loan.</td>
+                      <td>90 – 180 Days (NPA).</td>
+                      <td>100% Full Waiver.</td>
+                      <td>30% – 45% Principal Waiver.</td>
+                      <td>Offer 45%–55% of Principal Balance.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Personal Term Loan</td>
-                      <td>181+ Days (Written Off)</td>
-                      <td>100% All Penal Charges</td>
-                      <td>50% – 65% Principal Waiver</td>
-                      <td>Offer 30%–35% of Total Claim</td>
+                      <td className="font-bold text-slate-900">Personal Term Loan.</td>
+                      <td>181+ Days (Written Off).</td>
+                      <td>100% All Penal Charges.</td>
+                      <td>50% – 65% Principal Waiver.</td>
+                      <td>Offer 30%–35% of Total Claim.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -779,7 +779,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <div className="bg-slate-100 border-t border-slate-200 py-3 px-5 flex flex-wrap items-center justify-between gap-3 text-xs text-slate-600">
                   <div className="flex items-center gap-2">
                     <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                    <span><strong>Key Action:</strong> Revoke NACH auto-debits, stop recovery harassment under RBI rules, and negotiate directly with Akara Capital for 50%–60% debt waivers.</span>
+                    <span><strong>Key Action:</strong> Revoke NACH auto-debits. Stop collection pressure under RBI rules. Settle directly with Akara Capital for 50% to 60% debt waivers.</span>
                   </div>
                   <Link href="/contact" className="text-[#1F5EFF] font-bold hover:underline">
                     Get Free Case Evaluation &rarr;
@@ -796,10 +796,10 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Harassment Under RBI Digital Lending Rules</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                The RBI Guidelines on Digital Lending (RBI/2022-23/111) and NBFC Fair Practices Code establish clear statutory protections: (a) Agents can only contact borrowers between 08:00 AM and 07:00 PM; (b) Accessing mobile contacts, photo galleries, or device storage is illegal; (c) Calling non-guarantor relatives, friends, or employers is strictly prohibited; (d) Intimidation, verbal abuse, or workplace disruption is unlawful.
+                Under RBI Digital Lending Rules (RBI/2022-23/111) and NBFC Fair Practices Code, borrowers have clear protections: (a) Agents may only call between 8 AM and 7 PM. (b) Accessing your phone contacts or photos is illegal. (c) Calling non-guarantor family or your boss is barred. (d) Abusive language or visits to your workplace are unlawful.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers facing recovery harassment should preserve call recordings and WhatsApp transcripts. Serving a formal cease-and-desist notice to Akara Capital&apos;s Principal Nodal Officer (PNO) and escalating to the RBI Integrated Ombudsman portal (CMS) halts unlawful collection conduct immediately.
+                Save all call recordings and WhatsApp chats. Send a legal notice to Akara Capital&apos;s Principal Nodal Officer (PNO) and report violations on the RBI CMS portal to stop harassment fast.
               </p>
             </section>
 
@@ -811,7 +811,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Stashfin Settlement Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                Achieving a maximum-discount One-Time Settlement with Akara Capital requires an evidence-based roadmap:
+                Follow these six steps to settle your Stashfin loan with Akara Capital:
               </p>
 
               <div className="space-y-6">
@@ -822,7 +822,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                     Hardship Dossier Compilation
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Assemble documentary proof of genuine financial distress, including job termination letters, salary cuts, medical discharge summaries, or business loss statements to establish non-wilful default under RBI rules.
+                    Gather proof of financial loss. Collect medical bills, job layoff letters, or business loss records to prove non-wilful default.
                   </p>
                 </div>
 
@@ -833,7 +833,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                     NACH Revocation &amp; Formal Communications
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Instruct your bank to suspend the e-NACH auto-debit mandate to stop return charges. Direct all collection correspondence to designated legal counsel or verified email channels to create an evidentiary audit trail.
+                    Ask your bank to stop the e-NACH auto-debit mandate to avoid bounce fees. Route all calls to your lawyer to keep a clean record.
                   </p>
                 </div>
 
@@ -844,7 +844,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                     Submitting Hardship Petition to Stressed Assets Desk
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Submit a structured compromise petition to Akara Capital&apos;s Stressed Assets Committee citing RBI Master Directions, anchoring the opening proposal at 25% to 30% of total book dues.
+                    Send a formal hardship petition to Akara Capital&apos;s Stressed Assets team. Start your opening offer at 25% to 30% of total dues.
                   </p>
                 </div>
 
@@ -855,7 +855,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                     Structured Counter-Negotiations &amp; Committee Approval
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Counter initial minor discount offers by proving that funds are pooled from external family assistance, steering the Credit Committee toward the target 50% to 60% principal waiver band.
+                    Counter low discount offers by showing proof of limited funds. Guide the committee toward a 50% to 60% principal waiver.
                   </p>
                 </div>
 
@@ -866,7 +866,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                     Forensic Audit of the Stamped OTS Sanction Letter
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Verify that Akara Capital issues an official sanction letter on corporate letterhead with loan account details, sanctioned settlement amount, payment deadlines, and full debt discharge covenants.
+                    Check that Akara Capital issues an official sanction letter on company letterhead with full waiver terms and payment dates.
                   </p>
                 </div>
 
@@ -877,7 +877,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                     Direct Remittance &amp; ₹0 NDC Delivery
                   </h3>
                   <p className="text-slate-600 text-sm md:text-base leading-relaxed">
-                    Remit the agreed sum directly into your designated Akara Capital loan account via RTGS/NEFT. Under RBI Circular RBI/2023-24/60, the NBFC must deliver the No Dues Certificate within 30 calendar days.
+                    Pay the agreed sum directly to your Akara Capital loan account via RTGS or NEFT. Under RBI Circular RBI/2023-24/60, get your ₹0 No Dues Certificate within 30 days.
                   </p>
                 </div>
               </div>
@@ -891,50 +891,50 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Stashfin Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Section 25 PSSA demand notices for bounced NACH debits are statutory precursors to Magistrate Court complaints, not arrest warrants. Responding through counsel within 15 days detailing financial hardship protects your legal standing and facilitates compromise discussions.
+                A Section 25 PSSA notice for a bounced debit is a formal legal step before court cases. It is not an arrest warrant. A lawyer reply within 15 days explains your hardship and opens settlement talks.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under landmark Supreme Court rulings (<em>Perkins Eastman</em> and <em>TRF Ltd.</em>), unilateral arbitrator appointments by lenders without mutual consent are invalid and can be challenged under Section 12 and 14 of the Arbitration Act. Furthermore, National Lok Adalats offer pre-approved settlement mandates (50% to 60% haircuts) with the binding power of a Civil Court Decree.
+                Under Supreme Court rulings (<em>Perkins Eastman</em> and <em>TRF Ltd.</em>), single-sided arbitrator appointments are invalid. You can challenge them under Section 12 and 14 of the Arbitration Act. National Lok Adalats also grant 50% to 60% haircuts with the power of a Civil Court Decree.
               </p>
 
               <div className="overflow-x-auto my-6">
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Resolution Avenue</th>
-                      <th>Legal Mechanism</th>
-                      <th>Haircut Potential</th>
-                      <th>Typical Timeline</th>
-                      <th>Judicial Finality</th>
+                      <th>Resolution Avenue.</th>
+                      <th>Legal Mechanism.</th>
+                      <th>Haircut Potential.</th>
+                      <th>Typical Timeline.</th>
+                      <th>Judicial Finality.</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Direct Akara Capital OTS</td>
-                      <td>Compromise agreement under RBI Master Directions.</td>
+                      <td className="font-bold text-slate-900">Direct Akara Capital OTS.</td>
+                      <td>Compromise terms under RBI Master Directions.</td>
                       <td><strong>45% – 60% Debt Haircut</strong></td>
-                      <td>15 to 30 Days</td>
+                      <td>15 to 30 Days.</td>
                       <td>Binding private contract with ₹0 NDC.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">National Lok Adalat</td>
-                      <td>Judicial conciliation before sitting judge and panel.</td>
+                      <td className="font-bold text-slate-900">National Lok Adalat.</td>
+                      <td>Judicial bench settlement before a judge.</td>
                       <td><strong>50% – 60% Debt Haircut</strong></td>
-                      <td>Single-day session</td>
+                      <td>Single-day session.</td>
                       <td><strong>Civil Court Decree</strong> (Zero appeal).</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Arbitration Defense</td>
-                      <td>Contesting unilateral arbitration in distant venues.</td>
-                      <td>Variable (Converts to OTS)</td>
-                      <td>3 to 9 Months</td>
+                      <td className="font-bold text-slate-900">Arbitration Defense.</td>
+                      <td>Contesting single-sided arbitration venues.</td>
+                      <td>Variable (Converts to OTS).</td>
+                      <td>3 to 9 Months.</td>
                       <td>Subject to Section 34 challenge.</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Section 25 PSSA Defense</td>
-                      <td>Magistrate court compoundable proceedings defense.</td>
+                      <td className="font-bold text-slate-900">Section 25 PSSA Defense.</td>
+                      <td>Magistrate court compoundable case defense.</td>
                       <td><strong>40% – 55% Debt Haircut</strong></td>
-                      <td>2 to 6 Months</td>
+                      <td>2 to 6 Months.</td>
                       <td>Formal withdrawal and case disposal.</td>
                     </tr>
                   </tbody>
@@ -950,10 +950,10 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating Stashfin Settlement Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Never transfer funds against verbal promises or unverified collection agent emails. Always ensure the OTS sanction letter is on official Akara Capital Advisors Private Limited letterhead containing its CIN (U67190DL2016PTC291583), registered office address, proposal reference number, and authorized signatory details.
+                Never pay on oral promises or WhatsApp messages. Ensure the OTS letter is on Akara Capital Advisors Private Limited letterhead. It must show its CIN (U67190DL2016PTC291583), registered office. And authorized signature.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI Circular RBI/2023-24/60, Akara Capital is legally mandated to deliver the No Dues Certificate (NDC) and update credit bureaus within 30 calendar days of payment, subject to a statutory delay penalty of ₹5,000 per day.
+                Under RBI Circular RBI/2023-24/60, Akara Capital must issue your ₹0 No Dues Certificate within 30 days of payment. Any delay costs the NBFC ₹5,000 per day paid to you.
               </p>
             </section>
 
@@ -965,10 +965,10 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stashfin Post-Settlement CIBIL Score Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Settling a Stashfin loan updates credit bureau records to <strong>&apos;Settled&apos;</strong> with a <strong>₹0 balance</strong>. While this brings an initial score drop of 70 to 130 points, it halts compounding monthly defaults.
+                Settling a Stashfin loan updates credit records to <strong>&apos;Settled&apos;</strong> with a <strong>₹0 balance</strong>. This causes a short-term score drop of 70 to 130 points. But it stops monthly default marks.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers can rebuild credit scores to 750+ within 18 to 24 months by using fixed-deposit secured credit cards, keeping credit utilization below 25%, and maintaining flawless on-time payment records.
+                You can rebuild your credit score past 750 in 18 to 24 months. Use a secured credit card, keep card usage under 25%. And pay every bill on time.
               </p>
             </section>
 
@@ -982,7 +982,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 Why Distressed Stashfin Borrowers Trust SettleLoans
               </h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
-                SettleLoans halts recovery harassment through formal cease-and-desist notices, defends Section 25 PSSA summons, challenges unilateral arbitration notices, and negotiates directly with Akara Capital&apos;s Stressed Assets Desks for maximum lawful waivers and authentic ₹0 NDCs.
+                SettleLoans stops collection harassment fast. We reply to Section 25 PSSA notices, fight one-sided arbitration. And negotiate directly with Akara Capital for top waivers and ₹0 NDCs.
               </p>
 
               {/* Placement of Reusable CompanySection */}
@@ -1047,7 +1047,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>RBI Guidelines on Digital Lending:</strong> Guidelines on Default Loss Guarantee &amp; Fair Lending Practices for Regulated Digital Lending Apps (RBI/2022-23/111)
+                    <strong>RBI Guidelines on Digital Lending:</strong> Guidelines on Default Loss Guarantee &amp. Fair Lending Practices for Regulated Digital Lending Apps (RBI/2022-23/111)
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1058,7 +1058,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>Akara Capital Advisors Private Limited / Stashfin:</strong> Customer Grievance Redressal Policy, Fair Practices Code &amp; Principal Nodal Officer Matrix
+                    <strong>Akara Capital Advisors Private Limited / Stashfin:</strong> Customer Grievance Redressal Policy, Fair Practices Code &amp. Principal Nodal Officer Matrix
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1069,7 +1069,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021:</strong> Online Portal for Complaints on Fintech Harassment, Unauthorized Auto-Debits &amp; NDC Delays
+                    <strong>Reserve Bank - Integrated Ombudsman Scheme, 2021:</strong> Online Portal for Complaints on Fintech harassment, illegal Auto-Debits &amp. NDC Delays
                   </a>
                 </li>
                 <li className="flex items-start gap-2">
@@ -1080,7 +1080,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                     rel="noopener noreferrer"
                     className="hover:text-[#1F5EFF] underline decoration-slate-300 hover:decoration-[#1F5EFF] transition-colors"
                   >
-                    <strong>National Legal Services Authority (NALSA):</strong> Legal Services Authorities Act, 1987 — National Lok Adalat Conciliation Framework
+                    <strong>National Legal Services Authority (NALSA):</strong> Legal Services Authorities Act, 1987. National Lok Adalat settlement Framework
                   </a>
                 </li>
               </ul>
@@ -1177,12 +1177,12 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                     </Link>
                   </div>
                   <p className="text-xs text-slate-500 font-medium">
-                    Lead Banking Legal &amp; Debt Settlement Strategist
+                    Lead Banking Legal &amp. Debt Settlement Strategist
                   </p>
                 </div>
               </div>
               <p className="text-xs text-slate-600 leading-relaxed mb-4">
-                Ashish has led over 1,200+ successful debt compromise negotiations across Stashfin (Akara Capital), CASHe, DMI Finance, Bajaj Finance, and major commercial banks. He specializes in fintech regulatory compliance, Section 25 PSSA defense, and borrower advocacy under RBI Master Directions.
+                Ashish has led 1,200+ successful debt settlements across Stashfin (Akara Capital), CASHe, DMI Finance, Bajaj. And major banks. He specializes in fintech rules and borrower defense.
               </p>
               <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold">
                 <Link
@@ -1212,7 +1212,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 Facing Stashfin Loan Default?
               </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
-                Stop aggressive recovery tele-calling and recurring NACH return fees immediately. Let our experienced banking advocates audit your delinquency stage, defend statutory legal notices, draft your formal OTS petition, and secure an authentic stamped Akara Capital settlement letter.
+                Stop collection calls and NACH bounce fees right away. Our banking lawyers audit your loan, defend legal notices. And secure an official stamped Akara Capital OTS letter.
               </p>
               <Link
                 href="/contact"
@@ -1232,25 +1232,25 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Direct NBFC Representation:</strong> We bypass third-party collection agencies to represent your case directly before Akara Capital Stressed Assets Committees.
+                    <strong>Direct NBFC Defense:</strong> We deal directly with Akara Capital committees, bypassing third-party agencies.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Anti-Harassment Protection:</strong> Immediate issuance of formal legal cease-and-desist notices to stop unauthorized third-party calling and contact list harassment under RBI rules.
+                    <strong>Anti-harassment Action:</strong> We send legal notices to stop illegal calls and contact-list harassment under RBI rules.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>100% Stamped Verification:</strong> Every settlement is strictly verified on official Akara Capital letterhead before any payment is authorized.
+                    <strong>Stamped Letter Check:</strong> Every settlement is verified on official Akara Capital letterhead before you pay.
                   </span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <span>
-                    <strong>Guaranteed ₹0 NDC Delivery:</strong> End-to-end legal tracking until your formal No Dues Certificate is issued and credit bureaus are updated.
+                    <strong>Guaranteed ₹0 NDC:</strong> Full legal support until your ₹0 No Dues Certificate is issued and CIBIL is updated.
                   </span>
                 </li>
               </ul>
