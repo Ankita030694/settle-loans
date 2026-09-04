@@ -524,7 +524,10 @@ export default function Page() {
                     <CheckCircle2 className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                     <span><strong>Mandatory ₹0 NDC within 30 Days:</strong> Under RBI Circular RBI/2023-24/60, lenders must deliver the zero-balance No Dues Certificate within 30 days or pay statutory compensation of ₹5,000 per day of delay.</span>
                   </li>
-                          {/* Section 1: Technopark & Administrative Hub Realities */}
+                </ul>
+              </div>
+
+              {/* Section 1: Technopark & Administrative Hub Realities */}
               <section id="trivandrum-technopark-debt-landscape" className="scroll-mt-24 mb-12">
                 <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                   <Building2 className="w-4 h-4" />
