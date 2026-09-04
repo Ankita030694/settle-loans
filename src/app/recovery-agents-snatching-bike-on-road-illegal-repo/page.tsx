@@ -510,9 +510,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 1: The Menace of Roadside Vehicle Snatching & Highway Ambush in India */}
             <section id="menace-of-roadside-vehicle-snatching" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Menace of Roadside Vehicle Snatching &amp; Highway Ambush in India
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Vehicle Snatching &amp; Highway Ambush Rules</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Across India, thousands of two-wheeler owners, commercial auto drivers, and passenger car owners experience the harrowing reality of roadside vehicle ambushes. A borrower who has defaulted on two or three equated monthly installments (EMIs) due to unexpected economic hardship—such as business downturns, medical emergencies, or job loss—suddenly finds themselves cornered at traffic junctions, highway toll plazas, or outside office complexes. Unidentified musclemen operating for third-party recovery agencies surround the vehicle, forcefully snatch the ignition keys, physically intimidate the driver, and drive or tow the asset away without furnishing any judicial order, court receiver warrant, or statutory pre-repossession notice.
               </p>
@@ -526,9 +524,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 2: Supreme Court Jurisprudence: Why Street Repossession is Criminal Dacoity & Extortion */}
             <section id="supreme-court-rulings-shanti-devi-sharma" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Supreme Court Jurisprudence: Why Street Repossession is Unlawful Coercion &amp; Extortion
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Supreme Court Jurisprudence</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Supreme Court of India has delivered a succession of landmark judgments that establish beyond doubt that <strong>banks and financial institutions cannot take the law into their own hands</strong>. The apex court has repeatedly denounced the use of recovery musclemen, ruling that extra-judicial seizure violates constitutional guarantees of personal liberty and human dignity under Article 21 of the Constitution of India.
               </p>
@@ -585,9 +581,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 3: Statutory Protections, RBI Fair Practices Code & Mandatory Notice Protocols */}
             <section id="statutory-protections-rbi-fair-practices" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Statutory Notice Protocols &amp; RBI Fair Practices Code Mandates
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Notice Protocols</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India (RBI), through its <em>Master Directions on Fair Practices Code for Lenders</em> and circulars regulating recovery agents (including Circular RBI/2022-23/108), has formulated strict mandatory guidelines that every commercial bank, cooperative bank, and NBFC must comply with before taking any enforcement action against hypothecated assets. Lenders routinely bypass these requirements, giving borrowers conclusive grounds to challenge subsequent recovery demands.
               </p>
@@ -637,9 +631,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 4: Criminal & Civil Liabilities Under BNS/IPC */}
             <section id="criminal-liabilities-bns-ipc-extortion" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Criminal &amp; Civil Liabilities: Sections 303 (Theft), 308 (Extortion) &amp; 310 (Robbery)
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Criminal &amp; Civil Liabilities</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When recovery agents use physical coercion or deception to seize a vehicle on public roads, their conduct triggers severe penal consequences under the Bharatiya Nyaya Sanhita (BNS), 2023, and corresponding provisions of the Indian Penal Code (IPC). The law does not grant commercial financiers any sovereign immunity from criminal prosecution.
               </p>
@@ -679,9 +671,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 5: Infographic Banner (16:9 Image) */}
             <section id="illegal-repossession-retrieval-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Vehicle Seizure &amp; Retrieval Roadmap: From Roadside Ambush to Debt Resolution
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Vehicle Seizure &amp; Retrieval Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding the chronological trajectory of an illegal roadside vehicle seizure—and how legal intervention dismantles coercive collection tactics—empowers borrowers to reclaim their assets and protect their finances:
               </p>
@@ -704,9 +694,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 6: Emergency Step-by-Step Protocol: What to Do on the Road & How to Retrieve the Vehicle */}
             <section id="emergency-road-protocol-police-retrieval" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Emergency Step-by-Step Protocol: What to Do on the Road &amp; How to Retrieve Your Vehicle
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Emergency Step-by-Step Protocol</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 If you or a family member is intercepted by recovery agents on the road, executing a structured, legally sound response is essential to preserve your safety, maintain evidence, and secure the immediate return of the vehicle:
               </p>
@@ -766,9 +754,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 7: Bank NPA Accounting, NPV Settlement Formula & Why Banks Waive Deficits */}
             <section id="bank-npa-accounting-npv-settlement" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Bank NPA Accounting, NPV Recovery Formula &amp; Why Banks Waive Residual Shortfalls
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting, NPV Recovery Formula</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When an illegal vehicle repossession occurs, lenders frequently attempt to auction the asset in a closed distress sale at 40% to 60% below market value. The lender then issues a legal notice claiming that the borrower owes a massive <strong>residual shortfall balance</strong> (the difference between the total claimed debt and the meager auction realization). However, an understanding of bank Non-Performing Asset (NPA) accounting reveals why lenders readily agree to waive these shortfall balances when confronted by experienced legal counsel.
               </p>
@@ -796,9 +782,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 8: Sanction Letter Forensics, No Dues Certificate (NDC) & CIBIL Bureau Restoration */}
             <section id="sanction-letter-ndc-cibil-restoration" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Settlement Sanction Letter Forensics, RBI ₹0 NDC Mandate &amp; CIBIL Restoration
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Settlement Sanction Letter Forensics, RBI ₹0 NDC Mandate</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Reaching a resolution with the lender requires absolute legal rigor in documentation. Borrowers must never make verbal payments to recovery agents or accept informal settlement assurances over email. Every vehicle loan settlement must be formalized through an official, digitally signed <strong>One-Time Settlement (OTS) Sanction Letter</strong> issued directly on the bank or NBFC letterhead.
               </p>
@@ -835,9 +819,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Section 9: Vehicle Default Resolution Matrix */}
             <section id="comparative-repossession-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Matrix: Illegal Roadside Seizure vs Court Receiver vs Advocate ₹0 OTS
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding the key distinctions between different recovery pathways helps borrowers recognize their legal standing and take decisive action:
               </p>
@@ -906,9 +888,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Illegal Vehicle Seizure &amp; Recovery Agent Rules
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Illegal Vehicle Seizure &amp; Recovery Agent Rules</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers to common questions regarding roadside vehicle repossession, Supreme Court protections, and vehicle retrieval with police assistance in India.

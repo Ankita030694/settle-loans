@@ -532,9 +532,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Specialized NBFC Architecture &amp; Default Mechanics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding Avanse Financial Services: Credit Underwriting, Moratorium Compounding &amp; Systemic Default Triggers
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding Avanse Financial Services</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Avanse Financial Services Limited is an RBI-regulated, systemically important non-banking financial company (NBFC) specializing in higher education financing. Disbursing thousands of crores across domestic and overseas degree programs—spanning the US, UK, Canada, Australia, and Europe—Avanse structures loans into high-ticket unsecured student credit (₹25 Lakhs to ₹75 Lakhs) and collateral-backed secured facilities. Unlike retail consumer credit, education loans feature a study moratorium covering the course duration plus a 6 to 12-month post-graduation grace period.
               </p>
@@ -560,9 +558,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>2. Co-Borrower Parent Defense &amp; Statutory Immunity</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Shielding Co-Borrower Parents: Joint Liability Realities, Pension Protections &amp; Anti-Harassment Law
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Shielding Co-Borrower Parents</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 In nearly all Avanse education loans, parents are mandated as primary co-borrowers rather than secondary guarantors. Under Section 128 of the Indian Contract Act, 1872, co-borrower liability is co-extensive with the principal debtor. When overseas graduates experience career dislocation, recovery agencies routinely exploit this domestic co-obligation by targeting elderly parents in India with coercive calls and home visits.
               </p>
@@ -623,9 +619,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. Delinquency Timeline &amp; NPA Accounting</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Avanse Loan Delinquency Lifecycle: Days Past Due (DPD), NPA Stages &amp; Balance Sheet Provisioning Drag
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Avanse Loan Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under Indian Accounting Standards (Ind AS 109) and RBI prudential regulations, loan defaults progress through strictly defined stages that govern Avanse&apos;s provisioning obligations:
               </p>
@@ -693,9 +687,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <Percent className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Financial Math</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Avanse OTS Haircut Policy: Net Present Value (NPV) Recovery Valuation &amp; Realistic Settlement Bands
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Avanse OTS Haircut Policy</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 One-Time Settlements with Avanse are governed by financial optimization modeling. Under RBI Master Directions, Credit Committees evaluate compromise offers against the Net Present Value (NPV) of recovery through protracted litigation versus immediate capital release.
               </p>
@@ -822,9 +814,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Legal Notice Defense &amp; Statutory Counter-Measures</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Legal Action: Section 25 PSSA Notices, Unilateral Arbitration &amp; SARFAESI Property Challenges
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Action</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Upon extended delinquency, Avanse issues statutory notices. Understanding their legal structure allows borrowers to mount a formidable legal defense:
               </p>
@@ -912,9 +902,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>7. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Guide: How to Negotiate an Institutional One-Time Settlement with Avanse Financial Services
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to an Institutional One-Time Settlement</h2>
 
               <div className="space-y-4 my-6">
                 <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm">
@@ -985,9 +973,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Forensics &amp; NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                OTS Sanction Letter Forensic Checklist &amp; Enforcing RBI 30-Day ₹0 No Dues Certificate Delivery
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Sanction Letter Forensic Checklist</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To prevent fraud and unauthorized commitments by external recovery agencies, every Avanse OTS Sanction Letter must be audited against four essential legal standards:
               </p>
@@ -1050,9 +1036,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Trajectory &amp; Overseas Credit Implications</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory, Overseas Credit Isolation &amp; Post-Settlement Credit Rehabilitation
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CIBIL Score Trajectory, Overseas Credit Isolation</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Indian credit reporting operates in complete jurisdictional isolation from foreign bureaus. Under CICRA 2005, Indian defaults reported to CIBIL or Experian India do not transfer to US credit files (Equifax, Experian US, TransUnion), UK credit scores, or Canadian bureaus due to separate legal frameworks and lack of SSN linkage. Education loan default is strictly a civil dispute with zero impact on student visas, OPT, or H-1B immigration status.
               </p>
@@ -1067,9 +1051,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <Award className="w-4 h-4" />
                 <span>10. SettleLoans Legal Defense &amp; Institutional Advisory</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Institutional Debt Defense: How SettleLoans Resolves Avanse Education Loan Distress
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Institutional Debt Defense</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 SettleLoans represents student borrowers abroad and their co-borrower parents in India before Avanse Financial Services. Our senior banking advocates enforce anti-harassment laws, defend statutory notices, and negotiate maximum debt waivers under RBI frameworks.
               </p>
@@ -1083,9 +1065,7 @@ export default function AvanseEducationLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions: Avanse Education Loan Settlement &amp; Legal Defense
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Avanse Education Loan Settlement &amp; Legal Defense</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, idx) => (

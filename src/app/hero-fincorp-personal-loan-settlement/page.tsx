@@ -528,9 +528,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Corporate NBFC Architecture &amp; Recovery Infrastructure</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                Understanding Hero FinCorp&apos;s Retail Credit &amp; Algorithmic Recovery Setup
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Understanding Hero FinCorp&apos;s Retail Credit</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 Hero FinCorp Limited (HFCL), an associate company of the Hero Group, is a systemically important non-banking financial company regulated under the Reserve Bank of India&apos;s Middle and Upper Layer frameworks. HFCL operates an extensive retail loan book encompassing unsecured personal loans, loyalty lines of credit, two-wheeler financing, and small enterprise facilities. To manage portfolio risk across high borrower volumes, the institution relies on automated credit-scoring algorithms and centralized recovery call centers.
               </p>
@@ -556,9 +554,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Lifecycle</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                Hero FinCorp Delinquency Lifecycle: From DPD 1-30 to Non-Performing Asset (NPA)
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Hero FinCorp Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 Under RBI Income Recognition, Asset Classification and Provisioning (IRACP) norms and Ind AS 109 Expected Credit Loss standards, Hero FinCorp categorizes loan delinquencies into structured Days Past Due (DPD) stages. Understanding these stages allows borrowers to pinpoint optimal settlement windows and maximize debt waivers.
               </p>
@@ -626,9 +622,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                How to Stop Hero FinCorp Bounce Charges &amp; Halt Repeated NACH Sweeps
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Stopping Hero FinCorp Bounce Charges &amp; NACH Hits</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 Repeated automated debit attempts represent one of the most draining financial aspects of loan default. HFCL systems frequently present e-NACH mandates multiple times a month. When an account has insufficient balance, the destination bank deducts ₹250 to ₹500 plus GST, while HFCL levies additional internal bounce fees. Over several months, these charges accumulate into tens of thousands of rupees in unearned penalties.
               </p>
@@ -643,9 +637,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                Hero FinCorp One-Time Settlement (OTS) &amp; Haircut Valuation Matrix
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Hero FinCorp One-Time Settlement (OTS)</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 Under RBI Master Directions (DOR.STR.REC.20/21.04.048/2023-24), Hero FinCorp evaluates settlement proposals using Net Present Value (NPV) recovery modeling. Because unsecured personal loans carry no physical collateral, HFCL compares an immediate lump-sum settlement against the uncertain, discounted future recovery of multi-year court litigation after deducting advocate fees and administrative costs.
               </p>
@@ -768,9 +760,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Recovery Practices &amp; RBI Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                Defending Against Aggressive Recovery Tactics Under RBI NBFC Directives
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Defending Against Harassment Under RBI NBFC Directives</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 Hero FinCorp contracts third-party Debt Recovery Agencies (DRAs) whose agents operate on aggressive commission targets. Collection personnel often overstep regulatory boundaries through persistent calls, workplace visits, and unauthorized contact with family members. Under RBI Master Directions on Recovery Agents and NBFC Fair Practices Codes, agents are strictly limited to contacting borrowers between 08:00 AM and 07:00 PM, must carry official authorization cards, and are legally barred from contacting non-guarantor relatives or colleagues.
               </p>
@@ -785,9 +775,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                Step-by-Step Guide: How to Negotiate a Compromise Settlement with Hero FinCorp
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Step-by-Step Guide to a Compromise Settlement with Hero</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Achieving a legally secure One-Time Settlement with Hero FinCorp follows six structured milestones:
               </p>
@@ -861,9 +849,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                Navigating Section 25 PSSA Notices, Arbitration &amp; National Lok Adalat
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Navigating Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 When a loan reaches 60 to 90 days of default, Hero FinCorp routinely issues statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for bounced NACH debits, or notices initiating sole arbitration. A Section 25 notice is a statutory demand, not an arrest warrant. Replying within 15 days demonstrating financial hardship preserves legal rights and establishes groundwork for compromise.
               </p>
@@ -922,9 +908,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                Authenticating Hero FinCorp Settlement Letters &amp; Enforcing the ₹0 NDC
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Authenticating Hero FinCorp Settlement Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 Verifying the authenticity of an OTS letter is vital to prevent fraud by unauthorized collection agents. Every authentic settlement letter must be printed on official Hero FinCorp Limited letterhead featuring the Corporate Identification Number (CIN: U74899DL1991PLC046774), registered New Delhi address, authorized signatory details, and unambiguous discharge covenants.
               </p>
@@ -939,9 +923,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">
-                CIBIL Score Trajectory Post-Settlement &amp; 18-Month Recovery Plan
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Post-Settlement CIBIL Score Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 Following an OTS, Hero FinCorp updates credit bureaus with the status <strong>&apos;Settled&apos;</strong> and an outstanding balance of <strong>₹0</strong>. While credit scores drop by 75–150 points initially, this terminates active compounding default marks and eliminates ongoing litigation risk.
               </p>
@@ -974,9 +956,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">
-                Frequently Asked Questions About Hero FinCorp Loan Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-5 leading-tight">FAQs: Hero FinCorp Loan Settlement</h2>
 
               <div className="space-y-3">
                 {faqs.map((faq, index) => (

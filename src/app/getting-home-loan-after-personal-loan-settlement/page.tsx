@@ -571,9 +571,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Prime Bank Underwriting Reality &amp; STP Algorithms</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Why Tier-1 Commercial Banks Instantly Reject Post-Settlement Mortgage Applications
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Tier-1 Commercial Banks Instantly Reject Post-Settlement</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The most urgent aspiration of individuals who have resolved debt through a compromise is securing a residential home. However, approaching major retail lenders such as the State Bank of India (SBI), HDFC Bank, ICICI Bank, or Axis Bank within twelve to twenty-four months of a settlement almost invariably results in automated rejection. Prime commercial institutions process vast retail volumes using Straight-Through Processing (STP) credit engines that ingest data from CIBIL, Experian, Equifax, and CRIF High Mark. When negative taxonomy flags such as &apos;Settled&apos;, &apos;Written Off&apos;, or severe Days Past Due (DPD) are identified, the application is terminated before a human credit manager ever reviews the file.
               </p>
@@ -588,9 +586,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>2. Credit Bureau Mechanics &amp; Taxonomy Forensics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How Credit Information Companies Record Compromise Settlements in Your Credit History
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How Credit Information Companies Record Compromise</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the Credit Information Companies (Regulation) Act, 2005 (CICRA), resolved debt is not marked as &apos;Closed&apos; unless all contractual obligations are satisfied in full. In a One-Time Settlement (OTS), the lender reports the account status as &apos;Settled&apos; or &apos;Post-Write-off Settled&apos;. While &apos;Closed&apos; denotes full contractual fulfillment, &apos;Settled&apos; indicates that the lender absorbed an unrecovered balance, which remains explicitly detailed in the credit trade-line segment.
               </p>
@@ -605,9 +601,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>3. Statutory Protections &amp; Secured Collateral Dynamics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Why Secured Residential Mortgages Present Lower Risk Profiles Than Past Unsecured Defaults
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Secured Residential Mortgages Present Lower Risk</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The crucial advantage for post-settlement home loan applicants lies in the distinction between unsecured debt and collateralized mortgages. Personal loans and credit cards lack underlying assets, leaving lenders reliant on civil litigation during default. Conversely, residential home loans are secured transactions governed by the SARFAESI Act, 2002, granting lenders statutory powers under Section 13 to enforce security interests and auction mortgaged real estate without prolonged civil court proceedings.
               </p>
@@ -622,9 +616,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>4. 24–36 Month Credit Rehabilitation Protocol</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Rigorous Two-Year Discipline Roadmap to Rebuild Your Credit Score Above 750
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Rigorous Two-Year Discipline Roadmap to Rebuild Your</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following a loan settlement, CIBIL scores typically drop into the 550 to 650 range. Applying immediately triggers hard inquiries that worsen the profile. Instead, borrowers must execute a structured 24-to-36-month rehabilitation protocol. Opening a fixed deposit of ₹50,000 to ₹1,00,000 enables obtaining a secured credit card. Keeping monthly credit utilization below 25% and clearing balances in full prior to due dates steadily rebuilds positive trade-line momentum.
               </p>
@@ -665,9 +657,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>6. Legal &amp; Commercial Status Conversion</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How to Convert Your CIBIL Status from &apos;Settled&apos; to &apos;Closed&apos; via Haircut Buyout
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Converting CIBIL Status to Closed</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To qualify for prime bank home loans at competitive repo-linked rates (8.35%–8.75%), converting &apos;Settled&apos; remarks to &apos;Closed&apos; is the most definitive solution. Banking guidelines permit borrowers to reopen past compromise accounts and clear the waived haircut differential.
               </p>
@@ -682,9 +672,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <Landmark className="w-4 h-4" />
                 <span>7. Specialized Housing Finance Underwriting</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating NBFC and Housing Finance Company (HFC) Manual Underwriting Desks
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating NBFC and Housing Finance Company (HFC) Manual</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When paying the historical haircut is unfeasible, specialized NBFCs and Housing Finance Companies (such as Piramal, PNB Housing, Aadhar, Tata Capital, Home First, and Shriram Housing) offer viable mortgage avenues. Their credit underwriters conduct case-by-case qualitative assessments of current cash flows, 12–24 months of bank credits, and collateral legal title.
               </p>
@@ -699,9 +687,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>8. Underwriting Solvency &amp; Mortgage Math</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Forensic Solvency Math: Calculating Your FOIR, LTV Ratios, and Loan Eligibility
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Forensic Solvency Math</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Housing finance credit committees evaluate post-settlement profiles against conservative debt-to-income benchmarks. The Fixed Obligation to Income Ratio (FOIR) is strictly capped at 40% to 45% of net verifiable income.
               </p>
@@ -730,9 +716,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>9. Comparative Institutional Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Comparative Analysis: Prime Banks vs. NBFCs vs. HFCs vs. Co-Applicant Channels
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparative Analysis</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Key underwriting benchmarks across primary Indian lending channels:
               </p>
@@ -797,9 +781,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <CheckCircle2 className="w-4 h-4" />
                 <span>10. Execution Plan &amp; Application Checklist</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Strategic Blueprint for Submitting a Successful Mortgage Application
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Settlement Blueprint</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Before applying, assemble an airtight documentation package: original Settlement Agreement and No Dues Certificate, 24 months of return-free bank statements, 3 years of audited ITRs/Form 16, and evidence of recent clean repayment. Avoid multiple digital aggregators to prevent hard credit inquiries, and route applications through experienced debt strategists directly to manual underwriting desks.
               </p>
@@ -814,9 +796,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About Getting a Home Loan After Loan Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Getting a Home Loan After Loan Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

@@ -564,9 +564,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. FinTech Lending Architecture &amp; Institutional Creditors</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Decoding the BharatPe &amp; PostPe Ecosystem: LSPs vs. Regulated Balance-Sheet Lenders
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Decoding the BharatPe &amp; PostPe Ecosystem</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 BharatPe and its consumer-facing credit application PostPe (operated by Resilient Innovations Private Limited) have disbursed thousands of crores in unsecured retail credit lines and merchant cash advances. Under the Reserve Bank of India&apos;s Guidelines on Digital Lending (2022/2023), BharatPe and PostPe operate strictly as Lending Service Providers (LSPs) and Digital Lending Applications (DLAs). They do not lend off their own balance sheet; rather, every loan is funded by regulated institutional credit partners.
               </p>
@@ -592,9 +590,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Lifecycle &amp; Daily QR Traps</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The FinTech Credit Trap: Daily QR Deductions, Auto-Debits, and NPA Classification
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">FinTech Credit Trap &amp; Daily Deductions</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 BharatPe merchant advances are repaid via automated daily installments (EDI), automatically deducting 20% to 50% of customer payments processed through the BharatPe QR code. During business downturns, this daily deduction starves retailers of working capital. If merchants switch QR codes to manage liquidity, automated systems trigger high-frequency e-NACH presentations against their primary bank accounts.
               </p>
@@ -665,9 +661,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting Auto-Debits &amp; Penal Compounding</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How to Stop BharatPe Daily QR Deductions &amp; Terminate Continuous NACH Return Fees
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Daily QR Deductions &amp; Auto-Debits</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Predatory auto-debit sweeps compound distress: when accounts lack funds, automated engines present e-NACH mandates multiple times a month. Destination banks levy ₹250–₹590 per bounce, while partner NBFCs debit internal dishonour fees of ₹500–₹1,000 alongside penal interest exceeding 36% per annum.
               </p>
@@ -682,9 +676,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                PostPe &amp; BharatPe One-Time Settlement (OTS) Policies &amp; Mathematical Haircut Slabs
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">PostPe &amp; BharatPe OTS Slabs &amp; Policies</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the RBI Master Direction on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), partner NBFCs evaluate settlement proposals using Net Present Value (NPV) recovery models. Because digital credit carries zero physical collateral, lenders weigh immediate cash settlements against ₹30,000–₹75,000 in litigation costs and 3–5 years of judicial delay.
               </p>
@@ -809,9 +801,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Anti-Harassment Defense &amp; Statutory Directives</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Against WhatsApp Threats, Call Center Pressure, and Illegal Recovery Tactics
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Recovery Threats &amp; Coercion</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers in default often face 30 to 50 automated dialer calls daily, alongside rogue WhatsApp messages containing fake FIR drafts, doctored court summons, and threats to contact friends or clients. For merchants, agents threaten unannounced shop visits to cause public humiliation.
               </p>
@@ -826,9 +816,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step FinTech Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Guide: How to Negotiate a Legally Binding Settlement with PostPe &amp; BharatPe
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Legally Binding Settlement with</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a secure One-Time Settlement requires bypassing external tele-callers and engaging partner NBFC decision-makers directly:
               </p>
@@ -908,9 +896,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Legal Notice Forensics, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Section 25 PSSA Notices, Unilateral Arbitration, and National Lok Adalats
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When digital loans default past 60–90 days, partner NBFCs issue demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for bounced NACH mandates, or Section 138 NI Act for security cheques. A Section 25 notice is a 15-day demand notice, not a warrant. Responding through counsel detailing genuine hardship protects legal standing and initiates conciliation.
               </p>
@@ -970,9 +956,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Authenticating Settlement Letters &amp; Enforcing the RBI Mandatory ₹0 NDC Rule
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC Delivery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To prevent collection agency fraud, verify that the settlement sanction letter is on corporate letterhead of the regulated partner lender (Unity SFB, Trillion Loans) with registered office details, proposal reference number, and full debt discharge covenants.
               </p>
@@ -987,9 +971,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Credit Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory Post-Settlement &amp; Strategic 18-Month Credit Recovery Plan
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery (18M)</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a PostPe credit line or BharatPe loan updates credit bureaus to <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While an initial 70–120 point score dip and 12-month cooling window apply, it halts active default penalties and litigation risk.
               </p>
@@ -1004,9 +986,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Why Distressed PostPe &amp; BharatPe Borrowers Choose SettleLoans
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in PostPe</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 SettleLoans halts illegal WhatsApp harassment through statutory Cease &amp; Desist notices, revokes predatory e-NACH auto-sweeps, defends against Section 25 PSSA notices, and negotiates directly with partner NBFC credit committees for maximum debt waivers and genuine ₹0 No Dues Certificates.
               </p>
@@ -1023,9 +1003,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions: PostPe &amp; BharatPe Loan Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: PostPe &amp; BharatPe Loan Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

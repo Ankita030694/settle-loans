@@ -521,9 +521,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 1: Anatomy of Family Account Freeze Threats */}
             <section id="anatomy-of-family-account-freeze-threats" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Anatomy of Coercive Threats: Can Recovery Agents Freeze Family Bank Accounts?
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Anatomy of Coercive Threats</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When an individual encounters genuine economic hardship resulting in overdue unsecured personal loans, credit card balances, or fintech app installments, third-party recovery agencies frequently cross legal boundaries. Among the most psychologically devastating intimidation strategies employed by outsourced collection agents is the explicit threat of family financial ruin. Distressed borrowers across India are routinely bombarded with aggressive phone calls, WhatsApp voice notes, and fabricated legal notices claiming that the bank will freeze their spouse&apos;s salary account, attach their elderly parents&apos; pension deposits, block ancestral property transactions, or suspend the family&apos;s Unified Payments Interface (UPI) handles.
               </p>
@@ -562,9 +560,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 2: Legal Identity, PAN Demarcation & Privity of Contract */}
             <section id="legal-identity-pan-privity-of-contract" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Legal Identity, PAN Demarcation &amp; The Doctrine of Privity of Contract
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Legal Identity, PAN Demarcation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The constitutional and statutory framework of financial liability in India rests firmly upon the principle of individual legal autonomy. Every adult citizen is recognized as a distinct, independent legal entity endowed with enforceable civil rights, separate property ownership capabilities, and exclusive tax accountability. This individual separation is institutionalized through the <strong>Permanent Account Number (PAN)</strong> framework administered under the Income Tax Act, 1961. Banking institutions are legally required to map all account openings, credit facilities, deposit instruments, and credit bureau filings to the specific PAN of the individual applicant.
               </p>
@@ -620,9 +616,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 3: Statutory Boundaries: Banker Set-Off vs Third Parties */}
             <section id="statutory-limits-banker-set-off-lien" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Statutory Boundaries: Section 171 General Lien &amp; The Banker&apos;s Right of Set-Off
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Boundaries</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To intimidate borrowers into believing their family&apos;s accounts are vulnerable, recovery agents frequently misrepresent established banking doctrines, notably the Banker&apos;s Right of General Lien and the Banker&apos;s Right of Set-Off. An in-depth examination of Indian statutory provisions reveals that both legal doctrines are strictly bounded by conditions of mutuality and capacity that make their application to third-party family accounts legally impossible.
               </p>
@@ -655,9 +649,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 4: Civil Court Attachments, Garnishee Orders & Joint Accounts */}
             <section id="civil-attachments-garnishee-joint-accounts" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Civil Court Attachments, Garnishee Orders under Order XXI CPC &amp; Joint Account Rules
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Civil Court Attachments, Garnishee Orders under Order</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A common scare tactic used by recovery agents is falsely claiming that the bank has obtained a &quot;Court Attachment Warrant&quot; to seize all family assets. To evaluate this claim, one must understand how formal asset attachment operates under the <strong>Code of Civil Procedure, 1908 (CPC)</strong>. In India, no creditor, bank, or NBFC can attach any bank account, salary credit, or immovable asset without first filing a formal civil recovery suit or summary suit under Order XXXVII CPC, conducting complete judicial trials, obtaining a formal decree, and initiating execution proceedings under <strong>Order XXI of the CPC</strong>.
               </p>
@@ -692,9 +684,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="family-protection-ots-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Family Asset Protection &amp; Debt Settlement Visual Roadmap
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Family Asset Protection &amp; Debt Settlement Process Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comprehensive infographic roadmap below delineates the five critical stages of family debt defense—from establishing separate legal identity and asserting Indian Contract Act protections to halting recovery agent harassment through advocate representation, escalating RBI Ombudsman complaints, and concluding a structured compromise settlement with full debt discharge.
               </p>
@@ -728,9 +718,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 6: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="npa-accounting-npv-settlement-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Bank Balance Sheet Economics, NPA Provisioning &amp; The Net Present Value (NPV) Valuation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Bank Balance Sheet Economics, NPA Provisioning</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why collection agencies resort to aggressive family intimidation—and how legal counsel turns that aggression into an affordable settlement—borrowers must understand the financial accounting rules governing commercial lenders in India. Under Reserve Bank of India prudential provisioning norms, when an unsecured credit facility remains overdue for more than 90 days past due (DPD), it is mandatorily classified as a <strong>Non-Performing Asset (NPA)</strong>.
               </p>
@@ -802,9 +790,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 7: 4-Stage Defense Against Agent Coercion */}
             <section id="advocate-defense-rbi-ombudsman-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. The Emergency 4-Stage Advocate Protocol Against Recovery Agent Coercion
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. The Emergency 4-Stage Advocate Protocol Against Recovery</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When third-party recovery agents subject non-borrowing family members to abusive phone calls or fabricated legal threats, passive endurance only encourages further aggression. Distressed families must execute an assertive, legally structured 4-stage defense protocol designed by banking litigation specialists:
               </p>
@@ -843,9 +829,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 8: Converting Harassment into 55% OTS */}
             <section id="converting-harassment-into-55-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Converting Recovery Harassment into an Affordable 45%–65% One-Time Settlement (OTS)
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Converting Recovery Harassment into an Affordable 45%–65%</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Unlawful recovery harassment and threats directed against family members constitute major regulatory liabilities for commercial banks and NBFCs. When banking advocates formally document these fair practice breaches and present them to senior credit risk officers, the lender faces regulatory sanctions and reputational exposure. Borrowers can leverage this dynamic to transform an adversarial dispute into an institutional <strong>One-Time Settlement (OTS)</strong>.
               </p>
@@ -895,9 +879,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 9: Sanction Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; CIBIL Trajectory
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 During debt resolution, borrowers must guard against fraudulent settlement traps orchestrated by rogue collection agents. Collection tele-callers frequently issue fake WhatsApp settlement approval slips to collect token amounts, which are subsequently credited merely as overdue interest without closing the loan account. A borrower must never transfer funds until the settlement letter undergoes rigorous forensic verification.
               </p>
@@ -935,9 +917,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Section 10: Comparative Legal Matrix */}
             <section id="comparative-legal-matrix-powers-vs-myths" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                10. Comparative Legal Matrix: Statutory Legal Authority vs. Recovery Agent Intimidation Myths
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative legal matrix below analyzes common recovery agent threats against the governing statutory provisions under Indian civil, contract, and banking laws:
               </p>
@@ -997,9 +977,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
             {/* Section 11: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. SettleLoans Legal Defense &amp; Family Debt Protection Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating coercive debt recovery and protecting your loved ones from harassment requires experienced banking litigation advocates who understand Indian contract law, civil procedure exemptions, and RBI regulatory directives. SettleLoans delivers complete legal defense for borrowers across India: serving formal statutory cease-and-desist notices to stop third-party intimidation, challenging unlawful banking liens, escalating fair practice violations to the RBI Integrated Ombudsman, and negotiating directly with bank zonal authorities to secure 45% to 65% principal settlements backed by verified No Dues Certificates.
                 </p>
@@ -1013,9 +991,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  12. Frequently Asked Questions: Family Account Freezes &amp; Legal Rights
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">12. FAQs: Family Account Freezes &amp; Legal Rights</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding family account protection, individual PAN liability, and debt settlement in India.

@@ -570,9 +570,7 @@ export default function FederalBankLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Institutional Architecture &amp; SAMD Recovery Infrastructure</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding Federal Bank&apos;s Stressed Assets Recovery Ecosystem
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding Federal Bank&apos;s Stressed Assets Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The Federal Bank Limited, headquartered in Aluva, Kochi, represents one of India&apos;s premier private sector scheduled commercial banks, commanding an expansive credit presence across Kerala, Tamil Nadu, Karnataka, Maharashtra, Gujarat, and major metro centers. While Federal Bank has pioneered digital underwriting partnerships, FinTech co-lending integrations, and extensive retail gold loan products, its institutional recovery infrastructure for delinquent credit facilities follows a highly disciplined, centralized framework.
               </p>
@@ -598,9 +596,7 @@ export default function FederalBankLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Progression &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Federal Bank Delinquency Lifecycle: From Days Past Due (DPD) to NPA Classification
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Federal Bank Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Federal Bank categorizes delinquent loan accounts according to the Reserve Bank of India&apos;s Prudential Framework on Income Recognition, Asset Classification, and Provisioning pertaining to Advances (IRACP). Understanding this progressive timeline is critical for borrowers, as the legal exposure, collection intensity, and available settlement discounts change dramatically at each consecutive milestone.
               </p>
@@ -654,9 +650,7 @@ export default function FederalBankLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting NACH Charges &amp; Compounding Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Stopping Compounding NACH Return Penalties &amp; Enforcing RBI Fair Lending Mandates
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Compounding NACH Return Penalties</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A primary driver of debt distress for Federal Bank borrowers is the rapid accumulation of electronic clearing bounce fees. When an equated monthly installment fails due to insufficient balance, Federal Bank&apos;s clearing engine presents the e-NACH mandate multiple times within the same month. Each unsuccessful attempt triggers dual penalties: Federal Bank debits an internal dishonour fee of ₹500 to ₹1,000 plus GST, while the borrower&apos;s primary savings or current account bank debits a separate mandate return fee of ₹350 to ₹590.
               </p>
@@ -685,9 +679,7 @@ export default function FederalBankLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Provisioning Valuation Calculus</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How Federal Bank Calculates Settlement Haircuts: Provisioning &amp; Net Present Value
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How Federal Bank Calculates Settlement Haircuts</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Federal Bank does not grant loan discounts out of sympathy. Settlement approvals are governed strictly by financial calculus, balance sheet provisioning requirements, and Net Present Value (NPV) recovery modeling. Under Reserve Bank of India asset classification rules, banks must maintain capital provisions against non-performing loans:
               </p>
@@ -756,9 +748,7 @@ export default function FederalBankLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Federal Bank Loan Settlement Process Flowchart &amp; Milestone Roadmap
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Federal Bank Loan Settlement Process Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 This comprehensive visual roadmap illustrates the step-by-step progression of a Federal Bank loan default from initial 90 DPD delinquency to SAMD escalation, statutory legal notice defense, OTS compromise negotiation, and final No Dues Certificate delivery:
               </p>
@@ -779,9 +769,7 @@ export default function FederalBankLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Recovery Practices &amp; RBI Anti-Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Enforcing RBI Fair Practice Directives Against Unlawful Recovery Harassment
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Directives Against Unlawful Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 While Federal Bank is a regulated scheduled commercial bank, third-party recovery agencies and field collection contractors engaged by its recovery desk often deploy coercive, unlawful tactics to force immediate payments. Borrowers must recognize that the Reserve Bank of India has established stringent statutory standards governing recovery agents under its Master Circular on Conduct and Outsourcing of Financial Services.
               </p>
@@ -837,9 +825,7 @@ export default function FederalBankLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>7. Step-by-Step Bank Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating the Step-by-Step Federal Bank Compromise Settlement Process
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Federal Bank Compromise Settlement Guide</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Successfully executing a One-Time Settlement with Federal Bank requires following a rigorous, legally compliant five-stage roadmap:
               </p>
@@ -888,9 +874,7 @@ export default function FederalBankLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>8. Legal Defense: Section 138, PSSA &amp; Gold Loan Deficit</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Section 138, Section 25 Notices &amp; Gold Loan Shortfall Claims
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 138, Sec 25 &amp; Gold Loan Shortfall Claims</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Federal Bank routinely initiates statutory legal proceedings against chronic defaulters to create recovery pressure. Understanding how to legally respond to these proceedings neutralizes intimidation and redirects disputes into compromise settlement channels.
               </p>
@@ -960,9 +944,7 @@ export default function FederalBankLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Authenticating Federal Bank Settlement Letters &amp; Enforcing the ₹0 NDC Mandate
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating Federal Bank Settlement Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A critical danger during loan recovery is the prevalence of fake settlement commitments issued verbally or on fraudulent letterheads by rogue collection agencies seeking to hit monthly recovery quotas. If a borrower deposits funds based on an unverified verbal agreement, Federal Bank credits the payment against outstanding penal charges, leaving the default active and legal proceedings underway.
               </p>
@@ -995,9 +977,7 @@ export default function FederalBankLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Score Recovery &amp; 18-Month Plan</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory Post-Settlement &amp; Strategic Credit Rehabilitation Plan
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Upon completion of a One-Time Settlement with Federal Bank, the bank transmits updated credit records to all four licensed credit bureaus in India (TransUnion CIBIL, Experian, Equifax, and CRIF High Mark). The account status transitions from &apos;Active Default&apos; to <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>.
               </p>
@@ -1034,9 +1014,7 @@ export default function FederalBankLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About Federal Bank Loan Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Federal Bank Loan Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

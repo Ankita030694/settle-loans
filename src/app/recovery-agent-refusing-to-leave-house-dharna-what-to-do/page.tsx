@@ -519,9 +519,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 1: Doorstep Standoff & Hallway Dharna Tactics */}
             <section id="doorstep-dharna-crisis-reality" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Doorstep Standoff: Hallway Dharnas, Porch Occupation &amp; The Psychology of Public Humiliation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Doorstep Standoff</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 One of the most intimidating and psychologically traumatic collection tactics deployed in India today is the doorstep standoff. In these high-pressure scenarios, third-party recovery agents representing commercial banks, fintech lenders, or non-banking financial companies (NBFCs) arrive at a borrower&apos;s residence and flatly refuse to leave. Instead of conducting a standard, respectful inquiry, agents stage an unauthorized sit-in or &quot;dharna&quot; directly on the front porch, the stairwell, or the apartment hallway outside the borrower&apos;s flat.
               </p>
@@ -557,9 +555,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 2: RBI Master Directions & Supreme Court Jurisprudence */}
             <section id="rbi-master-directions-and-supreme-court-precedents" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Protections: RBI Master Directions, Outsourcing Directives &amp; Supreme Court Rulings
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India has established comprehensive, legally binding directives governing the conduct of debt collection and recovery agencies. Under the <strong>RBI Master Direction on Fair Practices Code for Lenders</strong> and the <strong>Circular on Guidelines on Recovery Agents Engaged by Regulated Entities</strong>, financial institutions and their agents are strictly circumscribed in their interactions with borrowers:
               </p>
@@ -611,9 +607,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 3: Criminal Trespass, Public Nuisance & Intimidation under BNS / IPC */}
             <section id="criminal-trespass-public-nuisance-bns-ipc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Criminal Law Invocations: Public Nuisance, Criminal Trespass &amp; Intimidation under BNS and IPC
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Law Invocations</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a recovery agent transitions from requesting a debt update to occupying your hallway, porch, or staircase and refusing to depart, their actions cease to be a civil loan matter and instantly cross into the realm of substantive criminal offenses. Under the Indian Penal Code (IPC) and the modernized <strong>Bharatiya Nyaya Sanhita (BNS), 2023</strong>, multiple statutory provisions apply directly to doorstep standoffs:
               </p>
@@ -655,9 +649,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 4: Bank NPA Accounting & NPV Recovery Equation */}
             <section id="bank-npa-accounting-and-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank NPA Accounting Dynamics: Why Agents Escalate Standoffs &amp; The NPV Recovery Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting Dynamics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To counter doorstep recovery standoffs effectively, one must understand the financial and institutional mechanisms driving this behavior inside lending institutions. Commercial banks and fintech NBFCs do not dispatch their own full-time officers to sit outside homes. Instead, delinquent unsecured loans (personal loans, credit cards, consumer credit) are outsourced to third-party collection agencies that operate on aggressive contingency commission contracts, earning between 12% and 25% of all funds recovered within designated aging cycles.
               </p>
@@ -729,9 +721,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="doorstep-standoff-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Visual Strategic Roadmap: Doorstep Standoff Defense &amp; Eviction Workflow
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Strategic Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The strategic visual roadmap below outlines the systematic, multi-tiered institutional defense workflow deployed by senior debt defense advocates to neutralize doorstep recovery standoffs, enforce immediate police removal, register formal station diary entries, and transition the dispute into an official One-Time Settlement.
               </p>
@@ -765,9 +755,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 6: Emergency 112 Police Call & DD Entry Protocol */}
             <section id="emergency-112-police-and-dd-entry-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. The Emergency 112/100 Police Protocol &amp; Station Daily Diary (DD) Entry Step-by-Step
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 112/100 Police Protocol</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a recovery agent stages a dharna outside your doorstep or hallway and refuses to leave after being asked to depart, you must execute a calm, precise, legally rigorous protocol. Never open the door to engage in physical confrontation, and never scream or make counter-threats. Instead, execute the following four-phase emergency response:
               </p>
@@ -818,9 +806,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 7: Society Byelaws & RWA Security Eviction */}
             <section id="apartment-association-rwa-eviction-strategy" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Society Byelaws, RWA Eviction &amp; Gated Community Security Protocols
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. RWA Byelaws &amp; Gated Security Rules</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 For borrowers residing in multi-story apartment complexes, cooperative housing societies, or gated layouts, resident association byelaws offer an immediate and highly effective layer of legal protection. Under state apartment ownership and cooperative society enactments (such as the Maharashtra Cooperative Societies Act, Karnataka Apartment Ownership Act, or Delhi Cooperative Societies Act), common areas including stairwells, elevator landings, corridors, and entrance gates are the shared private property of the association, not public thoroughfares.
               </p>
@@ -856,9 +842,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 8: Converting Harassment into 55% OTS & Sanction Forensics */}
             <section id="converting-standoff-into-ots-sanction-forensics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Converting Doorstep Harassment into an Affordable 45%–65% OTS &amp; Sanction Forensics
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Converting Doorstep Harassment into an Affordable</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A doorstep standoff is a clear symptom of collection desperation: it reveals that the bank has exhausted standard channels and is attempting to bypass legal due process through brute intimidation. By documenting these violations and pairing them with a police Daily Diary entry, you transform an invasive harassment episode into your most powerful bargaining chip to negotiate an institutional <strong>One-Time Settlement (OTS)</strong>.
               </p>
@@ -899,9 +883,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 9: Comparative Legal Defense Matrix */}
             <section id="comparative-standoff-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Matrix: Doorstep Standoff vs. Police Action vs. Civil Court vs. Advocate OTS
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Analyzing the various legal avenues available to a borrower facing doorstep harassment enables informed, strategic decision-making to protect personal safety, family dignity, and long-term financial health:
               </p>
@@ -954,9 +936,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense &amp; Doorstep Harassment Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating an aggressive doorstep recovery standoff demands seasoned banking litigation advocates who understand how to enforce RBI Master Directions, invoke Supreme Court privacy protections, and draft hard-hitting criminal complaints. SettleLoans provides end-to-end legal protection for distressed borrowers across India: issuing emergency cease-and-desist notices to bank management, filing formal complaints with the RBI Banking Ombudsman, coordinating with local law enforcement and RWA authorities, and negotiating directly with bank zonal authorities to secure 45% to 65% principal waivers backed by official, bank-stamped No Dues Certificates.
                 </p>
@@ -970,9 +950,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Recovery Agent Standoffs &amp; Legal Defenses
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agent Standoffs &amp; Legal Defenses</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding doorstep collection standoffs, police emergency protocols, Daily Diary entries, and loan settlement in India.

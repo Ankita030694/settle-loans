@@ -559,9 +559,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Corporate Entity Architecture</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Corporate Entity Architecture: KrazyBee Services Private Limited vs. KreditBee
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Corporate Entity Architecture</h2>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 To execute an effective debt resolution strategy, a distressed borrower must first understand the fundamental legal distinction between the consumer-facing mobile application and the regulated financial institution holding the debt. In the Indian digital lending ecosystem, millions of consumers obtain instant personal loans through the KreditBee mobile application. However, KreditBee is primarily a technology platform and Loan Service Provider (LSP) operated by Finnov Private Limited. The actual balance-sheet capital, regulatory risk, underwriting compliance, and statutory recovery mechanisms are governed by <strong>KrazyBee Services Private Limited</strong>, an RBI-registered Non-Banking Financial Company (NBFC-ND-SI) bearing Registration Certificate Number N-02.00262, headquartered in Bengaluru, Karnataka.
@@ -597,9 +595,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Delinquency Progression, NPA Classification &amp; Ind AS 109 Provisioning
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Delinquency Progression &amp; NPA Provisioning</h2>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 When a borrower fails to service an installment on a KrazyBee personal loan, the account enters a strictly calibrated regulatory and accounting lifecycle. Understanding this delinquency trajectory is vital because an NBFC&apos;s willingness to grant substantial financial concessions and principal haircuts increases exponentially as the loan ages through the regulatory delinquency buckets.
@@ -669,9 +665,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>3. Legal Notice Deconstruction &amp; Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Deconstructing KrazyBee Legal Notices, Section 25 PSSA &amp; Arbitration
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">KrazyBee Legal Notices &amp; Sec 25 PSSA</h2>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 When a borrower defaults on a KrazyBee personal loan, the lender&apos;s legal panel routinely issues statutory legal notices. Receiving a formal document embossed with legal terminology, advocate stamps, and court references often creates acute panic. However, understanding the exact statutory basis of these notices reveals that they are procedural pre-litigation instruments designed to compel communication, rather than immediate decrees of criminal liability.
@@ -714,9 +708,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. NPV Recovery Valuation &amp; Haircuts</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Net Present Value (NPV) Recovery Valuation &amp; Haircut Mathematics
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Net Present Value (NPV) Recovery Valuation</h2>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 To negotiate maximum debt waivers with KrazyBee Services, a borrower must understand how institutional lenders mathematically evaluate distressed portfolios. Financial institutions do not evaluate bad loans through emotional lenses; they evaluate them strictly through financial modeling based on the Net Present Value (NPV) of recovery versus the total cost of legal pursuit.
@@ -808,9 +800,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Anti-Harassment Defense &amp; RBI Rules</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Halting Digital Recovery Harassment &amp; Statutory RBI Protections
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Halting Digital Recovery Harassment</h2>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 The most stressful aspect of defaulting on a digital fintech loan is the aggressive, unlawful recovery behavior frequently exhibited by outsourced collection agencies. Borrowers across India report receiving non-stop abusive telephone calls from untraceable virtual numbers, threats sent to family members and employers, unauthorized workplace visits, and unauthorized contact book scraping. Every borrower must recognize that these practices are direct violations of Indian law and RBI Master Directions.
@@ -863,9 +853,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>7. Step-by-Step Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Step-by-Step NBFC Settlement Roadmap with KrazyBee Services
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Step-by-Step NBFC Settlement Roadmap with KrazyBee Services</h2>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 Executing a legally secure and financially advantageous One-Time Settlement with KrazyBee requires a disciplined, multi-stage protocol. By following this systematic roadmap, borrowers can protect themselves against fraudulent intermediary claims, eliminate unapproved charges, and achieve complete debt freedom.
@@ -940,9 +928,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <CheckCircle2 className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Forensic Verification of KrazyBee OTS Sanction Letters &amp; NDC Mandate
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">KrazyBee Sanction Audit &amp; NDC Mandate</h2>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 A common and dangerous pitfall in fintech loan settlements is falling victim to unauthorized settlement scams orchestrated by rogue collection agency telecallers. External recovery agents frequently issue fake &quot;discount confirmation&quot; WhatsApp messages, unauthorized PDF receipts, or request payments into third-party UPI accounts. Making payments without a verified, authentic sanction letter will result in your funds being misallocated as partial interest payments, leaving your loan account active, compounding penalties, and facing ongoing legal actions.
@@ -990,9 +976,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Recovery &amp; Resolution Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                CIBIL Score Trajectory, Credit Rehabilitation &amp; Comparative Matrix
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">CIBIL Score Trajectory, Credit Rehabilitation</h2>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 A primary concern for borrowers considering a loan settlement is the impact on their credit score. When a compromise settlement is executed, KrazyBee reports the loan account status to credit information companies (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) as <strong>&quot;Settled&quot;</strong> or <strong>&quot;Post-Write-off Settled&quot;</strong> with an outstanding balance of ₹0.
@@ -1090,9 +1074,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. SettleLoans Legal Advocacy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Why Distressed Borrowers Choose SettleLoans for KrazyBee Debt Resolution
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">Why Borrowers in Distressed Borrowers Choose SettleLoans</h2>
 
               <p className="text-base text-slate-700 leading-relaxed mb-4">
                 SettleLoans is India&apos;s premier legal and financial debt resolution advisory, specializing in defending borrowers against aggressive digital lending practices and negotiating institutional compromise settlements. Our team of senior banking advocates, former financial institution risk officers, and consumer law specialists understand the inner workings of NBFC credit committees and digital lending compliance.
@@ -1112,9 +1094,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About KrazyBee NBFC Loan Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: KrazyBee NBFC Loan Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

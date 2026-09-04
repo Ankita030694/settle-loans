@@ -565,9 +565,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Multi-Product NBFC Architecture &amp; Risk Engine</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding IIFL Finance&apos;s Multi-Product Architecture &amp; Automated Recovery Infrastructure
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding IIFL Finance&apos;s Multi-Product Architecture</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 IIFL Finance Limited, operating as a systemically important non-banking financial company (NBFC-ND-SI) under RBI regulations, manages an extensive retail portfolio spanning digital personal loans, unsecured MSME business installment facilities, and secured gold loans. When a borrower faces financial hardship—such as job loss, business cash-flow contraction, or acute medical emergencies—IIFL&apos;s automated risk engines initiate high-frequency recovery protocols: repetitive e-NACH presentation sweeps, internal bounce penalties of ₹500 to ₹1,000 plus GST, and compounding penal charges.
               </p>
@@ -590,9 +588,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                IIFL Finance Delinquency Lifecycle: From DPD 1-30 to Non-Performing Asset (NPA)
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">IIFL Finance Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Income Recognition, Asset Classification and Provisioning (IRACP) norms and Ind AS 109 Expected Credit Loss (ECL) standards, IIFL Finance tracks loan delinquencies through strict Days Past Due (DPD) buckets. After 90 days of non-payment, the loan transitions into a Non-Performing Asset (NPA), obligating IIFL to allocate mandatory balance-sheet provisioning and shifting its focus from installment collection to bad-debt recovery and compromise resolution.
               </p>
@@ -660,9 +656,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How to Stop IIFL Finance Bounce Charges &amp; Halt Repeated NACH Presentations
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Stop IIFL Finance Bounce Charges</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Delinquent borrowers frequently face compounding electronic auto-debit bounce fees when IIFL&apos;s treasury presents e-NACH mandates multiple times per month. Each failure results in bank return fees alongside IIFL internal bounce charges and penal interest. Under the RBI&apos;s Fair Lending Practice directives on penal charges (2023), lenders are prohibited from capitalizing penal fees or compounding default interest.
               </p>
@@ -677,9 +671,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <Coins className="w-4 h-4" />
                 <span>4. Gold Loan Auction Shortfall &amp; Residual Dues Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Resolving IIFL Gold Loan Auction Shortfall Notices &amp; Residual Balance Demands
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Resolving IIFL Gold Loan Auction Shortfall Notices</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a borrower defaults on a gold loan, IIFL liquidates the pledged gold through auction. However, when proceeds fail to cover claimed ledger balances—often inflated by high interest and auction costs—IIFL issues legal demand notices claiming an <strong>unsecured residual shortfall balance</strong>.
               </p>
@@ -697,9 +689,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>5. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                IIFL Finance One-Time Settlement (OTS) &amp; Haircut Valuation Matrix
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">IIFL Finance One-Time Settlement (OTS)</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the RBI Master Direction on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), IIFL evaluates OTS proposals using a Net Present Value (NPV) recovery methodology, comparing an immediate lump-sum settlement against the uncertain, discounted future recovery of prolonged litigation.
               </p>
@@ -831,9 +821,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Recovery Practices &amp; RBI Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Against Aggressive IIFL Recovery Tactics Under RBI NBFC Directives
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Aggressive IIFL Recovery Tactics Under RBI</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 IIFL Finance engages third-party Debt Recovery Agencies (DRAs) whose representatives often operate under aggressive targets. Under RBI Master Directions on Recovery Agents and NBFC Fair Practices Codes, statutory boundaries are clear: agents may only contact borrowers between 08:00 AM and 07:00 PM; contacting relatives, employers, or colleagues is illegal; and intimidation or workplace visits are strictly prohibited.
               </p>
@@ -848,9 +836,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>7. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Guide: How to Negotiate a Compromise Settlement with IIFL Finance
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with IIFL</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Securing a legally binding One-Time Settlement with IIFL Finance follows a 6-phase legal roadmap:
               </p>
@@ -924,9 +910,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>8. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Section 25 PSSA Notices, Arbitration &amp; National Lok Adalat
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Past 60 to 90 days default, IIFL frequently issues statutory notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for bounced mandates and private arbitration notices in Mumbai. Section 25 notices are compoundable matters that should be responded to through counsel detailing bona fide financial hardship.
               </p>
@@ -985,9 +969,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Authenticating IIFL Finance Settlement Letters &amp; Enforcing the ₹0 NDC
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating IIFL Finance Settlement Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers must verify that their settlement letter is issued directly on official IIFL Finance Limited letterhead bearing the Corporate Identification Number (CIN: L67100MH1995PLC093797), registered office details, unique settlement reference number, authorized signatory name, and official seal. Never remit funds against verbal assurances or unverified third-party receipts.
               </p>
@@ -1002,9 +984,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory Post-Settlement &amp; Strategic 18-Month Recovery Plan
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Trajectory</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Post-settlement, IIFL reports the account across credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) as <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While an initial credit score drop of 75 to 150 points occurs alongside a 12-month cooling period, it permanently terminates compounding default marks and legal exposure.
               </p>
@@ -1038,9 +1018,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About IIFL Finance Loan Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: IIFL Finance Loan Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

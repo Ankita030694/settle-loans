@@ -523,9 +523,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 1: The Crisis of Timing Violations */}
             <section id="crisis-of-timing-violations" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Crisis of Predatory Calling Hours: Sleep Deprivation, Midnight Intimidation &amp; Psychological Coercion
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Crisis of Predatory Calling Hours</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In the aggressive landscape of retail debt collection across India, third-party recovery agencies and algorithmic fintech platforms frequently deploy deliberate psychological warfare against borrowers facing temporary financial distress. Among the most pervasive and insidious of these tactics is the weaponization of unsocial calling hours. Borrowers across urban and semi-urban jurisdictions report receiving incessant phone calls, automated IVR blasts, and intimidating WhatsApp notifications at 9:30 PM, midnight, 2:00 AM, or in the early dawn hours prior to 6:30 AM.
               </p>
@@ -561,9 +559,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 2: RBI 8 AM to 7 PM Mandate & Privacy Jurisprudence */}
             <section id="rbi-calling-window-regulations" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Framework: The RBI 8:00 AM to 7:00 PM Operating Window &amp; Constitutional Sleep Jurisprudence
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Framework</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The regulatory architecture governing debt recovery in India is anchored in codified directives issued by the Reserve Bank of India under Section 21 and Section 35A of the <strong>Banking Regulation Act, 1949</strong>, read alongside the <strong>Reserve Bank of India Act, 1934</strong>. These circulars carry the force of subordinate legislation and bind all scheduled commercial banks, public sector lenders, private banks, Non-Banking Financial Companies (NBFCs), Small Finance Banks, and digital lending platforms.
               </p>
@@ -618,9 +614,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 3: Criminal Intimidation & BNS Statutory Penalties */}
             <section id="criminal-intimidation-bns-penalties" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Criminal Intimidation, Tort of Harassment &amp; Bharatiya Nyaya Sanhita (BNS) Penalties
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Intimidation, Tort of Harassment</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a recovery agent dials a borrower at late night or pre-dawn hours and uses threatening, coarse, or aggressive language, the act transcends a simple service deficiency and enters the realm of cognizable criminal offenses under the Indian substantive penal framework. With the enactment of the <strong>Bharatiya Nyaya Sanhita (BNS), 2023</strong> (replacing the Indian Penal Code, 1860), borrowers possess sharp statutory instruments to prosecute predatory recovery callers.
               </p>
@@ -665,9 +659,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 4: Bank NPA Accounting & NPV Recovery Formula */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Accounting Realities: NPA Provisioning Burdens &amp; The Net Present Value (NPV) Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Realities</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why collection agencies turn aggressive and how borrowers can decisively defeat them, one must examine the balance sheet pressures governing Indian commercial banking. Under RBI prudential norms, when an unsecured personal loan, business loan, or credit card remains unpaid for 90 consecutive days, the account is classified as a <strong>Non-Performing Asset (NPA)</strong>.
               </p>
@@ -699,9 +691,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="infographic-timing-regulations" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Visual Framework: RBI Debt Recovery Operating Window &amp; Violation Penalties
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Framework: RBI Debt Recovery Operating Window</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the statutory 24-hour calling timeline codified by the Reserve Bank of India, demarcating prohibited nocturnal calling periods, authorized operational hours, and the mandatory legal redressal channels available to aggrieved borrowers:
               </p>
@@ -725,9 +715,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 6: Securing Ombudsman Restraining Orders & FIRs */}
             <section id="ombudsman-restraining-orders-fir" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Emergency Action Plan: Securing Instant Restraining Orders from the RBI Ombudsman &amp; Police Injunctions
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Emergency Action Plan</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When late-night recovery calls commence, borrowers must act systematically to construct an irrefutable evidential record rather than reacting emotionally. The law rewards disciplined documentation, enabling seasoned advocates to trigger swift administrative interventions.
               </p>
@@ -780,9 +768,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 7: Converting Timing Violations into 55% OTS */}
             <section id="converting-harassment-into-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Strategic Advocate Negotiations: Converting Timing Violations into a 45%–65% One-Time Settlement
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Strategic Advocate Negotiations</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In commercial debt dispute resolution, an opponent&apos;s egregious regulatory violation is the borrower&apos;s greatest negotiating asset. When unrepresented borrowers face aggressive debt collection, they frequently make the mistake of pleading helplessness or ignoring notices. Conversely, when legal counsel steps in armed with documented proof of nocturnal calling violations, the entire power dynamic flips in favor of the borrower.
               </p>
@@ -807,9 +793,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 8: Sanction Letter Forensics & ₹5,000/Day NDC Mandate */}
             <section id="sanction-letter-forensics-ndc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Forensic Sanction Letter Verification &amp; Mandatory RBI ₹0 No Dues Certificate Timeline
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Forensic Sanction Letter Verification</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical danger during debt resolution is the proliferation of fraudulent settlement promises made by rogue collection agents. In desperate attempts to meet month-end recovery quotas, agents frequently issue unauthorized PDF letters, informal email promises, or verbal commitments claiming that paying a token sum will &quot;close the file.&quot;
               </p>
@@ -882,9 +866,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 9: Comparative Matrix */}
             <section id="comparative-recovery-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Matrix: Authorized Debt Recovery vs Illegal Timing Violations
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To assist borrowers in distinguishing between lawful recovery communications and actionable statutory violations, the table below provides a comprehensive side-by-side legal comparison:
               </p>
@@ -943,9 +925,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 10: SettleLoans Defense Advisory */}
             <section id="settleloans-defense-advisory" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                10. SettleLoans Legal Defense &amp; Institutional Debt Resolution Advisory
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 At <strong>SettleLoans</strong>, we believe that defaulting on a civil monetary loan due to legitimate financial adversity is never a crime. No citizen of India should ever endure sleep deprivation, domestic humiliation, or predatory late-night harassment at the hands of unmonitored collection agencies.
               </p>
@@ -990,7 +970,7 @@ export default function RecoveryAgentCallingLateNightPage() {
             <section id="faqs" className="space-y-4 pt-4 border-t border-slate-200">
               <div className="flex items-center gap-2 text-slate-900 font-bold text-xl sm:text-2xl tracking-tight mb-2">
                 <HelpCircle className="w-6 h-6 text-[#1F5EFF]" />
-                <h2>Frequently Asked Questions: Late-Night Recovery Harassment &amp; Legal Remedies</h2>
+                <h2>FAQs: Late-Night Recovery Harassment &amp; Legal Remedies</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 Clear, legally verified answers regarding recovery calling hours, RBI regulations, sleep rights, and dispute escalation protocols.

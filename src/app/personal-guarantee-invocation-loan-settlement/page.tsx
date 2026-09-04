@@ -517,7 +517,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
             <section id="understanding-personal-guarantee-invocation" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Building2 className="w-6 h-6 text-[#1F5EFF]" />
-                <span>1. The Mechanics of Personal Guarantee Invocation in Commercial Lending</span>
+                <span>1. The Mechanics of Personal Guarantee Invocation</span>
               </h2>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -537,7 +537,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
             <section id="statutory-protections-surety-discharge" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Scale className="w-6 h-6 text-[#1F5EFF]" />
-                <span>2. Statutory Protections &amp; Surety Discharge Defenses Under the Indian Contract Act</span>
+                <span>2. Statutory Protections</span>
               </h2>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -567,7 +567,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
             <section id="tribunal-jurisdictions-drt-ibc-crosswinds" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Landmark className="w-6 h-6 text-[#1F5EFF]" />
-                <span>3. Tribunal Jurisdictions &amp; Judicial Crosswinds: DRT, NCLT, and Personal Insolvency under IBC</span>
+                <span>3. Tribunal Jurisdictions &amp; Judicial Crosswinds</span>
               </h2>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -591,7 +591,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
             <section id="bank-accounting-npv-haircut-valuation" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Calculator className="w-6 h-6 text-[#1F5EFF]" />
-                <span>4. Bank Accounting, Prudential NPA Provisioning &amp; The Haircut Formula</span>
+                <span>4. Bank NPA Provisioning &amp; The Haircut Formula</span>
               </h2>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -625,7 +625,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
             <section id="personal-guarantee-resolution-roadmap" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <BookOpen className="w-6 h-6 text-[#1F5EFF]" />
-                <span>5. Visual Resolution Blueprint: Personal Guarantee Invocation &amp; Settlement Roadmap</span>
+                <span>5. Visual Resolution Blueprint</span>
               </h2>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -652,7 +652,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
             <section id="advocate-negotiation-ringfencing-assets" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <ShieldCheck className="w-6 h-6 text-[#1F5EFF]" />
-                <span>6. Strategic Advocate Negotiation: Severing Promoter Liability from Corporate Default</span>
+                <span>6. Strategic Advocate Negotiation</span>
               </h2>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -676,7 +676,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
             <section id="sanction-letter-forensics-tripartite-deed" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <FileCheck className="w-6 h-6 text-[#1F5EFF]" />
-                <span>7. Sanction Letter Forensics &amp; The Tripartite Compromise Agreement</span>
+                <span>7. Sanction Letter Forensics</span>
               </h2>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -730,7 +730,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
             <section id="remittance-rbi-ndc-mandate-credit-rehabilitation" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <CreditCard className="w-6 h-6 text-[#1F5EFF]" />
-                <span>8. Remittance Protocols, RBI No Dues Certificate &amp; Commercial Credit Repair</span>
+                <span>8. Payment Protocols &amp; No Dues Certificate</span>
               </h2>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -750,7 +750,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
             <section id="guarantee-defense-comparative-matrix" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Layers className="w-6 h-6 text-[#1F5EFF]" />
-                <span>9. Comparative Matrix: Personal Guarantee Defense vs Alternative Resolution Pathways</span>
+                <span>9. Comparative Debt Resolution Matrix</span>
               </h2>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -833,7 +833,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
             <section id="faqs" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <HelpCircle className="w-6 h-6 text-[#1F5EFF]" />
-                <span>11. Frequently Asked Questions: Personal Guarantee Invocation &amp; Settlement</span>
+                <span>11. FAQs: Personal Guarantee Invocation &amp; Settlement</span>
               </h2>
 
               <div className="space-y-3 my-6">

@@ -494,9 +494,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 1: Anatomy of Study Abroad Loan Crisis */}
             <section id="anatomy-study-abroad-loan-crisis" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Anatomy of the Study Abroad Loan Crisis: Visas, Layoffs &amp; NBFC Exposure
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Anatomy of the Study Abroad Loan Crisis</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Over the past decade, hundreds of thousands of Indian graduates secured high-value education loans to pursue postgraduate STEM, management, and professional degrees across premier universities in the United States, the United Kingdom, Canada, Ireland, and Australia. To finance steep tuition and living costs, specialized Non-Banking Financial Companies (NBFCs)—chief among them Avanse Financial Services, InCred Financial Services, Auxilo Finserve, and HDFC Credila—alongside premier public sector lenders such as State Bank of India (SBI Global Ed-Vantage), Bank of Baroda, and Canara Bank, disbursed unsecured credit facilities ranging from ₹30 Lakhs to over ₹1 Crore.
               </p>
@@ -510,9 +508,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 2: Co-Borrower Parent Liability & Contract Act */}
             <section id="co-borrower-parent-liability-contract-act" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Legal Status of Co-Borrowers &amp; Parents: Contract Act vs. Co-Obligant Realities
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Legal Status of Co-Borrowers &amp; Parents</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In almost every Indian abroad education loan sanction, financial institutions mandate adding one or both parents as a &quot;Co-Borrower&quot; or &quot;Co-Obligant&quot;. Under <strong>Section 128 of the Indian Contract Act, 1872</strong>, the liability of a surety or co-borrower is co-extensive with that of the principal debtor, unless provided otherwise by contract. This affords lenders the procedural right under civil law to demand repayment from resident co-borrowers when the student defaults overseas, without being legally required to exhaust all foreign remedies against the student first.
               </p>
@@ -546,9 +542,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 3: Statutory Protections for Aging Parents */}
             <section id="statutory-shields-for-aging-parents" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Statutory Protections for Aging Parents: Senior Citizens Act &amp; RBI Guidelines
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Protections for Aging Parents</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When education loan accounts cross 60 to 90 days past due (DPD), collection agencies often deploy unlawful recovery tactics against resident parents: unannounced home visits, threatening calls outside permissible hours, and deceptive legal notices. Indian law provides enforceable statutory shields to completely halt this harassment:
               </p>
@@ -589,9 +583,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 4: Bank Accounting & NPV Recovery Equation */}
             <section id="bank-accounting-npa-npv-recovery-dynamics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Accounting, Provisioning Burden &amp; The Stressed Asset NPV Recovery Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting, Provisioning Burden</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Achieving a deep reduction in loan liability through an OTS relies on how Indian financial institutions evaluate non-performing assets under the <strong>RBI Prudential Norms on Income Recognition, Asset Classification, and Provisioning (IRACP)</strong>. Lenders operate under regulatory accounting mandates rather than subjective discretion.
               </p>
@@ -659,9 +651,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="abroad-education-loan-settlement-infographic-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Visual Roadmap: Abroad Education Loan Default Resolution &amp; Parent Shield
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Process Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual flowchart below illustrates the structured 5-stage institutional framework: from post-study international employment disruption and emergency parental shielding to advocate-led cross-border One-Time Settlement negotiations, official bank sanction audit, and complete RBI credit bureau clearance.
               </p>
@@ -695,9 +685,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 6: Judicial Defense Against Coercive Actions */}
             <section id="judicial-defense-ni-act-pssa-order-37-drt" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Judicial Defense: Section 138 NI Act, NACH Bounces, Order 37 CPC &amp; DRT
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Judicial Defense: Section 138 NI Act, NACH Bounces,</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When informal collections fail, lenders initiate formal legal and quasi-criminal proceedings to exert judicial pressure on resident parents. Distressed families must understand the procedural mechanisms behind these proceedings to respond strategically:
               </p>
@@ -751,9 +739,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 7: Structuring an International OTS */}
             <section id="structuring-international-ots-negotiations" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Structuring an International OTS: Securing 40%–70% Waivers for Expat Borrowers
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Structuring an International OTS</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Achieving a favorable One-Time Settlement on an abroad education loan requires a disciplined, evidence-based negotiation methodology. You cannot simply contact customer care or plead poverty to field recovery agents. The negotiation must be escalated directly to the lender&apos;s Zonal Stressed Asset Resolution Branch (SARB), Special Management Team, or Chief Credit Officer through a structured four-stage representation:
               </p>
@@ -813,9 +799,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 8: Sanction Letter Forensics & Bureau Clean-Up */}
             <section id="sanction-letter-forensics-ndc-cibil-restoration" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Forensic Audit of Sanction Letters, RBI No Dues Certificate &amp; Bureau Clean-Up
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Audit &amp; Verification</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing an agreement in principle is only half the battle. To ensure absolute legal finality and prevent future debt revival or secondary debt sale to Asset Reconstruction Companies (ARCs), the settlement sanction letter must undergo a rigorous forensic legal audit:
               </p>
@@ -862,9 +846,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 9: Comparative Strategic Matrix */}
             <section id="comparative-matrix-recovery-vs-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Strategic Matrix: Litigation Exposure vs. Negotiated OTS
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When faced with an education loan default, families must evaluate the stark divergence between prolonged litigation exposure and a professionally negotiated cross-border One-Time Settlement:
               </p>
@@ -922,9 +904,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Cross-Border Legal Defense &amp; Education Debt Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Cross-Border Legal Defense</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Resolving high-ticket abroad education loan defaults requires a sophisticated combination of aggressive domestic legal defense and master financial negotiation. SettleLoans provides comprehensive representation for expat students overseas and their resident parents across India. Our senior banking advocates shield aging parents from collection harassment, manage all court notices under Section 138 NI Act and Section 25 PSSA, and negotiate directly with NBFC and bank credit committees to secure deep 40% to 70% One-Time Settlements backed by official No Dues Certificates and spotless credit bureau updates.
                 </p>
@@ -938,9 +918,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Abroad Education Loan Default &amp; Settlement
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Abroad Education Loan Default &amp; Settlement</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Authoritative, legally verified answers to critical questions regarding abroad education loan defaults, parent protections, co-borrower rights, and international One-Time Settlements in India.

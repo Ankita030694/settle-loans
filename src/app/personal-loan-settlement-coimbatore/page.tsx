@@ -549,9 +549,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <Factory className="w-4 h-4" />
                 <span>1. Industrial Debt Dynamics in Western Tamil Nadu</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Economic Reality of Debt in Coimbatore, Tirupur &amp; Salem
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Economic Reality of Debt in Coimbatore, Tirupur &amp; Salem</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Coimbatore, the &quot;Manchester of South India,&quot; anchors the vibrant industrial belt of Western Tamil Nadu alongside Tirupur&apos;s knitwear export hub and Salem&apos;s manufacturing base. While this corridor drives major engineering and textile output, it also subjects local entrepreneurs, foundry operators, and IT professionals along Avinashi Road and Saravanampatti to severe market cycles. Fluctuating yarn costs, export shipment delays, and delayed OEM receivables frequently create sudden cash-flow deficits, pushing borrowers into layered personal loans and credit card overdrafts.
               </p>
@@ -566,9 +564,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>2. Statutory Legal Classifications</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Unsecured vs Secured Debt: Jurisdiction &amp; Asset Protection in Tamil Nadu
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Unsecured vs Secured Debt</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Secured loans—such as commercial mortgages on industrial units or home loans under SARFAESI Act, 2002—give lenders direct claims over specific immovable property. Conversely, unsecured personal loans and business lines carry zero hypothecation over residential property or manufacturing machinery. An unsecured lender holds no summary power of attachment and must pursue regular civil court remedies.
               </p>
@@ -629,9 +625,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>3. Anti-Harassment Legal Shield</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Halting Recovery Harassment: RBI Guidelines &amp; Madras High Court Directives
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Halting Recovery Harassment</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Third-party recovery agencies frequently deploy aggressive collection tactics, including unauthorized visits to factories in Peelamedu or Kurichi and persistent calls to employers. Such coercive measures are strictly unlawful under RBI Master Directions on Fair Practices and binding Madras High Court jurisprudence:
               </p>
@@ -664,9 +658,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>4. Judicial Summons &amp; Arbitration Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Section 138 NI Act, Section 25 PSSA &amp; Private Arbitration in Coimbatore
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Section 138 NI Act, Section 25 PSSA</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Lenders frequently issue statutory demand notices under Section 138 of the Negotiable Instruments Act or Section 25 of the Payment and Settlement Systems Act following bounced cheques or NACH auto-debits. Our advocates file comprehensive legal replies establishing genuine commercial hardship, proving absence of mens rea, and transitioning claims toward out-of-court conciliation.
               </p>
@@ -734,9 +726,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>5. Bank Accounting &amp; Valuation Math</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Bank&apos;s Internal Math: Net Present Value (NPV) &amp; NPA Haircut Justification
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Bank&apos;s Internal Math</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the RBI Compromise Settlements Framework (DOR.STR.REC.20/21.04.048/2023-24), lenders evaluate settlement proposals using mathematical Net Present Value benchmarks. When an unsecured loan defaults past 90 days, Ind AS 109 mandates capital provisioning from operating profits (15% to 100%), burdening bank balance sheets.
               </p>
@@ -766,9 +756,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step OTS Negotiation Process</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Execution: How Coimbatore Borrowers Settle Unsecured Loans
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Execution</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally sound One-Time Settlement involves a structured five-stage procedure:
               </p>
@@ -837,9 +825,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>7. Settlement Letter Verification</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Sanction Letter Forensics &amp; The Mandatory 30-Day No Dues Certificate
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC Mandate</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Unscrupulous collection agents sometimes issue unauthorized compromise letters to collect partial funds without closing the loan. SettleLoans performs rigorous forensic verification on every sanction letter, confirming it is issued on official bank letterhead, signed by authorized bank officers, contains exact account numbers, and confirms complete discharge of liability.
               </p>
@@ -854,9 +840,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>8. Credit Score Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Rehabilitation: Rebuilding Financial Standing Post-Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CIBIL Score Rehabilitation</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following settlement, the bank updates credit bureaus (CIBIL, Experian, CRIF High Mark) with the status &apos;Settled&apos; and a ₹0 overdue balance. While this introduces a temporary credit cooling period, it ends compounding delinquency records and removes litigation risks.
               </p>
@@ -871,9 +855,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>9. Resolution Strategy Comparison</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Comparative Matrix: Evaluating Debt Resolution Pathways in Tamil Nadu
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparative Debt Resolution Matrix</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A comparison of legal mechanisms available for resolving delinquent loan obligations:
               </p>
@@ -929,9 +911,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Specialized Coimbatore Debt Advocacy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Why Borrowers in Coimbatore &amp; Kongu Region Trust SettleLoans
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in Coimbatore &amp; Kongu Region Trust SettleLoans</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 SettleLoans provides dedicated legal debt resolution across Coimbatore, Tirupur, Salem, and Erode. We halt recovery harassment through formal legal notices, protect assets from attachment under CPC Section 60(1)(c), defend court summons, and negotiate directly with bank Credit Committees to secure maximum lawful debt waivers and authentic ₹0 No Dues Certificates.
               </p>
@@ -948,9 +928,7 @@ export default function CoimbatoreLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions: Loan Settlement in Coimbatore &amp; Tamil Nadu
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Coimbatore &amp; Tamil Nadu</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

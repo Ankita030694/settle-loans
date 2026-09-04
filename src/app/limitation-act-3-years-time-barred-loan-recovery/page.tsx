@@ -504,9 +504,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 1: Statutory Foundation */}
             <section id="statutory-foundation-limitation-act-1963" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The 3-Year Statutory Bar: How the Limitation Act, 1963 Governs Bank Loan Recovery
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The 3-Year Statutory Bar</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Indian civil law protects the vigilant and not those who sleep upon their rights. When a borrower defaults on an unsecured personal loan, credit card, or business credit line, the lender does not possess an open-ended timeline to initiate coercive legal recovery. The Limitation Act, 1963 imposes a strict temporal boundary beyond which civil courts will not entertain recovery claims.
               </p>
@@ -520,9 +518,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 2: Articles 19, 55, and CPC Framework */}
             <section id="articles-19-55-and-cpc-civil-court-jurisdiction" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Articles 19, 55 &amp; CPC Recovery: When Commercial Banks Lose the Right to Sue
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Articles 19, 55 &amp; CPC Recovery</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under the Schedule to the Limitation Act, 1963, bank loan defaults are governed by Article 19 (money lent, expiring 3 years from disbursement) and Article 55 (breach of contract, expiring 3 years from contractual breach). Once an EMI default occurs and the account is not regularized, the statutory 3-year countdown begins running immediately.
               </p>
@@ -579,9 +575,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 3: The Traps - Section 18 and Section 19 */}
             <section id="debt-revival-traps-section-18-and-section-19" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. The Critical Debt Revival Traps: Written Acknowledgment (Section 18) and Token Payments (Section 19)
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Critical Debt Revival Traps</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Lenders and recovery agencies frequently employ subtle tactics to reset the statutory clock. Borrowers must remain vigilant against three specific legal traps that inadvertently revive time-barred debt liabilities.
               </p>
@@ -598,9 +592,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 4: Bank Accounting and NPV Formula */}
             <section id="bank-npa-accounting-write-offs-and-npv-economics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank NPA Accounting, AUCA Technical Write-Offs &amp; The NPV Recovery Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting, AUCA Technical Write-Offs</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under RBI IRAC guidelines, defaulted loans degrade from Sub-Standard to Doubtful and Loss Asset classifications. After 3 to 4 years of non-payment, banks must maintain 100% provisioning against unsecured bad loans, expensing the full loss against current operating profits.
               </p>
@@ -665,9 +657,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 6: Handling Harassment & Calls on 4-5 Year Old Loans */}
             <section id="handling-recovery-calls-on-old-defaulted-loans" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Handling Harassment &amp; Collection Calls on 4–5 Year Old Time-Barred Loans
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Handling Harassment</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Collection agencies pursue 4 to 5 year old defaulted loans because they purchase collection mandates on 20% to 40% contingency fees. Lacking legal remedies in civil court, they rely on psychological pressure, abusive calls, and fabricated legal threats.
               </p>
@@ -681,9 +671,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 7: Responding to Belated Notices, Lok Adalat & Summary Summons */}
             <section id="forensic-audit-of-legal-notices-and-summary-suits" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Responding to Belated Legal Notices, Lok Adalat Pre-Litigation &amp; Order 37 CPC Summons
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Responding to Belated Legal Notices, Lok Adalat</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When receiving a demand notice on an old loan, borrowers must verify the default date. Notices often omit dates to bait written replies that restart liability under Section 25(3). An advocate reply should firmly assert that the claim is time-barred and deny liability.
               </p>
@@ -697,9 +685,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 8: Banker's Lien, NDC and CIBIL */}
             <section id="debt-extinguishment-ndc-and-cibil-rehabilitation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Banker&apos;s Lien, Official No Dues Certificate &amp; Credit Bureau Rehabilitation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Banker&apos;s Lien, Official No Dues Certificate</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 While the Limitation Act bars court lawsuits, unresolved debts carry two ongoing consequences: banker&apos;s right of lien and persistent negative credit bureau remarks.
               </p>
@@ -713,9 +699,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
 
             {/* Section 9: Comparative Strategy Matrix Table */}
             <section id="active-debt-vs-time-barred-debt-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Active Debt vs. Time-Barred Debt Comparative Strategy Matrix
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Active Debt vs. Time-Barred Debt Comparative Strategy</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing legal enforcement and negotiation leverage between active defaults and time-barred debts demonstrates the power of the statutory limitation shield:
               </p>
@@ -794,9 +778,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Limitation Act 3 Years for Bank Loan Recovery
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Limitation Act 3 Years for Bank Loan Recovery</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct answers to essential questions on statutory limitation, court dismissal rules, debt revival traps, and borrower rights in India.

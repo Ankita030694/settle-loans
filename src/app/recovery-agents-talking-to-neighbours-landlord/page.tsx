@@ -522,9 +522,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 1: The Crisis of Social Shaming */}
             <section id="residential-recovery-harassment-reality" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Crisis of Social Shaming: Hallway Shouting, Security Interrogations &amp; Landlord Panic
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Crisis of Social Shaming</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Few experiences produce more acute psychological distress than having an overdue unsecured loan or credit card balance weaponized into public humiliation at your doorstep. In recent years, aggressive collection agencies contracted by private banks and digital fintech NBFCs have systematically escalated recovery tactics: shouting in apartment corridors, knocking loudly on adjacent neighbours&apos; doors, interrogating housing society security guards at main gates, and contacting property owners with fabricated threats of property attachment to instigate immediate tenant eviction.
               </p>
@@ -560,9 +558,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 2: Supreme Court Privacy Jurisprudence & RBI Directives */}
             <section id="supreme-court-privacy-rbi-mandates" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Protections: Supreme Court Privacy Jurisprudence &amp; RBI Fair Practices Code
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Indian jurisprudence and Reserve Bank of India regulatory frameworks explicitly prohibit commercial lenders from using public shaming, third-party disclosures, or residential intimidation as collection strategies. A multi-tiered legislative and regulatory structure shields borrowers from intrusive recovery practices:
               </p>
@@ -614,9 +610,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 3: Criminal Defamation, Criminal Trespass & Society Injunctions */}
             <section id="criminal-defamation-trespass-laws" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Criminal Defamation, Society Trespass &amp; Criminal Intimidation Protections
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Defamation, Society Trespass</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Disclosing private financial defaults to neighbours, housing society guards, or landlords is not simply an ethical violation; it is a serious criminal offense and an actionable civil tort. By publishing confidential loan distress to third parties with the intent to humiliate, recovery agents commit criminal defamation and criminal intimidation under Indian law.
               </p>
@@ -670,9 +664,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 4: Bank Balance Sheet Dynamics & The NPV Recovery Equation */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Accounting Dynamics: Why Agencies Deploy Social Shaming &amp; The NPV Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Dynamics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To dismantle residential recovery harassment, borrowers must understand the commercial incentives operating within the banking system. Major banks and NBFCs rarely dispatch full-time branch managers to visit residential societies. When an unsecured personal loan or credit card becomes delinquent past 60 to 90 days, the file is handed over to third-party Direct Recovery Agencies (DRAs) working on aggressive contingency commissions of 15% to 25%.
               </p>
@@ -744,9 +736,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="residential-harassment-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Visual Strategic Roadmap: Residential Harassment Defense &amp; Debt Settlement
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Strategic Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The strategic roadmap below illustrates the structured 5-stage institutional legal workflow deployed by senior banking defense advocates to halt neighbour and landlord harassment, invoke constitutional privacy protections, and conclude an official debt compromise.
               </p>
@@ -780,9 +770,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 6: Emergency 4-Stage Advocate Defense Protocol */}
             <section id="emergency-4-stage-advocate-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. The Emergency 4-Stage Advocate Protocol to Halt Residential Harassment Immediately
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 4-Stage Advocate Protocol to Halt</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a recovery agent contacts your landlord, harasses your neighbours, or creates a scene in your residential hallway, verbal arguments will not stop them. Rogue recovery agents view panic as leverage. Banking defense advocates execute an aggressive 4-stage protocol designed to enforce an immediate ceasefire:
               </p>
@@ -821,9 +809,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 7: Negotiating Debt Resolution & OTS */}
             <section id="forcing-compromise-settlement-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Converting Residential Harassment into an Affordable 45%–65% One-Time Settlement (OTS)
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Residential Harassment into an Affordable</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Residential harassment indicates that the bank is desperate about mounting NPA provisions and is using coercive social shaming because it lacks viable legal avenues to attach your assets. By documenting these statutory violations through legal representation, you transform an embarrassing residential confrontation into your strongest negotiating leverage to secure an official <strong>One-Time Settlement (OTS)</strong>.
               </p>
@@ -873,9 +859,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; CIBIL Recovery
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers dealing with aggressive recovery agencies must exercise extreme caution during settlement execution. Rogue collectors frequently fabricate unauthorized settlement letters on WhatsApp or make false verbal promises to collect partial cash payments. A borrower must never transfer funds until the sanction letter is forensically authenticated by legal counsel.
               </p>
@@ -913,9 +897,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 9: Comparative Legal Defense Matrix */}
             <section id="comparative-legal-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Defense Matrix: Residential Harassment vs. Legal Due Process vs. Ombudsman vs. OTS
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Legal Defense Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the legal remedies available to borrowers allows you to select the most effective strategy to protect your dignity, safeguard your tenancy, and resolve your outstanding debt:
               </p>
@@ -968,9 +950,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense &amp; Residential Harassment Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Confronting illegal residential debt recovery requires experienced banking litigation advocates who understand how to enforce RBI Master Directions, invoke Supreme Court privacy protections, and draft hard-hitting criminal defamation notices. SettleLoans provides end-to-end legal defense for borrowers across India: issuing emergency cease-and-desist notices to bank management, filing formal complaints with the RBI Banking Ombudsman, reassuring your landlord, and negotiating directly with bank zonal authorities to secure 45% to 65% principal haircuts backed by official, bank-stamped No Dues Certificates.
                 </p>
@@ -984,9 +964,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Recovery Agents Harassing Neighbours &amp; Landlords
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agents Harassing Neighbours &amp; Landlords</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding residential debt collection, unauthorized neighbour disclosures, and debt settlement protocols in India.

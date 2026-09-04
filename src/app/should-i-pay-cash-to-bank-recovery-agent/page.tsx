@@ -493,9 +493,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 1: Anatomy of Field Cash Collection Demands */}
             <section id="anatomy-field-cash-collection-demands" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Anatomy of Field Collection: Why Recovery Agents Demand Direct Cash Payments
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Anatomy of Field Collection</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a borrower defaults on an unsecured personal loan, credit card, business overdraft, or digital app loan, commercial banks and Non-Banking Financial Companies (NBFCs)—such as State Bank of India, HDFC Bank, ICICI Bank, Axis Bank, Kotak Mahindra Bank, and Bajaj Finance—routinely outsource delinquent portfolios to third-party direct recovery agencies (DRAs). In hundreds of residential visits across major Indian cities, field collection agents aggressively confront borrowers, claiming that handing over an immediate lump-sum cash payment is the only method to prevent immediate police action, avoid court arrest warrants, or secure a spot settlement discount.
               </p>
@@ -509,9 +507,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 2: RBI Master Directions & Regulatory Framework */}
             <section id="rbi-master-directions-cash-collection-rules" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. RBI Master Directions &amp; Regulatory Framework on Cash Collections and Fair Practice Codes
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Master Directions</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India has established stringent statutory guidelines to protect consumers against coercive, fraudulent, and opaque recovery mechanisms. Under the <strong>RBI Master Direction on Fair Practices Code for Lenders (DOR.ORG.REC.65/21.04.158/2022-23)</strong> and circulars on Outsourcing of Financial Services, the central bank has placed unambiguous legal restrictions on how recovery agents may interact with borrowers and handle loan repayments.
               </p>
@@ -571,9 +567,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 3: The Mechanics of Cash Misappropriation */}
             <section id="mechanics-of-cash-misappropriation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. The Mechanics of Cash Misappropriation: Why Cash Never Reaches Your Bank Loan Account
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Mechanics of Cash Misappropriation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The core danger of paying physical cash to a field recovery agent lies in the technical and accounting disconnection between third-party collection agencies and the bank&apos;s central database. Commercial banks operate on automated Core Banking Solutions (such as Finacle, BaNCS, or Flexcube). In this architecture, loan accounts are updated exclusively when funds enter the system through verified electronic clearing (NEFT, RTGS, NACH, IMPS) or through authorized branch teller terminals via dedicated Cash Management Services (CMS) transaction codes.
               </p>
@@ -617,9 +611,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 4: Bank Accounting & NPV Recovery Dynamics */}
             <section id="bank-accounting-npv-recovery-dynamics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Balance Sheet Economics, Recovery Quotas &amp; The Stressed Asset NPV Recovery Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Economics, Recovery Quotas</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To effectively counter aggressive recovery tactics, borrowers must understand how banks value delinquent loans on their institutional balance sheets. Under Reserve Bank of India (RBI) Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), once a loan remains unpaid for more than 90 days, it is classified as a Non-Performing Asset (NPA).
               </p>
@@ -691,9 +683,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="field-cash-vs-verified-settlement-visual-guide" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Visual Roadmap: Field Cash Demand vs. Verified Institutional Settlement Pathway
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Process Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual guide below illustrates the stark contrast between the high-risk trajectory of paying cash to field agents and the secure, advocate-supervised institutional settlement pathway governed by RBI compliance protocols.
               </p>
@@ -727,9 +717,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 6: Forensic Sanction Letter & Receipt Verification */}
             <section id="sanction-letter-receipt-forensics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Forensic Verification: Detecting Forged Letters &amp; Counterfeit Manual Receipts
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Forensic Verification</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 One of the most prevalent collection frauds in India involves recovery agencies generating counterfeit &quot;Settlement Offer Letters&quot; on forged bank stationery or PDF templates to entice borrowers into handing over cash. Before remitting any payment, borrowers must conduct a rigorous forensic audit of all settlement documentation.
               </p>
@@ -788,9 +776,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 7: Safe Institutional Payment Protocols */}
             <section id="safe-institutional-payment-protocols" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Safe Institutional Payment Protocols: CMS Challan, RTGS &amp; Official Portals
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Safe Institutional Payment Protocols</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When an authentic One-Time Settlement has been formally sanctioned by the lending institution, executing the payment through tamper-proof, legally verifiable banking channels is essential to guarantee complete debt discharge. Borrowers should strictly utilize the following three approved payment protocols:
               </p>
@@ -834,9 +820,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 8: Post-Settlement NDC & CIBIL Rectification */}
             <section id="post-settlement-ndc-cibil-rectification" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Post-Payment Closure: Enforcing 30-Day RBI No Dues Certificate &amp; CIBIL Bureau Clean-Up
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Post-Payment Closure</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Remitting the compromised settlement funds into the bank&apos;s official account is the financial culmination of your debt resolution, but securing absolute legal and credit immunity requires enforcing two mandatory post-settlement compliance steps:
               </p>
@@ -874,9 +858,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 9: Comparative Matrix */}
             <section id="direct-cash-vs-advocate-settlement-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Matrix: Direct Cash Handover vs. Advocate-Supervised Institutional Settlement
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the stark operational and legal differences between paying cash to a field recovery agent versus executing an advocate-negotiated institutional settlement demonstrates why direct cash handovers should never be entertained:
               </p>
@@ -934,9 +916,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
             {/* Section 10: SettleLoans Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Anti-Harassment &amp; Safe Debt Settlement Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Anti-Harassment</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   When facing aggressive recovery agents demanding cash payments, verbal intimidation, or threatening illegal home visits, you do not have to endure the ordeal alone. SettleLoans provides complete legal shielding: issuing formal cease-and-desist notices to unauthorized recovery agencies, reporting extortion to bank nodal authorities, auditing settlement documentation, and negotiating direct 40% to 70% One-Time Settlements with senior bank authorities backed by verified No Dues Certificates and ₹0 CIBIL bureau clearance.
                 </p>
@@ -950,9 +930,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Paying Recovery Agents &amp; Safe Debt Settlement
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Paying Recovery Agents &amp; Safe Debt Settlement</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers to essential questions regarding recovery agent cash demands, RBI guidelines, fake settlement receipts, and safe digital payment protocols in India.

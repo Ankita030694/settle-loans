@@ -511,9 +511,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 1: Regional Economic & Debt Landscape */}
             <section id="regional-economic-debt-landscape" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Debt Landscape in Varanasi &amp; Eastern UP: Regional Commercial Dynamics and Default Vulnerabilities
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Debt Landscape &amp; Borrowers in Varanasi &amp; Eastern UP</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Varanasi operates as the foundational economic, commercial, and logistical gateway for Eastern Uttar Pradesh, binding together vibrant trade networks spanning Prayagraj, Gorakhpur, Bhadohi, Mirzapur, Jaunpur, and Chandauli. The region’s economic lifeblood thrives upon specialized traditional sectors, notably the globally renowned Banarasi silk weaving and wholesale textile trade concentrated in commercial hubs such as Chowk, Thatheri Bazar, Madanpura, Peeli Kothi, Lallapura, and Godowlia. Surrounding this historic trade ecosystem is an expansive hospitality, tour, and pilgrimage infrastructure centered around the ancient Ghats, Kashi Vishwanath corridor, Sarnath, and Varanasi Cantonment, alongside an extensive transportation and building materials distribution corridor.
               </p>
@@ -527,9 +525,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 2: Statutory Protections & Civil Defense */}
             <section id="statutory-protections-civil-defense" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Protections &amp; Legal Defenses Against Unlawful Recovery Harassment in Varanasi
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Distressed borrowers must recognize that loan default caused by genuine commercial or personal financial hardship is strictly a civil breach of contract governed by the Indian Contract Act, 1872. It is neither a criminal offense nor an act of moral turpitude. The Reserve Bank of India (RBI), through its comprehensive Master Direction on Fair Practices Code and Directions on Recovery Agents, has established rigorous statutory boundaries governing how regulated lenders and their outsourced recovery agencies may interact with borrowers.
               </p>
@@ -552,9 +548,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 3: Varanasi Kutchery & Judicial Jurisdictions */}
             <section id="varanasi-kutchery-court-jurisdictions" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Varanasi Kutchery, District Courts &amp; Police Jurisdiction: Demarcating Civil vs. Criminal Law
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Varanasi Kutchery, District Courts &amp; Police Jurisdiction</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A primary tactic utilized by coercive collection agencies in Eastern Uttar Pradesh involves fabricating threats of imminent police arrest, criminal FIR registration, and non-bailable warrants. Understanding the precise demarcation between civil debt recovery and judicial jurisdiction at the Varanasi District &amp; Sessions Court Complex (popularly known as Varanasi Kutchery located at Orderly Bazar / Shivpur Road) is critical to maintaining composure and asserting legal rights.
               </p>
@@ -591,9 +585,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 4: Bank Accounting & NPV Formula */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Accounting Realities: NPA Provisioning Drag and the Net Present Value (NPV) Recovery Formula
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Realities</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To negotiate maximum debt waivers with public and private sector banks in Varanasi, borrowers must understand how commercial lenders classify and account for delinquent loans under Reserve Bank of India prudential norms. When a borrower misses scheduled repayments, the account transitions across defined delinquency stages: Special Mention Account 0 (SMA-0 for 1–30 days overdue), SMA-1 (31–60 days overdue), and SMA-2 (61–90 days overdue). Once overdue aging crosses 90 consecutive days, the bank is legally required to classify the loan as a Non-Performing Asset (NPA).
               </p>
@@ -625,9 +617,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="infographic-overview" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Visual Blueprint: The Complete Eastern UP Loan Settlement &amp; Legal Defense Roadmap
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Blueprint: The Complete Eastern UP Loan Settlement</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The infographic below outlines the end-to-end strategic progression of resolving unsecured personal loan defaults in Varanasi, Prayagraj, and Gorakhpur. From handling initial default notices and invoking RBI anti-harassment protections to structuring mathematical OTS offers and securing zero-balance No Dues Certificates through DLSA Lok Adalat benches:
               </p>
@@ -649,9 +639,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 6: Strategic OTS Negotiation Protocol */}
             <section id="ots-negotiation-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Strategic One-Time Settlement (OTS) Negotiation Framework for Eastern UP Borrowers
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Strategic One-Time Settlement (OTS) Negotiation Framework</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Achieving a favorable One-Time Settlement is a meticulous legal and financial discipline that requires precise timing, forensic account auditing, and institutional positioning. Unrepresented borrowers who attempt to negotiate directly with branch managers or recovery agents often encounter deceptive verbal promises, demands for token payments that get absorbed as penal charges, and settlement letters that lack legal validity. A professional advocate-led settlement follows a structured four-stage negotiation protocol:
               </p>
@@ -671,9 +659,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 7: DLSA Lok Adalat Settlement Mechanics */}
             <section id="dlsa-lok-adalat-settlement-mechanics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. District Legal Services Authority (DLSA) Lok Adalat Settlement Mechanics at Varanasi Kutchery
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. District Legal Services Authority (DLSA) Lok Adalat</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 One of the most potent institutional platforms for executing an ironclad, legally irreversible personal loan settlement in Eastern Uttar Pradesh is the National Lok Adalat, conducted under the aegis of the District Legal Services Authority (DLSA) Varanasi at the District Court Complex in Kutchery / Orderly Bazar.
               </p>
@@ -733,9 +719,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 8: Sanction Letter Forensics & CIBIL */}
             <section id="sanction-letter-forensics-ndc-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Sanction Letter Forensics, Zero-Balance No Dues Certificates (NDC) &amp; CIBIL Restoration
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Zero-Balance No Dues</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A personal loan settlement is legally incomplete and vulnerable until the borrower receives an authentic, verifiable Bank Settlement Sanction Letter followed by a definitive zero-balance No Dues Certificate (NDC). Deceptive recovery personnel frequently issue fake letterheads or unofficial WhatsApp memos to collect funds without updating the bank&apos;s core banking database. Seasoned advocates conduct rigorous forensic verification before advising clients to disburse settlement funds:
               </p>
@@ -752,9 +736,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
 
             {/* Section 9: Comparative Matrix Table */}
             <section id="comparative-matrix-litigation-vs-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Contested Civil Court Trial vs. Advocate-Led OTS Settlement: Strategic Comparison Matrix
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Contested Civil Court Trial vs. Advocate-Led OTS</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When faced with bank legal notices or court summons in Varanasi Kutchery, borrowers must evaluate the strategic distinctions between engaging in protracted court litigation and executing an advocate-negotiated One-Time Settlement:
               </p>
@@ -807,9 +789,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense &amp; Debt Resolution Advisory in Varanasi
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating an institutional debt crisis in Varanasi, Prayagraj, or Gorakhpur demands veteran banking advocates combined with seasoned financial negotiators. SettleLoans provides end-to-end legal protection and debt settlement representation for distressed silk merchants, hospitality business owners, and salaried professionals across Eastern Uttar Pradesh. Our legal team conducts emergency loan ledger audits, issues statutory Cease-and-Desist notices to halt recovery harassment, provides assertive court defense in Varanasi Kutchery for Section 138 NI Act and Section 25 PSSA summons, and negotiates deep 40% to 70% One-Time Settlements backed by official bank sanction letters, zero-balance No Dues Certificates, and binding DLSA Lok Adalat awards.
                 </p>
@@ -823,9 +803,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Personal Loan Settlement in Varanasi &amp; Eastern UP
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Varanasi &amp; Eastern UP</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding personal loan settlement, bank recovery harassment, Varanasi Kutchery court procedures, and DLSA Lok Adalat mechanics.

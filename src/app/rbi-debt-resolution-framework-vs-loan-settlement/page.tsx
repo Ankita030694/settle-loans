@@ -502,9 +502,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 1: The Core Dilemma */}
             <section id="core-dilemma-restructuring-vs-settlement" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Core Strategic Dilemma: Loan Restructuring under RBI Framework vs. Loan Settlement (OTS)
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Core Strategic Dilemma</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a borrower in India experiences acute financial distress—whether managing unsecured personal loans, high-limit credit cards, SME working capital facilities, or mortgage loans across institutions like State Bank of India, HDFC Bank, ICICI Bank, Axis Bank, Bank of Baroda, or Punjab National Bank—the impending threat of default forces a crucial crossroads. Borrowers are confronted with two fundamentally divergent institutional pathways: applying for structured loan modification under the <strong>Reserve Bank of India (RBI) Prudential Framework for Resolution of Stressed Assets</strong>, or executing a definitive debt compromise through a <strong>One-Time Settlement (OTS)</strong>.
               </p>
@@ -521,9 +519,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 2: Statutory & Regulatory Framework */}
             <section id="statutory-framework-rbi-prudential-directions" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory &amp; Regulatory Framework: RBI Prudential Directions vs. Civil Debt Compromise
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory &amp; Regulatory Framework</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The architecture governing stressed asset resolution in India is codified under distinct statutory instruments and central bank Master Directions. Lenders cannot arbitrarily restructure loans or grant compromise settlements without adhering to the precise regulatory mandates established by the Reserve Bank of India and federal commercial laws.
               </p>
@@ -583,9 +579,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 3: Anatomy of Restructuring */}
             <section id="anatomy-of-restructuring-tenure-moratorium" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Anatomy of Restructuring: Tenure Extension, Moratorium, Rate Recalibration &amp; Future Cash Flow Viability
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Anatomy of Restructuring</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a bank sanctions an RBI Debt Resolution Framework restructuring plan, it utilizes a combination of financial levers tailored to realign the borrower&apos;s debt servicing burden with their projected cash flows. Restructuring is neither a debt waiver nor a loan forgiveness program; it is a financial engineering mechanism that reschedules obligations across time.
               </p>
@@ -639,9 +633,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 4: Bank Accounting Economics & NPV Formula */}
             <section id="bank-accounting-economics-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Balance Sheet Economics, Provisioning Burdens &amp; The Net Present Value (NPV) Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Economics, Provisioning Burdens</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why banks agree to deep One-Time Settlement haircuts or why they hesitate on aggressive restructuring, one must analyze the institutional accounting constraints governing commercial lenders. Under RBI prudential norms, banks are not merely focused on recovering face amounts; they are ruthlessly managed according to <strong>regulatory provisioning drag</strong>, <strong>capital adequacy ratios (CAR)</strong>, and the <strong>Net Present Value (NPV) of recovery cash flows</strong>.
               </p>
@@ -746,9 +738,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 6: Strategic Decision Matrix */}
             <section id="strategic-decision-matrix-when-to-choose" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Strategic Decision Framework: When to Choose Restructuring vs. When to Settle
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Strategic Decision Framework</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Determining whether to pursue an RBI loan restructuring application or initiate One-Time Settlement negotiations is an institutional calculation that depends on three foundational parameters: <strong>permanence of income loss</strong>, <strong>collateral exposure</strong>, and <strong>long-term credit necessity</strong>.
               </p>
@@ -815,9 +805,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 7: Forensic Verification Checklist */}
             <section id="forensic-verification-addendums-and-sanctions" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Forensic Checklist for Restructuring Addendums vs. OTS Sanction Letters
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Forensic Checklist</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Whether executing an RBI restructuring addendum agreement or an OTS settlement sanction letter, borrowers face substantial legal risks if the underlying documentation is flawed. Banks and recovery desks frequently incorporate restrictive covenants, ambiguous terms, or one-sided indemnity clauses that leave the borrower exposed to future litigation.
               </p>
@@ -877,9 +865,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 8: CIBIL Bureau Dynamics */}
             <section id="cibil-bureau-dynamics-and-credit-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Long-Term CIBIL Credit Bureau Impact &amp; Post-Resolution Financial Rehabilitation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Long-Term CIBIL Credit Bureau Impact</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding how the credit rating bureaus—TransUnion CIBIL, Experian, Equifax, and CRIF High Mark—record debt resolution is essential for managing your future financial life. Under the Credit Information Companies (Regulation) Act, 2005 and RBI Master Directions, lenders are legally mandated to report the exact technical resolution code for every restructured or settled credit facility.
               </p>
@@ -937,9 +923,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 9: Comprehensive Comparative Matrix */}
             <section id="comprehensive-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. RBI Debt Restructuring vs. Loan Settlement Comprehensive Comparative Matrix
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. RBI Debt Restructuring vs. Loan Settlement Comprehensive</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The side-by-side comparative matrix below encapsulates the essential strategic, legal, financial, and credit differences between restructuring under the RBI Prudential Framework and executing a compromise One-Time Settlement (OTS):
               </p>
@@ -1007,9 +991,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense &amp; Strategic Debt Resolution Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating the complex boundary between RBI debt restructuring and a high-haircut One-Time Settlement requires seasoned debt defense advocates who understand banking jurisprudence, credit committee guidelines, and recovery economics. SettleLoans represents individual borrowers and business promoters across India: evaluating financial viability, halting third-party recovery harassment under RBI Fair Practices Codes, auditing loan contracts for illegal compounded levies, and negotiating directly with bank zonal committees to secure the most advantageous resolution—whether structuring a viable RBI restructuring plan or executing a deep 50% to 75% OTS haircut backed by an official, legally binding No Dues Certificate.
                 </p>
@@ -1023,9 +1005,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: RBI Restructuring vs. Loan Settlement
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: RBI Restructuring vs. Loan Settlement</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding the RBI Debt Resolution Framework, loan restructuring guidelines, One-Time Settlements, and borrower legal protections in India.

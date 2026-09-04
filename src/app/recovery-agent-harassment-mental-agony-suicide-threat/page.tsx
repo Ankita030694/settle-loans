@@ -512,9 +512,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Section 1: Anatomy of Psychological Harassment & The Despair Trap */}
             <section id="psychological-harassment-reality" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Anatomy of Psychological Harassment: How Recovery Pressure Induces Mental Agony
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Anatomy of Psychological Harassment</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When an individual experiences an unexpected financial catastrophe—whether resulting from corporate downsizing, catastrophic medical emergencies, prolonged business disruptions, or macro-economic inflation—their ability to maintain regular Equated Monthly Installments (EMIs) on unsecured personal loans and credit cards can collapse. While the Indian legal system explicitly categorizes loan default arising from genuine financial incapacity as a civil contractual dispute, the commercial reality experienced by borrowers on the ground is starkly different. Outsourced debt collection agencies routinely deploy aggressive psychological warfare designed to weaponize fear, social humiliation, and constant sensory overload against vulnerable citizens.
               </p>
@@ -528,9 +526,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Section 2: Statutory Deterrence: Section 108 BNS & Section 306 IPC */}
             <section id="statutory-deterrence-section-108-bns" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Deterrence: Section 108 BNS &amp; Section 306 IPC (Abetment to Suicide)
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Deterrence</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under the Indian penal framework, the law draws an unyielding boundary between legitimate civil recovery procedures and unlawful criminal coercion. When debt collection agents or banking personnel cross that boundary by subjecting a borrower to relentless torment that pushes them toward self-harm or suicide, the law ceases to view the dispute as a financial disagreement and treats it as a serious felony against human life.
               </p>
@@ -578,9 +574,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Section 3: Constitutional Sanctity: Article 21 & Supreme Court Mandates */}
             <section id="constitutional-sanctity-article-21" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Constitutional Sanctity: Article 21 &amp; Supreme Court Mandates on Borrower Dignity
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Constitutional Sanctity</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The defense of a distressed borrower in India is rooted in the highest constitutional protections guaranteed by the Constitution of India. Article 21 guarantees that no person shall be deprived of their life or personal liberty except according to procedure established by law. Over decades of jurisprudence, the Supreme Court of India has established that the right to life encompasses far more than mere animal existence; it guarantees the right to live with human dignity, mental peace, and freedom from unconstitutional physical or psychological coercion.
               </p>
@@ -597,9 +591,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Section 4: RBI Master Directions & Vicarious Liability */}
             <section id="rbi-master-directions-fair-practices" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. RBI Master Directions &amp; Fair Practices Code: Absolute Vicarious Liability of Regulated Entities
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. RBI Master Directions &amp; Fair Practices Code</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India has enacted rigorous, binding regulatory frameworks to govern debt collection practices across all Scheduled Commercial Banks, Non-Banking Financial Companies (NBFCs), and Small Finance Banks. These mandates are codified under the <em>Master Direction – Reserve Bank of India (Managing Risks and Code of Conduct in Outsourcing of Financial Services by Regulated Entities) Directions</em> and the <em>Master Circular on Fair Practices Code (FPC)</em>.
               </p>
@@ -657,9 +649,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Section 6: The 24-Hour Advocate Intervention */}
             <section id="twenty-four-hour-advocate-intervention" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. The 24-Hour Advocate Intervention: Cease-and-Desist Notices &amp; The Legal Shield
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The 24-Hour Advocate Intervention</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 For a distressed borrower suffering from intense anxiety, panic attacks, or despair, the most critical priority is achieving an immediate, permanent cessation of recovery agent calls and doorstep visits. Attempting to reason verbally with aggressive telecallers or field agents is rarely effective, as collection agencies operate under high-pressure commission quotas that incentivize aggressive badgering. The only method proven to halt harassment instantly is establishing formal legal representation.
               </p>
@@ -699,9 +689,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Section 7: Bank NPA Accounting, Provisioning Burdens & The NPV Recovery Model */}
             <section id="bank-npa-accounting-npv-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Bank NPA Accounting Realities: Provisioning Burdens &amp; The NPV Recovery Formula
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting Realities</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why financial distress can always be resolved without panic or despair, one must analyze the institutional economics that govern bad debt inside commercial banks and NBFCs. Under the Reserve Bank of India Prudential Norms on Income Recognition, Asset Classification and Provisioning, when a borrower defaults on an unsecured credit card or personal loan for more than 90 days, the lender is legally required to classify the account as a Non-Performing Asset (NPA).
               </p>
@@ -738,9 +726,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Section 8: Structured OTS Forensics: Sanction Letters & NDC */}
             <section id="structured-ots-sanction-ndc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Structured One-Time Settlement (OTS) Forensics: Sanction Letters &amp; No Dues Certificates
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Structured One-Time Settlement (OTS) Forensics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When borrowers are trapped in a cycle of harassment, a common and dangerous mistake is making panic-driven token payments or transferring funds via personal UPI to collection agents who promise verbally that calls will stop. Such informal payments are virtually always credited toward penal charges and overdue late fees, leaving the primary principal liability untouched and inviting renewed harassment within weeks.
               </p>
@@ -776,9 +762,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Section 9: Comparative Penal Matrix */}
             <section id="comparative-penal-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Matrix: Recovery Agent Violations, Penal Offenses &amp; Legal Remedies
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative statutory matrix below provides a definitive breakdown of common recovery agent harassment tactics, the corresponding penal provisions under the Bharatiya Nyaya Sanhita (BNS) and Indian Penal Code (IPC), specific RBI regulatory violations, and the precise legal remedies available to protect borrowers:
               </p>
@@ -838,9 +822,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
             {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-compassionate-defense" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Compassionate Legal Defense: Protecting Your Life, Dignity &amp; Future
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   No human being should ever experience the agony of waking up in terror of ringing phones, abusive debt collection threats, or fear of uninvited agents standing outside their home. Financial hardship is a life circumstance—it is never a moral failure, and it is never a crime. At SettleLoans, our mission is to stand as an unbreakable shield between distressed borrowers and predatory collection practices.
                 </p>
@@ -857,9 +839,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Recovery Harassment, Legal Rights &amp; Crisis Support
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Harassment, Legal Rights &amp; Crisis Support</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Verified legal answers regarding recovery agent harassment, Section 108 BNS abetment laws, mental health crisis resources, and debt settlement protocols in India.

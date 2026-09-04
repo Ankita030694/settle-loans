@@ -562,9 +562,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. SFB Credit Engine &amp; Recovery Architecture</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                AU Small Finance Bank&apos;s High-Velocity Growth &amp; Institutional Recovery Machinery
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">AU Small Finance Bank&apos;s High-Velocity Growth</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Headquartered in Jaipur, AU Small Finance Bank Limited is a leading Scheduled Commercial SFB with nationwide retail operations. Disbursing extensive volumes of unsecured personal loans, business installment facilities, and merchant credit lines, AU Bank deploys an aggressive recovery infrastructure to contain default rates across urban and semi-urban markets.
               </p>
@@ -590,9 +588,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                AU Bank Delinquency Lifecycle: From DPD 1–30 to Non-Performing Asset (NPA)
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">AU Bank Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 AU Small Finance Bank classifies loan delinquencies under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Expected Credit Loss (ECL) frameworks under Indian Accounting Standard 109 (Ind AS 109). Delinquent loans move through systematic Days Past Due (DPD) aging buckets, each triggering distinct institutional recovery measures, provisioning requirements, and settlement opportunities.
               </p>
@@ -663,9 +659,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How to Stop AU Bank Bounce Charges &amp; Halt Repeated NACH Presentations
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping AU Bank Bounce Charges &amp; NACH Hits</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 AU Small Finance Bank&apos;s automated treasury systems often present e-NACH mandates multiple times a month, triggering return charges of ₹250 to ₹500 from the borrower&apos;s bank and internal bounce fees of ₹500 to ₹750 plus GST from AU Bank, alongside penal interest.
               </p>
@@ -683,9 +677,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                AU Small Finance Bank One-Time Settlement (OTS) &amp; Haircut Valuation Matrix
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">AU Small Finance Bank One-Time Settlement (OTS)</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the RBI Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24), AU Small Finance Bank maintains a structured, board-approved compromise settlement framework. Rather than approving arbitrary concessions, the bank evaluates settlement proposals through a mathematical Net Present Value (NPV) recovery methodology.
               </p>
@@ -820,9 +812,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. SARB Negotiation &amp; Anti-Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Direct SARB Escalation vs Defending Against Third-Party Recovery Harassment
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Direct SARB Escalation vs Defending Against Third-Party</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Outsourced recovery agents and tele-callers operate under aggressive commission incentives but hold zero legal authority to approve debt haircuts or issue valid closure letters. Token payments extracted by field agents are routinely credited toward penal fees without resolving the default.
               </p>
@@ -840,9 +830,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step SFB Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Guide: How to Negotiate a Compromise Settlement with AU Small Finance Bank
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with AU Small</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally sound, cost-effective One-Time Settlement with AU Small Finance Bank requires a disciplined, evidence-based approach:
               </p>
@@ -922,9 +910,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Section 25 PSSA Notices, Arbitration &amp; National Lok Adalat
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Past 60 to 90 days delinquency, AU Small Finance Bank often issues statutory demand notices under Section 25 of the Payment and Settlement Systems Act (PSSA) and unilateral arbitration notices in Jaipur or Mumbai.
               </p>
@@ -986,9 +972,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Authenticating AU Small Finance Bank Settlement Letters &amp; Enforcing the ₹0 NDC
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating AU Small Finance Bank Settlement Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A critical risk in retail debt recovery involves unauthorized collection agents issuing fake settlement letters to collect partial payments. If a borrower transfers funds against an unverified or verbal offer, AU Small Finance Bank credits the money toward outstanding penal charges, leaving the default open and compounding.
               </p>
@@ -1006,9 +990,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory Post-Settlement &amp; Strategic 18-Month Recovery Plan
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Trajectory</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Completing a One-Time Settlement with AU Small Finance Bank results in the account being reported to all four licensed credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 70 to 120 points.
               </p>
@@ -1026,9 +1008,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Why Distressed AU Small Finance Bank Borrowers Trust SettleLoans
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Distressed AU Small Finance Bank Borrowers Trust</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Negotiating an optimal debt settlement with a fast-growing Scheduled Commercial Small Finance Bank like AU Bank requires rigorous financial analysis and dedicated legal advocacy. SettleLoans halts third-party recovery harassment through immediate cease-and-desist notices, defends against Section 25 PSSA summons, challenges unilateral arbitration notices, and negotiates directly with AU Bank&apos;s Stressed Asset Resolution Branch (SARB) and Zonal Credit Committees to secure maximum lawful debt waivers and authentic ₹0 No Dues Certificates.
               </p>
@@ -1045,9 +1025,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About AU Small Finance Bank Loan Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: AU Small Finance Bank Loan Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

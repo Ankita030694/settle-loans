@@ -519,9 +519,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 1: The Doorstep Ambush & Credential Checks */}
             <section id="doorstep-ambush-credentials-reality" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Crisis of Doorstep Debt Collection: Unannounced Ambush Tactics &amp; Psychological Coercion
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Crisis of Doorstep Debt Collection</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Few experiences in consumer banking are as distressing as an unexpected knock on the door by aggressive recovery agents. In Indian metropolitan cities and regional towns alike, borrowers facing involuntary financial setbacks—such as sudden job displacement, medical emergencies, or enterprise downturns—frequently experience unannounced doorstep ambushes. These field collectors typically arrive in groups, speak in authoritarian tones, demand instant cash handovers, and threaten immediate police action or public humiliation before neighbors and family.
               </p>
@@ -532,9 +530,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 2: Mandatory RBI Doorstep Credentials */}
             <section id="mandatory-rbi-doorstep-credentials" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Mandatory RBI Doorstep Credentials: The 3 Non-Negotiable Documents Every Agent Must Produce
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Mandatory RBI Doorstep Credentials</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under the Reserve Bank of India Master Direction on Fair Practices Code for Lenders and the Guidelines on Managing Risks and Code of Conduct in Outsourcing of Financial Services, no recovery agent may visit a borrower&apos;s residence without carrying three authenticated credentials. If an agent fails to present any of these documents upon demand, their presence is legally unauthorized and entry must be denied immediately.
               </p>
@@ -551,9 +547,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 3: Legal Right to Refuse Entry, Criminal Trespass & Privacy */}
             <section id="legal-right-to-refuse-entry-trespass" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. The Absolute Legal Right to Refuse Entry: Criminal Trespass, Constitutional Privacy &amp; Police Action
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Absolute Legal Right to Refuse Entry</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A widespread misconception is that defaulting on an unsecured personal loan or credit card grants lenders the right to enter private property or seize household goods. Under Indian jurisprudence, an unsecured debt default is strictly a civil contractual dispute governed by the Indian Contract Act, 1872. It does not constitute a criminal offense, nor does it grant recovery agents police powers or administrative search privileges.
               </p>
@@ -567,9 +561,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 4: Bank Economics & The NPV Recovery Equation */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Accounting Economics: Why Uncertified Agents Lie &amp; The Net Present Value (NPV) Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding the financial accounting governing delinquent retail loans explains why recovery agencies employ aggressive doorstep methods and why decisive legal pushback rapidly forces institutional compromise. Commercial banks operate under rigorous Reserve Bank of India prudential provisioning guidelines that mandate increasing capital deductions from quarterly profits as loans age through delinquency buckets.
               </p>
@@ -604,9 +596,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="doorstep-verification-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Visual Strategic Roadmap: Step-by-Step Doorstep Verification &amp; Recovery Defense
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Strategic Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the structured 4-pillar verification framework established by banking defense advocates to inspect visiting field agents, authenticate official credentials, invoke statutory protections, and eliminate illegal doorstep harassment.
               </p>
@@ -629,9 +619,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 6: The 4-Stage Doorstep Defense Protocol */}
             <section id="emergency-4-stage-confrontation-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. The 4-Stage Doorstep Defense Protocol: How to Handle Aggressive Field Agents Safely
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The 4-Stage Doorstep Defense Protocol</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When aggressive recovery agents arrive at your residence, emotional confrontation or verbal arguments often escalate tension. Seasoned debt defense advocates recommend executing a disciplined 4-stage protocol designed to enforce immediate legal boundaries and maintain personal safety.
               </p>
@@ -651,9 +639,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 7: Converting Violations into a 55% OTS */}
             <section id="forcing-compromise-settlement-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Converting Doorstep Harassment into Leverage for a 45%–65% One-Time Settlement (OTS)
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Doorstep Harassment into Leverage</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Aggressive doorstep visits signify that the lender is facing acute quarter-end recovery pressure and has exhausted standard automated collection channels. When an uncertified agency violates RBI Fair Practices Code mandates, they commit statutory breaches that expose the principal bank to substantial Banking Ombudsman penalties and reputational damage. In the hands of experienced debt defense advocates, these documented infractions become powerful leverage to negotiate an official One-Time Settlement (OTS).
               </p>
@@ -670,9 +656,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; CIBIL Bureau Rehabilitation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Executing a loan settlement requires strict forensic verification. Rogue collection agents frequently generate fraudulent settlement letters on WhatsApp or make deceptive verbal promises to collect partial token amounts that are subsequently misallocated to normal interest arrears. Borrowers must never transfer funds until the settlement sanction letter has been thoroughly vetted by legal counsel.
               </p>
@@ -689,9 +673,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 9: Comparative Matrix: Verified DRA Agent vs Uncertified Collection Agent vs Advocate OTS */}
             <section id="comparative-verification-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Matrix: Verified DRA Agent vs. Uncertified Field Collector vs. Advocate-Led OTS
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the legal standing, operating boundaries, and long-term financial consequences of different recovery interactions empowers borrowers to handle doorstep situations with clarity and authority:
               </p>
@@ -749,9 +731,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
             {/* Section 10: SettleLoans Legal Defense & Doorstep Protection Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense &amp; Doorstep Harassment Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Confronting unverified recovery agents and illegal doorstep harassment requires seasoned banking litigation advocates who understand how to enforce RBI Master Directions, invoke Supreme Court privacy protections, and draft hard-hitting criminal trespass and defamation notices. SettleLoans provides end-to-end legal defense for distressed borrowers across India: issuing emergency cease-and-desist notices to bank management, filing formal complaints with the RBI Banking Ombudsman, shielding your residential peace, and negotiating directly with bank zonal authorities to secure 45% to 65% principal haircuts backed by official, bank-stamped No Dues Certificates.
                 </p>
@@ -765,9 +745,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Recovery Agent Verification &amp; Doorstep Rights
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agent Verification &amp; Doorstep Rights</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding bank recovery agent ID cards, IIBF DRA certifications, and doorstep legal protections in India.

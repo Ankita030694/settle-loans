@@ -531,9 +531,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Specialized Education NBFC Architecture &amp; Risk Mechanics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                HDFC Credila&apos;s Institutional Underwriting, Portfolio Exposure &amp; Retail Debt Architecture
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">HDFC Credila&apos;s Institutional Underwriting, Portfolio</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 HDFC Credila Financial Services Limited operates as India&apos;s premier dedicated higher education Non-Banking Financial Company (NBFC), categorized under the Reserve Bank of India&apos;s Non-Deposit Taking Systemically Important (NBFC-ND-SI) framework. Originally established under the joint aegis of HDFC Limited and Credila, and backed by leading global private equity investors, the institution manages an extensive loan book covering tens of thousands of students across the United States, United Kingdom, Canada, Australia, Western Europe, and top domestic Indian universities.
               </p>
@@ -559,9 +557,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <GraduationCap className="w-4 h-4" />
                 <span>2. The Moratorium Trap &amp; Grace Period Compound Interest</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Anatomy of Moratorium Interest Capitalization &amp; Explosive Ledger Inflation
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Anatomy of Moratorium Interest Capitalization</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The most severe financial challenge in higher education debt is the structural compounding of interest during the moratorium or grace period. Under standard HDFC Credila loan sanction terms, borrowers receive a study moratorium spanning the academic program (typically 24 to 36 months) plus an additional grace window of 6 to 12 months post-graduation to secure employment. During this multi-year interval, interest accrues at floating retail rates ranging from 11.5% to 15.25% per annum.
               </p>
@@ -582,9 +578,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. Delinquency Timeline &amp; Balance-Sheet Provisioning</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                HDFC Credila Delinquency Lifecycle: From DPD 1-30 to Non-Performing Asset (NPA)
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">HDFC Credila Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Expected Credit Loss (ECL) frameworks under Ind AS 109, HDFC Credila categorizes defaulted education loans into precise Days Past Due (DPD) aging buckets. Understanding these milestones is essential for timing settlement interventions when the NBFC&apos;s motivation to compromise peaks.
               </p>
@@ -655,9 +649,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                HDFC Credila One-Time Settlement (OTS) Policies &amp; NPV Haircut Recovery Matrix
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">HDFC Credila One-Time Settlement (OTS) Policies</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the RBI Master Direction on Compromise Settlements, HDFC Credila operates a board-approved debt resolution policy. Settlement decisions are governed by rigorous financial modeling centered on Net Present Value (NPV) recovery benchmarks rather than arbitrary caller discretion.
               </p>
@@ -792,9 +784,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Co-Borrower Liability &amp; Anti-Harassment Protections</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Protecting Parent Co-Borrowers, Pensioners &amp; Workplace Immunity Under RBI Directives
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Protecting Parent Co-Borrowers, Pensioners</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Because students lack independent credit histories during university enrollment, HDFC Credila mandates parents, siblings, or guardians to sign as joint co-borrowers. Under Section 128 of the Indian Contract Act, 1872, the liability of a surety is co-extensive with the principal debtor, granting the lender the legal right to demand payment from either party upon default.
               </p>
@@ -815,9 +805,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Guide: How to Negotiate a Compromise Settlement with HDFC Credila
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with HDFC</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally secure, cost-effective One-Time Settlement with HDFC Credila requires a disciplined, evidence-based legal strategy:
               </p>
@@ -897,9 +885,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Legal Proceedings: Section 138, Section 25, SARFAESI &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Section 138 NI Act, Section 25 PSSA, SARFAESI Notices &amp; National Lok Adalat
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Section 138 NI Act, Section 25 PSSA, SARFAESI</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When an education loan crosses 60 to 90 days of default, HDFC Credila initiates formal legal escalation to establish psychological and procedural leverage. The nature of legal proceedings depends on whether the loan facility is unsecured or secured by real estate collateral.
               </p>
@@ -964,9 +950,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; Collateral Retrieval</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Authenticating HDFC Credila Settlement Letters &amp; Enforcing Collateral Deed Release
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating HDFC Credila Settlement Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A serious risk in retail debt recovery involves unauthorized collection callers issuing unverified or verbal settlement promises to collect partial payments. If funds are transferred against an informal offer, HDFC Credila credits the remittance toward accumulated penal charges, leaving the default open and compounding on credit bureau records.
               </p>
@@ -984,9 +968,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Dual Credit Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory Post-Settlement &amp; 18-Month Dual Credit Recovery Plan
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Trajectory</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Because an education loan involves joint liability, completing an OTS with HDFC Credila results in both the primary student and co-borrower having their credit profiles updated across all four licensed bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>.
               </p>
@@ -1023,9 +1005,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About HDFC Credila Education Loan Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: HDFC Credila Education Loan Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

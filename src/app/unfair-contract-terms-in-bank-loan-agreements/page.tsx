@@ -517,9 +517,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 1: Standard Adhesion Contracts & Banking Asymmetry */}
             <section id="demystifying-unfair-contracts" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying Standard Form Adhesion Contracts &amp; Banking Bargaining Asymmetry
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Demystifying Standard Form Adhesion Contracts</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When retail borrowers or micro, small, and medium enterprises (MSMEs) apply for credit facilities—whether personal loans, business overdrafts, credit card lines, or housing finance—they are invariably presented with voluminous, pre-printed or digitally encrypted standard form documentation. These agreements, known in jurisprudence as contracts of adhesion or &apos;take-it-or-leave-it&apos; agreements, are drafted exclusively by institutional lenders to maximize legal remedies, insulate the bank from operational risks, and impose onerous obligations on the borrower without any scope for individual negotiation.
               </p>
@@ -543,9 +541,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 2: Statutory Framework CPA Sec 2(46) & Precedents */}
             <section id="statutory-framework-cpa-sec-2-46" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Legal Framework: Section 2(46) CPA 2019 &amp; Supreme Court Precedents
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Framework</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Prior to 2019, aggrieved borrowers had to rely on general principles under Section 23 of the Indian Contract Act, 1872, asserting that unconscionable clauses were contrary to public policy—a standard that required lengthy and expensive civil litigation. The <strong>Consumer Protection Act, 2019 (CPA 2019)</strong> introduced <strong>Section 2(46)</strong>, providing an explicit, codified statutory definition of an &apos;unfair contract&apos; for the first time in Indian statutory history.
               </p>
@@ -607,9 +603,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 3: Anatomy of Oppressive Banking Clauses */}
             <section id="anatomy-of-abusive-loan-clauses" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Anatomy of Oppressive Banking Clauses: Penalties, Rate Hikes &amp; Arbitration
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Anatomy of Oppressive Banking Clauses</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A forensic examination of retail personal loan, credit card, and MSME facility agreements reveals specific clauses systematically crafted to undermine borrower protections while granting financial institutions unbridled discretionary powers. Distressed borrowers frequently encounter four dominant classes of abusive contractual covenants:
               </p>
@@ -660,9 +654,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 4: Bank NPA Accounting, Unfair Terms Provisioning & Recovery NPV Dynamics */}
             <section id="bank-npa-accounting-npv-dynamics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank NPA Accounting, Provisioning Burdens &amp; Recovery NPV Dynamics
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; NPV Dynamics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a borrower default occurs, banking institutions do not evaluate loan recovery solely through emotional or punitive lenses. Instead, institutional credit management is strictly governed by the Reserve Bank of India&apos;s <em>Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances (IRACP)</em>. Understanding these accounting imperatives reveals why establishing contractual invalidity provides overwhelming leverage in settlement negotiations.
               </p>
@@ -734,9 +726,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="unfair-terms-statutory-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Statutory Contractual Challenge &amp; Resolution Visual Roadmap
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Statutory Contractual Challenge</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the structured 5-stage institutional progression from unilateral clause identification and forensic contract auditing to filing a statutory challenge under CPA 2019 Section 2(46), obtaining judicial invalidation, and executing an advantageous One-Time Settlement (OTS).
               </p>
@@ -770,9 +760,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 6: Forensic Sanction Letter & Digital Loan Agreement Audit Protocol */}
             <section id="forensic-sanction-letter-audit" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Forensic Sanction Letter &amp; Key Fact Statement (KFS) Audit Protocol
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Forensic Sanction Letter</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Before challenging an oppressive loan contract before judicial authorities or the Banking Ombudsman, borrowers must conduct a meticulous forensic audit of all loan documentation executed at the inception of the credit facility and subsequent account statements:
               </p>
@@ -822,9 +810,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 7: Judicial Invalidation & Declaring Clauses Null & Void in Court */}
             <section id="judicial-invalidation-null-void" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Judicial Invalidation &amp; Declaring Loan Terms Null and Void in Consumer Court
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Judicial Invalidation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Consumer Protection Act, 2019 vests Consumer Disputes Redressal Commissions with expansive judicial powers to dismantle unfair contractual terms. Under <strong>Section 47(1)(a)(ii)</strong> and <strong>Section 58(1)(a)(ii)</strong>, State Commissions and the National Commission are expressly empowered to declare terms of contract which are unfair to any consumer to be null and void.
               </p>
@@ -874,9 +860,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 8: Converting Invalidation to 50%-70% OTS */}
             <section id="converting-challenge-into-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Strategic Leverage: Converting Contractual Invalidation into 50%–70% OTS
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Strategic Leverage</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 While judicial invalidation of unfair terms provides complete legal vindication, its most powerful practical utility is creating decisive bargaining power to achieve a rapid, favorable debt resolution. Under routine recovery conditions, branch collection personnel demand total outstanding balances including all compounded late fees and accrued charges.
               </p>
@@ -969,9 +953,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 10 & Company Section */}
             <section id="company-defense-section" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                10. SettleLoans Contractual Defense &amp; Debt Resolution Advisory
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Contractual Defense</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating complex banking regulations and confronting predatory standard form agreements requires seasoned legal advocacy and strategic financial negotiation. At <strong>SettleLoans</strong>, our specialized team of senior banking litigators, consumer law advocates, and debt resolution strategists provides complete legal protection for distressed borrowers across India.
               </p>
@@ -984,9 +966,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 11: FAQ Accordion */}
             <section id="faqs" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                11. Frequently Asked Questions: Unfair Contract Terms in Loan Agreements
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Unfair Contract Terms in Loan Agreements</h2>
               <div className="space-y-3">
                 {((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
                   <details

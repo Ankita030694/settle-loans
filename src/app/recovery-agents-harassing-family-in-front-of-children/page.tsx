@@ -522,9 +522,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 1: Home Harassment Crisis & Child Psychological Trauma */}
             <section id="home-recovery-harassment-child-trauma" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Trauma of Domestic Debt Intimidation: Rogue Agents Shouting and Banging Doors in Front of Children
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Trauma of Domestic Debt Intimidation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 There are few experiences more profoundly horrifying for a parent than having aggressive debt recovery agents descend upon their private residence, banging loudly on the main door, shouting abusive threats, and creating humiliating public scenes in full view of young children, elderly parents, or pregnant spouses. In recent years, third-party recovery agencies acting on behalf of commercial banks and digital lending NBFCs have weaponized residential terror tactics. These rogue agents calculate that by humiliating a borrower in front of their vulnerable family members and residential neighbors, they can trigger acute emotional panic and force instantaneous loan repayment.
               </p>
@@ -560,9 +558,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 2: Juvenile Justice Act & Child Protection Mandates */}
             <section id="statutory-child-protection-juvenile-justice-act" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Child Protection: Section 75 Juvenile Justice Act &amp; NCPCR Mandates Against Recovery Harassment
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Child Protection</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 While many borrowers believe that loan recovery disputes are governed exclusively by banking regulations, the Indian legal system provides powerful statutory protections for minors under specialized child welfare legislation. When collection agents shout, threaten violence, or create abusive scenes at a residence where children are present, their conduct falls squarely within the punitive ambit of the <strong>Juvenile Justice (Care and Protection of Children) Act, 2015</strong>.
               </p>
@@ -618,9 +614,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 3: Constitutional Privacy, Inviolability of Home & Criminal Law */}
             <section id="constitutional-privacy-domestic-peace-ipc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Constitutional Privacy, Inviolability of Home &amp; Criminal Law Provisions Under IPC and BNS
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Constitutional Privacy, Inviolability of Home</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In addition to child welfare statutes, the Supreme Court of India and criminal statutory codes provide an ironclad shield protecting families from residential intimidation. In the landmark case of <em>ICICI Bank Ltd. v. Shanti Devi Sharma (2008)</em>, the Supreme Court delivered a blistering condemnation of commercial banks employing musclemen and coercive collection agents to terrorize citizens at their residences, establishing that banks cannot recover debts through extra-legal coercion.
               </p>
@@ -674,9 +668,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Accounting Dynamics: Why Aggressive Agencies Target Homes &amp; The NPV Recovery Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Dynamics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To counter residential recovery harassment with confidence, borrowers must understand the commercial incentives motivating third-party recovery agencies. Commercial banks and NBFCs in India do not typically deploy direct bank branch managers to visit homes. Instead, when an unsecured personal loan or credit card account enters 60 to 90 days of default, the debt file is outsourced to external Direct Recovery Agencies (DRAs) working on high-risk, high-reward commission models ranging from 12% to 30% of recovered capital.
               </p>
@@ -748,9 +740,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="family-protection-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Visual Strategic Roadmap: Child &amp; Family Protection Against Aggressive Debt Recovery
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Strategic Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual strategic roadmap below details the structured 5-stage legal defense workflow deployed by banking defense advocates to protect families from residential harassment, enforce statutory child protections under the Juvenile Justice Act, lodge emergency police complaints, and negotiate an official compromise debt resolution.
               </p>
@@ -784,9 +774,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 6: The 4-Stage Emergency Police & Advocate Protocol */}
             <section id="emergency-4-stage-police-advocate-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. The Emergency 4-Stage Police &amp; Advocate Action Protocol for Home Harassment
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 4-Stage Police</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When recovery agents are screaming outside your front door or banging in corridors, arguing with them or panicking will not make them leave. Aggressive agents are trained to interpret emotional distress as psychological vulnerability. Borrowers must follow an exact, legally calibrated 4-stage protocol to protect their loved ones and neutralize the threat immediately:
               </p>
@@ -825,9 +813,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 7: Converting Home Harassment into an Affordable OTS */}
             <section id="leveraging-violations-for-55-percent-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Converting Home Harassment into an Affordable 45%–65% One-Time Settlement (OTS)
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Home Harassment into an Affordable 45%–65%</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Documented evidence of illegal home harassment and child intimidation provides borrowers with immense legal leverage. When banking advocates present irrefutable proof of regulatory violations to the bank&apos;s executive leadership, the lender becomes eager to resolve the dispute out of court before regulatory fines or criminal proceedings are initiated.
               </p>
@@ -877,9 +863,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 8: Sanction Letter Forensics, Direct Remittance & ₹0 NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Sanction Letter Forensics, Direct Bank Remittance, RBI ₹0 NDC Mandate &amp; CIBIL Recovery
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Bank Remittance, RBI ₹0</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When concluding a loan settlement after enduring collection harassment, borrowers must maintain rigorous procedural vigilance. Rogue collection agents often fabricate fake settlement letters on messaging apps or accept cash payments that are never credited toward loan closure. A borrower must never transfer funds until their legal counsel forensically validates the settlement sanction letter.
               </p>
@@ -917,9 +901,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 9: Comparative Legal Defense Matrix */}
             <section id="comparative-legal-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Matrix: Home Harassment vs. Legal Due Process vs. Police FIR vs. OTS
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding the legal avenues available to families facing residential debt harassment enables you to choose the most effective strategy to safeguard your home, protect your children, and resolve your outstanding debt:
               </p>
@@ -972,9 +954,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Child &amp; Family Protection Legal Defense Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Child</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Protecting your children, parents, and domestic peace from aggressive debt recovery requires fearless banking litigation advocates who understand how to enforce the Juvenile Justice Act, invoke Supreme Court privacy precedents, and file criminal complaints against rogue collection agencies. SettleLoans provides complete legal defense for distressed families across India: serving emergency cease-and-desist notices to bank management, filing formal complaints with local police and the RBI Banking Ombudsman, shielding your household, and negotiating directly with bank zonal authorities to secure 45% to 65% principal waivers backed by official, bank-stamped No Dues Certificates.
                 </p>
@@ -988,9 +968,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Recovery Agents Shouting at Home &amp; Child Protection Laws
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agents Shouting at Home</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to essential questions regarding residential collection harassment, minor psychological trauma under the Juvenile Justice Act, and emergency debt resolution in India.

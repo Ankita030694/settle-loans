@@ -454,9 +454,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Section 1: The Weekend and Holiday Doorstep Ambush */}
             <section id="weekend-holiday-doorstep-ambush" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Weekend &amp; Holiday Doorstep Ambush: Collection Psychology &amp; Family Distress
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Weekend &amp; Holiday Doorstep Ambush</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Defaulting on an unsecured personal loan, consumer credit line, or credit card balance creates tremendous emotional vulnerability. For salaried professionals and small business owners navigating financial distress, Sundays and gazetted public holidays represent the only sacred window for rest, family bonding, and mental recuperation. Regrettably, third-party collection agencies across India deliberately weaponize weekends and national holidays as psychological pressure points.
               </p>
@@ -479,9 +477,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Section 2: RBI Master Directions on Timing & Holiday Visits */}
             <section id="rbi-master-directions-holiday-visits" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Framework: RBI Directives on Timing, Prior Notice &amp; Holiday Visits
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Framework</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India (RBI) exercises comprehensive regulatory authority over scheduled commercial banks, non-banking financial companies (NBFCs), and housing finance corporations. Under Section 21 and Section 35A of the Banking Regulation Act, 1949, the directives issued by the RBI carry full statutory binding force across all lending institutions in India.
               </p>
@@ -529,9 +525,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Section 3: Privacy Rights & Sec 329 BNS Trespass */}
             <section id="constitutional-privacy-criminal-trespass" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Constitutional Sanctum: Right to Privacy &amp; Section 329 BNS Criminal Trespass
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Constitutional Sanctum</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The legal protection of a borrower&apos;s domestic environment is anchored in India&apos;s highest constitutional jurisprudence. In the landmark nine-judge Constitution Bench verdict in <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) 10 SCC 1</em>, the Supreme Court of India established that the Right to Privacy is an inalienable fundamental right under Article 21 (Right to Life and Personal Liberty).
               </p>
@@ -574,9 +568,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Section 4: Bank NPA Accounting Realities & NPV Recovery Formula */}
             <section id="bank-npa-accounting-npv-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank NPA Accounting Realities: Provisioning Burdens &amp; The NPV Recovery Formula
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting Realities</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why collection agencies deploy aggressive weekend ambushes rather than approaching civil courts, borrowers must understand the underlying accounting pressures governing non-performing loans in Indian banking. Under the Reserve Bank of India Prudential Norms on Income Recognition, Asset Classification and Provisioning, an unsecured retail loan or credit card facility is classified as a Non-Performing Asset (NPA) once repayments remain delinquent for more than 90 days.
               </p>
@@ -631,9 +623,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Section 6: Tactical Step-by-Step Response */}
             <section id="tactical-protocol-turning-away-agents" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Tactical Protocol: Lawfully Turning Away Unannounced Sunday &amp; Holiday Visitors
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Tactical Protocol</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When recovery agents arrive unannounced at your doorstep on a Sunday morning or a festive holiday, staying composed and executing a clear legal protocol prevents escalation while asserting your rights. You are not required to panic, apologize, or engage in lengthy verbal debates. Follow this step-by-step procedure to manage holiday doorstep visits:
               </p>
@@ -674,9 +664,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Section 7: Institutional Escalation */}
             <section id="institutional-escalation-ombudsman-police" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Institutional Escalation: Filing Grievances with Nodal Officers, RBI Ombudsman &amp; Police
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Institutional Escalation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a bank or NBFC allows its outsourced recovery agents to repeatedly violate holiday visit rules, borrowers should build a formal documentation trail and initiate multi-tiered regulatory escalation. Documenting every unannounced visit, audio recording, and CCTV footage transforms subjective distress into actionable institutional evidence.
               </p>
@@ -690,9 +678,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Section 8: Direct OTS Settlement Protocols */}
             <section id="cease-and-desist-ots-negotiation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Direct OTS Settlement Protocols: Cease-and-Desist Notices, Sanction Letters &amp; NDC
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Direct OTS Settlement Protocols</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Stopping Sunday visits is essential for immediate peace of mind, but permanently eliminating debt-related stress requires a conclusive legal closure of the delinquent account. Making sporadic token payments to visiting agents only extends delinquency and invites future harassment. The only legally binding solution is executing an institutional One-Time Settlement (OTS).
               </p>
@@ -728,9 +714,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Section 9: Comparative Legal Matrix */}
             <section id="comparative-enforcement-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Matrix: Recovery Channels, Permissible Timings &amp; Holiday Rules
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative matrix below details the legal boundaries, permissible visiting schedules, entry authority, and borrower protections across various debt recovery mechanisms in India:
               </p>
@@ -790,9 +774,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
             {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense Framework: Shielding Your Weekends &amp; Resolving Debt
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   No individual or family should have to spend weekends living in anxiety of aggressive debt collectors banging on their door, shouting in residential corridors, or disrupting sacred festival celebrations. At SettleLoans, our experienced banking lawyers, consumer defense advocates, and senior financial negotiators provide robust nationwide representation for distressed borrowers. We immediately enforce your fundamental privacy rights and statutory protections under the RBI Fair Practices Code and Section 329 BNS. By serving formal legal notices and Vakalatnama on bank executives, we put an immediate end to uninvited holiday visits and negotiate directly with credit committees to secure structured 40% to 65% One-Time Settlements backed by official No Dues Certificates.
                 </p>
@@ -806,9 +788,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Recovery Agent Sunday &amp; Holiday Rules
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agent Sunday &amp; Holiday Rules</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, verified legal answers regarding recovery agent restrictions on weekends, holiday visit rules, criminal trespass, and debt settlement in India.

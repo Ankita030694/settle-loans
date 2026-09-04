@@ -525,9 +525,7 @@ export default function Page() {
                   <Building2 className="w-4 h-4" />
                   <span>1. Kanpur Industrial &amp; Trade Realities</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  The Unsecured Debt Crisis for Leather Exporters, Factory Workers &amp; Merchants in Kanpur
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Landscape &amp; Borrowers</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   As the primary industrial powerhouse of Central Uttar Pradesh, Kanpur is anchored by its leather tanning and export manufacturing belt in Jajmau, industrial clusters in Panki and Dada Nagar, defense production establishments, and wholesale trading markets in Nayaganj, General Ganj, Birhana Road, and Naveen Market. The city also supports dense retail zones in Gumti No. 5 and Govind Nagar, alongside professionals affiliated with IIT Kanpur and GSVM Medical College.
                 </p>
@@ -553,9 +551,7 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; High Court Norms</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  NPA Classification Aging &amp; Allahabad High Court Civil Debt Safeguards
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under the RBI&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), overdue accounts progress through Special Mention Account stages (SMA-0 to SMA-2) during the initial 90 days. Once non-payment crosses 90 days, the account is classified as a Non-Performing Asset (NPA), requiring banks to lock capital provisions ranging from 15% for Substandard assets up to 100% for Loss assets.
                 </p>
@@ -617,9 +613,7 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. Kanpur Nagar Court &amp; Section 138/25 Defense</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Defending Legal Notices in Kanpur Nagar District Court (Civil Lines) &amp; CJM Courts
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Kanpur Nagar Courts</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   When cheques or electronic NACH mandates bounce, bank legal departments issue statutory demand notices under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> or <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong>, threatening complaints in the Chief Judicial Magistrate (CJM) Courts at Civil Lines.
                 </p>
@@ -637,9 +631,7 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Account Shielding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Banker&apos;s Right of General Lien (Section 171) &amp; Commercial Account Protection
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s Right of General Lien (Section 171)</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under Section 171 of the Indian Contract Act, 1872, banks possess a right of general lien to set off funds across accounts maintained within that same institution under the matching CIF/PAN. If an enterprise or salaried individual defaults, the lender may unilaterally sweep balances from linked savings or current accounts.
                 </p>
@@ -681,9 +673,7 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  OTS Haircut Mechanics &amp; The Net Present Value (NPV) Recovery Benchmark
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV Benchmarks</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Bank Settlement Committees on Mall Road and Civil Lines evaluate compromise settlement offers against an institutional <strong>Net Present Value (NPV) Recovery Valuation Benchmark</strong>. Pursuing multi-year civil suits or DRT litigation entails substantial advocate fees, court expenses, and capital locked in provisioning.
                 </p>
@@ -713,9 +703,7 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. RBI Anti-Harassment &amp; Police Limits</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Enforcing the RBI Fair Practices Code &amp; Restricting Police Interference in Kanpur
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices &amp; Police Interference in Kanpur</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   The <strong>RBI Master Directions on Recovery Agents (2022)</strong> strictly forbid collection calls before 8:00 AM or after 7:00 PM, prohibit abusive language, and ban visits to workplaces, factories, or family members. Agents must carry valid bank authorization and preserve client confidentiality.
                 </p>
@@ -730,9 +718,7 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>8. 5-Step Zonal SARB Settlement Protocol</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  5-Step Legal Protocol for Settling Debt with Kanpur Zonal Desks
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Legal Protocol</h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Achieving a binding One-Time Settlement with banks in Kanpur follows a structured, advocate-led five-stage legal protocol:
                 </p>
@@ -806,9 +792,7 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Rebuilding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Sanction Letter Forensics, Mandatory ₹0 NDC &amp; 24-Month CIBIL Repair
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC Mandate</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Borrowers must never remit funds based on verbal promises or informal messages. A valid <strong>OTS Sanction Letter</strong> must appear on official bank letterhead with branch seals, officer codes, exact compromised figures, an explicit debt extinguishment clause, and NDC issuance commitments.
                 </p>

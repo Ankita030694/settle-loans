@@ -562,9 +562,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. SFB Credit Model &amp; Default Pressures</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding Ujjivan Small Finance Bank&apos;s Credit Architecture &amp; Recovery Pressures
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding Ujjivan Small Finance Bank&apos;s Credit</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Ujjivan Small Finance Bank Limited (Ujjivan SFB), licensed under Section 22 of the Banking Regulation Act, 1949, operates an extensive retail credit book spanning unsecured personal loans, micro and small enterprise (MSE) business lines, and micro-banking facilities. Retaining operational roots in community microfinance, the bank deploys intensive recovery mechanisms upon missed installments—including automated dialers, repetitive e-NACH presentation sweeps, and prompt Kendra manager field visits.
               </p>
@@ -587,9 +585,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Ujjivan SFB Delinquency Lifecycle: From SMA Categories to Non-Performing Asset (NPA)
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Ujjivan SFB Delinquency Lifecycle: SMA to NPA</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Prudential Norms on Income Recognition and Asset Classification (IRACP) alongside Ind AS 109 Expected Credit Loss rules, Ujjivan SFB categorizes overdue facilities into regulated Days Past Due (DPD) aging brackets. Navigating these stages is vital for timing an optimal compromise settlement proposal.
               </p>
@@ -660,9 +656,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>3. RBI Protections Against Coercive Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                RBI Statutory Protections Against Coercive Collection for SFB &amp; Micro-Loan Borrowers
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">RBI Protections Against Coercive Collection</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Small Finance Banks operate under strict RBI supervision. Under the RBI Master Direction – Regulatory Framework for Microfinance Loans (2022) and the Master Circular on Fair Practices Code, recovery agents and field staff are legally prohibited from employing abusive collection tactics.
               </p>
@@ -677,9 +671,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>4. Halting NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How to Halt Ujjivan SFB Bounce Charges &amp; Stop Repeated NACH Presentations
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Ujjivan SFB Bounce Charges &amp; NACH Hits</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Repetitive electronic NACH presentations drain borrower liquidity through dual bounce charges levied by both the destination bank and Ujjivan SFB. Under RBI Fair Lending Practice directives (2023), banks are prohibited from compounding penal charges or capitalizing overdue interest into principal.
               </p>
@@ -694,9 +686,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>5. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Ujjivan SFB One-Time Settlement (OTS) &amp; Haircut Valuation Matrix
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Ujjivan SFB One-Time Settlement (OTS)</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Master Directions on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), Ujjivan SFB assesses settlement proposals using mathematical Net Present Value (NPV) recovery benchmarks. Since unsecured loans lack attachable collateral, immediate cash recovery is weighed favorably against the friction, legal expenses, and provisioning drag of multi-year litigation.
               </p>
@@ -828,9 +818,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step SFB Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Guide: How to Negotiate a Compromise Settlement with Ujjivan SFB
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with Ujjivan</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally sound One-Time Settlement with Ujjivan Small Finance Bank follows six structured phases:
               </p>
@@ -910,9 +898,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Section 25 PSSA Notices, Arbitration &amp; National Lok Adalat
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Ujjivan SFB frequently serves statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates, or Section 138 NI Act for bounced cheques. These are compoundable quasi-criminal notices, not arrest warrants. Issuing a formal legal reply within 15 days citing genuine hardship establishes conciliation channels for OTS.
               </p>
@@ -971,9 +957,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Authenticating Ujjivan SFB Settlement Letters &amp; Enforcing the ₹0 NDC
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating Ujjivan SFB Settlement Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers must never deposit settlement funds on verbal promises. Verify that the OTS sanction letter is issued on official Ujjivan Small Finance Bank Limited letterhead with Corporate Identification Number (CIN: L65110KA2004PLC035381), registered Bengaluru address, proposal reference number, authorized signatory code, and branch seal.
               </p>
@@ -988,9 +972,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory Post-Settlement &amp; Strategic 18-Month Credit Recovery
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery (18M)</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Post-settlement, Ujjivan SFB updates credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> and an outstanding balance of <strong>₹0</strong>. While causing an initial temporary dip, it stops active default degradation and eliminates legal risk.
               </p>
@@ -1024,9 +1006,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About Ujjivan Small Finance Bank Loan Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Ujjivan Small Finance Bank Loan Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

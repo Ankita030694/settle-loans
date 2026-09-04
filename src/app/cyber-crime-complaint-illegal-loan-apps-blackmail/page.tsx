@@ -510,9 +510,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 1: Anatomy of Illegal Loan App Scams */}
             <section id="anatomy-of-illegal-loan-app-scams-and-blackmail" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Anatomy of 7-Day Chinese Loan App Scams &amp; Cyber Extortion Syndicates
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Anatomy of 7-Day Chinese Loan App Scams</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Across India, hundreds of thousands of unsuspecting smartphone users have fallen prey to organized transnational cyber syndicates operating predatory mobile lending applications. Promoted aggressively through social media platforms, search engine advertisements, and third-party Android Package Kit (APK) distribution websites under deceptive names such as <em>Cash Advance, Speed Loan, Rupee Master, Quick Credit, Lightning Rupee, or Easy Loan</em>, these applications present themselves as hassle-free financial lifelines promising instant unsecured credit with zero documentation.
               </p>
@@ -529,9 +527,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 2: Statutory Legal Framework */}
             <section id="statutory-framework-bns-it-act-rbi-digital-lending" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Legal Framework: BNS, IT Act &amp; RBI Digital Lending Guidelines
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Framework</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The operations of illegal loan applications violate multiple federal statutes, constitutional privacy mandates, and central banking directives in India. Both criminal law and regulatory jurisprudence provide sweeping protections to borrowers while subjecting syndicate operators and local recovery goons to severe non-bailable criminal penalties.
               </p>
@@ -591,9 +587,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 3: Deconstructing Blackmail Playbook */}
             <section id="contact-list-scraping-and-morphed-photo-blackmail" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Deconstructing the Blackmail Playbook: Contact Scraping &amp; Extortion Mechanics
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Deconstructing the Blackmail Playbook</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Predatory lending applications rely on sophisticated psychological warfare designed to induce panic, shame, and immediate financial surrender. By deconstructing the operational architecture of these extortion rings, victims can systematically neutralize their leverage.
               </p>
@@ -641,9 +635,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 4: Extortion Trap Economics & Zero Liability */}
             <section id="extortion-trap-economics-and-infinite-recovery-loop" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. The Extortion Trap Economics &amp; Zero-Liability Legal Nullity
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. The Extortion Trap Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical mistake made by panic-stricken victims is believing that paying the demanded amount will end the nightmare. In digital extortion psychology, remitting money confirms vulnerability and validates the effectiveness of the blackmail.
               </p>
@@ -751,9 +743,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 6: Step-by-Step Cybercrime Portal Reporting */}
             <section id="step-by-step-cybercrime-portal-and-1930-reporting" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Step-by-Step Guide: Filing an Online FIR on cybercrime.gov.in &amp; National Helpline 1930
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Guide</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Ministry of Home Affairs (MHA), Government of India, operates the <strong>National Cyber Crime Reporting Portal (NCRP)</strong> at <a href="https://cybercrime.gov.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline font-semibold">cybercrime.gov.in</a> alongside the dedicated 24x7 <strong>Citizen Financial Cyber Fraud Reporting Helpline (1930)</strong>. Registering your complaint through these official channels creates an immutable legal record and triggers nationwide inter-agency enforcement.
               </p>
@@ -826,9 +816,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 7: Chakshu Portal Reporting */}
             <section id="chakshu-portal-reporting-and-telecom-blocking" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Chakshu Portal Reporting: Suspending Fraudulent Numbers, WhatsApp &amp; UPI Handles
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Chakshu Portal Reporting</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A major breakthrough in combating digital lending syndicates is the <strong>Chakshu facility</strong>, launched by the Department of Telecommunications (DoT) under the <strong>Sanchar Saathi</strong> initiative (<a href="https://sancharsaathi.gov.in/sfc" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline font-semibold">sancharsaathi.gov.in/sfc</a>). Chakshu empowers citizens to report suspected fraud communications received via phone calls, SMS, or WhatsApp messages before a financial loss occurs.
               </p>
@@ -889,9 +877,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 8: Legal Immunity Protocols */}
             <section id="legal-immunity-and-stopping-third-party-harassment" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Legal Immunity Protocols: Defending Against Contact Defamation &amp; Harassment
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Legal Immunity Protocols</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The single most terrifying threat deployed by loan app extortionists is contacting the victim&apos;s family members, friends, or employer. Implementing a proactive communication and legal immunity protocol neutralizes this tactic before the syndicate can inflict emotional damage.
               </p>
@@ -944,9 +930,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 9: Comparative Matrix */}
             <section id="legal-vs-illegal-lending-apps-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Legitimate NBFC Digital Lenders vs. Illegal Extortion Loan Apps Matrix
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Legitimate NBFC Digital Lenders vs. Illegal Extortion</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Differentiating between regulated digital lenders and fraudulent extortion syndicates is crucial for determining the appropriate legal strategy:
               </p>
@@ -999,9 +983,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
             {/* Section 10: CompanySection Component */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Emergency Cyber Defense &amp; Loan Harassment Advocacy
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Emergency Cyber Defense</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating the trauma of illegal loan app blackmail requires swift, decisive legal intervention from experienced debt defense and cyber law advocates. At SettleLoans, our legal team provides comprehensive emergency protection: drafting immediate cyber crime complaints for the National Portal (cybercrime.gov.in), facilitating local police station FIR registration under the BNS and IT Act, coordinating with telecom authorities on the Chakshu platform to disconnect predator numbers, serving cease-and-desist notices to rogue recovery agencies, and providing victims with absolute legal immunity and peace of mind.
                 </p>
@@ -1015,9 +997,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Cyber Crime Complaints Against Loan Apps
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Cyber Crime Complaints Against Loan Apps</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding illegal loan app blackmail, cyber cell FIR registration, and borrower rights in India.

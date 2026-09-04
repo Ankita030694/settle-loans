@@ -509,9 +509,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 1: Constitutional Jurisprudence & Article 226 */}
             <section id="constitutional-jurisprudence-article-226" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Constitutional Jurisprudence: Invoking Article 226 Against Unlawful Bank Recovery Harassment
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Constitutional Jurisprudence</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In the Indian legal landscape, financial distress and loan default represent civil contractual matters governed by civil remedies, summary suits, or specialized statutory tribunals like the Debt Recovery Tribunal (DRT). However, when commercial banks, Non-Banking Financial Companies (NBFCs), or their outsourced Direct Recovery Agents (DRAs) resort to extra-judicial coercion, physical stalking, verbal abuse, residential sit-ins, and extortionate threats, the nature of the dispute shifts radically from a commercial default into a grave violation of constitutional rights.
               </p>
@@ -535,9 +533,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 2: Statutory Framework & Landmark Precedents */}
             <section id="statutory-framework-landmark-precedents" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Legal Framework, Maintainability of Writs &amp; High Court Precedents
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Framework, Maintainability of Writs</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A primary jurisdictional challenge frequently raised by bank legal counsel in High Court proceedings is the question of writ maintainability. Banks often argue that private scheduled commercial lenders or NBFCs do not fall under the strict definition of &apos;State&apos; under Article 12, or that the existence of alternate statutory forums—such as civil courts, the Banking Ombudsman, or DRT under the SARFAESI Act—bars constitutional writ intervention.
               </p>
@@ -594,9 +590,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 3: Threshold for Constitutional Intervention & Police Inaction */}
             <section id="threshold-for-constitutional-intervention" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Threshold for Constitutional Intervention: Documenting Criminal Intimidation &amp; Police Inaction
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Threshold for Constitutional Intervention</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Because an Article 226 Writ Petition is an extraordinary equitable remedy, the High Court expects a rigorous standard of pleadings demonstrating both <strong>unlawful predatory conduct by the bank</strong> and <strong>complete failure or refusal of the local state machinery to protect the petitioner</strong>. Simply receiving polite loan reminders or lawful demand notices does not warrant writ intervention. The threshold requires establishing active criminal intimidation, extortion, unauthorized physical trespass, or acute mental harassment.
               </p>
@@ -650,9 +644,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 4: Bank NPA Accounting, Capital Provisioning Burdens & NPV Recovery Model */}
             <section id="bank-npa-accounting-npv-recovery-dynamics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank NPA Accounting, Provisioning Burdens &amp; NPV Recovery Dynamics
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting, Provisioning Burdens</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To appreciate why an Article 226 High Court Writ Petition produces overwhelming leverage in debt settlement negotiations, one must analyze the institutional mechanics of banking accounting and regulatory provisioning under the Reserve Bank of India&apos;s <em>Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)</em>.
               </p>
@@ -724,9 +716,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="high-court-writ-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. High Court Article 226 Writ Petition &amp; Police Protection Visual Roadmap
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. High Court Article 226 Writ Petition</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the 5-stage institutional progression executed by constitutional banking advocates: from compiling evidence and recording police inaction to urgent High Court mentioning, securing ad-interim restraining orders, and converting judicial leverage into a permanent debt settlement.
               </p>
@@ -760,9 +750,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 6: Step-by-Step Article 226 High Court Writ Petition Drafting & Mentioning Protocol */}
             <section id="step-by-step-article-226-filing-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Step-by-Step Article 226 High Court Writ Petition Drafting &amp; Urgent Mentioning Protocol
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Article 226 High Court Writ Petition</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Filing an Article 226 Writ Petition before a State High Court requires exacting precision in legal drafting, procedural compliance, and strategic presentation. High Court Benches demand concise, fact-backed pleadings supported by unassailable documentary exhibits:
               </p>
@@ -822,9 +810,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 7: Enforcing Judicial Restraining Orders & Contempt of Court Proceedings */}
             <section id="restraining-orders-contempt-proceedings" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Enforcing Judicial Restraining Orders &amp; Contempt of Court Proceedings
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Enforcing Judicial Restraining Orders</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once the High Court passes an interim restraining order, the legal dynamic changes irrevocably. A High Court order carries the full constitutional authority of a Court of Record under Article 215 of the Constitution. A certified copy of the judicial order is immediately served upon the State Police Commissioner, the local Police Station In-charge, the Bank Managing Director, and the head of the third-party recovery agency.
               </p>
@@ -878,9 +864,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 8: Strategic Settlement Leverage: Converting High Court Writ into 50%–70% OTS */}
             <section id="strategic-settlement-leverage-50-70-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Strategic Settlement Leverage: Converting Constitutional Writ into 50%–70% One-Time Settlement (OTS)
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Strategic Settlement Leverage</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 While securing police protection and terminating collection harassment are vital milestones, the ultimate financial objective for any distressed borrower is achieving a permanent, debt-free resolution. An active Article 226 Writ Petition before the High Court creates the highest possible negotiation leverage, shifting the balance of power decisively in favor of the borrower.
               </p>
@@ -912,9 +896,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 9: Comparative Matrix: High Court Writ vs Other Legal Forums */}
             <section id="redressal-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Bank Recovery Harassment Legal Redressal Comparative Matrix
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Bank Recovery Harassment Legal Redressal Comparative</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers facing severe recovery harassment often evaluate multiple legal avenues. The comprehensive comparative matrix below analyzes jurisdictional reach, speed of interim relief, police enforcement power, and settlement leverage across all major Indian legal forums:
               </p>
@@ -980,9 +962,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 10 & Company Section */}
             <section id="company-resolution-section" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                10. SettleLoans High Court Constitutional Legal Defense &amp; Debt Resolution Advisory
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans High Court Constitutional Legal Defense</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Facing criminal intimidation, physical harassment, and relentless debt pressure can be an overwhelming ordeal for individuals and business owners. At <strong>SettleLoans</strong>, our specialized team of senior High Court banking advocates, constitutional litigation specialists, and seasoned debt compromise negotiators provides an unyielding shield for distressed borrowers across India.
               </p>
@@ -995,9 +975,7 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Section 11: FAQ Accordion */}
             <section id="faqs" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                11. Frequently Asked Questions: High Court Writ Petitions Against Bank Harassment
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: High Court Writ Petitions Against Bank Harassment</h2>
               <div className="space-y-3">
                 {((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
                   <details

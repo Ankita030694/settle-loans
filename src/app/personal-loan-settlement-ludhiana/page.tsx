@@ -467,9 +467,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 1: The Industrial & Salaried Debt Crisis in Ludhiana & Punjab */}
             <section id="industrial-debt-crisis-ludhiana-punjab" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Industrial &amp; Salaried Debt Crisis in Ludhiana: Manufacturing Cycles &amp; Cash Flow Deficits
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Industrial &amp; Salaried Debt Crisis in Ludhiana</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Ludhiana serves as the manufacturing hub of Northern India, renowned for its textile mills in Focal Point, hosiery clusters in Sundar Nagar, bicycle manufacturing in Industrial Area B, and auto-parts foundries along the GT Road corridor. However, local manufacturers face extreme cash flow volatility. Extended 90-to-180-day buyer credit cycles, cancelled export consignments, and fluctuating raw material prices frequently trap MSMEs in severe working capital deficits.
               </p>
@@ -492,9 +490,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 2: Statutory Protections & Legal Defences against Bank Harassment in Punjab */}
             <section id="statutory-protections-punjab-relief-rbi" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Protections &amp; Punjab Indebtedness Laws: Safeguards Against Coercive Recovery
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections &amp; Punjab Indebtedness Laws</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers in Punjab are safeguarded by both central banking regulations and state-specific statutory protections. The <em>Punjab Relief of Indebtedness Act, 1934</em> curbs usurious interest rates, limits penal compounding, and regulates debt enforcement, preventing lenders from inflating dues with arbitrary penalties.
               </p>
@@ -542,9 +538,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 3: Civil Court & DRT Jurisdictions in Punjab */}
             <section id="civil-court-drt-jurisdiction-ludhiana" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Judicial Architecture: Civil Courts in Ludhiana &amp; Chandigarh DRT Jurisdictions
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Judicial Architecture</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Lenders pursuing unsecured debts in Punjab must approach competent civil and criminal courts depending on the claim quantum and instruments involved.
               </p>
@@ -569,9 +563,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 4: Bank NPA Accounting Realities & The NPV Recovery Valuation Formula */}
             <section id="bank-npa-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank NPA Accounting &amp; The NPV Recovery Valuation Benchmark
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks agree to substantial OTS waivers due to mandatory RBI provisioning norms. Under RBI Prudential Norms (IRACP), unsecured loans are classified as Non-Performing Assets (NPAs) after 90 days of non-payment.
               </p>
@@ -626,9 +618,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 6: Tactical Step-by-Step Defense & Advocate-Led Settlement Protocol */}
             <section id="advocate-defense-negotiation-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Advocate-Led Tactical Defense &amp; Debt Settlement Protocol
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Advocate-Led Tactical Defense &amp; Debt Settlement Protocol</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Negotiating directly with branch managers or recovery agents often leads to partial token payments being credited to penal charges rather than settling principal debt. A conclusive compromise requires a structured 5-stage legal protocol:
               </p>
@@ -665,9 +655,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 7: Sanction Letter Forensics & Verification */}
             <section id="sanction-letter-forensics-waivers" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Sanction Letter Forensics: Verifying Waivers &amp; Eliminating Fraud
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Sanction Letter Forensics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Distressed borrowers often fall prey to fake settlement letters fabricated by rogue collection agents. Paying funds against unofficial receipts leaves the loan active and subject to fresh demand notices.
               </p>
@@ -707,9 +695,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 8: Post-Settlement No Dues Certificate (NDC) & CIBIL Commercial / Retail Credit Rectification */}
             <section id="ndc-cibil-commercial-credit-repair" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Post-Settlement Closure: No Dues Certificate &amp; Credit Rebuilding
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. No Dues Certificate &amp; Credit Rebuilding</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under RBI Circular <em>RBI/2023-24/60</em>, lenders must issue an official No Dues Certificate (NDC) and release documents within 30 days of settlement payment.
               </p>
@@ -790,9 +776,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
             {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-punjab-legal-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense Framework: Protecting Punjab Borrowers
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Managing debt distress while operating a factory in Focal Point or maintaining a salaried career in Ludhiana requires expert advocacy. SettleLoans provides complete legal defense across Punjab. We stop recovery harassment through statutory Cease-and-Desist notices, represent borrowers before Ludhiana Courts and Chandigarh DRT, and negotiate directly with bank committees to secure 40% to 65% One-Time Settlements with official No Dues Certificates.
                 </p>
@@ -806,9 +790,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Debt Settlement in Ludhiana &amp; Punjab
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Ludhiana &amp; Punjab</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Verified legal answers regarding personal loan settlement, business debt compromise, court proceedings, and borrower rights across Ludhiana, Jalandhar, and Amritsar.

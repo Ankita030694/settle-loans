@@ -225,7 +225,7 @@ export default function LegalHelpForLoanSettlementPage() {
                                     { id: "lok-adalat-path", title: "Lok Adalat: The Secret Path" },
                                     { id: "counsel-comparison", title: "Lawyer vs Settlement Agency" },
                                     { id: "sarfaesi-defense", title: "SARFAESI & DRT Protection" },
-                                    { id: "lok-adalat", title: "Lok Adalat: The Secret Path" },
+                                    { id: "lok-adalat", title: "Lok Adalat Settlement Rules" },
                                     { id: "document-verification", title: "No Dues Audit Process" },
                                     { id: "harassment-shield", title: "The Anti-Harassment Shield" },
                                     { id: "settlement-costs", title: "Fee Structures & ROI" },
@@ -354,7 +354,7 @@ export default function LegalHelpForLoanSettlementPage() {
                         </section>
 
                         <section id="lok-adalat" className="scroll-mt-32 mb-16 mt-16 text-justify">
-                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Lok Adalat: The Secret Path to Debt Freedom</h2>
+                            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Lok Adalat Settlement Rules &amp; Benefits</h2>
                             <p className="text-lg leading-relaxed mb-6">
                                 Often misunderstood, Lok Adalat is a powerful Alternative Dispute Resolution (ADR) mechanism where borrowers and banks meet on neutral ground.
                             </p>

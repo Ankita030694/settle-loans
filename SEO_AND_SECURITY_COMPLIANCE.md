@@ -89,4 +89,13 @@ All HTTP responses must output:
 * **Global UI & Layout Components:** Shared components (Headers, Footers, Sidebars, Modals, Banners) MUST NEVER contain `<h2>` elements. Use CSS-styled `<div>` or `<span>` elements instead.
 * **Content Body Usage:** `<h2>` elements are strictly reserved for structural section titles inside the main content area (`<main>` or `<article>`).
 
+---
+
+## 11. Readability & Heading Optimization Guidelines
+* **Heading Length:** Keep all `<h2>` subheadings strictly under **70 characters** (recommended: 35–60 characters) for optimal scannability and mobile viewport compatibility.
+* **Heading Uniqueness:** All `<h2>` tags within a single page must be unique (zero duplicate `<h2>` titles on the same URL) to provide distinct semantic topic signals.
+* **Sentence Structure & Chunking:** Keep body paragraph blocks concise (under 3–4 sentences per block where feasible, sentences under 25–30 words).
+* **Lists & Structured Data:** Utilize bullet points and numbered lists for legal procedures, statutory steps, calculation models, and technical financial definitions.
+
+
 

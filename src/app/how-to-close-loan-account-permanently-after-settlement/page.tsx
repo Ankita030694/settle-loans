@@ -511,9 +511,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 1: The Reality of Loan Settlement — Why Paying OTS Does Not Automatically Close Your Account */}
             <section id="illusion-of-settlement-unclosed-accounts" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Illusion of Settlement: Why Paying Your OTS Amount Does Not Automatically Close Your Loan Account
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Illusion of Settlement</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A dangerous misconception persists among retail borrowers in India: the belief that transferring the agreed settlement amount under a One-Time Settlement (OTS) letter immediately extinguishes their financial obligation. In the operational reality of commercial banking, paying a settlement amount is merely the preliminary financial step of an intricate multi-tier accounting procedure. When a borrower deposits settlement funds into a designated collection account or makes an electronic transfer via RTGS or NEFT, those funds do not automatically terminate the underlying credit contract or update external regulatory registries.
               </p>
@@ -527,9 +525,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 2: Step 1 — Bank Ledger Zeroing & Core Banking Solution (CBS) System Reconciliation */}
             <section id="step-1-bank-ledger-zeroing-cbs-audit" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Step 1: Bank Ledger Zeroing &amp; Core Banking Solution (CBS) System Reconciliation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Step 1: Bank Ledger Zeroing</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The first indispensable step in achieving permanent loan closure is verifying the complete zeroing of the master account ledger inside the lender&apos;s Core Banking Solution. Every commercial loan comprises distinct sub-ledgers: the Principal Outstanding Ledger, the Normal Interest Accrual Ledger, the Penal Interest Ledger, and the Administrative / Legal Cost Surcharge Ledger. During a compromise settlement, the bank agrees to accept a portion of the principal while waiving the remainder of the principal alongside all accrued interest and penalties.
               </p>
@@ -543,9 +539,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 3: Step 2 — Securing the Physical Branch No Dues Certificate (NDC) with Official Bank Seal */}
             <section id="step-2-physical-branch-ndc-seal" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Step 2: Securing the Physical Branch No Dues Certificate (NDC) with Official Seal &amp; Signatures
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Step 2: Securing the Physical Branch No Dues Certificate</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In an era dominated by automated customer service portals and system-generated email communications, retail borrowers often make the grave mistake of accepting an informal email or electronic payment confirmation as proof of loan extinguishment. In the eyes of Indian commercial and civil courts, digital transaction confirmations only establish that money changed hands; they do not establish that the contract was mutually discharged or that the creditor waived its statutory right to claim residual balances under the Indian Contract Act, 1872.
               </p>
@@ -570,9 +564,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 4: Step 3 — NPCI NACH & e-Mandate Revocation to Eliminate Unauthorized Auto-Debits */}
             <section id="step-3-npci-nach-emandate-cancellation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Step 3: NPCI NACH &amp; e-Mandate Revocation to Eliminate Unauthorized Auto-Debits
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Step 3: NPCI NACH</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Among the most pervasive and damaging post-settlement complications in India is the continuation of automated electronic clearing debits against the borrower&apos;s primary savings or salary account. When you originally availed the credit facility, you executed a National Automated Clearing House (NACH) mandate or electronic mandate (e-Mandate) authorized through net banking, debit card, or physical Aadhaar-based authentication through the National Payments Corporation of India (NPCI) clearing gateway.
               </p>
@@ -586,9 +578,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="end-to-end-closure-infographic" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. 5-Step End-to-End Loan Account Closure Protocol: Institutional Roadmap
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. 5-Step End-to-End Loan Account Closure Protocol</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Achieving absolute legal immunity and finality following a loan settlement requires executing every phase of the standard 5-step banking closure protocol:
               </p>
@@ -611,9 +601,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 6: Step 4 — Canceling Electronic Clearing Service (ECS) & Standing Instructions (SI) */}
             <section id="step-4-ecs-standing-instructions-revocation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Step 4: Canceling Electronic Clearing Service (ECS) &amp; Standing Instructions on Salary Accounts
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step 4: Canceling Electronic Clearing Service (ECS)</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In addition to NPCI NACH mandates, older loan accounts or internal banking relationships frequently utilize legacy Electronic Clearing Service (ECS) debits or internal Standing Instructions (SI). If you maintain an active savings or salary account with the exact same commercial bank where you settled your loan, the bank may retain internal automated auto-sweep rules programmed into your customer relationship file.
               </p>
@@ -627,9 +615,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 7: Step 5 — Credit Information Company (CIBIL/Experian/Equifax/CRIF) Zero Balance Update */}
             <section id="step-5-cibil-credit-bureau-clearance" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Step 5: Credit Bureau Rectification (CIBIL, Experian, Equifax, CRIF) &amp; Disputing Phantom Dues
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Step 5: Credit Bureau Rectification (CIBIL, Experian,</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The ultimate verification of permanent loan closure occurs within the registries of India&apos;s four RBI-licensed Credit Information Companies: TransUnion CIBIL, Experian India, Equifax, and CRIF High Mark. Under Section 19 of the Credit Information Companies (Regulation) Act, 2005 (CICRA), regulated lending institutions are required to submit monthly credit updates detailing the accurate status and outstanding balance of every credit facility within 30 days of the close of each reporting month.
               </p>
@@ -643,9 +629,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 8: Legal Protections Against Zombie Debt Revival, ARC Assignments & Criminal Notices */}
             <section id="zombie-debt-arc-legal-protections" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Defending Against Zombie Debt Revival, ARC Assignments &amp; Unlawful Legal Notices
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Defending Against Zombie Debt Revival, ARC Assignments</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical danger confronting borrowers who neglect comprehensive loan closure protocols is the emergence of <strong>zombie debt</strong>. Commercial banks frequently package non-performing loan books into multi-crore distressed debt pools and assign them to Asset Reconstruction Companies (ARCs) under Section 5 of the SARFAESI Act, 2002. Due to sloppy data reconciliation between originating bank branches and central credit management teams, settled accounts with residual ledger balances are occasionally included in these wholesale debt assignments.
               </p>
@@ -659,9 +643,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 9: Institutional NPA Accounting, NPV Calculations & Provisioning Reversals */}
             <section id="npv-accounting-npa-derecognition" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. NPA Accounting, Net Present Value (NPV) &amp; Institutional Balance Sheet De-Recognition
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. NPA Accounting, Net Present Value (NPV)</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To appreciate why banks willingly execute compromise settlements and zero out ledgers, one must examine the institutional economics of Non-Performing Assets under RBI prudential norms. Once an unsecured loan is classified as a loss asset, the bank is legally obligated to allocate 100% of the unpaid balance from its core operational revenues as bad-debt provisioning. This locked capital impairs the bank&apos;s Capital Adequacy Ratio (CAR) and reduces shareholder return on equity.
               </p>
@@ -689,9 +671,7 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Section 10: Comparative Matrix Table — Incomplete Settlement vs Flawless 5-Step Closure */}
             <section id="comparative-closure-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                10. Comparative Matrix: Informal / Incomplete Settlement vs Flawless 5-Step Permanent Loan Closure
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Reviewing the structural operational differences illustrates why retail borrowers must strictly enforce the complete 5-step post-settlement closure protocol:
               </p>
@@ -745,9 +725,7 @@ export default function PermanentLoanAccountClosurePage() {
             {/* Section 11: SettleLoans Legal Defense & Closure Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. SettleLoans Legal Defense &amp; Permanent Loan Closure Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating the bureaucratic inertia of major Indian commercial banks and NBFCs requires experienced legal advocates specializing in banking jurisprudence, RBI consumer protection mandates, NPCI clearing rules, and credit bureau dispute resolution. SettleLoans provides comprehensive end-to-end legal representation: conducting forensic Core Banking ledger audits, compelling lenders to issue physical branch No Dues Certificates within the statutory 30-day window under RBI Circular RBI/2023-24/60, revoking NACH/e-Mandates, and rectifying credit bureau discrepancies to ensure your loan is permanently and irrevocably closed with absolute legal finality.
                 </p>
@@ -761,9 +739,7 @@ export default function PermanentLoanAccountClosurePage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  12. Frequently Asked Questions: Permanent Loan Account Closure Protocol
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">12. FAQs: Permanent Loan Account Closure Protocol</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding bank ledger reconciliation, branch No Dues Certificates, NPCI mandate cancellations, and credit bureau updates in India.

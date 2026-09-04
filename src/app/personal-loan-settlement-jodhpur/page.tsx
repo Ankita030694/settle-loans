@@ -522,9 +522,7 @@ export default function Page() {
                   <Building2 className="w-4 h-4" />
                   <span>1. Jodhpur &amp; Western Rajasthan Debt Realities</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  The Unsecured Debt Dilemma for Exporters, Solar Contractors &amp; Professionals in Jodhpur
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Landscape &amp; Borrowers</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   As Rajasthan&apos;s judicial capital and Western Rajasthan&apos;s commercial hub, Jodhpur hosts thriving wooden furniture and handicraft export clusters in Boronada and Basni, solar EPC contractors across the Bhadla renewable corridor, textile printing units in Pali, and major medical and educational centers. Over recent years, aggressive credit disbursement by PSU banks, private commercial lenders, and NBFCs created heavy unsecured debt exposure across Sardarpura, Ratanada, Shastri Nagar, and Chopasni.
                 </p>
@@ -547,9 +545,7 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; High Court Jurisprudence</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  NPA Classification Aging &amp; Rajasthan High Court Debt Protections
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under RBI&apos;s Prudential IRACP norms, debt settlement negotiations align directly with delinquency aging. Loans transition from Special Mention Accounts (SMA-0 to SMA-2) into Non-Performing Assets (NPAs) after 90 days of non-payment, requiring banks to set aside mandatory capital provisions from operational profits:
                 </p>
@@ -611,9 +607,7 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. Paota District Court &amp; Section 138/25 Defense</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Defending Statutory Notices in Jodhpur District Courts (Paota) &amp; CJM Courts
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Jodhpur Courts</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   When NACH electronic mandates or cheques bounce, bank legal departments issue statutory demand notices under Section 25 PSSA or Section 138 NI Act through magistrate courts at Paota. Borrowers must respond within the mandatory <strong>15-day statutory window</strong> to prevent automatic complaint filing under Section 142 NI Act.
                 </p>
@@ -628,9 +622,7 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Salary Shielding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Banker&apos;s Right of General Lien (Section 171) &amp; Salary Account Protection
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s Right of General Lien (Section 171)</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under Section 171 of the Indian Contract Act, 1872, a lending bank can set off balances against accounts held within that exact same bank under the same CIF. However, lenders cannot freeze or appropriate funds maintained in separate, independent banks without a formal Civil Court order.
                 </p>
@@ -645,9 +637,7 @@ export default function Page() {
                   <Sparkles className="w-4 h-4" />
                   <span>5. Visual Resolution Roadmap</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Personal Loan Settlement Roadmap in Jodhpur &amp; Western Rajasthan
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Personal Loan Settlement Roadmap in Jodhpur</h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   The visual roadmap below details the complete stage-by-stage debt resolution lifecycle in Jodhpur—from financial hardship audit and Paota court notice defense to RBI anti-harassment shielding, Zonal SARB negotiations, and final ₹0 No Dues Certificate delivery.
                 </p>
@@ -672,9 +662,7 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  OTS Haircut Mechanics &amp; The Net Present Value (NPV) Recovery Benchmark
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV Benchmarks</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under RBI compromise guidelines, Zonal Settlement Committees in Paota and Sardarpura evaluate OTS proposals using Net Present Value (NPV) recovery economics rather than discretionary leniency. Civil suits or DRT litigation require 4 to 7 years with high legal costs and negligible collateral recovery on unsecured loans.
                 </p>
@@ -704,9 +692,7 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. Anti-Harassment &amp; Police Limits in Jodhpur</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Enforcing the RBI Fair Practices Code &amp; Restricting Police Interference in Jodhpur
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   The RBI Master Directions on Recovery Agents (2022) strictly prohibit contacting borrowers before 8 AM or after 7 PM, using abusive language, contacting employers or relatives, or making unauthorized visits.
                 </p>
@@ -721,9 +707,7 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>8. 5-Step Zonal SARB Settlement Protocol</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  5-Step Legal Protocol for Settling Personal Loans with Jodhpur Zonal Desks
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Settlement Protocol in Jodhpur Zonal Desks</h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Our advocate-led roadmap bypasses third-party tele-callers to negotiate directly with authorized bank zonal authorities:
                 </p>
@@ -797,9 +781,7 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Rebuilding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Sanction Letter Forensics, Mandatory ₹0 NDC &amp; 24-Month CIBIL Repair
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC Mandate</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Borrowers must never remit settlement funds without a verified, official bank OTS sanction letter on bank letterhead stating loan account numbers, payment timelines, explicit full debt extinguishment, and NDC commitments.
                 </p>
@@ -814,9 +796,7 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>10. Comparative Resolution Matrix</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Comparing Debt Resolution Pathways for Borrowers in Western Rajasthan
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Resolution Pathways in Western Rajasthan</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Evaluating all available legal and financial debt resolution avenues in Jodhpur and Western Rajasthan helps borrowers select the optimal strategy based on debt quantum, financial capacity, and speed of execution:
                 </p>
@@ -872,9 +852,7 @@ export default function Page() {
                   <Landmark className="w-4 h-4" />
                   <span>11. SettleLoans Legal Defense &amp; Advisory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Premier Loan Settlement &amp; Legal Defense Services in Jodhpur
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SettleLoans Legal Defense in Jodhpur</h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Navigating unpayable unsecured debt across Jodhpur, Boronada, Basni, Pali, and Bikaner requires decisive legal representation to stop collection agency harassment, defend statutory notices in Paota courts, and negotiate directly with bank Zonal Credit Committees for maximum debt relief. SettleLoans provides end-to-end legal and financial advocacy to help borrowers across Western Rajasthan reclaim their financial independence.
                 </p>

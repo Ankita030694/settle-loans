@@ -511,9 +511,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* Section 1: Definitional Foundations */}
             <section id="definitional-foundations-and-mechanics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Definitional Foundations: Foreclosure vs. Prepayment vs. Settlement
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Definitional Foundations</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When borrowers evaluate methods to terminate or reduce their outstanding credit obligations across commercial banks and Non-Banking Financial Companies (NBFCs) in India, they encounter three distinct financial mechanisms: <strong>Loan Foreclosure</strong>, <strong>Part-Prepayment</strong>, and <strong>Loan Settlement</strong>. While retail borrowers often use these terms interchangeably, their legal structures, banking accounting workflows, credit bureau ramifications, and cost-benefit calculations are fundamentally different.
               </p>
@@ -530,9 +528,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* Section 2: Statutory & Regulatory Framework */}
             <section id="rbi-statutory-framework-and-foreclosure-rules" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. RBI Statutory Framework: Zero Foreclosure Charges &amp; Fair Practices Code
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Foreclosure Rules &amp; Fair Practices</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The regulatory architecture governing early loan closure and distressed debt resolution in India is strictly supervised by the Reserve Bank of India (RBI) through its Master Directions and consumer protection directives. Understanding these statutory protections empowers borrowers to enforce their legal rights against unauthorized bank charges or coercive recovery practices.
               </p>
@@ -569,9 +565,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* Section 3: CIBIL & Credit Bureau Forensics */}
             <section id="cibil-credit-bureau-forensics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. CIBIL &amp; Credit Bureau Forensics: Closed vs. Settled vs. Written Off
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. CIBIL Forensics: Settled vs Written Off</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under the Credit Information Companies (Regulation) Act, 2005 (CICRA), every regulated lending institution in India is statutorily mandated to submit monthly credit performance data to the four authorized credit bureaus: TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. The manner in which your loan exit is reported fundamentally dictates your future creditworthiness, cost of borrowing, and financial mobility for nearly a decade.
               </p>
@@ -634,9 +628,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* Section 4: Financial Economics, NPV & Taxation */}
             <section id="financial-economics-npv-and-taxation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Financial Economics, NPV Recovery Formulas &amp; Income Tax Implications
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Financial Economics &amp; NPV Formulas</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The mathematical decision to foreclose, prepay, or settle hinges on net present value economics and institutional accounting mechanics. When evaluating a settlement offer from a distressed borrower, banking recovery committees evaluate the offer against the <strong>Net Present Value of Legal Recovery</strong>:
               </p>
@@ -727,9 +719,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* Section 6: Step-by-Step Execution Protocols */}
             <section id="step-by-step-execution-protocols" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Step-by-Step Execution Protocols: Foreclosure, Prepayment &amp; OTS
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Execution Protocols</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Executing your chosen loan exit pathway requires rigorous adherence to statutory banking workflows to prevent unbilled administrative charges, lingering ECS mandates, or invalid settlement agreements.
               </p>
@@ -779,9 +769,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* Section 7: Sanction Letter & Settlement Forensics */}
             <section id="sanction-letter-and-settlement-forensics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Sanction Letter &amp; Settlement Agreement Forensics: Critical Clauses &amp; Waivers
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Sanction Letter &amp; Agreement Audit</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Executing a loan settlement without rigorous legal examination of the sanction letter exposes borrowers to grave financial risks. Unscrupulous collection agents often provide unauthorized verbal assurances, collecting payments that the bank later treats as partial overdue repayments rather than a binding settlement.
               </p>
@@ -834,9 +822,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
 
             {/* Section 8: Post-Exit Documentation & CIBIL Rebuilding */}
             <section id="post-exit-documentation-ndc-and-credit-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Post-Exit Documentation: No Dues Certificate, Title Deed Return &amp; CIBIL Rebuilding
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Post-Exit NDC &amp; CIBIL Rebuilding</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The financial lifecycle of a loan does not conclude when the final payment clears; complete legal closure requires securing statutory discharge documents, releasing collateral charges, and managing credit bureau restoration.
               </p>
@@ -995,9 +981,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Foreclosure vs. Prepayment vs. Settlement
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Foreclosure vs. Prepayment vs. Settlement</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding loan exit strategies, RBI foreclosure fee guidelines, CIBIL reporting differences, and debt resolution in India.

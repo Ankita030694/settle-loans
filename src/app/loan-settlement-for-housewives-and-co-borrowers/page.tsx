@@ -649,9 +649,7 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
 
             {/* Section 9: Comparative Matrix: Myth vs Law */}
             <section id="comparative-defense-matrix" className="space-y-3">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Matrix: Recovery Threats vs. Statutory Reality
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <div className="overflow-x-auto my-4">
                 <table>
                   <thead>
@@ -695,9 +693,7 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-4">
               <div className="border-t border-slate-200 pt-6 space-y-3">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense &amp; Non-Earning Family Member Protection
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   SettleLoans provides complete legal defense for vulnerable non-earning co-borrowers and homemakers across India. Our advocates halt unlawful collection harassment, assert Stridhan protections, file RBI Ombudsman grievances, and negotiate directly with bank zonal authorities to secure 45% to 65% principal waivers with authentic No Dues Certificates.
                 </p>

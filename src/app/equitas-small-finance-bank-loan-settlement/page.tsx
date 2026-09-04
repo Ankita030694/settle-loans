@@ -562,9 +562,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. SFB Credit Model &amp; Default Pressures</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding Equitas Small Finance Bank&apos;s Credit Architecture &amp; Recovery Pressures
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding Equitas Small Finance Bank&apos;s Credit</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Equitas Small Finance Bank Limited (Equitas SFB) holds a prominent position in India&apos;s differentiated banking ecosystem. Transitioning from a major microfinance non-banking financial institution into a full-fledged Scheduled Commercial Bank licensed under Section 22 of the Banking Regulation Act, 1949, Equitas SFB maintains a substantial credit portfolio. Its asset book is heavily concentrated in unsecured personal loans, micro-business loans (MBL), self-employed merchant credit lines, used commercial vehicle financing, and small enterprise working capital facilities.
               </p>
@@ -590,9 +588,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Equitas SFB Delinquency Lifecycle: From SMA Categories to Non-Performing Asset (NPA)
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Equitas SFB Delinquency Lifecycle: SMA to NPA</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances (IRACP) and Expected Credit Loss (ECL) frameworks under Indian Accounting Standard 109 (Ind AS 109), Equitas Small Finance Bank classifies overdue credit facilities into strictly regulated Days Past Due (DPD) aging buckets. Understanding these institutional classifications is vital for timing compromise settlement negotiations to achieve maximum debt relief.
               </p>
@@ -663,9 +659,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How to Halt Equitas SFB Bounce Charges &amp; Stop Repeated NACH Presentations
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Equitas SFB Bounce Charges &amp; NACH Hits</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A primary driver of financial distress among defaulted borrowers is the uninhibited compounding of electronic auto-debit return charges. Equitas Small Finance Bank&apos;s automated treasury operations frequently re-present electronic NACH mandates two to four times in a single billing cycle. When a borrower&apos;s operating bank account lacks sufficient balance, the destination bank levies a return fee ranging from ₹250 to ₹500 plus GST per bounce, while Equitas SFB simultaneously debits internal late payment and return charges of ₹450 to ₹800 plus GST.
               </p>
@@ -689,9 +683,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Equitas SFB One-Time Settlement (OTS) &amp; Haircut Valuation Matrix
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Equitas SFB One-Time Settlement (OTS)</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the RBI Master Direction on Compromise Settlements and Technical Write-offs (DOR.STR.REC.20/21.04.048/2023-24), Equitas Small Finance Bank adheres to a board-approved compromise settlement policy. Rather than relying on subjective staff discretion, the bank evaluates debt settlement proposals using a mathematical Net Present Value (NPV) recovery methodology.
               </p>
@@ -819,9 +811,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Recovery Practices &amp; RBI Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Against Equitas SFB Recovery Practices Under RBI Statutory Directives
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Equitas SFB Recovery Practices Under RBI</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Equitas Small Finance Bank utilizes a combination of internal branch recovery executives and outsourced Debt Recovery Agencies (DRAs). Due to high recovery incentive targets, ground-level collection agents frequently cross regulatory boundaries by conducting persistent telephonic harassment, visiting borrower business premises or residences during peak hours, and attempting to contact family members, employers, or business acquaintances whose contact numbers were listed as references during loan onboarding.
               </p>
@@ -839,9 +829,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step SFB Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Guide: How to Negotiate a Compromise Settlement with Equitas SFB
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with Equitas</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally airtight, financially optimized One-Time Settlement with Equitas Small Finance Bank requires a structured, evidence-backed approach:
               </p>
@@ -921,9 +909,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Section 25 PSSA Notices, Arbitration &amp; National Lok Adalat
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When an unsecured personal loan or micro-business facility remains overdue past 60 to 90 days, Equitas Small Finance Bank frequently serves statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates, or Section 138 of the Negotiable Instruments Act, 1881 for bounced security cheques.
               </p>
@@ -988,9 +974,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Authenticating Equitas SFB Settlement Letters &amp; Enforcing the ₹0 NDC
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating Equitas SFB Settlement Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A critical risk in retail debt recovery involves unscrupulous collection agents issuing unverified or verbal settlement promises to collect partial payments. If a borrower deposits money without an authentic, authorized sanction letter, Equitas SFB credits the funds toward accrued penal interest and late charges, keeping the default active and compounding.
               </p>
@@ -1008,9 +992,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory Post-Settlement &amp; Strategic 18-Month Credit Recovery
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery (18M)</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Completing a One-Time Settlement with Equitas Small Finance Bank results in the account being reported to all four licensed credit information companies (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 75 to 150 points.
               </p>
@@ -1047,9 +1029,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About Equitas Small Finance Bank Loan Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Equitas Small Finance Bank Loan Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

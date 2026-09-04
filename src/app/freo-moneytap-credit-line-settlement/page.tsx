@@ -551,9 +551,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Fintech Architecture &amp; Co-Lending Structure</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Deconstructing MoneyTap &amp; Freo: The Co-Lending Mechanism Behind App Credit Lines
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Deconstructing MoneyTap &amp; Freo</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 MoneyTap, operated under the Freo financial brand by MWYN Tech Private Limited, is an app-based revolving credit line platform. Under Reserve Bank of India (RBI) regulations, MoneyTap functions as a Lending Service Provider (LSP) operating a Digital Lending App (DLA), rather than a direct balance-sheet lender.
               </p>
@@ -579,9 +577,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; Credit Line Trap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Revolving Credit Line Trap: Stacking Sub-Loans, Penalty Spikes &amp; NPA Progression
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Revolving Credit Line Trap</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 MoneyTap allows users to make multiple withdrawals from an approved limit. Each withdrawal creates an independent sub-loan with its own EMI schedule, tenure, and interest rate ranging from 18% to 36% per annum.
               </p>
@@ -614,9 +610,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>3. Halting e-NACH Sweeps &amp; Predatory Penalties</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Stopping Recurring Auto-Debit Penalties &amp; Demanding 100% Bounce Charge Waivers
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Recurring Auto-Debit Penalties</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Automated debt recovery systems often attempt e-NACH sweeps multiple times a month across active sub-loans, draining savings account balances with return penalties.
               </p>
@@ -634,9 +628,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How RBL Bank &amp; DMI Finance Evaluate Settlement Proposals: The Net Present Value (NPV) Equation
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How RBL Bank &amp; DMI Finance Evaluate Settlement Proposals</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settlements sanctioned by RBL Bank or DMI Finance are governed by board-approved compromise policies under RBI guidelines. Once an account becomes an NPA, lenders must allocate 100% loss provisions under Ind AS 109.
               </p>
@@ -778,9 +770,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Recovery Practices &amp; Privacy Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Against Aggressive Recovery, Contact Harvesting &amp; WhatsApp Intimidation
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Aggressive Recovery, Contact Harvesting</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 External Debt Recovery Agencies (DRAs) frequently violate regulatory limits by scraping contacts, calling workplace extensions, or sending threatening messages to family members.
               </p>
@@ -812,9 +802,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step Co-Lending Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Guide: How to Negotiate a Compromise Settlement with MoneyTap &amp; Regulated Partners
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with MoneyTap</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A successful co-lending settlement follows five clear, legally documented steps:
               </p>
@@ -878,9 +866,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 PSSA, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Legal Notices: Section 25 PSSA Summons, Virtual Arbitration &amp; Lok Adalat Conciliation
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 As defaults exceed 90 to 120 days, lenders initiate automated legal proceedings. Understanding your legal defense protects against panic:
               </p>
@@ -901,9 +887,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Sanction Letter Forensics: Verifying Regulated Lender Authenticity &amp; 30-Day NDC Delivery
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Forensics</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay against verbal offers or unofficial settlement letters from collection agents. Payments made without authorized documentation are routinely credited against penal interest rather than closing the loan.
               </p>
@@ -933,9 +917,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory Post-Settlement &amp; Strategic 18-Month Credit Rehabilitation
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery (18M)</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a MoneyTap credit line updates credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> and an outstanding balance of <strong>₹0</strong>.
               </p>
@@ -953,9 +935,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Why Distressed MoneyTap &amp; Freo Borrowers Choose SettleLoans
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in MoneyTap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 SettleLoans protects borrowers from aggressive collection harassment with statutory cease-and-desist notices, eliminates predatory bounce charges, defends Section 25 PSSA and arbitration notices, and negotiates directly with RBL Bank and DMI Finance to achieve 40% to 60% debt haircuts and guaranteed ₹0 No Dues Certificates.
               </p>
@@ -972,9 +952,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About MoneyTap (Freo) Credit Line Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: MoneyTap (Freo) Credit Line Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

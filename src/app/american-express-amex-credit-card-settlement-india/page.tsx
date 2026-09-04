@@ -565,9 +565,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Corporate Banking Structure &amp; Card Architecture</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                American Express Banking Corp. India: Corporate Structure, Charge Cards &amp; Credit Facilities
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">American Express Banking Corp. India</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 American Express Banking Corp. (AEBC) operates in India as a scheduled foreign commercial bank licensed and regulated under Section 22 of the Banking Regulation Act, 1949, and governed by Reserve Bank of India (RBI) directives. Headquartered domestically with its primary credit operations, collections infrastructure, and legal litigation headquarters situated at DLF Cyber City in Gurugram, Haryana, American Express occupies a unique, high-tier niche within the Indian financial landscape. Unlike domestic retail banks that issue predominantly mass-market revolving credit cards, Amex commands an elite portfolio encompassing high-spending corporate executives, business promoters, and affluent individuals holding Centurion, Platinum, and Gold tier instruments.
               </p>
@@ -593,9 +591,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>2. Revolving APR, Late Fees &amp; Compounding Debt Trap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Anatomy of Amex Financial Escalation: 42%–52% APR, GST &amp; The Minimum Payment Illusion
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Anatomy of Amex Financial Escalation</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The primary accelerator of distressed debt on American Express cards is the mathematical velocity of revolving interest and penal levies. American Express applies monthly finance charges ranging between 3.5% and 4.25% per month, translating to an annualized percentage rate (APR) of 42% to 52.86%. Furthermore, under Indian tax regulations, every rupee of finance charges, late payment fees, and administrative surcharges attracts a mandatory 18% Goods and Services Tax (GST), creating an aggressive compounding spiral that rapidly decouples the cardholder&apos;s book ledger balance from their actual principal expenditure.
               </p>
@@ -613,9 +609,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                American Express Delinquency Lifecycle: Days Past Due (DPD) to Non-Performing Asset (NPA)
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">American Express Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 American Express Banking Corp. adheres strictly to the Reserve Bank of India&apos;s Prudential Framework for Income Recognition, Asset Classification, and Provisioning pertaining to Advances. The progression of an overdue account through internal risk buckets dictates both the intensity of collection activity and the bank&apos;s legal flexibility to sanction debt haircuts.
               </p>
@@ -682,9 +676,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. NPV Recovery Valuation &amp; Haircut Slabs</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Net Present Value (NPV) Recovery Modeling: How Amex Credit Committees Evaluate Settlements
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Net Present Value (NPV) Recovery Modeling</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A common misconception among cardholders is that bank debt settlements represent arbitrary haggling with tele-callers. In institutional reality, American Express Banking Corp. evaluates compromise settlements through rigorous quantitative modeling based on the Net Present Value (NPV) of recovery. Under Reserve Bank of India Master Directions on Compromise Settlements, regulated lenders must determine whether the immediate cash recovery from a negotiated One-Time Settlement exceeds the discounted expected value of pursuing prolonged civil litigation through Indian courts.
               </p>
@@ -812,9 +804,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Gurugram Legal Notices, Sec 25 PSSA &amp; Order 37 CPC</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Demystifying Amex Gurugram Legal Notices: Section 25 PSSA, Section 138 NI Act &amp; Summary Suits
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Demystifying Amex Gurugram Legal Notices</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 American Express Banking Corp. maintains a centralized legal litigation wing in Gurugram, Haryana. When an account defaults into NPA status, cardholders across India—whether residing in Mumbai, Bengaluru, Delhi, Hyderabad, or Chennai—routinely receive formal legal notices issued by prominent law firms empanelled by American Express in Gurugram and New Delhi. These notices frequently utilize intimidating statutory references designed to compel urgent payment under psychological pressure.
               </p>
@@ -846,9 +836,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>7. Unilateral Arbitration &amp; Lok Adalat Conciliation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Challenging Unilateral Arbitration &amp; Leveraging National Lok Adalats for Amex Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Challenging Unilateral Arbitration</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Many Amex cardholder contracts incorporate standard arbitration clauses specifying dispute resolution in Delhi or Gurugram. Cardholders frequently receive notices stating that American Express has appointed a sole arbitrator to adjudicate outstanding dues. Cardholders must recognize that unilateral sole arbitrator appointments by financial institutions are legally void ab initio.
               </p>
@@ -866,9 +854,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>8. Step-by-Step Amex Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Strategic Roadmap for Negotiating an Amex Compromise Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Strategic Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a legally secure and economically optimal settlement with American Express Banking Corp. requires disciplined adherence to an institutional roadmap:
               </p>
@@ -932,9 +918,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics &amp; Mandatory ₹0 NDC</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Sanction Letter Forensics: Verifying Authenticity &amp; Enforcing the RBI 30-Day NDC Mandate
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Forensics</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The single most hazardous pitfall in credit card settlement is paying settlement amounts based on unverified verbal promises or fraudulent emails dispatched by external collection agencies. Third-party collection agents frequently issue fabricated discount letters or misappropriate funds into partial payments, leaving the remaining ledger balance active and accumulating compounding interest.
               </p>
@@ -958,9 +942,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Trajectory &amp; Score Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory: Managing &apos;Settled&apos; Status and Rebuilding to 750+ within 18–24 Months
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CIBIL Recovery &amp; Score Rebuilding</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Understanding the credit bureau impact of a One-Time Settlement is critical for long-term financial recovery. When American Express Banking Corp. concludes a compromise settlement, it updates Credit Information Companies (CIBIL, Experian, Equifax, and CRIF High Mark) reflecting the account status as &apos;Settled&apos; or &apos;Post-Write-off Settled&apos; with a current balance of ₹0.
               </p>
@@ -1018,9 +1000,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                American Express Credit Card Settlement: Frequently Asked Questions
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">American Express Credit Card Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

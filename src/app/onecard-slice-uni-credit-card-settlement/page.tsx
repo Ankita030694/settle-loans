@@ -566,9 +566,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Tripartite Fintech Architecture &amp; Regulated Entities</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Co-Branded Card Illusion: Deconstructing the Tripartite Relationship Between Fintechs and Partner Banks
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Co-Branded Card Architecture &amp; Risks</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The rapid adoption of fintech credit cards like OneCard (FPL Technologies), Slice (GaragePreneurs), and Uni Card (Uniorbit Technologies) has onboarded millions of young professionals into revolving credit facilities. While marketing highlights sleek metal designs and instant mobile onboarding, the underlying regulatory architecture is strictly governed by the Reserve Bank of India (RBI) Master Directions on Digital Lending and Credit Card Operations.
               </p>
@@ -594,9 +592,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>2. The 36%–48% APR Trap &amp; Ledger Inflation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Anatomy of Fintech Card Default: Hyper-Compounding Finance Charges, GST &amp; Liquidity Shocks
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Anatomy of Fintech Card Default &amp; Charges</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Fintech onboarding eliminates friction with instant limits from ₹50,000 to ₹5,00,000+. However, when liquidity shocks occur—such as tech startup layoffs, freelance contract cancellations, or medical crises—paying only the Minimum Amount Due revokes the interest-free period across all balances.
               </p>
@@ -660,9 +656,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. Delinquency Timeline: DPD 1–90 to NPA</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Chronology of Default: From Days Past Due (DPD) to Non-Performing Asset (NPA) Classification
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Chronology of Default: DPD to NPA</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Prudential Norms on Income Recognition and Asset Classification (IRACP), delinquent card accounts advance through clearly defined statutory stages:
               </p>
@@ -723,9 +717,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. Bank Accounting &amp; NPV Recovery Valuation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Net Present Value (NPV) Recovery Math: How Partner Banks Calculate Settlement Haircuts
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Net Present Value (NPV) Recovery Math</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Fintech credit cards represent 100% unsecured debt. Pursuing civil summary suits under Order 37 CPC for claims of ₹1 Lakh to ₹5 Lakhs is commercially inefficient for partner banks due to heavy court fees and 3-to-5-year litigation timelines. Instead, banks rely on discounted Net Present Value (NPV) models to evaluate compromise offers:
               </p>
@@ -808,9 +800,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>6. Digital Recovery Defense &amp; RBI Protections</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Combatting Digital Recovery Harassment: WhatsApp Threats, Contact Scraping &amp; RBI Fair Practices Codes
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Combatting Digital Recovery Harassment</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Defaulted fintech borrowers frequently encounter aggressive recovery tactics, including non-stop automated calls, threatening WhatsApp messages, and unauthorized outreach to employers. Under RBI Digital Lending Guidelines and Credit Card Master Directions, these practices are strictly prohibited:
               </p>
@@ -831,9 +821,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. e-NACH PSSA Notices, ODR &amp; Civil Suits</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Legal Notice Forensics: Defending Section 25 PSSA Summons, Digital Arbitration &amp; ODR Notices
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 25 PSSA &amp; Arbitration</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 As accounts cross 90 to 120 DPD, partner banks initiate formal legal processes requiring precise defense:
               </p>
@@ -854,9 +842,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>8. Step-by-Step Fintech Card OTS Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The 5-Step Strategic Roadmap: From Financial Hardship Audit to Authorized Bank Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Strategic Settlement Framework</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a legally secure settlement with partner banks follows a structured five-step workflow:
               </p>
@@ -875,9 +861,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Partner Bank Sanction Letter &amp; ₹0 NDC</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Sanction Letter Forensics and Securing the Mandatory ₹0 No Dues Certificate (NDC)
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC Mandate</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never remit funds based on informal messages. An authorized OTS Sanction Letter must satisfy six core verification parameters:
               </p>
@@ -900,9 +884,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Trajectory &amp; Score Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory: Managing &apos;Settled&apos; Status and Rebuilding to 750+ within 18–24 Months
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CIBIL Recovery &amp; Score Rebuilding</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following settlement, the partner bank reports the account to credit bureaus as &quot;Settled&quot; with a current balance of ₹0. While this temporarily lowers scores by 75 to 120 points, it halts rolling default marks and eliminates legal risk. Borrowers can restore prime 750+ scores within 18 to 24 months:
               </p>
@@ -957,9 +939,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                OneCard, Slice &amp; Uni Fintech Card Settlement: Frequently Asked Questions
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">OneCard, Slice &amp; Uni Fintech Card Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

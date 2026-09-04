@@ -492,9 +492,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 1: The MSME Debt Crisis */}
             <section id="msme-debt-crisis-working-capital-strain" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The MSME Debt Crisis in India: Working Capital Strain, Delayed Receivables &amp; NPA Onset
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The MSME Debt Crisis in India</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Micro, Small, and Medium Enterprises (MSMEs) represent the foundational engine of India&apos;s commercial economy, contributing over 30% to national Gross Domestic Product, nearly 45% of total industrial manufacturing output, and upwards of 48% of merchandise exports. Yet, despite their macroeconomic indispensability, MSME enterprises operate under severe operational vulnerabilities. The most acute systemic threat confronting Indian business promoters is the working capital liquidity trap—a cascading crisis where delayed receivables from large corporate buyers, government departments, and public sector undertakings collide with inflexible monthly debt service obligations.
               </p>
@@ -511,9 +509,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 2: Statutory Interlock */}
             <section id="statutory-interlock-msmed-act-samadhaan" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Interlock: MSMED Act 2006, MSME Samadhaan Portal &amp; SARFAESI Act Dynamics
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Interlock</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To build an impenetrable legal defense against bank loan recovery, small business owners must understand the precise statutory interplay between the <strong>Micro, Small and Medium Enterprises Development (MSMED) Act, 2006</strong>, the <strong>Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002</strong>, and the government&apos;s flagship <strong>MSME Samadhaan Portal</strong>. Misconceptions regarding these statutes frequently lead business owners into procedural traps that compromise their operating assets.
               </p>
@@ -567,9 +563,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 3: RBI Prudential Framework */}
             <section id="rbi-prudential-framework-msme-restructuring" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. RBI&apos;s Prudential Framework for MSME Revival &amp; Stressed Asset Restructuring
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. RBI&apos;s Prudential Framework for MSME Revival</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India has issued comprehensive regulatory directions requiring all commercial banks, regional rural banks, and cooperative institutions to adopt a structured, rehabilitation-first approach toward stressed MSME accounts. The primary regulatory instruments governing this mandate are the <strong>RBI Framework for Revival and Rehabilitation of Micro, Small and Medium Enterprises</strong> and the updated <strong>Prudential Framework for Resolution of Stressed Assets</strong>.
               </p>
@@ -608,9 +602,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 4: Bank Accounting Economics */}
             <section id="bank-accounting-economics-npa-provisioning" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Accounting Economics: SMA-0/1/2 Staging, 100% NPA Provisioning &amp; Haircut Viability
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To achieve a successful debt settlement, a business promoter must look beyond emotional frustration and understand the balance sheet mathematics that govern commercial banking decisions. In Indian banking operations, an unresolved non-performing asset is not merely an uncollected loan—it is an active drain on the bank&apos;s regulatory capital and profitability due to mandatory RBI provisioning norms.
               </p>
@@ -651,9 +643,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 6: Shielding Plant & Machinery */}
             <section id="shielding-plant-machinery-hypothecated-assets" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Shielding Operational Plant, Machinery &amp; Hypothecated Stock from Bank Possession
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Shielding Operational Plant, Machinery</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 For a manufacturing or service enterprise, physical plant, specialized tooling, CNC machines, and operational industrial sheds represent the vital lifeblood of the business. Once a bank seizes physical machinery, production grinds to an immediate halt, commercial contracts are terminated for non-delivery, and the enterprise is pushed into terminal liquidation. Therefore, preserving physical possession of operational machinery is the cornerstone of MSME debt defense.
               </p>
@@ -700,9 +690,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 7: Strategic Bank OTS Negotiation & NPV Models */}
             <section id="strategic-bank-ots-negotiation-npv" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Strategic Bank OTS Negotiation: Calculating Principal Haircuts &amp; Recovery NPV
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Strategic Bank OTS Negotiation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing a favorable One-Time Settlement is a disciplined financial negotiation governed by empirical valuation modeling. Bank Stressed Asset Settlement Committees do not grant debt waivers out of benevolence; they approve compromise settlements only when presented with an airtight financial justification proving that the proposed settlement yields a higher Net Present Value (NPV) than forced legal recovery.
               </p>
@@ -731,9 +719,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 8: Forensic Audit of Sanctions */}
             <section id="forensic-audit-sanctions-penal-interest" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Forensic Audit of Business Loan Sanctions, Penal Interest Waivers &amp; Consent Decrees
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Forensic Audit of Business Loan Sanctions, Penal Interest</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical phase in the SettleLoans resolution methodology is conducting a comprehensive forensic audit of the borrower&apos;s historical loan statements and sanction letters. Over years of operating a Cash Credit or term loan facility, commercial banks and NBFCs routinely introduce unnotified ledger charges, arbitrary risk premium markups, and illegal interest compounding that artificially inflate the total outstanding claim by 25% to 40%.
               </p>
@@ -773,9 +759,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 9: Securing Clean No Dues Certificates & CIBIL */}
             <section id="no-dues-certificate-cibil-commercial-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Securing Clean No Dues Certificates (NDC) &amp; Restoring Commercial CIBIL Rank
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Securing Clean No Dues Certificates (NDC)</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Paying the agreed compromise amount is not the final step in resolving an MSME loan default. True legal closure and commercial rehabilitation require securing an unconditional, legally binding <strong>No Dues Certificate (NDC)</strong> or <strong>No Objection Certificate (NOC)</strong> from the bank, releasing all hypothecation charges registered with the Registrar of Companies (ROC) on the MCA-21 portal, and rectifying commercial credit bureau records.
               </p>
@@ -843,9 +827,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans MSME Legal Defense &amp; Business Debt Resolution Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans MSME Legal Defense</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating distressed business debt against aggressive banking institutions demands specialized legal acumen and strategic financial modeling. SettleLoans provides end-to-end legal representation for Indian micro, small, and medium business owners: halting third-party recovery harassment, asserting statutory exemptions under Section 31 of SARFAESI and the MSMED Act, conducting forensic audits of loan ledgers to eliminate illegal penal compounding, and representing enterprise promoters directly before Bank Stressed Asset Management Branches (SAMB) and Zonal Settlement Committees to secure binding 40% to 60% One-Time Settlements backed by official No Dues Certificates.
                 </p>
@@ -859,9 +841,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: MSME Loan Default &amp; Settlement Process
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: MSME Loan Default &amp; Settlement Process</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers to essential questions regarding MSME working capital defaults, MSMED Act protections, plant and machinery preservation, and bank OTS compromise schemes in India.

@@ -513,9 +513,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 1: Demystifying Wilful Default & Coercion */}
             <section id="demystifying-wilful-default" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying the Wilful Defaulter Classification: Statutory Grounds, Coercive Tactics &amp; The ₹25 Lakh Threshold
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Demystifying the Wilful Defaulter Classification</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a corporate or commercial credit facility experiences non-performing asset (NPA) classification, lending institutions frequently resort to aggressive regulatory maneuvers. Among the most severe administrative weapons deployed by Indian public and private sector banks is the issuance of a <strong>Wilful Defaulter Show Cause Notice</strong> under Section 35A of the Banking Regulation Act, 1949.
               </p>
@@ -569,9 +567,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 2: RBI Master Directions Framework & 21-Day Window */}
             <section id="rbi-master-directions-framework" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. RBI Master Directions (2024–2026): Two-Tier Committee Architecture &amp; The Mandatory 21-Day Representation Window
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Master Directions (2024–2026)</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To prevent arbitrary abuse of wilful defaulter classifications, the Reserve Bank of India enacted the updated <em>Master Direction on Treatment of Wilful Defaulters and Large Defaulters</em>. This statutory directive establishes an unyielding, multi-stage administrative procedure that every commercial bank and financial institution must strictly observe.
               </p>
@@ -613,9 +609,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 3: Statutory Repercussions & Supreme Court Doctrine */}
             <section id="statutory-repercussions-jah-developers" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Legal Repercussions of Wrongful Tagging: Civil Death, Criminal Sanctions &amp; The Landmark Jah Developers Doctrine
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Legal Repercussions of Wrongful Tagging</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 An adverse wilful defaulter classification is not merely a negative credit rating mark; it inflicts severe statutory penalties amounting to corporate and personal &quot;civil death&quot;. The legal consequences triggered upon final publication include:
               </p>
@@ -657,9 +651,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 4: Bank Balance Sheet Accounting, Forensic Audits & NPV Formula */}
             <section id="forensic-accounting-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Balance Sheet Accounting, Forensic Ledger Audits &amp; The Net Present Value (NPV) Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Accounting, Forensic Ledger Audits</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When defending against a wilful defaulter notice, understanding the bank&apos;s financial balance sheet drivers is essential. Banks do not issue wilful default notices in isolation; they do so within the framework of non-performing asset (NPA) provisioning mandates enforced by the Reserve Bank of India.
               </p>
@@ -731,9 +723,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="wilful-defaulter-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Wilful Defaulter Notice Reply &amp; Settlement Defense Visual Roadmap
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Wilful Defaulter Defense Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the complete 5-stage legal defense pathway under RBI Master Directions: from receiving the Identification Committee Show Cause Notice, deploying the 21-day forensic response, presenting before the Grievance Redressal Committee (GRC), and disproving criminal intent to executing an institutional compromise OTS with ₹0 No Dues Certification.
               </p>
@@ -767,9 +757,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 6: Rebuttal & Defense Strategy: Forensic Accounting & Writ Remedies */}
             <section id="rebuttal-defense-writ-remedies" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Formulating the Legal Rebuttal: Forensic Accounting, Proving Genuine Distress &amp; Article 226 Writ Remedies
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Formulating the Legal Rebuttal</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Drafting an effective reply to a Wilful Defaulter Show Cause Notice requires a synchronized legal and forensic accounting counter-offensive. A generic or emotional plea of financial difficulty will be summarily rejected by the Identification Committee. The representation must be grounded in granular ledger forensics and regulatory jurisprudence.
               </p>
@@ -811,9 +799,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 7: Grievance Redressal Committee (GRC) Personal Hearings */}
             <section id="grc-hearings-sanction-forensics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Grievance Redressal Committee (GRC) Personal Hearings &amp; Sanction Letter Forensics
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Grievance Redressal Committee (GRC) Personal Hearings</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The personal hearing before the Review Committee (or Grievance Redressal Committee) represents the definitive internal adjudication stage in wilful defaulter proceedings. Under RBI directives, this committee is presided over by the bank&apos;s highest executive leadership, including the Managing Director / CEO and Independent Directors.
               </p>
@@ -867,9 +853,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 8: Compromise OTS, RBI No Dues Certificate & Bureau Rectification */}
             <section id="institutional-ots-ndc-cibil-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Structuring an Institutional Compromise Settlement (OTS), RBI No Dues Certificate &amp; Credit Bureau Clearance
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Structuring an Institutional Compromise Settlement (OTS),</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Once wilful defaulter proceedings are stayed or dismantled, the final strategic phase involves executing a binding One Time Settlement (OTS) and restoring commercial credit standing. Under the <strong>RBI Framework on Compromise Settlements and Technical Write-offs (2023–2026)</strong>, commercial lenders possess explicit regulatory authority to enter into compromise settlements with borrowers facing wilful default allegations.
               </p>
@@ -914,9 +898,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Section 9: Dispute Resolution Comparative Matrix */}
             <section id="regulatory-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Statutory Enforcement Comparative Matrix: Wilful Defaulter SCN vs SARFAESI vs DRT vs Criminal FIR
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Statutory Enforcement Comparative Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the strategic parameters across Indian banking recovery and regulatory enforcement mechanisms demonstrates why mounting an early, aggressive defense against a Wilful Defaulter notice is vital to preserving personal freedom, commercial reputation, and asset security:
               </p>
@@ -969,9 +951,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
             {/* Section 10: SettleLoans Regulatory Defense Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Regulatory Defense &amp; Wilful Defaulter Resolution Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Regulatory Defense</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating an aggressive Wilful Defaulter notice requires specialized advocates and forensic chartered accountants who understand the intricate mechanics of banking law, RBI Master Directions, forensic audit workpapers, and High Court writ jurisprudence. SettleLoans provides complete institutional defense: drafting bulletproof 21-day legal representations, obtaining primary forensic evidence under the <em>Jah Developers</em> mandate, defending clients before Review Committees and GRC hearings, securing High Court writ stays against wrongful tagging, and negotiating structured One Time Settlements backed by binding No Dues Certificates.
                 </p>
@@ -985,9 +965,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Wilful Defaulter Notice Reply &amp; Defense
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Wilful Defaulter Notice Reply &amp; Defense</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to essential questions regarding Wilful Defaulter show cause notices, 21-day representation timelines, GRC hearings, and One Time Settlements in India.

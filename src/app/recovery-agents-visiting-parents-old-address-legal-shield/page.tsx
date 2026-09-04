@@ -481,9 +481,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* Section 1: The Old Address Exploitation Crisis */}
             <section id="relocation-crisis-old-address-exploitation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Old Address Exploitation Crisis: Targeting Elderly Parents After Borrower Relocation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Old Address Exploitation Crisis</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When career opportunities prompt professionals to relocate from native towns to metropolitan tech hubs or overseas positions, permanent parental addresses remain on historical loan records. If unexpected economic disruptions cause an unsecured loan default exceeding 90 days, the debt becomes classified as a Non-Performing Asset (NPA) under Reserve Bank of India (RBI) Prudential Norms.
               </p>
@@ -503,9 +501,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* Section 2: Privity of Contract & Parent Non-Liability */}
             <section id="privity-of-contract-parent-non-liability" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Privity of Contract &amp; Absolute Non-Liability: Why Parents Owe Zero Rupee for a Son&apos;s Loan
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Privity of Contract &amp; Absolute Non-Liability</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under Section 2(h) of the Indian Contract Act, 1872, the Doctrine of Privity of Contract mandates that contractual terms bind solely the executing parties. An unsecured personal loan or credit card covenant exists strictly between the lending institution and the individual adult borrower.
               </p>
@@ -519,9 +515,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* Section 3: Criminal Trespass: Sec 329 BNS & Sec 441 IPC */}
             <section id="criminal-trespass-section-329-bns" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Criminal Trespass Laws: Section 329 BNS &amp; Section 441 IPC Applied to Parental Premises
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Trespass Laws</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Recovery agents possess zero judicial or statutory authority. They hold no search warrants and enjoy no legal standing beyond that of an ordinary private visitor on residential premises.
               </p>
@@ -535,9 +529,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* Section 4: Supreme Court Privacy Shield & Senior Citizens Act */}
             <section id="supreme-court-privacy-senior-citizens-act" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Supreme Court Privacy Shield, Judicial Precedents &amp; the Senior Citizens Protection Act
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Supreme Court Privacy Shield, Judicial Precedents</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In the benchmark nine-judge Constitution Bench ruling in <em>Justice K.S. Puttaswamy v. Union of India (2017)</em>, the Supreme Court declared privacy a fundamental right under Article 21, establishing the domestic residence as an inviolable sanctuary immune from coercive commercial intrusion.
               </p>
@@ -568,9 +560,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* Section 6: Tactical Doorstep Shield for Aging Parents */}
             <section id="doorstep-defense-protocol-parents" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Tactical Doorstep Protocol for Aging Parents: Verification, Scripts &amp; Refusal of Entry
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Tactical Doorstep Protocol for Aging Parents</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To neutralize intimidation, elderly parents must maintain strict physical boundaries: keep main doors and security grilles locked at all times. Homeowners are under no legal obligation to entertain doorstep dialogue with third-party agents.
               </p>
@@ -584,9 +574,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* Section 7: Bank NPA Mechanics & NPV Valuation Model */}
             <section id="npa-mechanics-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Bank NPA Mechanics, Agency Recovery Commissions &amp; the NPV Valuation Model
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Mechanics &amp; the NPV Valuation Model</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When an unsecured loan crosses 90 days past due, it becomes a Substandard Asset requiring an immediate 15% provisioning deduction from bank profits, rising to 25%–100% after 12 months under RBI Prudential Guidelines. To mitigate provisioning hits, banks outsource recovery to external agencies on lucrative 15% to 25% commissions, incentivizing aggressive field agents to harass native homes.
               </p>
@@ -615,9 +603,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* Section 8: Statutory Cease-and-Desist & Address Update */}
             <section id="statutory-cease-and-desist-notice" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Serving a Formal Advocate Cease-and-Desist Notice &amp; Statutory Address Update
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Serving a Formal Advocate Cease-and-Desist Notice</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Verbal requests to field agents are routinely ignored due to high agency turnover. Permanently protecting parents requires an advocate-led dual legal strategy.
               </p>
@@ -631,9 +617,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
 
             {/* Section 9: Comparative Enforcement Matrix */}
             <section id="comparative-legal-protection-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Enforcement Matrix: Parental Rights vs. Recovery Channels
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Legal Enforcement Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding the legal distinction between private recovery tactics and judicial processes is vital for shielding elderly parents. The comparative matrix below outlines the strict boundaries governing recovery mechanisms under Indian law:
               </p>
@@ -693,9 +677,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
             {/* Section 10: SettleLoans Institutional Protection */}
             <section id="settleloans-advocate-intervention" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense: Shielding Parents &amp; Resolving Debts via Institutional OTS
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Relief in g Parents</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   No elderly parent in India should endure retirement in fear of aggressive collection agents banging on doors or threatening to seize their home for a child&apos;s unsecured loan. At SettleLoans, our senior banking advocates and financial negotiators provide robust nationwide representation for distressed borrowers and their families.
                 </p>
@@ -712,9 +694,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Recovery Agents &amp; Parental Legal Rights
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agents &amp; Parental Legal Rights</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Verified statutory and legal answers regarding recovery agent boundaries, Section 329 BNS trespass laws, Supreme Court privacy rulings, and debt settlement in India.

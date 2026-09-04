@@ -520,9 +520,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 1: The Post-Settlement Breach Crisis */}
             <section id="lok-adalat-breach-crisis" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Post-Settlement Breach Crisis: When Commercial Lenders Disregard Lok Adalat Awards
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Post-Settlement Breach Crisis</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Appearing before a National or State Lok Adalat is widely considered the most conclusive and dignified mechanism for resolving distressed personal loans, credit card defaults, and small business credit facilities in India. After extensive negotiations facilitated by sitting or retired judges and legal aid conciliators, the borrower and the bank&apos;s authorized representative sign a mutually acceptable compromise settlement. The judicial bench formalizes this agreement into a binding Lok Adalat Award, directing the borrower to pay a predetermined reduced sum within a stipulated timeline, upon which the bank must extinguish all claims, issue a No Dues Certificate (NDC), and release any pledged collateral.
               </p>
@@ -539,9 +537,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 2: Statutory Binding Nature: Section 21 of the Legal Services Authorities Act, 1987 */}
             <section id="section-21-lsa-act-binding-decree" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Supremacy: Section 21 of the Legal Services Authorities Act, 1987 &amp; Deemed Civil Court Decrees
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Supremacy</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand your legal remedies when a bank fails to comply with a settlement order, one must examine the governing statutory framework established under the <strong>Legal Services Authorities (LSA) Act, 1987</strong>. The Lok Adalat is not an informal mediation panchayat or an advisory forum; it is a statutory judicial institution functioning under legislative mandate to deliver rapid, final, and unappealable dispute resolution.
               </p>
@@ -592,9 +588,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 3: Civil Procedure Enforcement: Executing the Award Under Order 21 CPC */}
             <section id="order-21-cpc-civil-execution" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Civil Court Execution Proceedings: Enforcing the Award Under Order 21 CPC &amp; Attachment Powers
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Civil Court Execution Proceedings</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Because Section 21 of the LSA Act confers the status of a Civil Court Decree upon every Lok Adalat award, the enforcement of that award is governed by the standard execution machinery set forth in <strong>Order 21 of the Code of Civil Procedure (CPC), 1908</strong>. Many borrowers mistakenly believe that only lenders can file execution petitions. Under Indian civil jurisprudence, any decree-holder—including a borrower who has performed their obligations under a compromise decree—holds the full statutory right to initiate execution proceedings against a defaulting judgment-debtor bank.
               </p>
@@ -639,9 +633,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 4: Bank Accounting Dynamics, Provisioning Reversals & The NPV Recovery Equation */}
             <section id="bank-accounting-npv-dynamics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Accounting Realities: NPA Provisioning Reversals &amp; The NPV Recovery Valuation Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Realities</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To master post-settlement enforcement, one must look behind the legal curtain and analyze how Indian commercial banks account for Lok Adalat settlements on their balance sheets. When a loan is referred to a Lok Adalat, it has almost always crossed 90 to 180 days of non-payment and sits in the bank&apos;s books as a <strong>Non-Performing Asset (NPA)</strong>. Under RBI Prudential Norms on Income Recognition, Asset Classification, and Provisioning, lenders must lock up substantial risk capital against delinquent portfolios:
               </p>
@@ -707,9 +699,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="lok-adalat-enforcement-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Visual Judicial Roadmap: Post-Lok Adalat Award Enforcement Workflow
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Judicial Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the structured 5-stage institutional workflow deployed by seasoned banking litigation advocates to enforce Lok Adalat settlement orders, invoke Section 21 deemed civil decree powers, claim statutory RBI delay compensation, and rectify credit bureau records.
               </p>
@@ -743,9 +733,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 6: The 4-Stage Legal Protocol to Compel Bank Compliance */}
             <section id="emergency-4-stage-compliance-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. The 4-Stage Legal Protocol to Compel Immediate Bank Compliance
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The 4-Stage Legal Protocol to Compel Immediate Bank</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a bank ignores a Lok Adalat order, repeated visits to the local branch or verbal pleading with desk officers will yield nothing but delays. Branch managers often hide behind slow back-office turnaround times. To break this bureaucratic inertia, banking litigation advocates deploy a methodical, 4-stage legal enforcement protocol:
               </p>
@@ -784,9 +772,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 7: Resolving CIBIL Bureau Violations */}
             <section id="cibil-bureau-rectification-ndc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Resolving CIBIL Bureau Violations: Enforcing RBI ₹0 Balance Reporting &amp; Score Rehabilitation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Resolving CIBIL Bureau Violations</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 One of the most damaging consequences of bank non-compliance following a Lok Adalat settlement is erroneous credit bureau reporting. Even after receiving full settlement funds, banks often leave the loan record un-updated, leading credit rating agencies like TransUnion CIBIL, Experian, Equifax, and CRIF High Mark to show the account as &quot;Overdue&quot;, &quot;Default&quot;, or &quot;Written-Off&quot; with substantial continuing balances.
               </p>
@@ -822,9 +808,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 8: Sanction Forensics, Mandated Timelines & RBI Delay Penalties */}
             <section id="sanction-forensics-rbi-penalty" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Sanction Forensics, Mandated Timelines &amp; RBI ₹5,000/Day Delay Penalties
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Forensics, Mandated Timelines</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers must understand the precise regulatory timelines governing post-settlement document return and closure certification in India. The Reserve Bank of India has issued decisive guidelines to curb unfair banking practices regarding loan closure delays.
               </p>
@@ -864,9 +848,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 9: Comparative Judicial Remedies Matrix */}
             <section id="comparative-judicial-remedies-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Matrix: Enforcement Pathways Against Non-Compliant Banks
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the different legal channels available to borrowers allows you to select the most efficient strategy to force bank compliance and claim compensation:
               </p>
@@ -919,9 +901,7 @@ export default function LokAdalatOrderNonCompliancePage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Lok Adalat Award Enforcement &amp; Banking Litigation Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Lok Adalat Award Enforcement</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating bank non-compliance after a Lok Adalat settlement requires experienced banking litigation advocates who understand the exact interplay between Section 21 of the Legal Services Authorities Act, Civil Court execution mechanisms, RBI Master Directions, and Credit Information Companies regulations. SettleLoans provides complete, fearless legal representation for borrowers across India: serving formal statutory notices on bank managing directors and nodal officers, filing Execution Petitions under Order 21 CPC to attach non-compliant bank accounts, securing expedited RBI Banking Ombudsman orders with ₹5,000/day delay penalties, and ensuring 100% accurate ₹0 balance reporting on all credit bureau databases.
                 </p>
@@ -935,9 +915,7 @@ export default function LokAdalatOrderNonCompliancePage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Bank Non-Compliance with Lok Adalat Orders
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Bank Non-Compliance with Lok Adalat Orders</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding Lok Adalat awards, civil decree executions, No Dues Certificates, and credit bureau rectifications in India.

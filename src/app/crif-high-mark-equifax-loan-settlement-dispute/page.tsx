@@ -560,9 +560,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Microfinance &amp; Fintech Bureau Architecture</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Microfinance &amp; Retail Credit Bureau Landscape: Why CRIF High Mark and Equifax Matter
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Microfinance &amp; Retail Credit Bureau Landscape</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 In India&apos;s multi-tier credit information architecture regulated under the Credit Information Companies (Regulation) Act, 2005 (CICRA), four distinct Credit Information Companies (CICs) operate under license from the Reserve Bank of India: TransUnion CIBIL, Experian India, CRIF High Mark, and Equifax India. While retail borrowers and public discourse disproportionately focus on TransUnion CIBIL scores, the underwriting engines of modern Indian lending—particularly microfinance institutions (NBFC-MFIs), small finance banks (SFBs), digital lending applications, Buy-Now-Pay-Later (BNPL) platforms, and retail non-banking financial companies—rely extensively on CRIF High Mark and Equifax.
               </p>
@@ -588,9 +586,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Post-Settlement Reporting Gaps &amp; ₹0 Balance</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Post-Settlement Reporting Failures: The ₹0 Balance &amp; &apos;Settled&apos; Status Discrepancy
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement Reporting Failures</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a loan account enters a compromise One-Time Settlement, the contractual relationship between the borrower and the lending institution is formally renegotiated. Under the terms of the settlement sanction letter, the borrower deposits a mutually agreed compromise amount (often reflecting a 40% to 60% haircut on outstanding dues), and the lender formally waives the residual balance, including uncollected principal, accumulated penal interest, and incidental administrative charges.
               </p>
@@ -657,9 +653,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <Scale className="w-4 h-4" />
                 <span>3. Statutory Protections &amp; Legal Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Statutory Protections: The Credit Information Companies (Regulation) Act, 2005 (CICRA)
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Statutory Protections</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The rights of Indian borrowers regarding the accuracy, completeness, and rectification of credit bureau records are anchored in parliamentary legislation under the Credit Information Companies (Regulation) Act, 2005 (CICRA 2005) and its accompanying Credit Information Companies Rules and Regulations, 2006. Understanding this statutory foundation is crucial for borrowers seeking to compel reluctant lenders and credit bureaus to rectify unupdated records.
               </p>
@@ -680,9 +674,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. Lender Accounting Friction &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Lender Accounting Friction &amp; Valuation: Why Bureau Updates Get Delayed
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Lender Accounting &amp; Bureau Update Delays</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To understand why credit bureau updates frequently stall following a loan compromise settlement, borrowers must grasp the internal accounting mechanics of commercial banks and NBFCs. Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Expected Credit Loss (ECL) frameworks under Indian Accounting Standard 109 (Ind AS 109), a defaulted loan requires substantial balance-sheet capital provisioning.
               </p>
@@ -768,9 +760,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step Dispute Execution Manual</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How to File an Online Dispute with CRIF High Mark and Equifax: Complete Step-by-Step Guide
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to File an Online Dispute with CRIF High Mark and</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Filing an effective, legally binding credit bureau dispute requires meticulous documentation and strict adherence to bureau-specific submission protocols. Distressed borrowers should execute the following comprehensive roadmap:
               </p>
@@ -850,9 +840,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. RBI Mandatory Timelines &amp; ₹100/Day Penalty</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Mandatory 30-Day Resolution Window &amp; The RBI ₹100/Day Compensation Mandate
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Mandatory 30-Day Resolution Window</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Historically, Indian borrowers faced immense frustration when credit bureaus and financial institutions passed blame back and forth, dragging dispute resolutions across several months or years without accountability. Recognizing this systemic market failure, the Reserve Bank of India issued a landmark regulatory directive: <strong>Circular RBI/2023-24/72 (DOR.MCS.REC.48/01.01.001/2023-24)</strong> on the &apos;Framework for Compensation to Customers for Delayed Updation/Rectification of Credit Information&apos;.
               </p>
@@ -917,9 +905,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Document Forensics &amp; NDC Verification</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Sanction Letter &amp; No Dues Certificate (NDC) Forensic Audit for Bureau Clearance
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter &amp; No Dues Certificate (NDC) Forensic Audit</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A critical vulnerability that derails many bureau disputes is the submission of defective, unofficial, or legally ambiguous settlement documentation. Overzealous collection agencies frequently distribute unauthorized &apos;settlement receipts&apos; or unverified email confirmations that carry zero evidentiary weight in credit bureau verification workflows.
               </p>
@@ -943,9 +929,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. Score Trajectory &amp; 18-Month Recovery Plan</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CRIF High Mark &amp; Equifax Score Trajectory Post-Settlement &amp; 18-Month Rehabilitation
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CRIF High Mark &amp; Equifax Score Trajectory Post-Settlement &amp;</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A common misconception among borrowers is that resolving a credit bureau dispute will instantly elevate their credit score to 800+. In credit underwriting reality, transitioning an account from an active &apos;Default / Overdue&apos; state to a &apos;Settled&apos; state with ₹0 balance produces an immediate, highly beneficial stabilization effect, followed by a gradual credit rehabilitation trajectory.
               </p>
@@ -969,9 +953,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Advocacy &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Why Distressed Borrowers Choose SettleLoans for Bureau Rectification
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in Distressed Borrowers Choose SettleLoans</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating the complex regulatory bureaucracy of credit information companies and intransigent banking institutions requires specialized legal expertise and rigorous procedural advocacy. SettleLoans audits historical loan ledgers, identifies hidden reporting discrepancies across CRIF High Mark and Equifax, files statutory dispute petitions under CICRA Section 21, escalates non-compliant lenders to the RBI Ombudsman, and enforces the recovery of statutory ₹100/day delay compensation.
               </p>
@@ -988,9 +970,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions: CRIF High Mark &amp; Equifax Settlement Disputes
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: CRIF High Mark &amp; Equifax Settlement Disputes</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

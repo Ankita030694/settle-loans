@@ -523,9 +523,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 1: The Menace of Fake Police Calls & Coercion */}
             <section id="impersonation-menace-reality" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Crisis of Police Impersonation: How Predatory Recovery Agencies Exploit Fear &amp; Panic
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Crisis of Police Impersonation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In recent years, the Indian financial recovery landscape has witnessed a disturbing escalation in fraudulent intimidation. When borrowers experience genuine financial hardship and fall behind on personal loan or credit card installments, rogue third-party Direct Recovery Agencies (DRAs) increasingly abandon lawful recovery procedures. Instead, collection tele-callers resort to extreme psychological coercion by pretending to be active police officers, Crime Branch inspectors, Cyber Crime investigators, or court bailiffs.
               </p>
@@ -561,9 +559,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 2: Statutory Offenses & Criminal Sanctions: BNS, IPC & IT Act */}
             <section id="criminal-sanctions-bns-ipc-it-act" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Criminal Offenses: Section 204 BNS (170 IPC), Section 318(4) BNS &amp; Section 66D IT Act
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Criminal Offenses</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Impersonating a public servant or law enforcement official is a severe crime under Indian criminal legislation. Both the legacy Indian Penal Code (IPC), 1860, and the newly enacted <strong>Bharatiya Nyaya Sanhita (BNS), 2023</strong>, prescribe rigorous punitive measures against individuals and organized agencies engaging in such fraudulent deceptions:
               </p>
@@ -614,9 +610,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 3: RBI Master Directions & Supreme Court Precedents */}
             <section id="rbi-master-directions-supreme-court" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. RBI Master Directions &amp; Landmark Supreme Court Rulings on Recovery Harassment
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. RBI Master Directions</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India has established clear, binding regulatory frameworks designed to protect consumers against predatory recovery behavior. Commercial banks, non-banking financial companies (NBFCs), and all regulated entities are directly accountable for the misconduct of their outsourced agencies.
               </p>
@@ -668,9 +662,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 4: Bank Accounting Dynamics, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-npa-accounting-npv-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Accounting Dynamics: Why Rogue Agents Use Police Threats &amp; The NPV Recovery Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Dynamics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding why recovery agents resort to extreme, illegal measures requires examining the financial pressures within commercial banking. Recovery agencies operate on high-incentive contingency fee structures, often earning between 10% and 25% of the total amount collected from delinquent accounts. As an account ages past 90 days of default, it is classified as a <strong>Non-Performing Asset (NPA)</strong>, triggering stringent RBI provisioning rules:
               </p>
@@ -739,9 +731,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="police-impersonation-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Visual Strategic Roadmap: Fake Police Call Defense &amp; FIR Protocol
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Fake Police Call Defense Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below illustrates the systematic 5-step institutional procedure deployed by experienced banking litigation advocates to identify criminal impersonation, preserve digital audio evidence, file police and cyber FIRs, and secure a structured debt resolution.
               </p>
@@ -775,9 +765,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 6: Emergency 5-Step FIR Protocol */}
             <section id="emergency-5-step-fir-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. The Emergency 5-Step Protocol: How to Verify, Record Evidence &amp; File an Immediate FIR
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 5-Step Protocol</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Receiving a telephone call from an individual claiming to be a police officer or court official is inherently stressful. However, reacting with panic or transferring funds will only invite further harassment. Instead, borrowers must execute a structured, methodical legal protocol:
               </p>
@@ -822,9 +810,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 7: Negotiating Debt Resolution & OTS */}
             <section id="leveraging-harassment-for-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Converting Criminal Recovery Harassment into an Affordable 45%–65% One-Time Settlement (OTS)
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Criminal Recovery Harassment into an</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A fraudulent police call is a clear indication of desperation on the part of the collection agency. The agency understands that it cannot legally enforce recovery through civil courts due to procedural delays and lack of attachable assets. When an advocate formally exposes this criminal impersonation to the lending bank, the borrower gains immense strategic leverage to negotiate a comprehensive <strong>One-Time Settlement (OTS)</strong>.
               </p>
@@ -874,9 +860,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; CIBIL Recovery
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When concluding a debt settlement after experiencing aggressive recovery tactics, borrowers must exercise extreme caution. Fraudulent recovery agents frequently generate fake settlement letters or promise verbal debt waivers to collect partial token payments. Borrowers must never transfer funds until the settlement sanction letter has been forensically verified by legal counsel.
               </p>
@@ -914,9 +898,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 9: Comparative Legal Defense Matrix */}
             <section id="comparative-legal-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Matrix: Fake Police Threat vs. Actual Civil Law Procedure vs. Advocate-Led OTS
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the stark contrast between coercive recovery tactics, genuine judicial procedures, and advocate-led debt resolution enables borrowers to take calculated, confident action:
               </p>
@@ -985,9 +967,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Fake Police Calls &amp; Recovery Agent Harassment
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Fake Police Calls &amp; Recovery Agent Harassment</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding fake police calls, recovery agent impersonation, and debt settlement protocols in India.

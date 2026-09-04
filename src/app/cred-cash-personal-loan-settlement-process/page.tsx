@@ -563,9 +563,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Fintech Architecture &amp; Partner Underwriting</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Deconstructing CRED Cash: The Tripartite Lending Architecture
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Deconstructing CRED Cash</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 CRED Cash is marketed as an instant pre-approved personal credit line for prime borrowers with CIBIL scores above 750. However, CRED (Dreamplug Technologies Private Limited) does not originate loans on its own balance sheet. Under the RBI Digital Lending Guidelines (2022), CRED operates strictly as a Digital Lending App (DLA) and Lending Service Provider (LSP).
               </p>
@@ -600,9 +598,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Milestones</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CRED Cash Delinquency Lifecycle: From DPD 1-30 to Non-Performing Asset (NPA)
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CRED Cash Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI IRACP norms and Ind AS 109 Expected Credit Loss frameworks, defaulted CRED Cash facilities move through clear delinquency stages. Early default triggers automated notifications, but once an account crosses 90 Days Past Due (DPD), it is classified as a Non-Performing Asset (NPA). Mandatory capital provisioning shifts the lender&apos;s goal from collection to loss recovery.
               </p>
@@ -670,9 +666,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Stopping Predatory e-NACH Presentations &amp; Compounding Penal Fees
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Predatory e-NACH Presentations</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a borrower defaults on CRED Cash, automated treasury systems repeatedly present the e-NACH mandate up to 4 times a month. Each dishonoured presentation triggers dual fees: your savings bank charges ₹250 to ₹500 plus GST for return charges, while the lender adds ₹500 to ₹1,000 plus GST in internal bounce penalties alongside compounding penal interest of 24%–36% per annum.
               </p>
@@ -690,9 +684,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Models</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Partner Bank OTS Haircut Valuation &amp; NPV Recovery Economics
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Partner Bank OTS Haircut Valuation &amp; NPV Recovery Economics</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI compromise directives, partner lenders evaluate settlement proposals using Net Present Value (NPV) recovery algorithms. Because unsecured digital credit lines lack physical collateral, lenders mathematically compare an immediate cash settlement against the discounted future recoveries of multi-year civil litigation, legal fees, and ongoing NPA provisioning burdens.
               </p>
@@ -824,9 +816,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Recovery Practices &amp; Anti-Harassment Rights</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Halting Collection Harassment Under RBI Digital Lending Directives
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Halting Collection Harassment Under RBI Digital Lending</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Because CRED Cash caters to prime corporate borrowers, outsourced collection agencies frequently deploy high-pressure tactics including calling workplace numbers, reaching out to colleagues on professional networks, and threatening residential visits.
               </p>
@@ -844,9 +834,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step Resolution Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Guide: How to Settle a Defaulted CRED Cash Credit Line
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Defaulted CRED Cash Credit Line</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Achieving an authorized settlement requires an organized, legally backed process:
               </p>
@@ -926,9 +914,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Legal Notices, Section 25 &amp; Arbitration</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Section 25 PSSA Summons, Arbitration &amp; National Lok Adalat
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After 60 to 90 days of default, lenders may issue 15-day statutory notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for dishonoured NACH debits, or invoke unilateral sole-arbitration in distant metro locations.
               </p>
@@ -990,9 +976,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Authenticating OTS Sanction Letters &amp; Enforcing the ₹0 NDC Mandate
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating OTS Sanction Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay against verbal offers or collection agency messages. An authentic OTS Sanction Letter must be on the underwriting institution&apos;s corporate letterhead (e.g., IDFC FIRST Bank, Newtap Finance, or L&amp;T Finance) containing CIN, registered address, exact loan number, approved settlement amount, and explicit covenants of complete liability release.
               </p>
@@ -1007,9 +991,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Trajectory &amp; Credit Restoration</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory Post-Settlement &amp; 18-Month Restoration Roadmap
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a CRED Cash loan results in bureaus reporting the status as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While causing an initial drop of 75 to 120 points, it permanently stops compounding default marks and legal exposure.
               </p>

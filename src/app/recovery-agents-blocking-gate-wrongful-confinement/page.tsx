@@ -453,9 +453,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             {/* Section 1: The Reality of Physical Restraint and Doorway Intimidation */}
             <section id="physical-restraint-muscle-tactics-reality" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Physical Restraint &amp; Muscle Tactics Reality: Deconstructing Extra-Judicial Coercion
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Physical Restraint &amp; Muscle Tactics Reality</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Defaulting on a retail loan, revolving credit card balance, or business credit line is an intensely challenging economic hardship. However, across residential colonies, apartment complexes, and office parks in India, distressed borrowers increasingly encounter aggressive, high-pressure field collection tactics that cross all statutory boundaries. Third-party recovery agents frequently resort to physical muscle tactics: standing menacingly in front of main entrance doors, blocking residential gates, parking their two-wheelers behind a borrower&apos;s car in a basement driveway to prevent departure, or physically intercepting borrowers as they attempt to leave for work.
               </p>
@@ -478,9 +476,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             {/* Section 2: Statutory Protections & Criminal Trespass */}
             <section id="statutory-framework-wrongful-confinement" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Penal Law Breakdown: Section 126 &amp; 127 BNS vs. Section 339 &amp; 340 IPC
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Penal Law Breakdown</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Indian criminal law strictly prohibits any private individual from restraining or confining another citizen against their will. With the complete operational transition from the Indian Penal Code, 1860 (IPC) to the Bharatiya Nyaya Sanhita, 2023 (BNS), the statutory protections against unlawful physical obstruction have been reaffirmed and fortified under modern procedural standards.
               </p>
@@ -534,9 +530,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             {/* Section 3: Constitutional Right to Locomotion & Landmark Supreme Court Precedents */}
             <section id="constitutional-locomotion-puttaswamy" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Constitutional Protections: Article 21, Personal Liberty &amp; Supreme Court Jurisprudence
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Constitutional Protections</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The right of an Indian citizen to move freely and live without unlawful physical interference is anchored in the foundational constitutional architecture of the Republic of India. Article 19(1)(d) guarantees to all citizens the fundamental right to move freely throughout the territory of India, while Article 21 guarantees that no person shall be deprived of their life or personal liberty except according to procedure established by law.
               </p>
@@ -553,9 +547,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             {/* Section 4: RBI Master Directions, Code of Conduct & Vicarious Liability */}
             <section id="rbi-master-directions-fair-practices" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. RBI Master Directions &amp; Code of Conduct: Absolute Ban on Physical Intimidation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. RBI Master Directions &amp; Code of Conduct</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India, acting under statutory powers conferred by Sections 21, 35A, and 45L of the Banking Regulation Act, 1949, and the Reserve Bank of India Act, 1934, has established strict, non-negotiable codes of conduct governing all Regulated Entities (REs)—including Commercial Banks, Small Finance Banks, and Non-Banking Financial Companies (NBFCs).
               </p>
@@ -613,9 +605,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             {/* Section 6: Tactical Emergency Protocol: Recording & Filing an FIR */}
             <section id="emergency-police-fir-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Tactical Emergency Protocol: How to Record Evidence &amp; File a Criminal FIR
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Tactical Emergency Protocol</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When faced with physical obstruction, gate blocking, or key snatching by recovery personnel, maintaining absolute composure while executing a disciplined legal protocol is vital. Knowing the exact sequence of actions neutralizes the intimidation, establishes unshakeable digital evidence, and triggers statutory law enforcement mechanisms:
               </p>
@@ -666,9 +656,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             {/* Section 7: Bank NPA Accounting, Provisioning Burdens & The NPV Recovery Model */}
             <section id="bank-npa-accounting-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Bank NPA Accounting Economics: Provisioning Burdens &amp; The NPV Recovery Formula
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why collection agencies resort to aggressive, desperate street-level tactics rather than pursuing formal court litigation, one must examine the institutional accounting mathematics governing non-performing loans in Indian banking. Under the Reserve Bank of India Prudential Norms on Income Recognition, Asset Classification and Provisioning, an unsecured retail loan or credit card facility is categorized as a Non-Performing Asset (NPA) once repayments remain delinquent for more than 90 days.
               </p>
@@ -705,9 +693,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             {/* Section 8: Direct OTS Negotiation, Cease-and-Desist Notices & NDC */}
             <section id="cease-and-desist-ots-resolution" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Structured OTS Settlement Protocols: Cease-and-Desist Notices, Sanction Letters &amp; NDC
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Structured OTS Settlement Protocols</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A dangerous mistake made by borrowers trapped by recovery agents is making hasty token cash payments or direct UPI transfers to visiting agents to defuse immediate physical confrontations. Such informal payments are never credited toward loan principal closure; instead, agencies allocate them toward inflated penal charges and collection commissions, leaving the core default active and ensuring repeated harassment within weeks.
               </p>
@@ -743,9 +729,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
 
             {/* Section 9: Comparative Legal Matrix */}
             <section id="comparative-enforcement-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Matrix: Recovery Channels, Physical Powers &amp; Legal Remedies
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative matrix below details the statutory boundaries, physical restraint authority, and borrower legal protections across various debt recovery and judicial enforcement mechanisms in India:
               </p>
@@ -805,9 +789,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
             {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense Framework: Shielding Your Liberty &amp; Resolving Debts
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   No citizen should ever be subjected to unlawful physical confinement, gate blocking, vehicle immobilization, or public humiliation by aggressive debt collection personnel. At SettleLoans, our senior banking advocates, criminal defense litigators, and institutional financial negotiators provide an impenetrable shield of legal protection for borrowers across India. We immediately assert your constitutional rights under Article 21, enforce penal protections under Section 127 BNS, and serve formal Vakalatnama Cease-and-Desist notices that legally compel banks to recall rogue field agencies. By transitioning the conflict from street-level coercion to structured executive OTS negotiations, we secure authentic 40% to 65% principal waivers and verified No Dues Certificates.
                 </p>
@@ -821,9 +803,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Recovery Muscle Tactics &amp; Legal Remedies
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Muscle Tactics &amp; Legal Remedies</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Comprehensive, expert legal answers regarding wrongful restraint, gate blocking, key snatching, police complaints, and institutional loan settlement.

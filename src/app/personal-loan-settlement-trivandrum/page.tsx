@@ -533,9 +533,7 @@ export default function Page() {
                   <Building2 className="w-4 h-4" />
                   <span>1. Technopark &amp; Govt Hub Realities</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  The Debt Dilemma in Kerala&apos;s Administrative &amp; IT Capital (Technopark to Secretariat)
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Landscape &amp; Borrowers</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Thiruvananthapuram occupies a distinct socioeconomic position as Kerala&apos;s administrative capital and prime information technology corridor. The metropolis is anchored by Technopark across Kazhakkoottam, Kariavattom, and Technocity—housing tens of thousands of software engineers and corporate specialists—alongside the Kerala Government Secretariat at Statue, central scientific institutions like ISRO&apos;s Vikram Sarabhai Space Centre (VSSC) in Thumba, BrahMos Aerospace, Sree Chitra Tirunal Institute, and premier medical and academic centers. Additionally, the urban trade corridor extends through Chalai Market, Palayam, Pattom, Kowdiar, and down to the industrial and cashew export belt of neighboring Kollam.
                 </p>
@@ -561,9 +559,7 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; High Court Norms</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  NPA Classification Aging &amp; Kerala High Court Debt Recovery Protections
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), overdue credit facilities transition through systematic Special Mention Account stages during the initial 90 days. When an account remains unpaid past the 90-day threshold, the bank classifies it as a Non-Performing Asset (NPA). This mandatory accounting reclassification requires the institution to lock statutory capital reserves against potential default losses, creating powerful internal financial pressure to negotiate compromise settlements.
                 </p>
@@ -625,9 +621,7 @@ export default function Page() {
                   <Gavel className="w-4 h-4" />
                   <span>3. Vanchiyoor Court &amp; Section 138/25 Defense</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Defending Legal Notices in Vanchiyoor District &amp; Sessions Court &amp; CJM Courts
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Vanchiyoor District</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   When electronic NACH auto-debit mandates or repayment cheques bounce due to insufficient balances, bank legal departments empanel law firms to issue formal demand notices under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>, or <strong>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</strong>. These notices threaten criminal prosecution before the Chief Judicial Magistrate (CJM) or Judicial First Class Magistrate (JFCM) Courts at the historic Vanchiyoor Court Complex in Thiruvananthapuram.
                 </p>
@@ -645,9 +639,7 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Salary Shielding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Banker&apos;s Right of General Lien (Section 171) &amp; Salary Account Protection
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s Right of General Lien (Section 171)</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under Section 171 of the Indian Contract Act, 1872, banking institutions hold a statutory right of general lien and set-off across deposits maintained within that specific institution under the same Customer Identification File (CIF) or Permanent Account Number (PAN). If a borrower defaults on a personal loan or credit card, the creditor bank may attempt to freeze or automatically debit funds from linked savings accounts, recurring deposits, or salary accounts held in that exact bank.
                 </p>
@@ -692,9 +684,7 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  OTS Haircut Mechanics &amp; The Net Present Value (NPV) Recovery Benchmark
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV Benchmarks</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Bank Settlement Committees operating across Zonal Offices on MG Road, Statue, and Vazhuthacaud evaluate compromise settlement proposals against an institutional financial model known as the <strong>Net Present Value (NPV) Recovery Valuation Benchmark</strong>. When assessing an unsecured default, credit committees compare an immediate compromise payment against the discounted present value of uncertain recoveries obtained through prolonged civil litigation or debt recovery tribunals.
                 </p>
@@ -724,9 +714,7 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. RBI Anti-Harassment &amp; Police Limits</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Enforcing the RBI Fair Practices Code &amp; Restricting Police Interference in Kerala
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices &amp; Police Interference in Kerala</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under the <strong>RBI Master Directions on Recovery Agents and Conduct (2022)</strong>, lenders and their empanelled collection agencies are bound by stringent statutory restrictions. Recovery agents are strictly barred from telephoning borrowers before 08:00 AM or after 07:00 PM, cannot use threatening or defamatory language, and are explicitly forbidden from visiting an employee&apos;s workplace in Technopark or government offices without prior invitation. Visiting agents must possess valid photo identification, carry a copy of the bank&apos;s formal authorization letter, and strictly uphold client privacy.
                 </p>
@@ -741,9 +729,7 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>8. 5-Step Zonal SARB Settlement Protocol</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  5-Step Legal Protocol for Settling Debt with Trivandrum Zonal Desks
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Legal Protocol</h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Achieving a binding, legally enforceable One-Time Settlement with banks across Thiruvananthapuram and Kerala follows an advocate-managed five-stage legal protocol:
                 </p>
@@ -817,9 +803,7 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Rebuilding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Sanction Letter Forensics, Mandatory ₹0 NDC &amp; 24-Month CIBIL Repair
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC Mandate</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Borrowers must never remit settlement funds based on verbal representations, WhatsApp messages, or unofficial emails from collection agents. A legally valid <strong>OTS Sanction Letter</strong> must be issued on official bank letterhead, bearing the authorized officer&apos;s signature, employee code, round branch seal, exact agreed settlement figure, explicit full-and-final discharge clause, and a clear timeline for issuing the No Dues Certificate.
                 </p>
@@ -834,9 +818,7 @@ export default function Page() {
                   <Scale className="w-4 h-4" />
                   <span>10. Comparative Resolution Matrix</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Comparing Debt Resolution Pathways for Borrowers in Trivandrum
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Resolution Pathways in Trivandrum</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Evaluating available debt resolution avenues enables salaried executives and commercial borrowers in Thiruvananthapuram to choose the most effective legal and financial strategy:
                 </p>
@@ -892,9 +874,7 @@ export default function Page() {
                   <Landmark className="w-4 h-4" />
                   <span>11. SettleLoans Legal Defense &amp; Advisory</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Premier Loan Settlement &amp; Legal Defense Services in Trivandrum
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SettleLoans Legal Defense in Trivandrum</h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Resolving unmanageable unsecured debt in Thiruvananthapuram demands strategic legal advocacy to protect workplace standing, defend court notices in Vanchiyoor, and negotiate directly with bank Zonal Credit Committees. SettleLoans delivers specialized legal representation to help professionals and families across Kerala achieve permanent debt freedom.
                 </p>
@@ -907,9 +887,7 @@ export default function Page() {
                   <HelpCircle className="w-4 h-4" />
                   <span>12. Frequently Asked Questions</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                  Frequently Asked Questions on Debt Settlement in Trivandrum
-                </h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Trivandrum</h2>
 
                 <div className="space-y-4">
                   {(jsonLdGraph["@graph"][4] as any).mainEntity.map((faq: any, index: number) => (

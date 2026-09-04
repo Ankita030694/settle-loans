@@ -561,9 +561,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Corporate Banking Reality &amp; Pure-Play Card Architecture</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                SBI Cards &amp; Payment Services Limited: Corporate Entity Separation from State Bank of India
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SBI Cards &amp; Payment Services Limited</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To navigate an SBI credit card default effectively, cardholders must first dismantle a widespread misconception: SBI Card is not a departmental division of State Bank of India (SBI Bank). SBI Cards &amp; Payment Services Limited is an autonomous, publicly listed Non-Banking Financial Company (NBFC-ND-SI) incorporated under the Companies Act and regulated under the Reserve Bank of India&apos;s Prudential Framework. While State Bank of India remains the principal promoter holding a majority equity stake, SBI Card maintains an independent Board of Directors, a distinct balance sheet, dedicated statutory auditors, and a completely centralized risk and recovery infrastructure headquartered at DLF Infinity Towers in DLF Cyber City, Sector 25, Gurugram, Haryana.
               </p>
@@ -589,9 +587,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>2. Revolving APR, Late Fees &amp; Compounding Debt Spiral</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Mechanics of SBI Card Financial Escalation: 42%–45% APR, GST &amp; The Minimum Due Trap
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Mechanics of SBI Card Financial Escalation</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The primary catalyst propelling manageable credit card balances into unmanageable financial liabilities is the compounding velocity of SBI Card finance charges. SBI Cards &amp; Payment Services levies monthly finance charges ranging between 3.50% and 3.75% per month, generating an effective annualized percentage rate (APR) of 42.0% to 45.0%. Moreover, under Indian taxation statutes, every rupee of finance charges, late payment administrative penalties, and processing fees attracts a mandatory 18% Goods and Services Tax (GST), establishing an aggressive compounding spiral that rapidly decouples the cardholder&apos;s statement balance from the initial principal purchase amount.
               </p>
@@ -609,9 +605,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                SBI Card Delinquency Lifecycle: Days Past Due (DPD) to Non-Performing Asset (NPA)
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SBI Card Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 SBI Cards &amp; Payment Services Limited adheres strictly to the Reserve Bank of India&apos;s Prudential Norms on Income Recognition, Asset Classification, and Provisioning pertaining to Advances. The progression of an overdue credit card account through internal delinquency buckets dictates the operational escalation of collection efforts and determines the institutional authority of credit managers to sanction compromise haircuts.
               </p>
@@ -678,9 +672,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. NPV Recovery Valuation &amp; Haircut Slabs</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Net Present Value (NPV) Recovery Modeling: How SBI Card Evaluates Compromise Proposals
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Net Present Value (NPV) Recovery Modeling</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Contrary to common perception, credit card compromise settlements are not decided through arbitrary verbal arguments with collection tele-callers. Institutionally, SBI Cards &amp; Payment Services evaluates One-Time Settlements using quantitative actuarial modeling governed by the Net Present Value (NPV) of recovery. Under Reserve Bank of India Master Directions on Compromise Settlements, regulated financial institutions must determine whether immediate lump-sum cash realization exceeds the discounted net recovery yield of pursuing multi-year civil litigation.
               </p>
@@ -815,9 +807,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Gurugram Legal Notices, Sec 25 PSSA &amp; Order 37 CPC</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Demystifying SBI Card Gurugram Legal Notices: Section 25 PSSA, Section 138 NI Act &amp; Summary Suits
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Demystifying SBI Card Gurugram Legal Notices</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 SBI Cards &amp; Payment Services Limited manages a centralized legal recovery apparatus operating out of DLF Cyber City, Gurugram, and New Delhi. When a credit card account crosses into 90+ DPD delinquency, borrowers nationwide routinely receive stern legal demand notices issued by empaneled legal advocates. These notices utilize formidable statutory citations intended to induce anxiety and compel immediate payment under duress.
               </p>
@@ -849,9 +839,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>7. Lok Adalat Conciliation &amp; 60-70% Waivers</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Leveraging National Lok Adalats: Securing 60%–70% Waivers with Judicial Finality
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Leveraging National Lok Adalats</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 SBI Cards &amp; Payment Services Limited is among the most active institutional participants in quarterly National Lok Adalats organized by the National Legal Services Authority (NALSA) and State Legal Services Authorities (SLSA) across India. For borrowers seeking deep debt relief, National Lok Adalat benches represent the single most favorable and legally secure dispute resolution forum available.
               </p>
@@ -869,9 +857,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>8. Step-by-Step Online Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Strategic Roadmap for Executing an SBI Card Online Compromise Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Strategic Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a secure, legally binding One-Time Settlement with SBI Cards &amp; Payment Services Limited requires following a disciplined institutional protocol:
               </p>
@@ -935,9 +921,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Sanction Letter Forensics: Verifying Authenticity &amp; Enforcing the RBI 30-Day NDC Mandate
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Forensics</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The most perilous hazard in credit card debt resolution is remitting settlement funds based on verbal assurances or fraudulent discount letters fabricated by unauthorized external collection agencies. Third-party collection agents often pocket borrower funds or classify payments as partial installments, leaving the remaining ledger balance active and accumulating compounding finance charges.
               </p>
@@ -961,9 +945,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Trajectory &amp; Score Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory: Managing &apos;Settled&apos; Status and Rebuilding to 750+ within 18–24 Months
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CIBIL Recovery &amp; Score Rebuilding</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Understanding the credit bureau impact of a One-Time Settlement is essential for long-term financial rehabilitation. When SBI Cards &amp; Payment Services concludes a compromise settlement, it updates Credit Information Companies (CIBIL, Experian, Equifax, and CRIF High Mark) reflecting the account status as &apos;Settled&apos; or &apos;Post-Write-off Settled&apos; with a current outstanding balance of ₹0.
               </p>
@@ -1021,9 +1003,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                SBI Card Credit Card Settlement: Frequently Asked Questions
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">SBI Card Credit Card Settlement: Frequently Asked Questions</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

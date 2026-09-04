@@ -550,9 +550,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. The BNPL Architecture &amp; The Micro-Wallet Trap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding MobiKwik ZIP&apos;s Digital Lending Architecture &amp; The Micro-Wallet Debt Trap
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding MobiKwik ZIP&apos;s Digital Lending Architecture</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 MobiKwik ZIP operates as a revolving Buy Now Pay Later (BNPL) micro-credit line marketed by One MobiKwik Systems Limited. While marketed as a digital wallet convenience for utilities and purchases, ZIP is a formal unsecured loan. MobiKwik functions strictly as a Digital Lending Application (DLA) and Lending Service Provider (LSP). The actual credit lines are underwritten and disbursed by RBI-regulated NBFC partners, including Transactree Technologies Private Limited (Lendbox), Suryoday Small Finance Bank, and IDFC FIRST Bank.
               </p>
@@ -578,9 +576,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Lifecycle &amp; NBFC NPA Accounting</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                MobiKwik ZIP Delinquency Lifecycle: From DPD Aging to Balance-Sheet NPA Classification
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MobiKwik ZIP Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Income Recognition, Asset Classification and Provisioning (IRACP) norms and Ind AS 109 Expected Credit Loss frameworks, partner NBFCs track defaulted ZIP facilities across Days Past Due (DPD) stages. Understanding these milestones enables borrowers to time settlement negotiations for maximum principal haircuts.
               </p>
@@ -651,9 +647,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping Predatory Late Fees &amp; Mandates</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How to Eliminate Predatory Late Fees &amp; Cancel Unauthorized Auto-Debit Sweeps
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Eliminate Predatory Late Fees</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Recurring late payment penalties quickly inflate defaulted BNPL balances. Under RBI Fair Lending Practice Directives (Circular RBI/2023-24/53), regulated lenders are strictly barred from compounding or capitalizing penal charges onto loan principal. Penal charges must be reasonable and non-usurious.
               </p>
@@ -671,9 +665,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                MobiKwik ZIP One-Time Settlement (OTS) Policies &amp; NPV Recovery Economics
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MobiKwik ZIP One-Time Settlement (OTS) Policies</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Master Directions on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), NBFCs resolve unsecured micro-loans through Net Present Value (NPV) recovery modeling rather than protracted litigation. Legal costs and judicial delays make micro-lawsuits economically unviable for lenders.
               </p>
@@ -801,9 +793,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Harassment Defense &amp; DPDP Protections</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Against Aggressive Collection Tactics, WhatsApp Threats &amp; Data Privacy Breaches
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Aggressive Collection Tactics, WhatsApp</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Defaulted accounts are often assigned to third-party collection agencies that deploy high-frequency calling, fake legal notices on WhatsApp, and unauthorized contact with family or workplace references.
               </p>
@@ -821,9 +811,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step MobiKwik ZIP Settlement</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Roadmap: How to Legally Negotiate &amp; Execute a MobiKwik ZIP Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving a defaulted MobiKwik ZIP account with maximum debt relief follows six structured steps:
               </p>
@@ -903,9 +891,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Legal Notices, Section 25 &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Digital Legal Notices, Section 25 PSSA Demands &amp; National Lok Adalats
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Digital Legal Notices, Section 25 PSSA Demands</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Defaulted borrowers frequently receive legal notices citing Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured mandates. These are compoundable demand notices designed to facilitate conciliation rather than criminal action.
               </p>
@@ -965,9 +951,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Forensic Verification of NBFC Settlement Letters &amp; Enforcing the ₹0 No Dues Mandate
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Forensic Verification of NBFC Settlement Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 To prevent fraud, borrowers must avoid paying unverified UPI accounts. Valid settlements require an official sanction letter from the underwriting NBFC stating CIN details, loan numbers, settlement amounts, and full liability release covenants.
               </p>
@@ -982,9 +966,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Resolution &amp; Credit Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory Post-Settlement &amp; 18-Month Credit Restoration Roadmap
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Trajectory</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a MobiKwik ZIP line updates credit bureau records to <strong>&apos;Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This terminates monthly compounding default records.
               </p>
@@ -1018,9 +1000,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About MobiKwik ZIP Pay Later Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: MobiKwik ZIP Pay Later Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

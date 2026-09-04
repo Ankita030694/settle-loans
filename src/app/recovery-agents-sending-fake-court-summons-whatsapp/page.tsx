@@ -491,9 +491,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
 
             {/* Section 1: The Rise of Deceptive WhatsApp Legal Notices */}
             <section id="rise-of-deceptive-whatsapp-notices" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Rise of Deceptive WhatsApp Legal Notices: Unmasking Collection Agency Intimidation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Rise of Deceptive WhatsApp Legal Notices</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Across India&apos;s rapidly evolving digital lending landscape, distressed borrowers navigating overdue personal loans, credit card balances, or micro-fintech borrowings are increasingly confronted with an alarming collection tactic: receiving counterfeit legal notices, fabricated court summons, and phony arrest warrants directly on WhatsApp. Unregulated third-party collection agencies, operating under immense pressure to recover delinquent accounts, frequently bypass legitimate judicial channels to deploy high-pressure psychological warfare. These agencies generate deceptive PDF documents adorned with forged emblems of the Supreme Court of India, National Lok Adalat seals, bogus police department crests, and fictitious judicial signatures designed to induce instantaneous panic.
               </p>
@@ -516,9 +514,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
 
             {/* Section 2: Forensics of Forgery */}
             <section id="forensics-identifying-fake-court-summons" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Forensics of Forgery: How to Identify Fake Court Summons, Bogus Seals &amp; Phony Lok Adalat Orders
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Forensics of Forgery</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Identifying a forged WhatsApp legal notice requires analyzing specific structural, grammatical, and procedural red flags inherent in collection agency fabrications. Authentic judicial notices in India adhere to strict statutory formatting under the High Court Rules and the Civil Procedure Code, 1908. In contrast, recovery agency fabrications are typically produced using desktop publishing templates that contain glaring legal and factual anomalies.
               </p>
@@ -566,9 +562,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
 
             {/* Section 3: Statutory Criminal Protections */}
             <section id="statutory-criminal-laws-bns-ipc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Statutory Criminal Protections: Sections 336 &amp; 338 BNS vs. Sections 465, 468 &amp; 471 IPC
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Criminal Protections</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The creation, transmission, and deployment of counterfeit judicial documents to coerce debt repayment is not merely an ethical violation or an administrative irregularity; it represents severe criminal misconduct under the substantive penal laws of India. Following the enactment of the Bharatiya Nyaya Sanhita, 2023 (BNS) replacing the Indian Penal Code, 1860 (IPC), the statutory framework provides formidable criminal remedies against recovery agents, agency directors, and principal lending officers who authorize such practices.
               </p>
@@ -613,9 +607,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
 
             {/* Section 4: Bank Accounting Dynamics & NPV Model */}
             <section id="bank-npa-accounting-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Balance Sheet Economics: NPA Provisioning &amp; The NPV Recovery Valuation Model
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why collection agencies resort to desperate measures such as fabricating court summons on WhatsApp, one must examine the internal balance sheet economics and regulatory provisioning mandates governing Indian commercial banks and NBFCs. Under the Reserve Bank of India (RBI) Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances (IRACP), an unsecured loan account is classified as a Non-Performing Asset (NPA) once repayments remain overdue past the 90-day threshold.
               </p>
@@ -670,9 +662,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
 
             {/* Section 6: Step-by-Step Criminal & Regulatory Action */}
             <section id="criminal-proceedings-fir-cyber-crime" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Step-by-Step Criminal &amp; Regulatory Action: Filing Cyber Crime Complaints &amp; Police FIRs
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Criminal &amp; Regulatory Action</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a borrower receives a forged court notice or fabricated arrest summons on WhatsApp, passive tolerance or verbal arguments with recovery personnel are counterproductive. The borrower must execute a systematic, legally grounded response to shift the liability onto the perpetrators:
               </p>
@@ -723,9 +713,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
 
             {/* Section 7: Civil Court & Real Summons Protocols */}
             <section id="civil-procedure-real-summons-protocols" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Civil Court Realities: Order V CPC Summons Protocols vs. Unlawful Electronic Messages
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Civil Court Realities</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To evaluate any document claiming to be a court summons, borrowers must understand the statutory mechanism of service of summons under the Code of Civil Procedure, 1908 (CPC). Order V Rule 9 of the CPC explicitly governs how an Indian court delivers summons to a defendant:
               </p>
@@ -742,9 +730,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
 
             {/* Section 8: Direct Bank Settlement Protocols */}
             <section id="direct-bank-settlement-ots-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Direct Bank Settlement Protocols: Converting Coercive Threats into a Valid 40%–65% OTS
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Direct Bank Settlement Protocols</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical mistake made by distressed borrowers when subjected to aggressive WhatsApp threats is agreeing to transfer informal partial sums directly to recovery agents or via unverified payment links. Recovery personnel routinely promise, &quot;Pay ₹25,000 immediately and we will cancel the arrest warrant and close your loan.&quot; In practice, such informal transfers are credited entirely toward penal charges, compound interest, and agent commissions, leaving the core principal delinquent and inviting renewed harassment weeks later.
               </p>
@@ -786,9 +772,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
 
             {/* Section 9: Comparative Matrix Table */}
             <section id="comparative-matrix-fake-vs-real-notices" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Verification Matrix: Legitimate Court Summons vs. Forged WhatsApp Notices
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Verification Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative matrix below details the crucial procedural, structural, and legal distinctions between authentic judicial summons and forged electronic notices dispatched by recovery agencies:
               </p>
@@ -842,9 +826,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
             {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense Framework: Protecting Borrowers from Deceptive Intimidation
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Relief</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating the fear and confusion of receiving forged legal notices, bogus arrest warrants, and aggressive recovery calls on WhatsApp can be an isolating and overwhelming experience. At SettleLoans, our team of seasoned banking advocates, consumer protection attorneys, and debt resolution professionals provides comprehensive nationwide defense for borrowers in distress. We immediately intervene by filing formal Vakalatnama notices, issuing statutory Cease-and-Desist directives to lending institutions, initiating cyber crime and police proceedings against rogue recovery agencies, and negotiating structured 40% to 65% One-Time Settlements backed by official, bank-stamped No Dues Certificates.
                 </p>
@@ -858,9 +840,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Fake Court Notices &amp; Recovery Agent Forgery
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Fake Court Notices &amp; Recovery Agent Forgery</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers regarding forged WhatsApp court summons, Section 338 BNS / Section 466 IPC protections, and debt resolution procedures in India.

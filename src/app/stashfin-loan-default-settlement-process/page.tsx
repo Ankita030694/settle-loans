@@ -563,9 +563,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Fintech Credit Engine &amp; Akara Capital Architecture</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding Stashfin&apos;s Credit Architecture &amp; Akara Capital NBFC Mechanics
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding Stashfin&apos;s Credit Architecture</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Stashfin offers revolving credit lines, instant personal loans, and prepaid card-linked credit facilities. While consumers interact with the Stashfin app interface, the underlying credit facility, underwriting capital, and lending licenses are owned and operated by its RBI-registered Non-Banking Financial Company (NBFC), <strong>Akara Capital Advisors Private Limited</strong> (CIN: U67190DL2016PTC291583).
               </p>
@@ -588,9 +586,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Stashfin Delinquency Lifecycle: From DPD Aging to NPA &amp; Write-Off
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stashfin Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Prudential Norms and Ind AS 109 Expected Credit Loss (ECL) frameworks, Akara Capital tracks defaulted Stashfin loan accounts across structured Days Past Due (DPD) buckets. Timing your settlement proposal to align with balance-sheet provisioning milestones is critical for maximizing debt waivers.
               </p>
@@ -658,9 +654,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting NACH Auto-Debits &amp; Late Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How to Stop Stashfin NACH Bounce Penalties &amp; Compounding Late Fees
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Stop Stashfin NACH Bounce Penalties</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When auto-debit requests fail, destination banks deduct ₹250 to ₹500 plus GST per return, while Stashfin adds internal bounce fees of ₹500 to ₹1,000 plus GST. Over several months, these repeated presentations unnecessarily drain bank balances. Under RBI Fair Lending Practice rules (2023), lenders are strictly barred from capitalizing penalty charges or compounding default interest.
               </p>
@@ -675,9 +669,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; NPV Valuation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Akara Capital One-Time Settlement (OTS) Policies &amp; NPV Valuation
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Akara Capital One-Time Settlement (OTS) Policies</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI compromise directives, Akara Capital evaluates settlement proposals using a mathematical Net Present Value (NPV) recovery valuation model. Because Stashfin loans are unsecured with no physical collateral, the NBFC weighs an immediate cash settlement against the delayed, uncertain cash flow of civil litigation over a 3 to 5 year horizon.
               </p>
@@ -802,9 +794,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Anti-Harassment Protections &amp; RBI Rules</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Against Aggressive Recovery Tactics Under RBI Digital Lending Rules
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Harassment Under RBI Digital Lending Rules</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The RBI Guidelines on Digital Lending (RBI/2022-23/111) and NBFC Fair Practices Code establish clear statutory protections: (a) Agents can only contact borrowers between 08:00 AM and 07:00 PM; (b) Accessing mobile contacts, photo galleries, or device storage is illegal; (c) Calling non-guarantor relatives, friends, or employers is strictly prohibited; (d) Intimidation, verbal abuse, or workplace disruption is unlawful.
               </p>
@@ -819,9 +809,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Roadmap: How to Negotiate an OTS with Akara Capital
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Achieving a maximum-discount One-Time Settlement with Akara Capital requires an evidence-based roadmap:
               </p>
@@ -901,9 +889,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Section 25 PSSA Notices, Unilateral Arbitration &amp; Lok Adalat
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Section 25 PSSA demand notices for bounced NACH debits are statutory precursors to Magistrate Court complaints, not arrest warrants. Responding through counsel within 15 days detailing financial hardship protects your legal standing and facilitates compromise discussions.
               </p>
@@ -962,9 +948,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Forensics &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Authenticating Stashfin Settlement Letters &amp; Enforcing the ₹0 NDC
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating Stashfin Settlement Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never transfer funds against verbal promises or unverified collection agent emails. Always ensure the OTS sanction letter is on official Akara Capital Advisors Private Limited letterhead containing its CIN (U67190DL2016PTC291583), registered office address, proposal reference number, and authorized signatory details.
               </p>
@@ -979,9 +963,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Trajectory &amp; 18-Month Credit Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory Post-Settlement &amp; Credit Rehabilitation
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a Stashfin loan updates credit bureau records to <strong>&apos;Settled&apos;</strong> with a <strong>₹0 balance</strong>. While this brings an initial score drop of 70 to 130 points, it halts compounding monthly defaults.
               </p>
@@ -1015,9 +997,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About Stashfin Loan Default Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Stashfin Loan Default Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

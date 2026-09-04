@@ -511,9 +511,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 1: The Dark Reality of Digital Stalking */}
             <section id="digital-stalking-scraping-reality" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Crisis of Digital Stalking: Scraping LinkedIn, Old Resumes &amp; College Alumni Directories
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Crisis of Digital Stalking</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In recent years, the landscape of unsecured debt collection in India has taken an alarming turn toward aggressive cyber stalking and invasive surveillance. When a borrower faces financial disruption and falls behind on personal loan or credit card payments, certain rogue recovery agencies no longer limit their communications to the registered phone number or physical address provided in the original loan contract. Instead, these agencies deploy Open Source Intelligence (OSINT) techniques, automated data crawlers, and manual social profiling to unearth past personal, academic, and professional connections.
               </p>
@@ -549,9 +547,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 2: DPDP Act 2023 & IT Act Liabilities */}
             <section id="dpdp-act-2023-statutory-violations" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Data Protection Violations: DPDP Act 2023 &amp; Section 43A/72A of the IT Act
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Data Protection Violations</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The enactment of the <strong>Digital Personal Data Protection Act (DPDP Act), 2023</strong> has fundamentally transformed the legal obligations of financial institutions operating in India. Under the DPDP Act, banks and Non-Banking Financial Companies (NBFCs) operate as <em>Data Fiduciaries</em>, while their outsourced collection agencies act as <em>Data Processors</em>. The law establishes uncompromising statutory mandates governing how personal data may be collected, processed, and shared.
               </p>
@@ -600,9 +596,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 3: RBI Fair Practices Code & Criminal Stalking Laws */}
             <section id="rbi-fair-practices-bns-stalking" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. RBI Fair Practices Code Bans, Criminal Stalking (BNS/IPC) &amp; Privity of Contract
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. RBI Fair Practices Code Bans, Criminal Stalking (BNS/IPC)</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India has repeatedly issued stringent directives prohibiting commercial banks, small finance banks, and NBFCs from engaging in predatory recovery practices. Under the <strong>RBI Master Direction on Fair Practices Code for Lenders</strong> and the <strong>Circular on Outsourcing of Financial Services</strong>, lenders are expressly prohibited from contacting third parties, ex-employers, friends, or family members who are neither co-borrowers nor formal guarantors to the loan facility.
               </p>
@@ -647,9 +641,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 4: Bank Accounting Dynamics & NPV Recovery Formula */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Accounting Dynamics: NPA Provisioning Burdens &amp; The NPV Recovery Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Dynamics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding why recovery agencies resort to extreme scraping tactics requires examining the operational economics of Indian banking. When an unsecured personal loan becomes delinquent, it passes through sequential regulatory aging buckets governed by RBI prudential guidelines. When payments remain unpaid beyond 90 days, the loan is formally classified as a <strong>Non-Performing Asset (NPA)</strong>, forcing the lending institution to set aside mandatory capital provisioning out of its operating profits:
               </p>
@@ -718,9 +710,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 5: Infographic Banner */}
             <section id="data-privacy-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Visual Strategic Roadmap: Data Privacy Defense &amp; Harassment Ceasefire
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Strategic Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual strategic roadmap below outlines the structured 4-step institutional process utilized by seasoned banking litigation advocates to neutralize predatory collection scraping, enforce statutory privacy compliance, and conclude an official debt settlement.
               </p>
@@ -754,9 +744,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 6: The 5-Step Legal Counter-Offensive */}
             <section id="emergency-5-step-legal-counter-offensive" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. The 5-Step Legal Counter-Offensive: Stopping Stalking &amp; Securing Evidence
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The 5-Step Legal Counter-Offensive</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When recovery agents begin contacting past employers, former managers, or university faculty, panic and emotional pleas over the phone will not deter them. Rogue agencies interpret unrepresented panic as leverage to extract immediate payment. Halting this harassment requires an aggressive, legally structured 5-step counter-offensive:
               </p>
@@ -801,9 +789,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 7: Converting Privacy Breaches into OTS Leverage */}
             <section id="leveraging-privacy-breach-55-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Converting Data Privacy Breaches into Leverage for a 45%–65% One-Time Settlement (OTS)
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Data Privacy Breaches into Leverage</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 While experiencing privacy violations and workplace stalking is intensely stressful, these illegal collection actions provide borrowers with immense legal and commercial leverage. Regulated financial institutions operate under strict governance norms. When a bank is confronted with indisputable documentary evidence of its collection vendors violating the DPDP Act 2023, cyber stalking provisions, and RBI third-party disclosure bans, the institutional risk of regulatory sanctions far exceeds the balance of the loan.
               </p>
@@ -853,9 +839,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Sanction Letter Forensics, Direct Bank Remittance &amp; RBI ₹0 NDC Mandate
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Bank Remittance</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Executing a loan settlement requires meticulous legal scrutiny. Rogue collection tele-callers frequently forge informal settlement letters on WhatsApp or make unauthorized verbal promises to collect partial amounts toward their sales targets. A borrower must never transfer funds until the settlement sanction letter has been forensically authenticated by legal counsel.
               </p>
@@ -893,9 +877,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 9: Comparative Legal Defense Matrix */}
             <section id="comparative-data-privacy-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Defense Matrix: Data Scraping Harassment vs. Statutory Remedies
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Legal Defense Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A comparative analysis of the various legal and regulatory avenues available to borrowers facing unauthorized scraping and third-party collection harassment demonstrates the strategic efficacy of advocate-led intervention:
               </p>
@@ -948,9 +930,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="settleloans-data-defense-advisory" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense &amp; Data Privacy Harassment Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Confronting predatory collection agencies scraping your professional and academic networks requires specialized banking litigation advocates who understand how to enforce the DPDP Act 2023, invoke Supreme Court privacy precedents, and serve hard-hitting criminal defamation notices. SettleLoans provides end-to-end legal protection for borrowers across India: serving emergency cease-and-desist notices on bank Data Protection Officers, filing formal regulatory complaints with the RBI Banking Ombudsman, shielding your reputation across past workplaces and educational institutions, and negotiating directly with bank zonal authorities to secure 45% to 65% principal waivers backed by official, bank-stamped No Dues Certificates.
                 </p>
@@ -964,9 +944,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Recovery Agents Contacting Previous Employers &amp; Colleges
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agents Contacting Previous Employers</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding data scraping, third-party debt collection harassment, DPDP Act protections, and debt settlement protocols in India.

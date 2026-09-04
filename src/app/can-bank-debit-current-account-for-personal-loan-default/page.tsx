@@ -520,9 +520,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 1: Demystifying Banker's Right of Set-Off vs. General Lien */}
             <section id="banker-set-off-vs-lien-current-accounts" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying Banker&apos;s Right of Set-Off vs. Right of General Lien on Current Accounts
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Demystifying Banker&apos;s Right of Set-Off vs. Right of</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When an entrepreneur or working professional defaults on an unsecured personal loan or credit card, one of the most devastating retaliatory measures commercial lenders attempt is placing a sudden &quot;Total Debit Freeze&quot; or initiating an unauthorized sweep on their business current account. For business owners maintaining their company operational accounts at the same banking institution—such as HDFC Bank, ICICI Bank, Axis Bank, State Bank of India, or Kotak Mahindra Bank—this unexpected action instantly halts vendor payments, paralyzes Goods and Services Tax (GST) remittances, and triggers payroll crises.
               </p>
@@ -558,9 +556,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 2: The Doctrine of Mutuality & Legal Separation of Entity */}
             <section id="doctrine-of-mutuality-legal-entity-separation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. The Doctrine of Mutuality &amp; Legal Separation of Entity Across Business Structures
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. The Doctrine of Mutuality</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The absolute cornerstone of Indian banking and contract law governing cross-account recovery is the <strong>Doctrine of Mutuality</strong>. Under this doctrine, a bank can only set off a debt when the fund owed and the fund held belong to the exact same persons in the exact same legal capacity. If there is any divergence in legal entity status, ownership structure, or fiduciary character, the right of set-off is entirely inapplicable.
               </p>
@@ -607,9 +603,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 3: High Court Rulings, Statutory Protections & Cash Flow Protections */}
             <section id="high-court-rulings-operational-cash-flow" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. High Court Precedents, Article 19(1)(g) &amp; Operational Cash Flow Protections
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. High Court Precedents, Article 19(1)(g)</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The constitutional and statutory jurisprudence surrounding bank account freezes has been extensively tested before various High Courts and the Supreme Court of India. The judiciary has consistently ruled that banking institutions cannot function as judge, jury, and executioner by arbitrarily paralyzing running businesses to enforce unsecured civil recovery claims.
               </p>
@@ -664,9 +658,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 4: Bank Balance Sheet Accounting & NPV Recovery Formula */}
             <section id="bank-accounting-npa-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Balance Sheet Accounting, NPA Provisioning &amp; The Net Present Value (NPV) Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Accounting, NPA Provisioning</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To comprehend why commercial lenders resort to aggressive current account freezes—and how legal counsel turns that desperation into a heavily discounted compromise settlement—one must examine the prudential accounting framework mandated by the Reserve Bank of India. When an unsecured personal loan passes 90 days of non-payment, it is classified as a <strong>Non-Performing Asset (NPA)</strong> under RBI Master Circulars.
               </p>
@@ -738,9 +730,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="visual-roadmap-business-account-unfreeze" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Business Current Account Unfreezing &amp; Debt Settlement Visual Roadmap
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Business Current Account Unfreezing</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the 5-stage institutional and legal defense progression: from identifying an unlawful business account freeze to invoking legal entity separation, serving advocate demand notices, escalating regulatory violations, and concluding a binding compromise settlement.
               </p>
@@ -774,9 +764,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 6: Emergency Advocate 4-Stage Protocol */}
             <section id="emergency-advocate-4-stage-unfreeze-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. The Emergency 4-Stage Advocate Protocol to Unfreeze Business Accounts
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 4-Stage Advocate Protocol to Unfreeze</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When a business current account is frozen, standard complaints to branch customer service desks are virtually useless. Branch managers lack the administrative authority to override central risk system holds without formal legal clearance. To unblock commercial cash flow and prevent operational collapse, debt defense advocates execute an aggressive, multi-tiered 4-stage legal protocol:
               </p>
@@ -815,9 +803,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 7: Converting Unlawful Account Freezes into a 45%–65% OTS */}
             <section id="converting-freeze-into-compromise-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Converting an Unlawful Account Freeze into an Affordable 45%–65% One-Time Settlement (OTS)
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting an Unlawful Account Freeze into an Affordable</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 An unauthorized current account freeze signals that the bank has exhausted standard collection options and is vulnerable to regulatory penalties. By leveraging the bank&apos;s legal non-compliance and exposure to damages under the Negotiable Instruments Act, debt defense advocates convert an intimidating account hold into maximum leverage to negotiate a formal <strong>One-Time Settlement (OTS)</strong> on the delinquent personal loan.
               </p>
@@ -867,9 +853,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 8: Sanction Letter Forensics, RBI NDC Mandate & Commercial CIBIL Trajectory */}
             <section id="sanction-letter-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Sanction Letter Forensics, RBI ₹0 NDC Mandate &amp; Commercial CIBIL Trajectory
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, RBI ₹0 NDC Mandate</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 During debt resolution negotiations, borrowers must remain vigilant against fraudulent settlement offers. External collection agencies often issue unauthorized, fake settlement letters over WhatsApp to meet monthly recovery targets. A borrower must never disburse settlement funds until the sanction letter passes strict forensic legal verification.
               </p>
@@ -907,9 +891,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 9: Comparative Legal Matrix */}
             <section id="comparative-legal-matrix-setoff-vs-injunction" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Matrix: Banker Right of Set-Off vs. Court Order vs. High Court Injunction vs. OTS
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing the legal mechanisms governing bank account actions and business debt defense enables enterprise founders to understand their strategic options and enforce their rights effectively:
               </p>
@@ -962,9 +944,7 @@ export default function CanBankDebitCurrentAccountPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense &amp; Business Account Resolution Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Defending your enterprise against an unlawful current account freeze demands specialized banking litigation counsel who understand corporate jurisprudence, the Doctrine of Mutuality, and institutional debt restructuring frameworks. SettleLoans delivers complete legal defense for business founders, partners, and self-employed professionals across India: serving formal statutory notices, stopping recovery harassment, escalating breaches to the RBI Banking Ombudsman, and negotiating directly with bank zonal authorities to achieve 45% to 65% principal haircuts backed by official No Dues Certificates.
                 </p>
@@ -978,9 +958,7 @@ export default function CanBankDebitCurrentAccountPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Current Account Freezes &amp; Legal Remedies
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Current Account Freezes &amp; Legal Remedies</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to essential questions regarding business current account freezes, the Doctrine of Mutuality, and loan settlement procedures in India.

@@ -562,9 +562,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Corporate NBFC Scale &amp; Retail Lending Infrastructure</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Understanding L&amp;T Finance&apos;s Retail Portfolio, Credit Engine &amp; Recovery Ecosystem
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Understanding L&amp;T Finance&apos;s Retail Portfolio, Credit Engine</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 L&amp;T Finance Limited, a systemically important Upper-Layer NBFC (NBFC-UL) regulated by the Reserve Bank of India, operates an expansive retail lending footprint spanning urban consumer loans, micro-business credit lines, two-wheeler finance, and rural group facilities. Under its institutional retail transformation, L&amp;T Finance deploys automated collection engines in urban markets alongside branch-led field collection networks in semi-urban and rural centers.
               </p>
@@ -587,9 +585,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Stages</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                L&amp;T Finance Delinquency Lifecycle: From DPD 1-30 to Non-Performing Asset (NPA)
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">L&amp;T Finance Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Income Recognition and Asset Classification (IRACP) norms and Ind AS 109 Expected Credit Loss frameworks, L&amp;T Finance categorizes delinquent personal loans into Days Past Due (DPD) aging buckets. Once non-payment surpasses 90 days, the loan becomes a Non-Performing Asset (NPA), requiring mandatory balance-sheet capital provisioning that shifts institutional focus toward compromise capital recovery.
               </p>
@@ -657,9 +653,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping NACH Bounce Charges &amp; Penal Fees</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                How to Halt L&amp;T Finance NACH Bounce Fees &amp; Eliminate Compounded Penalties
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">How to Halt L&amp;T Finance NACH Bounce Fees</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Repeated electronic NACH mandate presentations can rapidly drain bank accounts or inflate loan ledgers with return fees and penalty interest. Under the Reserve Bank of India&apos;s Fair Lending Practice Directives on Penal Charges in Loan Accounts (2023), lenders are prohibited from capitalizing penal charges or levying compounding interest on unpaid dues.
               </p>
@@ -674,9 +668,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                L&amp;T Finance One-Time Settlement (OTS) Policies &amp; NPV Recovery Framework
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">L&amp;T Finance One-Time Settlement (OTS) Policies</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the RBI Master Direction on Compromise Settlements (DOR.STR.REC.20/21.04.048/2023-24), L&amp;T Finance evaluates settlement proposals using a mathematical Net Present Value (NPV) recovery valuation model, comparing immediate lump-sum recoveries against the cost and uncertainty of multi-year court litigation.
               </p>
@@ -801,9 +793,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Urban vs Rural Recovery &amp; RBI Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Against Aggressive Recovery Tactics Across Urban &amp; Rural Borrowers
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Aggressive Recovery Tactics Across Urban</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 While urban personal loan defaults trigger telephonic collections, rural and semi-urban borrowers frequently encounter field recovery visits. Under the Reserve Bank of India Master Directions on Recovery Agents and NBFC Fair Practices Code, strict statutory limits apply across all jurisdictions: recovery agents are prohibited from calling outside 08:00 AM to 07:00 PM, contacting non-guarantor relatives or workplaces, using intimidation, or entering private homes unannounced.
               </p>
@@ -818,9 +808,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Guide: How to Negotiate a Compromise Settlement with L&amp;T Finance
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with L&amp;T</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally protected One-Time Settlement with L&amp;T Finance follows a structured six-phase roadmap:
               </p>
@@ -900,9 +888,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Section 25 PSSA Notices, Unilateral Arbitration &amp; National Lok Adalat
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) require a formal response within 15 days to set out financial hardship and contest unauthorized mandate presentations. Under Supreme Court precedents (<em>Perkins Eastman</em> and <em>TRF Ltd.</em>), unilateral sole arbitrator appointments by lenders without mutual consent are legally invalid and can be challenged under Sections 12 and 14 of the Arbitration Act.
               </p>
@@ -961,9 +947,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Authenticating L&amp;T Finance Settlement Letters &amp; Enforcing the ₹0 NDC Protocol
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating L&amp;T Finance Settlement Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never deposit settlement funds based on verbal promises or unofficial messages. Borrowers must ensure the OTS sanction letter is printed on official L&amp;T Finance Limited letterhead bearing its Corporate Identification Number (CIN: L65910MH2008PLC182224), registered Mumbai office address, proposal reference number, authorized signatory name, and official company stamp.
               </p>
@@ -978,9 +962,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Trajectory &amp; Rehabilitation Plan</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory Post-Settlement &amp; Structured 18-Month Recovery Plan
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Trajectory</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling an L&amp;T Finance loan reports the status as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong> across TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. While an initial score dip of 75 to 150 points occurs, it permanently stops compounding default damage.
               </p>
@@ -1014,9 +996,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About L&amp;T Finance Personal Loan Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: L&amp;T Finance Personal Loan Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

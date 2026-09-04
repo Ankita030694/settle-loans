@@ -520,9 +520,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 1: Multi-Bureau Reporting Architecture in India */}
             <section id="multi-bureau-architecture-india" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Multi-Bureau Architecture in India: Why Experian Shows &quot;Settled&quot; or &quot;Written-Off&quot; After Debt Resolution
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Multi-Bureau Architecture in India</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In the Indian financial ecosystem, credit reporting is governed under the Credit Information Companies (Regulation) Act, 2005 (CICRA 2005). The Reserve Bank of India has granted operational licenses to four distinct Credit Information Companies (CICs): TransUnion CIBIL, Experian India, Equifax India, and CRIF High Mark. While the vast majority of retail borrowers vigilantly monitor their CIBIL score, the contemporary credit landscape has evolved dramatically. Today, major commercial banks—including HDFC Bank, ICICI Bank, Axis Bank, State Bank of India, and Kotak Mahindra Bank—alongside agile non-banking financial companies (NBFCs) and digital fintech platforms, simultaneously query Experian India to evaluate borrower creditworthiness.
               </p>
@@ -561,9 +559,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 2: Statutory Legal Grounding: CICRA Act 2005 & RBI Compensation Framework */}
             <section id="statutory-dispute-rights-cicra-2005" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Legal Grounding: CICRA Act 2005 &amp; The RBI Compensation Mandate (RBI/2023-24/72)
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Grounding</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The rights of borrowers regarding credit reporting accuracy are firmly codified under parliamentary legislation and Reserve Bank of India prudential directives. The primary statutory framework governing all credit information bureaus is the <strong>Credit Information Companies (Regulation) Act, 2005 (CICRA)</strong>, read alongside the Credit Information Companies Rules, 2006, and the Credit Information Companies Regulations, 2006.
               </p>
@@ -618,9 +614,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 3: The Mechanical Anatomy of Credit Bureau Inaccuracies */}
             <section id="anatomy-of-experian-reporting-errors" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. The Mechanical Anatomy of Credit Bureau Inaccuracies: Bank Reporting Lags &amp; Discrepancy Triggers
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Mechanical Anatomy of Credit Bureau Inaccuracies</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why your Experian credit report remains burdened by adverse remarks long after you fulfilled a settlement, one must examine the internal mechanics of bank loan operations. When a borrower enters into a negotiated One-Time Settlement (OTS) with a lender like Axis Bank, SBI, or ICICI Bank, the recovery department issues an official Sanction Letter outlining the discounted settlement amount, payment schedule, and terms of release. Once the final settlement installment is remitted and verified, the account ledger must undergo an administrative procedure known as <strong>Accounting Closure and Bureau Data Tagging</strong>.
               </p>
@@ -665,9 +659,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Dispute Valuation Formula */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Balance Sheet Accounting, NPA Provisioning &amp; The Net Present Value (NPV) Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Accounting, NPA Provisioning</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why banks are legally compelled to resolve Experian credit disputes—and how legal advocates force commercial lenders to correct erroneous bureau data—one must examine the prudential accounting rules governing non-performing assets in India. Under the <strong>RBI Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP)</strong>, lenders must segregate overdue credit accounts into strict delinquency buckets and allocate significant operating capital as mandatory bad-debt provisions:
               </p>
@@ -736,9 +728,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="experian-dispute-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Experian Credit Report Dispute &amp; Settled Status Removal Visual Roadmap
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Experian Credit Report Dispute</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below illustrates the structured 5-stage institutional progression from executing a loan settlement and acquiring an official No Dues Certificate to conducting a multi-bureau audit, lodging an Experian ERN dispute under the CICRA Act 2005, enforcing the 30-day lender verification loop, and achieving complete status rectification to Closed with a 750+ score rebuild.
               </p>
@@ -772,9 +762,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 6: The Step-by-Step Experian India Online & Legal Dispute Protocol */}
             <section id="step-by-step-experian-dispute-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. The Step-by-Step Experian India Online &amp; Legal Dispute Protocol
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Step-by-Step Experian India Online</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Rectifying an erroneous or outdated credit entry on Experian India requires precision, complete documentary backing, and adherence to official dispute channels. Following unverified online advice or calling general customer care lines will produce zero results, as consumer support agents lack administrative authority to modify database tables without formal member bank verification. Instead, borrowers must execute the official 4-stage Experian dispute protocol:
               </p>
@@ -813,9 +801,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 7: Converting Settled Status to Closed */}
             <section id="converting-settled-to-closed-strategy" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Converting &quot;Settled&quot; Status to &quot;Closed&quot;: The Post-Settlement Shortfall Resolution Strategy
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting "Settled" Status to "Closed"</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 For borrowers who completed a loan settlement years ago and currently hold a valid &quot;Settled&quot; remark with a ₹0 balance, a different challenge emerges. While &quot;Settled&quot; is factually accurate if a haircut was accepted, institutional underwriting algorithms at public sector banks and premium mortgage lenders continue treating the &quot;Settled&quot; tag as a historical default risk, restricting approvals for high-value home loans and business credit facilities.
               </p>
@@ -869,9 +855,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; Experian Score Rehabilitation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A common pitfall encountered by distressed borrowers is relying on unauthorized settlement letters or verbal assurances provided by outsourced collection agencies. Unscrupulous recovery agents routinely fabricate fraudulent settlement slips to collect funds, which are subsequently credited as routine overdue payments rather than a formal compromise settlement. Disbursing funds under an unverified settlement letter ensures that your Experian credit report will continue reflecting an active default.
               </p>
@@ -909,9 +893,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 9: Comparative Matrix: Experian Dispute Resolution Pathways */}
             <section id="comparative-matrix-dispute-pathways" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Matrix: Experian Dispute Resolution Pathways &amp; Legal Mechanisms
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the various dispute and rectification mechanisms available under Indian banking and consumer laws allows borrowers to choose the optimal legal strategy based on their specific situation:
               </p>
@@ -964,9 +946,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="settleloans-credit-dispute-advisory" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Multi-Bureau Dispute Defense &amp; Credit Rectification Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Multi-Bureau Dispute Defense</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating the complexities of multi-bureau credit repair in India requires experienced banking advocates who understand the intersection of core banking operations, the CICRA Act 2005, and Reserve Bank of India consumer protection directives. At SettleLoans, our specialized legal team audits your complete multi-bureau credit portfolio across Experian India, TransUnion CIBIL, Equifax, and CRIF High Mark to identify reporting errors, unauthorized write-offs, and lingering overdue balances. We draft and serve formal statutory notices upon bank Principal Nodal Officers, file expedited disputes on the Experian portal, escalate non-compliant lenders to the RBI Banking Ombudsman, and negotiate post-settlement closure upgrades that convert &quot;Settled&quot; remarks into clean &quot;Closed&quot; accounts.
                 </p>
@@ -980,9 +960,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Experian Credit Report Dispute &amp; Settled Status Removal
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Experian Credit Report Dispute</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding Experian India credit dispute procedures, CICRA 2005 turnaround mandates, and credit score rehabilitation.

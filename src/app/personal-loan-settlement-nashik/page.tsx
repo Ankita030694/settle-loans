@@ -585,7 +585,7 @@ export default function PersonalLoanSettlementNashikPage() {
             <section id="nashik-debt-landscape" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Building2 className="w-6 h-6 text-[#1F5EFF]" />
-                <span>1. The Economic Geography of Debt Distress in Nashik &amp; North Maharashtra</span>
+                <span>1. Debt Distress Geography in Nashik &amp; North Maharashtra</span>
               </h2>
               <p>
                 Nashik stands as a vital economic engine of Maharashtra, combining a massive industrial manufacturing base with India&apos;s most prominent viticulture and agro-export corridors. However, this distinct dual economy creates unique credit vulnerabilities. The city&apos;s industrial fabric—anchored by large-scale auto-ancillary precision engineering clusters across Satpur MIDC, Ambad MIDC, and Sinnar MIDC supplying major automotive original equipment manufacturers (OEMs), alongside aerospace engineering units near Ozar—is highly vulnerable to supply chain disruptions, extended payment cycles, and automotive production slowdowns.
@@ -611,7 +611,7 @@ export default function PersonalLoanSettlementNashikPage() {
             <section id="delinquency-timeline-npa-nashik" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <TrendingUp className="w-6 h-6 text-[#1F5EFF]" />
-                <span>2. Delinquency Timeline, Asset Classification &amp; Ind AS 109 NPA Mechanics</span>
+                <span>2. Delinquency Timeline &amp; NPA Mechanics</span>
               </h2>
               <p>
                 Understanding the regulatory progression of a defaulting loan under the Reserve Bank of India&apos;s Prudential Framework for Resolution of Stressed Assets is crucial for timing settlement negotiations effectively. From the moment an EMI payment is missed, the loan account transitions across defined Special Mention Account (SMA) sub-categories before reaching formal Non-Performing Asset (NPA) classification at 90 days past due (DPD).
@@ -645,7 +645,7 @@ export default function PersonalLoanSettlementNashikPage() {
             <section id="anti-harassment-nach-protection" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <ShieldAlert className="w-6 h-6 text-[#1F5EFF]" />
-                <span>3. Statutory Borrower Protections: Halting Harassment &amp; NACH Presentation Sweeps</span>
+                <span>3. Borrower Legal Protections</span>
               </h2>
               <p>
                 A primary concern for distressed borrowers in Nashik is aggressive, unlawful recovery practices. Collection agencies frequently violate statutory boundaries by dispatching unannounced recovery agents to manufacturing workshops in Ambad and Satpur MIDC, corporate offices on Gangapur Road, or residential neighborhoods across Indira Nagar and Mahatma Nagar. Borrowers must recognize that debt default is strictly a civil contractual matter governed by the Indian Contract Act, 1872, and not a criminal offense.
@@ -679,7 +679,7 @@ export default function PersonalLoanSettlementNashikPage() {
             <section id="rbi-ots-npv-valuation" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Calculator className="w-6 h-6 text-[#1F5EFF]" />
-                <span>4. The Net Present Value (NPV) Valuation Mechanics &amp; 40%–70% OTS Haircut Formulation</span>
+                <span>4. NPV Valuation Mechanics &amp; OTS Haircuts</span>
               </h2>
               <p>
                 One-Time Settlement (OTS) sanctioning is governed by the Reserve Bank of India&apos;s Master Directions on Compromise Settlements and Technical Write-offs. Bank Zonal Committees and Credit Sanctioning Authorities do not evaluate settlement requests based on emotional distress; they operate strictly on comparative Net Present Value (NPV) financial recovery modeling.
@@ -714,7 +714,7 @@ export default function PersonalLoanSettlementNashikPage() {
             <section id="infographic-resolution-blueprint" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Layers className="w-6 h-6 text-[#1F5EFF]" />
-                <span>5. Visual Resolution Blueprint: Nashik Loan Settlement Architecture</span>
+                <span>5. Visual Resolution Blueprint</span>
               </h2>
               <p>
                 The resolution framework below illustrates the complete end-to-end pathway from delinquency and legal notice defense to advocate-led Zonal SARB negotiations, Lok Adalat conciliation, and final ₹0 No Dues Certificate issuance for borrowers across Nashik and North Maharashtra:
@@ -743,7 +743,7 @@ export default function PersonalLoanSettlementNashikPage() {
             <section id="nashik-court-defense-jmfc" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Gavel className="w-6 h-6 text-[#1F5EFF]" />
-                <span>6. Judicial Defense in Nashik District &amp; Sessions Court and JMFC Benches</span>
+                <span>6. Judicial Defense in Nashik District Courts</span>
               </h2>
               <p>
                 When an unsecured loan default persists past 120 days, lending institutions frequently initiate formal statutory legal proceedings to compel settlement. In Nashik, these legal actions are filed before the Judicial Magistrate First Class (JMFC) Courts and Civil Benches situated within the District and Sessions Court Complex at Old Agra Road, Central Bus Stand (CBS) area, Nashik.
@@ -783,7 +783,7 @@ export default function PersonalLoanSettlementNashikPage() {
             <section id="nashik-lok-adalat-representation" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Landmark className="w-6 h-6 text-[#1F5EFF]" />
-                <span>7. Nashik District Legal Services Authority (DLSA) Lok Adalat Settlement Protocol</span>
+                <span>7. Nashik District Legal Services Authority DLSA Lok Adalat</span>
               </h2>
               <p>
                 The District Legal Services Authority (DLSA) seated at the District Court Complex in Old Agra Road / CBS, Nashik, conducts regular National and State Lok Adalats under the aegis of the Maharashtra State Legal Services Authority (MSLSA) and NALSA. For distressed borrowers, Lok Adalat represents the safest, most definitive legal forum to execute a binding debt compromise.
@@ -809,7 +809,7 @@ export default function PersonalLoanSettlementNashikPage() {
             <section id="step-by-step-settlement-roadmap" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Clock className="w-6 h-6 text-[#1F5EFF]" />
-                <span>8. The 5-Stage Advocate-Led Settlement Protocol for Nashik Borrowers</span>
+                <span>8. The 5-Stage Advocate-Led Settlement Protocol</span>
               </h2>
               <p>
                 Resolving delinquent personal loans, credit card debt, and MSME credit lines requires a structured, multi-stage legal and financial protocol designed to maximize debt waivers while eliminating legal vulnerability:
@@ -860,7 +860,7 @@ export default function PersonalLoanSettlementNashikPage() {
             <section id="sanction-letter-audit-ndc" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <FileCheck className="w-6 h-6 text-[#1F5EFF]" />
-                <span>9. Forensic Audit of Nashik OTS Sanction Letters &amp; ₹0 No Dues Certificate Protocol</span>
+                <span>9. Forensic Audit of Nashik OTS Letters</span>
               </h2>
               <p>
                 A critical danger for distressed borrowers is settling with unauthorized third-party recovery agents who issue forged compromise letters or misappropriate funds into third-party accounts. SettleLoans enforces strict forensic protocols to verify every settlement document before a single rupee is remitted.
@@ -897,7 +897,7 @@ export default function PersonalLoanSettlementNashikPage() {
             <section id="cibil-score-rehabilitation-nashik" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <TrendingUp className="w-6 h-6 text-[#1F5EFF]" />
-                <span>10. CIBIL Score Trajectory, Post-Settlement Reporting &amp; Credit Rehabilitation</span>
+                <span>10. CIBIL Trajectory &amp; Score Rehabilitation</span>
               </h2>
               <p>
                 A transparent understanding of credit bureau reporting is vital for long-term financial recovery. When an unsecured personal loan or credit card is settled through an OTS, the lender reports the trade line status to TransUnion CIBIL, Experian, Equifax, and CRIF High Mark as &quot;Settled&quot; or &quot;Post-Write-Off Settled&quot; with a current balance of ₹0.
@@ -928,7 +928,7 @@ export default function PersonalLoanSettlementNashikPage() {
             <section id="nashik-debt-matrix" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Scale className="w-6 h-6 text-[#1F5EFF]" />
-                <span>11. Nashik Debt Resolution &amp; Court Settlement Comparative Matrix</span>
+                <span>11. Nashik Debt Resolution</span>
               </h2>
               <p>
                 The table below outlines key procedural dynamics, expected OTS haircut percentages, and court resolution pathways across different credit categories for borrowers in Nashik and North Maharashtra:

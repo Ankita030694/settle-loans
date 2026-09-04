@@ -524,7 +524,7 @@ export default function PoliceFirWithCallRecordingPage() {
             <section id="evidence-threshold-call-recordings" className="scroll-mt-28 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Mic className="w-6 h-6 text-[#1F5EFF]" />
-                <span>1. The Statutory Reality of Recovery Harassment &amp; Audio Evidence Law</span>
+                <span>1. Recovery Harassment &amp; Audio Evidence Law</span>
               </h2>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
@@ -554,7 +554,7 @@ export default function PoliceFirWithCallRecordingPage() {
             <section id="electronic-certificate-drafting" className="scroll-mt-28 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <FileCheck className="w-6 h-6 text-[#1F5EFF]" />
-                <span>2. Section 63 BSA &amp; Section 65B Evidence Act: Mandatory Certificate Drafting</span>
+                <span>2. Section 63 BSA &amp; Section 65B Evidence Act</span>
               </h2>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
@@ -599,7 +599,7 @@ export default function PoliceFirWithCallRecordingPage() {
             <section id="criminal-offenses-bns-ipc" className="scroll-mt-28 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Gavel className="w-6 h-6 text-[#1F5EFF]" />
-                <span>3. Substantive Criminal Law: Mapping Recovery Harassment to BNS &amp; IPC Offenses</span>
+                <span>3. Substantive Criminal Law</span>
               </h2>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
@@ -623,7 +623,7 @@ export default function PoliceFirWithCallRecordingPage() {
             <section id="npa-accounting-npv-formula" className="scroll-mt-28 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Calculator className="w-6 h-6 text-[#1F5EFF]" />
-                <span>4. NPA Accounting Realities, Bank Provisioning &amp; the NPV Recovery Equation</span>
+                <span>4. NPA Accounting Realities, Bank Provisioning</span>
               </h2>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
@@ -657,7 +657,7 @@ export default function PoliceFirWithCallRecordingPage() {
             <section id="visual-roadmap-fir-action" className="scroll-mt-28 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <BookOpen className="w-6 h-6 text-[#1F5EFF]" />
-                <span>5. Visual Roadmap: From Audio Recording to Police FIR &amp; Resolution</span>
+                <span>5. Process Roadmap</span>
               </h2>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
@@ -684,7 +684,7 @@ export default function PoliceFirWithCallRecordingPage() {
             <section id="drafting-police-complaint-step-by-step" className="scroll-mt-28 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <FileText className="w-6 h-6 text-[#1F5EFF]" />
-                <span>6. Step-by-Step Procedure: Drafting the Formal Police Complaint Application</span>
+                <span>6. Step-by-Step Procedure</span>
               </h2>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
@@ -718,7 +718,7 @@ export default function PoliceFirWithCallRecordingPage() {
             <section id="overcoming-police-inaction-magistrate" className="scroll-mt-28 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Scale className="w-6 h-6 text-[#1F5EFF]" />
-                <span>7. Overcoming Police Inaction: SP Escalation &amp; Section 175(3) BNSS Applications</span>
+                <span>7. Overcoming Police Inaction</span>
               </h2>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
@@ -742,7 +742,7 @@ export default function PoliceFirWithCallRecordingPage() {
             <section id="sanction-letter-forensics-ndc" className="scroll-mt-28 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Landmark className="w-6 h-6 text-[#1F5EFF]" />
-                <span>8. Sanction Letter Forensics &amp; the RBI ₹5,000/Day No Dues Certificate Mandate</span>
+                <span>8. Sanction Letter Forensics</span>
               </h2>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
@@ -762,7 +762,7 @@ export default function PoliceFirWithCallRecordingPage() {
             <section id="comparative-legal-defense-matrix" className="scroll-mt-28 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <FileSpreadsheet className="w-6 h-6 text-[#1F5EFF]" />
-                <span>9. Comparative Legal Matrix: Recovery Agent Threats vs. Statutory Rights &amp; Remedies</span>
+                <span>9. Comparative Debt Resolution Matrix</span>
               </h2>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
@@ -819,7 +819,7 @@ export default function PoliceFirWithCallRecordingPage() {
             <section id="company-resolution-section" className="scroll-mt-28 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Building2 className="w-6 h-6 text-[#1F5EFF]" />
-                <span>10. SettleLoans Legal Defense &amp; Institutional Debt Settlement Advisory</span>
+                <span>10. SettleLoans Legal Defense &amp; Advisory</span>
               </h2>
 
               <p className="text-sm sm:text-base leading-relaxed text-slate-700">
@@ -839,9 +839,7 @@ export default function PoliceFirWithCallRecordingPage() {
             <section id="faqs" className="scroll-mt-28 space-y-6 pt-4 border-t border-slate-200">
               <div className="flex items-center gap-2">
                 <HelpCircle className="w-6 h-6 text-[#1F5EFF]" />
-                <h2 className="text-xl sm:text-2xl font-black text-slate-900">
-                  11. Frequently Asked Questions: Police FIRs &amp; Call Recording Admissibility
-                </h2>
+                <h2 className="text-xl sm:text-2xl font-black text-slate-900">11. FAQs: Police FIRs &amp; Call Recording Admissibility</h2>
               </div>
 
               <div className="space-y-4">

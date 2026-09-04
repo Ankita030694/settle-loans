@@ -563,9 +563,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. LenDenClub &amp; P2P Platform Architecture</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Deconstructing LenDenClub: Intermediary NBFC-P2P Structure &amp; Escrow Dynamics
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Deconstructing LenDenClub</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 LenDenClub is operated by Innofin Solutions Private Limited, an RBI-registered NBFC-P2P platform matching retail lenders with personal loan borrowers. Unlike commercial banks or balance-sheet NBFCs, capital does not flow from corporate reserves but is fractionalized across hundreds of retail lenders through an independent Trustee Escrow Account. In loans sourced via channels like Finstree, the credit risk rests with individual investors, while loan administration and recovery remain centralized under Innofin Solutions.
               </p>
@@ -588,9 +586,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; P2P Portfolio Stress</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                P2P Loan Delinquency Lifecycle: From First Missed EMI to Loss Asset Classification
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">P2P Loan Delinquency Lifecycle</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When a borrower defaults on LenDenClub or Finstree, the facility progresses through statutory Special Mention Account (SMA) stages into Non-Performing Asset (NPA) status past 90 Days Past Due (DPD). Initial collection relies on automated IVR calls and repeated electronic NACH presentations. Crossing 90 DPD triggers mandatory capital provisioning and investor disclosures, compelling the platform to transition from automated recovery to structured loss mitigation.
               </p>
@@ -658,9 +654,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Stopping e-NACH Bounces &amp; Penal Accumulation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Halting Predatory e-NACH Presentations &amp; Compounding Penal Interest
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Predatory e-NACH &amp; Penal Interest</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Automated treasury systems repeatedly represent dishonoured e-NACH mandates up to four times monthly on defaulted LenDenClub accounts. Each bounce triggers dual financial penalties: destination banks levy return charges of ₹295 to ₹590, while the platform adds internal bounce fees alongside compounding penal interest of 24% to 36% per annum, rapidly inflating outstanding balances beyond the core principal.
               </p>
@@ -675,9 +669,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; NPV Valuation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                P2P Stressed Asset Valuation: Net Present Value (NPV) &amp; Haircut Economics
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">P2P Stressed Asset Valuation</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Unlike secured loans governed by the SARFAESI Act, retail P2P loans are strictly unsecured civil contracts. In persistent default, the platform&apos;s sole legal remedy is civil court litigation. LenDenClub&apos;s Stressed Asset Committee evaluates settlement proposals using Net Present Value (NPV) recovery algorithms, comparing an immediate lump-sum settlement against discounted future cash flows degraded by multi-year court friction and legal retainers.
               </p>
@@ -806,9 +798,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Anti-Harassment Defense &amp; RBI Regulations</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Statutory Protections: Stopping Predatory Tele-Calling &amp; Unlawful Harassment
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Statutory Protections</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Defaulted LenDenClub borrowers frequently face aggressive collection tactics, including relentless automated tele-calling, calls placed to corporate workplace lines, and unauthorized outreach to relatives who are not legal guarantors. Under the RBI Master Directions on Recovery Agents and Digital Lending Guidelines, these practices are strictly unlawful. Contact is limited to 08:00 AM to 07:00 PM, third-party disclosure is prohibited, and mobile apps cannot access device contacts or photo storage.
               </p>
@@ -823,9 +813,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step P2P Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Step-by-Step Legal Roadmap: How to Settle a Defaulted LenDenClub Loan
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Legal Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating a successful One-Time Settlement with an NBFC-P2P requires a disciplined, legally fortified approach that prevents fraudulent agency arrangements and secures permanent financial release:
               </p>
@@ -905,9 +893,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Defending Legal Notices &amp; Digital Arbitration</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Section 25 PSSA Notices, Digital Arbitration &amp; Lok Adalat Conciliation
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Section 25 PSSA Notices, Digital Arbitration</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 At 60 to 90 days of default, lenders frequently issue 15-day statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured e-NACH debits. This is a demand notice rather than a court warrant, and the offense is entirely compoundable. A timely advocate reply demonstrating involuntary distress refutes criminal intent and initiates formal compromise channels.
               </p>
@@ -971,9 +957,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Forensics &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Authenticating the OTS Sanction Letter &amp; Enforcing the ₹0 NDC Mandate
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating the OTS Sanction Letter</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers must never remit settlement funds against verbal promises or WhatsApp messages from recovery callers. A legally binding One-Time Settlement requires an authentic Sanction Letter issued on the corporate letterhead of Innofin Solutions Private Limited (LenDenClub), citing CIN, borrower PAN, exact loan account identifier, approved settlement sum, payment schedule, and an irrevocable release of all claims by underlying retail lenders.
               </p>
@@ -988,9 +972,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Bureau Reporting &amp; Credit Rebuilding</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                CIBIL Score Trajectory Post-Settlement &amp; 18-Month Credit Restoration Roadmap
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Trajectory</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Upon settlement completion, Innofin Solutions reports the account to CIBIL and all credit bureaus as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While causing an initial temporary credit score dip of 75 to 120 points, it permanently extinguishes compounding default marks and eliminates legal exposure.
               </p>
@@ -1024,9 +1006,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About LenDenClub Loan Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: LenDenClub Loan Settlement</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

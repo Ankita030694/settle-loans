@@ -518,9 +518,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 1: Demystifying ECS, NACH & e-Mandates */}
             <section id="demystifying-ecs-nach-mandate-strangulation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying ECS, NACH &amp; e-Mandates: The Anatomy of Salary Cash-Flow Strangulation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Demystifying ECS, NACH &amp; e-Mandates</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 For millions of salaried employees in India, the first day of the month has shifted from a moment of professional accomplishment into an acute financial crisis. When multiple unsecured personal loans, consumer durable EMIs, and credit lines converge on a single salary account, automated debit clearing systems sweep earnings within minutes of payroll deposit. This phenomenon—known in financial defense jurisprudence as <strong>Cash-Flow Strangulation</strong>—leaves borrowers with zero liquidity to cover basic necessities such as residential rent, children&apos;s school fees, medical prescriptions, and family groceries.
               </p>
@@ -556,9 +554,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 2: Statutory Legal Grounding: RBI Directives & Wages Act */}
             <section id="statutory-legal-protections-rbi-wages-act" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Legal Grounding: RBI NACH Cancellation Circulars, Section 7 Payment of Wages Act &amp; Article 21
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Grounding</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Contrary to deceptive claims made by aggressive loan recovery agents, an ECS or NACH mandate is not an irrevocable, eternal surrender of your fundamental banking autonomy. Under the regulatory architecture established by the Reserve Bank of India, payment mandates are conditional authorizations that remain fully subject to the customer&apos;s continuous consent and statutory legal protections.
               </p>
@@ -614,9 +610,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 3: The Threat of Section 25 PSSA & Section 138 NI Act */}
             <section id="debunking-fraud-allegations-pssa-25" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. The Threat of Section 25 PSSA &amp; Section 138 NI Act: Debunking Bank &quot;Fraud&quot; Allegations
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. The Threat of Section 25 PSSA &amp; Section 138 NI Act</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When borrowers inform bank collection agents of their intent to stop auto-debits, recovery agents routinely unleash severe intimidation tactics. Defaulters are threatened with immediate criminal arrest, filing of First Information Reports (FIRs) for criminal breach of trust, or prosecution under stringent statutory penal codes. As leading banking defense advocates, we must dissect and dismantle these deceptive assertions with precise statutory law.
               </p>
@@ -661,9 +655,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Balance Sheet Accounting, NPA Provisioning &amp; The Net Present Value (NPV) Recovery Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. NPA Balance Sheet Accounting &amp; NPV Models</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why stopping an ECS mandate often accelerates a favorable loan settlement, one must look inside the rigid balance sheet accounting frameworks governing commercial banks and NBFCs in India. Under Reserve Bank of India Master Directions on Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), an unsecured loan cannot remain in administrative limbo indefinitely.
               </p>
@@ -741,9 +733,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="ecs-cancellation-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Salary Account ECS Mandate Cancellation &amp; Debt Resolution Visual Roadmap
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Salary Account ECS Mandate Cancellation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the structured 5-stage institutional trajectory from diagnosing cash-flow strangulation on your salary account to executing a lawful mandate revocation, invoking Section 7 Payment of Wages Act protections, escalating regulatory non-compliance, and concluding an official 55% compromise settlement.
               </p>
@@ -777,9 +767,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 6: Emergency 4-Stage Legal Revocation Protocol */}
             <section id="emergency-4-stage-revocation-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. The Emergency 4-Stage Legal Protocol to Revoke ECS / NACH Mandates Without Criminal Liability
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Emergency 4-Stage Legal Protocol to Revoke ECS / NACH</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Successfully stopping loan auto-debits without exposing yourself to legal ambush requires executing a disciplined, legally documented procedure. Borrowers must never rely on informal verbal conversations with branch clerks. Instead, follow our battle-tested 4-stage mandate revocation protocol:
               </p>
@@ -818,9 +806,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 7: Negotiating Debt Resolution & 55% OTS */}
             <section id="forcing-compromise-settlement-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Converting Stopped Auto-Debits into an Institutional 45%–65% One-Time Settlement (OTS)
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Stopped Auto-Debits into an Institutional</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Stopping recurring ECS debits is the critical first tactical move, but it is not the final financial destination. The ultimate objective is to permanently extinguish the outstanding debt through a legally binding, heavily discounted <strong>One-Time Settlement (OTS)</strong> that frees you from creditor claims once and for all.
               </p>
@@ -870,9 +856,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC Mandate &amp; CIBIL Bureau Trajectory
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 During the debt settlement process, borrowers must remain extremely vigilant against unauthorized settlement letters issued by external recovery agencies. Aggressive collection agents frequently generate fraudulent settlement slips over WhatsApp to meet monthly collection quotas. Remitting funds without forensic verification can result in your payment being credited as partial interest while the loan remains fully open and delinquent.
               </p>
@@ -910,9 +894,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 9: Dispute Resolution Comparative Matrix */}
             <section id="comparative-mandate-revocation-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Matrix: Self-Service Portal vs. Branch Request vs. RBI Ombudsman vs. Advocate OTS
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the different operational and legal pathways to handle recurring ECS loan mandates empowers borrowers to choose the most effective strategy for their financial situation:
               </p>
@@ -965,9 +947,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense &amp; Emergency Auto-Debit Revocation Advisory
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating the complex interplay between RBI mandate circulars, the Payment and Settlement Systems Act, and aggressive bank recovery tactics requires experienced banking litigation advocates. SettleLoans provides complete legal protection for salaried borrowers across India: executing lawful ECS and NACH mandate revocations, shielding salary accounts from cash-flow strangulation, defending against Section 25 PSSA and Section 138 NI Act notices, and negotiating directly with senior bank credit committees to secure 45% to 65% principal haircuts backed by official, bank-stamped No Dues Certificates.
                 </p>
@@ -981,9 +961,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Salary Account ECS Mandates &amp; Legal Remedies
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Salary Account ECS Mandates &amp; Legal Remedies</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, authoritative, and legally verified answers to critical questions regarding ECS mandate cancellations, auto-debit revocation rules, and loan settlement in India.

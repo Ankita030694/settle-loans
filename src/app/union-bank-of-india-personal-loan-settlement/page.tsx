@@ -487,9 +487,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Institutional Architecture &amp; Tripartite Merger Dynamics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Retail Loan Default in India&apos;s 3rd Largest Public Sector Lender
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Retail Loan Default</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Following the historic amalgamation of Andhra Bank and Corporation Bank into Union Bank of India, the institution operates as India&apos;s third-largest public sector bank. Millions of personal loan facilities—including Union Personal lines, salary advance schemes, and legacy credit portfolios—are centrally administered under a unified Core Banking Solution (CBS).
               </p>
@@ -504,9 +502,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>2. Delinquency Lifecycle &amp; SAMB Escalation Mechanics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                From Base Branch Delinquency to Stressed Asset Management Branches
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">From Base Branch Delinquency to Stressed Asset Management</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Union Bank monitors credit distress across structured Special Mention Account (SMA) buckets mandated by RBI: SMA-0 (1–30 DPD), SMA-1 (31–60 DPD), and SMA-2 (61–90 DPD). Upon crossing 90 days of non-payment, the loan is classified as a Non-Performing Asset (NPA).
               </p>
@@ -552,9 +548,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>3. Section 171 Banker&apos;s Lien &amp; Operational Account Shields</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Banker&apos;s Right of General Lien, CIF Auto-Sweeps, and Statutory Limits
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s Right of General Lien, CIF Auto-Sweeps, and</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Under <strong>Section 171 of the Indian Contract Act, 1872</strong>, Union Bank holds a statutory general lien over all accounts linked to the borrower&apos;s Customer Information File (CIF) and PAN. The bank can automatically debit or freeze internal savings, salary, and recurring deposit balances to offset overdue loan liabilities.
               </p>
@@ -582,9 +576,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>4. Statutory Legal Notices &amp; Advocate-Led Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Against Section 25 PSSA, Section 138 NI Act, and SARFAESI Misconceptions
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 25 PSSA &amp; Sec 138 NI Act</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 As a personal loan default matures, Union Bank serves formal legal notices through empanelled counsel. Understanding the statutory framework ensures an effective legal response:
               </p>
@@ -628,9 +620,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Union Bank of India Personal Loan Settlement Workflow &amp; Approval Architecture
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Union Bank of India Settlement Workflow &amp; Approvals</h2>
               
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                 <img
@@ -651,9 +641,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>6. UBI OTS Policy &amp; Net Present Value (NPV) Recovery Formula</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Union Bank Board OTS Policy Guidelines &amp; Economic Valuation Formulas
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Union Bank OTS Policy &amp; Valuation Rules</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Union Bank processes compromises under its Board-approved Compromise Policy based on <strong>Net Present Value (NPV) Recovery Valuation</strong>. SAMB officers must establish that an immediate compromise payment yields higher economic value than multi-year civil litigation:
               </p>
@@ -700,9 +688,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <Briefcase className="w-4 h-4" />
                 <span>7. Step-by-Step SAMB Settlement Roadmap &amp; Approval Hierarchy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Procedural Stages and Delegation of Financial Powers in Union Bank
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Procedural Stages and Delegation of Financial Powers</h2>
               
               <div className="space-y-3.5 my-5">
                 <div className="flex items-start gap-3 p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
@@ -745,9 +731,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>8. Special Lok Adalat OTS Schemes &amp; Judicial Finality</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Resolving Union Bank Defaults via Statutory Lok Adalat Benches
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Resolving Union Bank Defaults via Statutory Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Union Bank regularly refers retail NPA accounts to National Lok Adalat sittings organized by NALSA. Attending officers carry pre-approved mandates permitting 45%–60% principal waivers.
               </p>
@@ -769,9 +753,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics, No Dues Certificate &amp; CIBIL Trajectory</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Verifying Bank Letterhead Sanctions, ₹0 NDC Mandate, and Credit Repair
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Verifying Bank Letterhead Sanctions, ₹0 NDC Mandate, and</h2>
               
               <div className="border border-slate-200 rounded-xl p-4 bg-white shadow-sm my-5 space-y-2.5">
                 <h3 className="font-bold text-slate-900 text-xs uppercase tracking-wider text-[#1F5EFF]">
@@ -808,9 +790,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <Scale className="w-4 h-4" />
                 <span>10. Comparative Resolution Matrix &amp; Professional Advocacy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Comparing Resolution Pathways: Self-Negotiation vs. Recovery Agents vs. Legal Advocacy
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparing Debt Resolution Pathways</h2>
 
               {/* 4-sided bordered table */}
               <div className="overflow-x-auto my-5">
@@ -881,9 +861,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions on Union Bank of India Personal Loan Settlement
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Union Bank of India Personal Loan Settlement</h2>
 
               <div className="space-y-3.5">
                 {(((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.["mainEntity"] || []) as Array<{ name: string; acceptedAnswer: { text: string } }>).map((faq, index: number) => (

@@ -462,9 +462,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 1: The Doorstep Intrusion Reality */}
             <section id="doorstep-intrusion-reality" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. The Doorstep Intrusion Reality: Deconstructing Forced Entry &amp; Doorstep Anxiety in India
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. The Doorstep Intrusion Reality</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Defaulting on a personal loan, consumer credit line, or credit card balance is an excruciating financial and psychological ordeal. Across Indian cities, salaried professionals, small enterprise owners, and independent workers dealing with temporary liquidity crises often face an agonizing phenomenon: unannounced doorstep visits by aggressive third-party collection personnel. For countless families, the sudden sound of heavy knocking or persistent doorbell ringing triggers severe doorstep anxiety. The fear that recovery agents might push past the entrance, barge into the private living room, shout in front of neighbors, or confront elderly parents and young children creates intense social paralysis.
               </p>
@@ -487,9 +485,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 2: Statutory Protections & Criminal Trespass */}
             <section id="statutory-framework-criminal-trespass" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Protections &amp; Criminal Trespass: Section 329 BNS and Section 441 IPC
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections &amp; Criminal Trespass</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Indian penal jurisprudence provides rigorous statutory protections against uninvited intrusions into private residences. With the enactment of the Bharatiya Nyaya Sanhita, 2023 (BNS), replacing the Indian Penal Code, 1860 (IPC), the legal framework governing criminal trespass, house-trespass, and unlawful entry has been modernized while maintaining strict penalties for unauthorized physical encroachments.
               </p>
@@ -537,9 +533,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 3: Constitutional Right to Privacy & Landmark Supreme Court Precedents */}
             <section id="constitutional-privacy-puttaswamy" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Constitutional Right to Privacy &amp; Landmark Supreme Court Precedents
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Right to Privacy &amp; Supreme Court Precedents</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Beyond statutory criminal provisions, Indian borrowers are protected by the highest constitutional jurisprudence established by the Supreme Court of India. In the historic nine-judge Constitution Bench ruling in <em>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) 10 SCC 1</em>, the Supreme Court unequivocally declared that the Right to Privacy is a fundamental right emanating from Article 21 (Right to Life and Personal Liberty) of the Constitution of India.
               </p>
@@ -556,9 +550,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 4: RBI Master Directions & Fair Practices Code */}
             <section id="rbi-master-directions-fair-practices" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. RBI Master Directions &amp; Fair Practices Code: Absolute Prohibition on Doorstep Harassment
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. RBI Master Directions &amp; Fair Practices Code</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India has established comprehensive, enforceable regulations to govern the conduct of banks, NBFCs, and their outsourced recovery agents. These rules are codified under the <em>Master Direction – Reserve Bank of India (Managing Risks and Code of Conduct in Outsourcing of Financial Services by Regulated Entities) Directions</em> and the <em>Master Circular on Fair Practices Code</em>.
               </p>
@@ -616,9 +608,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 6: Tactical Protocol: How to Lawfully Shut the Door */}
             <section id="lawful-door-shutting-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. How to Lawfully Shut the Door: Step-by-Step Tactical &amp; Legal Response Protocol
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. How to Lawfully Shut the Door</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When recovery agents arrive unannounced at your doorstep, knowing exactly how to react dispels panic and places you in complete legal control of the situation. You do not need to argue, shout, or feel intimidated. By following a structured legal response protocol, you can assert your rights, maintain your dignity, and create unassailable documentary evidence:
               </p>
@@ -659,9 +649,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 7: Bank NPA Accounting, Provisioning Burden & The NPV Recovery Model */}
             <section id="bank-npa-accounting-npv-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Bank NPA Accounting Realities: Provisioning Burdens &amp; The NPV Recovery Formula
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting Realities</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why collection agencies resort to aggressive doorstep visits rather than pursuing court remedies, one must analyze the institutional economics of bad debt recovery in India. Under the Reserve Bank of India Prudential Norms on Income Recognition, Asset Classification and Provisioning, an unsecured retail loan or credit card facility is categorized as a Non-Performing Asset (NPA) once repayments remain overdue for more than 90 days.
               </p>
@@ -698,9 +686,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 8: Direct OTS Negotiation, Cease-and-Desist Notices & NDC */}
             <section id="cease-and-desist-ots-negotiation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Direct OTS Settlement Protocols: Cease-and-Desist Notices, Sanction Letters &amp; NDC
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Direct OTS Settlement Protocols</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A common trap for distressed borrowers during doorstep harassment is making token payments or UPI transfers to collection agents based on verbal promises that visits will stop. Such informal payments are routinely credited toward penal interest and late fees, leaving the core principal delinquent and inviting fresh harassment weeks later.
               </p>
@@ -736,9 +722,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 9: Comparative Legal Matrix */}
             <section id="comparative-enforcement-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Legal Matrix: Recovery Channels, Entry Powers &amp; Borrower Safeguards
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative matrix below details the statutory boundaries, entry authority, and borrower legal protections across various debt recovery mechanisms operating in India:
               </p>
@@ -798,9 +782,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
             {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense Framework: Protecting Your Home, Family &amp; Dignity
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   No individual or family should have to live in terror of aggressive collection agents banging on doors, shouting in residential hallways, or attempting to violate the sanctity of their home. At SettleLoans, our senior banking advocates, consumer protection specialists, and financial negotiators provide robust nationwide representation for distressed borrowers. We immediately enforce your constitutional privacy rights and statutory protections under Section 329 BNS and the RBI Fair Practices Code. By serving formal Vakalatnama and Cease-and-Desist notices, we halt uninvited doorstep harassment permanently and negotiate directly with senior banking executives to secure structured 40% to 65% One-Time Settlements backed by official No Dues Certificates.
                 </p>
@@ -814,9 +796,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Recovery Agent Doorstep Rules &amp; Legal Rights
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Recovery Agent Doorstep Rules &amp; Legal Rights</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, verified legal answers regarding recovery agent limitations, criminal trespass laws, privacy rights, and debt settlement in India.

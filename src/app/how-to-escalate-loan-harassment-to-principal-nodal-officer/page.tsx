@@ -514,9 +514,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 1: Demystifying the Principal Nodal Officer (PNO) & RBI Three-Tier Grievance Architecture */}
             <section id="demystifying-pno-grievance-architecture" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying the Principal Nodal Officer (PNO) &amp; The RBI Three-Tier Grievance Architecture
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Demystifying the Principal Nodal Officer (PNO)</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When an individual or enterprise borrower encounters severe financial distress—such as catastrophic revenue collapse, unforeseen business insolvency, or acute personal medical crises—commercial banks and Non-Banking Financial Companies (NBFCs) routinely reassign overdue accounts to external Direct Recovery Agencies (DRAs). In an alarming number of instances, these commission-driven recovery agents deploy aggressive, coercive, and unlawful collection tactics designed to bypass the rule of law. Aggrieved borrowers frequently attempt to resolve these abuses by speaking with local branch managers or telephonic customer support desks, only to find their oral representations dismissed, minimized, or met with indifferent deflection.
               </p>
@@ -540,9 +538,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 2: Statutory Legal Mandates & Regulatory Accountability */}
             <section id="statutory-mandates-rbi-fair-practices" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. Statutory Legal Mandates, RBI Fair Practices Code &amp; Institutional Liability
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Mandates, RBI Fair Practices Code</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The authority of the Principal Nodal Officer to intervene in coercive debt recovery is anchored in binding statutory directives issued by the Reserve Bank of India. Central among these is the <em>Master Direction – Fair Practices Code for Lenders</em>, read in conjunction with RBI Circular <em>DOR.ORG.REC.65/21.04.158/2022-23</em> on &apos;Outsourcing of Financial Services – Responsibilities of Regulated Entities in Employing Recovery Agents&apos;. These regulatory frameworks establish unambiguous operational boundaries that every bank and its recovery affiliates must strictly obey:
               </p>
@@ -597,9 +593,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 3: Documenting Agent Coercion & Building the Evidentiary Dossier */}
             <section id="documenting-agent-coercion-evidence" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Documenting Agent Coercion &amp; Building the Evidentiary Dossier for Level-3 Escalation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Documenting Agent Coercion</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A common reason informal complaints fail to produce results is the lack of structured documentary proof. The office of the Principal Nodal Officer operates on strict administrative and evidentiary protocols. Submitting unverified verbal claims allows lower-level compliance staff to issue generic denials. To compel immediate executive action, an aggrieved borrower must systematically compile an unassailable evidentiary dossier before initiating Level-3 escalation:
               </p>
@@ -650,9 +644,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 4: Bank NPA Accounting, Provisioning Burdens & Harassment Risk NPV Formula */}
             <section id="bank-npa-accounting-harassment-npv" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank NPA Accounting, Provisioning Burdens &amp; Harassment Risk NPV Dynamics
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting, Provisioning Burdens</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding why a formal PNO complaint creates powerful leverage requires examining the banking economics of Non-Performing Assets (NPAs). Under RBI prudential norms on <em>Income Recognition, Asset Classification and Provisioning (IRACP)</em>, when an unsecured loan remains overdue beyond 90 days, it is classified as a Substandard NPA.
               </p>
@@ -724,9 +716,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="pno-escalation-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Institutional Escalation &amp; Collection Freeze Visual Roadmap
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Institutional Escalation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below delineates the five sequential stages of escalating collection harassment from branch-level evidence documentation to Level-3 Principal Nodal Officer intervention, mandatory Internal Ombudsman review, collection freezing, and executing a final debt settlement with a zero-balance No Dues Certificate.
               </p>
@@ -760,9 +750,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 6: Step-by-Step PNO Escalation Protocol */}
             <section id="step-by-step-pno-filing-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. Step-by-Step PNO Escalation Protocol: Filing Statutory Representations &amp; Enforcing Collection Freezes
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step PNO Escalation Protocol</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Executing a successful Level-3 escalation requires adhering to a precise procedural sequence. Circumventing administrative steps can give the bank grounds to delay response timelines. Distressed borrowers and legal advocates should follow this structured protocol:
               </p>
@@ -822,9 +810,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 7: The RBI Internal Ombudsman Mandatory Review Mechanism */}
             <section id="rbi-internal-ombudsman-mandatory-review" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. The RBI Internal Ombudsman (IO) Mandatory Review Mechanism &amp; Penal Strictures
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. The RBI Internal Ombudsman (IO) Mandatory Review</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A pivotal safeguard within the Indian banking framework is the <strong>RBI Internal Ombudsman (IO) Mechanism</strong>. Operating independently of commercial lending desks, the Internal Ombudsman is an external judicial or senior banking appointee tasked with ensuring impartial customer dispute resolution. Under RBI regulations, regulated banks and NBFCs with over ten branches are strictly mandated to maintain an active Internal Ombudsman desk.
               </p>
@@ -856,9 +842,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 8: Converting PNO Grievances into Structured Debt Settlement (50%–70% OTS) */}
             <section id="converting-pno-grievance-to-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Strategic Debt Resolution: Converting PNO Grievances into 50%–70% OTS
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Strategic Debt Resolution</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 While eliminating collection harassment and securing peace of mind are immediate priorities, an escalated PNO grievance serves as exceptional leverage to achieve complete, permanent financial freedom. When an unrepresented borrower requests a loan settlement at a branch, banks routinely insist on full principal recovery and demand payment of compounded penal interest.
               </p>
@@ -912,9 +896,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 9: Dispute Escalation & Redressal Comparative Matrix */}
             <section id="dispute-escalation-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Bank Grievance Escalation &amp; Legal Redressal Comparative Matrix
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Bank Grievance Escalation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers facing aggressive debt collection often consider multiple avenues of recourse. The comparative matrix below outlines the institutional hierarchy, resolution speed, authority to freeze collection, and settlement leverage across various grievance and judicial channels in India:
               </p>
@@ -973,9 +955,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 10 & Company Section */}
             <section id="settleloans-executive-representation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                10. SettleLoans Executive Legal Representation &amp; PNO Escalation Services
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Executive Legal Representation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Navigating the complexities of RBI regulatory directives, compiling forensic digital evidence dossiers, and interfacing with senior Principal Nodal Officers requires seasoned legal acumen and institutional negotiation prowess. At <strong>SettleLoans</strong>, our nationwide team of senior banking litigation advocates, former regulatory compliance officers, and seasoned financial negotiators acts as an impenetrable shield for distressed borrowers.
               </p>
@@ -988,9 +968,7 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Section 11: FAQ Accordion */}
             <section id="faqs" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                11. Frequently Asked Questions: Principal Nodal Officer Harassment Escalation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Principal Nodal Officer Harassment Escalation</h2>
               <div className="space-y-3">
                 {((jsonLdGraph["@graph"].find((item: any) => item["@type"] === "FAQPage") as any)?.mainEntity || []).map((faq: any, index: number) => (
                   <details

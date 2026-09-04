@@ -514,9 +514,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <Factory className="w-4 h-4" />
                 <span>1. Industrial Corridor Stress &amp; Credit Dynamics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Navigating Credit Stress Across Vadodara, Anand, and Bharuch Industrial Belts
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Credit Stress Across Vadodara, Anand, and Bharuch</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Vadodara occupies a vital position in Gujarat&apos;s economic engine, serving as the nucleus of central Gujarat&apos;s engineering, power equipment, pharmaceutical, and chemical manufacturing sectors. From the heavy fabrication and machinery clusters in Makarpura GIDC and Savli GIDC to the chemical manufacturing corridors in Nandesari, Ranoli, and the neighboring belts of Vitthal Udyognagar in Anand and Ankleshwar-Jhagadia in Bharuch, thousands of engineers, enterprise owners, and specialized executives drive immense industrial output. However, the cyclical nature of manufacturing contracts, sudden disruptions in global export demand, and systemic payment lockups from large engineering procurement contractors (EPCs) frequently trigger severe cash-flow bottlenecks.
               </p>
@@ -534,9 +532,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; SARB Escalation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                The Non-Performing Asset (NPA) Lifecycle and Stressed Assets Recovery Branches
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The Non-Performing Asset (NPA) Lifecycle and Stressed Assets</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 When an EMI payment is missed on an unsecured personal loan or credit facility in Vadodara, the lending institution classifies the account across structured Special Mention Account (SMA) buckets mandated by the Reserve Bank of India. In the initial SMA-0 stage (1 to 30 days past due), automated SMS reminders, digital alerts, and polite branch tele-calling dominate. As delinquency advances to SMA-1 (31 to 60 days past due) and SMA-2 (61 to 90 days past due), aggressive third-party collection agencies are engaged, and substantial compound penal interest is capitalized onto the ledger.
               </p>
@@ -557,9 +553,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <Scale className="w-4 h-4" />
                 <span>3. Section 171 Banker&apos;s Lien &amp; Account Protection</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Banker&apos;s Right of General Lien, CIF Auto-Sweeps, and Jurisdictional Protections
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s Right of General Lien, CIF Auto-Sweeps, and</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 A common and devastating crisis confronting defaulting borrowers across Vadodara is the sudden freezing or unauthorized debiting of their operational bank accounts. This action is carried out by lenders under the legal doctrine of the <strong>Banker&apos;s Right of General Lien and Set-Off</strong>, codified in <strong>Section 171 of the Indian Contract Act, 1872</strong>. Because commercial banks utilize unified Core Banking Systems (CBS) indexed by the customer&apos;s Permanent Account Number (PAN) and Customer Identification File (CIF), automated algorithms can instantly attach balances across all accounts maintained within the same banking institution.
               </p>
@@ -590,9 +584,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <Gavel className="w-4 h-4" />
                 <span>4. Statutory Legal Notices &amp; Advocate-Led Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Defending Against Section 25 PSSA, Section 138 NI Act, and Local Vadodara Court Summons
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 25 PSSA &amp; Sec 138 NI Act</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 As loan defaults cross the 90 to 180-day threshold, lending institutions in Vadodara escalate legal pressure by issuing formal statutory demand notices drafted by their empanelled advocates. Borrowers must understand the procedural dynamics of these notices to formulate a structured legal defense:
               </p>
@@ -640,9 +632,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <Layers className="w-4 h-4" />
                 <span>5. Visual Resolution Blueprint</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Vadodara Gujarat Industrial Corridor Debt Settlement Workflow
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Vadodara Gujarat Industrial Corridor Debt Settlement</h2>
               
               <div className="my-6 rounded-2xl overflow-hidden border border-slate-200 shadow-md bg-slate-50">
                 <img
@@ -663,9 +653,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <Calculator className="w-4 h-4" />
                 <span>6. Bank OTS Policy &amp; Net Present Value (NPV) Recovery Formula</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                RBI Compromise Frameworks and Mathematical Valuation Mechanics
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">RBI Compromise Frameworks and Mathematical Valuation</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 Debt settlements in India are strictly regulated under the Reserve Bank of India&apos;s Master Directions on Compromise Settlements and Technical Write-offs. Public sector banks (such as Bank of Baroda, State Bank of India, Punjab National Bank, and Canara Bank) and leading private lenders operate under board-approved compromise policies designed to be non-discriminatory and commercially viable. Decisions on debt waivers are evaluated against an established financial metric known as <strong>Net Present Value (NPV) Recovery Valuation</strong>.
               </p>
@@ -783,9 +771,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <Scale className="w-4 h-4" />
                 <span>8. Vadodara Lok Adalat Judicial Conciliation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Resolving Defaults via District Legal Services Authority (DLSA) Lok Adalats
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Resolving Defaults via District Legal Services Authority</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 One of the most effective and legally conclusive mechanisms for resolving defaulted loans in Gujarat is through the <strong>National Lok Adalat</strong>, organized quarterly across Vadodara, Anand, and Bharuch by the <strong>District Legal Services Authority (DLSA)</strong> under the auspices of the <strong>National Legal Services Authority (NALSA)</strong> and the <strong>Gujarat State Legal Services Authority (GSLSA)</strong>.
               </p>
@@ -813,9 +799,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics, No Dues Certificate &amp; CIBIL Trajectory</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Verifying Stamped Bank Sanctions, RBI 30-Day NDC Mandate, and Credit Repair
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Verifying Stamped Bank Sanctions, RBI 30-Day NDC Mandate,</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 A loan settlement is only as secure as the documentation certifying it. Borrowers in Vadodara must never deposit settlement funds based on verbal promises or informal WhatsApp messages. A rigorous forensic audit of the settlement letter is essential:
               </p>
@@ -858,9 +842,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
                 <Scale className="w-4 h-4" />
                 <span>10. Comparative Resolution Matrix &amp; Professional Advocacy</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                Comparing Resolution Channels: Individual Effort vs. Collection Agents vs. Legal Advocacy
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparing Resolution Channels</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-sm sm:text-base">
                 The strategic path chosen by a distressed borrower determines whether their loan settlement succeeds with complete legal finality or results in continuous financial drain. The following matrix illustrates the critical operational differences across resolution pathways:
               </p>

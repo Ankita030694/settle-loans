@@ -515,9 +515,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 1: Demystifying Debt Settlement in Madurai & Southern Tamil Nadu */}
             <section id="demystifying-debt-settlement-madurai" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                1. Demystifying Debt Settlement in Madurai &amp; Southern Tamil Nadu: Commercial Reality &amp; Legal Framework
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Debt Settlement Landscape in Madurai</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Madurai anchors Southern Tamil Nadu&apos;s commercial corridor, spanning the textile markets of South Masi and Vilakkuthoon, Dindigul&apos;s agro-processing units, and Virudhunagar&apos;s industrial printing clusters. In recent years, raw material volatility, inflation, and post-pandemic liquidity stress forced many local business owners, traders, and salaried professionals to rely on high-interest unsecured personal loans, business cash credit, and revolving credit cards.
               </p>
@@ -528,9 +526,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 2: Regional Debt Landscape: SARB & Microfinance */}
             <section id="regional-debt-landscape-sarb-microfinance" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                2. The Southern Tamil Nadu Debt Landscape: SARB Notices, Microfinance Disputes &amp; Trader Stress Points
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Southern Tamil Nadu Debt Landscape &amp; Realities</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Unlike metropolitan credit markets, Southern Tamil Nadu&apos;s trade relies on seasonal revolving cycles. When commercial banks introduced automated NACH debits, cash flow mismatches quickly led to widespread technical defaults across four main areas:
               </p>
@@ -581,9 +577,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 3: Statutory Protections & Judicial Framework */}
             <section id="statutory-protections-madurai-bench-rbi" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                3. Statutory Protections &amp; Judicial Framework: Madurai Bench of the Madras High Court, Section 138 NI Act &amp; RBI Fair Practice Codes
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Statutory Protections &amp; Judicial Framework</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers in Southern Tamil Nadu operate under clear statutory protections. The Madurai Bench of the Madras High Court has established through multiple precedents that private banks and NBFCs cannot use private recovery agents or police machinery to enforce loan collections, reaffirming that pure financial default is a civil contractual matter.
               </p>
@@ -615,9 +609,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 4: Bank Balance Sheet Accounting, NPA Provisioning & NPV Equation */}
             <section id="bank-balance-sheet-accounting-npv-madurai" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                4. Bank Balance Sheet Accounting, NPA Provisioning &amp; The Net Present Value (NPV) Recovery Equation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. NPA Balance Sheet Accounting &amp; NPV Models</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Principal debt waivers are driven by RBI provisioning mandates. When an unsecured personal loan crosses 90 days of non-payment, it enters NPA status. In Doubtful categories, banks must allocate <strong>100% of the loan amount as capital provisioning</strong> from operational profits, suppressing return on assets.
               </p>
@@ -692,9 +684,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="madurai-debt-settlement-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                5. Madurai Debt Settlement &amp; Legal Resolution Visual Roadmap
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Madurai Debt Settlement</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap illustrates the structured 5-stage legal progression used by debt defense advocates to resolve delinquent personal loans, stay SARB notices, and secure No Dues Certificates across Southern Tamil Nadu.
               </p>
@@ -728,9 +718,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 6: Advocate Negotiation Protocol with Bank SARBs */}
             <section id="advocate-negotiation-protocol-sarb" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                6. The Advocate-Led Negotiation Protocol: Engaging Private Bank SARBs &amp; Zonal Committees
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Advocate-Led Negotiation Protocol</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Settling defaulted personal loans with commercial banks (HDFC, ICICI, Axis, Kotak) or NBFCs requires an institutional legal strategy executed across five structured phases:
               </p>
@@ -771,9 +759,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 7: Forensic Verification of Sanction Letters */}
             <section id="forensic-sanction-letter-verification" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Forensic Checklist for Watertight Bank OTS Sanction Letters
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Forensic Checklist</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Distressed borrowers often face fraudulent collection scams where recovery agents issue fake settlement letters. Before remitting funds, our legal team subjects every OTS sanction letter to five mandatory checkpoints:
               </p>
@@ -830,9 +816,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 8: Remittance Protocols, RBI 30-Day NDC Mandate & CIBIL Bureau Rehabilitation */}
             <section id="remittance-rbi-ndc-cibil-restoration" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                8. Settlement Remittance, RBI 30-Day NDC Mandate &amp; CIBIL Bureau Rehabilitation
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Settlement Remittance &amp; ₹0 NDC Mandate</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under <strong>RBI Circular RBI/2023-24/60</strong>, all regulated lenders are legally mandated to issue an official <strong>No Dues Certificate (NDC)</strong>, return security cheques, and update credit bureau records within <strong>30 calendar days</strong> of receiving full settlement payment. Any delay makes the lender liable to pay statutory compensation of <strong>₹5,000 per day of delay</strong> to the borrower.
               </p>
@@ -850,9 +834,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
 
             {/* Section 9: Comparative Debt Resolution Strategy Matrix */}
             <section id="madurai-debt-resolution-strategy-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                9. Comparative Debt Resolution Strategy Matrix for Southern Tamil Nadu
-              </h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Strategy Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Reviewing resolution pathways helps borrowers across Madurai, Dindigul, and Virudhunagar determine the most secure and cost-effective approach:
               </p>
@@ -912,9 +894,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  10. SettleLoans Legal Defense &amp; Stressed Debt Advisory in Southern Tamil Nadu
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Relief in Southern Tamil Nadu</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   SettleLoans delivers specialized debt defense across Madurai, Dindigul, and Virudhunagar: issuing statutory cease-and-desist notices, defending Section 138 summons before Judicial Magistrates, scrubbing illegal penal charges, and negotiating directly with bank Zonal Credit Committees for maximum OTS haircuts backed by stamped ₹0 No Dues Certificates.
                 </p>
@@ -928,9 +908,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                  11. Frequently Asked Questions: Debt Settlement in Madurai &amp; Tamil Nadu
-                </h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Madurai &amp; Tamil Nadu</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Legally verified answers to critical questions regarding personal loan settlements, SARB notices, Lok Adalat proceedings, and borrower rights across Southern Tamil Nadu.
