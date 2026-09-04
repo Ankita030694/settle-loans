@@ -42,7 +42,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Ludhiana | SettleLoans',
-  description: 'Facing debt distress in Ludhiana, Jalandhar, or Amritsar? Consult top debt settlement advocates in Ludhiana Punjab for factory owners, MSMEs, and salaried professionals to secure 40%–65% bank OTS waivers.',
+  description: 'Learn how to settle personal loans legally in Ludhiana. Stop bank recovery harassment and resolve debt with up to 60% OTS via SettleLoans.',
   keywords: [
     'debt settlement advocates in ludhiana punjab',
     'personal loan settlement ludhiana',
@@ -373,9 +373,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
             <span>Debt Settlement Advocates • Ludhiana &amp; Punjab Industrial Belt</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Personal Loan Settlement in Ludhiana: <span className="text-[#3b82f6] md:text-[#60a5fa]">Top Debt Settlement Advocates in Punjab for Industrialists &amp; Salaried Borrowers</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Ludhiana: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-4 mb-6 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

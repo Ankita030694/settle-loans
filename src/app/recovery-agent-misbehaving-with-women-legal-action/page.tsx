@@ -39,8 +39,8 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Action Against Recovery Agents Misbehaving | SettleLoans',
-  description: 'Are male recovery agents harassing, shouting at, or intimidating a female borrower or housewife? Learn mandatory RBI female staff rules, Section 74/75 BNS, NCW escalation, and legal remedies.',
+  title: 'Action on Recovery Agents Misbehaviour | SettleLoans',
+  description: 'Recovery agent misbehaving with female borrowers? Learn strict RBI rules, Section 74 BNS criminal actions, and NCW remedies with SettleLoans.',
   keywords: [
     'recovery agent misbehaving with female borrower',
     'bank recovery agent harassing housewife',
@@ -423,9 +423,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
             <span>Women Borrower Protection Shield • Anti-Harassment &amp; Criminal Recourse</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Recovery Agent Misbehaving with Female Borrower? <span className="text-[#3b82f6] md:text-[#60a5fa]">Strict RBI Rules, Criminal Action &amp; Legal Protection Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Recovery Agent Misbehaving with Women: Legal Action</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

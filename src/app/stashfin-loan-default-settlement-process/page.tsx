@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Stashfin Loan Default Settlement Guide | SettleLoans',
-  description: 'Comprehensive guide to Stashfin loan settlement and Akara Capital debt resolution. Learn how to halt late fee accumulation, stop recovery harassment, defend Section 25 PSSA advocate notices, and negotiate a 50% to 60% principal waiver under RBI rules.',
+  description: 'Learn how to settle Stashfin loan defaults legally. Handle Akara Capital NBFC notices and negotiate structured compromise OTS with SettleLoans.',
   keywords: [
     'stashfin loan settlement',
     'stashfin loan default settlement process',
@@ -464,9 +464,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
             <span>Fintech Credit Line &amp; NBFC Dispute Resolution • Akara Capital</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Stashfin Loan Default Settlement Process: <span className="text-[#3b82f6] md:text-[#60a5fa]">Akara Capital OTS, Legal Defense &amp; 60% Haircut</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Stashfin Loan Default Settlement & OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

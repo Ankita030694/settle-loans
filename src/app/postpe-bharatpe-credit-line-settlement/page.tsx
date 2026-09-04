@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'PostPe & BharatPe Line Settlement | SettleLoans',
-  description: 'Comprehensive guide to PostPe and BharatPe loan settlement. Learn how to settle retail and merchant credit lines, stop daily QR deductions & NACH bounce fees, halt WhatsApp harassment, defend partner NBFC legal notices, and negotiate 45%–65% OTS debt waivers under RBI rules.',
+  description: 'Learn how to settle PostPe and BharatPe credit lines legally. Stop collection agent calls and resolve partner NBFC debt with SettleLoans.',
   keywords: [
     'postpe bharatpe loan default settlement',
     'postpe loan settlement process',
@@ -465,9 +465,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
             <span>FinTech Credit Dispute Resolution • PostPe &amp; BharatPe</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            PostPe &amp; BharatPe Credit Line Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">OTS Rules, Legal Defense &amp; Harassment Protection (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">PostPe & BharatPe Credit Line Settlement Process</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

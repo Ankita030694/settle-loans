@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'L&T Finance Personal Loan Settlement | SettleLoans',
-  description: 'Comprehensive guide to L&T Finance personal loan settlement. Learn how to negotiate One-Time Settlements (OTS), stop repeated NACH bounce fees, halt recovery harassment across urban and rural borrowers, defend Section 25 PSSA and arbitration notices, and secure up to 60% debt haircuts under RBI rules.',
+  description: 'Learn how to settle L&T Finance personal loans legally. Stop recovery harassment and negotiate structured OTS discount waivers with SettleLoans.',
   keywords: [
     'lt finance personal loan settlement',
     'l&t finance loan settlement process',
@@ -463,9 +463,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
             <span>Corporate NBFC Dispute Resolution • L&amp;T Finance Limited</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            L&amp;T Finance Personal Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">OTS Rules, Haircut Matrix &amp; Legal Defense (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">L&T Finance Personal Loan Settlement: OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

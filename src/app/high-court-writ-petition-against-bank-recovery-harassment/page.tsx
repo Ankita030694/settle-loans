@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Writ Petition for Recovery Harassment | SettleLoans',
-  description: 'Suffering extreme bank recovery harassment or physical threats? Learn how advocates file an Article 226 High Court Writ Petition to secure immediate police protection, judicial restraining orders, and negotiate a 50%–70% OTS.',
+  description: 'File an Article 226 High Court writ petition to stop illegal bank recovery harassment and secure police protection orders with SettleLoans.',
   keywords: [
     'writ petition against bank recovery harassment in high court',
     'high court writ petition bank harassment',
@@ -414,9 +414,7 @@ export default function HighCourtWritBankHarassmentPage() {
             <span>Constitutional Law • Article 226 High Court Writ Remedies</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Writ Petition Against Bank Recovery Harassment in High Court: <span className="text-[#3b82f6] md:text-[#60a5fa]">Article 226 Legal Shield, Police Protection &amp; Injunction Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">High Court Writ Petition Against Recovery Harassment</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

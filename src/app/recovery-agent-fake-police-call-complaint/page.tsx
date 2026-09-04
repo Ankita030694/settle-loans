@@ -44,8 +44,8 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Report Fake Police Calls from Recovery Agents | SettleLoans',
-  description: 'Is a loan recovery agent posing as a police officer or Crime Branch inspector? Discover criminal offenses under Section 204 BNS / 170 IPC, RBI rules, and how to file an immediate FIR.',
+  title: 'Report Fake Police Recovery Calls | SettleLoans',
+  description: 'Recovery agent pretending to be a police officer or court bailiff? File an immediate police impersonation FIR under Section 204 BNS with SettleLoans.',
   keywords: [
     'recovery agent pretending to be police officer',
     'fake police call for loan recovery',
@@ -428,9 +428,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
             <span>Police Impersonation Defense • Criminal Complaint &amp; RBI Ombudsman Recourse</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Recovery Agent Pretending to Be Police Officer? <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Rights, Criminal Offenses (BNS / IPC) &amp; Immediate FIR Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Recovery Agent Pretending to Be Police Officer</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

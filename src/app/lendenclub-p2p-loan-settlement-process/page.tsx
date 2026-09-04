@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'LenDenClub P2P Loan Settlement | SettleLoans',
-  description: 'Comprehensive legal guide to the LenDenClub loan settlement process. Learn how to settle defaulted P2P personal loans with Innofin Solutions and Finstree under RBI Master Directions, stop recovery agent harassment, defend Section 25 PSSA notices, and negotiate a 40% to 65% OTS haircut with an official No Dues Certificate.',
+  description: 'Learn how to settle LenDenClub P2P loans legally. Stop collection notices, handle partner NBFCs, and settle debt with SettleLoans.',
   keywords: [
     'lendenclub loan settlement process',
     'lendenclub p2p loan settlement',
@@ -464,9 +464,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <span>P2P Credit Dispute Resolution • Retail Borrowers</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            LenDenClub Loan Settlement Process: <span className="text-[#3b82f6] md:text-[#60a5fa]">Stop Recovery Harassment, Legal Notices &amp; Settle P2P Dues (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">LenDenClub P2P Loan Settlement Process & OTS Rules</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

@@ -32,7 +32,7 @@ import {
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Varanasi | SettleLoans',
   description:
-    'Struggling with loan default, recovery harassment, or court summons in Varanasi, Prayagraj, or Gorakhpur? Get expert advocate defense, Lok Adalat compromise, and 40%–70% OTS waivers.',
+    'Learn how to settle personal loans legally in Varanasi. Stop recovery harassment and resolve bank debt with expert OTS via SettleLoans.',
   keywords: [
     'personal loan settlement lawyer in varanasi',
     'loan settlement advocates in varanasi',
@@ -416,9 +416,7 @@ export default function PersonalLoanSettlementVaranasiPage() {
             <span>Eastern UP Debt Defense • Varanasi, Prayagraj &amp; Gorakhpur Banking Advisory</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Personal Loan Settlement Lawyer in Varanasi: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Defense, Bank OTS &amp; Lok Adalat Relief</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Varanasi: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

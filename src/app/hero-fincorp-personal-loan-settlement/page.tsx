@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Hero FinCorp Loan Settlement Guide | SettleLoans',
-  description: 'Step-by-step guide to Hero Fincorp loan settlement process. Learn how to settle personal loans, halt recovery harassment, stop NACH bounce charges, defend Section 25 notices, and negotiate 40%–60% OTS haircuts under RBI rules.',
+  description: 'Learn how to settle Hero FinCorp personal loans legally. Stop agent harassment and negotiate formal OTS debt compromise with SettleLoans.',
   keywords: [
     'hero fincorp loan settlement process',
     'hero fincorp personal loan settlement',
@@ -429,9 +429,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
             <span>Corporate NBFC Dispute Resolution • Hero FinCorp SARB</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Hero Fincorp Personal Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">OTS Rules, Legal Defense &amp; Haircut Guide (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Hero FinCorp Personal Loan Settlement & OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

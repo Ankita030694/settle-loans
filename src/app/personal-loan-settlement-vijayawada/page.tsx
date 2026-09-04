@@ -34,7 +34,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Vijayawada | SettleLoans',
-  description: 'Top debt settlement advocates in Vijayawada & Guntur. Defend against Section 138 & 25 PSSA court notices, stop recovery harassment, protect trader and salaried incomes, and negotiate 40%–60% OTS haircuts under RBI rules.',
+  description: 'Learn how to settle personal loans legally in Vijayawada. Stop bank recovery harassment and resolve debt with structured OTS via SettleLoans.',
   keywords: [
     'debt settlement advocates in vijayawada',
     'personal loan settlement vijayawada',
@@ -471,9 +471,7 @@ export default function PersonalLoanSettlementVijayawadaPage() {
             <span>Andhra Pradesh Legal Debt Relief • Vijayawada &amp; Guntur Hub</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Debt Settlement Advocates in Vijayawada: <span className="text-[#3b82f6] md:text-[#60a5fa]">Personal Loan OTS, Legal Notice Defense &amp; Lok Adalat Resolution (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Vijayawada: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

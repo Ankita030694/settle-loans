@@ -33,7 +33,7 @@ import {
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Kanpur | SettleLoans',
   description:
-    'Facing loan default, recovery agent harassment, or court summons in Kanpur? Senior debt settlement advocates protect leather exporters, merchants, and workers with 40%–70% OTS waivers.',
+    'Learn how to settle personal loans legally in Kanpur. Stop recovery harassment and negotiate up to 60% bank OTS waiver via SettleLoans.',
   keywords: [
     'debt settlement advocates in kanpur',
     'personal loan settlement kanpur',
@@ -426,9 +426,7 @@ export default function Page() {
               <span>Regional Debt Resolution • Kanpur &amp; Uttar Pradesh</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-              Debt Settlement Advocates in Kanpur: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Notice Defense &amp; OTS Debt Relief</span>
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Kanpur: Legal OTS Guide</h1>
 
             <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
               <span className="flex items-center gap-1.5">

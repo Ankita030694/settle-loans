@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'MobiKwik Zip Pay Later Settlement | SettleLoans',
-  description: 'Trapped by ballooning MobiKwik ZIP Pay Later late fees? Learn how to settle defaulted ₹10,000–₹60,000 ZIP credit lines, waive 100% penalties, halt recovery harassment, and resolve active CIBIL defaults under RBI rules.',
+  description: 'Learn how to settle MobiKwik ZIP Pay Later debt legally. Stop penalty interest compounding and negotiate formal closure via SettleLoans.',
   keywords: [
     'mobikwik zip pay later default settlement',
     'mobikwik zip settlement process',
@@ -451,9 +451,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
             <span>BNPL &amp; Micro-Credit Dispute Resolution • MobiKwik ZIP</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            MobiKwik ZIP Pay Later Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">Process, Late Fee Waiver &amp; CIBIL Resolution</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">MobiKwik Zip Pay Later Loan Settlement & OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

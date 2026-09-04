@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Freo MoneyTap Credit Line Settlement | SettleLoans',
-  description: 'Comprehensive guide to MoneyTap (Freo) credit line settlement. Resolve revolving credit debt with RBL Bank & DMI Finance, stop e-NACH bounce penalties, halt recovery harassment, defend Section 25 PSSA notices, and negotiate a 40%–60% OTS haircut under RBI rules.',
+  description: 'Learn how to settle Freo MoneyTap credit line debt legally. Stop mounting late charges and negotiate a structured OTS with SettleLoans.',
   keywords: [
     'moneytap freo loan settlement process',
     'freo credit line settlement',
@@ -452,9 +452,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
             <span>Fintech Credit Line Resolution • MoneyTap / Freo</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            MoneyTap (Freo) Credit Line Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">OTS Process, RBL/DMI Co-Lending Legal Defense &amp; Haircut Guide (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Freo MoneyTap Credit Line Settlement Process & Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'LiquiLoans P2P Loan Settlement | SettleLoans',
-  description: 'Comprehensive legal guide to LiquiLoans (NDX P2P) loan settlement. Learn how to settle zero-cost EMI, healthcare, and EdTech loans, stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA notices, and negotiate 40%–60% debt haircuts under RBI rules.',
+  description: 'Learn how to settle LiquiLoans P2P debt legally. Stop automated recovery notices and resolve overdue loans with expert help from SettleLoans.',
   keywords: [
     'liquiloans settlement process',
     'liquiloans loan settlement',
@@ -439,9 +439,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
             <span>Specialized Consumer P2P Lending • NDX P2P / LiquiLoans</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            LiquiLoans Settlement Process: <span className="text-[#3b82f6] md:text-[#60a5fa]">Resolving NDX P2P Zero-Cost EMI, Healthcare &amp; EdTech Loans (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">LiquiLoans P2P Loan Settlement Process & OTS Rules</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

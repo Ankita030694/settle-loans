@@ -44,7 +44,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Stop Recovery Agents Harassing Family | SettleLoans',
-  description: 'Is a bank recovery agent shouting at your home in front of your kids, elderly parents, or family? Learn child protection laws, Juvenile Justice Act provisions, emergency police FIR remedies, and advocate-led OTS settlement.',
+  description: 'Recovery agents shouting at home in front of children? Protect your family under child protection laws and file a police FIR with SettleLoans.',
   keywords: [
     'recovery agent shouting at home in front of kids',
     'recovery agents harassing family in front of children',
@@ -427,9 +427,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
             <span>Child &amp; Family Protection • Juvenile Justice Act &amp; Domestic Peace</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Recovery Agent Shouting at Home in Front of Kids? <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Rights, Child Protection Laws &amp; Police FIR Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Recovery Agents Harassing Family in Front of Kids</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

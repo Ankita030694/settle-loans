@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Illegal Vehicle Repossession Rules | SettleLoans',
-  description: 'Bike, car, or commercial vehicle snatched on the road by recovery agents? Learn why Supreme Court rulings deem street repossessions illegal extortion and how to retrieve your vehicle with police intervention.',
+  description: 'Recovery agents snatching your bike or car on the road? Understand Supreme Court bans on forceful repossession and get legal help with SettleLoans.',
   keywords: [
     'recovery agents seizing vehicle by force on road',
     'recovery agents snatching bike on road illegal repo',
@@ -415,9 +415,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
             <span>Vehicle Repossession Defense • Supreme Court Precedents &amp; Street Seizure Protection</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Recovery Agents Seizing Vehicle by Force on Road: <span className="text-[#3b82f6] md:text-[#60a5fa]">Supreme Court Ban, Criminal Extortion Laws &amp; Vehicle Retrieval Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Recovery Agents Snatching Bike or Car on Road</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

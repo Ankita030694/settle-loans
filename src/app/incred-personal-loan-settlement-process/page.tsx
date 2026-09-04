@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'InCred Personal Loan Settlement | SettleLoans',
-  description: 'Comprehensive guide to InCred Financial Services personal loan settlement. Learn how to settle personal and MSME loans, stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA and arbitration notices, and negotiate up to 60% OTS haircut under RBI rules.',
+  description: 'Learn how to settle InCred personal and education loans legally. Handle advocate notices and negotiate compromise OTS with SettleLoans.',
   keywords: [
     'incred personal loan settlement',
     'incred financial services loan settlement',
@@ -463,9 +463,7 @@ export default function InCredPersonalLoanSettlementPage() {
             <span>Tech-NBFC Dispute Resolution • InCred Financial Services</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            InCred Personal Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">OTS Rules, Legal Notice Defense &amp; Haircut Guide (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">InCred Personal Loan Settlement: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

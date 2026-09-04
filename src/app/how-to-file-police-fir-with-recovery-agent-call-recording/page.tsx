@@ -44,8 +44,8 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'File Police FIR for Recovery Call Harassment | SettleLoans',
-  description: 'Recorded abusive loan recovery calls? Learn step-by-step how to draft an electronic certificate under Section 63 BSA / Section 65B, file a police FIR, and stop harassment.',
+  title: 'File Police FIR for Recovery Harassment | SettleLoans',
+  description: 'How to file a police FIR using recovery agent call recordings. Ensure electronic evidence compliance under Section 63 BSA with SettleLoans.',
   keywords: [
     'police complaint with call recording against recovery agent',
     'how to file fir against recovery agent with audio evidence',
@@ -427,9 +427,7 @@ export default function PoliceFirWithCallRecordingPage() {
             <span>Criminal Evidence &amp; Police FIR Protocol • Electronic Certification Guide</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            How to File Police FIR with Recovery Agent Call Recording: <span className="text-[#3b82f6] md:text-[#60a5fa]">Section 63 BSA &amp; Section 65B Certificate Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Filing Police FIR with Recovery Call Recordings</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

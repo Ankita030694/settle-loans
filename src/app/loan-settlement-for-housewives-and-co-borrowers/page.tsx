@@ -40,8 +40,8 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement for Housewives & Co-Borrowers | SettleLoans',
-  description: 'Protect non-earning co-borrowers and housewives from loan recovery harassment. Learn Section 60 CPC Stridhan protections, zero-asset defense, and OTS debt relief.',
+  title: 'Settlement for Housewives & Co-Borrowers | SettleLoans',
+  description: 'Non-earning housewives and co-borrowers facing recovery harassment? Understand Stridhan protections and legal debt relief with SettleLoans.',
   keywords: [
     'loan settlement for non earning co borrower',
     'housewife loan settlement india',
@@ -414,9 +414,7 @@ export default function LoanSettlementHousewivesCoBorrowersPage() {
             <span>Non-Earning Co-Borrower Protection • Stridhan Rights &amp; Zero-Asset Defense</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Loan Settlement for Non-Earning Co-Borrowers &amp; Housewives: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Rights, Stridhan Protections &amp; Debt Resolution</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Loan Settlement for Housewives & Co-Borrowers</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

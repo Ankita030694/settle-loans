@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Dehradun | SettleLoans',
-  description: 'Leading loan settlement services in Dehradun, Haridwar & Rishikesh. Advocate representation for government employees, hotel/tourism businesses & students facing bank recovery under RBI OTS rules.',
+  description: 'Learn how to settle personal loans legally in Dehradun. Stop recovery harassment and resolve bank debt with structured OTS via SettleLoans.',
   keywords: [
     'loan settlement services in dehradun uttarakhand',
     'personal loan settlement dehradun',
@@ -473,9 +473,7 @@ export default function PersonalLoanSettlementDehradunPage() {
             <span>Dehradun, Haridwar &amp; Rishikesh • Regional Capital &amp; Tourism Debt Relief</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Loan Settlement Services in Dehradun: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Debt Relief for Uttarakhand</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Dehradun: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

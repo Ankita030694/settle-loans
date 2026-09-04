@@ -41,7 +41,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Unfair Bank Loan Agreement Terms | SettleLoans',
-  description: 'Subject to unilateral penalty clauses or arbitrary interest hikes? Learn how Section 2(46) of the Consumer Protection Act 2019 declares abusive loan terms null and void.',
+  description: 'Challenging unfair loan terms in bank agreements under Consumer Protection Act Section 2(46). Protect your borrower rights with SettleLoans.',
   keywords: [
     'unfair contract terms in loan agreement consumer protection act',
     'unilateral penalty clauses in loan agreements',
@@ -422,9 +422,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
             <span>Consumer Protection Act, 2019 • Section 2(46) Contractual Challenge</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Unfair Contract Terms in Bank Loan Agreements: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Challenge Under CPA 2019 Section 2(46)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Unfair Contract Terms in Bank Loan Agreements</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

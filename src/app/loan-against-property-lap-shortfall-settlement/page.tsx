@@ -38,7 +38,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Property Loan (LAP) Shortfall Settlement | SettleLoans',
-  description: 'Bank auctioned your mortgaged property under SARFAESI and now demanding an unsecured shortfall? Learn how post-auction debt converts to unsecured claims, 3-year DRT limitation rules, and how advocates settle residual LAP debt.',
+  description: 'Facing residual loan shortfall after property auction? Learn how to settle post-SARFAESI unsecured debt legally with SettleLoans.',
   keywords: [
     'loan against property shortfall settlement',
     'lap shortfall settlement',
@@ -421,9 +421,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
             <span>SARFAESI &amp; DRT Rights • Post-Auction Residual Debt Resolution</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Loan Against Property (LAP) Shortfall Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">Settle Post-Auction Residual Debt &amp; DRT Shortfall Under SARFAESI Rules</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Property Loan (LAP) Shortfall Settlement & DRT Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

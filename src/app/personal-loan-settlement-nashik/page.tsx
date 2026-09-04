@@ -34,7 +34,7 @@ import {
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Nashik | SettleLoans',
   description:
-    'Expert loan settlement services in Nashik by senior advocates. Defend against recovery harassment, Old Agra Road District Court notices, and secure 40%–70% OTS waivers under RBI rules.',
+    'Learn how to settle personal loans legally in Nashik. Stop bank recovery harassment and resolve debt with up to 60% OTS waiver via SettleLoans.',
   keywords: [
     'loan settlement services in nashik',
     'personal loan settlement in nashik',
@@ -488,9 +488,7 @@ export default function PersonalLoanSettlementNashikPage() {
             <span>Regional Banking Legal Defense • Nashik &amp; North Maharashtra Industrial Corridor</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Loan Settlement Services in Nashik: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Defense &amp; 40%–70% Bank OTS</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Nashik: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

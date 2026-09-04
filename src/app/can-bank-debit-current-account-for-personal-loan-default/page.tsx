@@ -42,7 +42,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Can Bank Debit Current Account for Loan? | SettleLoans',
-  description: 'Can a bank debit or freeze your business current account for a personal loan default? Understand legal entity separation (Proprietorship vs Partnership vs Pvt Ltd), Doctrine of Mutuality, High Court stays, and advocate unfreezing protocols.',
+  description: 'Can banks debit your current account for personal loan default? Understand banker lien rights and legal protections with SettleLoans.',
   keywords: [
     'can bank freeze current account for personal loan default',
     'can bank debit business account for personal loan default',
@@ -425,9 +425,7 @@ export default function CanBankDebitCurrentAccountPage() {
             <span>Business Cash Flow Protection • Corporate Jurisprudence &amp; Banking Law</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Can Bank Freeze Current Account for Personal Loan Default? <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Entity Protection, Right of Set-Off Limits &amp; High Court Precedents</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Can Banks Debit Current Accounts for Loan Default?</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

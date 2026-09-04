@@ -40,8 +40,8 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Legal Action: Recovery Agents Gate Blocking | SettleLoans',
-  description: 'Is a loan recovery agent blocking your door, gate, or car from leaving? Learn why physical restraint is wrongful confinement under Section 127 BNS / Section 340 IPC, and how to file an FIR.',
+  title: 'Recovery Agents Blocking House Gate | SettleLoans',
+  description: 'Recovery agents blocking your house gate or vehicle? File wrongful restraint and confinement charges under Section 127 BNS with SettleLoans.',
   keywords: [
     'recovery agent blocking door or car from leaving',
     'recovery agent blocking gate wrongful confinement',
@@ -368,9 +368,7 @@ export default function RecoveryAgentsBlockingGateWrongfulConfinementPage() {
             <span>Borrower Criminal Defense • Section 127 BNS &amp; Anti-Confinement Mandate</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Recovery Agent Blocking Door or Car From Leaving: <span className="text-[#3b82f6] md:text-[#60a5fa]">Wrongful Confinement Laws, Sec 127 BNS &amp; Criminal Action</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Recovery Agents Blocking House Gate: Legal Action</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-4 mb-6 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

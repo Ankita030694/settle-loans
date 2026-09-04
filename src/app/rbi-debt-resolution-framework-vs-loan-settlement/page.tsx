@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'RBI Debt Resolution vs Loan Settlement | SettleLoans',
-  description: 'Understand the critical difference between loan restructuring under the RBI Debt Resolution Framework and One Time Settlement (OTS). Compare tenure extensions, moratoriums, CIBIL reporting, NPV haircut formulas, and legal finality.',
+  description: 'Compare RBI Debt Resolution Framework restructuring with one-time loan settlement. Choose the right debt relief path with SettleLoans.',
   keywords: [
     'difference between loan restructuring and loan settlement',
     'rbi debt resolution framework vs loan settlement',
@@ -407,9 +407,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
             <span>Distressed Asset Strategy • RBI Regulatory Framework vs. Debt Compromise</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            RBI Debt Resolution Framework vs Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">Strategic Restructuring vs. OTS Haircut Analysis</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">RBI Debt Resolution Framework vs Loan Settlement</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

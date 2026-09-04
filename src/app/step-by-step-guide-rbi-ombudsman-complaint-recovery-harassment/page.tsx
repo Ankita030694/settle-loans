@@ -39,8 +39,8 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'File RBI Ombudsman Complaint for Harassment | SettleLoans',
-  description: 'Step-by-step guide to filing an online complaint on the RBI CMS portal (cms.rbi.org.in) against bank & NBFC recovery agent harassment, uploading evidence, and claiming ₹20 Lakh compensation.',
+  title: 'File RBI Ombudsman Harassment Complaint | SettleLoans',
+  description: 'Step-by-step guide to filing an RBI Ombudsman complaint against recovery agent harassment. Claim up to ₹20 Lakh compensation with SettleLoans.',
   keywords: [
     'how to file complaint in rbi ombudsman against recovery agents',
     'rbi ombudsman complaint online cms portal',
@@ -390,9 +390,7 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
             <span>Regulatory Redressal Guide • RBI Integrated Ombudsman Scheme 2021</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            How to File Complaint in RBI Ombudsman Against Recovery Agents: <span className="text-[#3b82f6] md:text-[#60a5fa]">Step-by-Step CMS Portal Guide &amp; ₹20 Lakh Compensation</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">How to File an RBI Ombudsman Recovery Complaint</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-4 mb-6 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

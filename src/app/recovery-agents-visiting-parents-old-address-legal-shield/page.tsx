@@ -42,7 +42,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Recovery Agents Visiting Parents Address | SettleLoans',
-  description: "Are recovery agents visiting your elderly parents' home for a son's loan? Discover Section 329 BNS criminal trespass laws, Supreme Court privacy rulings, and legal cease-and-desist shields.",
+  description: 'Protect elderly parents from recovery agent visits. Learn your legal rights, trespass laws, and how to stop home harassment with SettleLoans.',
   keywords: [
     'recovery agent visiting parents house for son loan',
     'recovery agents visiting old address parents',
@@ -386,9 +386,7 @@ export default function RecoveryAgentsVisitingParentsOldAddressPage() {
             <span>Borrower Statutory Protections • Elderly Parents &amp; Native Home Legal Shield</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Recovery Agent Visiting Parents&apos; House for Son&apos;s Loan: <span className="text-[#3b82f6] md:text-[#60a5fa]">Supreme Court Privacy Shield &amp; Legal Remedies</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Protecting Parents from Recovery Agent Visits: Legal Shield</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-4 mb-6 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

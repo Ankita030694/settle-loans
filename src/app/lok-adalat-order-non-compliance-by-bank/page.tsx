@@ -42,7 +42,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Lok Adalat Order Non-Compliance by Bank | SettleLoans',
-  description: 'Bank refusing to issue NDC or update CIBIL after Lok Adalat settlement? Learn how to execute a Lok Adalat Award as a Civil Court Decree under Section 21 LSA Act and Order 21 CPC.',
+  description: 'Bank refusing to honor Lok Adalat settlement order? Learn how to enforce Section 21 decree execution and obtain your NDC with SettleLoans.',
   keywords: [
     'what to do if bank does not follow lok adalat settlement',
     'lok adalat award execution section 21 lsa act',
@@ -425,9 +425,7 @@ export default function LokAdalatOrderNonCompliancePage() {
             <span>Lok Adalat Judicial Enforcement • Section 21 LSA Act &amp; Civil Decree Execution</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            What to Do If Bank Does Not Follow Lok Adalat Settlement? <span className="text-[#3b82f6] md:text-[#60a5fa]">Section 21 Execution, NDC &amp; CIBIL Remedy</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Bank Non-Compliance with Lok Adalat Order: Remedies</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

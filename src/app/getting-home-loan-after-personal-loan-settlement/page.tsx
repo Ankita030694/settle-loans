@@ -35,7 +35,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Home Loan After Personal Loan Settlement | SettleLoans',
-  description: 'Can you get a home loan after personal loan settlement in India? Discover the complete roadmap: prime bank rejection realities, 24-36 month CIBIL repair, converting Settled to Closed status, and securing mortgage approval with NBFCs and HFCs.',
+  description: 'Can you get a home loan after settling personal loans? Discover the credit score rebuilding roadmap and lender approval rules via SettleLoans.',
   keywords: [
     'can i get home loan after loan settlement',
     'getting home loan after personal loan settlement',
@@ -464,9 +464,7 @@ export default function GettingHomeLoanAfterPersonalLoanSettlementPage() {
             <span>Post-Settlement Mortgage Advisory • Housing Finance &amp; Credit Rebuilding</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Can I Get a Home Loan After Personal Loan Settlement? <span className="text-[#3b82f6] md:text-[#60a5fa]">The Complete Eligibility &amp; Approval Roadmap</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Getting a Home Loan After Personal Loan Settlement</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

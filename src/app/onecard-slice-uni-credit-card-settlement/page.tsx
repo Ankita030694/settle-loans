@@ -36,7 +36,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'OneCard, Slice & Uni Card Settlement | SettleLoans',
-  description: 'Comprehensive guide to OneCard, Slice, and Uni credit card settlement in India. Learn how to settle co-branded fintech cards backed by Federal Bank, SBM Bank, BOB Financial, and NESFB, halt 36%-48% APR compounding, defend recovery harassment under RBI Digital Lending rules, and negotiate up to 60% OTS debt haircuts.',
+  description: 'Learn how to settle OneCard, Slice, and Uni credit card debt legally. Stop late charges and negotiate partner bank OTS with SettleLoans.',
   keywords: [
     'onecard credit card settlement process',
     'onecard settlement with federal bank',
@@ -467,9 +467,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
             <span>Fintech Credit Card Dispute Resolution • OneCard, Slice &amp; Uni India</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            OneCard, Slice &amp; Uni Credit Card Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">Partner Bank OTS Rules, Legal Defense &amp; ₹0 NDC Guide (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">OneCard, Slice & Uni Credit Card Settlement Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

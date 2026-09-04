@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'AU Small Finance Bank Settlement | SettleLoans',
-  description: 'Master guide to AU Small Finance Bank personal and business loan settlement. Learn how to negotiate directly with AU Bank\'s SARB, halt recovery harassment, defend Section 25 PSSA and arbitration notices, and secure up to 55% OTS haircut under RBI guidelines.',
+  description: 'Learn how to settle AU Small Finance Bank loans legally. Negotiate directly with SARB teams and resolve overdue debt with SettleLoans.',
   keywords: [
     'au small finance bank personal loan settlement',
     'au small finance bank loan settlement',
@@ -463,9 +463,7 @@ export default function AUSmallFinanceBankLoanSettlementPage() {
             <span>Small Finance Bank Dispute Resolution • AU Small Finance Bank</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            AU Small Finance Bank Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">SARB Negotiation, Legal Defense &amp; Haircut Guide (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">AU Small Finance Bank Loan Settlement: OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

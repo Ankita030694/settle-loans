@@ -40,8 +40,8 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Stop Recovery Calls to Employers & Colleges | SettleLoans',
-  description: 'Are recovery agents contacting your former employer, past colleagues, or college professors? Discover illegal scraping violations under DPDP Act 2023, RBI bans, and legal remedies.',
+  title: 'Stop Recovery Calls to Work & College | SettleLoans',
+  description: 'Recovery agents calling your former employer or college? Stop workplace defamation and enforce DPDP privacy violations with SettleLoans.',
   keywords: [
     'recovery agents calling previous employer or college',
     'recovery agents calling former manager',
@@ -416,9 +416,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
             <span>Extreme Privacy Breach • DPDP Act 2023 &amp; RBI Fair Practices Code</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Recovery Agents Calling Previous Employer or College? <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Defenses, DPDP Act Violations &amp; Data Misuse Remedies</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Recovery Agents Contacting Employers or Colleges</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

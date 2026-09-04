@@ -39,7 +39,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Vadodara | SettleLoans',
-  description: 'Comprehensive legal guide to debt settlement services in Vadodara. Learn how industrialists, engineers & borrowers across Vadodara, Anand & Bharuch negotiate 40%–60% loan haircuts under RBI rules, SARB policies & Lok Adalat.',
+  description: 'Learn how to settle personal loans legally in Vadodara. Stop recovery harassment and resolve bank debt with expert OTS via SettleLoans.',
   keywords: [
     'debt settlement services in vadodara',
     'personal loan settlement vadodara',
@@ -415,9 +415,7 @@ export default function PersonalLoanSettlementVadodaraPage() {
             <span>Debt Settlement Services • Vadodara &amp; Gujarat Industrial Corridor</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Debt Settlement Services in Vadodara: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal OTS, Bank NPA Rules &amp; Haircut Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Vadodara: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

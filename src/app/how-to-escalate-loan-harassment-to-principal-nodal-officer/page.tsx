@@ -42,7 +42,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Escalate Loan Harassment to Nodal Officer | SettleLoans',
-  description: 'Suffering bank recovery agent harassment? Learn how to bypass local branch managers and file formal statutory representations directly with the bank’s Principal Nodal Officer (PNO) under RBI Internal Ombudsman guidelines to freeze collection actions and secure a 50%–70% OTS settlement.',
+  description: 'Learn how to escalate bank recovery harassment to Principal Nodal Officers under RBI guidelines and freeze illegal recovery via SettleLoans.',
   keywords: [
     'bank principal nodal officer complaint loan harassment',
     'how to complain to principal nodal officer bank harassment',
@@ -423,9 +423,7 @@ export default function PNOEscalationHarassmentPage() {
             <span>RBI Grievance Redressal Architecture • Level-3 PNO Escalation</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            How to Escalate Loan Harassment to the Principal Nodal Officer: <span className="text-[#3b82f6] md:text-[#60a5fa]">RBI Grievance Escalation &amp; Recovery Freeze Blueprint</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">How to Escalate Recovery Harassment to Nodal Officers</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

@@ -35,7 +35,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Wilful Defaulter Notice Reply Defense | SettleLoans',
-  description: 'Master the legal defense against bank Wilful Defaulter show-cause notices. Learn the RBI Master Directions, 21-day representation window, Grievance Redressal Committee (GRC) hearings, Supreme Court precedents, and how to negotiate an institutional One Time Settlement (OTS).',
+  description: 'Received a wilful defaulter identification notice? Learn how to submit a 21-day legal representation and settle debt with SettleLoans.',
   keywords: [
     'wilful defaulter notice reply format',
     'rbi master directions on wilful defaulters',
@@ -418,9 +418,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
             <span>Regulatory Defense • RBI Master Directions • Section 35A Advisory</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Wilful Defaulter Notice Reply &amp; Settlement Defense: <span className="text-[#3b82f6] md:text-[#60a5fa]">RBI Master Directions, GRC Hearings &amp; 21-Day Representation Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Wilful Defaulter Notice Reply & Legal Defense</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

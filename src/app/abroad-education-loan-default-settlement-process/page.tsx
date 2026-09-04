@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Abroad Education Loan Default Options | SettleLoans',
-  description: 'Defaulted on an abroad education loan from Avanse, InCred, Auxilo, or HDFC Credila? Learn how to legally protect Indian co-borrower parents, halt recovery agent harassment, and negotiate a cross-border One-Time Settlement (OTS).',
+  description: 'Defaulting on international student loans? Learn how to protect Indian co-signers and settle abroad education debt with SettleLoans.',
   keywords: [
     'abroad education loan default settlement india',
     'study abroad loan default co-borrower liability',
@@ -399,9 +399,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
             <span>Cross-Border Education Debt Defense • Expat Student &amp; Parent Protection</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Abroad Education Loan Default Settlement Process: <span className="text-[#3b82f6] md:text-[#60a5fa]">Protect Parents in India &amp; Settle International Student Debt</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Abroad Education Loan Default & Settlement Process</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

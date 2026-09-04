@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Federal Bank Personal Loan Settlement | SettleLoans',
-  description: 'Comprehensive guide to Federal Bank loan settlement. Learn how to settle personal, business, and gold loan deficits, halt recovery harassment, defend Section 138 NI Act & Section 25 PSSA summons, navigate SAMD escalation, and negotiate up to 60% OTS haircut under RBI guidelines.',
+  description: 'Learn how to settle Federal Bank personal loans and cards legally. Stop legal notices and negotiate structured OTS waivers with SettleLoans.',
   keywords: [
     'federal bank loan settlement',
     'federal bank personal loan settlement process',
@@ -463,9 +463,7 @@ export default function FederalBankLoanSettlementPage() {
             <span>Scheduled Commercial Bank Dispute Resolution • Federal Bank</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Federal Bank Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">OTS Rules, Legal Notice Defense &amp; Haircut Guide (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Federal Bank Personal Loan Settlement: OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

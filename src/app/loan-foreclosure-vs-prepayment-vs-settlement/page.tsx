@@ -35,7 +35,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Foreclosure vs Prepayment vs Settlement | SettleLoans',
-  description: 'Confused between loan foreclosure, part-prepayment, and debt settlement? Discover the difference in CIBIL credit tags (Closed vs Settled), RBI zero-fee rules, tax implications under Section 194R, and NPV cost comparisons.',
+  description: 'Understand the key differences between loan foreclosure, prepayment, and debt settlement. Choose the right debt strategy with SettleLoans.',
   keywords: [
     'difference between loan foreclosure and settlement',
     'loan prepayment vs foreclosure',
@@ -416,9 +416,7 @@ export default function LoanForeclosureVsPrepaymentVsSettlementPage() {
             <span>Loan Exit Strategies • Regulatory &amp; Credit Analysis 2026</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Loan Foreclosure vs Prepayment vs Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">RBI Rules, CIBIL Impact &amp; Cost Comparison</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Loan Foreclosure vs Prepayment vs Settlement</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

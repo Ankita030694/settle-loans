@@ -41,7 +41,7 @@ import {
 
 export const metadata: Metadata = {
   title: "What to Do If Recovery Agents Won't Leave | SettleLoans",
-  description: 'Recovery agent staging a dharna outside your house, sitting on stairs, or refusing to leave? Follow our emergency 112 police protocol, DD entry guide for public nuisance, and RWA eviction remedies.',
+  description: 'Recovery agent staging a dharna outside your house? Follow our emergency 112 police protocol, DD entry guide, and legal remedies with SettleLoans.',
   keywords: [
     'recovery agent sitting outside house refusing to leave',
     'recovery agent dharna outside house',
@@ -424,9 +424,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             <span>Doorstep Harassment Defense • Police 112 Protocol &amp; Criminal Eviction</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Recovery Agent Sitting Outside House Refusing to Leave? <span className="text-[#3b82f6] md:text-[#60a5fa]">Police 112 Protocol, DD Entry &amp; Legal Eviction Defenses</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Recovery Agent Refusing to Leave House: Remedies</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

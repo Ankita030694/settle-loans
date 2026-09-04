@@ -31,7 +31,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'SBI Credit Card Settlement Guide | SettleLoans',
-  description: 'Comprehensive guide to SBI Card credit card settlement in India. Learn how to settle SimplySAVE, SimplyCLICK, and Prime cards, defend Gurugram legal notices, secure 60%-70% Lok Adalat waivers, and obtain ₹0 NDC under RBI rules.',
+  description: 'Learn how to settle SBI Card credit card debt legally. Stop legal notices, attend DLSA Lok Adalat, and negotiate OTS with SettleLoans.',
   keywords: [
     'sbi credit card settlement process online',
     'sbi card one time settlement ots',
@@ -462,9 +462,7 @@ export default function SBICardCreditCardSettlementPage() {
             <span>Credit Card Dispute Resolution • SBI Cards &amp; Payment Services</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            SBI Card Credit Card Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">OTS Rules, Gurugram Legal Defense &amp; Lok Adalat Guide (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">SBI Card Credit Card Settlement: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

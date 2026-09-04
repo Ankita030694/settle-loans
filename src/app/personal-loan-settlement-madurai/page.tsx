@@ -34,7 +34,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Madurai | SettleLoans',
-  description: 'Engage top debt settlement advocates in Madurai, Dindigul & Virudhunagar. Settle defaulted personal loans, private bank SARB notices, and microfinance disputes under RBI compromise rules with up to 60% legal waivers.',
+  description: 'Learn how to settle personal loans legally in Madurai. Stop recovery harassment and resolve unsecured debt with expert OTS via SettleLoans.',
   keywords: [
     'debt settlement advocates in madurai',
     'personal loan settlement in madurai',
@@ -420,9 +420,7 @@ export default function PersonalLoanSettlementMaduraiPage() {
             <span>Southern Tamil Nadu Commercial Gateway • Madurai • Dindigul • Virudhunagar</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Debt Settlement Advocates in Madurai: <span className="text-[#3b82f6] md:text-[#60a5fa]">Personal Loan &amp; Bank SARB OTS Legal Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Madurai: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

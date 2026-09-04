@@ -40,7 +40,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Can Recovery Agents Enter Your House? | SettleLoans',
-  description: 'Can loan recovery agents enter your house without permission? Discover Section 329 BNS / Section 441 IPC criminal trespass laws, Puttaswamy privacy rights, RBI rules, and how to shut the door lawfully.',
+  description: 'Can loan recovery agents enter your house without consent? Learn house trespass laws under Section 329 BNS and RBI rules with SettleLoans.',
   keywords: [
     'can recovery agents enter house without permission',
     'can recovery agents enter my home without consent',
@@ -367,9 +367,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
             <span>Borrower Statutory Protections • Criminal Trespass &amp; Privacy Rights</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Can Recovery Agents Enter Your House Without Permission? <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Rights, Section 329 BNS &amp; RBI Rules</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Can Recovery Agents Enter House Without Permission?</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-4 mb-6 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

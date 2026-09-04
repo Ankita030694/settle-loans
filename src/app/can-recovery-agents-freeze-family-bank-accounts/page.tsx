@@ -41,8 +41,8 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Can Recovery Agents Freeze Family Accounts? | SettleLoans',
-  description: 'Can a bank or recovery agent freeze your family member bank account for personal loan default? Discover the legal truth under Indian contract law, PAN separation, and RBI rules.',
+  title: 'Can Agents Freeze Family Bank Accounts? | SettleLoans',
+  description: 'Can recovery agents freeze bank accounts of family members? Learn third-party account immunity and separate PAN protections with SettleLoans.',
   keywords: [
     'can bank freeze family members account for loan default',
     'can recovery agents freeze spouse bank account',
@@ -426,9 +426,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
             <span>Family Asset Protection • Indian Contract Act &amp; RBI Directives</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Can Recovery Agents Freeze Family Bank Accounts? <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Rights, Separate PAN Protection &amp; Defense Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Can Recovery Agents Freeze Family Bank Accounts?</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

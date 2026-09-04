@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Raipur | SettleLoans',
-  description: 'Overdue loans in Raipur, Bhilai or Bilaspur? Consult top debt settlement services in Raipur Chhattisgarh to halt recovery harassment, defend Section 138/25 PSSA notices in District Court, represent at DLSA Lok Adalat, and negotiate 45%–65% RBI OTS debt waivers.',
+  description: 'Learn how to settle personal loans legally in Raipur. Stop bank recovery harassment and resolve debt with up to 60% OTS waiver via SettleLoans.',
   keywords: [
     'debt settlement services in raipur chhattisgarh',
     'personal loan settlement raipur',
@@ -463,9 +463,7 @@ export default function PersonalLoanSettlementRaipurPage() {
             <span>Regional Banking Legal Defense • Raipur &amp; Chhattisgarh Industrial Belt</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Debt Settlement Services in Raipur Chhattisgarh: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Protection, Lok Adalat Representation &amp; RBI OTS Debt Relief</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Raipur: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

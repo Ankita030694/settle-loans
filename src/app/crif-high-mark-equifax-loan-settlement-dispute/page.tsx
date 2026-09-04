@@ -31,7 +31,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Fix CRIF & Equifax Settlement Disputes | SettleLoans',
-  description: 'Step-by-step legal guide on filing online dispute corrections with CRIF High Mark and Equifax post loan settlement. Learn how to rectify wrong overdue balances to ₹0, invoke CICRA 2005 rules, claim RBI ₹100/day delay compensation, and restore credit scores.',
+  description: 'Fix incorrect settled loan records on CRIF High Mark and Equifax credit bureaus. Learn the CICRA statutory dispute process with SettleLoans.',
   keywords: [
     'crif high mark dispute for loan settlement',
     'equifax loan settlement dispute online',
@@ -461,9 +461,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
             <span>Credit Bureau Dispute Resolution • CRIF High Mark &amp; Equifax</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            CRIF High Mark &amp; Equifax Loan Settlement Dispute: <span className="text-[#3b82f6] md:text-[#60a5fa]">Online Correction Guide (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">CRIF High Mark & Equifax Loan Settlement Dispute</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

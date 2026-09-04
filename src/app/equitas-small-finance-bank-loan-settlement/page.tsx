@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Equitas Bank Loan Settlement Guide | SettleLoans',
-  description: 'Exhaustive legal guide to Equitas Small Finance Bank loan settlement. Settle unsecured personal and micro-business loans, stop NACH bounce charges, halt recovery agent harassment, defend Section 25 PSSA notices, and negotiate up to 60% OTS haircut under RBI guidelines.',
+  description: 'Learn how to settle Equitas Small Finance Bank loans legally. Handle NACH bounce notices and negotiate single-shot OTS with SettleLoans.',
   keywords: [
     'equitas small finance bank loan settlement process',
     'equitas small finance bank personal loan settlement',
@@ -463,9 +463,7 @@ export default function EquitasSmallFinanceBankLoanSettlementPage() {
             <span>Small Finance Bank Dispute Resolution • Equitas SFB</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Equitas Small Finance Bank Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">Process, Legal Defense &amp; OTS Haircut Guide (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Equitas Small Finance Bank Loan Settlement & OTS</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

@@ -44,7 +44,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Check Recovery Agent ID & DRA Certificate | SettleLoans',
-  description: 'Learn how to verify bank recovery agent identity card, check mandatory IIBF DRA certificate, bank authorization letter, and your legal rights to refuse unverified agents.',
+  description: 'How to verify bank recovery agent ID cards and IIBF DRA certificates at your doorstep. Protect your borrower rights with SettleLoans.',
   keywords: [
     'how to verify bank recovery agent identity card',
     'check recovery agent dra certificate',
@@ -425,9 +425,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
             <span>Doorstep Recovery Defense • RBI DRA Certification &amp; Verification</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            How to Check Bank Recovery Agent ID Card &amp; DRA Certificate: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Doorstep Defense &amp; Verification Protocol</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">How to Check Recovery Agent ID & DRA Certificate</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

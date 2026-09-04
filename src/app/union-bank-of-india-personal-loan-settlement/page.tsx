@@ -37,7 +37,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Union Bank Personal Loan Settlement | SettleLoans',
-  description: 'Exhaustive guide to Union Bank of India personal loan settlement. Master UBI Stressed Asset Management Branch (SAMB) procedures, Regional Credit Committee (RCC) limits, Special Lok Adalat OTS, and negotiate up to 60% haircut under RBI rules.',
+  description: 'Learn how to settle Union Bank of India personal loans legally. Navigate SAMB procedures and negotiate special OTS waivers with SettleLoans.',
   keywords: [
     'union bank of india loan settlement process',
     'union bank of india personal loan settlement',
@@ -388,9 +388,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
             <span>Public Sector Banking Dispute Resolution • Union Bank of India</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Union Bank of India Personal Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">SAMB Process, RCC Approval Limits &amp; Special OTS Haircut Matrix</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Union Bank of India Personal Loan Settlement: OTS</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

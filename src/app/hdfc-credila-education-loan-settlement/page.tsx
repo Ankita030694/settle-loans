@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'HDFC Credila Education Loan Settlement | SettleLoans',
-  description: 'Comprehensive guide to HDFC Credila education loan settlement. Learn how to settle student loans, eliminate compounded moratorium interest, protect co-borrowers, halt recovery harassment, and negotiate up to 60% OTS haircut under RBI rules.',
+  description: 'Learn how to settle HDFC Credila education loans legally. Protect parent co-signers and negotiate structured OTS waivers with SettleLoans.',
   keywords: [
     'hdfc credila loan settlement process',
     'hdfc credila education loan settlement',
@@ -432,9 +432,7 @@ export default function HdfcCredilaEducationLoanSettlementPage() {
             <span>Specialized Higher Education NBFC Dispute Resolution • HDFC Credila</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            HDFC Credila Education Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">OTS Rules, Grace Period Interest &amp; Legal Defense (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">HDFC Credila Education Loan Settlement & OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

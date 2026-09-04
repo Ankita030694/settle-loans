@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'IIFL Finance Loan Settlement Guide | SettleLoans',
-  description: 'Comprehensive guide to IIFL Finance loan settlement. Learn how to settle personal and business loans, resolve gold loan auction shortfall notices, stop recovery harassment, defend Section 25 PSSA summons, and negotiate up to 60% OTS haircut under RBI rules.',
+  description: 'Learn how to settle IIFL Finance personal loans and gold loan shortfalls legally. Stop legal notices and resolve debt with SettleLoans.',
   keywords: [
     'iifl personal loan settlement',
     'iifl personal loan settlement process',
@@ -466,9 +466,7 @@ export default function IIFLFinanceLoanSettlementPage() {
             <span>Corporate NBFC Dispute Resolution • IIFL Finance</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            IIFL Finance Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">OTS Rules, Gold Auction Shortfall &amp; Haircut Guide (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">IIFL Finance Personal Loan Settlement & OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

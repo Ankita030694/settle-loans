@@ -37,7 +37,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Vizag | SettleLoans',
-  description: 'Top loan settlement lawyer in Vizag Visakhapatnam. Defend against Section 138/25 notices in Vizag District Court, stop recovery harassment, protect port & PSU salaries, and secure 40%–65% OTS waivers.',
+  description: 'Settle personal loans legally in Visakhapatnam Vizag. Stop recovery harassment and resolve debt with structured bank OTS via SettleLoans.',
   keywords: [
     'loan settlement lawyer in vizag visakhapatnam',
     'personal loan settlement visakhapatnam',
@@ -425,9 +425,7 @@ export default function Page() {
             <span>Visakhapatnam &amp; Coastal Andhra • Salaried, Port &amp; Industrial Debt Resolution</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Loan Settlement Lawyer in Vizag Visakhapatnam: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Notice Defense &amp; Court OTS Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Vizag: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

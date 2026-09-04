@@ -42,7 +42,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Can Recovery Agents Visit on Holidays? | SettleLoans',
-  description: 'Can bank recovery agents visit your home on Sundays or public holidays? Discover RBI rules, prior notice mandates, criminal trespass laws under Section 329 BNS, and how to lawfully turn away holiday visitors.',
+  description: 'Can bank recovery agents visit on Sundays or public holidays? Learn your legal rights and RBI recovery timing rules with SettleLoans.',
   keywords: [
     'can recovery agents visit on sunday or public holidays',
     'can bank recovery agents come on sunday',
@@ -369,9 +369,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
             <span>Borrower Statutory Protections • Sunday &amp; Holiday Doorstep Rules</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Can Recovery Agents Visit on Sunday or Public Holidays? <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Rights, RBI Rules &amp; Doorstep Protections</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Can Recovery Agents Visit on Sundays or Holidays?</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-4 mb-6 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Should You Pay Cash to Recovery Agents? | SettleLoans',
-  description: 'Can you pay cash to loan recovery agents? Discover strict RBI rules banning cash collection without real-time digital receipts, why cash never credits your loan account, and safe payment protocols.',
+  description: 'Should you pay cash to loan recovery agents? Understand RBI cash collection bans, fraud risks, and safe settlement protocols with SettleLoans.',
   keywords: [
     'can you pay cash to loan recovery agents',
     'paying cash to bank recovery agents',
@@ -398,9 +398,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
             <span>Financial Fraud Prevention • RBI Fair Practices Code &amp; Recovery Agent Protocols</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Can You Pay Cash to Loan Recovery Agents? <span className="text-[#3b82f6] md:text-[#60a5fa]">RBI Rules, Fraud Risks &amp; Safe Settlement Protocols</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Should You Pay Cash to Bank Recovery Agents?</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

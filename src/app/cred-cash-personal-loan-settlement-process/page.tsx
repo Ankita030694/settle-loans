@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'CRED Cash Loan Settlement Guide | SettleLoans',
-  description: 'Comprehensive guide to CRED Cash loan default settlement. Learn how to settle instant credit lines underwritten by IDFC FIRST Bank, Newtap Finance, and L&T Finance. Stop recovery harassment, revoke e-NACH bounce charges, defend Section 25 PSSA notices, and negotiate a 40% to 60% OTS haircut under RBI compromise rules.',
+  description: 'Learn how to settle CRED Cash loans legally. Negotiate a single-shot compromise with partner banks and stop collection calls with SettleLoans.',
   keywords: [
     'cred cash loan default settlement',
     'cred cash settlement process',
@@ -464,9 +464,7 @@ export default function CredCashPersonalLoanSettlementPage() {
             <span>Fintech Credit Dispute Resolution • Prime Borrowers</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            CRED Cash Loan Default Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">How to Settle Credit Lines with Partner Banks &amp; NBFCs (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">CRED Cash Personal Loan Settlement: OTS Defense Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

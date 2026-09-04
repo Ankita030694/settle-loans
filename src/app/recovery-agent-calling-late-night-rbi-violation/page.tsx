@@ -45,7 +45,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Late Night Recovery Calls RBI Rules | SettleLoans',
-  description: 'Are bank recovery agents calling before 8:00 AM or after 7:00 PM? Learn strict RBI operating hours, sleep deprivation legal protections, Banking Ombudsman restraining orders, and 55% OTS solutions.',
+  description: 'Recovery agents calling before 8 AM or after 7 PM? Learn RBI recovery timing violation rules and how to file complaints with SettleLoans.',
   keywords: [
     'recovery agents calling before 8am or after 7pm',
     'recovery agent calling late night rbi violation',
@@ -428,9 +428,7 @@ export default function RecoveryAgentCallingLateNightPage() {
             <span>RBI Compliance &amp; Debt Collection Defense • Anti-Harassment Protections</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Recovery Agents Calling Before 8 AM or After 7 PM? <span className="text-[#3b82f6] md:text-[#60a5fa]">RBI Timing Violations, Legal Penalties &amp; Ombudsman Restraining Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Late Night Recovery Calls: RBI Rules & Penalties</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

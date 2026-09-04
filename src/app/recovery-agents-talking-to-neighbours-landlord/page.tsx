@@ -43,8 +43,8 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Stop Recovery Agents Contacting Neighbours | SettleLoans',
-  description: 'Are bank recovery agents harassing your neighbours, building guards, or landlord? Learn Supreme Court privacy protections, Section 356 BNS defamation laws, and society trespass remedies.',
+  title: 'Stop Recovery Calls to Neighbours | SettleLoans',
+  description: 'Recovery agents defaming you to neighbours and landlords? Stop third-party shaming with Supreme Court privacy rulings and SettleLoans.',
   keywords: [
     'recovery agent harassing neighbours and landlord',
     'recovery agents talking to neighbours',
@@ -427,9 +427,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
             <span>Residential Harassment Defense • Privacy Rights &amp; Criminal Defamation</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Recovery Agents Talking to Neighbours &amp; Landlord? <span className="text-[#3b82f6] md:text-[#60a5fa]">Supreme Court Privacy Protections, Criminal Defamation &amp; Society Trespass Injunctions</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Recovery Agents Contacting Neighbours or Landlord</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

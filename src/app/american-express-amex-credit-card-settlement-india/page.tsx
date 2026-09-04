@@ -35,7 +35,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Amex Credit Card Settlement in India | SettleLoans',
-  description: 'Comprehensive guide to American Express (Amex) credit card settlement in India. Learn how to settle Platinum and Gold cards, halt 42%-52% APR interest, defend Gurugram legal notices, and negotiate up to 60% OTS haircut under RBI rules.',
+  description: 'Learn how to settle American Express credit card debt in India legally. Handle legal notices and negotiate structured Amex OTS with SettleLoans.',
   keywords: [
     'american express credit card settlement process india',
     'amex credit card settlement india',
@@ -466,9 +466,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
             <span>Premium Credit Card Dispute Resolution • American Express India</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            American Express Credit Card Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">Amex OTS Rules, Gurugram Legal Defense &amp; Haircut Guide (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">American Express Credit Card Settlement in India</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

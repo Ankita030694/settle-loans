@@ -33,7 +33,7 @@ import {
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Agra | SettleLoans',
   description:
-    'Struggling with loan default, recovery harassment, or court summons in Agra, Mathura, or Firozabad? Senior debt settlement advocates protect footwear MSMEs, exporters, and salaried employees with 40%–70% OTS waivers.',
+    'Learn how to settle personal loans legally in Agra. Stop aggressive recovery harassment and negotiate structured bank OTS with SettleLoans.',
   keywords: [
     'personal loan settlement lawyer in agra',
     'debt settlement advocates in agra',
@@ -427,9 +427,7 @@ export default function Page() {
               <span>Regional Debt Resolution • Agra, Mathura &amp; Firozabad</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-              Personal Loan Settlement Lawyer in Agra: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Notice Defense &amp; Bank OTS</span>
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Agra: Legal OTS Guide</h1>
 
             <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
               <span className="flex items-center gap-1.5">

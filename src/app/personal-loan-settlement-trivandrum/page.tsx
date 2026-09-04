@@ -33,7 +33,7 @@ import {
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Trivandrum | SettleLoans',
   description:
-    'Confidential debt defense & personal loan settlement advocates in Trivandrum. Protecting Technopark IT professionals & govt employees in Vanchiyoor court with 40%–70% OTS waivers.',
+    'Settle personal loans legally in Trivandrum Kerala. Stop bank recovery harassment and resolve debt with structured OTS via SettleLoans.',
   keywords: [
     'personal loan settlement advocates in trivandrum',
     'personal loan settlement trivandrum',
@@ -434,9 +434,7 @@ export default function Page() {
               <span>Regional Debt Resolution • Trivandrum, Technopark &amp; Kollam</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-              Personal Loan Settlement Advocates in Trivandrum: <span className="text-[#3b82f6] md:text-[#60a5fa]">Confidential Legal Defense &amp; Bank OTS Relief</span>
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Trivandrum: Legal OTS Guide</h1>
 
             <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
               <span className="flex items-center gap-1.5">

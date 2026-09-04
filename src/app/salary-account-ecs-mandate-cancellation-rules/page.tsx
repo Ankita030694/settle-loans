@@ -40,7 +40,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Salary Account ECS Mandate Cancellation | SettleLoans',
-  description: 'Learn how to stop ECS mandate for loan without fraud allegations. Discover RBI NACH e-mandate cancellation rights, Section 7 Payment of Wages Act protections, and legal steps to halt auto-debits.',
+  description: 'Learn how to stop ECS and NACH auto-debit mandates on your salary account legally without falling into default traps with SettleLoans.',
   keywords: [
     'how to stop ecs mandate for loan',
     'salary account ecs mandate cancellation rules',
@@ -423,9 +423,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
             <span>Cash-Flow Strangulation Defense • RBI NACH Mandate &amp; Wages Act</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            How to Stop ECS Mandate for Loan: <span className="text-[#3b82f6] md:text-[#60a5fa]">Salary Account Auto-Debit Cancellation Rules &amp; Legal Defense</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Salary Account ECS Mandate Cancellation Rules</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

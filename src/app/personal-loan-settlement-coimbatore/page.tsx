@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Coimbatore | SettleLoans',
-  description: 'Looking for a trusted loan settlement company in Coimbatore, Tirupur, or Salem? SettleLoans provides advocate-led debt relief, bank OTS negotiation, and RBI legal protection.',
+  description: 'Learn how to settle personal loans legally in Coimbatore. Stop recovery harassment and resolve bank debt with expert OTS via SettleLoans.',
   keywords: [
     'loan settlement company in coimbatore',
     'personal loan settlement coimbatore',
@@ -450,9 +450,7 @@ export default function CoimbatoreLoanSettlementPage() {
             <span>Coimbatore &amp; Western Tamil Nadu Debt Relief • Personal &amp; MSME Loans</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Loan Settlement Company in Coimbatore: <span className="text-[#3b82f6] md:text-[#60a5fa]">Advocate-Led Debt Relief in Tamil Nadu</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Coimbatore: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

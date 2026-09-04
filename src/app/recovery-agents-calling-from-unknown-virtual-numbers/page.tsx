@@ -47,7 +47,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Stop Recovery Calls from Virtual Numbers | SettleLoans',
-  description: 'Are recovery agents harassing you using unknown virtual numbers, VoIP auto-dialers, or disappearing WhatsApp messages? Learn how to preserve CDR evidence, file DoT Chakshu and RBI complaints, and hold lending banks accountable.',
+  description: 'Recovery agents calling from unknown virtual VoIP numbers? Learn how to trace digital harassment and file DOT complaints with SettleLoans.',
   keywords: [
     'recovery agent calling from virtual numbers whatsapp',
     'voip recovery agent calls',
@@ -430,9 +430,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
             <span>Digital Harassment Defense • VoIP Tracking &amp; DoT Chakshu Remedies</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Recovery Agents Calling from Unknown Virtual Numbers? <span className="text-[#3b82f6] md:text-[#60a5fa]">Digital Harassment Defenses, VoIP Tracking &amp; Legal Remedies</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Recovery Agents Calling from Virtual VoIP Numbers</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

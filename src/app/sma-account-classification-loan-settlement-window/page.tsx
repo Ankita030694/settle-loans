@@ -31,7 +31,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'SMA Account & Loan Settlement Window | SettleLoans',
-  description: 'Understand RBI Special Mention Account (SMA) framework: SMA-0 (1-30 days), SMA-1 (31-60 days), and SMA-2 (61-90 days). Learn how borrowers can leverage the pre-90-day window to negotiate massive penalty waivers, restructuring, or compromise settlements before formal NPA classification and coercive legal recovery.',
+  description: 'Understand SMA-0, SMA-1, and SMA-2 pre-NPA account classification. Settle overdue loans during the 90-day window with SettleLoans.',
   keywords: [
     'sma account classification loan settlement',
     'sma 0 sma 1 sma 2 rbi classification',
@@ -405,9 +405,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
             <span>RBI Stressed Asset Framework • Pre-NPA Resolution &amp; Debt Settlement</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            SMA Account Classification &amp; Loan Settlement Window: <span className="text-[#3b82f6] md:text-[#60a5fa]">Leveraging the Pre-90-Day Period Before Formal NPA</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">SMA Account Classification & Loan Settlement Window</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

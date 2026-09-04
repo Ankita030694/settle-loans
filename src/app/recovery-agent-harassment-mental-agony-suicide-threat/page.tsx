@@ -40,7 +40,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Stop Recovery Agent Mental Harassment | SettleLoans',
-  description: 'Suffering from recovery agent harassment causing depression, panic attacks, or despair? Discover Section 108 BNS / Section 306 IPC abetment protections, crisis helplines, and 24h advocate defense.',
+  description: 'Facing depression and mental agony from recovery agent threats? Learn emergency Section 108 BNS legal protections and remedies with SettleLoans.',
   keywords: [
     'recovery agent harassment causing depression and mental agony',
     'bank recovery agent suicide threat india',
@@ -390,9 +390,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
             <span>Emergency Life Protection • Mental Health Safeguards &amp; Anti-Harassment Defense</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Recovery Agent Harassment Causing Depression &amp; Mental Agony: <span className="text-[#3b82f6] md:text-[#60a5fa]">Section 108 BNS, Crisis Helplines &amp; 24-Hour Legal Defense</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Stopping Mental Harassment by Loan Recovery Agents</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-4 mb-6 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

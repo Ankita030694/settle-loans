@@ -42,7 +42,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Remove Settled Status from Experian | SettleLoans',
-  description: 'Learn how to remove settled status from Experian credit report in India. Step-by-step Experian dispute protocol, CICRA Act 2005 30-day mandate, RBI rules, and score recovery.',
+  description: 'Learn how to dispute and remove settled loan status from Experian credit reports under the CICRA Act with expert guidance from SettleLoans.',
   keywords: [
     'how to remove settled status from experian credit report',
     'experian credit report dispute settled status removal',
@@ -425,9 +425,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
             <span>Credit Bureau Dispute • CICRA Act 2005 &amp; RBI Directives</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            How to Remove Settled Status from Experian Credit Report: <span className="text-[#3b82f6] md:text-[#60a5fa]">Dispute Protocol &amp; CICRA Legal Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Remove Settled Status from Experian Credit Report</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

@@ -30,7 +30,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Patna | SettleLoans',
-  description: 'Expert loan settlement services in Patna, Bihar. Professional legal defense against PSU bank SARB notices, microfinance recovery harassment, and Lok Adalat OTS.',
+  description: 'Learn how to settle personal loans legally in Patna Bihar. Stop recovery harassment and resolve bank debt with expert OTS via SettleLoans.',
   keywords: [
     'loan settlement services in patna bihar',
     'personal loan settlement patna',
@@ -414,9 +414,7 @@ export default function PersonalLoanSettlementPatnaPage() {
             <span>Patna &amp; Eastern Region • Legal Debt Relief &amp; Bank Negotiation</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Loan Settlement Services in Patna, Bihar: <span className="text-[#3b82f6] md:text-[#60a5fa]">SARB Notice Defense &amp; Lok Adalat Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Patna: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

@@ -31,7 +31,7 @@ import {
 
 export const metadata: Metadata = {
   title: '3-Year Limitation Act Loan Recovery | SettleLoans',
-  description: 'Under Article 19 and 55 of the Limitation Act 1963, banks have a strict 3-year window from loan default to file a civil recovery suit. Learn how time-barred debt shields borrowers, Section 18 acknowledgment traps, and how to stop recovery agent harassment on 4-5 year old loans.',
+  description: 'Understand the 3-year Limitation Act for bank loan recovery in India. Learn legal defenses against time-barred debts with SettleLoans.',
   keywords: [
     'limitation act 3 years for bank loan recovery in india',
     'time barred debt bank loan recovery india',
@@ -413,9 +413,7 @@ export default function LimitationActThreeYearsLoanRecoveryPage() {
             <span>Statutory Limitation Defense • 3-Year Time-Barred Debt Jurisprudence</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Limitation Act 3 Years for Bank Loan Recovery in India: <span className="text-[#3b82f6] md:text-[#60a5fa]">Time-Barred Debt Defense Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Limitation Act: 3-Year Time-Barred Loan Recovery in India</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

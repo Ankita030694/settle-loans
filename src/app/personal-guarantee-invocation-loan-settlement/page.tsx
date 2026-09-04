@@ -41,7 +41,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Personal Guarantee Invocation Rules | SettleLoans',
-  description: 'Facing personal guarantee invocation for a defaulted business loan? Learn Section 128 Indian Contract Act defenses, Section 133-139 surety discharge rules, DRT & IBC strategies, and advocate-led OTS blueprints to protect promoter personal assets.',
+  description: 'Personal guarantee invoked for business loan default? Understand Section 128 Indian Contract Act defenses and settle debt with SettleLoans.',
   keywords: [
     'personal guarantee invocation for business loan settlement',
     'personal guarantee business loan default',
@@ -424,9 +424,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
             <span>Corporate &amp; MSME Debt Defense • Section 128 Indian Contract Act</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Personal Guarantee Invocation for Business Loan Settlement: Legal Defenses, Section 128 Contract Act &amp; Promoter OTS Blueprint
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Guarantee Invocation: Legal Defenses & OTS</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

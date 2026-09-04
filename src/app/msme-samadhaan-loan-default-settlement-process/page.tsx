@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'MSME Samadhaan Loan Default Guide | SettleLoans',
-  description: 'Struggling with stressed MSME working capital loans, CC/OD limits, or SARFAESI notices? Learn how Udyam-registered businesses leverage MSME Samadhaan, RBI\'s Prudential Framework, and OTS schemes to settle bank debt without losing plant and machinery.',
+  description: 'Learn how to settle MSME business loan defaults legally under Udyam and RBI frameworks. Protect collateral and plant machinery with SettleLoans.',
   keywords: [
     'msme loan settlement scheme in india',
     'msme samadhaan loan default settlement process',
@@ -397,9 +397,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
             <span>MSME Financial Distress • Udyam Hardship, Working Capital Settlement &amp; Asset Protection</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            MSME Loan Settlement Scheme in India: <span className="text-[#3b82f6] md:text-[#60a5fa]">Resolve Business Debt &amp; Protect Plant and Machinery</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">MSME Business Loan Settlement & Restructuring Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

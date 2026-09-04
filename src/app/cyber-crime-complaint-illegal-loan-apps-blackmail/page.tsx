@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Cyber Complaint for Loan App Blackmail | SettleLoans',
-  description: 'Trapped by illegal 7-day loan apps or contact blackmail? Learn how to file a cyber crime complaint on cybercrime.gov.in, report numbers on Chakshu portal, invoke RBI digital lending rules, and stop morphed photo threats.',
+  description: 'Blackmailed by illegal loan apps with morphed photos? File a cyber crime complaint on 1930 and protect your digital privacy with SettleLoans.',
   keywords: [
     'how to file cyber crime complaint against loan app',
     'illegal loan app blackmail complaint',
@@ -415,9 +415,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
             <span>Emergency Cyber Extortion Defense • National Redressal Protocol</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            How to File Cyber Crime Complaint Against Loan App: <span className="text-[#3b82f6] md:text-[#60a5fa]">Stop Illegal Blackmail, Morphed Photos &amp; Contact Harassment</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Cyber Crime Complaint for Loan App Blackmail</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

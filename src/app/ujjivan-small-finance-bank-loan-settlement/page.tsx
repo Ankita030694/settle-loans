@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Ujjivan Bank Loan Settlement Guide | SettleLoans',
-  description: 'Exhaustive legal guide to Ujjivan Small Finance Bank loan settlement. Settle unsecured personal loans, group micro-loans & MSE lines, stop recovery harassment under RBI rules, defend Sec 25 PSSA notices, and negotiate up to 60% OTS haircut.',
+  description: 'Learn how to settle Ujjivan Small Finance Bank loans legally. Stop daily recovery calls and negotiate structured OTS via SettleLoans.',
   keywords: [
     'ujjivan small finance bank loan settlement',
     'ujjivan small finance bank personal loan settlement',
@@ -463,9 +463,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
             <span>Small Finance Bank Dispute Resolution • Ujjivan SFB</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Ujjivan Small Finance Bank Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">Process, Legal Protections &amp; OTS Haircut Guide (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Ujjivan Small Finance Bank Loan Settlement & OTS</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

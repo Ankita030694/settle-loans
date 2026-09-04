@@ -40,7 +40,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Fake Court Summons on WhatsApp Rules | SettleLoans',
-  description: 'Received a fake court notice or arrest warrant on WhatsApp from a recovery agent? Learn how to identify forged court summons, Section 336/338 BNS and 465/471 IPC penalties, and how to take legal action.',
+  description: 'Received fake court summons or police notice on WhatsApp from recovery agents? Learn Section 336 BNS forgery laws and action with SettleLoans.',
   keywords: [
     'fake court notice by loan recovery agent on whatsapp',
     'fake legal notice on whatsapp for personal loan',
@@ -406,9 +406,7 @@ export default function FakeCourtNoticeWhatsAppPage() {
             <span>Legal Protections • Court Summons &amp; Forgery Penalties</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Fake Court Notice by Loan Recovery Agent on WhatsApp: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Rights, Forgery Laws &amp; How to Take Action</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Fake Court Summons from Recovery Agents on WhatsApp</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-4 mb-6 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

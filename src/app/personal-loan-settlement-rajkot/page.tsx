@@ -29,7 +29,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Rajkot | SettleLoans',
-  description: 'Expert loan settlement services in Rajkot for MSME owners, foundry operators, and individuals. Resolve unsecured personal and business loans with 40%–70% legal waiver.',
+  description: 'Learn how to settle personal loans legally in Rajkot. Stop bank recovery agent calls and resolve debt with structured OTS via SettleLoans.',
   keywords: [
     'loan settlement services in rajkot',
     'personal loan settlement rajkot',
@@ -418,9 +418,7 @@ export default function PersonalLoanSettlementRajkotPage() {
             <span>Gujarat Engineering &amp; MSME Corridor • Rajkot, Jamnagar &amp; Bhavnagar</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Loan Settlement Services in Rajkot: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Debt Resolution for Saurashtra MSMEs &amp; Borrowers</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Rajkot: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

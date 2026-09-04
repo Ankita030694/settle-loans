@@ -34,7 +34,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'KrazyBee NBFC Loan Settlement | SettleLoans',
-  description: 'Comprehensive legal and financial guide to KrazyBee Services NBFC loan settlement. Learn how to settle KreditBee personal loans, respond to Section 25 PSSA legal notices and arbitration summons, halt digital recovery harassment, and negotiate a 40% to 60% OTS debt haircut under RBI rules.',
+  description: 'Learn how to settle KrazyBee and KreditBee NBFC loans legally. Stop legal notice harassment and negotiate structured OTS with SettleLoans.',
   keywords: [
     'krazybee services legal notice settlement',
     'krazybee loan settlement process',
@@ -464,9 +464,7 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
             <span>Fintech NBFC Dispute Resolution • KrazyBee Services Private Limited</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            KrazyBee Services NBFC Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Notice Defense, OTS Haircut &amp; RBI Compliance Guide (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">KrazyBee NBFC Loan Settlement: Legal Defense & OTS</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

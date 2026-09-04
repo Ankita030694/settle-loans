@@ -33,7 +33,7 @@ import {
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Meerut | SettleLoans',
   description:
-    'Facing loan default, recovery harassment, or court notices in Meerut or Ghaziabad? Senior debt settlement advocates protect sports goods MSMEs, real estate traders, and salaried professionals with 40%–70% OTS waivers.',
+    'Learn how to settle personal loans legally in Meerut. Stop bank recovery harassment and resolve debt with up to 60% OTS waiver via SettleLoans.',
   keywords: [
     'personal loan settlement advocates in meerut',
     'loan settlement lawyers in meerut',
@@ -432,9 +432,7 @@ export default function Page() {
               <span>NCR Manufacturing Corridor • Meerut &amp; Ghaziabad</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-              Personal Loan Settlement Advocates in Meerut: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Defense &amp; Bank OTS</span>
-            </h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Meerut: Legal OTS Guide</h1>
 
             <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
               <span className="flex items-center gap-1.5">

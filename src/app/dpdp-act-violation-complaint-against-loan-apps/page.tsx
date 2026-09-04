@@ -42,7 +42,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'DPDP Act Complaint Against Loan Apps | SettleLoans',
-  description: 'Loan app accessing contacts without consent? Learn how to file a DPDP Act 2023 complaint with the Data Protection Board of India, RBI rules, and civil remedies.',
+  description: 'Loan apps accessing your phone contacts illegally? File a Data Protection Board complaint under the DPDP Act 2023 with SettleLoans.',
   keywords: [
     'loan app accessing contacts complaint dpdp act',
     'digital personal data protection act loan app contact scraping',
@@ -388,9 +388,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
             <span>Cyber Privacy &amp; Data Protection • Statutory Borrower Defense</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            DPDP Act Violation Complaint Against Loan Apps Accessing Contacts: <span className="text-[#3b82f6] md:text-[#60a5fa]">Data Protection Board Filing &amp; Legal Rights</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">DPDP Act Complaint Against Loan App Data Misuse</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-4 mb-6 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

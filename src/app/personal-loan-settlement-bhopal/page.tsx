@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Bhopal | SettleLoans',
-  description: 'Facing loan default in Bhopal? Consult expert personal loan settlement advocates in Bhopal to stop recovery harassment, defend Section 138/25 PSSA summons at Arera Hills District Court, represent at DLSA Lok Adalat, and secure 45%–65% RBI OTS debt waivers.',
+  description: 'Learn how to settle personal loans legally in Bhopal. Stop bank recovery harassment and resolve debt with up to 60% OTS waiver via SettleLoans.',
   keywords: [
     'personal loan settlement advocates in bhopal',
     'loan settlement lawyer bhopal',
@@ -461,9 +461,7 @@ export default function PersonalLoanSettlementBhopalPage() {
             <span>Regional Banking Legal Defense • Bhopal &amp; Madhya Pradesh Administrative Hub</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Personal Loan Settlement Advocates in Bhopal: <span className="text-[#3b82f6] md:text-[#60a5fa]">Legal Debt Defense, Lok Adalat Representation &amp; RBI OTS Relief</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Bhopal: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

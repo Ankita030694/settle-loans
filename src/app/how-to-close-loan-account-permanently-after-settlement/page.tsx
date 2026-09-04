@@ -40,7 +40,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'How to Permanently Close Settled Loan | SettleLoans',
-  description: 'Complete end-to-end checklist to permanently close loan account after settlement: bank ledger zeroing, physical branch NDC, NPCI NACH mandate cancellation, ECS revocation, and CIBIL zero-balance update.',
+  description: 'Learn the 5-step banking protocol to permanently close settled loan accounts, get the No Dues Certificate, and update CIBIL via SettleLoans.',
   keywords: [
     'steps to permanently close loan account after settlement',
     'how to close loan account permanently after settlement',
@@ -416,9 +416,7 @@ export default function PermanentLoanAccountClosurePage() {
             <span>Post-Settlement Banking Protocol • RBI Compliance &amp; CIBIL Clearance</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            How to Permanently Close Loan Account After Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">The 5-Step Banking Protocol, Branch NDC &amp; CIBIL Clearance Guide</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">How to Close Loan Accounts After Settlement</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

@@ -35,7 +35,7 @@ import {
 export const metadata: Metadata = {
   title: 'Avanse Education Loan Settlement | SettleLoans',
   description:
-    'Comprehensive guide to Avanse Financial Services education loan settlement. Learn how to settle domestic & overseas student loans, shield co-borrower parents, eliminate capitalized moratorium interest, defend legal notices, and negotiate up to 60% OTS haircut under RBI guidelines.',
+    'Learn how to settle Avanse education loans legally. Protect student and parent co-borrowers and negotiate structured OTS with SettleLoans.',
   keywords: [
     'avanse loan settlement process',
     'avanse education loan settlement',
@@ -433,9 +433,7 @@ export default function AvanseEducationLoanSettlementPage() {
             <span>Higher Education NBFC Dispute Resolution • Avanse Financial Services</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Avanse Education Loan Settlement: <span className="text-[#3b82f6] md:text-[#60a5fa]">OTS Process, Co-Borrower Protection &amp; Haircut (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Avanse Education Loan Settlement: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">

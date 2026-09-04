@@ -35,7 +35,7 @@ import {
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement in Bhubaneswar | SettleLoans',
   description:
-    'Top loan settlement lawyers in Bhubaneswar & Odisha. Defend against bank SARB notices, Section 138 & 25 PSSA summons, halt recovery harassment for Infocity IT staff, mining contractors, and government employees, and negotiate 40%–60% OTS waivers under RBI rules.',
+    'Settle personal loans legally in Bhubaneswar & Odisha. Stop recovery harassment and resolve bank debt with expert OTS guidance from SettleLoans.',
   keywords: [
     'loan settlement lawyer in bhubaneswar odisha',
     'personal loan settlement bhubaneswar',
@@ -477,9 +477,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
             <span>Odisha Legal Debt Relief • Bhubaneswar &amp; Cuttack Hub</span>
           </div>
 
-          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">
-            Loan Settlement Lawyer in Bhubaneswar Odisha: <span className="text-[#3b82f6] md:text-[#60a5fa]">Personal Loan OTS, SARB Notice Defense &amp; Lok Adalat Resolution (2026)</span>
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Personal Loan Settlement in Bhubaneswar: Legal OTS Guide</h1>
 
           <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
             <span className="flex items-center gap-1.5">
