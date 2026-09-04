@@ -7,10 +7,10 @@ export default function AboutUs() {
         
         {/* 1. Introduction & Mission */}
         <div className="text-center max-w-4xl mx-auto mb-12 animate-in slide-in-from-bottom-8 duration-700">
-          <h2 className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mb-4 tracking-tight">
+          <div className="text-3xl md:text-4xl font-bold text-[var(--color-primary)] mb-4 tracking-tight">
             India&#39;s Premier <br className="hidden md:block"/>
             <span className="text-[var(--color-secondary)]">Ethical Debt Resolution Service</span>
-          </h2>
+          </div>
           <p className="text-base md:text-lg text-gray-600 leading-relaxed mb-6">
             As the most trusted name in debt settlement across India, we dedicate ourselves to removing the heavy burden of unsecured loans. We empower families and business owners to regain financial stability through legal and effective debt reduction strategies.
           </p>
@@ -75,7 +75,7 @@ export default function AboutUs() {
         {/* 3. The Timeline Story */}
         <div className="max-w-5xl mx-auto">
           <div className="mb-10 text-center">
-             <h3 className="text-2xl font-bold text-black mb-2">The SettleLoans Journey: Fighting For You</h3>
+             <div className="text-2xl font-bold text-black mb-2">The SettleLoans Journey: Fighting For You</div>
              <p className="text-sm text-gray-500">A timeline of empowering Indian borrowers towards freedom.</p>
           </div>
 

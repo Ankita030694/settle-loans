@@ -92,10 +92,10 @@ const Testimonials2 = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
         <div className="flex flex-col lg:flex-row justify-between items-start lg:items-end gap-8">
             <div className="max-w-2xl">
-              <h2 className="text-4xl md:text-5xl font-bold text-black tracking-tight leading-[1.1] mb-4">
+              <div className="text-4xl md:text-5xl font-bold text-black tracking-tight leading-[1.1] mb-4">
                 Trusted by <br className="hidden lg:block" />
                 <span className="text-black/70">Thousands of Indians</span>
-              </h2>
+              </div>
               <p className="text-lg text-black/80 max-w-lg">
                 Join 5000+ families who chose SettleLoans to regain their financial freedom.
               </p>

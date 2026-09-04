@@ -6,9 +6,9 @@ import { faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
 const CompanyComparison: React.FC = () => {
     return (
         <section id="top-companies" className="scroll-mt-32 mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center uppercase tracking-tighter">
+            <div className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center uppercase tracking-tighter">
                 Top Loan Settlement Companies in India (2025)
-            </h2>
+            </div>
             <p className="text-center text-lg text-gray-600 mb-12">Who are the players you can trust with your financial recovery?</p>
 
             {/* Company 1: SettleLoans */}
@@ -19,13 +19,13 @@ const CompanyComparison: React.FC = () => {
                         <div className="w-24 h-24 bg-[#1F5EFF]/10 rounded-2xl flex items-center justify-center mb-4">
                             <span className="text-4xl font-black text-[#1F5EFF]">01</span>
                         </div>
-                        <h3 className="text-2xl font-black text-[#2E2E2E] mb-2 uppercase tracking-tight">SettleLoans</h3>
+                        <div className="text-2xl font-black text-[#2E2E2E] mb-2 uppercase tracking-tight">SettleLoans</div>
                         <div className="flex text-yellow-500 mb-4">
                             {[...Array(5)].map((_, i) => <FontAwesomeIcon key={i} icon={faStar} className="w-4 h-4" />)}
                         </div>
                     </div>
                     <div className="md:w-3/4">
-                        <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">Best Overall for Technology and Results</h4>
+                        <div className="text-xl font-bold text-[#1F5EFF] mb-4">Best Overall for Technology and Results</div>
                         <p className="text-gray-700 leading-relaxed mb-6">
                             SettleLoans stands out as the premier destination for debt resolution in India. Unlike many traditional agencies, SettleLoans combines cutting-edge technology with deep legal expertise to provide a seamless experience for the borrower. They have established a reputation for achieving some of the highest waiver percentages in the industry, often helping clients settle their debts for 40 to 60 percent of the total outstanding.
                         </p>
@@ -61,13 +61,13 @@ const CompanyComparison: React.FC = () => {
                         <div className="w-20 h-20 bg-gray-100 rounded-2xl flex items-center justify-center mb-4">
                             <span className="text-3xl font-black text-gray-400">02</span>
                         </div>
-                        <h3 className="text-2xl font-black text-[#2E2E2E] mb-2 uppercase tracking-tight">AMA Legal Solutions</h3>
+                        <div className="text-2xl font-black text-[#2E2E2E] mb-2 uppercase tracking-tight">AMA Legal Solutions</div>
                         <div className="flex text-yellow-500 mb-4">
                             {[...Array(5)].map((_, i) => <FontAwesomeIcon key={i} icon={faStar} className="w-4 h-4" />)}
                         </div>
                     </div>
                     <div className="md:w-3/4">
-                        <h4 className="text-xl font-bold text-gray-800 mb-4">Best for Serious Legal Challenges</h4>
+                        <div className="text-xl font-bold text-gray-800 mb-4">Best for Serious Legal Challenges</div>
                         <p className="text-gray-700 leading-relaxed mb-6">
                             AMA Legal Solutions is a prominent law firm specializing in debt settlement and NPA management. Since they operate as a law firm, they have the authority to represent clients in courts and tribunals, providing a significant advantage in cases involving SARFAESI actions or Section 138 notices.
                         </p>
@@ -85,13 +85,13 @@ const CompanyComparison: React.FC = () => {
                         <div className="w-20 h-20 bg-gray-100 rounded-2xl flex items-center justify-center mb-4">
                             <span className="text-3xl font-black text-gray-400">03</span>
                         </div>
-                        <h3 className="text-2xl font-black text-[#2E2E2E] mb-2 uppercase tracking-tight">Freed</h3>
+                        <div className="text-2xl font-black text-[#2E2E2E] mb-2 uppercase tracking-tight">Freed</div>
                         <div className="flex text-yellow-500 mb-4">
                             {[...Array(4)].map((_, i) => <FontAwesomeIcon key={i} icon={faStar} className="text-[#FFB400] w-4 h-4" />)}
                         </div>
                     </div>
                     <div className="md:w-3/4">
-                        <h4 className="text-xl font-bold text-gray-800 mb-4">Best for Fintech-Driven Debt Management</h4>
+                        <div className="text-xl font-bold text-gray-800 mb-4">Best for Fintech-Driven Debt Management</div>
                         <p className="text-gray-700 leading-relaxed mb-6">
                             Freed is one of India&apos;s first tech-driven debt relief platforms. They use a dedicated &quot;Debt Relief Account&quot; model where borrowers save towards a lump sum settlement. This is excellent for borrowers with a steady but limited income looking for a structured savings path.
                         </p>
@@ -106,13 +106,13 @@ const CompanyComparison: React.FC = () => {
                         <div className="w-20 h-20 bg-gray-100 rounded-2xl flex items-center justify-center mb-4">
                             <span className="text-3xl font-black text-gray-400">04</span>
                         </div>
-                        <h3 className="text-2xl font-black text-[#2E2E2E] mb-2 uppercase tracking-tight">CredSettle</h3>
+                        <div className="text-2xl font-black text-[#2E2E2E] mb-2 uppercase tracking-tight">CredSettle</div>
                         <div className="flex text-yellow-500 mb-4">
                             {[...Array(4)].map((_, i) => <FontAwesomeIcon key={i} icon={faStar} className="text-[#FFB400] w-4 h-4" />)}
                         </div>
                     </div>
                     <div className="md:w-3/4">
-                        <h4 className="text-xl font-bold text-gray-800 mb-4">Best for Transparent Negotiations</h4>
+                        <div className="text-xl font-bold text-gray-800 mb-4">Best for Transparent Negotiations</div>
                         <p className="text-gray-700 leading-relaxed mb-6">
                             CredSettle focuses on the ethics and transparency of the settlement process. They pride themselves on clear, upfront fee information and an empathetic approach toward borrowers struggling with multiple lenders.
                         </p>

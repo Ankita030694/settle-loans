@@ -130,11 +130,11 @@ const CTA = () => {
 
         {/* Text Content */}
         <div className="flex flex-col items-center gap-[16px] md:gap-[19px] w-full">
-          <h2 
+          <div 
             className="text-white text-center text-[31px] md:text-[47px] font-normal leading-[1.1] md:leading-[1.2] w-full tracking-tight"
           >
             Start Your Journey to a Debt-Free Life Today
-          </h2>
+          </div>
           <p 
             className="text-center text-[16px] md:text-[20px] font-light leading-[1.4] md:leading-[23px] w-full text-neutral-400 max-w-[500px]"
           >

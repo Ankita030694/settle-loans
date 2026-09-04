@@ -83,3 +83,10 @@ All HTTP responses must output:
 * **Strict Order Sequence:** Headings must follow an unbroken sequence (`<h1>` -> `<h2>` -> `<h3>` -> `<h4>`). Skipping heading levels (e.g., `<h1>` directly to `<h3>` or `<h2>` directly to `<h4>`/`<h5>`) is strictly prohibited.
 * **Article Body Subheadings:** `<h2>` tags must be reserved solely for top-level content sections within the page body.
 
+---
+
+## 10. Component Heading Isolation Standard
+* **Global UI & Layout Components:** Shared components (Headers, Footers, Sidebars, Modals, Banners) MUST NEVER contain `<h2>` elements. Use CSS-styled `<div>` or `<span>` elements instead.
+* **Content Body Usage:** `<h2>` elements are strictly reserved for structural section titles inside the main content area (`<main>` or `<article>`).
+
+

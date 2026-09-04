@@ -18,9 +18,9 @@ interface ReviewSnippetsProps {
 const ReviewSnippets: React.FC<ReviewSnippetsProps> = ({ reviews, title = "Client Success Stories" }) => {
     return (
         <section className="mt-16 mb-16">
-            <h2 id="reviews" className="scroll-mt-32 text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter font-sans">
+            <div id="reviews" className="scroll-mt-32 text-2xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center uppercase tracking-tighter font-sans">
                 {title}
-            </h2>
+            </div>
             <div className="grid md:grid-cols-2 gap-4 md:gap-6 not-prose text-left">
                 {reviews.map((review, i) => (
                     <div key={i} className="bg-white p-5 md:p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
