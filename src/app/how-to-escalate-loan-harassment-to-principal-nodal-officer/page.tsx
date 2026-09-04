@@ -250,7 +250,7 @@ const jsonLdGraph = {
           "name": "Who is a Principal Nodal Officer (PNO) in a bank or NBFC?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A Principal Nodal Officer (PNO) is a senior executive designated by a regulated bank or NBFC at the level of General Manager or Chief General Manager, specifically mandated under the Reserve Bank of India (RBI) Integrated Ombudsman Scheme to oversee customer grievance redressal, ensure strict compliance with banking regulations, and independently investigate institutional deficiencies that cannot be resolved at the branch or regional level."
+            "text": "A Principal Nodal Officer (PNO) is a senior bank executive. Under RBI rules, they handle serious customer complaints that branches fail to resolve. They report directly to top bank management and ensure compliance with central banking laws."
           }
         },
         {
@@ -258,7 +258,7 @@ const jsonLdGraph = {
           "name": "Why do local branch managers fail to stop recovery agent harassment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Local branch managers and regional collection supervisors operate under stringent internal monthly recovery quotas and frequently outsource stressed accounts to commission-driven third-party Direct Recovery Agencies (DRAs). Because branch staff often prioritize immediate cash inflows over regulatory compliance, oral or informal complaints made at the branch counter are routinely ignored or suppressed to avoid regional administrative penalties."
+            "text": "Local branch managers have monthly recovery targets. They often hire outside collection agencies to meet these targets. Because they prioritize recovering money, oral complaints at the branch counter are often ignored."
           }
         },
         {
@@ -266,7 +266,7 @@ const jsonLdGraph = {
           "name": "What statutory powers does the PNO possess to freeze recovery actions?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI Master Directions and the Internal Ombudsman Mechanism, the PNO possesses executive authority to issue immediate administrative stay orders across the bank's retail asset operations. The PNO can instruct the central collection control unit to freeze all outbound automated dialing, immediately recall third-party collection agencies, suspend field visits, and place the delinquent account into an executive dispute moratorium pending final investigation."
+            "text": "The PNO has executive authority to stop collection actions. They can order recovery agencies to halt all calls and visits immediately while the complaint is investigated."
           }
         },
         {
@@ -274,7 +274,7 @@ const jsonLdGraph = {
           "name": "What is the mandatory role of the RBI Internal Ombudsman (IO) when a PNO handles a complaint?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under the RBI Internal Ombudsman Scheme, if the Principal Nodal Officer proposes to reject a customer grievance wholly or partially, the bank is legally barred from communicating that rejection directly to the customer. Instead, the PNO must automatically submit the entire case file to the independent Internal Ombudsman for statutory review. This mandatory check ensures unbiased judicial oversight before any complaint can be closed against the borrower."
+            "text": "Under RBI rules, a bank cannot reject your complaint without the Internal Ombudsman's review. The IO is an independent authority who checks all facts to ensure fair treatment."
           }
         },
         {
@@ -282,7 +282,7 @@ const jsonLdGraph = {
           "name": "What essential evidence must be submitted when filing a PNO harassment complaint?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A comprehensive PNO complaint dossier must include: (1) Unedited audio recordings of abusive or non-compliant collection calls; (2) Certified Telecom Call Detail Records (CDR) proving calls made outside the permitted 8:00 AM to 7:00 PM window; (3) Timestamped screenshots of threatening SMS or WhatsApp messages; (4) CCTV footage or visitor records documenting unauthorized workplace or residential trespass; and (5) Prior written complaints served on branch managers with postal tracking receipts or automated ticket IDs."
+            "text": "Submit call recordings with timestamps, call logs, screenshots of threatening WhatsApp or SMS texts, and CCTV footage. You should also include proof of your initial branch complaint."
           }
         },
         {
@@ -290,7 +290,7 @@ const jsonLdGraph = {
           "name": "What is the statutory response timeline for a Principal Nodal Officer under RBI rules?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI customer service benchmarks, the PNO is required to acknowledge receipt of an escalated complaint within 24 to 48 hours and provide a comprehensive reasoned decision within 30 calendar days from the date of initial grievance lodging. If the bank fails to resolve the issue within 30 days or issues an unsatisfactory reply, the borrower gains automatic statutory standing to escalate the matter to the RBI Integrated Ombudsman via the Complaint Management System (CMS)."
+            "text": "The PNO must acknowledge your complaint within 48 hours. Under RBI rules, the bank has 30 days to resolve the issue. If unresolved, you can file a complaint with the RBI Integrated Ombudsman."
           }
         },
         {
@@ -298,7 +298,7 @@ const jsonLdGraph = {
           "name": "Can a PNO complaint be leveraged to negotiate a One-Time Settlement (OTS)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. When a PNO complaint uncovers substantiated regulatory violations—such as criminal intimidation, workplace defamation, or illegal data sharing—the bank faces severe regulatory exposure under Section 47A of the Banking Regulation Act. To avoid adverse audit findings, RBI supervisory penalties, and consumer court litigation, bank executive committees frequently propose an amicable One-Time Settlement offering 50% to 70% waivers on outstanding debt alongside a zero-balance No Dues Certificate."
+            "text": "Yes. Proving harassment exposes the bank to RBI penalties. To avoid fines and legal trouble, banks often agree to a One-Time Settlement with 50% to 70% waivers and a No Dues Certificate."
           }
         },
         {
@@ -306,7 +306,7 @@ const jsonLdGraph = {
           "name": "Can a recovery agent continue visiting my home while a PNO investigation is ongoing?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. When a formal legal representation alleging coercive collection practices is received by the PNO, standard banking compliance protocols require the immediate issuance of an interim non-contact instruction to all outsourced collection vendors. Continued visits or calls during an active executive investigation constitute aggravated institutional non-compliance, making the lender strictly liable for exemplary damages before regulatory authorities and civil courts."
+            "text": "No. When the PNO receives a harassment complaint, they issue an interim freeze. Agents are barred from visiting or calling you while the bank investigates."
           }
         },
         {
@@ -314,7 +314,7 @@ const jsonLdGraph = {
           "name": "Where can I find the official contact details of a bank's Principal Nodal Officer?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Under RBI regulatory mandates, every regulated bank and NBFC must prominently display the complete name, postal address, dedicated email address, and landline telephone numbers of its Principal Nodal Officer on the homepage of its official website, inside every physical branch notice board, and within the periodic account statements issued to borrowers."
+            "text": "Every bank and NBFC must publish its PNO details on its official website homepage and inside physical branches. You can also find them on your monthly loan statements."
           }
         },
         {
@@ -322,7 +322,7 @@ const jsonLdGraph = {
           "name": "What happens if the bank's PNO rejects my harassment complaint?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "If the PNO rejects the representation (after the mandatory concurrence of the Internal Ombudsman) or fails to provide redress within 30 days, the borrower can immediately file an online complaint with the RBI Integrated Ombudsman at cms.rbi.org.in or initiate judicial proceedings before the District Consumer Disputes Redressal Commission (DCDRC) claiming substantial monetary damages for mental agony and deficiency of service."
+            "text": "If the PNO rejects your complaint after Internal Ombudsman review, you can escalate to the RBI Integrated Ombudsman online at cms.rbi.org.in. You can also approach the Consumer Court for compensation."
           }
         }
       ]
@@ -499,15 +499,15 @@ export default function PNOEscalationHarassmentPage() {
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Immediate Operational Collection Freeze:</strong> Submitting a formal legal representation backed by digital evidence forces the PNO desk to issue an administrative stay, compelling the bank to immediately recall third-party collection agencies and cease unauthorized field visits.</span>
+                  <span><strong>Immediate Stop on Collection Calls:</strong> Filing a formal complaint backed by proof forces the bank to act quickly. The Principal Nodal Officer can halt recovery calls and stop home visits right away.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Mandatory Internal Ombudsman (IO) Check:</strong> Under RBI governance guidelines, a bank cannot reject a customer grievance at the PNO level without submitting the complete evidentiary record to the independent Internal Ombudsman for statutory concurrence.</span>
+                  <span><strong>Mandatory Review by Internal Ombudsman:</strong> Banks cannot simply reject your complaint. Under RBI rules, an independent Internal Ombudsman must review every rejected case first.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
-                  <span><strong>Decisive Leverage for Debt Settlement:</strong> Exposing severe breaches of the RBI Fair Practices Code subjects the lender to supervisory penalties under Section 47A of the Banking Regulation Act, prompting credit committees to approve 50% to 70% One-Time Settlements (OTS) with full debt discharge.</span>
+                  <span><strong>Strong Leverage for Loan Settlement:</strong> Proving harassment puts regulatory pressure on the bank. This often leads to an approved One-Time Settlement (OTS) with waivers of 50% to 70%.</span>
                 </li>
               </ul>
             </div>
@@ -516,22 +516,22 @@ export default function PNOEscalationHarassmentPage() {
             <section id="demystifying-pno-grievance-architecture" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">1. Demystifying the Principal Nodal Officer (PNO)</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When an individual or enterprise borrower encounters severe financial distress—such as catastrophic revenue collapse, unforeseen business insolvency, or acute personal medical crises—commercial banks and Non-Banking Financial Companies (NBFCs) routinely reassign overdue accounts to external Direct Recovery Agencies (DRAs). In an alarming number of instances, these commission-driven recovery agents deploy aggressive, coercive, and unlawful collection tactics designed to bypass the rule of law. Aggrieved borrowers frequently attempt to resolve these abuses by speaking with local branch managers or telephonic customer support desks, only to find their oral representations dismissed, minimized, or met with indifferent deflection.
+                When borrowers face unexpected money troubles, banks often hand their accounts to recovery agents. Many agents use aggressive tactics to force quick payments. Borrowers often try to complain to local branch managers. However, branch staff rarely stop these agents because they focus only on monthly recovery targets.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                This systemic breakdown occurs because local branch managers operate under rigid monthly recovery targets and possess neither the institutional independence nor the administrative authority to discipline outsourced collection vendors. To overcome this institutional friction, the Reserve Bank of India (RBI) established a formal, statutory <strong>Three-Tier Grievance Redressal Mechanism</strong> across all Regulated Entities (REs). Under this regulatory hierarchy, customer disputes progress sequentially from frontline branch desks (Level-1) through Regional Grievance Redressal Officers (Level-2), culminating at the executive office of the <strong>Principal Nodal Officer (PNO)</strong> at Level-3.
+                To protect customers, the Reserve Bank of India (RBI) created a <strong>Three-Tier Grievance System</strong>. Complaints start at the local branch (Level 1). If unresolved, they move to the Regional Officer (Level 2). Finally, they reach the <strong>Principal Nodal Officer (PNO)</strong> at Level 3.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The Principal Nodal Officer is not merely an elevated customer care representative. The PNO is a senior executive, typically holding the rank of Chief General Manager or General Manager, designated under the <em>Reserve Bank - Integrated Ombudsman Scheme</em> and operating with direct reporting lines to the bank’s Executive Committee and Board of Directors. The office of the PNO functions as an independent internal regulatory watchdog, empowered with administrative jurisdiction to override regional recovery units, demand operational call audit trails, inspect vendor contracts, and impose immediate disciplinary freezes on rogue collection agents.
+                The Principal Nodal Officer is a top bank executive. They report directly to the bank leadership and the RBI. The PNO has the legal authority to check call records, cancel contracts with rogue collection agencies, and freeze all harassment against you.
               </p>
 
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-4 rounded-r-xl my-4">
                 <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                   <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
-                  <span>Statutory Distinction: Branch Desk vs. Principal Nodal Officer</span>
+                  <span>Branch Desk vs. Principal Nodal Officer</span>
                 </h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
-                  While local branch personnel are incentivized purely by monthly cash recovery metrics, the Principal Nodal Officer is legally bound by RBI compliance mandates. Representations lodged with the PNO create formal regulatory audit trails that cannot be suppressed without subjecting the financial institution to severe central bank scrutiny and punitive sanctions.
+                  Branch staff only focus on collecting money. In contrast, the Principal Nodal Officer must follow RBI rules. When you file a complaint with the PNO, the bank must log it on the official RBI record.
                 </p>
               </div>
             </section>
@@ -540,16 +540,16 @@ export default function PNOEscalationHarassmentPage() {
             <section id="statutory-mandates-rbi-fair-practices" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Mandates, RBI Fair Practices Code</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The authority of the Principal Nodal Officer to intervene in coercive debt recovery is anchored in binding statutory directives issued by the Reserve Bank of India. Central among these is the <em>Master Direction – Fair Practices Code for Lenders</em>, read in conjunction with RBI Circular <em>DOR.ORG.REC.65/21.04.158/2022-23</em> on &apos;Outsourcing of Financial Services – Responsibilities of Regulated Entities in Employing Recovery Agents&apos;. These regulatory frameworks establish unambiguous operational boundaries that every bank and its recovery affiliates must strictly obey:
+                The Reserve Bank of India sets strict rules for debt recovery. Under the <em>RBI Fair Practices Code</em> and circular <em>DOR.ORG.REC.65</em>, all banks and recovery agencies must obey clear limits:
               </p>
               <ul className="list-disc pl-5 space-y-2 text-xs sm:text-sm text-slate-700 leading-relaxed">
-                <li><strong>Strict Permissible Communication Window:</strong> Collection agents are expressly barred from telephoning or visiting borrowers before 8:00 AM and after 7:00 PM under any circumstances.</li>
-                <li><strong>Absolute Protection of Borrower Privacy:</strong> Disclosing debt default details to family members, friends, housing society guards, or workplace colleagues constitutes a severe breach of banking confidentiality and constitutional privacy rights under Article 21.</li>
-                <li><strong>Prohibition of Physical Intimidation &amp; Abusive Language:</strong> The use of verbal threats, intimidating postures, continuous harassment, unannounced workplace visits, or unauthorized home intrusions constitutes actionable criminal offenses under the Bharatiya Nyaya Sanhita (BNS).</li>
-                <li><strong>Mandatory Pre-Visit Notice &amp; Agent Accreditation:</strong> Regulated entities must ensure that all recovery personnel are IIBF-certified, carry official authorization cards, and provide prior formal notice to the borrower before scheduling any physical interaction.</li>
+                <li><strong>Strict Calling Hours:</strong> Agents can only call or visit between 8:00 AM and 7:00 PM. Late-night or early-morning calls are illegal.</li>
+                <li><strong>Total Privacy Protection:</strong> Agents cannot reveal your debt to relatives, neighbours, friends, or co-workers.</li>
+                <li><strong>No Abuse or Threats:</strong> Verbal abuse, physical intimidation, and unannounced workplace visits are serious criminal offences.</li>
+                <li><strong>ID and Notice Required:</strong> Agents must carry valid bank ID cards, hold DRA certification, and give advance notice before visiting.</li>
               </ul>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Under the doctrine of <strong>vicarious liability</strong> affirmed by the Supreme Court of India in landmark decisions including <em>ICICI Bank Ltd. v. Prakash Kaur (2007) 2 SCC 711</em>, a commercial bank cannot disclaim legal responsibility for the unlawful actions of third-party recovery firms. Because recovery contractors act as authorized agents of the principal lender, any act of harassment, defamation, or regulatory non-compliance committed by an agent is legally deemed an institutional violation by the bank itself.
+                Under Supreme Court rulings (such as <em>ICICI Bank v. Prakash Kaur</em>), banks are directly responsible for the actions of their recovery agents. A bank cannot blame outside agencies for harassment.
               </p>
 
               <div className="overflow-x-auto my-6">
@@ -587,7 +587,7 @@ export default function PNOEscalationHarassmentPage() {
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a borrower submits a structured legal representation to the Principal Nodal Officer citing these specific statutory provisions, the dynamic shifts completely. The bank’s central compliance division recognizes that unresolved violations expose the institution to formal show-cause notices from the RBI Department of Supervision, as well as severe compensatory damage awards in consumer commissions.
+                When you cite these laws in a complaint to the Principal Nodal Officer, the bank takes notice. They know that ignoring harassment can trigger RBI investigations and heavy consumer court fines.
               </p>
             </section>
 
@@ -595,61 +595,61 @@ export default function PNOEscalationHarassmentPage() {
             <section id="documenting-agent-coercion-evidence" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Documenting Agent Coercion</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A common reason informal complaints fail to produce results is the lack of structured documentary proof. The office of the Principal Nodal Officer operates on strict administrative and evidentiary protocols. Submitting unverified verbal claims allows lower-level compliance staff to issue generic denials. To compel immediate executive action, an aggrieved borrower must systematically compile an unassailable evidentiary dossier before initiating Level-3 escalation:
+                To win your case with the Principal Nodal Officer, you need clear proof. Verbal claims can be ignored, but digital records force quick action. Gather these four types of evidence:
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
                   <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <PhoneCall className="w-4 h-4 text-[#1F5EFF]" />
-                    <span>Telephonic Audio Logs &amp; CDR Records</span>
+                    <span>Call Recordings and Call Logs</span>
                   </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Preserve unedited audio recordings of all inbound collection calls showing timestamps, agent names, abusive phrasing, and calls placed outside the mandatory 8:00 AM to 7:00 PM window. Obtain certified Telecom Call Detail Records (CDR) proving persistent calling patterns and continuous dialing harassment.
+                    Save clear audio recordings of all recovery calls. Note the date, time, agent name, and phone number. Highlight any calls made outside 8 AM to 7 PM.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <FileText className="w-4 h-4 text-[#1F5EFF]" />
-                    <span>Digital Messaging &amp; Social Transcripts</span>
+                    <span>WhatsApp and SMS Messages</span>
                   </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Capture high-resolution screenshots of threatening WhatsApp communications, SMS alerts containing simulated legal notices, and unlawful messages sent to family members or corporate HR desks, complete with visible originating phone numbers and transmission headers.
+                    Take screenshots of threatening messages, fake legal notices, and abusive texts sent to you, your family, or your employer.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <Building2 className="w-4 h-4 text-[#1F5EFF]" />
-                    <span>CCTV Logs &amp; Workplace Incident Proof</span>
+                    <span>CCTV and Visitor Logs</span>
                   </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Secure CCTV video recordings from residential security desks, apartment building gates, or corporate reception lobbies documenting unauthorized agent visits, aggressive confrontations, or unlawful trespass, supplemented by written statements from building management.
+                    Collect CCTV footage and security gate registers if agents enter your home or office without permission.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
                   <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <HeartPulse className="w-4 h-4 text-[#1F5EFF]" />
-                    <span>Medical Evidence of Psychological Trauma</span>
+                    <span>Medical and Doctor Records</span>
                   </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Document clinical medical prescriptions, psychiatric consultation records, and hospital admission summaries illustrating severe anxiety, acute hypertension, cardiac distress, or sleep disorders directly precipitated by relentless collection coercion.
+                    Keep medical prescriptions or doctor notes if severe collection harassment caused anxiety, stress, or high blood pressure.
                   </p>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When compiled into a chronological index and cross-referenced with exact statutory provisions, this evidence establishes a prima facie case of institutional negligence. The PNO cannot dismiss such documentation without assuming personal administrative liability under central banking supervisory rules.
+                When organized clearly, this proof creates an open-and-shut case. The Principal Nodal Officer must act immediately to avoid RBI penalties.
               </p>
             </section>
 
             {/* Section 4: Bank NPA Accounting, Provisioning Burdens & Harassment Risk NPV Formula */}
             <section id="bank-npa-accounting-harassment-npv" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting, Provisioning Burdens</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; PNO Harassment NPV</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Understanding why a formal PNO complaint creates powerful leverage requires examining the banking economics of Non-Performing Assets (NPAs). Under RBI prudential norms on <em>Income Recognition, Asset Classification and Provisioning (IRACP)</em>, when an unsecured loan remains overdue beyond 90 days, it is classified as a Substandard NPA.
+                Filing a PNO complaint gives you powerful leverage because of bank accounting rules. Under RBI norms, when a loan is overdue for more than 90 days, it becomes a Non-Performing Asset (NPA).
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                As delinquent accounts age, the financial institution is mandated by law to lock substantial proportions of its core Tier-1 capital into non-yielding loss reserves:
+                As overdue accounts get older, banks must set aside cash reserves to cover potential losses:
               </p>
 
               <div className="overflow-x-auto my-4">
@@ -692,33 +692,33 @@ export default function PNOEscalationHarassmentPage() {
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                When a borrower lodges an executive PNO complaint proving severe harassment, the bank’s executive risk committee calculates the <strong>Net Present Value (NPV) of Recovery</strong> by factoring in the financial risks of regulatory non-compliance:
+                When you prove harassment in a PNO complaint, the bank evaluates the risk of continuing collection against settling the account:
               </p>
 
               {/* JSX Formula Box */}
               <div className="bg-slate-900 text-white rounded-2xl p-5 my-6 shadow-md border border-slate-800">
                 <div className="flex items-center gap-2 text-blue-400 font-bold text-xs uppercase tracking-wider mb-2">
                   <Calculator className="w-4 h-4" />
-                  <span>PNO Harassment Risk &amp; Recovery Valuation Model</span>
+                  <span>Bank Harassment Risk vs Recovery Model</span>
                 </div>
                 <div className="text-center py-3 my-2 bg-slate-800/80 rounded-xl font-mono text-sm sm:text-base text-blue-200 border border-slate-700">
-                  NPV_Recovery = ∑ [ C_t / (1 + r)^t ] - Regulatory Penalty Exposure - Ombudsman Reversal Costs - Provisioning Drag
+                  Net Recovery Value = Expected Recovery - RBI Penalty Risks - Legal Costs - Capital Lockup
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed mt-2">
-                  Where C_t represents estimated future debt recovery cash flows, r is the bank&apos;s internal hurdle cost of capital, and deductions account for potential RBI monetary penalties under Section 47A, Internal Ombudsman restitution awards, advocate defense retainers, and 100% locked capital provisioning.
+                  Banks deduct potential RBI fines, legal fees, and locked capital reserves from expected collections. Continuing aggressive recovery against a legally protected borrower costs more than offering a settlement.
                 </p>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Because prosecuting aggressive recovery against a legally represented borrower risks massive monetary penalties from the RBI and severe reputational damage in public consumer court proceedings, continuing adversarial collection results in an overwhelmingly negative expected return. Consequently, the Principal Nodal Officer routinely instructs the stressed asset division to execute an immediate, structured One-Time Settlement (OTS) with substantial principal write-downs.
+                Because pushing aggressive collection risks heavy RBI fines and public consumer court penalties, banks prefer to close the matter. The Principal Nodal Officer often directs the team to approve a structured One-Time Settlement (OTS) with deep waivers.
               </p>
             </section>
 
             {/* Section 5: Infographic Banner */}
             <section id="pno-escalation-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Institutional Escalation</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Institutional Escalation Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The visual roadmap below delineates the five sequential stages of escalating collection harassment from branch-level evidence documentation to Level-3 Principal Nodal Officer intervention, mandatory Internal Ombudsman review, collection freezing, and executing a final debt settlement with a zero-balance No Dues Certificate.
+                This visual chart outlines the 5 key stages of escalating harassment. It shows how cases move from gathering evidence to PNO intervention, collection freezing, and final settlement with a No Dues Certificate.
               </p>
               
               <div className="relative w-full rounded-2xl overflow-hidden shadow-lg border border-slate-200 my-6 bg-slate-950 aspect-[16/9]">
@@ -734,16 +734,16 @@ export default function PNOEscalationHarassmentPage() {
 
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs text-slate-600 mt-2">
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
-                  <span className="font-bold text-slate-900 block mb-1">Stages 1–2: Evidence &amp; Level-3 Escalation</span>
-                  <span>Capture call audio, timestamps, and CDR logs; bypass branch staff and serve formal statutory petition directly on the PNO.</span>
+                  <span className="font-bold text-slate-900 block mb-1">Stages 1–2: Proof &amp; Escalation</span>
+                  <span>Record calls, note timestamps, and send your formal complaint straight to the PNO.</span>
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
-                  <span className="font-bold text-slate-900 block mb-1">Stages 3–4: Ombudsman Review &amp; Action Freeze</span>
-                  <span>PNO submits file to independent Internal Ombudsman; central operations enforce immediate freeze on all third-party collection agencies.</span>
+                  <span className="font-bold text-slate-900 block mb-1">Stages 3–4: Review &amp; Call Freeze</span>
+                  <span>The Internal Ombudsman reviews the file while the bank freezes all recovery calls.</span>
                 </div>
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200">
-                  <span className="font-bold text-slate-900 block mb-1">Stage 5: Binding OTS &amp; Full Discharge</span>
-                  <span>Execute legally vetted One-Time Settlement with 50%–70% waiver, complete debt release, and zero-balance No Dues Certificate.</span>
+                  <span className="font-bold text-slate-900 block mb-1">Stage 5: Settlement &amp; NDC</span>
+                  <span>Complete an approved OTS with a 50%–70% waiver and receive a ₹0 No Dues Certificate.</span>
                 </div>
               </div>
             </section>
@@ -752,57 +752,57 @@ export default function PNOEscalationHarassmentPage() {
             <section id="step-by-step-pno-filing-protocol" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step PNO Escalation Protocol</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Executing a successful Level-3 escalation requires adhering to a precise procedural sequence. Circumventing administrative steps can give the bank grounds to delay response timelines. Distressed borrowers and legal advocates should follow this structured protocol:
+                Follow these five steps to file a successful complaint with the Principal Nodal Officer:
               </p>
 
               <div className="space-y-3 my-6">
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm space-y-1.5">
                   <div className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <span className="w-5 h-5 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-black">1</span>
-                    <span>Establish the Level-1 Paper Trail (Branch / Grievance Portal)</span>
+                    <span>Create Your Initial Branch Paper Trail</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed pl-7">
-                    Before escalating to the PNO, register an initial formal complaint through the bank’s official customer portal or via registered email to the branch manager. Retain the auto-generated Service Request (SR) Ticket Number or postal acknowledgment. This satisfies the statutory prerequisite proving Level-1 grievance failure.
+                    First, send a written complaint via email or through the bank portal. Save your Ticket Number or Service Request ID. This proves you tried Level-1 first.
                   </p>
                 </div>
 
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm space-y-1.5">
                   <div className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <span className="w-5 h-5 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-black">2</span>
-                    <span>Identify the Designated Principal Nodal Officer</span>
+                    <span>Find the Principal Nodal Officer Details</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed pl-7">
-                    Obtain the verified name, official corporate email address, and registered executive office address of the bank’s Principal Nodal Officer from the RBI-mandated customer grievance matrix published on the lender&apos;s website or branch notice board.
+                    Look up the PNO name and official email on the bank website or on the RBI grievance portal.
                   </p>
                 </div>
 
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm space-y-1.5">
                   <div className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <span className="w-5 h-5 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-black">3</span>
-                    <span>Draft the Statutory Representation with Precise Legal Framing</span>
+                    <span>Draft Your Formal Complaint</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed pl-7">
-                    Draft a comprehensive legal representation detailing: (a) Loan account particulars and genuine financial hardship reasons; (b) Level-1 complaint reference number; (c) Chronological record of recovery agent harassment with specific timestamps; (d) Explicit statutory citations under RBI Circular DOR.ORG.REC.65 and Supreme Court rulings; and (e) Specific prayers demanding an immediate collection freeze and loan restructuring or settlement.
+                    Write down your loan details, your financial hardship, call logs, and dates of agent harassment. Cite RBI recovery guidelines.
                   </p>
                 </div>
 
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm space-y-1.5">
                   <div className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <span className="w-5 h-5 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-black">4</span>
-                    <span>Formally Serve the Petition via Dual Channels</span>
+                    <span>Send via Email and Registered Post</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed pl-7">
-                    Transmit the signed petition along with indexed evidentiary exhibits via secure email with delivery receipts to the PNO&apos;s dedicated office, while simultaneously dispatching a physical copy via Registered Speed Post with Acknowledgment Due (RPAD) to create incontrovertible legal proof of service.
+                    Send the signed complaint by email to the PNO desk. Also send a copy by Speed Post with tracking for legal proof.
                   </p>
                 </div>
 
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm space-y-1.5">
                   <div className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <span className="w-5 h-5 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-black">5</span>
-                    <span>Enforce the 48-Hour Interim Recovery Freeze</span>
+                    <span>Enforce the 48-Hour Recovery Freeze</span>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed pl-7">
-                    Upon receipt, the PNO desk logs the grievance into the central core banking system. Compliance protocols mandate that the PNO issue an immediate interim stay instruction to retail collections, effectively halting third-party agent contact during the 30-day investigation window.
+                    Once received, the PNO office logs the issue. Bank policy requires an immediate freeze on recovery agent calls while they investigate.
                   </p>
                 </div>
               </div>
@@ -812,31 +812,31 @@ export default function PNOEscalationHarassmentPage() {
             <section id="rbi-internal-ombudsman-mandatory-review" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. The RBI Internal Ombudsman (IO) Mandatory Review</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                A pivotal safeguard within the Indian banking framework is the <strong>RBI Internal Ombudsman (IO) Mechanism</strong>. Operating independently of commercial lending desks, the Internal Ombudsman is an external judicial or senior banking appointee tasked with ensuring impartial customer dispute resolution. Under RBI regulations, regulated banks and NBFCs with over ten branches are strictly mandated to maintain an active Internal Ombudsman desk.
+                A key protection in Indian banking is the <strong>RBI Internal Ombudsman (IO)</strong>. The IO is an independent authority who checks customer disputes impartially. All large banks and NBFCs must have an active Internal Ombudsman desk.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                The critical power of this mechanism lies in its strict negative check rule: <em>A bank’s Principal Nodal Officer cannot reject any customer complaint, wholly or in part, without the explicit review and concurrence of the Internal Ombudsman.</em> If the PNO concludes that the bank was not at fault despite substantiated harassment evidence, the entire file must be referred to the IO before any adverse response can be communicated to the borrower.
+                The most important rule is the negative check mandate: <em>The bank’s Principal Nodal Officer cannot reject any customer complaint without the review and approval of the Internal Ombudsman.</em> If the PNO wants to reject your claim, the IO must examine the full file first.
               </p>
 
               <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200 space-y-3 my-6">
                 <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                   <Check className="w-4 h-4 text-emerald-600" />
-                  <span>The Internal Ombudsman Institutional Review Process</span>
+                  <span>How the Internal Ombudsman Protects You</span>
                 </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <strong className="text-slate-900 block mb-1">Independent Examination of Telephony Logs</strong>
-                    <span>The IO independently reviews raw server call recordings, verifying whether collection telecallers violated the 8 AM–7 PM window or used unapproved scripts.</span>
+                    <strong className="text-slate-900 block mb-1">Independent Call Audit</strong>
+                    <span>The IO checks call server records to verify whether agents broke calling hour rules or used abusive words.</span>
                   </div>
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
-                    <strong className="text-slate-900 block mb-1">Binding Restitution Directives</strong>
-                    <span>If the IO finds regulatory non-compliance, the Ombudsman can overrule the PNO, mandate formal apologies, award customer compensation, and direct loan settlement.</span>
+                    <strong className="text-slate-900 block mb-1">Binding Orders</strong>
+                    <span>If rules were broken, the IO can order the bank to issue an apology, pay compensation, and approve a settlement.</span>
                   </div>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Furthermore, the Internal Ombudsman submits quarterly regulatory audit reports directly to the Reserve Bank of India. High rates of rejected or mishandled harassment complaints trigger supervisory audits and potential monetary penalties under Section 47A of the Banking Regulation Act, giving senior management immense motivation to resolve substantiated grievances amicably.
+                The Internal Ombudsman sends regular reports straight to the RBI. This gives banks strong motivation to resolve valid customer grievances quickly and fairly.
               </p>
             </section>
 
@@ -844,53 +844,53 @@ export default function PNOEscalationHarassmentPage() {
             <section id="converting-pno-grievance-to-ots" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Strategic Debt Resolution</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                While eliminating collection harassment and securing peace of mind are immediate priorities, an escalated PNO grievance serves as exceptional leverage to achieve complete, permanent financial freedom. When an unrepresented borrower requests a loan settlement at a branch, banks routinely insist on full principal recovery and demand payment of compounded penal interest.
+                Stopping harassment gives you relief, but solving the debt brings permanent peace. When you talk to branch staff alone, they often demand 100% payment plus heavy penalties.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                However, when the matter is actively under investigation by the Principal Nodal Officer and Internal Ombudsman with documented regulatory infractions on record, the bank’s priority shifts from aggressive debt recovery to risk mitigation and regulatory insulation. Experienced banking advocates utilize this window to execute a structured settlement strategy:
+                However, when your case is under review by the Principal Nodal Officer, the bank wants to avoid legal trouble. Experienced advocates use this moment to negotiate an affordable settlement:
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
                   <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <BadgePercent className="w-4 h-4 text-emerald-600" />
-                    <span>100% Waiver of Penal Interest &amp; Overdue Charges</span>
+                    <span>100% Waiver on Penal Fees</span>
                   </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    All accumulated penal interest, compounding late fees, legal notice charges, and administrative costs are fully waived as part of the formal grievance resolution.
+                    The bank waives all late charges, extra interest, and legal notice costs during settlement.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <DollarSign className="w-4 h-4 text-blue-600" />
-                    <span>50% to 70% Principal Haircut on Outstanding Debt</span>
+                    <span>50% to 70% Principal Haircut</span>
                   </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    The bank’s central compromise settlement committee sanctions a substantial reduction in the base principal balance, reflecting the borrower’s genuine insolvency and mitigating litigation exposure.
+                    The settlement committee agrees to a major discount on the principal loan amount.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <FileCheck className="w-4 h-4 text-indigo-600" />
-                    <span>Issuance of Zero-Balance No Dues Certificate (NDC)</span>
+                    <span>Official No Dues Certificate (NDC)</span>
                   </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    Upon receipt of the agreed compromise payment, the lender issues a legally binding No Dues Certificate confirming total discharge of all liabilities and releasing any associated guarantees.
+                    After payment, the bank issues a legal closure letter showing ₹0 balance.
                   </p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
                   <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Scale className="w-4 h-4 text-amber-600" />
-                    <span>Complete Withdrawal of Pending Legal Actions</span>
+                    <span>Withdrawal of Legal Cases</span>
                   </h4>
                   <p className="text-xs text-slate-600 leading-relaxed">
-                    The settlement terms mandate that the bank immediately withdraw all pending Section 138 NI Act cheque bounce complaints, Section 25 Payment and Settlement Systems petitions, and civil recovery suits.
+                    The bank closes all cheque bounce notices and court matters as part of the agreement.
                   </p>
                 </div>
               </div>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                By tying the withdrawal of regulatory harassment complaints to the simultaneous execution of a formal One-Time Settlement, the borrower transforms an adversarial collection encounter into an advantageous, permanent debt exit.
+                This approach turns an unpleasant collection situation into a clean and final exit from debt.
               </p>
             </section>
 
@@ -898,7 +898,7 @@ export default function PNOEscalationHarassmentPage() {
             <section id="dispute-escalation-comparative-matrix" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Bank Grievance Escalation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Borrowers facing aggressive debt collection often consider multiple avenues of recourse. The comparative matrix below outlines the institutional hierarchy, resolution speed, authority to freeze collection, and settlement leverage across various grievance and judicial channels in India:
+                Here is a simple comparison of different ways to handle debt harassment and settle loans in India:
               </p>
 
               <div className="overflow-x-auto my-6">
@@ -957,10 +957,10 @@ export default function PNOEscalationHarassmentPage() {
             <section id="settleloans-executive-representation" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Executive Legal Representation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                Navigating the complexities of RBI regulatory directives, compiling forensic digital evidence dossiers, and interfacing with senior Principal Nodal Officers requires seasoned legal acumen and institutional negotiation prowess. At <strong>SettleLoans</strong>, our nationwide team of senior banking litigation advocates, former regulatory compliance officers, and seasoned financial negotiators acts as an impenetrable shield for distressed borrowers.
+                Handling bank notices and dealing with recovery agents can feel overwhelming. At <strong>SettleLoans</strong>, our team of banking advocates and legal experts stands beside you. We handle all communications directly with senior bank officers.
               </p>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                From drafting rigorous Level-3 statutory representations and enforcing immediate collection freezes to invoking the mandatory Internal Ombudsman review and negotiating 50%–70% One-Time Settlements with clean No Dues Certificates, we ensure our clients regain peace of mind, safeguard their personal dignity, and achieve sustainable financial freedom.
+                We draft formal representations to the Principal Nodal Officer, stop aggressive collection calls, and negotiate realistic 50% to 70% settlements with complete No Dues Certificates. We help you regain your peace of mind and live debt-free.
               </p>
 
               <CompanySection />
