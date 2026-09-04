@@ -599,7 +599,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-sm flex-shrink-0">1</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">Mandatory 60-Day Loan Default &amp; Recall Notice</h4>
+                    <h3 className="font-bold text-slate-900">Mandatory 60-Day Loan Default &amp; Recall Notice</h3>
                     <p className="text-slate-600 leading-relaxed">
                       Lenders must issue a written notice granting the borrower a minimum cure period (typically 60 days) to clear overdue installments. The notice must specify the exact overdue amount, separating base principal from penal interest, late fees, and unapproved administrative charges.
                     </p>
@@ -715,7 +715,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0">A</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">Step 1: Dial 112 Immediately &amp; Report Vehicle Snatching</h4>
+                    <h3 className="font-bold text-slate-900">Step 1: Dial 112 Immediately &amp; Report Vehicle Snatching</h3>
                     <p className="text-slate-600 leading-relaxed">
                       Remain inside the locked vehicle if possible. Call Police Emergency (112) immediately and report that unidentified individuals are intercepting your vehicle, threatening physical harm, and attempting to snatch your keys on a public road. An emergency police dispatch creates a contemporaneous electronic record of the illegal ambush.
                     </p>
@@ -804,10 +804,10 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
               </p>
 
               <div className="p-5 rounded-2xl border border-blue-200 bg-blue-50/70 space-y-3 my-4">
-                <h4 className="font-bold text-blue-950 text-sm flex items-center gap-2">
+                <h3 className="font-bold text-blue-950 text-sm flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory Clauses in a Vehicle Loan Shortfall Settlement Letter</span>
-                </h4>
+                </h3>
                 <ul className="space-y-2 text-xs sm:text-sm text-blue-900">
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -1100,7 +1100,7 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Legal Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Vehicle Snatched on Road or Facing Shortfall Claims?</h4>
+              <div className="font-bold text-base text-white mb-2">Vehicle Snatched on Road or Facing Shortfall Claims?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not surrender to illegal intimidation. Engage experienced banking defense advocates to retrieve your seized vehicle with police assistance and negotiate a complete ₹0 residual debt settlement.
               </p>
@@ -1114,9 +1114,9 @@ export default function RecoveryAgentsSnatchingBikeOnRoadPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

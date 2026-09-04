@@ -339,7 +339,7 @@ export default function RecoveryAgentsCallingFamilyPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h4 className="font-bold text-[#2E2E2E] mb-3 text-xl">The Pressure Point</h4>
+                  <h3 className="font-bold text-[#2E2E2E] mb-3 text-xl">The Pressure Point</h3>
                   <p className="text-sm text-gray-500 leading-relaxed">
                     By informing your parents or siblings, the agent creates a situation where you are forced to answer to your loved ones. This external pressure is often more intense than anything the bank could do legally.
                   </p>
@@ -364,7 +364,7 @@ export default function RecoveryAgentsCallingFamilyPage() {
                 In recent years, the Indian financial landscape has been flooded with hundreds of 'Instant Loan' apps. While some are legitimate, many are unregulated entities operating without an RBI license. These apps are the primary culprits behind extreme family harassment.
               </p>
               <div className="bg-red-50 p-8 rounded-3xl border border-red-200 mb-8">
-                <h4 className="text-xl font-bold text-red-900 mb-4">How to Spot a Predatory App</h4>
+                <h3 className="text-xl font-bold text-red-900 mb-4">How to Spot a Predatory App</h3>
                 <ul className="space-y-3 text-red-800">
                   <li className="flex gap-2"><strong>• 7-Day Loans:</strong> Legitimate personal loans rarely have a tenure of just 7 or 15 days.</li>
                   <li className="flex gap-2"><strong>• Upfront Charges:</strong> They deduct 30% to 40% of the loan amount as 'processing fees' upfront.</li>
@@ -385,7 +385,7 @@ export default function RecoveryAgentsCallingFamilyPage() {
                 Perhaps the most damaging tactic used by recovery agents is calling the borrower's workplace or contacting their colleagues. This is a direct attempt to jeopardize your employment and cause extreme social embarrassment. The logic is simple but cruel: if you feel your job is at risk, you will do anything to pay the debt.
               </p>
               <div className="bg-orange-50 border-l-4 border-orange-500 p-6 mb-8 rounded-r-xl">
-                <h4 className="font-bold text-orange-900 mb-2">The 'Reference' Fallacy</h4>
+                <h3 className="font-bold text-orange-900 mb-2">The 'Reference' Fallacy</h3>
                 <p className="text-orange-800 text-sm italic">
                   Agents often lie and say that a colleague or manager was listed as a 'reference' on your loan application. Even if they were (which is rare for unsecured loans), being a reference does not make them a guarantor. The bank has no legal right to discuss your personal financial status with them.
                 </p>
@@ -450,7 +450,7 @@ export default function RecoveryAgentsCallingFamilyPage() {
               </p>
               <div className="space-y-6">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm hover:border-[#1F5EFF]/50 transition-colors">
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">1. Contact List Harvesting</h4>
+                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">1. Contact List Harvesting</h3>
                   <p className="text-gray-600 leading-relaxed">
                     Many fintech and digital lending apps require 'permissions' to access your contacts when you install the app. Once you grant this, they upload your entire phonebook to their servers. When you default, their 'bots' immediately start calling every number in your list, starting with those labeled 'Mom', 'Dad', or 'Home'.
                   </p>
@@ -507,7 +507,7 @@ export default function RecoveryAgentsCallingFamilyPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8 text-lg">
                 <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100">
-                  <h4 className="font-black text-blue-900 mb-3">Protection for Women</h4>
+                  <h3 className="font-black text-blue-900 mb-3">Protection for Women</h3>
                   <p className="text-blue-800/80 leading-relaxed text-sm">
                     Female family members cannot be harassed or threatened. If a male agent visits the house and a woman is alone, she has the right to refuse entry. Any use of indecent or suggestive language falls under Section 509 of the IPC (Insulting the Modesty of a Woman).
                   </p>
@@ -575,7 +575,7 @@ export default function RecoveryAgentsCallingFamilyPage() {
                 Defamation is the act of making a false statement about someone that causes harm to their reputation. In the context of recovery, telling your neighbors or relatives that you are a 'fraud' or a 'criminal' because of an unpaid loan is a classic case of Defamation.
               </p>
               <div className="bg-white p-8 rounded-2xl border-2 border-gray-100 shadow-sm mb-8">
-                <h4 className="text-xl font-bold mb-4">Establishing a Case for Defamation</h4>
+                <h3 className="text-xl font-bold mb-4">Establishing a Case for Defamation</h3>
                 <p className="mb-4 text-gray-600">For a statement to be defamatory in India, three conditions must be met:</p>
                 <ol className="list-decimal pl-6 space-y-3 text-gray-700">
                   <li><strong>The Statement must be Defamatory:</strong> It must lower your estimation in the eyes of right-thinking members of society.</li>
@@ -596,7 +596,7 @@ export default function RecoveryAgentsCallingFamilyPage() {
               <div className="space-y-12">
                 <div className="relative pl-12">
                   <div className="absolute left-0 top-0 w-8 h-8 rounded-full bg-[#2E2E2E] text-white flex items-center justify-center font-bold">1</div>
-                  <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">Record and Document Everything</h4>
+                  <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">Record and Document Everything</h3>
                   <p className="text-gray-600 mb-4">
                     Install a call recorder and take screenshots of every WhatsApp message. If the agent calls your mother, ask her to record the call too. Note down the time, the phone number, and the agent's name. This evidence is your most powerful tool in an RBI or police complaint.
                   </p>
@@ -727,11 +727,11 @@ export default function RecoveryAgentsCallingFamilyPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-4">
                 <div className="p-5 bg-white border border-gray-100 rounded-xl">
-                  <h5 className="font-black text-[#1F5EFF] mb-2">DRA (Debt Recovery Agent)</h5>
+                  <h3 className="font-black text-[#1F5EFF] mb-2">DRA (Debt Recovery Agent)</h3>
                   <p className="text-xs text-gray-500">A person trained to recover debt. Legally required to pass an IIBF certification and follow RBI rules.</p>
                 </div>
                 <div className="p-5 bg-white border border-gray-100 rounded-xl">
-                  <h5 className="font-black text-[#1F5EFF] mb-2">Fair Practice Code</h5>
+                  <h4 className="font-black text-[#1F5EFF] mb-2">Fair Practice Code</h4>
                   <p className="text-xs text-gray-500">The set of guidelines issued by RBI that dictates how a lender should interact with customers.</p>
                 </div>
                 <div className="p-5 bg-white border border-gray-100 rounded-xl">
@@ -816,7 +816,7 @@ export default function RecoveryAgentsCallingFamilyPage() {
                         {testimonial.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E] text-lg">{testimonial.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E] text-lg">{testimonial.name}</h3>
                         <p className="text-sm text-gray-400">{testimonial.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400">★★★★★</div>
@@ -932,7 +932,7 @@ export default function RecoveryAgentsCallingFamilyPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Protect Your Family</h3>
+                  <div className="text-lg font-black text-white">Protect Your Family</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -947,7 +947,7 @@ export default function RecoveryAgentsCallingFamilyPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Resources</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Resources</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/rbi-rules-for-recovery-agents" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
@@ -984,7 +984,7 @@ export default function RecoveryAgentsCallingFamilyPage() {
 
               {/* Bottom CTA Container */}
               <div className="bg-[#1F5EFF]/5 p-6 rounded-2xl border border-[#1F5EFF]/20">
-                <h4 className="text-[#1F5EFF] font-black text-sm mb-3">Professional Shield</h4>
+                <div className="text-[#1F5EFF] font-black text-sm mb-3">Professional Shield</div>
                 <p className="text-xs text-gray-500 leading-relaxed mb-4 font-medium">We act as your representative, stopping all direct contact between agents and your family members permanently.</p>
                 <Link href="/contact" className="text-xs font-black text-[#1F5EFF] hover:underline">Start Your Protection →</Link>
               </div>

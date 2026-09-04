@@ -600,7 +600,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
               
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 my-4">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">RBI Fair Practices Code (FPC)</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">RBI Fair Practices Code (FPC)</h3>
                   <p className="text-xs text-slate-600">RBI Master Directions strictly prohibit lenders and their outsourced agents from contacting debtors or guarantors before 8:00 AM or after 7:00 PM, calling workplace colleagues, using profane language, or making misleading legal threats.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
@@ -691,7 +691,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm flex items-start gap-3">
                   <ShieldCheck className="w-5 h-5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Formal Representation &amp; Cease-and-Desist Service</h4>
+                    <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Formal Representation &amp; Cease-and-Desist Service</h3>
                     <p className="text-xs text-slate-600 mt-1">Advocates serve formal legal notices and Vakalatnama on the bank zonal collection head and Principal Nodal Officer, mandating that all future communication must occur solely through legal counsel. Third-party calling to family members ceases immediately.</p>
                   </div>
                 </div>
@@ -730,7 +730,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 133: Discharge of Surety by Variance in Terms of Contract</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 133: Discharge of Surety by Variance in Terms of Contract</h3>
                   <p className="text-xs text-slate-600">Any variance made without the surety consent in the terms of the contract between the principal debtor and the creditor discharges the surety as to transactions subsequent to the variance (e.g., unilateral credit limit increases, restructuring terms, or revised tenure).</p>
                 </div>
                 <div className="p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
@@ -1043,11 +1043,11 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm">
+                  <div className="font-bold text-slate-900 text-sm">
                     <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
               </div>
@@ -1072,7 +1072,7 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Family Legal Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Recovery Agents Threatening Family?</h4>
+              <div className="font-bold text-base text-white mb-2">Recovery Agents Threatening Family?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let collection agencies intimidate your aging parents or spouse. Retain our senior advocates to issue immediate cease-and-desist notices and negotiate a full dual-party OTS.
               </p>
@@ -1086,9 +1086,9 @@ export default function GuarantorLiabilityPersonalLoanSettlementPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

@@ -548,9 +548,9 @@ Yours faithfully,
                       <span className="w-8 h-8 rounded-xl bg-blue-100 text-[#1F5EFF] font-black text-sm flex items-center justify-center">
                         01
                       </span>
-                      <h4 className="text-lg font-bold text-slate-900">
+                      <h3 className="text-lg font-bold text-slate-900">
                         Days 1–30: SMA-0 (Special Mention Account 0) &amp; Initial Grace
-                      </h4>
+                      </h3>
                     </div>
                     <span className="text-xs font-semibold px-3 py-1 rounded-full bg-blue-50 text-blue-700 border border-blue-200">
                       Soft Collection
@@ -785,9 +785,9 @@ Yours faithfully,
                   <div className="flex items-start gap-3">
                     <XCircle className="w-5 h-5 text-rose-600 flex-shrink-0 mt-0.5" />
                     <div>
-                      <h4 className="font-bold text-slate-900 text-sm md:text-base">
+                      <h3 className="font-bold text-slate-900 text-sm md:text-base">
                         Lie #1: &quot;Police officers are arriving with an arrest warrant today.&quot;
-                      </h4>
+                      </h3>
                       <p className="text-xs md:text-sm text-slate-600 mt-1 leading-relaxed">
                         <strong>The Legal Fact:</strong> Police have zero jurisdiction over civil loans. Arrest warrants can only be issued by a Judicial Magistrate after months of ignored judicial summonses. Recovery agents have zero authority to summon the police.
                       </p>
@@ -892,10 +892,10 @@ Yours faithfully,
               </div>
 
               <div className="bg-blue-50 border border-blue-200 rounded-2xl p-5 my-6 text-xs sm:text-sm text-slate-700">
-                <h4 className="font-bold text-slate-900 mb-2 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 mb-2 flex items-center gap-2">
                   <Sparkles className="w-4 h-4 text-[#1F5EFF]" />
                   <span>How to Dispatch This Cease &amp; Desist Notice:</span>
-                </h4>
+                </h3>
                 <ol className="list-decimal list-inside space-y-1.5 text-slate-600">
                   <li>Fill in your loan account number, bank details, and specific agent names/dates of calls.</li>
                   <li>Email the notice directly to the bank&apos;s <strong>Principal Nodal Officer (PNO)</strong> and Customer Care Head.</li>
@@ -919,9 +919,9 @@ Yours faithfully,
                   <div className="w-8 h-8 rounded-xl bg-blue-50 text-[#1F5EFF] flex items-center justify-center font-bold mb-3">
                     <Gavel className="w-4 h-4" />
                   </div>
-                  <h4 className="font-bold text-slate-900 text-base mb-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-2">
                     1. Civil Summary Suit (Order 37 CPC)
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Lenders can file a summary suit in a civil court for debt recovery. The borrower is served formal summons and has 10 days to enter appearance and seek &quot;Leave to Defend&quot; highlighting financial hardship, disputing penal calculations, or requesting installment schedules.
                   </p>
@@ -1053,10 +1053,10 @@ Yours faithfully,
 
             {/* Regulatory Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 shadow-sm">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Authoritative Legal &amp; Regulatory Sources</span>
-              </h4>
+              </h3>
               <ul className="space-y-2.5 text-xs text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1195,14 +1195,14 @@ Yours faithfully,
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Chief Debt Strategist &amp; Consumer Rights Specialist
                   </p>
@@ -1235,9 +1235,9 @@ Yours faithfully,
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Borrower Protection</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Facing Police Threats or Harassment from Recovery Agents?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Stop living in fear of arrest. Connect with an empaneled SettleLoans advocate to issue an urgent Cease &amp; Desist notice, protect your dignity, and negotiate a clean debt settlement.
               </p>
@@ -1251,10 +1251,10 @@ Yours faithfully,
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Distressed Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

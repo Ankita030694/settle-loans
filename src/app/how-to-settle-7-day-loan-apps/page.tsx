@@ -152,7 +152,7 @@ export default function SevenDayLoanSettlementPage() {
               </p>
               <div className="grid md:grid-cols-3 gap-4 mb-8">
                 <div className="bg-gray-50 p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">The Hook</h4>
+                  <h3 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">The Hook</h3>
                   <p className="text-sm">Low-barrier entry. No CIBIL check. Approval in 60 seconds. Targeted at youth and small business owners.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl border border-[#DEDEDE]">
@@ -178,7 +178,7 @@ export default function SevenDayLoanSettlementPage() {
                 The trap is not just about the money; it is about "Psychological locking." When you apply for a loan of ₹5,000, the system might only disburse ₹3,200 into your account. The moment the money hits your account, the clock starts. They calculate the 7 days from the moment of disbursement, often including the weekend to make it even harder to manage.
               </p>
               <div className="p-8 bg-red-50 border-l-4 border-red-500 rounded-r-xl mb-8">
-                <h4 className="font-black text-red-900 mb-4">The Multi-App Escalation</h4>
+                <h3 className="font-black text-red-900 mb-4">The Multi-App Escalation</h3>
                 <p className="text-red-800">
                   On the 6th day, you receive a friendly reminder. On the 7th day, the tone changes. If you cannot pay, the agent will offer a "Solution": take a loan from App B to pay App A. What you don't realize is that App A and App B are owned by the same group. You are now paying 30% processing fees twice, and your debt has doubled in one hour. This is how a ₹3,000 loan becomes a ₹2 Lakh debt in 30 days. This is known as "Churning" in the scam industry.
                 </p>
@@ -215,14 +215,14 @@ export default function SevenDayLoanSettlementPage() {
                 <li className="flex gap-4">
                   <div className="w-8 h-8 rounded-full bg-red-100 text-red-600 flex items-center justify-center font-black shrink-0 mt-1">1</div>
                   <div>
-                    <h5 className="font-bold">Institutional Fear:</h5>
+                    <h3 className="font-bold">Institutional Fear:</h3>
                     <p className="text-sm text-gray-600">They send fake legal notices with the RBI and Supreme Court logos. They threaten you with 10 years in jail and travel bans. They might even send fake "Notice of Asset Seizure" with photos of police lockers. In reality, a debt default is a civil matter, and these apps have no legal standing to sue you or cause an arrest.</p>
                   </div>
                 </li>
                 <li className="flex gap-4">
                   <div className="w-8 h-8 rounded-full bg-red-100 text-red-600 flex items-center justify-center font-black shrink-0 mt-1">2</div>
                   <div>
-                    <h5 className="font-bold">Social Shame:</h5>
+                    <h4 className="font-bold">Social Shame:</h4>
                     <p className="text-sm text-gray-600">The fear of being exposed as a "borrower" or "defaulter" to one's family is the strongest weapon. Agents know that in many Indian families, financial struggle is a taboo subject. They exploit this silence to keep you from asking for advice or legal help. They want you to feel isolated.</p>
                   </div>
                 </li>
@@ -330,7 +330,7 @@ export default function SevenDayLoanSettlementPage() {
               <div className="bg-gray-50 border border-[#DEDEDE] p-6 rounded-2xl mb-8">
                 <div className="grid md:grid-cols-2 gap-8">
                    <div>
-                      <h4 className="font-black text-green-600 mb-4 uppercase text-xs tracking-widest">Legit (NBFC/Bank)</h4>
+                      <h3 className="font-black text-green-600 mb-4 uppercase text-xs tracking-widest">Legit (NBFC/Bank)</h3>
                       <ul className="space-y-2 text-sm">
                          <li className="flex gap-2"><span>✓</span> <span>Minimum Tenure: 62 Days</span></li>
                          <li className="flex gap-2"><span>✓</span> <span>CIBIL Score used for approval</span></li>
@@ -359,7 +359,7 @@ export default function SevenDayLoanSettlementPage() {
                 If the calls are overwhelming (some reported receiving 500 calls a day), follow this "Radio Silence" protocol. Remember, the agents have no patience; they want quick money. If you become "Difficult" to reach, they move to an easier target.
               </p>
               <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-lg">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Radio Silence Protocol</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Radio Silence Protocol</h3>
                 <ol className="space-y-4 text-gray-700">
                   <li className="flex gap-4">
                     <span className="font-black text-[#1F5EFF]">A.</span>
@@ -399,7 +399,7 @@ export default function SevenDayLoanSettlementPage() {
                  If you are a relative who has received a harassing call about someone else's loan, your reaction is critical. The scammers want you to get angry with the borrower.
                </p>
                <div className="p-6 bg-emerald-50 border border-emerald-200 rounded-xl mb-8">
-                  <h5 className="font-bold text-emerald-800 mb-2">What you should do:</h5>
+                  <h3 className="font-bold text-emerald-800 mb-2">What you should do:</h3>
                   <ul className="space-y-4 text-emerald-900 text-sm">
                      <li>• **Don't Blame Them:** The borrower is already under immense stress. Blame only adds to the suicide risk.</li>
                      <li>• **Record the Call:** Take a recording of the agent's abuse. This is vital evidence for the FIR.</li>
@@ -429,7 +429,7 @@ export default function SevenDayLoanSettlementPage() {
                  If you have the money and want to close the chapter, **settle only on your terms.** Do not let them dictate the price of your peace.
               </p>
               <div className="p-8 bg-blue-50 border border-blue-200 rounded-2xl mb-8">
-                 <h4 className="font-black mb-4">Golden Rules for Settlement</h4>
+                 <h3 className="font-black mb-4">Golden Rules for Settlement</h3>
                  <ul className="space-y-4">
                     <li>1. **Principal Only:** Never pay the interest or late fees. Offer only the net amount you received in your bank account minus any processing fees they took upfront.</li>
                     <li>2. **One-Time ONLY:** Never pay in installments. If they ask for "Part payment" of ₹500 today, it's a trick. Only pay the final agreed amount once you have a screenshot of the agreement in their chat (even if informal).</li>
@@ -451,14 +451,14 @@ export default function SevenDayLoanSettlementPage() {
                     <div className="flex gap-4">
                         <div className="w-10 h-10 border border-black flex items-center justify-center font-black rounded-lg shrink-0">1</div>
                         <div>
-                            <h5 className="font-bold">Gather Evidence:</h5>
+                            <h3 className="font-bold">Gather Evidence:</h3>
                             <p className="text-sm">Save every WhatsApp message, every call log, and every bank statement showing money received. Do not delete them out of fear; they are your proof of the money trail.</p>
                         </div>
                     </div>
                     <div className="flex gap-4">
                         <div className="w-10 h-10 border border-black flex items-center justify-center font-black rounded-lg shrink-0">2</div>
                         <div>
-                            <h5 className="font-bold">Web Report:</h5>
+                            <h4 className="font-bold">Web Report:</h4>
                             <p className="text-sm">Go to [www.cybercrime.gov.in](https://www.cybercrime.gov.in) and select 'Report Crime related to Women/Children' if there are morphed photos, otherwise 'Report other Cyber Crime'. Be as detailed as possible.</p>
                         </div>
                     </div>
@@ -472,19 +472,19 @@ export default function SevenDayLoanSettlementPage() {
                </p>
                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
                   <div className="p-4 bg-gray-50 border border-gray-200 rounded-lg">
-                     <h6 className="font-bold text-xs uppercase text-gray-500 mb-1">Maharashtra (Mumbai)</h6>
+                     <h3 className="font-bold text-xs uppercase text-gray-500 mb-1">Maharashtra (Mumbai)</h3>
                      <p className="font-black text-[#1F5EFF]">022-22160080</p>
                   </div>
                   <div className="p-4 bg-gray-50 border border-gray-200 rounded-lg">
-                     <h6 className="font-bold text-xs uppercase text-gray-500 mb-1">Delhi NCR</h6>
+                     <h4 className="font-bold text-xs uppercase text-gray-500 mb-1">Delhi NCR</h4>
                      <p className="font-black text-[#1F5EFF]">011-20892633</p>
                   </div>
                   <div className="p-4 bg-gray-50 border border-gray-200 rounded-lg">
-                     <h6 className="font-bold text-xs uppercase text-gray-500 mb-1">Karnataka (Bangalore)</h6>
+                     <h5 className="font-bold text-xs uppercase text-gray-500 mb-1">Karnataka (Bangalore)</h5>
                      <p className="font-black text-[#1F5EFF]">080-22370381</p>
                   </div>
                   <div className="p-4 bg-gray-50 border border-gray-200 rounded-lg">
-                     <h6 className="font-bold text-xs uppercase text-gray-500 mb-1">Telangana (Hyderabad)</h6>
+                     <h5 className="font-bold text-xs uppercase text-gray-500 mb-1">Telangana (Hyderabad)</h5>
                      <p className="font-black text-[#1F5EFF]">040-23148100</p>
                   </div>
                </div>
@@ -514,11 +514,11 @@ export default function SevenDayLoanSettlementPage() {
               <h2 className="text-3xl font-black mb-6">Case Studies: Victories over the Apps</h2>
               <div className="space-y-8">
                  <div className="bg-white p-6 rounded-xl shadow-sm border border-[#DEDEDE]">
-                    <h5 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">Case #8821: The "Morphed Photo" Defense</h5>
+                    <h3 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">Case #8821: The "Morphed Photo" Defense</h3>
                     <p className="text-sm mb-4">"A school teacher in Chennai was threatened with morphed photos. She worked with the SettleLoans legal team. We filed a cyber complaint and sent the PDF receipt of the complaint to the recovery agent. The moment they saw the 'Official Govt Receipt,' they realized she had professional backing and they disappeared. They only target the defenseless."</p>
                  </div>
                  <div className="bg-white p-6 rounded-xl shadow-sm border border-[#DEDEDE]">
-                    <h5 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">Case #9102: The "Contact List" Recovery</h5>
+                    <h4 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">Case #9102: The "Contact List" Recovery</h4>
                     <p className="text-sm mb-4">"A young professional in Mumbai had 20 apps chasing him for over ₹5 Lakhs. We implemented the 'Radio Silence' protocol and informed his company HR proactively. The HR department actually supported him and blocked the office landline from unknown incoming calls. Within 14 days, the syndicate moved on. No money was paid to the scammers."</p>
                  </div>
               </div>
@@ -573,7 +573,7 @@ export default function SevenDayLoanSettlementPage() {
           <aside className="hidden lg:block w-1/5 min-w-[240px] relative">
             <div className="sticky top-24 space-y-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
-                <div className="bg-[#1F5EFF] p-4 text-center"><h3 className="text-lg font-black text-white">Need a Legal Shield?</h3></div>
+                <div className="bg-[#1F5EFF] p-4 text-center"><div className="text-lg font-black text-white">Need a Legal Shield?</div></div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">Stop the calls, the threats, and the shame. Get professional help now.</p>
                   <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-3 px-4 rounded-[10px] hover:scale-105 transition-all shadow-md group-hover:shadow-lg">Begin Your Rescue</Link>
@@ -581,7 +581,7 @@ export default function SevenDayLoanSettlementPage() {
                 </div>
               </div>
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Information</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Information</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li><Link href="/app-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>App Loan Settlement</Link></li>
                   <li><Link href="/how-to-identify-fake-recovery-agents" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>Identify Fake Agents</Link></li>

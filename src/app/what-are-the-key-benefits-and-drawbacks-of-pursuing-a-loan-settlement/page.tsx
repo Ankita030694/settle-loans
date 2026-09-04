@@ -487,7 +487,7 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8 space-y-6">
                 <div>
-                  <h4 className="font-black text-[#1F5EFF] uppercase text-sm mb-2">1. Timing is Everything</h4>
+                  <h3 className="font-black text-[#1F5EFF] uppercase text-sm mb-2">1. Timing is Everything</h3>
                   <p className="text-sm">Banks are most likely to agree to deep discounts at the end of the quarter (March, June, September, December). This is when they are under pressure to reduce their NPA numbers.</p>
                 </div>
                 <div>
@@ -544,7 +544,7 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
                   <div key={i} className="flex gap-4 p-6 bg-white border border-[#DEDEDE] rounded-xl hover:shadow-md transition-shadow">
                     <span className="text-4xl font-black text-[#DEDEDE]">{i + 1}</span>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E] mb-2">{item.title}</h4>
+                      <h3 className="font-bold text-[#2E2E2E] mb-2">{item.title}</h3>
                       <p className="text-sm text-gray-600">{item.desc}</p>
                     </div>
                   </div>
@@ -624,7 +624,7 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">End the Debt Cycle</h3>
+                  <div className="text-lg font-black text-white">End the Debt Cycle</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -639,7 +639,7 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Essential Reading</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Essential Reading</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement-process-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

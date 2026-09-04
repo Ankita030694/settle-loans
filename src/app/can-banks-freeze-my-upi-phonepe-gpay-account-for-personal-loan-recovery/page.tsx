@@ -330,7 +330,7 @@ export default function CanBanksFreezeUPIAccountPage() {
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">What You Need to Know About UPI Access</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">What You Need to Know About UPI Access</h3>
                 <ul className="space-y-4">
                   <li className="flex items-start">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0 mr-3"></div>
@@ -398,7 +398,7 @@ export default function CanBanksFreezeUPIAccountPage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Obtain the Order</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. Obtain the Order</h3>
                   <p className="text-gray-700 text-base">Request your bank manager to provide the official DRT or court order that mandated the freeze. They are legally required to furnish this document.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -521,7 +521,7 @@ export default function CanBanksFreezeUPIAccountPage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-700"></div>
                 <div className="relative z-10">
-                  <h4 className="text-2xl font-black mb-4">Account Blocked?</h4>
+                  <div className="text-2xl font-black mb-4">Account Blocked?</div>
                   <p className="text-gray-300 text-sm mb-6">
                     If your bank has illegally frozen your account without a court order, our legal team can help you challenge it immediately.
                   </p>
@@ -535,7 +535,7 @@ export default function CanBanksFreezeUPIAccountPage() {
               </div>
 
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Legal Resources</h4>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Legal Resources</div>
                 <ul className="space-y-4">
                   {[
                     "Defending Against DRT Notices",

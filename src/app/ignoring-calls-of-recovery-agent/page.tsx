@@ -414,7 +414,7 @@ export default function IgnoringCallsPage() {
             </p>
             <div className="grid md:grid-cols-2 gap-6 mb-8">
                <div className="bg-orange-50 p-6 rounded-xl border border-orange-100">
-                 <h4 className="font-bold text-orange-900 mb-2 underline decoration-orange-300">Phase 1: SMA (Special Mention Account)</h4>
+                 <h3 className="font-bold text-orange-900 mb-2 underline decoration-orange-300">Phase 1: SMA (Special Mention Account)</h3>
                  <p className="text-sm text-orange-800 leading-relaxed">
                    Before ninety days, you are in the SMA 0, SMA 1, or SMA 2 category. During this phase, you are still a "Standard Asset." The bank's goal is to keep you as a customer. You have the maximum leverage to negotiate for a moratorium or a restructuring of your loan terms.
                  </p>
@@ -449,7 +449,7 @@ export default function IgnoringCallsPage() {
                       <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636"></path></svg>
                     </div>
                     <div>
-                      <h4 className="font-bold text-xl text-[#2E2E2E] mb-1">{item.title}</h4>
+                      <h3 className="font-bold text-xl text-[#2E2E2E] mb-1">{item.title}</h3>
                       <p className="text-gray-600 leading-relaxed">{item.desc}</p>
                     </div>
                  </div>
@@ -510,12 +510,12 @@ export default function IgnoringCallsPage() {
              <div className="grid md:grid-cols-3 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm text-center">
                    <div className="w-12 h-12 bg-blue-50 text-[#1F5EFF] rounded-full flex items-center justify-center mx-auto mb-4 font-black">1</div>
-                   <h5 className="font-bold mb-2">Lodge on CMS Portal</h5>
+                   <h3 className="font-bold mb-2">Lodge on CMS Portal</h3>
                    <p className="text-xs text-gray-500">Visit cms.rbi.org.in and fill out the online form with your loan details and evidence of harassment.</p>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm text-center">
                    <div className="w-12 h-12 bg-blue-50 text-[#1F5EFF] rounded-full flex items-center justify-center mx-auto mb-4 font-black">2</div>
-                   <h5 className="font-bold mb-2">Submit Evidence</h5>
+                   <h4 className="font-bold mb-2">Submit Evidence</h4>
                    <p className="text-xs text-gray-500">Upload call recordings, screenshots of messages, and the initial complaint you sent to the bank.</p>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm text-center">
@@ -535,7 +535,7 @@ export default function IgnoringCallsPage() {
                As we move into 2025, the regulatory environment in India has shifted significantly in favor of the borrower's right to privacy and peace. The RBI has issued several internal circulars that mandate technological and procedural changes for all REs (Regulated Entities).
              </p>
              <div className="bg-amber-50 rounded-2xl p-8 border border-amber-100 mb-8">
-                <h4 className="font-bold text-amber-900 mb-4 text-xl">What is New in 2025?</h4>
+                <h3 className="font-bold text-amber-900 mb-4 text-xl">What is New in 2025?</h3>
                 <ul className="space-y-4 text-amber-900/80">
                    <li className="flex gap-3">
                       <span className="text-amber-500 font-bold">▶</span>
@@ -641,7 +641,7 @@ export default function IgnoringCallsPage() {
              </p>
              <div className="grid sm:grid-cols-2 gap-6 mb-8">
                <div className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-lg transition-all border-b-4 border-b-[#1F5EFF]">
-                 <h4 className="font-black text-2xl text-[#2E2E2E] mb-3">Legal Shield</h4>
+                 <h3 className="font-black text-2xl text-[#2E2E2E] mb-3">Legal Shield</h3>
                  <p className="text-sm text-gray-600 leading-relaxed">We issue a formal legal notice to the bank stating that we are your authorized representatives. Legally, the agents are now obligated to talk to us, not you.</p>
                </div>
                <div className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-lg transition-all border-b-4 border-b-[#1F5EFF]">
@@ -668,7 +668,7 @@ export default function IgnoringCallsPage() {
                According to various psychologists working with financial distress in India, "Debt Shame" is the primary reason why people choose to ignore calls. They feel they have failed their families. However, the first step to resolution is breaking the silence at home. Your family needs to know that you are not being "irresponsible," but that you are facing a temporary financial crisis.
              </p>
              <div className="bg-purple-50 p-8 rounded-3xl border border-purple-100 mb-8">
-                <h4 className="font-bold text-purple-900 mb-4 text-xl">Protecting Your Family from Agent Harassment</h4>
+                <h3 className="font-bold text-purple-900 mb-4 text-xl">Protecting Your Family from Agent Harassment</h3>
                 <ul className="space-y-4 text-purple-800">
                    <li><strong>Truth is a Shield:</strong> Inform your spouse and adult family members about the situation. If an agent calls them or visits, they should know exactly what to say: "Please talk to the borrower directly. Do not harass us."</li>
                    <li><strong>Digital Hygiene:</strong> Help your elderly parents block unknown numbers on their phones if they are getting spam calls from recovery agencies. Show them how to report these numbers as "Spam" on Truecaller.</li>
@@ -774,7 +774,7 @@ export default function IgnoringCallsPage() {
                        {review.name.charAt(0)}
                      </div>
                      <div>
-                       <h5 className="font-extrabold text-lg text-[#2E2E2E]">{review.name}</h5>
+                       <h3 className="font-extrabold text-lg text-[#2E2E2E]">{review.name}</h3>
                        <p className="text-xs text-gray-500 font-bold uppercase tracking-widest">{review.loc}</p>
                      </div>
                      <div className="ml-auto text-yellow-400 text-lg">★★★★★</div>
@@ -834,7 +834,7 @@ export default function IgnoringCallsPage() {
             {/* CTA Container */}
              <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                <div className="bg-[#1F5EFF] p-4 text-center">
-                 <h3 className="text-lg font-black text-white">Stop The Harassment</h3>
+                 <div className="text-lg font-black text-white">Stop The Harassment</div>
                </div>
                <div className="p-6 text-center">
                 <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -849,7 +849,7 @@ export default function IgnoringCallsPage() {
 
             {/* Related Pages Container */}
             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-              <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Resources</h3>
+              <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Resources</div>
               <ul className="space-y-4 text-sm font-bold">
                  <li>
                   <Link href="/app-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

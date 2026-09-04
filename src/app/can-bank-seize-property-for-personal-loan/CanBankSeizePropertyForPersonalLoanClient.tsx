@@ -526,10 +526,10 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
               {/* Order 38 Rule 5 Detailed Breakdown */}
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
+                <h3 className="text-base font-bold text-slate-900 mb-2 flex items-center gap-2">
                   <Gavel className="w-5 h-5 text-[#1F5EFF]" />
                   <span>The High Evidentiary Threshold of Order 38 Rule 5 (Attachment Before Judgment)</span>
-                </h4>
+                </h3>
                 <p className="text-sm text-slate-700 leading-relaxed mb-3">
                   During an ongoing civil recovery suit, a bank may attempt to file an interim application under Order 38 Rule 5 of the CPC seeking &quot;Attachment Before Judgment.&quot; However, the Supreme Court of India in <em>Raman Tech. &amp; Process Engg. Co. v. Solanki Traders (2008)</em> laid down that Order 38 Rule 5 is a drastic power and cannot be exercised casually.
                 </p>
@@ -714,7 +714,7 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                     <XCircle className="w-5 h-5" />
                   </div>
                   <div>
-                    <h4 className="text-base font-bold text-slate-900 mb-1">Strict Time Window Mandates</h4>
+                    <h3 className="text-base font-bold text-slate-900 mb-1">Strict Time Window Mandates</h3>
                     <p className="text-sm text-slate-600 leading-relaxed">
                       Recovery agents are strictly prohibited from contacting borrowers before 8:00 AM or after 7:00 PM. Calls outside this regulatory window violate RBI directives.
                     </p>
@@ -851,10 +851,10 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Regulatory Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 shadow-sm">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Authoritative Legal &amp; Regulatory Sources</span>
-              </h4>
+              </h3>
               <ul className="space-y-2.5 text-xs text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -993,14 +993,14 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Chief Debt Strategist &amp; Consumer Rights Specialist
                   </p>
@@ -1033,9 +1033,9 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Asset Protection</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Facing Property Seizure Threats from Recovery Agents?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Stop living in fear. Connect with an empaneled SettleLoans advocate to issue an urgent Cease &amp; Desist notice, protect your home, and negotiate a clean debt settlement.
               </p>
@@ -1049,10 +1049,10 @@ export default function CanBankSeizePropertyForPersonalLoanClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Distressed Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

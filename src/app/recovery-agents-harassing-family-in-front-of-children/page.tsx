@@ -630,10 +630,10 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Criminal Trespass &amp; House-Trespass (Section 441, 442 &amp; 447 IPC / Sections 329 &amp; 331 BNS)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Entering a borrower&apos;s private residential premises, garden, corridor, or gate without permission with intent to intimidate, insult, or annoy any person in possession constitutes criminal trespass. Forcibly refusing to leave upon being asked to vacate aggravates the offense into house-trespass punishable with imprisonment.
                   </p>
@@ -793,7 +793,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Secure the Premises &amp; Dial Emergency Police (100 / 112)</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Secure the Premises &amp; Dial Emergency Police (100 / 112)</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Keep your main door firmly locked and move your children and elderly family members to an interior room. Immediately call 100 or 112 to request emergency police dispatch. Inform the police control room that unidentified individuals are trespassing outside your residence, banging loudly on your door, using abusive language, and causing acute terror to young children and family members.
                   </p>
@@ -1185,7 +1185,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Family Harassment Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Are Agents Shouting at Your Home in Front of Kids?</h4>
+              <div className="font-bold text-base text-white mb-2">Are Agents Shouting at Your Home in Front of Kids?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Protect your children and family immediately. Retain seasoned banking litigation advocates to lodge an emergency police FIR and negotiate a 45%–65% OTS.
               </p>
@@ -1199,9 +1199,9 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

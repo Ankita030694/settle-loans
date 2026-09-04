@@ -269,7 +269,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Transparency and Disclosure Requirements</h4>
+                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Transparency and Disclosure Requirements</h3>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Banks are now strictly required to be more transparent about the settlement process. They cannot simply offer a deal and hide the long-term consequences. Under the new rules, banks must inform the borrower in writing about the consequences of settlement, particularly the impact on their credit report. 
                                     </p>
@@ -307,12 +307,12 @@ export default function BankLoanSettlementGuidelinesPage() {
                                 Successfully navigating a settlement requires a high degree of patience, documentation, and a strategic mindset. It is not a quick fix but a process that can take several months. Here is a granular breakdown of how the process typically unfolds in the Indian banking system in 2024.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6 text-center">The Professional Path to Debt Resolution</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6 text-center">The Professional Path to Debt Resolution</h3>
                                 <ol className="space-y-8 text-base font-medium">
                                     <li className="flex items-start gap-4">
                                         <span className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xl font-bold flex-shrink-0 mt-1 shadow-lg">1</span>
                                         <div>
-                                            <h5 className="text-xl font-bold mb-2">Account Classification (NPA Status)</h5>
+                                            <h4 className="text-xl font-bold mb-2">Account Classification (NPA Status)</h4>
                                             <p className="text-gray-600 mb-2">The process technically begins when you miss three consecutive EMIs (90 days past due). At this point, the account is classified as a Non-Performing Asset (NPA) according to RBI norms. </p>
                                             <p className="text-sm text-gray-500 italic">Pro Tip: Banks rarely entertain settlement requests for "Standard" accounts. They wait for the account to become "Sub-standard" or "Doubtful" before the recovery department takes over from the collections department.</p>
                                         </div>
@@ -364,7 +364,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm hover:shadow-md transition-all relative overflow-hidden group">
                                     <div className="absolute top-0 right-0 p-4 bg-[#1F5EFF] text-white text-xs font-bold uppercase tracking-widest rounded-bl-xl opacity-0 group-hover:opacity-100 transition-opacity">Best Discount</div>
-                                    <h4 className="font-bold text-2xl mb-4 text-[#1F5EFF]">One-Time Settlement (OTS)</h4>
+                                    <h3 className="font-bold text-2xl mb-4 text-[#1F5EFF]">One-Time Settlement (OTS)</h3>
                                     <p className="text-base text-gray-700 leading-relaxed mb-6">
                                         This is the gold standard for debt resolution. You pay the entire agreed-upon amount in a single payment, usually within 15 to 30 days of the sanction letter. 
                                     </p>
@@ -406,7 +406,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                                 When a loan is settled, the lender reports the status as "Settled" to all four credit bureaus in India (CIBIL, Experian, Equifax, and CRIF High Mark). In credit terminology, this is vastly different from "Closed." A "Closed" status means you paid the debt as per the contract. A "Settled" status means the lender had to take a loss to close the account.
                             </p>
                             <div className="bg-yellow-50 p-10 rounded-3xl border-2 border-yellow-200 my-8 shadow-inner">
-                                <h4 className="font-bold text-yellow-900 mb-6 text-2xl text-center uppercase tracking-wider">The "Settled" Status Anatomy</h4>
+                                <h3 className="font-bold text-yellow-900 mb-6 text-2xl text-center uppercase tracking-wider">The "Settled" Status Anatomy</h3>
                                 <ul className="space-y-6 text-base text-yellow-800 font-medium">
                                     <li className="flex items-start gap-4">
                                         <div className="w-8 h-8 rounded-full bg-yellow-200 flex items-center justify-center flex-shrink-0 mt-1">📉</div>
@@ -442,12 +442,12 @@ export default function BankLoanSettlementGuidelinesPage() {
                             <div className="grid md:grid-cols-2 gap-6 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm flex flex-col gap-4 hover:border-[#1F5EFF] transition-colors">
                                     <div className="w-12 h-12 bg-blue-50 text-[#1F5EFF] rounded-xl flex items-center justify-center text-2xl">🛡️</div>
-                                    <h5 className="font-bold text-xl mb-1">Right to Privacy and Dignity</h5>
+                                    <h3 className="font-bold text-xl mb-1">Right to Privacy and Dignity</h3>
                                     <p className="text-sm text-gray-600 leading-relaxed">Banks cannot disclose your debt status to your neighbors, friends, or employer. They cannot shame you on social media. They can only contact the "References" provided in the loan application for the purpose of locating you, not for recovery purposes.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm flex flex-col gap-4 hover:border-[#1F5EFF] transition-colors">
                                     <div className="w-12 h-12 bg-blue-50 text-[#1F5EFF] rounded-xl flex items-center justify-center text-2xl">📝</div>
-                                    <h5 className="font-bold text-xl mb-1">Right to Clear Documentation</h5>
+                                    <h4 className="font-bold text-xl mb-1">Right to Clear Documentation</h4>
                                     <p className="text-sm text-gray-600 leading-relaxed">You are entitled to a detailed "Statement of Account" at any time. This statement should clearly break down the principal, the interest, the penal interest, and any other charges. If you find hidden or "interest on interest" charges, you can challenge them legally.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm flex flex-col gap-4 hover:border-[#1F5EFF] transition-colors">
@@ -518,7 +518,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                                 Negotiating with a multi-billion dollar bank when you are at your lowest point can feel like David vs. Goliath. Professional debt resolution firms like SettleLoans act as your "Legal and Strategic Shield." We don't just talk to the bank; we analyze the situation from a forensic and legal perspective.
                             </p>
                             <div className="bg-blue-50 p-10 rounded-3xl border border-blue-100 my-8">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">What SettleLoans Does for You:</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">What SettleLoans Does for You:</h3>
                                 <ul className="space-y-6">
                                     <li className="flex items-start gap-4">
                                         <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center flex-shrink-0 mt-1 font-bold">1</div>
@@ -559,17 +559,17 @@ export default function BankLoanSettlementGuidelinesPage() {
                             </p>
                             <div className="space-y-4 mb-10">
                                 <div className="p-8 bg-red-50 border-2 border-red-100 rounded-3xl hover:bg-red-100 transition-colors">
-                                    <h5 className="font-bold text-xl text-red-700 mb-3 flex items-center gap-2">
+                                    <h3 className="font-bold text-xl text-red-700 mb-3 flex items-center gap-2">
                                         <span className="text-2xl">🚫</span> 1. The "Token Payment" Trap
-                                    </h5>
+                                    </h3>
                                     <p className="text-base text-red-600 leading-relaxed">
                                         Recovery agents often say, "Just pay 5,000 rupees today to stop the calls, and we will talk about settlement later." **Never do this.** This payment is an "acknowledgment of debt" in legal terms. It extends the bank's three-year window to sue you and shows that you have some liquidity, which actually *reduces* your chances of a high-discount settlement.
                                     </p>
                                 </div>
                                 <div className="p-8 bg-red-50 border-2 border-red-100 rounded-3xl hover:bg-red-100 transition-colors">
-                                    <h5 className="font-bold text-xl text-red-700 mb-3 flex items-center gap-2">
+                                    <h4 className="font-bold text-xl text-red-700 mb-3 flex items-center gap-2">
                                         <span className="text-2xl">🚫</span> 2. Ignoring Legal Notices (Especially Section 138)
-                                    </h5>
+                                    </h4>
                                     <p className="text-base text-red-600 leading-relaxed">
                                         If you receive a notice for a Cheque Bounce (Section 138) or Payment & Settlement Act (Section 25), **you must appear in court.** These are criminal matters. Ignoring them leads to non-bailable warrants (NBW). Banks use these cases as leverage during settlement. Always have a lawyer respond to these promptly.
                                     </p>
@@ -673,7 +673,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                                         <div className="flex items-center mb-6">
                                             <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-4 text-lg">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h5 className="font-black text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-black text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400 font-bold uppercase tracking-widest">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -745,7 +745,7 @@ export default function BankLoanSettlementGuidelinesPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-3xl shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-5 text-center">
-                                    <h3 className="text-xl font-black text-white px-2">Settlement Support</h3>
+                                    <div className="text-xl font-black text-white px-2">Settlement Support</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-base text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -761,13 +761,13 @@ export default function BankLoanSettlementGuidelinesPage() {
                             {/* Trust Indicators */}
                             <div className="bg-white p-8 rounded-3xl border-2 border-[#DEDEDE] shadow-sm text-center">
                                 <div className="text-4xl mb-4">🏆</div>
-                                <h4 className="font-black text-gray-900 mb-2 text-lg">98% Success Rate</h4>
+                                <div className="font-black text-gray-900 mb-2 text-lg">98% Success Rate</div>
                                 <p className="text-xs text-gray-500 font-bold uppercase tracking-wider">In Debt Resolution</p>
                             </div>
 
                             {/* Related Guides */}
                             <div className="bg-white p-8 rounded-3xl border-2 border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-widest text-[#747474] mb-6 border-b-2 border-[#DEDEDE] pb-4 text-center">In-Depth Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-widest text-[#747474] mb-6 border-b-2 border-[#DEDEDE] pb-4 text-center">In-Depth Guides</div>
                                 <ul className="space-y-6 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/loan-settlement-lawyers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

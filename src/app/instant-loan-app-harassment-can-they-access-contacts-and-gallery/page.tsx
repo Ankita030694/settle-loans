@@ -354,7 +354,7 @@ export default function LoanAppHarassmentPage() {
               </h2>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Rule #1: Do NOT Pay the Extortion Money!</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Rule #1: Do NOT Pay the Extortion Money!</h3>
                 <p className="text-lg text-blue-900 leading-relaxed mb-4">
                   Victims often panic and pay the scammers, hoping the harassment will stop. <strong>It will not stop.</strong> Paying them only flags you as a vulnerable target. Once you pay, they will immediately demand double the amount. Your compliance fuels their extortion.
                 </p>
@@ -405,7 +405,7 @@ export default function LoanAppHarassmentPage() {
               </h2>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="font-black text-red-700 text-xl mb-3">CRITICAL: Gather Your Evidence</h4>
+                <h3 className="font-black text-red-700 text-xl mb-3">CRITICAL: Gather Your Evidence</h3>
                 <p className="text-red-900 leading-relaxed">
                   Before you format your phone, take screenshots of the threatening WhatsApp messages, the abusive language, the morphed photos, the app's logo, and any transaction IDs (if you made a payment). This evidence is vital for the police.
                 </p>
@@ -464,7 +464,7 @@ export default function LoanAppHarassmentPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h4 className="font-bold text-[#2E2E2E]">{review.name}</h4>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <div className="flex gap-1 text-yellow-400">
                           ★★★★★
                         </div>
@@ -492,7 +492,7 @@ export default function LoanAppHarassmentPage() {
                   { q: "Will paying the illegal app stop the harassment?", a: "Never. Victims report that even after paying the full amount, these fraudulent apps claim the payment failed and demand more money, leading to a vicious cycle of extortion." }
                 ].map((faq, idx) => (
                   <div key={idx} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="font-black text-[#2E2E2E] text-lg mb-2">{idx + 1}. {faq.q}</h4>
+                    <h3 className="font-black text-[#2E2E2E] text-lg mb-2">{idx + 1}. {faq.q}</h3>
                     <p className="text-gray-600 leading-relaxed">{faq.a}</p>
                   </div>
                 ))}
@@ -526,7 +526,7 @@ export default function LoanAppHarassmentPage() {
               {/* Card 1: Dark CTA */}
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                <h3 className="text-xl font-black mb-4 relative z-10">Facing Fake App Harassment?</h3>
+                <div className="text-xl font-black mb-4 relative z-10">Facing Fake App Harassment?</div>
                 <p className="text-sm text-gray-300 mb-6 relative z-10">Our cyber experts can help you file complaints, block access, and secure your digital life.</p>
                 <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-bold py-3 px-4 rounded-xl hover:bg-blue-600 transition-colors shadow-lg relative z-10">
                   Talk to an Expert
@@ -535,7 +535,7 @@ export default function LoanAppHarassmentPage() {
 
               {/* Card 2: White Resources */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Guides</h3>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/bank-recovery-harassment-complaint" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

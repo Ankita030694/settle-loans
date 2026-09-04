@@ -348,7 +348,7 @@ export default function Page() {
               <section id="your-rights" className="scroll-mt-32 mb-16">
                 <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Your Rights During Repossession</h2>
                 <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4">What the Bank Must Do Before Seizing Your Car</h4>
+                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4">What the Bank Must Do Before Seizing Your Car</h3>
                   <p className="text-lg text-blue-900 leading-relaxed mb-4">
                     The repossession process cannot be arbitrary. You are legally entitled to:
                   </p>
@@ -467,7 +467,7 @@ export default function Page() {
                           {story.name.charAt(0)}
                         </div>
                         <div>
-                          <h4 className="font-bold text-[#2E2E2E]">{story.name}</h4>
+                          <h3 className="font-bold text-[#2E2E2E]">{story.name}</h3>
                           <div className="flex gap-1 mt-1">
                             {[...Array(story.stars)].map((_, idx) => (
                               <svg key={idx} className="w-4 h-4 text-yellow-400 fill-current" viewBox="0 0 20 20">
@@ -547,7 +547,7 @@ export default function Page() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                 <div className="relative z-10">
-                  <h3 className="text-xl font-black mb-4">Stop Vehicle Seizure Now</h3>
+                  <div className="text-xl font-black mb-4">Stop Vehicle Seizure Now</div>
                   <p className="text-sm text-gray-300 mb-6">Our experts can help negotiate your auto loan and prevent repossession.</p>
                   <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-bold py-3 px-6 rounded-xl hover:bg-blue-600 transition-colors">
                     Talk to an Expert
@@ -556,7 +556,7 @@ export default function Page() {
               </div>
 
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Resources</h3>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Resources</div>
                 <ul className="space-y-4">
                   {[
                     { text: 'Personal Loan Default', link: '/personal-loan-default' },

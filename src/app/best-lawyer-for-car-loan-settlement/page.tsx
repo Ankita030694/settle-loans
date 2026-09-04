@@ -234,7 +234,7 @@ export default function CarLoanSettlementPage() {
                                 <li className="flex items-start gap-4 p-6 bg-red-50 rounded-2xl outline outline-1 outline-red-200">
                                     <div className="text-red-600 mt-1"><FontAwesomeIcon icon={faExclamationCircle} size="lg" /></div>
                                     <div>
-                                        <h4 className="font-bold text-xl text-[#2E2E2E]">The 60-Day Window:</h4>
+                                        <h3 className="font-bold text-xl text-[#2E2E2E]">The 60-Day Window:</h3>
                                         <p className="text-gray-700">You have 60 days to respond. Under Section 13(3A), you can file an 'Objection'. If the bank fails to respond with a reasoned reply within 15 days, their subsequent possession can be challenged as illegal.</p>
                                     </div>
                                 </li>
@@ -254,7 +254,7 @@ export default function CarLoanSettlementPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-black text-lg mb-2 text-[#2E2E2E]">Contact Hours</h4>
+                                    <h3 className="font-black text-lg mb-2 text-[#2E2E2E]">Contact Hours</h3>
                                     <p className="text-gray-600 text-sm">Agents can only call between 7 AM and 7 PM. Any call outside this window is a direct violation of RBI norms.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
@@ -291,7 +291,7 @@ export default function CarLoanSettlementPage() {
                                     <div key={i} className="flex gap-4 p-6 bg-gray-50 rounded-2xl border border-gray-200">
                                         <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0">{i + 1}</div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E] mb-1">{item.step}</h4>
+                                            <h3 className="font-bold text-[#2E2E2E] mb-1">{item.step}</h3>
                                             <p className="text-gray-600 text-sm">{item.desc}</p>
                                         </div>
                                     </div>
@@ -325,7 +325,7 @@ export default function CarLoanSettlementPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 border border-gray-200 rounded-3xl bg-white">
-                                    <h4 className="font-bold text-xl mb-3 text-[#2E2E2E]">Zero Balance Reporting</h4>
+                                    <h3 className="font-bold text-xl mb-3 text-[#2E2E2E]">Zero Balance Reporting</h3>
                                     <p className="text-gray-600 mb-4">After settlement, the bank MUST update your CIBIL record to show an outstanding balance of zero. We file disputes if they fail to do so within 30 days.</p>
                                 </div>
                                 <div className="p-8 border border-gray-200 rounded-3xl bg-white">
@@ -380,7 +380,7 @@ export default function CarLoanSettlementPage() {
                                 Judges are generally more sympathetic to a driver losing his livelihood than a person losing a luxury car. We use this to obtain 'Restraint Orders' against repossession, giving the owner time to operate the vehicle and pay off a structured settlement. For fleet owners (owning 5-50 vehicles), we negotiate bulk settlements, treating the fleet as a business unit rather than individual car parts.
                             </p>
                             <div className="bg-[#1F5EFF] p-8 rounded-2xl text-white my-10 shadow-lg">
-                                <h4 className="text-xl font-bold mb-4">The 'Work-and-Pay' Model</h4>
+                                <h3 className="text-xl font-bold mb-4">The 'Work-and-Pay' Model</h3>
                                 <p className="italic">"We often propose a model where the bank allows the borrower to keep the vehicle to continue their business, with a legally binding commitment to pay a fixed higher amount for 6 to 12 months as an OTS installment. This 'earn-to-pay' strategy is highly successful with NBFCs."</p>
                             </div>
                         </section>
@@ -394,7 +394,7 @@ export default function CarLoanSettlementPage() {
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200">
-                                    <h4 className="font-bold text-xl text-[#2E2E2E] mb-2">Section 74: Penal Damages</h4>
+                                    <h3 className="font-bold text-xl text-[#2E2E2E] mb-2">Section 74: Penal Damages</h3>
                                     <p className="text-gray-700">The law says that penal interest must be 'reasonable' and a genuine pre-estimate of loss. Most banks charge 24-36% penal interest, which is usurious. We challenge these calculations in court, often getting the entire penal interest component waived by the judge before the settlement even begins.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200">
@@ -455,7 +455,7 @@ export default function CarLoanSettlementPage() {
                                 When a lawyer requests the 'Chain of Title' for your loan, it often creates a panic in the bank's back office. If they have moved the loan to a securitized pool, their right to use the SARFAESI Act directly might be legally compromised. We use this technicality to force a settlement. If they cannot prove they have the original promissory note or that the hypothecation was correctly transferred to the new owner, their entire recovery claim can be struck down by a court.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-10">
-                                <h4 className="text-xl font-bold text-red-700 mb-4">CRITICAL WARNING: The 'Full Duress' Clause</h4>
+                                <h3 className="text-xl font-bold text-red-700 mb-4">CRITICAL WARNING: The 'Full Duress' Clause</h3>
                                 <p className="text-gray-700 text-sm">
                                     Never sign a 'Voluntary Surrender' form if a recovery agent brings one. By signing that, you waive all your rights under the SARFAESI Act. Banks use this to avoid the 60-day notice period. If they take the car, let them take it under protest. This 'protest' is what allows your lawyer to later file a case for illegal possession.
                                 </p>
@@ -515,7 +515,7 @@ export default function CarLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -571,7 +571,7 @@ export default function CarLoanSettlementPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] p-8 rounded-[24px] text-white shadow-xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-full -mr-12 -mt-12 group-hover:scale-150 transition-transform duration-500"></div>
-                                <h4 className="text-2xl font-black mb-4 relative z-10 leading-tight">Save Your Vehicle Now</h4>
+                                <div className="text-2xl font-black mb-4 relative z-10 leading-tight">Save Your Vehicle Now</div>
                                 <p className="text-[#DEDEDE]/80 text-sm mb-8 relative z-10 font-medium">Expert legal protection against repossession agents and bank auction notices.</p>
                                 <Link href="/contact" className="block w-full text-center bg-[#1F5EFF] text-white font-bold py-4 rounded-xl hover:bg-white hover:text-[#1F5EFF] transition-all duration-300 shadow-lg relative z-10">
                                     Stop the Tow Truck
@@ -579,7 +579,7 @@ export default function CarLoanSettlementPage() {
                             </div>
 
                             <div className="bg-white border border-[#DEDEDE] p-8 rounded-[24px] shadow-sm">
-                                <h4 className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Related Services</h4>
+                                <div className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Related Services</div>
                                 <ul className="space-y-4">
                                     <li>
                                         <Link href="/best-lawyer-for-unsecured-loan" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors font-bold text-sm">

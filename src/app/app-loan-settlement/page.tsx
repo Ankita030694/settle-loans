@@ -407,7 +407,7 @@ export default function AppLoanSettlementPage() {
             <div className="bg-white rounded-xl border border-gray-200 overflow-hidden shadow-sm mb-6">
               <div className="grid divide-y md:divide-y-0 md:divide-x divide-gray-200 md:grid-cols-2">
                 <div className="p-6">
-                   <h4 className="font-bold text-lg text-gray-900 mb-2">1. The "Cooling-Off" Period</h4>
+                   <h3 className="font-bold text-lg text-gray-900 mb-2">1. The "Cooling-Off" Period</h3>
                    <p className="text-sm text-gray-600">Borrowers must be given a "look-up period" (typically 3 days for loans &gt;7 days) where they can exit the loan by paying the principal + proportionate APR without any penalty. If you tried to exit and they refused, the loan contract is voidable.</p>
                 </div>
                 <div className="p-6">
@@ -466,7 +466,7 @@ export default function AppLoanSettlementPage() {
             </p>
             <div className="grid md:grid-cols-3 gap-6">
                <div className="bg-orange-50 p-6 rounded-xl border border-orange-100">
-                  <h4 className="font-bold text-orange-900 mb-2">1. The "Frequency" Attack</h4>
+                  <h3 className="font-bold text-orange-900 mb-2">1. The "Frequency" Attack</h3>
                   <p className="text-sm text-orange-800">
                     <strong>Tactic:</strong> Calling you 50-100 times a day using auto-dialers.
                     <br/><br/>
@@ -511,7 +511,7 @@ export default function AppLoanSettlementPage() {
                 <div className="flex gap-4">
                     <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">1</div>
                     <div>
-                        <h4 className="text-lg font-bold text-gray-900">Stop the EMI Spiral</h4>
+                        <h3 className="text-lg font-bold text-gray-900">Stop the EMI Spiral</h3>
                         <p className="text-gray-600 text-sm">The first step is to stop borrowing to pay. Accepting that you have defaulted is better than taking a new loan at 36% interest to pay an old one. This "debt trap" only benefits the lenders. We help you freeze your liability.</p>
                     </div>
                 </div>
@@ -618,7 +618,7 @@ export default function AppLoanSettlementPage() {
                Settlement is not the end; it is a new beginning. While your credit score will dip temporarily (usually by 50-75 points), it is better than a permanent default.
              </p>
              <div className="bg-green-50 p-6 rounded-xl border border-green-100">
-                <h4 className="font-bold text-green-900 mb-4">How to fix your CIBIL after settlement:</h4>
+                <h3 className="font-bold text-green-900 mb-4">How to fix your CIBIL after settlement:</h3>
                 <ul className="list-disc pl-5 space-y-2 text-green-800 text-sm">
                    <li><strong>Month 1-6:</strong> Do not apply for any new loans. Let the dust settle.</li>
                    <li><strong>Month 7:</strong> Apply for a <strong>Secured Credit Card</strong> (like OneCard or IDFC First WOW) against a small Fixed Deposit of ₹5,000-₹10,000.</li>
@@ -714,7 +714,7 @@ Regards,<br/>
                    <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">V</div>
                       <div>
-                         <h4 className="font-bold">Vikram Singh</h4>
+                         <h3 className="font-bold">Vikram Singh</h3>
                          <p className="text-xs text-gray-500">Settled Bajaj Finance & KreditBee</p>
                       </div>
                    </div>
@@ -857,7 +857,7 @@ Regards,<br/>
           <div className="sticky top-24 space-y-8">
              <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                <div className="bg-[#1F5EFF] p-4 text-center">
-                 <h3 className="text-lg font-black text-white">Trapped by Apps?</h3>
+                 <div className="text-lg font-black text-white">Trapped by Apps?</div>
                </div>
                <div className="p-6 text-center">
                 <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -871,7 +871,7 @@ Regards,<br/>
             </div>
 
             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-              <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Services</h3>
+              <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Services</div>
               <ul className="space-y-4 text-sm font-bold">
                  <li>
                   <Link href="/services/nbfc-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
@@ -896,7 +896,7 @@ Regards,<br/>
             
              <div className="bg-red-50 p-6 rounded-2xl border border-red-100 shadow-sm text-center">
                 <FontAwesomeIcon icon={faShieldHalved} className="text-4xl text-red-600 mb-4 w-12 h-12" />
-                <h3 className="font-bold text-red-900 mb-2">Cyber Crime Help</h3>
+                <div className="font-bold text-red-900 mb-2">Cyber Crime Help</div>
                 <p className="text-sm text-red-800 opacity-80">Guidance on filing reporting illegal loan apps.</p>
              </div>
           </div>

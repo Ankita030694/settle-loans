@@ -205,7 +205,7 @@ export default function ContactDetailsFAQ() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-12">
                                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-sm">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Corporate Domains Only</h4>
+                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Corporate Domains Only</h3>
                                     <p className="text-gray-600">Official communication should always come from an @settleloans.in or @amalegalsolutions.com domain. Generic Gmail or Yahoo addresses are a major red flag.</p>
                                 </div>
                                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-sm">
@@ -224,7 +224,7 @@ export default function ContactDetailsFAQ() {
                             </p>
                             <div className="grid md:grid-cols-3 gap-6 mb-12">
                                 <div className="p-8 bg-gray-50 border border-gray-100 rounded-3xl shadow-sm hover:shadow-md transition-all">
-                                    <h4 className="text-xl font-bold mb-4">The Intake Analysts</h4>
+                                    <h3 className="text-xl font-bold mb-4">The Intake Analysts</h3>
                                     <p className="text-sm text-gray-600">This is your first point of contact. Their job is to perform the initial 'Financial Triage'. They scan your documents and determine if you are a candidate for settlement or if you need a different debt strategy.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border border-gray-100 rounded-3xl shadow-sm hover:shadow-md transition-all">
@@ -246,7 +246,7 @@ export default function ContactDetailsFAQ() {
                                 While 90% of debt resolution happens digitally, our directory includes companies with a strong physical presence. Having a regional hub is critical because it allows for localized bank visits and face-to-face legal consultations.
                             </p>
                             <div className="bg-[#2E2E2E] p-10 rounded-3xl text-white mb-12 shadow-[0_20px_50px_rgba(0,0,0,0.2)]">
-                                <h4 className="text-2xl font-black mb-8 text-[#1F5EFF] uppercase tracking-tighter">Verified Regional Presence 2024:</h4>
+                                <h3 className="text-2xl font-black mb-8 text-[#1F5EFF] uppercase tracking-tighter">Verified Regional Presence 2024:</h3>
                                 <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm">
                                     <div>
                                         <p className="font-bold text-lg mb-2 border-b border-gray-700 pb-2 text-white">North India</p>
@@ -402,7 +402,7 @@ export default function ContactDetailsFAQ() {
                                 Furthermore, the industry is seeing a shift toward technology-driven negotiations. Large firms now use data lakes of past settlement results to predict the "floor rate" for specific banks. For instance, they might know that HDFC Bank typically settles for 40% of the principal in the month of March, while SBI might be more flexible during their quarterly OTS (One Time Settlement) camps. This data-driven approach removes the guesswork and ensures the borrower gets the best possible deal.
                             </p>
                             <div className="bg-yellow-50 p-10 rounded-3xl border border-yellow-100 mb-12 shadow-sm">
-                                <h4 className="text-2xl font-black text-yellow-800 mb-4 uppercase tracking-tighter">The SARFAESI Act and Secured Debt</h4>
+                                <h3 className="text-2xl font-black text-yellow-800 mb-4 uppercase tracking-tighter">The SARFAESI Act and Secured Debt</h3>
                                 <p className="text-yellow-900 leading-relaxed mb-6">
                                     For borrowers dealing with home loans or vehicle loans, the legal landscape is dominated by the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002. This act allows banks to seize assets without court intervention if the account is an NPA. Professional firms like AMA Legal Solutions are experts at handling Section 13(2) and 13(4) notices, often buying the borrower critical time to arrange for a settlement or restructure.
                                 </p>
@@ -423,14 +423,14 @@ export default function ContactDetailsFAQ() {
                                 <li className="flex gap-4 items-start bg-gray-50 p-6 rounded-2xl">
                                     <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex-shrink-0 flex items-center justify-center font-bold">1</div>
                                     <div>
-                                        <h5 className="font-bold text-lg mb-2 text-[#2E2E2E]">Consolidate Outstandings</h5>
+                                        <h3 className="font-bold text-lg mb-2 text-[#2E2E2E]">Consolidate Outstandings</h3>
                                         <p className="text-gray-600 text-sm">Download your latest CIBIL report and list down all active loans, their principals, and the last date of payment. Know exactly what you owe.</p>
                                     </div>
                                 </li>
                                 <li className="flex gap-4 items-start bg-gray-50 p-6 rounded-2xl">
                                     <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex-shrink-0 flex items-center justify-center font-bold">2</div>
                                     <div>
-                                        <h5 className="font-bold text-lg mb-2 text-[#2E2E2E]">Document the 'Why'</h5>
+                                        <h4 className="font-bold text-lg mb-2 text-[#2E2E2E]">Document the 'Why'</h4>
                                         <p className="text-gray-600 text-sm">Gather evidence of your hardship. If it's a medical issue, have the hospital summaries ready. If it's job loss, have the termination letter or bank statement showing zero salary credits.</p>
                                     </div>
                                 </li>
@@ -455,7 +455,7 @@ export default function ContactDetailsFAQ() {
                                 Through these apps, you can upload documents securely, receive alerts when the bank issues a sanction letter, and even make payments to the bank through verified gateways. This eliminates the risk of "middleman fraud" where an agent might ask you to transfer a settlement amount to their personal account.
                             </p>
                             <div className="bg-[#2E2E2E] p-10 rounded-3xl text-white mb-12 shadow-xl">
-                                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase">Security Protocols for Digital Apps</h4>
+                                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase">Security Protocols for Digital Apps</h3>
                                 <ul className="space-y-4 text-gray-300">
                                     <li className="flex items-center gap-3">
                                         <FontAwesomeIcon icon={faShieldHalved} className="text-[#1F5EFF]" /> Multi-Factor Authentication (MFA) for every login.
@@ -595,7 +595,7 @@ export default function ContactDetailsFAQ() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Stop Harassment</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Stop Harassment</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
@@ -609,7 +609,7 @@ export default function ContactDetailsFAQ() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Top Resources</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Top Resources</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/government-approved-loan-settlement-services-online" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

@@ -195,7 +195,7 @@ export default function DocumentationReviewPage() {
                                 Without a professional review, you might inadvertently waive your right to notice, your right to cure a default, or even your right to approach a civil court. Many agreements contain narrow arbitration clauses that force you into a dispute resolution process that is heavily skewed in favor of the lender. An audit ensures that your 'Day in Court' is never bargained away in the fine print.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The Digital Trap: E-Agreements and One-Click Consents</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The Digital Trap: E-Agreements and One-Click Consents</h3>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     With the rise of Fintech and digital lending apps, many agreements are now signed via OTP or Aadhaar-based digital signatures. Under the Information Technology Act, 2000, these are just as legally binding as physical ink-on-paper signatures.
                                 </p>
@@ -248,7 +248,7 @@ export default function DocumentationReviewPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h4 className="font-bold text-[#2E2E2E] mb-3 text-lg">Cognovit Clause / Confession of Debt</h4>
+                                    <h3 className="font-bold text-[#2E2E2E] mb-3 text-lg">Cognovit Clause / Confession of Debt</h3>
                                     <p className="text-sm text-gray-600 italic leading-relaxed">These clauses attempt to allow the bank to obtain a court judgment against you without providing any prior notice or a chance for a hearing. While restricted, 'confession of debt' papers are often slipped into a stack of 100 signatures.</p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
@@ -299,7 +299,7 @@ export default function DocumentationReviewPage() {
                             </p>
                             <div className="space-y-6">
                                 <div className="bg-gray-50 rounded-2xl p-6 border border-gray-200">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">Home Loans (The 20-Year Trap)</h4>
+                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">Home Loans (The 20-Year Trap)</h3>
                                     <p className="text-sm leading-relaxed mb-3 text-gray-600">
                                         The biggest risk here is the 'Interest Rate Reset' clause. We ensure your agreement allows you to switch from the bank's internal benchmark to an external one at a nominal cost. We also audit the 'Indemnity' clauses where you promise to pay the bank's legal fees even if they sue you incorrectly.
                                     </p>
@@ -333,11 +333,11 @@ export default function DocumentationReviewPage() {
                             <div className="bg-amber-50 p-8 rounded-xl border border-amber-200 mb-8 shadow-inner">
                                 <ul className="space-y-6">
                                     <li>
-                                        <h5 className="font-bold text-amber-900">Schedule of Property Accuracy</h5>
+                                        <h3 className="font-bold text-amber-900">Schedule of Property Accuracy</h3>
                                         <p className="text-sm text-amber-800">Is the description of the property 100% accurate? Does it match the original sale deed? Even a small survey number error can lead to a 'Title Dispute' that freezes your property for years in civil court.</p>
                                     </li>
                                     <li>
-                                        <h5 className="font-bold text-amber-900">Registration & Stamp Duty Compliance</h5>
+                                        <h4 className="font-bold text-amber-900">Registration & Stamp Duty Compliance</h4>
                                         <p className="text-sm text-amber-800">Was the deed correctly stamped according to your state's laws? Under the Registration Act, 1908, an insufficiently stamped mortgage may not be produced as evidence in court, which actually protects the borrower during recovery but creates title issues for the lender.</p>
                                     </li>
                                     <li>
@@ -416,7 +416,7 @@ export default function DocumentationReviewPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -438,13 +438,13 @@ export default function DocumentationReviewPage() {
                             <div className="grid md:grid-cols-3 gap-8 mb-12">
                                 <div className="bg-[#2E2E2E] text-white p-8 rounded-3xl shadow-xl hover:scale-105 transition-transform">
                                     <div className="w-12 h-12 bg-[#1F5EFF] rounded-full flex items-center justify-center mb-6 font-black text-xl">01</div>
-                                    <h5 className="font-black text-blue-400 mb-2 text-lg">Forensic Financial Check</h5>
+                                    <h3 className="font-black text-blue-400 mb-2 text-lg">Forensic Financial Check</h3>
                                     <p className="text-xs opacity-60 uppercase tracking-widest mb-6 font-bold">Regulatory Compliance</p>
                                     <p className="text-sm leading-relaxed opacity-90">Verification of interest rates, reset frequency, penal charges, and tenure calculations specifically against the latest RBI master circulars and Ombudsman guidelines.</p>
                                 </div>
                                 <div className="bg-[#2E2E2E] text-white p-8 rounded-3xl shadow-xl hover:scale-105 transition-transform">
                                     <div className="w-12 h-12 bg-[#1F5EFF] rounded-full flex items-center justify-center mb-6 font-black text-xl">02</div>
-                                    <h5 className="font-black text-blue-400 mb-2 text-lg">Cross-Risk Mapping</h5>
+                                    <h4 className="font-black text-blue-400 mb-2 text-lg">Cross-Risk Mapping</h4>
                                     <p className="text-xs opacity-60 uppercase tracking-widest mb-6 font-bold">Asset Protection</p>
                                     <p className="text-sm leading-relaxed opacity-90">Deep identification of cross-default, all-monies, and acceleration clauses that expose your unconnected personal assets, family shelter, and future business income to risk.</p>
                                 </div>
@@ -506,7 +506,7 @@ export default function DocumentationReviewPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">Secure Your Signature</h3>
+                                    <div className="text-lg font-black text-white px-2">Secure Your Signature</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -521,7 +521,7 @@ export default function DocumentationReviewPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Related Expertise</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Related Expertise</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/best-lawyer-for-loan-recovery-documentation" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

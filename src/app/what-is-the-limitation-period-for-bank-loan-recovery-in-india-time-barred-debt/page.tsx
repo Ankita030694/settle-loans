@@ -293,9 +293,9 @@ export default function TimeBarredDebtPage() {
                 What Does "Time-Barred Debt" Actually Mean?
               </h2>
               <div id="the-3-year-rule" className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8 scroll-mt-32">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">
                   The 3-Year Rule
-                </h4>
+                </h3>
                 <p className="text-lg leading-relaxed mb-6 text-blue-900">
                   A time-barred debt is simply a loan or credit card outstanding that has crossed the statutory limitation period for legal recovery. For unsecured personal loans and credit cards, this period is <strong>3 years</strong>.
                 </p>
@@ -362,9 +362,9 @@ export default function TimeBarredDebtPage() {
               </div>
 
               <div id="fake-legal-notices" className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8 scroll-mt-32">
-                <h4 className="text-xl font-black text-red-700 mb-4">
+                <h3 className="text-xl font-black text-red-700 mb-4">
                   ⚠️ The Trap: Sending Fake Legal Notices
-                </h4>
+                </h3>
                 <p className="text-lg leading-relaxed text-red-900">
                   Agents often send WhatsApp messages containing fake "court notices" or "FIR warrants" for 5 to 10-year-old personal loans. This is completely illegal. An FIR cannot be filed for a simple loan default, and a court will throw out a civil suit for a time-barred debt immediately.
                 </p>
@@ -473,7 +473,7 @@ export default function TimeBarredDebtPage() {
                   { q: "Does the limitation period apply to secured loans like home loans?", a: "For secured loans backed by a mortgage of immovable property, the limitation period to enforce payment is 12 years under the Limitation Act." }
                 ].map((faq, i) => (
                   <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.q}</h4>
+                    <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.q}</h3>
                     <p className="text-gray-700">{faq.a}</p>
                   </div>
                 ))}
@@ -507,7 +507,7 @@ export default function TimeBarredDebtPage() {
               {/* Dark CTA Card */}
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-500"></div>
-                <h4 className="text-2xl font-black mb-4 relative z-10">Stop the Harassment</h4>
+                <div className="text-2xl font-black mb-4 relative z-10">Stop the Harassment</div>
                 <p className="text-gray-300 mb-6 text-sm relative z-10">
                   Find out if your loan is time-barred and legally unenforceable.
                 </p>
@@ -518,9 +518,9 @@ export default function TimeBarredDebtPage() {
 
               {/* White Resources Card */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Legal Resources
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/blog/rbi-guidelines-for-recovery-agents" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group">

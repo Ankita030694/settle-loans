@@ -1104,7 +1104,7 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Debt Protection</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Facing Fake SARFAESI Notices?</h4>
+              <div className="font-bold text-base text-white mb-2">Facing Fake SARFAESI Notices?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let recovery agents intimidate you with illegal home seizure threats. Hire experienced debt defense advocates to assert your legal rights and negotiate an authentic 45%–70% OTS.
               </p>
@@ -1118,9 +1118,9 @@ export default function SarfaesiActRulesPersonalLoanExemptionPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

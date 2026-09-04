@@ -291,7 +291,7 @@ export default function ImproveCibilAfterSettlementPage() {
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Score Drop</h4>
+                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Score Drop</h3>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Your score can drop by 70 to 150 points instantly. This happens because the "unpaid" portion of the loan is still considered as a failure to repay. Even if the amount was small, the damage to the score is significant.
                                     </p>
@@ -318,7 +318,7 @@ export default function ImproveCibilAfterSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Obtain the NOC</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Obtain the NOC</h3>
                                     <p className="text-sm">Ensure you have a physical and digital copy of the No Objection Certificate (NOC) or No Dues Certificate from the lender. This document must clearly state that the account is settled and no further dues are pending. This is your primary shield if there are any future disputes.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -337,7 +337,7 @@ export default function ImproveCibilAfterSettlementPage() {
                                 You can approach the lender even years after the settlement and offer to pay the remaining amount that was waived off during the settlement. This is often just the interest and penalties. Once you pay the full amount, the bank is legally obligated to update the status from "Settled" to "Closed".
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The Process of Status Conversion</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The Process of Status Conversion</h3>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     Write a formal letter to the bank's nodal officer expressing your desire to "close" the account by paying the settled difference. Once they provide the updated amount, make the payment and demand a "No Dues Certificate" for a "Closed" account.
                                 </p>
@@ -471,7 +471,7 @@ export default function ImproveCibilAfterSettlementPage() {
                                 <div className="flex gap-6 items-start">
                                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold shrink-0 mt-1">1</div>
                                     <div>
-                                        <h4 className="text-xl font-bold mb-2">Month 1 to 2: The Cleanup Phase</h4>
+                                        <h3 className="text-xl font-bold mb-2">Month 1 to 2: The Cleanup Phase</h3>
                                         <p className="text-gray-600 leading-relaxed">
                                             This is when you ensure the bank has reported the settlement correctly. You should have your NOC in hand and check CIBIL at the end of Month 2. If you find any discrepancies, this is the time to raise disputes. Do not apply for any new credit during these 60 days. Your focus should be on stabilizing your existing finances and ensuring no other payments are missed.
                                         </p>
@@ -546,7 +546,7 @@ export default function ImproveCibilAfterSettlementPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -612,7 +612,7 @@ export default function ImproveCibilAfterSettlementPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">Credit Support</h3>
+                                    <div className="text-lg font-black text-white px-2">Credit Support</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -627,7 +627,7 @@ export default function ImproveCibilAfterSettlementPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Credit Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Credit Resources</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/how-to-get-800-credit-score-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

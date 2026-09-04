@@ -309,7 +309,7 @@ export default function LoanSettlementDRTPage() {
                                 Getting an OTS is not about asking for a favor; it is about offering a 'Solution' to the bank's 'Problem'. The bank's problem is an NPA that is hurting their balance sheet and a legal battle that is costing them massive fees. Our job is to show them that your settlement offer is more valuable than a 5 year wait for a potentially unenforceable judgment.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The 4-Step Settlement Protocol:</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The 4-Step Settlement Protocol:</h3>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3 text-blue-800">
                                         <div className="w-6 h-6 rounded-full bg-blue-600 text-white flex items-center justify-center font-bold flex-shrink-0 mt-0.5 text-xs">1</div>
@@ -364,7 +364,7 @@ export default function LoanSettlementDRTPage() {
                                 Reaching a verbal agreement with a bank manager is not an OTS. In fact, it is a dangerous trap. Many borrowers make 'Goodwill Payments' based on a manager's promise, only to find that the bank has credited that money to the interest and is still proceeding with the DRT case. A settlement is only real when it is on the bank's official letterhead with an authorized signature.
                             </p>
                             <div className="bg-amber-50 p-8 rounded-xl border border-amber-200 my-8">
-                                <h4 className="text-xl font-bold text-amber-900 mb-4">The "Post (Write Off)" Credit Risk:</h4>
+                                <h3 className="text-xl font-bold text-amber-900 mb-4">The "Post (Write Off)" Credit Risk:</h3>
                                 <p className="text-sm text-amber-800 leading-relaxed mb-4">
                                     When you settle a loan, banks report it to CIBIL as 'Settled'. This is often followed by '(Post Write Off)'. This tag tells future lenders that you didn't pay the full amount, which can prevent you from getting a loan for the next 7 years.
                                 </p>
@@ -390,7 +390,7 @@ export default function LoanSettlementDRTPage() {
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8">
                                 <div className="grid md:grid-cols-2 gap-8">
                                     <div>
-                                        <h4 className="text-lg font-bold text-[#EAB308] mb-4">The DRT Litigation Route</h4>
+                                        <h3 className="text-lg font-bold text-[#EAB308] mb-4">The DRT Litigation Route</h3>
                                         <ul className="text-sm space-y-2 text-gray-600 list-disc ml-4">
                                             <li>Can take 3 to 7 years to conclude.</li>
                                             <li>Potential for full vindication and damages.</li>
@@ -424,7 +424,7 @@ export default function LoanSettlementDRTPage() {
                                     <div className="flex items-center mb-6">
                                         <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 mr-4">S</div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E]">Software Firm, Bangalore</h4>
+                                            <h3 className="font-bold text-[#2E2E2E]">Software Firm, Bangalore</h3>
                                             <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">5 Cr Loan Dispute</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -503,7 +503,7 @@ export default function LoanSettlementDRTPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">DRT Settlement Aid</h3>
+                                    <div className="text-lg font-black text-white">DRT Settlement Aid</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -518,7 +518,7 @@ export default function LoanSettlementDRTPage() {
 
                             {/* Related Pages */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Technical Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Technical Guides</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/best-lawyer-for-account-documents-drt" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

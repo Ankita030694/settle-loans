@@ -288,7 +288,7 @@ export default function MudraLoanSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-orange-50 p-6 rounded-xl border border-orange-100">
-                                    <h4 className="text-lg font-bold text-orange-900 mb-2">Notice under Section 138</h4>
+                                    <h3 className="text-lg font-bold text-orange-900 mb-2">Notice under Section 138</h3>
                                     <p className="text-sm text-orange-800 leading-relaxed">
                                         If you provided post-dated checks (PDCs) and they bounce, you can face criminal charges under the Negotiable Instruments Act. This can lead to imprisonment or heavy fines.
                                     </p>
@@ -440,7 +440,7 @@ export default function MudraLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -516,7 +516,7 @@ export default function MudraLoanSettlementPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Settle Your Mudra</h3>
+                                    <div className="text-lg font-black text-white">Settle Your Mudra</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -530,7 +530,7 @@ export default function MudraLoanSettlementPage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Assistance</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Assistance</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/business-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

@@ -275,7 +275,7 @@ export default function LoanAgainAfterSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-8">
                                 <div className="p-6 bg-white rounded-xl border border-[#DEDEDE] shadow-sm">
-                                    <h4 className="font-bold text-red-600 mb-2">Score Deduction</h4>
+                                    <h3 className="font-bold text-red-600 mb-2">Score Deduction</h3>
                                     <p className="text-sm">Expect a drop of 75 to 150 points. If you were at 750, you might suddenly find yourself at 620, which is below the lending threshold for most banks.</p>
                                 </div>
                                 <div className="p-6 bg-white rounded-xl border border-[#DEDEDE] shadow-sm">
@@ -296,7 +296,7 @@ export default function LoanAgainAfterSettlementPage() {
                             <div className="relative border-l-2 border-[#1F5EFF] ml-4 pl-10 space-y-12">
                                 <div className="relative">
                                     <div className="absolute -left-[51px] top-0 w-10 h-10 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-white font-bold">1</div>
-                                    <h4 className="text-xl font-bold mb-2">0 to 6 Months: The Cool-Off</h4>
+                                    <h3 className="text-xl font-bold mb-2">0 to 6 Months: The Cool-Off</h3>
                                     <p className="text-sm">Do not apply for anything. Focus on organizing your finances and ensuring no other defaults occur. If you have an active savings account, maintain a healthy balance.</p>
                                 </div>
                                 <div className="relative">
@@ -466,7 +466,7 @@ export default function LoanAgainAfterSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -537,14 +537,14 @@ export default function LoanAgainAfterSettlementPage() {
                     <aside className="w-full lg:w-1/5 flex flex-col gap-8">
                         <div className="sticky top-32 space-y-8">
                             <div className="bg-[#2E2E2E] p-8 rounded-[30px] border border-[#1F5EFF]/20 shadow-xl">
-                                <h3 className="text-2xl font-black text-white mb-4 leading-tight">Expert <br /><span className="text-[#1F5EFF]">Debt Relief</span></h3>
+                                <div className="text-2xl font-black text-white mb-4 leading-tight">Expert <br /><span className="text-[#1F5EFF]">Debt Relief</span></div>
                                 <p className="text-white/70 text-sm mb-6 leading-relaxed">Stop the harassment. Settle your debts legally and start rebuilding your life today.</p>
                                 <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white text-center font-bold py-4 rounded-xl hover:bg-blue-600 transition-colors shadow-lg">
                                     Apply Now
                                 </Link>
                             </div>
                             <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm">
-                                <h4 className="font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Related Guides</h4>
+                                <div className="font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Related Guides</div>
                                 <ul className="space-y-4">
                                     <li><Link href="/will-banks-blacklist-you-after-loan-settlement" className="text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Will Banks Blacklist You?</Link></li>
                                     <li><Link href="/is-loan-settlement-a-good-option-for-borrowers" className="text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Is Settlement Good for You?</Link></li>

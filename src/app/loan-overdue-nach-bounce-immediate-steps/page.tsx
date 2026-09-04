@@ -295,7 +295,7 @@ export default function NachBouncePage() {
             <section id="bounce-charges" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding NACH Bounce Charges</h2>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Dual-Penalty System</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Dual-Penalty System</h3>
                 <p className="text-lg text-gray-800 leading-relaxed mb-4">
                   A common misconception is that you only pay a single fee for a bounced EMI. In reality, a NACH bounce triggers a dual-penalty system:
                 </p>
@@ -330,7 +330,7 @@ export default function NachBouncePage() {
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Section 25 of the PSS Act</h4>
+                <h3 className="text-xl font-black text-red-700 mb-3">Section 25 of the PSS Act</h3>
                 <p className="text-lg text-red-900 leading-relaxed">
                   Similar to a cheque bounce under Section 138 of the Negotiable Instruments Act, the dishonour of an electronic funds transfer can attract legal action under Section 25 of the Payment and Settlement Systems Act. Lenders use this to send threatening legal notices demanding immediate payment.
                 </p>
@@ -344,7 +344,7 @@ export default function NachBouncePage() {
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-black text-[#2E2E2E] mb-4">Effective Negotiation Strategies</h4>
+                <h3 className="text-xl font-black text-[#2E2E2E] mb-4">Effective Negotiation Strategies</h3>
                 <ul className="space-y-4">
                   <li className="flex items-start">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-gray-400 flex-shrink-0 mr-3"></div>
@@ -384,7 +384,7 @@ export default function NachBouncePage() {
                       ))}
                     </div>
                   </div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Rahul V.</h4>
+                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Rahul V.</h3>
                   <p className="text-gray-600 mb-6 text-sm">Facing ₹15,000 in negative balance due to daily NACH re-presentations.</p>
                   <div className="flex flex-col gap-3">
                     <div className="flex justify-between items-center border-b border-gray-100 pb-2">
@@ -489,7 +489,7 @@ export default function NachBouncePage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-500"></div>
                 <div className="relative z-10">
-                  <h4 className="text-2xl font-black mb-4 leading-tight">Stop Penalty Fees Instantly</h4>
+                  <div className="text-2xl font-black mb-4 leading-tight">Stop Penalty Fees Instantly</div>
                   <p className="text-gray-300 mb-6 text-sm">Don't let your account go into negative balance. We help you legally stop ECS mandates.</p>
                   <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-bold py-3 rounded-lg hover:bg-white hover:text-[#1F5EFF] transition-colors text-sm">
                     Get Legal Help
@@ -498,9 +498,9 @@ export default function NachBouncePage() {
               </div>
 
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Related Guides
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   {[
                     { title: "Stop Recovery Agents Harassment", href: "/stop-recovery-agents" },

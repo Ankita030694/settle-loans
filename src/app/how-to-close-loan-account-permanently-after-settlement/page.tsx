@@ -955,7 +955,7 @@ export default function PermanentLoanAccountClosurePage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Legal Assistance</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Settled Loan Still Showing Overdue or ECS Bouncing?</h4>
+              <div className="font-bold text-base text-white mb-2">Settled Loan Still Showing Overdue or ECS Bouncing?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let banks maintain phantom dues or ruin your CIBIL score. Engage expert advocates to enforce the 5-step permanent closure protocol and secure your official branch No Dues Certificate.
               </p>
@@ -969,9 +969,9 @@ export default function PermanentLoanAccountClosurePage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

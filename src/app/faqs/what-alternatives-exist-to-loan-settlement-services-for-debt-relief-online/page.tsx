@@ -166,7 +166,7 @@ export default function AlternativesToSettlementPage() {
                                 Debt consolidation is the process of taking out a single, large loan to pay off multiple smaller, high-interest debts (like credit card dues and payday loans). The goal is simple: replace many complex payments with one manageable monthly installment.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl mb-8">
-                                <h4 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">How to Consolidate Correctially:</h4>
+                                <h3 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">How to Consolidate Correctially:</h3>
                                 <ul className="space-y-4">
                                     <li className="flex gap-3 items-start"><FontAwesomeIcon icon={faCheck} className="text-blue-500 mt-1" /> <span>**Identify the Interest Arbitrage:** Only consolidate if the interest rate of the new loan is significantly lower (at least 5%-8%) than the weighted average of your current debts.</span></li>
                                     <li className="flex gap-3 items-start"><FontAwesomeIcon icon={faCheck} className="text-blue-500 mt-1" /> <span>**Loan Against Property (LAP):** For large debt volumes, a LAP offers the lowest interest rates (9%-12%) and the longest tenures (up to 15 years).</span></li>
@@ -183,7 +183,7 @@ export default function AlternativesToSettlementPage() {
                                 Unlike settlement, **Restructuring** is a modification of the original loan terms. It is a formal process approved by the RBI where the bank agrees to change your EMI, interest rate, or tenure to accommodate a temporary financial hardship.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-3xl mb-8 border border-[#1F5EFF]/20 shadow-xl">
-                                <h4 className="text-2xl font-black mb-6 flex items-center gap-3 text-[#1F5EFF]"><FontAwesomeIcon icon={faShieldHalved} /> The Restructuring Toolkit</h4>
+                                <h3 className="text-2xl font-black mb-6 flex items-center gap-3 text-[#1F5EFF]"><FontAwesomeIcon icon={faShieldHalved} /> The Restructuring Toolkit</h3>
                                 <p className="mb-6 opacity-80">Depending on your profile, the bank may offer:</p>
                                 <div className="grid md:grid-cols-2 gap-6">
                                     <div className="p-4 bg-white/5 rounded-xl border border-white/10"><p className="font-bold text-sm mb-2">EMI Holiday (Moratorium)</p><p className="text-xs opacity-60">A 3-6 month period where you pay nothing, interest is capitalized.</p></div>
@@ -203,7 +203,7 @@ export default function AlternativesToSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-3xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-4 flex items-center gap-2"><FontAwesomeIcon icon={faCalculator} /> The Snowball Method</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-4 flex items-center gap-2"><FontAwesomeIcon icon={faCalculator} /> The Snowball Method</h3>
                                     <p className="text-sm leading-relaxed mb-4">**Focus:** Psychological Wins. You pay off the SMALLEST balance first, regardless of the interest rate. Once that's gone, you roll that payment into the next smallest.</p>
                                     <p className="text-xs font-bold text-blue-600 uppercase">Best for: Motivation & Momentum.</p>
                                 </div>
@@ -261,7 +261,7 @@ export default function AlternativesToSettlementPage() {
                                 Most people who believe they are insolvent are actually suffering from "Cash Flow Friction". Before you settle, you must perform a **Forensic Budget Audit**. This is not a standard monthly budget; it is a clinical analysis of every rupee that leaves your account.
                             </p>
                             <div className="bg-red-50 p-8 rounded-3xl border border-red-100 mb-8">
-                                <h4 className="text-red-900 font-bold mb-4 uppercase text-sm tracking-widest">The "Cut-Throat" Categorization:</h4>
+                                <h3 className="text-red-900 font-bold mb-4 uppercase text-sm tracking-widest">The "Cut-Throat" Categorization:</h3>
                                 <ul className="space-y-4 text-red-800 text-sm italic">
                                     <li>**Survivability Expenses:** Food, essential medicine, and basic utilities. These are sacred.</li>
                                     <li>**Liability Expenses:** Minimum dues on credit cards, EMIs, and insurance premiums.</li>
@@ -282,7 +282,7 @@ export default function AlternativesToSettlementPage() {
                                 A P2P loan can be used to consolidate debt even if you have a slightly damaged credit report. The investors on these platforms are individuals looking for higher returns and are often willing to take a 'Calculated Risk' on a borrower who has a clear plan for debt recovery.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8">
-                                <h4 className="font-bold mb-4 text-[#1F5EFF]">P2P Refinancing Checklist:</h4>
+                                <h3 className="font-bold mb-4 text-[#1F5EFF]">P2P Refinancing Checklist:</h3>
                                 <ul className="list-disc pl-6 space-y-2 text-sm">
                                     <li>Prepare a 'Hardship Statement' for the platform investors.</li>
                                     <li>Show a consistent income stream for the last 6 months.</li>
@@ -323,7 +323,7 @@ export default function AlternativesToSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-gray-200 rounded-3xl shadow-sm">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">Option A: Surrender</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">Option A: Surrender</h3>
                                     <p className="text-sm leading-relaxed mb-4">You terminate the policy and receive the cash value. This provides immediate liquidity but you lose the life cover and the 'Bonuses' accrued over years.</p>
                                     <p className="text-xs font-bold text-red-600">Impact: High Liquidity, High Loss of Protection.</p>
                                 </div>
@@ -378,7 +378,7 @@ export default function AlternativesToSettlementPage() {
                                 If you want the bank to restructure your loan instead of settling it, you must treat it like a business proposal. Banks are data-driven; they respond to logic, not just emotion.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-3xl border border-blue-100 mb-8">
-                                <h4 className="text-blue-900 font-bold mb-4 uppercase text-sm tracking-widest">The Anatomy of a Winning DRP:</h4>
+                                <h3 className="text-blue-900 font-bold mb-4 uppercase text-sm tracking-widest">The Anatomy of a Winning DRP:</h3>
                                 <div className="space-y-4 text-sm text-blue-800 italic leading-relaxed">
                                     <p>**1. The Hardship Disclosure:** A clinical explanation of what changed (Job loss, medical emergency, industry downturn). Attach proof.</p>
                                     <p>**2. The Liquidity Audit:** Showing the bank your current income vs. essential expenses. Prove that you *can* pay a lower EMI, but *cannot* pay the current one.</p>
@@ -399,7 +399,7 @@ export default function AlternativesToSettlementPage() {
                                 How it works: You move your ₹2,00,000 credit card debt from Bank A (charging 42%) to Bank B. Bank B gives you 6 months to pay it off at 0% interest (with a small processing fee of 1%-2%).
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-100">
-                                <h4 className="font-bold mb-4">The BT Warning:</h4>
+                                <h3 className="font-bold mb-4">The BT Warning:</h3>
                                 <p className="text-sm leading-relaxed">A Balance Transfer is not a 'cure'; it is a 'timeout'. If you don't pay off the principal during the 0% period, the interest rate will jump back to the standard 36%-42%. Use this 6-month window to aggressively sell assets or deploy the 'Snowball' method.</p>
                             </div>
                         </section>
@@ -453,7 +453,7 @@ export default function AlternativesToSettlementPage() {
                                 If you have a legitimate restructuring proposal and the bank's internal nodal officer rejects it without a valid reason, you have the right to approach the **RBI Banking Ombudsman**.
                             </p>
                             <div className="bg-[#2E2E2E] text-[#DEDEDE] p-10 rounded-[30px] mb-8 relative overflow-hidden shadow-2xl">
-                                <h4 className="text-2xl font-black mb-6 uppercase text-[#1F5EFF] tracking-tighter">The Ombudsman Checklist:</h4>
+                                <h3 className="text-2xl font-black mb-6 uppercase text-[#1F5EFF] tracking-tighter">The Ombudsman Checklist:</h3>
                                 <ul className="space-y-4 text-sm font-normal opacity-90 leading-relaxed">
                                     <li>**Wait for the 30-Day Window:** You must first file a formal complaint with the bank and wait 30 days for their response.</li>
                                     <li>**Document the Rejection:** Ensure you have the rejection letter or email from the bank's Nodal Officer.</li>
@@ -633,7 +633,7 @@ export default function AlternativesToSettlementPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Expert Path</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Expert Path</div>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">
                                     <p className="mb-8 text-sm opacity-80 leading-relaxed font-normal italic">

@@ -597,7 +597,7 @@ export default function InitiateSettlementPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Digital Shield Activated</h3>
+                  <div className="text-lg font-black text-white">Digital Shield Activated</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -612,7 +612,7 @@ export default function InitiateSettlementPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Top Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Top Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/what-is-the-average-timeframe-for-completing-a-loan-settlement-process" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

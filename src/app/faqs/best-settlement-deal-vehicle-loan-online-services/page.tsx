@@ -168,7 +168,7 @@ export default function VehicleLoanFAQ() {
                                 The fear of the "repo-man" is real, but it is often fueled by a lack of legal knowledge. In India, the law is very specific about how a vehicle can be repossessed. Banks and NBFCs cannot simply "snatch" a car from the middle of the road without following due process.
                             </p>
                             <div className="bg-red-50 p-8 rounded-3xl border border-red-100 mb-12 shadow-sm">
-                                <h4 className="text-xl font-bold text-red-900 mb-4 uppercase tracking-tighter">The Legal Repossession Procedure:</h4>
+                                <h3 className="text-xl font-bold text-red-900 mb-4 uppercase tracking-tighter">The Legal Repossession Procedure:</h3>
                                 <ul className="space-y-4">
                                     <li className="flex gap-3">
                                         <FontAwesomeIcon icon={faTriangleExclamation} className="text-red-600 mt-1" />
@@ -215,7 +215,7 @@ export default function VehicleLoanFAQ() {
                                 Lenders like <strong>Mahindra Finance and Sundaram Finance</strong>, who have a massive presence in the semi-urban and rural markets, are often more flexible. They understand that a tractor or a commercial pick-up is a livelihood tool. They are more likely to offer 'EMI Restructuring' or 'Holiday Periods' before pushing for a full settlement and repossession.
                             </p>
                             <div className="bg-red-50 p-8 rounded-3xl border border-red-100 mb-8 shadow-sm">
-                                <h4 className="text-xl font-bold text-red-900 mb-4 tracking-tighter uppercase">Lender Risk Profile Table:</h4>
+                                <h3 className="text-xl font-bold text-red-900 mb-4 tracking-tighter uppercase">Lender Risk Profile Table:</h3>
                                 <div className="overflow-x-auto">
                                     <table className="w-full text-sm text-left">
                                         <thead className="bg-red-100/50 text-red-900 font-bold">
@@ -268,7 +268,7 @@ export default function VehicleLoanFAQ() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-12">
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-3xl">
-                                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-4">Yard Costs vs. Recovery</h4>
+                                    <h3 className="text-xl font-bold text-[#1F5EFF] mb-4">Yard Costs vs. Recovery</h3>
                                     <p className="text-sm text-gray-700">Banks have to pay storage fees, security costs, and insurance for repossessed vehicles. SettleLoans negotiators highlight these 'hidden costs' to make a settlement more attractive to the bank.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-3xl">
@@ -343,7 +343,7 @@ export default function VehicleLoanFAQ() {
                                 <div className="absolute top-0 right-0 p-4 bg-blue-600/20 rounded-bl-3xl">
                                     <FontAwesomeIcon icon={faTruck} className="text-blue-500 text-3xl" />
                                 </div>
-                                <h4 className="text-2xl font-black mb-6 uppercase tracking-tighter text-blue-500">The Fleet Multiplier Strategy:</h4>
+                                <h3 className="text-2xl font-black mb-6 uppercase tracking-tighter text-blue-500">The Fleet Multiplier Strategy:</h3>
                                 <ul className="space-y-4 text-gray-300">
                                     <li className="flex gap-4">
                                         <div className="w-1.5 h-1.5 rounded-full bg-blue-500 mt-2"></div>
@@ -369,7 +369,7 @@ export default function VehicleLoanFAQ() {
                                 Your vehicle's Insured Declared Value (IDV) is a primary anchor for settlement discussions. Banks often try to demand the full remaining principal, even if it is 2x the current market value of the car. A professional negotiator uses current market valuation reports (similar to Orange Book Value or Indian Blue Book) to demonstrate to the bank that their demand is unrealistic.
                             </p>
                             <div className="bg-[#2E2E2E] p-10 rounded-3xl text-white mb-12 shadow-xl">
-                                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase tracking-tighter">The Valuation Gap Strategy</h4>
+                                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase tracking-tighter">The Valuation Gap Strategy</h3>
                                 <p className="text-gray-300 leading-relaxed mb-4">
                                     If the Principal O/S is ₹8 Lakh but the market value is ₹5 Lakh, the bank is at a high risk. We present a settlement proposal of ₹4.5 Lakh, arguing that an auction would likely yield only ₹3.5 Lakh after all terminal costs. This logic is hard for a bank's risk committee to ignore.
                                 </p>
@@ -489,7 +489,7 @@ export default function VehicleLoanFAQ() {
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
 
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Asset Alert</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Asset Alert</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
@@ -502,7 +502,7 @@ export default function VehicleLoanFAQ() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">More Resources</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">More Resources</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/contact-details-top-rated-debt-resolution-companies-india" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

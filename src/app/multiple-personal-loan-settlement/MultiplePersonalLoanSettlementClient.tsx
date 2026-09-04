@@ -804,7 +804,7 @@ export default function MultiplePersonalLoanSettlementClient() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-6">
                 <div className="bg-white border border-slate-200 rounded-xl p-4 shadow-sm">
                   <div className="text-xs font-bold text-[#1F5EFF] uppercase mb-1">Step 1: Bureau Audit</div>
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">Verify Zero Dues Reporting</h4>
+                  <h3 className="font-bold text-slate-900 text-sm mb-1">Verify Zero Dues Reporting</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Ensure all settled accounts show zero current balance and no further overdue accruals in CIBIL within 45 days.
                   </p>
@@ -999,7 +999,7 @@ export default function MultiplePersonalLoanSettlementClient() {
                   AJ
                 </div>
                 <div>
-                  <h3 className="font-bold text-slate-900 text-sm">Adv. Ashish Jhangra</h3>
+                  <div className="font-bold text-slate-900 text-sm">Adv. Ashish Jhangra</div>
                   <p className="text-xs text-slate-500">Chief Debt Strategist & Legal Counsel</p>
                 </div>
               </div>
@@ -1019,9 +1019,9 @@ export default function MultiplePersonalLoanSettlementClient() {
                 <PhoneCall className="w-3.5 h-3.5" />
                 <span>Emergency Multi-Debt Shield</span>
               </div>
-              <h3 className="text-base font-bold text-white mb-2 leading-snug">
+              <div className="text-base font-bold text-white mb-2 leading-snug">
                 Facing Multiple Collection Calls or Court Notices?
-              </h3>
+              </div>
               <p className="text-xs text-slate-300 mb-4 leading-relaxed">
                 Appoint our legal panel today. We serve immediate representation notices to all your lenders and consolidate all negotiations into one structured plan.
               </p>

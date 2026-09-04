@@ -334,7 +334,7 @@ export default function DRTLoanAssignmentPage() {
                                 However, Section 5 is not a blanket permission for banks to do whatever they please. It requires that the loan acquisition be carried out in a specific manner. The RBI sets out detailed guidelines for the Sale of Stressed Assets (SSA), which include requirements for valuation, transparency, and internal approvals. If these guidelines are breached, the validity of the acquisition itself can be called into question in the DRT.
                             </p>
                             <div className="bg-white border-2 border-dashed border-[#1F5EFF]/20 p-8 rounded-2xl mb-10">
-                                <h4 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-tighter">Section 5(2) Breakdown</h4>
+                                <h3 className="text-xl font-bold text-[#1F5EFF] mb-4 uppercase tracking-tighter">Section 5(2) Breakdown</h3>
                                 <p className="italic text-gray-600 mb-4">
                                     "If any financial asset of a bank or a financial institution is acquired by an asset reconstruction company, such asset reconstruction company shall, on such acquisition, be deemed to be the lender."
                                 </p>
@@ -355,7 +355,7 @@ export default function DRTLoanAssignmentPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-4 my-8">
                                 <div className="p-6 bg-red-50 rounded-xl border-l-4 border-red-500">
-                                    <h4 className="font-bold mb-2">Notice Defects</h4>
+                                    <h3 className="font-bold mb-2">Notice Defects</h3>
                                     <p className="text-sm">Failure to provide valid 13(2) or 13(4) notices by the correctly substituted entity.</p>
                                 </div>
                                 <div className="p-6 bg-red-50 rounded-xl border-l-4 border-red-500">
@@ -398,10 +398,10 @@ export default function DRTLoanAssignmentPage() {
                                 This is a particularly potent defense because it also invalidates the sale of the loan to the ARC. An ARC can generally only buy "stressed" assets. If the asset was not legally stressed (not a valid NPA), the ARC had no business buying it. We have seen cases where thousands of crores in recovery have been stayed because of a single error in the bank's NPA accounting.
                             </p>
                             <div className="bg-amber-50 p-8 rounded-2xl border border-amber-200 mb-10">
-                                <h4 className="text-xl font-bold text-amber-900 mb-4 flex items-center gap-2">
+                                <h3 className="text-xl font-bold text-amber-900 mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faScaleBalanced} />
                                     Checklist for NPA Defense
-                                </h4>
+                                </h3>
                                 <ul className="space-y-3 text-sm text-amber-900/80">
                                     <li>• Was the 90-day period calculated correctly?</li>
                                     <li>• Were all interest and principal payments appropriately adjusted?</li>
@@ -450,10 +450,10 @@ export default function DRTLoanAssignmentPage() {
                                 Substitution is not an automatic right; it is a judicial decision. If we can successfully block the substitution of the ARC, the original bank (which no longer owns the debt) cannot proceed, and the ARC (which isn't yet recognized by the court) can't either. This creates a state of legal limbo that significantly increases the borrower's leverage for a settlement.
                             </p>
                             <div className="bg-slate-900 text-white p-8 rounded-2xl mb-12">
-                                <h4 className="text-xl font-bold mb-4 flex items-center gap-2">
+                                <h3 className="text-xl font-bold mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faScaleBalanced} className="text-blue-500" />
                                     Understanding Substitution
-                                </h4>
+                                </h3>
                                 <p className="text-sm opacity-80 leading-relaxed">
                                     Substitution is the process of replacing the original bank with the ARC in ongoing litigation. It requires proof of a valid transfer of the "actionable claim." Without a formal court order for substitution, the ARC has no power to issue summons or participate in the DRT hearings.
                                 </p>
@@ -537,7 +537,7 @@ export default function DRTLoanAssignmentPage() {
                                 A stay order is not a final victory, but it is a vital breather. It stops the clock and gives us time to either win the case on merits or negotiate a settlement on your terms. Without a stay, the ARC can auction your property in weeks, leaving you with very few remedies after the event.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-200 mb-10 text-center">
-                                <h4 className="text-2xl font-black text-red-700 mb-4">Emergency Auction?</h4>
+                                <h3 className="text-2xl font-black text-red-700 mb-4">Emergency Auction?</h3>
                                 <p className="text-red-900 mb-6">If you have received an auction notice, you must act within 48 hours to have any chance of a stay.</p>
                                 <Link href="/contact" className="inline-block bg-red-600 text-white font-bold py-3 px-8 rounded-full hover:bg-red-700 transition-colors shadow-lg">
                                     Get Immediate Legal Help
@@ -597,7 +597,7 @@ export default function DRTLoanAssignmentPage() {
                                                 {caseStudy.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h4 className="text-xl font-bold">{caseStudy.name}</h4>
+                                                <h3 className="text-xl font-bold">{caseStudy.name}</h3>
                                                 <p className="text-xs text-gray-400">{caseStudy.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -719,7 +719,7 @@ export default function DRTLoanAssignmentPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">We are in This Together</h3>
+                                    <div className="text-lg font-black text-white">We are in This Together</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -734,10 +734,10 @@ export default function DRTLoanAssignmentPage() {
 
                             {/* Related Pages */}
                             <div className="bg-white rounded-2xl shadow-sm border border-[#DEDEDE] p-6">
-                                <h3 className="text-lg font-black text-[#2E2E2E] mb-6 flex items-center gap-2">
+                                <div className="text-lg font-black text-[#2E2E2E] mb-6 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faShieldHalved} className="text-[#1F5EFF]" />
                                     Related Help
-                                </h3>
+                                </div>
                                 <div className="flex flex-col gap-4">
                                     {[
                                         { title: "DRT Loan Settlement", href: "/best-lawyer-for-loan-settlement-by-drt" },

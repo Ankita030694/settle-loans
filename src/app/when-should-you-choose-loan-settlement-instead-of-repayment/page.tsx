@@ -287,7 +287,7 @@ export default function WhenToChooseSettlementPage() {
                                 Let us be brutally honest: If you have the capacity to pay, you should always choose full repayment. Settlement is a 'Distress Service'. It is for people who have no other choice. If you can sell an unused asset, take a side job, or restructure your spending to pay back the loan, do it.
                             </p>
                             <div className="bg-[#F1F3F5] p-8 rounded-2xl mb-8">
-                                <h4 className="font-bold mb-4">Choose Repayment If:</h4>
+                                <h3 className="font-bold mb-4">Choose Repayment If:</h3>
                                 <ul className="space-y-4">
                                     <li className="flex items-center gap-3">
                                         <div className="w-2 h-2 bg-green-500 rounded-full"></div>
@@ -315,7 +315,7 @@ export default function WhenToChooseSettlementPage() {
                                 There are times when 'Protecting Your CIBIL' is synonymous with 'Financial Suicide'. If you are taking a new loan to pay an old loan, you are in a death spiral. Eventually, the new loans will stop, and you will be left with 10x the original debt. This is when settlement becomes not just an option, but a necessity.
                             </p>
                             <div className="p-8 bg-black text-white rounded-3xl mb-8">
-                                <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">The Red Line: When to Stop Repaying and Start Settling</h4>
+                                <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">The Red Line: When to Stop Repaying and Start Settling</h3>
                                 <p className="mb-6 opacity-80 italic">We recommend settlement when you meet at least three of the following criteria:</p>
                                 <ul className="space-y-4 opacity-90">
                                     <li>✓ <strong>Income to EMI Ratio:</strong> Your EMIs consume more than 70% of your take-home pay.</li>
@@ -419,7 +419,7 @@ export default function WhenToChooseSettlementPage() {
                                     </ul>
                                 </div>
                                 <div className="bg-blue-600 p-8 rounded-3xl text-white">
-                                    <h4 className="font-bold mb-2">Our Success Rate</h4>
+                                    <h3 className="font-bold mb-2">Our Success Rate</h3>
                                     <div className="text-5xl font-black mb-2">94%</div>
                                     <p className="text-xs opacity-80">of our clients achieve a legal settlement within 6 to 9 months of joining our program.</p>
                                 </div>
@@ -435,7 +435,7 @@ export default function WhenToChooseSettlementPage() {
                                 <div className="flex gap-4">
                                     <div className="flex-shrink-0 w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center font-black">01</div>
                                     <div>
-                                        <h4 className="font-bold">Audit Your Debt</h4>
+                                        <h3 className="font-bold">Audit Your Debt</h3>
                                         <p className="text-sm text-gray-600">List every loan, interest rate, and total outstanding. Identify which ones are most 'settleable'.</p>
                                     </div>
                                 </div>
@@ -498,7 +498,7 @@ export default function WhenToChooseSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -569,14 +569,14 @@ export default function WhenToChooseSettlementPage() {
                     <aside className="w-full lg:w-1/5 flex flex-col gap-8">
                         <div className="sticky top-32 space-y-8">
                             <div className="bg-[#1F5EFF] p-8 rounded-[30px] shadow-xl text-white">
-                                <h3 className="text-2xl font-black mb-4 leading-tight uppercase">Settle <br />Your Way <br />To Freedom</h3>
+                                <div className="text-2xl font-black mb-4 leading-tight uppercase">Settle <br />Your Way <br />To Freedom</div>
                                 <p className="text-white/80 text-sm mb-6">Expert negotiation that saves you 50% or more on your outstanding debts.</p>
                                 <Link href="/contact" className="block w-full bg-white text-[#1F5EFF] text-center font-bold py-4 rounded-xl hover:bg-gray-100 transition-colors shadow-lg">
                                     Talk to Experts
                                 </Link>
                             </div>
                             <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm">
-                                <h4 className="font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Decision Tools</h4>
+                                <div className="font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Decision Tools</div>
                                 <ul className="space-y-4">
                                     <li><Link href="/can-you-get-a-loan-again-after-settling-a-previous-loan" className="text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Can You Loan Again?</Link></li>
                                     <li><Link href="/will-banks-blacklist-you-after-loan-settlement" className="text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Will I be Blacklisted?</Link></li>

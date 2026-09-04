@@ -188,7 +188,7 @@ export default function LoanRecoveryDocumentationPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
                                 <div className="bg-blue-50 p-8 rounded-2xl border-b-4 border-blue-500 shadow-sm">
-                                    <h4 className="font-black mb-4 text-[#0B3954] text-xl">RDB Act, 1993</h4>
+                                    <h3 className="font-black mb-4 text-[#0B3954] text-xl">RDB Act, 1993</h3>
                                     <p className="text-sm leading-relaxed opacity-80">Handles recovery of debts exceeding ₹20 Lakhs through Debt Recovery Tribunals (DRT). Requires a full 'Original Application' (OA) with exhaustive evidence annexures that comply with the Civil Procedure Code.</p>
                                 </div>
                                 <div className="bg-green-50 p-8 rounded-2xl border-b-4 border-green-500 shadow-sm">
@@ -287,7 +287,7 @@ export default function LoanRecoveryDocumentationPage() {
                                 SARFAESI is a powerful but sensitive tool. It allows for fast recovery without court intervention, but it is under massive scrutiny by High Courts and the Supreme Court. A single procedural error—even a minor one—makes the entire action 'void ab initio'.
                             </p>
                             <div className="bg-red-50 p-10 rounded-3xl border border-red-100 mb-12">
-                                <h4 className="text-2xl font-black text-red-900 mb-6 underline decoration-red-300">The 13(2) and 13(4) Redlines</h4>
+                                <h3 className="text-2xl font-black text-red-900 mb-6 underline decoration-red-300">The 13(2) and 13(4) Redlines</h3>
                                 <ul className="space-y-6 text-base text-red-800">
                                     <li><strong>The 13(2) Demand Notice:</strong> Must contain the detailed break-up of principal and interest. It must explicitly identify the secured assets. Failure to mention a single property detail here means that specific property cannot be seized later. It also must grant exactly 60 days to pay.</li>
                                     <li><strong>Proof of Service & Publication:</strong> Sending a notice via post is not enough. You must have the Acknowledgment Due (AD) card or proof of refusal. If the borrower is untraceable, you must publish the notice in two leading newspapers (one in English and one in the regional language).</li>
@@ -306,7 +306,7 @@ export default function LoanRecoveryDocumentationPage() {
                             </p>
                             <div className="bg-gray-900 text-white p-10 rounded-3xl shadow-2xl relative overflow-hidden">
                                 <div className="absolute top-0 right-0 p-4 bg-blue-600 font-black text-[10px] uppercase tracking-tighter rounded-bl-xl">DRT Evidence Checklist</div>
-                                <h4 className="text-xl font-black mb-6 text-blue-400">Winning At the Tribunal</h4>
+                                <h3 className="text-xl font-black mb-6 text-blue-400">Winning At the Tribunal</h3>
                                 <ul className="grid md:grid-cols-2 gap-6 text-sm">
                                     <li className="flex items-center gap-3">
                                         <span className="text-blue-500 font-black">»</span> Certified Ledger Statements (3 Years)
@@ -356,7 +356,7 @@ export default function LoanRecoveryDocumentationPage() {
                                 Many recovery cases end in a settlement (OTS - One Time Settlement). However, if the settlement documentation is not structured correctly, the borrower can default on the settlement too, leaving the bank in a worse position.
                             </p>
                             <div className="bg-blue-900 text-white p-10 rounded-3xl shadow-xl">
-                                <h4 className="text-2xl font-black mb-6 border-b border-blue-700 pb-4">Safe Settlement Paperwork</h4>
+                                <h3 className="text-2xl font-black mb-6 border-b border-blue-700 pb-4">Safe Settlement Paperwork</h3>
                                 <ul className="space-y-4 text-sm opacity-90">
                                     <li><strong className="text-blue-300">The OTS Letter:</strong> Must have a 'Time is Essence' clause. If even one payment is late, the settlement is canceled and the original full debt is revived.</li>
                                     <li><strong className="text-blue-300">Consent Decree:</strong> If a case is already in court, the settlement must be filed as a 'Consent Terms' and a decree must be obtained. This makes the settlement as powerful as a judgment.</li>
@@ -427,7 +427,7 @@ export default function LoanRecoveryDocumentationPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -449,22 +449,22 @@ export default function LoanRecoveryDocumentationPage() {
                             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
                                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-xl text-center group hover:bg-[#1F5EFF] transition-all hover:-translate-y-2">
                                     <div className="text-3xl mb-4 group-hover:scale-125 transition-transform">📁</div>
-                                    <h6 className="font-black mb-2 group-hover:text-white transition-colors">Digital Vault</h6>
+                                    <h3 className="font-black mb-2 group-hover:text-white transition-colors">Digital Vault</h3>
                                     <p className="text-[10px] opacity-70 group-hover:text-white/80 transition-colors">Secure, indexed digitization of all loan files with OCR and metadata tagging for instant legal retrieval.</p>
                                 </div>
                                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-xl text-center group hover:bg-[#1F5EFF] transition-all hover:-translate-y-2">
                                     <div className="text-3xl mb-4 group-hover:scale-125 transition-transform">⚖️</div>
-                                    <h6 className="font-black mb-2 group-hover:text-white transition-colors">Gap Analysis</h6>
+                                    <h4 className="font-black mb-2 group-hover:text-white transition-colors">Gap Analysis</h4>
                                     <p className="text-[10px] opacity-70 group-hover:text-white/80 transition-colors">Identifying missing signatures, expired deeds, or unstamped documents before action is initiated.</p>
                                 </div>
                                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-xl text-center group hover:bg-[#1F5EFF] transition-all hover:-translate-y-2">
                                     <div className="text-3xl mb-4 group-hover:scale-125 transition-transform">📬</div>
-                                    <h6 className="font-black mb-2 group-hover:text-white transition-colors">Notice Desk</h6>
+                                    <h5 className="font-black mb-2 group-hover:text-white transition-colors">Notice Desk</h5>
                                     <p className="text-[10px] opacity-70 group-hover:text-white/80 transition-colors">Automated, legally-vetted issuance of demand and default notices with tamper-proof delivery logs.</p>
                                 </div>
                                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-xl text-center group hover:bg-[#1F5EFF] transition-all hover:-translate-y-2">
                                     <div className="text-3xl mb-4 group-hover:scale-125 transition-transform">🏛️</div>
-                                    <h6 className="font-black mb-2 group-hover:text-white transition-colors">Tribunal Filing</h6>
+                                    <h5 className="font-black mb-2 group-hover:text-white transition-colors">Tribunal Filing</h5>
                                     <p className="text-[10px] opacity-70 group-hover:text-white/80 transition-colors">Preparation of OAs and IBC Petitions with total error-free numbering and indexing for fast admission.</p>
                                 </div>
                             </div>
@@ -521,7 +521,7 @@ export default function LoanRecoveryDocumentationPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-3xl shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-5 text-center">
-                                    <h3 className="text-xl font-black text-white px-2 uppercase tracking-widest">Global Recovery</h3>
+                                    <div className="text-xl font-black text-white px-2 uppercase tracking-widest">Global Recovery</div>
                                 </div>
                                 <div className="p-10 text-center">
                                     <p className="mb-10 text-base text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -536,7 +536,7 @@ export default function LoanRecoveryDocumentationPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-8 rounded-3xl border border-[#DEDEDE] shadow-xl">
-                                <h3 className="text-sm font-black uppercase tracking-[0.2em] text-[#747474] mb-6 border-b border-[#DEDEDE] pb-3 text-center">Related Expertise</h3>
+                                <div className="text-sm font-black uppercase tracking-[0.2em] text-[#747474] mb-6 border-b border-[#DEDEDE] pb-3 text-center">Related Expertise</div>
                                 <ul className="space-y-6 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/best-lawyer-for-documentation-review-of-loan-agreement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

@@ -388,7 +388,7 @@ export default function LoanSettlementLetterNOCPage() {
               
               <ul className="space-y-6 mb-10">
                 <li className="bg-green-50 p-6 rounded-xl border-l-4 border-green-500 shadow-sm">
-                  <h4 className="font-black text-lg mb-2 text-green-900">The 7-Day NOC Rule</h4>
+                  <h3 className="font-black text-lg mb-2 text-green-900">The 7-Day NOC Rule</h3>
                   <p className="text-green-800">Once the payment clears, the bank must generate and send the digital NOC to your registered email within 7 working days. Failure to do so allows for a direct complaint to the Banking Ombudsman.</p>
                 </li>
                 <li className="bg-green-50 p-6 rounded-xl border-l-4 border-green-500 shadow-sm">
@@ -418,7 +418,7 @@ export default function LoanSettlementLetterNOCPage() {
                 ].map((item, idx) => (
                   <div key={idx} className="bg-gray-50 p-6 rounded-2xl border border-gray-100 text-center">
                     <span className="text-3xl font-black text-[#1F5EFF] mb-2 inline-block">{item.step}</span>
-                    <h5 className="font-bold text-sm mb-2">{item.title}</h5>
+                    <h3 className="font-bold text-sm mb-2">{item.title}</h3>
                     <p className="text-xs text-gray-500">{item.desc}</p>
                   </div>
                 ))}
@@ -433,7 +433,7 @@ export default function LoanSettlementLetterNOCPage() {
                 </p>
                 <div className="grid md:grid-cols-2 gap-12">
                   <div className="space-y-4">
-                    <h4 className="font-bold text-xl border-b border-white/20 pb-2">Our Support Services</h4>
+                    <h3 className="font-bold text-xl border-b border-white/20 pb-2">Our Support Services</h3>
                     <ul className="text-sm space-y-2 opacity-90">
                       <li>✓ Professional Drafting of Request Letters.</li>
                       <li>✓ Real-time Authentication of Bank Letters.</li>
@@ -469,7 +469,7 @@ export default function LoanSettlementLetterNOCPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-500 text-sm">★★★★★</div>
@@ -548,7 +548,7 @@ export default function LoanSettlementLetterNOCPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20 p-6">
                 <div className="text-center mb-6">
-                  <h3 className="text-xl font-black text-white mb-2 uppercase tracking-tighter">Documentation Shield</h3>
+                  <div className="text-xl font-black text-white mb-2 uppercase tracking-tighter">Documentation Shield</div>
                   <p className="text-[#DEDEDE]/70 text-sm">Get access to professional templates and verification for all your settlement paperwork.</p>
                 </div>
                 <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-xl hover:scale-105 transition-all text-sm text-center shadow-lg">
@@ -567,7 +567,7 @@ export default function LoanSettlementLetterNOCPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white rounded-2xl border border-[#DEDEDE] shadow-sm p-6">
-                <h3 className="text-sm font-bold uppercase tracking-wider text-[#2E2E2E] mb-4">Letter & Legal Specs</h3>
+                <div className="text-sm font-bold uppercase tracking-wider text-[#2E2E2E] mb-4">Letter & Legal Specs</div>
                 <nav className="flex flex-col gap-3">
                   <Link href="/home-loan-eligibility-after-settlement" className="text-sm text-blue-600 hover:underline">Mortgage After Settlement</Link>
                   <Link href="/p2p-crypto-scam-unfreeze-bank-account" className="text-sm text-blue-600 hover:underline">Unfreeze Account Law</Link>

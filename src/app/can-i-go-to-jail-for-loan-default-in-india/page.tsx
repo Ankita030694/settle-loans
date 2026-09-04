@@ -282,7 +282,7 @@ export default function LoanDefaultJailPage() {
                             <p className="mb-6 text-lg leading-relaxed">The Reserve Bank of India has very specific rules about how banks and NBFCs must handle defaults. These are not 'suggestions'; they are mandatory directives. If a bank violates these, they can face heavy penalties and even lose their license.</p>
                             <div className="space-y-4">
                                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2">Restricted Timing (7 AM - 7 PM)</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-2">Restricted Timing (7 AM - 7 PM)</h3>
                                     <p className="text-sm">Agents can only call or visit between 7 AM and 7 PM. Any call at 11 PM or 5 AM is a direct violation of RBI's Fair Practices Code.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
@@ -325,7 +325,7 @@ export default function LoanDefaultJailPage() {
                                     Financial failure is a setback, not a character flaw. Your life is worth more than any bank balance.
                                 </p>
                                 <div className="bg-white p-6 rounded-xl border border-[#1F5EFF]/10 shadow-sm">
-                                    <h4 className="font-bold mb-4 text-[#2E2E2E]">Resources for Support:</h4>
+                                    <h3 className="font-bold mb-4 text-[#2E2E2E]">Resources for Support:</h3>
                                     <ul className="space-y-2 text-sm text-gray-600">
                                         <li>• <strong>Tele-MANAS:</strong> 24/7 free mental health support (Government of India)</li>
                                         <li>• <strong>Vandrevala Foundation:</strong> 9999 666 555 (Confidential Support)</li>
@@ -360,7 +360,7 @@ export default function LoanDefaultJailPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -415,7 +415,7 @@ export default function LoanDefaultJailPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Stop Harassment</h3>
+                                    <div className="text-lg font-black text-white">Stop Harassment</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -429,7 +429,7 @@ export default function LoanDefaultJailPage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Related Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Related Guides</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li><Link href="/police-case-for-credit-card-debt" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Police Case for Card Debt</Link></li>
                                     <li><Link href="/bank-recovery-case-in-court" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Recovery Court Cases</Link></li>

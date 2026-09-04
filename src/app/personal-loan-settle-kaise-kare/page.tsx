@@ -1182,9 +1182,9 @@ export default function PersonalLoanSettleKaiseKarePage() {
                 <ShieldAlert className="w-3 h-3" />
                 <span>Notice Defense Desk</span>
               </div>
-              <h3 className="text-base font-black text-white mb-2 leading-snug">
+              <div className="text-base font-black text-white mb-2 leading-snug">
                 Facing Bank Legal Notices or Recovery Harassment?
-              </h3>
+              </div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Get immediate advocate intervention to respond to Section 25 PSSA / Section 138 notices, stop unauthorized harassment, and negotiate a 40%–60% OTS haircut.
               </p>

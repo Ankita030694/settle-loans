@@ -528,10 +528,10 @@ export default function GoldLoanShortfallSettlementPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
-                <h4 className="font-bold text-sm text-slate-900 uppercase tracking-wider flex items-center gap-2">
+                <h3 className="font-bold text-sm text-slate-900 uppercase tracking-wider flex items-center gap-2">
                   <Scale className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory RBI Procedural Protocols for Gold Loan Auctions</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white border border-slate-200 rounded-xl">
                     <strong className="text-slate-900 block mb-1">1. Minimum 14-Day Registered Notice:</strong>
@@ -989,7 +989,7 @@ export default function GoldLoanShortfallSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Legal Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Received a Gold Loan Shortfall Notice?</h4>
+              <div className="font-bold text-base text-white mb-2">Received a Gold Loan Shortfall Notice?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let the lender harass you or initiate civil recovery. Hire experienced banking litigation advocates to challenge auction lapses and negotiate a 100% shortfall waiver to a ₹0 balance.
               </p>
@@ -1003,9 +1003,9 @@ export default function GoldLoanShortfallSettlementPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

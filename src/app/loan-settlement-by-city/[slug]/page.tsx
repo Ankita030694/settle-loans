@@ -317,7 +317,7 @@ export default async function LawyerBySlugPage({ params }: { params: Promise<{ s
                     <div className="flex items-start">
                       <div className="flex-shrink-0 w-8 h-8 bg-red-100 text-red-600 rounded-full flex items-center justify-center mr-3 mt-1">⚠️</div>
                       <div>
-                        <h4 className="font-bold text-gray-900">Job Loss or Income Reduction</h4>
+                        <h3 className="font-bold text-gray-900">Job Loss or Income Reduction</h3>
                         <p className="text-gray-600 text-sm">You have lost your primary source of income or faced a significant pay cut in {locationName}.</p>
                       </div>
                     </div>
@@ -634,7 +634,7 @@ export default async function LawyerBySlugPage({ params }: { params: Promise<{ s
                 {/* Contact Card */}
                 <div className="bg-[#2E2E2E] p-8 rounded-[2rem] shadow-xl text-white relative overflow-hidden">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-full -mr-12 -mt-12"></div>
-                  <h3 className="text-2xl font-black mb-4 relative z-10">Urgent Help?</h3>
+                  <div className="text-2xl font-black mb-4 relative z-10">Urgent Help?</div>
                   <p className="text-gray-400 mb-8 font-medium text-sm leading-relaxed relative z-10">
                     Speak to our senior debt resolution specialists in {locationName} today for a confidential strategy.
                   </p>
@@ -656,7 +656,7 @@ export default async function LawyerBySlugPage({ params }: { params: Promise<{ s
 
                 {/* Related Services */}
                 <div className="bg-slate-50 p-8 rounded-[2rem] border border-slate-100">
-                  <h3 className="text-xl font-black text-[#2E2E2E] mb-6">Related Services</h3>
+                  <div className="text-xl font-black text-[#2E2E2E] mb-6">Related Services</div>
                   <ul className="space-y-4">
                     {[
                       { label: "Loan Settlement", href: "/loan-settlement" },

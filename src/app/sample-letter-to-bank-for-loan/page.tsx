@@ -294,7 +294,7 @@ export default function SampleLetterToBankForLoanPage() {
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Personal Loans</h4>
+                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Personal Loans</h3>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Personal loans are unsecured, meaning you do not need to pledge collateral. Because the risk to the bank is higher, your letter must strongly emphasize your stable income, your tenure at your current job, and your pristine credit history. You must clearly state the exact purpose of the loan, whether it is for debt consolidation, a family wedding, or a medical emergency. Transparency is vital here. Do not use vague terms; be specific about how the funds will be utilized and how you have calculated your repayment capacity based on your monthly disposable income.
                                     </p>
@@ -357,7 +357,7 @@ export default function SampleLetterToBankForLoanPage() {
                                 <li className="flex items-start gap-4">
                                     <span className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-sm font-bold flex-shrink-0 mt-1">1</span>
                                     <div>
-                                        <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Gather All Your Information</h4>
+                                        <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Gather All Your Information</h3>
                                         <p className="text-gray-700 leading-relaxed">Before you type a single word, collect all necessary data. You need your bank account number, the exact loan amount required, a clear breakdown of the purpose, and your employment or business details. Having everything at your fingertips prevents interruptions and ensures accuracy.</p>
                                     </div>
                                 </li>
@@ -836,7 +836,7 @@ Yours faithfully,
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm flex gap-1">
@@ -903,7 +903,7 @@ Yours faithfully,
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">Expert Financial Support</h3>
+                                    <div className="text-lg font-black text-white px-2">Expert Financial Support</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -918,7 +918,7 @@ Yours faithfully,
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">More Financial Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">More Financial Resources</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/best-lawyer-for-msme-business-loan-dispute" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

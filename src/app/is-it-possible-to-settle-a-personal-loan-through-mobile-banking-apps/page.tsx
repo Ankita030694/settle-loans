@@ -288,7 +288,7 @@ export default function MobileAppLoanSettlementPage() {
               </p>
               <div className="grid md:grid-cols-3 gap-6 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-blue-600">Loan Closure</h4>
+                  <h3 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-blue-600">Loan Closure</h3>
                   <p className="text-sm">This is the natural end of a loan. You have paid every EMI on time, and the balance hits zero. The app will usually show "Closed" and might even offer you a digital No Dues Certificate.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
@@ -376,7 +376,7 @@ export default function MobileAppLoanSettlementPage() {
                 <div className="flex gap-6">
                    <div className="flex-shrink-0 w-12 h-12 bg-black text-white rounded-xl flex items-center justify-center font-black text-xl">01</div>
                    <div>
-                     <h4 className="text-xl font-bold mb-2">Detailed Hardship Documentation</h4>
+                     <h3 className="text-xl font-bold mb-2">Detailed Hardship Documentation</h3>
                      <p className="text-lg leading-relaxed text-gray-600 mb-4">Before you even open your banking app, ensure you have proof of your financial crisis. This could be a termination letter, medical bills, or a closure notice for your small business. Lenders require empirical evidence to justify a waiver to their audit committee.</p>
                      <p className="text-sm text-gray-500 italic">Pro Tip: Use the Secure Vault in AMA Connect to store these files with a time-stamp for legal admissibility.</p>
                    </div>
@@ -548,7 +548,7 @@ export default function MobileAppLoanSettlementPage() {
                 <div className="flex gap-6 items-start">
                   <div className="text-4xl font-bold text-gray-200">1</div>
                   <div>
-                    <h4 className="font-bold text-lg mb-2">The Largest Discount</h4>
+                    <h3 className="font-bold text-lg mb-2">The Largest Discount</h3>
                     <p className="text-sm text-gray-500">Prioritize the app offering the biggest waiver (e.g., settling a 50,000 debt for 15,000). This maximizes the impact of your limited cash.</p>
                   </div>
                 </div>
@@ -580,7 +580,7 @@ export default function MobileAppLoanSettlementPage() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Real Stories of Digital Debt Freedom</h2>
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
-                   <h4 className="font-black text-slate-800 mb-2">Rajesh's 2 Lakh Resolution</h4>
+                   <h3 className="font-black text-slate-800 mb-2">Rajesh's 2 Lakh Resolution</h3>
                    <p className="text-sm italic mb-4">"The AMA Connect app was a lifecycle. It stopped 50 plus calls a day and helped me settle my credit card for 65,000 rupees."</p>
                    <p className="text-xs font-bold text-blue-600 tracking-tighter uppercase">Verified Success Story</p>
                 </div>
@@ -646,7 +646,7 @@ export default function MobileAppLoanSettlementPage() {
                 <p className="text-red-900 font-bold text-lg mb-8 italic">If you have defaulted on an app-based loan in India, follow these steps immediately to protect your legal and social integrity:</p>
                 <div className="grid md:grid-cols-2 gap-8">
                   <div className="space-y-6">
-                    <h4 className="font-black text-red-700 uppercase text-xs tracking-widest">Immediate Actions</h4>
+                    <h3 className="font-black text-red-700 uppercase text-xs tracking-widest">Immediate Actions</h3>
                     <ul className="space-y-4">
                       <li className="flex items-start gap-4">
                         <span className="w-6 h-6 bg-red-200 text-red-800 rounded-full flex items-center justify-center text-xs font-black">1</span>
@@ -721,7 +721,7 @@ export default function MobileAppLoanSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -778,7 +778,7 @@ export default function MobileAppLoanSettlementPage() {
           <aside className="hidden lg:block w-1/5 min-w-[280px]">
             <div className="sticky top-32 space-y-8">
               <div className="bg-[#2E2E2E] rounded-2xl p-8 shadow-xl border border-[#1F5EFF]/20">
-                <h3 className="text-xl font-black text-white mb-4 leading-tight">Digital Debt <br /> Final Guidance</h3>
+                <div className="text-xl font-black text-white mb-4 leading-tight">Digital Debt <br /> Final Guidance</div>
                 <p className="text-[#DEDEDE]/70 text-sm mb-6 font-normal">Our legal team specializes in app based loan defaults and settlement negotiation.</p>
                 <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white text-center font-bold py-4 rounded-xl hover:bg-blue-600 transition-all text-sm shadow-lg mb-4">
                   Talk to an Expert
@@ -791,7 +791,7 @@ export default function MobileAppLoanSettlementPage() {
               </div>
 
               <div className="bg-white rounded-2xl p-8 border border-gray-100 shadow-sm">
-                <h3 className="text-sm font-black text-[#747474] mb-6 uppercase tracking-widest italic">Related Insights</h3>
+                <div className="text-sm font-black text-[#747474] mb-6 uppercase tracking-widest italic">Related Insights</div>
                 <div className="space-y-4 border-l-2 border-[#1F5EFF]/10 pl-4">
                   <Link href="/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-snug">
                     Verifying Genuine Offers

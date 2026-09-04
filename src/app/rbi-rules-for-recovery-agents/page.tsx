@@ -330,7 +330,7 @@ export default function RBIRulesPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-12">
                 <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200">
-                  <h4 className="text-xl font-black text-[#2E2E2E] mb-4 uppercase tracking-wider">Illegal Conduct</h4>
+                  <h3 className="text-xl font-black text-[#2E2E2E] mb-4 uppercase tracking-wider">Illegal Conduct</h3>
                   <ul className="space-y-4 text-[#2E2E2E]/80 font-bold">
                     <li className="flex items-start gap-2">
                         <span className="text-red-500 shrink-0">✘</span>
@@ -408,7 +408,7 @@ export default function RBIRulesPage() {
                  <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm flex items-start gap-4">
                     <div className="w-12 h-12 rounded-full bg-blue-100 flex items-center justify-center shrink-0 font-black text-blue-600">01</div>
                     <div>
-                        <h4 className="font-black text-[#2E2E2E] mb-1">Official ID Card</h4>
+                        <h3 className="font-black text-[#2E2E2E] mb-1">Official ID Card</h3>
                         <p className="text-sm text-[#2E2E2E]/70 font-bold leading-relaxed">The agent must carry a valid identity card issued by the bank or the recovery agency. This card must have a clear photo and the agent's full name.</p>
                     </div>
                  </div>
@@ -455,7 +455,7 @@ export default function RBIRulesPage() {
                 <div className="grid md:grid-cols-3 gap-8">
                   <div className="space-y-4">
                     <div className="text-[#1F5EFF] font-black text-4xl">01</div>
-                    <h5 className="text-white font-bold text-lg">Internal Grievance</h5>
+                    <h4 className="text-white font-bold text-lg">Internal Grievance</h4>
                     <p className="text-white/60 text-sm leading-relaxed">Write a formal email to the bank's Nodal Officer documenting the violation. Use specific dates, times, and phone numbers.</p>
                   </div>
                   <div className="space-y-4">
@@ -485,7 +485,7 @@ export default function RBIRulesPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-12">
                 <div className="border-2 border-dashed border-[#DEDEDE] p-8 rounded-3xl">
-                   <h4 className="text-xl font-black text-[#2E2E2E] mb-4">When to Approach the Ombudsman</h4>
+                   <h3 className="text-xl font-black text-[#2E2E2E] mb-4">When to Approach the Ombudsman</h3>
                    <ul className="space-y-3 text-sm font-bold text-[#2E2E2E]/80">
                       <li>• The bank has rejected your complaint for no valid reason.</li>
                       <li>• 30 days have passed since your formal email to the Nodal Officer.</li>
@@ -574,7 +574,7 @@ export default function RBIRulesPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -645,7 +645,7 @@ export default function RBIRulesPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Legal Protection</h3>
+                  <div className="text-lg font-black text-white">Legal Protection</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -660,7 +660,7 @@ export default function RBIRulesPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/how-to-stop-loan-recovery-harassment" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

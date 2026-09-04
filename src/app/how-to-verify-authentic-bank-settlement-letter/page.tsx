@@ -746,10 +746,10 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <MailCheck className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Check 1: Official Corporate Domain Email Dispatch</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Ensure the settlement letter is emailed directly from the bank&apos;s registered corporate email domain (e.g., <code className="text-blue-700 bg-blue-50 px-1 py-0.5 rounded">nodal.officer@hdfcbank.com</code>, <code className="text-blue-700 bg-blue-50 px-1 py-0.5 rounded">retail.settlements@icicibank.com</code>, or <code className="text-blue-700 bg-blue-50 px-1 py-0.5 rounded">sarb.zonal@sbi.co.in</code>). Any letter received exclusively via WhatsApp, Telegram, or from public webmail servers (@gmail.com, @yahoo.co.in) is completely invalid.
                   </p>
@@ -1190,7 +1190,7 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Letter Audit</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Received a Settlement Letter?</h4>
+              <div className="font-bold text-base text-white mb-2">Received a Settlement Letter?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not risk losing money to fake WhatsApp OTS scams. Let our senior banking advocates conduct a complete forensic audit and verify your settlement directly with the bank.
               </p>
@@ -1204,9 +1204,9 @@ export default function VerifyAuthenticBankSettlementLetterPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

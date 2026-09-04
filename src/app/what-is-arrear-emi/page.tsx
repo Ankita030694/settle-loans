@@ -302,7 +302,7 @@ export default function ArrearEMIPage() {
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Who Else is Held Liable?</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Who Else is Held Liable?</h3>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -416,7 +416,7 @@ export default function ArrearEMIPage() {
                       <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                     </div>
                   </div>
-                  <h4 className="font-bold text-xl text-[#2E2E2E] mb-2">Rajiv Sharma</h4>
+                  <h3 className="font-bold text-xl text-[#2E2E2E] mb-2">Rajiv Sharma</h3>
                   <p className="text-gray-600 mb-6 italic">"I had 3 arrear EMIs and the bank was threatening NPA status. This guide helped me negotiate a waiver on my late fees and clear my arrears smoothly."</p>
                   <div className="flex gap-2">
                     <span className="inline-block py-1 px-3 rounded-full bg-red-100 text-red-700 text-xs font-bold">Personal Loan</span>
@@ -508,7 +508,7 @@ export default function ArrearEMIPage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-500"></div>
                 <div className="relative z-10">
-                  <h4 className="text-xl font-black mb-3">Facing Harassment?</h4>
+                  <div className="text-xl font-black mb-3">Facing Harassment?</div>
                   <p className="text-sm text-gray-300 mb-6">Learn your legal rights against recovery agents for EMI defaults.</p>
                   <Link href="/stop-recovery-harassment" className="block w-full bg-[#1F5EFF] text-white text-sm font-bold py-3 rounded-lg hover:bg-blue-600 transition-colors">
                     Get Legal Help
@@ -518,9 +518,9 @@ export default function ArrearEMIPage() {
 
               {/* Card 2 (White Resources) */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Related Guides
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/loan-npa-status" className="group flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

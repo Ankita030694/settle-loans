@@ -209,7 +209,7 @@ export default function BusinessLoanSettlementPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                                    <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">The OA Defence</h4>
+                                    <h3 className="font-bold text-xl mb-4 text-[#1F5EFF]">The OA Defence</h3>
                                     <p className="text-gray-700 leading-relaxed">We challenge the bank's OA on grounds of incorrect interest capitalization, missing documents, or violation of the 'Fair Practice Code'. A well-defended OA can drag on for 3 to 5 years, making the bank desperate for a settlement.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
@@ -261,7 +261,7 @@ export default function BusinessLoanSettlementPage() {
                                 When a bank issues a Section 13(2) notice, it is a declaration of war on your business premises. You have 60 days to respond. This is the most critical window in the entire debt cycle.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-2xl border-l-8 border-[#2E2E2E] mb-10">
-                                <h4 className="text-xl font-bold mb-4">Procedural Errors We Look For:</h4>
+                                <h3 className="text-xl font-bold mb-4">Procedural Errors We Look For:</h3>
                                 <ul className="space-y-2 text-gray-700">
                                     <li>- Faulty description of the property in the notice.</li>
                                     <li>- Failure to credit 'Partial Payments' made during the 60-day period.</li>
@@ -336,7 +336,7 @@ export default function BusinessLoanSettlementPage() {
                                 Since the introduction of the Insolvency and Bankruptcy Code (IBC) in 2016, banks have a new weapon: filing for Corporate Insolvency Resolution Process (CIRP) in the NCLT. If the NCLT admits the case, you lose control of your company to an 'Insolvency Professional' (IP).
                             </p>
                             <div className="bg-[#1F5EFF] p-8 rounded-2xl text-white my-10 shadow-lg">
-                                <h4 className="text-xl font-bold mb-4">The Pre-Admission Settlement (Section 12A)</h4>
+                                <h3 className="text-xl font-bold mb-4">The Pre-Admission Settlement (Section 12A)</h3>
                                 <p className="italic">"We use the threat of IBC to initiate what we call 'Shadow Settlements'. Even after an IBC application is filed, we can settle under Section 12A of the code if 90% of the creditors agree. Often, a well-timed settlement offer for one major bank is enough to prevent other creditors from joining the IBC petition."</p>
                             </div>
                         </section>
@@ -389,7 +389,7 @@ export default function BusinessLoanSettlementPage() {
                                 Many businesses are tempted to hire 'Debt Settlement Agencies' that promised 70% discounts for a flat fee. Be careful: many of these agencies are not law firms. They do not have 'Standing' to represent you in the DRT or the High Court.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-10">
-                                <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">The Lawyer Advantage:</h4>
+                                <h3 className="font-bold text-xl mb-4 text-[#1F5EFF]">The Lawyer Advantage:</h3>
                                 <ul className="space-y-4 text-gray-700">
                                     <li>- <strong>Attorney-Client Privilege:</strong> Your financial secrets are legally protected with a lawyer, unlike an agency.</li>
                                     <li>- <strong>Litigation as Leverage:</strong> An agency can only 'ask' the bank to settle. A lawyer can 'sue' the bank for illegal recovery, creating the fear that forces an OTS.</li>
@@ -463,7 +463,7 @@ export default function BusinessLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -519,7 +519,7 @@ export default function BusinessLoanSettlementPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] p-8 rounded-[24px] text-white shadow-xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-full -mr-12 -mt-12 group-hover:scale-150 transition-transform duration-500"></div>
-                                <h4 className="text-2xl font-black mb-4 relative z-10 leading-tight">Defend Your Business</h4>
+                                <div className="text-2xl font-black mb-4 relative z-10 leading-tight">Defend Your Business</div>
                                 <p className="text-[#DEDEDE]/80 text-sm mb-8 relative z-10 font-medium">Get a comprehensive legal audit of your loan and stop the SARFAESI auction cycle today.</p>
                                 <Link href="/contact" className="block w-full text-center bg-[#1F5EFF] text-white font-bold py-4 rounded-xl hover:bg-white hover:text-[#1F5EFF] transition-all duration-300 shadow-lg relative z-10">
                                     Legal Debt Audit
@@ -527,7 +527,7 @@ export default function BusinessLoanSettlementPage() {
                             </div>
 
                             <div className="bg-white border border-[#DEDEDE] p-8 rounded-[24px] shadow-sm font-bold">
-                                <h4 className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Case Resources</h4>
+                                <div className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Case Resources</div>
                                 <ul className="space-y-4">
                                     <li>
                                         <Link href="/best-lawyer-for-msme-business-loan-dispute" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors">

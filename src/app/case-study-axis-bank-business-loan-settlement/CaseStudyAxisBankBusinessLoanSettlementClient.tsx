@@ -308,10 +308,10 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
           {/* Left Column: Sticky Table of Contents + Quick Crux */}
           <aside className="hidden lg:block sticky top-24 space-y-5">
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-              <h3 className="text-xs font-black uppercase tracking-wider text-slate-500 mb-4 flex items-center gap-2">
+              <div className="text-xs font-black uppercase tracking-wider text-slate-500 mb-4 flex items-center gap-2">
                 <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
                 Case Study Index
-              </h3>
+              </div>
               <nav className="space-y-1.5 text-xs">
                 {tocItems.map((item) => (
                   <a
@@ -906,14 +906,14 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Commercial Debt &amp; Banking Legal Strategist
                   </p>
@@ -946,9 +946,9 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Axis Bank Commercial Relief</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Facing Axis Bank Business Loan Default?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Protect your personal assets from coercive collection. Let our senior banking advocates audit your commercial NPA status, draft your formal OTS proposal, and secure an official stamped Axis Bank settlement sanction.
               </p>
@@ -962,10 +962,10 @@ export default function CaseStudyAxisBankBusinessLoanSettlementClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why MSMEs Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

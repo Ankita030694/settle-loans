@@ -273,7 +273,7 @@ export default function LoanForeclosureCibilPage() {
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">1. Voluntary Prepayment (The Indian Context)</h4>
+                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">1. Voluntary Prepayment (The Indian Context)</h3>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         This is when you initiate the closure of the loan. You pay the full principal and interest, and the bank marks the account as "Closed" or "Paid in Full."
                                     </p>
@@ -303,7 +303,7 @@ export default function LoanForeclosureCibilPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Reduction in Debt Burden</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Reduction in Debt Burden</h3>
                                     <p className="text-sm">When you close a loan, your total outstanding debt decreases. This improves your Debt-to-Income (DTI) ratio. Lenders love seeing a low DTI because it means you have more disposable income to service any new debt in the future.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -327,7 +327,7 @@ export default function LoanForeclosureCibilPage() {
                                 Many borrowers confuse foreclosure with settlement. This is a dangerous misunderstanding. While both result in the loan being closed, the impact on your future ability to borrow is completely different.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The Difference in Reporting</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The Difference in Reporting</h3>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     In a **foreclosure**, the bank reports the status as "Closed" or "Post-Sanction Closed." This is a clean status.
                                 </p>
@@ -387,7 +387,7 @@ export default function LoanForeclosureCibilPage() {
                                 Beyond the impact on your CIBIL score, foreclosing a loan offers several massive financial advantages that far outweigh any temporary dip in your credit rating.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">Why It's a Smart Move</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">Why It's a Smart Move</h3>
                                 <ol className="space-y-4 text-base font-medium">
                                     <li className="flex items-start gap-3">
                                         <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs flex-shrink-0 mt-1">1</span>
@@ -493,7 +493,7 @@ export default function LoanForeclosureCibilPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -554,7 +554,7 @@ export default function LoanForeclosureCibilPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">CIBIL Support</h3>
+                                    <div className="text-lg font-black text-white px-2">CIBIL Support</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -569,7 +569,7 @@ export default function LoanForeclosureCibilPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Helpful Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Helpful Resources</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/credit-score-improvement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

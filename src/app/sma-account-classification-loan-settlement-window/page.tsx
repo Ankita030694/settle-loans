@@ -762,7 +762,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Notice of Legal Representation &amp; Fair Lending Protection</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Notice of Legal Representation &amp; Fair Lending Protection</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates serve a formal Notice of Representation to the bank&apos;s Principal Officer and Nodal Grievance Officer. This statutory communication invokes the <strong>RBI Master Direction on Fair Practices Code</strong>, halts all abusive recovery agent telephone calls and unannounced domestic visits, and mandates that all resolution discussions occur exclusively in writing through legal counsel.
                   </p>
@@ -1151,7 +1151,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                 </Link>
                 <div>
                   <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
-                    <h4 className="font-bold text-slate-900 text-sm">Ashish Jhangra</h4>
+                    <div className="font-bold text-slate-900 text-sm">Ashish Jhangra</div>
                   </Link>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
@@ -1177,7 +1177,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Pre-NPA Legal Intervention</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Loan Overdue in SMA-1 or SMA-2 Stage?</h4>
+              <div className="font-bold text-base text-white mb-2">Loan Overdue in SMA-1 or SMA-2 Stage?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not wait for Day 90 NPA classification and SARFAESI action. Engage debt defense advocates to leverage the bank provisioning pressure and secure a deep waiver or compromise settlement.
               </p>
@@ -1191,9 +1191,9 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

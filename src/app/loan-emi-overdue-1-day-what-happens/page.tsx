@@ -324,7 +324,7 @@ export default function LoanEMIOverdue1Day() {
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Credit Bureau Reporting Cycle</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Credit Bureau Reporting Cycle</h3>
                 <p className="text-lg leading-relaxed mb-4 text-blue-900">
                   Most banks and NBFCs batch their reporting to credit bureaus (CIBIL, Experian, Equifax) on a monthly basis, usually reporting the status of an account as of the month-end.
                 </p>
@@ -353,7 +353,7 @@ export default function LoanEMIOverdue1Day() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Bounce Charges</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. Bounce Charges</h3>
                   <p className="text-gray-700">Also known as ECS/NACH return charges. If your bank account lacks funds when the EMI auto-debit is triggered, your bank will charge you a bounce fee (usually ₹300 to ₹600 + GST). Additionally, your lender may also charge a separate bounce fee.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -628,7 +628,7 @@ export default function LoanEMIOverdue1Day() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                 <div className="relative z-10">
-                  <h3 className="text-xl font-black mb-4">Facing Harassment?</h3>
+                  <div className="text-xl font-black mb-4">Facing Harassment?</div>
                   <p className="text-gray-300 mb-6 text-sm">
                     Is the bank threatening you over missed EMIs? Know your legal rights and stop the harassment immediately.
                   </p>
@@ -639,7 +639,7 @@ export default function LoanEMIOverdue1Day() {
               </div>
 
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-6">Related Resources</h3>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-6">Related Resources</div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/what-is-loan-settlement" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group text-sm font-medium">

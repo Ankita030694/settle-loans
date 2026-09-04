@@ -295,7 +295,7 @@ export default function BankFiledFIRPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-8">
                                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-200">
-                                    <h4 className="font-bold text-blue-900 mb-2 underline">Civil Default (The Norm)</h4>
+                                    <h3 className="font-bold text-blue-900 mb-2 underline">Civil Default (The Norm)</h3>
                                     <ul className="text-sm text-blue-800 space-y-2">
                                         <li>• Business failure or job loss.</li>
                                         <li>• Honest intent to pay but lack of funds.</li>
@@ -464,7 +464,7 @@ export default function BankFiledFIRPage() {
                             <div className="grid sm:grid-cols-3 gap-6 my-10">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm text-center">
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-blue-600 text-xl">1</div>
-                                    <h4 className="font-bold mb-2">Legal Audit</h4>
+                                    <h3 className="font-bold mb-2">Legal Audit</h3>
                                     <p className="text-xs text-gray-500 leading-relaxed">Have a lawyer review your loan application and all bank communications to ensure no fraud occurred.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm text-center">
@@ -587,7 +587,7 @@ export default function BankFiledFIRPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -656,7 +656,7 @@ export default function BankFiledFIRPage() {
                         <div className="sticky top-32 flex flex-col gap-8">
                             {/* Sidebar CTA */}
                             <div className="bg-[#2E2E2E] rounded-2xl p-8 border border-[#1F5EFF]/20 shadow-2xl">
-                                <h3 className="text-2xl font-black text-white mb-4 leading-tight">Being <span className="text-[#1F5EFF]">Threatened</span> With FIR?</h3>
+                                <div className="text-2xl font-black text-white mb-4 leading-tight">Being <span className="text-[#1F5EFF]">Threatened</span> With FIR?</div>
                                 <p className="text-[#DEDEDE]/80 mb-8 text-sm leading-relaxed">
                                     Join 10,000+ Indians who have moved from fear to freedom. We handle the banks, the notices, and the agents.
                                 </p>
@@ -675,7 +675,7 @@ export default function BankFiledFIRPage() {
 
                             {/* Related Pages */}
                             <div className="bg-white rounded-2xl p-6 border border-[#DEDEDE] shadow-sm">
-                                <h4 className="font-black text-[#2E2E2E] mb-6 border-b pb-4">Read Also</h4>
+                                <div className="font-black text-[#2E2E2E] mb-6 border-b pb-4">Read Also</div>
                                 <div className="flex flex-col gap-4">
                                     <Link href="/police-case-for-credit-card-debt" className="text-sm font-bold text-[#1F5EFF] hover:underline">Police Case for Card Debt</Link>
                                     <Link href="/can-i-go-to-jail-for-loan-default-in-india" className="text-sm font-bold text-[#1F5EFF] hover:underline">Jail for Loan Default?</Link>

@@ -243,10 +243,10 @@ export default function MultipleAppLoanSettlementClient() {
           {/* Left Column: Dedicated Track (TOC + Crux) */}
           <aside className="hidden lg:block sticky top-24 space-y-5">
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-              <h3 className="text-xs font-black uppercase tracking-wider text-slate-500 mb-4 flex items-center gap-2">
+              <div className="text-xs font-black uppercase tracking-wider text-slate-500 mb-4 flex items-center gap-2">
                 <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
                 Case Study Index
-              </h3>
+              </div>
               <nav className="space-y-1.5 text-xs">
                 {tocItems.map((item) => (
                   <a
@@ -846,14 +846,14 @@ export default function MultipleAppLoanSettlementClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -886,9 +886,9 @@ export default function MultipleAppLoanSettlementClient() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Cyber Loan Harassment Desk</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Trapped in Multi-App Loan Harassment?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Stop 50+ abusive calls and threats to contacts today. Our legal advocates will serve immediate RBI cease-and-desist notices and consolidate all app loans into an affordable single settlement.
               </p>
@@ -902,10 +902,10 @@ export default function MultipleAppLoanSettlementClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

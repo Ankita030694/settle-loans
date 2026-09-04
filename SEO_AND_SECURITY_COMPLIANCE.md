@@ -75,3 +75,11 @@ All HTTP responses must output:
 ## 8. Heading Hierarchy Rules
 * **H1 Tag:** Exactly 1 per page, under 70 characters.
 * **H2 Tags:** Used for section breakdowns, under 70 characters, sequentially ordered. No duplicate text across H2 tags on a single page.
+
+---
+
+## 9. Heading Hierarchy & Component Rules
+* **Global UI Layout Tags:** Do NOT use `<h1>`-`<h6>` tags inside headers, footers, sidebars, navigation menus, or popups. Use styled `<div>` or `<span>` elements.
+* **Strict Order Sequence:** Headings must follow an unbroken sequence (`<h1>` -> `<h2>` -> `<h3>` -> `<h4>`). Skipping heading levels (e.g., `<h1>` directly to `<h3>` or `<h2>` directly to `<h4>`/`<h5>`) is strictly prohibited.
+* **Article Body Subheadings:** `<h2>` tags must be reserved solely for top-level content sections within the page body.
+

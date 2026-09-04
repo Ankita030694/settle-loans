@@ -327,7 +327,7 @@ export default function SettleDebtForLessPage() {
               <p className="text-center mb-10">Settling for less than you owe will leave a mark on your credit report. But it is a temporary scar, not a permanent disability. Here is how you heal.</p>
               <div className="grid md:grid-cols-2 gap-8 not-prose">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-lg transition-all">
-                  <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">Phase 1: Stabilization (Months 0-6)</h4>
+                  <h3 className="font-bold text-xl mb-4 text-[#1F5EFF]">Phase 1: Stabilization (Months 0-6)</h3>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">During this time, focus on ensuring all your other utilities and small bills are paid on time. Collect your NOCs and check your CIBIL report to ensure the status 'Settled' has replaced the 'Active Default' status. Do not apply for any new credit.</p>
                   <ul className="text-xs space-y-2 text-gray-500 font-bold">
                     <li>• Verify NDC authenticity</li>
@@ -379,7 +379,7 @@ export default function SettleDebtForLessPage() {
               <h2 className="text-3xl font-black mb-8 text-center">Final Success Checklist for 2024-25</h2>
               <div className="grid md:grid-cols-3 gap-6 not-prose">
                 <div className="bg-gray-50 p-6 rounded-2xl border border-[#DEDEDE] text-center">
-                  <h4 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">Pre-Game</h4>
+                  <h3 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs">Pre-Game</h3>
                   <ul className="text-[10px] space-y-2 text-gray-600 font-bold">
                     <li>✓ Stop all auto-debits / NACH</li>
                     <li>✓ Create a settlement fund</li>
@@ -456,7 +456,7 @@ export default function SettleDebtForLessPage() {
               {/* Debt Relief CTA */}
               <div className="bg-[#2E2E2E] rounded-3xl shadow-2xl overflow-hidden border-2 border-[#1F5EFF] flex flex-col">
                 <div className="p-8 text-center bg-gradient-to-b from-[#3a3a3a] to-[#2E2E2E]">
-                  <h3 className="text-xl font-black text-white mb-4">Struggling with <br/><span className="text-[#1F5EFF]">Debt Stress?</span></h3>
+                  <div className="text-xl font-black text-white mb-4">Struggling with <br/><span className="text-[#1F5EFF]">Debt Stress?</span></div>
                   <p className="mb-8 text-xs text-[#DEDEDE]/70 leading-relaxed font-bold">
                     Stop the calls. Stop the interest. Stop the fear. Our experts are ready to fight for your freedom.
                   </p>
@@ -468,7 +468,7 @@ export default function SettleDebtForLessPage() {
 
               {/* Settlement Metrics */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                 <h3 className="text-xs font-black uppercase tracking-widest text-gray-400 mb-6 text-center">Settlement Benchmarks</h3>
+                 <div className="text-xs font-black uppercase tracking-widest text-gray-400 mb-6 text-center">Settlement Benchmarks</div>
                  <div className="space-y-6">
                     <div className="flex justify-between items-center">
                        <span className="text-[10px] font-black text-gray-500 uppercase italic">Credit Cards</span>
@@ -496,7 +496,7 @@ export default function SettleDebtForLessPage() {
 
               {/* Related Tactics */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Negotiation Manuals</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Negotiation Manuals</div>
                 <ul className="space-y-4 text-xs font-black">
                   <li>
                     <Link href="/faqs/how-to-settle-loan" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

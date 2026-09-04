@@ -557,7 +557,7 @@ Yours faithfully,
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <div className="flex items-center gap-2.5 mb-3 text-rose-600 font-bold text-base">
                     <AlertOctagon className="w-5 h-5" />
-                    <h4>Criminal Trespass (Sec 441/447 IPC / Sec 329 BNS)</h4>
+                    <h3>Criminal Trespass (Sec 441/447 IPC / Sec 329 BNS)</h3>
                   </div>
                   <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                     Corporate office premises, IT parks, and business establishments are private property. Entering without lawful visitor permission or refusing to leave when asked by corporate security constitutes criminal trespass, punishable by imprisonment and fines.
@@ -726,9 +726,9 @@ Yours faithfully,
                     <div className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs">
                       1
                     </div>
-                    <h4 className="font-bold text-slate-900 text-base">
+                    <h3 className="font-bold text-slate-900 text-base">
                       Hold the Agent at Security / Visitor Lobby
-                    </h4>
+                    </h3>
                   </div>
                   <p className="text-sm text-slate-600 leading-relaxed ml-10">
                     Never allow the agent inside your office work floor or meeting rooms. Instruct the front-desk security executive to keep them seated in the public visitor holding area.
@@ -915,7 +915,7 @@ Yours faithfully,
                   <div className="w-10 h-10 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center mx-auto mb-3">
                     <Scale className="w-5 h-5" />
                   </div>
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">Substantial Financial Waiver</h4>
+                  <h3 className="font-bold text-slate-900 text-sm mb-1">Substantial Financial Waiver</h3>
                   <p className="text-xs text-slate-600">
                     SettleLoans negotiates waivers of <strong>40% to 70%</strong> on accumulated penal interest and outstanding principal.
                   </p>
@@ -973,10 +973,10 @@ Yours faithfully,
 
             {/* Regulatory Sources Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 mb-10 text-xs text-slate-600 space-y-3">
-              <h4 className="font-bold uppercase tracking-wider text-slate-900 text-sm flex items-center gap-2">
+              <h3 className="font-bold uppercase tracking-wider text-slate-900 text-sm flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Statutory Authorities &amp; Official Regulatory References</span>
-              </h4>
+              </h3>
               <ul className="space-y-2">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1115,14 +1115,14 @@ Yours faithfully,
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Chief Debt Strategist &amp; Consumer Rights Specialist
                   </p>
@@ -1155,9 +1155,9 @@ Yours faithfully,
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Legal Shield</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Are Recovery Agents Threatening Your Workplace or Job?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Don&apos;t face illegal intimidation alone. Connect with an empaneled SettleLoans advocate to serve an urgent legal notice to the bank&apos;s Nodal Officer and stop harassment immediately.
               </p>
@@ -1171,10 +1171,10 @@ Yours faithfully,
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Choose SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

@@ -167,7 +167,7 @@ export default function UserReviewsFAQ() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-12">
                                 <div className="p-8 bg-blue-50/50 border border-blue-100 rounded-3xl">
-                                    <h4 className="text-xl font-bold text-[#1F5EFF] mb-3">Harassment Mitigation Speed</h4>
+                                    <h3 className="text-xl font-bold text-[#1F5EFF] mb-3">Harassment Mitigation Speed</h3>
                                     <p className="text-sm text-gray-600">How quickly did the recovery calls stop after onboarding? Top platforms usually achieve a 70-80% reduction within the first week.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50/50 border border-blue-100 rounded-3xl">
@@ -198,7 +198,7 @@ export default function UserReviewsFAQ() {
                                 Interestingly, "Negative Sentiment" (often found in 1-star and 2-star reviews) was rarely about the company's failure to settle. Instead, it was almost always about <strong>unrealistic expectations</strong>. For instance, many negative reviews came from users who thought that hiring a resolution firm meant they never had to pay the bank anything. Professional platforms like SettleLoans have taken this data to heart, implementing mandatory "Onboarding Orientation" calls to ensure users understand that resolution is a compromise, not a free pass.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-3xl border border-yellow-200 mb-8">
-                                <h4 className="text-xl font-bold text-yellow-800 mb-4 tracking-tighter uppercase">The Sentiment Shift: 2022 vs 2024</h4>
+                                <h3 className="text-xl font-bold text-yellow-800 mb-4 tracking-tighter uppercase">The Sentiment Shift: 2022 vs 2024</h3>
                                 <p className="text-sm text-yellow-900 mb-4">In 2022, users were mostly grateful for stoping recovery calls. In 2024, the focus has shifted to 'Long-term Credit Recovery'.</p>
                                 <div className="space-y-2">
                                     <div className="h-6 bg-yellow-200 rounded-full overflow-hidden w-full flex">
@@ -249,14 +249,14 @@ export default function UserReviewsFAQ() {
                                 <li className="flex gap-4 items-start bg-gray-50 p-6 rounded-2xl">
                                     <FontAwesomeIcon icon={faCheckCircle} className="text-[#1F5EFF] mt-1" />
                                     <div>
-                                        <h5 className="font-bold text-[#2E2E2E]">Onboard Early</h5>
+                                        <h3 className="font-bold text-[#2E2E2E]">Onboard Early</h3>
                                         <p className="text-gray-600 text-sm">Users who start the process as soon as their account becomes an NPA (90 days default) usually get better deals than those who wait for two years.</p>
                                     </div>
                                 </li>
                                 <li className="flex gap-4 items-start bg-gray-50 p-6 rounded-2xl">
                                     <FontAwesomeIcon icon={faCheckCircle} className="text-[#1F5EFF] mt-1" />
                                     <div>
-                                        <h5 className="font-bold text-[#2E2E2E]">Maintain Digital Discipline</h5>
+                                        <h4 className="font-bold text-[#2E2E2E]">Maintain Digital Discipline</h4>
                                         <p className="text-gray-600 text-sm">Users who use the platform's app to track every interaction with the bank report a much higher satisfaction rate due to the clarity of information.</p>
                                     </div>
                                 </li>
@@ -413,7 +413,7 @@ export default function UserReviewsFAQ() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Top Rated</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Top Rated</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
@@ -426,7 +426,7 @@ export default function UserReviewsFAQ() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Explore Directory</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Explore Directory</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/contact-details-top-rated-debt-resolution-companies-india" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

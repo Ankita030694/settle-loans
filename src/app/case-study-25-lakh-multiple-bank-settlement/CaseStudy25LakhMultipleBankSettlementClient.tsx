@@ -1042,7 +1042,7 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
                 <div className="w-20 h-20 rounded-full bg-blue-100 text-[#1886ff] font-bold text-2xl mx-auto flex items-center justify-center mb-3 shadow-inner">
                   AJ
                 </div>
-                <h3 className="font-bold text-slate-900 text-lg">Ashish Jhangra</h3>
+                <div className="font-bold text-slate-900 text-lg">Ashish Jhangra</div>
                 <p className="text-xs text-[#1886ff] font-semibold mb-3">
                   Legal & Debt Resolution Professional
                 </p>
@@ -1065,9 +1065,9 @@ Account: Defaulted Credit Facility // Multi-Bank Stressed Portfolio
                   <PhoneCall className="w-3.5 h-3.5 text-blue-200" />
                   <span>Confidential Debt Helpline</span>
                 </div>
-                <h3 className="text-xl font-bold text-white mb-2 leading-snug">
+                <div className="text-xl font-bold text-white mb-2 leading-snug">
                   Trapped Under Multiple Loans?
-                </h3>
+                </div>
                 <p className="text-xs text-blue-100 leading-relaxed mb-5">
                   Stop recovery harassment immediately. Let SettleLoans evaluate your multi-bank portfolio and negotiate structured debt waivers.
                 </p>

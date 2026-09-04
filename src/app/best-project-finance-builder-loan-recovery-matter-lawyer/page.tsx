@@ -363,7 +363,7 @@ export default function ProjectFinanceLawyerPage() {
                                 However, most IBC petitions filed by homebuyers are not about insolvency, but about using the threat of IBC to force a refund. This is 'proxy litigation' and can be defended. The Supreme Court of India has established a clear 'Speculative Investor' test. If a buyer has entered the project with a buy-back clause or an assured return, they are considered an investor, not an allottee, and cannot trigger IBC.
                             </p>
                             <div className="bg-amber-50 p-8 rounded-xl border border-amber-200 my-8">
-                                <h4 className="text-xl font-bold text-amber-900 mb-4">Strategic Defense against IBC Section 7:</h4>
+                                <h3 className="text-xl font-bold text-amber-900 mb-4">Strategic Defense against IBC Section 7:</h3>
                                 <p className="text-sm text-amber-800 leading-relaxed mb-4">
                                     When facing an IBC petition from homebuyers, the key is to show that the developer is solvent and that the delay is not a sign of financial failure but of external circumstances.
                                 </p>
@@ -390,7 +390,7 @@ export default function ProjectFinanceLawyerPage() {
                                 <div className="flex gap-6 items-start">
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 flex-shrink-0 mt-1">1</div>
                                     <div>
-                                        <h4 className="text-xl font-bold mb-2">Challenging NPA Classification</h4>
+                                        <h3 className="text-xl font-bold mb-2">Challenging NPA Classification</h3>
                                         <p className="text-gray-600 leading-relaxed text-sm">
                                             We examine the bank's accounting to see if the NPA classification was premature. According to RBI Master Circulars, certain project loans have flexible NPA triggers based on DCCO extensions. If the bank miscalculated the 90 day window or ignored a valid extension request, the entire recovery process can be declared void by the DRT.
                                         </p>
@@ -431,7 +431,7 @@ export default function ProjectFinanceLawyerPage() {
                                 In today's climate, almost every high-value project recovery is accompanied by a forensic audit. Banks look for 'Fund Diversion' or 'Siphoning'. If a forensic auditor finds that project funds were used to buy land for another project, it can lead to charges of fraud, which makes any financial settlement nearly impossible and can lead to criminal action.
                             </p>
                             <div className="bg-gray-50 border border-gray-200 p-8 rounded-2xl mb-8">
-                                <h4 className="text-xl font-bold mb-4">Strategic Response to Forensic Audits:</h4>
+                                <h3 className="text-xl font-bold mb-4">Strategic Response to Forensic Audits:</h3>
                                 <p className="mb-4 text-gray-700 leading-relaxed text-sm">
                                     We don't wait for the auditor's report. We conduct a pre-emptive forensic review. By mapping every rupee of the loan to a project expense—even if it was an indirect expense—we build a defensible paper trail.
                                 </p>
@@ -480,7 +480,7 @@ export default function ProjectFinanceLawyerPage() {
                                     <div className="flex items-center mb-6">
                                         <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 mr-4">R</div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E]">Residential Project, Mumbai</h4>
+                                            <h3 className="font-bold text-[#2E2E2E]">Residential Project, Mumbai</h3>
                                             <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Project Finance Settlement</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -559,7 +559,7 @@ export default function ProjectFinanceLawyerPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Confidential Defense</h3>
+                                    <div className="text-lg font-black text-white">Confidential Defense</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -574,7 +574,7 @@ export default function ProjectFinanceLawyerPage() {
 
                             {/* Related Pages */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Technical Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Technical Guides</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/best-lawyer-for-msme-business-loan-dispute" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

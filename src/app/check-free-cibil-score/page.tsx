@@ -223,7 +223,7 @@ export default function CheckFreeCibilScorePage() {
                 Official CIBIL Report for Free
               </h2>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">RBI Mandate on Free Reports</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">RBI Mandate on Free Reports</h3>
                 <p className="text-lg leading-relaxed mb-6 text-blue-900">
                   According to the Reserve Bank of India (RBI) guidelines, every credit information company (CIC) operating in India is mandated to provide one full free credit report (FFCR) per calendar year to individuals upon request.
                 </p>
@@ -331,7 +331,7 @@ export default function CheckFreeCibilScorePage() {
               </h2>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-2">Myth Buster</h4>
+                <h3 className="text-xl font-black text-red-700 mb-2">Myth Buster</h3>
                 <p className="text-lg text-red-900">
                   Many people falsely believe that checking their own credit score lowers it. This is completely false. Checking your own score is considered a 'Soft Inquiry'.
                 </p>
@@ -360,7 +360,7 @@ export default function CheckFreeCibilScorePage() {
                       RK
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Rahul K.</h4>
+                      <h3 className="font-bold text-gray-900">Rahul K.</h3>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -454,7 +454,7 @@ export default function CheckFreeCibilScorePage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-700"></div>
                 <div className="relative z-10">
-                  <h4 className="text-xl font-black mb-3">Credit Score Below 700?</h4>
+                  <div className="text-xl font-black mb-3">Credit Score Below 700?</div>
                   <p className="text-sm text-gray-300 mb-6">Learn how to remove negative remarks and settlements.</p>
                   <Link href="/credit-repair" className="inline-block w-full bg-[#1F5EFF] text-white text-sm font-bold py-3 px-4 rounded-xl hover:bg-blue-600 transition-colors">
                     Repair My Credit
@@ -464,7 +464,7 @@ export default function CheckFreeCibilScorePage() {
 
               {/* Card 2 (White Resources) */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Resources</h4>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Resources</div>
                 <ul className="space-y-4">
                   {[
                     { text: "What is a Willful Defaulter?", link: "/cibil-defaulter-list" },

@@ -425,7 +425,7 @@ export default function SettleCreditCardDuesPage() {
                             </h2>
                             <div className="grid md:grid-cols-3 gap-6 mb-8">
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm hover:shadow-md transition-all">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Expert Negotiation</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Expert Negotiation</h3>
                                     <p className="text-sm text-gray-600">Access to banking 'floor rates' and professional benchmark data for every major Indian bank.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm hover:shadow-md transition-all">
@@ -447,14 +447,14 @@ export default function SettleCreditCardDuesPage() {
                                 <div className="flex gap-6 p-6 bg-gray-50 rounded-2xl">
                                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xl flex-shrink-0">1</div>
                                     <div>
-                                        <h5 className="font-bold text-lg mb-2">Financial Assessment</h5>
+                                        <h3 className="font-bold text-lg mb-2">Financial Assessment</h3>
                                         <p className="text-sm leading-relaxed">Deep audit of your debt, income, and hardship factors to set a realistic settlement target budget.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 p-6 bg-gray-50 rounded-2xl">
                                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xl flex-shrink-0">2</div>
                                     <div>
-                                        <h5 className="font-bold text-lg mb-2">Fund Accumulation</h5>
+                                        <h4 className="font-bold text-lg mb-2">Fund Accumulation</h4>
                                         <p className="text-sm leading-relaxed">Strategic pause in payments while building the 'Settlement Fund' needed for a successful lump-sum offer.</p>
                                     </div>
                                 </div>
@@ -528,7 +528,7 @@ export default function SettleCreditCardDuesPage() {
                                 CIBIL Reporting: 'Settled' vs. 'Closed'
                             </h2>
                             <div className="bg-gray-900 text-white p-8 rounded-2xl mb-8">
-                                <h4 className="text-xl font-bold mb-4 uppercase text-[#1F5EFF]">The Reporting Difference</h4>
+                                <h3 className="text-xl font-bold mb-4 uppercase text-[#1F5EFF]">The Reporting Difference</h3>
                                 <ul className="space-y-4">
                                     <li className="flex gap-4">
                                         <svg className="w-5 h-5 text-green-500 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path></svg>
@@ -558,7 +558,7 @@ export default function SettleCreditCardDuesPage() {
                             <p className="text-lg leading-relaxed mb-6">
                                 In the digital era, most credit card payments and EMIs are governed by the National Automated Clearing House (NACH) mandates. Understanding the legal difference between a NACH failure and a physical cheque bounce is crucial.
                             </p>
-                            <h4 className="font-bold mb-2">Section 25 of the PSS Act</h4>
+                            <h3 className="font-bold mb-2">Section 25 of the PSS Act</h3>
                             <p className="mb-6 font-medium text-xs text-gray-500">When a NACH mandate fails, it is a criminal offense under Section 25 of the PSS Act, carrying the risk of imprisonment up to 2 years.</p>
                         </section>
 
@@ -713,7 +713,7 @@ export default function SettleCreditCardDuesPage() {
                                 <div key={i} className="bg-white p-5 md:p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h5 className="font-bold text-[#2E2E2E]">{review.name}</h5><p className="text-xs text-gray-400">{review.loc}</p></div>
+                                        <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -777,7 +777,7 @@ export default function SettleCreditCardDuesPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Save 70% Today</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Save 70% Today</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
@@ -791,7 +791,7 @@ export default function SettleCreditCardDuesPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Debt Guides</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Debt Guides</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/legal-risks-defaulting-loan-without-settlement" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

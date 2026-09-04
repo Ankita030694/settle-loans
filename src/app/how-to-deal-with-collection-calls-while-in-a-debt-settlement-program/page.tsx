@@ -337,7 +337,7 @@ export default function CollectionCallsPage() {
                 The bank and its agents have the right to contact 'you'. They have zero right to discuss your financial status with anyone else. If an agent calls your brother or your boss, they are committing a 'Privacy Breach' that can result in heavy fines for the bank. In 2024, the RBI even clarified that 'contact list accessing' by digital lending apps is illegal without explicit, contextual consent, and even then, harassment of social circles is prohibited.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h4 className="font-bold text-blue-900 mb-4">What to do if they call your family</h4>
+                <h3 className="font-bold text-blue-900 mb-4">What to do if they call your family</h3>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   Immediately document the name of the person they called, the time of the call, and the phone number the agent used. Have your family member record the conversation if possible. This specific evidence is 'Gold' when filing a complaint with the RBI Nodal Officer. Banks are terrified of privacy violation lawsuits in the current regulatory environment.
                 </p>
@@ -483,7 +483,7 @@ export default function CollectionCallsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -577,7 +577,7 @@ export default function CollectionCallsPage() {
             <div className="sticky top-24 space-y-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Protect Your Home</h3>
+                  <div className="text-lg font-black text-white">Protect Your Home</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -591,7 +591,7 @@ export default function CollectionCallsPage() {
               </div>
 
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Help</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Help</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/ignoring-calls-of-recovery-agent" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

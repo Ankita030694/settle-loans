@@ -949,14 +949,14 @@ export default function IciciPersonalLoanSettlementClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-xs leading-tight">
+                  <div className="font-bold text-slate-900 text-xs leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-[10px] text-slate-500 font-medium">
                     Lead Banking Legal Strategist
                   </p>
@@ -988,9 +988,9 @@ export default function IciciPersonalLoanSettlementClient() {
                 <PhoneCall className="w-3 h-3" />
                 <span>ICICI Dispute Resolution</span>
               </div>
-              <h3 className="text-base font-black mb-1.5 leading-tight">
+              <div className="text-base font-black mb-1.5 leading-tight">
                 Struggling with ICICI Loan Default?
-              </h3>
+              </div>
               <p className="text-[11px] text-white/90 leading-relaxed mb-3">
                 Stop collection harassment today. Let our advocates audit your default bucket and secure a stamped ICICI settlement letter.
               </p>
@@ -1003,10 +1003,10 @@ export default function IciciPersonalLoanSettlementClient() {
             </div>
 
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-4 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-[11px] uppercase tracking-wider mb-2 flex items-center gap-1.5">
+              <div className="font-bold text-slate-900 text-[11px] uppercase tracking-wider mb-2 flex items-center gap-1.5">
                 <ShieldCheck className="w-3.5 h-3.5 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-2 text-[11px] text-slate-600">
                 <li className="flex items-start gap-1.5">
                   <Check className="w-3 h-3 text-emerald-600 flex-shrink-0 mt-0.5" />

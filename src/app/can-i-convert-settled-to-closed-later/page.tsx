@@ -309,7 +309,7 @@ export default function ConvertSettledToClosedPage() {
                 The financial system in India is deeply interconnected. A single "Settled" mark on one personal loan can affect your ability to get a credit card from a completely different bank. Lenders today use sophisticated algorithms that flag settlements as a red alert.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h4 className="font-bold mb-4">The Real-World Consequences:</h4>
+                <h3 className="font-bold mb-4">The Real-World Consequences:</h3>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <span className="w-6 h-6 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center flex-shrink-0 text-xs font-bold">1</span>
@@ -336,7 +336,7 @@ export default function ConvertSettledToClosedPage() {
               </p>
               <div className="space-y-6">
                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                  <h4 className="font-bold text-xl mb-2">Step 1: Contact the Original Lender</h4>
+                  <h3 className="font-bold text-xl mb-2">Step 1: Contact the Original Lender</h3>
                   <p className="text-base text-gray-600">Reach out to the Nodal Officer or the Credit Department of the bank where you settled the loan. Request a statement showing the exactly waived amount.</p>
                 </div>
                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
@@ -361,7 +361,7 @@ export default function ConvertSettledToClosedPage() {
               </p>
               
               <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm mb-8">
-                <h4 className="font-black text-xl mb-4">The "Nodal Representative" Script</h4>
+                <h3 className="font-black text-xl mb-4">The "Nodal Representative" Script</h3>
                 <p className="text-sm text-gray-600 mb-4 italic italic">"I am calling regarding Loan Account [Number]. I have previously settled this loan due to extreme financial hardship. However, my circumstances have improved, and I wish to clear the 'Settled' mark on my CIBIL report by paying the waived principal amount. I request you to treat this as a voluntary disclosure and issue a standard 'Closed' No Dues Certificate upon receipt of funds."</p>
                 <p className="text-sm font-bold text-[#1F5EFF]">Why this works: It positions you as a responsible borrower who is helping the bank clean their NPA (Non-Performing Asset) records.</p>
               </div>
@@ -391,7 +391,7 @@ export default function ConvertSettledToClosedPage() {
                     In June 2023, the Reserve Bank of India issued a landmark circular regarding "Framework for Compromise Settlements and Technical Write-offs." This circular explicitly directed banks and NBFCs to put in place board-approved policies for offering compromise settlements to borrowers.
                 </p>
                 <div className="bg-green-50 p-8 rounded-xl border border-green-100 text-green-900 border-l-8 border-l-green-600">
-                    <h4 className="font-bold mb-4">Key Takeaway for Status Conversion:</h4>
+                    <h3 className="font-bold mb-4">Key Takeaway for Status Conversion:</h3>
                     <p className="text-sm leading-relaxed mb-4">
                         The circular emphasizes that a settlement should not prevent a borrower from resuming a credit relationship after a "Cooling Period" (usually 12 months for fresh loans). This provides a legal basis for you to argue that once you have cleared the remaining balance and converted "Settled" to "Closed," your cooling period should ideally end, making you eligible for credit again.
                     </p>
@@ -430,7 +430,7 @@ export default function ConvertSettledToClosedPage() {
                 Even after the bank says you are clear, the credit bureau might still show the old "Settled" status. This is because banks usually report data in monthly batches. If you are in a hurry, you must take active steps to update the record.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h4 className="text-xl font-bold mb-4">How to Raise a Dispute with CIBIL:</h4>
+                <h3 className="text-xl font-bold mb-4">How to Raise a Dispute with CIBIL:</h3>
                 <ol className="space-y-4 text-sm opacity-90">
                   <li><strong>1. Log in to CIBIL:</strong> Go to the official CIBIL dispute portal.</li>
                   <li><strong>2. Select the Loan:</strong> Choose the specific loan account that is still showing as "Settled."</li>
@@ -470,7 +470,7 @@ export default function ConvertSettledToClosedPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div>
-                  <h4 className="font-bold text-[#1F5EFF] mb-2">The Secured Card Method</h4>
+                  <h3 className="font-bold text-[#1F5EFF] mb-2">The Secured Card Method</h3>
                   <p className="text-xs text-gray-600">Apply for a credit card against a Fixed Deposit (FD). Use it for small amounts and pay the balance in full every month. This creates a new, positive history.</p>
                 </div>
                 <div>
@@ -509,7 +509,7 @@ export default function ConvertSettledToClosedPage() {
               </p>
               <div className="grid md:grid-cols-3 gap-4 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm transition-all hover:bg-blue-50">
-                  <h4 className="font-bold mb-2">HDFC & ICICI</h4>
+                  <h3 className="font-bold mb-2">HDFC & ICICI</h3>
                   <p className="text-xs text-gray-500">Very structured. They usually require a formal application to the Nodal Officer. Once processed, they are quick to update CIBIL.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm transition-all hover:bg-green-50">
@@ -557,7 +557,7 @@ export default function ConvertSettledToClosedPage() {
                 If your debt was sold by the bank to an Asset Reconstruction Company (ARC) like EARCL, Phoenix, or Arcil, the game changes. ARCs purchase bad loans at a deep discount (often for 30-40% of the value). This means an ARC is far more motivated to accept a lump-sum payment to "Close" the account.
               </p>
               <div className="bg-purple-50 p-8 rounded-xl border border-purple-100 mb-8">
-                <h4 className="font-bold text-purple-900 mb-4">Handling ARCs effectively:</h4>
+                <h3 className="font-bold text-purple-900 mb-4">Handling ARCs effectively:</h3>
                 <ul className="space-y-4 text-sm text-purple-800">
                   <li><strong>Lump-Sum Power:</strong> Unlike banks, ARCs have a high "Internal Rate of Return" (IRR) target. A single large payment today is often better for them than a legal case tomorrow.</li>
                   <li><strong>The ARC NOC:</strong> The No Dues Certificate must come from the ARC, not the original bank. Ensure it mentions that the "Assignment of Debt" is fulfilled and the loan is "Full and Finally Closed."</li>
@@ -596,7 +596,7 @@ export default function ConvertSettledToClosedPage() {
                 Negotiating with a bank to reopen a settled file is complex. Our team of legal and financial experts acts as your representative. We know the right departments and the right legal framework to ensure your payment leads to a guaranteed status update.
               </p>
               <div className="bg-[#1F5EFF] text-white p-8 rounded-2xl text-center">
-                <h4 className="text-2xl font-black mb-4">Start Your Credit Restoration Today</h4>
+                <h3 className="text-2xl font-black mb-4">Start Your Credit Restoration Today</h3>
                 <p className="mb-6 opacity-90">We handle the paperwork, the negotiation, and the follow ups with credit bureaus so you can focus on your future.</p>
                 <Link href="/contact" className="inline-block bg-white text-[#1F5EFF] font-black py-4 px-8 rounded-xl hover:scale-105 transition-all">
                   Get a Free Credit Assessment
@@ -643,7 +643,7 @@ export default function ConvertSettledToClosedPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -714,7 +714,7 @@ export default function ConvertSettledToClosedPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Need Professional Help?</h3>
+                  <div className="text-lg font-black text-white">Need Professional Help?</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -728,7 +728,7 @@ export default function ConvertSettledToClosedPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Credit Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Credit Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/credit-score-improvement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

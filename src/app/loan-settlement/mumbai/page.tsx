@@ -290,7 +290,7 @@ export default function MumbaiLoanSettlementPage() {
               <p className="mb-8">In Mumbai, the "Recovery Agent" is often a figure of dread. They use the city's complex logistics - your housing society's security gate, your workplace in an IT park, or even your commute - to intimidate you. This is criminal behavior. The Mumbai Police, under various commissioners, have consistently advised citizens to report harassment. Specifically, <span className="font-bold">Section 506 of the Indian Penal Code (Criminal Intimidation)</span> is a powerful tool against agents who threaten you or your family.</p>
               <div className="grid gap-6 md:grid-cols-2 mb-10">
                 <div className="bg-white p-6 rounded-2xl shadow-sm border border-red-100">
-                  <h4 className="font-black text-red-600 mb-2">What Counts as Harassment?</h4>
+                  <h3 className="font-black text-red-600 mb-2">What Counts as Harassment?</h3>
                   <ul className="text-sm space-y-2 opacity-80">
                     <li>• Calls before 8 AM or after 7 PM.</li>
                     <li>• Abusive or threatening language.</li>
@@ -388,7 +388,7 @@ export default function MumbaiLoanSettlementPage() {
                 <div className="bg-white p-8 rounded-2xl shadow-sm border border-[#DEDEDE]">
                   <div className="flex justify-between items-start mb-6">
                     <div>
-                      <h4 className="text-xl font-black">Media Professional, Goregaon</h4>
+                      <h3 className="text-xl font-black">Media Professional, Goregaon</h3>
                       <p className="text-sm text-gray-500 italic">Industry: TV Production (Job Loss during Sitcom cancellation)</p>
                     </div>
                     <div className="bg-red-50 text-red-600 px-4 py-1 rounded-full text-xs font-bold font-mono">Debt: ₹18.5 Lakhs</div>
@@ -508,7 +508,7 @@ export default function MumbaiLoanSettlementPage() {
               {/* Specialized Mumbai CTA */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white px-2 leading-tight uppercase tracking-tighter">Mumbai Legal Desk</h3>
+                  <div className="text-lg font-black text-white px-2 leading-tight uppercase tracking-tighter">Mumbai Legal Desk</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -523,7 +523,7 @@ export default function MumbaiLoanSettlementPage() {
 
               {/* Trust Section */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                 <h3 className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Why Mumbai Trusts Us</h3>
+                 <div className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Why Mumbai Trusts Us</div>
                  <div className="space-y-4">
                     <div className="flex gap-3">
                        <span className="text-[#1F5EFF] text-xs">✓</span>
@@ -542,7 +542,7 @@ export default function MumbaiLoanSettlementPage() {
 
               {/* Related Services */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">MMR Services</h3>
+                <div className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">MMR Services</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/services/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

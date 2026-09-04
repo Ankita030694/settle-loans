@@ -559,10 +559,10 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
-                <h4 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory RBI Digital Lending App Governance Standards</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Strict Prohibition on Accessing Media &amp; Contacts</p>
@@ -1021,11 +1021,11 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm">
+                  <div className="font-bold text-slate-900 text-sm">
                     <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
               </div>
@@ -1050,7 +1050,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Cyber Legal Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Loan Apps Harassing Your Contacts or Gallery?</h4>
+              <div className="font-bold text-base text-white mb-2">Loan Apps Harassing Your Contacts or Gallery?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not endure unconsented contact scraping or cyber extortion. Retain our senior advocates to issue immediate DPDP Cease-and-Desist notices, file DPBI &amp; cyber complaints, and negotiate a 40%–70% OTS.
               </p>
@@ -1064,9 +1064,9 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Privacy Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

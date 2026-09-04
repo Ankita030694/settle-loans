@@ -310,7 +310,7 @@ export default function BankLoanRecoveryDefencePage() {
                                 The 90-day rule for NPA classification might seem like a simple mathematical calculation, but it is one of the most litigated areas of banking law. A bank cannot initiate recovery under SARFAESI unless the account is a "legally classified NPA". If the tagging date is wrong even by 24 hours, the bank's case has no legal standing.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The "Wrongful Tagging" Defence:</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The "Wrongful Tagging" Defence:</h3>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3 text-blue-800">
                                         <div className="w-6 h-6 rounded-full bg-blue-600 text-white flex items-center justify-center font-bold flex-shrink-0 mt-0.5 text-xs">1</div>
@@ -361,7 +361,7 @@ export default function BankLoanRecoveryDefencePage() {
                                 The SARFAESI process is designed to be fast, but its "Speed" is also its "Weakness". To move fast, banks often ignore the "Safeguards" built into the law. We use Section 17 of the SARFAESI Act as a surgical tool to cut through illegal recovery actions.
                             </p>
                             <div className="bg-amber-50 p-8 rounded-xl border border-amber-200 my-8">
-                                <h4 className="text-xl font-bold text-amber-900 mb-4">The "Reasoned Reply" Shutdown</h4>
+                                <h3 className="text-xl font-bold text-amber-900 mb-4">The "Reasoned Reply" Shutdown</h3>
                                 <p className="text-sm text-amber-800 leading-relaxed mb-4">
                                     Section 13(3A) requires the bank to respond to your objections within 15 days. In our practice, we find that banks often send a "Mechanical Response" that doesn't actually address your points. According to various High Court rulings, a "Standard Template Reply" is NO reply.
                                 </p>
@@ -417,7 +417,7 @@ export default function BankLoanRecoveryDefencePage() {
                                 In the Debt Recovery Tribunal (DRT), the bank is the "Applicant" and you are the "Defendant". However, Section 19(8) of the RDB Act allows the defendant to file a "Counterclaim". This is a separate lawsuit within the same case where you sue the bank for money. If your counterclaim is successful, it can be "Set Off" against the bank's claim.
                             </p>
                             <div className="bg-gray-50 border border-gray-200 p-8 rounded-2xl mb-8">
-                                <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Strategic Counterclaim Grounds:</h4>
+                                <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Strategic Counterclaim Grounds:</h3>
                                 <p className="mb-4 text-gray-700 leading-relaxed text-sm font-bold">
                                     If the bank's illegal auction of your machinery resulted in the loss of a multi-crore export order, you can claim "Loss of Future Profits". If the bank's wrongful NPA classification led to the cancellation of your dealership license, you can claim "Loss of Goodwill". These are not just defensive arguments; they are offensive financial weapons.
                                 </p>
@@ -441,7 +441,7 @@ export default function BankLoanRecoveryDefencePage() {
                                 Most borrowers assume the bank's computer system is always right. In reality, bank systems often fail to update interest rates correctly when the Repo Rate changes, or they miscalculate "Rest Periods". We conduct a "Zero-Based Interest Audit" to see if the bank has followed the 'Prudential Norms' issued by the RBI.
                             </p>
                             <div className="bg-white border-2 border-[#1F5EFF]/20 p-8 rounded-3xl mb-8 font-bold">
-                                <h4 className="text-xl mb-4">The "Penal Interest" Trap:</h4>
+                                <h3 className="text-xl mb-4">The "Penal Interest" Trap:</h3>
                                 <p className="text-gray-600 mb-4 leading-relaxed">
                                     As per the 2024 RBI Master Directions, banks are prohibited from "Capitalizing Penal Interest". This means they can't add the penalty to your principal and then charge regular interest on it. If your account statement shows this compounding effect, we use it to prove that the bank's "Demand Notice" is mathematically flawed and legally invalid.
                                 </p>
@@ -458,7 +458,7 @@ export default function BankLoanRecoveryDefencePage() {
                                     <div className="flex items-center mb-6">
                                         <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 mr-4">M</div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E]">Manufacturing Unit, Pune</h4>
+                                            <h3 className="font-bold text-[#2E2E2E]">Manufacturing Unit, Pune</h3>
                                             <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">12 Cr Recovery Halted</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -537,7 +537,7 @@ export default function BankLoanRecoveryDefencePage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Bank Recovery Shield</h3>
+                                    <div className="text-lg font-black text-white">Bank Recovery Shield</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -552,7 +552,7 @@ export default function BankLoanRecoveryDefencePage() {
 
                             {/* Related Pages */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Technical Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Technical Guides</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/best-lawyer-for-loan-settlement-during-drt" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

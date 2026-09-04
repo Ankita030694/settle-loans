@@ -315,7 +315,7 @@ export default function CreditScoreDropPage() {
                 <div className="bg-gray-50 p-6 rounded-2xl border border-gray-100 flex items-start gap-4 shadow-sm hover:shadow-md transition-shadow">
                   <div className="w-12 h-12 bg-[#1F5EFF] text-white rounded-xl flex items-center justify-center font-black flex-shrink-0">35%</div>
                   <div>
-                    <h4 className="font-bold text-[#2E2E2E]">Payment Discipline (Onboarding & Regularity)</h4>
+                    <h3 className="font-bold text-[#2E2E2E]">Payment Discipline (Onboarding & Regularity)</h3>
                     <p className="text-sm text-gray-500">The historical record of every single EMI and credit card bill. Even a one day delay can be fatal.</p>
                   </div>
                 </div>
@@ -366,7 +366,7 @@ export default function CreditScoreDropPage() {
                 Utilization is calculated both per card and across your entire credit profile. If you have three cards with 1 lakh limit each, and you max out one (100% utilization) while keeping the others at zero, your overall utilization might be 33%, but the 100% on the single card will still trigger a score drop. The algorithms are programmed to look for weakness in any single node of your financial network.
               </p>
               <div className="my-10 p-10 bg-[#1a1a1a] text-white rounded-[32px] border border-gray-800 shadow-2xl">
-                <h4 className="text-2xl font-black mb-6 text-red-500">The Math of Risk:</h4>
+                <h3 className="text-2xl font-black mb-6 text-red-500">The Math of Risk:</h3>
                 <div className="space-y-6">
                     <div>
                         <div className="flex justify-between mb-2">
@@ -412,7 +412,7 @@ export default function CreditScoreDropPage() {
                     <FontAwesomeIcon icon={faExclamationTriangle} className="text-2xl" />
                 </div>
                 <div>
-                    <h5 className="font-black text-yellow-900 mb-1">Strategic Power Play:</h5>
+                    <h3 className="font-black text-yellow-900 mb-1">Strategic Power Play:</h3>
                     <p className="text-sm font-medium text-yellow-800 leading-relaxed text-left">
                         Identify your statement date for every card. Pay your balance down to below 10% exactly TWO DAYS BEFORE the statement is generated. This ensures the 'Snapshot' captures a low balance, skyrocketing your score while allowing you to use your credit freely for the rest of the month.
                     </p>
@@ -477,7 +477,7 @@ export default function CreditScoreDropPage() {
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div className="p-8 rounded-[24px] bg-green-50 border border-green-100 flex flex-col items-center text-center shadow-sm">
                     <div className="w-16 h-16 bg-white rounded-2xl flex items-center justify-center text-green-600 mb-6 shadow-sm"><FontAwesomeIcon icon={faShieldHalved} className="text-2xl" /></div>
-                    <h4 className="text-xl font-black text-green-900 mb-3">Secured Debt</h4>
+                    <h3 className="text-xl font-black text-green-900 mb-3">Secured Debt</h3>
                     <p className="text-sm text-green-800">Home Loans, Gold Loans, Car Loans. These are backed by collateral and are viewed as 'High Quality' debt. They stabilize your score.</p>
                 </div>
                 <div className="p-8 rounded-[24px] bg-red-50 border border-red-100 flex flex-col items-center text-center shadow-sm">
@@ -502,9 +502,9 @@ export default function CreditScoreDropPage() {
                 One of the most common issues in the post-pandemic era is 'fragmented reports'. If you changed your address or got a new mobile number, CIBIL might create a second file for you instead of merging it with your old one. If this new file only has one new credit card and doesn't have your 10 year history, your score will appear significantly lower.
               </p>
               <div className="bg-[#2E2E2E] p-10 rounded-[30px] border border-gray-700 mb-12 shadow-2xl">
-                 <h4 className="text-2xl font-black text-[#1F5EFF] mb-6 flex items-center gap-3">
+                 <h3 className="text-2xl font-black text-[#1F5EFF] mb-6 flex items-center gap-3">
                     <FontAwesomeIcon icon={faShieldHalved} /> Reporting Error Checklist:
-                 </h4>
+                 </h3>
                  <div className="space-y-4">
                     {[
                         "Identity Matching: Check if another person's name appears on your report.",
@@ -584,7 +584,7 @@ export default function CreditScoreDropPage() {
                   <div key={i} className="flex gap-8 items-start p-10 rounded-[32px] border border-gray-100 hover:bg-blue-50/30 transition-all duration-300 hover:scale-[1.01] shadow-sm hover:shadow-md">
                     <span className="text-5xl font-black text-[#1F5EFF] tabular-nums opacity-20">{i + 1}</span>
                     <div>
-                      <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">{step.t}</h4>
+                      <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">{step.t}</h3>
                       <p className="text-lg text-gray-600 leading-relaxed font-medium">{step.d}</p>
                     </div>
                   </div>
@@ -607,7 +607,7 @@ export default function CreditScoreDropPage() {
                   <div className="flex items-start gap-4">
                     <div className="w-10 h-10 rounded-xl bg-white/20 flex items-center justify-center flex-shrink-0 mt-1"><FontAwesomeIcon icon={faCircleCheck} className="text-xl" /></div>
                     <div>
-                        <h5 className="font-black text-xl mb-1">Algorithmic Auditing</h5>
+                        <h4 className="font-black text-xl mb-1">Algorithmic Auditing</h4>
                         <p className="text-sm opacity-70 font-medium">We break down every point of your score to find the exact hidden lever that is causing the drop.</p>
                     </div>
                   </div>
@@ -702,7 +702,7 @@ export default function CreditScoreDropPage() {
                 <div className="w-16 h-16 bg-[#1F5EFF] rounded-2xl flex items-center justify-center mb-6">
                     <FontAwesomeIcon icon={faShieldHalved} className="text-2xl" />
                 </div>
-                <h3 className="text-2xl font-black mb-4 leading-tight">Protect Your Financial Identity</h3>
+                <div className="text-2xl font-black mb-4 leading-tight">Protect Your Financial Identity</div>
                 <p className="text-sm opacity-70 mb-8 leading-relaxed">Early detection of score drops can save you lakhs in future interest costs. Don't wait for a loan rejection to act.</p>
                 <Link href="/contact" className="block w-full text-center bg-[#1F5EFF] text-white font-bold py-4 rounded-xl hover:bg-[#1f5eff]/90 transition-all flex items-center justify-center gap-2">
                     Book Free Call <FontAwesomeIcon icon={faArrowRight} />
@@ -711,10 +711,10 @@ export default function CreditScoreDropPage() {
 
             {/* Related Pages Sidebar Container */}
             <div className="bg-white rounded-[24px] p-8 border border-gray-100 shadow-sm">
-                <h3 className="text-lg font-black text-[#2E2E2E] mb-6 flex items-center gap-3 italic">
+                <div className="text-lg font-black text-[#2E2E2E] mb-6 flex items-center gap-3 italic">
                     <span className="w-2 h-8 bg-[#1F5EFF] rounded-full"></span>
                     Related Guides
-                </h3>
+                </div>
                 <div className="flex flex-col gap-4">
                     {[
                         { title: "How to Check Active Loans", url: "/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide" },

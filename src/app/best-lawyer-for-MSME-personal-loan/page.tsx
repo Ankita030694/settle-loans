@@ -175,7 +175,7 @@ export default function MSMELoanLawyerPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-10">
                                 <div className="bg-blue-50 p-6 rounded-2xl border-l-4 border-[#1F5EFF]">
-                                    <h4 className="font-black text-[#2E2E2E] mb-2">Section 15: Duty to Pay</h4>
+                                    <h3 className="font-black text-[#2E2E2E] mb-2">Section 15: Duty to Pay</h3>
                                     <p className="text-xs opacity-70 font-bold">Mandates payment within the agreed timeframe, never exceeding 45 days.</p>
                                 </div>
                                 <div className="bg-green-50 p-6 rounded-2xl border-l-4 border-green-500">
@@ -197,14 +197,14 @@ export default function MSMELoanLawyerPage() {
                                 <div className="bg-white p-6 rounded-3xl border border-[#DEDEDE] flex items-center gap-6 group hover:border-[#1F5EFF] transition-colors">
                                     <div className="w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center font-black group-hover:bg-[#1F5EFF] group-hover:text-white transition-all italic text-xl">01</div>
                                     <div>
-                                        <h5 className="font-black text-lg">Legal Notice on Steroids</h5>
+                                        <h3 className="font-black text-lg">Legal Notice on Steroids</h3>
                                         <p className="text-sm opacity-70">A notice that cites the 3x interest liability usually forces the buyer's CFO to release payments immediately.</p>
                                     </div>
                                 </div>
                                 <div className="bg-white p-6 rounded-3xl border border-[#DEDEDE] flex items-center gap-6 group hover:border-[#1F5EFF] transition-colors">
                                     <div className="w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center font-black group-hover:bg-[#1F5EFF] group-hover:text-white transition-all italic text-xl">02</div>
                                     <div>
-                                        <h5 className="font-black text-lg">MSEFC Filing</h5>
+                                        <h4 className="font-black text-lg">MSEFC Filing</h4>
                                         <p className="text-sm opacity-70">Filing with the Micro and Small Enterprise Facilitation Council, which overrides any other court jurisdiction.</p>
                                     </div>
                                 </div>
@@ -235,7 +235,7 @@ export default function MSMELoanLawyerPage() {
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-3xl shadow-2xl relative overflow-hidden mb-12">
                                 <FontAwesomeIcon icon={faChartLine} className="absolute bottom-[-20px] right-[-20px] text-9xl opacity-10" />
-                                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase italic tracking-[0.2em]">Interest Calculation Example</h4>
+                                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase italic tracking-[0.2em]">Interest Calculation Example</h3>
                                 <div className="text-base leading-relaxed opacity-80 mb-6 space-y-4 font-medium">
                                     <p>Principal Amount: ₹10,00,000</p>
                                     <p>RBI Bank Rate (Reference): 6.75%</p>
@@ -262,7 +262,7 @@ export default function MSMELoanLawyerPage() {
                             <div className="bg-yellow-50 p-8 rounded-3xl border border-yellow-100 flex items-start gap-4">
                                 <FontAwesomeIcon icon={faBriefcase} className="text-yellow-600 text-2xl mt-1" />
                                 <div>
-                                    <h5 className="font-black mb-2 text-yellow-900 uppercase">Debtor-in-Possession Model</h5>
+                                    <h3 className="font-black mb-2 text-yellow-900 uppercase">Debtor-in-Possession Model</h3>
                                     <p className="text-sm text-yellow-800 font-medium">The PPIRP process is unique because it keeps the existing management 'in the driver's seat' while the legal resolution happens. This ensures your operations aren't disrupted while the debts are being restructured.</p>
                                 </div>
                             </div>
@@ -328,7 +328,7 @@ export default function MSMELoanLawyerPage() {
                                 The 2024-25 Union Budget has introduced a new 'Credit Guarantee Scheme' for MSMEs in the manufacturing sector. This scheme allows for the continuation of bank credit even during a period of stress, without the need for additional collateral.
                             </p>
                             <div className="bg-blue-950 text-white p-12 rounded-[40px] shadow-2xl relative overflow-hidden group">
-                                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF]">The 2025 Credit Shield</h4>
+                                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF]">The 2025 Credit Shield</h3>
                                 <p className="text-base leading-relaxed opacity-70 mb-8">
                                     We assist businesses in applying for these new government-backed guarantees to 'Refinance' their expensive old debts. By moving from a 18% personal loan to a 9% government-backed business loan, your EMI drops by 50% instantly. This is the most effective form of long-term debt settlement.
                                 </p>
@@ -362,7 +362,7 @@ export default function MSMELoanLawyerPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -436,7 +436,7 @@ export default function MSMELoanLawyerPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">We are in This Together</h3>
+                                    <div className="text-lg font-black text-white px-2">We are in This Together</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -451,7 +451,7 @@ export default function MSMELoanLawyerPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/best-lawyer-for-msme-business-loan-dispute" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

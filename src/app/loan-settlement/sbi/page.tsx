@@ -369,7 +369,7 @@ export default function SBILoanSettlementPage() {
                   </p>
                   <div className="space-y-12">
                      <div className="border-l-4 border-[#ED2326] pl-12">
-                        <h4 className="text-3xl font-black mb-4">Stage 1: Technical Objection to the 13(2) Notice</h4>
+                        <h3 className="text-3xl font-black mb-4">Stage 1: Technical Objection to the 13(2) Notice</h3>
                         <p className="opacity-70 text-xl">The 60-day notice is your golden window. We scrutinize the interest calculations, the classification date, and the service of notice. If a single procedural error is found, the bank must reissue the notice, buying you months of time to finalize a financial settlement.</p>
                      </div>
                      <div className="border-l-4 border-[#ED2326] pl-12">
@@ -473,7 +473,7 @@ export default function SBILoanSettlementPage() {
                     { t: "Realizable Value", d: "The actual cash the bank can get from an auction. This is always lower than market value." }
                   ].map((item, i) => (
                     <div key={i} className="space-y-2 pb-6 border-b border-slate-200">
-                       <h6 className="text-xl font-black text-[#004687]">{item.t}</h6>
+                       <h3 className="text-xl font-black text-[#004687]">{item.t}</h3>
                        <p className="text-sm opacity-70 leading-relaxed font-bold">{item.d}</p>
                     </div>
                   ))}
@@ -492,7 +492,7 @@ export default function SBILoanSettlementPage() {
                     { t: "The Agricultural Relief", l: "₹15L Crop Loan", s: "100% Waiver on Interest", text: "A farmer in Maharashtra was facing crop failure. We used the 'Agri Samadhan' circulars to waive all interest and settle the principal over 12 interest-free months." }
                   ].map((cs, i) => (
                     <div key={i} className="p-12 bg-white border border-slate-100 rounded-[50px] shadow-sm hover:shadow-2xl transition-all border-l-[15px] border-[#ED2326]">
-                       <h5 className="text-3xl font-black text-[#004687] mb-4">{cs.t}</h5>
+                       <h3 className="text-3xl font-black text-[#004687] mb-4">{cs.t}</h3>
                        <p className="font-bold text-xl mb-4 italic">{cs.l} | {cs.s}</p>
                        <p className="opacity-70 text-lg">"{cs.text}"</p>
                     </div>
@@ -522,7 +522,7 @@ export default function SBILoanSettlementPage() {
                     { q: "What is the 'Early Bird' bonus in SBI OTS?", a: "It is an additional discount (usually 5%) given to those who pay the entire settled amount within the first 30 days of the approval letter." }
                   ].map((faq, i) => (
                     <div key={i} className="pb-10 border-b border-slate-100 group">
-                       <h5 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#004687] transition-colors">{faq.q}</h5>
+                       <h3 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#004687] transition-colors">{faq.q}</h3>
                        <p className="text-lg opacity-70 leading-relaxed font-light">{faq.a}</p>
                     </div>
                   ))}
@@ -558,7 +558,7 @@ export default function SBILoanSettlementPage() {
                
                <div className="bg-[#004687] rounded-[60px] p-16 text-white text-center shadow-3xl overflow-hidden relative group">
                   <div className="absolute top-0 left-0 w-full h-full bg-white/5 opacity-0 group-hover:opacity-100 transition-opacity"></div>
-                  <h3 className="text-3xl font-black mb-6 italic tracking-tighter">70%</h3>
+                  <div className="text-3xl font-black mb-6 italic tracking-tighter">70%</div>
                   <p className="text-sm font-black uppercase tracking-widest opacity-60 mb-10 leading-relaxed">Maximum Potential SBI Settlement Discount in 2026</p>
                   <Link href="/contact" className="block w-full bg-white text-[#004687] font-black py-6 rounded-3xl hover:bg-[#ED2326] hover:text-white transition-all shadow-2xl text-xl">
                      Verify Your Eligibility
@@ -566,7 +566,7 @@ export default function SBILoanSettlementPage() {
                </div>
 
                <div className="bg-slate-900 rounded-[60px] p-12 text-white border border-white/5 shadow-2xl">
-                  <h5 className="text-xs font-black uppercase tracking-[0.3em] mb-12 text-[#ED2326]">Related Resources</h5>
+                  <div className="text-xs font-black uppercase tracking-[0.3em] mb-12 text-[#ED2326]">Related Resources</div>
                   <ul className="space-y-10">
                      {[
                        { l: "SBI Rinn Samadhan", h: "/contact" },

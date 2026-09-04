@@ -255,7 +255,7 @@ export default function LoanSettlementNearMePage() {
                                 <div className="flex gap-6">
                                     <span className="text-4xl font-black text-[#1F5EFF]">01</span>
                                     <div>
-                                        <h4 className="text-xl font-bold mb-2">Financial Diagnosis</h4>
+                                        <h3 className="text-xl font-bold mb-2">Financial Diagnosis</h3>
                                         <p className="opacity-70">We analyze your debt at a local branch level. How much have you paid? What is the current 'Real Debt' excluding hidden penalties?</p>
                                     </div>
                                 </div>
@@ -307,7 +307,7 @@ export default function LoanSettlementNearMePage() {
                                     { title: "Right to Knowledge", desc: "You are entitled to a full statement of account and a breakdown of all interest and penal charges applied to your loan." }
                                 ].map((right, i) => (
                                     <div key={i} className="group p-8 border border-[#DEDEDE] rounded-3xl hover:border-[#1F5EFF] transition-all">
-                                        <h4 className="text-xl font-black text-[#2E2E2E] mb-2 group-hover:text-[#1F5EFF]">{right.title}</h4>
+                                        <h3 className="text-xl font-black text-[#2E2E2E] mb-2 group-hover:text-[#1F5EFF]">{right.title}</h3>
                                         <p className="text-[#747474] leading-relaxed">{right.desc}</p>
                                     </div>
                                 ))}
@@ -323,7 +323,7 @@ export default function LoanSettlementNearMePage() {
                                 In cities with high credit participation like Mumbai or Bangalore, a 'Settled' remark is scrutinized heavily. In smaller towns, local lenders might be more flexible if you can prove that the settlement was followed by consistent financial discipline.
                             </p>
                             <div className="bg-gray-100 p-8 rounded-[40px] text-center">
-                                <h4 className="text-2xl font-black mb-4">The 24-Month Recovery Path</h4>
+                                <h3 className="text-2xl font-black mb-4">The 24-Month Recovery Path</h3>
                                 <p className="text-lg text-[#747474] italic">"Most borrowers who settle their debt can rebuild their credit score to 750+ within 18 to 24 months by using secured credit cards and timely payments of small utilities."</p>
                             </div>
                         </section>
@@ -367,7 +367,7 @@ export default function LoanSettlementNearMePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -439,7 +439,7 @@ export default function LoanSettlementNearMePage() {
                                     { q: "Can a settlement avoid a court case in my district?", a: "Yes, reaching an out-of-court settlement is the bank's preferred way to avoid the time and cost of district court or DRT litigation." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
+                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -464,7 +464,7 @@ export default function LoanSettlementNearMePage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Find Local Help</h3>
+                                    <div className="text-lg font-black text-white">Find Local Help</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -478,7 +478,7 @@ export default function LoanSettlementNearMePage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Top Search Regions</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Top Search Regions</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     {[
                                         "Delhi NCR", "Mumbai Hub", "Bangalore Tech", "Ahmedabad SME", "Chennai Core", "Pune West", "Kolkata East"

@@ -295,7 +295,7 @@ export default function SecuredVsUnsecuredPage() {
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100">
                                     <FontAwesomeIcon icon={faLockOpen} className="text-emerald-600 mb-4 w-6 h-6" />
-                                    <h4 className="font-bold text-lg mb-2 text-emerald-900">High Waiver Potential</h4>
+                                    <h3 className="font-bold text-lg mb-2 text-emerald-900">High Waiver Potential</h3>
                                     <p className="text-emerald-800 text-sm">Waivers of 50% to 75% are common after 180 days of default, as banks treat these as 'Loss Assets'.</p>
                                 </div>
                                 <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100">
@@ -359,11 +359,11 @@ export default function SecuredVsUnsecuredPage() {
                             </p>
                             <div className="space-y-4 mb-8">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h5 className="font-bold text-gray-900 mb-2">1. The Asset Value Drop</h5>
+                                    <h3 className="font-bold text-gray-900 mb-2">1. The Asset Value Drop</h3>
                                     <p className="text-sm text-gray-600">If the property market crashed or the building is in a dilapidated state where an auction won't cover even the principal amount, the bank will settle.</p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h5 className="font-bold text-gray-900 mb-2">2. Title Disputes</h5>
+                                    <h4 className="font-bold text-gray-900 mb-2">2. Title Disputes</h4>
                                     <p className="text-sm text-gray-600">If there is a massive legal defect in the property title that prevents a clear auction, the bank would rather take a 30% loss via settlement than hold a dead asset.</p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
@@ -558,7 +558,7 @@ export default function SecuredVsUnsecuredPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group text-[#DEDEDE]">
                                 <div className="bg-[#1F5EFF] p-5 text-center text-white">
-                                    <h3 className="text-base font-black uppercase tracking-widest">Asset Defense</h3>
+                                    <div className="text-base font-black uppercase tracking-widest">Asset Defense</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm opacity-80 leading-relaxed font-normal">
@@ -572,7 +572,7 @@ export default function SecuredVsUnsecuredPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-7 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-xs font-black uppercase tracking-widest text-[var(--color-text-muted)] mb-6 border-b border-gray-100 pb-3">Authority Guides</h3>
+                                <div className="text-xs font-black uppercase tracking-widest text-[var(--color-text-muted)] mb-6 border-b border-gray-100 pb-3">Authority Guides</div>
                                 <ul className="space-y-5 text-xs font-bold font-sans">
                                     <li>
                                         <Link href="/faqs/income-tax-implications-of-loan-settlement-india" className="group flex items-start text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-all">

@@ -239,7 +239,7 @@ export default function TypesOfUnsecuredLoansPage() {
                             </p>
                             
                             <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key Features of Personal Loans</h4>
+                                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key Features of Personal Loans</h3>
                                 <ul className="space-y-3">
                                     <li className="flex items-start">
                                         <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0 mr-3"></div>
@@ -269,7 +269,7 @@ export default function TypesOfUnsecuredLoansPage() {
                             </p>
                             
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                                <h4 className="text-xl font-bold text-gray-800 mb-4">How Credit Cards Work as Loans</h4>
+                                <h3 className="text-xl font-bold text-gray-800 mb-4">How Credit Cards Work as Loans</h3>
                                 <p className="text-gray-700 leading-relaxed mb-4">
                                     While primarily a payment tool, credit cards offer a 45-to-50 day interest-free period. If you clear the full balance by the due date, you pay zero interest. However, if you roll over the balance, credit cards become one of the most expensive types of unsecured debt, with annualized interest rates (APR) easily exceeding 36% to 42%.
                                 </p>
@@ -289,7 +289,7 @@ export default function TypesOfUnsecuredLoansPage() {
                             
                             <div className="grid md:grid-cols-2 gap-6 my-8">
                                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">When to Choose a Personal Loan</h4>
+                                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">When to Choose a Personal Loan</h3>
                                     <p className="text-gray-700 text-sm leading-relaxed">
                                         Ideal for large, one-time expenses (like a home renovation or medical bill). They offer structured repayment terms, a lump sum payout, and significantly lower interest rates (typically 10.5% - 18%) compared to credit card debt.
                                     </p>
@@ -323,7 +323,7 @@ export default function TypesOfUnsecuredLoansPage() {
                                         1
                                     </div>
                                     <div>
-                                        <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">No Collateral Required</h4>
+                                        <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">No Collateral Required</h3>
                                         <p className="text-gray-700 leading-relaxed">For basic undergraduate or postgraduate loans, no tangible asset is required, though a parent usually needs to sign as a co-borrower.</p>
                                     </div>
                                 </div>
@@ -369,7 +369,7 @@ export default function TypesOfUnsecuredLoansPage() {
                             
                             <div className="grid md:grid-cols-2 gap-6 my-8">
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Credit Score</h4>
+                                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. Credit Score</h3>
                                     <p className="text-gray-700 text-sm leading-relaxed">A CIBIL score of 750 or higher is generally the gold standard. A strong repayment history indicates a low probability of default.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
@@ -428,7 +428,7 @@ export default function TypesOfUnsecuredLoansPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E] text-lg">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E] text-lg">{review.name}</h3>
                                                 <div className="text-yellow-400 flex text-sm">
                                                     <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                                                     <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -508,7 +508,7 @@ export default function TypesOfUnsecuredLoansPage() {
                             <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-700"></div>
                                 <div className="relative z-10">
-                                    <h3 className="text-2xl font-black mb-4">Need Help with Debt?</h3>
+                                    <div className="text-2xl font-black mb-4">Need Help with Debt?</div>
                                     <p className="mb-8 text-sm text-gray-300 leading-relaxed">
                                         Struggling to repay a personal loan or credit card? Explore legal settlement options.
                                     </p>
@@ -520,7 +520,7 @@ export default function TypesOfUnsecuredLoansPage() {
 
                             {/* Helpful Resources */}
                             <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b border-[#DEDEDE] pb-4 mb-6 text-center">More Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b border-[#DEDEDE] pb-4 mb-6 text-center">More Resources</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

@@ -443,10 +443,10 @@ export default function FiveLakhPersonalLoanSettlementClient() {
               
               {/* Highlighted Statutory Callout Box */}
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-5 rounded-r-2xl my-6">
-                <h4 className="text-slate-900 font-bold text-base mb-2 flex items-center gap-2">
+                <h3 className="text-slate-900 font-bold text-base mb-2 flex items-center gap-2">
                   <Info className="w-5 h-5 text-[#1F5EFF]" />
                   Statutory Net Present Value (NPV) Valuation Rule
-                </h4>
+                </h3>
                 <p className="text-slate-700 text-sm leading-relaxed">
                   Under RBI compromise guidelines, the settlement amount offered by the borrower must be greater than or equal to the Net Present Value of the estimated net realisable recovery through legal proceedings, discounted at the bank&apos;s prevailing base lending rate over a 3-to-5 year litigation horizon minus anticipated judicial expenses.
                 </p>
@@ -893,14 +893,14 @@ export default function FiveLakhPersonalLoanSettlementClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -933,9 +933,9 @@ export default function FiveLakhPersonalLoanSettlementClient() {
                 <PhoneCall className="w-4 h-4" />
                 <span>₹5 Lakh Loan Settlement</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Facing ₹5 Lakh Personal Loan Default?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Stop collection harassment today. Let our banking advocates audit your loan statement, structure your hardship docket, and secure an official bank stamped OTS sanction letter.
               </p>
@@ -949,10 +949,10 @@ export default function FiveLakhPersonalLoanSettlementClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

@@ -753,10 +753,10 @@ export default function PersonalLoanSettlementNagpurPage() {
               </p>
               <div className="space-y-3 my-4">
                 <div className="border border-slate-200 rounded-xl p-4 bg-slate-50">
-                  <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                     <Scale className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 138 of the Negotiable Instruments Act, 1881 (Cheque Dishonour)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1">
                     If security cheques deposited at loan origination bounce upon presentation, lenders issue a 15-day statutory demand notice followed by a criminal complaint. Our Nagpur advocates enter an appearance via Vakalatnama, obtain bail without jail detention, challenge territorial jurisdiction under the 2015 NI Act amendments, and move for Lok Adalat referral under Section 147 NI Act.
                   </p>
@@ -818,7 +818,7 @@ export default function PersonalLoanSettlementNagpurPage() {
                 <div className="flex gap-4 items-start">
                   <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white font-bold flex items-center justify-center text-sm flex-shrink-0 mt-0.5">1</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base">Stage 1: Forensic Financial &amp; Debt Audit</h4>
+                    <h3 className="font-bold text-slate-900 text-base">Stage 1: Forensic Financial &amp; Debt Audit</h3>
                     <p className="text-sm text-slate-600 mt-1">Our legal team audits loan agreements, statement of accounts, penal interest levies, and NACH bounce histories across all credit facilities to isolate inflated accounting charges.</p>
                   </div>
                 </div>
@@ -1174,14 +1174,14 @@ export default function PersonalLoanSettlementNagpurPage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -1214,9 +1214,9 @@ export default function PersonalLoanSettlementNagpurPage() {
                 <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Nagpur Legal Defense Desk</span>
               </div>
-              <h3 className="font-black text-lg sm:text-xl text-white leading-snug">
+              <div className="font-black text-lg sm:text-xl text-white leading-snug">
                 Facing Recovery Harassment or Court Summons in Nagpur?
-              </h3>
+              </div>
               <p className="text-xs text-slate-300 leading-relaxed">
                 Connect with our senior banking advocates for immediate cease-and-desist protection, JMFC court defense, and confidential 40%–70% OTS negotiations.
               </p>

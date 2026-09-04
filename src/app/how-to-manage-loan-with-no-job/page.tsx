@@ -273,7 +273,7 @@ export default function HowToManageLoanNoJobPage() {
                   <li className="flex gap-6">
                     <span className="flex-shrink-0 w-10 h-10 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-bold text-sm">01</span>
                     <div>
-                      <h4 className="text-xl font-bold mb-2">Extended Moratorium Rights</h4>
+                      <h3 className="text-xl font-bold mb-2">Extended Moratorium Rights</h3>
                       <p className="text-gray-600">Borrowers who have lost their jobs at no fault of their own (e.g., company closure or mass layoffs) now have a clearer path to request a 6-month moratorium. During this time, the bank should ideally freeze 'overdue charges', though interest may still accrue.</p>
                     </div>
                   </li>
@@ -303,7 +303,7 @@ export default function HowToManageLoanNoJobPage() {
               
               <div className="space-y-10">
                 <div className="bg-white p-8 rounded-3xl border border-gray-200 shadow-xl border-t-8 border-t-[#1F5EFF]">
-                  <h4 className="text-xl font-black mb-4 uppercase text-[#1F5EFF] text-xs">The Identity Script</h4>
+                  <h3 className="text-xl font-black mb-4 uppercase text-[#1F5EFF] text-xs">The Identity Script</h3>
                   <p className="italic text-gray-600 mb-4">"Before we proceed, please state your full name, the agency you are calling from, and your employee ID. I am recording this call for my legal records as per the RBI Master Circular 2025. One moment while I start the recording..."</p>
                   <p className="text-xs text-gray-400 font-bold">Why it works: Agents often use fake names to avoid accountability. Forcing them to identify themselves on record immediately reduces their aggressiveness.</p>
                 </div>
@@ -374,7 +374,7 @@ export default function HowToManageLoanNoJobPage() {
                   { name: "Pooja V.", job: "Operations Head", debt: "₹12 Lakhs", settled: "₹5 Lakhs", time: "7 Months" }
                 ].map((caseStudy, i) => (
                   <div key={i} className="bg-white p-10 rounded-[48px] border border-[#DEDEDE] shadow-xl hover:shadow-2xl transition-all duration-500 border-b-8 border-b-[#1F5EFF]">
-                    <h5 className="font-black text-2xl mb-2 text-[#2E2E2E]">{caseStudy.name}</h5>
+                    <h3 className="font-black text-2xl mb-2 text-[#2E2E2E]">{caseStudy.name}</h3>
                     <p className="text-[#1F5EFF] font-black uppercase text-xs tracking-widest mb-6">{caseStudy.job}</p>
                     <div className="space-y-3 mb-[15px]">
                       <div className="flex justify-between text-sm">
@@ -402,7 +402,7 @@ export default function HowToManageLoanNoJobPage() {
                 When you are jobless, your lack of income is your biggest piece of leverage. But banks don't take your word for it. You need a 'Hardship Dossier'.
               </p>
               <div className="bg-[#2E2E2E] text-white p-12 rounded-[56px] shadow-2xl">
-                <h4 className="text-2xl font-black mb-8 text-[#1F5EFF]">The Dossier Components:</h4>
+                <h3 className="text-2xl font-black mb-8 text-[#1F5EFF]">The Dossier Components:</h3>
                 <div className="space-y-6">
                   <div className="p-6 bg-white/5 rounded-3xl border border-white/10">
                     <p className="font-black text-lg mb-2">Category 1: Primary Evidence</p>
@@ -427,7 +427,7 @@ export default function HowToManageLoanNoJobPage() {
               </p>
               <div className="space-y-8">
                 <div className="p-8 bg-blue-50 rounded-[40px] border border-blue-100">
-                  <h4 className="text-xl font-bold mb-3 text-blue-900">Defense A: The Hardship defense</h4>
+                  <h3 className="text-xl font-bold mb-3 text-blue-900">Defense A: The Hardship defense</h3>
                   <p className="text-sm text-blue-800 leading-relaxed">In many judicial proceedings, the judge has the power to look at 'Force Majeure' type situations. While job loss isn't a total force majeure, judges often take a lenient view and suggest a fair settlement, especially if there are no assets involved.</p>
                 </div>
                 <div className="p-8 bg-amber-50 rounded-[40px] border border-amber-100">
@@ -598,7 +598,7 @@ export default function HowToManageLoanNoJobPage() {
                 <div className="w-20 h-20 bg-[#1F5EFF] rounded-full mx-auto mb-8 flex items-center justify-center text-white shadow-xl group-hover:scale-110 transition-transform">
                   <svg className="w-10 h-10" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2.5" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path></svg>
                 </div>
-                <h3 className="text-2xl font-black text-white mb-6">Confidential Support</h3>
+                <div className="text-2xl font-black text-white mb-6">Confidential Support</div>
                 <p className="text-[#DEDEDE]/60 text-sm font-bold leading-relaxed mb-10">
                   Speak to an expert lawyer today. Your information is 100% protected and secure.
                 </p>
@@ -613,7 +613,7 @@ export default function HowToManageLoanNoJobPage() {
               </div>
 
               <div className="bg-white p-10 rounded-[48px] border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-xs font-black uppercase tracking-[0.4em] text-[#747474] mb-10 border-b-2 border-gray-100 pb-4">Essential Roadmap</h3>
+                <div className="text-xs font-black uppercase tracking-[0.4em] text-[#747474] mb-10 border-b-2 border-gray-100 pb-4">Essential Roadmap</div>
                 <ul className="space-y-6">
                   {[
                     { title: "One-Time Settlement", href: "/loan-settlement" },

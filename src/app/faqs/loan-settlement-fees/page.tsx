@@ -371,7 +371,7 @@ export default function LoanSettlementFeesPage() {
               </p>
               <div className="grid sm:grid-cols-2 gap-4">
                 <div className="bg-white p-5 rounded-xl border border-gray-200 hover:shadow-md transition-shadow">
-                  <h4 className="font-bold text-lg mb-2 text-gray-800">1. Anti-Harassment Shield</h4>
+                  <h3 className="font-bold text-lg mb-2 text-gray-800">1. Anti-Harassment Shield</h3>
                   <p className="text-sm text-gray-600">We redirect all collection calls to our legal team. You get immediate peace of mind. We take legal action against agents who violate RBI guidelines.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-gray-200 hover:shadow-md transition-shadow">
@@ -435,7 +435,7 @@ export default function LoanSettlementFeesPage() {
               <div className="bg-gray-50 border border-gray-200 rounded-xl p-6">
                 <div className="grid md:grid-cols-3 divide-y md:divide-y-0 md:divide-x divide-gray-200 gap-6">
                   <div className="text-center">
-                    <h4 className="font-bold text-gray-600 mb-2">Individual Effort</h4>
+                    <h3 className="font-bold text-gray-600 mb-2">Individual Effort</h3>
                     <p className="text-3xl font-bold text-red-500 mb-2">~80%</p>
                     <p className="text-xs text-gray-500 px-4">Cost when you negotiate alone. Banks know you are scared and vulnerable.</p>
                   </div>
@@ -489,7 +489,7 @@ export default function LoanSettlementFeesPage() {
                 <div className="flex items-start">
                   <span className="flex-shrink-0 w-8 h-8 rounded-full bg-[var(--color-primary)] text-white flex items-center justify-center font-bold mr-4">1</span>
                   <div>
-                    <h4 className="font-bold text-gray-900">Enrollment Fee</h4>
+                    <h3 className="font-bold text-gray-900">Enrollment Fee</h3>
                     <p className="text-gray-600 text-sm">A small token amount to start the file and legal protection immediately.</p>
                   </div>
                 </div>
@@ -561,7 +561,7 @@ export default function LoanSettlementFeesPage() {
                 <div key={i} className="bg-white p-5 md:p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                    <div><h5 className="font-bold text-[#2E2E2E]">{review.name}</h5><p className="text-xs text-gray-400">{review.loc}</p></div>
+                    <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
                     <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                       <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                       <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -625,7 +625,7 @@ export default function LoanSettlementFeesPage() {
 
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white uppercase tracking-wider">Save 50% Today</h3>
+                  <div className="text-lg font-black text-white uppercase tracking-wider">Save 50% Today</div>
                 </div>
                 <div className="p-8 text-center">
                   <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
@@ -639,7 +639,7 @@ export default function LoanSettlementFeesPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Info</h3>
+                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Info</div>
                 <ul className="space-y-4 text-sm font-medium">
                   <li>
                     <Link href="/eligibility-checker-for-loan-settlement" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

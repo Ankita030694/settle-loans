@@ -430,7 +430,7 @@ export default function StudentLoanSettlementPage() {
                             </h2>
                             <div className="space-y-6">
                                 <div className="bg-white p-6 rounded-2xl border-2 border-dashed border-gray-300">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-widest text-xs font-sans">Placement Failure Script</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-widest text-xs font-sans">Placement Failure Script</h3>
                                     <p className="text-sm font-sans italic">"I have not secured a stable placement despite 50+ applications. I request an OTS settlement resetting my debt to the end-of-moratorium simple interest balance."</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-2xl border-2 border-dashed border-gray-300">
@@ -587,7 +587,7 @@ export default function StudentLoanSettlementPage() {
                                 <div key={i} className="bg-white p-5 md:p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h5 className="font-bold text-[#2E2E2E]">{review.name}</h5><p className="text-xs text-gray-400">{review.loc}</p></div>
+                                        <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -623,7 +623,7 @@ export default function StudentLoanSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-10">
                                 <div className="p-6 bg-blue-50 rounded-2xl border border-blue-100">
-                                    <h4 className="font-bold text-blue-900 mb-2">When to Consolidate</h4>
+                                    <h3 className="font-bold text-blue-900 mb-2">When to Consolidate</h3>
                                     <ul className="text-sm space-y-2 text-blue-800">
                                         <li>• You have a stable job offer.</li>
                                         <li>• Your CIBIL is still above 700.</li>
@@ -679,7 +679,7 @@ export default function StudentLoanSettlementPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider font-sans">Student Debt Audit</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider font-sans">Student Debt Audit</div>
                                 </div>
                                 <div className="p-8 text-center text-justify">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal font-sans">
@@ -693,7 +693,7 @@ export default function StudentLoanSettlementPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2 font-sans text-justify">Education Debt Help</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2 font-sans text-justify">Education Debt Help</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/legal-risks-defaulting-loan-without-settlement" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors font-sans text-justify">

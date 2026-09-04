@@ -418,7 +418,7 @@ export default function DRTNoticeReplyPage() {
               <div className="grid sm:grid-cols-3 gap-4 my-8">
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-red-600">30</div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Days to Reply</h4>
+                  <h3 className="font-bold text-[#2E2E2E] mb-2">Days to Reply</h3>
                   <p className="text-xs text-gray-500">The standard window for filing your Written Statement.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
@@ -645,7 +645,7 @@ export default function DRTNoticeReplyPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-500 text-sm">★★★★★</div>
@@ -718,7 +718,7 @@ export default function DRTNoticeReplyPage() {
               {/* CTA Card */}
               <div className="bg-white rounded-2xl border border-[var(--color-border)] shadow-sm p-6 overflow-hidden relative group">
                 <div className="absolute top-0 right-0 w-20 h-20 bg-[#1F5EFF]/5 rounded-bl-full transition-all group-hover:scale-110"></div>
-                <h4 className="text-lg font-black text-[#2E2E2E] mb-4 relative z-10">Need an Expert Reply?</h4>
+                <div className="text-lg font-black text-[#2E2E2E] mb-4 relative z-10">Need an Expert Reply?</div>
                 <p className="text-sm text-gray-600 mb-6 relative z-10 leading-relaxed font-medium">
                   Our legal squad identifies bank errors and drafts powerful replies that get results.
                 </p>
@@ -741,7 +741,7 @@ export default function DRTNoticeReplyPage() {
 
               {/* Related Pages Sidebar Widget */}
               <div className="bg-[#F8F9FA] rounded-2xl border border-gray-200 p-6">
-                <h4 className="text-sm font-bold uppercase tracking-wider text-gray-400 mb-4 pl-1">Related Resources</h4>
+                <div className="text-sm font-bold uppercase tracking-wider text-gray-400 mb-4 pl-1">Related Resources</div>
                 <nav className="flex flex-col gap-3">
                   <Link href="/drt-case-defence-for-borrowers" className="text-sm text-gray-700 hover:text-[#1F5EFF] font-medium transition-colors p-2 hover:bg-white rounded-lg border border-transparent hover:border-gray-200">
                     Defending DRT Cases

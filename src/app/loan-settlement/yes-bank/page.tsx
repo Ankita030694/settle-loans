@@ -452,7 +452,7 @@ export default function YesBankSettlementPage() {
                     { q: "Will the bank still sue me if I am in the process of settlement?", a: "If the settlement is being negotiated professionally, banks typically put legal actions on 'Hold' or 'Abeyance.' However, we monitor the court registers to ensure no 'Ex-Parte' orders are passed while we are talking to the settlement managers. This dual-track approach keeps your legal interests protected while we work on the financial resolution." }
                   ].map((faq, i) => (
                     <div key={i} className="pb-10 border-b border-slate-100 group">
-                       <h5 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#00518F] transition-colors">{faq.q}</h5>
+                       <h4 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#00518F] transition-colors">{faq.q}</h4>
                        <p className="text-lg opacity-70 leading-relaxed font-light">{faq.a}</p>
                     </div>
                   ))}
@@ -488,7 +488,7 @@ export default function YesBankSettlementPage() {
                
                <div className="bg-[#00518F] rounded-[50px] p-16 text-white text-center shadow-3xl overflow-hidden relative group">
                   <div className="absolute top-0 left-0 w-full h-full bg-white/5 opacity-0 group-hover:opacity-100 transition-opacity"></div>
-                  <h3 className="text-5xl font-black mb-6 italic tracking-tighter">75%</h3>
+                  <div className="text-5xl font-black mb-6 italic tracking-tighter">75%</div>
                   <p className="text-sm font-black uppercase tracking-widest opacity-60 mb-10 leading-relaxed">Maximum YES Bank Discount Achieved in 2026</p>
                   <Link href="/contact" className="block w-full bg-white text-[#00518F] font-black py-6 rounded-3xl hover:bg-[#C4261D] hover:text-white transition-all shadow-2xl text-xl uppercase tracking-tighter">
                      Settlement Quote
@@ -496,7 +496,7 @@ export default function YesBankSettlementPage() {
                </div>
 
                <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#718096] mb-4 border-b pb-2">Related Help</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#718096] mb-4 border-b pb-2">Related Help</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/services/credit-card-settlement" className="group flex items-center text-[#2d3748] hover:text-[#00518F] transition-colors">

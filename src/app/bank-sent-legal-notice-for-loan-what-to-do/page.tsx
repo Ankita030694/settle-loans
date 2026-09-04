@@ -210,7 +210,7 @@ export default function BankLegalNoticeGuidePage() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px] relative">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Legal Roadmap</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Legal Roadmap</div>
                             <TableOfContents
                                 items={[
                                     { id: "immediate-action-steps", title: "Immediate Steps" },
@@ -260,7 +260,7 @@ export default function BankLegalNoticeGuidePage() {
                             </p>
                             <div className="grid md:grid-cols-3 gap-6 my-12">
                                 <div className="p-8 bg-white border-2 border-gray-100 rounded-[40px] shadow-sm hover:border-[#1F5EFF]/50 transition-all group">
-                                    <h4 className="text-xl font-black text-[#2E2E2E] mb-4 uppercase group-hover:text-[#1F5EFF]">Demand Notice</h4>
+                                    <h3 className="text-xl font-black text-[#2E2E2E] mb-4 uppercase group-hover:text-[#1F5EFF]">Demand Notice</h3>
                                     <p className="text-xs leading-relaxed font-bold opacity-70">A general notice demanding repayment of arrears. Usually the first step before NPA classification.</p>
                                 </div>
                                 <div className="p-8 bg-white border-2 border-gray-100 rounded-[40px] shadow-sm hover:border-[#1F5EFF]/50 transition-all group">
@@ -288,14 +288,14 @@ export default function BankLegalNoticeGuidePage() {
                                 <li className="flex items-start gap-4 p-6 bg-blue-50 rounded-2xl border border-blue-100">
                                     <div className="bg-[#1F5EFF] text-white w-8 h-8 rounded-full flex items-center justify-center font-black shrink-0 mt-1">1</div>
                                     <div>
-                                        <h5 className="font-black uppercase text-[#2E2E2E] mb-1">Right to Privacy</h5>
+                                        <h3 className="font-black uppercase text-[#2E2E2E] mb-1">Right to Privacy</h3>
                                         <p className="text-sm font-medium">Banks cannot disclose your debt status to neighbors, employers, or extended family. Any 'Public Notice' must follow strict legal procedures.</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4 p-6 bg-blue-50 rounded-2xl border border-blue-100">
                                     <div className="bg-[#1F5EFF] text-white w-8 h-8 rounded-full flex items-center justify-center font-black shrink-0 mt-1">2</div>
                                     <div>
-                                        <h5 className="font-black uppercase text-[#2E2E2E] mb-1">Right to Fair Treatment</h5>
+                                        <h4 className="font-black uppercase text-[#2E2E2E] mb-1">Right to Fair Treatment</h4>
                                         <p className="text-sm font-medium">Harassment, verbal abuse, or physical intimidation by recovery agents is a violation of the RBI Fair Practices Code.</p>
                                     </div>
                                 </li>
@@ -321,7 +321,7 @@ export default function BankLegalNoticeGuidePage() {
                                 However, this power is not absolute. If you receive a <strong>Section 13(2) notice</strong>, you have the right to file an objection. If the bank does not provide a reasoned response to your objection within 15 days, their subsequent actions can be challenged in the <strong>Debt Recovery Tribunal (DRT)</strong>. Knowledge of these procedural lapses often helps in stalling seizures and forcing the bank back to the negotiation table.
                             </p>
                             <div className="bg-white p-8 rounded-3xl border border-red-200">
-                                <h4 className="text-xl font-black text-red-900 mb-4 uppercase">The "NPA Classification" Check</h4>
+                                <h3 className="text-xl font-black text-red-900 mb-4 uppercase">The "NPA Classification" Check</h3>
                                 <p className="text-sm italic font-bold text-red-700">Was your account classified as an NPA exactly after 90 days of default? Did the bank follow the RBI's Asset Classification norms? If not, the notice is legally void.</p>
                             </div>
                         </section>
@@ -335,7 +335,7 @@ export default function BankLegalNoticeGuidePage() {
                             </p>
                             <div className="space-y-6 my-12">
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 hover:shadow-lg transition-shadow">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">1. Denying False Claims</h4>
+                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">1. Denying False Claims</h3>
                                     <p className="text-sm leading-relaxed font-medium italic">If the interest rates mentioned are higher than the contract or if penal charges have been unfairly added, explicitly deny them in your reply.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 hover:shadow-lg transition-shadow">
@@ -364,7 +364,7 @@ export default function BankLegalNoticeGuidePage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-[#1F5EFF] text-white rounded-[48px] shadow-xl">
-                                    <h4 className="text-2xl font-black mb-4 uppercase italic">The Restructuring Option</h4>
+                                    <h3 className="text-2xl font-black mb-4 uppercase italic">The Restructuring Option</h3>
                                     <p className="text-sm leading-relaxed opacity-90 font-medium">Don't want to close the loan but can't pay the current EMI? We help you petition for a 'Tenure Extension' or 'Interest Waiver' using RBI's recent resolution frameworks.</p>
                                 </div>
                                 <div className="p-10 bg-[#2E2E2E] text-white rounded-[48px] shadow-xl">
@@ -411,7 +411,7 @@ export default function BankLegalNoticeGuidePage() {
                                 While inability to pay a loan is a civil matter, a bounced cheque is a criminal offense. Most banks take blank cheques at the time of loan disbursement and use them to initiate criminal proceedings under <strong>Section 138 of the Negotiable Instruments Act</strong> if EMIs fail.
                             </p>
                             <div className="bg-red-500/10 border-l-8 border-red-500 p-8 my-8 rounded-r-3xl">
-                                <h4 className="text-xl font-bold mb-2 text-red-400">The 15-Day Rule</h4>
+                                <h3 className="text-xl font-bold mb-2 text-red-400">The 15-Day Rule</h3>
                                 <p className="text-sm opacity-90 leading-relaxed font-black uppercase tracking-tighter">If you receive a 138 NI Act notice, you have exactly 15 days from the receipt to pay the amount. If you don't, the bank files a criminal complaint. Do not miss this deadline.</p>
                             </div>
                             <p className="text-sm italic opacity-60">We provide specialized defense for Section 138 cases, focusing on the legality of the debt, the validity of the cheque signature, and procedural delays by the bank.</p>
@@ -524,7 +524,7 @@ export default function BankLegalNoticeGuidePage() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-[32px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-6 text-white text-center">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Draft a<br />Reply</h3>
+                                    <div className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Draft a<br />Reply</div>
                                     <p className="opacity-80 text-[10px] font-black uppercase tracking-[0.2em]">Legal Response Service</p>
                                 </div>
                                 <div className="p-8">
@@ -540,7 +540,7 @@ export default function BankLegalNoticeGuidePage() {
 
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-[32px] p-8 border border-gray-100 shadow-sm text-left">
-                                <h4 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Legal Hub</h4>
+                                <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Legal Hub</div>
                                 <nav className="space-y-4">
                                     <Link href="/rbi-new-recovery-guidelines-july-2026" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">RBI Guidelines 2026</Link>
                                     <Link href="/best-nbfc-loan-settlement-lawyer" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">NBFC Notice Help</Link>

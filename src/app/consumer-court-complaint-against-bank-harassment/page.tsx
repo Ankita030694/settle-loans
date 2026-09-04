@@ -532,10 +532,10 @@ export default function ConsumerCourtBankHarassmentPage() {
               </p>
 
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-4 rounded-r-xl my-4">
-                <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
+                <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                   <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Statutory Definition: Section 2(11) Deficiency in Service</span>
-                </h4>
+                </h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                   Deficiency means any fault, imperfection, shortcoming, or inadequacy in the quality, nature, and manner of performance that is required to be maintained by or under any law for the time being in force, or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service. Deploying abusive debt collectors directly violates banking covenants and RBI statutory standards.
                 </p>
@@ -613,10 +613,10 @@ export default function ConsumerCourtBankHarassmentPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <PhoneCall className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Telephonic &amp; Digital Recordings</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Preserve unedited audio recordings of all inbound collection calls showing dates, timestamps, abusive phrasing, and calls placed outside the 8:00 AM to 7:00 PM window. Retain certified Telecom Call Detail Records (CDR) proving excessive repeated dialing.
                   </p>
@@ -834,10 +834,10 @@ export default function ConsumerCourtBankHarassmentPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <HeartPulse className="w-4 h-4 text-rose-500" />
                     <span>Compensation for Severe Mental Agony &amp; Trauma</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Awarded for emotional distress, psychological trauma, anxiety disorders, and insomnia triggered by abusive collection calls and constant threats. Supported by clinical psychological evaluations and psychiatric consultation records.
                   </p>
@@ -885,10 +885,10 @@ export default function ConsumerCourtBankHarassmentPage() {
               </p>
 
               <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200 space-y-3 my-6">
-                <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                   <Check className="w-4 h-4 text-emerald-600" />
                   <span>The Dual-Track Resolution Mechanism</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <strong className="text-slate-900 block mb-1">Track A: Aggressive Judicial Pressure</strong>
@@ -1172,7 +1172,7 @@ export default function ConsumerCourtBankHarassmentPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Emergency Harassment Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Facing Rogue Recovery Agents?</h4>
+              <div className="font-bold text-base text-white mb-2">Facing Rogue Recovery Agents?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not endure intimidation, workplace shaming, or abusive calls. Retain seasoned advocates to file urgent DCDRC complaints and negotiate a 50%–70% OTS.
               </p>
@@ -1186,9 +1186,9 @@ export default function ConsumerCourtBankHarassmentPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

@@ -293,7 +293,7 @@ export default function DebtSettlementTruthPage() {
             </p>
             <div className="grid md:grid-cols-3 gap-4 mb-8">
               <div className="p-6 bg-gray-50 border border-gray-200 rounded-2xl">
-                <h4 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs tracking-tighter">Immediate Relief</h4>
+                <h3 className="font-black text-[#1F5EFF] mb-2 uppercase text-xs tracking-tighter">Immediate Relief</h3>
                 <p className="text-sm">Stops those hundreds of daily recovery calls that destroy your peace of mind.</p>
               </div>
               <div className="p-6 bg-gray-50 border border-gray-200 rounded-2xl">
@@ -365,7 +365,7 @@ export default function DebtSettlementTruthPage() {
                 <div className="flex gap-6">
                    <div className="flex-shrink-0 w-12 h-12 bg-[#1F5EFF] text-white flex items-center justify-center rounded-full font-black text-xl">1</div>
                    <div>
-                      <h4 className="text-xl font-bold mb-2">Portfolio Analysis</h4>
+                      <h3 className="text-xl font-bold mb-2">Portfolio Analysis</h3>
                       <p className="text-gray-600">You must calculate exactly how much you can afford to pay. Don't make promises to the bank that you can't keep. A broken settlement is worse than no settlement.</p>
                    </div>
                 </div>
@@ -406,7 +406,7 @@ export default function DebtSettlementTruthPage() {
             
             <div className="bg-white border border-gray-200 rounded-3xl overflow-hidden shadow-sm">
                <div className="p-8 border-b border-gray-100">
-                  <h4 className="font-bold text-lg mb-2 text-[#1F5EFF]">Phase 1: Zero Debt (Months 1-6)</h4>
+                  <h3 className="font-bold text-lg mb-2 text-[#1F5EFF]">Phase 1: Zero Debt (Months 1-6)</h3>
                   <p className="text-sm text-gray-500">Do not apply for anything. Focus on building an emergency fund. Ensure all your settlement accounts are reported correctly with the 'Settled' remark.</p>
                </div>
                <div className="p-8 border-b border-gray-100">
@@ -425,11 +425,11 @@ export default function DebtSettlementTruthPage() {
              <p className="mb-6">The Reserve Bank of India (RBI) has very strict guidelines for recovery agents. If you are being harassed, you have the right to file a complaint even if you owe money.</p>
              <div className="grid md:grid-cols-2 gap-4">
                 <div className="p-6 rounded-2xl border border-gray-100 bg-gray-50/50">
-                   <h5 className="font-black text-[#2E2E2E] mb-3">Timing Rights</h5>
+                   <h3 className="font-black text-[#2E2E2E] mb-3">Timing Rights</h3>
                    <p className="text-sm leading-relaxed">Agents can only call or visit between 8:00 AM and 7:00 PM. Calls after 7:00 PM are a violation of privacy guidelines.</p>
                 </div>
                 <div className="p-6 rounded-2xl border border-gray-100 bg-gray-50/50">
-                   <h5 className="font-black text-[#2E2E2E] mb-3">Privacy Rights</h5>
+                   <h4 className="font-black text-[#2E2E2E] mb-3">Privacy Rights</h4>
                    <p className="text-sm leading-relaxed">Agents cannot discuss your debt with your neighbors, relatives, or boss. Social shaming is strictly prohibited.</p>
                 </div>
                 <div className="p-6 rounded-2xl border border-gray-100 bg-gray-50/50">
@@ -448,7 +448,7 @@ export default function DebtSettlementTruthPage() {
             <p className="mb-6">Each bank in India has its own internal 'settlement matrix'. While policies change, here is what we have observed over thousands of cases at SettleLoans.</p>
             <div className="space-y-6">
                 <div className="bg-white p-6 rounded-2xl border border-gray-200">
-                    <h4 className="font-bold text-lg mb-3">Public Sector Banks (SBI, PNB, BOB)</h4>
+                    <h3 className="font-bold text-lg mb-3">Public Sector Banks (SBI, PNB, BOB)</h3>
                     <p className="text-sm text-gray-600 mb-4">PSUs are generally slower but more predictable. They often have 'OTS' (One Time Settlement) schemes during specific months (usually December and March). If you have a legitimate medical or employment issue, they are often willing to waive off a significant portion of the interest.</p>
                 </div>
                 <div className="bg-white p-6 rounded-2xl border border-gray-200">
@@ -468,7 +468,7 @@ export default function DebtSettlementTruthPage() {
             <div className="bg-blue-600 text-white p-10 rounded-3xl shadow-2xl">
                 <p className="text-xl italic leading-relaxed mb-6">"At SettleLoans, we often say that our first job is to be therapists, and our second job is to be negotiators."</p>
                 <p className="text-lg opacity-80 mb-8">When you settle your debt, you are not just clearing a balance; you are clearing a mental block. You are allowing yourself to dream again, to plan for your children's future, and to sleep through the night without a pounding heart.</p>
-                <h4 className="font-bold mb-4 uppercase tracking-widest text-sm">Steps to Mental Recovery:</h4>
+                <h3 className="font-bold mb-4 uppercase tracking-widest text-sm">Steps to Mental Recovery:</h3>
                 <ul className="grid md:grid-cols-2 gap-4">
                     <li className="flex items-center gap-2 text-sm"><span className="w-1.5 h-1.5 bg-white rounded-full"></span> Accept that you've made a mistake and move on.</li>
                     <li className="flex items-center gap-2 text-sm"><span className="w-1.5 h-1.5 bg-white rounded-full"></span> Realize that you are worth more than your CIBIL score.</li>
@@ -483,7 +483,7 @@ export default function DebtSettlementTruthPage() {
             <div className="space-y-8">
                 <div className="bg-white rounded-3xl p-8 border border-gray-200 shadow-sm relative overflow-hidden">
                     <div className="absolute top-0 right-0 p-4 font-black text-gray-100 text-6xl select-none">01</div>
-                    <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">The IT Professional from Pune</h4>
+                    <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">The IT Professional from Pune</h3>
                     <p className="text-gray-600 mb-4">Rajesh had personal loans worth 15 lakhs for a family medical crisis. After a company layoff, his EMIs of 50k became impossible. He tried paying via other loans, falling into a trap. SettleLoans stepped in, stopped the harassment calls immediately, and after 6 months of negotiation, settled everything for one lump sum of 6.5 lakhs. Today, Rajesh is debt-free and has started a new job with peace of mind.</p>
                     <div className="flex gap-4 mt-6">
                         <span className="text-xs bg-red-50 text-red-600 px-3 py-1 rounded-full font-bold">Initial Debt: 15L</span>
@@ -508,7 +508,7 @@ export default function DebtSettlementTruthPage() {
             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Social Impact: Handling Relationships</h2>
             <p className="mb-6">Debt is a social disease. It affects how you talk to your spouse, how you play with your children, and how you look at your parents. One of the unspoken consequences of a settlement is the social 'shame' that often comes with it.</p>
             <div className="bg-gray-50 p-8 rounded-3xl border border-gray-200 mb-8">
-                <h4 className="font-bold mb-4">How to handle family during debt:</h4>
+                <h3 className="font-bold mb-4">How to handle family during debt:</h3>
                 <ul className="space-y-4">
                     <li><strong className="text-black">Honesty is key:</strong> Tell your spouse the truth. Hiding debt is often more destructive to a marriage than the debt itself.</li>
                     <li><strong className="text-black">Unified Front:</strong> When recovery agents call, ensure your family knows what to say. We provide our clients with a specific script to use.</li>
@@ -523,11 +523,11 @@ export default function DebtSettlementTruthPage() {
             <p className="mb-6">Debt settlement is not unique to India. In countries like the US and UK, 'Debt Settlement' or 'Individual Voluntary Arrangements' (IVAs) are common. However, the legal protections there are much stronger.</p>
             <div className="grid md:grid-cols-2 gap-6">
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl">
-                    <h5 className="font-bold mb-2">United States (FDCPA)</h5>
+                    <h3 className="font-bold mb-2">United States (FDCPA)</h3>
                     <p className="text-sm text-gray-500 italic">In the US, the Fair Debt Collection Practices Act (FDCPA) prevents agents from calling you at work or using abusive language. Settlement is seen as a legitimate path to avoid personal bankruptcy (Chapter 7).</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl">
-                    <h5 className="font-bold mb-2">India (RBI Guidelines)</h5>
+                    <h4 className="font-bold mb-2">India (RBI Guidelines)</h4>
                     <p className="text-sm text-gray-500 italic">In India, while we have RBI guidelines, enforcement is often manual and requires constant follow-up by the borrower. This is why having a legal team like SettleLoans is crucial in the Indian market.</p>
                 </div>
             </div>
@@ -538,7 +538,7 @@ export default function DebtSettlementTruthPage() {
             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Deep Dive into Credit Bureau Math</h2>
             <p className="mb-6">Many people ask: 'Why does my score drop so much if I've paid the bank what they asked for?' The answer lies in the algorithm of bureaus like CIBIL.</p>
             <div className="bg-orange-50 p-8 rounded-3xl border border-orange-200 mb-8">
-                <h4 className="font-bold mb-4 text-orange-900">The 3 Key Factors:</h4>
+                <h3 className="font-bold mb-4 text-orange-900">The 3 Key Factors:</h3>
                 <div className="space-y-4">
                     <p><strong>1. Payment History (35% Weight):</strong> The algorithm looks at whether you've fulfilled the *original* contract. By settling, you've technically 'failed' the original contract, which triggers the maximum penalty in this category.</p>
                     <p><strong>2. Credit Mix:</strong> If you settle your only credit card, you lose your only 'active' unsecured credit line, which can further lower your score because the 'mix' of credit becomes skewed.</p>
@@ -551,7 +551,7 @@ export default function DebtSettlementTruthPage() {
              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Settling Different Loan Types</h2>
              <div className="space-y-8">
                 <div>
-                   <h4 className="text-xl font-bold mb-3 text-[#1F5EFF]">Credit Card Settlements</h4>
+                   <h3 className="text-xl font-bold mb-3 text-[#1F5EFF]">Credit Card Settlements</h3>
                    <p className="text-gray-600">Credit cards have the highest interest rates (36-48%). Banks are often the most aggressive here but also the most willing to settle for 20-30% of the total amount if the card has been inactive for a long time. This is because the interest component is so high that even a 30% settlement covers the original principal.</p>
                 </div>
                 <div>
@@ -573,7 +573,7 @@ export default function DebtSettlementTruthPage() {
             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">The Day After Settlement: Your New Life</h2>
             <p className="mb-6">Once you have the settlement letter and the payment is done, the silence will be strange. Your phone won't ring with threats, and your inbox will be empty of demand notices. What do you do next?</p>
             <div className="bg-white border-2 border-[#1F5EFF] p-8 rounded-3xl">
-                <h4 className="font-black mb-4">The 48-Hour Checklist:</h4>
+                <h3 className="font-black mb-4">The 48-Hour Checklist:</h3>
                 <ol className="list-decimal pl-6 space-y-4">
                     <li><strong>Digital Cleanup:</strong> Block any remaining automated payment messages. Inform your references/family that the matter is legally closed and provide them with a copy of the settlement letter if they are still getting rogue calls.</li>
                     <li><strong>Physical Filing:</strong> Print three copies of your settlement letter. Keep one at home, one in your office, and scan one to your cloud storage (Google Drive/Dropbox). You might need this letter 5 years from now when you apply for a home loan.</li>
@@ -588,11 +588,11 @@ export default function DebtSettlementTruthPage() {
             <p className="mb-6">During the months leading up to a settlement, you will face intense pressure. Here is how to survive it without losing your mental health.</p>
             <div className="space-y-6">
                 <div className="bg-gray-50 p-6 rounded-2xl">
-                    <h5 className="font-bold mb-2">The 'One-Call-A-Day' Rule</h5>
+                    <h3 className="font-bold mb-2">The 'One-Call-A-Day' Rule</h3>
                     <p className="text-sm text-gray-600">You are not required to pick up 50 calls. Pick up one call, identify the bank, and state clearly: 'I am in financial distress and am working with my legal counsel for a resolution. Do not call my family.' Record the call. If they call again, you have evidence of harassment.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-2xl">
-                    <h5 className="font-bold mb-2">Handling the 'FIR' Threat</h5>
+                    <h4 className="font-bold mb-2">Handling the 'FIR' Threat</h4>
                     <p className="text-sm text-gray-600">Agents often carry fake 'FIR' or 'Court Summon' copies on WhatsApp. These are almost always fake. A real summons comes via post or a court bailiff, not WhatsApp. If you get one, send it to SettleLoans; our lawyers will verify it and reply appropriately.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-2xl">
@@ -687,7 +687,7 @@ export default function DebtSettlementTruthPage() {
             
             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                <div className="bg-[#1F5EFF] p-4 text-center">
-                 <h3 className="text-lg font-black text-white">Need Urgent Help?</h3>
+                 <div className="text-lg font-black text-white">Need Urgent Help?</div>
                </div>
                <div className="p-6 text-center">
                  <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -700,7 +700,7 @@ export default function DebtSettlementTruthPage() {
             </div>
 
             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-              <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Reading</h3>
+              <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Reading</div>
               <ul className="space-y-4 text-sm font-bold">
                  <li>
                   <Link href="/what-is-personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

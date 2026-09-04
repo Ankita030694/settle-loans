@@ -326,7 +326,7 @@ export default function ForgedLoanSignaturesPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h4 className="text-lg font-bold text-gray-900 mb-2">Section 463/467/468 IPC</h4>
+                                    <h3 className="text-lg font-bold text-gray-900 mb-2">Section 463/467/468 IPC</h3>
                                     <p className="text-sm text-gray-800 leading-relaxed">
                                         Classical sections for forgery, forgery of valuable security, and forgery for cheating. These carry penalties of up to life imprisonment in extreme cases.
                                     </p>
@@ -430,7 +430,7 @@ export default function ForgedLoanSignaturesPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -499,7 +499,7 @@ export default function ForgedLoanSignaturesPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Fight Identity Theft</h3>
+                                    <div className="text-lg font-black text-white">Fight Identity Theft</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -513,7 +513,7 @@ export default function ForgedLoanSignaturesPage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Fraud Expertise</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Fraud Expertise</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/digital-online-cyber-loan-disputes" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

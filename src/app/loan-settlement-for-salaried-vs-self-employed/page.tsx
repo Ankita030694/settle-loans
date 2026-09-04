@@ -778,10 +778,10 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-blue-600" />
                     <span>Salaried Defense: Illegal Salary Account Freezes &amp; Workplace Intimidation</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Banks hosting a salaried borrower&apos;s payroll account frequently place unauthorized debit freezes or balance sweeps. Advocates immediately invoke Section 60 CPC wage exemptions, submit formal branch objections, instruct HR to divert future salary credits to an unaffected institution, and escalate arbitrary set-off violations to the RBI Banking Ombudsman under the Integrated Ombudsman Scheme, 2021.
                   </p>
@@ -1118,7 +1118,7 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Debt Resolution Legal Desk</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Struggling with Unpayable Loan EMIs?</h4>
+              <div className="font-bold text-base text-white mb-2">Struggling with Unpayable Loan EMIs?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Whether you are facing job loss or commercial enterprise distress, retain seasoned banking advocates to structure your hardship dossier and secure 45%–70% OTS waivers.
               </p>
@@ -1132,9 +1132,9 @@ export default function LoanSettlementSalariedVsSelfEmployedPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

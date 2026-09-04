@@ -352,7 +352,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
               <p className="text-lg leading-relaxed mb-10">To win a settlement case based on medical grounds, you need a solid paper trail. Prepare a folder with the following documents:</p>
               <div className="grid md:grid-cols-2 gap-4 mb-10">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h4 className="font-bold mb-4 text-[#1F5EFF]">The Paper Trail</h4>
+                  <h3 className="font-bold mb-4 text-[#1F5EFF]">The Paper Trail</h3>
                   <ul className="space-y-2 text-sm">
                     <li>• Hospital Discharge Summaries</li>
                     <li>• Consolidated Medical Bills</li>
@@ -428,7 +428,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-lg">{review.name}</h5>
+                        <h3 className="font-bold text-lg">{review.name}</h3>
                         <p className="text-sm text-gray-500">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -470,7 +470,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
           <aside className="hidden lg:block w-1/5 min-w-[240px] sticky top-32 flex flex-col gap-8">
             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
               <div className="bg-[#1F5EFF] p-6 text-center">
-                <h3 className="text-xl font-black text-white">Focus on Healing</h3>
+                <div className="text-xl font-black text-white">Focus on Healing</div>
               </div>
               <div className="p-8 text-center text-[#DEDEDE]">
                 <p className="mb-6 text-sm opacity-80 leading-relaxed font-bold">
@@ -484,7 +484,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
             </div>
 
             <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-              <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-6 border-b border-[#DEDEDE] pb-2">Related Reading</h3>
+              <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-6 border-b border-[#DEDEDE] pb-2">Related Reading</div>
               <ul className="space-y-4 text-sm font-bold">
                 <li><Link href="/charities-that-pay-off-debt-in-india" className="text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors flex items-center gap-2 decoration-[#1F5EFF] underline decoration-2">NGO Support in India</Link></li>
                 <li><Link href="/how-to-manage-loan-with-no-job" className="text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors flex items-center gap-2 decoration-[#1F5EFF] underline decoration-2">Managing with No Job</Link></li>

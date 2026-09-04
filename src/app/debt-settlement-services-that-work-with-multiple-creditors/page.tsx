@@ -261,7 +261,7 @@ export default function MultiCreditorPage() {
                 <div className="flex gap-4 p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center shrink-0 font-bold text-blue-600">1</div>
                   <div>
-                    <h4 className="font-bold text-xl mb-2">Comprehensive Debt Analysis</h4>
+                    <h3 className="font-bold text-xl mb-2">Comprehensive Debt Analysis</h3>
                     <p className="text-sm text-gray-600">The service pulls your latest credit reports (CIBIL, Experian, etc.) to identify every single active loan and credit card. They then classify them by lender type (PSB, Private Bank, NBFC, Digital App).</p>
                   </div>
                 </div>
@@ -310,7 +310,7 @@ export default function MultiCreditorPage() {
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
                 <div className="p-4 border border-red-200 bg-red-50 rounded-xl">
-                  <h4 className="font-bold text-red-800 mb-2">Tier 1: High Risk</h4>
+                  <h3 className="font-bold text-red-800 mb-2">Tier 1: High Risk</h3>
                   <p className="text-xs text-red-700">Digital Lending Apps, Small Finance Banks, Informal Lenders. These use aggressive phone harassment and shaming.</p>
                 </div>
                 <div className="p-4 border border-yellow-200 bg-yellow-50 rounded-xl">
@@ -335,7 +335,7 @@ export default function MultiCreditorPage() {
                 Professional services provide a "Legal Desk" where all these calls are redirected. They communicate to the banks that the borrower is now represented by counsel. Under the RBI's Fair Practice Code, once a borrower has appointed a representative, the banks should primarily communicate with that representative regarding the settlement.
               </p>
               <div className="p-6 bg-[#2E2E2E] text-white rounded-2xl mb-8">
-                <h4 className="font-bold mb-4">Your Rights Under RBI Circular DBR.No.BP.BC.45/21.04.048/2018-19:</h4>
+                <h3 className="font-bold mb-4">Your Rights Under RBI Circular DBR.No.BP.BC.45/21.04.048/2018-19:</h3>
                 <ul className="space-y-2 text-sm opacity-80">
                   <li>• No recovery calls before 7 AM or after 7 PM.</li>
                   <li>• No verbal abuse or physical threats.</li>
@@ -366,7 +366,7 @@ export default function MultiCreditorPage() {
               </p>
               <div className="flex flex-col md:flex-row gap-8 mb-8">
                 <div className="flex-1 p-6 border rounded-2xl bg-white">
-                  <h4 className="font-bold text-blue-600 mb-2 italic">Phase 1: Stabilization (0-6 Months)</h4>
+                  <h3 className="font-bold text-blue-600 mb-2 italic">Phase 1: Stabilization (0-6 Months)</h3>
                   <p className="text-xs text-gray-500">Ensure all settled accounts reflect the correct 'zero' outstanding balance. Secure No Dues Certificates (NDCs).</p>
                 </div>
                 <div className="flex-1 p-6 border rounded-2xl bg-white">
@@ -411,7 +411,7 @@ export default function MultiCreditorPage() {
               </h2>
               <div className="space-y-6">
                 <div className="p-6 border rounded-2xl bg-white shadow-sm">
-                  <h4 className="font-bold text-xl text-[#1F5EFF] mb-2">SettleLoans</h4>
+                  <h3 className="font-bold text-xl text-[#1F5EFF] mb-2">SettleLoans</h3>
                   <p className="text-sm text-gray-600">Specializes in legal-backed negotiation for high-value unsecured debt and multiple credit card portfolios. Known for strong anti-harassment protocols and transparent fee structures.</p>
                 </div>
                 <div className="p-6 border rounded-2xl bg-white shadow-sm">
@@ -459,7 +459,7 @@ export default function MultiCreditorPage() {
               </h2>
               <div className="grid md:grid-cols-2 gap-4 text-xs">
                 <div className="p-4 bg-gray-50 rounded-xl">
-                  <h5 className="font-black mb-2 text-gray-800 uppercase tracking-tighter">Financial Proof</h5>
+                  <h3 className="font-black mb-2 text-gray-800 uppercase tracking-tighter">Financial Proof</h3>
                   <ul className="space-y-1">
                     <li>• Last 6 months bank statements (all accounts)</li>
                     <li>• Salary slips / Profit and Loss statement</li>
@@ -467,7 +467,7 @@ export default function MultiCreditorPage() {
                   </ul>
                 </div>
                 <div className="p-4 bg-gray-50 rounded-xl">
-                  <h5 className="font-black mb-2 text-gray-800 uppercase tracking-tighter">Hardship Proof</h5>
+                  <h4 className="font-black mb-2 text-gray-800 uppercase tracking-tighter">Hardship Proof</h4>
                   <ul className="space-y-1">
                     <li>• Medical records (if illness caused default)</li>
                     <li>• Job termination letter / Resignation proof</li>
@@ -534,7 +534,7 @@ export default function MultiCreditorPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -582,7 +582,7 @@ export default function MultiCreditorPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">End the Complexity</h3>
+                  <div className="text-lg font-black text-white">End the Complexity</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -596,7 +596,7 @@ export default function MultiCreditorPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-[10px]">Lender Specifics</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-[10px]">Lender Specifics</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li><Link href="/how-to-remove-loan-default-from-cibil-finances-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>CIBIL Repair Guide</Link></li>
                   <li><Link href="/how-to-handle-a-loan-settlement-by-yourself-a-brief-guide" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>DIY Settlement Risks</Link></li>

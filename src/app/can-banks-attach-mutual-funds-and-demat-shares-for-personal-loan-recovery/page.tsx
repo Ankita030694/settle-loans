@@ -211,7 +211,7 @@ export default function AssetAttachmentPage() {
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Reality of the "Bank Freeze Demat Account Loan Default" Threat</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Reality of the "Bank Freeze Demat Account Loan Default" Threat</h3>
                 <p className="text-lg leading-relaxed mb-6 text-[#1E3A8A]">
                   Recovery agents use this phrase to create panic. In reality, your shares and mutual funds are held by third-party depositories and Asset Management Companies (AMCs). To touch these assets, the bank must:
                 </p>
@@ -267,7 +267,7 @@ export default function AssetAttachmentPage() {
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">Beware of Collection Agent Lies</h4>
+                <h3 className="text-xl font-black text-red-700 mb-4">Beware of Collection Agent Lies</h3>
                 <p className="text-lg leading-relaxed text-red-900">
                   Agents often claim they will "seize your shares tomorrow." This is legally impossible for unsecured loans. They need a <strong>court order to seize shares</strong> because these assets were never pledged as collateral. It is a severe violation of the SARFAESI Act to bypass civil court procedures for unsecured debt recovery.
                 </p>
@@ -394,7 +394,7 @@ export default function AssetAttachmentPage() {
                   { q: "How long does the court process take before asset attachment?", a: "The civil court process in India is lengthy and can take several years, giving you ample time to build a defense or negotiate a settlement." }
                 ].map((faq, index) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.q}</h4>
+                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.q}</h3>
                     <p className="text-lg leading-relaxed text-gray-700">{faq.a}</p>
                   </div>
                 ))}
@@ -436,7 +436,7 @@ export default function AssetAttachmentPage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-500"></div>
                 <div className="relative z-10">
-                  <h4 className="text-2xl font-black mb-4">Stop Bank Harassment</h4>
+                  <div className="text-2xl font-black mb-4">Stop Bank Harassment</div>
                   <p className="text-gray-300 mb-6 text-sm">Don't let empty threats dictate your financial future. Speak to our defense lawyers now.</p>
                   <Link href="#consultation" className="inline-block w-full bg-[#1F5EFF] py-3 rounded-lg font-bold hover:bg-blue-600 transition-colors">
                     Get Help Now
@@ -446,7 +446,7 @@ export default function AssetAttachmentPage() {
 
               {/* Card 2 (White Resources) */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Guides</h4>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Guides</div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/sarfaesi-act-guidelines" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">

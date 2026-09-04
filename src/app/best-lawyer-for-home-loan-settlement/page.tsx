@@ -170,7 +170,7 @@ export default function HomeLoanLawyerPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Section 13(2) Review</h4>
+                                    <h3 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Section 13(2) Review</h3>
                                     <p className="text-sm">We audit the notice for interest calculation errors or improper NPA classification. Banks often aggregate multiple accounts incorrectly to hit the recovery threshold.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
@@ -208,7 +208,7 @@ export default function HomeLoanLawyerPage() {
                                 Under Section 14 of the SARFAESI Act, banks approach the District Magistrate (DM) or Chief Metropolitan Magistrate (CMM) for physical possession. While this role is administrative (ministerial), it is not immune to challenge. Recent legal precedents in 2024-25 emphasize that the Magistrate must verify the 'Credibility' of the bank's affidavit.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-3xl border border-orange-100 mb-8">
-                                <h4 className="text-xl font-black text-orange-900 mb-4">The "Affidavit Shield"</h4>
+                                <h3 className="text-xl font-black text-orange-900 mb-4">The "Affidavit Shield"</h3>
                                 <p className="text-orange-800 leading-relaxed font-medium italic">
                                     Did the bank disclose your previous litigation in the DRT to the Magistrate? If the bank suppresses information in their Section 14 affidavit, it is a legal fraud. We challenge these orders by proving 'Material Concealment,' which can stay the physical possession for months, forcing a settlement.
                                 </p>
@@ -276,7 +276,7 @@ export default function HomeLoanLawyerPage() {
                             </p>
                             <div className="bg-[#1F5EFF] p-12 rounded-[50px] shadow-2xl relative overflow-hidden group">
                                 <div className="absolute top-0 left-0 w-full h-full bg-black/5 opacity-0 group-hover:opacity-100 transition-opacity"></div>
-                                <h4 className="text-2xl font-black text-white mb-6 uppercase tracking-widest">The "Lump-Sum" Advantage</h4>
+                                <h3 className="text-2xl font-black text-white mb-6 uppercase tracking-widest">The "Lump-Sum" Advantage</h3>
                                 <p className="text-white/80 leading-relaxed mb-8 font-bold italic">
                                     "When you offer a settlement amount that is higher than the bank's 'Distress Sale Value,' the bank manager's incentive switches from recovery to immediate provisioning relief."
                                 </p>
@@ -292,14 +292,14 @@ export default function HomeLoanLawyerPage() {
                                 General lawyers often don't understand the nuances of the 'Pari-passu' charge or the 'Consortium' banking dynamics. A specialist banking lawyer understands the bank's internal 'Delegated Power' (DP) matrix—who has the power to sign your settlement letter.
                             </p>
                             <div className="bg-[#2E2E2E] p-8 rounded-3xl text-white mb-8 border-l-8 border-[#1F5EFF]">
-                                <h4 className="text-xl font-black mb-4 uppercase tracking-tighter">The "NPA Forensics" Shield</h4>
+                                <h3 className="text-xl font-black mb-4 uppercase tracking-tighter">The "NPA Forensics" Shield</h3>
                                 <p className="opacity-80 leading-relaxed italic">
                                     "Did you know that if you paid even a partial amount that should have kept the account 'Standard' as per the 90-day rule, but the bank still declared it NPA? That is an illegal NPA. We specialize in forensic auditing of your loan statement to find these 24-hour discrepancies that can collapse the bank's entire SARFAESI case."
                                 </p>
                             </div>
                             <div className="grid md:grid-cols-2 gap-8">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-[#1F5EFF] transition-colors">
-                                    <h5 className="font-black text-[#2E2E2E] mb-3 uppercase text-sm tracking-widest">Policy Knowledge</h5>
+                                    <h4 className="font-black text-[#2E2E2E] mb-3 uppercase text-sm tracking-widest">Policy Knowledge</h4>
                                     <p className="text-xs opacity-70">We know the board-approved OTS limits of SBI, HDFC, ICICI, and NBFCs like Bajaj. We don't guess; we leverage.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-[#1F5EFF] transition-colors">
@@ -345,7 +345,7 @@ export default function HomeLoanLawyerPage() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex gap-4 text-[10px] font-mono">
@@ -379,7 +379,7 @@ export default function HomeLoanLawyerPage() {
                                     { q: "Can my property be sold for 50% of its market value?", a: "No. Law requires a fair valuation. If a bank tries to sell at a 'Distress' price without justifying it, we can get the sale set aside in tribunal for 'Serious Undervaluation'." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
+                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -404,7 +404,7 @@ export default function HomeLoanLawyerPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Stop the Auction?</h3>
+                                    <div className="text-lg font-black text-white">Stop the Auction?</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -418,7 +418,7 @@ export default function HomeLoanLawyerPage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Home Loan Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Home Loan Resources</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     {[
                                         { name: "Steps Before Negotiation", href: "/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender" },

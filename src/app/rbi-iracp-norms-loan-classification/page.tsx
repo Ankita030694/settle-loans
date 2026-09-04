@@ -129,7 +129,7 @@ export default function RbiIracpNormsPage() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Understanding SMA Classification</h2>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Special Mention Accounts (SMA)</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Special Mention Accounts (SMA)</h3>
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   Before a loan becomes an NPA, the RBI requires banks to identify incipient stress by categorizing overdue accounts into three SMA sub-categories:
                 </p>
@@ -346,7 +346,7 @@ export default function RbiIracpNormsPage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                 <div className="relative z-10">
-                  <h3 className="text-xl font-black mb-4">Stop Recovery Harassment Today</h3>
+                  <div className="text-xl font-black mb-4">Stop Recovery Harassment Today</div>
                   <p className="text-sm text-white/70 mb-6">If your loan is in SMA-1 or SMA-2, recovery agents might be crossing the line. Know your rights.</p>
                   <Link href="#contact" className="block w-full bg-[#1F5EFF] text-white font-bold py-3 rounded-lg hover:bg-blue-600 transition-colors">
                     Get Help Now
@@ -355,7 +355,7 @@ export default function RbiIracpNormsPage() {
               </div>
 
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Resources</h3>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Resources</div>
                 <ul className="space-y-3">
                   <li>
                     <Link href="/stop-emi-bounce-cycle-for-good" className="group flex items-center text-sm font-medium text-gray-700 hover:text-[#1F5EFF] transition-colors">

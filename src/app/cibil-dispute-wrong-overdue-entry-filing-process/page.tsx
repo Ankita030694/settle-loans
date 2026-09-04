@@ -277,7 +277,7 @@ export default function CibilDisputePage() {
                 </p>
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">System Lags</h4>
+                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">System Lags</h3>
                     <p className="text-base text-gray-600">Banks update credit bureaus every 30-45 days. If you paid on the 31st and the report ran on the 30th, you will incorrectly appear overdue.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -472,7 +472,7 @@ export default function CibilDisputePage() {
                       ))}
                     </div>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] text-xl mb-3">Score Jumped 60 Points!</h4>
+                  <h3 className="font-bold text-[#2E2E2E] text-xl mb-3">Score Jumped 60 Points!</h3>
                   <p className="text-gray-600 mb-6 line-clamp-3">
                     "The bank falsely reported an active overdue on my closed auto loan. Followed this process and got it removed in 28 days. Life saver!"
                   </p>
@@ -603,7 +603,7 @@ export default function CibilDisputePage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                 <div className="relative z-10">
-                  <h4 className="text-2xl font-black mb-4">Fix Your Score Faster</h4>
+                  <div className="text-2xl font-black mb-4">Fix Your Score Faster</div>
                   <p className="text-sm text-gray-300 mb-6">
                     Don't let bank errors stop your loan approval. Get professional help drafting your dispute response.
                   </p>
@@ -615,9 +615,9 @@ export default function CibilDisputePage() {
 
               {/* Card 2 (White Resources) */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Essential Resources
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/check-free-cibil" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">

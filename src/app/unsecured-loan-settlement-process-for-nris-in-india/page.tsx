@@ -146,7 +146,7 @@ export default function NRILoanSettlementPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Notices to Indian Address</h4>
+                  <h3 className="font-black text-[#1F5EFF] mb-3 text-lg">Notices to Indian Address</h3>
                   <p className="text-sm leading-relaxed">Banks will send legal notices and recovery agents to your registered address in India. This often causes immense stress for family members residing there.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -177,7 +177,7 @@ export default function NRILoanSettlementPage() {
             <section id="jurisdiction" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Cross-Border Jurisdiction</h2>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Important Legal Context:</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Important Legal Context:</h3>
                 <ul className="space-y-4 text-blue-900 font-medium">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -247,7 +247,7 @@ export default function NRILoanSettlementPage() {
                 While you can ask a relative to represent you, debt negotiation requires specific skills. Family members are often emotionally involved and may easily yield to pressure tactics used by aggressive recovery agents.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="font-black text-[#2E2E2E] mb-4">Expert Negotiation</h4>
+                <h3 className="font-black text-[#2E2E2E] mb-4">Expert Negotiation</h3>
                 <p className="mb-4">They understand banking policies and know exactly how far a bank can bend, often securing waivers of 40% to 60% on the total outstanding amount.</p>
                 <h4 className="font-black text-[#2E2E2E] mb-4">Legal Safety</h4>
                 <p>They ensure the settlement letter is legally sound and doesn't leave loopholes for the bank to demand more money later.</p>
@@ -257,7 +257,7 @@ export default function NRILoanSettlementPage() {
             <section id="harassment" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Preventing Harassment</h2>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="font-black text-[#2E2E2E] mb-4">Buffer Against Harassment</h4>
+                <h3 className="font-black text-[#2E2E2E] mb-4">Buffer Against Harassment</h3>
                 <p className="mb-4">Professional negotiators intercept all communications. Once they represent you, banks must legally communicate through them, stopping calls to your foreign number and visits to your Indian home. This creates an immediate firewall between your life abroad and the recovery teams in India.</p>
               </div>
             </section>
@@ -268,7 +268,7 @@ export default function NRILoanSettlementPage() {
                 It is vital to manage expectations regarding your credit report. When you settle a loan rather than paying it in full, the bank reports it to CIBIL as "Settled", not "Closed". 
               </p>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-lg font-bold text-red-700 mb-3">Long-Term Impact:</h4>
+                <h3 className="text-lg font-bold text-red-700 mb-3">Long-Term Impact:</h3>
                 <p className="text-sm text-red-900 leading-relaxed italic">
                   An NRI CIBIL score default followed by a settlement will remain on your credit history for up to seven years. This will significantly lower your credit score and make acquiring new credit facilities in India very difficult during that period.
                 </p>
@@ -327,7 +327,7 @@ export default function NRILoanSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-black text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-black text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-[#747474] font-bold uppercase tracking-wider">{review.loc}</p>
                       </div>
                       <div className="ml-auto flex text-yellow-400">
@@ -368,7 +368,7 @@ export default function NRILoanSettlementPage() {
                   { q: "Can a settled loan be removed from my CIBIL report?", a: "A settled loan will reflect as 'Settled' in your CIBIL report, not 'Closed'. This remains on the report for 7 years and impacts credit score negatively, but clears you of the legal obligation." }
                 ].map((faq, i) => (
                   <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h4>
+                    <h3 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h3>
                     <p className="text-gray-600 leading-relaxed">{faq.a}</p>
                   </div>
                 ))}
@@ -398,13 +398,13 @@ export default function NRILoanSettlementPage() {
             <div className="sticky top-24 space-y-8">
                <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl overflow-hidden relative group">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                  <h3 className="text-2xl font-black mb-4 relative z-10">NRI Settlement Support</h3>
+                  <div className="text-2xl font-black mb-4 relative z-10">NRI Settlement Support</div>
                   <p className="text-white/70 text-sm mb-6 relative z-10">Don't let distance stop you from finding financial peace. Let our experts handle the banks in India.</p>
                   <Link href="/contact-us" className="block w-full bg-[#1F5EFF] text-white font-black py-4 rounded-xl hover:bg-[#1F5EFF]/90 transition-colors shadow-lg">Consult Now</Link>
                </div>
 
                <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-4">Helpful Resources</h3>
+                  <div className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-4">Helpful Resources</div>
                   <ul className="space-y-5">
                      <li>
                         <Link href="/loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold transition-colors">

@@ -289,7 +289,7 @@ export default function JointAccountEmiDeductionPage() {
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial Conditions for Right of Set-Off</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial Conditions for Right of Set-Off</h3>
                 <p className="text-lg leading-relaxed mb-4 text-blue-900">
                   The bank cannot simply apply this right randomly. Very specific legal conditions must be met:
                 </p>
@@ -325,7 +325,7 @@ export default function JointAccountEmiDeductionPage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Individual Loan vs. Joint Account</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Individual Loan vs. Joint Account</h3>
                   <p className="text-gray-700 text-base">
                     If Mr. A defaults on a personal loan, the bank <strong>cannot</strong> legally freeze or deduct money from the joint account of Mr. A and Mrs. B. Doing so violates Mrs. B's independent right to those funds.
                   </p>
@@ -358,7 +358,7 @@ export default function JointAccountEmiDeductionPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Joint NACH/ECS Mandate Signed</h4>
+                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Joint NACH/ECS Mandate Signed</h3>
                     <p className="text-lg text-gray-700">If, during the loan application, the non-defaulting joint holder (e.g., the wife) co-signed the NACH mandate form explicitly authorizing the bank to deduct the husband's personal loan EMI from their shared joint account, the bank is within its rights to execute the auto-debit.</p>
                   </div>
                 </div>
@@ -543,7 +543,7 @@ export default function JointAccountEmiDeductionPage() {
               {/* Dark CTA Card */}
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                <h4 className="text-xl font-black mb-4 relative z-10">Bank Harassment?</h4>
+                <div className="text-xl font-black mb-4 relative z-10">Bank Harassment?</div>
                 <p className="text-sm text-gray-300 mb-6 relative z-10">We stop illegal deductions and frozen accounts.</p>
                 <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-bold py-3 rounded-lg hover:bg-blue-600 transition-colors relative z-10">
                   Get Legal Help
@@ -552,7 +552,7 @@ export default function JointAccountEmiDeductionPage() {
 
               {/* White Resources Card */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b border-[#DEDEDE] pb-4 mb-4">Related Legal Guides</h4>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b border-[#DEDEDE] pb-4 mb-4">Related Legal Guides</div>
                 <div className="space-y-4">
                   <Link href="/can-banks-freeze-my-upi-phonepe-gpay-account-for-personal-loan-recovery" className="group flex items-start">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 mt-2 flex-shrink-0 transition-colors"></span>

@@ -307,7 +307,7 @@ export default function DocumentChecklistPage() {
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
                                     <FontAwesomeIcon icon={faIdCard} className="text-blue-600 mb-4 w-6 h-6" />
-                                    <h4 className="font-bold text-lg mb-3 text-gray-900">Mandatory KYC</h4>
+                                    <h3 className="font-bold text-lg mb-3 text-gray-900">Mandatory KYC</h3>
                                     <p className="text-gray-700 text-sm">Valid PAN Card (for tax tracking of written-off amounts) and Aadhaar Card. Ensure your mobile number linked to Aadhaar is active for potential e-signing of settlement letters.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
@@ -367,7 +367,7 @@ export default function DocumentChecklistPage() {
                                         </div>
                                     </div>
                                     <div className="md:w-2/3 p-8">
-                                        <h4 className="text-xl font-bold text-gray-900 mb-4">Bank Statement Audit</h4>
+                                        <h3 className="text-xl font-bold text-gray-900 mb-4">Bank Statement Audit</h3>
                                         <p className="text-gray-700 leading-relaxed text-sm">
                                             Lenders look for "Pattern Bounces" (repeated EMI failures) and "Minimum Balances". If your statements show luxury spending (Zomato, Netflix, Amazon) while you are defaulting on a loan, the settlement will be rejected. Professionals help you present a sanitized but honest view of your essential living expenses.
                                         </p>
@@ -394,7 +394,7 @@ export default function DocumentChecklistPage() {
                                     { t: "Employer Closure Notice", d: "If the company went bankrupt, news clippings or company circulars are vital." }
                                 ].map((item, idx) => (
                                     <div key={idx} className="p-4 bg-gray-50 border border-gray-100 rounded-xl">
-                                        <h5 className="font-bold text-gray-800 mb-1">{item.t}</h5>
+                                        <h3 className="font-bold text-gray-800 mb-1">{item.t}</h3>
                                         <p className="text-xs text-gray-600">{item.d}</p>
                                     </div>
                                 ))}
@@ -453,7 +453,7 @@ export default function DocumentChecklistPage() {
                                     <div key={idx} className="flex gap-4 p-5 rounded-2xl bg-gray-50 border border-gray-100">
                                         <div className="flex-shrink-0 w-8 h-8 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-bold">{idx + 1}</div>
                                         <div>
-                                            <h5 className="font-bold text-gray-900">{item.t}</h5>
+                                            <h3 className="font-bold text-gray-900">{item.t}</h3>
                                             <p className="text-sm text-gray-600">{item.d}</p>
                                         </div>
                                     </div>
@@ -492,14 +492,14 @@ export default function DocumentChecklistPage() {
                                 <div className="p-6 bg-emerald-50 rounded-2xl border border-emerald-100 flex gap-4">
                                     <div className="text-emerald-600 font-black text-2xl">A.</div>
                                     <div>
-                                        <h5 className="font-bold text-emerald-900">No Dues Certificate (NDC)</h5>
+                                        <h3 className="font-bold text-emerald-900">No Dues Certificate (NDC)</h3>
                                         <p className="text-sm text-emerald-800">The final legal declaration that the account is closed and the bank has no further claim against the borrower.</p>
                                     </div>
                                 </div>
                                 <div className="p-6 bg-emerald-50 rounded-2xl border border-emerald-100 flex gap-4">
                                     <div className="text-emerald-600 font-black text-2xl">B.</div>
                                     <div>
-                                        <h5 className="font-bold text-emerald-900">NOC for CIBIL Update</h5>
+                                        <h4 className="font-bold text-emerald-900">NOC for CIBIL Update</h4>
                                         <p className="text-sm text-emerald-800">A letter addressed to credit bureaus confirming the settlement, which you can use to file a dispute if the automated update fails.</p>
                                     </div>
                                 </div>
@@ -611,7 +611,7 @@ export default function DocumentChecklistPage() {
                                 <div key={i} className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h5 className="font-bold text-[#2E2E2E]">{review.name}</h5><p className="text-xs text-gray-400">{review.loc}</p></div>
+                                        <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -662,7 +662,7 @@ export default function DocumentChecklistPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group text-[#DEDEDE]">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">File Audit</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">File Audit</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm opacity-80 leading-relaxed font-normal">
@@ -676,7 +676,7 @@ export default function DocumentChecklistPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Toolkit</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Toolkit</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

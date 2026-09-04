@@ -434,7 +434,7 @@ export default function AlternativesToSettlementPage() {
                             </h2>
                             <div className="grid md:grid-cols-2 gap-8 mb-8">
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100 italic">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2">Gold Loans</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-2">Gold Loans</h3>
                                     <p className="text-sm">Replace 40% interest debt with 8-10% interest gold loans using your family's assets. No credit check required.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100 italic">
@@ -634,7 +634,7 @@ export default function AlternativesToSettlementPage() {
                                 <div key={i} className="bg-white p-5 md:p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h5 className="font-bold text-[#2E2E2E]">{review.name}</h5><p className="text-xs text-gray-400">{review.loc}</p></div>
+                                        <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -719,7 +719,7 @@ export default function AlternativesToSettlementPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Clean Debt Exit</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Clean Debt Exit</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
@@ -733,7 +733,7 @@ export default function AlternativesToSettlementPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Debt Guides</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Debt Guides</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/settle-credit-card-dues-third-party-loan-companies" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

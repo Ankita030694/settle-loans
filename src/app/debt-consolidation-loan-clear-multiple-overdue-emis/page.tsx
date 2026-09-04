@@ -250,7 +250,7 @@ export default function DebtConsolidationLoanPage() {
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-bold text-gray-800 mb-3">The "Late Fee" Avalanche</h4>
+                <h3 className="text-xl font-bold text-gray-800 mb-3">The "Late Fee" Avalanche</h3>
                 <p className="text-gray-700 text-lg">
                   If you miss just one week of payments across four different loans, you are hit with four separate late fees, four separate bounce charges from your bank, and four distinct penal interest rates. A simple cash flow issue of ₹10,000 can easily balloon into ₹25,000 in penalties within a single month. This rapid escalation is exactly why a <strong>personal loan consolidation</strong> is critical to stop the bleeding.
                 </p>
@@ -267,7 +267,7 @@ export default function DebtConsolidationLoanPage() {
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Strategies for Bad Credit Approval</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Strategies for Bad Credit Approval</h3>
                 <ul className="space-y-3 text-lg text-blue-900">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -298,7 +298,7 @@ export default function DebtConsolidationLoanPage() {
                 Before you sign the dotted line on a new consolidation loan, it is highly recommended that you attempt to negotiate with your current creditors. Many banks, when faced with the genuine threat of an NPA (Non-Performing Asset), are willing to offer temporary relief or waive accumulated penalties. 
               </p>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Steps to Negotiate Effectively</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Steps to Negotiate Effectively</h3>
                 <ul className="space-y-3 text-lg text-blue-900">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -327,7 +327,7 @@ export default function DebtConsolidationLoanPage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Debt Consolidation</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Debt Consolidation</h3>
                   <p className="text-gray-700">Taking a brand new loan to pay off multiple existing ones. You replace old lenders with one new lender.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -360,7 +360,7 @@ export default function DebtConsolidationLoanPage() {
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Balance Transfer</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Balance Transfer</h3>
                   <p className="text-gray-700">Moving an existing high-interest loan (like a credit card balance) to another lender offering a significantly lower promotional interest rate. This works best if your CIBIL score is still relatively intact.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -394,7 +394,7 @@ export default function DebtConsolidationLoanPage() {
                 Not all consolidation loans are created equal. When your goal is to reduce your financial burden, selecting the right lending partner is just as critical as the decision to consolidate. You must meticulously evaluate potential lenders based on their interest rates, processing fees, and hidden charges. 
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-bold text-gray-800 mb-3">Key Factors to Consider</h4>
+                <h3 className="text-xl font-bold text-gray-800 mb-3">Key Factors to Consider</h3>
                 <ul className="space-y-3 text-lg text-gray-700">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -448,7 +448,7 @@ export default function DebtConsolidationLoanPage() {
               </div>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-lg font-bold text-red-700 mb-2">Don't Wait Until Your Account Turns NPA</h4>
+                <h3 className="text-lg font-bold text-red-700 mb-2">Don't Wait Until Your Account Turns NPA</h3>
                 <p className="text-red-900">
                   The worst thing you can do when facing multiple overdue EMIs is to ignore the calls and do nothing. Once a loan is officially classified as a Non-Performing Asset (typically after 90 days of non-payment), the bank's legal machinery activates, severely limiting your negotiation options. Act now to secure your consolidation options.
                 </p>
@@ -469,7 +469,7 @@ export default function DebtConsolidationLoanPage() {
                       R
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E] text-lg">Rahul M.</h4>
+                      <h3 className="font-bold text-[#2E2E2E] text-lg">Rahul M.</h3>
                       <div className="flex gap-1">
                         {[1, 2, 3, 4, 5].map((star) => (
                           <svg key={star} className="w-4 h-4 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
@@ -649,7 +649,7 @@ export default function DebtConsolidationLoanPage() {
             <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group mb-8">
               <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
               <div className="relative z-10">
-                <h4 className="text-xl font-black mb-4">Harassed by Agents?</h4>
+                <div className="text-xl font-black mb-4">Harassed by Agents?</div>
                 <p className="text-sm text-gray-300 mb-6">
                   If recovery agents are calling your family or workplace, you have legal rights. Stop the harassment instantly.
                 </p>
@@ -661,9 +661,9 @@ export default function DebtConsolidationLoanPage() {
 
             {/* Card 2: White Resources */}
             <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-              <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+              <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                 Helpful Resources
-              </h4>
+              </div>
               <ul className="space-y-4">
                 <li>
                   <Link href="/loan-settlement-amount-calculator" className="text-gray-700 hover:text-[#1F5EFF] font-semibold text-sm flex items-center group transition-colors">

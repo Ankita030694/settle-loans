@@ -573,10 +573,10 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                 By statutory definition, unsecured personal loans, instant mobile app loans, consumer durable financing, and revolving credit card lines have zero security interest. The lender holds no title deeds, no registered mortgage deed with the Sub-Registrar, and no hypothecation agreement over domestic furniture. Consequently, invoking SARFAESI notices or threatening summary repossession for an unsecured loan default is legally void <em>ab initio</em>. When collection agents attempt to enforce non-existent security powers, they open themselves and the principal lending institution to severe regulatory sanctions and judicial reprimand.
               </p>
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
-                <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                   <ShieldX className="w-4 h-4 text-red-500" />
                   <span>Key Distinctions: Secured Repossession vs. Unsecured Recovery</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700 mt-3">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Secured Loans (Home / Auto Loans)</p>
@@ -658,7 +658,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
               
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 my-4">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 441 &amp; 447 IPC (Criminal Trespass)</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Section 441 &amp; 447 IPC (Criminal Trespass)</h3>
                   <p className="text-xs text-slate-600">Entering into or upon property in possession of another with intent to commit an offense, intimidate, insult, or annoy is punishable by imprisonment.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
@@ -1009,11 +1009,11 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm">
+                  <div className="font-bold text-slate-900 text-sm">
                     <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
               </div>
@@ -1038,7 +1038,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Legal Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Threatened With Asset Confiscation?</h4>
+              <div className="font-bold text-base text-white mb-2">Threatened With Asset Confiscation?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not allow recovery agents to intimidate your family with illegal seizure threats. Engage our senior advocates to issue immediate legal notices, halt doorstep visits, and negotiate a 40%–65% OTS.
               </p>
@@ -1052,9 +1052,9 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

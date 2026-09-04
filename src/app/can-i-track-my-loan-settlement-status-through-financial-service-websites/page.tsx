@@ -277,7 +277,7 @@ export default function TrackLoanSettlementStatusPage() {
                 Settlement is not just about paying a sum of money; it's about ensuring that the debt is legally extinguished. Without proper tracking, you might find yourself in a situation where you have paid a "settlement" amount but the bank still considers you a defaulter. This happens due to administrative errors, misplaced documents, or even the lack of updates in the bank's internal systems.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl border border-[#DEDEDE] mb-8">
-                <h4 className="font-bold mb-4">Risk of Ignoring the Status:</h4>
+                <h3 className="font-bold mb-4">Risk of Ignoring the Status:</h3>
                 <ul className="space-y-3 text-sm text-gray-600">
                   <li>• Ongoing recovery harassment despite payment.</li>
                   <li>• Legal cases not being withdrawn by the lender.</li>
@@ -383,11 +383,11 @@ export default function TrackLoanSettlementStatusPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h5 className="font-bold text-[#1F5EFF] mb-2">1. The Proposal Stage</h5>
+                  <h3 className="font-bold text-[#1F5EFF] mb-2">1. The Proposal Stage</h3>
                   <p className="text-xs text-gray-600">This is when your service provider sends an official offer letter to the bank. Tracking at this stage is about ensuring the bank has acknowledged the offer.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h5 className="font-bold text-[#1F5EFF] mb-2">2. The Settlement Letter</h5>
+                  <h4 className="font-bold text-[#1F5EFF] mb-2">2. The Settlement Letter</h4>
                   <p className="text-xs text-gray-600">The "Golden Document." This is the bank's official acceptance of the reduced amount. You must track this and verify every detail on it before paying.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
@@ -417,7 +417,7 @@ export default function TrackLoanSettlementStatusPage() {
                 The "final state" of your settlement tracking is not on a mediator's website or even in a bank's NOC. It is on your credit report. In India, banks are mandated to report account updates to bureaus like CIBIL every 30 to 45 days.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                <h4 className="font-bold mb-4">Post-Settlement Credit Tracker Checklist:</h4>
+                <h3 className="font-bold mb-4">Post-Settlement Credit Tracker Checklist:</h3>
                 <ul className="space-y-4 text-sm">
                   <li className="flex items-center gap-3">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
@@ -468,7 +468,7 @@ export default function TrackLoanSettlementStatusPage() {
                 Desperation can make us vulnerable to predators. Be extremely wary of websites or individuals promising "Instant No-Dues" or "Live CIBIL Manipulation."
               </p>
               <div className="bg-red-50 border-l-4 border-red-500 p-8 rounded-r-xl mb-8">
-                <h4 className="font-bold text-red-800 mb-2">Red Flags of a Scam Platform</h4>
+                <h3 className="font-bold text-red-800 mb-2">Red Flags of a Scam Platform</h3>
                 <ul className="space-y-3 text-red-900/80 text-sm">
                   <li>• Asking for your bank login credentials to "track" status directly.</li>
                   <li>• Promising a 100% success rate with "guaranteed" timeframes.</li>
@@ -618,7 +618,7 @@ export default function TrackLoanSettlementStatusPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Track Your Path</h3>
+                  <div className="text-lg font-black text-white">Track Your Path</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -633,7 +633,7 @@ export default function TrackLoanSettlementStatusPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Articles</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Articles</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

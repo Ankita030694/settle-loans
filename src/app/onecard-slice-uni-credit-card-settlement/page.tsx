@@ -604,10 +604,10 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 Revolving annualized percentage rates (APR) of 36% to 48% compounded daily, combined with 18% GST and steep monthly late fees, rapidly inflate balances. An initial utilized principal of ₹2,00,000 can surge past ₹3,40,000 within twelve months of default, making routine payments ineffective against the growing ledger.
               </p>
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-6">
-                <h4 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                   <Banknote className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Fintech Card Ledger Inflation Mechanics (Example: ₹2,00,000 Default)</span>
-                </h4>
+                </h3>
                 <div className="overflow-x-auto">
                   <table className="min-w-full bg-white text-xs sm:text-sm">
                     <thead>
@@ -1127,14 +1127,14 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                   </div>
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -1167,9 +1167,9 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Fintech Dispute Resolution</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Facing OneCard, Slice or Uni Default?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Stop aggressive WhatsApp recovery threats and compounding 36%–48% APR interest immediately. Let our experienced banking advocates defend partner bank legal notices, audit your statement ledger, and negotiate an authentic stamped OTS settlement letter.
               </p>
@@ -1183,10 +1183,10 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

@@ -764,10 +764,10 @@ export default function RemoveSettledStatusFromCibilClient() {
               </div>
 
               <div className="bg-amber-50 border border-amber-200 rounded-2xl p-5 my-6 text-slate-800">
-                <h4 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-2">
+                <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-2">
                   <AlertTriangle className="w-5 h-5 text-amber-600" />
                   Golden Rule of Credit Bureau Integrity
-                </h4>
+                </h3>
                 <p className="text-xs md:text-sm text-slate-700 leading-relaxed">
                   Neither TransUnion CIBIL nor any lawyer, advocate, or agency has administrative access to manually edit, delete, or alter your payment history. Credit bureaus are strictly repository engines. <strong>Data is updated exclusively when the regulated lending institution transmits an encrypted, authenticated monthly batch feed.</strong> Any entity promising to &quot;delete&quot; a remark without bank clearance is committing criminal fraud.
                 </p>
@@ -791,7 +791,7 @@ export default function RemoveSettledStatusFromCibilClient() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-2xl">
                   <div className="text-xs font-bold uppercase tracking-wider text-[#1F5EFF] mb-1">Tier 1</div>
-                  <h4 className="font-bold text-slate-900 text-base mb-2">Principal Nodal Officer (PNO)</h4>
+                  <h3 className="font-bold text-slate-900 text-base mb-2">Principal Nodal Officer (PNO)</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Escalate via registered email to the bank&apos;s Principal Nodal Officer citing your payment UTR and NDC. Banks are mandated to respond within 14 working days.
                   </p>
@@ -843,9 +843,9 @@ export default function RemoveSettledStatusFromCibilClient() {
                     <CreditCard className="w-5 h-5" />
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base mb-1">
+                    <h3 className="font-bold text-slate-900 text-base mb-1">
                       1. Open a Fixed Deposit (FD)-Backed Secured Credit Card
-                    </h4>
+                    </h3>
                     <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                       Apply for an instant secured credit card against a term deposit of ₹25,000 to ₹50,000 (e.g., IDFC FIRST WOW, Kotak 811 Dream Different, or OneCard). Because these cards require zero CIBIL checks or income proof, approval is guaranteed. They report monthly active repayment data to all 4 credit bureaus.
                     </p>
@@ -926,10 +926,10 @@ export default function RemoveSettledStatusFromCibilClient() {
 
             {/* Regulatory Sources & References (Exactly 5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Statutory References</span>
-              </h4>
+              </h3>
               <ul className="space-y-2.5 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1068,14 +1068,14 @@ export default function RemoveSettledStatusFromCibilClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Debt Settlement Strategist &amp; Consumer Rights Advocate
                   </p>
@@ -1108,9 +1108,9 @@ export default function RemoveSettledStatusFromCibilClient() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Emergency Advocate Assistance</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Need Help Converting Settled to Closed Status?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Our empaneled banking advocates coordinate directly with bank nodal officers to calculate your net residual balance, eliminate penal charges, and obtain your unconditional No Dues Certificate.
               </p>
@@ -1124,10 +1124,10 @@ export default function RemoveSettledStatusFromCibilClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

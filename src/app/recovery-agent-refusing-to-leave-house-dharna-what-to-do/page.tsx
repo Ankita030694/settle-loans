@@ -620,10 +620,10 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Public Nuisance (Section 270 BNS 2023 / Section 290 IPC)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     A person is guilty of a public nuisance who causes any common injury, danger, or annoyance to the public or to the people in general who dwell or occupy property in the vicinity. Staging a sit-in, creating a scene in an apartment hallway, shouting, or blocking residential passage directly qualifies as an illegal public nuisance actionable under local police jurisdiction.
                   </p>
@@ -774,10 +774,10 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Lock className="w-4 h-4 text-blue-600" />
                     <span>Phase 1: Secure Entryway &amp; Initiate Video and Audio Recording</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Ensure your main door and security grille remain securely locked. Activate the camera and voice recorder on your smartphone. Record through your doorway peephole, smart doorbell, or window, capturing the agent&apos;s face, their refusal to vacate, any loud shouting, knocking, or public comments made to neighbors. Maintain total composure; this recording serves as primary documentary evidence.
                   </p>
@@ -1167,7 +1167,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Doorstep Harassment Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Are Agents Refusing to Leave Your Doorstep?</h4>
+              <div className="font-bold text-base text-white mb-2">Are Agents Refusing to Leave Your Doorstep?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Protect your home and family immediately. Retain seasoned banking defense advocates to initiate police 112 intervention, serve legal notices, and negotiate a 45%–65% OTS.
               </p>
@@ -1181,9 +1181,9 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Safeguards
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

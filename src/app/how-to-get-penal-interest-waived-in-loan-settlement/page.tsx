@@ -603,7 +603,7 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Reconstructing the Complete Transaction Ledger</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Reconstructing the Complete Transaction Ledger</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Acquiring the unedited, full-tenure Statement of Account (SOA) directly from the bank core banking database. Every credit entry representing past EMI payments, partial repayments, and auto-debits is chronologically mapped against the original sanction schedule.
                   </p>
@@ -821,7 +821,7 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex items-start gap-3">
                   <FileCheck className="w-5 h-5 text-emerald-600 flex-shrink-0 mt-0.5" />
                   <div className="space-y-1">
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">1. Official Bank Letterhead &amp; Zonal Signatory Seal</h4>
+                    <h3 className="font-bold text-slate-900 text-xs sm:text-sm">1. Official Bank Letterhead &amp; Zonal Signatory Seal</h3>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       The letter must be printed on official bank stationery featuring registered corporate office details, unique reference numbers, and the physical or verified digital signature and employee code of an authorized Assistant General Manager (AGM) or Zonal Head.
                     </p>
@@ -1186,7 +1186,7 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Forensic Statement Audit</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Has Your Loan Balance Doubled?</h4>
+              <div className="font-bold text-base text-white mb-2">Has Your Loan Balance Doubled?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not pay unverified penal charges or compounding interest. Have seasoned debt defense advocates audit your bank statement and force a 100% waiver on non-principal charges.
               </p>
@@ -1200,9 +1200,9 @@ export default function HowToGetPenalInterestWaivedInLoanSettlementPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

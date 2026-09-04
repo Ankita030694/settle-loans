@@ -233,7 +233,7 @@ export default function BusinessLoanSettlementPage() {
                 The Reserve Bank of India (RBI) has issued several circulars specifically for MSME debt resolution. One of the most critical requirements is that every bank must have a <strong>Board Approved Policy</strong> for compromise settlements. This means the bank manager cannot simply say "we don't do settlements." They are bound by their own internal policy which must follow the spirit of RBI's "Framework for Revival and Rehabilitation of MSMEs."
               </p>
               <div className="p-6 bg-[#2B2B2B] text-[#DEDEDE] rounded-2xl mb-8 border-l-4 border-[#1F5EFF]">
-                <h4 className="font-bold text-xl mb-3 uppercase tracking-widest text-[#1F5EFF]">Pro Tip</h4>
+                <h3 className="font-bold text-xl mb-3 uppercase tracking-widest text-[#1F5EFF]">Pro Tip</h3>
                 <p className="leading-[1.4]">
                   If a branch manager refuses to discuss a settlement, you can escalate to the Zonal Office or the Nodal Officer, citing the bank's requirement to have an MSME settlement policy under RBI guidelines.
                 </p>
@@ -408,7 +408,7 @@ export default function BusinessLoanSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -456,7 +456,7 @@ export default function BusinessLoanSettlementPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Business Relief</h3>
+                  <div className="text-lg font-black text-white">Business Relief</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -470,7 +470,7 @@ export default function BusinessLoanSettlementPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-[10px]">Business Resources</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-[10px]">Business Resources</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li><Link href="/business-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>MSME Settlement Hub</Link></li>
                   <li><Link href="/best-lawyer-for-msme-and-business-loans" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Expert Business Lawyers</Link></li>

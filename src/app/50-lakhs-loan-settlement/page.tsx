@@ -316,7 +316,7 @@ export default function FiftyLakhsLoanSettlementPage() {
                             <p className="text-lg leading-relaxed mb-6">When dealing with a 50 lakh default, the legal machinery moves faster. However, Indian law provides robust protections to ensure that recovery is done with dignity and due process.</p>
                             <div className="space-y-6">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-extrabold text-[#2E2E2E] mb-2 text-lg">1. The 60-Day SARFAESI Notice (For Secured Loans)</h4>
+                                    <h3 className="font-extrabold text-[#2E2E2E] mb-2 text-lg">1. The 60-Day SARFAESI Notice (For Secured Loans)</h3>
                                     <p className="text-sm text-gray-600 leading-relaxed">If your 50 lakh loan is secured by property, the bank must issue a notice under Section 13(2) of the SARFAESI Act. You have a legal right to respond to this notice within 60 days. This response is a critical negotiation tool. A well-drafted legal reply can stop the bank from taking possession and force them to the settlement table.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
@@ -334,7 +334,7 @@ export default function FiftyLakhsLoanSettlementPage() {
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Impact on Business Continuity & Corporate Credit</h2>
                             <p className="text-lg leading-relaxed mb-6">For business owners, a 50 lakh default affects more than just a personal credit score. it can ripple through your entire corporate ecosystem.</p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                                <h4 className="text-xl font-bold mb-4 italic">"Can my business survive a 50 lakh settlement?"</h4>
+                                <h3 className="text-xl font-bold mb-4 italic">"Can my business survive a 50 lakh settlement?"</h3>
                                 <p className="mb-4 opacity-80">Yes, but you must decouple your personal default from your business operations where possible. A settlement will lead to a 'Settled' remark on your personal CIBIL, which will make it difficult for your business to get fresh credit lines in your name for 2 to 3 years.</p>
                                 <p className="opacity-80">Smart business owners use the settlement period to move toward a 'Cash-and-Carry' model or seek investment that doesn't rely solely on their personal creditworthiness.</p>
                             </div>
@@ -385,7 +385,7 @@ export default function FiftyLakhsLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -452,7 +452,7 @@ export default function FiftyLakhsLoanSettlementPage() {
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">The Psychological Fortress: Managing the Stress of 50 Lakhs Debt</h2>
                             <p className="text-lg leading-relaxed mb-6">A 50 lakh debt is not just a financial number; it is a psychological burden that can affect your sleep, health, and family relationships. Constant calls from senior recovery managers and the fear of legal action can lead to chronic anxiety.</p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8">
-                                <h4 className="text-xl font-bold mb-4">Mental Strategies for the High-Value Borrower</h4>
+                                <h3 className="text-xl font-bold mb-4">Mental Strategies for the High-Value Borrower</h3>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3 italic">
                                         <span className="text-blue-600 font-bold">•</span>
@@ -512,7 +512,7 @@ export default function FiftyLakhsLoanSettlementPage() {
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">Comprehensive 50 Lakhs Settlement FAQ</h2>
                             <div className="space-y-6">
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">1. Does the 50 lakh threshold mean the bank will definitely go to DRT?</h4>
+                                    <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">1. Does the 50 lakh threshold mean the bank will definitely go to DRT?</h3>
                                     <p className="text-gray-600 leading-relaxed text-lg">Not necessarily. The Debt Recovery Tribunal (DRT) is usually the last resort. Banks prefer to settle high-value debts out of court because legal proceedings in India can take 5 to 10 years, and the bank must pay heavy legal fees upfront. A settlement is often 'cheaper' for them than a court win a decade later.</p>
                                 </div>
                                 <div className="p-8 bg-white rounded-2xl border border-gray-200 shadow-sm">
@@ -668,7 +668,7 @@ export default function FiftyLakhsLoanSettlementPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Large Debt Support</h3>
+                                    <div className="text-lg font-black text-white">Large Debt Support</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -682,7 +682,7 @@ export default function FiftyLakhsLoanSettlementPage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">High-Value Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">High-Value Guides</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/1-crore-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

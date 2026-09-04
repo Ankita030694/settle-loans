@@ -232,7 +232,7 @@ export default function EconomicDownturnSettlementPage() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px]">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Guide Sections</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Guide Sections</div>
                             <TableOfContents
                                 items={[
                                     { id: "economic-overview", title: "Economic Overview" },
@@ -293,7 +293,7 @@ export default function EconomicDownturnSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-12">
                                 <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100">
-                                    <h4 className="font-black text-blue-900 mb-3 uppercase text-xs">Primary Driver</h4>
+                                    <h3 className="font-black text-blue-900 mb-3 uppercase text-xs">Primary Driver</h3>
                                     <p className="text-sm font-bold text-blue-800">Job market corrections and the automation of mid-level service roles has led to a sudden loss of repaying capacity for thousands.</p>
                                 </div>
                                 <div className="bg-green-50 p-8 rounded-2xl border border-green-100">
@@ -339,7 +339,7 @@ export default function EconomicDownturnSettlementPage() {
                                     <div key={idx} className="p-8 bg-white border border-gray-100 rounded-3xl shadow-sm hover:border-[#1F5EFF] transition-all group">
                                         <div className="flex items-center gap-4 mb-3">
                                             <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xs">{idx + 1}</div>
-                                            <h4 className="font-black text-[#2E2E2E] uppercase text-sm tracking-widest">{right.title}</h4>
+                                            <h3 className="font-black text-[#2E2E2E] uppercase text-sm tracking-widest">{right.title}</h3>
                                         </div>
                                         <p className="text-gray-600 leading-relaxed font-medium">{right.desc}</p>
                                     </div>
@@ -362,7 +362,7 @@ export default function EconomicDownturnSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-16">
                                 <div className="p-10 rounded-[40px] bg-gray-50 border border-gray-100 text-center">
-                                    <h4 className="text-2xl font-black mb-4 text-[#2E2E2E]">Restructuring</h4>
+                                    <h3 className="text-2xl font-black mb-4 text-[#2E2E2E]">Restructuring</h3>
                                     <p className="text-sm text-gray-600 mb-6">Best for temporary shocks. Preserves your credit score but increases the total interest you pay over time.</p>
                                     <span className="inline-block py-2 px-6 rounded-full bg-blue-100 text-blue-700 font-bold text-xs uppercase">Preserve Score</span>
                                 </div>
@@ -384,12 +384,12 @@ export default function EconomicDownturnSettlementPage() {
                             <div className="space-y-12">
                                 <div className="relative pl-16">
                                     <div className="absolute left-0 top-0 w-12 h-12 rounded-full bg-black text-white flex items-center justify-center font-black">01</div>
-                                    <h5 className="text-xl font-bold mb-3 uppercase tracking-widest">Self Audit & Inventory</h5>
+                                    <h3 className="text-xl font-bold mb-3 uppercase tracking-widest">Self Audit & Inventory</h3>
                                     <p className="text-gray-600 leading-relaxed font-medium">List all your debts, including interest and penalties. Identify which loans are secured and which are unsecured. During a downturn, focus your settlement energy on high-interest unsecured credit cards first.</p>
                                 </div>
                                 <div className="relative pl-16">
                                     <div className="absolute left-0 top-0 w-12 h-12 rounded-full bg-black text-white flex items-center justify-center font-black">02</div>
-                                    <h5 className="text-xl font-bold mb-3 uppercase tracking-widest">The Hardship Declaration</h5>
+                                    <h4 className="text-xl font-bold mb-3 uppercase tracking-widest">The Hardship Declaration</h4>
                                     <p className="text-gray-600 leading-relaxed font-medium">Draft a comprehensive formal letter to the Nodal Officer of the bank. This letter should not be a plea for mercy; it should be a statement of financial facts. Attach your job loss documents or medical bills. Use the term 'Genuine Hardship due to Economic Downturn' repeatedly.</p>
                                 </div>
                                 <div className="relative pl-16">
@@ -413,7 +413,7 @@ export default function EconomicDownturnSettlementPage() {
                                 In the eyes of a bank's credit risk officer, if it is not on paper, it does not exist. Your verbal explanation of 'markets are down' will carry zero weight. You must provide a 'Dossier of Distress' that proves your inability to pay is structural and not willful.
                             </p>
                             <div className="bg-[#2E2E2E] p-10 rounded-[40px] text-white my-12">
-                                <h4 className="text-2xl font-black mb-6 text-blue-400">The Essential Checklist</h4>
+                                <h3 className="text-2xl font-black mb-6 text-blue-400">The Essential Checklist</h3>
                                 <ul className="space-y-4 font-medium opacity-90">
                                     <li className="flex gap-4">
                                         <div className="shrink-0 w-6 h-6 rounded bg-[#1F5EFF] flex items-center justify-center text-[10px]">✓</div>
@@ -465,7 +465,7 @@ export default function EconomicDownturnSettlementPage() {
                                 When you settle a loan, your credit score will drop, sometimes by as much as 100 points. On your report, the loan will not be marked as 'Closed', it will be marked as 'Settled'. This tells future lenders that you didn't pay the full amount. This might make person or car loans difficult for the next 2 to 3 years.
                             </p>
                             <div className="bg-white p-10 rounded-[40px] border-2 border-dashed border-gray-200 my-12">
-                                <h4 className="text-xl font-black mb-6 uppercase tracking-widest text-[#2E2E2E]">The 24-Month Roadmap</h4>
+                                <h3 className="text-xl font-black mb-6 uppercase tracking-widest text-[#2E2E2E]">The 24-Month Roadmap</h3>
                                 <div className="space-y-6">
                                     <div className="flex gap-4">
                                         <span className="font-black text-[#1F5EFF]">0-6 Mo</span>
@@ -547,7 +547,7 @@ export default function EconomicDownturnSettlementPage() {
                             </p>
                             <div className="grid sm:grid-cols-2 gap-8 font-sans">
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                                    <h5 className="font-black text-[#2E2E2E] mb-4 uppercase text-xs tracking-[0.2em] text-[#1F5EFF]">Rule 01</h5>
+                                    <h3 className="font-black text-[#2E2E2E] mb-4 uppercase text-xs tracking-[0.2em] text-[#1F5EFF]">Rule 01</h3>
                                     <h4 className="text-xl font-bold mb-3">The 6-Month Buffer</h4>
                                     <p className="text-sm text-gray-500 leading-relaxed">In 2025, a 3-month emergency fund is no longer enough. Aim for 6 months of absolute essentials (Rent, Food, Health) in a completely liquid savings account.</p>
                                 </div>
@@ -606,7 +606,7 @@ export default function EconomicDownturnSettlementPage() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-[40px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-8 text-white text-center group-hover:bg-[#1F5EFF]/90 transition-colors">
-                                    <h3 className="text-3xl font-black mb-3 uppercase tracking-tighter leading-none italic italic">STOP THE<br />CALLS</h3>
+                                    <div className="text-3xl font-black mb-3 uppercase tracking-tighter leading-none italic italic">STOP THE<br />CALLS</div>
                                     <p className="text-[10px] font-black uppercase tracking-[0.3em] opacity-60">Legal Protection 2025</p>
                                 </div>
                                 <div className="p-8">
@@ -622,7 +622,7 @@ export default function EconomicDownturnSettlementPage() {
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-[40px] p-10 border border-gray-100 shadow-sm text-left relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-blue-50/50 rounded-bl-[60px] -mr-4 -mt-4 z-0"></div>
-                                <h4 className="text-xs font-black uppercase tracking-[0.3em] text-[#1F5EFF] mb-8 border-b border-blue-50 pb-4 relative z-10">Downturn Tools</h4>
+                                <div className="text-xs font-black uppercase tracking-[0.3em] text-[#1F5EFF] mb-8 border-b border-blue-50 pb-4 relative z-10">Downturn Tools</div>
                                 <nav className="space-y-5 relative z-10">
                                     <Link href="/how-to-manage-loan-with-no-job" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic decoration-[#1F5EFF]/20 underline underline-offset-4">Manage Loan with No Job</Link>
                                     <Link href="/dont-have-job-cant-pay-emi" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic decoration-[#1F5EFF]/20 underline underline-offset-4">Unable to Pay EMI Help</Link>

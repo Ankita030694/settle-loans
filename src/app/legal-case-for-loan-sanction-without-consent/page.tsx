@@ -225,7 +225,7 @@ export default function LoanSanctionWithoutConsentPage() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px]">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Justice Roadmap</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Justice Roadmap</div>
                             <TableOfContents
                                 items={[
                                     { id: "fraud-emergency-protocol", title: "Emergency Protocol" },
@@ -299,7 +299,7 @@ export default function LoanSanctionWithoutConsentPage() {
                                 An FIR serves as the foundational legal document for all subsequent civil and administrative actions. It stops the recovery process in its tracks. No bank can legally harass a citizen whose loan is under active police investigation for forgery. We assist victims in drafting "Technically Precise" police complaints that specify the exact sections of the IPC and IT Act, ensuring that the police are forced to take the matter seriously.
                             </p>
                             <div className="bg-blue-900 text-white p-10 rounded-[40px] my-12 shadow-2xl">
-                                <h4 className="text-2xl font-black mb-6 text-blue-300">Strategy: The Writ of Mandamus</h4>
+                                <h3 className="text-2xl font-black mb-6 text-blue-300">Strategy: The Writ of Mandamus</h3>
                                 <p className="opacity-80 leading-relaxed mb-6">
                                     If the local police station refuses to file an FIR (a common problem in identity theft cases), we guide victims in moving the High Court for a 'Writ of Mandamus'. This court order compels the police to perform their statutory duty and register the case. A High Court-monitored investigation is the fastest way to bring fraudsters to justice.
                                 </p>
@@ -335,7 +335,7 @@ export default function LoanSanctionWithoutConsentPage() {
                                 The landmark Supreme Court judgements have established that banks cannot escape liability by claiming they were also "victims of fraud". If their internal systems were bypassed, it is their loss, not yours. We file suits for 'Declaration' and 'Permanent Injunction', seeking a court order that the loan agreement is "Null and Void" and permanently restraining the bank from any recovery activity.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-3xl border-2 border-blue-100 my-12">
-                                <h4 className="text-xl font-black text-blue-900 mb-4 uppercase">The Rule of 'Non Est Factum'</h4>
+                                <h3 className="text-xl font-black text-blue-900 mb-4 uppercase">The Rule of 'Non Est Factum'</h3>
                                 <p className="text-sm text-blue-800 leading-relaxed font-medium">
                                     The legal doctrine of <i>Non Est Factum</i> (Latin for "it is not my deed") is a powerful defense. It allows a person to escape a contract they signed if they were fundamentally mistaken about the nature of the document or if their signature was obtained through radical fraud. When applied to unauthorized loan sanctions, we prove that there was never any 'Meeting of Minds' (Consensus ad Idem) between you and the bank, making the entire contract void from the beginning (Void Ab Initio).
                                 </p>
@@ -353,7 +353,7 @@ export default function LoanSanctionWithoutConsentPage() {
                                 A violation of KYC norms attracts heavy penalties for the bank and makes the loan contract unenforceable. In our representations to the Banking Ombudsman, we focus heavily on these "Systemic Failures". When we prove that a bank issued a loan to a 'Ghost Borrower', the liability is almost always transferred back to the bank's own internal fraud insurance.
                             </p>
                             <div className="bg-gray-50 border-2 border-dashed border-gray-200 p-8 rounded-3xl my-16">
-                                <h4 className="text-xl font-bold mb-4 uppercase tracking-widest text-gray-500">Case Study: The Ghost Commercial Loan</h4>
+                                <h3 className="text-xl font-bold mb-4 uppercase tracking-widest text-gray-500">Case Study: The Ghost Commercial Loan</h3>
                                 <p className="text-lg text-[#2E2E2E] font-medium leading-relaxed italic mb-6">
                                     "A client discovered a ₹15 Lakh commercial loan in his name. The documents showed a photo that wasn't his, but the PAN was correct. We proved the bank never visited the mentioned business address. Result: Loan cancelled, CIBIL restored, and the bank was fined ₹1 Lakh for negligence."
                                 </p>
@@ -372,7 +372,7 @@ export default function LoanSanctionWithoutConsentPage() {
                                 Our team assists victims in drafting the 'Grounds of Complaint'. We don't just say "it's a fraud", we quote the specific <strong>Master Direction on Customer Service in Banks</strong> that the institution has violated. When the Ombudsman sees that a bank failed to implement 'Multi-factor Authentication' or 'Digital KYC' correctly, they can order the bank to not only reverse the loan but also pay compensation of up to <strong>₹20 Lakhs</strong> for the loss of time and mental agony.
                             </p>
                             <div className="bg-[#1F5EFF]/5 border-2 border-dashed border-[#1F5EFF]/20 p-10 rounded-[40px] my-12">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase italic">Pro Tip: The 'Nodal Officer' Leverage</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase italic">Pro Tip: The 'Nodal Officer' Leverage</h3>
                                 <p className="text-lg leading-relaxed text-gray-700">
                                     Before going to the Ombudsman, you must send a formal notice to the bank's Principal Nodal Officer (PNO). Very often, once a PNO sees a well-drafted legal notice that threatens a report to the RBI, they choose to settle the matter internally to protect their 'Trust Rating' with the regulator. We ensure your notice is so technically robust that the bank's legal department advises immediate closure of the fraudulent account.
                                 </p>
@@ -422,7 +422,7 @@ export default function LoanSanctionWithoutConsentPage() {
                                 It is vital to understand that a "Copy" of a signature is not enough for a conclusive forensic report. We assist you in compelling the bank to produce the **Original Physical Loan Documents** through an application under Section 91 of the CrPC. Only the original document can reveal the 'Dynamic Characteristics' of the handwriting, such as the micro-tremors in a forger's hand or the indentation depth on the paper.
                             </p>
                             <div className="bg-gray-900 p-10 rounded-[40px] text-white my-16 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.3)]">
-                                <h4 className="text-2xl font-black mb-6 text-blue-400 uppercase tracking-widest">The Forensic Advantage</h4>
+                                <h3 className="text-2xl font-black mb-6 text-blue-400 uppercase tracking-widest">The Forensic Advantage</h3>
                                 <p className="opacity-90 leading-relaxed mb-6 font-medium text-blue-100">
                                     "A forger can copy a signature's shape, but they cannot copy the muscle memory of the original writer. Under a microscope, a forged signature shows 'Hesitation Marks' and 'Ink Blobs' that confirm the pen was moving slowly and unnaturally. This is the ultimate proof that the loan was never yours. We ensure this evidence is presented so forcefully that the bank is forced to withdraw its claim."
                                 </p>
@@ -522,7 +522,7 @@ export default function LoanSanctionWithoutConsentPage() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-[32px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10">
                                 <div className="bg-[#1F5EFF] p-6 text-white text-center">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Fraud<br />Emergency?</h3>
+                                    <div className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Fraud<br />Emergency?</div>
                                     <p className="opacity-80 text-xs font-bold uppercase tracking-widest">Immediate Response</p>
                                 </div>
                                 <div className="p-8">
@@ -537,7 +537,7 @@ export default function LoanSanctionWithoutConsentPage() {
 
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-[32px] p-8 border border-gray-100 shadow-sm text-left">
-                                <h4 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Fraud Resources</h4>
+                                <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Fraud Resources</div>
                                 <nav className="space-y-4">
                                     <Link href="/digital-online-cyber-loan-disputes" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Cyber Loan Fraud</Link>
                                     <Link href="/loan-default-recovery-freeze-defense" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Freeze Recovery</Link>

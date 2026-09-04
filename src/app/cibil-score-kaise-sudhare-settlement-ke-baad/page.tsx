@@ -1204,9 +1204,9 @@ export default function CibilScoreKaiseSudhareSettlementKeBaadPage() {
                 <ShieldAlert className="w-3 h-3" />
                 <span>Credit Repair Desk</span>
               </div>
-              <h3 className="text-base font-black text-white mb-2 leading-snug">
+              <div className="text-base font-black text-white mb-2 leading-snug">
                 Stuck with a 550 CIBIL or Settled Tag?
-              </h3>
+              </div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Consult SettleLoans advocates to audit your No Dues Certificate, rectify illegal bureau flags, and execute an authentic roadmap to 750+ CIBIL score.
               </p>

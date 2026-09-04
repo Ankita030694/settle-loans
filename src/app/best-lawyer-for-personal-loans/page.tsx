@@ -180,7 +180,7 @@ export default function PersonalLoanLawyerPage() {
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                                 <div className="bg-white p-8 rounded-3xl border border-[#DEDEDE] shadow-sm hover:-translate-y-2 transition-transform">
                                     <FontAwesomeIcon icon={faShieldAlt} className="text-3xl text-[#1F5EFF] mb-4" />
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3 uppercase tracking-tighter">Civil Defense</h4>
+                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3 uppercase tracking-tighter">Civil Defense</h3>
                                     <p className="text-sm opacity-80 font-medium">Fighting money recovery suits in civil courts and ensuring no illegal attachment occurs.</p>
                                 </div>
                                 <div className="bg-white p-8 rounded-3xl border border-[#DEDEDE] shadow-sm hover:-translate-y-2 transition-transform">
@@ -198,7 +198,7 @@ export default function PersonalLoanLawyerPage() {
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-3xl shadow-xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 p-4 font-black text-[10px] tracking-[0.3em] uppercase opacity-30">Legal Arsenal</div>
-                                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF]">Key RBI Protections for You</h4>
+                                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF]">Key RBI Protections for You</h3>
                                 <ul className="space-y-6 text-base font-medium">
                                     <li className="flex items-start gap-4">
                                         <div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2.5 flex-shrink-0"></div>
@@ -233,7 +233,7 @@ export default function PersonalLoanLawyerPage() {
                             </p>
 
                             <div className="bg-blue-50/50 p-8 rounded-3xl border border-blue-100 mb-12">
-                                <h4 className="text-xl font-black text-blue-900 mb-4 tracking-tight uppercase italic">The Role of the Banking Ombudsman</h4>
+                                <h3 className="text-xl font-black text-blue-900 mb-4 tracking-tight uppercase italic">The Role of the Banking Ombudsman</h3>
                                 <p className="text-base text-blue-800 leading-relaxed">
                                     The Banking Ombudsman Scheme (Integrated Ombudsman Scheme 2021) is a specialized forum created by the RBI to resolve grievances against banks and NBFCs. If a bank fails to respond to your harassment complaint within 30 days, we escalate the matter here. The Ombudsman has the power to award compensation of up to ₹20 Lakhs for the loss suffered and an additional ₹1 Lakh for mental agony and harassment.
                                 </p>
@@ -253,7 +253,7 @@ export default function PersonalLoanLawyerPage() {
                                 When a case is referred to Lok Adalat, the bank is often in a 'Settlement Mindset.' They are looking to clear their books of NPAs (Non-Performing Assets) quickly. As your lawyers, we accompany you to these sessions. We present your financial hardship documents (such as medical bills, job loss certificates, or business loss statements) directly to the presiding officer. The award passed by the Lok Adalat has the same force as a decree of a civil court and is final and binding. Most importantly, there is no court fee involved, and if the case is settled, any court fee already paid is refunded.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-3xl border border-[#DEDEDE] shadow-inner">
-                                <h5 className="font-black text-[#2E2E2E] mb-4 uppercase text-sm tracking-widest">Why Lok Adalat is a Win-Win</h5>
+                                <h3 className="font-black text-[#2E2E2E] mb-4 uppercase text-sm tracking-widest">Why Lok Adalat is a Win-Win</h3>
                                 <ul className="grid grid-cols-1 md:grid-cols-2 gap-4 list-none font-bold">
                                     <li className="flex items-center gap-3"><FontAwesomeIcon icon={faCheckCircle} className="text-[#1F5EFF]" /> Speed of Resolution</li>
                                     <li className="flex items-center gap-3"><FontAwesomeIcon icon={faCheckCircle} className="text-[#1F5EFF]" /> No Appeal Possible</li>
@@ -326,7 +326,7 @@ export default function PersonalLoanLawyerPage() {
                             <div className="bg-red-50 p-10 rounded-3xl border border-red-100 flex items-start gap-6">
                                 <FontAwesomeIcon icon={faGavel} className="text-3xl text-red-600 mt-1" />
                                 <div>
-                                    <h5 className="text-xl font-bold text-red-900 mb-4 uppercase">The Injunction Tool</h5>
+                                    <h3 className="text-xl font-bold text-red-900 mb-4 uppercase">The Injunction Tool</h3>
                                     <p className="text-sm text-red-800 font-medium">We obtain 'Ad-Interim Stays' against aggressive bank actions, giving you the breathing space needed to gather funds or negotiate without the pressure of an impending auction or asset seizure.</p>
                                 </div>
                             </div>
@@ -383,7 +383,7 @@ export default function PersonalLoanLawyerPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400 font-black">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -461,7 +461,7 @@ export default function PersonalLoanLawyerPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">We are in This Together</h3>
+                                    <div className="text-lg font-black text-white px-2">We are in This Together</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -476,7 +476,7 @@ export default function PersonalLoanLawyerPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/harassment-by-recovery-agents" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

@@ -333,9 +333,9 @@ export default function RecoveryAgentHarassmentGuide() {
                 This is perhaps the most invasive method. Many digital lending apps, especially unregulated ones, require the borrower to grant 'Contact List' permissions before the loan is disbursed.
               </p>
               <div className="bg-red-50 p-8 rounded-2xl border-l-4 border-red-500 mb-8">
-                <h4 className="font-black text-red-900 mb-4 text-xl flex items-center">
+                <h3 className="font-black text-red-900 mb-4 text-xl flex items-center">
                    <span className="mr-2">🚨</span> The Tech Behind the Harassment
-                </h4>
+                </h3>
                 <p className="text-red-800 leading-relaxed mb-4">
                   When a borrower clicks 'Allow' on a contact permission prompt, the app uploads their entire phonebook to a central server. The algorithm then identifies the most frequently called or messaged contacts. These people are tagged as 'High-Intensity References.'
                 </p>
@@ -351,7 +351,7 @@ export default function RecoveryAgentHarassmentGuide() {
                 Recovery agents are not just looking for money; they are weaponizing your relationships. The psychological core of their strategy is 'Social Shaming.' They know that if they call your boss or your mother-in-law, you will be so embarrassed that you will borrow money from somewhere else just to make the calls stop.
               </p>
               <div className="bg-gray-900 text-white p-10 rounded-3xl mb-8">
-                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF]">The 'Third-Party Pressure' Cycle</h4>
+                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF]">The 'Third-Party Pressure' Cycle</h3>
                 <div className="space-y-6">
                   <div className="border-l-2 border-[#1F5EFF] pl-6">
                     <p className="font-bold mb-2">Phase 1: The Soft Trace</p>
@@ -397,7 +397,7 @@ export default function RecoveryAgentHarassmentGuide() {
                   "Don't provide your number as a guarantor for their next loan. Helping with advice is better than helping with your credit score."
                 </div>
                 <div className="p-6 bg-blue-50 rounded-2xl border border-blue-100">
-                  <h4 className="font-bold mb-2">The 'Settle' Advice</h4>
+                  <h3 className="font-bold mb-2">The 'Settle' Advice</h3>
                   <p className="text-sm">Tell your friend about SettleLoans. Instead of running from calls, they can close the loan legally for a fraction of the cost.</p>
                 </div>
               </div>
@@ -422,7 +422,7 @@ export default function RecoveryAgentHarassmentGuide() {
                   <div key={idx} className="flex gap-4 p-6 bg-blue-50/30 rounded-xl border border-blue-100">
                     <span className="text-2xl">✅</span>
                     <div>
-                      <h4 className="font-bold text-gray-900 mb-1">{item.title}</h4>
+                      <h3 className="font-bold text-gray-900 mb-1">{item.title}</h3>
                       <p className="text-sm text-gray-600">{item.desc}</p>
                     </div>
                   </div>
@@ -445,9 +445,9 @@ export default function RecoveryAgentHarassmentGuide() {
                 </li>
               </ul>
               <div className="mt-8 bg-[#FFF9E5] p-10 rounded-[40px] border border-[#F5C71A]/30">
-                <h4 className="text-2xl font-black mb-6 flex items-center">
+                <h3 className="text-2xl font-black mb-6 flex items-center">
                   <span className="mr-3 text-3xl">💡</span> Pro Tip: Identifying Spoofing
-                </h4>
+                </h3>
                 <p className="leading-relaxed mb-4 text-gray-800">
                   Many illegal apps use 'VoIP Spoofing' to make it look like they are calling from a local landline or even a police station. If you suspect a call is spoofed, ask the caller to wait and call the number back from a different phone. Usually, it will show as 'invalid' or connect to a completely different person.
                 </p>
@@ -464,7 +464,7 @@ export default function RecoveryAgentHarassmentGuide() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8 text-white">
                 <div className="bg-[#2E2E2E] p-8 rounded-3xl">
-                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Explicit Consent</h4>
+                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Explicit Consent</h3>
                   <p className="text-sm opacity-80 leading-relaxed">Lenders must have specific, informed, and unambiguous consent to use <strong>your</strong> number. If your friend gave your number, the bank still needs <strong>your</strong> permission to call you for recovery.</p>
                 </div>
                 <div className="bg-[#2E2E2E] p-8 rounded-3xl">
@@ -482,7 +482,7 @@ export default function RecoveryAgentHarassmentGuide() {
               <div className="relative pl-8 border-l-4 border-[#1F5EFF] space-y-12">
                 <div className="relative">
                   <span className="absolute -left-[28px] top-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl border-4 border-white shadow-md">1</span>
-                  <h4 className="font-black text-2xl mb-2">Record Everything</h4>
+                  <h3 className="font-black text-2xl mb-2">Record Everything</h3>
                   <p className="text-gray-600">Start recording every incoming call. Use a call recorder app or another phone. If the agent uses abusive language, tell them directly: 'This call is being recorded for legal evidence.'</p>
                 </div>
                 <div className="relative">
@@ -620,7 +620,7 @@ export default function RecoveryAgentHarassmentGuide() {
               </p>
               <div className="space-y-8">
                 <div>
-                  <h4 className="text-xl font-bold mb-3">1. The RDDBFI Act, 1993</h4>
+                  <h3 className="text-xl font-bold mb-3">1. The RDDBFI Act, 1993</h3>
                   <p className="text-gray-700 leading-relaxed">
                     The Recovery of Debts Due to Banks and Financial Institutions Act was the first major step. It established Debt Recovery Tribunals (DRTs). However, these were designed for large corporate defaults, leaving individual consumers vulnerable to local goons hired by banks.
                   </p>
@@ -692,10 +692,10 @@ export default function RecoveryAgentHarassmentGuide() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-sm hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="text-xl font-bold mb-4 flex items-center">
+                  <h3 className="text-xl font-bold mb-4 flex items-center">
                     <span className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center mr-3 text-xs">A</span>
                     Civil Injunction
-                  </h4>
+                  </h3>
                   <p className="text-sm text-gray-600 leading-relaxed">You can file for a permanent injunction in a civil court against the bank/NBFC. This is a court order that stops them from calling you or visiting your premises. Violating this is considered Contempt of Court.</p>
                 </div>
                 <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-sm hover:border-[#1F5EFF] transition-colors">
@@ -766,7 +766,7 @@ export default function RecoveryAgentHarassmentGuide() {
                         {testimonial.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-black text-xl text-gray-900">{testimonial.name}</h5>
+                        <h3 className="font-black text-xl text-gray-900">{testimonial.name}</h3>
                         <p className="text-gray-500 text-sm">{testimonial.role}</p>
                       </div>
                       <div className="ml-auto flex text-yellow-400">
@@ -819,7 +819,7 @@ export default function RecoveryAgentHarassmentGuide() {
               
               <div className="bg-[#2E2E2E] rounded-3xl shadow-2xl overflow-hidden border border-[#1F5EFF]/20 group">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2">Need a Shield?</h3>
+                  <div className="text-2xl font-black mb-2">Need a Shield?</div>
                   <p className="opacity-90 text-sm">Join our legal protection program today.</p>
                 </div>
                 <div className="p-8 text-center text-[#DEDEDE]">
@@ -833,7 +833,7 @@ export default function RecoveryAgentHarassmentGuide() {
               </div>
 
               <div className="bg-white p-8 rounded-3xl border border-gray-100 shadow-sm">
-                <h3 className="text-xs font-black uppercase tracking-widest text-gray-400 mb-6 border-b border-gray-50 pb-4">Essential Reading</h3>
+                <div className="text-xs font-black uppercase tracking-widest text-gray-400 mb-6 border-b border-gray-50 pb-4">Essential Reading</div>
                 <ul className="space-y-6 text-sm font-black">
                   <li>
                     <Link href="/ignoring-calls-of-recovery-agent" className="group flex items-center text-gray-800 hover:text-[#1F5EFF] transition-colors">

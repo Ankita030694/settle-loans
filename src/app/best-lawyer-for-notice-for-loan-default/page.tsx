@@ -314,7 +314,7 @@ export default function LoanDefaultNoticePage() {
                             </p>
                             <ul className="space-y-6 mb-12">
                                 <li className="relative pl-8 before:content-[''] before:absolute before:left-0 before:top-4 before:w-4 before:h-4 before:bg-[#1F5EFF] before:rounded-full">
-                                    <h4 className="font-black text-xl mb-1">Day 0: NPA Classification</h4>
+                                    <h3 className="font-black text-xl mb-1">Day 0: NPA Classification</h3>
                                     <p className="text-lg text-gray-600">The bank marks your account as an NPA. All further legal actions stem from this date.</p>
                                 </li>
                                 <li className="relative pl-8 before:content-[''] before:absolute before:left-0 before:top-4 before:w-4 before:h-4 before:bg-[#1F5EFF] before:rounded-full">
@@ -361,7 +361,7 @@ export default function LoanDefaultNoticePage() {
                                 In the DRT, we use the bank's failure to provide a proper 13(3A) reply as a primary ground to set aside their subsequent possession notice. The Supreme Court has repeatedly held that this internal "restraint" by the bank is a vital part of natural justice. Without a proper reply, the bank hasn't earned the right to proceed with recovery.
                             </p>
                             <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-8 my-8 font-sans">
-                                <h4 className="text-xl font-bold mb-4">What to include in your 13(3A) Letter:</h4>
+                                <h3 className="text-xl font-bold mb-4">What to include in your 13(3A) Letter:</h3>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-2"><span className="text-[#1F5EFF] font-bold">✓</span> Disputing the NPA Date (Did they classify too early?)</li>
                                     <li className="flex items-start gap-2"><span className="text-[#1F5EFF] font-bold">✓</span> Challenging Interest Compounding (Penal interest issues)</li>
@@ -456,14 +456,14 @@ export default function LoanDefaultNoticePage() {
                                 <li className="p-5 bg-gray-50 rounded-xl flex gap-3">
                                     <span className="text-[#1F5EFF] text-xl font-bold">01.</span>
                                     <div>
-                                        <h5 className="font-bold">Missing Newspaper Pubs</h5>
+                                        <h3 className="font-bold">Missing Newspaper Pubs</h3>
                                         <p className="text-sm opacity-70">Failure to publish notices in two leading newspapers (one in vernacular language).</p>
                                     </div>
                                 </li>
                                 <li className="p-5 bg-gray-50 rounded-xl flex gap-3">
                                     <span className="text-[#1F5EFF] text-xl font-bold">02.</span>
                                     <div>
-                                        <h5 className="font-bold">Incorrect Description</h5>
+                                        <h4 className="font-bold">Incorrect Description</h4>
                                         <p className="text-sm opacity-70">Describing the wrong property or missing significant portions of the mortgage.</p>
                                     </div>
                                 </li>
@@ -562,7 +562,7 @@ export default function LoanDefaultNoticePage() {
                                                 {story.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h4 className="text-xl font-bold">{story.name}</h4>
+                                                <h3 className="text-xl font-bold">{story.name}</h3>
                                                 <p className="text-xs text-gray-400">{story.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -683,7 +683,7 @@ export default function LoanDefaultNoticePage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Protect Your Assets</h3>
+                                    <div className="text-lg font-black text-white">Protect Your Assets</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -698,10 +698,10 @@ export default function LoanDefaultNoticePage() {
 
                             {/* Related Pages */}
                             <div className="bg-white rounded-2xl shadow-sm border border-[#DEDEDE] p-6">
-                                <h3 className="text-lg font-black text-[#2E2E2E] mb-6 flex items-center gap-2">
+                                <div className="text-lg font-black text-[#2E2E2E] mb-6 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faScaleBalanced} className="text-[#1F5EFF]" />
                                     Related Help
-                                </h3>
+                                </div>
                                 <div className="flex flex-col gap-4">
                                     {[
                                         { title: "DRT Case Defense", href: "/best-lawyer-for-drt-case-defence-for-bank-loan-recovery" },

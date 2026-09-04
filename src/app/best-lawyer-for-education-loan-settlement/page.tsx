@@ -219,7 +219,7 @@ export default function EducationLoanSettlementPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100 shadow-sm">
-                                    <h4 className="font-bold text-xl mb-3 text-[#1F5EFF]">Net Present Value (NPV)</h4>
+                                    <h3 className="font-bold text-xl mb-3 text-[#1F5EFF]">Net Present Value (NPV)</h3>
                                     <p className="text-gray-700 leading-relaxed text-sm">We prove to the bank that X amount today is worth more to them than X+Y after 7 years of court battles.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100 shadow-sm">
@@ -270,7 +270,7 @@ export default function EducationLoanSettlementPage() {
                                     <div key={i} className="flex gap-4 p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0">{i + 1}</div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E] mb-1">{item.step}</h4>
+                                            <h3 className="font-bold text-[#2E2E2E] mb-1">{item.step}</h3>
                                             <p className="text-gray-600 text-sm">{item.desc}</p>
                                         </div>
                                     </div>
@@ -289,7 +289,7 @@ export default function EducationLoanSettlementPage() {
                                 For secured loans, the bank can use the SARFAESI ACT to auction your home. However, our lawyers specialize in SARFAESI defense. We challenge the bank's valuation of the property and identify procedural flaws in their 13(2) and 13(4) notices. By creating a 'cloud over the title', we stop the auction and force a settlement that allows the family to keep their home while resolving the debt.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-2xl border border-yellow-200 mb-10">
-                                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E]">The 'Excessive Security' Defense</h4>
+                                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E]">The 'Excessive Security' Defense</h3>
                                 <p className="text-gray-700">If the property value is 2 Crores but the loan is only 50 Lakhs, the bank is 'Over-Secured'. Courts in India view 'Excessive Attachment' as a violation of the borrower's fundamental rights. We use this to obtain stay orders against auctions.</p>
                             </div>
                         </section>
@@ -316,7 +316,7 @@ export default function EducationLoanSettlementPage() {
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200 text-center">
                                     <FontAwesomeIcon icon={faShieldAlt} size="2x" className="text-[#1F5EFF] mb-4" />
-                                    <h4 className="font-bold mb-2">Legal Immunity</h4>
+                                    <h3 className="font-bold mb-2">Legal Immunity</h3>
                                     <p className="text-xs text-gray-500">Stop harassing calls with a single formal Advocate's notice.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200 text-center">
@@ -373,7 +373,7 @@ export default function EducationLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -441,7 +441,7 @@ export default function EducationLoanSettlementPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] p-8 rounded-[24px] text-white shadow-xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-full -mr-12 -mt-12 group-hover:scale-150 transition-transform duration-500"></div>
-                                <h4 className="text-2xl font-black mb-4 relative z-10 leading-tight">Settle Your Student Debt</h4>
+                                <div className="text-2xl font-black mb-4 relative z-10 leading-tight">Settle Your Student Debt</div>
                                 <p className="text-[#DEDEDE]/80 text-sm mb-8 relative z-10 font-medium">Expert legal protection against recovery agents and biased bank notices.</p>
                                 <Link href="/contact" className="block w-full text-center bg-[#1F5EFF] text-white font-bold py-4 rounded-xl hover:bg-white hover:text-[#1F5EFF] transition-all duration-300 shadow-lg relative z-10">
                                     Stop the Stress
@@ -449,7 +449,7 @@ export default function EducationLoanSettlementPage() {
                             </div>
 
                             <div className="bg-white border border-[#DEDEDE] p-8 rounded-[24px] shadow-sm font-bold">
-                                <h4 className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Case Resources</h4>
+                                <div className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Case Resources</div>
                                 <ul className="space-y-4">
                                     <li>
                                         <Link href="/best-lawyer-for-personal-loans" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors">

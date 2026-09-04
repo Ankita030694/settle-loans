@@ -177,7 +177,7 @@ const CompanyLoanMattersPage = () => {
                     {/* Left Column: TOC (Sticky) */}
                     <aside className="hidden lg:block w-1/5 min-w-[200px] relative">
                         <div className="sticky top-24">
-                            <h4 className="text-xs font-black uppercase tracking-widest text-[#747474] mb-6 border-b border-gray-100 pb-2">Navigation</h4>
+                            <div className="text-xs font-black uppercase tracking-widest text-[#747474] mb-6 border-b border-gray-100 pb-2">Navigation</div>
                             <TableOfContents items={tableOfContentsItems} />
                         </div>
                     </aside>
@@ -226,11 +226,11 @@ const CompanyLoanMattersPage = () => {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-10">
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm border-t-4 border-t-[#1F5EFF]">
-                                    <h5 className="font-bold mb-3 italic underline text-[#1F5EFF]">Financial Creditor (Section 7)</h5>
+                                    <h3 className="font-bold mb-3 italic underline text-[#1F5EFF]">Financial Creditor (Section 7)</h3>
                                     <p className="text-sm opacity-90">Initiated by banks, NBFCs, or bondholders. The NCLT only needs to be satisfied that a 'Debt' and a 'Default' exist. This is the most common trigger for corporate bankruptcy. Financial creditors are often grouped into a Committee of Creditors (CoC) which holds the ultimate decision-making power during the resolution process.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm border-t-4 border-t-[#1F5EFF]">
-                                    <h5 className="font-bold mb-3 italic underline text-[#1F5EFF]">Operational Creditor (Section 9)</h5>
+                                    <h4 className="font-bold mb-3 italic underline text-[#1F5EFF]">Operational Creditor (Section 9)</h4>
                                     <p className="text-sm opacity-90">Initiated by suppliers or employees. A key defense here is the 'Pre-existing Dispute' rule. If you can show a dispute existed before the demand notice, the petition can be dismissed. Operational creditors do not have voting rights in the CoC unless their debt exceeds 10% of the total debt of the company.</p>
                                 </div>
                             </div>
@@ -269,7 +269,7 @@ const CompanyLoanMattersPage = () => {
                                 Defending a company in the National Company Law Tribunal (NCLT) requires a multi-layered approach. The focus is often on challenging the 'Admissibility' of the petition. Once a petition is admitted, the damage to the company's reputation and operational control is often irreversible. The NCLT is not a recovery court; it is a court of equity designed to preserve the 'Going Concern' value of the corporate debtor.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100 my-8">
-                                <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Core Defense Pillars in NCLT</h4>
+                                <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Core Defense Pillars in NCLT</h3>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3">
                                         <FontAwesomeIcon icon={faCircleCheck} className="text-[#1F5EFF] mt-1.5 shrink-0" />
@@ -306,7 +306,7 @@ const CompanyLoanMattersPage = () => {
                             <div className="flex flex-col md:flex-row gap-6 my-10">
                                 <div className="flex-1 bg-white p-6 rounded-xl border border-[#DEDEDE] relative">
                                     <FontAwesomeIcon icon={faShieldHalved} className="absolute top-6 right-6 opacity-20 text-4xl text-[#1F5EFF]" />
-                                    <h4 className="font-bold mb-4">The 'Interim Moratorium' Trap</h4>
+                                    <h3 className="font-bold mb-4">The 'Interim Moratorium' Trap</h3>
                                     <p className="text-sm opacity-80">The moment a petition against a personal guarantor is filed under Section 95, an interim moratorium kicks in. While this stops fresh suits against the guarantor, it also freezes the guarantor's ability to transfer or deal with their own assets. Professional legal timing is the only way to navigate this. We help guarantors protect their necessary wealth before the freeze becomes absolute.</p>
                                 </div>
                                 <div className="flex-1 bg-white p-6 rounded-xl border border-[#DEDEDE] relative">
@@ -332,21 +332,21 @@ const CompanyLoanMattersPage = () => {
                                 <div className="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center shrink-0 font-bold">1</div>
                                     <div>
-                                        <h6 className="font-bold mb-1">Prudential Framework Negotiation</h6>
+                                        <h3 className="font-bold mb-1">Prudential Framework Negotiation</h3>
                                         <p className="text-sm opacity-70 leading-relaxed">Assisting companies in reaching a 'Resolution Plan' with lenders under the RBI's June 2019 framework. This avoids the court altogether. The framework allows for the creation of an Inter-Creditor Agreement (ICA) which binds all lenders to a single resolution strategy if 75% by value agree.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center shrink-0 font-bold">2</div>
                                     <div>
-                                        <h6 className="font-bold mb-1">Consortium Alignment</h6>
+                                        <h4 className="font-bold mb-1">Consortium Alignment</h4>
                                         <p className="text-sm opacity-70 leading-relaxed">In large corporate loans, multiple banks are involved. We help 'align' the lead bank and other lenders to prevent a single dissenting bank from pulling the plug on a viable business. We use the updated 'Lead Bank' protocols to ensure consensus is reached quickly.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center shrink-0 font-bold">3</div>
                                     <div>
-                                        <h6 className="font-bold mb-1">Sustainability Analysis</h6>
+                                        <h5 className="font-bold mb-1">Sustainability Analysis</h5>
                                         <p className="text-sm opacity-70 leading-relaxed">Presenting a clear financial roadmap that shows how the company will service the reduced debt. We speak the language of bankers and auditors to make your case compelling. We work with TEV (Techno-Economic Viability) consultants to prove that your company is a viable candidate for a turnaround.</p>
                                     </div>
                                 </div>
@@ -372,7 +372,7 @@ const CompanyLoanMattersPage = () => {
                                 For many companies, the fastest way to get a clean slate is an OTS. However, for a corporation, an OTS is a complex transaction involving board resolutions, shareholder disclosures, and potential tax implications. It is not just about paying the bank; it is about 'Regularizing' the balance sheet for future growth.
                             </p>
                             <div className="bg-[#1F5EFF]/5 border border-[#1F5EFF]/20 p-8 rounded-3xl mb-10">
-                                <h4 className="text-xl font-bold mb-4">Strategic OTS Implementation</h4>
+                                <h3 className="text-xl font-bold mb-4">Strategic OTS Implementation</h3>
                                 <p className="mb-4">We help companies source 'Settlement Funding' through Asset Reconstruction Companies (ARCs) or private equity players. When a company doesn't have the cash to pay the OTS, we find partners who can fund the exit in exchange for a stake or a structured buy-out. This is high-level corporate lawyering that goes beyond just filing papers in court. We ensure that the OTS is 'Non-Discretionary' and follows the bank's published policy to prevent any future vigilantism or audits.</p>
                                 <p className="font-bold text-[#1F5EFF]">A well-structured corporate OTS can save up to 60% of the principal and 100% of the interest and penalties. It is the ultimate legal 'Hard Reset' for any business entity.</p>
                             </div>
@@ -424,7 +424,7 @@ const CompanyLoanMattersPage = () => {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -483,7 +483,7 @@ const CompanyLoanMattersPage = () => {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">We are in This Together</h3>
+                                    <div className="text-lg font-black text-white">We are in This Together</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -498,7 +498,7 @@ const CompanyLoanMattersPage = () => {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Business Recovery</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Business Recovery</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/best-lawyer-for-msme-and-business-loans" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

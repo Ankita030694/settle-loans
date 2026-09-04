@@ -258,7 +258,7 @@ export default function PersonalLoanSettlementPage() {
             In theory, arbitration is meant to be fair. In practice, for many borrowers, it feels one-sided because the arbitrator is often nominated by the bank itself. You might receive a notice triggering the arbitration clause in your loan agreement. Ignoring this is a mistake. If you do not participate, an <em>ex-parte</em> award (a decision made in your absence) can be passed against you, which has the power of a court decree.
           </p>
           <div className="bg-blue-50 border border-blue-100 p-6 rounded-xl mb-8">
-            <h4 className="font-bold text-blue-900 mb-2">How We Handle Arbitration</h4>
+            <h3 className="font-bold text-blue-900 mb-2">How We Handle Arbitration</h3>
             <ul className="list-disc pl-5 space-y-2 text-blue-800">
               <li><strong>Representation:</strong> We help draft your defense statement to be submitted to the arbitrator.</li>
               <li><strong>Hardship Proof:</strong> We present evidence of your "Inability to Pay" vs "Instent to Avoid", distinguishing you from a willful defaulter.</li>
@@ -395,7 +395,7 @@ export default function PersonalLoanSettlementPage() {
                   <div className="text-2xl mb-4 text-[var(--color-primary)] group-hover:scale-110 transition-transform duration-300">
                     <FontAwesomeIcon icon={item.icon} className="w-12 h-12"/>
                   </div>
-                  <h4 className="font-bold text-[var(--color-text-hero)] text-lg mb-2">{item.title}</h4>
+                  <h3 className="font-bold text-[var(--color-text-hero)] text-lg mb-2">{item.title}</h3>
                   <p className="text-[var(--color-text-body)] opacity-70 text-sm leading-relaxed">{item.desc}</p>
                 </div>
               ))}
@@ -535,7 +535,7 @@ export default function PersonalLoanSettlementPage() {
           <div className="grid md:grid-cols-3 gap-6 mb-12">
              <div className="bg-white p-6 rounded-xl border border-gray-200 text-center">
                 <div className="w-12 h-12 bg-indigo-100 text-indigo-600 rounded-full flex items-center justify-center mx-auto mb-4 text-xl font-bold">1</div>
-                <h4 className="font-bold text-gray-800 mb-2">Wait 6 Months</h4>
+                <h3 className="font-bold text-gray-800 mb-2">Wait 6 Months</h3>
                 <p className="text-sm text-gray-600">Do not apply for any new credit immediately. Let the "Settled" status stabilize.</p>
              </div>
              <div className="bg-white p-6 rounded-xl border border-gray-200 text-center">
@@ -585,7 +585,7 @@ export default function PersonalLoanSettlementPage() {
               <div key={i} className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                 <div className="flex items-center mb-4">
                    <div className="w-10 h-10 rounded-full bg-[var(--color-section-light)] flex items-center justify-center font-bold text-[var(--color-primary)] mr-3">{review.name.charAt(0)}</div>
-                   <div><h5 className="font-bold text-[var(--color-text-hero)]">{review.name}</h5><p className="text-xs text-[var(--color-text-muted)]">{review.loc}</p></div>
+                   <div><h3 className="font-bold text-[var(--color-text-hero)]">{review.name}</h3><p className="text-xs text-[var(--color-text-muted)]">{review.loc}</p></div>
                    <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                       <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                       <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -615,7 +615,7 @@ export default function PersonalLoanSettlementPage() {
             One aspect rarely discussed is the tax angle. When a bank waives off a portion of your principal, they are essentially giving you "income" in the eyes of the taxman.
           </p>
           <div className="bg-yellow-50 border border-yellow-200 p-6 rounded-xl mb-12">
-            <h4 className="font-bold text-yellow-900 mb-2 text-lg">Section 41(1) of Income Tax Act</h4>
+            <h3 className="font-bold text-yellow-900 mb-2 text-lg">Section 41(1) of Income Tax Act</h3>
             <p className="text-yellow-900/80 mb-4 leading-relaxed">
                 If the waived amount is treated as a "benefit" arising from business or profession, it is taxable. However, for <strong>Personal Loans</strong> taken by salaried individuals for personal use (medical, wedding, travel), the waived amount is generally <strong>NOT taxable</strong> as per current legal interpretations, because it is a capital receipt, not a revenue receipt.
             </p>
@@ -633,7 +633,7 @@ export default function PersonalLoanSettlementPage() {
                </p>
                <div className="grid md:grid-cols-2 gap-6 mt-6">
                  <div>
-                    <h4 className="font-bold text-blue-800 mb-2">Do's for Recovery Agents</h4>
+                    <h3 className="font-bold text-blue-800 mb-2">Do's for Recovery Agents</h3>
                     <ul className="list-disc pl-5 space-y-2 text-blue-900/80 text-sm">
                         <li>Must identify themselves and the bank they represent.</li>
                         <li>Must respect your privacy and dignity.</li>
@@ -661,7 +661,7 @@ export default function PersonalLoanSettlementPage() {
             For most individuals with unsecured debts (personal loans, credit cards), debt settlement is a far more practical and less severe option than bankruptcy.
           </p>
           <div className="bg-purple-50 border border-purple-200 p-6 rounded-xl mb-12">
-            <h4 className="font-bold text-purple-900 mb-2 text-lg">Key Differences</h4>
+            <h3 className="font-bold text-purple-900 mb-2 text-lg">Key Differences</h3>
             <ul className="list-disc pl-5 space-y-2 text-purple-900/80 mb-4 leading-relaxed">
                 <li><strong>Debt Settlement:</strong> Negotiates with creditors to pay a reduced amount. Less impact on credit score than bankruptcy, but still significant. No court involvement.</li>
                 <li><strong>Bankruptcy:</strong> A legal process to eliminate or repay debts under court supervision. Severe, long-lasting impact on credit (7-10 years). Can involve liquidation of assets.</li>
@@ -676,7 +676,7 @@ export default function PersonalLoanSettlementPage() {
             The debt relief industry has its share of unscrupulous players. Be vigilant and protect yourself from fraudulent schemes.
           </p>
           <div className="bg-red-50 border border-red-200 p-6 rounded-xl mb-12">
-            <h4 className="font-bold text-red-900 mb-2 text-lg">Red Flags to Watch Out For</h4>
+            <h3 className="font-bold text-red-900 mb-2 text-lg">Red Flags to Watch Out For</h3>
             <ul className="list-disc pl-5 space-y-2 text-red-900/80 mb-4 leading-relaxed">
                 <li><strong>Guaranteed Results:</strong> No legitimate company can guarantee a specific settlement amount or outcome.</li>
                 <li><strong>Upfront Fees:</strong> Reputable companies typically charge fees only after a settlement is reached or a service is delivered.</li>
@@ -694,7 +694,7 @@ export default function PersonalLoanSettlementPage() {
             While it's technically possible to negotiate with banks yourself, it's often an emotionally taxing and strategically challenging process.
           </p>
           <div className="bg-green-50 border border-green-200 p-6 rounded-xl mb-12">
-            <h4 className="font-bold text-green-900 mb-2 text-lg">Challenges of Self-Negotiation</h4>
+            <h3 className="font-bold text-green-900 mb-2 text-lg">Challenges of Self-Negotiation</h3>
             <ul className="list-disc pl-5 space-y-2 text-green-900/80 mb-4 leading-relaxed">
                 <li><strong>Emotional Toll:</strong> Dealing with aggressive recovery agents can be stressful and overwhelming.</li>
                 <li><strong>Lack of Expertise:</strong> Banks have experienced legal and recovery teams. You might lack the knowledge of RBI guidelines, legal nuances, and negotiation tactics.</li>
@@ -711,7 +711,7 @@ export default function PersonalLoanSettlementPage() {
             A settled loan impacts your CIBIL score, but it's not a permanent black mark. You can strategically rebuild your creditworthiness over time.
           </p>
           <div className="bg-indigo-50 border border-indigo-200 p-6 rounded-xl mb-12">
-            <h4 className="font-bold text-indigo-900 mb-2 text-lg">Steps to Improve Your CIBIL Score</h4>
+            <h3 className="font-bold text-indigo-900 mb-2 text-lg">Steps to Improve Your CIBIL Score</h3>
             <ul className="list-disc pl-5 space-y-2 text-indigo-900/80 mb-4 leading-relaxed">
                 <li><strong>Secured Credit Cards:</strong> Apply for an FD-backed credit card. Use it responsibly and pay bills on time.</li>
                 <li><strong>Small Secured Loans:</strong> Consider a small loan against an asset (like gold or an FD) and ensure timely repayments.</li>
@@ -859,7 +859,7 @@ export default function PersonalLoanSettlementPage() {
           <div className="sticky top-24 space-y-8">
              <div className="bg-white rounded-2xl shadow-lg overflow-hidden border border-[#DEDEDE] group">
                <div className="bg-[#1F5EFF] p-4 text-center">
-                 <h3 className="text-lg font-black text-white">Get a Free Estimate</h3>
+                 <div className="text-lg font-black text-white">Get a Free Estimate</div>
                </div>
                <div className="p-6 text-center">
                  <p className="mb-6 text-sm text-[#2E2E2E] opacity-80 leading-relaxed font-medium">
@@ -874,7 +874,7 @@ export default function PersonalLoanSettlementPage() {
 
             {/* Related Pages Container - Clean List */}
             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-              <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Information</h3>
+              <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Information</div>
               <ul className="space-y-4 text-sm font-bold">
                  <li>
                    <Link href="/loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

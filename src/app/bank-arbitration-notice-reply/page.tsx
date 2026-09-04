@@ -760,7 +760,7 @@ export default function BankArbitrationNoticeReplyPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Serving the Formal Statutory Objection</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Phase 1: Serving the Formal Statutory Objection</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Within 15 days of receiving the Section 21 notice, your advocate serves a formal legal reply on both the bank and the appointed arbitrator. The reply explicitly challenges the arbitrator&apos;s appointment under Section 12(5) read with the Seventh Schedule and cites <em>Perkins Eastman</em> and <em>TRF Ltd.</em>, placing the bank on notice that any unilateral award will be challenged in High Court / Commercial Court.
                   </p>
@@ -1135,7 +1135,7 @@ export default function BankArbitrationNoticeReplyPage() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm">Ashish Jhangra</h4>
+                  <div className="font-bold text-slate-900 text-sm">Ashish Jhangra</div>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
               </div>
@@ -1154,7 +1154,7 @@ export default function BankArbitrationNoticeReplyPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Legal Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Received a Bank Arbitration Notice?</h4>
+              <div className="font-bold text-base text-white mb-2">Received a Bank Arbitration Notice?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let the bank pass an ex-parte award. Hire experienced debt defense advocates to challenge the sole arbitrator under Section 12(5) and negotiate a 45%–65% OTS.
               </p>
@@ -1168,9 +1168,9 @@ export default function BankArbitrationNoticeReplyPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

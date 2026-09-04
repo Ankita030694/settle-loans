@@ -210,7 +210,7 @@ export default function BankRecoveryCasePage() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px] relative">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Legal Roadmap</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Legal Roadmap</div>
                             <TableOfContents
                                 items={[
                                     { id: "judicial-recovery-overview", title: "Overview" },
@@ -259,7 +259,7 @@ export default function BankRecoveryCasePage() {
                             </p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-shadow">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Stage 1: Filing the Plaint</h4>
+                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Stage 1: Filing the Plaint</h3>
                                     <p className="text-sm leading-relaxed font-bold opacity-70">The bank's lawyer drafts a document detailings the facts, the amount due, and the legal grounds. This is filed in the court with jurisdiction based on your address or the branch location.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-shadow">
@@ -285,7 +285,7 @@ export default function BankRecoveryCasePage() {
                                 Most credit card and personal loan suits are filed as <strong>Summary Suits under Order 37 CPC</strong>. In these cases, the law assumes you have no defense unless you prove otherwise.
                             </p>
                             <div className="p-8 bg-red-50 rounded-3xl border border-red-100 mb-8">
-                                <h4 className="text-xl font-black text-red-900 mb-2 uppercase">The 10-Day Rule</h4>
+                                <h3 className="text-xl font-black text-red-900 mb-2 uppercase">The 10-Day Rule</h3>
                                 <p className="text-sm italic font-bold text-red-700 leading-relaxed">Once you receive a summons in a summary suit, you have exactly <strong>10 days</strong> to file an "Appearance". If you miss this, the bank automatically wins the case without a trial.</p>
                             </div>
                             <p className="mb-0 leading-relaxed font-bold">
@@ -311,7 +311,7 @@ export default function BankRecoveryCasePage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-[#2E2E2E] text-white rounded-[48px] shadow-xl border-l-8 border-[#1F5EFF]">
-                                    <h4 className="text-2xl font-black mb-4 uppercase italic leading-none">The DRT Process</h4>
+                                    <h3 className="text-2xl font-black mb-4 uppercase italic leading-none">The DRT Process</h3>
                                     <p className="text-sm leading-relaxed opacity-90 font-medium font-bold">The bank files an Original Application (OA). The Presiding Officer issues a notice. Unlike civil courts, DRTs follow 'Principles of Natural Justice' rather than the strict CPC rules, making it faster.</p>
                                 </div>
                                 <div className="p-10 bg-[#2E2E2E] text-white rounded-[48px] shadow-xl border-l-8 border-red-500">
@@ -343,7 +343,7 @@ export default function BankRecoveryCasePage() {
                                 Your <strong>Statement of Defense</strong> or "Written Statement" is your story. It is not enough to say "I don't have the money." You must challenge the bank's arithmetic and procedural adherence.
                             </p>
                             <div className="bg-gray-50 p-10 rounded-[48px] border border-gray-100 shadow-sm mb-12">
-                                <h4 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#1F5EFF]">Top Defensive Pleas</h4>
+                                <h3 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#1F5EFF]">Top Defensive Pleas</h3>
                                 <ul className="space-y-3">
                                     <li className="text-sm font-bold opacity-80 italic italic">"The bank has failed to follow the RBI Fair Practices Code."</li>
                                     <li className="text-sm font-bold opacity-80 italic italic">"The interest charged exceeds the agreed cap or is usurious."</li>
@@ -361,7 +361,7 @@ export default function BankRecoveryCasePage() {
                                 An <strong>Ex-Parte Decree</strong> occurs if the bank proves they served you a notice, but you chose not to show up. In the court's eyes, silence is an admission of debt.
                             </p>
                             <div className="bg-red-900 p-10 rounded-[48px] text-white shadow-2xl">
-                                <h4 className="text-2xl font-black mb-4 uppercase italic text-red-500">The Power of "Setting Aside"</h4>
+                                <h3 className="text-2xl font-black mb-4 uppercase italic text-red-500">The Power of "Setting Aside"</h3>
                                 <p className="text-sm leading-relaxed opacity-80 font-bold mb-6">If an ex-parte decree is passed without you being properly served, you can file an application under <strong>Order 9 Rule 13 of the CPC</strong> to set aside the decree. You must prove "sufficient cause" for your absence.</p>
                                 <p className="text-xs font-black uppercase tracking-[0.2em] font-bold italic">This is an emergency legal procedure that can stop a recovery officer from entering your house.</p>
                             </div>
@@ -376,7 +376,7 @@ export default function BankRecoveryCasePage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-gray-50 rounded-[48px] border border-gray-100 shadow-sm relative overflow-hidden group">
-                                    <h4 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#2E2E2E]">The Inventory Phase</h4>
+                                    <h3 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#2E2E2E]">The Inventory Phase</h3>
                                     <p className="text-sm leading-relaxed opacity-70 font-medium italic">A court-appointed bailiff visits your premises to create an inventory. They cannot use physical force against your family.</p>
                                 </div>
                                 <div className="p-10 bg-gray-50 rounded-[48px] border border-gray-100 shadow-sm relative overflow-hidden group text-right">
@@ -443,7 +443,7 @@ export default function BankRecoveryCasePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -505,7 +505,7 @@ export default function BankRecoveryCasePage() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-[32px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-6 text-white text-center">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Court Case<br />Defense</h3>
+                                    <div className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Court Case<br />Defense</div>
                                     <p className="opacity-80 text-[10px] font-black uppercase tracking-[0.2em]">Immediate Response</p>
                                 </div>
                                 <div className="p-8">
@@ -521,7 +521,7 @@ export default function BankRecoveryCasePage() {
 
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-[32px] p-8 border border-gray-100 shadow-sm text-left">
-                                <h4 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Litigation Hub</h4>
+                                <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Litigation Hub</div>
                                 <nav className="space-y-4">
                                     <Link href="/bank-arbitration-notice-loan" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">Arbitration Defense</Link>
                                     <Link href="/legal-action-for-credit-card-default" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">Credit Card Suits</Link>

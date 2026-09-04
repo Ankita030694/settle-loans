@@ -225,7 +225,7 @@ export default function LoanSettlementHindiPage() {
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl flex flex-col md:flex-row gap-4 items-start hover:shadow-md transition-shadow">
                   <div className="w-12 h-12 rounded-full bg-green-100 text-green-600 flex items-center justify-center font-black flex-shrink-0">✓</div>
                   <div>
-                    <h4 className="font-bold text-[#2E2E2E] text-xl mb-2 italic">Closed (पूर्ण बंद):</h4>
+                    <h3 className="font-bold text-[#2E2E2E] text-xl mb-2 italic">Closed (पूर्ण बंद):</h3>
                     <p className="text-sm leading-relaxed">जब आप मूलधन, ब्याज और पेनल्टी सहित पूरा पैसा चुका देते हैं। सिibil (CIBIL) रिपोर्ट में यह 'Closed' दिखता है और आपका स्कोर 750+ जाने की राह आसान हो जाती है। आपको बैंक से **No Dues Certificate (NDC)** अनिवार्य रूप से लेना चाहिए।</p>
                   </div>
                 </div>
@@ -252,7 +252,7 @@ export default function LoanSettlementHindiPage() {
               </h2>
               <div className="grid md:grid-cols-2 gap-6 mb-8 text-left">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h4 className="font-bold mb-2">30-दिनीय पूर्व सूचना</h4>
+                  <h3 className="font-bold mb-2">30-दिनीय पूर्व सूचना</h3>
                   <p className="text-sm">अब बैंक को किसी भी कानूनी कार्रवाई या SARFAESI नोटिस से पहले 30 दिन की लिखित सूचना देना अनिवार्य है। यह बातचीत का सुनहरा मौका है।</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm italic">
@@ -306,7 +306,7 @@ export default function LoanSettlementHindiPage() {
                 </table>
               </div>
               <div className="p-6 bg-red-50 border-l-4 border-red-500 rounded-r-xl mb-8">
-                <h4 className="font-bold text-red-700 mb-2">क्या करें जब नोटिस मिले?</h4>
+                <h3 className="font-bold text-red-700 mb-2">क्या करें जब नोटिस मिले?</h3>
                 <ul className="list-disc pl-6 space-y-2 text-sm italic">
                   <li>नोटिस को कभी नजरअंदाज न करें।</li>
                   <li>अपने वकील के माध्यम से "Reply to Legal Notice" जरूर भेजें।</li>
@@ -324,7 +324,7 @@ export default function LoanSettlementHindiPage() {
                 लोक अदालत वह मंच है जहाँ जज की मौजूदगी में बैंक और आप आपसी समझौते से लोन बंद करते हैं। यहाँ मिलने वाला सेटलमेंट **डिग्री (Decree)** के समान होता है, जिसे बाद में बैंक चुनौती नहीं दे सकता।
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8 border-l-8 border-[#1F5EFF]">
-                <h4 className="text-[#1F5EFF] font-bold mb-4 uppercase tracking-widest underline">2025 लोक अदालत कैलेंडर:</h4>
+                <h3 className="text-[#1F5EFF] font-bold mb-4 uppercase tracking-widest underline">2025 लोक अदालत कैलेंडर:</h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4 font-black text-xl italic">
                   <div className="flex justify-between border-b border-white/10 pb-2"><span>08 मार्च, 2025</span></div>
                   <div className="flex justify-between border-b border-white/10 pb-2"><span>10 मई, 2025</span></div>
@@ -349,7 +349,7 @@ export default function LoanSettlementHindiPage() {
               </h2>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-bold border-b pb-2 mb-4 text-[#1F5EFF]">क्रेडिट कार्ड सेटलमेंट</h4>
+                  <h3 className="font-bold border-b pb-2 mb-4 text-[#1F5EFF]">क्रेडिट कार्ड सेटलमेंट</h3>
                   <p className="text-sm leading-relaxed">
                     यह सबसे आसान सेटलमेंट है क्योंकि इसमें ब्याज दर 40-45% होती है। बैंक मूलधन (Principal) का 30% लेने को भी तैयार हो जाते हैं।
                   </p>
@@ -369,7 +369,7 @@ export default function LoanSettlementHindiPage() {
               </h2>
               <div className="space-y-6">
                 <div className="p-6 bg-[#2E2E2E] text-white rounded-2xl border-l-8 border-[#1F5EFF]">
-                  <h4 className="text-[#1F5EFF] font-bold mb-4 text-xl">1. बिज़नेस लोन (Business Loans)</h4>
+                  <h3 className="text-[#1F5EFF] font-bold mb-4 text-xl">1. बिज़नेस लोन (Business Loans)</h3>
                   <p className="text-sm leading-relaxed mb-4">
                     यदि आपका बिज़नेस पूरी तरह फेल हो चुका है, तो बैंक आपके **"Stock Audit"** और **"GST Returns"** की जाँच करेगा।
                   </p>
@@ -400,7 +400,7 @@ export default function LoanSettlementHindiPage() {
               <div className="relative border-l-2 border-dashed border-gray-300 ml-4 space-y-8">
                 <div className="relative pl-8">
                   <div className="absolute left-[-11px] top-1 w-5 h-5 bg-blue-500 rounded-full border-4 border-white"></div>
-                  <h4 className="font-bold text-lg mb-1">SMA-0 (1-30 दिन)</h4>
+                  <h3 className="font-bold text-lg mb-1">SMA-0 (1-30 दिन)</h3>
                   <p className="text-sm italic">सॉफ्ट रिमाइंडर, कॉल और मैसेज आएंगे। बैंक अभी भी उम्मीद करता है कि आप भर देंगे।</p>
                 </div>
                 <div className="relative pl-8">
@@ -428,7 +428,7 @@ export default function LoanSettlementHindiPage() {
               <div className="space-y-12 text-left">
                 <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 pb-8">
                   <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase italic">चरण 1: वित्तीय सत्यता (Audit)</h4>
+                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-2 uppercase italic">चरण 1: वित्तीय सत्यता (Audit)</h3>
                   <p className="text-base leading-relaxed">अपना "Final Budget" तय करें। बैंक को देने से पहले यह सुनिश्चित करें कि आपके पास बुनियादी जरूरतों के लिए पैसे बचे हैं।</p>
                 </div>
                 <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20 pb-8">
@@ -542,7 +542,7 @@ export default function LoanSettlementHindiPage() {
                 </li>
               </ul>
               <div className="mt-8 bg-black text-white p-8 rounded-2xl">
-                <h4 className="text-[#1F5EFF] font-black mb-4 uppercase tracking-widest border-l-4 border-l-[#1F5EFF] pl-4">शिकायत कहाँ करें?</h4>
+                <h3 className="text-[#1F5EFF] font-black mb-4 uppercase tracking-widest border-l-4 border-l-[#1F5EFF] pl-4">शिकायत कहाँ करें?</h3>
                 <ol className="list-decimal pl-6 space-y-2 text-sm">
                   <li>बैंक के ग्रीवेंस ऑफिसर (Grievance Officer) को ईमेल।</li>
                   <li>30 दिन इंतज़ार करें, जवाब न मिलने पर **RBI Ombudsman** (आरबीआई लोकपाल) को शिकायत करें।</li>
@@ -574,14 +574,14 @@ export default function LoanSettlementHindiPage() {
                 <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl flex gap-6 items-center hover:bg-white hover:shadow-md transition-all">
                   <div className="w-16 h-16 rounded-full bg-[#2E2E2E] text-white flex items-center justify-center font-black flex-shrink-0 text-2xl shadow-lg">01</div>
                   <div>
-                    <h5 className="font-bold text-[#2E2E2E] mb-1">महीना 1-3: सफाई (Cleaning)</h5>
+                    <h3 className="font-bold text-[#2E2E2E] mb-1">महीना 1-3: सफाई (Cleaning)</h3>
                     <p className="text-sm">सुनिश्चित करें कि बैंक ने सिबिल में बैलेंस "Zero" अपडेट कर दिया है। यदि नहीं, तो CIBIL की वेबसाइट पर ऑनलाइन विवाद (Online Dispute) दर्ज करें।</p>
                   </div>
                 </div>
                 <div className="p-6 bg-gray-50 border border-gray-100 rounded-xl flex gap-6 items-center hover:bg-white hover:shadow-md transition-all">
                   <div className="w-16 h-16 rounded-full bg-[#2E2E2E] text-white flex items-center justify-center font-black flex-shrink-0 text-2xl shadow-lg">04</div>
                   <div>
-                    <h5 className="font-bold text-[#2E2E2E] mb-1">महीना 4-6: नींव (Foundation)</h5>
+                    <h4 className="font-bold text-[#2E2E2E] mb-1">महीना 4-6: नींव (Foundation)</h4>
                     <p className="text-sm">अपनी एफडी (Fixed Deposit) के बदले एक **"Secured Credit Card"** लें। इसकी लिमिट का केवल 20-30% ही खर्च करें और बिल आने के 2 दिन पहले भुगतान करें।</p>
                   </div>
                 </div>
@@ -601,7 +601,7 @@ export default function LoanSettlementHindiPage() {
                 हाल के वर्षों में कई सरकारी बैंकों का विलय हुआ है (जैसे इलाहाबाद बैंक का इंडियन बैंक में, विजया बैंक का बैंक ऑफ बड़ौदा में)। यदि आपका लोन किसी पुराने 'एकीकृत' (Amalgamated) बैंक में था, तो आपको सेटलमेंट की बातचीत अब 'एन्कर बैंक' (Anchor Bank) के साथ करनी होगी।
               </p>
               <div className="p-6 bg-red-50 border border-red-100 rounded-xl italic">
-                <h4 className="font-bold mb-2 uppercase text-red-800 tracking-tighter decoration-red-400 underline decoration-2 underline-offset-4">महत्वपूर्ण सावधानी:</h4>
+                <h3 className="font-bold mb-2 uppercase text-red-800 tracking-tighter decoration-red-400 underline decoration-2 underline-offset-4">महत्वपूर्ण सावधानी:</h3>
                 <p className="text-sm">विलेय के दौरान पुरानी फाइलें कई बार "खो" (Lost) जाती हैं या डेटा ट्रांसफर में देरी होती है। सेटलमेंट करने से पहले सुनिश्चित करें कि बैंक के पास आपका सटीक बकाया रिकॉर्ड (Outstanding Statement) है। सेटलमेंट लेटर अब नए बैंक के नाम और उसके नए लोगो (Logo) के साथ ही मान्य होगा।</p>
               </div>
             </section>
@@ -613,11 +613,11 @@ export default function LoanSettlementHindiPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-4 text-sm mt-4">
                 <div className="p-4 bg-gray-50 border border-gray-100 rounded-lg">
-                  <h5 className="font-bold text-red-600 mb-1">नुकसान 1:</h5>
+                  <h3 className="font-bold text-red-600 mb-1">नुकसान 1:</h3>
                   <p>कोई भी **"Unsecured"** लोन अगले 5-7 साल तक मिलना लगभग असंभव हो जाता है।</p>
                 </div>
                 <div className="p-4 bg-gray-50 border border-gray-100 rounded-lg">
-                  <h5 className="font-bold text-red-600 mb-1">नुकसान 2:</h5>
+                  <h4 className="font-bold text-red-600 mb-1">नुकसान 2:</h4>
                   <p>आपकी **"Credit Limit"** का सदुपयोग करने की योग्यता पर सवाल खड़ा होता है, जिससे होम लोन की ब्याज दरें भी बढ़ सकती हैं।</p>
                 </div>
               </div>
@@ -660,7 +660,7 @@ export default function LoanSettlementHindiPage() {
                     <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.charAt(0)}</div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -728,7 +728,7 @@ export default function LoanSettlementHindiPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white px-4">सुरक्षित सेटलमेंट चुनें</h3>
+                  <div className="text-lg font-black text-white px-4">सुरक्षित सेटलमेंट चुनें</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -743,7 +743,7 @@ export default function LoanSettlementHindiPage() {
 
               {/* Related Pages Template */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm italic">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center decoration-red-400 underline decoration-2">अन्य महत्वपूर्ण गाइड्स</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center decoration-red-400 underline decoration-2">अन्य महत्वपूर्ण गाइड्स</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/can-i-settle-my-loan-without-a-lawyer" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

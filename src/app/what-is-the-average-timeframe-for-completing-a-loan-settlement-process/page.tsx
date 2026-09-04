@@ -539,7 +539,7 @@ export default function AverageTimeframePage() {
                   }
                 ].map((caseStudy, i) => (
                   <div key={i} className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
-                    <h5 className="font-black text-[#2E2E2E] mb-2">{caseStudy.type}</h5>
+                    <h3 className="font-black text-[#2E2E2E] mb-2">{caseStudy.type}</h3>
                     <div className="flex items-center gap-2 mb-4">
                       <span className="text-xs font-mono bg-blue-50 text-blue-700 px-2 py-1 rounded">Total Time: {caseStudy.timeline}</span>
                       <span className="text-xs font-mono bg-green-50 text-green-700 px-2 py-1 rounded">Status: {caseStudy.status}</span>
@@ -695,7 +695,7 @@ export default function AverageTimeframePage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">End the Uncertainty</h3>
+                  <div className="text-lg font-black text-white">End the Uncertainty</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -710,7 +710,7 @@ export default function AverageTimeframePage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

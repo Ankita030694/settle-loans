@@ -662,7 +662,7 @@ export default function CreditCardSettlementPage() {
             </p>
             <div className="grid md:grid-cols-2 gap-8">
               <div className="bg-white/60 p-6 rounded-xl backdrop-blur-sm">
-                <h4 className="font-bold text-indigo-900 mb-3 text-lg">Immediate Aftermath (0-6 Months)</h4>
+                <h3 className="font-bold text-indigo-900 mb-3 text-lg">Immediate Aftermath (0-6 Months)</h3>
                 <p className="text-gray-700 mb-2">Your credit score will drop (e.g., to 600-650). Unsecured loans will be rejected. But importantly, you have <strong>Zero EMI</strong> pressure. You can use your entire salary for your household needs and savings instead of interest payments.</p>
               </div>
               <div className="bg-white/60 p-6 rounded-xl backdrop-blur-sm">
@@ -684,7 +684,7 @@ export default function CreditCardSettlementPage() {
                  <div className="flex items-center mb-4">
                    <div className="w-12 h-12 bg-gray-200 rounded-full flex items-center justify-center text-gray-500 font-bold text-xl mr-4">R</div>
                    <div>
-                     <h4 className="font-bold text-gray-900">Rahul S. (IT Professional, Pune)</h4>
+                     <h3 className="font-bold text-gray-900">Rahul S. (IT Professional, Pune)</h3>
                      <p className="text-sm text-gray-500">Total Debt: ₹8.4 Lakhs</p>
                    </div>
                  </div>
@@ -864,7 +864,7 @@ export default function CreditCardSettlementPage() {
           <div className="sticky top-24 space-y-8">
              <div className="bg-white rounded-2xl shadow-lg overflow-hidden border border-[#DEDEDE] group">
                <div className="bg-[#1F5EFF] p-4 text-center">
-                 <h3 className="text-lg font-black text-white">Free Debt Analysis</h3>
+                 <div className="text-lg font-black text-white">Free Debt Analysis</div>
                </div>
                <div className="p-6 text-center">
                  <p className="mb-6 text-sm text-[#2E2E2E] opacity-80 leading-relaxed font-medium">
@@ -878,7 +878,7 @@ export default function CreditCardSettlementPage() {
              </div>
 
             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-              <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Services</h3>
+              <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Services</div>
               <ul className="space-y-4 text-sm font-bold">
                 <li>
                   <Link href="/services/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

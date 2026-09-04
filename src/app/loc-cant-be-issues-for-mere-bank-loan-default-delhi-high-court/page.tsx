@@ -232,7 +232,7 @@ export default function LOCDelhiHighCourtPage() {
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Sumer Singh Salkan vs. Asstt. Director</h4>
+                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Sumer Singh Salkan vs. Asstt. Director</h3>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         This foundational judgment laid down the criteria for issuing an LOC. It established that an LOC can only be issued when there is a pending criminal case or when the individual is deliberately avoiding appearance before a court.
                                     </p>
@@ -271,7 +271,7 @@ export default function LOCDelhiHighCourtPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Violation of Liberty</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Violation of Liberty</h3>
                                     <p className="text-sm">Stopping someone at the airport without a court order or a criminal charge is a direct violation of their personal liberty. The Court views this as an extreme measure that can only be justified by national security or grave criminal acts.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -327,7 +327,7 @@ export default function LOCDelhiHighCourtPage() {
                                 If you discover an LOC against your name—often only when you are stopped at the Immigration counter—you must act quickly. The Delhi High Court is the primary forum for challenging LOCs issued by central agencies or banks with headquarters in Delhi.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The Legal Strategy</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The Legal Strategy</h3>
                                 <ol className="space-y-4 text-base font-medium">
                                     <li className="flex items-start gap-3">
                                         <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs flex-shrink-0 mt-1">1</span>
@@ -369,11 +369,11 @@ export default function LOCDelhiHighCourtPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-4">
                                 <Link href="/loan-settlement-lawyers" className="p-4 bg-gray-50 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h5 className="font-bold text-[#1F5EFF]">Loan Settlement Lawyers</h5>
+                                    <h3 className="font-bold text-[#1F5EFF]">Loan Settlement Lawyers</h3>
                                     <p className="text-sm text-gray-600">Expert legal advice for settling outstanding debts.</p>
                                 </Link>
                                 <Link href="/punishment-for-non-payment-of-personal-loan-in-india" className="p-4 bg-gray-50 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
-                                    <h5 className="font-bold text-[#1F5EFF]">Punishment for Default</h5>
+                                    <h4 className="font-bold text-[#1F5EFF]">Punishment for Default</h4>
                                     <p className="text-sm text-gray-600">Understand the legal consequences of loan non-payment.</p>
                                 </Link>
                                 <Link href="/rbi-rules-for-recovery-agents" className="p-4 bg-gray-50 rounded-xl border border-gray-200 hover:border-[#1F5EFF] transition-colors">
@@ -430,7 +430,7 @@ export default function LOCDelhiHighCourtPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -493,7 +493,7 @@ export default function LOCDelhiHighCourtPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">LOC Legal Support</h3>
+                                    <div className="text-lg font-black text-white px-2">LOC Legal Support</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -508,7 +508,7 @@ export default function LOCDelhiHighCourtPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Legal Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Legal Resources</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/punishment-for-non-payment-of-personal-loan-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

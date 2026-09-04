@@ -232,7 +232,7 @@ export default function DebtFreeFuturePlanPage() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px]">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Master Plan</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Master Plan</div>
                             <TableOfContents
                                 items={[
                                     { id: "post-settlement-hope", title: "Message of Hope" },
@@ -292,7 +292,7 @@ export default function DebtFreeFuturePlanPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-12">
                                 <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100">
-                                    <h4 className="font-black text-blue-900 mb-3 uppercase text-xs">Action Item 01</h4>
+                                    <h3 className="font-black text-blue-900 mb-3 uppercase text-xs">Action Item 01</h3>
                                     <p className="text-sm font-bold text-blue-800">Ensure the NOC/NDC is physically stamped and signed. Keep three photocopies and a scanned digital copy in a secure cloud storage like Google Drive or Digilocker.</p>
                                 </div>
                                 <div className="bg-green-50 p-8 rounded-2xl border border-green-100">
@@ -337,7 +337,7 @@ export default function DebtFreeFuturePlanPage() {
                                     <div key={idx} className="p-8 bg-white border border-gray-100 rounded-[32px] shadow-sm hover:border-[#1F5EFF] transition-all group flex gap-6 items-start">
                                         <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] flex items-center justify-center font-black shrink-0">{idx + 1}</div>
                                         <div>
-                                            <h4 className="font-black text-[#2E2E2E] uppercase text-sm tracking-widest mb-2">{step.title}</h4>
+                                            <h3 className="font-black text-[#2E2E2E] uppercase text-sm tracking-widest mb-2">{step.title}</h3>
                                             <p className="text-gray-600 leading-relaxed font-medium text-sm">{step.desc}</p>
                                         </div>
                                     </div>
@@ -357,7 +357,7 @@ export default function DebtFreeFuturePlanPage() {
                             </p>
                             <div className="bg-[#1F5EFF] p-12 rounded-[48px] text-white my-16 shadow-2xl relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-80 h-80 bg-white/10 rounded-full -mr-40 -mt-40 blur-[100px]"></div>
-                                <h4 className="text-2xl font-black mb-6 relative z-10 italic">The Liquidity Ladder</h4>
+                                <h3 className="text-2xl font-black mb-6 relative z-10 italic">The Liquidity Ladder</h3>
                                 <div className="space-y-4 relative z-10 opacity-90 font-medium">
                                     <p>Level 01: Build a ₹25,000 'Starter Buffer' within the first 60 days post-settlement.</p>
                                     <p>Level 02: Reach 2 Monthly Salaries in a liquid savings account within 6 months.</p>
@@ -376,12 +376,12 @@ export default function DebtFreeFuturePlanPage() {
                             <div className="space-y-12">
                                 <div className="relative pl-16">
                                     <div className="absolute left-0 top-0 w-12 h-12 rounded-full bg-black text-white flex items-center justify-center font-black italic">PH 1</div>
-                                    <h5 className="text-xl font-bold mb-3 uppercase tracking-widest">The Reconstruction Phase (Month 6-12)</h5>
+                                    <h3 className="text-xl font-bold mb-3 uppercase tracking-widest">The Reconstruction Phase (Month 6-12)</h3>
                                     <p className="text-gray-600 leading-relaxed font-medium">During this phase, do not apply for any loans. Focus on ensuring your 'Payment History' section on CIBIL shows green for all active utility bills. Avoid any 'Hard Inquiries'. Every time you apply for a loan and get rejected, your score drops another 10 points. Discipline is your only asset here.</p>
                                 </div>
                                 <div className="relative pl-16">
                                     <div className="absolute left-0 top-0 w-12 h-12 rounded-full bg-black text-white flex items-center justify-center font-black italic">PH 2</div>
-                                    <h5 className="text-xl font-bold mb-3 uppercase tracking-widest">The Activation Phase (Month 12-18)</h5>
+                                    <h4 className="text-xl font-bold mb-3 uppercase tracking-widest">The Activation Phase (Month 12-18)</h4>
                                     <p className="text-gray-600 leading-relaxed font-medium">Introduce a 'Secured Product'. This is usually a credit card given against an FD. This card is not for spending; it is for reporting. Use it to pay your Netflix bill and immediately pay it off. You are 'Gaming' the algorithm by showing a 100% on-time repayment history on a new line of credit.</p>
                                 </div>
                                 <div className="relative pl-16">
@@ -401,7 +401,7 @@ export default function DebtFreeFuturePlanPage() {
                             </p>
                             <div className="bg-white p-10 rounded-[40px] border-2 border-[#1F5EFF] my-12 relative">
                                 <div className="absolute -top-4 left-10 bg-[#1F5EFF] text-white px-6 py-1 rounded-full text-xs font-black uppercase tracking-widest italic">The Golden Equation</div>
-                                <h4 className="text-2xl font-black mb-6 text-[#2E2E2E]">Score = (Repayment x 0.35) + (Low Utilization x 0.30)</h4>
+                                <h3 className="text-2xl font-black mb-6 text-[#2E2E2E]">Score = (Repayment x 0.35) + (Low Utilization x 0.30)</h3>
                                 <p className="opacity-90 leading-relaxed mb-6 font-medium italic">
                                     If you have a ₹50,000 limit and you spend ₹40,000, you appear 'Credit Hungry' to the algorithm, even if you pay it off. This signals desperation. To boost your score, you must keep your usage below 30% (₹15,000). The sweet spot for rapid recovery is actually usage between 5% and 10%. Spend little, pay perfectly, and watch your score skyrocket.
                                 </p>
@@ -422,7 +422,7 @@ export default function DebtFreeFuturePlanPage() {
                                 One of the most dangerous occurrences in the debt industry is 'Zombie Debt Recovery'. This is when a bank sells its old settled ledgers to unlicensed recovery agencies for pennies. These agencies then begin to call you, claiming the settlement was invalid or that interest has continued to accrue. Without the legal oversight of amalegalsolutions.com, you might be bullied into paying again.
                             </p>
                             <div className="bg-gray-100 p-10 rounded-[40px] my-12 border border-gray-200">
-                                <h4 className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-widest">Protections under Consumer Protection Act 2019</h4>
+                                <h3 className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-widest">Protections under Consumer Protection Act 2019</h3>
                                 <ul className="space-y-4 font-medium text-sm text-gray-700">
                                     <li className="flex gap-3 items-start">
                                         <span className="text-[#1F5EFF] font-black">✓</span>
@@ -449,7 +449,7 @@ export default function DebtFreeFuturePlanPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-16">
                                 <div className="p-8 rounded-[40px] bg-blue-50 border border-blue-100 italic transition-hover hover:shadow-lg">
-                                    <h4 className="text-xl font-black mb-3">The Power of Rupee Cost Averaging</h4>
+                                    <h3 className="text-xl font-black mb-3">The Power of Rupee Cost Averaging</h3>
                                     <p className="text-sm text-gray-600">Start a SIP of even ₹1,000. It's not about the amount; it's about the habit of investing before spending. This is the ultimate cure for debt addiction.</p>
                                 </div>
                                 <div className="p-8 rounded-[40px] bg-green-50 border border-green-100 italic transition-hover hover:shadow-lg">
@@ -542,7 +542,7 @@ export default function DebtFreeFuturePlanPage() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-[40px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-8 text-white text-center group-hover:bg-[#1F5EFF]/90 transition-colors">
-                                    <h3 className="text-3xl font-black mb-3 uppercase tracking-tighter leading-none italic">BUILD<br />WEALTH</h3>
+                                    <div className="text-3xl font-black mb-3 uppercase tracking-tighter leading-none italic">BUILD<br />WEALTH</div>
                                     <p className="text-[10px] font-black uppercase tracking-[0.3em] opacity-60">Future Plan 2025</p>
                                 </div>
                                 <div className="p-8">
@@ -558,7 +558,7 @@ export default function DebtFreeFuturePlanPage() {
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-[40px] p-10 border border-gray-100 shadow-sm text-left relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-blue-50/50 rounded-bl-[60px] -mr-4 -mt-4 z-0"></div>
-                                <h4 className="text-xs font-black uppercase tracking-[0.3em] text-[#1F5EFF] mb-8 border-b border-blue-50 pb-4 relative z-10">Freedom Tools</h4>
+                                <div className="text-xs font-black uppercase tracking-[0.3em] text-[#1F5EFF] mb-8 border-b border-blue-50 pb-4 relative z-10">Freedom Tools</div>
                                 <nav className="space-y-5 relative z-10">
                                     <Link href="/how-to-get-800-credit-score-in-india" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic decoration-[#1F5EFF]/20 underline underline-offset-4">800 CIBIL Score Guide</Link>
                                     <Link href="/can-i-convert-settled-to-closed-later" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic decoration-[#1F5EFF]/20 underline underline-offset-4">Convert Settled to Closed</Link>

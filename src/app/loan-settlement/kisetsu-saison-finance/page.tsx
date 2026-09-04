@@ -271,7 +271,7 @@ export default function KisetsuSaisonSettlementPage() {
                 To get a deep waiver - sometimes as high as 60-70% - you need to step outside the automated system and engage with their high-value recovery team. This requires a formal "Settlement Proposal Letter" which we draft for our clients. This letter must outline the specific reasons for default, prove the current lack of repayment capacity, and offer a realistic lump sum. Our experts know the exact "Waiver Benchmarks" that the Credit Saison audit team will accept without further escalation.
               </p>
               <div className="bg-[#f8faff] p-8 rounded-3xl border border-slate-100 mb-8">
-                <h4 className="font-black text-[#004c94] mb-4">Five Criteria for a Valid Kisetsu OTS Letter:</h4>
+                <h3 className="font-black text-[#004c94] mb-4">Five Criteria for a Valid Kisetsu OTS Letter:</h3>
                 <ul className="grid sm:grid-cols-2 gap-4">
                   <li className="flex items-center gap-2 font-medium">✓ Correct Corporate Name & Logo</li>
                   <li className="flex items-center gap-2 font-medium">✓ Final Agreed Settlement Amount (INR)</li>
@@ -370,7 +370,7 @@ export default function KisetsuSaisonSettlementPage() {
                 To win a settlement with a corporate lender like Kisetsu Saison, you cannot just ask for a discount. You must prove your case. This is where documentation becomes your most powerful weapon.
                </p>
                <div className="bg-slate-50 p-8 rounded-2xl border border-slate-200">
-                  <h4 className="font-bold text-[#004c94] mb-4">Essential Evidence for Waiver Approvals:</h4>
+                  <h3 className="font-bold text-[#004c94] mb-4">Essential Evidence for Waiver Approvals:</h3>
                   <ul className="grid sm:grid-cols-2 gap-4">
                      <li className="flex items-center gap-2 font-medium text-slate-700">✓ Bank Statements showing low balance</li>
                      <li className="flex items-center gap-2 font-medium text-slate-700">✓ Termination letters or Salary cut proofs</li>
@@ -466,7 +466,7 @@ export default function KisetsuSaisonSettlementPage() {
                      { q: "Can I get a loan from other banks after settling Kisetsu?", a: "Not immediately. You will need to rebuild your credit history for at least 12-24 months. We provide a roadmap for this post-settlement journey." }
                    ].map((faq, i) => (
                      <div key={i} className="border-b border-slate-200 pb-6">
-                         <h4 className="font-bold text-lg text-slate-800 mb-2">{faq.q}</h4>
+                         <h3 className="font-bold text-lg text-slate-800 mb-2">{faq.q}</h3>
                          <p className="text-slate-600">{faq.a}</p>
                      </div>
                    ))}
@@ -501,7 +501,7 @@ export default function KisetsuSaisonSettlementPage() {
               
               <div className="bg-[#004c94] rounded-2xl shadow-xl overflow-hidden border border-white/10">
                 <div className="bg-white/10 p-4 text-center border-b border-white/10">
-                  <h3 className="text-lg font-black text-white">Need Relief?</h3>
+                  <div className="text-lg font-black text-white">Need Relief?</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-white opacity-80 leading-relaxed font-medium">
@@ -514,7 +514,7 @@ export default function KisetsuSaisonSettlementPage() {
               </div>
 
               <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#718096] mb-4 border-b pb-2">Other NBFCs</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#718096] mb-4 border-b pb-2">Other NBFCs</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li><Link href="/loan-settlement/idfc-first-bank" className="group flex items-center text-[#2d3748] hover:text-[#004c94] transition-colors"><span className="w-1.5 h-1.5 bg-[#cbd5e0] rounded-full mr-3 group-hover:bg-[#004c94]"></span>IDFC First</Link></li>
                   <li><Link href="/loan-settlement/rbl-bank" className="group flex items-center text-[#2d3748] hover:text-[#004c94] transition-colors"><span className="w-1.5 h-1.5 bg-[#cbd5e0] rounded-full mr-3 group-hover:bg-[#004c94]"></span>RBL Bank</Link></li>

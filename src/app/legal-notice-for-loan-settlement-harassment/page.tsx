@@ -282,7 +282,7 @@ export default function LoanHarassmentLegalNoticePage() {
               
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h4 className="font-bold text-[#E63946] mb-3">Psychological Harassment</h4>
+                  <h3 className="font-bold text-[#E63946] mb-3">Psychological Harassment</h3>
                   <ul className="text-sm space-y-2 text-gray-700">
                     <li>Calling 30 to 50 times in a single day.</li>
                     <li>Threatening to leak your photos to contacts.</li>
@@ -337,7 +337,7 @@ export default function LoanHarassmentLegalNoticePage() {
               
               <ul className="space-y-6 mb-10">
                 <li className="bg-white p-6 rounded-xl border-l-4 border-[#1F5EFF] shadow-sm">
-                  <h4 className="font-black text-lg mb-2">Section 506: Criminal Intimidation</h4>
+                  <h3 className="font-black text-lg mb-2">Section 506: Criminal Intimidation</h3>
                   <p className="text-gray-600">This is used when agents threaten to kill you, hit you, or destroy your property. It carries a punishment of up to 2 years in jail.</p>
                 </li>
                 <li className="bg-white p-6 rounded-xl border-l-4 border-[#1F5EFF] shadow-sm">
@@ -409,12 +409,12 @@ export default function LoanHarassmentLegalNoticePage() {
               <div className="grid md:grid-cols-3 gap-6 my-10">
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm text-center">
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 text-[#1F5EFF] font-bold">1</div>
-                  <h5 className="font-bold text-sm mb-2">Call Recording</h5>
+                  <h3 className="font-bold text-sm mb-2">Call Recording</h3>
                   <p className="text-xs text-gray-500">Record every call. Let the agent speak. Do not provoke them, but let them disclose their abusive nature.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm text-center">
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 text-[#1F5EFF] font-bold">2</div>
-                  <h5 className="font-bold text-sm mb-2">Screenshot Logs</h5>
+                  <h4 className="font-bold text-sm mb-2">Screenshot Logs</h4>
                   <p className="text-xs text-gray-500">Take screenshots of the number of calls received on a single day. Save WhatsApp threats before they are deleted.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm text-center">
@@ -467,7 +467,7 @@ export default function LoanHarassmentLegalNoticePage() {
                 </p>
                 <div className="grid md:grid-cols-2 gap-8">
                   <div className="space-y-4">
-                    <h4 className="font-bold text-xl border-b border-white/20 pb-2">What We Do</h4>
+                    <h3 className="font-bold text-xl border-b border-white/20 pb-2">What We Do</h3>
                     <ul className="text-sm space-y-2 opacity-90">
                       <li>✓ Professional Drafting of Legal Notices.</li>
                       <li>✓ Handling calls from Bank Nodal Officers.</li>
@@ -515,7 +515,7 @@ export default function LoanHarassmentLegalNoticePage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-500 text-sm">★★★★★</div>
@@ -595,7 +595,7 @@ export default function LoanHarassmentLegalNoticePage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20 p-6">
                 <div className="text-center mb-6">
-                  <h3 className="text-xl font-black text-white mb-2 uppercase tracking-tighter">Under Pressure?</h3>
+                  <div className="text-xl font-black text-white mb-2 uppercase tracking-tighter">Under Pressure?</div>
                   <p className="text-[#DEDEDE]/70 text-sm">We handle over 1,000 recovery agent disputes every month.</p>
                 </div>
                 <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-xl hover:scale-105 transition-all text-sm text-center shadow-lg">
@@ -614,7 +614,7 @@ export default function LoanHarassmentLegalNoticePage() {
 
               {/* Related Pages Container */}
               <div className="bg-white rounded-2xl border border-[#DEDEDE] shadow-sm p-6">
-                <h3 className="text-sm font-bold uppercase tracking-wider text-[#2E2E2E] mb-4">Related Resources</h3>
+                <div className="text-sm font-bold uppercase tracking-wider text-[#2E2E2E] mb-4">Related Resources</div>
                 <nav className="flex flex-col gap-3">
                   <Link href="/rbi-rules-for-recovery-agents" className="text-sm text-blue-600 hover:underline">Complete RBI Rules Guide</Link>
                   <Link href="/can-i-go-to-jail-for-loan-default-in-india" className="text-sm text-blue-600 hover:underline">Loan Default Jail Risks</Link>

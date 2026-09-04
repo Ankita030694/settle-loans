@@ -321,12 +321,12 @@ export default function EffectiveNegotiationPage() {
                             <div className="grid md:grid-cols-3 gap-6 mb-12">
                                 <div className="p-8 rounded-2xl bg-gray-50 border border-gray-100 shadow-sm relative overflow-hidden group">
                                     <div className="w-12 h-12 bg-[#1F5EFF] rounded-full flex items-center justify-center mb-6 text-white text-xl font-bold group-hover:scale-110 transition-transform">1</div>
-                                    <h5 className="font-bold text-lg mb-3">Legal Literacy</h5>
+                                    <h3 className="font-bold text-lg mb-3">Legal Literacy</h3>
                                     <p className="text-gray-500 text-sm leading-relaxed">Understanding SARFAESI, DRT rules, and the Indian Evidence Act is non-negotiable. Leverage is built on the threat of legal stalemate.</p>
                                 </div>
                                 <div className="p-8 rounded-2xl bg-gray-50 border border-gray-100 shadow-sm relative overflow-hidden group">
                                     <div className="w-12 h-12 bg-[#1F5EFF] rounded-full flex items-center justify-center mb-6 text-white text-xl font-bold group-hover:scale-110 transition-transform">2</div>
-                                    <h5 className="font-bold text-lg mb-3">Data Mastery</h5>
+                                    <h4 className="font-bold text-lg mb-3">Data Mastery</h4>
                                     <p className="text-gray-500 text-sm leading-relaxed">Knowing the 'Provisioning Floor' of a specific bank branch. Data on past settlements is the primary weapon in modern negotiation.</p>
                                 </div>
                                 <div className="p-8 rounded-2xl bg-gray-50 border border-gray-100 shadow-sm relative overflow-hidden group">
@@ -420,7 +420,7 @@ export default function EffectiveNegotiationPage() {
                                 A high-authority negotiator knows which 'Lever' to pull for which department. If they are talking to a legal officer, they focus on the risk of a 5-year stay in the DRT. If they are talking to a recovery manager, they focus on the 'Provisioning Reversal' that will hit their branch's profitability as long as your loan remains an NPA.
                             </p>
                             <div className="bg-blue-50 p-10 rounded-3xl border-l-8 border-blue-500 mb-8 shadow-inner">
-                                <h4 className="text-xl font-bold text-blue-900 mb-4">The 'Provisioning' Secret</h4>
+                                <h3 className="text-xl font-bold text-blue-900 mb-4">The 'Provisioning' Secret</h3>
                                 <p className="text-blue-800 leading-relaxed italic">
                                     "When a loan goes into default, the bank has to 'Provision' or set aside money to cover the potential loss. This money cannot be used to give new loans, which costs the bank profit. A settlement 'Reverses' this provision, suddenly giving the branch manager a boost in their available capital. Effective negotiators use this specific financial pressure to force a decision."
                                 </p>
@@ -464,7 +464,7 @@ export default function EffectiveNegotiationPage() {
                                             <FontAwesomeIcon icon={faHandshake} className="text-[#1F5EFF] w-5 h-5" />
                                         </div>
                                         <div>
-                                            <h5 className="font-bold text-lg mb-1">AI-Predictive Bidding</h5>
+                                            <h4 className="font-bold text-lg mb-1">AI-Predictive Bidding</h4>
                                             <p className="text-gray-400 text-sm leading-relaxed">We know the bank's 'Pain Point' before the negotiation even begins, preventing you from overpaying.</p>
                                         </div>
                                     </li>
@@ -586,7 +586,7 @@ export default function EffectiveNegotiationPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Expert Negotiation</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Expert Negotiation</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
@@ -603,13 +603,13 @@ export default function EffectiveNegotiationPage() {
                                 <div className="flex justify-center mb-4">
                                     <FontAwesomeIcon icon={faHandshake} className="text-[#1F5EFF] text-4xl" />
                                 </div>
-                                <h4 className="text-xl font-black text-gray-900 mb-2">₹500Cr+ Saved</h4>
+                                <div className="text-xl font-black text-gray-900 mb-2">₹500Cr+ Saved</div>
                                 <p className="text-xs text-gray-500 italic leading-relaxed">Total interest and penalties waived for our clients through effective negotiation.</p>
                             </div>
 
                             {/* Related Resources */}
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Resources</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Resources</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

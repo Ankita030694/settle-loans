@@ -226,7 +226,7 @@ export default function NBFCLoanSettlementLawyerPage() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px] relative">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Legal Roadmap</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Legal Roadmap</div>
                             <TableOfContents
                                 items={[
                                     { id: "nbfc-settlement-landscape", title: "Settlement Landscape" },
@@ -275,7 +275,7 @@ export default function NBFCLoanSettlementLawyerPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 shadow-sm transition-all hover:border-[#1F5EFF]/30">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">Dignity in Recovery</h4>
+                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">Dignity in Recovery</h3>
                                     <p className="text-sm leading-relaxed font-bold">Lenders are prohibited from using abusive language, physical threats, or harassing your family and neighbors. Any violation of this is a ground for immediate legal action.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 shadow-sm transition-all hover:border-[#1F5EFF]/30">
@@ -317,7 +317,7 @@ export default function NBFCLoanSettlementLawyerPage() {
                             </p>
                             <div className="space-y-10">
                                 <div>
-                                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter"><span className="text-[#1F5EFF]">Phase 1:</span> Hardship Documentation</h4>
+                                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter"><span className="text-[#1F5EFF]">Phase 1:</span> Hardship Documentation</h3>
                                     <p className="leading-relaxed">We help you compile a 'Hardship Manifesto': a set of legally valid proofs (medical reports, job termination letters, bank statements) that prove your inability to pay is genuine and not a 'Willful Default'. NBFCs are legally mandated to consider genuine hardship under the <strong>RBI Prudential Framework</strong>.</p>
                                 </div>
                                 <div>
@@ -356,7 +356,7 @@ export default function NBFCLoanSettlementLawyerPage() {
                                 We maintain an internal database of the settlement behavior and recent 'Success Thresholds' of major NBFCs in India. This data-driven approach allows us to tell you exactly what percentage of a waiver is realistic for your specific lender. Whether it's a fintech startup or a legacy financial powerhouse, we know who is likely to settle and for how much.
                             </p>
                             <div className="bg-gray-50 border-2 border-dashed border-gray-200 p-8 rounded-[40px] my-12 text-center">
-                                <h4 className="text-2xl font-black text-gray-400 mb-4 uppercase">Fact Check: The 90-Day Rule</h4>
+                                <h3 className="text-2xl font-black text-gray-400 mb-4 uppercase">Fact Check: The 90-Day Rule</h3>
                                 <p className="text-lg font-bold text-[#2E2E2E] italic leading-relaxed">
                                     "Most NBFCs will only entertain a settlement offer once the loan has officially become an NPA (Non-Performing Asset), which usually happens after 90 days of consecutive non-payment. Proving your inability to pay during this period is the key to a 75% waiver."
                                 </p>
@@ -374,7 +374,7 @@ export default function NBFCLoanSettlementLawyerPage() {
                                 After payment, you MUST obtain a <strong>No Dues Certificate (NDC)</strong> or a <strong>Release Letter</strong>. This document must state that the lender has no further claim on you, your assets, or your legal heirs. If the loan was secured, we also ensure that the bank files the 'Satisfaction of Charge' with the Registrar of Companies (for businesses) or returns the 'Original Documents' and releases the mortgage (for individuals). Without these steps, the loan remains an open wound in your credit history.
                             </p>
                             <div className="bg-[#1F5EFF]/5 border-2 border-dashed border-[#1F5EFF]/20 p-10 rounded-[40px] my-12">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase">The Release of Documents Clock</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase">The Release of Documents Clock</h3>
                                 <p className="text-lg leading-relaxed font-medium">
                                     RBI guidelines issued in late 2023 mandate that all banks and NBFCs MUST release original property documents within <strong>30 days</strong> of full settlement. Failure to do so attracts a penalty of ₹5,000 for every day of delay, payable to the borrower. We ensure our clients receive this compensation if the lender is negligent.
                                 </p>
@@ -503,7 +503,7 @@ export default function NBFCLoanSettlementLawyerPage() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-[32px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-6 text-white text-center">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Settlement<br />Emergency?</h3>
+                                    <div className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Settlement<br />Emergency?</div>
                                     <p className="opacity-80 text-[10px] font-black uppercase tracking-[0.2em]">End the Debt Burden</p>
                                 </div>
                                 <div className="p-8">
@@ -519,7 +519,7 @@ export default function NBFCLoanSettlementLawyerPage() {
 
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-[32px] p-8 border border-gray-100 shadow-sm text-left">
-                                <h4 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Defense Resources</h4>
+                                <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Defense Resources</div>
                                 <nav className="space-y-4">
                                     <Link href="/loan-agreement-drafting-review" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Agreement Mastery</Link>
                                     <Link href="/best-lawyer-for-personal-loans" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Personal Loan Help</Link>

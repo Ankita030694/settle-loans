@@ -405,13 +405,13 @@ export default function LoanDefaultPassportVisaPage() {
             <div className="sticky top-24 space-y-8">
                <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl overflow-hidden relative group">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                  <h3 className="text-2xl font-black mb-4 relative z-10">Struggling with EMI?</h3>
+                  <div className="text-2xl font-black mb-4 relative z-10">Struggling with EMI?</div>
                   <p className="text-white/70 text-sm mb-6 relative z-10">Our experts have settled over 500 Crore Plus in debt for thousands of clients across India.</p>
                   <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-black py-4 rounded-xl hover:bg-[#1F5EFF]/90 transition-colors shadow-lg">Get Free Advice</Link>
                </div>
 
                <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                  <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-4">Related Resources</h3>
+                  <div className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-4">Related Resources</div>
                   <ul className="space-y-5">
                      <li>
                         <Link href="/loan-settlement-rules-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold transition-colors">

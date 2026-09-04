@@ -254,7 +254,7 @@ export default function CFPDebtPlanningPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h4 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs tracking-wider">Fiduciary Duty</h4>
+                  <h3 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs tracking-wider">Fiduciary Duty</h3>
                   <p className="text-sm opacity-80 leading-relaxed">Unlike recovery agents, a CFP is bound by an ethical code to prioritize your survival and financial health over the bank's collection targets.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
@@ -337,7 +337,7 @@ export default function CFPDebtPlanningPage() {
                 Restructuring is a surgical procedure. It involves altering the fundamental terms of the loan contract without declaring an immediate default. This is often the preferred path for borrowers with home loans or those who hold critical professional licenses that require a "standard" credit rating.
               </p>
               <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm mb-8 overflow-hidden">
-                <h4 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider text-xs">Technical Comparison Analysis</h4>
+                <h3 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider text-xs">Technical Comparison Analysis</h3>
                 <div className="overflow-x-auto">
                    <table className="w-full text-left text-sm">
                      <thead className="border-b border-[#DEDEDE]">
@@ -379,7 +379,7 @@ export default function CFPDebtPlanningPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div>
-                  <h4 className="text-lg font-bold mb-3 uppercase tracking-tight text-[#1F5EFF]">When to Choose OTS</h4>
+                  <h3 className="text-lg font-bold mb-3 uppercase tracking-tight text-[#1F5EFF]">When to Choose OTS</h3>
                   <p className="text-sm opacity-80 leading-relaxed mb-4">Choose OTS if you have access to a lump sum (such as from family or provident fund) and want to end all legal liability and collection activity within 30 days. This is the fastest route to peace of mind.</p>
                 </div>
                 <div>
@@ -423,11 +423,11 @@ export default function CFPDebtPlanningPage() {
                <p className="text-xl mb-10 opacity-70 max-w-2xl mx-auto">Not all advice is created equal. Use these metrics to evaluate your professional advisor.</p>
                <div className="grid sm:grid-cols-2 gap-6 mb-12 text-left">
                  <div className="p-6 border border-[#DEDEDE] rounded-2xl hover:bg-gray-50 transition-all shadow-sm">
-                   <h5 className="font-bold mb-3 uppercase text-[#1F5EFF] text-sm tracking-widest">Verify Certification</h5>
+                   <h3 className="font-bold mb-3 uppercase text-[#1F5EFF] text-sm tracking-widest">Verify Certification</h3>
                    <p className="text-sm opacity-70 leading-relaxed">Always verify the CFP credentials. A genuine advisor will have a valid registration number that can be tracked on official professional portals.</p>
                  </div>
                  <div className="p-6 border border-[#DEDEDE] rounded-2xl hover:bg-gray-50 transition-all shadow-sm">
-                   <h5 className="font-bold mb-3 uppercase text-[#1F5EFF] text-sm tracking-widest">Fee Transparency</h5>
+                   <h4 className="font-bold mb-3 uppercase text-[#1F5EFF] text-sm tracking-widest">Fee Transparency</h4>
                    <p className="text-sm opacity-70 leading-relaxed">A professional firm will have a clearly defined fee structure. Beware of firms that promise "zero fees" only to take huge percentages later.</p>
                  </div>
                  <div className="p-6 border border-[#DEDEDE] rounded-2xl hover:bg-gray-50 transition-all shadow-sm">
@@ -463,14 +463,14 @@ export default function CFPDebtPlanningPage() {
                  <div className="flex gap-6 items-start">
                    <div className="w-12 h-12 shrink-0 bg-blue-50 rounded-lg flex items-center justify-center font-bold text-xl text-[#1F5EFF]">01</div>
                    <div>
-                     <h5 className="text-lg font-bold uppercase mb-2">Emergency Buffer Strategy</h5>
+                     <h3 className="text-lg font-bold uppercase mb-2">Emergency Buffer Strategy</h3>
                      <p className="text-sm opacity-70 leading-relaxed">We help you set up a liquid fund that can cover 6 months of living expenses. This is your ultimate protection against the next unforeseen crisis.</p>
                    </div>
                  </div>
                  <div className="flex gap-6 items-start">
                    <div className="w-12 h-12 shrink-0 bg-blue-50 rounded-lg flex items-center justify-center font-bold text-xl text-[#1F5EFF]">02</div>
                    <div>
-                     <h5 className="text-lg font-bold uppercase mb-2">Negative Remark Remediation</h5>
+                     <h4 className="text-lg font-bold uppercase mb-2">Negative Remark Remediation</h4>
                      <p className="text-sm opacity-70 leading-relaxed">We provide a step by step guide on how to report settlement closures to the credit bureaus and how to use secured credit cards to raise your score back.</p>
                    </div>
                  </div>
@@ -573,7 +573,7 @@ export default function CFPDebtPlanningPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">The Strategy Desk</h3>
+                  <div className="text-lg font-black text-white">The Strategy Desk</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -588,7 +588,7 @@ export default function CFPDebtPlanningPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement-process-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

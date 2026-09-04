@@ -405,7 +405,7 @@ export default function MissedEMIPage() {
               </h2>
               <div className="space-y-6">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl hover:bg-gray-50 transition-colors">
-                  <h4 className="font-bold text-lg mb-2">1. Right to Notice</h4>
+                  <h3 className="font-bold text-lg mb-2">1. Right to Notice</h3>
                   <p className="text-sm text-gray-600">Banks must send you a reminder notice before reporting you to CIBIL or initiating legal action. For secured loans, a 60-day notice under the SARFAESI Act is mandatory before any asset seizure. You cannot be evicted from your home over a missed EMI overnight.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl hover:bg-gray-50 transition-colors">
@@ -465,7 +465,7 @@ export default function MissedEMIPage() {
                </h2>
                <div className="space-y-6">
                   <div className="p-6 border border-[#DEDEDE] rounded-xl bg-gray-50">
-                    <h4 className="font-bold text-lg mb-2">HDFC Bank</h4>
+                    <h3 className="font-bold text-lg mb-2">HDFC Bank</h3>
                     <p className="text-sm">HDFC Bank is highly automated. Their system flags a default within seconds of a failed NACH mandate. They prefer 'automated reminders' for the first 15 days. If the default crosses 30 days, it moves to their internal collections team. They are generally open to rescheduling for premium customers.</p>
                   </div>
                   <div className="p-6 border border-[#DEDEDE] rounded-xl bg-gray-50">
@@ -485,7 +485,7 @@ export default function MissedEMIPage() {
                </h2>
                <p className="mb-6">The most common legal weapon used by banks is Section 138 of the Negotiable Instruments Act. When your EMI bounces, it is legally framed as a cheque bounce.</p>
                <div className="bg-gray-900 text-white p-8 rounded-2xl mb-8">
-                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">The 138 Checklist</h4>
+                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">The 138 Checklist</h3>
                   <ul className="space-y-4 opacity-80 text-sm">
                     <li>• The bank must send a notice within 30 days of the bounce.</li>
                     <li>• You must be given 15 days to pay from the date of receiving the notice.</li>
@@ -501,7 +501,7 @@ export default function MissedEMIPage() {
                </h2>
                <div className="grid md:grid-cols-2 gap-8">
                   <div className="p-8 border border-red-200 rounded-2xl bg-red-50/50">
-                    <h4 className="font-black text-red-800 mb-4">Secured Default (Home/Car)</h4>
+                    <h3 className="font-black text-red-800 mb-4">Secured Default (Home/Car)</h3>
                     <p className="text-sm">The bank has an asset to sell. They will issue a notice under the SARFAESI Act. You have 60 days to pay or appeal. Secured defaults are hard to settle for low amounts because the bank can just sell the asset.</p>
                   </div>
                   <div className="p-8 border border-blue-200 rounded-2xl bg-blue-50/50">
@@ -517,7 +517,7 @@ export default function MissedEMIPage() {
                </h2>
                <p className="mb-6">Lok Adalat is a people's court meant for compromise. If you receive a summons for Lok Adalat, attend it. Banks are under immense pressure from the government to close cases here.</p>
                <div className="bg-amber-100 p-8 rounded-2xl border border-amber-300 shadow-sm">
-                  <h4 className="font-black text-amber-900 mb-2">Why Attend?</h4>
+                  <h3 className="font-black text-amber-900 mb-2">Why Attend?</h3>
                   <p className="text-sm text-amber-900/80">You can get waivers that are unavailable in any regular bank branch. Negotiators often see 60% of the total outstanding being waived at Lok Adalats because the judge encourages 'fair compromise'.</p>
                </div>
             </section>
@@ -529,7 +529,7 @@ export default function MissedEMIPage() {
                <p className="mb-6">While both are unsecured, the way banks handle them is vastly different. Understanding this can save you lakhs of rupees in interest.</p>
                <div className="grid md:grid-cols-2 gap-8 mb-8">
                   <div className="p-8 border border-gray-200 rounded-2xl bg-gray-50">
-                    <h4 className="font-black text-[#1F5EFF] mb-4">The Credit Card Trap</h4>
+                    <h3 className="font-black text-[#1F5EFF] mb-4">The Credit Card Trap</h3>
                     <p className="text-sm opacity-80 leading-relaxed">Credit cards have the highest interest rates (36% to 48% p.a.). If you miss an EMI on a credit card, the 'interest-free' period on ALL new purchases is cancelled. You start paying interest on everything from the day you spend. Settlement for credit cards is usually easier because the debt is 'uncollectible' in the eyes of the bank faster than a personal loan.</p>
                   </div>
                   <div className="p-8 border border-gray-200 rounded-2xl bg-gray-50">
@@ -547,7 +547,7 @@ export default function MissedEMIPage() {
               <div className="grid sm:grid-cols-3 gap-6 mb-8">
                  <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl text-center hover:shadow-md transition-shadow">
                     <div className="w-12 h-12 bg-green-100 text-green-600 rounded-full flex items-center justify-center mx-auto mb-4 font-bold">1</div>
-                    <h4 className="font-bold mb-2">Emergency Fund</h4>
+                    <h3 className="font-bold mb-2">Emergency Fund</h3>
                     <p className="text-xs">Keep 3 months of EMIs in a separate liquid savings account that you never touch for shopping or travel.</p>
                  </div>
                  <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl text-center hover:shadow-md transition-shadow">
@@ -568,7 +568,7 @@ export default function MissedEMIPage() {
                 RBI Borrower Protection: Know the Law
               </h2>
               <div className="bg-blue-600 text-white p-10 rounded-2xl shadow-xl">
-                 <h4 className="text-2xl font-black mb-6">The RBI Fair Practices Code</h4>
+                 <h3 className="text-2xl font-black mb-6">The RBI Fair Practices Code</h3>
                  <ul className="space-y-4 text-lg">
                    <li>• Agents cannot visit you before 7 AM or after 7 PM.</li>
                    <li>• They MUST carry a valid ID and a copy of the bank's authorization.</li>
@@ -603,12 +603,12 @@ export default function MissedEMIPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E] text-lg">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E] text-lg">{review.name}</h3>
                         <p className="text-xs text-[#747474]">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-lg">{"★".repeat(review.rating)}</div>
                     </div>
-                    <h6 className="font-black text-[#1F5EFF] mb-3 text-xl">{review.title}</h6>
+                    <h4 className="font-black text-[#1F5EFF] mb-3 text-xl">{review.title}</h4>
                     <p className="text-sm text-[var(--color-text-body)] italic leading-relaxed opacity-90">"{review.story}"</p>
                   </div>
                 ))}
@@ -667,7 +667,7 @@ export default function MissedEMIPage() {
                 {/* CTA 1 */}
                 <div className="bg-[#2E2E2E] rounded-[30px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col">
                    <div className="bg-[#1F5EFF] p-8 text-center">
-                     <h3 className="text-2xl font-black text-white">EMI Overdue?</h3>
+                     <div className="text-2xl font-black text-white">EMI Overdue?</div>
                    </div>
                    <div className="p-10 text-center text-[#DEDEDE]">
                     <p className="mb-10 text-base opacity-90 leading-relaxed font-bold">
@@ -682,7 +682,7 @@ export default function MissedEMIPage() {
 
                 {/* Related Pages */}
                 <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-xl">
-                  <h3 className="text-sm font-black uppercase tracking-widest text-[#747474] mb-8 border-b border-[#DEDEDE] pb-4">Knowledge Hub</h3>
+                  <div className="text-sm font-black uppercase tracking-widest text-[#747474] mb-8 border-b border-[#DEDEDE] pb-4">Knowledge Hub</div>
                   <ul className="space-y-6 text-base font-bold">
                      <li>
                       <Link href="/loan-settlement-lawyers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

@@ -626,10 +626,10 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Criminal Defamation (Section 356 BNS 2023 / Section 499 &amp; 500 IPC)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Whoever makes or publishes any imputation concerning another person intending to harm their reputation commits criminal defamation. Disclosing debt status to neighbours, society guards, or landlords to lower a borrower&apos;s social standing carries a penalty of up to two years of imprisonment, a fine, or both.
                   </p>
@@ -789,7 +789,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Evidence Preservation &amp; Landlord Legal Reassurance</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Evidence Preservation &amp; Landlord Legal Reassurance</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Collect all evidence immediately: CCTV recordings from society security, hallway audio/video, visitor logbook entries, and WhatsApp messages. Concurrently, provide your landlord with a formal advocate reassurance letter explaining Privity of Contract, confirming that unsecured loans cannot affect the property, and neutralizing eviction panic.
                   </p>
@@ -1181,7 +1181,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Residential Harassment Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Are Agents Harassing Neighbours or Landlord?</h4>
+              <div className="font-bold text-base text-white mb-2">Are Agents Harassing Neighbours or Landlord?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Protect your tenancy and reputation immediately. Retain seasoned banking litigation advocates to issue criminal defamation notices and negotiate a 45%–65% OTS.
               </p>
@@ -1195,9 +1195,9 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

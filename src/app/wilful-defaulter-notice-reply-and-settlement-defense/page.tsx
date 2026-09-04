@@ -581,7 +581,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 1: Identification Committee Examination &amp; Show Cause Notice</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 1: Identification Committee Examination &amp; Show Cause Notice</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The Identification Committee, chaired by an Executive Director (or equivalent Senior Management official) along with two senior officers, examines the account audit data. If it forms a prima facie opinion of wilful default, it must issue a formal <strong>Show Cause Notice (SCN)</strong> to the borrower, promoters, and guarantors setting out specific allegations, documentary evidence, and forensic audit findings.
                   </p>
@@ -779,7 +779,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Pillar 1: Demanding Primary Inspection Records &amp; Forensic Workpapers</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Pillar 1: Demanding Primary Inspection Records &amp; Forensic Workpapers</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under the <em>Jah Developers</em> precedent, the borrower has an unassailable legal right to inspect all material relied upon by the Identification Committee. In our initial formal reply, we requisition the complete Transaction Audit report, Forensic Audit workpapers, Special Investigation Audit (SIA) findings, and internal committee minutes. If the bank fails to supply these records, any subsequent order is tainted by procedural illegality.
                   </p>
@@ -1174,7 +1174,7 @@ export default function WilfulDefaulterNoticeReplyPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Urgent Regulatory Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Received a Wilful Defaulter Notice?</h4>
+              <div className="font-bold text-base text-white mb-2">Received a Wilful Defaulter Notice?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let the 21-day statutory window lapse. Hire regulatory defense advocates to inspect forensic audit reports, defend at GRC hearings, and negotiate an institutional OTS.
               </p>
@@ -1188,9 +1188,9 @@ export default function WilfulDefaulterNoticeReplyPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Safeguards
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

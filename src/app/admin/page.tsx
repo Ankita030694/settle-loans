@@ -530,7 +530,7 @@ export default function AdminDashboardPage() {
                       <div className="p-2 rounded-xl bg-amber-50 text-amber-600">
                         <Flame className="w-4 h-4" />
                       </div>
-                      <h3 className="text-base font-black text-[#2E2E2E]">Top Visited Slugs</h3>
+                      <h2 className="text-base font-black text-[#2E2E2E]">Top Visited Slugs</h2>
                     </div>
                     <button
                       onClick={() => setActiveTab('traffic')}

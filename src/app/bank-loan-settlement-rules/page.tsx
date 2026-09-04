@@ -266,7 +266,7 @@ export default function BankLoanSettlementRulesPage() {
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Board-Approved Settlement Policies</h4>
+                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Board-Approved Settlement Policies</h3>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Every regulated entity, including nationalized banks, private banks, and NBFCs, must have a board-approved policy for compromise settlements. This means that settlement isn't at the whim of a branch manager; it must follow a predefined logic regarding the haircut (waiver) amount and eligibility criteria.
                                     </p>
@@ -311,7 +311,7 @@ export default function BankLoanSettlementRulesPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Pre-Litigation Settlement</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Pre-Litigation Settlement</h3>
                                     <p className="text-sm">Settling before the bank files an application in the DRT (Debt Recovery Tribunal) or before physical possession is the ideal scenario. It saves the bank legal costs and recovery time, making them more open to a reasonable haircut. This is the stage where the 'Fear of Litigation' works in your favor.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -338,7 +338,7 @@ export default function BankLoanSettlementRulesPage() {
                                 Eligibility is generally a mix of objective criteria (NPA age) and subjective assessment (Hardship proof). Banks look at your 'Capacity to Pay' versus your 'Willingness to Resolve'.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The "Genuine Hardship" Rule</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The "Genuine Hardship" Rule</h3>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     Banks require proof that you are unable to pay the full amount due to reasons beyond your control. This isn't just about saying you are broke; it's about proving it with documentation.
                                 </p>
@@ -360,7 +360,7 @@ export default function BankLoanSettlementRulesPage() {
                                 <div className="flex gap-6">
                                     <div className="flex-shrink-0 w-12 h-12 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold text-xl">1</div>
                                     <div>
-                                        <h4 className="font-bold text-xl mb-2">Internal Assessment and Proposal</h4>
+                                        <h3 className="font-bold text-xl mb-2">Internal Assessment and Proposal</h3>
                                         <p className="text-base leading-relaxed">Calculate exactly how much you can afford as a lump sum. Draft a formal letter to the bank's Nodal Officer or the concerned Asset Recovery Branch explaining your hardship. Include your last 3 years' ITRs, bank statements, and medical/business loss proofs. An incomplete proposal is usually rejected instantly.</p>
                                     </div>
                                 </div>
@@ -468,7 +468,7 @@ export default function BankLoanSettlementRulesPage() {
                                 Negotiating with a bank is not about begging; it's about making them realize that settling is in their best interest. You are presenting them with a 'Sunk Cost' argument.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The "Unrecoverable Asset" Argument</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The "Unrecoverable Asset" Argument</h3>
                                 <p className="text-lg leading-relaxed mb-4">
                                     If you have no property, no steady job, and no significant assets, you are what banks call an 'unrecoverable' case. Use this. Demonstrate your financial inability through bank statements showing a low balance, medical bills, or closure notices of your business. When the bank realizes they will get 0% if they spend 3 years in court, they will happily take 30% today.
                                 </p>
@@ -614,7 +614,7 @@ export default function BankLoanSettlementRulesPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -681,7 +681,7 @@ export default function BankLoanSettlementRulesPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">Settlement Support</h3>
+                                    <div className="text-lg font-black text-white px-2">Settlement Support</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -696,7 +696,7 @@ export default function BankLoanSettlementRulesPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Helpful Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Helpful Resources</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

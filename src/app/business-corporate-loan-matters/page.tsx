@@ -324,7 +324,7 @@ export default function BusinessCorporateLoanPage() {
                             <div className="relative border-l-2 border-dashed border-[#1F5EFF]/30 pl-8 ml-4 space-y-12 mb-12">
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">1</div>
-                                    <h4 className="font-bold text-xl mb-3">Admission & Moratorium</h4>
+                                    <h3 className="font-bold text-xl mb-3">Admission & Moratorium</h3>
                                     <p className="text-gray-600 leading-relaxed">The NCLT admits the petition. All existing lawsuits and recovery actions against the company are stayed. This provides breathing room for the business.</p>
                                 </div>
                                 <div className="relative">
@@ -396,7 +396,7 @@ export default function BusinessCorporateLoanPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
-                                    <h4 className="font-bold text-blue-800 mb-2">Debt-to-Equity Swap</h4>
+                                    <h3 className="font-bold text-blue-800 mb-2">Debt-to-Equity Swap</h3>
                                     <p className="text-sm text-blue-900/80">Converting part of the lender's debt into shares of the company, reducing the monthly interest burden and giving the lender a stake in future success.</p>
                                 </div>
                                 <div className="bg-green-50 p-6 rounded-xl border border-green-100">
@@ -495,7 +495,7 @@ export default function BusinessCorporateLoanPage() {
                                                 {s.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{s.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{s.name}</h3>
                                                 <p className="text-xs text-gray-400">{s.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -565,7 +565,7 @@ export default function BusinessCorporateLoanPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col items-center">
                                 <div className="bg-[#1F5EFF] w-full p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Corporate Helpdesk</h3>
+                                    <div className="text-lg font-black text-white">Corporate Helpdesk</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <div className="w-16 h-16 bg-[#1F5EFF]/10 rounded-full flex items-center justify-center mx-auto mb-4 border border-[#1F5EFF]/20">
@@ -581,7 +581,7 @@ export default function BusinessCorporateLoanPage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Business Assets</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Business Assets</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/best-lawyer-for-msme-business-loan-dispute" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

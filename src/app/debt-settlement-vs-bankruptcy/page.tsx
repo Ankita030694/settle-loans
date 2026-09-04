@@ -325,7 +325,7 @@ export default function DebtSettlementVsBankruptcyPage() {
                 Once the petition is filed, a 'Resolution Professional' (RP) is appointed by the court. The RP takes control of your financial affairs, verifies your assets and liabilities, and creates a plan to pay off the creditors. This might involve selling your property, your car, or other non-essential assets. If your income is below a certain level and you have no assets, you might qualify for the 'Fresh Start Process', where small debts are discharged (erased) completely.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h4 className="font-bold text-blue-900 mb-4">The Power of the Moratorium</h4>
+                <h3 className="font-bold text-blue-900 mb-4">The Power of the Moratorium</h3>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   The most powerful feature of bankruptcy is the 'Automatic Stay' or Moratorium. The moment you file, all lenders are legally bared from calling you, suing you, or attempting to seize your property. This provides immediate, legal peace of mind. However, this peace comes at the cost of your financial autonomy. The court and the RP will now decide how you live and what you can spend until the process is finished.
                 </p>
@@ -486,7 +486,7 @@ export default function DebtSettlementVsBankruptcyPage() {
                 <p className="mb-6 opacity-80">Ask yourself these three questions to find your path:</p>
                 <div className="space-y-6">
                   <div className="border-l-2 border-[#1F5EFF] pl-4">
-                    <h4 className="font-bold mb-2">1. Do you have assets you want to keep?</h4>
+                    <h3 className="font-bold mb-2">1. Do you have assets you want to keep?</h3>
                     <p className="text-sm opacity-70">If Yes, choose **Debt Settlement**. If No, Bankruptcy might be okay.</p>
                   </div>
                   <div className="border-l-2 border-[#1F5EFF] pl-4">
@@ -550,7 +550,7 @@ export default function DebtSettlementVsBankruptcyPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -608,7 +608,7 @@ export default function DebtSettlementVsBankruptcyPage() {
             <div className="sticky top-24 space-y-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Your Second Chance</h3>
+                  <div className="text-lg font-black text-white">Your Second Chance</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -622,7 +622,7 @@ export default function DebtSettlementVsBankruptcyPage() {
               </div>
 
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Further Reading</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Further Reading</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/what-is-personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

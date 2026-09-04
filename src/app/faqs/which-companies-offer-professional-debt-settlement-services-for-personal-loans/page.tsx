@@ -339,12 +339,12 @@ export default function PersonalLoanSettlementPage() {
                             <div className="grid md:grid-cols-2 gap-8 mb-12">
                                 <div className="p-8 rounded-3xl bg-[#f8fafc] border border-slate-200">
                                     <FontAwesomeIcon icon={faShieldHalved} className="text-[#1F5EFF] text-3xl mb-6" />
-                                    <h5 className="font-bold text-lg mb-4">Legal Buffer</h5>
+                                    <h3 className="font-bold text-lg mb-4">Legal Buffer</h3>
                                     <p className="text-slate-600 text-sm leading-relaxed">By issuing a Notice of Representation, an agency legally forces the bank to stop harassment. All calls are routed to the negotiator, giving the borrower peace of mind.</p>
                                 </div>
                                 <div className="p-8 rounded-3xl bg-[#f8fafc] border border-slate-200">
                                     <FontAwesomeIcon icon={faHandshake} className="text-[#1F5EFF] text-3xl mb-6" />
-                                    <h5 className="font-bold text-lg mb-4">Commercial Leverage</h5>
+                                    <h4 className="font-bold text-lg mb-4">Commercial Leverage</h4>
                                     <p className="text-slate-600 text-sm leading-relaxed">Agencies pool multiple cases together when talking to a bank. This volume gives them the kind of leverage that an individual borrower simply cannot match.</p>
                                 </div>
                             </div>
@@ -370,7 +370,7 @@ export default function PersonalLoanSettlementPage() {
                                         </div>
                                         <div>
                                             <div className="flex justify-between items-center mb-1">
-                                                <h4 className="text-xl font-bold text-gray-900">{item.name}</h4>
+                                                <h3 className="text-xl font-bold text-gray-900">{item.name}</h3>
                                                 <span className="text-xs font-bold text-yellow-500 bg-yellow-50 px-2 py-1 rounded-md">⭐ {item.score}</span>
                                             </div>
                                             <p className="text-xs font-bold text-[#1F5EFF] mb-2 uppercase tracking-wide">{item.focus}</p>
@@ -390,11 +390,11 @@ export default function PersonalLoanSettlementPage() {
                             </p>
                             <div className="space-y-8">
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h5 className="font-bold text-gray-900 mb-2">Private Sector (HDFC, ICICI, Axis)</h5>
+                                    <h3 className="font-bold text-gray-900 mb-2">Private Sector (HDFC, ICICI, Axis)</h3>
                                     <p className="text-gray-600 text-sm">These banks are very ROI-focused. They use automated recovery systems. If an agency doesn't engage with their central settlement units, the branch manager has almost no power to waive more than 10-15 percent. Professional agencies bypass the branch and deal with the Zonal Credit Managers.</p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
-                                    <h5 className="font-bold text-gray-900 mb-2">Public Sector (SBI, PNB, BOB)</h5>
+                                    <h4 className="font-bold text-gray-900 mb-2">Public Sector (SBI, PNB, BOB)</h4>
                                     <p className="text-gray-600 text-sm">PSUs are governed by rigid board-approved policies. They usually only settle during 'Settlement Melas' or specialized windows. Negotiation here is about aligning the borrower's hardship with the specific categories listed in the bank's compromise policy.</p>
                                 </div>
                                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-2">
@@ -413,7 +413,7 @@ export default function PersonalLoanSettlementPage() {
                             </p>
                             <div className="p-8 rounded-3xl bg-[#2E2E2E] text-white shadow-2xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF] opacity-10 rounded-full -mr-12 -mt-12 transition-transform group-hover:scale-150"></div>
-                                <h4 className="font-bold text-2xl mb-6 text-[#1F5EFF]">Case Study: The IT Professional</h4>
+                                <h3 className="font-bold text-2xl mb-6 text-[#1F5EFF]">Case Study: The IT Professional</h3>
                                 <p className="text-gray-400 mb-6 italic">
                                     "A Bangalore-based IT lead had ₹24 Lakh in credit card and personal loan debt across 3 banks after a startup failure. Recovery agents were at his door daily. SettleLoans took over, issued the Representation Notices, and within 4 months, settled all accounts for a total of ₹8.4 Lakh. A waiver of over 65%."
                                 </p>
@@ -466,7 +466,7 @@ export default function PersonalLoanSettlementPage() {
                                 ].map((step, idx) => (
                                     <div key={idx} className="p-6 rounded-2xl bg-white border border-gray-100 shadow-sm relative overflow-hidden">
                                         <div className="text-xs font-black text-[#1F5EFF] mb-4 opacity-50">#STEP {idx + 1}</div>
-                                        <h5 className="font-bold text-gray-900 mb-2">{step.t}</h5>
+                                        <h3 className="font-bold text-gray-900 mb-2">{step.t}</h3>
                                         <p className="text-xs text-gray-500 leading-relaxed">{step.d}</p>
                                     </div>
                                 ))}
@@ -553,7 +553,7 @@ export default function PersonalLoanSettlementPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Start Settlement</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Start Settlement</div>
                                 </div>
                                 <div className="p-8 text-center text-pretty">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
@@ -570,13 +570,13 @@ export default function PersonalLoanSettlementPage() {
                                 <div className="flex justify-center mb-4">
                                     <FontAwesomeIcon icon={faCreditCard} className="text-[#1F5EFF] text-4xl" />
                                 </div>
-                                <h4 className="text-xl font-black text-gray-900 mb-2">Unsecured Experts</h4>
+                                <div className="text-xl font-black text-gray-900 mb-2">Unsecured Experts</div>
                                 <p className="text-xs text-gray-500 italic leading-relaxed text-pretty">Specializing in HDFC, ICICI, SBI, and Axis personal loan settlements.</p>
                             </div>
 
                             {/* Related Resources */}
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Resources</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Resources</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/find-debt-settlement-services-known-for-effective-negotiation" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

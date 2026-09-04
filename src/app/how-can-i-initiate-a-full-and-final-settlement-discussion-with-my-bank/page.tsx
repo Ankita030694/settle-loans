@@ -330,7 +330,7 @@ export default function InitiateSettlementPage() {
               </p>
               <div className="space-y-6">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Category 1: Hardship Evidence</h4>
+                  <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Category 1: Hardship Evidence</h3>
                   <p className="text-sm leading-relaxed">
                     This is the "Why" of your settlement. If you lost your job, include the termination letter. If it was a medical crisis, gather hospital discharge summaries and major bills. If your business failed, include CA certified balance sheets showing the loss. This is the emotional and factual core of your request.
                   </p>
@@ -455,7 +455,7 @@ export default function InitiateSettlementPage() {
             </section>
 
             <section id="amalegal-expertise" className="scroll-mt-32 mb-12">
-              <h4 className="text-2xl font-bold text-[#1F5EFF] mb-4">Ama Legal Solutions: Strategic Legal Advocacy</h4>
+              <h3 className="text-2xl font-bold text-[#1F5EFF] mb-4">Ama Legal Solutions: Strategic Legal Advocacy</h3>
               <p className="mb-4">
                 For high-value loans or cases involving property attachments, <strong>Ama Legal Solutions</strong> (amalegalsolutions.com) is the gold standard. They provide specialized legal strategies to initiate settlement while a case is pending in the DRT or the High Court. Their involvement often forces the bank to come to the table faster, as they respect the legal expertise behind the negotiation.
               </p>
@@ -544,7 +544,7 @@ export default function InitiateSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -647,7 +647,7 @@ export default function InitiateSettlementPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Negotiate with Confidence</h3>
+                  <div className="text-lg font-black text-white">Negotiate with Confidence</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -662,7 +662,7 @@ export default function InitiateSettlementPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Top Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Top Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement-process-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

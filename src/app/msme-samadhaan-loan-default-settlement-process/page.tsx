@@ -665,7 +665,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex items-start gap-3">
                   <Wrench className="w-5 h-5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <div className="space-y-1">
-                    <h4 className="font-bold text-xs sm:text-sm text-slate-900">Section 31(j) SARFAESI &amp; Section 60 CPC Protections for Tools of Trade</h4>
+                    <h3 className="font-bold text-xs sm:text-sm text-slate-900">Section 31(j) SARFAESI &amp; Section 60 CPC Protections for Tools of Trade</h3>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       Under Section 31(j) of the SARFAESI Act read with Section 60(1)(b) of the Code of Civil Procedure, 1908, the tools of artisans and necessary instruments of trade essential for earning a livelihood are statutorily exempt from attachment and seizure. For micro and small proprietors, customized machinery necessary for direct production qualifies for judicial protection against summary confiscation.
                     </p>
@@ -742,10 +742,10 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
               </p>
 
               <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-2 my-4">
-                <h4 className="font-bold text-xs sm:text-sm text-slate-900 flex items-center gap-2">
+                <h3 className="font-bold text-xs sm:text-sm text-slate-900 flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Essential Forensic Audit Checkpoints for Stressed MSME Facilities</span>
-                </h4>
+                </h3>
                 <ul className="space-y-1.5 text-xs text-slate-600">
                   <li className="flex items-start gap-2">
                     <span className="text-[#1F5EFF] font-bold">•</span>
@@ -1027,7 +1027,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
                 </Link>
                 <div>
                   <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
-                    <h4 className="font-bold text-slate-900 text-sm">Ashish Jhangra</h4>
+                    <div className="font-bold text-slate-900 text-sm">Ashish Jhangra</div>
                   </Link>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
@@ -1053,7 +1053,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>MSME Emergency Debt Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Facing Bank SARFAESI or Machinery Seizure?</h4>
+              <div className="font-bold text-base text-white mb-2">Facing Bank SARFAESI or Machinery Seizure?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Protect your plant, machinery, and factory operations from auction. Speak directly with senior debt defense advocates to enforce RBI restructuring and negotiate a 40%–60% OTS.
               </p>
@@ -1067,9 +1067,9 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

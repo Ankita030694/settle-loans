@@ -295,7 +295,7 @@ export default function TaxImplicationsPage() {
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
                                     <FontAwesomeIcon icon={faCalculator} className="text-blue-600 mb-4 w-6 h-6" />
-                                    <h4 className="font-bold text-lg mb-2 text-blue-900">Personal Usage</h4>
+                                    <h3 className="font-bold text-lg mb-2 text-blue-900">Personal Usage</h3>
                                     <p className="text-blue-800 text-sm italic font-sans">Used for medical, wedding, education, or home renovation. Generally treats waiver as a non-taxable capital remission.</p>
                                 </div>
                                 <div className="bg-amber-50 p-6 rounded-xl border border-amber-100">
@@ -314,10 +314,10 @@ export default function TaxImplicationsPage() {
                                 Section 28(iv) targets "The value of any benefit or perquisite, whether convertible into money or not, arising from business or the exercise of a profession." For decades, there was a loophole: if the benefit was in cash (like a loan waiver), it wasn't taxable under this section because the section used the phrase "whether convertible into money or not," which courts interpreted to exclude actual money.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-200 mb-8">
-                                <h4 className="font-bold text-xl mb-4 flex items-center text-red-900">
+                                <h3 className="font-bold text-xl mb-4 flex items-center text-red-900">
                                     <FontAwesomeIcon icon={faGavel} className="text-red-600 mr-3 w-5 h-5" />
                                     Supreme Court Clarity: Chevron vs. Commissioner
-                                </h4>
+                                </h3>
                                 <p className="text-sm text-red-800 leading-relaxed mb-4 font-sans">
                                     In the landmark case of <strong>Commissioner of Income Tax vs. Mahindra and Mahindra Ltd</strong>, the Supreme Court initially ruled that a waiver was not taxable as income. However, subsequent amendments to the law have significantly narrowed this protection for active business entities.
                                 </p>
@@ -566,7 +566,7 @@ export default function TaxImplicationsPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group text-[#DEDEDE]">
                                 <div className="bg-[#1F5EFF] p-5 text-center">
-                                    <h3 className="text-base font-black text-white uppercase tracking-widest">Compliance Desk</h3>
+                                    <div className="text-base font-black text-white uppercase tracking-widest">Compliance Desk</div>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">
                                     <p className="mb-8 text-sm opacity-80 leading-relaxed font-normal">
@@ -580,7 +580,7 @@ export default function TaxImplicationsPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-7 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-xs font-black uppercase tracking-widest text-[var(--color-text-muted)] mb-6 border-b border-gray-100 pb-3">Authority Guides</h3>
+                                <div className="text-xs font-black uppercase tracking-widest text-[var(--color-text-muted)] mb-6 border-b border-gray-100 pb-3">Authority Guides</div>
                                 <ul className="space-y-5 text-xs font-bold font-sans">
                                     <li>
                                         <Link href="/faqs/benefits-and-drawbacks-of-loan-settlement" className="group flex items-start text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-all">

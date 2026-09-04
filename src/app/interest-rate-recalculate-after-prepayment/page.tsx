@@ -241,9 +241,9 @@ export default function InterestRateRecalculatePage() {
               
               {/* Quick Actions Widget */}
               <div className="bg-[#f8faff] rounded-2xl p-6 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-[#1F5EFF] mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-[#1F5EFF] mb-4">
                   Quick Actions
-                </h4>
+                </div>
                 <div className="space-y-4">
                   <Link href="/loan-settlement-amount-calculator" className="flex items-center gap-3 text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
                     <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
@@ -265,7 +265,7 @@ export default function InterestRateRecalculatePage() {
                 <div className="w-14 h-14 bg-[#1F5EFF] rounded-full flex items-center justify-center mx-auto mb-4 group-hover:scale-110 transition-transform">
                   <svg className="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path></svg>
                 </div>
-                <h4 className="text-lg font-black mb-2">Secure Your Rights</h4>
+                <div className="text-lg font-black mb-2">Secure Your Rights</div>
                 <p className="text-sm text-gray-300 mb-6">Are banks ignoring your prepayment? Get legal protection.</p>
                 <Link href="/contact" className="inline-block border border-[#1F5EFF] text-[#1F5EFF] hover:bg-[#1F5EFF] hover:text-white px-6 py-2 rounded-full text-sm font-bold transition-all w-full">
                   Get Help Now
@@ -300,7 +300,7 @@ export default function InterestRateRecalculatePage() {
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Immediate Effect on Principal</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Immediate Effect on Principal</h3>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   When you make a part payment, the entire amount goes directly toward reducing your outstanding principal amount. It does not go toward future interest.
                 </p>
@@ -331,7 +331,7 @@ export default function InterestRateRecalculatePage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">The Mathematical Formula</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">The Mathematical Formula</h3>
                   <p className="text-gray-700 leading-relaxed">
                     EMI = [P x R x (1+R)^N] / [(1+R)^N - 1]<br/><br/>
                     <strong>P</strong> = New Outstanding Principal<br/>
@@ -388,7 +388,7 @@ export default function InterestRateRecalculatePage() {
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-bold text-gray-800 mb-4">How Prepayment Boosts Your Score</h4>
+                <h3 className="text-xl font-bold text-gray-800 mb-4">How Prepayment Boosts Your Score</h3>
                 <p className="text-gray-800 text-lg leading-relaxed mb-4">
                   When you make a part payment, your total outstanding debt decreases. This improves your Credit Utilization Ratio (CUR) and your overall debt-to-income ratio, signaling to future lenders that you are financially responsible and capable of clearing debts ahead of schedule.
                 </p>
@@ -408,7 +408,7 @@ export default function InterestRateRecalculatePage() {
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Prepayment Penalties</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Prepayment Penalties</h3>
                   <p className="text-gray-700 leading-relaxed">
                     While the RBI has strictly banned prepayment penalties on floating-rate home loans for individuals, banks may still charge a 1% to 3% fee on fixed-rate loans, personal loans, or loans taken under a business entity.
                   </p>
@@ -430,7 +430,7 @@ export default function InterestRateRecalculatePage() {
                 You are not at the mercy of the bank's whims. The Reserve Bank of India (RBI) has established clear consumer protection guidelines regarding loan prepayments and interest recalculations.
               </p>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Mandatory Compliance</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Mandatory Compliance</h3>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -463,7 +463,7 @@ export default function InterestRateRecalculatePage() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Warning: Watch Your Statement</h4>
+                <h3 className="text-xl font-black text-red-700 mb-3">Warning: Watch Your Statement</h3>
                 <p className="text-red-900 leading-relaxed">
                   Never assume the bank has correctly applied the <strong>loan recalculation formula</strong>. You must check your loan statement the following month. If the principal has not dropped by the exact amount you paid, you are being illegally overcharged.
                 </p>
@@ -481,7 +481,7 @@ export default function InterestRateRecalculatePage() {
                       VS
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Vikram S.</h4>
+                      <h3 className="font-bold text-gray-900">Vikram S.</h3>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -534,7 +534,7 @@ export default function InterestRateRecalculatePage() {
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
+                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -565,7 +565,7 @@ export default function InterestRateRecalculatePage() {
             <div className="sticky top-24 space-y-6">
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                <h4 className="text-xl font-black mb-4 relative z-10">Prepayment Ignored?</h4>
+                <div className="text-xl font-black mb-4 relative z-10">Prepayment Ignored?</div>
                 <p className="text-sm opacity-90 mb-6 relative z-10">
                   Force the bank to apply the correct recalculation formula and refund excess interest.
                 </p>
@@ -575,9 +575,9 @@ export default function InterestRateRecalculatePage() {
               </div>
 
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Financial Resources
-                </h4>
+                </div>
                 <ul className="space-y-3">
                   <li>
                     <Link href="/prepaying-loan-impact-on-credit-score" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">

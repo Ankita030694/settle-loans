@@ -270,7 +270,7 @@ export default function PunishmentPage() {
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">The Financial Spiral</h4>
+                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">The Financial Spiral</h3>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Lenders will charge late payment fees and penal interest. This penal interest is often calculated on the entire outstanding amount, not just the missed EMI. Over 6 months, a default of 1 Lakh can easily grow into 1.5 Lakhs due to these aggressive compounding charges.
                                     </p>
@@ -297,7 +297,7 @@ export default function PunishmentPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">The Legal Notice</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">The Legal Notice</h3>
                                     <p className="text-sm">The bank must send you a formal notice within 30 days of the bounce. You then have 15 days to pay the amount. If you don't, the bank can file a case in a criminal court. It is vital to reply to this notice with a strong legal defense.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -324,7 +324,7 @@ export default function PunishmentPage() {
                                 For a charge of cheating to stick, the bank must prove that you had a "fraudulent intention" at the very moment you took the loan. If you provided genuine salary slips, a real address, and paid even a few EMIs, the bank cannot claim you cheated them. Your subsequent inability to pay is a change in circumstances, not a criminal intent.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-xl border border-yellow-200 my-8">
-                                <h4 className="font-bold text-yellow-900 mb-4 text-xl">The "Forgery" Exception</h4>
+                                <h3 className="font-bold text-yellow-900 mb-4 text-xl">The "Forgery" Exception</h3>
                                 <p className="text-base text-yellow-800 leading-relaxed mb-4">
                                     The only time an IPC 420 or 467 (forgery) case becomes dangerous is if you submitted fake documents (forged bank statements, fake salary slips) to get the loan. If that is the case, you need immediate legal counsel to mitigate the damage.
                                 </p>
@@ -380,7 +380,7 @@ export default function PunishmentPage() {
                                 For large personal loans, banks might file a Summary Suit under Order 37 of the Code of Civil Procedure (CPC). This is a faster civil process designed for debt recovery.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The Summary Suit Process</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The Summary Suit Process</h3>
                                 <p className="text-lg leading-relaxed mb-4">
                                     Unlike a normal civil case that takes 10 years, a summary suit can be decided in 1 to 2 years. Here is how it works:
                                 </p>
@@ -423,7 +423,7 @@ export default function PunishmentPage() {
                                 Banks have a provision for this. They know that some people will inevitably face hard times. Instead of fighting a legal case for 5 years and getting nothing, they would rather take 40% or 50% of the principal amount today and close the file. This is a win-win situation. You get rid of the debt forever, and the bank recovers at least some of their money.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">How Settlement Works for You</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">How Settlement Works for You</h3>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     A settlement stops all legal proceedings. It stops all recovery calls. It stops the penal interest from growing. Most importantly, it gives you back your mental peace.
                                 </p>
@@ -472,7 +472,7 @@ export default function PunishmentPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -521,7 +521,7 @@ export default function PunishmentPage() {
                             <p className="text-lg mb-6">If you are looking for more specific information on managing your debt and protecting your rights, we recommend exploring the following guides from our library:</p>
                             <div className="grid md:grid-cols-2 gap-6">
                                 <Link href="/loan-settlement-for-salaried-people" className="p-6 border border-[#DEDEDE] rounded-xl hover:bg-[#1F5EFF]/5 transition-colors group">
-                                    <h4 className="font-bold text-[#2E2E2E] group-hover:text-[#1F5EFF]">Debt Relief for Salaried Employees</h4>
+                                    <h3 className="font-bold text-[#2E2E2E] group-hover:text-[#1F5EFF]">Debt Relief for Salaried Employees</h3>
                                     <p className="text-sm opacity-70">Specific strategies for professionals facing job loss or pay cuts.</p>
                                 </Link>
                                 <Link href="/loan-settlement-for-msme-owners" className="p-6 border border-[#DEDEDE] rounded-xl hover:bg-[#1F5EFF]/5 transition-colors group">
@@ -558,7 +558,7 @@ export default function PunishmentPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">Debt Relief Support</h3>
+                                    <div className="text-lg font-black text-white px-2">Debt Relief Support</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -573,7 +573,7 @@ export default function PunishmentPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Legal Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Legal Resources</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/is-loan-settlement-in-installments-possible" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

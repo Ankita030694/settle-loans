@@ -265,7 +265,7 @@ export default function LoanSettlementEligibilityPage() {
               </p>
               <div className="grid md:grid-cols-3 gap-6 mb-8">
                 <div className="p-6 bg-blue-50 rounded-xl border border-blue-100">
-                  <h4 className="font-bold mb-2">Intent to Pay</h4>
+                  <h3 className="font-bold mb-2">Intent to Pay</h3>
                   <p className="text-sm text-gray-600">You must show that you are not trying to cheat the system but are genuinely unable to meet the original terms.</p>
                 </div>
                 <div className="p-6 bg-blue-50 rounded-xl border border-blue-100">
@@ -288,7 +288,7 @@ export default function LoanSettlementEligibilityPage() {
                 <li className="p-6 bg-white border border-[#DEDEDE] rounded-xl flex items-start gap-4">
                   <div className="w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center shrink-0">💼</div>
                   <div>
-                    <h4 className="font-bold mb-1">Sudden Job Loss or Salary Reduction</h4>
+                    <h3 className="font-bold mb-1">Sudden Job Loss or Salary Reduction</h3>
                     <p className="text-sm text-gray-500 leading-relaxed">If your employer has shut down or if you have been laid off, you are highly eligible. You must provide a resignation letter or a bank statement showing no salary credits for at least 3 months.</p>
                   </div>
                 </li>
@@ -315,7 +315,7 @@ export default function LoanSettlementEligibilityPage() {
                 You cannot walk into a bank after missing one EMI and ask for a 50% waiver. The bank's internal policy usually forbids settlement discussions until the loan is classified as a Non-Performing Asset (NPA). 
               </p>
               <div className="p-8 bg-black text-[#DEDEDE] rounded-2xl mb-8 border-l-8 border-[#1F5EFF]">
-                <h4 className="text-xl font-bold mb-4 text-white">The NPA Lifecycle:</h4>
+                <h3 className="text-xl font-bold mb-4 text-white">The NPA Lifecycle:</h3>
                 <p className="mb-4">1 to 30 Days: Standard (Late fees applied)</p>
                 <p className="mb-4">31 to 60 Days: SMA-1 (Aggressive follow ups)</p>
                 <p className="mb-4">61 to 90 Days: SMA-2 (Legal threat phase)</p>
@@ -333,7 +333,7 @@ export default function LoanSettlementEligibilityPage() {
               </p>
               <div className="grid sm:grid-cols-2 gap-8 mb-8">
                 <div className="p-6 bg-green-50 rounded-xl border border-green-100">
-                  <h4 className="font-bold text-green-800 mb-2">High Eligibility</h4>
+                  <h3 className="font-bold text-green-800 mb-2">High Eligibility</h3>
                   <ul className="text-sm text-green-700 space-y-2">
                     <li>• Personal Loans</li>
                     <li>• Credit Card Outstanding</li>
@@ -392,7 +392,7 @@ export default function LoanSettlementEligibilityPage() {
                 With the rise of apps like Kissht, KreditBee, or Navi, many young Indians are finding themselves in debt traps. The good news is that these platforms are often data-driven and are very willing to settle small ticket loans to avoid the high cost of manual recovery.
               </p>
               <div className="bg-blue-50 p-6 rounded-xl border border-blue-200 mb-8">
-                <h4 className="font-bold mb-4">Fintech Settlement Signals:</h4>
+                <h3 className="font-bold mb-4">Fintech Settlement Signals:</h3>
                 <p className="text-sm">If you receive SMS offers from these apps with titles like "Heavy Discount Offer" or "Last Chance to Settle," it means you are ALREADY eligible in their systems. This is the best time to negotiate a flat closure without paying penalties.</p>
               </div>
             </section>
@@ -526,7 +526,7 @@ export default function LoanSettlementEligibilityPage() {
             <div className="sticky top-24 space-y-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Get Evaluated</h3>
+                  <div className="text-lg font-black text-white">Get Evaluated</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">Don't guess your eligibility. Our auditors know the bank's secret rules.</p>
@@ -536,7 +536,7 @@ export default function LoanSettlementEligibilityPage() {
               </div>
 
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li><Link href="/loan-settlement-process-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>The Settlement Roadmap</Link></li>
                   <li><Link href="/will-banks-blacklist-you-after-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>The Blacklist Myth</Link></li>

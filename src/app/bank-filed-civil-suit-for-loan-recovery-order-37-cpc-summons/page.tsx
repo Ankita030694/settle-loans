@@ -280,7 +280,7 @@ export default function Order37SummonsPage() {
                 Order 37 of the CPC provides for a summary procedure in suits based on negotiable instruments (like cheques) or where the plaintiff (the bank) seeks to recover a debt or liquidated demand in money arising out of a written contract. 
               </p>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key Difference from Regular Suits</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key Difference from Regular Suits</h3>
                 <p className="text-lg leading-relaxed mb-6 text-blue-900">
                   In a normal civil suit, the defendant (you) has the absolute right to present a defense, file a written statement, and contest the claims. In a <strong>summary suit for loan recovery</strong> under Order 37, you <em>do not have the right to defend yourself</em> unless you specifically ask for the court's permission, known as seeking "Leave to Defend."
                 </p>
@@ -294,7 +294,7 @@ export default function Order37SummonsPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">Speed of Judgment</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">Speed of Judgment</h3>
                   <p className="text-gray-700">The entire legal process is fast-tracked. If the borrower misses the 10-day deadline, the bank gets a decree immediately without a trial.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -321,7 +321,7 @@ export default function Order37SummonsPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-2">Filing the Appearance (Within 10 Days)</h4>
+                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-2">Filing the Appearance (Within 10 Days)</h3>
                     <p className="text-lg leading-relaxed text-gray-700">The moment you receive the summons in Form No. 4, Appendix B, you have exactly 10 days to enter an appearance in court. This simply means your lawyer informs the court, "Yes, we have received the notice, and we are present."</p>
                   </div>
                 </div>
@@ -359,7 +359,7 @@ export default function Order37SummonsPage() {
             <section id="consequences" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What Happens if You Ignore the Summons?</h2>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">The Danger of Default</h4>
+                <h3 className="text-xl font-black text-red-700 mb-4">The Danger of Default</h3>
                 <p className="text-lg leading-relaxed text-red-900">
                   Ignoring an Order 37 summons is catastrophic. If you do not enter an appearance within 10 days, the law presumes you have admitted to all the allegations in the bank's lawsuit. The judge will immediately pass a decree against you for the total amount claimed, plus interest and legal costs. Following this, the bank will initiate execution proceedings to freeze your bank accounts and attach your property.
                 </p>
@@ -376,7 +376,7 @@ export default function Order37SummonsPage() {
                       R
                     </div>
                     <div className="ml-4">
-                      <h4 className="font-bold text-[#2E2E2E]">Rahul M.</h4>
+                      <h3 className="font-bold text-[#2E2E2E]">Rahul M.</h3>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -475,7 +475,7 @@ export default function Order37SummonsPage() {
               
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-500"></div>
-                <h3 className="text-2xl font-black mb-4 relative z-10">Don't Miss the Deadline</h3>
+                <div className="text-2xl font-black mb-4 relative z-10">Don't Miss the Deadline</div>
                 <p className="mb-6 text-gray-300 relative z-10 text-sm">
                   Missing the 10-day window means losing your case automatically. Get expert legal intervention today.
                 </p>
@@ -485,7 +485,7 @@ export default function Order37SummonsPage() {
               </div>
 
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Legal Resources</h3>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Legal Resources</div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/sarfaesi-act-notice" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">

@@ -612,10 +612,10 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Cyber Stalking (Section 354D IPC / Section 78 BNS 2023)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Any individual who monitors the internet usage, professional profiles, or electronic communications of a person, or contacts acquaintances to foster unwanted contact, commits the offense of stalking. Under Section 78 BNS, conviction carries up to three years imprisonment on first offense and up to five years on repeat offenses.
                   </p>
@@ -763,7 +763,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 1: Forensic Documentation &amp; Third-Party Evidence Collection</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Step 1: Forensic Documentation &amp; Third-Party Evidence Collection</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Request your former manager, HR desk, or academic professor to provide detailed records of the communication, including caller telephone numbers, caller identities, timestamps, call recordings, email headers, or WhatsApp screenshots. Compile these into a verified evidence dossier.
                   </p>
@@ -1161,7 +1161,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
                 <PhoneCall className="w-4 h-4" />
                 <span>Data Privacy Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Recovery Agents Stalking Your Ex-Boss or College?</h4>
+              <div className="font-bold text-base text-white mb-2">Recovery Agents Stalking Your Ex-Boss or College?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Protect your career and network immediately. Retain seasoned banking litigation advocates to serve a DPDP Act notice and negotiate a 45%–65% OTS.
               </p>
@@ -1175,9 +1175,9 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

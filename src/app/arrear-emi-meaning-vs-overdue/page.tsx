@@ -211,7 +211,7 @@ export default function ArrearEmiPage() {
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">The Formula of Debt Accumulation</h4>
+                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">The Formula of Debt Accumulation</h3>
                 <p className="text-gray-700 text-lg leading-relaxed mb-4">
                   When you fall into arrears, you aren't just liable for the EMI amount. The total arrear balance consists of:
                 </p>
@@ -239,7 +239,7 @@ export default function ArrearEmiPage() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Impact on Your Financial Profile</h2>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">How Arrears Destroy Your CIBIL Score</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">How Arrears Destroy Your CIBIL Score</h3>
                 <p className="text-gray-800 text-lg leading-relaxed mb-4">
                   The most immediate and devastating consequence of allowing EMIs to fall into arrears is the damage to your credit profile. Credit bureaus like CIBIL, Experian, and Equifax are notified by your bank within 30 days of a missed payment.
                 </p>
@@ -264,7 +264,7 @@ export default function ArrearEmiPage() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Implications of Unpaid Arrears</h2>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">Can You Go to Jail for Arrear EMIs?</h4>
+                <h3 className="text-xl font-black text-red-700 mb-4">Can You Go to Jail for Arrear EMIs?</h3>
                 <p className="text-red-900 text-lg leading-relaxed mb-4">
                   A common fear among borrowers is facing criminal charges for loan default. It is crucial to understand that under Indian law, <strong>defaulting on a standard personal loan or credit card is considered a civil dispute, not a criminal offense.</strong> You cannot be sent to jail simply for being unable to pay your arrears due to genuine financial hardship.
                 </p>
@@ -411,7 +411,7 @@ export default function ArrearEmiPage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                 <div className="relative z-10">
-                  <h3 className="text-2xl font-black mb-4">Stop Harassment</h3>
+                  <div className="text-2xl font-black mb-4">Stop Harassment</div>
                   <p className="text-sm text-gray-300 mb-6">Are agents calling your family because of arrear EMIs? Learn your legal rights immediately.</p>
                   <button className="w-full bg-[#1F5EFF] hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors">
                     Get Help Now
@@ -420,9 +420,9 @@ export default function ArrearEmiPage() {
               </div>
 
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Legal Resources
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/rbi-rules-for-recovery-agents" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm">

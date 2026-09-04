@@ -302,9 +302,9 @@ export default function ParentsLegalLiabilityPage() {
                 </p>
 
                 <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4">
+                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4">
                     The Harsh Legal Truth of Co-Borrowing
-                  </h4>
+                  </h3>
                   <ul className="space-y-4">
                     <li className="flex items-start gap-3">
                       <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -360,7 +360,7 @@ export default function ParentsLegalLiabilityPage() {
 
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">For the Student</h4>
+                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">For the Student</h3>
                     <p className="text-gray-700">The default ruins their credit score right at the beginning of their financial journey, making it difficult to get credit cards, auto loans, or even clear background checks for certain finance-sector jobs.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -383,7 +383,7 @@ export default function ParentsLegalLiabilityPage() {
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                     <div>
-                      <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Prove Financial Hardship</h4>
+                      <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Prove Financial Hardship</h3>
                       <p className="text-gray-700">You must formally demonstrate that the student has no income and the parents are financially distressed or nearing retirement. Bank statements and unemployment proofs are critical.</p>
                     </div>
                   </div>
@@ -419,7 +419,7 @@ export default function ParentsLegalLiabilityPage() {
                           R
                         </div>
                         <div>
-                          <h4 className="font-bold text-[#2E2E2E]">Rajesh S.</h4>
+                          <h3 className="font-bold text-[#2E2E2E]">Rajesh S.</h3>
                           <div className="flex gap-1">
                             {[...Array(5)].map((_, i) => (
                               <svg key={i} className="w-4 h-4 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -469,7 +469,7 @@ export default function ParentsLegalLiabilityPage() {
                 <div className="space-y-4">
                   
                   <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="text-lg font-bold text-[#2E2E2E] mb-2">Are parents legally liable if a child defaults on an education loan in India?</h4>
+                    <h3 className="text-lg font-bold text-[#2E2E2E] mb-2">Are parents legally liable if a child defaults on an education loan in India?</h3>
                     <p className="text-gray-700">Yes. In almost all education loans exceeding ₹4 Lakhs, parents are required to be co-borrowers or guarantors, meaning they share equal legal responsibility to repay.</p>
                   </div>
 
@@ -550,7 +550,7 @@ export default function ParentsLegalLiabilityPage() {
                 {/* Dark CTA Card */}
                 <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                  <h4 className="text-2xl font-black mb-4 relative z-10">Protect Your Family</h4>
+                  <div className="text-2xl font-black mb-4 relative z-10">Protect Your Family</div>
                   <p className="text-gray-300 text-sm mb-6 relative z-10">
                     Don't let aggressive recovery agents ruin your parents' peace of mind. We handle the bank for you.
                   </p>
@@ -561,9 +561,9 @@ export default function ParentsLegalLiabilityPage() {
 
                 {/* White Resources Card */}
                 <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                  <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                  <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                     Related Legal Guides
-                  </h4>
+                  </div>
                   <ul className="space-y-4">
                     <li>
                       <Link href="/harassment-by-recovery-agents-rights" className="group flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors text-sm font-medium">

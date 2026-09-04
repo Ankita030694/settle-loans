@@ -261,7 +261,7 @@ export default function LegalNoticeForLoanRecoveryPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter italic text-center">The 60-Day Clock</h4>
+                                    <h3 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter italic text-center">The 60-Day Clock</h3>
                                     <p className="text-sm italic font-bold">You have exactly 60 days from the date of receipt to 'Discharge your Liabilities' or file a formal objection. The bank is legally mandated to reply to your objection within 15 days.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
@@ -284,14 +284,14 @@ export default function LegalNoticeForLoanRecoveryPage() {
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">15</span>
                                     <div>
-                                        <h5 className="font-bold text-xl mb-2 italic">The 15-Day Payment Window</h5>
+                                        <h3 className="font-bold text-xl mb-2 italic">The 15-Day Payment Window</h3>
                                         <p className="opacity-70 text-sm font-medium">After receiving the notice, you have 15 days to pay the cheque amount. If you pay within this window, no criminal case can be filed against you. The clock starts the day YOU receive the notice, not when it was sent.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">DEF</span>
                                     <div>
-                                        <h5 className="font-bold text-xl mb-2 italic">Common Defenses</h5>
+                                        <h4 className="font-bold text-xl mb-2 italic">Common Defenses</h4>
                                         <p className="opacity-70 text-sm font-medium">Was the cheque for 'Security' or for a 'Legally Enforceable Debt'? Was the notice sent within 30 days of the bounce? If any of these conditions are not met, the criminal case is liable to be dismissed.</p>
                                     </div>
                                 </div>
@@ -397,11 +397,11 @@ export default function LegalNoticeForLoanRecoveryPage() {
                             <div className="p-8 bg-[#2E2E2E] rounded-[40px] text-white shadow-2xl">
                                 <div className="grid md:grid-cols-2 gap-8">
                                     <div>
-                                        <h5 className="font-black text-[#1F5EFF] mb-2 uppercase italic tracking-widest">Wrong Address Service</h5>
+                                        <h3 className="font-black text-[#1F5EFF] mb-2 uppercase italic tracking-widest">Wrong Address Service</h3>
                                         <p className="text-xs opacity-70 italic font-medium leading-relaxed">If the bank sent the notice to an old address despite you providing the new one, 'Good Service' was not achieved. This can collapse their entire court case in the first hearing.</p>
                                     </div>
                                     <div>
-                                        <h5 className="font-black text-[#1F5EFF] mb-2 uppercase italic tracking-widest">Reserve Price Undervaluation</h5>
+                                        <h4 className="font-black text-[#1F5EFF] mb-2 uppercase italic tracking-widest">Reserve Price Undervaluation</h4>
                                         <p className="text-xs opacity-70 italic font-medium leading-relaxed">In SARFAESI auctions, banks often set a 'Reserve Price' 30% below market value to ensure a quick sale. This is illegal. A lawyer can challenge the valuation report to stop the auction.</p>
                                     </div>
                                 </div>
@@ -422,11 +422,11 @@ export default function LegalNoticeForLoanRecoveryPage() {
                             <p className="text-lg leading-relaxed mb-10 italics text-center font-bold text-gray-400">If you are a guarantor, the bank will target you with the same intensity as the borrower.</p>
                             <div className="grid md:grid-cols-2 gap-8 not-prose">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-blue-200 transition-colors">
-                                    <h5 className="font-black mb-3 text-[#2E2E2E] uppercase tracking-tighter italic">Discharge by Variance</h5>
+                                    <h3 className="font-black mb-3 text-[#2E2E2E] uppercase tracking-tighter italic">Discharge by Variance</h3>
                                     <p className="text-sm opacity-70 font-bold italic">If the bank and borrower changed the loan terms even by 1% without the guarantor's WRITTEN consent, the guarantor is legally discharged from all liability under Section 133 of the Indian Contract Act.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-blue-200 transition-colors">
-                                    <h5 className="font-black mb-3 text-[#2E2E2E] uppercase tracking-tighter italic">First Charge Exhaustion</h5>
+                                    <h4 className="font-black mb-3 text-[#2E2E2E] uppercase tracking-tighter italic">First Charge Exhaustion</h4>
                                     <p className="text-sm opacity-70 font-bold italic">A bank should ideally exhaust the primary borrower's assets before liquidating the guarantor's property. A skilled lawyer can use this 'Priority of Recovery' to protect the guarantor's household.</p>
                                 </div>
                             </div>
@@ -469,7 +469,7 @@ export default function LegalNoticeForLoanRecoveryPage() {
                                     { q: "If I move to another state, is the notice still valid?", a: "Yes. In the digital era, 'Substituted Service' (newspaper ads or email) ensures the law reaches you. Transferring residence doesn't extinguish the debt or the legal process." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg text-justify">
-                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10 uppercase tracking-tighter italic">{faq.q}</h4>
+                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10 uppercase tracking-tighter italic">{faq.q}</h3>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -494,7 +494,7 @@ export default function LegalNoticeForLoanRecoveryPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white italic">Notice Audit Service</h3>
+                                    <div className="text-lg font-black text-white italic">Notice Audit Service</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold italic">
@@ -507,7 +507,7 @@ export default function LegalNoticeForLoanRecoveryPage() {
                             </div>
 
                             <div className="bg-white border border-[#DEDEDE] rounded-2xl p-6 shadow-sm">
-                                <h4 className="font-black text-[#2E2E2E] mb-4 uppercase text-[10px] tracking-widest border-b pb-2">Defense Library</h4>
+                                <div className="font-black text-[#2E2E2E] mb-4 uppercase text-[10px] tracking-widest border-b pb-2">Defense Library</div>
                                 <div className="space-y-4">
                                     <Link href="/legal-help-for-loan-settlement" className="block text-sm font-bold text-[#4A4A4A] hover:text-[#1F5EFF] transition-colors leading-tight italic">
                                         Strategic Settlement Help

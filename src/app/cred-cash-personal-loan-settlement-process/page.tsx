@@ -1217,14 +1217,14 @@ export default function CredCashPersonalLoanSettlementPage() {
                   </div>
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -1257,9 +1257,9 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Fintech Dispute Resolution</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Facing CRED Cash Loan Default?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Halt third-party recovery tele-calling and recurring e-NACH bounce penalties immediately. Let our senior banking advocates audit your loan ledger, defend against statutory legal notices, draft your formal OTS hardship petition, and secure an authentic stamped settlement letter directly from the underwriting partner bank.
               </p>
@@ -1273,10 +1273,10 @@ export default function CredCashPersonalLoanSettlementPage() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

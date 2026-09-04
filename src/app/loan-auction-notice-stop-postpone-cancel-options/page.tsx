@@ -291,7 +291,7 @@ export default function Page() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Immediate Steps to Stop Bank Auction</h2>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Critical Defense Strategies</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Critical Defense Strategies</h3>
                 <p className="text-lg leading-relaxed mb-6 text-blue-900">
                   If the auction date is approaching within weeks or days, you need to execute rapid, legally sound strategies to halt the process.
                 </p>
@@ -349,7 +349,7 @@ export default function Page() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Notice 13(2) Errors</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Notice 13(2) Errors</h3>
                   <p className="text-gray-700">If the initial 60-day demand notice had calculation errors or was not properly served to all co-borrowers and guarantors, the entire SARFAESI action can be quashed.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -371,7 +371,7 @@ export default function Page() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Negotiating an OTS (One Time Settlement)</h2>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">Warning: Do Not Rely on Verbal Promises</h4>
+                <h3 className="text-xl font-black text-red-700 mb-4">Warning: Do Not Rely on Verbal Promises</h3>
                 <p className="text-lg leading-relaxed text-red-900 mb-0">
                   Many bank managers will verbally assure you that the auction is cancelled because you are discussing an OTS. Do not believe this. Unless you have a written letter from the bank explicitly stating the auction is deferred, the bank's recovery agents will proceed with the sale.
                 </p>
@@ -394,7 +394,7 @@ export default function Page() {
                 However, there are rare and specific exceptions where filing a writ petition might effectively delay property auction legal steps. If the actions of the bank are entirely without jurisdiction, or if there is a blatant violation of fundamental rights and principles of natural justice (for example, proceeding with an auction without serving any notice whatsoever), the High Court may intervene. Additionally, if the local DRT is non-functional or lacks a presiding officer, making it impossible to seek an urgent stay, the High Court can step in to provide immediate relief. 
               </p>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">When to Consider the High Court</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">When to Consider the High Court</h3>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -470,7 +470,7 @@ export default function Page() {
                       RV
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E]">Rajat V.</h4>
+                      <h3 className="font-bold text-[#2E2E2E]">Rajat V.</h3>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -648,7 +648,7 @@ export default function Page() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-500"></div>
                 <div className="relative z-10">
-                  <h4 className="text-2xl font-black mb-4 leading-tight">Stop Your Property Auction</h4>
+                  <div className="text-2xl font-black mb-4 leading-tight">Stop Your Property Auction</div>
                   <p className="text-sm text-gray-300 mb-6">
                     Our legal experts can find loopholes in the bank's SARFAESI notice to secure a DRT stay.
                   </p>
@@ -659,9 +659,9 @@ export default function Page() {
               </div>
 
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Legal Resources
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/sarfaesi-act-rules" className="text-gray-700 hover:text-[#1F5EFF] font-medium flex items-center group transition-colors">

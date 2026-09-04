@@ -446,13 +446,13 @@ export default function StudentLoanSettlementPage() {
               </p>
               <div className="bg-indigo-50/50 p-8 rounded-2xl border border-indigo-200 mb-8 shadow-inner overflow-hidden relative">
                 <div className="absolute -top-10 -right-10 w-40 h-40 bg-[#1F5EFF]/5 rounded-full blur-2xl"></div>
-                <h4 className="text-lg font-black text-indigo-950 mb-4 uppercase tracking-tighter">The "75% Leverage" Logic for Settlement</h4>
+                <h3 className="text-lg font-black text-indigo-950 mb-4 uppercase tracking-tighter">The "75% Leverage" Logic for Settlement</h3>
                 <p className="text-base text-indigo-800 leading-relaxed font-medium mb-6">
                   When you default, the bank doesn't just lose money. They can approach the NCGTC and claim 75% of the defaulted amount almost immediately (after legal initiation). This means if you owe ₹10 Lakhs (of which ₹7.5 is guaranteed), the bank potentially gets ₹5.6 Lakhs from the government.
                 </p>
                 <div className="grid md:grid-cols-2 gap-6 bg-white/50 p-6 rounded-xl border border-indigo-100">
                   <div>
-                    <h5 className="font-black text-xs text-indigo-900 uppercase underline mb-2">The Bank's Weakness</h5>
+                    <h4 className="font-black text-xs text-indigo-900 uppercase underline mb-2">The Bank's Weakness</h4>
                     <p className="text-xs text-indigo-700">To claim the final 25% from NCGTC, the bank must prove they have "Exhausted all recovery options." This can take years of litigation and cost Lakhs in lawyer fees.</p>
                   </div>
                   <div>
@@ -480,7 +480,7 @@ export default function StudentLoanSettlementPage() {
                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100 flex gap-4">
                   <div className="w-12 h-12 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-black shrink-0 shadow-lg">1</div>
                   <div>
-                    <h4 className="font-black text-[#2E2E2E] uppercase text-xs mb-1">Interest Audit Pillar</h4>
+                    <h3 className="font-black text-[#2E2E2E] uppercase text-xs mb-1">Interest Audit Pillar</h3>
                     <p className="text-sm text-gray-600">We verify every "Penal Interest" entry. Banks often overcharge students by applying compound interest on penalties a practice repeatedly criticized by Consumer Courts.</p>
                   </div>
                 </div>
@@ -513,7 +513,7 @@ export default function StudentLoanSettlementPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-12">
                 <div className="p-8 bg-gray-50 rounded-3xl border-l-8 border-[#1F5EFF] shadow-sm">
-                  <h4 className="font-black text-lg mb-4 uppercase">The Career Gap Logic (The "Jobless" Clause)</h4>
+                  <h3 className="font-black text-lg mb-4 uppercase">The Career Gap Logic (The "Jobless" Clause)</h3>
                   <p className="text-sm text-gray-600 leading-relaxed font-bold mb-4">You must quantify your unemployment. Do not just say "I have no job."</p>
                   <p className="text-xs text-gray-500 italic border-t border-gray-200 pt-4">
                     "Despite applying to over [Number] companies in the [Sector] industry, as evidenced by the attached rejection emails, the regional economic downturn has prevented me from securing a placement. My current income is zero, and I am currently surviving on a monthly allowance of [Amount] from my family, which is insufficient to cover even the interest component."
@@ -555,12 +555,12 @@ export default function StudentLoanSettlementPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 my-8">
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:shadow-xl transition-all group">
-                  <h5 className="text-[#1F5EFF] uppercase text-xs font-black mb-3 tracking-widest">Step-Up Repayment</h5>
+                  <h3 className="text-[#1F5EFF] uppercase text-xs font-black mb-3 tracking-widest">Step-Up Repayment</h3>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">Start with a very low EMI (say ₹2,000) for the first 2 years, with the EMI increasing by 15% every year as your career progresses. This keeps your CIBIL "Clean."</p>
                   <p className="text-xs text-red-500 font-bold hidden group-hover:block transition-all italic">Warning: This increases your total interest outflow by up to 25%!</p>
                 </div>
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:shadow-xl transition-all group">
-                  <h5 className="text-[#1F5EFF] uppercase text-xs font-black mb-3 tracking-widest">Tenure Extension Scheme</h5>
+                  <h4 className="text-[#1F5EFF] uppercase text-xs font-black mb-3 tracking-widest">Tenure Extension Scheme</h4>
                   <p className="text-sm text-gray-600 leading-relaxed mb-4">Banks like Union Bank and Canara Bank often allow students to extend the repayment period from a standard 8 years to 15 years, drastically reducing the monthly burden.</p>
                   <p className="text-xs text-indigo-500 font-bold hidden group-hover:block transition-all italic underline">Pro: Lower EMI. Con: Long-term debt trap.</p>
                 </div>
@@ -579,7 +579,7 @@ export default function StudentLoanSettlementPage() {
               </p>
               <div className="bg-[#2E2E2E] p-10 rounded-[40px] text-[#DEDEDE] mb-12 relative group overflow-hidden border border-[#1F5EFF]/20 shadow-2xl">
                 <div className="absolute top-0 right-0 w-64 h-64 bg-[#1F5EFF]/5 rounded-full blur-[100px] group-hover:bg-[#1F5EFF]/10 transition-all"></div>
-                <h4 className="text-[#1F5EFF] font-black text-2xl mb-6 uppercase tracking-widest italic decoration-white underline">The PM-Vidyalaxmi Checklist</h4>
+                <h3 className="text-[#1F5EFF] font-black text-2xl mb-6 uppercase tracking-widest italic decoration-white underline">The PM-Vidyalaxmi Checklist</h3>
                 <p className="text-base opacity-80 leading-relaxed mb-6 font-medium">
                   Under the revamped PM-Vidyalaxmi portal, any student with a family income up to ₹8 Lakhs can apply for a 3% interest subvention. However, if your loan becomes an NPA, <strong>the subsidy is often suspended.</strong>
                 </p>
@@ -610,7 +610,7 @@ export default function StudentLoanSettlementPage() {
               <div className="grid gap-8">
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:shadow-2xl transition-all border-b-8 border-b-[#1F5EFF] relative overflow-hidden group">
                   <div className="absolute top-4 right-4 text-4xl font-black text-gray-100 group-hover:text-[#1F5EFF]/10 transition-colors">01</div>
-                  <h4 className="font-black text-xl mb-3 uppercase font-bold italic text-[#2E2E2E]">Right to a Moratorium Audit</h4>
+                  <h3 className="font-black text-xl mb-3 uppercase font-bold italic text-[#2E2E2E]">Right to a Moratorium Audit</h3>
                   <p className="text-sm text-gray-500 leading-relaxed font-medium">Under the RBI Master Circular, the bank must provide a clear "Moratorium Completion Certificate." If the bank started charging EMIs while you were still in your course or during the 1-year grace period, they have violated the contract. You have the right to demand a reversal of all penal interest charged during this "Illegal Recovery" window.</p>
                 </div>
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:shadow-2xl transition-all border-b-8 border-b-gray-200 relative overflow-hidden group">
@@ -691,7 +691,7 @@ export default function StudentLoanSettlementPage() {
                 In India, almost 90% of education loans are co-signed by parents or guardians. While the student is the "Primary Borrower," the parent is the "Guarantor/Co-borrower" with equal legal liability. This creates what we call "CIBIL Contagion." When a student misses an EMI, the co-applicant's credit score drops synchronously.
               </p>
               <div className="bg-red-50 border-r-8 border-red-600 p-8 rounded-l-3xl mb-8 shadow-sm">
-                <h4 className="font-black text-red-900 mb-4 uppercase italic">Critical Warning: The Property Risk</h4>
+                <h3 className="font-black text-red-900 mb-4 uppercase italic">Critical Warning: The Property Risk</h3>
                 <p className="text-sm text-red-800 leading-relaxed font-bold mb-4">
                   If your education loan was "Secured" (usually for amounts above ₹7.5 Lakhs), the bank has a charge on your family home. Under the SARFAESI Act, the bank doesn't need to go to a local court to seize the property; they can issue a notice and take possession through the District Magistrate.
                 </p>
@@ -713,7 +713,7 @@ export default function StudentLoanSettlementPage() {
               </p>
               <div className="grid md:grid-cols-3 gap-8 mb-12">
                 <div className="bg-white border-2 border-gray-100 rounded-3xl p-8 hover:shadow-2xl transition-all hover:-translate-y-2 border-t-8 border-t-[#1F5EFF]">
-                  <h4 className="text-2xl font-black mb-4 text-[#2E2E2E]">Amalegal Solutions</h4>
+                  <h3 className="text-2xl font-black mb-4 text-[#2E2E2E]">Amalegal Solutions</h3>
                   <p className="text-xs text-[#1F5EFF] font-bold uppercase mb-4 tracking-widest">The Legal Powerhouse</p>
                   <p className="text-sm text-gray-500 leading-relaxed font-medium mb-6">Best for complex defaults where the bank has already initiated litigation or Sent DRT notices. They focus on the "Law of Hardship."</p>
                   <ul className="text-[10px] text-gray-400 space-y-2 font-bold italic">
@@ -821,7 +821,7 @@ export default function StudentLoanSettlementPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center text-white">
-                  <h3 className="text-lg font-black uppercase tracking-wider">Student Shield</h3>
+                  <div className="text-lg font-black uppercase tracking-wider">Student Shield</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -835,7 +835,7 @@ export default function StudentLoanSettlementPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Academic Relief</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Academic Relief</div>
                 <ul className="space-y-4 text-sm font-bold">
                   {["/charities-that-pay-off-debt-in-india", "/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt", "/are-there-any-government-approved-loan-settlement-services-available-online", "/loan-settlement-process-step-by-step-guide"].map((href, idx) => (
                     <li key={idx}>

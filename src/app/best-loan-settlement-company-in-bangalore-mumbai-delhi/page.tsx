@@ -257,7 +257,7 @@ export default function BestSettlementCompanyPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-black text-[#1F5EFF] mb-3">Expert Negotiation</h4>
+                  <h3 className="font-black text-[#1F5EFF] mb-3">Expert Negotiation</h3>
                   <p className="text-sm">We know the internal settlement thresholds of major banks, ensuring you get the lowest possible figure.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
@@ -323,11 +323,11 @@ export default function BestSettlementCompanyPage() {
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-8">
                 <div className="p-4 bg-white border border-[#DEDEDE] rounded-lg text-center">
-                  <h5 className="font-bold text-[#1F5EFF]">Delhi</h5>
+                  <h3 className="font-bold text-[#1F5EFF]">Delhi</h3>
                   <p className="text-xs">Business & Personal Loan Focus</p>
                 </div>
                 <div className="p-4 bg-white border border-[#DEDEDE] rounded-lg text-center">
-                  <h5 className="font-bold text-[#1F5EFF]">Gurgaon</h5>
+                  <h4 className="font-bold text-[#1F5EFF]">Gurgaon</h4>
                   <p className="text-xs">Corporate & High-Value Debt</p>
                 </div>
                 <div className="p-4 bg-white border border-[#DEDEDE] rounded-lg text-center">
@@ -354,7 +354,7 @@ export default function BestSettlementCompanyPage() {
                     <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path></svg>
                   </div>
                   <div>
-                    <h4 className="font-bold text-lg">No Hidden Charges</h4>
+                    <h3 className="font-bold text-lg">No Hidden Charges</h3>
                     <p className="text-sm">We believe in clear, upfront communication. You will always know exactly what you are paying for and what result to expect.</p>
                   </div>
                 </div>
@@ -386,7 +386,7 @@ export default function BestSettlementCompanyPage() {
               <div className="space-y-12">
                 <div className="relative pl-12">
                   <div className="absolute left-0 top-0 w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">1</div>
-                  <h4 className="font-black text-xl mb-2">Debt Analysis</h4>
+                  <h3 className="font-black text-xl mb-2">Debt Analysis</h3>
                   <p>We review all your outstanding loans and credit cards to determine the total scope of your debt and your current repayment capacity.</p>
                 </div>
                 <div className="relative pl-12">
@@ -415,7 +415,7 @@ export default function BestSettlementCompanyPage() {
                 Many people fear that settlement will haunt them forever. While it does impact your score in the short term, it is not a dead end. In cities like Bangalore, Mumbai, and Delhi, where credit is lifeblood, rebuilding your score is priority #1 after settlement.
               </p>
               <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100">
-                <h4 className="font-bold text-emerald-900 mb-4 text-xl">Rebuilding Steps</h4>
+                <h3 className="font-bold text-emerald-900 mb-4 text-xl">Rebuilding Steps</h3>
                 <ul className="space-y-3 text-emerald-800">
                   <li className="flex gap-2">✓ <span className="font-semibold">Secured Credit Card:</span> Start with a card backed by a Fixed Deposit.</li>
                   <li className="flex gap-2">✓ <span className="font-semibold">Small Value Loans:</span> Take a consumer durable loan for a gadget and pay EMIs on time.</li>
@@ -449,7 +449,7 @@ export default function BestSettlementCompanyPage() {
                 Every borrower in India, whether in Delhi, Mumbai, or Bangalore, is protected by a set of robust guidelines issued by the Reserve Bank of India (RBI). Unfortunately, many banks and their third-party agents rely on the borrower's ignorance to use aggressive tactics.
               </p>
               <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-lg my-8">
-                <h4 className="font-black text-[#1F5EFF] mb-4">Your Fundamental Rights as a Borrower:</h4>
+                <h3 className="font-black text-[#1F5EFF] mb-4">Your Fundamental Rights as a Borrower:</h3>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <span className="text-blue-500 font-bold">01.</span>
@@ -483,11 +483,11 @@ export default function BestSettlementCompanyPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="p-6 bg-red-50 rounded-xl border border-red-100">
-                  <h5 className="font-bold text-red-800 mb-2">Red Flag: Unrealistic Guarantees</h5>
+                  <h3 className="font-bold text-red-800 mb-2">Red Flag: Unrealistic Guarantees</h3>
                   <p className="text-sm text-red-900/70">If they promise a 90% waiver or claim they can "make your debt disappear" without any impact on CIBIL, they are lying. Settlement always has an impact.</p>
                 </div>
                 <div className="p-6 bg-red-50 rounded-xl border border-red-100">
-                  <h5 className="font-bold text-red-800 mb-2">Red Flag: No Physical Office</h5>
+                  <h4 className="font-bold text-red-800 mb-2">Red Flag: No Physical Office</h4>
                   <p className="text-sm text-red-900/70">A legitimate company will have a registered office that you can visit in cities like Mumbai or Delhi. Avoid companies that only operate via WhatsApp or anonymous emails.</p>
                 </div>
                 <div className="p-6 bg-red-50 rounded-xl border border-red-100">
@@ -602,7 +602,7 @@ export default function BestSettlementCompanyPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Struggling with Debt?</h3>
+                  <div className="text-lg font-black text-white">Struggling with Debt?</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -617,7 +617,7 @@ export default function BestSettlementCompanyPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Related Information</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Related Information</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement/bangalore" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

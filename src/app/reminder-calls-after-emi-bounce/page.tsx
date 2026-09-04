@@ -157,7 +157,7 @@ export default function ReminderCallsAfterEmiBouncePage() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Your Rights Against Harassment</h2>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The RBI Guidelines Protect You</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The RBI Guidelines Protect You</h3>
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">
                   The Reserve Bank of India (RBI) has strict guidelines regarding debt collection. Banks and their recovery agents must adhere to a code of conduct. If they violate these, you have the right to file a complaint.
                 </p>
@@ -370,7 +370,7 @@ export default function ReminderCallsAfterEmiBouncePage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-500"></div>
                 <div className="relative z-10">
-                  <h3 className="text-2xl font-black mb-4">End Call Harassment</h3>
+                  <div className="text-2xl font-black mb-4">End Call Harassment</div>
                   <p className="text-sm text-gray-300 mb-6">
                     Our legal team can draft and send a formal cease and desist notice to your bank to stop illegal recovery practices.
                   </p>
@@ -382,9 +382,9 @@ export default function ReminderCallsAfterEmiBouncePage() {
 
               {/* Card 2 */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Helpful Resources
-                </h3>
+                </div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/guides/rbi-guidelines-recovery-agents" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">

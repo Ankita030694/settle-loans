@@ -708,7 +708,7 @@ export default function NBFCSettlementPage() {
                    <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">R</div>
                       <div>
-                         <h4 className="font-bold">Rajesh Verma</h4>
+                         <h3 className="font-bold">Rajesh Verma</h3>
                          <p className="text-xs text-[var(--color-text-muted)]">Settled Bajaj Finance Loan</p>
                       </div>
                    </div>
@@ -843,7 +843,7 @@ export default function NBFCSettlementPage() {
           <div className="sticky top-24 space-y-8">
              <div className="bg-white rounded-2xl shadow-[0_8px_30px_rgb(0,0,0,0.06)] overflow-hidden border border-[var(--color-border)] group">
                <div className="bg-[var(--color-primary)] p-4 text-center">
-                 <h3 className="text-lg font-bold text-white">NBFC Harassing You?</h3>
+                 <div className="text-lg font-bold text-white">NBFC Harassing You?</div>
                </div>
                <div className="p-6 text-center">
                 <p className="mb-6 text-sm text-[var(--color-text-body)] opacity-80 leading-relaxed">
@@ -857,7 +857,7 @@ export default function NBFCSettlementPage() {
             </div>
 
             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-              <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Services</h3>
+              <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Services</div>
               <ul className="space-y-4 text-sm font-bold">
                 <li>
                   <Link href="/services/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">
@@ -882,7 +882,7 @@ export default function NBFCSettlementPage() {
             
              <div className="bg-blue-50 p-6 rounded-2xl border border-blue-100 shadow-sm text-center">
                 <FontAwesomeIcon icon={faScaleBalanced} className="text-4xl text-blue-600 mb-4 w-12 h-12" />
-                <h3 className="font-bold text-blue-900 mb-2">Legal Shield</h3>
+                <div className="font-bold text-blue-900 mb-2">Legal Shield</div>
                 <p className="text-sm text-blue-800 opacity-80">We handle Section 138 & Arbitration notices.</p>
              </div>
 
@@ -896,7 +896,7 @@ export default function NBFCSettlementPage() {
                          <FontAwesomeIcon icon={faStar} />
                      </div>
                  </div>
-                <h3 className="font-bold text-green-900 mb-2">4.8/5 Rating</h3>
+                <div className="font-bold text-green-900 mb-2">4.8/5 Rating</div>
                 <p className="text-sm text-green-800 opacity-80">Trusted by 1200+ clients across India.</p>
              </div>
           </div>

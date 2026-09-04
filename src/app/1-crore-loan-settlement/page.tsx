@@ -237,7 +237,7 @@ export default function OneCroreLoanSettlement() {
                                 While a 50 lakh settlement can be approved at the Zonal level, a 1 Crore settlement often requires the signature of the General Manager (GM) or even the Management Committee (MC) at the bank's Head Office. This adds layers of scrutiny to your 'Ability to Pay'.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8">
-                                <h4 className="text-xl font-bold mb-4 italic text-center underline decoration-[#1F5EFF] underline-offset-4">Step-by-Step Approval Protocol for Crores</h4>
+                                <h3 className="text-xl font-bold mb-4 italic text-center underline decoration-[#1F5EFF] underline-offset-4">Step-by-Step Approval Protocol for Crores</h3>
                                 <div className="space-y-6">
                                     <div className="bg-white p-6 rounded-xl border border-gray-100">
                                         <p className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-widest text-xs">Stage 1: Asset Valuation</p>
@@ -271,7 +271,7 @@ export default function OneCroreLoanSettlement() {
                             <p className="text-lg leading-relaxed mb-6">The SARFAESI Act is the most powerful weapon in a bank's arsenal. For a 1 Crore loan, they will not hesitate to issue a 'Symbolic Possession' notice. However, the Act itself has 'Safety Valves' for the borrower.</p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                                 <div className="p-6 bg-[#2E2E2E] text-white rounded-2xl shadow-xl border-t-4 border-[#1F5EFF]">
-                                    <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">The Section 17 Appeal</h4>
+                                    <h3 className="font-black text-[#1F5EFF] mb-3 text-lg">The Section 17 Appeal</h3>
                                     <p className="text-sm opacity-80 leading-relaxed">You can challenge the bank's recovery action in the DRT under Section 17. If the bank has made even a minor procedural error in their notices, the entire recovery process can be stalled for years.</p>
                                 </div>
                                 <div className="p-6 bg-[#2E2E2E] text-white rounded-2xl shadow-xl border-t-4 border-[#1F5EFF]">
@@ -288,7 +288,7 @@ export default function OneCroreLoanSettlement() {
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">If your business is a Private Limited company, a 1 Crore default can push you into the National Company Law Tribunal (NCLT) under the Insolvency and Bankruptcy Code (IBC). This is the 'Nuclear Option'. Once IBC is triggered, you lose control of your company to a Resolution Professional (RP).</p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-8">
-                                <h4 className="text-xl font-bold text-red-700 mb-4 italic uppercase tracking-tighter">CRITICAL WARNING: The IBC Threshold</h4>
+                                <h3 className="text-xl font-bold text-red-700 mb-4 italic uppercase tracking-tighter">CRITICAL WARNING: The IBC Threshold</h3>
                                 <p className="text-red-900 mb-4 opacity-80 italic">The minimum default threshold for IBC is currently 1 Crore. This means that if your default is even slightly above this mark, any creditor can drag your company to NCLT. Settling the debt before an IBC petition is admitted is mathematically the only way to save your corporate identity.</p>
                             </div>
                             <p className="text-lg leading-relaxed mb-6 uppercase font-black text-gray-500">The 90% Rule: Even if your company is in NCLT, you can still settle. Under Section 12A, if you reach a settlement with 90% of your creditors (by value), you can exit the IBC process and reclaim your business. This is high-stakes negotiation that requires professional legal intervention at every step.</p>
@@ -298,7 +298,7 @@ export default function OneCroreLoanSettlement() {
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-[#1F5EFF]">Navigating Multi-Bank Exposure: The Consortium Challenge</h2>
                             <p className="text-lg leading-relaxed mb-6">A 1 Crore default rarely happens in isolation. Often, it involves a 'Consortium' of lenders or multiple 'Multiple Banking Arrangements' (MBA). In such cases, one bank acts as the 'Lead Bank'. Negotiation becomes exponentially complex because all banks must agree on the 'Pari-Passu' charge (equal footing) on your assets.</p>
                             <div className="bg-indigo-50 p-8 rounded-3xl border border-indigo-100 mb-8 italic">
-                                <h4 className="text-xl font-bold mb-4">Strategic Moves for Consortium Defaults</h4>
+                                <h3 className="text-xl font-bold mb-4">Strategic Moves for Consortium Defaults</h3>
                                 <ul className="space-y-4">
                                     <li><strong>The JLF Mechanism:</strong> Banks usually form a Joint Lenders Forum (JLF) to decide on a 'Correction Action Plan' (CAP). You must present your settlement offer to the JLF coordinator, not just your branch manager.</li>
                                     <li><strong>Inter-Creditor Agreements (ICA):</strong> Recent RBI circulars empower the lead bank to push a settlement if 66% of lenders (by value) agree. This is a vital window for a 1 Crore settlement—you don't need a 100% consensus if the majority is on board.</li>
@@ -318,7 +318,7 @@ export default function OneCroreLoanSettlement() {
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight text-center">RBI Directives & Bank Schemes: The 'Nirbandh' Factor</h2>
                             <p className="text-lg leading-relaxed mb-6">Every year, public sector banks launch specific OTS schemes like 'Nirbandh' or 'Rinn Mukti'. For 1 Crore loans, these schemes offer a predefined 'Settlement Formula'. For example, the formula might be 'Principal + 10% of standard interest'.</p>
                             <div className="bg-gray-200 p-8 rounded-2xl mb-8">
-                                <h4 className="text-xl font-bold mb-4">How to Qualify for Bank-Specific Schemes</h4>
+                                <h3 className="text-xl font-bold mb-4">How to Qualify for Bank-Specific Schemes</h3>
                                 <p className="mb-4 text-gray-700">These schemes are usually valid for a short window (30 to 60 days). To qualify for a 1 Crore waiver, your account must have been an NPA for at least 2 years in most cases. We track these secret bank circulars and alert you when your specific bank opens a high-value waiver window.</p>
                             </div>
                         </section>
@@ -355,7 +355,7 @@ export default function OneCroreLoanSettlement() {
                             </h2>
                             <p className="text-lg leading-relaxed mb-6">At the 1 Crore level, the Zonal Manager (ZM) is the kingmaker. However, the ZM is also under immense pressure from the RBI and the Head Office to reduce the bank's Gross NPA ratio. Understanding this pressure is your greatest leverage.</p>
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8 italic">
-                                <h4 className="text-xl font-bold mb-4">Insider Secrets for Crore-Scale Negotiation</h4>
+                                <h3 className="text-xl font-bold mb-4">Insider Secrets for Crore-Scale Negotiation</h3>
                                 <ul className="space-y-4">
                                     <li><strong>The March/September Deadline:</strong> Banks are most desperate to settle in March (Year-end) and September (Half-year end). A 1 Crore settlement offer made in February has a 40% higher chance of approval than one made in May.</li>
                                     <li><strong>Provisioning Reversal:</strong> When a 1 Crore loan is settled, the bank 'reverses' the massive amount of capital it had to set aside. This directly improves the bank's quarterly profit, making you a favorite of the finance department even if the recovery department is angry.</li>
@@ -413,7 +413,7 @@ export default function OneCroreLoanSettlement() {
                             </h2>
                             <div className="space-y-8">
                                 <div className="bg-white p-8 rounded-2xl border border-gray-200 shadow-sm border-l-8 border-[#1F5EFF]">
-                                    <h4 className="text-xl font-bold mb-4 underline decoration-[#1F5EFF]">Case Study 1: The Manufacturing Unit Stay</h4>
+                                    <h3 className="text-xl font-bold mb-4 underline decoration-[#1F5EFF]">Case Study 1: The Manufacturing Unit Stay</h3>
                                     <p className="text-gray-700 mb-4 italic">A steel fabrication plant in Pune had a 1.2 Crore NPA. The bank moved for possession. We identified a flaw in the Section 13(4) notice and obtained a stay in the DRT. With the bank's recovery halted, they agreed to a settlement of 75 lakhs paid over 6 months.</p>
                                 </div>
                                 <div className="bg-white p-8 rounded-2xl border border-gray-200 shadow-sm border-l-8 border-[#1F5EFF]">
@@ -461,7 +461,7 @@ export default function OneCroreLoanSettlement() {
                                     { q: "What is the status on my CIBIL after settlement?", a: "It will show as 'Settled'. This will impact your ability to get fresh loans for a few years, but it stops the mounting debt immediately." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-6 bg-white rounded-2xl border border-gray-100 shadow-sm italic hover:shadow-md transition-shadow">
-                                        <h4 className="font-black text-[#2E2E2E] mb-2">{faq.q}</h4>
+                                        <h3 className="font-black text-[#2E2E2E] mb-2">{faq.q}</h3>
                                         <p className="text-gray-600 leading-relaxed text-sm">{faq.a}</p>
                                     </div>
                                 ))}
@@ -515,7 +515,7 @@ export default function OneCroreLoanSettlement() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -550,7 +550,7 @@ export default function OneCroreLoanSettlement() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white italic">Asset Protection Expert</h3>
+                                    <div className="text-lg font-black text-white italic">Asset Protection Expert</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold italic">
@@ -565,7 +565,7 @@ export default function OneCroreLoanSettlement() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Specialized Insights</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Specialized Insights</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/50-lakhs-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

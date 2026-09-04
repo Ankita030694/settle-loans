@@ -317,7 +317,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-bold text-lg mb-3 text-gray-900">Fair Recovery Practices</h4>
+                                    <h3 className="font-bold text-lg mb-3 text-gray-900">Fair Recovery Practices</h3>
                                     <p className="text-gray-700 text-sm">RBI prohibits recovery agents from using physical or mental harassment. They cannot call you before 8 AM or after 7 PM. They cannot threaten you or use abusive language.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
@@ -378,7 +378,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                                         </div>
                                     </div>
                                     <div className="md:w-2/3 p-8">
-                                        <h4 className="text-xl font-bold text-gray-900 mb-4">The NPA Threshold</h4>
+                                        <h3 className="text-xl font-bold text-gray-900 mb-4">The NPA Threshold</h3>
                                         <p className="text-gray-700 leading-relaxed text-sm">
                                             Once you cross 90 days of non-payment, your account is classified as a Non-Performing Asset (NPA). This is the "Golden Window" for negotiation. The bank's focus shifts from "how to get the full amount" to "how to get anything back at all".
                                         </p>
@@ -420,11 +420,11 @@ export default function NegotiatePersonalLoanSettlementPage() {
                             </p>
                             <div className="grid sm:grid-cols-2 gap-4 mb-8">
                                 <div className="p-4 bg-white border border-gray-100 rounded-xl shadow-sm">
-                                    <h5 className="font-bold text-gray-800 mb-2">Medical Hardship</h5>
+                                    <h3 className="font-bold text-gray-800 mb-2">Medical Hardship</h3>
                                     <p className="text-xs text-gray-600">Provide hospital discharge summaries, bills exceeding 1 lakh, or proof of chronic illness requiring ongoing expensive treatment.</p>
                                 </div>
                                 <div className="p-4 bg-white border border-gray-100 rounded-xl shadow-sm">
-                                    <h5 className="font-bold text-gray-800 mb-2">Employment Loss</h5>
+                                    <h4 className="font-bold text-gray-800 mb-2">Employment Loss</h4>
                                     <p className="text-xs text-gray-600">Termination letter, a 'closed' business registration certificate, or bank statements showing zero salary inflow for 3+ months.</p>
                                 </div>
                                 <div className="p-4 bg-white border border-gray-100 rounded-xl shadow-sm">
@@ -464,7 +464,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                                     <div key={idx} className="flex gap-4 p-5 rounded-2xl bg-gray-50 border border-gray-100">
                                         <div className="flex-shrink-0 w-8 h-8 rounded-full bg-red-100 text-red-600 flex items-center justify-center font-bold">{idx + 1}</div>
                                         <div>
-                                            <h5 className="font-bold text-gray-900">{item.t}</h5>
+                                            <h3 className="font-bold text-gray-900">{item.t}</h3>
                                             <p className="text-sm text-gray-600">{item.d}</p>
                                         </div>
                                     </div>
@@ -565,7 +565,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                             <div className="grid sm:grid-cols-3 gap-6 mb-8">
                                 <div className="flex flex-col items-center text-center p-6 bg-white border border-gray-100 rounded-2xl hover:shadow-lg transition-all">
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 mb-4 font-bold text-xl">1</div>
-                                    <h4 className="font-bold mb-2">Benchmarking</h4>
+                                    <h3 className="font-bold mb-2">Benchmarking</h3>
                                     <p className="text-xs text-gray-500 font-medium">We know the exact 'floor price' for HDFC, ICICI, SBI, etc. We know when they are bluffing and when they are serious.</p>
                                 </div>
                                 <div className="flex flex-col items-center text-center p-6 bg-white border border-gray-100 rounded-2xl hover:shadow-lg transition-all">
@@ -679,7 +679,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                                 <div key={i} className="bg-white p-5 md:p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h5 className="font-bold text-[#2E2E2E]">{review.name}</h5><p className="text-xs text-gray-400">{review.loc}</p></div>
+                                        <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -744,7 +744,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Save 50% Today</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Save 50% Today</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
@@ -758,7 +758,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Guides</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Guides</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/loan-settlement-fees" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

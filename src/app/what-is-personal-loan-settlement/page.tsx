@@ -317,7 +317,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
             </p>
             <div className="grid md:grid-cols-2 gap-6 my-8">
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Non Performing Assets (NPA)</h4>
+                <h3 className="font-black text-[#1F5EFF] mb-3 text-lg">Non Performing Assets (NPA)</h3>
                 <p className="text-sm leading-relaxed">When a borrower misses payments for ninety consecutive days, the loan is classified as an NPA. This forces the bank to set aside capital as a provision, which hurts their profitability. Settleing helps them clean their books.</p>
               </div>
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -397,7 +397,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
               The Reserve Bank of India (RBI) has laid down a clear Fair Practice Code for lenders. While the bank has the right to recover its money, it does not have the right to violate your basic human dignity. Knowing your rights is your best defense against aggressive recovery tactics.
             </p>
             <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-              <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Protections for Borrowers:</h4>
+              <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Protections for Borrowers:</h3>
               <ul className="space-y-4 text-blue-900 font-medium">
                 <li className="flex items-start gap-3">
                    <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -434,7 +434,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
                Negotiation is an art. When you enter a bank, you are a customer who has faced an unfortunate turn of events. You are not a criminal. Here are some strategies we use at SettleLoans to ensure the best outcome:
             </p>
             <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-               <h4 className="font-black text-[#2E2E2E] mb-4">The "Empty Pockets" Strategy</h4>
+               <h3 className="font-black text-[#2E2E2E] mb-4">The "Empty Pockets" Strategy</h3>
                <p className="mb-4">Always emphasize that the amount you are offering is the absolute last bit of money you have. If you show that you have more, the bank will push for more. Use documents like bank statements showing a low balance or a list of other debts you owe.</p>
                <h4 className="font-black text-[#2E2E2E] mb-4">The "Relative Support" Clause</h4>
                <p className="mb-4">Banks are wary of borrowers who "magically" find money. Tell them that the settlement amount is being provided by a relative specifically for this purpose, and the offer is only valid for a few days before the relative uses the money elsewhere.</p>
@@ -506,7 +506,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
               This is the most significant drawback of personal loan settlement. When you settle, the lender reports the status as "Settled" to the credit bureaus (CIBIL, Experian, CRIF). This remark stays on your report for seven years.
             </p>
             <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-               <h4 className="text-lg font-bold text-red-700 mb-3">What "Settled" Means to Future Lenders:</h4>
+               <h3 className="text-lg font-bold text-red-700 mb-3">What "Settled" Means to Future Lenders:</h3>
                <p className="text-sm text-red-900 leading-relaxed italic">
                  "This borrower has defaulted on their original promise. They paid less than they owed. Lending to them in the future is high risk."
                </p>
@@ -532,11 +532,11 @@ export default function WhatIsPersonalLoanSettlementPage() {
             </p>
             <div className="grid sm:grid-cols-2 gap-4 my-8">
                <div className="bg-white p-5 rounded-lg border border-[#DEDEDE] shadow-sm">
-                  <h5 className="font-black text-[#2E2E2E] mb-2">Record Everything</h5>
+                  <h3 className="font-black text-[#2E2E2E] mb-2">Record Everything</h3>
                   <p className="text-sm">Always record your calls with agents. If they use abusive language, this recording is your evidence for an RBI complaint. Most modern smartphones have this feature; use it.</p>
                </div>
                <div className="bg-white p-5 rounded-lg border border-[#DEDEDE] shadow-sm">
-                  <h5 className="font-black text-[#2E2E2E] mb-2">Verification</h5>
+                  <h4 className="font-black text-[#2E2E2E] mb-2">Verification</h4>
                   <p className="text-sm">Never give money to an agent. Only pay through the bank's official app or branch. Insist on seeing their ID card and the bank's authorization letter. If they cannot produce these, they are potentially fraudulent.</p>
                </div>
             </div>
@@ -641,7 +641,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">More Stories of Financial Recovery</h2>
              <div className="grid md:grid-cols-2 gap-8 text-left">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-xl">
-                   <h4 className="font-black text-lg mb-4">Suresh, Hyderabad</h4>
+                   <h3 className="font-black text-lg mb-4">Suresh, Hyderabad</h3>
                    <p className="text-gray-600 mb-6 italic leading-relaxed">
                      "I had five different credit cards and two personal loans. My total debt was twenty five lakhs. My business collapsed during the supply chain crisis. SettleLoans consolidated the negotiation. It took nine months, but they got me a combined settlement for nine point eight lakhs. I saved over fifteen lakhs in debt."
                    </p>
@@ -698,7 +698,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
                       {review.name.charAt(0)}
                     </div>
                     <div>
-                      <h5 className="font-black text-[#2E2E2E]">{review.name}</h5>
+                      <h3 className="font-black text-[#2E2E2E]">{review.name}</h3>
                       <p className="text-xs text-[#747474] font-bold uppercase tracking-wider">{review.loc}</p>
                     </div>
                     <div className="ml-auto flex text-yellow-400">
@@ -744,7 +744,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
                 { q: "How do I verify the authenticity of a settlement letter?", a: "Always check the letter for a valid reference number and call the bank's official customer care or visit the branch manager to confirm the offer before making any payment." }
               ].map((faq, i) => (
                 <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h4 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h4>
+                  <h3 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h3>
                   <p className="text-gray-600 leading-relaxed">{faq.a}</p>
                 </div>
               ))}
@@ -773,13 +773,13 @@ export default function WhatIsPersonalLoanSettlementPage() {
           <div className="sticky top-24 space-y-8">
              <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl overflow-hidden relative group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                <h3 className="text-2xl font-black mb-4 relative z-10">Struggling with EMI?</h3>
+                <div className="text-2xl font-black mb-4 relative z-10">Struggling with EMI?</div>
                 <p className="text-white/70 text-sm mb-6 relative z-10">Our experts have settled over 500 Crore Plus in debt for thousands of clients across India.</p>
                 <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-black py-4 rounded-xl hover:bg-[#1F5EFF]/90 transition-colors shadow-lg">Get Free Advice</Link>
              </div>
 
              <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-4">Related Resources</h3>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-4">Related Resources</div>
                 <ul className="space-y-5">
                    <li>
                       <Link href="/loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold transition-colors">

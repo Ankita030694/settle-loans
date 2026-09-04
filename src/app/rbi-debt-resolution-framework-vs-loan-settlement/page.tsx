@@ -597,7 +597,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
                   <div className="flex items-center gap-2">
                     <Clock className="w-4 h-4 text-blue-600" />
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">1. Repayment Tenure Extension &amp; EMI Recalibration</h4>
+                    <h3 className="font-bold text-slate-900 text-xs sm:text-sm">1. Repayment Tenure Extension &amp; EMI Recalibration</h3>
                   </div>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The bank extends the remaining maturity of the loan contract (for instance, extending a 5-year personal loan or a 15-year mortgage by an additional 2 to 5 years). By spreading the outstanding principal over a significantly longer timeframe, the monthly EMI requirement is reduced by 25% to 45%, providing immediate breathing room for monthly household or business budgets.
@@ -1191,7 +1191,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
                 </Link>
                 <div>
                   <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
-                    <h4 className="font-bold text-slate-900 text-sm">Ashish Jhangra</h4>
+                    <div className="font-bold text-slate-900 text-sm">Ashish Jhangra</div>
                   </Link>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
@@ -1217,7 +1217,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Debt Resolution Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Struggling with Restructuring vs. Settlement?</h4>
+              <div className="font-bold text-base text-white mb-2">Struggling with Restructuring vs. Settlement?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let the bank push you into unviable restructured terms or inflated claims. Consult our senior banking advocates to determine the right financial and legal relief strategy.
               </p>
@@ -1231,9 +1231,9 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

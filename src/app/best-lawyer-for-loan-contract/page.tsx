@@ -230,9 +230,9 @@ export default function LoanContractLawyerPage() {
                                 A 'loan contract' is more than just a document stating the amount and interest rate. It is a complex ecosystem of clauses designed to manage risk, define default events, and provide a clear roadmap for dispute resolution. From the Indian Contract Act of 1872 to the intricacies of the Stamp Act, every word in a loan agreement carries legal weight. As the best lawyer for loan contract drafting, we ensure that your agreements are not just pieces of paper, but iron-clad shields.
                             </p>
                             <div className="bg-[#EBF2FF] p-8 rounded-2xl border-l-4 border-[#1F5EFF] my-10 shadow-sm">
-                                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4 uppercase tracking-wider">
+                                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4 uppercase tracking-wider">
                                     The "Enforceability" Test:
-                                </h4>
+                                </h3>
                                 <p className="text-gray-700 leading-relaxed italic">
                                     "A loan agreement that is improperly stamped or missing an acceleration clause is like a lock without a key. You can see your money, but you cannot access the legal system to get it back."
                                 </p>
@@ -257,7 +257,7 @@ export default function LoanContractLawyerPage() {
                                 <li><strong>Certainty:</strong> The terms must be clear. A clause saying 'interest will be reasonable' is vague and unenforceable. It must state '12% per annum'.</li>
                             </ul>
                             <div className="bg-gray-50 p-8 rounded-3xl border border-gray-100 my-10">
-                                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">The 'Offer & Acceptance' Cycle:</h4>
+                                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">The 'Offer & Acceptance' Cycle:</h3>
                                 <p className="text-gray-600 leading-relaxed">In modern lending, the application form is the 'Offer', and the Sanction Letter is the 'Acceptance'. The Loan Agreement is the formalization of this cycle. If there is a conflict between the Sanction Letter and the Agreement, the Agreement usually prevails due to the 'Entire Agreement' clause.</p>
                             </div>
                         </section>
@@ -292,9 +292,9 @@ export default function LoanContractLawyerPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm hover:shadow-lg transition-all">
-                                    <h4 className="font-bold text-lg mb-3 text-[#1F5EFF] flex items-center gap-2">
+                                    <h3 className="font-bold text-lg mb-3 text-[#1F5EFF] flex items-center gap-2">
                                         <FontAwesomeIcon icon={faShieldAlt} /> Affirmative Covenants
-                                    </h4>
+                                    </h3>
                                     <p className="text-sm text-gray-600 italic">"The borrower WILL do..."</p>
                                     <p className="text-sm mt-3 text-gray-700">Maintaining insurance on assets, submitting annual audited balance sheets, and keeping the business as a 'Going Concern'.</p>
                                 </div>
@@ -348,7 +348,7 @@ export default function LoanContractLawyerPage() {
                             </p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-gray-50 rounded-2xl border-l-8 border-[#1F5EFF] shadow-sm">
-                                    <h4 className="font-bold text-xl mb-2 text-[#2E2E2E]">Summary Suit (Order 37 CPC)</h4>
+                                    <h3 className="font-bold text-xl mb-2 text-[#2E2E2E]">Summary Suit (Order 37 CPC)</h3>
                                     <p className="text-gray-600 text-sm leading-relaxed">This is the 'Fast Track' of civil law. If your contract is clear and has a liquidated amount, we file a Summary Suit. The borrower doesn't have an automatic 'Right to Defend'; they must seek leave from the court, which is only granted if they show a 'good defense'.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-2xl border-l-8 border-green-500 shadow-sm">
@@ -410,11 +410,11 @@ export default function LoanContractLawyerPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mb-12">
                                 <div className="bg-red-50 p-6 rounded-2xl border border-red-100">
-                                    <h5 className="font-bold text-red-700 mb-2">Ambiguous Interest Clauses</h5>
+                                    <h3 className="font-bold text-red-700 mb-2">Ambiguous Interest Clauses</h3>
                                     <p className="text-xs text-gray-600">Failing to state whether interest is 'simple' or 'compound' is a recipe for disaster. Indian judges are historically protective of borrowers; if a clause is even slightly vague, the court will interpret it in a way that minimizes the interest burden *against* the lender. Always specify 'X% per annum on a monthly reducing balance'.</p>
                                 </div>
                                 <div className="bg-red-50 p-6 rounded-2xl border border-red-100">
-                                    <h5 className="font-bold text-red-700 mb-2">Missing 'Heirs & Successors'</h5>
+                                    <h4 className="font-bold text-red-700 mb-2">Missing 'Heirs & Successors'</h4>
                                     <p className="text-xs text-gray-600">If a borrower dies, does the debt die with them? Without a 'Successors and Assigns' clause, you may find it impossible to recover from the legal heirs. In India, debt is recoverable from the estate of the deceased, but your contract must explicitly authorize this transition of liability.</p>
                                 </div>
                                 <div className="bg-red-50 p-6 rounded-2xl border border-red-100">
@@ -488,7 +488,7 @@ export default function LoanContractLawyerPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -508,7 +508,7 @@ export default function LoanContractLawyerPage() {
                             </h2>
                             <div className="space-y-8">
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">1. What makes a loan agreement legally valid in India?</h4>
+                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">1. What makes a loan agreement legally valid in India?</h3>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium italic">For a loan agreement to be valid, it must satisfy Section 10 of the Indian Contract Act, 1872: free consent, competent parties, lawful consideration, and a lawful object. Additionally, it must be properly stamped and executed by both parties.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
@@ -555,7 +555,7 @@ export default function LoanContractLawyerPage() {
                         <div className="sticky top-32 space-y-8">
                             <div className="bg-[#2E2E2E] p-8 rounded-[24px] text-white shadow-xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-full -mr-12 -mt-12 group-hover:scale-150 transition-transform duration-500"></div>
-                                <h4 className="text-2xl font-black mb-4 relative z-10 leading-tight">Draft for Success</h4>
+                                <div className="text-2xl font-black mb-4 relative z-10 leading-tight">Draft for Success</div>
                                 <p className="text-[#DEDEDE]/80 text-sm mb-8 relative z-10 font-medium">Don't leave your capital to chance. Get a legally iron-clad loan agreement today.</p>
                                 <Link href="/contact" className="block w-full text-center bg-[#1F5EFF] text-white font-bold py-4 rounded-xl hover:bg-white hover:text-[#1F5EFF] transition-all duration-300 shadow-lg relative z-10">
                                     Request Drafting
@@ -563,7 +563,7 @@ export default function LoanContractLawyerPage() {
                             </div>
 
                             <div className="bg-white border border-[#DEDEDE] p-8 rounded-[24px] shadow-sm">
-                                <h4 className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm font-satoshi">Related Services</h4>
+                                <div className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm font-satoshi">Related Services</div>
                                 <ul className="space-y-4">
                                     <li>
                                         <Link href="/best-lawyer-for-loan-and-mortgage-agreements" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors font-bold text-sm">

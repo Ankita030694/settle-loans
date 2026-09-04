@@ -171,7 +171,7 @@ export default function GoldLoanSettlementProcessPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm text-justify">
-                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The Margin Call</h4>
+                                    <h3 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The Margin Call</h3>
                                     <p className="text-sm">When LTV crosses the safety threshold, the bank issues a 'Margin Call'. You must either pay a part of the principal or pledge MORE gold to bring the LTV back to 75%.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm text-justify">
@@ -194,14 +194,14 @@ export default function GoldLoanSettlementProcessPage() {
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">30D</span>
                                     <div>
-                                        <h5 className="font-bold text-xl mb-2">Notice Period</h5>
+                                        <h3 className="font-bold text-xl mb-2">Notice Period</h3>
                                         <p className="opacity-70 text-sm">A minimum 30-day registered notice must be sent to your primary address detailing the default and pending auction date.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">PUB</span>
                                     <div>
-                                        <h5 className="font-bold text-xl mb-2">Public Notice</h5>
+                                        <h4 className="font-bold text-xl mb-2">Public Notice</h4>
                                         <p className="opacity-70 text-sm">The auction must be advertised in at least two newspapers (one national, one local language) listing the items and the reserve price.</p>
                                     </div>
                                 </div>
@@ -221,7 +221,7 @@ export default function GoldLoanSettlementProcessPage() {
                                 The most powerful rule protecting your equity is the Reserve Price. Lenders often try to sell gold quickly at low prices to recover just their dues. The RBI stops this with the '85% average' rule.
                             </p>
                             <div className="bg-[#F8FAFC] p-8 rounded-3xl border border-[#1F5EFF]/20 mb-8">
-                                <h4 className="text-xl font-black text-blue-900 mb-4">Calculation Formula</h4>
+                                <h3 className="text-xl font-black text-blue-900 mb-4">Calculation Formula</h3>
                                 <p className="text-blue-800 leading-relaxed font-bold italic mb-4">Reserve Price = Min 85% of (Avg Closing Price of 22K Gold for preceding 30 working days).</p>
                                 <p className="text-blue-700 text-sm">Coming Update: Starting April 1, 2026, the floor rises to 90% of the market value. If two auctions fail, it can be reduced back to 85% only with Board approval.</p>
                             </div>
@@ -257,7 +257,7 @@ export default function GoldLoanSettlementProcessPage() {
                                 If the auction happens, and your gold is sold for ₹10 Lakhs while your total debt was only ₹7 Lakhs, where does the remaining ₹3 Lakhs go? legally, **it belongs to you**.
                             </p>
                             <div className="p-8 bg-[#2E2E2E] rounded-[40px] text-white shadow-2xl relative overflow-hidden text-justify">
-                                <h4 className="text-xl font-black mb-4 uppercase tracking-widest text-[#1F5EFF]">The 7-Day Refund Rule</h4>
+                                <h3 className="text-xl font-black mb-4 uppercase tracking-widest text-[#1F5EFF]">The 7-Day Refund Rule</h3>
                                 <p className="opacity-90 leading-relaxed font-bold mb-4">
                                     RBI guidelines mandate that any surplus from the gold auction must be returned to the borrower within 7 working days.
                                 </p>
@@ -295,11 +295,11 @@ export default function GoldLoanSettlementProcessPage() {
                             <p className="text-lg leading-relaxed mb-10 text-justify">If a lender auctions your gold without a 30-day notice, or sells it below the reserve price, or refuses to return the surplus, you have significant legal leverage.</p>
                             <div className="grid md:grid-cols-2 gap-8 text-justify">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-[#1F5EFF] transition-colors">
-                                    <h5 className="font-black mb-3">Consumer Forum</h5>
+                                    <h3 className="font-black mb-3">Consumer Forum</h3>
                                     <p className="text-sm opacity-70 italic font-medium">Failing to inform the borrower of an auction is considered a 'Deficiency in Service'. Consumer courts have awarded compensation values up to 2x the market value of the gold for such violations.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-[#1F5EFF] transition-colors">
-                                    <h5 className="font-black mb-3">Banking Ombudsman</h5>
+                                    <h4 className="font-black mb-3">Banking Ombudsman</h4>
                                     <p className="text-sm opacity-70 italic font-medium">For NBFCs and Banks, the RBI Ombudsman can halt an auction if procedural irregularities (like lack of newspaper ads) are proven before the auction date.</p>
                                 </div>
                             </div>
@@ -329,7 +329,7 @@ export default function GoldLoanSettlementProcessPage() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-700 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex flex-col gap-2 scale-90 origin-left font-bold text-[10px] uppercase">
@@ -360,7 +360,7 @@ export default function GoldLoanSettlementProcessPage() {
                                     { q: "Is there a rule for 'Internal Auctions'?", a: "RBI strictly prohibits 'Internal' or 'Private' auctions where only bank employees participate. All auctions must be public and advertised to ensure maximum realizable value." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
+                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -385,7 +385,7 @@ export default function GoldLoanSettlementProcessPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Auction Stay Audit</h3>
+                                    <div className="text-lg font-black text-white">Auction Stay Audit</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold italic">
@@ -398,7 +398,7 @@ export default function GoldLoanSettlementProcessPage() {
                             </div>
 
                             <div className="bg-white border border-[#DEDEDE] rounded-2xl p-6 shadow-sm">
-                                <h4 className="font-black text-[#2E2E2E] mb-4 uppercase text-xs tracking-widest border-b pb-2">Gold Recovery Links</h4>
+                                <div className="font-black text-[#2E2E2E] mb-4 uppercase text-xs tracking-widest border-b pb-2">Gold Recovery Links</div>
                                 <div className="space-y-4 text-justify">
                                     <Link href="/what-happens-if-loan-emi-not-paid" className="block text-sm font-bold text-[#4A4A4A] hover:text-[#1F5EFF] transition-colors leading-tight">
                                         EMI Default Rules

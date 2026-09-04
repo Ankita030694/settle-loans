@@ -604,10 +604,10 @@ export default function LokAdalatOrderNonCompliancePage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <FileCheck className="w-4 h-4 text-blue-600" />
                     <span>Specific Performance of Mandatory Injunctions (Order 21 Rule 32 CPC)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Where the Lok Adalat Award directs the bank to issue a closure letter, return title documents, or update credit institutions, and the bank wilfully disobeys, the executing court can invoke Order 21 Rule 32 CPC. The court can order the attachment of bank branch assets, appoint a court commissioner to seize and deliver original title deeds, or even order the civil detention of responsible bank officers for deliberate contempt of the decree.
                   </p>
@@ -752,7 +752,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Verification of Compliance &amp; Certified Award Compilation</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Verification of Compliance &amp; Certified Award Compilation</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Compile an unassailable evidentiary dossier consisting of: a certified copy of the Lok Adalat Award bearing the court seal and judge signatures, computerized bank counterfoil or NEFT/RTGS transaction reference confirming timely payment into the exact settlement loan account, and the bank&apos;s initial compromise sanction communication. This establishes complete, unblemished borrower compliance.
                   </p>
@@ -1132,7 +1132,7 @@ export default function LokAdalatOrderNonCompliancePage() {
                 <Gavel className="w-4 h-4" />
                 <span>Lok Adalat Order Enforcement</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Bank Delaying Your NDC or Misreporting CIBIL?</h4>
+              <div className="font-bold text-base text-white mb-2">Bank Delaying Your NDC or Misreporting CIBIL?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Enforce your Lok Adalat settlement order with seasoned banking advocates. We execute deemed civil court decrees, claim ₹5,000/day RBI penalties, and secure ₹0 closure.
               </p>
@@ -1146,9 +1146,9 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <Scale className="w-4 h-4 text-emerald-500 flex-shrink-0" />

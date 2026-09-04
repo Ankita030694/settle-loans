@@ -517,7 +517,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
               </p>
               <ul className="list-none space-y-4 mb-8">
                 <li className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm border-l-4 border-red-500">
-                  <h4 className="font-bold text-[#2E2E2E] mb-1">Incorrect Asset Description</h4>
+                  <h3 className="font-bold text-[#2E2E2E] mb-1">Incorrect Asset Description</h3>
                   <p className="text-sm">If the property dimensions or boundaries in the SARFAESI notice do not match the original sale deed, the entire recovery process can be declared null and void in the DRT.</p>
                 </li>
                 <li className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm border-l-4 border-red-500">
@@ -598,7 +598,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -646,7 +646,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
             <div className="sticky top-32 space-y-8">
               {/* Primary CTA */}
               <div className="bg-[#2E2E2E] rounded-2xl p-8 shadow-xl border border-[#1F5EFF]/20">
-                <h3 className="text-xl font-black text-white mb-4 leading-tight">Take Back Your <br /> Financial Freedom</h3>
+                <div className="text-xl font-black text-white mb-4 leading-tight">Take Back Your <br /> Financial Freedom</div>
                 <p className="text-[#DEDEDE]/70 text-sm mb-6 font-normal">Our team handles all bank communications and legal notices legally.</p>
                 <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white text-center font-bold py-4 rounded-xl hover:bg-blue-600 transition-all text-sm shadow-lg mb-4">
                   Talk to an Expert
@@ -656,7 +656,7 @@ export default function SecuredVsUnsecuredSettlementPage() {
 
               {/* Related Pages */}
               <div className="bg-white rounded-2xl p-8 border border-gray-100 shadow-sm">
-                <h3 className="text-sm font-black text-[#747474] mb-6 uppercase tracking-widest italic">Related Insights</h3>
+                <div className="text-sm font-black text-[#747474] mb-6 uppercase tracking-widest italic">Related Insights</div>
                 <div className="space-y-4">
                   <Link href="/what-are-the-income-tax-implications-of-a-settled-debt-amount" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-snug">
                     Income Tax Implications

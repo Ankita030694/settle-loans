@@ -212,7 +212,7 @@ export default function PersonalBankruptcyIndia() {
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Moratorium Effect</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Moratorium Effect</h3>
                 <p className="text-lg text-gray-700 mb-4">
                   The most powerful aspect of filing under the IBC is the immediate <span className="font-bold">Interim Moratorium</span>. 
                 </p>
@@ -241,9 +241,9 @@ export default function PersonalBankruptcyIndia() {
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3 flex items-center gap-2">
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3 flex items-center gap-2">
                     <IndianRupee className="w-5 h-5" /> Qualifying Debts
-                  </h4>
+                  </h3>
                   <p className="text-gray-700">Your total qualifying debts cannot exceed ₹35,000.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -326,9 +326,9 @@ export default function PersonalBankruptcyIndia() {
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4 flex items-center gap-2">
+                <h3 className="text-xl font-black text-red-700 mb-4 flex items-center gap-2">
                   <AlertTriangle className="w-6 h-6" /> The Brutal Reality of Bankruptcy in India
-                </h4>
+                </h3>
                 <ul className="space-y-4 text-red-900 text-lg">
                   <li className="flex items-start gap-3">
                     <Check className="w-6 h-6 text-red-500 flex-shrink-0 mt-0.5" />
@@ -459,7 +459,7 @@ export default function PersonalBankruptcyIndia() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                 <AlertCircle className="w-12 h-12 text-[#1F5EFF] mx-auto mb-4 relative z-10" />
-                <h3 className="text-xl font-black mb-4 relative z-10">Avoid Bankruptcy</h3>
+                <div className="text-xl font-black mb-4 relative z-10">Avoid Bankruptcy</div>
                 <p className="text-gray-300 text-sm mb-6 relative z-10">
                   Let us settle your unsecured loans privately. No courts. No public stigma.
                 </p>
@@ -469,9 +469,9 @@ export default function PersonalBankruptcyIndia() {
               </div>
 
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Related Resources
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   {[
                     { name: "Debt Settlement vs Bankruptcy", link: "/debt-settlement-vs-bankruptcy" },

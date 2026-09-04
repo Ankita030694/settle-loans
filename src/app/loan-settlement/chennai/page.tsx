@@ -231,7 +231,7 @@ export default function ChennaiLoanSettlementPage() {
               <p className="mb-8">Chennai's recovery agents often use local social structures to intimidate borrowers. They might visit your "Agraharam" home, your office in a Taramani tech park, or even approach your parents in a suburban neighborhood. This is not just 'collections'; this is harassment. The Chennai City Police and the Tamil Nadu state police have strict guidelines against such behavior. Under Section 506 of the IPC (Criminal Intimidation), any agent who uses threats or abusive language can be reported.</p>
               <div className="grid gap-6 md:grid-cols-2 mb-10">
                 <div className="bg-white p-6 rounded-2xl shadow-sm border border-red-100">
-                  <h4 className="font-black text-red-600 mb-2 font-mono tracking-tighter text-xs uppercase">Violations of Conduct</h4>
+                  <h3 className="font-black text-red-600 mb-2 font-mono tracking-tighter text-xs uppercase">Violations of Conduct</h3>
                   <ul className="text-xs space-y-2 opacity-80 list-disc pl-4">
                     <li>Calls from masked or private numbers at odd hours.</li>
                     <li>Visits to your workplace or relatives' homes.</li>
@@ -402,7 +402,7 @@ export default function ChennaiLoanSettlementPage() {
                 <div className="bg-white p-8 rounded-2xl shadow-sm border border-[#DEDEDE]">
                   <div className="flex justify-between items-start mb-6">
                     <div>
-                      <h4 className="text-xl font-black text-black">IT Lead, Siruseri IT Park</h4>
+                      <h3 className="text-xl font-black text-black">IT Lead, Siruseri IT Park</h3>
                       <p className="text-sm text-gray-500 italic">Situation: Project layoff & health crisis in family</p>
                     </div>
                     <div className="bg-red-50 text-red-600 px-4 py-1 rounded-full text-xs font-black font-mono tracking-tighter">Debt: ₹18.5 Lakhs</div>
@@ -499,7 +499,7 @@ export default function ChennaiLoanSettlementPage() {
               {/* Specialized Chennai CTA */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white px-2 leading-tight uppercase tracking-tighter">Chennai Legal Desk</h3>
+                  <div className="text-lg font-black text-white px-2 leading-tight uppercase tracking-tighter">Chennai Legal Desk</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -514,7 +514,7 @@ export default function ChennaiLoanSettlementPage() {
 
               {/* Trust Section */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                 <h3 className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Why Chennai Trusts Us</h3>
+                 <div className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Why Chennai Trusts Us</div>
                  <div className="space-y-4">
                     <div className="flex gap-3">
                        <span className="text-[#1F5EFF] text-xs">✓</span>
@@ -533,7 +533,7 @@ export default function ChennaiLoanSettlementPage() {
 
               {/* Related Services */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Chennai Services</h3>
+                <div className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Chennai Services</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/services/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

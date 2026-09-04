@@ -210,7 +210,7 @@ export default function CanRecoveryAgentsComeHomePage() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px] relative text-left">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Visit Legalities</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Visit Legalities</div>
                             <TableOfContents
                                 items={[
                                     { id: "legal-status-home-visits", title: "Legal Status Overview" },
@@ -258,7 +258,7 @@ export default function CanRecoveryAgentsComeHomePage() {
                             </p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-white/50 border-l-8 border-blue-500 rounded-2xl">
-                                    <h4 className="text-xl font-black text-blue-900 mb-2 uppercase">The Written Notice</h4>
+                                    <h3 className="text-xl font-black text-blue-900 mb-2 uppercase">The Written Notice</h3>
                                     <p className="text-sm font-bold opacity-70 uppercase tracking-tighter">The bank must provide you with a written notice stating that the case has been handed over to a recovery agency. This notice must contain the agency's name and contact details.</p>
                                 </div>
                                 <div className="p-8 bg-white/50 border-l-8 border-blue-500 rounded-2xl">
@@ -283,7 +283,7 @@ export default function CanRecoveryAgentsComeHomePage() {
                                 Many agents use a psychological tactic known as "presence-based pressure." They stand at the door, talk loudly so neighbors can hear, and try to shame you into letting them inside. Most borrowers cave in to avoid embarrassment. However, once you let them in, their leverage increases.
                             </p>
                             <div className="bg-[#1F5EFF] p-12 rounded-[64px] text-white shadow-3xl text-center relative overflow-hidden my-12">
-                                <h4 className="text-2xl font-black mb-4 uppercase tracking-tighter italic leading-none">The 'Stop at the Gate' Protocol</h4>
+                                <h3 className="text-2xl font-black mb-4 uppercase tracking-tighter italic leading-none">The 'Stop at the Gate' Protocol</h3>
                                 <p className="text-sm font-bold opacity-90 leading-relaxed max-w-2xl mx-auto uppercase tracking-widest italic border-t border-white/20 pt-6">
                                     If an agent visits, you can choose to speak to them through the gate or a window. State clearly: "I will not be allowing you inside. If you have papers to serve, please leave them in the mailbox or send them by registered post."
                                 </p>
@@ -298,7 +298,7 @@ export default function CanRecoveryAgentsComeHomePage() {
                             <p className="text-xl font-bold mb-8 text-[#1F5EFF] italic decoration-gray-200 underline underline-offset-4">"The RBI defines late-night visits as a form of mental cruelty."</p>
                             <div className="grid md:grid-cols-2 gap-8 relative z-10">
                                 <div className="p-8 bg-white border border-gray-200 rounded-3xl shadow-sm text-center">
-                                    <h4 className="text-[#1F5EFF] text-4xl font-black mb-2 italic">07:00</h4>
+                                    <h3 className="text-[#1F5EFF] text-4xl font-black mb-2 italic">07:00</h3>
                                     <p className="text-[10px] font-black uppercase text-gray-400 tracking-widest">Earliest Permitted Start</p>
                                 </div>
                                 <div className="p-8 bg-white border border-gray-200 rounded-3xl shadow-sm text-center">
@@ -321,7 +321,7 @@ export default function CanRecoveryAgentsComeHomePage() {
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                                 <div className="p-8 bg-[#2E2E2E] text-white rounded-3xl border-b-4 border-[#1F5EFF] hover:scale-105 transition-transform cursor-pointer group">
                                     <p className="text-[#1F5EFF] font-black text-xs mb-4 uppercase tracking-[0.2em] group-hover:tracking-[0.4em] transition-all">Doc 01</p>
-                                    <h4 className="text-xl font-black mb-4 leading-none italic uppercase">Bank ID Card</h4>
+                                    <h3 className="text-xl font-black mb-4 leading-none italic uppercase">Bank ID Card</h3>
                                     <p className="text-[10px] leading-relaxed opacity-60 font-bold uppercase">Must be a physical card issued by the Regulated Entity (RE), not just a photocopy.</p>
                                 </div>
                                 <div className="p-8 bg-[#2E2E2E] text-white rounded-3xl border-b-4 border-[#1F5EFF] hover:scale-105 transition-transform cursor-pointer group">
@@ -386,7 +386,7 @@ export default function CanRecoveryAgentsComeHomePage() {
                                 In India, recording an interaction for self-defense is legally admissible and highly effective in silencing bullies.
                             </p>
                             <div className="p-10 bg-white/5 border border-white/10 rounded-[48px]">
-                                <h4 className="text-xl font-black mb-6 uppercase text-[#1F5EFF]">Recording Strategy</h4>
+                                <h3 className="text-xl font-black mb-6 uppercase text-[#1F5EFF]">Recording Strategy</h3>
                                 <ul className="space-y-4 text-sm font-bold italic opacity-70 uppercase tracking-tighter leading-relaxed">
                                     <li className="flex gap-4"><span className="text-[#1F5EFF]">●</span> Inform the agent: "This interaction is being recorded for security and audit purposes."</li>
                                     <li className="flex gap-4"><span className="text-[#1F5EFF]">●</span> Capture their ID card clearly on camera.</li>
@@ -421,7 +421,7 @@ export default function CanRecoveryAgentsComeHomePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -483,7 +483,7 @@ export default function CanRecoveryAgentsComeHomePage() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group relative">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-tighter">Doorstep Defense</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-tighter">Doorstep Defense</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold italic uppercase">
@@ -498,7 +498,7 @@ export default function CanRecoveryAgentsComeHomePage() {
 
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm">
-                                <h4 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 italic leading-none">Protection Hub</h4>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 italic leading-none">Protection Hub</div>
                                 <nav className="space-y-4">
                                     <Link href="/recovery-agents-calling-family-members-law" className="group flex items-center text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">
                                         <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>

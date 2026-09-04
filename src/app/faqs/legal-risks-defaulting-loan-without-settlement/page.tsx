@@ -448,7 +448,7 @@ export default function LegalRisksLoanDefaultPage() {
                             <div className="flex flex-col md:flex-row gap-8 items-center bg-gray-50 p-8 rounded-2xl mb-8">
                                 <div className="text-6xl font-black text-red-500">300</div>
                                 <div>
-                                    <h4 className="font-bold text-xl mb-2">Financial Death Sentence</h4>
+                                    <h3 className="font-bold text-xl mb-2">Financial Death Sentence</h3>
                                     <p className="text-sm">A major default remains on your CIBIL report for at least seven years. Getting a new credit card, a personal loan, or even a basic consumer durable loan for a mobile phone becomes virtually impossible during this period.</p>
                                 </div>
                             </div>
@@ -470,7 +470,7 @@ export default function LegalRisksLoanDefaultPage() {
                             </h2>
                             <div className="grid md:grid-cols-2 gap-6">
                                 <div className="bg-green-50 p-6 rounded-2xl border border-green-100">
-                                    <h4 className="font-bold text-green-900 mb-2">Legal Immunity</h4>
+                                    <h3 className="font-bold text-green-900 mb-2">Legal Immunity</h3>
                                     <p className="text-green-800 text-sm">A formal settlement letter legally bars the bank from filing any further civil or criminal cases for that specific debt.</p>
                                 </div>
                                 <div className="bg-green-50 p-6 rounded-2xl border border-green-100">
@@ -509,7 +509,7 @@ export default function LegalRisksLoanDefaultPage() {
                                 A wilful defaulter is someone who has the capacity to pay but chooses not to, or someone who has diverted loan funds for other purposes.
                             </p>
                             <div className="bg-gray-900 text-[#DEDEDE] p-8 rounded-2xl mb-8">
-                                <h4 className="text-xl font-bold mb-4 uppercase text-[#1F5EFF]">Sanctions include:</h4>
+                                <h3 className="text-xl font-bold mb-4 uppercase text-[#1F5EFF]">Sanctions include:</h3>
                                 <ul className="space-y-4">
                                     <li className="flex gap-4">
                                         <div className="w-6 h-6 rounded bg-red-600 flex-shrink-0"></div>
@@ -529,10 +529,10 @@ export default function LegalRisksLoanDefaultPage() {
                             </h2>
                             <div className="space-y-8">
                                 <div>
-                                    <h4 className="font-black text-xl mb-3 flex items-center">
+                                    <h3 className="font-black text-xl mb-3 flex items-center">
                                         <svg className="w-5 h-5 mr-3 text-[#1F5EFF]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
                                         Right to Notice
-                                    </h4>
+                                    </h3>
                                     <p>You have the constitutional right to be informed. Banks cannot suddenly take your property or file a case without sending at least one formal notice.</p>
                                 </div>
                                 <div>
@@ -712,7 +712,7 @@ export default function LegalRisksLoanDefaultPage() {
                                 <div key={i} className="bg-white p-5 md:p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h5 className="font-bold text-[#2E2E2E]">{review.name}</h5><p className="text-xs text-gray-400">{review.loc}</p></div>
+                                        <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -764,7 +764,7 @@ export default function LegalRisksLoanDefaultPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Free Case Review</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Free Case Review</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
@@ -778,7 +778,7 @@ export default function LegalRisksLoanDefaultPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Legal Guides</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Legal Guides</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/how-to-negotiate-personal-loan-settlement" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

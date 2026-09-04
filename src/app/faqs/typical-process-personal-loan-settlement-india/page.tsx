@@ -389,7 +389,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:border-blue-200 transition-all">
-                                    <h4 className="font-black text-blue-600 mb-3 uppercase tracking-tighter">Fair Practices Code (FPC)</h4>
+                                    <h3 className="font-black text-blue-600 mb-3 uppercase tracking-tighter">Fair Practices Code (FPC)</h3>
                                     <p className="text-gray-700 text-sm leading-relaxed">The FPC mandates that lenders cannot use "Muscle Power" for recovery. Any agent visiting your home must carry an ID card and an authorization letter from the bank. They cannot enter your house without permission, they cannot use abusive language, and they cannot call you between 7 PM and 8 AM. Violation of these is a serious compliance breach.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:border-blue-200 transition-all">
@@ -479,7 +479,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                             </p>
                             <div className="flex flex-col md:flex-row gap-8 mb-12">
                                 <div className="md:w-1/2 p-8 bg-white border-2 border-dashed border-gray-200 rounded-3xl">
-                                    <h4 className="font-black text-gray-900 mb-4 uppercase tracking-widest text-sm">Tactical Lever: The "Third Party"</h4>
+                                    <h3 className="font-black text-gray-900 mb-4 uppercase tracking-widest text-sm">Tactical Lever: The "Third Party"</h3>
                                     <p className="text-gray-600 text-sm leading-relaxed italic">"I don't have this money. My parents are willing to lend me 2.5 lakhs strictly for a final settlement. if this doesn't work out, they will use that money for my sister's education or medical surgery. This is the only cash available to resolve this debt. Once this window closes, the money is gone."</p>
                                 </div>
                                 <div className="md:w-1/2 p-8 bg-white border-2 border-dashed border-gray-200 rounded-3xl">
@@ -525,7 +525,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                                 Once you have the authentic letter, make the payment. Do not pay in cash to an agent. Use traceable methods: Demand Draft (DD), NEFT, RTGS, or a direct deposit at the bank counter. When paying through a digital app, ensure you are using the "Official" app and not a link sent by a recovery agent. Keep the deposit slip or the transaction PDF as if it were gold.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-10 rounded-3xl relative overflow-hidden mb-12">
-                                <h4 className="text-2xl font-black mb-4 tracking-tighter">The Holy Grail: No Dues Certificate (NDC)</h4>
+                                <h3 className="text-2xl font-black mb-4 tracking-tighter">The Holy Grail: No Dues Certificate (NDC)</h3>
                                 <p className="opacity-80 text-lg mb-6 leading-relaxed">After the payment is cleared, the bank is legally obligated to issue a No Dues Certificate (NDC) or a Closure Letter within 15 to 30 days. This is the final step in the typical process for setting a personal loan in India. This document confirms that the debt is dead. Never lose this certificate. Scan it, mail it to yourself, and keep physical copies in multiple safe locations.</p>
                                 <p className="opacity-80 text-lg leading-relaxed italic">Important Note: Ensure the NDC mentions that the bank will update the status with CIBIL within 45 days. If they don't, you will need the NDC to file a dispute with the credit bureau yourself.</p>
                             </div>
@@ -547,11 +547,11 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                                 </p>
                                 <div className="grid md:grid-cols-3 gap-6 mb-8">
                                     <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                        <h5 className="font-bold text-gray-900 mb-2">Private Banks (HDFC, ICICI, Axis)</h5>
+                                        <h3 className="font-bold text-gray-900 mb-2">Private Banks (HDFC, ICICI, Axis)</h3>
                                         <p className="text-xs text-gray-600">They prioritize speed and NPV (Net Present Value). They are often the most willing to give deep discounts (50-70%) if the loan is over 270 days old, as they want to clean their balance sheets for investors.</p>
                                     </div>
                                     <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                        <h5 className="font-bold text-gray-900 mb-2">Public Banks (SBI, PNB, BOB)</h5>
+                                        <h4 className="font-bold text-gray-900 mb-2">Public Banks (SBI, PNB, BOB)</h4>
                                         <p className="text-xs text-gray-600">They follow rigid "OTS Schemes" often launched around the end of the financial year. Negotiation is harder; they prefer you to fit into their pre-approved scheme boxes rather than custom deals.</p>
                                     </div>
                                     <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
@@ -627,7 +627,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                                 <div className="flex gap-6 items-start">
                                     <div className="w-12 h-12 rounded-full bg-blue-600 text-white flex items-center justify-center font-black shrink-0">01</div>
                                     <div>
-                                        <h5 className="font-bold text-gray-900">Year 1: The "Cooling Off" Period</h5>
+                                        <h4 className="font-bold text-gray-900">Year 1: The "Cooling Off" Period</h4>
                                         <p className="text-sm text-gray-600">Do not apply for any credit. Any enquiry will be rejected and further lower your score. Focus on increasing your income and keeping a healthy bank balance. Open a "Fixed Deposit" based Credit Card (Secured Card) with a small limit of ₹20,000 to start building a new positive history.</p>
                                     </div>
                                 </div>
@@ -658,12 +658,12 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                             <div className="grid sm:grid-cols-2 gap-8 mb-16">
                                 <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100 shadow-sm relative overflow-hidden group">
                                     <div className="absolute top-0 right-0 w-24 h-24 bg-blue-100 rounded-bl-full -mr-12 -mt-12 group-hover:scale-125 transition-all"></div>
-                                    <h5 className="text-2xl font-black mb-4 relative z-10 text-blue-900 tracking-tighter">Benchmarking Power</h5>
+                                    <h3 className="text-2xl font-black mb-4 relative z-10 text-blue-900 tracking-tighter">Benchmarking Power</h3>
                                     <p className="text-sm text-blue-800 opacity-80 relative z-10">We deal with thousands of settlements every month. We know the exact "bottom line" for every bank. We know what ICICI will accept versus what HDFC will accept. We don't guess; we leverage data.</p>
                                 </div>
                                 <div className="p-8 bg-purple-50 rounded-3xl border border-purple-100 shadow-sm relative overflow-hidden group">
                                     <div className="absolute top-0 right-0 w-24 h-24 bg-purple-100 rounded-bl-full -mr-12 -mt-12 group-hover:scale-125 transition-all"></div>
-                                    <h5 className="text-2xl font-black mb-4 relative z-10 text-purple-900 tracking-tighter">Legal Shielding</h5>
+                                    <h4 className="text-2xl font-black mb-4 relative z-10 text-purple-900 tracking-tighter">Legal Shielding</h4>
                                     <p className="text-sm text-purple-800 opacity-80 relative z-10">Our legal team acts as your proxy. handle all recovery calls and legal notices. This stops the mental trauma and lets you focus on your work and family.</p>
                                 </div>
                             </div>
@@ -800,7 +800,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">A</div>
                                         <div>
-                                            <h5 className="font-bold text-[#2E2E2E]">Amit Sharma</h5>
+                                            <h3 className="font-bold text-[#2E2E2E]">Amit Sharma</h3>
                                             <p className="text-xs text-gray-400">Mumbai | Private Bank</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -827,7 +827,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">P</div>
                                         <div>
-                                            <h5 className="font-bold text-[#2E2E2E]">Priya Varma</h5>
+                                            <h4 className="font-bold text-[#2E2E2E]">Priya Varma</h4>
                                             <p className="text-xs text-gray-400">Delhi | NBFC</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -880,7 +880,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider italic">Expert Help</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider italic">Expert Help</div>
                                     <div className="flex justify-center gap-1 mt-1">
                                         {[...Array(5)].map((_, i) => (
                                             <FontAwesomeIcon key={i} icon={faStar} className="text-yellow-300 text-[8px]" />
@@ -900,7 +900,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-8 rounded-2xl border border-gray-100 shadow-lg">
-                                <h3 className="text-sm font-black uppercase tracking-widest text-[#2E2E2E] mb-6 border-b border-gray-50 pb-3 italic">Essential Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-widest text-[#2E2E2E] mb-6 border-b border-gray-50 pb-3 italic">Essential Guides</div>
                                 <ul className="space-y-6 text-sm font-bold">
                                     <li>
                                         <Link href="/faqs/how-to-negotiate-personal-loan-settlement" className="group flex items-start text-gray-500 hover:text-[#1F5EFF] transition-colors leading-tight">

@@ -295,7 +295,7 @@ export default function PersonalLoanSettlementImmediatelyPage() {
                     <div key={i} className="flex gap-6 p-6 border border-gray-100 rounded-2xl hover:shadow-md transition-all">
                         <div className="w-12 h-12 rounded-xl bg-blue-50 text-[#1F5EFF] flex items-center justify-center font-black shrink-0">{i+1}</div>
                         <div>
-                            <h4 className="font-black text-xl mb-2">{item.title}</h4>
+                            <h3 className="font-black text-xl mb-2">{item.title}</h3>
                             <p className="text-gray-600 leading-relaxed text-sm">{item.desc}</p>
                         </div>
                     </div>
@@ -346,7 +346,7 @@ export default function PersonalLoanSettlementImmediatelyPage() {
                 ].map((item, i) => (
                     <div key={i} className="relative pl-16">
                         <div className="absolute left-0 top-0 text-5xl font-black text-[#1F5EFF]/10 select-none">{item.step}</div>
-                        <h4 className="text-2xl font-black mb-4">{item.title}</h4>
+                        <h3 className="text-2xl font-black mb-4">{item.title}</h3>
                         <p className="text-gray-600 text-lg leading-relaxed">{item.content}</p>
                     </div>
                 ))}
@@ -377,7 +377,7 @@ export default function PersonalLoanSettlementImmediatelyPage() {
                     { title: "Year 2+", text: "Score begins climbing above 700. Eligibility returns." }
                 ].map((item, i) => (
                     <div key={i} className="bg-white p-6 border border-gray-100 rounded-2xl text-center shadow-sm">
-                        <h5 className="font-black text-[#1F5EFF] mb-2">{item.title}</h5>
+                        <h3 className="font-black text-[#1F5EFF] mb-2">{item.title}</h3>
                         <p className="text-xs text-gray-500 font-bold">{item.text}</p>
                     </div>
                 ))}
@@ -393,7 +393,7 @@ export default function PersonalLoanSettlementImmediatelyPage() {
                 When you are desperate for the settlement of personal loan immediately with low funds, you become a target for scammers. Many fake 'debt relief' agencies promise to make your debt disappear for a small fee.
             </p>
             <div className="bg-amber-50 p-8 rounded-3xl border-2 border-amber-200">
-                <h4 className="text-xl font-black text-amber-900 mb-4">Red Flags to Watch For:</h4>
+                <h3 className="text-xl font-black text-amber-900 mb-4">Red Flags to Watch For:</h3>
                 <ul className="space-y-3 text-amber-900/80 font-bold text-sm">
                     <li>• Promise to 'delete' your records from CIBIL.</li>
                     <li>• Asking for payment to 'agent's personal account'.</li>
@@ -411,7 +411,7 @@ export default function PersonalLoanSettlementImmediatelyPage() {
                     { name: "Sunita M.", city: "Hyderabad", story: "With multiple credit card debts of 8 lakhs and a medical crisis in the family, Sunita was being harassed by 20+ agents daily. We took over her case, stopped the calls immediately, and achieved an 80% waiver on the total amount. She settled for 1.6 lakhs." }
                 ].map((caseStudy, i) => (
                     <div key={i} className="bg-gray-50 p-10 rounded-[40px] border border-gray-200 shadow-inner">
-                        <h4 className="text-2xl font-black mb-2">{caseStudy.name} ({caseStudy.city})</h4>
+                        <h3 className="text-2xl font-black mb-2">{caseStudy.name} ({caseStudy.city})</h3>
                         <p className="text-lg italic opacity-80 leading-relaxed">"{caseStudy.story}"</p>
                     </div>
                 ))}
@@ -473,7 +473,7 @@ export default function PersonalLoanSettlementImmediatelyPage() {
                 <div className="w-16 h-16 rounded-2xl bg-white/5 flex items-center justify-center mb-6 group-hover:bg-[#1F5EFF] transition-colors">
                     <svg className="w-8 h-8 text-[#1F5EFF] group-hover:text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path></svg>
                 </div>
-                <h3 className="text-2xl font-black text-white text-center mb-4 leading-tight">Expert Legal Protection</h3>
+                <div className="text-2xl font-black text-white text-center mb-4 leading-tight">Expert Legal Protection</div>
                 <p className="text-center text-[#DEDEDE] opacity-70 text-sm mb-8 font-bold">
                   Stop the harassment and settle for much less than you owe.
                 </p>
@@ -484,7 +484,7 @@ export default function PersonalLoanSettlementImmediatelyPage() {
 
             {/* Related Pages */}
             <div className="bg-white p-8 rounded-[30px] border border-gray-100 shadow-sm">
-              <h3 className="text-xs font-black uppercase tracking-[0.2em] text-gray-400 mb-6 border-b border-gray-100 pb-4">Essential Mastery</h3>
+              <div className="text-xs font-black uppercase tracking-[0.2em] text-gray-400 mb-6 border-b border-gray-100 pb-4">Essential Mastery</div>
               <ul className="space-y-6">
                  {[
                    { name: "Can Agents Call Family?", href: "/can-recovery-agents-call-family-colleagues" },

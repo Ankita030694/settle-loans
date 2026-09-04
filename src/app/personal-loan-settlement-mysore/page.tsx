@@ -1109,14 +1109,14 @@ export default function PersonalLoanSettlementMysorePage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -1149,9 +1149,9 @@ export default function PersonalLoanSettlementMysorePage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Mysore Debt Dispute Resolution</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Facing Loan Recovery in Mysore or Mandya?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Stop aggressive recovery calls, workplace inquiries, and recurring NACH return fees immediately. Let our experienced banking advocates audit your delinquency stage, defend statutory court notices, draft your formal OTS petition, and secure an authentic stamped settlement letter.
               </p>
@@ -1165,10 +1165,10 @@ export default function PersonalLoanSettlementMysorePage() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

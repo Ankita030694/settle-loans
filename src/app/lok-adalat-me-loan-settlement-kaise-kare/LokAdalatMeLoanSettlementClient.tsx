@@ -880,7 +880,7 @@ export default function LokAdalatMeLoanSettlementClient() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Lok Adalat Legal Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Received a Lok Adalat Notice?</h4>
+              <div className="font-bold text-base text-white mb-2">Received a Lok Adalat Notice?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Halt unlawful recovery harassment, prepare a bulletproof financial hardship file, and negotiate a formal 40%–75% debt haircut directly with senior bank managers.
               </p>
@@ -894,9 +894,9 @@ export default function LokAdalatMeLoanSettlementClient() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Statutory Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

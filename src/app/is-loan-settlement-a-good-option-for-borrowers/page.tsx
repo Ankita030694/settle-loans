@@ -360,7 +360,7 @@ export default function LoanSettlementGoodOptionPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-lg mb-2 text-[#2E2E2E]">Credit Cards (High Leverage)</h4>
+                                    <h3 className="font-bold text-lg mb-2 text-[#2E2E2E]">Credit Cards (High Leverage)</h3>
                                     <p className="text-sm text-gray-600 leading-relaxed">Since these are completely unsecured, banks are more likely to settle. We have negotiated discounts up to 80% on long-delinquent credit card bills because the bank would rather have 20% than 0%.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -430,7 +430,7 @@ export default function LoanSettlementGoodOptionPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-orange-200 shadow-sm border-t-4 border-t-orange-500">
-                                    <h4 className="font-bold text-orange-700 mb-3 uppercase text-sm tracking-tighter">Immediate Impact</h4>
+                                    <h3 className="font-bold text-orange-700 mb-3 uppercase text-sm tracking-tighter">Immediate Impact</h3>
                                     <ul className="text-sm space-y-3 text-gray-600">
                                         <li>• Initial credit score drop of 75-150 points.</li>
                                         <li>• Immediate rejection for new credit card applications.</li>
@@ -477,7 +477,7 @@ export default function LoanSettlementGoodOptionPage() {
                             <div className="relative border-l-2 border-[#1F5EFF]/30 pl-8 ml-4 space-y-12">
                                 <div className="relative">
                                     <div className="absolute -left-[41px] top-0 w-5 h-5 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm"></div>
-                                    <h4 className="font-bold text-xl mb-2 text-[#2E2E2E]">Step 1: Financial forensic analysis</h4>
+                                    <h3 className="font-bold text-xl mb-2 text-[#2E2E2E]">Step 1: Financial forensic analysis</h3>
                                     <p className="text-sm text-gray-600 leading-relaxed">We review your total debt, income sources, and liquidity. We identify the 'Critical Point'—the maximum amount you can realistically afford to pay as a lump sum without going into further debt.</p>
                                 </div>
                                 <div className="relative">
@@ -538,7 +538,7 @@ export default function LoanSettlementGoodOptionPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -635,7 +635,7 @@ export default function LoanSettlementGoodOptionPage() {
                             </p>
                             <div className="grid md:grid-cols-3 gap-6 mb-8">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl text-center">
-                                    <h4 className="font-bold mb-2">Step 1: The Six-Month Gap</h4>
+                                    <h3 className="font-bold mb-2">Step 1: The Six-Month Gap</h3>
                                     <p className="text-xs text-gray-500">Wait at least 6 months before applying for even a small credit card. Let your report stabilize after the settlement update.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl text-center">
@@ -659,7 +659,7 @@ export default function LoanSettlementGoodOptionPage() {
                             </p>
                             <div className="space-y-6">
                                 <div className="p-6 bg-red-50/50 border border-red-100 rounded-xl">
-                                    <h4 className="font-bold text-red-800 mb-2 underline">Mistake 1: Paying without the Settlement Letter</h4>
+                                    <h3 className="font-bold text-red-800 mb-2 underline">Mistake 1: Paying without the Settlement Letter</h3>
                                     <p className="text-sm leading-relaxed text-gray-700">NEVER pay based on a verbal promise from a recovery agent. Often, agents will promise a settlement just to meet their monthly collection targets. Once you pay, the bank may treat it as a 'partial payment' and keep the case active. Demand a PDF or physical letter from the bank's official domain first.</p>
                                 </div>
                                 <div className="p-6 bg-red-50/50 border border-red-100 rounded-xl">
@@ -732,7 +732,7 @@ export default function LoanSettlementGoodOptionPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase">Expert Help</h3>
+                                    <div className="text-lg font-black text-white uppercase">Expert Help</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -744,7 +744,7 @@ export default function LoanSettlementGoodOptionPage() {
                                 </div>
                             </div>
                             <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm">
-                                <h4 className="font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Decision Tools</h4>
+                                <div className="font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Decision Tools</div>
                                 <ul className="space-y-4">
                                     <li><Link href="/can-you-get-a-loan-again-after-settling-a-previous-loan" className="text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Can You Loan Again?</Link></li>
                                     <li><Link href="/is-loan-settlement-a-good-option-for-borrowers" className="text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Is Settlement Good?</Link></li>

@@ -678,7 +678,7 @@ export default function JobLossLoanSettlementPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-4">
                   <div className="text-xs font-bold uppercase tracking-wider text-slate-500 mb-1">Days 1 – 90</div>
-                  <h4 className="font-bold text-slate-900 text-base mb-2">SMA-0 to SMA-2 Stage</h4>
+                  <h3 className="font-bold text-slate-900 text-base mb-2">SMA-0 to SMA-2 Stage</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Automated collection calls, repeated NACH sweeps, and agency pressure. Bank insists on full EMI regularization; settlement discounts are minimal.
                   </p>
@@ -793,10 +793,10 @@ export default function JobLossLoanSettlementPage() {
                 <li><strong>Prohibition of Threatening Language:</strong> Intimidation, verbal abuse, public humiliation, and false threats of police arrest or asset seizure constitute punishable offenses under Indian criminal law.</li>
               </ul>
               <div className="bg-slate-50 border border-slate-200 rounded-xl p-5 my-6">
-                <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-2 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-2 flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Enforcement Protocol for Harassment Violations</span>
-                </h4>
+                </h3>
                 <p className="text-xs text-slate-600 leading-relaxed">
                   When recovery agents violate these statutory norms, legal counsel issues a formal <strong>Legal Cease-and-Desist Notice</strong> to the bank&apos;s Managing Director and Principal Nodal Officer (PNO). If the lender fails to halt collection harassment within 30 days, a formal regulatory complaint is lodged on the RBI Integrated Ombudsman portal (<a href="https://cms.rbi.org.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline">cms.rbi.org.in</a>). Under RBI guidelines, lending institutions face severe financial penalties and regulatory sanctions for third-party agency misconduct.
                 </p>
@@ -847,10 +847,10 @@ export default function JobLossLoanSettlementPage() {
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">1</span>
                     <span>Comprehensive Delinquency &amp; Ledger Audit</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Obtain the complete Statement of Account (SOA) from the lender. Reconcile all historical EMI payments, isolate the core unamortized principal balance, and demand 100% elimination of all accumulated late fees, cheque bounce surcharges, and penal interest compounded post-default.
                   </p>
@@ -1186,14 +1186,14 @@ export default function JobLossLoanSettlementPage() {
                   </div>
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -1226,9 +1226,9 @@ export default function JobLossLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Job Loss Hardship Advisory</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Lost Your Job &amp; Facing Loan Default?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Stop aggressive recovery calls and repeated NACH return fees immediately. Let our experienced banking advocates compile your formal hardship dossier, reply to statutory legal notices, and negotiate an authorized 50% to 70% OTS debt waiver with your lenders.
               </p>
@@ -1242,10 +1242,10 @@ export default function JobLossLoanSettlementPage() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Distressed Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

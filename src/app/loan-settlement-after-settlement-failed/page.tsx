@@ -280,7 +280,7 @@ export default function LoanSettlementFailedPage() {
             </p>
             <div className="grid sm:grid-cols-2 gap-6 my-8">
               <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                <h4 className="font-bold text-red-800 mb-2">Reinstatement of Dues</h4>
+                <h3 className="font-bold text-red-800 mb-2">Reinstatement of Dues</h3>
                 <p className="text-sm text-red-900/80">The bank adds back the 30% to 60% they waived off, plus panel interest from the date of the first default.</p>
               </div>
               <div className="bg-orange-50 p-6 rounded-xl border border-orange-100">
@@ -352,7 +352,7 @@ export default function LoanSettlementFailedPage() {
                 { title: "Guarantor Involvement", desc: "Bringing in a co-signer or a family guarantor for the settlement amount can provide the extra layer of security the bank needs." }
               ].map((item, i) => (
                 <div key={i} className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-black text-[#1F5EFF] mb-2">{item.title}</h4>
+                  <h3 className="font-black text-[#1F5EFF] mb-2">{item.title}</h3>
                   <p className="text-sm opacity-80">{item.desc}</p>
                 </div>
               ))}
@@ -464,7 +464,7 @@ export default function LoanSettlementFailedPage() {
                   <div className="absolute -top-4 left-8 bg-[#1F5EFF] text-white py-1 px-4 rounded-full text-xs font-bold uppercase tracking-widest">Case Study #{i+1}</div>
                    <div className="flex justify-between items-start mb-6">
                       <div>
-                        <h4 className="text-xl font-bold">{item.name}</h4>
+                        <h3 className="text-xl font-bold">{item.name}</h3>
                         <p className="text-sm text-gray-500">{item.loc}</p>
                       </div>
                       <div className="text-right">
@@ -520,7 +520,7 @@ export default function LoanSettlementFailedPage() {
             
              <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                <div className="bg-[#1F5EFF] p-4 text-center">
-                 <h3 className="text-lg font-black text-white px-2">Struggling with a Failed OTS?</h3>
+                 <div className="text-lg font-black text-white px-2">Struggling with a Failed OTS?</div>
                </div>
                <div className="p-8 text-center">
                 <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed">
@@ -547,7 +547,7 @@ export default function LoanSettlementFailedPage() {
             </div>
 
             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-              <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-2">Related Information</h3>
+              <div className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-2">Related Information</div>
               <ul className="space-y-5 text-sm font-bold">
                  <li>
                   <Link href="/loan-settlement-with-iarc" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-all">

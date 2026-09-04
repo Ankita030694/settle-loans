@@ -346,7 +346,7 @@ export default function StopLoanHarassmentPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8 text-lg">
                 <div className="bg-orange-50/50 p-6 rounded-xl border border-orange-100">
-                  <h4 className="font-bold text-orange-800 mb-2">Identification Requirement</h4>
+                  <h3 className="font-bold text-orange-800 mb-2">Identification Requirement</h3>
                   <p className="text-sm text-orange-900/80">Every agent who visits your home must carry a valid ID card issued by the bank or the agency. They must also have a formal authorization letter from the lender specific to your loan account. If they cannot produce these documents, you have every right to ask them to leave your property immediately.</p>
                 </div>
                 <div className="bg-emerald-50/50 p-6 rounded-xl border border-emerald-100">
@@ -543,7 +543,7 @@ export default function StopLoanHarassmentPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -614,7 +614,7 @@ export default function StopLoanHarassmentPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Stop The Calls Now</h3>
+                  <div className="text-lg font-black text-white">Stop The Calls Now</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -629,7 +629,7 @@ export default function StopLoanHarassmentPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Resources</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Resources</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/rbi-guidelines-calling-after-7pm" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

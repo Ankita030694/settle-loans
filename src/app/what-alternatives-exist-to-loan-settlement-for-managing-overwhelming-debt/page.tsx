@@ -468,7 +468,7 @@ export default function DebtAlternativesPage() {
               </p>
               <div className="space-y-8 my-10">
                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-4 bg-gray-50 rounded-r-xl shadow-sm">
-                  <h4 className="font-black text-xl mb-2 uppercase text-[#1F5EFF]">CIBIL Neutral Reputation</h4>
+                  <h3 className="font-black text-xl mb-2 uppercase text-[#1F5EFF]">CIBIL Neutral Reputation</h3>
                   <p className="text-sm text-gray-700 leading-relaxed mb-2 font-bold italic">DMPs are reported to credit bureaus as "Regular Payments under Agreement" or "Payment Plan Active," which is significantly better than reaching the "Settled" status.</p>
                   <p className="text-sm text-gray-500">Bureau algorithms view this as a proactive effort to pay back every rupee of the principal, which preserves your integrity as a borrower and allows your score to recover as the debt balance decreases.</p>
                 </div>
@@ -634,7 +634,7 @@ export default function DebtAlternativesPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Protect Your CIBIL</h3>
+                  <div className="text-lg font-black text-white">Protect Your CIBIL</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -649,7 +649,7 @@ export default function DebtAlternativesPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Top Debt Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Top Debt Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/debt-settlement-vs-debt-consolidation" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

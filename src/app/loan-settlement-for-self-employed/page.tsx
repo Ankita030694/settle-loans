@@ -426,7 +426,7 @@ export default function LoanSettlementSelfEmployedPage() {
                 ].map((item, i) => (
                   <div key={i} className="relative pl-8">
                     <div className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">{item.step}</h4>
+                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">{item.step}</h3>
                     <p className="text-gray-600 leading-relaxed">{item.content}</p>
                   </div>
                 ))}
@@ -554,7 +554,7 @@ export default function LoanSettlementSelfEmployedPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -640,7 +640,7 @@ export default function LoanSettlementSelfEmployedPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white px-2">Protect Your Business</h3>
+                  <div className="text-lg font-black text-white px-2">Protect Your Business</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -655,7 +655,7 @@ export default function LoanSettlementSelfEmployedPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Business Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Business Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/business-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

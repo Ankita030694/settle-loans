@@ -291,7 +291,7 @@ export default function IDFCFirstBankSettlementPage() {
                  <li className="flex items-start">
                     <div className="bg-[#9C1D26] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">1</div>
                     <div>
-                        <h4 className="font-bold text-xl mb-1">Portfolio Audit</h4>
+                        <h3 className="font-bold text-xl mb-1">Portfolio Audit</h3>
                         <p>We analyze all your IDFC products. Often: one loan is an EMI and another is a card. we determine if a 'Composite Settlement' is possible for a better overall discount.</p>
                     </div>
                  </li>
@@ -328,7 +328,7 @@ export default function IDFCFirstBankSettlementPage() {
                 One significant factor in IDFC card settlement is the 'Default Duration.' Generally: cards defaulted for more than 120 days yield the best settlement offers. At this stage: the account is usually 'Written Off' in the bank's books: giving the recovery managers more flexibility to accept lower amounts to meet their monthly recovery targets.
               </p>
               <div className="bg-slate-50 p-6 rounded-xl border border-slate-200">
-                 <h4 className="font-black text-[#9C1D26] mb-4">Pro Insight for IDFC Customers:</h4>
+                 <h3 className="font-black text-[#9C1D26] mb-4">Pro Insight for IDFC Customers:</h3>
                  <p className="italic">
                    Never agree to a settlement offer via WhatsApp or a third party link. Always insist on a formal letter from the @idfcfirstbank.com domain. we verify every digital offer to protect you from fraudulent collection scams.
                  </p>
@@ -342,11 +342,11 @@ export default function IDFCFirstBankSettlementPage() {
               </p>
               <div className="space-y-4">
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h5 className="font-bold text-[#9C1D26]">Job Loss / Business Failure</h5>
+                    <h3 className="font-bold text-[#9C1D26]">Job Loss / Business Failure</h3>
                     <p>Documented proof of unemployment for over 6 months or business closure notices. Bank statements showing zero income for several months are highly effective.</p>
                  </div>
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h5 className="font-bold text-[#9C1D26]">Major Medical Emergency</h5>
+                    <h4 className="font-bold text-[#9C1D26]">Major Medical Emergency</h4>
                     <p>Chronic illness or accidents involving the primary borrower or immediate family. Hospital bills and discharge summaries are required for this category.</p>
                  </div>
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
@@ -396,11 +396,11 @@ export default function IDFCFirstBankSettlementPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-12">
                  <div className="p-6 bg-[#fff1f2] rounded-xl border-t-4 border-[#9C1D26]">
-                    <h5 className="font-bold mb-2">Nodal Officer Access</h5>
+                    <h3 className="font-bold mb-2">Nodal Officer Access</h3>
                     <p className="text-sm">We maintain direct channels with the core recovery committees: bypassing the entry level collection agents who have no waiver power.</p>
                  </div>
                  <div className="p-6 bg-[#fff1f2] rounded-xl border-t-4 border-[#9C1D26]">
-                    <h5 className="font-bold mb-2">Immediate Legal Buffer</h5>
+                    <h4 className="font-bold mb-2">Immediate Legal Buffer</h4>
                     <p className="text-sm">From the day you sign up: we become your shield. we handle the calls and the notices so you can focus on your recovery.</p>
                  </div>
                  <div className="p-6 bg-[#fff1f2] rounded-xl border-t-4 border-[#9C1D26]">
@@ -519,7 +519,7 @@ export default function IDFCFirstBankSettlementPage() {
                     { q: "How do I check if my account is settled in CIBIL?", a: "You can check your CIBIL report 45 days after payment. it should show the status as 'Settled.' we follow up with the bank if it doesn't." }
                   ].map((faq, i) => (
                     <div key={i} className="border-b border-slate-200 pb-6">
-                        <h4 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h4>
+                        <h3 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h3>
                         <p className="text-[#4a5568]">{faq.a}</p>
                     </div>
                   ))}
@@ -581,7 +581,7 @@ export default function IDFCFirstBankSettlementPage() {
               {/* CTA Container */}
               <div className="bg-[#9C1D26] rounded-2xl shadow-xl overflow-hidden border border-white/10 group">
                 <div className="bg-white p-4 text-center">
-                  <h3 className="text-lg font-black text-[#9C1D26]">IDFC First Debt Stress?</h3>
+                  <div className="text-lg font-black text-[#9C1D26]">IDFC First Debt Stress?</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-white opacity-80 leading-relaxed font-medium">
@@ -596,7 +596,7 @@ export default function IDFCFirstBankSettlementPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#718096] mb-4 border-b pb-2">Related Banks</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#718096] mb-4 border-b pb-2">Related Banks</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement/hdfc-bank" className="group flex items-center text-[#2d3748] hover:text-[#9C1D26] transition-colors">

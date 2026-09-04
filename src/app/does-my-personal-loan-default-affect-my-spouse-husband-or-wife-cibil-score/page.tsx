@@ -287,7 +287,7 @@ export default function SpouseCibilScorePage() {
             </p>
             <div className="grid md:grid-cols-2 gap-6 my-8">
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">Individual PAN Cards</h4>
+                <h3 className="font-black text-[#1F5EFF] mb-3 text-lg">Individual PAN Cards</h3>
                 <p className="text-sm leading-relaxed">Credit histories are mapped to PAN numbers. Since you and your spouse have different PAN cards, your credit histories remain isolated.</p>
               </div>
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -353,7 +353,7 @@ export default function SpouseCibilScorePage() {
               A common and highly illegal tactic used by recovery agencies is calling a borrower's spouse, parents, or employer to shame them into paying. If a <strong>bank is calling your spouse for your loan</strong> (and they are not a co-applicant), it is a severe violation of RBI guidelines.
             </p>
             <div id="legal-protections" className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8 scroll-mt-32">
-              <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Your Legal Protections Under RBI Rules:</h4>
+              <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Your Legal Protections Under RBI Rules:</h3>
               <ul className="space-y-4 text-blue-900 font-medium">
                 <li className="flex items-start gap-3">
                    <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -417,7 +417,7 @@ export default function SpouseCibilScorePage() {
                       {review.name.charAt(0)}
                     </div>
                     <div>
-                      <h5 className="font-black text-[#2E2E2E]">{review.name}</h5>
+                      <h3 className="font-black text-[#2E2E2E]">{review.name}</h3>
                       <p className="text-xs text-[#747474] font-bold uppercase tracking-wider">{review.loc}</p>
                     </div>
                     <div className="ml-auto flex text-yellow-400">
@@ -458,7 +458,7 @@ export default function SpouseCibilScorePage() {
                 { q: "Does a joint bank account make my spouse liable?", a: "Having a joint savings account does not make your spouse liable for an individual personal loan, though the bank may try to set off funds if the loan account is linked to it." }
               ].map((faq, i) => (
                 <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h4 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h4>
+                  <h3 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h3>
                   <p className="text-gray-600 leading-relaxed">{faq.a}</p>
                 </div>
               ))}
@@ -487,13 +487,13 @@ export default function SpouseCibilScorePage() {
           <div className="sticky top-24 space-y-8">
              <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl overflow-hidden relative group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                <h3 className="text-2xl font-black mb-4 relative z-10">Spouse Being Harassed?</h3>
+                <div className="text-2xl font-black mb-4 relative z-10">Spouse Being Harassed?</div>
                 <p className="text-white/70 text-sm mb-6 relative z-10">Legal intervention to stop agents from calling your family members.</p>
                 <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-black py-4 rounded-xl hover:bg-[#1F5EFF]/90 transition-colors shadow-lg relative z-10">Get Legal Help</Link>
              </div>
 
              <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-4">Related Resources</h3>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-4">Related Resources</div>
                 <ul className="space-y-5">
                    <li>
                       <Link href="/loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold transition-colors">

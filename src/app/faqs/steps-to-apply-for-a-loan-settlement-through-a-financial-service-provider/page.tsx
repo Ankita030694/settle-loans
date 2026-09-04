@@ -306,7 +306,7 @@ export default function SettlementStepsPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-bold text-lg mb-3 text-gray-900">Hardship Analysis</h4>
+                                    <h3 className="font-bold text-lg mb-3 text-gray-900">Hardship Analysis</h3>
                                     <p className="text-gray-700 text-sm">We document exactly why you cannot pay. Whether it is a documented medical crisis, a layoff, or a failed business venture, we build a "Hardship File" that the bank's audit team cannot ignore.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
@@ -364,7 +364,7 @@ export default function SettlementStepsPage() {
                                         </div>
                                     </div>
                                     <div className="md:w-2/3 p-8">
-                                        <h4 className="text-xl font-bold text-gray-900 mb-4">Leveraging Floor Rates</h4>
+                                        <h3 className="text-xl font-bold text-gray-900 mb-4">Leveraging Floor Rates</h3>
                                         <p className="text-gray-700 leading-relaxed text-sm">
                                             Banks have internal "Floor Rates" - the minimum amount they are authorized to accept for a specific loan type. Professionals know these rates for every major bank in India, allowing them to push for the deepest possible waiver without causing a rejection by the bank's audit committee.
                                         </p>
@@ -423,7 +423,7 @@ export default function SettlementStepsPage() {
                                     <div key={idx} className="flex gap-4 p-5 rounded-2xl bg-gray-50 border border-gray-100">
                                         <div className="flex-shrink-0 w-8 h-8 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-bold">{idx + 1}</div>
                                         <div>
-                                            <h5 className="font-bold text-gray-900">{item.t}</h5>
+                                            <h3 className="font-bold text-gray-900">{item.t}</h3>
                                             <p className="text-sm text-gray-600">{item.d}</p>
                                         </div>
                                     </div>
@@ -441,7 +441,7 @@ export default function SettlementStepsPage() {
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
                                     <FontAwesomeIcon icon={faScaleBalanced} className="text-blue-600 mb-4 w-6 h-6" />
-                                    <h4 className="font-bold mb-2">Section 138 NI Act</h4>
+                                    <h3 className="font-bold mb-2">Section 138 NI Act</h3>
                                     <p className="text-xs text-gray-600">Criminal proceedings for cheque bounce. Professional lawyers ensure that the settlement includes a clause for the withdrawal of these cases.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
@@ -479,7 +479,7 @@ export default function SettlementStepsPage() {
                             </p>
                             <div className="grid sm:grid-cols-3 gap-6 mb-8 text-center">
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl">
-                                    <h4 className="font-bold mb-2">Physical Office?</h4>
+                                    <h3 className="font-bold mb-2">Physical Office?</h3>
                                     <p className="text-xs text-gray-500">Never work with a 'virtual' firm. Ensure they have a registered physical office and a legitimate legal team you can meet.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl">
@@ -589,7 +589,7 @@ export default function SettlementStepsPage() {
                                 <div key={i} className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h5 className="font-bold text-[#2E2E2E]">{review.name}</h5><p className="text-xs text-gray-400">{review.loc}</p></div>
+                                        <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -640,7 +640,7 @@ export default function SettlementStepsPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group text-[#DEDEDE]">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Expert Help</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Expert Help</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm opacity-80 leading-relaxed font-normal">
@@ -654,7 +654,7 @@ export default function SettlementStepsPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Step-by-Step</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Step-by-Step</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

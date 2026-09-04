@@ -344,7 +344,7 @@ export default function HomeLoanOnlineSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-bold text-lg mb-3 text-gray-900">13(2) Notice Audit</h4>
+                                    <h3 className="font-bold text-lg mb-3 text-gray-900">13(2) Notice Audit</h3>
                                     <p className="text-gray-700 text-sm">Online platforms allow you to upload this demand notice and receive an AI-driven analysis of its validity. They check if the bank has accurately calculated the outstanding and given the mandatory 60-day window.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
@@ -394,7 +394,7 @@ export default function HomeLoanOnlineSettlementPage() {
                                     <li className="flex gap-4">
                                         <FontAwesomeIcon icon={faScaleBalanced} className="text-[#1F5EFF] w-6 h-6 mt-1" />
                                         <div>
-                                            <h5 className="font-bold text-lg">Neutral Territory</h5>
+                                            <h4 className="font-bold text-lg">Neutral Territory</h4>
                                             <p className="text-gray-400 text-sm">Online sessions remove the intimidation factor of bank offices or courtrooms, leading to more balanced and empathetic outcomes for the borrower.</p>
                                         </div>
                                     </li>
@@ -509,11 +509,11 @@ export default function HomeLoanOnlineSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-4">
                                 <div className="p-6 rounded-2xl bg-red-50 border border-red-100">
-                                    <h5 className="font-bold text-red-900 mb-2">Red Flag: Upfront Settlement Funds</h5>
+                                    <h3 className="font-bold text-red-900 mb-2">Red Flag: Upfront Settlement Funds</h3>
                                     <p className="text-xs text-red-800">Never deposit the actual settlement amount into a third-party account. A legitimate agency will always guide you to pay the bank directly through official bank channels.</p>
                                 </div>
                                 <div className="p-6 rounded-2xl bg-red-50 border border-red-100">
-                                    <h5 className="font-bold text-red-900 mb-2">Red Flag: Guaranteed Percentages</h5>
+                                    <h4 className="font-bold text-red-900 mb-2">Red Flag: Guaranteed Percentages</h4>
                                     <p className="text-xs text-red-800">No one can guarantee a specific waiver on a home loan without talking to the bank head office. Be wary of anyone promising an 'Instant 50% Off' on secured debt.</p>
                                 </div>
                             </div>
@@ -594,7 +594,7 @@ export default function HomeLoanOnlineSettlementPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">SARFAESI Defense</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">SARFAESI Defense</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
@@ -611,13 +611,13 @@ export default function HomeLoanOnlineSettlementPage() {
                                 <div className="flex justify-center mb-4">
                                     <FontAwesomeIcon icon={faShieldHalved} className="text-[#1F5EFF] text-4xl" />
                                 </div>
-                                <h4 className="text-xl font-black text-gray-900 mb-2">94% Success</h4>
+                                <div className="text-xl font-black text-gray-900 mb-2">94% Success</div>
                                 <p className="text-xs text-gray-500 italic leading-relaxed">In achieving stays on home auctions through digital legal defense.</p>
                             </div>
 
                             {/* Related Resources */}
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Resources</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Resources</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/which-companies-offer-loan-settlement-services-in-india" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

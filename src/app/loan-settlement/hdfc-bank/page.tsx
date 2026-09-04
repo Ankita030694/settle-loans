@@ -442,7 +442,7 @@ export default function HDFCBankSettlementPage() {
                  <li className="flex items-start">
                     <div className="bg-[#004c94] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">1</div>
                     <div>
-                        <h4 className="font-bold text-xl mb-1">Portfolio Analysis</h4>
+                        <h3 className="font-bold text-xl mb-1">Portfolio Analysis</h3>
                         <p>We review your total outstanding, the duration of default, and your current financial capacity. We determine if settling now or waiting 3 more months will yield a better discount.</p>
                     </div>
                  </li>
@@ -479,7 +479,7 @@ export default function HDFCBankSettlementPage() {
                 One unique aspect of HDFC card settlement is the multi agency recovery. HDFC often uses external agencies like IARC or Phoenix for very old debts. If your debt has been sold to an Asset Reconstruction Company (ARC), the negotiation strategy changes. ARCs bought your debt for pennies on the rupee, so they are often more flexible with deep discounts than the original bank.
               </p>
               <div className="bg-slate-50 p-6 rounded-xl border border-slate-200">
-                 <h4 className="font-black text-[#004c94] mb-4">Pro Tip for HDFC Card Holders:</h4>
+                 <h3 className="font-black text-[#004c94] mb-4">Pro Tip for HDFC Card Holders:</h3>
                  <p className="italic">
                    Never agree to a settlement over the phone. A verbal promise from a recovery agent holds zero weight in court. Always insist on a formal settlement letter on HDFC Bank letterhead or from their official email domain (@hdfcbank.com).
                  </p>
@@ -493,11 +493,11 @@ export default function HDFCBankSettlementPage() {
               </p>
               <div className="space-y-4">
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h5 className="font-bold text-[#004c94]">Medical Emergency</h5>
+                    <h3 className="font-bold text-[#004c94]">Medical Emergency</h3>
                     <p>Chronic illness of the primary breadwinner or a dependent. HDFC usually accepts hospital discharge summaries and medical bills as valid proof.</p>
                  </div>
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h5 className="font-bold text-[#004c94]">Involuntary Unemployment</h5>
+                    <h4 className="font-bold text-[#004c94]">Involuntary Unemployment</h4>
                     <p>Layoffs, company shutdowns, or salary cuts. Resignations are viewed less favorably unless accompanied by other hardship factors.</p>
                  </div>
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
@@ -548,11 +548,11 @@ export default function HDFCBankSettlementPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-12">
                  <div className="p-6 bg-[#f8faff] rounded-xl border-t-4 border-[#004c94]">
-                    <h5 className="font-bold mb-2">Lack of Benchmarking</h5>
+                    <h3 className="font-bold mb-2">Lack of Benchmarking</h3>
                     <p className="text-sm">You don't know what the 'minimum' HDFC will accept. You might settle at 60% when 40% was possible.</p>
                  </div>
                  <div className="p-6 bg-[#f8faff] rounded-xl border-t-4 border-[#004c94]">
-                    <h5 className="font-bold mb-2">Emotional Pressure</h5>
+                    <h4 className="font-bold mb-2">Emotional Pressure</h4>
                     <p className="text-sm">Recovery agents use psychological tactics to make you panic. We provide a professional buffer.</p>
                  </div>
                  <div className="p-6 bg-[#f8faff] rounded-xl border-t-4 border-[#004c94]">
@@ -660,7 +660,7 @@ export default function HDFCBankSettlementPage() {
                     { q: "What is the significance of the Lok Adalat in HDFC settlements?", a: "Lok Adalats are judicial platforms where HDFC settlements are formalised with a court decree, making the closure legally binding and final." }
                  ].map((faq, i) => (
                     <div key={i} className="border-b border-slate-200 pb-6">
-                        <h4 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h4>
+                        <h3 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h3>
                         <p className="text-[#4a5568]">{faq.a}</p>
                     </div>
                  ))}
@@ -719,7 +719,7 @@ export default function HDFCBankSettlementPage() {
               {/* CTA Container */}
               <div className="bg-[#004c94] rounded-2xl shadow-xl overflow-hidden border border-white/10 group">
                 <div className="bg-[#ed232a] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">HDFC Debt Crisis?</h3>
+                  <div className="text-lg font-black text-white">HDFC Debt Crisis?</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-white opacity-80 leading-relaxed font-medium">
@@ -734,7 +734,7 @@ export default function HDFCBankSettlementPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#718096] mb-4 border-b pb-2">HDFC Related</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#718096] mb-4 border-b pb-2">HDFC Related</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/services/credit-card-settlement" className="group flex items-center text-[#2d3748] hover:text-[#004c94] transition-colors">

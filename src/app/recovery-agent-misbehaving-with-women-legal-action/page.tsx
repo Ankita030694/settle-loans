@@ -619,10 +619,10 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-rose-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-rose-600" />
                     <span>Outraging Modesty of a Woman (Section 74 BNS / Section 354 IPC)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Whoever assaults or uses criminal force against any woman, intending to outrage or knowing it to be likely that he will outrage her modesty, commits a cognizable, non-bailable offense. Recovery agents blocking doorways, making aggressive physical gestures, or grabbing a woman&apos;s wrist or clothing face mandatory imprisonment of one to five years and substantial fines.
                   </p>
@@ -779,7 +779,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-rose-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Evidence Preservation &amp; Identification Capture</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Evidence Preservation &amp; Identification Capture</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Immediately record phone conversations using automatic call recorders. If agents visit your home, activate mobile phone video recording or download residential CCTV footage. Demand to see the agent&apos;s official Bank ID card, DRA certification, and agency authorization letter. Note exact timestamps, vehicle registration numbers, and phone numbers used for harassment.
                   </p>
@@ -1171,7 +1171,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Women Protection &amp; Legal Action</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Are Recovery Agents Harassing a Woman at Home?</h4>
+              <div className="font-bold text-base text-white mb-2">Are Recovery Agents Harassing a Woman at Home?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Protect your family and dignity immediately. Retain senior debt defense advocates to serve a criminal legal notice, escalate to NCW, and negotiate a 45%–65% OTS.
               </p>
@@ -1185,9 +1185,9 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

@@ -1159,11 +1159,11 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm">
+                  <div className="font-bold text-slate-900 text-sm">
                     <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500">Chief Debt Resolution Counsel</p>
                 </div>
               </div>
@@ -1187,7 +1187,7 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Urgent Legal Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Trapped in a Trading Debt Spiral?</h4>
+              <div className="font-bold text-base text-white mb-2">Trapped in a Trading Debt Spiral?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not face recovery harassment or statutory notices alone. Retain our senior advocates to halt collection pressure, audit demat losses, and negotiate a 40%–60% OTS haircut.
               </p>
@@ -1201,9 +1201,9 @@ export default function TradingCryptoLossPersonalLoanSettlementPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

@@ -229,7 +229,7 @@ export default async function BankSettlementPage({
                 <li className="flex items-start">
                   <div className="bg-[#1F5EFF] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">1</div>
                   <div>
-                    <h4 className="font-bold text-xl mb-1 text-[#2E2E2E]">Financial Audit</h4>
+                    <h3 className="font-bold text-xl mb-1 text-[#2E2E2E]">Financial Audit</h3>
                     <p>Before initiating loan settlement for {bankName}, we audit your total outstanding. We look at the principal vs. interest split to see how much waiver can be aggressively requested.</p>
                   </div>
                 </li>
@@ -269,7 +269,7 @@ export default async function BankSettlementPage({
                 The Supreme Court has also passed several orders protecting borrowers from harassment during the <strong>loan settlement for {bankName}</strong> process. Banks or their representative agents cannot use physical force or abusive language. If you face such issues during your <strong>loan settlement for {bankName}</strong> journey, you have the right to file a complaint with the Banking Ombudsman.
               </p>
               <div className="bg-slate-50 p-6 rounded-xl border border-slate-200">
-                <h4 className="font-black text-[#1F5EFF] mb-4">Your Protection during Loan Settlement for {bankName}:</h4>
+                <h3 className="font-black text-[#1F5EFF] mb-4">Your Protection during Loan Settlement for {bankName}:</h3>
                 <p className="italic">
                   The RBI’s Master Circular on recovery clearly states that banks must maintain privacy and dignity. During loan settlement for {bankName}, you are still a customer and deserve professional treatment. Any violation can be used as leverage to get a better <strong>loan settlement for {bankName}</strong> offer.
                 </p>
@@ -345,7 +345,7 @@ export default async function BankSettlementPage({
                   { q: `Can I rebuild my score after loan settlement for ${bankName}?`, a: `Yes, by using secured credit products and making flawless payments, you can recover your score in 18-24 months.` }
                 ].map((faq, i) => (
                   <div key={i} className="border-b border-slate-200 pb-6 group hover:border-[#1F5EFF] transition-colors">
-                    <h4 className="font-bold text-lg text-[#2E2E2E] mb-2 group-hover:text-[#1F5EFF] transition-colors">Q: {faq.q}</h4>
+                    <h3 className="font-bold text-lg text-[#2E2E2E] mb-2 group-hover:text-[#1F5EFF] transition-colors">Q: {faq.q}</h3>
                     <p className="text-[#4a5568]">A: {faq.a}</p>
                   </div>
                 ))}
@@ -361,7 +361,7 @@ export default async function BankSettlementPage({
               {/* CTA */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Need Help with {bankName}?</h3>
+                  <div className="text-lg font-black text-white">Need Help with {bankName}?</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -394,7 +394,7 @@ export default async function BankSettlementPage({
 
               {/* Related */}
               <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-slate-100 pb-2">Explore Banks</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-slate-100 pb-2">Explore Banks</div>
                 <ul className="space-y-4 text-xs font-bold">
                   {banksData.slice(0, 5).map((b, i) => (
                     <li key={i}>

@@ -326,7 +326,7 @@ export default function TrustworthyCompanyPage() {
                                     <div className="flex gap-4">
                                         <div className="w-10 h-10 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-bold flex-shrink-0 mt-1">1</div>
                                         <div>
-                                            <h5 className="font-bold text-lg mb-1">Fee Transparency</h5>
+                                            <h4 className="font-bold text-lg mb-1">Fee Transparency</h4>
                                             <p className="text-slate-600 text-sm">Every single rupee charged must be documented. Professional firms provide a clear fee schedule at the point of enrollment, with no hidden 'processing charges' or 'legal surcharges' later on.</p>
                                         </div>
                                     </div>
@@ -392,7 +392,7 @@ export default function TrustworthyCompanyPage() {
                                     { t: "Review Sentiment Analysis", d: "Scan 1-star reviews. Not for the rating itself, but for the company's response. A professional firm addresses complaints with facts, not aggression." }
                                 ].map((step, idx) => (
                                     <div key={idx} className="p-6 rounded-2xl bg-white border border-gray-200 shadow-sm hover:border-[#1F5EFF] transition-all group">
-                                        <h5 className="font-bold text-gray-900 group-hover:text-[#1F5EFF] transition-colors">{idx + 1}. {step.t}</h5>
+                                        <h3 className="font-bold text-gray-900 group-hover:text-[#1F5EFF] transition-colors">{idx + 1}. {step.t}</h3>
                                         <p className="text-sm text-gray-600 mt-2">{step.d}</p>
                                     </div>
                                 ))}
@@ -423,7 +423,7 @@ export default function TrustworthyCompanyPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-8">
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                    <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs">Authentic Markers</h5>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs">Authentic Markers</h3>
                                     <ul className="space-y-4 text-xs font-sans">
                                         <li><FontAwesomeIcon icon={faCheck} className="text-green-500 mr-2" /> Official Bank Letterhead with a physically verifiable branch code.</li>
                                         <li><FontAwesomeIcon icon={faCheck} className="text-green-500 mr-2" /> Signature of an authorized bank officer with their Employee ID.</li>
@@ -432,7 +432,7 @@ export default function TrustworthyCompanyPage() {
                                     </ul>
                                 </div>
                                 <div className="p-6 bg-red-50 border border-red-100 rounded-2xl shadow-sm">
-                                    <h5 className="font-bold text-red-600 mb-2 uppercase text-xs">Forgery Red Flags</h5>
+                                    <h4 className="font-bold text-red-600 mb-2 uppercase text-xs">Forgery Red Flags</h4>
                                     <ul className="space-y-4 text-xs font-sans">
                                         <li><FontAwesomeIcon icon={faTriangleExclamation} className="text-red-500 mr-2" /> Spelling mistakes in the bank's own name or address.</li>
                                         <li><FontAwesomeIcon icon={faTriangleExclamation} className="text-red-500 mr-2" /> Instruction to pay the settlement amount to a 'Company Account' instead of the bank.</li>
@@ -475,11 +475,11 @@ export default function TrustworthyCompanyPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-8">
                                 <div className="p-8 rounded-3xl bg-blue-50 border border-blue-100">
-                                    <h5 className="font-bold text-blue-900 mb-4 uppercase text-xs tracking-widest">Enrollment Fees</h5>
+                                    <h3 className="font-bold text-blue-900 mb-4 uppercase text-xs tracking-widest">Enrollment Fees</h3>
                                     <p className="text-sm text-blue-800 leading-relaxed">This should be a fixed, modest amount. It covers the drafting of initial legal notices and the setup of your digital case file. Avoid agencies that ask for lakhs of rupees upfront.</p>
                                 </div>
                                 <div className="p-8 rounded-3xl bg-green-50 border border-green-100">
-                                    <h5 className="font-bold text-green-900 mb-4 uppercase text-xs tracking-widest">Success Fees</h5>
+                                    <h4 className="font-bold text-green-900 mb-4 uppercase text-xs tracking-widest">Success Fees</h4>
                                     <p className="text-sm text-green-800 leading-relaxed">This is usually 10-15% of the SAVED amount. A trustworthy firm only collects this after you have received the bank's official sanction letter. It aligns their success with yours.</p>
                                 </div>
                             </div>
@@ -501,7 +501,7 @@ export default function TrustworthyCompanyPage() {
                                     <li className="flex gap-4">
                                         <FontAwesomeIcon icon={faShieldHalved} className="text-[#1F5EFF] w-6 h-6 mt-1" />
                                         <div>
-                                            <h5 className="font-bold text-lg text-white">Direct Payment Clause</h5>
+                                            <h4 className="font-bold text-lg text-white">Direct Payment Clause</h4>
                                             <p className="text-gray-400 text-sm italic">Explicitly stating that the final settlement amount must be paid by the borrower directly to the bank, not into the agency's account.</p>
                                         </div>
                                     </li>
@@ -652,7 +652,7 @@ export default function TrustworthyCompanyPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Trusted Resolution</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Trusted Resolution</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
@@ -669,13 +669,13 @@ export default function TrustworthyCompanyPage() {
                                 <div className="flex justify-center mb-4">
                                     <FontAwesomeIcon icon={faUserShield} className="text-[#1F5EFF] text-4xl" />
                                 </div>
-                                <h4 className="text-xl font-black text-gray-900 mb-2">Safe & Secure</h4>
+                                <div className="text-xl font-black text-gray-900 mb-2">Safe & Secure</div>
                                 <p className="text-xs text-gray-500 italic leading-relaxed">Everything we do is documented and legally verifiable. Your data is encrypted.</p>
                             </div>
 
                             {/* Related Resources */}
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Resources</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Resources</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/which-companies-offer-loan-settlement-services-in-india" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

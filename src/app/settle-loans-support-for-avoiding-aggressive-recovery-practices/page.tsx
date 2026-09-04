@@ -310,7 +310,7 @@ export default function AggressiveRecoverySupportPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-12">
                  <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl hover:bg-blue-50 transition-colors shadow-sm">
-                   <h4 className="text-xl font-black mb-4 uppercase text-[#1F5EFF]">Calling Timeframe</h4>
+                   <h3 className="text-xl font-black mb-4 uppercase text-[#1F5EFF]">Calling Timeframe</h3>
                    <p className="text-gray-600 leading-relaxed">Agents can only call between <span className="font-bold text-black">8:00 AM and 7:00 PM</span>. Any call received at 7:05 PM or 7:55 AM is a documented violation. SettleLoans helps you log these timestamps effectively for legal evidence.</p>
                  </div>
                  <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl hover:bg-blue-50 transition-colors shadow-sm">
@@ -350,7 +350,7 @@ export default function AggressiveRecoverySupportPage() {
                  <li className="flex gap-4">
                     <span className="text-red-500 text-2xl">●</span>
                     <div>
-                      <h4 className="font-bold text-xl mb-2">The 'Fake Advocate' Call</h4>
+                      <h3 className="font-bold text-xl mb-2">The 'Fake Advocate' Call</h3>
                       <p className="text-gray-600">A person calls claiming to be from the 'High Court' or a 'Special Legal Cell'. They use heavy legal jargon and threaten immediate warrants. Note: Warrants are issued by judges after a hearing, not by people on the phone. Amalegal Solutions can verify the authenticity of any such claim within minutes.</p>
                     </div>
                  </li>
@@ -392,7 +392,7 @@ export default function AggressiveRecoverySupportPage() {
                  If you face this, <span className="font-bold text-red-600 uppercase">Do Not Delete the Messages</span>. Use them as evidence. Block the numbers but keep the chat history. Amalegal Solutions can assist you in filing a complaint with the National Cyber Crime portal. We have successfully used these digital evidences to force lenders to waive entire loan amounts as a penalty for their illegal recovery conduct.
                </p>
                <div className="p-8 bg-black text-white rounded-3xl border border-[#1F5EFF]/30 flex flex-col items-center text-center">
-                  <h4 className="text-xl font-bold mb-4 uppercase text-[#1F5EFF]">Wait! Before You Block Them</h4>
+                  <h3 className="text-xl font-bold mb-4 uppercase text-[#1F5EFF]">Wait! Before You Block Them</h3>
                   <p className="text-sm opacity-70 mb-6">Take high quality screenshots showing the sender's phone number, the content of the message, and the time received. This is your digital evidence.</p>
                   <div className="w-full h-px bg-white/20 mb-6"></div>
                   <p className="font-medium">SettleLoans specializes in 'Cyber Shielding' for borrowers facing digital shaming.</p>
@@ -445,7 +445,7 @@ export default function AggressiveRecoverySupportPage() {
                  If you feel your personal photos are being used for blackmail, it is a non-bailable offense under the IT Act. Amalegal Solutions can assist in fast-tracking your case with the Cyber Crime Branch. We have an expert team that understands digital forensics and can help trace the source of these threats.
                </p>
                <div className="bg-gray-50 border border-[#DEDEDE] rounded-3xl p-8 mb-12">
-                  <h4 className="text-xl font-bold mb-4 uppercase text-[#2E2E2E]">Pro Tip: Use Your Privacy Settings</h4>
+                  <h3 className="text-xl font-bold mb-4 uppercase text-[#2E2E2E]">Pro Tip: Use Your Privacy Settings</h3>
                   <p className="text-gray-600 mb-4">Set your WhatsApp to 'Contacts Only' for your profile photo and status. This prevents unknown agents from using your personal photos to create fake groups.</p>
                </div>
             </section>
@@ -457,11 +457,11 @@ export default function AggressiveRecoverySupportPage() {
                </p>
                <div className="grid sm:grid-cols-2 gap-6 mb-12">
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-3xl">
-                     <h5 className="font-bold mb-2 uppercase text-[#1F5EFF]">Call Recording</h5>
+                     <h3 className="font-bold mb-2 uppercase text-[#1F5EFF]">Call Recording</h3>
                      <p className="text-sm text-gray-500 leading-relaxed font-medium">Record every call. State clearly that the call is being recorded. This acts as a deterrent and as legal evidence.</p>
                   </div>
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-3xl">
-                     <h5 className="font-bold mb-2 uppercase text-[#1F5EFF]">Screenshot Log</h5>
+                     <h4 className="font-bold mb-2 uppercase text-[#1F5EFF]">Screenshot Log</h4>
                      <p className="text-sm text-gray-500 leading-relaxed font-medium">Capture WhatsApp messages, SMS, and emails. Ensure the sender's details are visible.</p>
                   </div>
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-3xl">
@@ -521,7 +521,7 @@ export default function AggressiveRecoverySupportPage() {
                   <li className="flex gap-4">
                      <span className="w-10 h-10 bg-black text-white rounded-full flex items-center justify-center shrink-0 font-bold">1</span>
                      <div>
-                       <h4 className="font-bold text-lg mb-2 uppercase">Financial Auditing</h4>
+                       <h3 className="font-bold text-lg mb-2 uppercase">Financial Auditing</h3>
                        <p className="text-gray-600">We audit your income, assets, and liabilities to build a 'Hardship Profile'. This is the document we present to the bank to justify why you cannot pay the full amount.</p>
                      </div>
                   </li>
@@ -600,7 +600,7 @@ export default function AggressiveRecoverySupportPage() {
                          {review.name.charAt(0)}
                        </div>
                        <div>
-                         <h5 className="font-bold text-xl text-[#2E2E2E] uppercase tracking-tight">{review.name}</h5>
+                         <h3 className="font-bold text-xl text-[#2E2E2E] uppercase tracking-tight">{review.name}</h3>
                          <p className="text-sm text-gray-400 font-medium">{review.loc}</p>
                        </div>
                        <div className="ml-auto text-yellow-400 text-lg">★★★★★</div>
@@ -639,7 +639,7 @@ export default function AggressiveRecoverySupportPage() {
                         However, in Tier 2 and Tier 3 cities, recovery often takes a more physical and localized form. Agents may be local individuals who have personal knowledge of the neighborhood. This can lead to a higher incidence of social shaming and direct home visits. At SettleLoans, we have localized expertise that allows us to handle both high-tech metropolitan harassment and the more traditional, physical forms of intimidation found in smaller towns.
                       </p>
                       <div className="bg-gray-100 p-10 rounded-[40px] mb-12 border-l-8 border-l-black">
-                         <h4 className="text-xl font-bold mb-4 uppercase">The North India Scenario</h4>
+                         <h3 className="text-xl font-bold mb-4 uppercase">The North India Scenario</h3>
                          <p className="mb-6 opacity-70">In states like Punjab, Haryana, and Uttar Pradesh, the threat of legal action and police involvement is more commonly used by agents to coerce payment. Borrowers are often threatened with 'Section 138' (Cheque Bounce) cases, even if no cheque has actually bounced. Amalegal Solutions has a strong presence in these regions and can provide immediate legal counters to these hollow threats.</p>
                          <h4 className="text-xl font-bold mb-4 uppercase">The South India Scenario</h4>
                          <p className="opacity-70">In states like Tamil Nadu and Karnataka, there is a higher reliance on 'Social Peer Pressure'. Agents might visit the local community leaders or attempt to discredit the borrower in their social circle. We use a combination of privacy laws and community advocacy to shut down these unethical routes.</p>
@@ -726,7 +726,7 @@ export default function AggressiveRecoverySupportPage() {
                 {/* CTA Container */}
                 <div className="bg-[#2E2E2E] rounded-[40px] shadow-2xl overflow-hidden border border-[#1F5EFF]/20 transition-transform hover:scale-[1.03]">
                   <div className="bg-[#1F5EFF] p-8 text-center text-white">
-                    <h3 className="text-3xl font-black mb-2 uppercase tracking-tighter">Your Shield</h3>
+                    <div className="text-3xl font-black mb-2 uppercase tracking-tighter">Your Shield</div>
                     <p className="opacity-90 text-sm font-bold uppercase tracking-widest">Against Aggression</p>
                   </div>
                   <div className="p-10 text-center text-[#DEDEDE]">
@@ -752,7 +752,7 @@ export default function AggressiveRecoverySupportPage() {
 
                 {/* Related Pages Placeholder */}
                  <div className="bg-gray-50 rounded-[40px] p-8 border border-[#DEDEDE]">
-                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter">Related Solutions</h3>
+                    <div className="text-2xl font-black text-[#2E2E2E] mb-8 uppercase tracking-tighter">Related Solutions</div>
                     <ul className="space-y-6 text-base font-black text-[#1F5EFF] uppercase tracking-widest">
                        <li><Link href="/rbi-rules-for-recovery-agents" className="hover:text-black transition-colors">RBI Agent Rules</Link></li>
                        <li><Link href="/legal-notice-for-loan-settlement-harassment" className="hover:text-black transition-colors">Harassment Notice</Link></li>

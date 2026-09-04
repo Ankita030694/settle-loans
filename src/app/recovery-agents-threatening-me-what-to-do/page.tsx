@@ -210,7 +210,7 @@ export default function RecoveryHarassmentPage() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px] relative">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Content Guide</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Content Guide</div>
                             <TableOfContents
                                 items={[
                                     { id: "harassment-defensive-overview", title: "Overview" },
@@ -255,7 +255,7 @@ export default function RecoveryHarassmentPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-12">
                                 <div className="p-10 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-all">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase italic leading-none">The 7 to 7 Rule</h4>
+                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase italic leading-none">The 7 to 7 Rule</h3>
                                     <p className="text-sm font-bold opacity-80 uppercase leading-snug">Effective July 1, 2026, no bank or agency can call you Before 7:00 AM or after 7:00 PM. Calls at 9 PM or 10 PM are illegal.</p>
                                 </div>
                                 <div className="p-10 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-all">
@@ -284,7 +284,7 @@ export default function RecoveryHarassmentPage() {
                                 <div className="flex gap-6 items-start">
                                     <div className="w-24 h-24 shrink-0 bg-[#1F5EFF] rounded-2xl flex items-center justify-center font-black text-2xl">503</div>
                                     <div>
-                                        <h4 className="text-xl font-black uppercase text-[#1F5EFF] mb-2 leading-none">Criminal Intimidation</h4>
+                                        <h3 className="text-xl font-black uppercase text-[#1F5EFF] mb-2 leading-none">Criminal Intimidation</h3>
                                         <p className="text-sm opacity-70 font-bold italic leading-relaxed">Threatening you with injury to your person, reputation, or property to force you to perform an act (paying money) you're not legally bound to at that moment physically.</p>
                                     </div>
                                 </div>
@@ -321,7 +321,7 @@ export default function RecoveryHarassmentPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-gray-50 rounded-[48px] border border-gray-100 shadow-sm">
-                                    <h4 className="text-2xl font-black mb-4 uppercase italic leading-none text-[#1F5EFF]">Digital Evidence</h4>
+                                    <h3 className="text-2xl font-black mb-4 uppercase italic leading-none text-[#1F5EFF]">Digital Evidence</h3>
                                     <ul className="space-y-3 text-sm font-bold opacity-80 uppercase tracking-tighter">
                                         <li>-- Call Recordings (With timestamps)</li>
                                         <li>-- Screenshots of threatening WhatsApps</li>
@@ -345,7 +345,7 @@ export default function RecoveryHarassmentPage() {
                             <h2 className="text-3xl font-black text-blue-900 mb-6 uppercase tracking-wider italic">Your Unalienable Rights</h2>
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-left">
                                 <div className="p-6 bg-white rounded-3xl border border-blue-100 shadow-sm">
-                                    <h4 className="text-xs font-black text-blue-500 mb-2 uppercase tracking-widest leading-none">Right to Notice</h4>
+                                    <h3 className="text-xs font-black text-blue-500 mb-2 uppercase tracking-widest leading-none">Right to Notice</h3>
                                     <p className="text-xs font-bold leading-relaxed opacity-80 uppercase uppercase">Lenders must provide 60-day notice for secured and sufficient notice for unsecured loans before recovery.</p>
                                 </div>
                                 <div className="p-6 bg-white rounded-3xl border border-blue-100 shadow-sm">
@@ -367,7 +367,7 @@ export default function RecoveryHarassmentPage() {
                                 Banks are terrified of the <strong>Banking Ombudsman</strong>. It is a regulatory office that holds the CEO of the bank accountable for ground-level harassment.
                             </p>
                             <div className="bg-blue-900 p-10 rounded-[48px] text-white my-12 shadow-2xl">
-                                <h4 className="text-2xl font-black mb-4 uppercase italic text-[#1F5EFF] leading-none">How to File</h4>
+                                <h3 className="text-2xl font-black mb-4 uppercase italic text-[#1F5EFF] leading-none">How to File</h3>
                                 <p className="text-sm leading-relaxed opacity-80 font-bold mb-6">1. Log a formal complaint with the Bank's Principal Nodal Officer. <br /> 2. Wait 30 days. <br /> 3. If no resolution, visit <strong>cms.rbi.org.in</strong> and file Case. Attach your evidence recordings.</p>
                                 <p className="text-xs font-black uppercase tracking-[0.2em] font-bold italic text-blue-400">The mere threat of an Ombudsman filing often forces banks to pull back their recovery agents and offer a settlement.</p>
                             </div>
@@ -477,7 +477,7 @@ export default function RecoveryHarassmentPage() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-[32px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-6 text-white text-center">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Harassment<br />Protection</h3>
+                                    <div className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Harassment<br />Protection</div>
                                     <p className="opacity-80 text-[10px] font-black uppercase tracking-[0.2em]">Strategy Intake</p>
                                 </div>
                                 <div className="p-8">
@@ -493,7 +493,7 @@ export default function RecoveryHarassmentPage() {
 
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-[32px] p-8 border border-gray-100 shadow-sm text-left">
-                                <h4 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Defense Hub</h4>
+                                <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Defense Hub</div>
                                 <nav className="space-y-4">
                                     <Link href="/bank-recovery-case-in-court" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">Bank Court Cases</Link>
                                     <Link href="/bank-arbitration-notice-loan" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">Arbitration Defense</Link>

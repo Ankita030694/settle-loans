@@ -920,7 +920,7 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm">Ashish Jhangra</h4>
+                  <div className="font-bold text-slate-900 text-sm">Ashish Jhangra</div>
                   <p className="text-xs text-slate-500">Lead Debt Settlement Counsel</p>
                 </div>
               </div>
@@ -939,9 +939,9 @@ export default function UnsecuredBusinessLoanSettlementClient() {
                 <ShieldAlert className="w-3 h-3" />
                 <span>MSME Notice Defense Desk</span>
               </div>
-              <h3 className="text-base font-black text-white mb-2 leading-snug">
+              <div className="text-base font-black text-white mb-2 leading-snug">
                 Facing Business Loan Defaults or Guarantee Invocations?
-              </h3>
+              </div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Get senior advocate intervention to defend Section 138 / Section 25 notices, stop recovery harassment, and secure a 45%–65% OTS haircut with complete personal guarantee discharge.
               </p>

@@ -725,7 +725,7 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 1: Notice of Legal Representation</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 1: Notice of Legal Representation</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates serve statutory notices upon the lender, invoking RBI Fair Practices Code protections and directing that all communications be routed exclusively through legal counsel.
                   </p>
@@ -1073,7 +1073,7 @@ export default function PersonalLoanSettlementGuwahatiPage() {
                 </Link>
                 <div>
                   <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
-                    <h4 className="font-bold text-slate-900 text-sm">Ashish Jhangra</h4>
+                    <div className="font-bold text-slate-900 text-sm">Ashish Jhangra</div>
                   </Link>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
@@ -1099,7 +1099,7 @@ export default function PersonalLoanSettlementGuwahatiPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Guwahati Debt Defense Desk</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Facing Recovery Calls or CJM Court Notices in Assam?</h4>
+              <div className="font-bold text-base text-white mb-2">Facing Recovery Calls or CJM Court Notices in Assam?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not face recovery agents or bank SARBs alone. Retain expert debt defense advocates to protect your rights, stop harassment, and secure a 40%–70% OTS waiver.
               </p>
@@ -1113,9 +1113,9 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

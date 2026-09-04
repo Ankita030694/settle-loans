@@ -313,7 +313,7 @@ const Page = () => {
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4">R</div>
                                     <div className="text-left">
-                                        <h4 className="font-black text-xl">Ricardo D.</h4>
+                                        <h3 className="font-black text-xl">Ricardo D.</h3>
                                         <p className="text-sm text-gray-500">Calangute, North Goa</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -399,7 +399,7 @@ const Page = () => {
                       {/* CTA Container */}
                       <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col">
                         <div className="bg-[#1F5EFF] p-4 text-center">
-                          <h3 className="text-lg font-black text-white">Goa Helpline</h3>
+                          <div className="text-lg font-black text-white">Goa Helpline</div>
                         </div>
                         <div className="p-6 text-center">
                           <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -414,7 +414,7 @@ const Page = () => {
 
                       {/* Trust Section */}
                       <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                         <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Why Goans Trust Us</h3>
+                         <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Why Goans Trust Us</div>
                          <div className="space-y-4">
                             <div className="flex gap-3">
                                <span className="text-[#1F5EFF]">✓</span>
@@ -437,7 +437,7 @@ const Page = () => {
 
                       {/* Related Pages */}
                       <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                        <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Our Services</h3>
+                        <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Our Services</div>
                         <ul className="space-y-4 text-sm font-bold">
                           <li>
                             <Link href="/services/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

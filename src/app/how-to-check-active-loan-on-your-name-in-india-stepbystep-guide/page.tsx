@@ -508,7 +508,7 @@ export default function CheckActiveLoansGuidePage() {
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                     <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Real Time Alerts</h4>
+                  <h3 className="font-bold text-[#2E2E2E] mb-2">Real Time Alerts</h3>
                   <p className="text-xs text-gray-500">Get notified the moment a new loan inquiry is made.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
@@ -613,7 +613,7 @@ export default function CheckActiveLoansGuidePage() {
               <div className="space-y-6 mb-8">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm relative overflow-hidden">
                   <div className="absolute top-0 left-0 w-2 h-full bg-[#1F5EFF]"></div>
-                  <h4 className="font-bold text-xl mb-3">Phase 1: Direct Denial with Lender</h4>
+                  <h3 className="font-bold text-xl mb-3">Phase 1: Direct Denial with Lender</h3>
                   <p className="text-sm leading-relaxed mb-4">Lenders are the source of the error. Find the bank or NBFC name. Look for their 'Grievance Redressal Officer' on their official website. Send a formal email. Clearly state that you have never applied for this loan and you believe your identity is being misused. Demand that they reverse the entry and notify the bureaus immediately. Wait for their 'Acknowledgment Number'.</p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm relative overflow-hidden">
@@ -808,7 +808,7 @@ export default function CheckActiveLoansGuidePage() {
             <div className="sticky top-24 space-y-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Protect Your Identity</h3>
+                  <div className="text-lg font-black text-white">Protect Your Identity</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -822,7 +822,7 @@ export default function CheckActiveLoansGuidePage() {
               </div>
 
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Resources</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Resources</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/how-to-get-800-credit-score-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

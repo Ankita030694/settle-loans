@@ -150,7 +150,7 @@ export default function DownloadNOCPage() {
                 </p>
                 <div className="grid md:grid-cols-2 gap-6 mt-6">
                   <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                    <h4 className="font-black text-[#1F5EFF] text-xl mb-3">Digital NOC</h4>
+                    <h3 className="font-black text-[#1F5EFF] text-xl mb-3">Digital NOC</h3>
                     <p className="text-gray-700 mb-4">A digital NOC is usually generated instantly and sent to your registered email address. It features a digital signature that can be verified electronically.</p>
                     <ul className="space-y-2">
                       <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></span><span className="text-gray-700">Valid for personal records.</span></li>
@@ -178,7 +178,7 @@ export default function DownloadNOCPage() {
             <div id="legal-implications" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Legal Risks of Missing NOC</h2>
               <div className="bg-red-50 p-8 rounded-2xl mb-8 border border-red-100">
-                <h4 className="text-xl font-black text-red-700 mb-4">Why You Cannot Ignore This Step</h4>
+                <h3 className="text-xl font-black text-red-700 mb-4">Why You Cannot Ignore This Step</h3>
                 <p className="text-lg leading-relaxed mb-6 text-red-900">
                   Many borrowers make the critical mistake of assuming that once the final EMI is deducted, their relationship with the bank automatically ends. Without formally obtaining the NOC, you remain exposed to severe legal and financial risks.
                 </p>
@@ -203,7 +203,7 @@ export default function DownloadNOCPage() {
             <div id="step-by-step" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How to Download NOC Online</h2>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Prerequisites for Digital Download</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Prerequisites for Digital Download</h3>
                 <p className="text-lg leading-relaxed mb-6 text-gray-800">Before you initiate the request, ensure you have these ready:</p>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
@@ -251,7 +251,7 @@ export default function DownloadNOCPage() {
             <div id="common-delays" className="scroll-mt-32 mb-16">
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Handling Delay in NOC from Bank</h2>
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">Warning: Do Not Ignore Delays</h4>
+                <h3 className="text-xl font-black text-red-700 mb-4">Warning: Do Not Ignore Delays</h3>
                 <p className="text-lg leading-relaxed mb-0 text-red-900">
                   A <strong className="text-red-900">delay in NOC from bank</strong> could indicate a systemic error or hidden outstanding charges. According to RBI rules, banks must release original property documents and issue the NOC within 30 days of full repayment. If they fail, they are liable to pay you a penalty of ₹5,000 per day of delay.
                 </p>
@@ -269,7 +269,7 @@ export default function DownloadNOCPage() {
                 <div className="grid md:grid-cols-3 gap-4 mb-6">
                   <div className="bg-white p-5 rounded-xl border border-gray-200 shadow-sm">
                     <div className="w-10 h-10 bg-[#1F5EFF]/10 text-[#1F5EFF] rounded-lg flex items-center justify-center font-bold mb-3">1</div>
-                    <h4 className="font-bold text-[#2E2E2E] mb-2">File an FIR</h4>
+                    <h3 className="font-bold text-[#2E2E2E] mb-2">File an FIR</h3>
                     <p className="text-sm text-gray-600">Register a police complaint reporting the loss of the original document. Get a stamped copy of the FIR.</p>
                   </div>
                   <div className="bg-white p-5 rounded-xl border border-gray-200 shadow-sm">
@@ -300,7 +300,7 @@ export default function DownloadNOCPage() {
                 {/* 4-Grid Info Boxes inside Insight */}
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Status: Processing</h4>
+                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Status: Processing</h3>
                     <p className="text-gray-700">The bank is auditing your account for zero balance.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -490,7 +490,7 @@ export default function DownloadNOCPage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                 <div className="relative z-10">
-                  <h4 className="text-2xl font-black mb-4">Bank Refusing NOC?</h4>
+                  <div className="text-2xl font-black mb-4">Bank Refusing NOC?</div>
                   <p className="text-gray-300 mb-6">Let our legal experts send a strong legal notice to release your documents instantly.</p>
                   <Link href="/services/legal-notice" className="inline-block bg-[#1F5EFF] text-white font-bold py-3 px-6 rounded-lg hover:bg-blue-600 transition-colors w-full">
                     Consult an Expert
@@ -500,9 +500,9 @@ export default function DownloadNOCPage() {
 
               {/* Card 2 (White Resources) */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Helpful Resources
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/rbi-guidelines-loan-closure" className="flex items-center text-gray-700 hover:text-[#1F5EFF] transition-colors group">

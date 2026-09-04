@@ -380,7 +380,7 @@ export default function DocumentRequirementsPage() {
                 The regulatory landscape for debt settlement in India changed drastically with the RBI's "Framework for Compromise Settlements and Technical Write-offs" introduced in June 2023, which is the operational bible for 2025. This framework explicitly permits regulated entities (Banks and NBFCs) to enter into compromise settlements with borrowers who have defaulted.
               </p>
               <div className="bg-gray-900 p-8 rounded-[2rem] text-white mb-8 shadow-2xl">
-                <h4 className="text-[#1F5EFF] font-black uppercase tracking-widest text-sm mb-4">Regulatory Highlights</h4>
+                <h3 className="text-[#1F5EFF] font-black uppercase tracking-widest text-sm mb-4">Regulatory Highlights</h3>
                 <ul className="space-y-4 text-sm opacity-90">
                   <li className="flex items-start gap-3">
                     <span className="text-[#1F5EFF] text-xl mt-[-4px]">◈</span>
@@ -410,11 +410,11 @@ export default function DocumentRequirementsPage() {
               </p>
               <div className="grid md:grid-cols-3 gap-6 mb-8">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl hover:border-[#1F5EFF] transition-colors">
-                  <h5 className="font-black text-xs uppercase mb-3 text-gray-400">Identity</h5>
+                  <h3 className="font-black text-xs uppercase mb-3 text-gray-400">Identity</h3>
                   <p className="font-bold text-sm">Aadhaar Card (Ensure e-KYC is active) and PAN Card (Verify status on Income Tax portal).</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl hover:border-[#1F5EFF] transition-colors">
-                  <h5 className="font-black text-xs uppercase mb-3 text-gray-400">Communication</h5>
+                  <h4 className="font-black text-xs uppercase mb-3 text-gray-400">Communication</h4>
                   <p className="font-bold text-sm">Valid Mobile Number linked to Aadhaar for OTP based digital settlement letters.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl hover:border-[#1F5EFF] transition-colors">
@@ -439,7 +439,7 @@ export default function DocumentRequirementsPage() {
               <div className="space-y-4 mb-8">
                 <div className="p-6 bg-gray-50 rounded-[1.5rem] border border-gray-100 flex flex-col md:flex-row gap-6">
                   <div className="md:w-1/3">
-                    <h5 className="font-black text-lg text-[#2E2E2E]">Sanction Letter & Agreement</h5>
+                    <h3 className="font-black text-lg text-[#2E2E2E]">Sanction Letter & Agreement</h3>
                     <p className="text-xs text-[#1F5EFF] uppercase font-bold mt-1">The Original Contract</p>
                   </div>
                   <div className="md:w-2/3 text-sm leading-relaxed text-gray-600">
@@ -448,7 +448,7 @@ export default function DocumentRequirementsPage() {
                 </div>
                 <div className="p-6 bg-gray-50 rounded-[1.5rem] border border-gray-100 flex flex-col md:flex-row gap-6">
                   <div className="md:w-1/3">
-                    <h5 className="font-black text-lg text-[#2E2E2E]">Foreclosure Statement</h5>
+                    <h4 className="font-black text-lg text-[#2E2E2E]">Foreclosure Statement</h4>
                     <p className="text-xs text-[#1F5EFF] uppercase font-bold mt-1">The Current Truth</p>
                   </div>
                   <div className="md:w-2/3 text-sm leading-relaxed text-gray-600">
@@ -478,7 +478,7 @@ export default function DocumentRequirementsPage() {
                 <div className="space-y-6">
                   <div className="p-8 bg-[#1F5EFF]/5 rounded-3xl border border-[#1F5EFF]/10">
                     <div className="w-12 h-12 bg-[#1F5EFF] rounded-full flex items-center justify-center text-white font-black mb-4 shadow-[0_10px_20px_rgba(31,94,255,0.2)]">1</div>
-                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2 uppercase tracking-tighter">Medical Emergency</h4>
+                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2 uppercase tracking-tighter">Medical Emergency</h3>
                     <p className="text-sm opacity-80 leading-relaxed mb-4 font-bold">Documenting Life-Changing Health Events</p>
                     <ul className="text-xs space-y-2 font-medium">
                       <li>• Discharge Summary from a recognized hospital.</li>
@@ -537,7 +537,7 @@ export default function DocumentRequirementsPage() {
                 <h3 className="text-xl font-black mb-6 uppercase tracking-tight">The Cashflow File: What the bank audits</h3>
                 <div className="grid md:grid-cols-2 gap-8 text-sm">
                   <div>
-                    <h5 className="font-bold text-[#1F5EFF] mb-2 uppercase">Inflow Records</h5>
+                    <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase">Inflow Records</h4>
                     <ul className="space-y-3 font-medium">
                       <li className="flex items-center gap-2">
                         <div className="w-1.5 h-1.5 bg-black rounded-full"></div>
@@ -594,10 +594,10 @@ export default function DocumentRequirementsPage() {
               <div className="space-y-12">
                 {/* Sample 1: Job Loss */}
                 <div className="bg-gray-50 p-8 md:p-12 rounded-[3rem] border border-gray-200 group hover:bg-white hover:shadow-2xl transition-all">
-                  <h4 className="text-2xl font-black mb-6 text-[#1F5EFF] flex items-center gap-4">
+                  <h3 className="text-2xl font-black mb-6 text-[#1F5EFF] flex items-center gap-4">
                     <span className="bg-[#1F5EFF] text-white px-3 py-1 rounded-lg text-sm uppercase">Sample A</span>
                     Unforeseen Unemployment
-                  </h4>
+                  </h3>
                   <div className="font-mono text-sm leading-relaxed text-gray-700 whitespace-pre-wrap border-l-4 border-[#1F5EFF] pl-8 py-4 italic">
                     "Subject: Request for Amicable One-Time Settlement (OTS) - Loan A/C [Number]\n\nRespected Branch Manager,\n\nI am writing this letter to formally request a settlement for my outstanding personal loan dues. Until July 2023, I was a regular payer with a clean track record. However, on August 15, 2023, my current employer [Company Name] downsized its operations, leading to my immediate termination (Proof Attached).\n\nDespite my best efforts, I have not been able to secure a stable income for the last 6 months. Currently, I am surviving on my wife's minimal income and have exhausted all my savings. I genuinely wish to honor my debt but am physically unable to pay the full outstanding balance of ₹[Total Amount].\n\nI have organized a sum of ₹[Settlement Amount] by borrowing from a close relative. This is my final and best offer to close this account permanently. I request you to consider this on humanitarian grounds and issue an OTS letter."
                   </div>
@@ -639,7 +639,7 @@ export default function DocumentRequirementsPage() {
                   Under the RBI's Fair Practice Code and the BCSBI (Banking Codes and Standards Board of India), recovery agents must maintain a high standard of conduct. If they call you at odd hours, use abusive language, or contact your social circle, they are in violation of the law. Documenting these violations provides powerful leverage during settlement negotiations.
                 </p>
                 <div className="bg-blue-900 border-l-8 border-[#1F5EFF] p-10 rounded-3xl text-white">
-                  <h4 className="text-xl font-bold mb-6 text-[#1F5EFF] uppercase underline decoration-2 underline-offset-8">The Evidence Logbook</h4>
+                  <h3 className="text-xl font-bold mb-6 text-[#1F5EFF] uppercase underline decoration-2 underline-offset-8">The Evidence Logbook</h3>
                   <div className="grid md:grid-cols-2 gap-8 text-sm opacity-80">
                     <ul className="space-y-4 font-black italic">
                       <li>• Screenshots of Call History (Frequency of calls).</li>
@@ -664,7 +664,7 @@ export default function DocumentRequirementsPage() {
                 If your loan has been sold to an Asset Reconstruction Company (like IARC, Phoenix, or Kotak Mahindra Prime), the documentation requirement changes slightly. ARCs are 'Distressed Debt Buyers'. They buy your loan from the bank at a deep discount, which means they have more room to negotiate with you.
               </p>
               <div className="bg-gray-50 p-8 rounded-3xl border border-gray-200 mb-8">
-                <h4 className="text-xl font-black mb-4">The ARC Document Checklist</h4>
+                <h3 className="text-xl font-black mb-4">The ARC Document Checklist</h3>
                 <div className="space-y-4 text-sm font-medium">
                   <p><strong>Assignment Notice:</strong> You must have the official letter from the bank stating that your loan has been 'Assigned' to the ARC. Without this, you cannot be sure who you are paying.</p>
                   <p><strong>Original Bank Data:</strong> Often, ARCs do not have your original sanction letter. If you have it, you can use it to challenge incorrect principal calculations. If they cannot prove the debt amount, they cannot legally enforce it in a court of law.</p>
@@ -679,7 +679,7 @@ export default function DocumentRequirementsPage() {
               </h2>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl">
-                  <h4 className="font-black text-[#1F5EFF] mb-4 uppercase">NRIs Settling Debt</h4>
+                  <h3 className="font-black text-[#1F5EFF] mb-4 uppercase">NRIs Settling Debt</h3>
                   <p className="text-sm leading-relaxed mb-4">NRIs face challenges with physical presence. To settle an Indian debt from abroad, you need:</p>
                   <ul className="text-xs space-y-2 font-bold opacity-70">
                     <li>• Registered Power of Attorney (POA) in India.</li>
@@ -708,11 +708,11 @@ export default function DocumentRequirementsPage() {
               </p>
               <div className="bg-[#2E2E2E] p-10 rounded-[3rem] text-white shadow-2xl relative overflow-hidden group mb-8">
                 <div className="absolute top-0 right-0 w-32 h-64 bg-[#1F5EFF] rotate-45 -mr-16 -mt-16 opacity-10"></div>
-                <h4 className="text-2xl font-black mb-8 text-[#1F5EFF] uppercase tracking-widest">The "Peace of Mind" Document Kit</h4>
+                <h3 className="text-2xl font-black mb-8 text-[#1F5EFF] uppercase tracking-widest">The "Peace of Mind" Document Kit</h3>
                 <div className="grid md:grid-cols-3 gap-8 text-sm">
                   <div className="space-y-3">
                     <div className="w-10 h-10 bg-[#1F5EFF] rounded-full flex items-center justify-center font-black">A</div>
-                    <h5 className="font-bold underline decoration-[#1F5EFF]">The OTS Letter</h5>
+                    <h4 className="font-bold underline decoration-[#1F5EFF]">The OTS Letter</h4>
                     <p className="opacity-70 text-xs">Must include: Account Number, Final Amount, Payment Date, and 'Account will be closed' clause.</p>
                   </div>
                   <div className="space-y-3">
@@ -740,14 +740,14 @@ export default function DocumentRequirementsPage() {
                    <div className="flex gap-6">
                       <div className="font-black text-4xl text-[#1F5EFF]">01</div>
                       <div>
-                         <h5 className="font-black text-xl mb-1 uppercase">Payment + 45 Days</h5>
+                         <h3 className="font-black text-xl mb-1 uppercase">Payment + 45 Days</h3>
                          <p className="text-sm opacity-70">Download your fresh CIBIL report. Check the status under 'Account Information'. It should change from 'Default' to 'Settled'.</p>
                       </div>
                    </div>
                    <div className="flex gap-6">
                       <div className="font-black text-4xl text-gray-300">02</div>
                       <div>
-                         <h5 className="font-black text-xl mb-1 uppercase">Dispute Resolution</h5>
+                         <h4 className="font-black text-xl mb-1 uppercase">Dispute Resolution</h4>
                          <p className="text-sm opacity-70">If the status still shows 'Default', use your NDC/NOC to file a 'Credit Dispute' on the CIBIL website. The bank is legally required to respond within 30 days.</p>
                       </div>
                    </div>
@@ -774,7 +774,7 @@ export default function DocumentRequirementsPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                  <div className="bg-[#1F5EFF] p-8 rounded-3xl text-white">
-                    <h5 className="font-black mb-4 uppercase">How to Retrieve</h5>
+                    <h3 className="font-black mb-4 uppercase">How to Retrieve</h3>
                     <ul className="text-xs space-y-3 font-bold">
                        <li>• Use the 'Net Banking' archive to download past 1 year of statements.</li>
                        <li>• Visit the branch and submit a physical request with your ID.</li>
@@ -783,7 +783,7 @@ export default function DocumentRequirementsPage() {
                     </ul>
                  </div>
                  <div className="bg-gray-900 p-8 rounded-3xl text-white">
-                    <h5 className="font-black mb-4 uppercase text-[#1F5EFF]">What if they claim data lost?</h5>
+                    <h4 className="font-black mb-4 uppercase text-[#1F5EFF]">What if they claim data lost?</h4>
                     <p className="text-xs leading-relaxed font-medium opacity-80">
                        If the bank/lender claims your records were lost during a merger or system migration, you hold the legal upper hand. Without the original sanction/default data, they cannot prove the debt in a civil court. We help our clients use this 'Missing Data' as leverage to secure massive 70-80% discounts.
                     </p>
@@ -835,7 +835,7 @@ export default function DocumentRequirementsPage() {
                          {item.name.charAt(0)}
                        </div>
                        <div>
-                         <h5 className="font-bold text-[#2E2E2E]">{item.name}</h5>
+                         <h3 className="font-bold text-[#2E2E2E]">{item.name}</h3>
                          <p className="text-xs text-gray-400">{item.loc}</p>
                        </div>
                        <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -904,7 +904,7 @@ export default function DocumentRequirementsPage() {
             <div className="sticky top-24 space-y-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">We are in This Together</h3>
+                  <div className="text-lg font-black text-white">We are in This Together</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -918,7 +918,7 @@ export default function DocumentRequirementsPage() {
               </div>
 
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement-process-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

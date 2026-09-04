@@ -306,7 +306,7 @@ export default function CibilImpactPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-bold text-lg mb-3 text-gray-900">Contractual Failure</h4>
+                                    <h3 className="font-bold text-lg mb-3 text-gray-900">Contractual Failure</h3>
                                     <p className="text-gray-700 text-sm">CIBIL tracks your ability to follow contracts. A settlement is a formal admission that you broke the original contract. The algorithm penalizes this heavily as it predicts future non-payment.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
@@ -367,7 +367,7 @@ export default function CibilImpactPage() {
                                         </div>
                                     </div>
                                     <div className="md:w-2/3 p-8">
-                                        <h4 className="text-xl font-bold text-gray-900 mb-4">Positive Reinforcement</h4>
+                                        <h3 className="text-xl font-bold text-gray-900 mb-4">Positive Reinforcement</h3>
                                         <p className="text-gray-700 leading-relaxed text-sm">
                                             A closed status means the bank received every penny. Your score recovers almost instantly after the reporting cycle. You become eligible for premium credit cards and home loans at the lowest possible rates.
                                         </p>
@@ -431,7 +431,7 @@ export default function CibilImpactPage() {
                                     <div key={idx} className="flex gap-4 p-5 rounded-2xl bg-gray-50 border border-gray-100">
                                         <div className="flex-shrink-0 w-8 h-8 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-bold">{idx + 1}</div>
                                         <div>
-                                            <h5 className="font-bold text-gray-900">{item.t}</h5>
+                                            <h3 className="font-bold text-gray-900">{item.t}</h3>
                                             <p className="text-sm text-gray-600">{item.d}</p>
                                         </div>
                                     </div>
@@ -450,7 +450,7 @@ export default function CibilImpactPage() {
                                 During this year, ensure you have zero bounces in your bank account. Even a single 500 rupee bounce for an insurance premium or utility bill can be fatal for a recovering CIBIL report. Keep a consistent Average Monthly Balance (AMB). If a bank sees that you have 50,000 rupees sitting in your account every month, they start believing that your hardship is truly over.
                             </p>
                             <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm mb-8">
-                                <h4 className="font-bold text-lg mb-3">The 'Dispute' Check</h4>
+                                <h3 className="font-bold text-lg mb-3">The 'Dispute' Check</h3>
                                 <p className="text-gray-700 text-sm">Wait for 60 days after your settlement payment. Download your CIBIL report. If the bank has not updated the status, do not wait. File a formal dispute on the CIBIL website and send the settlement letter and payment proof to the bank's Nodal Officer. This is the only way to ensure your 'recovery clock' starts ticking.</p>
                             </div>
                         </section>
@@ -466,7 +466,7 @@ export default function CibilImpactPage() {
                                 <h3 className="text-xl font-bold text-[var(--color-text-hero)] mb-6">Strategy: The Secured Card Loop</h3>
                                 <div className="grid md:grid-cols-2 gap-8">
                                     <div className="p-4 bg-white rounded-xl shadow-sm">
-                                        <h5 className="font-bold mb-2">How it Works</h5>
+                                        <h4 className="font-bold mb-2">How it Works</h4>
                                         <p className="text-xs text-gray-600">Open a Fixed Deposit of ₹20,000. The bank gives you a credit card with an ₹18,000 limit. This is 100% guaranteed, even with a 500 CIBIL score.</p>
                                     </div>
                                     <div className="p-4 bg-white rounded-xl shadow-sm">
@@ -513,11 +513,11 @@ export default function CibilImpactPage() {
                             </p>
                             <div className="grid sm:grid-cols-2 gap-4 mb-8">
                                 <div className="p-4 bg-white border border-gray-100 rounded-xl shadow-sm">
-                                    <h5 className="font-bold text-gray-800 mb-2">Right to Accuracy</h5>
+                                    <h3 className="font-bold text-gray-800 mb-2">Right to Accuracy</h3>
                                     <p className="text-xs text-gray-600">Banks must report accurate data. if you paid on June 15th, they cannot report 'Date of Settlement' as December. This matters for your 7 year timeline.</p>
                                 </div>
                                 <div className="p-4 bg-white border border-gray-100 rounded-xl shadow-sm">
-                                    <h5 className="font-bold text-gray-800 mb-2">Right to Notification</h5>
+                                    <h4 className="font-bold text-gray-800 mb-2">Right to Notification</h4>
                                     <p className="text-xs text-gray-600">Banks should ideally notify you before reporting negative data, although this is rarely followed in practice for settlements.</p>
                                 </div>
                                 <div className="p-4 bg-white border border-gray-100 rounded-xl shadow-sm">
@@ -639,7 +639,7 @@ export default function CibilImpactPage() {
                                 <div key={i} className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                                     <div className="flex items-center mb-4">
                                         <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                                        <div><h5 className="font-bold text-[#2E2E2E]">{review.name}</h5><p className="text-xs text-gray-400">{review.loc}</p></div>
+                                        <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                                             <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -690,7 +690,7 @@ export default function CibilImpactPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group text-[#DEDEDE]">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Credit Rescue</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Credit Rescue</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm opacity-80 leading-relaxed font-normal">
@@ -704,7 +704,7 @@ export default function CibilImpactPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Insight</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Insight</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

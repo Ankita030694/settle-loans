@@ -340,7 +340,7 @@ export default function DirectorDefaultImpactPage() {
               </h2>
               <div className="grid md:grid-cols-1 gap-10 my-12">
                 <div className="bg-red-50 p-8 rounded-2xl border border-red-100">
-                  <h4 className="text-xl font-bold mb-4 text-red-900 leading-tight italic underline">Warning: Systemic Contagion</h4>
+                  <h3 className="text-xl font-bold mb-4 text-red-900 leading-tight italic underline">Warning: Systemic Contagion</h3>
                   <p className="text-sm leading-6 mb-6 text-red-900/80 font-medium">
                     If a director is classified as a "Willful Defaulter" by any bank, RBI guidelines dictate that <strong>no additional facilities should be granted by any bank/FI to any company where such a person is a director</strong>. This means one director's personal mistake can completely blacklist multiple, otherwise healthy, companies.
                   </p>
@@ -451,7 +451,7 @@ export default function DirectorDefaultImpactPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -505,7 +505,7 @@ export default function DirectorDefaultImpactPage() {
             <div className="sticky top-24 space-y-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white italic tracking-wider">Secure Your Future</h3>
+                  <div className="text-lg font-black text-white italic tracking-wider">Secure Your Future</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold italic tracking-tight underline">
@@ -519,7 +519,7 @@ export default function DirectorDefaultImpactPage() {
               </div>
 
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-xs font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 italic underline">Related Guides</h3>
+                <div className="text-xs font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 italic underline">Related Guides</div>
                 <ul className="space-y-4 text-[11px] font-bold italic">
                   <li>
                     <Link href="/loan-settlement-lawyers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

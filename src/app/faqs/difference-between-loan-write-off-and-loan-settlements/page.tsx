@@ -171,7 +171,7 @@ export default function LoanWriteOffVsSettlementPage() {
                                 A loan write-off is an internal accounting entry made by a bank or NBFC when they deem a loan to be unrecoverable in its current form. This usually happens after the loan has been categorized as a **Non-Performing Asset (NPA)** for several quarters (typically after the bank has provisioned 100% against the loan).
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8">
-                                <h4 className="font-semibold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Bank's Rationale for Write-Off:</h4>
+                                <h3 className="font-semibold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Bank's Rationale for Write-Off:</h3>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3">
                                         <FontAwesomeIcon icon={faChartPie} className="text-blue-500 mt-1.5" />
@@ -221,7 +221,7 @@ export default function LoanWriteOffVsSettlementPage() {
                                 To understand why banks favor one over the other, we must look at the "Provisioning" rules set by the RBI. A bank's profit is calculated after setting aside money for potential bad loans. This is called **Provisioning**.
                             </p>
                             <div className="bg-gray-900 text-[#DEDEDE] p-8 rounded-3xl mb-8">
-                                <h4 className="text-xl font-bold mb-6 border-b border-white/10 pb-4">The NPA Lifecycle (Provisioning Scale):</h4>
+                                <h3 className="text-xl font-bold mb-6 border-b border-white/10 pb-4">The NPA Lifecycle (Provisioning Scale):</h3>
                                 <div className="space-y-6">
                                     <div className="flex gap-4">
                                         <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/20 flex-shrink-0 flex items-center justify-center font-black">0-30</div>
@@ -264,7 +264,7 @@ export default function LoanWriteOffVsSettlementPage() {
                             </p>
                             <div className="space-y-8">
                                 <div className="p-8 border border-gray-100 rounded-3xl bg-white shadow-lg">
-                                    <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Status Code: SETTLED</h4>
+                                    <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Status Code: SETTLED</h3>
                                     <p className="text-sm leading-relaxed mb-4">Means you paid a part of the dues and the balance was waived. This results in a 100-150 point drop in your score. Future lenders see that you didn't fulfill the full contract, making you a "Medium-High Risk" borrower.</p>
                                     <p className="text-xs font-mono bg-gray-50 p-2 rounded inline-block">Recovery Status: Closed | Liability: Nil</p>
                                 </div>
@@ -336,10 +336,10 @@ export default function LoanWriteOffVsSettlementPage() {
                                 For home loans or car loans (Secured Debt), a write-off is rarer but not impossible. In these cases, the bank usually invokes the **SARFAESI Act (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002)**.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border-2 border-red-100 mb-8">
-                                <h4 className="text-red-900 font-bold mb-4 flex items-center gap-2">
+                                <h3 className="text-red-900 font-bold mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faTriangleExclamation} />
                                     The SARFAESI Timeline:
-                                </h4>
+                                </h3>
                                 <ul className="space-y-3 text-red-800 text-sm">
                                     <li>**Notice 13(2):** Gives the borrower 60 days to clear the dues.</li>
                                     <li>**Notice 13(4):** Gives the bank the right to take physical possession of the asset.</li>
@@ -369,7 +369,7 @@ export default function LoanWriteOffVsSettlementPage() {
                                 If your report shows "Written-off", you are in the "Negative Profile" list of almost all banks. However, this is not a life sentence. The path to recovery involves a process we call **"Credit Rehabilitation"**.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8">
-                                <h4 className="font-bold mb-4 uppercase tracking-wider text-[#1F5EFF]">The 3-Year Rehabilitation Roadmap:</h4>
+                                <h3 className="font-bold mb-4 uppercase tracking-wider text-[#1F5EFF]">The 3-Year Rehabilitation Roadmap:</h3>
                                 <div className="space-y-6">
                                     <div className="flex gap-4">
                                         <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex-shrink-0 flex items-center justify-center font-bold">1</div>
@@ -428,7 +428,7 @@ export default function LoanWriteOffVsSettlementPage() {
                                 Debt settlement is a function of time. The older the debt, the less 'Value' it has in the bank's system.
                             </p>
                             <div className="bg-blue-900/5 p-8 rounded-3xl border border-blue-100 mb-8">
-                                <h4 className="font-bold text-[#1F5EFF] mb-4">The Probability of Waiver Matrix:</h4>
+                                <h3 className="font-bold text-[#1F5EFF] mb-4">The Probability of Waiver Matrix:</h3>
                                 <ul className="space-y-4 text-sm">
                                     <li className="flex justify-between border-b border-gray-100 pb-2"><span>Age: 90-180 Days</span> <span className="font-bold text-red-600">Possible Waiver: 10-20%</span></li>
                                     <li className="flex justify-between border-b border-gray-100 pb-2"><span>Age: 180-365 Days</span> <span className="font-bold text-orange-600">Possible Waiver: 30-40%</span></li>
@@ -458,7 +458,7 @@ export default function LoanWriteOffVsSettlementPage() {
                                 "Zombie Debt" is a term used in the industry for debts that have been written off and bought by third-party collection agencies. These agencies may call you 5 or 10 years later, hoping you have forgotten the legal status of the debt.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-2xl border-l-4 border-orange-500 mb-8">
-                                <h4 className="font-bold text-orange-900 mb-4">How to Handle Zombie Debt Calls:</h4>
+                                <h3 className="font-bold text-orange-900 mb-4">How to Handle Zombie Debt Calls:</h3>
                                 <ul className="space-y-4 text-orange-800 text-sm">
                                     <li>1. **Verify the Agency:** Ask for their official authorization letter from the original bank.</li>
                                     <li>2. **Demand Documentation:** Never acknowledge the debt over the phone. Ask them to send the "Proof of Debt" via registered post.</li>
@@ -492,7 +492,7 @@ export default function LoanWriteOffVsSettlementPage() {
                                 Whether you are dealing with a write-off or a standard settlement, your "Hardship Letter" is the most important document in the file. It is the primary piece of evidence the bank's settlement committee will review. A generic letter gets a generic 10% waiver; a well-crafted letter gets a 60% waiver.
                             </p>
                             <div className="bg-gray-50 p-10 rounded-3xl mb-8 border border-gray-200">
-                                <h4 className="font-bold mb-6 text-[#1F5EFF] uppercase tracking-tighter text-xl">Required Modules for Your Letter:</h4>
+                                <h3 className="font-bold mb-6 text-[#1F5EFF] uppercase tracking-tighter text-xl">Required Modules for Your Letter:</h3>
                                 <div className="space-y-8 text-sm">
                                     <div>
                                         <p className="font-black text-[#2E2E2E] mb-2">Module 1: The Chronology of Distress</p>
@@ -519,11 +519,11 @@ export default function LoanWriteOffVsSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-3 gap-6 mb-8">
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                    <h5 className="font-bold text-[#1F5EFF] mb-2">ICICI & HDFC</h5>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-2">ICICI & HDFC</h3>
                                     <p className="text-xs leading-relaxed">Aggressive on initial recovery but highly structured on settlements. They prefer 'Lump Sum' over 'Instalment Settlements'. Waivers usually range from 40-60% post-write-off.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                    <h5 className="font-bold text-[#1F5EFF] mb-2">SBI & PNB</h5>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2">SBI & PNB</h4>
                                     <p className="text-xs leading-relaxed">Operate via 'OTS Schemes' announced periodically. Their waivers can be higher (up to 70%) but the paperwork is extensive and requires physical branch visits.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
@@ -647,7 +647,7 @@ export default function LoanWriteOffVsSettlementPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Expert Advice</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Expert Advice</div>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">
                                     <p className="mb-8 text-sm opacity-80 leading-relaxed font-normal">

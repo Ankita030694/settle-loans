@@ -517,7 +517,7 @@ export default function LoanSettlementVsDebtConsolidationClient() {
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 p-4 rounded-xl">
                   <span className="text-[11px] font-bold text-slate-500 uppercase block">Creditor 1</span>
-                  <h4 className="font-black text-slate-900 text-sm">HDFC Personal Loan</h4>
+                  <h3 className="font-black text-slate-900 text-sm">HDFC Personal Loan</h3>
                   <p className="text-xs text-slate-600 mt-1">Outstanding: <strong>₹6,00,000</strong></p>
                   <p className="text-xs text-slate-600">Rate: 15% p.a. | EMI: <strong>₹16,650</strong></p>
                 </div>
@@ -756,10 +756,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
               {/* Eligibility Comparison Grid */}
               <div className="grid grid-cols-1 md:grid-cols-2 gap-5 my-6">
                 <div className="bg-white border border-slate-200 rounded-xl p-5 shadow-sm">
-                  <h5 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-3 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-3 flex items-center gap-2">
                     <RefreshCw className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Consolidation Loan Underwriting Rules</span>
-                  </h5>
+                  </h3>
                   <ul className="text-xs text-slate-600 space-y-2">
                     <li className="flex items-start gap-1.5">
                       <Check className="w-3.5 h-3.5 text-blue-600 flex-shrink-0 mt-0.5" />
@@ -781,10 +781,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
                 </div>
 
                 <div className="bg-white border border-slate-200 rounded-xl p-5 shadow-sm">
-                  <h5 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-3 flex items-center gap-2">
+                  <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-3 flex items-center gap-2">
                     <Scale className="w-4 h-4 text-amber-600" />
                     <span>Loan Settlement (OTS) Eligibility Rules</span>
-                  </h5>
+                  </h4>
                   <ul className="text-xs text-slate-600 space-y-2">
                     <li className="flex items-start gap-1.5">
                       <Check className="w-3.5 h-3.5 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -872,10 +872,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
               {/* The Trap Mechanism Breakdown */}
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-2xl bg-rose-50 border border-rose-200">
-                  <h4 className="font-bold text-rose-900 text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-rose-900 text-base mb-2 flex items-center gap-2">
                     <AlertTriangle className="w-5 h-5 text-rose-600" />
                     How the Consolidation Trap Works
-                  </h4>
+                  </h3>
                   <p className="text-sm text-rose-800 leading-relaxed mb-3">
                     A borrower takes a ₹10 Lakh consolidation loan to clear credit cards and smaller personal loans. Because the old credit card lines now show zero balances, the borrower feels a false sense of financial liquidity. When an unexpected emergency strikes, the borrower begins swiping the credit cards again while still burdened with the ₹25,000 monthly consolidation EMI.
                   </p>
@@ -910,10 +910,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                     RBI Framework for Compromise Settlements and Technical Write-offs (June 8, 2023)
-                  </h4>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Directs all regulated commercial banks, NBFCs, and urban cooperative banks to establish transparent, board-approved policies for executing One-Time Settlements (OTS) with distressed borrowers. It removes arbitrary branch discretion and legitimizes compromise settlements with principal haircuts for genuine hardship cases.
                   </p>
@@ -1107,10 +1107,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
             {/* Section 10: Official Regulatory Sources & Legal Citations */}
             <div className="my-10 p-6 bg-slate-50 border border-slate-200 rounded-2xl">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Statutory References &amp; Official Regulatory Sources</span>
-              </h4>
+              </h3>
               <ul className="text-xs text-slate-600 space-y-2">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
@@ -1224,14 +1224,14 @@ export default function LoanSettlementVsDebtConsolidationClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm leading-tight">
+                  <div className="font-bold text-slate-900 text-sm leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-[11px] text-slate-500 font-medium">
                     Debt Settlement Strategist &amp; Legal Advocate
                   </p>
@@ -1264,9 +1264,9 @@ export default function LoanSettlementVsDebtConsolidationClient() {
                 <PhoneCall className="w-3.5 h-3.5" />
                 <span>Emergency Advocate Assistance</span>
               </div>
-              <h3 className="text-lg font-black mb-2 leading-tight">
+              <div className="text-lg font-black mb-2 leading-tight">
                 Overwhelmed by Multiple EMIs or Collection Harassment?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-4">
                 Don&apos;t take another high-interest loan to pay old debts. Speak with an empaneled SettleLoans advocate to stop illegal harassment and negotiate lawful OTS settlements with 40%–70% waivers.
               </p>
@@ -1280,10 +1280,10 @@ export default function LoanSettlementVsDebtConsolidationClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-xs uppercase tracking-wider mb-3 flex items-center gap-1.5">
+              <div className="font-bold text-slate-900 text-xs uppercase tracking-wider mb-3 flex items-center gap-1.5">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <Check className="w-3.5 h-3.5 text-emerald-600 flex-shrink-0 mt-0.5" />

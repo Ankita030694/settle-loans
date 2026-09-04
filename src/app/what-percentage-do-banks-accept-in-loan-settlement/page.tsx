@@ -276,7 +276,7 @@ export default function BankSettlementPercentagePage() {
                             <div className="grid md:grid-cols-3 gap-6 my-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm text-center">
                                     <div className="text-3xl font-black text-[#1F5EFF] mb-2">40% - 60%</div>
-                                    <h4 className="font-bold mb-2">Standard Range</h4>
+                                    <h3 className="font-bold mb-2">Standard Range</h3>
                                     <p className="text-xs text-gray-500">Typical for personal loans and credit cards that are 6-12 months in default.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm text-center">
@@ -325,7 +325,7 @@ export default function BankSettlementPercentagePage() {
                                 <li className="flex items-start gap-4">
                                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF] flex items-center justify-center text-white font-bold shrink-0 mt-1">1</div>
                                     <div>
-                                        <h4 className="font-bold text-xl mb-1">Duration of Default (NPA Age)</h4>
+                                        <h3 className="font-bold text-xl mb-1">Duration of Default (NPA Age)</h3>
                                         <p className="text-gray-600">The older the debt, the higher the waiver. A debt that is 180 days past due (DPD) is likely to get a better deal than one that is 90 DPD. Banks write off older assets and move them to 'Bad Reserves', making them cheaper to settle internally.</p>
                                     </div>
                                 </li>
@@ -424,7 +424,7 @@ export default function BankSettlementPercentagePage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:shadow-md transition-shadow">
-                                    <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">The "Lok Adalat" Lever</h4>
+                                    <h3 className="font-bold text-xl mb-4 text-[#1F5EFF]">The "Lok Adalat" Lever</h3>
                                     <p className="text-sm leading-relaxed">Lok Adalats are people's courts where banks can settle thousands of cases in a single day. Settlement percentages in Lok Adalat are often 10-20% better than standard bank offers because the bank saves on legal fees and court time. Always check if your case is listed for the next Lok Adalat session.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:shadow-md transition-shadow">
@@ -502,7 +502,7 @@ export default function BankSettlementPercentagePage() {
                                 <div className="p-6 bg-white rounded-2xl border border-[#DEDEDE] flex gap-4">
                                     <div className="w-10 h-10 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center shrink-0">📊</div>
                                     <div>
-                                        <h4 className="font-bold text-sm mb-1">Data-Driven Bidding</h4>
+                                        <h3 className="font-bold text-sm mb-1">Data-Driven Bidding</h3>
                                         <p className="text-xs text-gray-500">We know the historical settlement rates of over 100 banks for the last 5 years. We don't guess; we bid.</p>
                                     </div>
                                 </div>
@@ -551,7 +551,7 @@ export default function BankSettlementPercentagePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -622,14 +622,14 @@ export default function BankSettlementPercentagePage() {
                     <aside className="w-full lg:w-1/5 flex flex-col gap-8">
                         <div className="sticky top-32 space-y-8">
                             <div className="bg-[#2E2E2E] p-8 rounded-[30px] border border-[#1F5EFF]/20 shadow-xl">
-                                <h3 className="text-2xl font-black text-white mb-4 leading-tight">Expert <br /><span className="text-[#1F5EFF]">Percentage</span><br />Optimization</h3>
+                                <div className="text-2xl font-black text-white mb-4 leading-tight">Expert <br /><span className="text-[#1F5EFF]">Percentage</span><br />Optimization</div>
                                 <p className="text-white/70 text-sm mb-6 leading-relaxed uppercase font-bold tracking-tighter">Save 40-70% on your total debt legally.</p>
                                 <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white text-center font-bold py-4 rounded-xl hover:bg-blue-600 transition-colors shadow-lg">
                                     Start Negotiation
                                 </Link>
                             </div>
                             <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm">
-                                <h4 className="font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Decision Tools</h4>
+                                <div className="font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Decision Tools</div>
                                 <ul className="space-y-4">
                                     <li><Link href="/can-you-get-a-loan-again-after-settling-a-previous-loan" className="text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Can You Loan Again?</Link></li>
                                     <li><Link href="/is-loan-settlement-a-good-option-for-borrowers" className="text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Is Settlement Good?</Link></li>

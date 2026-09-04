@@ -172,7 +172,7 @@ export default function MumbaiDrtLawyerPage() {
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">DRT 1 Mumbai (Colaba)</h4>
+                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">DRT 1 Mumbai (Colaba)</h3>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Located at Telephone Bhavan, Colaba, DRT 1 is the high-stakes forum. It primary deals with debt amounts exceeding ₹100 Crores. This includes large corporate loans, stressed asset portfolios, and cases involving nationalized banks with large Mumbai exposures.
                                     </p>
@@ -211,7 +211,7 @@ export default function MumbaiDrtLawyerPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Notice of Possession (Rule 8(1))</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Notice of Possession (Rule 8(1))</h3>
                                     <p className="text-sm">Banks often fail to serve the possession notice to the borrower and the guarantor simultaneously. In a recent case at DRT 3 Mumbai, we set aside a symbolic possession notice because it wasn't published in two leading newspapers (one in vernacular Marathi) within 7 days. Proof of publication is a mandatory exhibit in any DRT trial.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -235,7 +235,7 @@ export default function MumbaiDrtLawyerPage() {
                                 The Debt Recovery Appellate Tribunal (DRAT) in Mumbai, located at Scindia House, is the final authority for appeals against DRT orders in Maharashtra, Goa, and Gujarat. Appealing here is a technical minefield due to the mandatory "Pre-deposit" requirement.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The Pre-Deposit Technicality</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The Pre-Deposit Technicality</h3>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     Under Section 18 of the SARFAESI Act, you must deposit 50% of the bank's claim to file an appeal. However, a skilled lawyer can argue for a reduction to 25% based on specific financial hardship or legal merits of the case.
                                 </p>
@@ -298,7 +298,7 @@ export default function MumbaiDrtLawyerPage() {
                                 For most Mumbai-based entrepreneurs, the DRT case is a means to an end, the end being a fair settlement. Banks in Mumbai are driven by 'Quarterly NPA Targets.' This makes them more prone to settle during the months of March, June, September, and December.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The "Legal Gridlock" Method for OTS</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The "Legal Gridlock" Method for OTS</h3>
                                 <p className="text-lg leading-relaxed mb-4">
                                     A bank will never offer a deep hair-cut (discount) if they believe they can successfully auction your property. We create a legal gridlock by:
                                 </p>
@@ -389,7 +389,7 @@ export default function MumbaiDrtLawyerPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -456,7 +456,7 @@ export default function MumbaiDrtLawyerPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">Mumbai DRT Support</h3>
+                                    <div className="text-lg font-black text-white px-2">Mumbai DRT Support</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -471,7 +471,7 @@ export default function MumbaiDrtLawyerPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Mumbai Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Mumbai Resources</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/best-lawyer-for-arc-loan-assignment-dispute" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

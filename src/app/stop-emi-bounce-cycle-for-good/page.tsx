@@ -270,7 +270,7 @@ export default function StopEmiBounceCyclePage() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why Your Principal Stays the Same</h2>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Mathematics of Bounce Fees</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Mathematics of Bounce Fees</h3>
                 <p className="text-lg leading-relaxed mb-4 text-[#1E3A8A]">
                   When you make a partial payment after a default, you might assume it goes toward your EMI. However, lenders follow a strict hierarchy of appropriation:
                 </p>
@@ -328,7 +328,7 @@ export default function StopEmiBounceCyclePage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Transparency Mandate</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Transparency Mandate</h3>
                   <p className="text-base text-[#4A4A4A]">Lenders must explicitly state all bounce charges and penal interest rates in your Most Important Terms and Conditions (MITC) document. Any hidden fees can be legally challenged.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -389,7 +389,7 @@ export default function StopEmiBounceCyclePage() {
               </p>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Mistake 1: The Loan-Stacking Trap</h4>
+                <h3 className="text-xl font-black text-red-700 mb-3">Mistake 1: The Loan-Stacking Trap</h3>
                 <p className="text-lg leading-relaxed text-red-900 mb-4">
                   Never take a new, higher-interest personal loan or instant app loan to pay off an overdue EMI. This is the fastest way to turn a manageable single debt into an uncontrollable multi-lender crisis. You are merely shifting the problem and accelerating the interest burn.
                 </p>
@@ -412,7 +412,7 @@ export default function StopEmiBounceCyclePage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Tenure Extension</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Tenure Extension</h3>
                   <p className="text-base text-[#4A4A4A]">Request the lender to increase the duration of your loan. This mathematically reduces your monthly EMI to a manageable amount, though you will pay more interest overall.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -623,7 +623,7 @@ export default function StopEmiBounceCyclePage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-500"></div>
                 <div className="relative z-10">
-                  <h3 className="text-2xl font-black mb-4">Facing Harassment?</h3>
+                  <div className="text-2xl font-black mb-4">Facing Harassment?</div>
                   <p className="text-[#DEDEDE]/80 mb-6 text-sm">
                     Stop the endless recovery calls and bounce charges. Talk to an expert today.
                   </p>
@@ -635,7 +635,7 @@ export default function StopEmiBounceCyclePage() {
 
               {/* Card 2: White Resources */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Legal Resources</h4>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Legal Resources</div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/personal-loan-settlement" className="flex items-center text-[#4A4A4A] hover:text-[#1F5EFF] group transition-colors text-sm font-medium">

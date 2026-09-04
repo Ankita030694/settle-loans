@@ -184,7 +184,7 @@ export default function ArcLoanAssignmentPage() {
                                 Under the SARFAESI Act, ARCs are regulated entities. They are not recovery agents; they are "deemed lenders." This distinction is vital. While a recovery agent can be stopped by local police for harassment, an ARC must be fought in the courts with technical legal arguments. Their authority comes from Section 5 and Section 13 of the SARFAESI Act, and their operations are overseen by the RBI's Department of Regulation.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The Discount Factor: Why it Matters for Your Defense</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The Discount Factor: Why it Matters for Your Defense</h3>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     Banks usually sell loans to ARCs for 30% to 50% of the book value. This means the ARC's "cost of acquisition" is significantly lower than your actual debt. While the ARC is legally entitled to claim the full amount, knowing the acquisition cost provides vital leverage during One-Time Settlement (OTS) negotiations.
                                 </p>
@@ -213,7 +213,7 @@ export default function ArcLoanAssignmentPage() {
                                 If the bank has already initiated legal proceedings (like an Original Application in DRT) before assigning the loan to the ARC, the ARC must apply to the court for "substitution" of its name in place of the bank. This is not automatic.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-xl border border-orange-200 my-8">
-                                <h4 className="font-bold text-orange-900 mb-4 text-xl">The Substitution Trap</h4>
+                                <h3 className="font-bold text-orange-900 mb-4 text-xl">The Substitution Trap</h3>
                                 <p className="text-base text-orange-800 leading-relaxed">
                                     Many ARCs continue the old proceedings without obtaining a formal order of substitution from the DRT. If the ARC issues a fresh SARFAESI notice while the substitution is pending or not applied for, the entire action can be challenged as lacking "locus standi" (the right to sue). Our lawyers meticulously audit the court records to find these procedural gaps.
                                 </p>
@@ -299,7 +299,7 @@ export default function ArcLoanAssignmentPage() {
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Significant Case Laws for ARC Defense</h2>
                             <div className="space-y-6">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2">Phoenix ARC Pvt. Ltd. vs. Vishwa Bharati Vidya Mandir</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-2">Phoenix ARC Pvt. Ltd. vs. Vishwa Bharati Vidya Mandir</h3>
                                     <p className="text-sm text-gray-600 leading-relaxed italic">
                                         The Supreme Court clarified that the proper remedy for a borrower aggrieved by ARC actions under Section 13(4) is to file an application under Section 17 of the SARFAESI Act before the DRT. This underscores the importance of a strong DRT strategy rather than filing writ petitions in High Courts.
                                     </p>
@@ -339,7 +339,7 @@ export default function ArcLoanAssignmentPage() {
                             <div className="grid md:grid-cols-2 gap-8 my-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold mb-4">1</div>
-                                    <h4 className="font-bold mb-2 uppercase text-xs tracking-widest text-gray-500">Document Request</h4>
+                                    <h3 className="font-bold mb-2 uppercase text-xs tracking-widest text-gray-500">Document Request</h3>
                                     <p className="text-sm">Write a formal letter to both the Bank and the ARC requesting a copy of the Certified Assignment Deed and the Proof of Registration.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
@@ -381,7 +381,7 @@ export default function ArcLoanAssignmentPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h4 className="font-bold mb-2">Interim Stay Orders</h4>
+                                    <h3 className="font-bold mb-2">Interim Stay Orders</h3>
                                     <p className="text-sm">Obtaining a stay on the Section 14 physical possession by pointing out assignment deed flaws.</p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
@@ -419,7 +419,7 @@ export default function ArcLoanAssignmentPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.charAt(0)}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -485,7 +485,7 @@ export default function ArcLoanAssignmentPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">Fight the ARC Action</h3>
+                                    <div className="text-lg font-black text-white px-2">Fight the ARC Action</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -500,7 +500,7 @@ export default function ArcLoanAssignmentPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Legal Expertise</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Legal Expertise</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/best-lawyer-for-account-documents-drt" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

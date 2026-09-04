@@ -318,7 +318,7 @@ export default function RecoveryFreezeDefensePage() {
                             <div className="relative border-l-2 border-dashed border-[#1F5EFF]/30 pl-8 ml-4 space-y-12 mb-12">
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">1</div>
-                                    <h4 className="font-bold text-xl mb-3 uppercase tracking-tighter">Drafting the Securitisation Application</h4>
+                                    <h3 className="font-bold text-xl mb-3 uppercase tracking-tighter">Drafting the Securitisation Application</h3>
                                     <p className="text-gray-600 leading-relaxed text-sm">We detail every single technical error the bank committed. This document becomes the foundation of your recovery freeze.</p>
                                 </div>
                                 <div className="relative">
@@ -389,7 +389,7 @@ export default function RecoveryFreezeDefensePage() {
                                 High Courts are generally hesitant to interfere in SARFAESI matters because of the Supreme Court's ruling in the *United Bank of India vs Satyawati Tondon* case. However, exceptions exist for 'Alternative Remedy' being ineffective. If the DRT is non-functional or if the bank is trying to recover debt that is clearly time-barred under the Limitation Act, the High Court can exercise its extraordinary jurisdiction to grant an ad-interim stay. This is a path for 'Extreme Recovery Situations'.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-2xl border border-orange-100 mb-8">
-                                <h4 className="text-xl font-bold text-orange-800 mb-4">When to Choose High Court Over DRT?</h4>
+                                <h3 className="text-xl font-bold text-orange-800 mb-4">When to Choose High Court Over DRT?</h3>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-2">
                                         <span className="text-orange-500 font-bold">●</span>
@@ -496,7 +496,7 @@ export default function RecoveryFreezeDefensePage() {
                                                 {s.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E] leading-tight">{s.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E] leading-tight">{s.name}</h3>
                                                 <p className="text-xs text-gray-500 font-bold">{s.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -566,7 +566,7 @@ export default function RecoveryFreezeDefensePage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col items-center">
                                 <div className="bg-[#1F5EFF] w-full p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-tighter">Defense Hotline</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-tighter">Defense Hotline</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <div className="w-16 h-16 bg-[#1F5EFF]/10 rounded-full flex items-center justify-center mx-auto mb-4 border border-[#1F5EFF]/20 shadow-xl">
@@ -582,7 +582,7 @@ export default function RecoveryFreezeDefensePage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-xs font-black uppercase tracking-widest text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Litigation Tools</h3>
+                                <div className="text-xs font-black uppercase tracking-widest text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Litigation Tools</div>
                                 <ul className="space-y-4 text-sm font-black">
                                     <li>
                                         <Link href="/best-lawyer-for-loan-settlement-by-drt" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

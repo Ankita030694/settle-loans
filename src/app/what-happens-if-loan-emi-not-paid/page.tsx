@@ -171,7 +171,7 @@ export default function EmiNotPaidPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-red-500 mb-4 uppercase tracking-tighter">Late Payment Fees</h4>
+                                    <h3 className="font-black text-red-500 mb-4 uppercase tracking-tighter">Late Payment Fees</h3>
                                     <p className="text-sm">Bounced EMI charges (ECS Return) usually range from Rs. 500 to Rs. 1500 per attempt. If your bank tries twice, that is Rs. 3000 gone before you even pay the interest.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
@@ -213,7 +213,7 @@ export default function EmiNotPaidPage() {
                                 Once you cross the 90-day threshold, you aren't just a 'Defaulter' anymore; you are a 'Non-Performing Asset' (NPA). This changes everything. The bank's risk department takes over from the sales/service department.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-3xl border border-blue-100 mb-8">
-                                <h4 className="text-xl font-black text-blue-900 mb-4">The "Loan Recall" Notice</h4>
+                                <h3 className="text-xl font-black text-blue-900 mb-4">The "Loan Recall" Notice</h3>
                                 <p className="text-blue-800 leading-relaxed font-medium">After NPA, the bank has the right to 'Recall' the entire loan. They will demand that you pay the full outstanding balance (say 40 Lakhs) within 15 days, instead of just the overdue EMIs (say 1.5 Lakhs). This is a pressure tactic to move you toward settlement or seizure.</p>
                             </div>
                             <p className="text-lg leading-relaxed">
@@ -228,7 +228,7 @@ export default function EmiNotPaidPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8">
                                 <div className="p-8 bg-white border-2 border-red-50 rounded-3xl">
-                                    <h4 className="font-black text-red-600 mb-4 uppercase tracking-tighter">Section 138 (NI Act)</h4>
+                                    <h3 className="font-black text-red-600 mb-4 uppercase tracking-tighter">Section 138 (NI Act)</h3>
                                     <p className="text-sm font-bold mb-4">The 'Cheque Bounce' Trap</p>
                                     <p className="text-xs opacity-70">If your ECS/NACH fails or a cheque bounces, it is a criminal offense. Banks use this to threaten arrest. While summon-based, it is a tool for psychological leverage.</p>
                                 </div>
@@ -271,11 +271,11 @@ export default function EmiNotPaidPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6">
                                 <div className="p-6 bg-[#1F5EFF] text-white rounded-3xl">
-                                    <h5 className="font-black mb-3">Loan Restructuring</h5>
+                                    <h3 className="font-black mb-3">Loan Restructuring</h3>
                                     <p className="text-sm opacity-80 leading-relaxed">Request an extension of tenure. Increasing a 5-year loan to 7 years can reduce your EMI by 30%, making it manageable without default.</p>
                                 </div>
                                 <div className="p-6 bg-[#2E2E2E] text-white rounded-3xl">
-                                    <h5 className="font-black mb-3">EMI Holiday (Moratorium)</h5>
+                                    <h4 className="font-black mb-3">EMI Holiday (Moratorium)</h4>
                                     <p className="text-sm opacity-80 leading-relaxed">Banks can grant a 3-6 month window in cases of medical emergency or job loss where you only pay interest, not principal.</p>
                                 </div>
                             </div>
@@ -322,7 +322,7 @@ export default function EmiNotPaidPage() {
                                 If the default has already happened and you hit the 90-day mark, the primary exit strategy is a One Time Settlement (OTS). This is where the bank agrees to close the loan for a reduced lump sum. However, this is not a 'Right'; it is a negotiation.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border-2 border-dashed border-[#1F5EFF]/20">
-                                <h4 className="font-black text-[#1F5EFF] mb-4">When to move toward Settlement?</h4>
+                                <h3 className="font-black text-[#1F5EFF] mb-4">When to move toward Settlement?</h3>
                                 <ul className="space-y-3 font-medium">
                                     <li className="flex gap-3"><span className="text-[#1F5EFF]">✓</span> When your financial hardship is permanent or long-term.</li>
                                     <li className="flex gap-3"><span className="text-[#1F5EFF]">✓</span> When the total debt with penalties has become mathematically unpayable.</li>
@@ -355,7 +355,7 @@ export default function EmiNotPaidPage() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex gap-4 text-[10px] font-mono">
@@ -385,7 +385,7 @@ export default function EmiNotPaidPage() {
                                     { q: "Does the bank charge interest on the Penal Interest?", a: "Yes, in many cases. This is called 'Anatolism' or compounding of interest on penalties, which is why the debt grows so fast." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
+                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -410,7 +410,7 @@ export default function EmiNotPaidPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Emergency Support</h3>
+                                    <div className="text-lg font-black text-white">Emergency Support</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -423,7 +423,7 @@ export default function EmiNotPaidPage() {
                             </div>
 
                             <div className="bg-white border border-[#DEDEDE] rounded-2xl p-6 shadow-sm">
-                                <h4 className="font-black text-[#2E2E2E] mb-4 uppercase text-xs tracking-widest border-b pb-2">Related Strategy</h4>
+                                <div className="font-black text-[#2E2E2E] mb-4 uppercase text-xs tracking-widest border-b pb-2">Related Strategy</div>
                                 <div className="space-y-4">
                                     <Link href="/loan-settlement-process-in-india" className="block text-sm font-bold text-[#4A4A4A] hover:text-[#1F5EFF] transition-colors leading-tight">
                                         The Full Settlement Process Guide

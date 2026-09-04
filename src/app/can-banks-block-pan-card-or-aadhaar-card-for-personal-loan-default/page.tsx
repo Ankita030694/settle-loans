@@ -264,7 +264,7 @@ export default function PANCardAadhaarBlockDefensePage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">PAN Card (Income Tax Act)</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">PAN Card (Income Tax Act)</h3>
                   <p className="text-gray-700 leading-relaxed">
                     Permanent Account Numbers (PAN) are issued and governed exclusively by the Income Tax Department of India under the Income Tax Act, 1961. A PAN card can only be deactivated or cancelled by an Assessing Officer for specific tax-related frauds or duplicate PAN issuances. A private civil loan default gives a bank zero authority to instruct the IT Department to block your PAN.
                   </p>
@@ -293,7 +293,7 @@ export default function PANCardAadhaarBlockDefensePage() {
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Mechanics of Fear</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Mechanics of Fear</h3>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Third-party agencies work on high commission margins. The faster they extract money, the more they earn. They know that standard legal notices take months, so they resort to instant psychological terror.
                 </p>
@@ -370,7 +370,7 @@ export default function PANCardAadhaarBlockDefensePage() {
                 One of the most profound points of confusion for borrowers is distinguishing between private credit bureaus and sovereign government identity frameworks. Recovery agents aggressively blur these lines to maximize your anxiety. It is essential to understand exactly what a bank can and cannot report when you default on a personal loan.
               </p>
               <div className="bg-[#f8faff] p-8 rounded-2xl mb-8 border border-[#DEDEDE]">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Extent of Bank Authority</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Extent of Bank Authority</h3>
                 <p className="text-gray-800 text-lg leading-relaxed mb-4">
                   When you default, the bank is legally obligated to report your delayed payments to credit information companies (CICs) like CIBIL, Experian, Equifax, or CRIF High Mark. This will severely negatively impact your credit score, making it exceedingly difficult to obtain new credit cards, personal loans, or home loans in the foreseeable future. This is the absolute limit of their reporting power.
                 </p>
@@ -389,7 +389,7 @@ export default function PANCardAadhaarBlockDefensePage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">How Salary Actually Works</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">How Salary Actually Works</h3>
                   <p className="text-gray-700 leading-relaxed">
                     Employers require your PAN solely for the purpose of deducting Tax Deducted at Source (TDS) under the Income Tax Act. The HR or finance department of your company does not check with your creditors or credit bureaus before processing payroll. As long as your PAN is active on the Income Tax portal (which a bank cannot alter), your salary processing remains entirely uninterrupted.
                   </p>
@@ -413,7 +413,7 @@ export default function PANCardAadhaarBlockDefensePage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Step 1: Collect Evidence</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Step 1: Collect Evidence</h3>
                   <p className="text-gray-700 leading-relaxed">
                     Install a call recorder app on your phone. Whenever they call, record the conversation. Take screenshots of all WhatsApp messages, fake notices, and abusive texts. Do NOT block them immediately—you need the evidence.
                   </p>
@@ -472,7 +472,7 @@ export default function PANCardAadhaarBlockDefensePage() {
                 Many borrowers believe that because they owe money, they have surrendered all their rights. This is fundamentally incorrect. In the eyes of the law, you remain a "consumer" of the bank's services. The Consumer Protection Act provides robust mechanisms to penalize banks for the abusive behavior of their hired recovery agencies.
               </p>
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Deficiency in Service & Unfair Trade Practices</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Deficiency in Service & Unfair Trade Practices</h3>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Using illegal threats, sending forged government documents, and employing intimidation tactics qualify as "deficiency in service" and "unfair trade practices." 
                 </p>
@@ -504,7 +504,7 @@ export default function PANCardAadhaarBlockDefensePage() {
                       AK
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Amit K.</h4>
+                      <h3 className="font-bold text-gray-900">Amit K.</h3>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -557,7 +557,7 @@ export default function PANCardAadhaarBlockDefensePage() {
               <div className="space-y-4">
                 {(jsonLd["@graph"][4] as any)?.mainEntity?.map((faq: any, idx: number) => (
                   <div key={idx} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.name}</h4>
+                    <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">{faq.name}</h3>
                     <p className="text-gray-600 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -588,7 +588,7 @@ export default function PANCardAadhaarBlockDefensePage() {
             <div className="sticky top-24 space-y-6">
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                <h4 className="text-xl font-black mb-4 relative z-10">Being Harassed?</h4>
+                <div className="text-xl font-black mb-4 relative z-10">Being Harassed?</div>
                 <p className="text-sm opacity-90 mb-6 relative z-10">
                   Don't fall for fake "PAN Block" notices. Expose their illegal tactics today.
                 </p>
@@ -598,9 +598,9 @@ export default function PANCardAadhaarBlockDefensePage() {
               </div>
 
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Legal Resources
-                </h4>
+                </div>
                 <ul className="space-y-3">
                   <li>
                     <Link href="/rbi-guidelines-for-loan-recovery-agents" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">

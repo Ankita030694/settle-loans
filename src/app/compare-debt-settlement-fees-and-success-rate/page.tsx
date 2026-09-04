@@ -192,7 +192,7 @@ export default function FeesSuccessRatePage() {
                 A common surprise for borrowers in India is the 'Taxable Income' status of the settled amount. When a bank waives ₹5 Lakhs off your debt, the Income Tax Department may view this waiver as 'Income from Other Sources'. Under Section 56(2)(x) of the Income Tax Act, any sum of money received without consideration can be taxable.
               </p>
               <div className="bg-blue-50 border-2 border-blue-200 p-8 rounded-2xl my-8">
-                <h4 className="font-bold text-xl mb-4 text-blue-900">How to Manage the Tax Burden:</h4>
+                <h3 className="font-bold text-xl mb-4 text-blue-900">How to Manage the Tax Burden:</h3>
                 <p className="text-lg text-blue-800 leading-relaxed">
                   Technically, a loan waiver is a remission of liability. Whether it is taxable depends on whether the loan was taken for business or personal use. For business loans, the waiver may be treated as business income. For personal loans, recent tribunal rulings have been mixed. Always ensure your settlement agency provides a tax-neutrality certificate or guidance on how to report the waiver in your ITR.
                 </p>
@@ -208,7 +208,7 @@ export default function FeesSuccessRatePage() {
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-10">
                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                  <h4 className="font-black text-[#1A1A1A] mb-3">Phase 1: Zero Dues (Months 1-6)</h4>
+                  <h3 className="font-black text-[#1A1A1A] mb-3">Phase 1: Zero Dues (Months 1-6)</h3>
                   <p className="text-sm">Ensure the bank updates your status from 'Written Off' to 'Settled'. Request a fresh CIBIL report every 3 months to verify there are no 'Overdue' amounts showing for the settled account.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
@@ -284,7 +284,7 @@ export default function FeesSuccessRatePage() {
                 <div className="flex gap-6 items-start">
                   <div className="w-16 h-16 shrink-0 bg-black text-[#FFD700] flex items-center justify-center rounded-2xl font-black text-2xl">01</div>
                   <div>
-                    <h4 className="text-xl font-bold mb-2">Month 1-2: The Shield Phase</h4>
+                    <h3 className="text-xl font-bold mb-2">Month 1-2: The Shield Phase</h3>
                     <p className="text-gray-600">The primary goal is to stop harassment. Your agency issues 'Letters of Representation' to the banks. Recovery calls are redirected. Your legal team builds a 'Financial Hardship Case' using your bank statements and income proof. Success rate at this stage is 0% as it is too early for banks to settle.</p>
                   </div>
                 </div>
@@ -341,7 +341,7 @@ export default function FeesSuccessRatePage() {
                 Many borrowers hesitate to settle because of the professional fees involved. However, the 'Cost of Inaction' is often 5 to 10 times higher than the cost of a settlement agency. In India, credit card interest rates hover around 42% to 48% per annum (APR). When you add late payment fees and GST on interest, your debt effectively doubles every 18 to 22 months.
               </p>
               <div className="bg-gray-100 p-8 rounded-2xl border border-gray-200 my-8">
-                <h4 className="font-black text-xl mb-4">The "Interest Trap" Calculation:</h4>
+                <h3 className="font-black text-xl mb-4">The "Interest Trap" Calculation:</h3>
                 <p className="text-lg leading-relaxed">
                   "On a ₹10 Lakh debt, the monthly interest alone is approximately ₹40,000. Over 12 months, you accrue ₹4.8 Lakhs in interest. A settlement agency charging 2% of the debt as an enrollment fee is asking for ₹20,000. By paying ₹20,000, you are stopping a ₹4.8 Lakh leakage. The ROI of professional debt resolution is among the highest in financial services."
                 </p>
@@ -369,7 +369,7 @@ export default function FeesSuccessRatePage() {
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-10">
                 <div className="p-8 bg-blue-50 rounded-2xl border border-blue-100">
-                  <h4 className="font-bold text-xl mb-3 text-blue-900">Maharashtra & Gujarat (Commercial Hubs)</h4>
+                  <h3 className="font-bold text-xl mb-3 text-blue-900">Maharashtra & Gujarat (Commercial Hubs)</h3>
                   <p className="text-sm text-blue-800 leading-relaxed">Banks are very aggressive in these regions but also have the most structured settlement desks. Success rates for credit cards here are 90% plus because the volume of defaults is so high that banks prefer quick closures over long legal battles.</p>
                 </div>
                 <div className="p-8 bg-green-50 rounded-2xl border border-green-100">
@@ -431,7 +431,7 @@ export default function FeesSuccessRatePage() {
                 Settling debt for Non-Resident Indians (NRIs) involves unique legal and procedural layers. Most banks in India are hesitant to negotiate with someone who is not physically present in the country. They often view NRIs as 'High-Capacity' individuals and are less likely to grant waivers.
               </p>
               <div className="bg-gold-50 p-8 rounded-3xl border border-gold-200 my-8">
-                <h4 className="font-bold text-xl mb-4">The NRI Strategy Framework:</h4>
+                <h3 className="font-bold text-xl mb-4">The NRI Strategy Framework:</h3>
                 <p className="text-lg leading-relaxed">
                   "Success for NRIs depends on two factors: the use of a registered Power of Attorney (PoA) and the classification of the debt. If your debt is linked to an NRO account, the bank can easily attach your domestic assets. However, if the debt is unsecured and you have no domestic footprints, your leverage increases. A professional agency acting as your local custodian can bridge the trust gap with the bank's Nodal Officer."
                 </p>
@@ -461,7 +461,7 @@ export default function FeesSuccessRatePage() {
                 Counseling is ideal for borrowers who have had a temporary 'Cash Flow' issue but can still afford to pay 100% of their debt over a longer period. Debt Settlement is for those in 'Structural Insolvency'where even with the best budgeting in the world, the debt is mathematically unpayable due to compounded interest. 
               </p>
               <div className="bg-slate-50 p-10 rounded-3xl border border-slate-200 my-10">
-                <h4 className="font-black text-2xl mb-4">The "Survival" Audit:</h4>
+                <h3 className="font-black text-2xl mb-4">The "Survival" Audit:</h3>
                 <p className="text-lg leading-relaxed mb-4 italic">
                   "If your total monthly EMI exceeds 60% of your take-home pay, you are in a debt trap. Counseling might lower that to 50%, but you will still be one medical emergency away from total collapse. Settlement aims to bring your total debt down to a level where you can clear it in a single stroke, allowing you to restart your financial life with a clean slate."
                 </p>
@@ -587,7 +587,7 @@ export default function FeesSuccessRatePage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#1A1A1A]">{review.name}</h5>
+                        <h3 className="font-bold text-[#1A1A1A]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -650,7 +650,7 @@ export default function FeesSuccessRatePage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">We are in This Together</h3>
+                  <div className="text-lg font-black text-white">We are in This Together</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -665,7 +665,7 @@ export default function FeesSuccessRatePage() {
 
               {/* Decision Box */}
               <div className="bg-white rounded-2xl p-6 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-xl font-black text-black mb-6">Reality Check</h3>
+                <div className="text-xl font-black text-black mb-6">Reality Check</div>
                 <div className="space-y-4">
                   <div className="p-4 bg-gray-50 rounded-xl">
                     <p className="text-xs font-black text-[#747474] uppercase mb-1">Standard Fee</p>
@@ -684,7 +684,7 @@ export default function FeesSuccessRatePage() {
 
               {/* Related Pages */}
               <div className="bg-gray-50 p-6 rounded-2xl border border-gray-200">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4">Compare These</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4">Compare These</div>
                 <ul className="space-y-4 text-sm font-bold text-gray-900">
                   <li><Link href="/what-percentage-do-banks-accept-in-loan-settlement" className="hover:text-[#1F5EFF] transition-colors">Waiver Percentage Guide</Link></li>
                   <li><Link href="/how-to-choose-a-trustworthy-debt-settlement-provider" className="hover:text-[#1F5EFF] transition-colors">Choosing an Agency</Link></li>

@@ -243,7 +243,7 @@ export default function SundayRecoveryRulesPage() {
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The 7 AM to 7 PM Rule</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The 7 AM to 7 PM Rule</h3>
                 <p className="text-lg leading-relaxed text-blue-900 mb-4">
                   The central tenet of the RBI's timing regulation is clear and uncompromising:
                 </p>
@@ -274,7 +274,7 @@ export default function SundayRecoveryRulesPage() {
               </p>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">The Verdict on Sundays and Holidays</h4>
+                <h3 className="text-xl font-black text-red-700 mb-4">The Verdict on Sundays and Holidays</h3>
                 <p className="text-lg leading-relaxed text-red-900 font-medium">
                   According to the RBI's strict directives on customer protection and grievance redressal, banks and their outsourced agencies should ordinarily contact borrowers only during standard business hours.
                 </p>
@@ -370,7 +370,7 @@ export default function SundayRecoveryRulesPage() {
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-bold text-gray-800 mb-4">The Escalation Process</h4>
+                <h3 className="text-xl font-bold text-gray-800 mb-4">The Escalation Process</h3>
                 <ol className="list-decimal list-inside space-y-4 text-gray-700 text-lg leading-relaxed">
                   <li><strong>Step 1: Write to the Nodal Officer.</strong> Draft a formal email detailing the harassment (mentioning dates, times, and Sunday visits). Attach any video or audio recordings.</li>
                   <li><strong>Step 2: Wait 30 Days.</strong> The bank is legally required to resolve the grievance within 30 days of receiving your complaint.</li>
@@ -404,7 +404,7 @@ export default function SundayRecoveryRulesPage() {
                       <svg className="w-5 h-5 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                     </div>
                   </div>
-                  <h4 className="font-bold text-[#2E2E2E] text-lg mb-2">Rahul V.</h4>
+                  <h3 className="font-bold text-[#2E2E2E] text-lg mb-2">Rahul V.</h3>
                   <p className="text-gray-600 text-sm italic mb-6">"Agents kept showing up on Sundays. SettleLoans stepped in, sent a legal notice to the bank citing RBI rules, and the weekend visits stopped instantly."</p>
                   <div className="flex gap-2">
                     <span className="bg-red-100 text-red-700 px-3 py-1 rounded-full text-xs font-bold">Loan: ₹8L</span>
@@ -512,7 +512,7 @@ export default function SundayRecoveryRulesPage() {
               {/* Card 1 (Dark CTA) */}
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                <h3 className="text-2xl font-black mb-4 relative z-10">Facing Harassment?</h3>
+                <div className="text-2xl font-black mb-4 relative z-10">Facing Harassment?</div>
                 <p className="text-gray-300 text-sm mb-6 relative z-10">
                   Our legal experts can issue a formal cease and desist notice to your lenders immediately.
                 </p>
@@ -523,9 +523,9 @@ export default function SundayRecoveryRulesPage() {
 
               {/* Card 2 (White Resources) */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Related Resources
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/rbi-guidelines-calling-after-7pm" className="group flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

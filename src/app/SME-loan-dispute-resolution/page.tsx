@@ -231,7 +231,7 @@ export default function SMELoanDisputePage() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px]">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Legal Framework</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Legal Framework</div>
                             <TableOfContents
                                 items={[
                                     { id: "msme-dispute-landscape", title: "Dispute Landscape" },
@@ -285,7 +285,7 @@ export default function SMELoanDisputePage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-12">
                                 <div className="bg-blue-50 p-6 rounded-2xl border border-blue-100">
-                                    <h4 className="font-black text-blue-900 mb-3 uppercase text-xs">Requirement 01</h4>
+                                    <h3 className="font-black text-blue-900 mb-3 uppercase text-xs">Requirement 01</h3>
                                     <p className="text-sm font-bold text-blue-800">Udyam Registration is mandatory. Without this, the MSMED Act's protective provisions cannot be invoked.</p>
                                 </div>
                                 <div className="bg-green-50 p-6 rounded-2xl border border-green-100">
@@ -333,7 +333,7 @@ export default function SMELoanDisputePage() {
                                 We challenge these classifications by submitting 'Fund Flow Audits'. If a bank credited a customer's payment to the wrong account or didn't account for a bill-discounting transaction correctly, the NPA tag is illegal. A 'Wrongful NPA' tag is a violation of the RBI's Master Circular, and the High Court can be moved to quash such a label, immediately freezing all recovery actions and restoring the business's credit standing.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-3xl border border-blue-100 my-12">
-                                <h4 className="text-xl font-black text-blue-900 mb-6">Masterclass: Challenging the Reserve Price</h4>
+                                <h3 className="text-xl font-black text-blue-900 mb-6">Masterclass: Challenging the Reserve Price</h3>
                                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                                     Banks often undervalue SME properties to ensure a quick sale at auction. This is illegal. Under Rule 8 of the Security Interest Rules, the bank must obtain a fair valuation.
                                 </p>
@@ -354,7 +354,7 @@ export default function SMELoanDisputePage() {
                                 In a loan dispute, the bank usually appoints its own arbitrator — a practice that has been heavily scrutinized and frequently set aside by the Supreme Court of India. We guide MSMEs in challenging such unilateral appointments. Under the principle of 'Neutrality of Arbitrators', we help businesses move the High Court to appoint an independent arbitrator. This change in the presiding officer often shifts the entire dynamic of the case, forcing the bank to move away from aggressive recovery and toward a more reasonable settlement.
                             </p>
                             <div className="bg-[#1F5EFF]/5 border-2 border-dashed border-[#1F5EFF]/20 p-10 rounded-[40px] my-12">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase italic">Arbitration Strategy: The Counter-Claim</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase italic">Arbitration Strategy: The Counter-Claim</h3>
                                 <p className="text-lg leading-relaxed text-gray-700">
                                     When a bank invokes arbitration for recovery, the SME shouldn't just defend; they should counter-attack. If the bank's delay in processing a restructuring request led to the business's downfall, that is a legitimate ground for a 'Counter-Claim' for damages. Effectively, you are telling the arbitrator: "I don't owe the bank money; the bank owes me for destroying my business through negligence." Even if the claim doesn't result in a payout, it creates a massive legal hurdle for the bank, making them much more willing to settle for a fraction of the original claim.
                                 </p>
@@ -401,7 +401,7 @@ export default function SMELoanDisputePage() {
                                 We help MSMEs prepare 'Impairment Reports'. These reports go beyond standard balance sheets to show the underlying rot in the assets, the obsolescence of the machinery, and the legal encumbrances on the property. When a bank's credit committee sees that their secured asset is actually a white elephant, their willingness to accept a settlement skyrockets.
                             </p>
                             <div className="bg-gray-900 p-10 rounded-[40px] text-white my-16 shadow-[0_20px_60px_-15px_rgba(0,0,0,0.3)]">
-                                <h4 className="text-2xl font-black mb-6 text-blue-400 uppercase tracking-widest">The 'Willingness vs Ability' Framework</h4>
+                                <h3 className="text-2xl font-black mb-6 text-blue-400 uppercase tracking-widest">The 'Willingness vs Ability' Framework</h3>
                                 <p className="opacity-90 leading-relaxed mb-6 font-medium">
                                     The RBI categorizes defaulters into two: those who can't pay (Ability) and those who won't pay (Willingness/Willful Defaulters). If a bank tags you as 'Willful', you lose all legal rights to settle. Our primary task is to prevent and challenge 'Willful Defaulter' tags.
                                 </p>
@@ -434,7 +434,7 @@ export default function SMELoanDisputePage() {
                                     <div key={idx} className="flex gap-6 items-start p-6 bg-white border border-gray-100 rounded-2xl hover:border-[#1F5EFF] transition-all group">
                                         <span className="text-2xl font-black text-gray-200 group-hover:text-[#1F5EFF] transition-colors">{(idx + 1).toString().padStart(2, '0')}</span>
                                         <div>
-                                            <h5 className="font-black text-[#2E2E2E] mb-1">{right.title}</h5>
+                                            <h3 className="font-black text-[#2E2E2E] mb-1">{right.title}</h3>
                                             <p className="text-sm text-gray-500 font-medium">{right.desc}</p>
                                         </div>
                                     </div>
@@ -535,7 +535,7 @@ export default function SMELoanDisputePage() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-[32px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10">
                                 <div className="bg-[#1F5EFF] p-6 text-white text-center">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Business<br />In Trouble?</h3>
+                                    <div className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Business<br />In Trouble?</div>
                                     <p className="opacity-80 text-xs font-bold uppercase tracking-widest">Get Legal Defense</p>
                                 </div>
                                 <div className="p-8">
@@ -550,7 +550,7 @@ export default function SMELoanDisputePage() {
 
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-[32px] p-8 border border-gray-100 shadow-sm text-left">
-                                <h4 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Related Solutions</h4>
+                                <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Related Solutions</div>
                                 <nav className="space-y-4">
                                     <Link href="/business-corporate-loan-matters" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Corporate Loan Matters</Link>
                                     <Link href="/best-lawyer-for-msme-business-loan-dispute" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">MSME Loan Dispute Lawyer</Link>

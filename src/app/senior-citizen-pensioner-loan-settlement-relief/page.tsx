@@ -1123,7 +1123,7 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Senior Citizen Debt Shield</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Is a Bank Threatening Your Pension?</h4>
+              <div className="font-bold text-base text-white mb-2">Is a Bank Threatening Your Pension?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let recovery agents harass your family or unlawfully freeze your pension. Retain senior banking advocates to protect your statutory rights under Section 60 CPC and negotiate a 45%–70% compassionate OTS.
               </p>
@@ -1137,9 +1137,9 @@ export default function SeniorCitizenPensionerLoanSettlementPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

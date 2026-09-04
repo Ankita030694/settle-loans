@@ -287,10 +287,10 @@ export default function ConsortiumLoanDefencePage() {
                                 Many consortium recovery actions fail because the banks did not follow the technical protocols laid down in their own ICA. For instance, if the ICA requires a 66 percent majority vote to initiate SARFAESI action, and the banks proceeded with only 55 percent, the entire notice period is legally defective. An expert lawyer will demand the production of the ICA and the minutes of the Joint Lenders' Meeting (JLM) to identify these critical lapses.
                             </p>
                             <div className="bg-blue-50 p-6 rounded-xl border border-blue-200 mb-8">
-                                <h4 className="font-bold text-blue-900 mb-2 flex items-center gap-2">
+                                <h3 className="font-bold text-blue-900 mb-2 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faUsersBetweenLines} />
                                     Leveraging Inter-Bank Conflicts
-                                </h4>
+                                </h3>
                                 <p className="text-sm text-blue-800">
                                     Participating banks often have different agendas. Smaller banks may want a quick OTS, while larger public sector banks might be bound by rigid internal recovery rules. By highlighting these internal contradictions in the DRT, your legal team can create a situation where the banks find it easier to settle with you than to settle their differences with each other.
                                 </p>
@@ -384,7 +384,7 @@ export default function ConsortiumLoanDefencePage() {
                             <p className="mb-8 text-lg">Our research and experience have identified several 'Achilles heels' in consortium recovery actions. A victory in court often comes from these technical details:</p>
                             <div className="grid md:grid-cols-2 gap-4 mb-12">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-bold mb-2">Defective Notice Service</h4>
+                                    <h3 className="font-bold mb-2">Defective Notice Service</h3>
                                     <p className="text-sm text-gray-500">Failure of every individual bank in the consortium to serve notice to all guarantors and directors.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
@@ -451,7 +451,7 @@ export default function ConsortiumLoanDefencePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -477,12 +477,12 @@ export default function ConsortiumLoanDefencePage() {
                             <div className="flex flex-col md:flex-row gap-6">
                                 <div className="flex-1 p-8 bg-gray-50 border border-gray-100 rounded-3xl text-center">
                                     <FontAwesomeIcon icon={faBuildingShield} className="text-[#1F5EFF] text-4xl mb-4" />
-                                    <h5 className="font-bold text-xl mb-2">Syndicate Knowledge</h5>
+                                    <h3 className="font-bold text-xl mb-2">Syndicate Knowledge</h3>
                                     <p className="text-sm opacity-70">We understand the hierarchy of the consortium and the pressure points of each member bank.</p>
                                 </div>
                                 <div className="flex-1 p-8 bg-gray-50 border border-gray-100 rounded-3xl text-center">
                                     <FontAwesomeIcon icon={faHandshake} className="text-[#1F5EFF] text-4xl mb-4" />
-                                    <h5 className="font-bold text-xl mb-2">Coordinated Response</h5>
+                                    <h4 className="font-bold text-xl mb-2">Coordinated Response</h4>
                                     <p className="text-sm opacity-70">We manage the narrative across all banks so you don't get contradictory outcomes from different courts.</p>
                                 </div>
                             </div>
@@ -563,10 +563,10 @@ export default function ConsortiumLoanDefencePage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white flex items-center justify-center gap-2">
+                                    <div className="text-lg font-black text-white flex items-center justify-center gap-2">
                                         <FontAwesomeIcon icon={faGavel} />
                                         High-Value Panel
-                                    </h3>
+                                    </div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -581,7 +581,7 @@ export default function ConsortiumLoanDefencePage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Complex Debt Relief</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Complex Debt Relief</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/best-lawyer-for-msme-business-loan-dispute" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

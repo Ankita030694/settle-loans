@@ -328,7 +328,7 @@ export default function LegalImplicationsPage() {
                 <li className="flex gap-4 p-4 border rounded-xl hover:bg-gray-50 transition-colors">
                   <div className="text-2xl text-blue-500 font-black">🚫</div>
                   <div>
-                    <h4 className="font-bold">No 3rd Party Disclosure</h4>
+                    <h3 className="font-bold">No 3rd Party Disclosure</h3>
                     <p className="text-sm text-gray-500 italic font-medium">They cannot call your HR, your relatives, or your neighbors to discuss your debt. This is a massive privacy violation and a breach of RBI norms.</p>
                   </div>
                 </li>
@@ -514,7 +514,7 @@ export default function LegalImplicationsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -562,7 +562,7 @@ export default function LegalImplicationsPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Legal Protection</h3>
+                  <div className="text-lg font-black text-white">Legal Protection</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -576,7 +576,7 @@ export default function LegalImplicationsPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-[10px]">Legal Guidance</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-[10px]">Legal Guidance</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li><Link href="/is-loan-settlement-a-good-option-for-borrowers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Is Settlement Legal?</Link></li>
                   <li><Link href="/legal-action-for-credit-card-default" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Credit Card Laws</Link></li>

@@ -138,7 +138,7 @@ export default function ForgotEMIPaymentPage() {
                   What is an EMI Grace Period?
                 </h2>
                 <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Understanding the Hidden Buffer</h4>
+                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Understanding the Hidden Buffer</h3>
                   <p className="text-lg leading-relaxed mb-4 text-blue-900">
                     While there is no legal mandate for a <strong className="text-[#1F5EFF]">grace period for EMI payment in India</strong>, banks use a reporting buffer before they alert CIBIL and other credit bureaus.
                   </p>
@@ -178,7 +178,7 @@ export default function ForgotEMIPaymentPage() {
                   <div className="flex gap-6">
                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                     <div>
-                      <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Fund the Account ASAP</h4>
+                      <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Fund the Account ASAP</h3>
                       <p className="text-lg text-gray-700">Before contacting the bank, ensure the required funds are deposited into your EMI debit account.</p>
                     </div>
                   </div>
@@ -211,7 +211,7 @@ export default function ForgotEMIPaymentPage() {
                 </div>
 
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                  <h4 className="text-xl font-black text-red-700 mb-2">Warning: Avoid the 30-Day Mark</h4>
+                  <h3 className="text-xl font-black text-red-700 mb-2">Warning: Avoid the 30-Day Mark</h3>
                   <p className="text-lg text-red-900">
                     If you return from your travels and ignore the bounced EMI, once the default crosses 30 days, your credit score will take a severe hit, dropping by 50 points or more.
                   </p>
@@ -279,7 +279,7 @@ export default function ForgotEMIPaymentPage() {
                   How to Prevent Future Misses
                 </h2>
                 <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                  <h4 className="text-xl font-black text-[#2E2E2E] mb-4">Automate and Organize</h4>
+                  <h3 className="text-xl font-black text-[#2E2E2E] mb-4">Automate and Organize</h3>
                   <p className="text-lg leading-relaxed mb-4 text-gray-800">
                     Traveling and celebrating festivals should be stress-free. To ensure your loan obligations don't disrupt your peace of mind, you need a foolproof system to manage your EMIs. Here are effective strategies to guarantee you never miss a payment, no matter where you are in the world.
                   </p>
@@ -362,7 +362,7 @@ export default function ForgotEMIPaymentPage() {
                 <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                   <div className="relative z-10">
-                    <h3 className="text-2xl font-black mb-4">Fix EMI Bounces</h3>
+                    <div className="text-2xl font-black mb-4">Fix EMI Bounces</div>
                     <p className="text-gray-300 mb-6 text-sm">Need help writing an email to the bank to reverse bounce charges?</p>
                     <Link href="#contact" className="block w-full bg-[#1F5EFF] text-white font-bold py-3 rounded-xl hover:bg-blue-600 transition-colors">
                       Get Draft Email
@@ -372,9 +372,9 @@ export default function ForgotEMIPaymentPage() {
 
                 {/* Card 2 */}
                 <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                  <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                  <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                     Related Guides
-                  </h4>
+                  </div>
                   <div className="space-y-4">
                     <Link href="/loan-emi-overdue-1-day-what-happens" className="flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] group transition-colors">
                       <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>

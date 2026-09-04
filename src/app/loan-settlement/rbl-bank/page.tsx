@@ -608,7 +608,7 @@ export default function RBLBankSettlementPage() {
                     { q: "Can SettleLoans stop a home visit scheduled for tomorrow?", a: "While we don't physically block your door, our legal representation notice is shared with the bank's central recovery hub. Once the hub acknowledges our representation, they are internally required to withdraw the file from the ground squad. This usually stops visits within 24 to 48 hours. We also provide you with a 'Legal Script' to read to any agent who arrives, which usually makes them leave immediately." }
                   ].map((faq, i) => (
                     <div key={i} className="pb-10 border-b border-slate-100 group">
-                       <h5 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#004c94] transition-colors">{faq.q}</h5>
+                       <h4 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#004c94] transition-colors">{faq.q}</h4>
                        <p className="text-lg opacity-70 leading-relaxed font-light">{faq.a}</p>
                     </div>
                   ))}
@@ -647,7 +647,7 @@ export default function RBLBankSettlementPage() {
                
                <div className="bg-[#004c94] rounded-[50px] p-16 text-white text-center shadow-3xl overflow-hidden relative group">
                   <div className="absolute top-0 left-0 w-full h-full bg-white/5 opacity-0 group-hover:opacity-100 transition-opacity"></div>
-                  <h3 className="text-5xl font-black mb-6 italic tracking-tighter">70%</h3>
+                  <div className="text-5xl font-black mb-6 italic tracking-tighter">70%</div>
                   <p className="text-sm font-black uppercase tracking-widest opacity-60 mb-10 leading-relaxed">Maximum RBL Discount achieved in 2026</p>
                   <Link href="/contact" className="block w-full bg-white text-[#004c94] font-black py-6 rounded-3xl hover:bg-[#ed232a] hover:text-white transition-all shadow-2xl text-xl">
                      Get Your Rebate
@@ -655,7 +655,7 @@ export default function RBLBankSettlementPage() {
                </div>
 
                <div className="bg-slate-900 rounded-[50px] p-12 text-white border border-white/5 shadow-2xl">
-                  <h5 className="text-xs font-black uppercase tracking-[0.3em] mb-12 text-[#ed232a]">Technical Vault</h5>
+                  <div className="text-xs font-black uppercase tracking-[0.3em] mb-12 text-[#ed232a]">Technical Vault</div>
                   <ul className="space-y-10">
                      {[
                        { l: "SuperCard Settlement", h: "/contact" },

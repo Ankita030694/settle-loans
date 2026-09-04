@@ -154,7 +154,7 @@ export default function ForeclosureChargesPage() {
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial RBI Mandate on Floating Rates</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial RBI Mandate on Floating Rates</h3>
                 <p className="text-lg text-blue-900 mb-4">
                   According to circulars issued by the RBI (such as DBR.Dir.BC.No.08/13.03.00/2019-20), banks and NBFCs are strictly <strong>prohibited</strong> from charging any foreclosure charges or pre-payment penalties on any <strong>floating rate term loan</strong> sanctioned to individual borrowers for purposes other than business.
                 </p>
@@ -220,7 +220,7 @@ export default function ForeclosureChargesPage() {
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">Common Deceptive Tactics by Banks</h4>
+                <h3 className="text-xl font-black text-red-700 mb-4">Common Deceptive Tactics by Banks</h3>
                 <ul className="space-y-4 text-red-900">
                   <li className="flex gap-3">
                     <span className="font-bold">•</span>
@@ -400,7 +400,7 @@ export default function ForeclosureChargesPage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-500"></div>
                 <div className="relative z-10">
-                  <h3 className="text-2xl font-black mb-4">Stop Paying Illegal Fees</h3>
+                  <div className="text-2xl font-black mb-4">Stop Paying Illegal Fees</div>
                   <p className="text-gray-300 text-sm mb-6">Let our experts review your loan agreement and help you file an RBI complaint if you are being overcharged.</p>
                   <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-bold py-3 rounded-lg hover:bg-[#1F5EFF]/80 transition-colors text-sm">
                     Get Expert Help
@@ -409,7 +409,7 @@ export default function ForeclosureChargesPage() {
               </div>
 
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Resources</h4>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Resources</div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/personal-loan-settlement" className="group flex items-center text-sm text-gray-700 hover:text-[#1F5EFF] transition-colors">

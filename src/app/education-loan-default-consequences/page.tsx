@@ -310,10 +310,10 @@ export default function EducationLoanDefaultPage() {
               </h2>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4 flex items-center gap-2">
+                <h3 className="text-xl font-black text-red-700 mb-4 flex items-center gap-2">
                   <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clipRule="evenodd" /></svg>
                   Critical Warning for Parents
-                </h4>
+                </h3>
                 <p className="text-red-900 font-medium mb-4">
                   In Indian banking law, a co-borrower or guarantor bears the exact same legal liability as the primary borrower. If the student defaults, the bank has the complete legal right to pursue the parents for the full amount.
                 </p>
@@ -344,7 +344,7 @@ export default function EducationLoanDefaultPage() {
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-black text-[#2E2E2E] mb-4">The Standard Timeline of Notices:</h4>
+                <h3 className="text-xl font-black text-[#2E2E2E] mb-4">The Standard Timeline of Notices:</h3>
                 <ol className="list-decimal pl-5 space-y-4 text-lg text-[#555]">
                   <li><strong>Notice of Demand:</strong> Sent after the account becomes an NPA (90 days).</li>
                   <li><strong>Section 13(2) Notice (SARFAESI):</strong> Gives you 60 days to repay the full amount if collateral is involved.</li>
@@ -431,7 +431,7 @@ export default function EducationLoanDefaultPage() {
                         R
                       </div>
                       <div>
-                        <h4 className="font-bold text-[#2E2E2E]">Rahul M.</h4>
+                        <h3 className="font-bold text-[#2E2E2E]">Rahul M.</h3>
                         <div className="flex gap-1">
                           {[...Array(5)].map((_, i) => (
                             <svg key={i} className="w-4 h-4 text-yellow-400" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -584,7 +584,7 @@ export default function EducationLoanDefaultPage() {
               {/* Dark CTA Card */}
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-700 ease-out"></div>
-                <h4 className="text-2xl font-black mb-4 relative z-10">Notice from Bank?</h4>
+                <div className="text-2xl font-black mb-4 relative z-10">Notice from Bank?</div>
                 <p className="text-gray-300 text-sm mb-6 relative z-10">
                   Don't ignore it. Let our legal team draft a powerful reply to stop immediate action.
                 </p>
@@ -595,9 +595,9 @@ export default function EducationLoanDefaultPage() {
 
               {/* White Resources Card */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-6">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-6">
                   Legal Resources
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/sarfaesi-act-rules" className="flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors group">

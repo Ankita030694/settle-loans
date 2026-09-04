@@ -583,9 +583,9 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
                     1. Outright Theft &amp; Agent Absconding (Section 406 &amp; 420 IPC / BNS)
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Field collection personnel experience extremely high employee turnover. Dishonest agents collect cash from dozens of borrowers across a geographic territory over a weekend, issue counterfeit paper slips, and abruptly quit the agency without depositing a single rupee into the bank. The borrower is left with an uncredited loan and no legal recourse against the missing collector.
                   </p>
@@ -739,9 +739,9 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Warning Sign 1: Handwritten Slips, Generic Receipts or Third-Party Agency Branding
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     If the receipt voucher or settlement proposal bears the name, logo, or stamp of a collection agency (e.g., &quot;Apex Recovery Solutions Pvt. Ltd.&quot;) rather than the regulated lending bank (e.g., &quot;HDFC Bank Ltd.&quot; or &quot;ICICI Bank Ltd.&quot;), the document is legally void. Legitimate settlements are executed exclusively in the corporate name of the lending institution.
                   </p>
@@ -843,9 +843,9 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
                     1. Enforcing Delivery of the Official No Dues Certificate (NDC) Within 30 Days
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under <strong>RBI Master Circular RBI/2023-24/60 (Responsible Lending Conduct)</strong>, all commercial banks and NBFCs are statutorily mandated to issue an official <strong>No Dues Certificate (NDC) / Loan Closure Certificate</strong> and return all original security cheques, property title deeds, or collateral documents within <strong>30 calendar days</strong> of receiving settlement funds. If the lender fails to deliver the NDC within 30 days, they are legally liable to pay the borrower statutory compensation of <strong>₹5,000 per day of delay</strong>.
                   </p>
@@ -1118,7 +1118,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
                 </Link>
                 <div>
                   <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
-                    <h4 className="font-bold text-slate-900 text-sm">Ashish Jhangra</h4>
+                    <div className="font-bold text-slate-900 text-sm">Ashish Jhangra</div>
                   </Link>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
@@ -1144,7 +1144,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Urgent Anti-Harassment Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Recovery Agent Demanding Cash or Threatening You?</h4>
+              <div className="font-bold text-base text-white mb-2">Recovery Agent Demanding Cash or Threatening You?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not pay cash or sign unverified papers. Our banking advocates stop illegal field visits, report rogue agencies, and structure verified direct settlements.
               </p>
@@ -1158,9 +1158,9 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Safeguards
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

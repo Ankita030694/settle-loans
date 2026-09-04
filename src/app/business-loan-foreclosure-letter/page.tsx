@@ -401,7 +401,7 @@ export default function BusinessLoanForeclosurePage() {
               </h2>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Take These Legal Actions</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Take These Legal Actions</h3>
                 <p className="text-gray-800 text-lg mb-4">Banks lose out on future interest when you close a loan early, so relationship managers often delay processing your letter. If they ignore your request for more than 15 days, do the following:</p>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
@@ -440,7 +440,7 @@ export default function BusinessLoanForeclosurePage() {
                       ))}
                     </div>
                   </div>
-                  <h4 className="font-bold text-xl text-[#2E2E2E] mb-4">HDFC Business Loan</h4>
+                  <h3 className="font-bold text-xl text-[#2E2E2E] mb-4">HDFC Business Loan</h3>
                   <p className="text-gray-600 mb-6 italic">&quot;The branch kept telling me the system was down. I sent this exact letter format to the Nodal officer and got my statement the next day.&quot;</p>
                   <div className="flex flex-wrap gap-2">
                     <span className="inline-block py-1 px-3 rounded-full bg-red-100 text-red-700 text-xs font-bold">Loan: ₹15L</span>
@@ -630,7 +630,7 @@ export default function BusinessLoanForeclosurePage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                 <div className="relative z-10">
-                  <h4 className="text-xl font-black mb-4">Urgent Closure?</h4>
+                  <div className="text-xl font-black mb-4">Urgent Closure?</div>
                   <p className="text-sm text-gray-300 mb-6">Force the bank to issue your foreclosure statement legally.</p>
                   <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-bold py-3 px-4 rounded-xl hover:bg-blue-600 transition-colors text-sm">
                     Talk to Experts
@@ -640,9 +640,9 @@ export default function BusinessLoanForeclosurePage() {
 
               {/* Card 2: White Resources */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Legal Resources
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/npa-account-settlement" className="flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors group">

@@ -305,7 +305,7 @@ export default function CreditScore800Page() {
                   You cannot reach an 800 score if you have even a single 'Days Past Due' (DPD) flag in the last 24 months. For CIBIL, a payment that is even 3 days late is a red flag. It hints at a lack of discipline or a liquidity crunch. Super-prime borrowers don't just pay on time; they often pay a few days early to ensure no glitches in the banking system affect their record.
                 </p>
                 <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-12">
-                  <h4 className="text-xl font-bold mb-4">The Perfectionist's Checklist:</h4>
+                  <h3 className="text-xl font-bold mb-4">The Perfectionist's Checklist:</h3>
                   <ul className="space-y-4 text-sm opacity-90">
                     <li className="flex items-start gap-2">
                        <span className="text-[#1F5EFF] font-bold">✓</span>
@@ -333,7 +333,7 @@ export default function CreditScore800Page() {
                 </p>
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100 flex items-center justify-between mb-8">
                   <div>
-                    <h5 className="font-bold text-blue-900">Pro-Tip: Request a Limit Increase</h5>
+                    <h3 className="font-bold text-blue-900">Pro-Tip: Request a Limit Increase</h3>
                     <p className="text-xs text-blue-800">Instead of spending less, ask your bank to double your limit. If your spending stays the same, your CUR drops by half automatically.</p>
                   </div>
                   <div className="hidden sm:block">
@@ -349,7 +349,7 @@ export default function CreditScore800Page() {
                 </p>
                 <div className="grid sm:grid-cols-2 gap-4 mb-10">
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl">
-                    <h4 className="font-bold mb-2">Unsecured Debt</h4>
+                    <h3 className="font-bold mb-2">Unsecured Debt</h3>
                     <p className="text-xs text-gray-500 mb-4">Credit Cards, Personal Loans, Consumer Durable Loans.</p>
                     <p className="text-sm">High risk for banks. Harder to maintain high scores if this is your only type of debt.</p>
                   </div>
@@ -423,7 +423,7 @@ export default function CreditScore800Page() {
                        <div className="absolute left-0 top-0 w-2 h-full bg-[#1F5EFF] opacity-0 group-hover:opacity-100 transition-opacity"></div>
                        <div className="w-1/4 font-black text-[#2E2E2E]">{step.m}</div>
                        <div className="w-3/4">
-                          <h5 className="font-bold text-[#1F5EFF] mb-2">{step.t}</h5>
+                          <h3 className="font-bold text-[#1F5EFF] mb-2">{step.t}</h3>
                           <p className="text-sm text-gray-600 leading-relaxed">{step.d}</p>
                        </div>
                     </div>
@@ -438,14 +438,14 @@ export default function CreditScore800Page() {
                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                       <span className="text-blue-600 font-bold">₹</span>
                     </div>
-                    <h5 className="font-bold mb-2">Lowest ROI</h5>
+                    <h3 className="font-bold mb-2">Lowest ROI</h3>
                     <p className="text-xs text-gray-500">Qualification for 'Risk Based Pricing' where you get the lowest possible interest rates.</p>
                   </div>
                   <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm text-center">
                     <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
                       <span className="text-green-600 font-bold">⚡</span>
                     </div>
-                    <h5 className="font-bold mb-2">Instant Approval</h5>
+                    <h4 className="font-bold mb-2">Instant Approval</h4>
                     <p className="text-xs text-gray-500">Most automated lending systems approve 800+ scores within seconds with minimal documentation.</p>
                   </div>
                   <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm text-center">
@@ -497,7 +497,7 @@ export default function CreditScore800Page() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -539,7 +539,7 @@ export default function CreditScore800Page() {
           <aside className="hidden lg:block w-1/5 min-w-[240px] sticky top-32 flex flex-col gap-8">
             <div className="bg-[#1F5EFF] p-8 rounded-2xl border border-[#1F5EFF]/20 shadow-xl relative overflow-hidden group">
               <div className="absolute top-0 right-0 w-24 h-24 bg-white/10 rounded-bl-full -mr-12 -mt-12 transition-transform group-hover:scale-150 duration-500"></div>
-              <h3 className="text-2xl font-black text-white mb-4 relative z-10 leading-tight">Ready for 800+?</h3>
+              <div className="text-2xl font-black text-white mb-4 relative z-10 leading-tight">Ready for 800+?</div>
               <p className="text-white/80 text-sm mb-6 relative z-10 leading-relaxed">Don't settle for 'Good' when you can be 'Elite'. Let our experts analyze your report.</p>
               <Link href="/contact" className="block w-full bg-white text-[#1F5EFF] text-center font-black py-4 px-6 rounded-xl hover:bg-gray-100 transition-all duration-300 relative z-10 shadow-lg hover:scale-105 active:scale-95">
                 Analyze My Profile
@@ -547,7 +547,7 @@ export default function CreditScore800Page() {
             </div>
 
             <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-              <h4 className="text-lg font-black text-[#2E2E2E] mb-6 border-b border-[#DEDEDE] pb-2">Top Guides</h4>
+              <div className="text-lg font-black text-[#2E2E2E] mb-6 border-b border-[#DEDEDE] pb-2">Top Guides</div>
               <ul className="space-y-4">
                 {[
                   { title: "Credit Score Improvement", url: "/credit-score-improvement" },

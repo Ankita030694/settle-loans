@@ -345,7 +345,7 @@ export default function MaharashtraLoanSettlementPage() {
                    <div className="flex items-center mb-6">
                      <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-black text-[#1F5EFF] mr-4 text-xl">R</div>
                      <div>
-                       <h4 className="font-black text-[#2E2E2E]">Rajesh Gaikwad</h4>
+                       <h3 className="font-black text-[#2E2E2E]">Rajesh Gaikwad</h3>
                        <p className="text-sm text-gray-500 font-bold">Navi Mumbai, Maharashtra</p>
                      </div>
                    </div>
@@ -434,7 +434,7 @@ export default function MaharashtraLoanSettlementPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-[30px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col">
                 <div className="bg-[#1F5EFF] p-5 text-center">
-                  <h3 className="text-xl font-black text-white">Maharashtra Support</h3>
+                  <div className="text-xl font-black text-white">Maharashtra Support</div>
                 </div>
                 <div className="p-8 text-center">
                   <p className="mb-8 text-sm text-[#DEDEDE]/80 leading-relaxed font-bold">
@@ -452,7 +452,7 @@ export default function MaharashtraLoanSettlementPage() {
 
               {/* Trust Section */}
               <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm">
-                 <h3 className="text-xs font-black uppercase tracking-widest text-[#747474] mb-6 border-b border-[#DEDEDE] pb-3">The SettleLoans Edge</h3>
+                 <div className="text-xs font-black uppercase tracking-widest text-[#747474] mb-6 border-b border-[#DEDEDE] pb-3">The SettleLoans Edge</div>
                  <div className="space-y-5">
                     <div className="flex gap-4 items-start">
                        <div className="w-6 h-6 rounded-full bg-green-50 flex items-center justify-center flex-shrink-0">
@@ -477,7 +477,7 @@ export default function MaharashtraLoanSettlementPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-xs font-black uppercase tracking-widest text-[#747474] mb-6 border-b border-[#DEDEDE] pb-3">Popular Solutions</h3>
+                <div className="text-xs font-black uppercase tracking-widest text-[#747474] mb-6 border-b border-[#DEDEDE] pb-3">Popular Solutions</div>
                 <ul className="space-y-5 text-sm font-black">
                   <li>
                     <Link href="/services/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

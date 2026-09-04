@@ -675,10 +675,10 @@ export default function FaircentP2PLoanSettlementPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-6">
-                <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>RBI Fair Lending Compliance Mandate</span>
-                </h4>
+                </h3>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                   Under the RBI Master Directions on Fair Practices Code and the Circular on Fair Lending Practice - Penal Charges in Loan Accounts (RBI/2023-24/53), lenders cannot capitalize penal charges or compound overdue interest into principal dues. In any formal One-Time Settlement, 100% of accumulated bounce fees, late administrative levies, and penal compounding must be completely waived.
                 </p>
@@ -828,7 +828,7 @@ export default function FaircentP2PLoanSettlementPage() {
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5">
                   <div className="flex items-center gap-3 mb-2">
                     <span className="w-7 h-7 rounded-full bg-[#1F5EFF] text-white font-bold text-xs flex items-center justify-center">1</span>
-                    <h4 className="font-bold text-slate-900 text-base">Comprehensive Financial &amp; Ledger Audit</h4>
+                    <h3 className="font-bold text-slate-900 text-base">Comprehensive Financial &amp; Ledger Audit</h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Obtain full loan account statements from the P2P mobile application or web portal. Isolate the exact disbursed principal, total EMIs repaid to date, unapplied interest, accumulated NACH bounce charges, and predatory penal levies. Establish the true outstanding principal baseline.
@@ -892,10 +892,10 @@ export default function FaircentP2PLoanSettlementPage() {
               
               <div className="space-y-4 my-6">
                 <div className="border border-slate-200 rounded-2xl p-5 bg-white">
-                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <Scale className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Section 25 PSSA Demand Notices (Dishonoured NACH Mandates)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Under Section 25 of the Payment and Settlement Systems Act, 2007, a bounced electronic mandate carries quasi-criminal liability comparable to a bounced physical cheque under Section 138 of the Negotiable Instruments Act, 1881. However, before any complaint can be filed in a Magistrate Court, the platform must serve a statutory 15-day demand notice. A formal legal reply drafted by experienced counsel demonstrating involuntary financial hardship, highlighting unauthorized repeat presentations, and proposing compromise terms routinely transitions the dispute into settlement discussions.
                   </p>
@@ -1175,14 +1175,14 @@ export default function FaircentP2PLoanSettlementPage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -1215,9 +1215,9 @@ export default function FaircentP2PLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>P2P Dispute Resolution</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Facing Faircent or P2P Loan Default?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Stop aggressive recovery tele-calling and recurring NACH return fees immediately. Let our experienced banking advocates audit your delinquency stage, defend statutory legal notices, draft your formal OTS petition, and secure an authentic stamped P2P settlement letter.
               </p>
@@ -1231,10 +1231,10 @@ export default function FaircentP2PLoanSettlementPage() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

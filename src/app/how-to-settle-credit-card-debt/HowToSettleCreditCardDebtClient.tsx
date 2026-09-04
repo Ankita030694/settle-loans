@@ -407,10 +407,10 @@ export default function HowToSettleCreditCardDebtClient() {
               </div>
 
               <div className="p-5 bg-slate-900 text-white rounded-2xl my-6">
-                <h4 className="text-sm font-bold text-blue-300 uppercase tracking-wider mb-2 flex items-center gap-2">
+                <h3 className="text-sm font-bold text-blue-300 uppercase tracking-wider mb-2 flex items-center gap-2">
                   <Calculator className="w-4 h-4" />
                   <span>The Mathematical Minimum Due Trap on a ₹2,00,000 Balance</span>
-                </h4>
+                </h3>
                 <p className="text-xs text-slate-300 leading-relaxed mb-3">
                   If you carry a ₹2,00,000 credit card balance at 42% APR (3.5% monthly) and strictly pay only the 5% Minimum Amount Due (₹10,000 starting payment):
                 </p>
@@ -541,9 +541,9 @@ export default function HowToSettleCreditCardDebtClient() {
                       <span className="w-7 h-7 rounded-full bg-slate-100 text-slate-700 font-bold text-xs flex items-center justify-center">
                         1
                       </span>
-                      <h4 className="font-bold text-slate-900 text-base">
+                      <h3 className="font-bold text-slate-900 text-base">
                         SMA-0 Stage (1 to 30 Days Past Due)
-                      </h4>
+                      </h3>
                     </div>
                     <span className="text-xs font-semibold px-2.5 py-1 bg-slate-100 text-slate-600 rounded-full">
                       Early Delinquency
@@ -764,9 +764,9 @@ export default function HowToSettleCreditCardDebtClient() {
                     01
                   </div>
                   <div>
-                    <h4 className="text-base font-bold text-slate-900 mb-1">
+                    <h3 className="text-base font-bold text-slate-900 mb-1">
                       Step 1: Forensic Statement Audit &amp; Phantom Debt Calculation
-                    </h4>
+                    </h3>
                     <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                       Download the last 12 months of credit card statements. Our legal analysts separate your <strong>Actual Principal Spend</strong> (physical transactions, fuel, merchant swipes, ATM cash) from <strong>Phantom Accumulated Debt</strong> (monthly 3.5% finance charges, late payment fees, over-limit penalties, and 18% GST). This establishes the authentic baseline for all OTS negotiations.
                     </p>
@@ -1005,10 +1005,10 @@ export default function HowToSettleCreditCardDebtClient() {
               {/* The CIBIL Reality Box */}
               <div className="grid grid-cols-1 md:grid-cols-2 gap-5 my-6">
                 <div className="p-5 bg-white border border-slate-200 rounded-2xl shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                     <Info className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Understanding the &quot;Settled&quot; Remark in CIBIL</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed mb-3">
                     Under the <em>Credit Information Companies (Regulation) Act, 2005</em>, banks report settled accounts as <strong>&quot;Settled&quot; with a Current Balance of ₹0</strong>. This indicates that the lender accepted a compromise haircut and the borrower has zero active financial or legal liability.
                   </p>
@@ -1090,10 +1090,10 @@ export default function HowToSettleCreditCardDebtClient() {
 
             {/* Section 11: Official Regulatory Sources & Legal Citations */}
             <div className="my-10 p-6 bg-slate-50 border border-slate-200 rounded-2xl">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Statutory References &amp; Official Regulatory Sources</span>
-              </h4>
+              </h3>
               <ul className="text-xs text-slate-600 space-y-2">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
@@ -1207,14 +1207,14 @@ export default function HowToSettleCreditCardDebtClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm leading-tight">
+                  <div className="font-bold text-slate-900 text-sm leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-[11px] text-slate-500 font-medium">
                     Debt Settlement Strategist &amp; Legal Advocate
                   </p>
@@ -1247,9 +1247,9 @@ export default function HowToSettleCreditCardDebtClient() {
                 <PhoneCall className="w-3.5 h-3.5" />
                 <span>Emergency Advocate Assistance</span>
               </div>
-              <h3 className="text-lg font-black mb-2 leading-tight">
+              <div className="text-lg font-black mb-2 leading-tight">
                 Trapped in Credit Card Dues or Collection Harassment?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-4">
                 Stop paying 42% compounding finance charges. Speak with an empaneled SettleLoans advocate to halt aggressive agent calls and negotiate lawful bank OTS settlements with 40%–70% waivers.
               </p>
@@ -1263,10 +1263,10 @@ export default function HowToSettleCreditCardDebtClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-xs uppercase tracking-wider mb-3 flex items-center gap-1.5">
+              <div className="font-bold text-slate-900 text-xs uppercase tracking-wider mb-3 flex items-center gap-1.5">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <Check className="w-3.5 h-3.5 text-emerald-600 flex-shrink-0 mt-0.5" />

@@ -541,7 +541,7 @@ export default function LoanPartiesDisputeResolutionPage() {
                             <p className="mb-6 text-center text-gray-500">A well-crafted reply is your first line of defense. It creates a paper trail of your 'honesty and good faith'.</p>
                             <div className="grid md:grid-cols-2 gap-6 not-prose">
                                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                    <h4 className="font-bold text-[#2E2E2E] mb-3">Audit the Claim</h4>
+                                    <h3 className="font-bold text-[#2E2E2E] mb-3">Audit the Claim</h3>
                                     <p className="text-sm text-gray-600">The first step is to verify the bank's numbers. If their claimed amount differs even by a few thousand from your records, it provides a technical ground for objection.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
@@ -644,7 +644,7 @@ export default function LoanPartiesDisputeResolutionPage() {
                                                 {s.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{s.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{s.name}</h3>
                                                 <p className="text-xs text-gray-400">{s.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -714,7 +714,7 @@ export default function LoanPartiesDisputeResolutionPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col items-center">
                                 <div className="bg-[#1F5EFF] w-full p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Resolve Your Dispute</h3>
+                                    <div className="text-lg font-black text-white">Resolve Your Dispute</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <div className="w-16 h-16 bg-[#1F5EFF]/10 rounded-full flex items-center justify-center mx-auto mb-4 border border-[#1F5EFF]/20">
@@ -730,7 +730,7 @@ export default function LoanPartiesDisputeResolutionPage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Resolution Tools</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Resolution Tools</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/best-lawyer-for-msme-business-loan-dispute" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

@@ -122,7 +122,7 @@ export default function PersonalLoanSettlementLawyerClient() {
           {/* Left Sidebar - Table of Contents */}
           <aside className="hidden lg:block sticky top-8">
             <div className="bg-slate-50 rounded-2xl p-5 border border-slate-100 shadow-sm">
-              <h3 className="text-xs font-bold text-slate-900 uppercase tracking-widest mb-4">Table of Contents</h3>
+              <div className="text-xs font-bold text-slate-900 uppercase tracking-widest mb-4">Table of Contents</div>
               <nav className="flex flex-col space-y-3">
                 {tableOfContents.map((item) => (
                   <button
@@ -174,10 +174,10 @@ export default function PersonalLoanSettlementLawyerClient() {
               <div className="absolute top-0 right-0 p-4 opacity-10">
                 <svg className="w-24 h-24 text-[#2D68FF]" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zm0 7.5L3.8 6 12 2.3 20.2 6 12 9.5zM2 17l10 5 10-5v-5.5l-10 5-10-5V17z"/></svg>
               </div>
-              <h3 className="text-xl font-bold text-slate-900 mb-3 flex items-center relative z-10">
+              <div className="text-xl font-bold text-slate-900 mb-3 flex items-center relative z-10">
                 <svg className="w-6 h-6 text-[#2D68FF] mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
                 Quick Answer: Why Hire a Settlement Lawyer?
-              </h3>
+              </div>
               <p className="text-slate-700 font-medium leading-relaxed relative z-10 text-[15px]">
                 If you are facing severe harassment from bank recovery agents or have received a legal notice (like an arbitration or Lok Adalat summons) for a personal loan default, a specialized loan settlement lawyer acts as your primary legal shield. They take over all communications with the bank, halt the illegal intimidation tactics using RBI guidelines, and negotiate a formal settlement to close your loan for a fraction of the original outstanding amount, completely protecting you from the psychological distress of debt recovery.
               </p>
@@ -196,7 +196,7 @@ export default function PersonalLoanSettlementLawyerClient() {
               </p>
               
               <div className="bg-slate-50 rounded-2xl p-6 my-8 border border-slate-100">
-                <h4 className="text-lg font-bold text-slate-900 mb-4 mt-0">A dedicated advocate will immediately provide:</h4>
+                <h3 className="text-lg font-bold text-slate-900 mb-4 mt-0">A dedicated advocate will immediately provide:</h3>
                 <ul className="space-y-3 m-0 pl-0 list-none">
                   <li className="flex items-start">
                     <svg className="w-5 h-5 text-[#2D68FF] mt-1 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" /></svg>
@@ -238,7 +238,7 @@ export default function PersonalLoanSettlementLawyerClient() {
                 <div className="flex">
                   <div className="w-10 h-10 bg-[#2D68FF] rounded-full flex items-center justify-center text-white font-bold text-lg flex-shrink-0 mr-4 shadow-md shadow-blue-500/20">1</div>
                   <div>
-                    <h4 className="text-lg font-bold text-slate-900 mt-1 mb-2">Sending a Formal Cease & Desist Notice</h4>
+                    <h3 className="text-lg font-bold text-slate-900 mt-1 mb-2">Sending a Formal Cease & Desist Notice</h3>
                     <p className="text-slate-600 m-0">The lawyer drafts a robust legal notice addressed to the bank's grievance redressal officer and the branch manager, officially documenting the harassment and demanding an immediate cessation of all illegal recovery activities, citing specific RBI regulations.</p>
                   </div>
                 </div>
@@ -280,7 +280,7 @@ export default function PersonalLoanSettlementLawyerClient() {
               </p>
               
               <div className="bg-slate-50 rounded-2xl p-6 border border-slate-100 my-8">
-                <h4 className="font-bold text-slate-900 text-lg mb-4 mt-0">The 4-Step Legal Settlement Workflow:</h4>
+                <h3 className="font-bold text-slate-900 text-lg mb-4 mt-0">The 4-Step Legal Settlement Workflow:</h3>
                 <ol className="space-y-4 m-0 pl-4 text-slate-700">
                   <li><strong>Financial Evaluation & Hardship Profiling:</strong> The lawyer analyzes your outstanding statements, income loss proofs, medical bills, or business failure documents to build a solid "hardship profile".</li>
                   <li><strong>The Hardship Proposal Letter:</strong> A legally drafted letter is sent to the bank's recovery head, proposing a One Time Settlement (OTS). This letter highlights that pursuing legal action against you would yield nothing as you are practically insolvent, making a settlement the most pragmatic choice for the bank.</li>
@@ -310,10 +310,10 @@ export default function PersonalLoanSettlementLawyerClient() {
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="bg-white border-2 border-red-100 rounded-xl p-5">
-                  <h4 className="text-red-600 font-bold mb-2 flex items-center">
+                  <h3 className="text-red-600 font-bold mb-2 flex items-center">
                     <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                     What NOT to do
-                  </h4>
+                  </h3>
                   <ul className="text-sm m-0 pl-4 space-y-2 text-slate-600">
                     <li>Do not ignore the notice hoping it goes away.</li>
                     <li>Do not panic and make partial payments without a written settlement agreement.</li>
@@ -446,7 +446,7 @@ export default function PersonalLoanSettlementLawyerClient() {
             {/* Dark CTA Box */}
             <div className="bg-[#30333A] rounded-2xl p-6 shadow-xl border border-slate-700 relative overflow-hidden">
               <div className="absolute top-0 right-0 w-32 h-32 bg-white opacity-5 rounded-full -mr-16 -mt-16"></div>
-              <h3 className="text-xl font-bold text-white mb-3">Stop Recovery Harassment Today</h3>
+              <div className="text-xl font-bold text-white mb-3">Stop Recovery Harassment Today</div>
               <p className="text-slate-300 text-sm mb-6 font-medium">
                 Our expert lawyers will draft a legal notice and negotiate with the bank to settle your personal loan at a fraction of the cost.
               </p>

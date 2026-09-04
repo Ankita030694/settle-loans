@@ -349,7 +349,7 @@ export default function KeralaLoanSettlementPage() {
                   <div className="flex items-center mb-6">
                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-black text-[#1F5EFF] mr-4 text-xl">S</div>
                     <div>
-                      <h4 className="font-black text-[#2E2E2E]">Sajith Menon</h4>
+                      <h3 className="font-black text-[#2E2E2E]">Sajith Menon</h3>
                       <p className="text-sm text-gray-500 font-bold">Kochi, Kerala</p>
                     </div>
                   </div>
@@ -452,7 +452,7 @@ export default function KeralaLoanSettlementPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-[30px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col">
                 <div className="bg-[#1F5EFF] p-5 text-center">
-                  <h3 className="text-xl font-black text-white">Kerala Helpline</h3>
+                  <div className="text-xl font-black text-white">Kerala Helpline</div>
                 </div>
                 <div className="p-8 text-center">
                   <p className="mb-8 text-sm text-[#DEDEDE]/80 leading-relaxed font-bold">
@@ -470,7 +470,7 @@ export default function KeralaLoanSettlementPage() {
 
               {/* Trust Section */}
               <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm">
-                 <h3 className="text-xs font-black uppercase tracking-widest text-[#747474] mb-6 border-b border-[#DEDEDE] pb-3">Why Kerala Trusts SettleLoans</h3>
+                 <div className="text-xs font-black uppercase tracking-widest text-[#747474] mb-6 border-b border-[#DEDEDE] pb-3">Why Kerala Trusts SettleLoans</div>
                  <div className="space-y-5">
                     <div className="flex gap-4 items-start">
                        <div className="w-6 h-6 rounded-full bg-green-50 flex items-center justify-center flex-shrink-0">
@@ -495,7 +495,7 @@ export default function KeralaLoanSettlementPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-xs font-black uppercase tracking-widest text-[#747474] mb-6 border-b border-[#DEDEDE] pb-3">Solutions for You</h3>
+                <div className="text-xs font-black uppercase tracking-widest text-[#747474] mb-6 border-b border-[#DEDEDE] pb-3">Solutions for You</div>
                 <ul className="space-y-5 text-sm font-black">
                   <li>
                     <Link href="/services/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

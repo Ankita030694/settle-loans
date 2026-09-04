@@ -367,7 +367,7 @@ export default function HowToSettleLoanPage() {
                   <div className="flex items-center mb-6">
                     <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-4 text-xl">S</div>
                     <div>
-                      <h4 className="font-bold text-lg">Sandeep Verma</h4>
+                      <h3 className="font-bold text-lg">Sandeep Verma</h3>
                       <p className="text-sm text-gray-500">Pune, Maharashtra</p>
                     </div>
                   </div>
@@ -439,7 +439,7 @@ export default function HowToSettleLoanPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Need Expert Help?</h3>
+                  <div className="text-lg font-black text-white">Need Expert Help?</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -454,7 +454,7 @@ export default function HowToSettleLoanPage() {
 
               {/* Trust Highlights */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                 <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Why Choose Us</h3>
+                 <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Why Choose Us</div>
                  <div className="space-y-4">
                     <div className="flex gap-3 items-center">
                        <span className="text-[#1F5EFF]">✓</span>
@@ -477,7 +477,7 @@ export default function HowToSettleLoanPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Resources</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Resources</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/services/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

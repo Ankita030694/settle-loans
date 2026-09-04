@@ -1132,9 +1132,9 @@ export default function OneTimeSettlementOtsKaiseKarePage() {
                 <ShieldAlert className="w-3 h-3" />
                 <span>NPA Resolution Desk</span>
               </div>
-              <h3 className="text-base font-black text-white mb-2 leading-snug">
+              <div className="text-base font-black text-white mb-2 leading-snug">
                 Need Help with Bank OTS Negotiation?
-              </h3>
+              </div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Stop aggressive recovery calls today. SettleLoans banking advocates directly approach the bank Stressed Asset Department to negotiate up to 70% waiver and secure an authentic ₹0 NDC.
               </p>

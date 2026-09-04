@@ -147,7 +147,7 @@ export default function Page() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Strict RBI Guidelines for Repo Agents</h2>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Mandatory Repossession Protocol</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Mandatory Repossession Protocol</h3>
                 <p className="text-lg leading-relaxed mb-4 text-blue-900">
                   Banks cannot wake up one day and decide to seize your vehicle. They must follow a strict legal trajectory designed to protect the borrower's dignity and rights.
                 </p>
@@ -208,7 +208,7 @@ export default function Page() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">What is Considered Illegal Seizure?</h2>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">Warning: Identify Illegal Actions</h4>
+                <h3 className="text-xl font-black text-red-700 mb-4">Warning: Identify Illegal Actions</h3>
                 <p className="text-lg leading-relaxed text-red-900 m-0">
                   If repo agents act like goons and violate the dignity and safety of a borrower, their actions cross the line into criminality. In such scenarios, the borrower can hold the bank directly liable for damages.
                 </p>
@@ -255,7 +255,7 @@ export default function Page() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Voluntary Surrender vs. Forced Seizure</h2>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-8 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-xl mb-4">Voluntary Surrender</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-xl mb-4">Voluntary Surrender</h3>
                   <p className="text-gray-700 text-lg leading-relaxed mb-4">
                     If you realize you can no longer afford the EMIs, voluntarily surrendering the vehicle might be an option. This process allows you to peacefully hand over the car to the bank, avoiding the stress and public humiliation of a forced repossession. 
                   </p>
@@ -310,7 +310,7 @@ export default function Page() {
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-bold text-gray-900 mb-4">Immediate Steps You Should Take</h4>
+                <h3 className="text-xl font-bold text-gray-900 mb-4">Immediate Steps You Should Take</h3>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <span className="font-black text-gray-500 mt-1">01.</span>
@@ -517,7 +517,7 @@ export default function Page() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                 <div className="relative z-10">
-                  <h4 className="text-2xl font-black mb-4">Facing Car Seizure?</h4>
+                  <div className="text-2xl font-black mb-4">Facing Car Seizure?</div>
                   <p className="text-gray-300 text-sm mb-6">Don't let them take your vehicle illegally. Take action today.</p>
                   <Link href="#contact" className="block w-full bg-[#1F5EFF] text-white font-bold py-3 px-4 rounded-xl hover:bg-blue-600 transition-colors text-sm">
                     Get Help Now
@@ -527,9 +527,9 @@ export default function Page() {
 
               {/* Card 2 (White Resources) */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Legal Resources
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/rbi-guidelines-loan-recovery" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group text-sm font-medium transition-colors">

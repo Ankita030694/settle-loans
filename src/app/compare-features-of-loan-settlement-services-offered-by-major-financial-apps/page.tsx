@@ -378,7 +378,7 @@ export default function CompareLoanAppsPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-10 my-12">
                 <div className="bg-gray-50 p-8 rounded-2xl border border-[#DEDEDE]">
-                  <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Tech-First Paradigm</h4>
+                  <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Tech-First Paradigm</h3>
                   <p className="text-sm leading-6 mb-6">
                     Tech-first platforms like **FREED** are built for efficiency and scale. They are ideal for individuals with multiple small unsecured loans or credit card dues who want a systematic, automated way to save and settle.
                   </p>
@@ -482,7 +482,7 @@ export default function CompareLoanAppsPage() {
               </h2>
               <div className="grid md:grid-cols-2 gap-10 my-12">
                 <div className="bg-emerald-50 p-8 rounded-2xl border border-emerald-100">
-                  <h4 className="text-xl font-bold mb-4 text-emerald-900 leading-tight italic underline">Advantages of App-Based Settlement</h4>
+                  <h3 className="text-xl font-bold mb-4 text-emerald-900 leading-tight italic underline">Advantages of App-Based Settlement</h3>
                   <ul className="text-sm space-y-4 text-emerald-900/80 font-medium list-none">
                     <li className="flex items-start gap-3 underline italic"><span className="flex-shrink-0 w-5 h-5 bg-emerald-200 rounded-full flex items-center justify-center text-emerald-700 text-xs font-black">✓</span> Data-driven negotiation leading to deeper waivers.</li>
                     <li className="flex items-start gap-3 italic"><span className="flex-shrink-0 w-5 h-5 bg-emerald-200 rounded-full flex items-center justify-center text-emerald-700 text-xs font-black">✓</span> Centralized dashboard to track multiple settlements.</li>
@@ -517,7 +517,7 @@ export default function CompareLoanAppsPage() {
                 </p>
                 <div className="p-8 bg-[#2E2E2E] text-white rounded-2xl my-10 relative overflow-hidden">
                   <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-blue-500 to-green-500"></div>
-                  <h4 className="text-xl font-bold mb-6 underline italic tracking-widest">RBI Compliance Checklist for Borrowers</h4>
+                  <h3 className="text-xl font-bold mb-6 underline italic tracking-widest">RBI Compliance Checklist for Borrowers</h3>
                   <ul className="space-y-4 text-sm opacity-90 font-black list-none italic">
                     <li className="flex gap-4"><span className="text-blue-400 font-black">Rule 1:</span> Does the app clearly list the NBFCs and Banks they are partnered with?</li>
                     <li className="flex gap-4"><span className="text-blue-400 font-black underline">Rule 2:</span> Is there a clear Key Fact Statement (KFS) for any resolution fees or restructured loans?</li>
@@ -584,7 +584,7 @@ export default function CompareLoanAppsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -642,7 +642,7 @@ export default function CompareLoanAppsPage() {
               <div className="bg-[#2E2E2E] rounded-[2rem] p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-32 h-32 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-500"></div>
                 <div className="relative z-10">
-                  <h4 className="text-2xl font-black mb-4 leading-tight">Agents Calling Your Boss?</h4>
+                  <div className="text-2xl font-black mb-4 leading-tight">Agents Calling Your Boss?</div>
                   <p className="text-sm text-gray-300 mb-8 leading-relaxed">
                     Stop the harassment legally and protect your employment reputation.
                   </p>
@@ -653,9 +653,9 @@ export default function CompareLoanAppsPage() {
               </div>
 
               <div className="bg-white rounded-[2rem] p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-xs font-black uppercase tracking-widest text-[#747474] border-b border-[#DEDEDE] pb-4 mb-6">
+                <div className="text-xs font-black uppercase tracking-widest text-[#747474] border-b border-[#DEDEDE] pb-4 mb-6">
                   LEGAL RESOURCES
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/rbi-new-recovery-guidelines-july-2026" className="group flex items-center text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">

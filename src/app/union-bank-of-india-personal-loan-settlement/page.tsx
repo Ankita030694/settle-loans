@@ -674,10 +674,10 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 my-5">
                 <div className="border border-blue-200 bg-blue-50/50 rounded-xl p-4">
-                  <h4 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5">
+                  <h3 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5">
                     <Percent className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Penal Waivers: 100% Elimination</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-blue-900 leading-relaxed">
                     Uncapitalized interest, 24% p.a. penal rates, late payment fees, and bounce charges are 100% written off upon OTS sanction.
                   </p>
@@ -708,7 +708,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <div className="flex items-start gap-3 p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
                   <div className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold text-xs flex-shrink-0 mt-0.5">1</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm">Forensic Loan Audit</h4>
+                    <h3 className="font-bold text-slate-900 text-sm">Forensic Loan Audit</h3>
                     <p className="text-xs text-slate-600 leading-relaxed">Obtain full Statement of Account and legally segregate disbursed principal from compounded penal additions.</p>
                   </div>
                 </div>
@@ -1069,7 +1069,7 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Legal Defense</span>
               </div>
-              <h4 className="font-bold text-sm sm:text-base text-white mb-1.5">Facing Union Bank Recovery Pressure?</h4>
+              <div className="font-bold text-sm sm:text-base text-white mb-1.5">Facing Union Bank Recovery Pressure?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-3.5">
                 Halt unlawful recovery harassment, reply to Section 25 PSSA notices, and negotiate a formal 40%–60% debt haircut with SAMB.
               </p>
@@ -1083,9 +1083,9 @@ export default function UnionBankOfIndiaPersonalLoanSettlementPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-4 sm:p-5 shadow-sm space-y-2.5">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

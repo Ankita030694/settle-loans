@@ -501,10 +501,10 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
               {/* Simulation Table */}
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-6">
-                <h4 className="text-base font-bold text-slate-900 flex items-center gap-2 mb-3">
+                <h3 className="text-base font-bold text-slate-900 flex items-center gap-2 mb-3">
                   <Calculator className="w-5 h-5 text-[#1F5EFF]" />
                   Comparative Financial Breakdown: ₹8,00,000 Personal Loan Scenario
-                </h4>
+                </h3>
                 <div className="overflow-x-auto">
                   <table>
                     <thead>
@@ -685,10 +685,10 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                     RBI Prudential Framework for Resolution of Stressed Assets (June 7, 2019)
-                  </h4>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Mandates banks to identify early stress and classify accounts into Special Mention Accounts: <strong>SMA-0 (1–30 days overdue)</strong>, <strong>SMA-1 (31–60 days overdue)</strong>, and <strong>SMA-2 (61–90 days overdue)</strong>. Loan restructuring is most easily sanctioned during SMA-0 or SMA-1 when viability is demonstrable.
                   </p>
@@ -898,10 +898,10 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <FileText className="w-5 h-5 text-rose-600" />
                     Section 138 of the Negotiable Instruments Act (Cheque Bounce)
-                  </h4>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed mb-2">
                     When personal loan EMIs fail, banks frequently present security cheques or initiate automated NACH debit attempts. A bounced cheque or dishonored electronic mandate triggers a statutory demand notice under Section 138 (or Section 25 of the PSS Act, 2007).
                   </p>
@@ -1007,10 +1007,10 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-5 my-6">
                 {/* Transition A */}
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6">
-                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <RefreshCw className="w-5 h-5 text-[#1F5EFF]" />
                     Pivoting from Failed Restructuring to OTS
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed mb-3">
                     If you agreed to a restructured EMI plan but suffer a secondary income loss, do not attempt to borrow from predatory quick-loan apps.
                   </p>
@@ -1054,9 +1054,9 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                     01
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-base mb-1">
+                    <h3 className="font-bold text-slate-900 text-base mb-1">
                       Comprehensive Debt &amp; Cash Flow Audit
-                    </h4>
+                    </h3>
                     <p className="text-xs text-slate-600 leading-relaxed">
                       List all outstanding loans, active interest rates, penal charges, and current DPD counts. Calculate your non-discretionary living expenses against verified take-home income to establish your real monthly EMI threshold.
                     </p>
@@ -1129,10 +1129,10 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
             {/* Section 10: Official Regulatory Sources & Legal Citations */}
             <div className="my-10 p-6 bg-slate-50 border border-slate-200 rounded-2xl">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Statutory References &amp; Official Regulatory Sources</span>
-              </h4>
+              </h3>
               <ul className="text-xs text-slate-600 space-y-2">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
@@ -1240,14 +1240,14 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm leading-tight">
+                  <div className="font-bold text-slate-900 text-sm leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-[11px] text-slate-500 font-medium">
                     Debt Settlement Strategist &amp; Legal Advocate
                   </p>
@@ -1280,9 +1280,9 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
                 <PhoneCall className="w-3.5 h-3.5" />
                 <span>Emergency Advocate Assistance</span>
               </div>
-              <h3 className="text-lg font-black mb-2 leading-tight">
+              <div className="text-lg font-black mb-2 leading-tight">
                 Facing Recovery Harassment or Legal Court Notices?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-4">
                 Don&apos;t face bank pressure alone. Speak with an empaneled SettleLoans advocate to stop illegal harassment and negotiate a lawful OTS or restructuring.
               </p>
@@ -1296,10 +1296,10 @@ export default function PersonalLoanSettlementVsRestructuringClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-xs uppercase tracking-wider mb-3 flex items-center gap-1.5">
+              <div className="font-bold text-slate-900 text-xs uppercase tracking-wider mb-3 flex items-center gap-1.5">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <Check className="w-3.5 h-3.5 text-emerald-600 flex-shrink-0 mt-0.5" />

@@ -783,7 +783,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Immediate Cash Flow Ring-Fencing &amp; Alternate Banking</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Immediate Cash Flow Ring-Fencing &amp; Alternate Banking</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Within 12 to 24 hours of detecting account restrictions, immediately redirect incoming customer electronic fund transfers, point-of-sale card settlement terminals, and UPI merchant QR codes to an unaffected current account at an independent banking institution. This prevents fresh operational revenue from becoming trapped in the disputed account.
                   </p>
@@ -1176,7 +1176,7 @@ export default function CanBankDebitCurrentAccountPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Emergency Business Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Has Your Business Current Account Been Frozen?</h4>
+              <div className="font-bold text-base text-white mb-2">Has Your Business Current Account Been Frozen?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not allow an illegal bank hold to paralyze your company payroll and operations. Retain seasoned banking advocates to challenge the lack of mutuality and negotiate a 45%–65% OTS.
               </p>
@@ -1190,9 +1190,9 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <Building2 className="w-4 h-4 text-emerald-500 flex-shrink-0" />

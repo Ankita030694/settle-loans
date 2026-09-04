@@ -271,7 +271,7 @@ export default function BajajFinanceSettlementPage() {
                 SettleLoans understands the logic of this rule engine. We know that if your 'App Score' remains high but your payments have stopped due to genuine hardship, the algorithm might flag you for a better settlement offer sooner than a 'Won't Pay' customer. Our strategy involves communicating with their credit officers in the language their algorithms understand, ensuring your case is shifted to a 'Hardship Resolution' track rather than a 'Forceful Collection' track.
               </p>
               <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 mb-8">
-                <h5 className="font-bold text-slate-900 mb-2">The Data Point Edge</h5>
+                <h3 className="font-bold text-slate-900 mb-2">The Data Point Edge</h3>
                 <p className="text-sm">In 2026, Bajaj's AI can predict a default up to 60 days before it happens by tracking 'Early Warning Signals' like unusual app logins or failed mandate attempts. We use this technical lead time to initiate proactive settlement discussions before the situation escalates to legal notices.</p>
               </div>
             </section>
@@ -321,7 +321,7 @@ export default function BajajFinanceSettlementPage() {
               </p>
               <div className="space-y-8 mb-12">
                 <div className="bg-slate-50 p-8 rounded-3xl border border-slate-100">
-                  <h4 className="text-2xl font-black text-[#0071BB] mb-4">1. Bajaj Finserv Personal Loans (PL)</h4>
+                  <h3 className="text-2xl font-black text-[#0071BB] mb-4">1. Bajaj Finserv Personal Loans (PL)</h3>
                   <p className="mb-4">
                     These are traditional unsecured loans with tenures ranging up to 96 months. Because there is no collateral involved, they represent the highest 'Credit Risk' for Bajaj. Once a default occurs, these accounts are often the first to be moved to third-party collection agencies. However, they also offer the most flexibility in terms of settlement percentages.
                   </p>
@@ -363,7 +363,7 @@ export default function BajajFinanceSettlementPage() {
                 Many borrowers are unaware that Bajaj Finance is bound by the 'Master Direction - Reserve Bank of India (Non-Banking Financial Company – Scale Based Regulation) Directions, 2023' (and its subsequent 2026 amendments). This includes the 'Ombudsman Scheme for Non-Banking Financial Companies'. If you have been treated unfairly, or if the interest rates applied to your defaulted loan are usurious, these regulations provide a path for grievance redressal. We leverage these regulatory frameworks during our negotiations.
               </p>
               <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 mb-8">
-                <h5 className="font-bold text-slate-900 mb-2">Did You Know?</h5>
+                <h3 className="font-bold text-slate-900 mb-2">Did You Know?</h3>
                 <p className="text-sm">Excessive 'Late Payment Charges' or 'Bounce Charges' that are capitalized (added to the principal) are often frowned upon by the RBI. We audit your loan statement to identify such 'Hidden Compounding' and demand its reversal during the settlement phase.</p>
               </div>
             </section>
@@ -400,15 +400,15 @@ export default function BajajFinanceSettlementPage() {
               </p>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
                 <div className="border border-slate-200 p-6 rounded-3xl">
-                  <h6 className="font-black text-[#0071BB] mb-2 uppercase text-xs">Phase 1: Insulation</h6>
+                  <h3 className="font-black text-[#0071BB] mb-2 uppercase text-xs">Phase 1: Insulation</h3>
                   <p className="text-xs">Month 1 to 4 of default. We stop the harassment, manage the legal notices, and build your hardship dossier. The lender is still in high-recovery mode.</p>
                 </div>
                 <div className="border border-slate-200 p-6 rounded-3xl">
-                  <h6 className="font-black text-[#0071BB] mb-2 uppercase text-xs">Phase 2: Identification</h6>
+                  <h4 className="font-black text-[#0071BB] mb-2 uppercase text-xs">Phase 2: Identification</h4>
                   <p className="text-xs">Month 5 to 7. Your account is likely an NPA. We identify the internal recovery manager assigned to your region and begin the 'Negotiation Dialogue'.</p>
                 </div>
                 <div className="border border-slate-200 p-6 rounded-3xl">
-                  <h6 className="font-black text-[#0071BB] mb-2 uppercase text-xs">Phase 3: Resolution</h6>
+                  <h5 className="font-black text-[#0071BB] mb-2 uppercase text-xs">Phase 3: Resolution</h5>
                   <p className="text-xs">Month 8+. The 'Write-Off' phase. This is where the deepest waivers (60% to 75%) are unlocked as the lender prepares to sell the debt to an ARC.</p>
                 </div>
               </div>
@@ -456,7 +456,7 @@ export default function BajajFinanceSettlementPage() {
               </p>
             </section>
               <div className="bg-white border-2 border-slate-100 p-8 rounded-3xl shadow-sm mb-12">
-                <h4 className="text-xl font-black text-[#0071BB] mb-6">The Six Steps to a Legal Bajaj OTS:</h4>
+                <h3 className="text-xl font-black text-[#0071BB] mb-6">The Six Steps to a Legal Bajaj OTS:</h3>
                 <ol className="space-y-6">
                   <li className="flex gap-4">
                     <span className="flex-shrink-0 w-8 h-8 bg-slate-100 flex items-center justify-center rounded-full font-bold">1</span>
@@ -495,7 +495,7 @@ export default function BajajFinanceSettlementPage() {
                 Why would a multi-billion dollar company like Bajaj Finance give you a 60% discount? They will only do it if they are convinced that this is the best possible recovery they can get from you. This conviction comes from your 'Hardship Dossier'.
               </p>
               <div className="bg-slate-50 p-8 rounded-3xl border border-slate-100 mb-8">
-                <h4 className="font-bold text-[#0071BB] mb-4 uppercase tracking-widest text-sm">Required Evidence Checklist:</h4>
+                <h3 className="font-bold text-[#0071BB] mb-4 uppercase tracking-widest text-sm">Required Evidence Checklist:</h3>
                 <ul className="grid sm:grid-cols-2 gap-4">
                   <li className="flex items-center gap-2 text-base font-medium text-slate-700">✓ 6 Months Bank Statements (showing low balance)</li>
                   <li className="flex items-center gap-2 text-base font-medium text-slate-700">✓ Termination Letter or Salary Cut proof</li>
@@ -635,15 +635,15 @@ export default function BajajFinanceSettlementPage() {
               </p>
               <div className="space-y-6 mb-12">
                 <div className="bg-slate-50 p-6 rounded-3xl border border-slate-100">
-                  <h6 className="font-bold text-slate-900 mb-2 uppercase text-xs">Level 1: The Grievance Redressal Officer (GRO)</h6>
+                  <h3 className="font-bold text-slate-900 mb-2 uppercase text-xs">Level 1: The Grievance Redressal Officer (GRO)</h3>
                   <p className="text-sm">This is your first point of contact for any dispute. Every NBFC must have a dedicated GRO whose details are public. If you are being harassed, we file a formal, timestamped complaint with the GRO. If you don't receive a satisfactory response within 7 to 10 days, the case automatically qualifies for escalation.</p>
                 </div>
                 <div className="bg-slate-50 p-6 rounded-3xl border border-slate-100">
-                  <h6 className="font-bold text-slate-900 mb-2 uppercase text-xs">Level 2: The Nodal Officer (Principal Nodal Officer)</h6>
+                  <h4 className="font-bold text-slate-900 mb-2 uppercase text-xs">Level 2: The Nodal Officer (Principal Nodal Officer)</h4>
                   <p className="text-sm">The PNO is a senior executive responsible for overseeing the entire grievance system. A complaint to the PNO carries significantly more weight and often triggers an internal 'Compliance Audit' of your specific loan account. This is where most technical errors in interest calculation are rectified.</p>
                 </div>
                 <div className="bg-slate-50 p-6 rounded-3xl border border-slate-100">
-                  <h6 className="font-bold text-slate-900 mb-2 uppercase text-xs">Level 3: The RBI Ombudsman (Integrated Ombudsman Scheme, 2021)</h6>
+                  <h5 className="font-bold text-slate-900 mb-2 uppercase text-xs">Level 3: The RBI Ombudsman (Integrated Ombudsman Scheme, 2021)</h5>
                   <p className="text-sm">If your dispute remains unresolved for 30 days, we approach the RBI Ombudsman. The Ombudsman has the power to pass an award that is binding on the lender. In the last year, the Ombudsman has been particularly strict on 'Digital Lending Harassment' and 'Excessive Penalty Fees'.</p>
                 </div>
               </div>
@@ -712,7 +712,7 @@ export default function BajajFinanceSettlementPage() {
                       <p className="text-lg opacity-80 leading-relaxed mb-8 font-light italic text-slate-700">"{review.text}"</p>
                       <div className="flex justify-between items-end">
                         <div>
-                          <h4 className="font-black text-slate-900 leading-tight">{review.name}</h4>
+                          <h3 className="font-black text-slate-900 leading-tight">{review.name}</h3>
                           <p className="text-sm opacity-50 uppercase tracking-widest text-slate-500">{review.location}</p>
                         </div>
                         <div className="text-right">
@@ -756,7 +756,7 @@ export default function BajajFinanceSettlementPage() {
                 A phenomenon we often observe in Bajaj Finance loan statements is what we call 'Digital Salami Slicing'. This refers to the dozens of micro-charges like 'Statement Charges', 'Physical Visit Charges', 'Document Maintenance Fees', and 'Digital Platform Fees' that are quietly deducted from your account. Individually, these charges might be 200 or 500 rupees, but over a 5-year loan term, they can add up to tens of thousands of rupees.
               </p>
               <div className="bg-slate-50 p-8 rounded-3xl border border-slate-100 mb-8">
-                <h4 className="font-black text-xl mb-4 text-slate-900">The SettleLoans Technical Audit</h4>
+                <h3 className="font-black text-xl mb-4 text-slate-900">The SettleLoans Technical Audit</h3>
                 <p className="text-sm mb-4">
                   Our team performing the audit goes through every single line item of your 'Statement of Account' (SOA) from the day of disbursement. We compare these charges against the 'Most Important Terms and Conditions' (MITC) document you signed. In 2026, many of these automated charges are triggered by 'Legacy Algorithms' that don't always align with the newer, more restrictive RBI circulars on 'Levy of Charges'.
                 </p>
@@ -779,7 +779,7 @@ export default function BajajFinanceSettlementPage() {
               </p>
               <div className="space-y-8 mb-12">
                 <div className="border-l-4 border-[#0071BB] pl-6 py-2">
-                  <h4 className="font-black text-xl mb-2 text-slate-900">Case Study 1: The Multi-EMI Spiral</h4>
+                  <h3 className="font-black text-xl mb-2 text-slate-900">Case Study 1: The Multi-EMI Spiral</h3>
                   <p className="text-sm italic mb-4">Total Outstanding: 12.5 Lakhs (spread across 14 consumer durable loans and 2 personal loans) | Status: 180 Days Default</p>
                   <p className="text-sm mb-4">
                     In this case, the client had used their EMI card for multiple home electronics and a wedding loan. The bounce charges alone were 45,000 rupees a month. We successfully triggered the 'Regulatory Grievance' protocol regarding the capitalization of bounce charges. Result: Bajaj Finance agreed to a unified settlement of 4.2 Lakhs, a reduction of over 66%, with a structured 3-month payment plan.
@@ -884,7 +884,7 @@ export default function BajajFinanceSettlementPage() {
               </p>
               <div className="space-y-8 mb-12">
                 <div className="bg-slate-50 p-6 rounded-3xl border border-slate-100">
-                  <h4 className="font-black text-slate-900 mb-4">1. The Hardship Declaration Letter</h4>
+                  <h3 className="font-black text-slate-900 mb-4">1. The Hardship Declaration Letter</h3>
                   <p className="text-sm mb-4">This is the most important document. It shouldn't just say 'I don't have money'. It must technically detail the source of financial distress, supported by evidence like medical bills, termination letters, or business loss certificates. It must explicitly state your 'Intent to Pay' but 'Inability to Pay the Full Amount'.</p>
                 </div>
                 <div className="bg-slate-50 p-6 rounded-3xl border border-slate-100">
@@ -967,7 +967,7 @@ export default function BajajFinanceSettlementPage() {
           <aside className="lg:w-1/5">
             <div className="sticky top-24 space-y-8">
               <div className="bg-[#0071BB] text-white p-8 rounded-3xl shadow-xl">
-                <h3 className="text-xl font-black mb-4">Start Your Recovery</h3>
+                <div className="text-xl font-black mb-4">Start Your Recovery</div>
                 <p className="text-sm opacity-90 mb-6 leading-relaxed">
                   Join thousands who have cleared their Bajaj Finance debt with SettleLoans. Expert legal help and guaranteed peace of mind.
                 </p>
@@ -977,7 +977,7 @@ export default function BajajFinanceSettlementPage() {
               </div>
 
               <div className="bg-slate-50 p-6 rounded-3xl border border-slate-100">
-                <h4 className="font-black text-xs uppercase tracking-[0.2em] text-slate-400 mb-4 px-2">Lender Specifics</h4>
+                <div className="font-black text-xs uppercase tracking-[0.2em] text-slate-400 mb-4 px-2">Lender Specifics</div>
                 <ul className="space-y-4">
                   <li><Link href="/loan-settlement/hdfc-bank" className="block p-3 rounded-xl hover:bg-white hover:text-[#0071BB] font-bold transition-all text-sm border border-transparent hover:border-slate-200">HDFC Bank</Link></li>
                   <li><Link href="/loan-settlement/axis-bank" className="block p-3 rounded-xl hover:bg-white hover:text-[#0071BB] font-bold transition-all text-sm border border-transparent hover:border-slate-200">Axis Bank</Link></li>

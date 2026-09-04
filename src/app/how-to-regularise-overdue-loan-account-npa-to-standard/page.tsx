@@ -309,7 +309,7 @@ export default function RegulariseLoanAccountPage() {
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Total Arrears Required for Regularisation</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Total Arrears Required for Regularisation</h3>
                 <p className="text-lg text-blue-900 mb-4">To effectively pay arrears to remove the NPA tag, your payment must equal:</p>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3 text-lg text-blue-900">
@@ -530,7 +530,7 @@ export default function RegulariseLoanAccountPage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                 <div className="relative z-10">
-                  <h3 className="text-2xl font-black mb-4">Stop Recovery Harassment</h3>
+                  <div className="text-2xl font-black mb-4">Stop Recovery Harassment</div>
                   <p className="text-white/80 mb-6 text-sm">
                     Are recovery agents threatening you over an NPA account? Get immediate legal protection.
                   </p>
@@ -542,9 +542,9 @@ export default function RegulariseLoanAccountPage() {
 
               {/* Card 2 */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Related Resources
-                </h3>
+                </div>
                 <div className="space-y-4">
                   <Link href="/loan-settlement-process-in-india" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors text-sm font-medium">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>

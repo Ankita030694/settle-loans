@@ -247,7 +247,7 @@ export default function ConsultantQuestionsPage() {
               </p>
               <div className="space-y-6 mb-8">
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2">"Are you a registered legal entity? Can I see your CIN and registration documents?"</h4>
+                  <h3 className="font-bold text-[#1F5EFF] mb-2">"Are you a registered legal entity? Can I see your CIN and registration documents?"</h3>
                   <p className="text-sm text-gray-600">Why it matters: Anyone can set up a WhatsApp account and a website. A legitimate firm will be registered with the Ministry of Corporate Affairs as a Company, LLP, or a registered Law Firm. This registration provides you with a path for legal recourse if things go wrong.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl">
@@ -270,7 +270,7 @@ export default function ConsultantQuestionsPage() {
               </p>
               <div className="space-y-6 mb-8">
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2">"What is the average timeline for an unsecured loan settlement with a major bank like HDFC or ICICI?"</h4>
+                  <h3 className="font-bold text-[#1F5EFF] mb-2">"What is the average timeline for an unsecured loan settlement with a major bank like HDFC or ICICI?"</h3>
                   <p className="text-sm text-gray-600">The right answer: Usually 3 to 9 months. Any promise of a 1-month settlement is likely a lie or includes skipping critical legal steps. Banks require multiple internal approvals for a One-Time Settlement (OTS).</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl">
@@ -378,7 +378,7 @@ export default function ConsultantQuestionsPage() {
                 A consultant who says "your CIBIL will be fine" is a scammer. Debt settlement is a trade-off.
               </p>
               <div className="p-8 bg-gray-50 rounded-2xl border border-gray-200">
-                <h4 className="font-bold mb-4">Question to ask: "How will this affect my ability to get a home loan in 5 years?"</h4>
+                <h3 className="font-bold mb-4">Question to ask: "How will this affect my ability to get a home loan in 5 years?"</h3>
                 <p className="text-gray-600 leading-relaxed mb-4">
                   A trustworthy consultant will explain that the "Settled" status will remain for 7 years, but its negative weight decreases after 2-3 years if you practice disciplined credit behavior. They should also discuss the difference between "Settled" and "Post-Settlement Closure" (which requires paying the full amount later).
                 </p>
@@ -401,7 +401,7 @@ export default function ConsultantQuestionsPage() {
                     <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"></path></svg>
                   </div>
                   <div>
-                    <h4 className="font-bold leading-tight mb-2">"What evidence of financial hardship do you require from me?"</h4>
+                    <h3 className="font-bold leading-tight mb-2">"What evidence of financial hardship do you require from me?"</h3>
                     <p className="text-sm text-gray-600">If they don't ask for medical bills, job termination letters, or income proofs, they aren't negotiating; they are just guessing. Banks ONLY settle when they see documented proof that you truly cannot pay.</p>
                   </div>
                 </div>
@@ -441,7 +441,7 @@ export default function ConsultantQuestionsPage() {
                 What if the bank sues you? Your consultant must have a plan.
               </p>
               <div className="p-8 bg-white border border-gray-200 rounded-2xl shadow-sm">
-                <h4 className="font-bold text-[#1F5EFF] mb-4 text-xl">"What happens if I receive a court summons or a Lok Adalat notice while we are in negotiations?"</h4>
+                <h3 className="font-bold text-[#1F5EFF] mb-4 text-xl">"What happens if I receive a court summons or a Lok Adalat notice while we are in negotiations?"</h3>
                 <p className="text-gray-700 leading-relaxed mb-6">
                   A fake consultant will tell you to ignore it. <strong>NEVER IGNORE A COURT SUMMONS.</strong> A real legal-backed firm like <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">AMA Legal Solutions</Link> will send a representative or guide you on how to present your case at the Lok Adalat. In fact, Lok Adalats are excellent places to finalize settlements, as the resulting decree is legally binding and equivalent to a civil court order.
                 </p>
@@ -457,11 +457,11 @@ export default function ConsultantQuestionsPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-10">
                 <div className="border border-gray-100 p-6 rounded-xl hover:border-blue-500 transition-colors bg-white">
-                  <h5 className="font-black text-blue-600 mb-2 uppercase text-xs tracking-widest">Indicator: Transparency</h5>
+                  <h3 className="font-black text-blue-600 mb-2 uppercase text-xs tracking-widest">Indicator: Transparency</h3>
                   <p className="text-sm text-gray-500">Do they talk about the CIBIL drop and the risk of litigation without being asked? (5 pts)</p>
                 </div>
                 <div className="border border-gray-100 p-6 rounded-xl hover:border-blue-500 transition-colors bg-white">
-                  <h5 className="font-black text-blue-600 mb-2 uppercase text-xs tracking-widest">Indicator: Legal Support</h5>
+                  <h4 className="font-black text-blue-600 mb-2 uppercase text-xs tracking-widest">Indicator: Legal Support</h4>
                   <p className="text-sm text-gray-500">Do they have on-payroll advocates or just "affiliates"? (5 pts)</p>
                 </div>
                 <div className="border border-gray-100 p-6 rounded-xl hover:border-blue-500 transition-colors bg-white">
@@ -483,7 +483,7 @@ export default function ConsultantQuestionsPage() {
                 Scams in the Indian debt sector have moved to Telegram, WhatsApp, and specialized "loan closure apps."
               </p>
               <div className="bg-red-50 p-8 rounded-2xl border border-red-200">
-                <h4 className="font-black text-red-800 mb-4">Never Trust a Consultant Who asks for:</h4>
+                <h3 className="font-black text-red-800 mb-4">Never Trust a Consultant Who asks for:</h3>
                 <ul className="space-y-4 text-red-900 font-medium">
                   <li className="flex gap-2"><span>❌</span> Your net banking password or OTP.</li>
                   <li className="flex gap-2"><span>❌</span> A fee to "delete your name from the CIBIL blacklist."</li>
@@ -576,7 +576,7 @@ export default function ConsultantQuestionsPage() {
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div className="p-8 bg-blue-50/30 rounded-2xl border border-blue-100 flex flex-col justify-between">
                   <div>
-                    <h5 className="font-black mb-4 text-blue-800">The "Wait and Win" Story</h5>
+                    <h3 className="font-black mb-4 text-blue-800">The "Wait and Win" Story</h3>
                     <p className="text-sm text-gray-700 leading-relaxed mb-4">
                       Anil from Bangalore was being harassed for a 12 lakh personal loan. He asked his consultant about the 'timing' of the settlement. The consultant advised him to wait until the fiscal year-end (March). By asking this question, Anil learned about 'Bank Targets.' He eventually settled for 5 lakhs in late March because the bank needed to clear its NPA books.
                     </p>
@@ -585,7 +585,7 @@ export default function ConsultantQuestionsPage() {
                 </div>
                 <div className="p-8 bg-purple-50/30 rounded-2xl border border-purple-100 flex flex-col justify-between">
                   <div>
-                    <h5 className="font-black mb-4 text-purple-800">The "Paper Trail" Victory</h5>
+                    <h4 className="font-black mb-4 text-purple-800">The "Paper Trail" Victory</h4>
                     <p className="text-sm text-gray-700 leading-relaxed mb-4">
                       Sunita from Mumbai insisted on asking about the "Verification Process." When the bank sent a settlement letter via email, her consultant noticed it was from a third-party agent's Gmail, not the bank's official domain. By questioning the authenticity, she avoided a 2 lakh scam and eventually got a legitimate letter via the bank's portal.
                     </p>
@@ -646,7 +646,7 @@ export default function ConsultantQuestionsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -694,7 +694,7 @@ export default function ConsultantQuestionsPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Ask the Experts</h3>
+                  <div className="text-lg font-black text-white">Ask the Experts</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -708,7 +708,7 @@ export default function ConsultantQuestionsPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-[10px]">Financial Resources</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-[10px]">Financial Resources</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li><Link href="/how-to-choose-a-trustworthy-debt-settlement-provider" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Choosing a Provider</Link></li>
                   <li><Link href="/is-loan-settlement-a-good-option-for-borrowers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Is it for You?</Link></li>

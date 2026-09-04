@@ -573,7 +573,7 @@ export default function CreditScoreImprovementPage() {
              </p>
              <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                    <h4 className="font-bold text-red-900 mb-2">1. The "Verbal Promise" Trap</h4>
+                    <h3 className="font-bold text-red-900 mb-2">1. The "Verbal Promise" Trap</h3>
                     <p className="text-sm text-red-800">
                         Agents will say "Pay 20k now and we will close it". NEVER pay without an official settlement letter from the bank's official email ID. Verbal promises are worthless in court/CIBIL disputes.
                     </p>
@@ -608,7 +608,7 @@ export default function CreditScoreImprovementPage() {
               Did you know 1 in 5 CIBIL reports contains errors? It could be a wrong name spelling, a loan that isn't yours (Identity Theft), or a payment marked "Late" when it was on time.
             </p>
             <div className="bg-white border p-6 rounded-xl shadow-sm">
-                <h4 className="font-bold text-gray-900 mb-4">Steps to Dispute (Online Method):</h4>
+                <h3 className="font-bold text-gray-900 mb-4">Steps to Dispute (Online Method):</h3>
                 <ol className="list-decimal list-inside space-y-3 text-gray-700 text-sm">
                     <li>Log in to <strong>myscore.cibil.com</strong> (Consumer Login).</li>
                     <li>Go to the "Credit Report" section and verify your details.</li>
@@ -635,7 +635,7 @@ export default function CreditScoreImprovementPage() {
                  <div className="flex items-start">
                      <div className="flex-shrink-0 w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center font-bold text-gray-700">1</div>
                      <div className="ml-6">
-                         <h4 className="text-xl font-bold text-gray-900">FOIR (Fixed Obligation to Income Ratio)</h4>
+                         <h3 className="text-xl font-bold text-gray-900">FOIR (Fixed Obligation to Income Ratio)</h3>
                          <p className="text-gray-600 mt-1">
                              If your current EMIs consume more than 50% of your monthly salary, banks will reject you even with an 800 score. They fear you can't afford another EMI.
                          </p>
@@ -710,7 +710,7 @@ export default function CreditScoreImprovementPage() {
                </p>
                <div className="grid md:grid-cols-2 gap-6">
                    <div className="bg-white p-6 rounded-xl border border-gray-200">
-                       <h4 className="font-bold text-lg text-gray-900 mb-2">1. TransUnion CIBIL</h4>
+                       <h3 className="font-bold text-lg text-gray-900 mb-2">1. TransUnion CIBIL</h3>
                        <p className="text-sm text-gray-600">The oldest and most widely used. Most banks (SBI, HDFC, ICICI) check this first. Score range: 300-900. A score of 750+ is ideal.</p>
                    </div>
                    <div className="bg-white p-6 rounded-xl border border-gray-200">
@@ -849,7 +849,7 @@ export default function CreditScoreImprovementPage() {
                        { term: "Suit Filed", desc: "Legal case filed by lender. Critical alert." }
                    ].map((item, i) => (
                        <div key={i} className="bg-white p-4 rounded-lg border border-[#DEDEDE]">
-                           <h4 className="font-black text-[#1F5EFF] mb-1">{item.term}</h4>
+                           <h3 className="font-black text-[#1F5EFF] mb-1">{item.term}</h3>
                            <p className="text-xs text-gray-600">{item.desc}</p>
                        </div>
                    ))}
@@ -953,7 +953,7 @@ Regards,<br/>
                    <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">A</div>
                       <div>
-                         <h4 className="font-bold">Amit Deshmukh</h4>
+                         <h3 className="font-bold">Amit Deshmukh</h3>
                          <p className="text-xs text-gray-500">IT Professional, Pune</p>
                       </div>
                    </div>
@@ -1068,7 +1068,7 @@ Regards,<br/>
           <div className="sticky top-24 space-y-8">
              <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                <div className="bg-green-600 p-4 text-center">
-                 <h3 className="text-lg font-black text-white">Score Below 700?</h3>
+                 <div className="text-lg font-black text-white">Score Below 700?</div>
                </div>
                <div className="p-6 text-center">
                 <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -1082,7 +1082,7 @@ Regards,<br/>
             </div>
 
             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-              <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Services</h3>
+              <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Services</div>
               <ul className="space-y-4 text-sm font-bold">
                  <li>
                   <Link href="/services/nbfc-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

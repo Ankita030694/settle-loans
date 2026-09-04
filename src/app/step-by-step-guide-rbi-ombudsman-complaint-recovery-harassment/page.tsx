@@ -691,10 +691,10 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4 space-y-3">
-                <h4 className="font-bold text-slate-900 text-xs sm:text-sm uppercase tracking-wider flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-xs sm:text-sm uppercase tracking-wider flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory Evidentiary Compilation Checklist</span>
-                </h4>
+                </h3>
                 <div className="space-y-2.5 text-xs sm:text-sm text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900">1. Raw Audio Files with Unaltered Hash &amp; Timestamps</p>
@@ -1040,11 +1040,11 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm">
+                  <div className="font-bold text-slate-900 text-sm">
                     <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
               </div>
@@ -1069,7 +1069,7 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Regulatory Protection</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">End Aggressive Recovery Harassment Today</h4>
+              <div className="font-bold text-base text-white mb-2">End Aggressive Recovery Harassment Today</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not face abusive collection calls, family intimidation, or illegal doorstep visits alone. Retain our senior banking advocates to lodge formal RBI Ombudsman grievances and secure a 40%–65% OTS compromise.
               </p>
@@ -1083,9 +1083,9 @@ export default function RbiOmbudsmanComplaintRecoveryHarassmentPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

@@ -613,9 +613,9 @@ export default function PersonalLoanSettlementFeesClient() {
               </div>
 
               <div className="bg-emerald-50 border-l-4 border-emerald-600 p-5 rounded-r-xl my-6">
-                <h4 className="font-bold text-emerald-900 text-base mb-1">
+                <h3 className="font-bold text-emerald-900 text-base mb-1">
                   Key Financial Finding for Borrowers:
-                </h4>
+                </h3>
                 <p className="text-sm text-emerald-800 leading-relaxed">
                   While the 8% Total Debt model looks marginally cheaper on paper when discounts are high (60%+), the <strong>15% Savings Model ensures that if your bank refuses a deep waiver and only offers a 30% reduction, your fee drops dramatically</strong>, protecting your cash flow during acute insolvency.
                 </p>
@@ -942,10 +942,10 @@ export default function PersonalLoanSettlementFeesClient() {
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                     RBI Master Direction on Compromise Settlements (June 8, 2023)
-                  </h4>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Mandates that all scheduled commercial banks and NBFCs must maintain transparent, board-approved compromise settlement policies. The circular provides a legal mandate for lenders to accept One-Time Settlements without arbitrary recovery agent interference.
                   </p>
@@ -1039,10 +1039,10 @@ export default function PersonalLoanSettlementFeesClient() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-5 my-6">
                 <div className="p-5 rounded-xl border border-slate-200 bg-slate-50">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1.5 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm mb-1.5 flex items-center gap-2">
                     <CheckCircle className="w-4 h-4 text-emerald-600" />
                     1. Contingency-Linked Success Fees
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Our success fee is calculated strictly as a percentage of verified savings and is billed only after you receive an official, verified OTS Sanction Letter directly from the lending institution.
                   </p>
@@ -1106,10 +1106,10 @@ export default function PersonalLoanSettlementFeesClient() {
 
             {/* Regulatory Sources & References (Exactly 5 Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Legal Authorities</span>
-              </h4>
+              </h3>
               <ul className="space-y-2.5 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1249,14 +1249,14 @@ export default function PersonalLoanSettlementFeesClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Debt Settlement Strategist &amp; Consumer Rights Advocate
                   </p>
@@ -1289,9 +1289,9 @@ export default function PersonalLoanSettlementFeesClient() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Emergency Advocate Assistance</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Facing Extortionate Fee Demands or Recovery Harassment?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Don&apos;t fall victim to advance fee scams or aggressive bank recovery. Speak with an empaneled SettleLoans advocate for a transparent case evaluation.
               </p>
@@ -1305,10 +1305,10 @@ export default function PersonalLoanSettlementFeesClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

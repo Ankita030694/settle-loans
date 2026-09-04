@@ -229,7 +229,7 @@ export default function DebtConsolidationBanksPage() {
              </p>
              <div className="grid md:grid-cols-2 gap-6">
                 <div className="p-8 bg-gray-50 rounded-2xl border border-[#DEDEDE]">
-                   <h4 className="font-black text-xl mb-3">Bajaj Finserv</h4>
+                   <h3 className="font-black text-xl mb-3">Bajaj Finserv</h3>
                    <p className="text-sm mb-4">Known for their "Flexi Loan" facility, which allows you to borrow as you need and pay interest only on the utilized amount. Excellent for consolidating multiple small app-based loans.</p>
                    <div className="text-xs font-bold text-[#1F5EFF]">Rates: 11% to 16%</div>
                 </div>
@@ -294,7 +294,7 @@ export default function DebtConsolidationBanksPage() {
                 { title: "CIBIL Boost", desc: "As you close multiple accounts and replace them with one stable loan, your score eventually rises." }
               ].map((item, i) => (
                 <div key={i} className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm hover:shadow-lg transition-transform hover:-translate-y-1">
-                  <h4 className="font-black text-[#1F5EFF] mb-2">{item.title}</h4>
+                  <h3 className="font-black text-[#1F5EFF] mb-2">{item.title}</h3>
                   <p className="text-sm opacity-80 leading-relaxed font-bold">{item.desc}</p>
                 </div>
               ))}
@@ -309,7 +309,7 @@ export default function DebtConsolidationBanksPage() {
             <div className="relative pl-10 border-l-2 border-[#1F5EFF]/30 space-y-12 my-12">
                <div className="relative">
                   <div className="absolute -left-[45px] top-0 w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black">1</div>
-                  <h4 className="font-black text-xl mb-2">Portfolio Assessment</h4>
+                  <h3 className="font-black text-xl mb-2">Portfolio Assessment</h3>
                   <p className="text-gray-600">List all your outstanding amounts: Credit Cards, Personal Loans, BNPL debts. Get the exact "Foreclosure" amount for each from the respective lenders.</p>
                </div>
                <div className="relative">
@@ -352,7 +352,7 @@ export default function DebtConsolidationBanksPage() {
             </p>
             <div className="flex flex-col md:flex-row gap-6 my-8">
                <div className="flex-1 p-6 bg-blue-50 border border-blue-100 rounded-2xl">
-                  <h4 className="font-black text-blue-800 mb-4">Debt Consolidation</h4>
+                  <h3 className="font-black text-blue-800 mb-4">Debt Consolidation</h3>
                   <ul className="text-sm space-y-2 font-bold text-blue-900/70">
                      <li>• You pay the FULL principal.</li>
                      <li>• Credit score goes UP eventually.</li>
@@ -399,7 +399,7 @@ export default function DebtConsolidationBanksPage() {
                       {review.name.charAt(0)}
                     </div>
                     <div>
-                      <h5 className="font-black text-[#2E2E2E]">{review.name}</h5>
+                      <h3 className="font-black text-[#2E2E2E]">{review.name}</h3>
                       <p className="text-xs text-[#747474] font-bold uppercase tracking-wider">{review.loc}</p>
                     </div>
                   </div>
@@ -431,7 +431,7 @@ export default function DebtConsolidationBanksPage() {
                 { q: "Is there any hidden cost?", a: "Always watch out for processing fees, documentation charges, and insurance premiums that banks might bundle. Always ask for the 'Internal Rate of Return' (IRR) to know the true cost." }
               ].map((faq, i) => (
                  <div key={i} className="bg-white p-6 rounded-2xl border border-[#DEDEDE] hover:border-[#1F5EFF]/30 transition-colors shadow-sm">
-                    <h4 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h4>
+                    <h3 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h3>
                     <p className="text-gray-500 text-sm leading-relaxed">{faq.a}</p>
                  </div>
               ))}
@@ -458,13 +458,13 @@ export default function DebtConsolidationBanksPage() {
           <div className="sticky top-24 space-y-8">
              <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl overflow-hidden relative">
                 <div className="text-3xl font-black mb-4 text-[#1F5EFF]">40%</div>
-                <h3 className="text-lg font-black mb-4 relative z-10 leading-tight">Average Savings on Monthly EMIs</h3>
+                <div className="text-lg font-black mb-4 relative z-10 leading-tight">Average Savings on Monthly EMIs</div>
                 <p className="text-white/60 text-xs mb-8 relative z-10 font-bold uppercase tracking-widest leading-loose">Based on 2026 consolidating results</p>
                 <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-black py-4 rounded-xl hover:bg-[#1F5EFF]/90 transition-colors shadow-lg">Start Saving</Link>
              </div>
 
              <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-widest text-[#747474] mb-6 border-b pb-4">Consolidation Guides</h3>
+                <div className="text-sm font-black uppercase tracking-widest text-[#747474] mb-6 border-b pb-4">Consolidation Guides</div>
                 <ul className="space-y-6">
                    <li>
                       <Link href="/mastering-loan-settlement" className="group flex flex-col items-start text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

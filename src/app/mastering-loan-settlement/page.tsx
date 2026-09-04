@@ -332,7 +332,7 @@ export default function MasteringLoanSettlementPage() {
                   <div className="flex items-center gap-4 mb-6">
                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center text-[#1F5EFF] font-black text-xl">S</div>
                     <div>
-                      <h4 className="font-black text-lg">Sneha</h4>
+                      <h3 className="font-black text-lg">Sneha</h3>
                       <p className="text-xs text-gray-500 uppercase font-bold tracking-widest text-[#1F5EFF]">Debt: ₹25 Lakhs</p>
                     </div>
                   </div>
@@ -389,7 +389,7 @@ export default function MasteringLoanSettlementPage() {
                 { q: "What are the tax implications of settlement?", a: "The forgiven portion of a debt may be considered taxable income by the Income Tax Department. You should consult a tax professional to understand your specific liability." }
               ].map((faq, i) => (
                 <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h4 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h4>
+                  <h3 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h3>
                   <p className="text-gray-600 leading-relaxed">{faq.a}</p>
                 </div>
               ))}
@@ -422,13 +422,13 @@ export default function MasteringLoanSettlementPage() {
           <div className="sticky top-24 space-y-8">
              <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl overflow-hidden relative group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                <h3 className="text-2xl font-black mb-4 relative z-10">Free Negotiation Advice</h3>
+                <div className="text-2xl font-black mb-4 relative z-10">Free Negotiation Advice</div>
                 <p className="text-white/70 text-sm mb-6 relative z-10">Negotiate for 40-60% waiver with our expert-backed strategies.</p>
                 <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-black py-4 rounded-xl hover:bg-[#1F5EFF]/90 transition-colors shadow-lg">Talk to Experts</Link>
              </div>
 
              <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-4">Guides & Resources</h3>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-4">Guides & Resources</div>
                 <ul className="space-y-5">
                    <li>
                       <Link href="/loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold transition-colors">

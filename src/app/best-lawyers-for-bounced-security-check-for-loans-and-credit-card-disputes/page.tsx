@@ -282,7 +282,7 @@ export default function BouncedSecurityCheckPage() {
                                 Not every bounced cheque leads to a conviction. The Supreme Court has repeatedly clarified the difference between a check issued for a "Debt" and a check issued for "Security". A security check is given as an assurance for a future contingent liability. If that liability has not matured, the check is not an enforceable instrument under Section 138.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The "Security" Defence Framework:</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The "Security" Defence Framework:</h3>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3 text-blue-800">
                                         <div className="w-6 h-6 rounded-full bg-blue-600 text-white flex items-center justify-center font-bold flex-shrink-0 mt-0.5 text-xs">1</div>
@@ -361,7 +361,7 @@ export default function BouncedSecurityCheckPage() {
                                 Credit card companies are notorious for taking a blank check during the application and depositing it for a "Total Outstanding" that includes massive penalties and hidden fees. In a Section 138 case, the bank's "Statement of Account" is not gospel; it is just evidence that can be challenged.
                             </p>
                             <div className="bg-amber-50 p-8 rounded-xl border border-amber-200 my-8">
-                                <h4 className="text-xl font-bold text-amber-900 mb-4">The "Interest Audit" Defence</h4>
+                                <h3 className="text-xl font-bold text-amber-900 mb-4">The "Interest Audit" Defence</h3>
                                 <p className="text-sm text-amber-800 leading-relaxed mb-4 font-bold">
                                     Did the bank charge you 42% interest during a period when your card was blocked? Did they keep adding "Late Payment Fees" even after you notified them of a dispute? If the amount written on the check includes these illegal charges, the "Liability" is not legally enforceable.
                                 </p>
@@ -408,7 +408,7 @@ export default function BouncedSecurityCheckPage() {
                                 The ultimate goal of a bank recovery case is usually not to send you to jail, but to get the money. A strong technical defence is your best "Negotiation Tool". When the bank realizes their case has 5 procedural holes, they stop talking about 2 years in jail and start talking about a "Waiver of Interest".
                             </p>
                             <div className="bg-gray-50 border border-gray-200 p-8 rounded-2xl mb-8 font-bold">
-                                <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">The "Compounding" Advantage:</h4>
+                                <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">The "Compounding" Advantage:</h3>
                                 <p className="mb-4 text-gray-700 leading-relaxed text-sm">
                                     Since 138 is a compoundable offence, we can settle it at any time. We use the "Defence Pressure" (Summoning bank records, cross-examining the manager, filing counter-claims) to bring the bank to the table for a "Mutual Settlement Agreement" (MSA).
                                 </p>
@@ -426,7 +426,7 @@ export default function BouncedSecurityCheckPage() {
                                 Most lawyers give up as soon as the client admits their signature on the cheque. We don't. Admission of signature only triggers a "Rebuttable Presumption". To win, we must build a "Preponderance of Probabilities" that turns the tide.
                             </p>
                             <div className="bg-white border border-[#DEDEDE] p-8 rounded-3xl mb-8 shadow-sm">
-                                <h4 className="text-xl font-bold mb-4">The "Financial Capacity" Challenge</h4>
+                                <h3 className="text-xl font-bold mb-4">The "Financial Capacity" Challenge</h3>
                                 <p className="text-gray-600 mb-6 leading-relaxed">
                                     In "Friendly Loan" or "Private Funding" cases, we challenge the complainant's ability to lend the money. If a person claiming to have lent you 10 Lakhs doesn't have 10 Lakhs in their own bank account, or hasn't shown the loan in their ITR (Income Tax Return), the debt is no longer "Legally Enforceable".
                                 </p>
@@ -448,7 +448,7 @@ export default function BouncedSecurityCheckPage() {
                                 Many private lenders and small-time NBFCs give loans in cash, violating Section 269SS of the Income Tax Act (which prohibits cash loans above 20,000). While this doesn't automatically kill a 138 case, it puts the bank or lender in a "Defensive Crouch".
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-100 my-8 font-bold">
-                                <h4 className="text-red-900 mb-4">The "Tainted Money" Argument:</h4>
+                                <h3 className="text-red-900 mb-4">The "Tainted Money" Argument:</h3>
                                 <p className="text-red-800 text-sm leading-relaxed mb-4">
                                     If the complainant cannot prove the "Source of Funds" or if the cash was never reflected in their books, the court often views the debt as a "Gambling Debt" or "Unaccounted Transaction".
                                 </p>
@@ -515,7 +515,7 @@ export default function BouncedSecurityCheckPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -577,7 +577,7 @@ export default function BouncedSecurityCheckPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">138 Defence Shield</h3>
+                                    <div className="text-lg font-black text-white">138 Defence Shield</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -592,7 +592,7 @@ export default function BouncedSecurityCheckPage() {
 
                             {/* Related Pages */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Technical Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Technical Guides</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/best-lawyer-for-bank-loan-recovery-defence" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

@@ -591,7 +591,7 @@ export default function RbiOmbudsmanComplaintPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-6">
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
                   <div className="text-blue-600 font-bold text-xs uppercase tracking-wider mb-1">Phase 1</div>
-                  <h4 className="font-bold text-slate-900 text-sm mb-2">Branch / Desk Grievance</h4>
+                  <h3 className="font-bold text-slate-900 text-sm mb-2">Branch / Desk Grievance</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Submit a formal written complaint via registered email or speed post to the Branch Manager and the bank&apos;s Level-1 Customer Service Desk. Secure an official Service Request (SR) tracking number.
                   </p>
@@ -695,7 +695,7 @@ export default function RbiOmbudsmanComplaintPage() {
 
               <div className="space-y-4 my-6">
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">Step 1: Access the Centralized Portal &amp; Verify Identity</h4>
+                  <h3 className="font-bold text-slate-900 text-sm mb-1">Step 1: Access the Centralized Portal &amp; Verify Identity</h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Navigate to <code>https://cms.rbi.org.in</code> and click on &quot;File a Complaint&quot;. Complete the initial SMS/OTP mobile verification. Ensure that the mobile number matches the contact details registered with your loan account.
                   </p>
@@ -1201,7 +1201,7 @@ export default function RbiOmbudsmanComplaintPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Legal Protection</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Facing Recovery Agent Harassment?</h4>
+              <div className="font-bold text-base text-white mb-2">Facing Recovery Agent Harassment?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not endure abusive calls or unannounced home visits. Hire specialized banking defense advocates to lodge a formal RBI CMS complaint, claim harassment compensation, and negotiate a 45%–65% OTS.
               </p>
@@ -1215,9 +1215,9 @@ export default function RbiOmbudsmanComplaintPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

@@ -270,7 +270,7 @@ export default function Page() {
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key Coverage Areas of Credit Shields:</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key Coverage Areas of Credit Shields:</h3>
                 <div className="space-y-3">
                   <div className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -300,7 +300,7 @@ export default function Page() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Involuntary Termination</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Involuntary Termination</h3>
                   <p className="text-gray-700">Being laid off, retrenched, or fired without disciplinary cause. Resigning voluntarily is never covered.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -397,7 +397,7 @@ export default function Page() {
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Crucial Documents for Job Loss Claims:</h4>
+                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Crucial Documents for Job Loss Claims:</h3>
                 <ul className="list-disc pl-5 space-y-2 text-lg text-gray-700">
                   <li>Termination/Pink Slip letter from HR on company letterhead.</li>
                   <li>Full and Final (F&F) Settlement document.</li>
@@ -419,7 +419,7 @@ export default function Page() {
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Handling Recovery Agents:</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Handling Recovery Agents:</h3>
                 <p className="text-lg text-blue-900 leading-relaxed mb-4">
                   If recovery agents contact you while your claim is under evaluation, you have the right to politely but firmly state that a formal insurance claim is active. Provide them with the claim reference number. 
                 </p>
@@ -436,7 +436,7 @@ export default function Page() {
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Tax Exemptions Explained:</h4>
+                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Tax Exemptions Explained:</h3>
                 <p className="text-lg text-gray-700 leading-relaxed">
                   Under Section 10(10D) of the Income Tax Act, any sum received under a life insurance policy, including bonus sums, is entirely exempt from tax. Because a credit shield acts as a specialized life or general insurance policy, the amount disbursed to clear your debt is protected from taxation. The debt simply vanishes off your ledger without increasing your tax liability.
                 </p>
@@ -462,7 +462,7 @@ export default function Page() {
                       ))}
                     </div>
                   </div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Rahul Verma</h4>
+                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Rahul Verma</h3>
                   <p className="text-gray-600 mb-6 italic">"I was laid off during company downsizing. I submitted my termination letter to HDFC Life. My credit shield kicked in and paid my personal loan EMIs for 3 months until I found a new job. My CIBIL stayed perfect."</p>
                   <div className="flex flex-wrap gap-2">
                     <span className="py-1 px-3 rounded-full bg-red-100 text-red-700 text-xs font-bold uppercase">EMI: ₹24,000/mo</span>
@@ -628,7 +628,7 @@ export default function Page() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                 <div className="relative z-10">
-                  <h4 className="text-2xl font-black mb-4">Claim Rejected?</h4>
+                  <div className="text-2xl font-black mb-4">Claim Rejected?</div>
                   <p className="text-gray-300 mb-6 text-sm">
                     If your insurer rejected a valid job loss or medical emergency claim, our legal experts can help you dispute it.
                   </p>
@@ -640,9 +640,9 @@ export default function Page() {
 
               {/* Card 2 (White Resources) */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Helpful Resources
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   <li className="group flex items-center">
                     <span className="w-1.5 h-1.5 bg-[#DEDEDE] group-hover:bg-[#1F5EFF] rounded-full mr-3 transition-colors"></span>

@@ -345,7 +345,7 @@ export default function LoanSettlementMSMEOwnersPage() {
               </p>
               <div className="space-y-4 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-blue-100 shadow-sm border-l-4 border-l-green-500">
-                  <h4 className="font-bold text-lg mb-2">SMA-0: The Warning Light (1-30 days overdue)</h4>
+                  <h3 className="font-bold text-lg mb-2">SMA-0: The Warning Light (1-30 days overdue)</h3>
                   <p className="text-sm text-gray-600">The bank starts sending automated reminders. This is the stage to arrange bridge funds or negotiate a temporary deferment. Most MSMEs ignore this, which is a mistake.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-blue-100 shadow-sm border-l-4 border-l-yellow-500">
@@ -428,7 +428,7 @@ export default function LoanSettlementMSMEOwnersPage() {
                 ].map((item, i) => (
                   <div key={i} className="relative pl-8">
                     <div className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">{item.step}</h4>
+                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">{item.step}</h3>
                     <p className="text-gray-600 leading-relaxed text-base">{item.content}</p>
                   </div>
                 ))}
@@ -441,12 +441,12 @@ export default function LoanSettlementMSMEOwnersPage() {
               <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 not-prose">
                 <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200 text-center">
                   <div className="text-3xl mb-3">🛡️</div>
-                  <h5 className="font-black text-slate-800 mb-2">Priority Credit</h5>
+                  <h3 className="font-black text-slate-800 mb-2">Priority Credit</h3>
                   <p className="text-xs text-slate-600">Banks must meet targets for MSME lending, making them more open to retaining you even during stress.</p>
                 </div>
                 <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200 text-center">
                   <div className="text-3xl mb-3">⚖️</div>
-                  <h5 className="font-black text-slate-800 mb-2">Arbitration Right</h5>
+                  <h4 className="font-black text-slate-800 mb-2">Arbitration Right</h4>
                   <p className="text-xs text-slate-600">You gain the legal right to sue large buyers in the MSEFC without paying heavy court fees.</p>
                 </div>
                 <div className="bg-slate-50 p-6 rounded-2xl border border-slate-200 text-center">
@@ -513,7 +513,7 @@ export default function LoanSettlementMSMEOwnersPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-500">★★★★★</div>
@@ -599,7 +599,7 @@ export default function LoanSettlementMSMEOwnersPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white px-2">MSME Shield</h3>
+                  <div className="text-lg font-black text-white px-2">MSME Shield</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -614,7 +614,7 @@ export default function LoanSettlementMSMEOwnersPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Business Guidance</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Business Guidance</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/best-lawyer-for-msme-business-loan-dispute" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

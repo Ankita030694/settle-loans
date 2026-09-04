@@ -267,7 +267,7 @@ export default function RetailLoanPage() {
                         <section id="consumer-rights" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Why It Matters for Consumer Rights</h2>
                             <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Consumer Protection Framework</h4>
+                                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Consumer Protection Framework</h3>
                                 <p className="text-lg leading-relaxed mb-4 text-blue-900">
                                     Understanding that your debt is classified as a "retail loan" grants you access to robust consumer protection mechanisms. The RBI explicitly dictates how retail loans should be sold, structured, and recovered.
                                 </p>
@@ -295,7 +295,7 @@ export default function RetailLoanPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 my-8">
                                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. Personal Loans</h4>
+                                    <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. Personal Loans</h3>
                                     <p className="text-gray-700">The quintessential unsecured retail loan. Funds can be used for any purpose, from medical emergencies to weddings. They typically carry higher interest rates due to the lack of collateral.</p>
                                 </div>
                                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -319,7 +319,7 @@ export default function RetailLoanPage() {
                                 <div className="flex gap-6">
                                     <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                                     <div>
-                                        <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Credit Assessment</h4>
+                                        <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Credit Assessment</h3>
                                         <p className="text-gray-700">The lender checks your CIBIL score and credit history to determine your reliability and assess the risk of default.</p>
                                     </div>
                                 </div>
@@ -343,7 +343,7 @@ export default function RetailLoanPage() {
                         <section id="common-pitfalls" className="scroll-mt-32 mb-16">
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Beware: Common Pitfalls</h2>
                             <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                                <h4 className="text-xl font-black text-red-700 mb-4">Protect Yourself from Predatory Practices</h4>
+                                <h3 className="text-xl font-black text-red-700 mb-4">Protect Yourself from Predatory Practices</h3>
                                 <p className="text-red-900 text-lg leading-relaxed mb-4">
                                     While the retail banking sector is heavily regulated, consumers often fall prey to digital lending apps and predatory practices that obscure the true cost of the loan.
                                 </p>
@@ -366,7 +366,7 @@ export default function RetailLoanPage() {
                                             R
                                         </div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E]">Ramesh G.</h4>
+                                            <h3 className="font-bold text-[#2E2E2E]">Ramesh G.</h3>
                                             <div className="flex gap-1 text-yellow-400">
                                                 <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                                                 <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -413,7 +413,7 @@ export default function RetailLoanPage() {
                             <div className="space-y-4">
                                 {/* FAQ 1 */}
                                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                                    <h4 className="font-bold text-lg text-[#2E2E2E] mb-2">What is the exact retail loan meaning?</h4>
+                                    <h3 className="font-bold text-lg text-[#2E2E2E] mb-2">What is the exact retail loan meaning?</h3>
                                     <p className="text-gray-700">A retail loan is a form of debt provided directly to individual consumers rather than businesses or institutions. These are primarily used for personal consumption, such as buying a house, a car, or funding personal expenses.</p>
                                 </div>
                                 {/* FAQ 2 */}
@@ -491,7 +491,7 @@ export default function RetailLoanPage() {
                             {/* Dark CTA */}
                             <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                                <h4 className="text-2xl font-black mb-4 relative z-10">Stop Agent Harassment</h4>
+                                <div className="text-2xl font-black mb-4 relative z-10">Stop Agent Harassment</div>
                                 <p className="text-gray-300 text-sm mb-6 relative z-10">
                                     Are recovery agents ignoring your consumer rights? We can help you enforce RBI guidelines legally.
                                 </p>
@@ -502,9 +502,9 @@ export default function RetailLoanPage() {
 
                             {/* White Resources */}
                             <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                                     Related Guides
-                                </h4>
+                                </div>
                                 <ul className="space-y-4">
                                     <li>
                                         <Link href="/rbi-july-2026-recovery-guidelines" className="group flex items-center text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

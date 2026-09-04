@@ -297,7 +297,7 @@ export default function LoanSettlementFinancialResetPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-200">
-                  <h4 className="font-black text-lg mb-3">1. Assess Your Liquidity</h4>
+                  <h3 className="font-black text-lg mb-3">1. Assess Your Liquidity</h3>
                   <p className="text-sm text-gray-600">How much cash do you actually have for a one-time settlement? This is your 'war chest'. We will help you figure out how to allocate this for maximum impact.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-200">
@@ -317,7 +317,7 @@ export default function LoanSettlementFinancialResetPage() {
               </p>
               <div className="space-y-6">
                 <div className="border-l-4 border-[#1F5EFF] pl-6 bg-gray-50 p-6 rounded-r-xl">
-                  <h4 className="font-bold text-xl mb-2 text-[#2E2E2E]">The Fair Practice Code</h4>
+                  <h3 className="font-bold text-xl mb-2 text-[#2E2E2E]">The Fair Practice Code</h3>
                   <p className="text-base text-gray-700">Lenders must treat borrowers with dignity. No physical force or mental distress is allowed. Any violation of this code is a serious offense that can lead to the bank losing its license or facing heavy fines.</p>
                 </div>
                 <div className="border-l-4 border-[#1F5EFF] pl-6 bg-gray-50 p-6 rounded-r-xl">
@@ -365,7 +365,7 @@ export default function LoanSettlementFinancialResetPage() {
               <div className="grid sm:grid-cols-3 gap-4 my-10">
                 <div className="bg-white p-5 rounded-xl border border-gray-200 text-center">
                   <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">💰</div>
-                  <h4 className="font-bold mb-1">Total Waivers</h4>
+                  <h3 className="font-bold mb-1">Total Waivers</h3>
                   <p className="text-xs text-gray-400">Negotiating the lowest possible one-time payment.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-gray-200 text-center">
@@ -403,7 +403,7 @@ export default function LoanSettlementFinancialResetPage() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">Why Partner with SettleLoans and Ama Legal Solutions?</h2>
               <div className="grid md:grid-cols-2 gap-8 mt-12">
                 <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl shadow-xl">
-                  <h4 className="text-2xl font-bold mb-4 text-[#1F5EFF]">SettleLoans: The Experts</h4>
+                  <h3 className="text-2xl font-bold mb-4 text-[#1F5EFF]">SettleLoans: The Experts</h3>
                   <p className="opacity-80 leading-relaxed mb-6 italic">Where expert negotiation meets human empathy.</p>
                   <ul className="space-y-3 text-sm opacity-90">
                     <li>✓ Proprietary negotiation strategies developed over decades.</li>
@@ -434,7 +434,7 @@ export default function LoanSettlementFinancialResetPage() {
                 Many borrowers fail their reset because they rush. One common mistake is taking another loan to pay off a settlement. This is just digging a deeper hole. Another mistake is trusting 'fly-by-night' settlement agencies that charge huge upfront fees and then disappear.
               </p>
               <div className="bg-orange-50 p-8 rounded-xl border border-orange-100">
-                <h4 className="font-bold text-orange-900 mb-4">The Danger of the Partial Payment</h4>
+                <h3 className="font-bold text-orange-900 mb-4">The Danger of the Partial Payment</h3>
                 <p className="text-sm text-orange-800 leading-relaxed font-semibold">
                   Never make a partial payment to a recovery agent before you have a formal settlement letter on the bank's letterhead. Agents will often promise you a 'settlement' just to get you to pay something. That money goes toward interest, and the debt remains. Always wait for the official letter. SettleLoans ensures that every rupee you pay goes exactly where it was negotiated to go.
                 </p>
@@ -454,7 +454,7 @@ export default function LoanSettlementFinancialResetPage() {
               </p>
               <div className="space-y-8">
                 <div className="p-6 bg-white border border-gray-200 rounded-xl">
-                  <h4 className="font-black text-xl mb-3">1. Section 138 Notice (Cheque Bounce)</h4>
+                  <h3 className="font-black text-xl mb-3">1. Section 138 Notice (Cheque Bounce)</h3>
                   <p className="text-gray-600 mb-4">If a cheque you gave as security for a loan bounces, the lender can send a notice under Section 138 of the Negotiable Instruments Act. You have 15 days to pay the amount after receiving the notice. If you cannot pay, don't panic. Ama Legal Solutions can help you frame a reply that explains your hardship and intent to settle.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-xl">
@@ -474,7 +474,7 @@ export default function LoanSettlementFinancialResetPage() {
                 Rebuilding your CIBIL score after a settlement is a marathon, not a sprint. But with the right strategy, you can get back to a prime score faster than you think.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h4 className="text-2xl font-bold mb-6">The Credit Mix Strategy</h4>
+                <h3 className="text-2xl font-bold mb-6">The Credit Mix Strategy</h3>
                 <p className="mb-6 opacity-80">Banks like to see a healthy mix of 'Secured' and 'Unsecured' credit. For someone who has just settled their debts, we recommend the following steps:</p>
                 <ul className="space-y-4 text-sm opacity-90">
                   <li>🔹 **The Secured Card:** Get a credit card against a small Fixed Deposit (FD). Use it for small purchases and pay the full balance every month.</li>
@@ -491,7 +491,7 @@ export default function LoanSettlementFinancialResetPage() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-center">In-Depth Case Studies: Real Resets</h2>
               <div className="space-y-8">
                 <div className="p-8 bg-blue-50/30 rounded-2xl border border-blue-100">
-                  <h4 className="font-black text-xl mb-4">Case Study 1: The Small Business Reset</h4>
+                  <h3 className="font-black text-xl mb-4">Case Study 1: The Small Business Reset</h3>
                   <p className="mb-4">Rajesh, a shop owner in Pune, had high-interest personal loans totaling 25 lakhs taken to save his business during the pandemic. When the business didn't recover, he was paying 1.2 lakhs per month in EMIs, which was more than his revenue.</p>
                   <p className="mb-4">**Our Action:** Ama Legal Solutions identified that the bank had charged illegal compound interest during the moratorium. SettleLoans used this as leverage in the negotiation. After four months of hard negotiation, the debt was settled for a one-time payment of 8.5 lakhs.</p>
                   <p className="font-bold text-green-700">**The Result:** Rajesh is now debt-free, his business is growing again, and he has saved over 16 lakhs in principal and interest.</p>
@@ -544,7 +544,7 @@ export default function LoanSettlementFinancialResetPage() {
                         {item.name.charAt(0)}
                       </div>
                       <div>
-                        <h4 className="font-bold text-gray-900 leading-none">{item.name}</h4>
+                        <h3 className="font-bold text-gray-900 leading-none">{item.name}</h3>
                         <p className="text-[10px] text-gray-400 mt-1 uppercase tracking-widest">{item.loc}</p>
                       </div>
                       <div className="ml-auto flex text-yellow-400 text-xs">
@@ -580,12 +580,12 @@ export default function LoanSettlementFinancialResetPage() {
               <div className="relative border-l-2 border-gray-200 ml-4 pl-8 space-y-12">
                 <div className="relative">
                   <div className="absolute -left-[41px] top-0 w-5 h-5 bg-[#1F5EFF] rounded-full border-4 border-white"></div>
-                  <h5 className="font-black text-xl mb-2 text-[#1F5EFF]">Month 1: Audit & Halt</h5>
+                  <h3 className="font-black text-xl mb-2 text-[#1F5EFF]">Month 1: Audit & Halt</h3>
                   <p className="text-gray-600">List all debts, stop all non-essential spending, and contact settleloans.in to begin your file.</p>
                 </div>
                 <div className="relative">
                   <div className="absolute -left-[41px] top-0 w-5 h-5 bg-[#1F5EFF] rounded-full border-4 border-white"></div>
-                  <h5 className="font-black text-xl mb-2 text-[#1F5EFF]">Month 2-3: Legal Defense</h5>
+                  <h4 className="font-black text-xl mb-2 text-[#1F5EFF]">Month 2-3: Legal Defense</h4>
                   <p className="text-gray-600">Ama Legal Solutions begins responding to notices. We inform lenders of your intent to settle based on hardship.</p>
                 </div>
                 <div className="relative">
@@ -700,7 +700,7 @@ export default function LoanSettlementFinancialResetPage() {
               {/* Sidebar CTA */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-2xl font-black mb-2 leading-tight">Start Your Financial Reset</h3>
+                  <div className="text-2xl font-black mb-2 leading-tight">Start Your Financial Reset</div>
                   <p className="opacity-90 text-sm">Expert negotiation and Legal protection.</p>
                 </div>
                 <div className="p-6 text-center text-[#DEDEDE]">
@@ -713,7 +713,7 @@ export default function LoanSettlementFinancialResetPage() {
 
               {/* Related Pages */}
               <div className="bg-white rounded-2xl border border-gray-200 p-6 shadow-sm">
-                <h3 className="text-xl font-bold mb-6 text-[#2E2E2E] border-b pb-4">Related Reset Guides</h3>
+                <div className="text-xl font-bold mb-6 text-[#2E2E2E] border-b pb-4">Related Reset Guides</div>
                 <div className="flex flex-col gap-4">
                   <Link href="/settle-loans-plan-for-building-debt-free-future-after-settlement" className="text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors leading-relaxed">
                     → Building a Debt-Free Future

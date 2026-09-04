@@ -265,7 +265,7 @@ export default function ChallengeARCPage() {
                                 <li className="flex items-start gap-4">
                                     <div className="bg-blue-100 p-3 rounded-lg text-blue-600 mt-1"><FontAwesomeIcon icon={faSearch} /></div>
                                     <div>
-                                        <h4 className="font-bold text-xl text-[#2E2E2E]">1. Identification & Bidding</h4>
+                                        <h3 className="font-bold text-xl text-[#2E2E2E]">1. Identification & Bidding</h3>
                                         <p className="text-gray-600">The bank identifies a pool of stressed assets and invites bids from ARCs, often using the "Swiss Challenge" method to ensure transparency.</p>
                                     </div>
                                 </li>
@@ -330,7 +330,7 @@ export default function ChallengeARCPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-200 hover:shadow-lg transition-shadow">
-                                    <h4 className="font-black text-2xl text-[#1F5EFF] mb-4">Stamp Duty Evasion</h4>
+                                    <h3 className="font-black text-2xl text-[#1F5EFF] mb-4">Stamp Duty Evasion</h3>
                                     <p className="text-base text-gray-600 leading-relaxed">
                                         Is the deed stamped as per the laws of the state where the property is located? Many ARCs buy loans in bulk from a central office in Mumbai or Delhi and pay stamp duty as per that state's laws. However, if the mortgaged property is in Karnataka or West Bengal, the deed must comply with the local Stamp Act. Insufficient stamping makes the document "inadmissible in evidence" under Section 35 of the Stamp Act.
                                     </p>
@@ -421,7 +421,7 @@ export default function ChallengeARCPage() {
                                 In this SA, we don't just challenge the loan default; we challenge the <strong>Chain of Title</strong>. We ask the court to direct the ARC to produce the original Assignment Deed. If they produce an unregistered deed, we move for an immediate stay on the grounds that an unregistered document cannot create a right in immovable property.
                             </p>
                             <div className="bg-blue-50 p-6 rounded-xl border border-blue-200 mb-8">
-                                <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-sm tracking-widest">Case Law Highlight</h4>
+                                <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase text-sm tracking-widest">Case Law Highlight</h3>
                                 <p className="text-sm font-medium">In numerous cases across Indian DRTs, it has been held that while the "Debt" can be transferred via a simple contract, the "Mortgage" (the power to sell your property) can only be transferred via a Registered instrument. If the ARC hasn't paid the proper stamp duty and registered the deed, they can sue you for money, but they CANNOT auction your factory.</p>
                             </div>
                         </section>
@@ -449,7 +449,7 @@ export default function ChallengeARCPage() {
                                 By mounting a strong legal challenge against the assignment deed, you create a "Litigation Risk" for the ARC. They realize that even if they win in the end, it might take 5 years of expensive DRT and High Court battles. To avoid this, they are often willing to settle for a much lower amount (OTS) than the original bank would have accepted.
                             </p>
                             <div className="bg-[#2E2E2E] text-[#DEDEDE] p-8 rounded-3xl my-10 border border-[#1F5EFF]/20 shadow-2xl">
-                                <h4 className="text-[#1F5EFF] font-black text-2xl mb-4 italic leading-tight">"Strategic litigation is the best tool for an affordable settlement."</h4>
+                                <h3 className="text-[#1F5EFF] font-black text-2xl mb-4 italic leading-tight">"Strategic litigation is the best tool for an affordable settlement."</h3>
                                 <p className="opacity-80 leading-relaxed">By questioning the very foundation of their legal right to exist as your creditor, we shift the power dynamic in your favor.</p>
                             </div>
                         </section>
@@ -477,7 +477,7 @@ export default function ChallengeARCPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -497,7 +497,7 @@ export default function ChallengeARCPage() {
                             </h2>
                             <div className="space-y-6">
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100">
-                                    <h4 className="font-black text-[#2E2E2E] mb-2">1. can a bank sell my loan to an ARC without my consent?</h4>
+                                    <h3 className="font-black text-[#2E2E2E] mb-2">1. can a bank sell my loan to an ARC without my consent?</h3>
                                     <p className="text-sm text-gray-600 leading-relaxed font-semibold uppercase">Yes. Most loan agreements contain a clause allowing the bank to assign its rights. However, they must follow the legal procedure of assignment.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100">
@@ -558,7 +558,7 @@ export default function ChallengeARCPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">We are in This Together</h3>
+                                    <div className="text-lg font-black text-white px-2">We are in This Together</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -573,7 +573,7 @@ export default function ChallengeARCPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/loan-settlement-with-iarc" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

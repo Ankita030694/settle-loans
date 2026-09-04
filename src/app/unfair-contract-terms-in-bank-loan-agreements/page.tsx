@@ -531,10 +531,10 @@ export default function UnfairContractTermsLoanAgreementsPage() {
               </p>
 
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-4 rounded-r-xl my-4">
-                <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
+                <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                   <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
                   <span>The Legal Reality of Adhesion Contracts in Banking</span>
-                </h4>
+                </h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                   A standard form contract ceases to be a valid consensual agreement when it imposes unreasonable, oppressive, or unilateral burdens on a consumer who had no opportunity to negotiate terms. The doctrine of unconscionability allows judicial tribunals to excise such clauses without invalidating the underlying commercial debt obligation.
                 </p>
@@ -616,10 +616,10 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <BadgePercent className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Compounding Penal Interest &amp; Fee Pyramids</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Clauses permitting the bank to levy 24%–36% annual penal interest and capitalize those unpaid penalties directly into the principal balance, creating a compounding debt spiral that violates Section 2(46)(ii) and the RBI Master Direction on Fair Lending Practices.
                   </p>
@@ -834,10 +834,10 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldCheck className="w-4 h-4 text-emerald-500" />
                     <span>Direction to Remove Deficiencies &amp; Abusive Clauses</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under Section 39(1)(b), the Commission orders the lender to remove unconscionable covenants, eliminate illegal compounding clauses, and recalculate outstanding loan balances strictly according to statutory norms.
                   </p>
@@ -885,10 +885,10 @@ export default function UnfairContractTermsLoanAgreementsPage() {
               </p>
 
               <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200 space-y-3 my-6">
-                <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                   <Check className="w-4 h-4 text-emerald-600" />
                   <span>The Dual-Track Strategic Resolution Framework</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <strong className="text-slate-900 block mb-1">Track 1: Active Judicial &amp; Regulatory Pressure</strong>
@@ -1172,7 +1172,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
                 <Gavel className="w-4 h-4" />
                 <span>Emergency Contractual Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Trapped in Unfair Loan Clauses?</h4>
+              <div className="font-bold text-base text-white mb-2">Trapped in Unfair Loan Clauses?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not endure usurious compounding penalties or arbitrary rate hikes. Retain experienced advocates to invalidate abusive clauses and negotiate a 50%–70% OTS.
               </p>
@@ -1186,9 +1186,9 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

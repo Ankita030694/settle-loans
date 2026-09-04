@@ -1092,11 +1092,11 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                   </div>
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm leading-tight">
+                  <div className="font-bold text-slate-900 text-sm leading-tight">
                     <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition">
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-[11px] text-slate-500 font-medium">
                     Lead Banking Legal Strategist
                   </p>
@@ -1122,9 +1122,9 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <PhoneCall className="w-3.5 h-3.5" />
                 <span>Hero FinCorp Resolution</span>
               </div>
-              <h3 className="text-lg font-black mb-2 leading-tight">
+              <div className="text-lg font-black mb-2 leading-tight">
                 Facing Hero FinCorp Default?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-4">
                 Halt recovery harassment and recurring NACH charges. Let our banking advocates draft your OTS petition and secure a stamped settlement letter.
               </p>
@@ -1138,10 +1138,10 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-xs uppercase tracking-wider mb-3 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-xs uppercase tracking-wider mb-3 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Choose SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-2.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <Check className="w-3.5 h-3.5 text-emerald-600 flex-shrink-0 mt-0.5" />

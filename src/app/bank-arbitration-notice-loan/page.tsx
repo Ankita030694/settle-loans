@@ -210,7 +210,7 @@ export default function BankArbitrationPage() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px] relative">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Legal Roadmap</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Legal Roadmap</div>
                             <TableOfContents
                                 items={[
                                     { id: "what-is-arbitration-notice", title: "What is it?" },
@@ -259,7 +259,7 @@ export default function BankArbitrationPage() {
                             </p>
                             <div className="space-y-4">
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-shadow">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Speed over Procedure</h4>
+                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Speed over Procedure</h3>
                                     <p className="text-sm leading-relaxed font-bold opacity-70">Traditional evidence rules are relaxed. The focus is on the loan agreement and the statement of account.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-shadow">
@@ -281,7 +281,7 @@ export default function BankArbitrationPage() {
                                 Under <strong>Section 21 of the Arbitration and Conciliation Act</strong>, the arbitration proceedings are deemed to have commenced on the date on which a request for that dispute to be referred to arbitration is received by the respondent (you).
                             </p>
                             <div className="p-8 bg-red-50 rounded-3xl border border-red-100">
-                                <h4 className="text-xl font-black text-red-900 mb-2 uppercase">Why Delivery Matters</h4>
+                                <h3 className="text-xl font-black text-red-900 mb-2 uppercase">Why Delivery Matters</h3>
                                 <p className="text-sm italic font-bold text-red-700 leading-relaxed">If you receive an email or a speed post containing an arbitration notice, the clock has officially started. Ignoring it on the grounds of 'I didn't sign for it' is a dangerous legal move that usually backfires.</p>
                             </div>
                         </section>
@@ -298,7 +298,7 @@ export default function BankArbitrationPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-[#2E2E2E] text-white rounded-[48px] shadow-xl border-l-8 border-[#1F5EFF]">
-                                    <h4 className="text-2xl font-black mb-4 uppercase italic leading-none">Supreme Court View</h4>
+                                    <h3 className="text-2xl font-black mb-4 uppercase italic leading-none">Supreme Court View</h3>
                                     <p className="text-sm leading-relaxed opacity-90 font-medium">In cases like *TRF Ltd. v. Energo Engineering*, the court ruled that an interested party is ineligible to appoint an arbitrator. This is your primary shield.</p>
                                 </div>
                                 <div className="p-10 bg-[#2E2E2E] text-white rounded-[48px] shadow-xl border-l-8 border-[#1F5EFF]">
@@ -342,7 +342,7 @@ export default function BankArbitrationPage() {
                                 If you fail to appear or submit a defense statement, the arbitrator has the power to proceed 'Ex-Parte'. This means they will hear only the bank's side and pass an award for the full amount, plus heavy interest and arbitration costs.
                             </p>
                             <div className="bg-red-900 p-10 rounded-[48px] text-white my-12 shadow-2xl">
-                                <h4 className="text-2xl font-black mb-4 uppercase italic text-red-500 leading-[0.9]">The Execution Trap</h4>
+                                <h3 className="text-2xl font-black mb-4 uppercase italic text-red-500 leading-[0.9]">The Execution Trap</h3>
                                 <p className="text-sm leading-relaxed opacity-80 font-bold italic mb-6">An Ex-Parte award is not a 'letter'. It's a legal weapon. The bank can take this to a local civil court (Execution Court) and get orders to freeze your Salary or attach your House within weeks.</p>
                                 <p className="text-xs font-black uppercase tracking-[0.2em] decoration-red-500 underline underline-offset-4 font-bold italic">Never miss the first hearing date mentioned in the notice.</p>
                             </div>
@@ -392,7 +392,7 @@ export default function BankArbitrationPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-gray-50 rounded-[48px] border border-gray-100 shadow-sm relative overflow-hidden group">
-                                    <h4 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#2E2E2E]">The Waiver Lever</h4>
+                                    <h3 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#2E2E2E]">The Waiver Lever</h3>
                                     <p className="text-sm leading-relaxed opacity-70 font-medium italic">We force the bank to waive 'Arbitration Costs' and 'Receiver Fees' which they usually try to add to your bill.</p>
                                 </div>
                                 <div className="p-10 bg-gray-50 rounded-[48px] border border-gray-100 shadow-sm relative overflow-hidden group text-right">
@@ -520,7 +520,7 @@ export default function BankArbitrationPage() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-[32px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-6 text-white text-center">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Arbitration<br />Shield</h3>
+                                    <div className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Arbitration<br />Shield</div>
                                     <p className="opacity-80 text-[10px] font-black uppercase tracking-[0.2em]">Immediate Defense</p>
                                 </div>
                                 <div className="p-8">
@@ -536,7 +536,7 @@ export default function BankArbitrationPage() {
 
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-[32px] p-8 border border-gray-100 shadow-sm text-left">
-                                <h4 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Legal Directory</h4>
+                                <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Legal Directory</div>
                                 <nav className="space-y-4">
                                     <Link href="/legal-action-for-credit-card-default" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">Credit Card Defaults</Link>
                                     <Link href="/bank-sent-legal-notice-for-loan-what-to-do" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">Bank Legal Notices</Link>

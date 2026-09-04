@@ -653,7 +653,7 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 1: Appointment &amp; Report of the Resolution Professional (Section 97 &amp; 99)</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Step 1: Appointment &amp; Report of the Resolution Professional (Section 97 &amp; 99)</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The DRT directs the IBBI to nominate an independent Resolution Professional (RP). The RP audits the debtor&apos;s financial records, verifies default authenticity, and submits a comprehensive Section 99 report recommending admission or rejection of the insolvency petition.
                   </p>
@@ -1148,7 +1148,7 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Urgent Insolvency Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Facing Insolvency Notices or Overwhelming Debt?</h4>
+              <div className="font-bold text-base text-white mb-2">Facing Insolvency Notices or Overwhelming Debt?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Trigger the Section 96 interim moratorium to freeze creditor lawsuits, halt recovery harassment, and negotiate a structured 40%–60% debt resolution.
               </p>
@@ -1162,9 +1162,9 @@ export default function PersonalInsolvencyAndBankruptcyProcessIndiaPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

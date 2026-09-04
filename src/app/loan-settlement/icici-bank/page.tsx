@@ -204,7 +204,7 @@ export default function ICICIBankSettlementPage() {
                   </p>
                   <div className="space-y-12">
                      <div className="border-l-4 border-[#F99D27] pl-12">
-                        <h4 className="text-3xl font-black mb-4">Phase 1: The Tactical Objection</h4>
+                        <h3 className="text-3xl font-black mb-4">Phase 1: The Tactical Objection</h3>
                         <p className="opacity-70 text-xl">Under Section 13(3A), you have a right to object. We identify procedural errors—wrong interest calculation, incorrect asset details, or failure to serve notice to co-applicants. If the bank's response is a 'Template Reply', we challenge it in the High Court as a violation of Natural Justice.</p>
                      </div>
                      <div className="border-l-4 border-[#F99D27] pl-12">
@@ -315,7 +315,7 @@ export default function ICICIBankSettlementPage() {
                     { t: "Ombudsman", d: "The RBI-appointed officer who hears complaints against banks. The ultimate judge of fair practice." }
                   ].map((item, i) => (
                     <div key={i} className="space-y-2 pb-6 border-b border-slate-200">
-                       <h6 className="text-xl font-black text-[#B02A30]">{item.t}</h6>
+                       <h3 className="text-xl font-black text-[#B02A30]">{item.t}</h3>
                        <p className="text-sm opacity-70 leading-relaxed font-bold">{item.d}</p>
                     </div>
                   ))}
@@ -333,7 +333,7 @@ export default function ICICIBankSettlementPage() {
                     { t: "The NRI Debt Clear", l: "₹15L Personal Loan", s: "₹6L", text: "Client was in UK, bank was harassing parents in Punjab. We used international consumer laws to force a settlement in Mumbai Nodal office." }
                   ].map((cs, i) => (
                     <div key={i} className="p-12 bg-white border border-slate-100 rounded-[50px] shadow-sm hover:shadow-2xl transition-all border-l-[15px] border-[#F99D27]">
-                       <h5 className="text-3xl font-black text-[#B02A30] mb-4">{cs.t}</h5>
+                       <h3 className="text-3xl font-black text-[#B02A30] mb-4">{cs.t}</h3>
                        <p className="font-bold text-xl mb-4 italic">{cs.l} | {cs.s}</p>
                        <p className="opacity-70 text-lg">"{cs.text}"</p>
                     </div>
@@ -382,7 +382,7 @@ export default function ICICIBankSettlementPage() {
                     // ... 35 more FAQs implementation
                   ].map((faq, i) => (
                     <div key={i} className="pb-10 border-b border-slate-100 group">
-                       <h5 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#B02A30] transition-colors">{faq.q}</h5>
+                       <h3 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#B02A30] transition-colors">{faq.q}</h3>
                        <p className="text-lg opacity-70 leading-relaxed font-light">{faq.a}</p>
                     </div>
                   ))}
@@ -419,7 +419,7 @@ export default function ICICIBankSettlementPage() {
                
                <div className="bg-[#B02A30] rounded-[60px] p-16 text-white text-center shadow-3xl overflow-hidden relative group">
                   <div className="absolute top-0 left-0 w-full h-full bg-white/5 opacity-0 group-hover:opacity-100 transition-opacity"></div>
-                  <h3 className="text-5xl font-black mb-6 italic tracking-tighter">65%</h3>
+                  <div className="text-5xl font-black mb-6 italic tracking-tighter">65%</div>
                   <p className="text-sm font-black uppercase tracking-widest opacity-60 mb-10 leading-relaxed">Average Settlement Discount achieved in 2026</p>
                   <Link href="/contact" className="block w-full bg-white text-[#B02A30] font-black py-6 rounded-3xl hover:bg-[#F99D27] hover:text-white transition-all shadow-2xl text-xl">
                      Claim Your Rebate
@@ -427,7 +427,7 @@ export default function ICICIBankSettlementPage() {
                </div>
 
                <div className="bg-slate-900 rounded-[60px] p-12 text-white border border-white/5 shadow-2xl">
-                  <h5 className="text-xs font-black uppercase tracking-[0.3em] mb-12 text-[#F99D27]">Legal Vault</h5>
+                  <div className="text-xs font-black uppercase tracking-[0.3em] mb-12 text-[#F99D27]">Legal Vault</div>
                   <ul className="space-y-10">
                      {[
                        { l: "SARFAESI Objections", h: "/contact" },

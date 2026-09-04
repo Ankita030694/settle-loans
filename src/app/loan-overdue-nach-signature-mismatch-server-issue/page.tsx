@@ -268,9 +268,9 @@ export default function NachBounceGuidePage() {
                   Who Pays the Penalty for a Technical Bounce?
                 </h2>
                 <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4">
+                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4">
                     You Are Not Liable
-                  </h4>
+                  </h3>
                   <p className="text-lg leading-relaxed mb-6 text-blue-900">
                     If the EMI failure was caused by a technical glitch on the bank's side or an administrative error like a signature mismatch during mandate registration, <strong>you should not pay the penalty</strong>.
                   </p>
@@ -499,7 +499,7 @@ export default function NachBounceGuidePage() {
                 <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                   <div className="relative z-10">
-                    <h3 className="text-2xl font-black mb-4">Need Help with Bounce Charges?</h3>
+                    <div className="text-2xl font-black mb-4">Need Help with Bounce Charges?</div>
                     <p className="text-sm text-gray-300 mb-6">Our experts can help you dispute unfair technical bounce fees.</p>
                     <button className="w-full bg-[#1F5EFF] hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg transition-colors text-sm">
                       Talk to an Expert
@@ -509,9 +509,9 @@ export default function NachBounceGuidePage() {
 
                 {/* Card 2 (White Resources) */}
                 <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                  <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                  <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                     Related Resources
-                  </h4>
+                  </div>
                   <ul className="space-y-4">
                     {[
                       "Stop Harassment Instantly",

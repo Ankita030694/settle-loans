@@ -347,7 +347,7 @@ export default function LoanDefaultEMIAsistancePage() {
                                     <div className="text-[#1F5EFF] mb-4">
                                         <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"></path></svg>
                                     </div>
-                                    <h4 className="font-black text-lg mb-2">Right to Notice</h4>
+                                    <h3 className="font-black text-lg mb-2">Right to Notice</h3>
                                     <p className="text-sm text-gray-500">Banks cannot seize assets without a formal 60 day notice. You also have a right to a 30 day sale notice before auction.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
@@ -498,13 +498,13 @@ export default function LoanDefaultEMIAsistancePage() {
                                     <div>
                                         <h3 className="text-2xl font-black mb-6 text-[#1F5EFF]">Phase 1: Legal Shielding</h3>
                                         <p className="opacity-80 leading-relaxed mb-6">We issue legal notices to tell your bank and recovery agents that you are now represented by a legal team. This stops the harassment and centralizes all communication through us.</p>
-                                        <h5 className="font-bold text-white mb-2">Benefit:</h5>
+                                        <h4 className="font-bold text-white mb-2">Benefit:</h4>
                                         <p className="text-sm opacity-60">Immediate mental relief and restoration of your professional image.</p>
                                     </div>
                                     <div>
                                         <h3 className="text-2xl font-black mb-6 text-[#1F5EFF]">Phase 2: Strategic Exit</h3>
                                         <p className="opacity-80 leading-relaxed mb-6">We audit your accounts, find the bank's errors, and prepare a powerful settlement or restructuring proposal that is impossible for the bank to ignore.</p>
-                                        <h5 className="font-bold text-white mb-2">Benefit:</h5>
+                                        <h4 className="font-bold text-white mb-2">Benefit:</h4>
                                         <p className="text-sm opacity-60">Significant reduction in total debt and preservation of your assets.</p>
                                     </div>
                                 </div>
@@ -538,7 +538,7 @@ export default function LoanDefaultEMIAsistancePage() {
                                                 {s.user.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{s.user}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{s.user}</h3>
                                                 <p className="text-xs text-gray-400">{s.city}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -605,7 +605,7 @@ export default function LoanDefaultEMIAsistancePage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col items-center">
                                 <div className="bg-[#1F5EFF] w-full p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Stop Bank Action</h3>
+                                    <div className="text-lg font-black text-white">Stop Bank Action</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <div className="w-16 h-16 bg-[#1F5EFF]/10 rounded-full flex items-center justify-center mx-auto mb-4 border border-[#1F5EFF]/20">
@@ -621,7 +621,7 @@ export default function LoanDefaultEMIAsistancePage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Support</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Support</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/best-lawyer-for-loan-recovery-defence" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

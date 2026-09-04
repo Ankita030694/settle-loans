@@ -626,10 +626,10 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-amber-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-amber-600" />
                     <span>Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Section 25 PSSA creates a statutory dishonor provision for electronic funds transfers that parallels <strong>Section 138 of the Negotiable Instruments Act, 1881</strong>. If an electronic debit fails for insufficiency of funds, the lender can issue a statutory 30-day demand notice. However, Section 25 proceedings are quasi-criminal summons trials adjudicating civil debt dishonor—they are strictly <strong>bailable offenses</strong> where arrest never occurs at the summons stage, and standard bail is granted as a matter of legal right upon initial court appearance.
                   </p>
@@ -786,7 +786,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Digital Mandate Revocation via Destination Net Banking</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Digital Mandate Revocation via Destination Net Banking</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Log in to your destination bank&apos;s internet banking portal (e.g., HDFC NetBanking, ICICI Infinity, SBI Onlinesbi, Axis Internet Banking). Navigate to <strong>&quot;Accounts / Requests &gt; e-Mandates / NACH Mandates &gt; View / Cancel Mandate&quot;</strong>. Locate the active UMRN corresponding to the lender and click &quot;Cancel / Revoke Mandate&quot;. Capture high-resolution screenshots and download the timestamped cancellation acknowledgment receipt.
                   </p>
@@ -1178,7 +1178,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Emergency Cash-Flow Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Is Your Salary Being Drained by Auto-Debits?</h4>
+              <div className="font-bold text-base text-white mb-2">Is Your Salary Being Drained by Auto-Debits?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let continuous loan auto-debits starve your family. Retain seasoned banking advocates to legally stop ECS mandates, eliminate bounce fees, and negotiate a 45%–65% OTS.
               </p>
@@ -1192,9 +1192,9 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

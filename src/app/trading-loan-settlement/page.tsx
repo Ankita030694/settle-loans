@@ -213,7 +213,7 @@ export default function TradingLoanSettlementPage() {
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Margin Trading Facility (MTF)</h4>
+                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Margin Trading Facility (MTF)</h3>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         MTF is a popular tool among retail traders. It allows you to buy stocks by paying only a portion of the value (the margin), while the broker lends you the rest. The stocks themselves serve as collateral. If the stock prices fall sharply, the broker will issue a margin call, asking you to add more funds or shares. If you fail to do so, the broker will sell your holdings to recover the loan. If the market is falling too fast, the sale proceeds may not even cover the interest, leaving you with a negative balance.
                                     </p>
@@ -265,7 +265,7 @@ export default function TradingLoanSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Protection from Harassment</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Protection from Harassment</h3>
                                     <p className="text-sm">Recovery agents must follow the RBI's Fair Practices Code. They cannot call you before 8 AM or after 7 PM. They cannot use physical force, abusive language, or contact your social circle to shame you. If they do, you have the right to file a complaint with the Banking Ombudsman and seek damages.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -293,14 +293,14 @@ export default function TradingLoanSettlementPage() {
                                     <li className="flex items-start gap-4">
                                         <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">1</div>
                                         <div>
-                                            <h5 className="font-bold text-lg mb-1">Financial Forensic Audit</h5>
+                                            <h3 className="font-bold text-lg mb-1">Financial Forensic Audit</h3>
                                             <p className="text-base text-gray-700">We start by auditing your trading history and bank statements. We look for errors in interest calculation, wrongful margin calls, or procedural lapses by the broker. This "technical leverage" is often the key to getting a bigger discount.</p>
                                         </div>
                                     </li>
                                     <li className="flex items-start gap-4">
                                         <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0 mt-1">2</div>
                                         <div>
-                                            <h5 className="font-bold text-lg mb-1">Hardship Documentation</h5>
+                                            <h4 className="font-bold text-lg mb-1">Hardship Documentation</h4>
                                             <p className="text-base text-gray-700">We help you prepare a "Hardship File." This includes proof of your losses, your current asset liabilities statement, and any medical or family emergencies that have impacted your ability to pay. A bank needs this paper trail to justify a "haircut" to their auditors.</p>
                                         </div>
                                     </li>
@@ -358,7 +358,7 @@ export default function TradingLoanSettlementPage() {
                                 In the eyes of the Income Tax Department, "money saved is money earned." When a lender waives a part of your debt, they are essentially giving you a financial benefit. This benefit may be taxable under various provisions of the Income Tax Act.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 my-8">
-                                <h4 className="font-bold text-xl mb-4">Detailed Tax Breakdown:</h4>
+                                <h3 className="font-bold text-xl mb-4">Detailed Tax Breakdown:</h3>
                                 <ul className="space-y-6">
                                     <li className="flex items-start">
                                         <span className="text-[#1F5EFF] mr-2">✔</span>
@@ -507,7 +507,7 @@ export default function TradingLoanSettlementPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -598,7 +598,7 @@ export default function TradingLoanSettlementPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">Debt Resolution Support</h3>
+                                    <div className="text-lg font-black text-white px-2">Debt Resolution Support</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -613,7 +613,7 @@ export default function TradingLoanSettlementPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Important Links</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Important Links</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/loan-settlement-for-traders" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

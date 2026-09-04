@@ -567,10 +567,10 @@ export default function Section60CpcExemptionsPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Home className="w-4 h-4 text-blue-600" />
                     <span>Section 60(1)(a): Necessary Wearing Apparel, Cooking Utensils &amp; Bedding</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The court bailiff or executing officer is strictly barred from seizing the necessary wearing apparel, cooking vessels, beds, and bedding belonging to the judgment-debtor, their spouse, and children. Furthermore, personal ornaments of religious significance that cannot be parted with by any woman under religious usage—most notably a <strong>Mangalsutra</strong>, wedding bands, and sanctified bangles—are completely exempt.
                   </p>
@@ -811,7 +811,7 @@ export default function Section60CpcExemptionsPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Summons Audit &amp; Appearance Filing</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Summons Audit &amp; Appearance Filing</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates conduct an immediate forensic examination of the court summons (Order 37 Summary Suit or Order 21 Execution Petition). If served under Order 37, counsel files the mandatory Memorandum of Appearance within 10 calendar days to prevent an ex-parte monetary decree.
                   </p>
@@ -1199,7 +1199,7 @@ export default function Section60CpcExemptionsPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Statutory Civil Shield</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Are Banks Threatening Court Attachment?</h4>
+              <div className="font-bold text-base text-white mb-2">Are Banks Threatening Court Attachment?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let recovery agents intimidate your family or threaten to attach your salary. Retain senior civil debt advocates to invoke Section 60 CPC exemptions and negotiate a 45%–65% OTS.
               </p>
@@ -1213,9 +1213,9 @@ export default function Section60CpcExemptionsPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

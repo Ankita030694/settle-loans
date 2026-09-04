@@ -210,7 +210,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px] relative text-left">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Privacy Code</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Privacy Code</div>
                             <TableOfContents
                                 items={[
                                     { id: "ban-on-third-party-contact", title: "Third-Party Contact Ban" },
@@ -261,7 +261,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                             </p>
                             <div className="space-y-6 text-sm font-bold uppercase tracking-tighter">
                                 <div className="p-8 bg-white/50 border-l-8 border-blue-500 rounded-2xl">
-                                    <h4 className="text-xl font-black text-blue-900 mb-2 uppercase italic leading-none">Deficiency of Service</h4>
+                                    <h3 className="text-xl font-black text-blue-900 mb-2 uppercase italic leading-none">Deficiency of Service</h3>
                                     <p className="opacity-70">Any attempt to contact third parties is categorized as a "Deficiency of Service" under the Consumer Protection Act and an "Unfair Trade Practice."</p>
                                 </div>
                                 <div className="p-8 bg-white/50 border-l-8 border-blue-500 rounded-2xl">
@@ -286,7 +286,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                                 How do recovery agents get your contacts? Often through "Contact Scrapping" from unauthorized loan apps or secondary databases. Under the DPDP Act 2023, processing personal data without explicit, specific, and informed consent is a massive violation.
                             </p>
                             <div className="bg-[#1F5EFF] p-12 rounded-[64px] text-white shadow-3xl text-center relative overflow-hidden my-12 ring-[16px] ring-blue-50">
-                                <h4 className="text-2xl font-black mb-4 uppercase tracking-tighter italic leading-none">Punishable Privacy Breach</h4>
+                                <h3 className="text-2xl font-black mb-4 uppercase tracking-tighter italic leading-none">Punishable Privacy Breach</h3>
                                 <p className="text-sm font-bold opacity-90 leading-relaxed max-w-2xl mx-auto uppercase tracking-widest italic border-t border-white/20 pt-6">
                                     If a recovery agent calls a contact they found through your social media or scraped phone data, they can be penalized with fines up to 250 Crores INR at the entity level. This is why banks are now terrified of privacy litigation.
                                 </p>
@@ -298,7 +298,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                             <p className="text-xl font-bold mb-8 text-[#1F5EFF] italic decoration-gray-200 underline underline-offset-4 leading-relaxed">"If the call doesn't concern the co-borrower, it is a crime."</p>
                             <div className="grid md:grid-cols-2 gap-4">
                                 <div className="p-6 bg-white border border-gray-100 rounded-3xl shadow-sm text-center">
-                                    <h4 className="text-gray-900 text-lg font-black mb-2 italic uppercase">The 'Guilt Visit'</h4>
+                                    <h3 className="text-gray-900 text-lg font-black mb-2 italic uppercase">The 'Guilt Visit'</h3>
                                     <p className="text-[10px] font-black uppercase text-gray-400 tracking-widest">Visiting parents' house when you live elsewhere.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-3xl shadow-sm text-center">
@@ -336,7 +336,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                                 <div className="p-8 bg-[#2E2E2E] text-white rounded-3xl border-b-4 border-[#1F5EFF] hover:scale-105 transition-transform cursor-pointer group shadow-2xl">
                                     <p className="text-[#1F5EFF] font-black text-xs mb-4 uppercase tracking-[0.2em] group-hover:tracking-[0.4em] transition-all">Step 01</p>
-                                    <h4 className="text-xl font-black mb-4 leading-none italic uppercase">Issue Cease & Desist</h4>
+                                    <h3 className="text-xl font-black mb-4 leading-none italic uppercase">Issue Cease & Desist</h3>
                                     <p className="text-[10px] leading-relaxed opacity-60 font-bold uppercase">Formally notify the bank branch manager and PNO that family contact must stop immediately.</p>
                                 </div>
                                 <div className="p-8 bg-[#2E2E2E] text-white rounded-3xl border-b-4 border-[#1F5EFF] hover:scale-105 transition-transform cursor-pointer group shadow-2xl">
@@ -410,7 +410,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -472,7 +472,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group relative">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-tighter">Privacy Shield</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-tighter">Privacy Shield</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold italic uppercase">
@@ -487,7 +487,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
 
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm">
-                                <h4 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 italic leading-none">Privacy Resources</h4>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 italic leading-none">Privacy Resources</div>
                                 <nav className="space-y-4">
                                     <Link href="/can-recovery-agents-come-home" className="group flex items-center text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">
                                         <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>

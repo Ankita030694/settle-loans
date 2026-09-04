@@ -208,7 +208,7 @@ export default function FiveCroreLoanSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Incipient Stress Detection</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Incipient Stress Detection</h3>
                                     <p className="text-sm">Banks must categorize accounts showing stress as SMA-0, SMA-1, or SMA-2. This categorization triggers a proactive meeting between the bank and the borrower to discuss resolution.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
@@ -275,7 +275,7 @@ export default function FiveCroreLoanSettlementPage() {
                                 For corporate borrowers, the bank might threaten or initiate proceedings under the Insolvency and Bankruptcy Code (IBC) at the National Company Law Tribunal (NCLT). While this sounds terrifying, the reality of IBC for a 5 Crore debt is often nuanced.
                             </p>
                             <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                                <h4 className="text-xl font-bold mb-4">Section 12A: The Hidden Exit</h4>
+                                <h3 className="text-xl font-bold mb-4">Section 12A: The Hidden Exit</h3>
                                 <p className="opacity-80 leading-relaxed mb-4">Even after an NCLT case is admitted, Section 12A of the IBC allows for the withdrawal of the case if 90% of the Committee of Creditors agrees to a settlement. Many 5 Crore settlements are finalized at the very footsteps of the NCLT.</p>
                                 <p className="opacity-80 leading-relaxed">The bank knows that NCLT is a "Zero-Sum Game" where they might lose control and receive very little after liquidation. They prefer an out-of-court settlement that guarantees them a certain amount today.</p>
                             </div>
@@ -296,7 +296,7 @@ export default function FiveCroreLoanSettlementPage() {
                                     <div key={i} className="flex gap-6 items-start border-b border-[#DEDEDE] pb-6">
                                         <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black shrink-0">{i + 1}</div>
                                         <div>
-                                            <h4 className="text-xl font-black text-[#2E2E2E] mb-2">{item.title}</h4>
+                                            <h3 className="text-xl font-black text-[#2E2E2E] mb-2">{item.title}</h3>
                                             <p className="text-[#747474]">{item.desc}</p>
                                         </div>
                                     </div>
@@ -310,7 +310,7 @@ export default function FiveCroreLoanSettlementPage() {
                                 Net Present Value (NPV) is the formula banks use to compare a settlement offer today versus a full recovery through litigation in the future. Litigation costs, legal fees, and the "time value of money" are all factors.
                             </p>
                             <div className="bg-gray-50 p-10 rounded-[40px] border border-gray-200">
-                                <h4 className="text-2xl font-bold mb-6 text-center">Case: 5.5 Crore Debt</h4>
+                                <h3 className="text-2xl font-bold mb-6 text-center">Case: 5.5 Crore Debt</h3>
                                 <div className="space-y-4">
                                     <div className="flex justify-between border-b border-gray-200 pb-2 italic">
                                         <span>Expected Recovery via DRT (6 Years)</span>
@@ -374,7 +374,7 @@ export default function FiveCroreLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -393,7 +393,7 @@ export default function FiveCroreLoanSettlementPage() {
                             <p className="text-lg leading-relaxed mb-6">Even with a 5 Crore default, you have fundamental legal rights that the bank cannot ignore.</p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Right to Fair Valuation</h4>
+                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Right to Fair Valuation</h3>
                                     <p className="leading-relaxed text-gray-600">The bank must obtain two independent valuation reports from approved valuers. You have the right to challenge these valuations in the DRT if they are unfairly low.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
@@ -448,7 +448,7 @@ export default function FiveCroreLoanSettlementPage() {
                                     { q: "How long is the validity of a bank's OTS offer?", a: "Typically, an OTS offer is valid for 15 to 30 days. You must accept and pay the initial upfront amount within this window." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{i + 1}. {faq.q}</h4>
+                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{i + 1}. {faq.q}</h3>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -473,7 +473,7 @@ export default function FiveCroreLoanSettlementPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">High-Value Support</h3>
+                                    <div className="text-lg font-black text-white">High-Value Support</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -487,7 +487,7 @@ export default function FiveCroreLoanSettlementPage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related High-Stake Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related High-Stake Guides</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/10-crore-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

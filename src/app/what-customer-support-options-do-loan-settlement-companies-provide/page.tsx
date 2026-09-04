@@ -251,7 +251,7 @@ export default function SupportOptionsPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                  <h4 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs tracking-wider">Contextual Awareness</h4>
+                  <h3 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs tracking-wider">Contextual Awareness</h3>
                   <p className="text-sm opacity-80 leading-relaxed">Your manager knows your story. They don't need to read a script. They know exactly why you defaulted – whether it was a medical bill or a business crash.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
@@ -337,7 +337,7 @@ export default function SupportOptionsPage() {
                 We meet you where you are. Whether it is a quick update on WhatsApp, a detailed strategy over Email, or a voice call during a moment of crisis, our support is truly omnichannel. We understand that in a financial emergency, every second counts. Our systems are integrated so that a message sent on WhatsApp is visible to your case manager on their desktop instantly, allowing for a seamless transition between devices and channels.
               </p>
               <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm mb-8 overflow-hidden">
-                <h4 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider text-xs">Our Delivery Standards</h4>
+                <h3 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider text-xs">Our Delivery Standards</h3>
                 <div className="overflow-x-auto">
                    <table className="w-full text-left text-sm">
                      <thead className="border-b border-[#DEDEDE]">
@@ -379,7 +379,7 @@ export default function SupportOptionsPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-12 text-left">
                 <div className="p-6 border border-[#DEDEDE] rounded-2xl group hover:border-[#1F5EFF] transition-colors shadow-sm">
-                  <h4 className="text-lg font-bold mb-3 uppercase tracking-tight text-[#1F5EFF]">Zero-Guaranty Policy</h4>
+                  <h3 className="text-lg font-bold mb-3 uppercase tracking-tight text-[#1F5EFF]">Zero-Guaranty Policy</h3>
                   <p className="text-sm opacity-80 leading-relaxed mb-4">We are honest about the fact that settlements depend on bank approval and credit policy. We don't "guarantee" 100% success; we guarantee 100% effort and professional strategy based on historical data. This honesty is the foundation of our trust with our clients.</p>
                 </div>
                 <div className="p-6 border border-[#DEDEDE] rounded-2xl group hover:border-[#1F5EFF] transition-colors shadow-sm">
@@ -417,14 +417,14 @@ export default function SupportOptionsPage() {
                  <div className="flex gap-6 items-start">
                    <div className="w-12 h-12 shrink-0 bg-blue-50 rounded-lg flex items-center justify-center font-bold text-xl text-[#1F5EFF]">T1</div>
                    <div>
-                     <h5 className="text-lg font-bold uppercase mb-2">Recovery Stop Desk</h5>
+                     <h3 className="text-lg font-bold uppercase mb-2">Recovery Stop Desk</h3>
                      <p className="text-sm opacity-70 leading-relaxed">Immediate intervention with the bank's regional recovery head to stop illegal doorstep visits. Usually resolved within 2 hours.</p>
                    </div>
                  </div>
                  <div className="flex gap-6 items-start">
                    <div className="w-12 h-12 shrink-0 bg-blue-50 rounded-lg flex items-center justify-center font-bold text-xl text-[#1F5EFF]">T2</div>
                    <div>
-                     <h5 className="text-lg font-bold uppercase mb-2">Nodal Officer Liaison</h5>
+                     <h4 className="text-lg font-bold uppercase mb-2">Nodal Officer Liaison</h4>
                      <p className="text-sm opacity-70 leading-relaxed">Formal legal complaint to the bank's Nodal Officer citing specific violations of the RBI Fair Practice Code.</p>
                    </div>
                  </div>
@@ -527,7 +527,7 @@ export default function SupportOptionsPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">The Support Desk</h3>
+                  <div className="text-lg font-black text-white">The Support Desk</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -542,7 +542,7 @@ export default function SupportOptionsPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement-lawyers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

@@ -820,10 +820,10 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <li><strong>Zero Tolerance for Coercion &amp; Threats:</strong> Using abusive language, threatening physical harm, or falsely claiming that police officers will arrest the patient constitutes punishable criminal intimidation under the Bharatiya Nyaya Sanhita.</li>
               </ul>
               <div className="bg-slate-50 border border-slate-200 rounded-xl p-5 my-6">
-                <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-2 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-2 flex items-center gap-2">
                   <Gavel className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Enforcement &amp; Ombudsman Escalation Mechanism</span>
-                </h4>
+                </h3>
                 <p className="text-xs text-slate-600 leading-relaxed">
                   When collection agencies violate these statutory safeguards, specialized legal advocates issue a formal <strong>Legal Cease-and-Desist Notice</strong> to the bank&apos;s Managing Director and Principal Nodal Officer (PNO), attaching hospital admission records. If the harassment continues, a formal complaint is escalated to the <strong>RBI Integrated Ombudsman Portal (<a href="https://cms.rbi.org.in" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] underline font-semibold">cms.rbi.org.in</a>)</strong>. Under the Ombudsman scheme, banks face mandatory regulatory reprimands, institutional fines, and monetary compensation orders awarded directly to the distressed borrower.
                 </p>
@@ -874,10 +874,10 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-1 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">1</span>
                     <span>Audit &amp; Medical Dossier Assembly</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Collate all hospital discharge summaries, inpatient invoices, TPA claim vouchers, treating physician prognosis certificates, and 12-month stamped bank account statements establishing total savings exhaustion.
                   </p>
@@ -1213,14 +1213,14 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                   </div>
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -1253,9 +1253,9 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Medical Hardship Advisory</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Exhausted Savings on Hospitalization &amp; Facing Loan Default?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Stop aggressive recovery calls and repeated NACH return fees immediately. Let our experienced banking advocates compile your formal medical hardship dossier, reply to statutory legal notices, and negotiate an authorized 50% to 75% OTS debt waiver with your lenders.
               </p>
@@ -1269,10 +1269,10 @@ export default function MedicalEmergencyLoanDefaultSettlementPage() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Distressed Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

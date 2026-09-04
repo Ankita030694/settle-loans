@@ -197,7 +197,7 @@ export default function WorkplaceHarassmentPage() {
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Directives Protecting Your Employment</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Directives Protecting Your Employment</h3>
                 <ul className="space-y-4">
                   <li className="flex gap-3 items-start">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -316,7 +316,7 @@ export default function WorkplaceHarassmentPage() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Sending a Legal Cease-and-Desist Notice</h2>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">Warning: Do Not Ignore Workplace Threats</h4>
+                <h3 className="text-xl font-black text-red-700 mb-4">Warning: Do Not Ignore Workplace Threats</h3>
                 <p className="text-lg text-red-900">
                   Ignoring threats of workplace harassment often encourages aggressive agents to follow through. A single phone call to your HR department can jeopardize a career you've spent years building. You must draw a strict legal boundary immediately. Silence is treated as weakness by recovery agencies.
                 </p>
@@ -417,7 +417,7 @@ export default function WorkplaceHarassmentPage() {
               {/* Card 1 (Dark CTA) */}
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                <h3 className="text-2xl font-black mb-4 relative z-10">Agents Calling Your Boss?</h3>
+                <div className="text-2xl font-black mb-4 relative z-10">Agents Calling Your Boss?</div>
                 <p className="text-gray-300 text-sm mb-6 relative z-10">Stop the harassment legally and protect your employment reputation.</p>
                 <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-bold py-3 px-6 rounded-lg hover:bg-blue-600 transition-colors relative z-10">
                   Send Legal Notice
@@ -426,7 +426,7 @@ export default function WorkplaceHarassmentPage() {
 
               {/* Card 2 (White Resources) */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Legal Resources</h4>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Legal Resources</div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/rbi-guidelines-for-loan-recovery-agents" className="flex items-center text-sm text-gray-600 hover:text-[#1F5EFF] group">

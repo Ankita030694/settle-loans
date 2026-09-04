@@ -523,10 +523,10 @@ export default function HighCourtWritBankHarassmentPage() {
               </p>
 
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-4 rounded-r-xl my-4">
-                <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
+                <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                   <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Constitutional Mandate: The High Court as the Protector of Fundamental Liberties</span>
-                </h4>
+                </h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                   The extraordinary jurisdiction under Article 226 is designed precisely to dismantle unlawful state or corporate excesses. When lending institutions weaponize intimidation and the administrative police machinery refuses to shield distressed citizens, the High Court exercises its equitable jurisdiction to restore constitutional order and personal safety.
                 </p>
@@ -606,10 +606,10 @@ export default function HighCourtWritBankHarassmentPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <AlertOctagon className="w-4 h-4 text-rose-600" />
                     <span>Extortion &amp; Threat to Person (BNS Sec. 308 / IPC 384)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Intentionally putting any person in fear of injury, bodily harm, or public dishonor to extort money or property constitutes criminal extortion. Demanding upfront spot cash through physical threats triggers immediate penal liability.
                   </p>
@@ -834,10 +834,10 @@ export default function HighCourtWritBankHarassmentPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Gavel className="w-4 h-4 text-rose-600" />
                     <span>Civil Contempt (Section 2(b) Contempt of Courts Act)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Willful disobedience of any judgment, decree, direction, order, writ, or other process of a court. Bank Managing Directors and Zonal Heads are personally liable for failure to enforce the court&apos;s stay among their outsourced collection agencies.
                   </p>
@@ -889,10 +889,10 @@ export default function HighCourtWritBankHarassmentPage() {
               </p>
 
               <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200 space-y-3 my-6">
-                <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                   <Check className="w-4 h-4 text-emerald-600" />
                   <span>The High Court Dual-Track Resolution Mechanism</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <strong className="text-slate-900 block mb-1">Track A: Relentless Constitutional Pressure</strong>
@@ -1183,7 +1183,7 @@ export default function HighCourtWritBankHarassmentPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Urgent High Court Legal Shield</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Facing Physical Threats or Extortion?</h4>
+              <div className="font-bold text-base text-white mb-2">Facing Physical Threats or Extortion?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not suffer unconstitutional harassment in silence. Engage senior High Court advocates to file an Article 226 Writ Petition for immediate police protection and stay orders.
               </p>
@@ -1197,9 +1197,9 @@ export default function HighCourtWritBankHarassmentPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Constitutional Safeguards
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

@@ -286,7 +286,7 @@ export default function MortgageDefaultNoticePage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-10">
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm border-t-4 border-t-[#1F5EFF]">
-                                    <h5 className="font-bold mb-3">What the Notice Must Include</h5>
+                                    <h3 className="font-bold mb-3">What the Notice Must Include</h3>
                                     <ul className="text-sm space-y-2 opacity-80">
                                         <li>• Exact bifurcation of principal and interest.</li>
                                         <li>• Date of NPA classification.</li>
@@ -295,7 +295,7 @@ export default function MortgageDefaultNoticePage() {
                                     </ul>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm border-t-4 border-t-[#1F5EFF]">
-                                    <h5 className="font-bold mb-3">Critical Deadlines</h5>
+                                    <h4 className="font-bold mb-3">Critical Deadlines</h4>
                                     <ul className="text-sm space-y-2 opacity-80">
                                         <li>• 15 Days: Time for bank to reply to your objection.</li>
                                         <li>• 60 Days: Total time to pay before 13(4) action.</li>
@@ -353,21 +353,21 @@ export default function MortgageDefaultNoticePage() {
                                 <div className="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center shrink-0 font-bold">1</div>
                                     <div>
-                                        <h6 className="font-bold mb-1">Stay on Auction</h6>
+                                        <h3 className="font-bold mb-1">Stay on Auction</h3>
                                         <p className="text-sm opacity-70 leading-relaxed">Filing an urgent application in the DRT to stop the public sale of the house or land.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center shrink-0 font-bold">2</div>
                                     <div>
-                                        <h6 className="font-bold mb-1">Challenging Valuation</h6>
+                                        <h4 className="font-bold mb-1">Challenging Valuation</h4>
                                         <p className="text-sm opacity-70 leading-relaxed">Banks often undervalue properties to ensure a quick sale. We bring independent valuers to prove the real market value, forcing the court to stop the 'undervalued' auction.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-4 p-5 bg-gray-50 rounded-xl border border-gray-100">
                                     <div className="w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center shrink-0 font-bold">3</div>
                                     <div>
-                                        <h6 className="font-bold mb-1">Right of Redemption</h6>
+                                        <h5 className="font-bold mb-1">Right of Redemption</h5>
                                         <p className="text-sm opacity-70 leading-relaxed">Under Section 60 of the Transfer of Property Act, you have a right to get your property back by paying the dues any time before the final transfer of title. We help you exercise this right effectively.</p>
                                     </div>
                                 </div>
@@ -468,7 +468,7 @@ export default function MortgageDefaultNoticePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -568,10 +568,10 @@ export default function MortgageDefaultNoticePage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white flex items-center justify-center gap-2">
+                                    <div className="text-lg font-black text-white flex items-center justify-center gap-2">
                                         <FontAwesomeIcon icon={faFileShield} />
                                         Notice Defense
-                                    </h3>
+                                    </div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-extrabold uppercase tracking-tight">
@@ -591,7 +591,7 @@ export default function MortgageDefaultNoticePage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Defense</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Defense</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/best-lawyer-for-msme-business-loan-dispute" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

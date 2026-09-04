@@ -310,7 +310,7 @@ export default function DRTCaseDefencePage() {
                                 The SARFAESI Act allows banks to take property without going to a regular court. This is a massive power, and because it is so extreme, the courts demand 'Punctilious Compliance'. Any deviation from the SARFAESI (Enforcement) Rules, 2002, is treated as a breach of 'Due Process'. We look for 'Lethal Defects' in three specific areas:
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The 'Fatal Five' SARFAESI Errors:</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The 'Fatal Five' SARFAESI Errors:</h3>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3 text-blue-800">
                                         <div className="w-6 h-6 rounded-full bg-blue-600 text-white flex items-center justify-center font-bold flex-shrink-0 mt-0.5 text-xs">1</div>
@@ -375,7 +375,7 @@ export default function DRTCaseDefencePage() {
                                 To stay an auction, we file a 'Securitisation Application' (SA) combined with an 'Interim Stay Application' (IA). We don't just ask for mercy; we point out specific rule violations. For example, Rule 8(6) requires a 30-day notice for the first sale, and Rule 9(1) requires a 15-day notice for subsequent sales. If the bank counted 29 days instead of 30, the auction cannot proceed.
                             </p>
                             <div className="bg-amber-50 p-8 rounded-xl border border-amber-200 my-8">
-                                <h4 className="text-xl font-bold text-amber-900 mb-4">The "Pre-Deposit" Myth at Stay Stage</h4>
+                                <h3 className="text-xl font-bold text-amber-900 mb-4">The "Pre-Deposit" Myth at Stay Stage</h3>
                                 <p className="text-sm text-amber-800 leading-relaxed mb-4">
                                     Many borrowers believe they must pay 50% of the debt to even get a hearing in DRT. This is NOT true for the initial stay. While an appeal to the DRAT (Appellate Tribunal) requires a 50% deposit, the DRT (Original Tribunal) can hear your case and even grant a stay with much smaller deposits, or sometimes no deposit if we prove a 'Prima Facie' illegality.
                                 </p>
@@ -431,7 +431,7 @@ export default function DRTCaseDefencePage() {
                                 We help MSME owners use their 'Registration' as a shield. If the bank ignored your 'Restructuring Request' or didn't follow the 'Priority Sector Lending' (PSL) guidelines regarding collateral-free loans up to certain limits, we raise these as 'Violations of Mandatory Directions'. The DRT is increasingly sympathetic to genuine MSMEs facing systemic hurdles.
                             </p>
                             <div className="bg-gray-50 border border-gray-200 p-8 rounded-2xl mb-8">
-                                <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Technical Leverage for Businesses:</h4>
+                                <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Technical Leverage for Businesses:</h3>
                                 <p className="mb-4 text-gray-700 leading-relaxed text-sm">
                                     MSMEs can also transition their disputes to the MSME Facilitation Council (MSEFC) if the lender has committed breaches that involve 'Delayed Payments' or 'Counter-Claims' for losses. By creating a 'Concurrent Jurisdiction' scenario, we force the bank to think twice before proceeding with an aggressive property seizure.
                                 </p>
@@ -445,7 +445,7 @@ export default function DRTCaseDefencePage() {
                                     <div className="flex items-center mb-6">
                                         <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 mr-4">K</div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E]">Homeowner, Ahmedabad</h4>
+                                            <h3 className="font-bold text-[#2E2E2E]">Homeowner, Ahmedabad</h3>
                                             <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">Wrongful NPA Quashed</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -524,7 +524,7 @@ export default function DRTCaseDefencePage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">DRT Case Defence</h3>
+                                    <div className="text-lg font-black text-white">DRT Case Defence</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -539,7 +539,7 @@ export default function DRTCaseDefencePage() {
 
                             {/* Related Pages */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Technical Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Technical Resources</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/best-lawyer-for-loan-settlement-during-drt" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

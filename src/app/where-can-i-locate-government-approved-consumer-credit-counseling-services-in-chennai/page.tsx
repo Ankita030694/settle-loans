@@ -593,7 +593,7 @@ export default function ChennaiCreditCounselingPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -670,7 +670,7 @@ export default function ChennaiCreditCounselingPage() {
               <div className="bg-[#1a1a1a] rounded-3xl shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group p-1 ring-1 ring-[#1F5EFF]/20">
                 <div className="bg-[#1F5EFF] p-6 text-center rounded-t-2xl relative overflow-hidden">
                    <div className="absolute inset-0 bg-gradient-to-br from-white/20 to-transparent"></div>
-                  <h3 className="text-xl font-black text-white italic tracking-tighter uppercase relative z-10">Financial Shield</h3>
+                  <div className="text-xl font-black text-white italic tracking-tighter uppercase relative z-10">Financial Shield</div>
                 </div>
                 <div className="p-8 text-center bg-gradient-to-b from-[#222] to-[#111]">
                   <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold italic tracking-tight underline decoration-[#1F5EFF]/30">
@@ -687,7 +687,7 @@ export default function ChennaiCreditCounselingPage() {
               </div>
 
               <div className="bg-white p-8 rounded-3xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
-                <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#747474] mb-6 border-b border-gray-100 pb-3 italic underline text-center">Relevant Debt Advice</h3>
+                <div className="text-xs font-black uppercase tracking-[0.2em] text-[#747474] mb-6 border-b border-gray-100 pb-3 italic underline text-center">Relevant Debt Advice</div>
                 <ul className="space-y-5 text-[12px] font-black italic tracking-tight">
                   <li>
                     <Link href="/loan-settlement-lawyers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors gap-3">

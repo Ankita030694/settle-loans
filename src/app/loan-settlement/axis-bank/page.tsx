@@ -288,7 +288,7 @@ export default function AxisBankSettlementPage() {
                   </p>
                   <div className="grid md:grid-cols-2 gap-12">
                      <div className="p-8 bg-white/5 rounded-3xl border border-white/10">
-                        <h4 className="text-2xl font-black mb-4">Input: Behavioral Scoring</h4>
+                        <h3 className="text-2xl font-black mb-4">Input: Behavioral Scoring</h3>
                         <p className="opacity-60 text-lg text-white">The model tracks every interaction, call duration, and frequency. A 'Panicked' response increases the recovery target. A 'Professional/Legal' response shifts the score toward 'Litigation Risk,' prompting a faster settlement suggestion.</p>
                      </div>
                      <div className="p-8 bg-white/5 rounded-3xl border border-white/10">
@@ -378,7 +378,7 @@ export default function AxisBankSettlementPage() {
                     { t: "NDC Reference Number", d: "A 16-digit code on your closure letter; we verify this through the Axis backend." }
                   ].map((item, i) => (
                     <div key={i} className="pb-6 border-b border-slate-200">
-                       <h6 className="text-xl font-black text-[#971647]">{item.t}</h6>
+                       <h3 className="text-xl font-black text-[#971647]">{item.t}</h3>
                        <p className="text-sm opacity-70 font-bold">{item.d}</p>
                     </div>
                   ))}
@@ -419,7 +419,7 @@ export default function AxisBankSettlementPage() {
                   </p>
                   <div className="grid md:grid-cols-2 gap-8">
                      <div className="p-10 bg-slate-50 rounded-[40px]">
-                        <h4 className="text-2xl font-black mb-4">Citi IndianOil Cards</h4>
+                        <h3 className="text-2xl font-black mb-4">Citi IndianOil Cards</h3>
                         <p className="text-sm opacity-70">If you defaulted on this co-branded card, the 'IndianOil' partnership terms often include specific 'Dispute Resolution' clauses that migrated to Axis. We use these to challenge late fees that were applied during the migration blackout periods.</p>
                      </div>
                      <div className="p-10 bg-slate-50 rounded-[40px]">
@@ -502,7 +502,7 @@ export default function AxisBankSettlementPage() {
                     { t: "The Burgundy Account Resolution", l: "₹45L Multi-Product Debt", s: "Discreet Settlement", text: "A high-net-worth client had overlapping defaults on a personal loan and premium card. We utilized his Relationship Manager to reach the 'Axis House' resolution desk directly, securing a discreet settlement that preserved his business reputation." }
                   ].map((cs, i) => (
                     <div key={i} className="p-12 bg-white border border-slate-100 rounded-[50px] shadow-sm hover:shadow-2xl transition-all border-l-[15px] border-[#971647]">
-                       <h5 className="text-3xl font-black text-[#971647] mb-4">{cs.t}</h5>
+                       <h3 className="text-3xl font-black text-[#971647] mb-4">{cs.t}</h3>
                        <p className="font-bold text-xl mb-4 italic">{cs.l} | {cs.s}</p>
                        <p className="opacity-70 text-lg">"{cs.text}"</p>
                     </div>
@@ -521,7 +521,7 @@ export default function AxisBankSettlementPage() {
                     { q: "What is an Axis Bank 'Recall of Credit'? ", a: "This is a formal step where Axis terminates your privilege to pay in EMIs and demands the full amount immediately. This is the signal that you need professional legal representation immediately." }
                   ].map((faq, i) => (
                     <div key={i} className="pb-10 border-b border-slate-100 group">
-                       <h5 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#971647] transition-colors">{faq.q}</h5>
+                       <h3 className="text-2xl font-black text-[#1a202c] mb-4 group-hover:text-[#971647] transition-colors">{faq.q}</h3>
                        <p className="text-lg opacity-70 leading-relaxed font-light">{faq.a}</p>
                     </div>
                   ))}
@@ -579,7 +579,7 @@ export default function AxisBankSettlementPage() {
             <div className="sticky top-24 space-y-12">
                
                <div className="bg-[#971647] rounded-[60px] p-16 text-white text-center shadow-3xl overflow-hidden relative group">
-                  <h3 className="text-3xl font-black mb-6 italic tracking-tighter">75%</h3>
+                  <div className="text-3xl font-black mb-6 italic tracking-tighter">75%</div>
                   <p className="text-sm font-black uppercase tracking-widest opacity-60 mb-10 leading-relaxed">Max Potential Axis & Citi Card Haircut in 2026</p>
                   <Link href="/contact" className="block w-full bg-white text-[#971647] font-black py-6 rounded-3xl hover:bg-slate-900 hover:text-white transition-all shadow-2xl text-xl">
                      Verify Your Exit Map
@@ -587,7 +587,7 @@ export default function AxisBankSettlementPage() {
                </div>
 
                <div className="bg-slate-900 rounded-[60px] p-12 text-white border border-white/5 shadow-2xl">
-                  <h5 className="text-xs font-black uppercase tracking-[0.3em] mb-12 text-[#971647]">Axis Resources</h5>
+                  <div className="text-xs font-black uppercase tracking-[0.3em] mb-12 text-[#971647]">Axis Resources</div>
                   <ul className="space-y-10">
                      {[
                        { l: "Citi Migration Audit", h: "/contact" },

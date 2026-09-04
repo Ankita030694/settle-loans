@@ -503,7 +503,7 @@ export default function ProfessionalServicesPage() {
               </p>
               <div className="space-y-8 my-10">
                 <div className="border-l-4 border-[#1F5EFF] pl-6 py-4 bg-gray-50 rounded-r-xl shadow-sm">
-                  <h4 className="font-black text-xl mb-2 uppercase text-indigo-800">The Family Shield Program</h4>
+                  <h3 className="font-black text-xl mb-2 uppercase text-indigo-800">The Family Shield Program</h3>
                   <p className="text-sm text-gray-700 leading-relaxed mb-2 font-bold italic">SettleLoans focuses on protecting the borrower's social standing. They provide training on how to handle calls from friends and family members who might be contacted by unethical recovery agents.</p>
                   <p className="text-sm text-gray-500">They provide a 'Privacy Shield' that minimizes the social impact of your financial struggle, ensuring that your parents or neighbors aren't dragged into your personal debt battle.</p>
                 </div>
@@ -672,7 +672,7 @@ export default function ProfessionalServicesPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white uppercase tracking-wider">Level the Field</h3>
+                  <div className="text-lg font-black text-white uppercase tracking-wider">Level the Field</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -687,7 +687,7 @@ export default function ProfessionalServicesPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Negotiation Tools</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Negotiation Tools</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement-process-step-by-step-guide" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

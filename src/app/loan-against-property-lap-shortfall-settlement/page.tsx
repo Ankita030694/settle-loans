@@ -600,7 +600,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-sm flex-shrink-0">1</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">Breach of Mandatory 30-Day Individual Sale Notice (Rule 8(6))</h4>
+                    <h3 className="font-bold text-slate-900">Breach of Mandatory 30-Day Individual Sale Notice (Rule 8(6))</h3>
                     <p className="text-slate-600 leading-relaxed">
                       The bank must serve an individual 30-day notice of sale directly to the borrower and guarantors before publishing the public auction advertisement. The Supreme Court in <em>Mathew Varghese</em> ruled that failure to maintain a clear 30-day gap between individual service and public sale invalidates the auction entirely.
                     </p>
@@ -751,10 +751,10 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
               </p>
 
               <div className="p-5 rounded-2xl border border-blue-200 bg-blue-50/70 space-y-3 my-4">
-                <h4 className="font-bold text-blue-950 text-sm flex items-center gap-2">
+                <h3 className="font-bold text-blue-950 text-sm flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory Clauses in a LAP Shortfall Settlement Sanction Letter</span>
-                </h4>
+                </h3>
                 <ul className="space-y-2 text-xs sm:text-sm text-blue-900">
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -1050,7 +1050,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Legal Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Property Auctioned or Facing a Shortfall Notice?</h4>
+              <div className="font-bold text-base text-white mb-2">Property Auctioned or Facing a Shortfall Notice?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not pay inflated post-mortgage shortfall demands. Hire experienced DRT debt defense advocates to challenge illegal auction undervaluation and negotiate a complete ₹0 residual settlement.
               </p>
@@ -1064,9 +1064,9 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

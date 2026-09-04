@@ -295,7 +295,7 @@ export default function BanksBlacklistAfterSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-8">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase">The 'Settled' Status</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase">The 'Settled' Status</h3>
                                     <p className="text-sm text-gray-600 mb-4">You and the bank agreed on a lower amount. You paid that amount. The account is closed, but with a loss to the bank.</p>
                                     <p className="text-xs text-gray-500 font-bold italic">Bank's view: "This person is a risk, but they are communicative and tried to pay something."</p>
                                 </div>
@@ -348,7 +348,7 @@ export default function BanksBlacklistAfterSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-2xl shadow-md">
-                                    <h4 className="text-xl font-bold mb-4 text-[#1F5EFF] uppercase border-b-2 border-blue-50 pb-2">Individual Credit Identity</h4>
+                                    <h3 className="text-xl font-bold mb-4 text-[#1F5EFF] uppercase border-b-2 border-blue-50 pb-2">Individual Credit Identity</h3>
                                     <p className="text-sm leading-relaxed text-gray-700">
                                         In India, credit scores are tied to individual PAN and Aadhaar cards. Your wife's credit score is independent of yours. If she has a clean history and her own income, your settlement has <strong>zero direct impact</strong> on her creditworthiness.
                                     </p>
@@ -422,12 +422,12 @@ export default function BanksBlacklistAfterSettlementPage() {
                             <div className="grid md:grid-cols-4 gap-4 mb-8">
                                 <div className="p-6 bg-[#2E2E2E] text-white rounded-xl text-center">
                                     <span className="text-2xl font-black block mb-2 text-[#1F5EFF]">01</span>
-                                    <h5 className="font-bold text-xs uppercase mb-2">Month 0-6</h5>
+                                    <h3 className="font-bold text-xs uppercase mb-2">Month 0-6</h3>
                                     <p className="text-[10px] opacity-70 italic">NO NEW LOANS. Let the settlement settle on your report. Open a high-balance savings account in a NEW bank.</p>
                                 </div>
                                 <div className="p-6 bg-[#2E2E2E] text-white rounded-xl text-center">
                                     <span className="text-2xl font-black block mb-2 text-[#1F5EFF]">02</span>
-                                    <h5 className="font-bold text-xs uppercase mb-2">Month 7-12</h5>
+                                    <h4 className="font-bold text-xs uppercase mb-2">Month 7-12</h4>
                                     <p className="text-[10px] opacity-70 italic">Get a Secured Credit Card. Pay a fixed deposit of ₹50,000 and get a card with a ₹40,000 limit. Use it for small bills only.</p>
                                 </div>
                                 <div className="p-6 bg-[#2E2E2E] text-white rounded-xl text-center">
@@ -477,7 +477,7 @@ export default function BanksBlacklistAfterSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -721,7 +721,7 @@ export default function BanksBlacklistAfterSettlementPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase">Expert Help</h3>
+                                    <div className="text-lg font-black text-white uppercase">Expert Help</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -733,7 +733,7 @@ export default function BanksBlacklistAfterSettlementPage() {
                                 </div>
                             </div>
                             <div className="bg-white p-8 rounded-[30px] border border-[#DEDEDE] shadow-sm">
-                                <h4 className="font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Decision Tools</h4>
+                                <div className="font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Decision Tools</div>
                                 <ul className="space-y-4">
                                     <li><Link href="/can-you-get-a-loan-again-after-settling-a-previous-loan" className="text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Can You Loan Again?</Link></li>
                                     <li><Link href="/is-loan-settlement-a-good-option-for-borrowers" className="text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors flex items-center gap-2"><div className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full"></div> Is Settlement Good?</Link></li>

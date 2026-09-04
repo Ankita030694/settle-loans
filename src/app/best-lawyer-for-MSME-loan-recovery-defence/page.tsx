@@ -252,7 +252,7 @@ export default function MSMELoanRecoveryDefencePage() {
                                 <li className="flex items-start gap-4">
                                     <div className="bg-blue-100 p-3 rounded-lg text-blue-600 mt-1"><FontAwesomeIcon icon={faShieldAlt} /></div>
                                     <div>
-                                        <h4 className="font-bold text-xl text-[#2E2E2E]">1. The SARFAESI Act, 2002</h4>
+                                        <h3 className="font-bold text-xl text-[#2E2E2E]">1. The SARFAESI Act, 2002</h3>
                                         <p className="text-gray-600">The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act is the bank's most potent weapon. It allows secured creditors to recover dues without the involvement of a court or tribunal, provided the debt is over ₹1 lakh (or ₹20 lakh for certain NBFCs).</p>
                                     </div>
                                 </li>
@@ -418,7 +418,7 @@ export default function MSMELoanRecoveryDefencePage() {
                                 Banks frequently offer OTS schemes, especially at the end of the financial year. However, the first offer from a bank is rarely the best one. They will try to maximize recovery. With an expert lawyer by your side, you can point out the weaknesses in their security (e.g., faulty documentation, legal stays) to negotiate the "Haircut" (the discount on the debt).
                             </p>
                             <div className="bg-gray-100 p-8 rounded-2xl border-l-8 border-[#2E2E2E]">
-                                <h4 className="font-bold text-xl mb-4">Key Elements of a Successful OTS:</h4>
+                                <h3 className="font-bold text-xl mb-4">Key Elements of a Successful OTS:</h3>
                                 <ul className="space-y-3 font-medium">
                                     <li>- Accurate calculation of the principal amount vs inflated interest.</li>
                                     <li>- Clear proof of why the business cannot pay the full amount (Audited balance sheets).</li>
@@ -438,12 +438,12 @@ export default function MSMELoanRecoveryDefencePage() {
                             <div className="grid md:grid-cols-2 gap-6 my-10">
                                 <div className="p-6 border border-gray-200 rounded-2xl hover:bg-blue-50 transition-colors">
                                     <FontAwesomeIcon icon={faShieldAlt} className="text-[#1F5EFF] text-3xl mb-4" />
-                                    <h5 className="font-bold text-lg mb-2">Procedural Expertise</h5>
+                                    <h3 className="font-bold text-lg mb-2">Procedural Expertise</h3>
                                     <p className="text-sm text-gray-600">Identifying minor flaws in the bank's notices that can lead to major stays.</p>
                                 </div>
                                 <div className="p-6 border border-gray-200 rounded-2xl hover:bg-blue-50 transition-colors">
                                     <FontAwesomeIcon icon={faBriefcase} className="text-[#1F5EFF] text-3xl mb-4" />
-                                    <h5 className="font-bold text-lg mb-2">Restructuring Knowledge</h5>
+                                    <h4 className="font-bold text-lg mb-2">Restructuring Knowledge</h4>
                                     <p className="text-sm text-gray-600">Knowing how to force the bank to restructure your loan under RBI guidelines.</p>
                                 </div>
                                 <div className="p-6 border border-gray-200 rounded-2xl hover:bg-blue-50 transition-colors">
@@ -482,7 +482,7 @@ export default function MSMELoanRecoveryDefencePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -502,7 +502,7 @@ export default function MSMELoanRecoveryDefencePage() {
                             </h2>
                             <div className="space-y-8">
                                 <div className="p-8 bg-white border border-gray-100 rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-xl text-[#2E2E2E] mb-4">1. Is it mandatory for banks to follow RBI restructuring guidelines?</h4>
+                                    <h3 className="font-black text-xl text-[#2E2E2E] mb-4">1. Is it mandatory for banks to follow RBI restructuring guidelines?</h3>
                                     <p className="text-gray-600 leading-relaxed font-medium">Yes. The Supreme Court in various judgments and the RBI in its 2016-17 Master Circulars have made it mandatory for banks to consider restructuring for MSMEs before tagging them as NPA. Failure to do so can be used to challenge a SARFAESI notice.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-gray-100 rounded-3xl shadow-sm">
@@ -563,7 +563,7 @@ export default function MSMELoanRecoveryDefencePage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">We are in This Together</h3>
+                                    <div className="text-lg font-black text-white px-2">We are in This Together</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -578,7 +578,7 @@ export default function MSMELoanRecoveryDefencePage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/best-lawyer-for-msme-business-loan-dispute" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

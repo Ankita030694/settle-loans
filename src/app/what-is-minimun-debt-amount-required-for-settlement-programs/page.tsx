@@ -253,7 +253,7 @@ export default function MinimumDebtPage() {
                 Non-Banking Financial Companies (NBFCs) have different legal teeth than banks. One of the most important metrics for NBFCs is the SARFAESI (Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest) Act threshold.
               </p>
               <div className="p-6 bg-[#2B2B2B] text-[#DEDEDE] rounded-2xl mb-8 border-l-4 border-[#1F5EFF]">
-                <h4 className="font-bold text-xl mb-3 uppercase tracking-widest text-[#1F5EFF]">Legal Fact Check</h4>
+                <h3 className="font-bold text-xl mb-3 uppercase tracking-widest text-[#1F5EFF]">Legal Fact Check</h3>
                 <p className="leading-[1.4]">
                   As of 2021, NBFCs with an asset size of ₹100 crore or more can only initiate SARFAESI recovery (which includes seizing assets without court intervention) for loan amounts of <strong>₹20 lakh or more</strong>. 
                 </p>
@@ -283,7 +283,7 @@ export default function MinimumDebtPage() {
                 <li className="flex gap-4 p-4 border rounded-xl hover:bg-gray-50 transition-colors">
                   <div className="text-2xl">📉</div>
                   <div>
-                    <h4 className="font-bold">Small Debts (Below ₹1 Lakh)</h4>
+                    <h3 className="font-bold">Small Debts (Below ₹1 Lakh)</h3>
                     <p className="text-sm text-gray-500">Lenders might ignore them for a long time. However, when they do settle, the percentage waiver might be smaller because the bank doesn't "lose" much by writing it off.</p>
                   </div>
                 </li>
@@ -438,7 +438,7 @@ export default function MinimumDebtPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -486,7 +486,7 @@ export default function MinimumDebtPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Eligibility Check</h3>
+                  <div className="text-lg font-black text-white">Eligibility Check</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -500,7 +500,7 @@ export default function MinimumDebtPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-[10px]">Resource Hub</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-[10px]">Resource Hub</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li><Link href="/is-loan-settlement-a-good-option-for-borrowers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Is Settlement Good?</Link></li>
                   <li><Link href="/what-percentage-do-banks-accept-in-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Settlement % Calculator</Link></li>

@@ -352,7 +352,7 @@ export default function LoanSettlementSalariedPage() {
               </p>
               <div className="grid sm:grid-cols-2 gap-4 my-8">
                 <div className="bg-white p-6 rounded-xl border border-red-100 shadow-sm border-l-4 border-l-red-500">
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">The Critical Point</h4>
+                  <h3 className="font-bold text-[#2E2E2E] mb-2">The Critical Point</h3>
                   <p className="text-sm text-gray-500">When basic living expenses are being compromised to pay bank interest.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-orange-100 shadow-sm border-l-4 border-l-orange-500">
@@ -501,7 +501,7 @@ export default function LoanSettlementSalariedPage() {
                 <li className="flex items-start gap-4">
                   <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center shrink-0 text-blue-600 font-black">A</div>
                   <div>
-                    <h4 className="font-bold text-lg mb-1">Loan Restructuring</h4>
+                    <h3 className="font-bold text-lg mb-1">Loan Restructuring</h3>
                     <p className="text-sm text-gray-600">The bank might extend your tenure to reduce the monthly EMI. This makes the loan more affordable without affecting your CIBIL as severely as a settlement. It's often the best choice for those with a temporary salary cut.</p>
                   </div>
                 </li>
@@ -703,7 +703,7 @@ export default function LoanSettlementSalariedPage() {
               {/* Main CTA Container */}
               <div className="bg-[#1F5EFF] rounded-3xl p-8 text-white shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-32 h-32 bg-white/10 rounded-full -mr-16 -mt-16 transition-transform group-hover:scale-110"></div>
-                <h3 className="text-2xl font-black mb-4 relative z-10">Stop the Calls Today!</h3>
+                <div className="text-2xl font-black mb-4 relative z-10">Stop the Calls Today!</div>
                 <p className="text-sm opacity-90 mb-8 relative z-10 leading-relaxed font-medium">
                   Join 10,000+ Indians who have trusted SettleLoans to handle their recovery agents and settle their debts for less.
                 </p>
@@ -718,9 +718,9 @@ export default function LoanSettlementSalariedPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white border border-[#DEDEDE] rounded-3xl p-6 shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-[#2E2E2E] mb-6 border-l-4 border-l-[#1F5EFF] pl-3">
+                <div className="text-sm font-black uppercase tracking-widest text-[#2E2E2E] mb-6 border-l-4 border-l-[#1F5EFF] pl-3">
                   Essential Reading
-                </h4>
+                </div>
                 <div className="flex flex-col gap-4">
                   {[
                     { title: "Personal Loan Settlement Guide", href: "/services/personal-loan-settlement" },

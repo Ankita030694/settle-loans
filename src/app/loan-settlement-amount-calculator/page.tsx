@@ -296,7 +296,7 @@ export default function LoanSettlementCalculatorPage() {
                                             'border-green-100 bg-green-50'
                                         }`}>
                                         <span className="text-[10px] font-black uppercase tracking-widest opacity-60 mb-2 block">{item.level} Waiver</span>
-                                        <h4 className="text-3xl font-black mb-1">{item.range}</h4>
+                                        <h3 className="text-3xl font-black mb-1">{item.range}</h3>
                                         <p className="text-sm font-bold opacity-80 underline">{item.type}</p>
                                     </div>
                                 ))}
@@ -309,7 +309,7 @@ export default function LoanSettlementCalculatorPage() {
                                 <div className="flex gap-8">
                                     <div className="w-12 h-12 rounded-xl bg-[#1F5EFF] flex items-center justify-center shrink-0 font-black text-2xl">01</div>
                                     <div>
-                                        <h4 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Vintage of Default</h4>
+                                        <h3 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Vintage of Default</h3>
                                         <p className="opacity-70 text-lg leading-relaxed">A loan defaulted 2 years ago has a higher probability of deep discount compared to a loan defaulted last month. Banks prefer to clear "Aged NPAs" quickly.</p>
                                     </div>
                                 </div>
@@ -356,7 +356,7 @@ export default function LoanSettlementCalculatorPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6">
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-200">
-                                    <h4 className="font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter">Bank's Calculation</h4>
+                                    <h3 className="font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter">Bank's Calculation</h3>
                                     <p className="text-sm italic opacity-70">"Settlement Amount = (Liquidation Value of Asset) - (Cost of Auction Process) - (Time-Value of Money)."</p>
                                 </div>
                                 <div className="p-8 bg-[#1F5EFF] text-white rounded-3xl shadow-xl">
@@ -374,14 +374,14 @@ export default function LoanSettlementCalculatorPage() {
                                     <div className="flex gap-6 items-start">
                                         <div className="w-10 h-10 rounded-full bg-blue-500 text-white flex items-center justify-center shrink-0 font-bold">✓</div>
                                         <div>
-                                            <h5 className="font-black text-lg mb-2 text-[#2E2E2E]">Highlight 'Ghost' Interest</h5>
+                                            <h3 className="font-black text-lg mb-2 text-[#2E2E2E]">Highlight 'Ghost' Interest</h3>
                                             <p className="text-gray-600">Point out how interest-on-interest and penal compounded charges make up the bulk of the outstanding. Banks often waive these first during negotiation.</p>
                                         </div>
                                     </div>
                                     <div className="flex gap-6 items-start">
                                         <div className="w-10 h-10 rounded-full bg-blue-500 text-white flex items-center justify-center shrink-0 font-bold">✓</div>
                                         <div>
-                                            <h5 className="font-black text-lg mb-2 text-[#2E2E2E]">Offer Lump-Sum Clarity</h5>
+                                            <h4 className="font-black text-lg mb-2 text-[#2E2E2E]">Offer Lump-Sum Clarity</h4>
                                             <p className="text-gray-600">When you offer a specific amount based on a calculator range, it shows the bank you are a serious, data-driven negotiator, not a desperate one.</p>
                                         </div>
                                     </div>
@@ -397,7 +397,7 @@ export default function LoanSettlementCalculatorPage() {
                             <div className="p-8 bg-orange-50 border-2 border-orange-100 rounded-[40px] flex items-center gap-8">
                                 <div className="hidden md:flex w-24 h-24 bg-white rounded-full items-center justify-center text-orange-500 text-5xl font-black shadow-inner">!</div>
                                 <div className="flex-1">
-                                    <h4 className="text-lg font-black text-orange-800 uppercase mb-2">Pro-Tip for MSMEs</h4>
+                                    <h3 className="text-lg font-black text-orange-800 uppercase mb-2">Pro-Tip for MSMEs</h3>
                                     <p className="text-orange-900 leading-relaxed font-bold italic">"Always consult a tax expert along with your debt negotiator. The math of your settlement doesn't end at the bank; it ends at your ITR filing."</p>
                                 </div>
                             </div>
@@ -467,7 +467,7 @@ export default function LoanSettlementCalculatorPage() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex gap-4 text-[10px] font-mono">
@@ -496,7 +496,7 @@ export default function LoanSettlementCalculatorPage() {
                                     { q: "How often should I use the calculator as debt ages?", a: "Interest and penalties keep growing, so your settlement range will shift every month. Ideally, check every quarter to see your new 'Target Window'." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
+                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -521,7 +521,7 @@ export default function LoanSettlementCalculatorPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Need a Second Opinion?</h3>
+                                    <div className="text-lg font-black text-white">Need a Second Opinion?</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -535,7 +535,7 @@ export default function LoanSettlementCalculatorPage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Calculations</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Calculations</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     {[
                                         { name: "How to Settle Loan", href: "/how-to-settle-loan-with-bank" },

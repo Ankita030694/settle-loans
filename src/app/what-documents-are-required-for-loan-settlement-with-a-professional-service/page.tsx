@@ -289,7 +289,7 @@ export default function LoanSettlementDocumentsPage() {
               </p>
               <div className="grid sm:grid-cols-3 gap-4 my-8">
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Proof of Identity</h4>
+                  <h3 className="font-bold text-[#2E2E2E] mb-2">Proof of Identity</h3>
                   <p className="text-xs text-gray-500 font-medium">Verifying the borrower's legal status.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
@@ -425,7 +425,7 @@ export default function LoanSettlementDocumentsPage() {
               <h2 className="text-3xl font-black mb-8 text-center">Step-by-Step Organization Checklist</h2>
               <div className="grid md:grid-cols-2 gap-4">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
-                  <h4 className="font-black text-[#2E2E2E] mb-2">Digital Archive</h4>
+                  <h3 className="font-black text-[#2E2E2E] mb-2">Digital Archive</h3>
                   <p className="text-xs text-gray-500">Scan everything at 300 DPI and save it in a password-protected cloud folder.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
@@ -536,7 +536,7 @@ export default function LoanSettlementDocumentsPage() {
                   }
                 ].map((caseStudy, i) => (
                   <div key={i} className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
-                    <h4 className="font-bold text-[#1F5EFF] mb-2">{caseStudy.title}</h4>
+                    <h3 className="font-bold text-[#1F5EFF] mb-2">{caseStudy.title}</h3>
                     <p className="text-sm italic text-gray-600 mb-4">"{caseStudy.story}"</p>
                     <div className="inline-block px-3 py-1 bg-green-50 text-green-700 text-xs font-black uppercase rounded tracking-tighter">
                       {caseStudy.outcome}
@@ -552,7 +552,7 @@ export default function LoanSettlementDocumentsPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 bg-[#1F5EFF] text-white flex items-center justify-center font-black rounded-lg">1</div>
                   <div>
-                    <h4 className="font-bold mb-1">Archive Phase (Day 1-15)</h4>
+                    <h3 className="font-bold mb-1">Archive Phase (Day 1-15)</h3>
                     <p className="text-sm text-gray-600 font-medium">Gathering and auditing your paper trail. **credsettle.com** maps your cash flow for inconsistencies.</p>
                   </div>
                 </div>
@@ -599,7 +599,7 @@ export default function LoanSettlementDocumentsPage() {
               <h2 className="text-3xl font-black mb-8 mt-16">Global Comparison: India vs. The World</h2>
               <div className="grid md:grid-cols-2 gap-8">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                  <h4 className="font-black text-xs text-blue-600 uppercase mb-2">USA (Debt Settlement)</h4>
+                  <h3 className="font-black text-xs text-blue-600 uppercase mb-2">USA (Debt Settlement)</h3>
                   <p className="text-sm leading-relaxed text-gray-600 font-medium">Primarily electronic documentation focus on Proof of Enrollment in a commercial program. Highly systemic with credit bureaus.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -653,7 +653,7 @@ export default function LoanSettlementDocumentsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -706,7 +706,7 @@ export default function LoanSettlementDocumentsPage() {
           <aside className="w-full lg:w-1/5 relative order-first lg:order-last">
             <div className="sticky top-32 space-y-8">
               <div className="bg-[#1F5EFF] rounded-2xl p-6 text-white text-center shadow-xl">
-                <h3 className="text-xl font-black mb-4">Start Your Settlement Today</h3>
+                <div className="text-xl font-black mb-4">Start Your Settlement Today</div>
                 <p className="text-sm mb-6 opacity-90">Let our legal experts at <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">**amalegalsolutions.com**</Link> review your documents for free.</p>
                 <Link href="/contact" className="inline-block w-full bg-white text-[#1F5EFF] font-black py-4 rounded-xl hover:scale-105 transition-all text-center">
                   Free Case Audit
@@ -714,7 +714,7 @@ export default function LoanSettlementDocumentsPage() {
               </div>
 
               <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                <h4 className="font-black text-[#2E2E2E] mb-4 text-center uppercase tracking-wider text-xs">Helpful Resources</h4>
+                <div className="font-black text-[#2E2E2E] mb-4 text-center uppercase tracking-wider text-xs">Helpful Resources</div>
                 <div className="space-y-4">
                   <Link href="/charities-that-pay-off-debt-in-india" className="block text-sm font-medium hover:text-[#1F5EFF] transition-colors pb-3 border-b border-gray-50">NGO Debt Relief Support</Link>
                   <Link href="/is-loan-settlement-a-good-option" className="block text-sm font-medium hover:text-[#1F5EFF] transition-colors pb-3 border-b border-gray-50">Is Settlement Right for You?</Link>

@@ -190,7 +190,7 @@ export default function DrtAccountDocumentsPage() {
                                 This act is a "special law" which overrides general evidence rules. It specifically defines "banker's books" to include ledgers, day-books, cash-books, and all other records used in the ordinary business of a bank, whether kept in written form or as printouts of data stored on a floppy, disc, tape, or any other form of electro-magnetic data storage.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The Prima Facie Trap</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The Prima Facie Trap</h3>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     "Prima facie" means "accepted as correct until proven otherwise." Many borrowers fail to "prove otherwise" because they don't audit the statements. Once you identify a single error in the bank's statement (like a double-entry or a wrong interest rate), the *prima facie* presumption is destroyed, and the bank must prove every single entry manually.
                                 </p>
@@ -207,7 +207,7 @@ export default function DrtAccountDocumentsPage() {
                                 <li><strong>System Certificate:</strong> A certificate describing the computer system and confirming that it was operating properly at the time the data was entered, with adequate safeguards against data manipulation.</li>
                             </ul>
                             <div className="bg-red-50 p-8 rounded-xl border border-red-200 my-8">
-                                <h4 className="font-bold text-red-900 mb-4 text-xl">Why Banks Often Fail Here</h4>
+                                <h3 className="font-bold text-red-900 mb-4 text-xl">Why Banks Often Fail Here</h3>
                                 <p className="text-base text-red-800 leading-relaxed">
                                     Most banks simply provide a stamped bank statement. This is NOT enough. The law requires a specific certificate that describes the computer architecture and its security. Without this, the electronic data is hearsay and cannot be used to prove that you owe the money.
                                 </p>
@@ -228,7 +228,7 @@ export default function DrtAccountDocumentsPage() {
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Landmark Case Laws on Bank Document Admissibility</h2>
                             <div className="space-y-6">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-2">ICICI Bank Limited vs. Surbhi Gupta (2018)</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-2">ICICI Bank Limited vs. Surbhi Gupta (2018)</h3>
                                     <p className="text-sm text-gray-600 leading-relaxed italic">
                                         The court held that statement of accounts exhibited without the necessary Section 2A certificate under the Bankers' Books Evidence Act would be inadmissible in evidence. This case is our primary weapon in DRT when banks take shortcuts in documentation. It reinforces that a mere bank official's signature is not enough for modern electronic records.
                                     </p>
@@ -255,11 +255,11 @@ export default function DrtAccountDocumentsPage() {
                             </p>
                             <div className="grid md:grid-cols-3 gap-6 my-10">
                                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-100">
-                                    <h5 className="font-bold mb-3 text-blue-600">1. Arithmetical Accuracy</h5>
+                                    <h3 className="font-bold mb-3 text-blue-600">1. Arithmetical Accuracy</h3>
                                     <p className="text-sm text-gray-600">Re-calculation of every interest installment based on the sanctioned rate vs actual debit. We look for rounding errors and wrong compounding frequencies.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-100">
-                                    <h5 className="font-bold mb-3 text-blue-600">2. Regulatory Compliance</h5>
+                                    <h4 className="font-bold mb-3 text-blue-600">2. Regulatory Compliance</h4>
                                     <p className="text-sm text-gray-600">Cross-checking every debit entry against RBI Master Circulars. If a fee is charged without a notice period, it is a regulatory violation.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-100">
@@ -332,7 +332,7 @@ export default function DrtAccountDocumentsPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
-                                    <h4 className="font-bold mb-2">Interrogatories</h4>
+                                    <h3 className="font-bold mb-2">Interrogatories</h3>
                                     <p className="text-sm">We file applications to ask the bank specific questions about their computer software and interest calculation logic.</p>
                                 </div>
                                 <div className="bg-gray-50 p-6 rounded-xl border border-gray-200">
@@ -374,7 +374,7 @@ export default function DrtAccountDocumentsPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.charAt(0)}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -437,7 +437,7 @@ export default function DrtAccountDocumentsPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">Spot Bank Statement Errors</h3>
+                                    <div className="text-lg font-black text-white px-2">Spot Bank Statement Errors</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -452,7 +452,7 @@ export default function DrtAccountDocumentsPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Legal Expertise</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Legal Expertise</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/best-lawyer-for-arc-loan-assignment-dispute" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

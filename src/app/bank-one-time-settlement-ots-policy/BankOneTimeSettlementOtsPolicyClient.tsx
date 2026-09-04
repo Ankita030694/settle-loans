@@ -77,7 +77,7 @@ function CopyableTemplateBox({
               {badgeText}
             </span>
           )}
-          <h3 className="text-base md:text-lg font-bold text-white leading-snug">{title}</h3>
+          <div className="text-base md:text-lg font-bold text-white leading-snug">{title}</div>
           <p className="text-xs text-slate-300">{subtitle}</p>
         </div>
         <button
@@ -767,7 +767,7 @@ Residential Address: [Your Full Postal Address]`;
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5 flex flex-col md:flex-row md:items-center justify-between gap-4">
                   <div>
                     <span className="text-[11px] font-black uppercase tracking-wider text-slate-500 block mb-1">Level 1: Branch Manager / Scale-I to Scale-III</span>
-                    <h4 className="text-base font-bold text-slate-900">Branch Operations Desk</h4>
+                    <h3 className="text-base font-bold text-slate-900">Branch Operations Desk</h3>
                     <p className="text-xs text-slate-600 mt-1">Can waive overdue late fees and penal interest up to ₹25,000–₹1,00,000. <strong>Zero power to waive principal debt.</strong></p>
                   </div>
                   <div className="bg-white border border-slate-200 py-1.5 px-3 rounded-lg text-xs font-bold text-slate-700 text-center flex-shrink-0">
@@ -1135,7 +1135,7 @@ Residential Address: [Your Full Postal Address]`;
               <div className="grid grid-cols-1 md:grid-cols-3 gap-5 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
                   <span className="text-[11px] font-bold text-[#1F5EFF] uppercase tracking-wider block mb-1">Bureau Reporting</span>
-                  <h4 className="text-base font-bold text-slate-900 mb-2">&apos;Settled&apos; Tag with ₹0 Balance</h4>
+                  <h3 className="text-base font-bold text-slate-900 mb-2">&apos;Settled&apos; Tag with ₹0 Balance</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under CICRA 2005, the bank reports the account as &apos;Settled&apos; rather than &apos;Closed.&apos; The outstanding balance is updated to <strong>₹0</strong>, eliminating active overdue default drag.
                   </p>
@@ -1193,10 +1193,10 @@ Residential Address: [Your Full Postal Address]`;
 
             {/* Regulatory Sources & References (Official Citations) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 shadow-sm">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Statutory References</span>
-              </h4>
+              </h3>
               <ul className="space-y-3 text-xs md:text-sm text-slate-600">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -1336,14 +1336,14 @@ Residential Address: [Your Full Postal Address]`;
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Debt Settlement Strategist &amp; Banking Legal Specialist
                   </p>
@@ -1376,9 +1376,9 @@ Residential Address: [Your Full Postal Address]`;
                 <PhoneCall className="w-4 h-4" />
                 <span>Stressed Asset Advisory</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Need Help Negotiating a Bank OTS?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Don&apos;t let recovery agents deceive you. Let our senior banking advocates audit your NPA bucket, draft your formal OTS proposal, and secure an authentic bank sanction letter.
               </p>
@@ -1392,10 +1392,10 @@ Residential Address: [Your Full Postal Address]`;
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

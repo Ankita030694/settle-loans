@@ -326,7 +326,7 @@ export default function ChooseTrustworthyProviderPage() {
               </p>
               <div className="space-y-8 mb-8">
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
-                  <h4 className="text-xl font-bold mb-3 text-[#1F5EFF]">Credit Card Debt</h4>
+                  <h3 className="text-xl font-bold mb-3 text-[#1F5EFF]">Credit Card Debt</h3>
                   <p className="text-gray-600">Credit cards carry the highest interest rates and are often the first to go into default. Banks are usually more willing to settle credit card debt because it is entirely unsecured. However, the negotiation is intense because of the high "accrued interest" and "late fees." An expert negotiator focuses on getting these fees waived first, significantly reducing the principal amount required for closure.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
@@ -351,7 +351,7 @@ export default function ChooseTrustworthyProviderPage() {
               </p>
               <ul className="grid md:grid-cols-2 gap-6 mb-8">
                 <li className="bg-gray-50 p-6 rounded-xl border border-gray-100">
-                  <h4 className="font-bold mb-2">The Realistic Settlement Range</h4>
+                  <h3 className="font-bold mb-2">The Realistic Settlement Range</h3>
                   <p className="text-sm text-gray-600">They provide a data backed estimate of what your settlement might look like, rather than making wild promises.</p>
                 </li>
                 <li className="bg-gray-50 p-6 rounded-xl border border-gray-100">
@@ -387,7 +387,7 @@ export default function ChooseTrustworthyProviderPage() {
                     <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
                   </div>
                   <div>
-                    <h4 className="font-bold text-lg mb-1">Portfolio Analysis</h4>
+                    <h3 className="font-bold text-lg mb-1">Portfolio Analysis</h3>
                     <p className="text-gray-600">The ability to look at multiple loans and prioritize which ones to settle first to maximize savings and minimize legal risk.</p>
                   </div>
                 </div>
@@ -528,7 +528,7 @@ export default function ChooseTrustworthyProviderPage() {
               <div className="relative border-l-2 border-[#1F5EFF] ml-4 md:ml-8 pl-8 md:pl-12 space-y-12">
                 <div>
                   <div className="absolute -left-[9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold mb-2">Step 1: Financial Assessment</h4>
+                  <h3 className="text-xl font-bold mb-2">Step 1: Financial Assessment</h3>
                   <p className="text-gray-600">The provider reviews your total debt, income, and expenses. They identify which loans are eligible for settlement and provide a realistic estimate of the funds required.</p>
                 </div>
                 <div>
@@ -656,7 +656,7 @@ export default function ChooseTrustworthyProviderPage() {
               <div className="grid md:grid-cols-3 gap-8 mb-12">
                 <div className="bg-gray-50 p-6 rounded-2xl border border-gray-100 text-center">
                   <div className="text-[#1F5EFF] font-black text-2xl mb-2">01</div>
-                  <h4 className="font-bold mb-3">Consultation Fee</h4>
+                  <h3 className="font-bold mb-3">Consultation Fee</h3>
                   <p className="text-sm text-gray-600">A one-time fee for the initial financial analysis and legal review of your case. This covers the time spent by experts in creating your roadmap.</p>
                 </div>
                 <div className="bg-gray-50 p-6 rounded-2xl border border-gray-100 text-center">
@@ -684,7 +684,7 @@ export default function ChooseTrustworthyProviderPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="p-6 bg-green-50 rounded-2xl border border-green-100">
-                  <h4 className="font-black mb-4">The Emergency Fund</h4>
+                  <h3 className="font-black mb-4">The Emergency Fund</h3>
                   <p className="text-gray-700 italic">Before aiming for high returns, build a 6-month buffer. This ensures that a medical emergency or job loss doesn't send you back into the debt trap.</p>
                 </div>
                 <div className="p-6 bg-blue-50 rounded-2xl border border-blue-100">
@@ -761,7 +761,7 @@ export default function ChooseTrustworthyProviderPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -802,7 +802,7 @@ export default function ChooseTrustworthyProviderPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Need Expert Help?</h3>
+                  <div className="text-lg font-black text-white">Need Expert Help?</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -816,7 +816,7 @@ export default function ChooseTrustworthyProviderPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Resources</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Resources</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li><Link href="/charities-that-pay-off-debt-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>NGO Debt Relief</Link></li>
                   <li><Link href="/loan-settlement-lawyers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Legal Help</Link></li>

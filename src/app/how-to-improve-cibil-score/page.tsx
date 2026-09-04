@@ -318,7 +318,7 @@ export default function ImproveCibilScorePage() {
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Critical First Moves</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Critical First Moves</h3>
                 <ul className="space-y-4">
                   <li className="flex items-start">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0 mr-3"></div>
@@ -398,7 +398,7 @@ export default function ImproveCibilScorePage() {
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
                 <ul className="space-y-6">
                   <li>
-                    <h4 className="font-bold text-[#2E2E2E] text-xl mb-1">Months 1-3: Stabilization</h4>
+                    <h3 className="font-bold text-[#2E2E2E] text-xl mb-1">Months 1-3: Stabilization</h3>
                     <p className="text-[#2E2E2E]/80">Securing your FD-backed card and establishing the first few months of flawless payment history. Score might jump slightly or stabilize.</p>
                   </li>
                   <li className="border-t border-gray-200 pt-6">
@@ -432,7 +432,7 @@ export default function ImproveCibilScorePage() {
                       R
                     </div>
                     <div>
-                      <h4 className="font-black text-[#2E2E2E] text-lg">Rahul S.</h4>
+                      <h3 className="font-black text-[#2E2E2E] text-lg">Rahul S.</h3>
                       <div className="flex text-yellow-400">
                         <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                         <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -555,7 +555,7 @@ export default function ImproveCibilScorePage() {
               {/* Dark CTA Card */}
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                <h3 className="text-2xl font-black mb-4 relative z-10">Struggling with Loan Defaults?</h3>
+                <div className="text-2xl font-black mb-4 relative z-10">Struggling with Loan Defaults?</div>
                 <p className="text-white/80 mb-6 text-sm relative z-10">Get professional legal assistance to manage defaults and stop harassment.</p>
                 <Link href="/contact" className="block w-full bg-[#1F5EFF] hover:bg-[#1F5EFF]/90 text-white font-bold py-3 px-4 rounded-xl transition-colors relative z-10">
                   Talk to an Expert
@@ -564,7 +564,7 @@ export default function ImproveCibilScorePage() {
 
               {/* White Resources Card */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-6">Related Guides</h3>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-6">Related Guides</div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors text-sm font-semibold">

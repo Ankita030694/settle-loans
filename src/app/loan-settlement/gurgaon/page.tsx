@@ -411,7 +411,7 @@ export default function GurgaonLoanSettlementPage() {
               <p>Becoming debt-free is a process, not an event. In the complex financial environment of Gurgaon, you need a roadmap that is both logical and legally sound. At SettleLoans, we have refined a 5-step process that has helped hundreds of Gurgaon families move from financial despair to a fresh start. This roadmap is designed to protect your interests at every turn.</p>
               <ul className="list-none p-0 space-y-6">
                 <li className="bg-gray-50 p-6 rounded-xl border-l-4 border-[#1F5EFF]">
-                  <h4 className="font-black text-xl mb-2">1. Detailed Debt Audit (The Reality Check)</h4>
+                  <h3 className="font-black text-xl mb-2">1. Detailed Debt Audit (The Reality Check)</h3>
                   <p>We start by auditing your entire loan portfolio. This includes listing all creditors, interest rates, and legal statuses. In Gurgaon, many residents have a mix of home loans, personal loans, and credit card debts. We identify which ones are 'high-threat' (likely to take legal action) and which ones are 'high-cost' (interest-heavy) to determine our priority list.</p>
                 </li>
                 <li className="bg-gray-50 p-6 rounded-xl border-l-4 border-[#1F5EFF]">
@@ -441,7 +441,7 @@ export default function GurgaonLoanSettlementPage() {
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">A</div>
                     <div>
-                      <h4 className="font-bold">Aditya Rao</h4>
+                      <h3 className="font-bold">Aditya Rao</h3>
                       <p className="text-xs text-gray-500">Sector 54, Gurgaon</p>
                     </div>
                   </div>
@@ -517,7 +517,7 @@ export default function GurgaonLoanSettlementPage() {
               {/* Specialized Gurgaon CTA */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white px-2 leading-tight uppercase tracking-tighter">Gurgaon Millennium Desk</h3>
+                  <div className="text-lg font-black text-white px-2 leading-tight uppercase tracking-tighter">Gurgaon Millennium Desk</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -532,7 +532,7 @@ export default function GurgaonLoanSettlementPage() {
 
               {/* Trust Section */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                 <h3 className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Why Gurgaon Trusts Us</h3>
+                 <div className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Why Gurgaon Trusts Us</div>
                  <div className="space-y-4">
                     <div className="flex gap-3">
                        <span className="text-[#1F5EFF] text-xs">✓</span>
@@ -551,7 +551,7 @@ export default function GurgaonLoanSettlementPage() {
 
               {/* Related Services */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Gurgaon Services</h3>
+                <div className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Gurgaon Services</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/services/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

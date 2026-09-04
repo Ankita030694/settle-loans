@@ -593,10 +593,10 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
               {/* Triage Diagnostic Breakdown */}
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-2xl bg-rose-50/80 border border-rose-200">
-                  <h4 className="font-bold text-rose-900 text-base mb-1.5 flex items-center gap-2">
+                  <h3 className="font-bold text-rose-900 text-base mb-1.5 flex items-center gap-2">
                     <ShieldAlert className="w-4 h-4 text-rose-600" />
                     <span>Priority 1: Active Statutory Legal Exposure (Personal Loans with Sec 138/25 Notices)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-rose-950 leading-relaxed">
                     If an NBFC or bank has issued a formal advocate notice under Section 138 of the Negotiable Instruments Act or Section 25 of the PSS Act, this debt must be addressed first. SettleLoans advocates engage the lender recovery division immediately to negotiate a compromise OTS and secure an official withdrawal of court proceedings upon settlement execution.
                   </p>
@@ -898,14 +898,14 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm leading-tight">
+                  <div className="font-bold text-slate-900 text-sm leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-[11px] text-slate-500 font-medium">
                     Debt Settlement Strategist &amp; Legal Advocate
                   </p>
@@ -938,9 +938,9 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
                 <PhoneCall className="w-3.5 h-3.5" />
                 <span>Emergency Advocate Assistance</span>
               </div>
-              <h3 className="text-lg font-black mb-2 leading-tight">
+              <div className="text-lg font-black mb-2 leading-tight">
                 Overwhelmed by Credit Cards &amp; Loan EMIs?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-4">
                 Stop juggling multiple repayments. Speak with an empaneled SettleLoans advocate to stop illegal harassment and negotiate lawful OTS settlements with 40%–75% waivers across all your accounts.
               </p>
@@ -954,10 +954,10 @@ export default function CreditCardVsPersonalLoanSettlementClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-xs uppercase tracking-wider mb-3 flex items-center gap-1.5">
+              <div className="font-bold text-slate-900 text-xs uppercase tracking-wider mb-3 flex items-center gap-1.5">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <Check className="w-3.5 h-3.5 text-emerald-600 flex-shrink-0 mt-0.5" />

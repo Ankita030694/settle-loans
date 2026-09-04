@@ -624,10 +624,10 @@ export default function BankFreezeSalaryAccountPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Collateral Bounces &amp; Section 138 NI Act Vulnerability</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Legitimate outbound payments—such as home loan EMIs, rent cheques, and insurance premiums—bounce due to the account hold. Third-party lenders may initiate criminal complaints under <strong>Section 138 of the Negotiable Instruments Act</strong> or Section 25 of the Payment and Settlement Systems Act, unaware that the bounce was engineered by an internal freeze.
                   </p>
@@ -778,7 +778,7 @@ export default function BankFreezeSalaryAccountPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Immediate Payroll Diversion &amp; Written Branch Objection</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Immediate Payroll Diversion &amp; Written Branch Objection</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Within 24 hours of noticing the restriction, provide your employer&apos;s payroll department with an alternate bank account at an unaffected institution. Simultaneously, submit a formal written objection to the Branch Manager demanding immediate disclosure of the specific legal authority (court order or internal set-off) under which the debit freeze was placed.
                   </p>
@@ -1170,7 +1170,7 @@ export default function BankFreezeSalaryAccountPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Emergency Account Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Has Your Salary Account Been Frozen?</h4>
+              <div className="font-bold text-base text-white mb-2">Has Your Salary Account Been Frozen?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let the bank starve your family. Retain seasoned banking advocates to challenge the unlawful set-off under Section 60 CPC and negotiate a 45%–65% OTS.
               </p>
@@ -1184,9 +1184,9 @@ export default function BankFreezeSalaryAccountPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

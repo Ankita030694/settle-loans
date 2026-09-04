@@ -607,7 +607,7 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 flex gap-3">
                   <div className="w-8 h-8 rounded-full bg-blue-100 text-[#1F5EFF] flex items-center justify-center font-bold text-sm flex-shrink-0">1</div>
                   <div className="space-y-1 text-xs sm:text-sm">
-                    <h4 className="font-bold text-slate-900">Formal Default &amp; Loan Recall Notice (60-Day Opportunity)</h4>
+                    <h3 className="font-bold text-slate-900">Formal Default &amp; Loan Recall Notice (60-Day Opportunity)</h3>
                     <p className="text-slate-600 leading-relaxed">
                       The bank must issue a written notice granting the borrower a minimum period to cure the payment default. The notice must specify the exact overdue amount, separating base principal from penal charges and unapproved administrative fees.
                     </p>
@@ -786,10 +786,10 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
               </p>
 
               <div className="p-5 rounded-2xl border border-blue-200 bg-blue-50/70 space-y-3 my-4">
-                <h4 className="font-bold text-blue-950 text-sm flex items-center gap-2">
+                <h3 className="font-bold text-blue-950 text-sm flex items-center gap-2">
                   <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory Clauses in an Auto Loan Shortfall Settlement Letter</span>
-                </h4>
+                </h3>
                 <ul className="space-y-2 text-xs sm:text-sm text-blue-900">
                   <li className="flex items-start gap-2">
                     <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -1082,7 +1082,7 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Legal Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Car Repossessed or Facing a Shortfall Notice?</h4>
+              <div className="font-bold text-base text-white mb-2">Car Repossessed or Facing a Shortfall Notice?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not pay inflated shortfall demands. Hire experienced debt defense advocates to challenge illegal vehicle seizure under Supreme Court rulings and negotiate a complete ₹0 residual settlement.
               </p>
@@ -1096,9 +1096,9 @@ export default function CarLoanRepossessionShortfallSettlementPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

@@ -301,7 +301,7 @@ export default function IARCPage() {
               <div className="space-y-10">
                 <div className="relative pl-10 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute -left-[11px] top-0 w-5 h-5 rounded-full bg-[#1F5EFF] border-4 border-white"></div>
-                  <h4 className="text-2xl font-black mb-2">1. Verification and Access</h4>
+                  <h3 className="text-2xl font-black mb-2">1. Verification and Access</h3>
                   <p className="text-gray-600 leading-relaxed mb-4">The first step is always verification. You must ensure that IARC is the actual owner of your debt. This is done by checking the notice of assignment sent by your bank. You can also log into the IARC Resolution Portal. This portal is a central hub where you can see your current outstanding amount, including any interest or penalties that have been added.</p>
                   <p className="text-gray-600 leading-relaxed">Checking your status on the portal gives you the numbers you need for negotiation. Do not rely on what an agent tells you over the phone; always verify the numbers on the official dashboard first.</p>
                 </div>
@@ -332,7 +332,7 @@ export default function IARCPage() {
                 Losing your job is a major life transition, and having a pending loan with IARC adds immense pressure. However, panic is your worst enemy. Use these strategies to manage the situation:
               </p>
               <div className="bg-gray-50 p-8 rounded-3xl mb-12 border border-gray-200">
-                <h4 className="text-xl font-bold mb-6">Practical Financial Survival Steps:</h4>
+                <h3 className="text-xl font-bold mb-6">Practical Financial Survival Steps:</h3>
                 <ul className="space-y-4">
                   <li className="flex gap-4">
                     <span className="flex-shrink-0 w-6 h-6 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-bold">1</span>
@@ -380,7 +380,7 @@ export default function IARCPage() {
               </p>
               <div className="space-y-6 mb-10">
                 <div className="p-6 bg-emerald-50 rounded-2xl border border-emerald-100">
-                  <h4 className="font-bold text-emerald-900 mb-2 text-xl">Prime Minister Rozgar Yojana (PMRY)</h4>
+                  <h3 className="font-bold text-emerald-900 mb-2 text-xl">Prime Minister Rozgar Yojana (PMRY)</h3>
                   <p className="text-gray-700">Aimed at providing self employment opportunities to educated unemployed youth. This can be a path to generate income to settle your existing debts.</p>
                 </div>
                 <div className="p-6 bg-amber-50 rounded-2xl border border-amber-100">
@@ -467,7 +467,7 @@ export default function IARCPage() {
                   <div className="flex items-center mb-6">
                     <div className="w-12 h-12 rounded-full bg-blue-50 flex items-center justify-center font-bold text-[#1F5EFF] mr-4">R</div>
                     <div>
-                      <h5 className="font-extrabold text-[#2E2E2E]">Rohan Mehta</h5>
+                      <h3 className="font-extrabold text-[#2E2E2E]">Rohan Mehta</h3>
                       <p className="text-xs text-gray-500 font-bold uppercase tracking-widest">Chennai</p>
                     </div>
                   </div>
@@ -477,7 +477,7 @@ export default function IARCPage() {
                   <div className="flex items-center mb-6">
                     <div className="w-12 h-12 rounded-full bg-blue-50 flex items-center justify-center font-bold text-[#1F5EFF] mr-4">S</div>
                     <div>
-                      <h5 className="font-extrabold text-[#2E2E2E]">Sneha Gupta</h5>
+                      <h4 className="font-extrabold text-[#2E2E2E]">Sneha Gupta</h4>
                       <p className="text-xs text-gray-500 font-bold uppercase tracking-widest">Kolkata</p>
                     </div>
                   </div>
@@ -534,7 +534,7 @@ export default function IARCPage() {
               
               <div className="bg-[#2E2E2E] rounded-[24px] shadow-2xl overflow-hidden border border-white/5 group">
                 <div className="bg-[#1F5EFF] p-5 text-center">
-                  <h3 className="text-xl font-black text-white">Need IARC Help?</h3>
+                  <div className="text-xl font-black text-white">Need IARC Help?</div>
                 </div>
                 <div className="p-8 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE]/70 font-bold leading-relaxed">
@@ -547,7 +547,7 @@ export default function IARCPage() {
               </div>
 
               <div className="bg-white p-8 rounded-[24px] border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#747474] mb-6 border-b border-[#DEDEDE] pb-3">Related Content</h3>
+                <div className="text-xs font-black uppercase tracking-[0.2em] text-[#747474] mb-6 border-b border-[#DEDEDE] pb-3">Related Content</div>
                 <ul className="space-y-5">
                   {[
                     { title: "Loan Settlement Guide", href: "/loan-settlement" },

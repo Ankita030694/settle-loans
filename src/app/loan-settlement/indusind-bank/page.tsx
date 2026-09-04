@@ -343,7 +343,7 @@ export default function IndusIndBankSettlementPage() {
                  <li className="flex items-start">
                     <div className="bg-[#98272A] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">1</div>
                     <div>
-                        <h4 className="font-bold text-xl mb-1">Legal Representation</h4>
+                        <h3 className="font-bold text-xl mb-1">Legal Representation</h3>
                         <p>We issue a formal notice to IndusInd Bank stating that you are represented by SettleLoans. This shifts the power balance and ensures all communication is documented.</p>
                     </div>
                  </li>
@@ -373,7 +373,7 @@ export default function IndusIndBankSettlementPage() {
                 One of the new features of the 2026 framework is the "Graduated Waiver System." This means that the older your debt is, the higher the waiver you are eligible for. For example, a debt that is 36 months old might receive a 75% waiver, while a debt that is only 6 months old might only get a 20% discount. Understanding where you sit on this timeline is crucial for timing your settlement proposal. If you propose a settlement too early, the bank will refuse any significant discount. If you wait too long, the legal complications might increase. SettleLoans helps you find that perfect window of maximum discount.
               </p>
               <div className="bg-[#f8faff] p-8 rounded-3xl border border-slate-100 mb-8">
-                <h4 className="font-black text-[#98272A] mb-4">Key Components of an IndusInd OTS Letter:</h4>
+                <h3 className="font-black text-[#98272A] mb-4">Key Components of an IndusInd OTS Letter:</h3>
                 <ul className="grid sm:grid-cols-2 gap-4">
                   <li className="flex items-center gap-2 font-medium">✓ Correct Customer ID and Loan Number</li>
                   <li className="flex items-center gap-2 font-medium">✓ Final Agreed Settlement Amount</li>
@@ -531,7 +531,7 @@ export default function IndusIndBankSettlementPage() {
                     { q: "Can an IndusInd credit card settlement affect my job?", a: "No. Unless you are in a specific sensitive role in the banking sector itself, a loan settlement is a private financial matter and does not affect your employment." }
                   ].map((faq, i) => (
                     <div key={i} className="border-b border-slate-200 pb-6">
-                        <h4 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h4>
+                        <h3 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h3>
                         <p className="text-[#4a5568]">{faq.a}</p>
                     </div>
                   ))}
@@ -564,7 +564,7 @@ export default function IndusIndBankSettlementPage() {
               {/* CTA Container */}
               <div className="bg-[#98272A] rounded-2xl shadow-xl overflow-hidden border border-white/10 group">
                 <div className="bg-white/10 p-4 text-center border-b border-white/10">
-                  <h3 className="text-lg font-black text-white">IndusInd Debt?</h3>
+                  <div className="text-lg font-black text-white">IndusInd Debt?</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-white opacity-80 leading-relaxed font-medium">
@@ -579,7 +579,7 @@ export default function IndusIndBankSettlementPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#718096] mb-4 border-b pb-2">Top Banks</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#718096] mb-4 border-b pb-2">Top Banks</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement/hdfc-bank" className="group flex items-center text-[#2d3748] hover:text-[#98272A] transition-colors">

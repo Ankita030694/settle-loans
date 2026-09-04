@@ -289,7 +289,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Absence of Collateral Requirements</h4>
+                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Absence of Collateral Requirements</h3>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         As the name suggests, the defining feature is the lack of any required security. You do not need to risk your home, gold, or investments to secure the funds. This characteristic democratizes access to credit, allowing individuals who may be early in their careers or who choose not to tie up their assets to obtain necessary financing.
                                     </p>
@@ -350,7 +350,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Understanding Interest Rates</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Understanding Interest Rates</h3>
                                     <p className="text-sm">Interest rates on unsecured personal loans are generally higher than those on secured loans. The specific rate offered to a borrower is heavily influenced by their credit profile, income level, employer category, and the prevailing macroeconomic conditions. Rates can vary widely, typically ranging from ten percent for individuals with impeccable credit histories working at top-tier corporations, to over twenty-five percent for borrowers with lower scores or those borrowing from newer, higher-risk digital platforms.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -377,7 +377,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                                 In the realm of collateral-free borrowing, your credit score is your most valuable asset. It acts as the definitive measure of your financial reliability and directly influences every aspect of the unsecured personal loan definition in practice. A credit score, typically provided by bureaus like CIBIL, Experian, or Equifax, is a numerical representation of your credit history, summarizing your past behavior with loans and credit cards.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">How Lenders Interpret Credit Scores</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">How Lenders Interpret Credit Scores</h3>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     Lenders rely on credit scores to assess the probability of a borrower defaulting on a new obligation. A high score indicates a history of timely payments, responsible credit utilization, and a stable financial profile. Conversely, a low score suggests a pattern of late payments, high debt burdens, or previous defaults.
                                 </p>
@@ -465,7 +465,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                                 Navigating the application process effectively requires a clear understanding of what lenders look for and how to present your financial profile in the best possible light. A structured approach minimizes delays and increases the probability of securing favorable terms.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">A Strategic Approach to Applying</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">A Strategic Approach to Applying</h3>
                                 <p className="text-lg leading-relaxed mb-4">
                                     The process begins long before you submit a form. It starts with self-assessment and meticulous preparation.
                                 </p>
@@ -585,7 +585,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -646,7 +646,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">Loan Settlement Support</h3>
+                                    <div className="text-lg font-black text-white px-2">Loan Settlement Support</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -661,7 +661,7 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Helpful Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Helpful Resources</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/what-is-personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

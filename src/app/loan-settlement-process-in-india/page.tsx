@@ -172,7 +172,7 @@ export default function LoanSettlementProcessPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The Income Audit</h4>
+                                    <h3 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The Income Audit</h3>
                                     <p className="text-sm">Present your primary bank statements showing the exact date your income stopped or dipped. Use ITR filings to prove a year-on-year decline in business revenue or salary.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
@@ -195,14 +195,14 @@ export default function LoanSettlementProcessPage() {
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">01</span>
                                     <div>
-                                        <h5 className="font-bold text-xl mb-2">The Anchor Stage</h5>
+                                        <h3 className="font-bold text-xl mb-2">The Anchor Stage</h3>
                                         <p className="opacity-70 text-sm">The bank will offer a 10-20% waiver on interest. You respond with a 25% Principal-only 'Counter-Anchor'. This establishes the negotiation floor.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">02</span>
                                     <div>
-                                        <h5 className="font-bold text-xl mb-2">The Impasse Stage</h5>
+                                        <h4 className="font-bold text-xl mb-2">The Impasse Stage</h4>
                                         <p className="opacity-70 text-sm">The bank will stop calling for a few weeks to pressure you. Do not panic. This 'Silence Window' is where their provisioning costs rise and their resolve softens.</p>
                                     </div>
                                 </div>
@@ -222,7 +222,7 @@ export default function LoanSettlementProcessPage() {
                                 The Reserve Bank of India (RBI) circular on 'Compromise Settlements and Technical Write-offs' (revised in 2023-24) is your bible. It mandates that lenders must have transparent, board-approved policies for settlement. You have the right to request the bank's settlement 'Framework' if you are in a formal negotiation.
                             </p>
                             <div className="bg-orange-50 p-8 rounded-3xl border border-orange-100 mb-8">
-                                <h4 className="text-xl font-black text-orange-900 mb-4">The Lok Adalat Shortcut</h4>
+                                <h3 className="text-xl font-black text-orange-900 mb-4">The Lok Adalat Shortcut</h3>
                                 <p className="text-orange-800 leading-relaxed font-medium">If your case is sent to a Lok Adalat, it is a massive opportunity. Settlements in Lok Adalats are considered 'Decrees' and are very hard to contest later. These platforms are designed for high-volume, high-discount settlements with minimal legal cost for both parties.</p>
                             </div>
                             <p className="text-lg leading-relaxed">
@@ -261,7 +261,7 @@ export default function LoanSettlementProcessPage() {
                                 The most dangerous part of the process is the actual payment. Borrowers often pay recovery agents directly in cash, hope for the best, and never hear back.
                             </p>
                             <div className="p-8 bg-[#1F5EFF] rounded-[40px] text-white shadow-2xl relative overflow-hidden">
-                                <h4 className="text-xl font-black mb-4 uppercase tracking-widest">The "Digital Trail" Rule</h4>
+                                <h3 className="text-xl font-black mb-4 uppercase tracking-widest">The "Digital Trail" Rule</h3>
                                 <p className="opacity-90 leading-relaxed font-bold">
                                     Always pay through NEFT/RTGS directly into your loan account number or a Demand Draft (DD) favoring the bank only. If an agent asks for a payment in his name or 'Company Name', it is a 100% scam. Document the transaction ID and save the bank acknowledgment receipt as if it were your life.
                                 </p>
@@ -285,11 +285,11 @@ export default function LoanSettlementProcessPage() {
                             </p>
                             <div className="grid md:grid-cols-3 gap-6">
                                 <div className="p-6 bg-white border-2 border-gray-100 rounded-3xl">
-                                    <h5 className="font-black mb-3 uppercase text-xs tracking-widest text-[#1F5EFF]">Verify Status</h5>
+                                    <h3 className="font-black mb-3 uppercase text-xs tracking-widest text-[#1F5EFF]">Verify Status</h3>
                                     <p className="text-xs opacity-70">Ensure CIBIL updates your status to 'Settled' with zero balance within 60 days. If it still shows 'Outstanding', file a dispute.</p>
                                 </div>
                                 <div className="p-6 bg-white border-2 border-gray-100 rounded-3xl">
-                                    <h5 className="font-black mb-3 uppercase text-xs tracking-widest text-green-600">Secure Card</h5>
+                                    <h4 className="font-black mb-3 uppercase text-xs tracking-widest text-green-600">Secure Card</h4>
                                     <p className="text-xs opacity-70">Get a Credit Card against an FD (Fixed Deposit). This starts reporting 'On-Time' payments to bureaus, slowly diluting the 'Settled' tag.</p>
                                 </div>
                                 <div className="p-6 bg-white border-2 border-gray-100 rounded-3xl">
@@ -341,7 +341,7 @@ export default function LoanSettlementProcessPage() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex gap-4 text-[10px] font-mono">
@@ -372,7 +372,7 @@ export default function LoanSettlementProcessPage() {
                                     { q: "What is a 'Technical Write-off' in settlement?", a: "It's an internal bank accounting process where they remove the loan from the active ledger but keep the right to recover. A settlement effectively ends this recovery right." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
+                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -397,7 +397,7 @@ export default function LoanSettlementProcessPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Need a Second Opinion?</h3>
+                                    <div className="text-lg font-black text-white">Need a Second Opinion?</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold italic">
@@ -410,7 +410,7 @@ export default function LoanSettlementProcessPage() {
                             </div>
 
                             <div className="bg-white border border-[#DEDEDE] rounded-2xl p-6 shadow-sm">
-                                <h4 className="font-black text-[#2E2E2E] mb-4 uppercase text-xs tracking-widest border-b pb-2">Must Read Guides</h4>
+                                <div className="font-black text-[#2E2E2E] mb-4 uppercase text-xs tracking-widest border-b pb-2">Must Read Guides</div>
                                 <div className="space-y-4">
                                     <Link href="/what-happens-if-loan-emi-not-paid" className="block text-sm font-bold text-[#4A4A4A] hover:text-[#1F5EFF] transition-colors leading-tight">
                                         Consequences of EMI Default

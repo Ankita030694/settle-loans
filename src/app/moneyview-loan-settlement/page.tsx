@@ -610,10 +610,10 @@ export default function MoneyViewLoanSettlementPage() {
                 Compounding this distress is the automated NACH mandate presentation cycle. MoneyView&apos;s automated payment gateway repeatedly presents electronic debit instructions to the borrower&apos;s savings bank account. Each failed NACH auto-debit triggers return penalty charges ranging from ₹250 to ₹590 at the destination bank, while the NBFC levies internal late payment fines of ₹500 to ₹1,000 plus penal interest of 24% to 36% per annum. Within four months of delinquency, these compounding fees can inflate the ledger liability by ₹30,000 to ₹60,000 over the genuine principal amount.
               </p>
               <div className="bg-slate-50 border border-slate-200 rounded-xl p-5 my-6">
-                <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   Three-Step Legal Strategy to Halt the NACH Return Drain
-                </h4>
+                </h3>
                 <ul className="space-y-2 text-xs sm:text-sm text-slate-700 leading-relaxed">
                   <li><strong>1. Written e-Mandate Revocation:</strong> Under National Payments Corporation of India (NPCI) circulars, every banking customer has the absolute right to instruct their home branch in writing to cancel or suspend an electronic NACH mandate due to acute financial hardship.</li>
                   <li><strong>2. Formal Legal Cease-and-Desist Notice:</strong> Serving a structured legal notice to Whizdm Finance and its co-lenders asserting financial hardship and demanding immediate suspension of automated payment sweeps.</li>
@@ -753,10 +753,10 @@ export default function MoneyViewLoanSettlementPage() {
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs font-bold">1</span>
                     Loan Forensic Audit &amp; Balance-Sheet Lender Identification
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                     Our banking advocates inspect the original Key Fact Statement (KFS), loan sanction document, and current repayment ledger. We identify the exact registered balance-sheet lender (Whizdm Finance, DMI Finance, Clix Capital, etc.), calculate the exact disbursed principal, and segregate all uncollected penal interest, processing markups, and unlawful NACH return fines.
                   </p>
@@ -821,10 +821,10 @@ export default function MoneyViewLoanSettlementPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-6">
-                <h4 className="font-bold text-slate-900 text-base mb-4 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-base mb-4 flex items-center gap-2">
                   <Lock className="w-5 h-5 text-[#1F5EFF]" />
                   Mandatory OTS Sanction Letter Verification Checklist
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs sm:text-sm">
                   <div className="flex items-start gap-2.5">
                     <CheckCircle className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />
@@ -1125,14 +1125,14 @@ export default function MoneyViewLoanSettlementPage() {
                   </div>
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -1165,9 +1165,9 @@ export default function MoneyViewLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>MoneyView Dispute Resolution</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Facing MoneyView Loan Default?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Stop aggressive recovery tele-calling and recurring NACH return fees immediately. Let our experienced banking advocates audit your delinquency stage, defend statutory legal notices, draft your formal OTS petition, and secure an authentic stamped NBFC settlement letter.
               </p>
@@ -1181,10 +1181,10 @@ export default function MoneyViewLoanSettlementPage() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

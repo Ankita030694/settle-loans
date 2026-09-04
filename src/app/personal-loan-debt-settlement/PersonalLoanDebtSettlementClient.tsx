@@ -121,7 +121,7 @@ export default function PersonalLoanDebtSettlementClient() {
           {/* Left Sidebar (TOC) */}
           <div className="hidden lg:block sticky top-8">
             <div className="bg-slate-50 rounded-2xl p-6 border border-slate-200">
-              <h3 className="font-bold text-slate-900 mb-4 text-lg">Table of Contents</h3>
+              <div className="font-bold text-slate-900 mb-4 text-lg">Table of Contents</div>
               <nav className="flex flex-col gap-3 text-sm">
                 {TABLE_OF_CONTENTS.map((item) => (
                   <a
@@ -175,7 +175,7 @@ export default function PersonalLoanDebtSettlementClient() {
 
             {/* Quick Answer Block */}
             <div className="bg-[#F8F9FA] border-l-[6px] border-[#2D68FF] rounded-r-2xl p-6 mb-12 shadow-sm">
-              <h3 className="font-bold text-slate-900 text-lg mb-2">The Quick Answer</h3>
+              <div className="font-bold text-slate-900 text-lg mb-2">The Quick Answer</div>
               <p className="text-slate-600 leading-relaxed">
                 <strong>Personal Loan Debt Settlement</strong> is an agreement with your lender to pay a lump sum that is less than the total amount you owe to close the account. It drastically hurts your CIBIL score but offers an escape from unmanageable debt. <strong>Debt Consolidation</strong> involves taking a new, lower-interest loan to pay off existing debts, protecting your credit score but requiring you to pay the full principal. If you are already defaulting on EMIs, settlement is often the most viable legal route under RBI guidelines.
               </p>
@@ -214,7 +214,7 @@ export default function PersonalLoanDebtSettlementClient() {
               </p>
               
               <div className="bg-slate-50 rounded-2xl p-6 my-8 border border-slate-100">
-                <h4 className="font-bold text-slate-900 mb-4 text-xl">Key Differences at a Glance</h4>
+                <h3 className="font-bold text-slate-900 mb-4 text-xl">Key Differences at a Glance</h3>
                 <ul className="list-disc pl-5 space-y-3 text-slate-600 marker:text-[#2D68FF]">
                   <li><strong>Mechanism:</strong> Consolidation combines multiple loans into one. Settlement negotiates to pay only a fraction of the outstanding amount.</li>
                   <li><strong>Credit Score Impact:</strong> Consolidation protects or even improves your CIBIL score if paid on time. Settlement severely damages your CIBIL score, dropping it by 50-100 points, as the account is marked "Settled."</li>
@@ -308,7 +308,7 @@ export default function PersonalLoanDebtSettlementClient() {
                       {index + 1}
                     </div>
                     <div>
-                      <h4 className="font-bold text-slate-900 text-lg mb-1">{step.title}</h4>
+                      <h3 className="font-bold text-slate-900 text-lg mb-1">{step.title}</h3>
                       <p className="text-slate-600 leading-relaxed text-sm">{step.desc}</p>
                     </div>
                   </div>
@@ -377,7 +377,7 @@ export default function PersonalLoanDebtSettlementClient() {
             {/* CTA Box */}
             <div className="bg-[#30333A] rounded-2xl p-6 text-white mb-8 shadow-xl relative overflow-hidden">
               <div className="absolute top-0 right-0 w-32 h-32 bg-[#2D68FF]/20 rounded-full blur-3xl -mr-10 -mt-10"></div>
-              <h3 className="text-xl font-bold mb-3 relative z-10">Drowning in Debt?</h3>
+              <div className="text-xl font-bold mb-3 relative z-10">Drowning in Debt?</div>
               <p className="text-slate-300 text-sm mb-6 leading-relaxed relative z-10">
                 Stop the harassment today. Let our legal experts negotiate with your banks and reduce your payable amount by up to 50%.
               </p>

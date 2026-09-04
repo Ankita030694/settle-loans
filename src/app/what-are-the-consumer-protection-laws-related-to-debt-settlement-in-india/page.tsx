@@ -505,7 +505,7 @@ export default function ConsumerProtectionLawsPage() {
                 <div className="flex items-start gap-4 p-4 bg-gray-50 rounded-lg border border-gray-100">
                   <div className="w-8 h-8 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold flex-shrink-0">1</div>
                   <div>
-                    <h4 className="font-bold text-lg">Register a Formal Complaint</h4>
+                    <h3 className="font-bold text-lg">Register a Formal Complaint</h3>
                     <p className="text-sm text-gray-500 font-bold">Submit a written complaint to the bank's Branch Manager or through their online portal. Keep the complaint number and a timestamped copy of the email. This is your foundation for all future legal action.</p>
                   </div>
                 </div>
@@ -601,7 +601,7 @@ export default function ConsumerProtectionLawsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -668,7 +668,7 @@ export default function ConsumerProtectionLawsPage() {
             <div className="sticky top-24 space-y-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">We are in This Together</h3>
+                  <div className="text-lg font-black text-white">We are in This Together</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -682,7 +682,7 @@ export default function ConsumerProtectionLawsPage() {
               </div>
 
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

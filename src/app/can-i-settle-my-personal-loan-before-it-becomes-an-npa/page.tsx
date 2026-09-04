@@ -320,7 +320,7 @@ export default function PreNPASettlementPage() {
             </p>
             <div className="grid md:grid-cols-2 gap-6 my-8">
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                <h4 className="font-black text-[#1F5EFF] mb-3 text-lg">System Constraints</h4>
+                <h3 className="font-black text-[#1F5EFF] mb-3 text-lg">System Constraints</h3>
                 <p className="text-sm leading-relaxed">Standard core banking systems do not have a button for "Write-Off/Settlement" for standard or SMA accounts. The RBI requires provisioning (setting aside capital) which is tied to the 90-day NPA cycle.</p>
               </div>
               <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -402,7 +402,7 @@ export default function PreNPASettlementPage() {
               The Reserve Bank of India (RBI) has laid down a clear Fair Practice Code for lenders. While the bank has the right to recover its money, it does not have the right to violate your basic human dignity during the SMA phases.
             </p>
             <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-              <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Protections for Borrowers:</h4>
+              <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Protections for Borrowers:</h3>
               <ul className="space-y-4 text-blue-900 font-medium">
                 <li className="flex items-start gap-3">
                    <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -440,7 +440,7 @@ export default function PreNPASettlementPage() {
                Negotiation is an art. When you enter a bank, you are a customer who has faced an unfortunate turn of events. You are not a criminal. Here are some strategies for pre-NPA talks:
             </p>
             <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-               <h4 className="font-black text-[#2E2E2E] mb-4">The "Hardship" Strategy</h4>
+               <h3 className="font-black text-[#2E2E2E] mb-4">The "Hardship" Strategy</h3>
                <p className="mb-4">Always emphasize that your current situation is temporary but severe. Provide documents like a termination letter or medical bills to prove you genuinely cannot pay the current EMI.</p>
                <h4 className="font-black text-[#2E2E2E] mb-4">The "Restructuring Request" Clause</h4>
                <p className="mb-4">Instead of asking for a settlement, ask for a tenure extension. Lowering the EMI by extending the loan from 3 years to 5 years is something branch managers can actually approve.</p>
@@ -515,7 +515,7 @@ export default function PreNPASettlementPage() {
               This is the most significant aspect of pre-NPA negotiations. If you restructure your loan, the lender reports the status as "Restructured" to the credit bureaus.
             </p>
             <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-               <h4 className="text-lg font-bold text-red-700 mb-3">What "Restructured" Means to Future Lenders:</h4>
+               <h3 className="text-lg font-bold text-red-700 mb-3">What "Restructured" Means to Future Lenders:</h3>
                <p className="text-sm text-red-900 leading-relaxed italic">
                  "This borrower faced financial stress and needed their loan terms modified. While they didn't default, lending to them in the near future is slightly risky."
                </p>
@@ -542,11 +542,11 @@ export default function PreNPASettlementPage() {
             </p>
             <div className="grid sm:grid-cols-2 gap-4 my-8">
                <div className="bg-white p-5 rounded-lg border border-[#DEDEDE] shadow-sm">
-                  <h5 className="font-black text-[#2E2E2E] mb-2">Record Everything</h5>
+                  <h3 className="font-black text-[#2E2E2E] mb-2">Record Everything</h3>
                   <p className="text-sm">Always record your calls with agents. If they use abusive language, this recording is your evidence for an RBI complaint. Most modern smartphones have this feature; use it.</p>
                </div>
                <div className="bg-white p-5 rounded-lg border border-[#DEDEDE] shadow-sm">
-                  <h5 className="font-black text-[#2E2E2E] mb-2">Verification</h5>
+                  <h4 className="font-black text-[#2E2E2E] mb-2">Verification</h4>
                   <p className="text-sm">Never give money to an agent. Only pay through the bank's official app or branch. Insist on seeing their ID card and the bank's authorization letter.</p>
                </div>
             </div>
@@ -651,7 +651,7 @@ export default function PreNPASettlementPage() {
              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-12">More Stories of Financial Recovery</h2>
              <div className="grid md:grid-cols-2 gap-8 text-left">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-xl">
-                   <h4 className="font-black text-lg mb-4">Suresh, Hyderabad</h4>
+                   <h3 className="font-black text-lg mb-4">Suresh, Hyderabad</h3>
                    <p className="text-gray-600 mb-6 italic leading-relaxed">
                      "I was in SMA-2 and panicking. SettleLoans consolidated the negotiation. They secured a tenure extension, dropping my EMI from 45k to 22k."
                    </p>
@@ -709,7 +709,7 @@ export default function PreNPASettlementPage() {
                       {review.name.charAt(0)}
                     </div>
                     <div>
-                      <h5 className="font-black text-[#2E2E2E]">{review.name}</h5>
+                      <h3 className="font-black text-[#2E2E2E]">{review.name}</h3>
                       <p className="text-xs text-[#747474] font-bold uppercase tracking-wider">{review.loc}</p>
                     </div>
                     <div className="ml-auto flex text-yellow-400">
@@ -756,7 +756,7 @@ export default function PreNPASettlementPage() {
                 { q: "How do I verify the authenticity of a settlement letter?", a: "Always check the letter for a valid reference number and call the bank's official customer care or visit the branch manager to confirm the offer before making any payment." }
               ].map((faq, i) => (
                 <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h4 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h4>
+                  <h3 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h3>
                   <p className="text-gray-600 leading-relaxed">{faq.a}</p>
                 </div>
               ))}
@@ -785,13 +785,13 @@ export default function PreNPASettlementPage() {
           <div className="sticky top-24 space-y-8">
              <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl overflow-hidden relative group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                <h3 className="text-2xl font-black mb-4 relative z-10">Struggling with EMI?</h3>
+                <div className="text-2xl font-black mb-4 relative z-10">Struggling with EMI?</div>
                 <p className="text-white/70 text-sm mb-6 relative z-10">Our experts have settled over 500 Crore Plus in debt for thousands of clients across India.</p>
                 <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-black py-4 rounded-xl hover:bg-[#1F5EFF]/90 transition-colors shadow-lg">Get Free Advice</Link>
              </div>
 
              <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-4">Related Resources</h3>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-4">Related Resources</div>
                 <ul className="space-y-5">
                    <li>
                       <Link href="/loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold transition-colors">

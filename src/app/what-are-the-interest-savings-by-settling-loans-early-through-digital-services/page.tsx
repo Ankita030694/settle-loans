@@ -429,7 +429,7 @@ export default function InterestSavingsDigitalPage() {
               </p>
               <div className="grid sm:grid-cols-2 gap-6 my-10">
                 <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-lg hover:border-[#1F5EFF] transition-all">
-                  <h4 className="font-black text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">HDFC Bank Policy</h4>
+                  <h3 className="font-black text-[#1F5EFF] mb-4 uppercase text-xs tracking-widest">HDFC Bank Policy</h3>
                   <ul className="text-sm space-y-3 font-medium text-gray-600">
                     <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-gray-300 rounded-full"></span> 0-12 EMIs: Not allowed</li>
                     <li className="flex items-center gap-2"><span className="w-1.5 h-1.5 bg-gray-300 rounded-full"></span> 13-24 months: 4% of Principal</li>
@@ -507,10 +507,10 @@ export default function InterestSavingsDigitalPage() {
               <div className="space-y-6 my-10">
                 <div className="group p-6 bg-white border border-gray-200 rounded-2xl hover:border-[#1F5EFF] transition-colors relative overflow-hidden">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/5 rounded-bl-full -mr-12 -mt-12 transition-all group-hover:bg-[#1F5EFF]/10"></div>
-                  <h4 className="font-black text-[#2E2E2E] text-xl mb-3 flex items-center gap-2 uppercase tracking-tight">
+                  <h3 className="font-black text-[#2E2E2E] text-xl mb-3 flex items-center gap-2 uppercase tracking-tight">
                     <span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span>
                     Legal Forensic Audit
-                  </h4>
+                  </h3>
                   <p className="text-sm text-gray-500 leading-relaxed font-bold"><Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">Amalegal</Link> examines the loan contract for 'Usurious' interest rates. Specifically for fintech app loans, if the effective rate exceeds the fair boundaries of the Indian Contract Act, they use this as leverage to settle the loan at the principal amount only.</p>
                 </div>
                 <div className="group p-6 bg-white border border-gray-200 rounded-2xl hover:border-[#1F5EFF] transition-colors relative overflow-hidden">
@@ -573,7 +573,7 @@ export default function InterestSavingsDigitalPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div className="bg-white p-8 rounded-2xl border-t-4 border-[#1F5EFF] shadow-lg">
-                  <h4 className="font-black text-lg mb-4 uppercase">Counselor-Led Audit</h4>
+                  <h3 className="font-black text-lg mb-4 uppercase">Counselor-Led Audit</h3>
                   <p className="text-sm text-gray-500 leading-relaxed font-bold italic">Human experts review your statement to find 'Relationship Leverage' using your history as a good bank customer (prior to default) to demand a more compassionate interest waiver.</p>
                 </div>
                 <div className="bg-white p-8 rounded-2xl border-t-4 border-[#1F5EFF] shadow-lg">
@@ -595,7 +595,7 @@ export default function InterestSavingsDigitalPage() {
               </p>
               <div className="space-y-8">
                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                  <h4 className="font-black text-xl mb-4 text-gray-800 tracking-tight font-bold italic">1. Gather 12 Months of Data</h4>
+                  <h3 className="font-black text-xl mb-4 text-gray-800 tracking-tight font-bold italic">1. Gather 12 Months of Data</h3>
                   <p className="text-base text-gray-600 leading-relaxed font-bold">Download your 'Statement of Accounts' (SOA) in Excel format. PDFs are hard to audit. You need the raw transaction data to identify 'Interest on Interest' compounding errors.</p>
                 </div>
                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
@@ -626,7 +626,7 @@ export default function InterestSavingsDigitalPage() {
                     A
                   </div>
                   <div>
-                    <h5 className="font-black text-[#2E2E2E] mb-2 font-bold italic">Early Preclosure (Standard)</h5>
+                    <h3 className="font-black text-[#2E2E2E] mb-2 font-bold italic">Early Preclosure (Standard)</h3>
                     <p className="text-sm text-gray-500 font-bold">Savings: You save only the *future* interest. You still pay 100% of the principal and accrued interest. This is for borrowers with surplus cash who want to save on long-term outflow.</p>
                   </div>
                 </li>
@@ -635,7 +635,7 @@ export default function InterestSavingsDigitalPage() {
                     B
                   </div>
                   <div>
-                    <h5 className="font-black text-[#2E2E2E] mb-2">Debt Settlement (Professional)</h5>
+                    <h4 className="font-black text-[#2E2E2E] mb-2">Debt Settlement (Professional)</h4>
                     <p className="text-sm text-gray-500 font-bold">Savings: You save future interest, *plus* a massive chunk of the principal, *plus* existing penal interest. This is for borrowers in financial hardship seeking a clean break.</p>
                   </div>
                 </li>
@@ -732,7 +732,7 @@ export default function InterestSavingsDigitalPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white uppercase tracking-wider">Interest Firewall</h3>
+                  <div className="text-lg font-black text-white uppercase tracking-wider">Interest Firewall</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -747,7 +747,7 @@ export default function InterestSavingsDigitalPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Settlement Depth</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Settlement Depth</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement-amount-calculator" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

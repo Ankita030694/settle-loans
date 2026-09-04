@@ -210,7 +210,7 @@ export default function RecoveryHarassmentComplaintPage() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px] relative">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Complaint Roadmap</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Complaint Roadmap</div>
                             <TableOfContents
                                 items={[
                                     { id: "complaint-starting-point", title: "Where to Begin" },
@@ -258,7 +258,7 @@ export default function RecoveryHarassmentComplaintPage() {
                             </p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-all">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">The Formal Email</h4>
+                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">The Formal Email</h3>
                                     <p className="text-sm leading-relaxed font-bold opacity-70">Send a detailed email to the PNO of your bank. Use the subject line: 'URGENT: Harassment by Recovery Agents - Loan A/C [Number]'. Be professional, factual, and mention the specific RBI guidelines violated.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-all">
@@ -280,7 +280,7 @@ export default function RecoveryHarassmentComplaintPage() {
                                 The <strong>RBI Complaint Management System (CMS)</strong> is a digital platform where you can lodge complaints against any regulated entity. The RBI Ombudsman acts as a referee who ensures the bank doesn't play dirty.
                             </p>
                             <div className="bg-blue-900 p-10 rounded-[40px] text-white shadow-2xl mb-12 relative overflow-hidden">
-                                <h4 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF]">How to File on CMS (Step-by-Step)</h4>
+                                <h3 className="text-2xl font-black mb-6 uppercase tracking-widest text-[#1F5EFF]">How to File on CMS (Step-by-Step)</h3>
                                 <ol className="space-y-6 text-sm font-bold list-decimal pl-6">
                                     <li className="pl-4">Visit <strong>cms.rbi.org.in</strong> and select the 'File a Complaint' option.</li>
                                     <li className="pl-4">Identify the bank/NBFC and ensure you have their initial response (or proof of wait of 30 days).</li>
@@ -301,7 +301,7 @@ export default function RecoveryHarassmentComplaintPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-[#2E2E2E] text-white rounded-[48px] shadow-xl border-t-8 border-red-600">
-                                    <h4 className="text-2xl font-black mb-4 uppercase italic leading-none">Section 503 & 506 IPC</h4>
+                                    <h3 className="text-2xl font-black mb-4 uppercase italic leading-none">Section 503 & 506 IPC</h3>
                                     <p className="text-sm leading-relaxed opacity-90 font-bold uppercase italic border-b border-white/20 pb-4">Criminal Intimidation</p>
                                     <p className="text-xs leading-relaxed opacity-70 mt-4">Applies when agents threaten to ruin your life, family, or property. This is a non-bailable offense in many contexts.</p>
                                 </div>
@@ -373,7 +373,7 @@ export default function RecoveryHarassmentComplaintPage() {
                                 <div className="absolute top-0 right-0 p-8">
                                     <svg className="w-12 h-12 text-[#1F5EFF]/10 group-hover:scale-110 transition-transform" fill="currentColor" viewBox="0 0 24 24"><path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z" /></svg>
                                 </div>
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter leading-none italic">Essential Notice Elements</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6 uppercase tracking-tighter leading-none italic">Essential Notice Elements</h3>
                                 <ul className="space-y-4 text-sm font-bold opacity-80 uppercase tracking-tighter list-disc pl-4">
                                     <li>Cite specific RBI Circular Number: RBI/2022-23/108</li>
                                     <li>Detail the exact dates and times of harassment.</li>
@@ -391,7 +391,7 @@ export default function RecoveryHarassmentComplaintPage() {
                             </p>
                             <div className="grid md:grid-cols-3 gap-8 text-white/90">
                                 <div className="p-6 border border-white/20 rounded-[32px] bg-white/5 hover:bg-white/10 transition-colors">
-                                    <h4 className="text-sm font-black uppercase mb-2 tracking-widest text-[#DEDEDE]">Mental Agony</h4>
+                                    <h3 className="text-sm font-black uppercase mb-2 tracking-widest text-[#DEDEDE]">Mental Agony</h3>
                                     <p className="text-[10px] font-bold uppercase leading-relaxed">For the stress and trauma caused by agents.</p>
                                 </div>
                                 <div className="p-6 border border-white/20 rounded-[32px] bg-white/5 hover:bg-white/10 transition-colors">
@@ -430,7 +430,7 @@ export default function RecoveryHarassmentComplaintPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -492,7 +492,7 @@ export default function RecoveryHarassmentComplaintPage() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group relative">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-tighter">Complaint Assistance</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-tighter">Complaint Assistance</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold italic uppercase">
@@ -507,7 +507,7 @@ export default function RecoveryHarassmentComplaintPage() {
 
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm">
-                                <h4 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 italic">Litigation Hub</h4>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 italic">Litigation Hub</div>
                                 <nav className="space-y-4">
                                     <Link href="/rbi-rules-for-recovery-agents" className="group flex items-center text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">
                                         <span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF] transition-colors"></span>

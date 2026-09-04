@@ -190,7 +190,7 @@ export default function RbiJuly2026GuidelinesPage() {
                                 One of the most significant changes in the 2026 guidelines is the strict restriction on when a recovery agent can contact a borrower. For too long, borrowers lived in fear of the "midnight call" or the "early morning knock."
                             </p>
                             <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm mb-10">
-                                <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">What the Law Says</h4>
+                                <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">What the Law Says</h3>
                                 <p className="text-base text-gray-700 leading-relaxed mb-4">
                                     Agents are strictly prohibited from calling or visiting a borrower before 8:00 AM and after 7:00 PM. This window is absolute. Even if a borrower is a habitual defaulter, the agent cannot violate these "quiet hours."
                                 </p>
@@ -213,7 +213,7 @@ export default function RbiJuly2026GuidelinesPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Verbal Abuse & Language</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Verbal Abuse & Language</h3>
                                     <p className="text-sm">The use of uncivilized, abusive, or threatening language is strictly prohibited. This includes threats to use physical force or to take legal action that the lender does not actually intend to take. Agents must maintain a professional and courteous tone at all times.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -240,7 +240,7 @@ export default function RbiJuly2026GuidelinesPage() {
                                 Perhaps the most abused tactic in modern recovery was the "contact spamming" method. Recovery agents would call a borrower's boss, their children's school, or their distant relatives to "shame" them into paying. The July 2026 guidelines put a permanent end to this.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The "Borrower-Only" Interaction Rule</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The "Borrower-Only" Interaction Rule</h3>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     Agents are strictly prohibited from contacting any third party regarding the borrower's debt. This includes friends, family, neighbors, and colleagues. They can only interact with the borrower or the guarantor mentioned in the loan agreement.
                                 </p>
@@ -389,7 +389,7 @@ export default function RbiJuly2026GuidelinesPage() {
                                 In 2024 and 2025, we saw the RBI taking action against several NBFCs by stopping their "loan sanction and disbursement" activities due to recovery abuses. Under the 2026 guidelines, these penalties will become even more severe. The RBI will also publicly name and shame habitual violators through its annual reports and press releases.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">Key Penalties under the 2026 Norms</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">Key Penalties under the 2026 Norms</h3>
                                 <ul className="space-y-4 text-base font-medium">
                                     <li className="flex items-start gap-3">
                                         <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs flex-shrink-0 mt-1">1</span>
@@ -501,7 +501,7 @@ export default function RbiJuly2026GuidelinesPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -568,7 +568,7 @@ export default function RbiJuly2026GuidelinesPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">Compliance Support</h3>
+                                    <div className="text-lg font-black text-white px-2">Compliance Support</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -583,7 +583,7 @@ export default function RbiJuly2026GuidelinesPage() {
 
                             {/* Helpful Resources */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Helpful Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Helpful Resources</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/how-to-stop-loan-recovery-harassment" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

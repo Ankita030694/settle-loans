@@ -539,7 +539,7 @@ export default function TaxImplicationsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -594,7 +594,7 @@ export default function TaxImplicationsPage() {
           <aside className="w-full lg:w-1/5 space-y-8">
             <div className="sticky top-32">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20 p-8 text-center">
-                <h3 className="text-2xl font-black text-white mb-4">Settle Your Debt Legally</h3>
+                <div className="text-2xl font-black text-white mb-4">Settle Your Debt Legally</div>
                 <p className="text-[#DEDEDE]/80 text-sm mb-8">Professional negotiation with full tax compliance. Join 10k+ happy clients.</p>
                 <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-black py-4 rounded-xl hover:scale-105 transition-all shadow-lg">
                   Free Consultation
@@ -602,7 +602,7 @@ export default function TaxImplicationsPage() {
               </div>
 
               <div className="mt-8 bg-white rounded-2xl border border-gray-100 shadow-sm p-8">
-                <h3 className="text-lg font-bold text-gray-900 mb-6 underline decoration-[#1F5EFF] decoration-4 underline-offset-8">Related Tax Guides</h3>
+                <div className="text-lg font-bold text-gray-900 mb-6 underline decoration-[#1F5EFF] decoration-4 underline-offset-8">Related Tax Guides</div>
                 <ul className="space-y-4">
                   <li><Link href="/loan-settlement-process-in-india" className="text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">• Loan Settlement Process</Link></li>
                   <li><Link href="/best-apps-for-managing-and-settling-unsecured-loans" className="text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">• Debt Management Apps</Link></li>

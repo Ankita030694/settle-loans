@@ -265,7 +265,7 @@ export default function TopLoanAppsIndiaPage() {
                                 By analyzing things like utility bill payments, social media behavior, and transaction patterns, these apps can provide loans to individuals who might have been rejected by traditional institutions. This approach has opened up credit opportunities for students, young professionals, and micro-entrepreneurs across the country.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 my-8">
-                                <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Key Drivers of the Revolution</h4>
+                                <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Key Drivers of the Revolution</h3>
                                 <ul className="space-y-4">
                                     <li className="flex items-start">
                                         <span className="text-[#1F5EFF] mr-2 font-bold">1. Data Explosion:</span>
@@ -297,7 +297,7 @@ export default function TopLoanAppsIndiaPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">RBI Regulation & Safety</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">RBI Regulation & Safety</h3>
                                     <p className="text-sm">We only include apps that are either RBI-registered NBFCs themselves or have clear partnerships with regulated banks and NBFCs. Safety and data privacy are non-negotiable.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -476,7 +476,7 @@ export default function TopLoanAppsIndiaPage() {
                                 As a borrower, your first line of defense is awareness. You must always ensure that the app you are using is linked to a regulated entity.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The RBI's Digital Lending Guidelines</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The RBI's Digital Lending Guidelines</h3>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     The RBI mandates that all digital loans must be disbursed directly into the borrower's bank account and not through any third-party pool accounts. Furthermore, all fees and charges must be disclosed in a standardized Key Fact Statement (KFS).
                                 </p>
@@ -574,7 +574,7 @@ export default function TopLoanAppsIndiaPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -637,7 +637,7 @@ export default function TopLoanAppsIndiaPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">Free Credit Audit</h3>
+                                    <div className="text-lg font-black text-white px-2">Free Credit Audit</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -652,7 +652,7 @@ export default function TopLoanAppsIndiaPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Helpful Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Helpful Resources</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

@@ -321,7 +321,7 @@ export default function FakeRecoveryAgentsPage() {
               </p>
               <div className="space-y-6 mb-8">
                 <div className="p-6 bg-blue-50 rounded-xl border border-blue-100">
-                  <h4 className="font-bold text-blue-900 mb-2">Rule 1: Permissible Calling Hours</h4>
+                  <h3 className="font-bold text-blue-900 mb-2">Rule 1: Permissible Calling Hours</h3>
                   <p className="text-sm text-blue-800">
                     Agents are strictly allowed to call or visit only between 8:00 AM and 7:00 PM. Calls at midnight, early morning, or late at night are a serious violation of the RBI Fair Practice Code.
                   </p>
@@ -467,7 +467,7 @@ export default function FakeRecoveryAgentsPage() {
               <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-4 my-8">
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-blue-600">1</div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2">Stay Calm</h4>
+                  <h3 className="font-bold text-[#2E2E2E] mb-2">Stay Calm</h3>
                   <p className="text-xs text-gray-500">Do not panic or get aggressive. Keep your voice steady.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
@@ -719,7 +719,7 @@ export default function FakeRecoveryAgentsPage() {
                         {testimonial.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{testimonial.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{testimonial.name}</h3>
                         <p className="text-xs text-gray-400">{testimonial.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -796,9 +796,9 @@ export default function FakeRecoveryAgentsPage() {
                {/* Fixed CTA Card */}
                <div className="bg-[#2E2E2E] rounded-3xl p-8 border border-gray-800 shadow-2xl relative overflow-hidden group">
                  <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/10 rounded-bl-full -mr-8 -mt-8 transition-transform group-hover:scale-110"></div>
-                 <h3 className="text-2xl font-black text-white mb-6 leading-tight relative z-10">
+                 <div className="text-2xl font-black text-white mb-6 leading-tight relative z-10">
                    Get Your <br /> <span className="text-[#1F5EFF]">Credit Profile</span> Analyzed
-                 </h3>
+                 </div>
                  <p className="text-gray-400 text-sm mb-8 leading-relaxed relative z-10">
                    Stop the harassment and start your journey towards a debt free life with our expert legal team.
                  </p>
@@ -809,10 +809,10 @@ export default function FakeRecoveryAgentsPage() {
 
                {/* Related Pages */}
                <div className="bg-white rounded-3xl p-8 border border-gray-100 shadow-lg">
-                 <h4 className="text-lg font-black text-[#2E2E2E] mb-6 flex items-center gap-2">
+                 <div className="text-lg font-black text-[#2E2E2E] mb-6 flex items-center gap-2">
                    <span className="w-1.5 h-6 bg-[#1F5EFF] rounded-full"></span>
                    Related Guides
-                 </h4>
+                 </div>
                  <div className="space-y-4">
                    {[
                      { title: "RBI Personal Loan Rules", href: "/rbi-rules-for-recovery-agents" },

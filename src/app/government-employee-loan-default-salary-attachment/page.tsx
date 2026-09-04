@@ -629,10 +629,10 @@ export default function GovernmentEmployeeLoanDefaultPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Ban className="w-4 h-4 text-red-600" />
                     <span>Illegal Third-Party Disclosure &amp; Workplace Trespass</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Contacting an employer, disclosing confidential debt records to colleagues, or sending recovery agents to high-security government establishments or defense cantonments violates Section 29 of the Credit Information Companies (Regulation) Act, 2005, and constitutes criminal trespass under the Bharatiya Nyaya Sanhita.
                   </p>
@@ -789,7 +789,7 @@ export default function GovernmentEmployeeLoanDefaultPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Cease-and-Desist Notice &amp; Anti-Harassment Injunction</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Cease-and-Desist Notice &amp; Anti-Harassment Injunction</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Advocates serve an immediate statutory legal demand on the bank&apos;s Managing Director, Zonal Collection Head, and Principal Nodal Officer. The notice formally places the bank on record regarding illegal employer contact, cites RBI Fair Practices Code violations, and warns of criminal defamation and damages suits if workplace communications do not immediately cease.
                   </p>
@@ -1181,7 +1181,7 @@ export default function GovernmentEmployeeLoanDefaultPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Confidential Service Shield</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Are Bank Notices Threatening Your Job?</h4>
+              <div className="font-bold text-base text-white mb-2">Are Bank Notices Threatening Your Job?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let recovery agents intimidate your department or compromise your promotion. Retain senior banking advocates to protect your service record under Section 60 CPC and negotiate a 45%–65% OTS.
               </p>
@@ -1195,9 +1195,9 @@ export default function GovernmentEmployeeLoanDefaultPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

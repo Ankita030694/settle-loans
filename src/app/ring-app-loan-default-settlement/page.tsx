@@ -716,7 +716,7 @@ export default function RingAppLoanDefaultSettlementPage() {
               </p>
               <div className="space-y-4 my-6">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">1. Cancel NACH Auto-Debits via Destination Bank</h4>
+                  <h3 className="font-bold text-slate-900 text-sm mb-1">1. Cancel NACH Auto-Debits via Destination Bank</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under National Payments Corporation of India (NPCI) circulars, every account holder possesses the absolute right to instruct their bank in writing or via net banking to cancel or suspend the e-mandate registered to Si Creva Capital, halting future bounce fees immediately.
                   </p>
@@ -1289,11 +1289,11 @@ export default function RingAppLoanDefaultSettlementPage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -1323,9 +1323,9 @@ export default function RingAppLoanDefaultSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Ring App Dispute Resolution</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Trapped in Ring App Loan Default?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Stop aggressive calling bots and recurring NACH return fees immediately. Let our experienced banking advocates audit your delinquency stage, defend statutory legal notices, draft your formal OTS petition, and secure an authentic stamped Si Creva Capital settlement letter.
               </p>
@@ -1339,10 +1339,10 @@ export default function RingAppLoanDefaultSettlementPage() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

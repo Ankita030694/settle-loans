@@ -364,7 +364,7 @@ export default function OTSFullFormPage() {
               <p className="mb-8">Many borrowers try to negotiate their own OTS and end up with a poor deal or a cancelled agreement. Banks are powerful institutions with massive legal resources. Going up against them alone is like bringing a knife to a gunfight. At SettleLoans, we provide the 'Collective Bargaining Power' of thousands of clients. When we talk to a bank, they know they are dealing with professionals who understand their internal policies, their targets, and the RBI laws better than their own local agents do.</p>
               <div className="grid md:grid-cols-3 gap-6 not-prose">
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100 text-center">
-                  <h4 className="font-black text-blue-700 mb-2">Higher Waivers</h4>
+                  <h3 className="font-black text-blue-700 mb-2">Higher Waivers</h3>
                   <p className="text-xs text-blue-900 leading-relaxed font-bold">We know the lowest possible amount a bank will accept for your specific loan type and default age.</p>
                 </div>
                 <div className="bg-purple-50 p-6 rounded-xl border border-purple-100 text-center">
@@ -429,7 +429,7 @@ export default function OTSFullFormPage() {
               {/* Specialized OTS CTA */}
               <div className="bg-white rounded-2xl shadow-xl overflow-hidden border-2 border-[#1F5EFF] flex flex-col">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white italic">SAMADHAN ALERT</h3>
+                  <div className="text-lg font-black text-white italic">SAMADHAN ALERT</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#2E2E2E] leading-relaxed font-bold">
@@ -444,7 +444,7 @@ export default function OTSFullFormPage() {
 
               {/* OTS Stats */}
               <div className="bg-gray-50 p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                 <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">OTS Effectiveness</h3>
+                 <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">OTS Effectiveness</div>
                  <div className="space-y-6">
                     <div className="text-center">
                        <span className="block text-2xl font-black text-[#1F5EFF]">40-70%</span>
@@ -463,7 +463,7 @@ export default function OTSFullFormPage() {
 
               {/* Important External Links (Simulated Internal Links) */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">OTS Focus Areas</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">OTS Focus Areas</div>
                 <ul className="space-y-4 text-xs font-bold">
                   <li>
                     <Link href="/faqs/how-to-settle-loan" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

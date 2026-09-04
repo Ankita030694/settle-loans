@@ -288,7 +288,7 @@ export default function BenefitsDrawbacksPage() {
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100">
                                     <FontAwesomeIcon icon={faShieldHeart} className="text-emerald-600 mb-4 w-6 h-6" />
-                                    <h4 className="font-bold text-lg mb-2 text-emerald-900">Principal Waivers</h4>
+                                    <h3 className="font-bold text-lg mb-2 text-emerald-900">Principal Waivers</h3>
                                     <p className="text-emerald-800 text-sm">Professional negotiators can often secure waivers ranging from 30% to 70% of the total outstanding amount, depending on the age of the debt and the lender's policy.</p>
                                 </div>
                                 <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100">
@@ -307,10 +307,10 @@ export default function BenefitsDrawbacksPage() {
                                 For many borrowers in India, the fear of legal action is the most significant stressor. Loan settlement acts as a formal legal closure. When you receive your No Dues Certificate, you are essentially getting a legal release from all future claims.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl border border-gray-200 mb-8">
-                                <h4 className="font-bold text-xl mb-4 flex items-center">
+                                <h3 className="font-bold text-xl mb-4 flex items-center">
                                     <FontAwesomeIcon icon={faGavel} className="text-blue-600 mr-3 w-5 h-5" />
                                     Legal Immunity via Settlement
-                                </h4>
+                                </h3>
                                 <ul className="space-y-4">
                                     <li className="flex items-start">
                                         <FontAwesomeIcon icon={faCheck} className="text-green-500 mt-1 mr-3 w-4 h-4 flex-shrink-0" />
@@ -362,7 +362,7 @@ export default function BenefitsDrawbacksPage() {
                                         </div>
                                     </div>
                                     <div className="md:w-2/3 p-8 bg-red-50/30">
-                                        <h4 className="text-xl font-bold text-gray-900 mb-4">The Impact of "Settled" Status</h4>
+                                        <h3 className="text-xl font-bold text-gray-900 mb-4">The Impact of "Settled" Status</h3>
                                         <p className="text-gray-700 leading-relaxed text-sm italic font-sans">
                                             While a default drops your score temporarily, a 'Settled' label persists in your historical data for seven years. This means even if your score reaches 750 after few years, a manual credit underwriter seeing the 'Settled' tag on an old personal loan might still reject your application for a premium credit card or high-value car loan.
                                         </p>
@@ -407,7 +407,7 @@ export default function BenefitsDrawbacksPage() {
                             </p>
                             <div className="grid sm:grid-cols-2 gap-4 mb-8">
                                 <div className="p-6 bg-blue-50 border border-blue-100 rounded-2xl">
-                                    <h5 className="font-bold text-blue-900 mb-3 uppercase text-xs tracking-widest">Settle IF...</h5>
+                                    <h3 className="font-bold text-blue-900 mb-3 uppercase text-xs tracking-widest">Settle IF...</h3>
                                     <ul className="space-y-2 text-sm text-blue-800">
                                         <li>You have zero hope of paying full EMIs in next 24 months.</li>
                                         <li>You are facing active legal notices (Section 138).</li>
@@ -415,7 +415,7 @@ export default function BenefitsDrawbacksPage() {
                                     </ul>
                                 </div>
                                 <div className="p-6 bg-red-50 border border-red-100 rounded-2xl">
-                                    <h5 className="font-bold text-red-900 mb-3 uppercase text-xs tracking-widest">DO NOT Settle IF...</h5>
+                                    <h4 className="font-bold text-red-900 mb-3 uppercase text-xs tracking-widest">DO NOT Settle IF...</h4>
                                     <ul className="space-y-2 text-sm text-red-800">
                                         <li>You plan to buy a home or car in the next 3 years.</li>
                                         <li>You have assets you can sell to pay in full.</li>
@@ -577,7 +577,7 @@ export default function BenefitsDrawbacksPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group text-[#DEDEDE]">
                                 <div className="bg-[#1F5EFF] p-5 text-center">
-                                    <h3 className="text-base font-black text-white uppercase tracking-widest">Decision Lab</h3>
+                                    <div className="text-base font-black text-white uppercase tracking-widest">Decision Lab</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm opacity-80 leading-relaxed font-normal">
@@ -591,7 +591,7 @@ export default function BenefitsDrawbacksPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-7 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-xs font-black uppercase tracking-widest text-[var(--color-text-muted)] mb-6 border-b border-gray-100 pb-3">Expert Guides</h3>
+                                <div className="text-xs font-black uppercase tracking-widest text-[var(--color-text-muted)] mb-6 border-b border-gray-100 pb-3">Expert Guides</div>
                                 <ul className="space-y-5 text-xs font-bold font-sans">
                                     <li>
                                         <Link href="/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score" className="group flex items-start text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-all">

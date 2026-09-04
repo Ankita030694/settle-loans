@@ -195,7 +195,7 @@ export default function JointLoanSettlementPage() {
                                 Regardless of your role, a default is reported against **both** PAN numbers. If the loan is settled, both credit reports will show the "Settled" status. There is no way to settle for one borrower while keeping the other borrower's report as "Closed" or "Standard". The credit destiny of both parties is welded together.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-2xl mb-8">
-                                <h4 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Systematic Credit Damage:</h4>
+                                <h3 className="font-bold text-[#1F5EFF] mb-4 uppercase tracking-wider">The Systematic Credit Damage:</h3>
                                 <ul className="space-y-6">
                                     <li className="flex gap-4">
                                         <div className="w-10 h-10 rounded-full bg-blue-100 flex-shrink-0 flex items-center justify-center text-blue-600 font-bold">1</div>
@@ -222,7 +222,7 @@ export default function JointLoanSettlementPage() {
                             </p>
                             <div className="bg-blue-900 text-white p-10 rounded-[30px] mb-8 relative overflow-hidden">
                                 <div className="absolute top-0 right-0 w-32 h-32 bg-white/5 rounded-full -mr-16 -mt-16"></div>
-                                <h4 className="text-2xl font-black mb-6 flex items-center gap-3"><FontAwesomeIcon icon={faScaleUnbalanced} className="text-[#1F5EFF]" /> The Legal Reality Check</h4>
+                                <h3 className="text-2xl font-black mb-6 flex items-center gap-3"><FontAwesomeIcon icon={faScaleUnbalanced} className="text-[#1F5EFF]" /> The Legal Reality Check</h3>
                                 <p className="leading-relaxed text-blue-100 italic">
                                     Even if your divorce paper says you aren't responsible, the bank can still sue you for recovery if your ex-spouse stops paying. The bank's contract with you overrides your divorce settlement. To truly exit the liability, you must either **Refinance** the loan into a single name or reach a **Composite Settlement** with the bank to close the account entirely.
                                 </p>
@@ -237,7 +237,7 @@ export default function JointLoanSettlementPage() {
                                 This is the most common operational bottleneck in joint debt resolution. Borrower A wants to settle and move on, but Borrower B (often the one who spent the money) refuses to acknowledge the debt or contribute.
                             </p>
                             <div className="bg-gray-50 p-8 rounded-3xl mb-8 border border-gray-100">
-                                <h4 className="font-bold mb-4 uppercase text-[#1F5EFF] tracking-wider">The "Stall-Mate" Survival Guide:</h4>
+                                <h3 className="font-bold mb-4 uppercase text-[#1F5EFF] tracking-wider">The "Stall-Mate" Survival Guide:</h3>
                                 <div className="space-y-6 text-sm">
                                     <p>**Strategy A: The Third-Party Mediator.** Banks are often willing to act as a catalyst here. If we show the bank that one borrower is cooperative and the other is not, the bank might agree to a 'Split Settlement' (though rare) or prioritize recovery actions specifically against the non-cooperative party's personal assets.</p>
                                     <p>**Strategy B: The Indemnity Bond.** If you are paying the full settlement yourself, you must make your partner sign an **Indemnity Bond** or a **Promissory Note**. This ensures that while you satisfy the bank today, you retain a legal claim against your partner's future income or assets for their share.</p>
@@ -269,7 +269,7 @@ export default function JointLoanSettlementPage() {
                                 SettleLoans frequently assists parents in these situations. The strategy here often involves demonstrating the "End of Earning Capacity" for the parent to the bank. If the parent is a retiree with limited pension, banks are highly likely to accept a massive settlement because they know the 'Ability to Pay' has vanished.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border-l-4 border-blue-500 mb-8">
-                                <h4 className="font-bold text-blue-900 mb-2 italic">Professional Tip:</h4>
+                                <h3 className="font-bold text-blue-900 mb-2 italic">Professional Tip:</h3>
                                 <p className="text-blue-800 text-sm">For education loans, always emphasize the 'Bonafide Hardship' of the student's career trajectory. Banks are more sympathetic to a student who 'Tried but Failed' than a business owner who 'Speculated and Lost'.</p>
                             </div>
                         </section>
@@ -285,7 +285,7 @@ export default function JointLoanSettlementPage() {
                                 However, for the surviving co-borrower, the bank still holds them 100% liable for the 100% amount.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border-2 border-red-100 mb-8">
-                                <h4 className="text-red-900 font-bold mb-4">The "Death-Node" Settlement Strategy:</h4>
+                                <h3 className="text-red-900 font-bold mb-4">The "Death-Node" Settlement Strategy:</h3>
                                 <ul className="space-y-4 text-red-800 text-sm">
                                     <li>**Proof of Legal Heirship:** The bank will require a Death Certificate and a Succession Certificate (or Legal Heir Certificate) to process a settlement in this scenario.</li>
                                     <li>**The Humanitarian Lever:** We often use this situation to negotiate a deeper waiver. Banks are generally more willing to offer a generous compromise when faced with the passing of a borrower, as the recovery process against legal heirs is long and arduous.</li>
@@ -332,7 +332,7 @@ export default function JointLoanSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-gray-200 rounded-3xl shadow-sm">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-4">The Co-borrower</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-4">The Co-borrower</h3>
                                     <p className="text-sm leading-relaxed mb-4">You are "Primarily Liable". This means the bank can come after you on the very first day of default. They don't need to exhaust their options against the other person first. You are, for all intents and purposes, the same as the main borrower.</p>
                                     <p className="text-xs font-bold text-red-600">Legal Risk: 10/10</p>
                                 </div>
@@ -355,7 +355,7 @@ export default function JointLoanSettlementPage() {
                                 If your joint loan is a Home Loan, the stakes are elevated from "Credit Score" to "Physical Survival". Under the **SARFAESI Act**, the bank does not care that you own 50% of the property and your defaulting partner owns the other 50%.
                             </p>
                             <div className="bg-red-50 p-10 rounded-3xl border-2 border-red-100 mb-8">
-                                <h4 className="text-red-900 font-bold mb-6 flex items-center gap-3"><FontAwesomeIcon icon={faTriangleExclamation} /> The Auction Protocol</h4>
+                                <h3 className="text-red-900 font-bold mb-6 flex items-center gap-3"><FontAwesomeIcon icon={faTriangleExclamation} /> The Auction Protocol</h3>
                                 <p className="text-red-800 mb-4 leading-relaxed">
                                     The bank will issue a **Notice under Section 13(2)** to ALL co-borrowers. If the dues aren't cleared, they will take symbolic possession. When they auction the property, they sell the *entire* asset. They do not sell "Half a House".
                                 </p>
@@ -450,7 +450,7 @@ export default function JointLoanSettlementPage() {
                                 When signing off on a settlement as a guarantor, you must insist on a **"Non-Recourse Clause"**. This clause ensures that the bank cannot come back to you if the primary borrower defaults on their settlement installments (if it's not a lump sum). By insulating yourself from the borrower's future behavior, you create a hard firewall around your financial life.
                             </p>
                             <div className="bg-gray-100 p-8 rounded-2xl mb-8">
-                                <h4 className="font-bold mb-4 uppercase text-[#2E2E2E] tracking-tight">The Guarantor's Post-Settlement Rights:</h4>
+                                <h3 className="font-bold mb-4 uppercase text-[#2E2E2E] tracking-tight">The Guarantor's Post-Settlement Rights:</h3>
                                 <ul className="space-y-4 text-sm text-gray-800">
                                     <li>1. **Subrogation:** You technically step into the bank's shoes. If you pay the settlement, the borrower now owes *you* that money legally.</li>
                                     <li>2. **Release of Securities:** If you provided a property guarantee, the bank must return your title deeds immediately upon account closure.</li>
@@ -606,7 +606,7 @@ export default function JointLoanSettlementPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Expert Relief</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Expert Relief</div>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">
                                     <p className="mb-8 text-sm opacity-80 leading-relaxed font-normal italic">

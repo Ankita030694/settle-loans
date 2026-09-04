@@ -401,7 +401,7 @@ export default function SettlementTimelinePage() {
               </p>
               <ul className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
                 <li className="p-4 bg-gray-50 border border-gray-100 rounded-xl">
-                  <h4 className="font-bold mb-2">Portfolio Size</h4>
+                  <h3 className="font-bold mb-2">Portfolio Size</h3>
                   <p className="text-sm">More creditors mean more negotiation rounds and a longer time to save enough for each lump sum.</p>
                 </li>
                 <li className="p-4 bg-gray-50 border border-gray-100 rounded-xl">
@@ -538,7 +538,7 @@ export default function SettlementTimelinePage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#1A1A1A]">{review.name}</h5>
+                        <h3 className="font-bold text-[#1A1A1A]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -601,7 +601,7 @@ export default function SettlementTimelinePage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">We are in This Together</h3>
+                  <div className="text-lg font-black text-white">We are in This Together</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -616,7 +616,7 @@ export default function SettlementTimelinePage() {
 
               {/* Timeline Indicator */}
               <div className="bg-white rounded-2xl p-6 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-xl font-black text-black mb-6">Timeline Summary</h3>
+                <div className="text-xl font-black text-black mb-6">Timeline Summary</div>
                 <div className="space-y-6">
                   <div className="flex gap-4">
                     <div className="flex flex-col items-center">
@@ -662,7 +662,7 @@ export default function SettlementTimelinePage() {
 
               {/* Related Resources */}
               <div className="bg-gray-50 p-6 rounded-2xl border border-gray-200">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4">Phase Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4">Phase Guides</div>
                 <ul className="space-y-4 text-sm font-bold text-gray-900">
                   <li><Link href="/what-is-one-time-settlement-ots-in-banking" className="hover:text-[#1F5EFF] transition-colors">OTS Explained</Link></li>
                   <li><Link href="/how-to-rebuild-credit-score-after-loan-settlement" className="hover:text-[#1F5EFF] transition-colors">Credit Rebuilding</Link></li>

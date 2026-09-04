@@ -243,7 +243,7 @@ export default function LoanRecoveryCasesPage() {
                                 If the borrower is a company, the Insolvency and Bankruptcy Code (IBC) provides a path that can lead to the management losing control of their own firm.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-10 shadow-sm">
-                                <h4 className="text-xl font-bold text-red-700 mb-3">Section 7 & 9 Applications</h4>
+                                <h3 className="text-xl font-bold text-red-700 mb-3">Section 7 & 9 Applications</h3>
                                 <p className="text-gray-700 text-sm leading-relaxed font-medium">Lending institutions (Financial Creditors) can file under Section 7 of the IBC if the default exceeds Rs. 1 Crore. The threat of an IRP (Interim Resolution Professional) taking over the company is usually enough to force a corporate group into a structured settlement. We specialize in preparing these NCLT dossiers.</p>
                             </div>
                         </section>
@@ -271,7 +271,7 @@ export default function LoanRecoveryCasesPage() {
                                 <li className="p-6 bg-gray-50 border border-gray-200 rounded-2xl flex items-start gap-4">
                                     <FontAwesomeIcon icon={faPassport} className="text-[#1F5EFF] mt-1" />
                                     <div>
-                                        <h4 className="font-bold text-sm">Identifying Shell Holdings</h4>
+                                        <h3 className="font-bold text-sm">Identifying Shell Holdings</h3>
                                         <p className="text-xs text-gray-500">We use ROC searches and property registration databases to find assets hidden under 'Benami' names.</p>
                                     </div>
                                 </li>
@@ -307,7 +307,7 @@ export default function LoanRecoveryCasesPage() {
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200 text-center">
                                     <FontAwesomeIcon icon={faShieldAlt} size="2x" className="text-[#1F5EFF] mb-4" />
-                                    <h4 className="font-bold mb-2">Legal Shield</h4>
+                                    <h3 className="font-bold mb-2">Legal Shield</h3>
                                     <p className="text-xs text-gray-500">Protect the lender from 'Deficiency in Service' or harassment claims by the borrower.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200 text-center">
@@ -364,7 +364,7 @@ export default function LoanRecoveryCasesPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-500 text-sm">★★★★★</div>
@@ -427,7 +427,7 @@ export default function LoanRecoveryCasesPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] p-8 rounded-[24px] text-white shadow-xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-full -mr-12 -mt-12 group-hover:scale-150 transition-transform duration-500"></div>
-                                <h4 className="text-2xl font-black mb-4 relative z-10 leading-tight">Start Your Recovery Process</h4>
+                                <div className="text-2xl font-black mb-4 relative z-10 leading-tight">Start Your Recovery Process</div>
                                 <p className="text-[#DEDEDE]/80 text-sm mb-8 relative z-10 font-medium">Stop the delay. Get aggressive legal representation for your recovery case.</p>
                                 <Link href="/contact" className="block w-full text-center bg-[#1F5EFF] text-white font-bold py-4 rounded-xl hover:bg-white hover:text-[#1F5EFF] transition-all duration-300 shadow-lg relative z-10">
                                     Recover My Money
@@ -435,7 +435,7 @@ export default function LoanRecoveryCasesPage() {
                             </div>
 
                             <div className="bg-white border border-[#DEDEDE] p-8 rounded-[24px] shadow-sm font-bold">
-                                <h4 className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Lender Powerhouse</h4>
+                                <div className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Lender Powerhouse</div>
                                 <ul className="space-y-4">
                                     <li>
                                         <Link href="/best-lawyer-for-loan-recovery-documentation" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors">

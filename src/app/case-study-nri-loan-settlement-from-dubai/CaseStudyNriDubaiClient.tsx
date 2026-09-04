@@ -298,10 +298,10 @@ export default function CaseStudyNriDubaiClient() {
           {/* Left Column: Sticky Table of Contents + Quick Crux */}
           <aside className="hidden lg:block sticky top-24 space-y-5">
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-              <h3 className="text-xs font-black uppercase tracking-wider text-slate-500 mb-4 flex items-center gap-2">
+              <div className="text-xs font-black uppercase tracking-wider text-slate-500 mb-4 flex items-center gap-2">
                 <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
                 Case Study Index
-              </h3>
+              </div>
               <nav className="space-y-1.5 text-xs">
                 {tocItems.map((item) => (
                   <a
@@ -775,10 +775,10 @@ export default function CaseStudyNriDubaiClient() {
 
             {/* Regulatory Sources & References Strip (5 Official Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10 text-xs text-slate-600">
-              <h4 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
+              <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 Official Statutory &amp; Regulatory References
-              </h4>
+              </h3>
               <ul className="space-y-2.5">
                 <li className="flex items-start gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
@@ -918,14 +918,14 @@ export default function CaseStudyNriDubaiClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -958,9 +958,9 @@ export default function CaseStudyNriDubaiClient() {
                 <Plane className="w-4 h-4" />
                 <span>NRI Remote Legal Desk</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Living Abroad with Unpaid Indian Loans?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Eliminate airport arrest anxiety and protect your family from recovery harassment. Settle your Indian bank loans remotely via consular Power of Attorney with substantial waivers.
               </p>
@@ -974,10 +974,10 @@ export default function CaseStudyNriDubaiClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why NRIs Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

@@ -75,7 +75,7 @@ const ReviewCard = ({ review }: { review: typeof reviews[0] }) => (
             {review.name.charAt(0)}
         </div>
         <div>
-            <h4 className="text-sm font-bold text-black">{review.name}</h4>
+            <div className="text-sm font-bold text-black">{review.name}</div>
             <p className="text-[10px] text-neutral-500">{review.role}, {review.location}</p>
         </div>
     </div>

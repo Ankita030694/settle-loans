@@ -510,7 +510,7 @@ export default function DebtEvaluationPage() {
               </p>
               <div className="space-y-8 my-10">
                 <div className="border-l-4 border-indigo-600 pl-6 py-4 bg-gray-50 rounded-r-xl shadow-sm">
-                  <h4 className="font-black text-xl mb-2 uppercase text-indigo-600">Phase 1: The Initial Triage (Day 0)</h4>
+                  <h3 className="font-black text-xl mb-2 uppercase text-indigo-600">Phase 1: The Initial Triage (Day 0)</h3>
                   <p className="text-sm text-gray-700 leading-relaxed mb-2 font-bold italic">This is a 20-30 minute preliminary call where a junior counselor understands the basics how many lenders, total debt amount, and the current status of defaults.</p>
                   <p className="text-sm text-gray-500">The goal of this phase is 'Emergency Level Assessment.' If you are currently getting threatened by recovery agents at your doorstep, we prioritize immediate legal-shield protection before diving into the long-term math.</p>
                 </div>
@@ -657,7 +657,7 @@ export default function DebtEvaluationPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Free & Confidential</h3>
+                  <div className="text-lg font-black text-white">Free & Confidential</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -672,7 +672,7 @@ export default function DebtEvaluationPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must-Read Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must-Read Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/what-documents-are-required-for-loan-settlement-with-a-professional-service" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

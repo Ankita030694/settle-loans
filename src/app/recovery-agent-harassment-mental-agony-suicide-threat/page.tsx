@@ -451,9 +451,9 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                     <LifeBuoy className="w-4 h-4 text-blue-400" />
                     <span>Immediate Crisis Support • Confidential &amp; Free 24/7</span>
                   </div>
-                  <h3 className="text-base sm:text-lg font-black text-white">
+                  <div className="text-base sm:text-lg font-black text-white">
                     You Are Not Alone. Your Life Is Infinitely More Valuable Than Any Debt.
-                  </h3>
+                  </div>
                   <p className="text-xs sm:text-sm text-slate-300 leading-relaxed max-w-2xl">
                     If relentless recovery harassment is causing acute anxiety, depression, or thoughts of self-harm, please connect immediately with professional mental health counselors. Support is available right now:
                   </p>
@@ -608,10 +608,10 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
-                <h4 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Mandatory RBI Standards Governing Debt Collection Conduct</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Permitted Contact Hours (8:00 AM to 7:00 PM Only)</p>
@@ -1022,11 +1022,11 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm">
+                  <div className="font-bold text-slate-900 text-sm">
                     <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
               </div>
@@ -1051,7 +1051,7 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>24-Hour Emergency Protection</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Pushed to Despair by Collection Agents?</h4>
+              <div className="font-bold text-base text-white mb-2">Pushed to Despair by Collection Agents?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not suffer psychological torture in silence. Retain our senior advocates to issue an immediate Cease-and-Desist notice, halt all calls and visits within 24 hours, and negotiate a 40%–65% OTS.
               </p>
@@ -1065,9 +1065,9 @@ export default function RecoveryAgentHarassmentMentalAgonyPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Legal Guarantees
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

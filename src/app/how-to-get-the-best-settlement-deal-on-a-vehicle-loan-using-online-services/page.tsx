@@ -416,7 +416,7 @@ export default function VehicleLoanSettlementPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 my-8">
                 <div className="p-6 rounded-2xl border border-[#DEDEDE] hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="font-bold text-xl mb-3">Depreciation Leverage</h4>
+                  <h3 className="font-bold text-xl mb-3">Depreciation Leverage</h3>
                   <p className="text-sm text-gray-600">Show the bank the current market value of your vehicle (IDV). Remind them that every month of delay means the car's value drops further. A settlement today is worth more to them than an auction six months from now.</p>
                 </div>
                 <div className="p-6 rounded-2xl border border-[#DEDEDE] hover:border-[#1F5EFF] transition-colors">
@@ -443,7 +443,7 @@ export default function VehicleLoanSettlementPage() {
                 <li className="flex gap-4">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full border border-[#DEDEDE] flex items-center justify-center font-bold">01</div>
                   <div>
-                    <h4 className="font-bold text-xl mb-2">Age of the Default</h4>
+                    <h3 className="font-bold text-xl mb-2">Age of the Default</h3>
                     <p className="text-gray-600">The longer you have been in default, the more desperate the bank becomes. Accounts that have been in the NPA category for over 6 to 12 months often receive much higher waivers than recent defaults.</p>
                   </div>
                 </li>
@@ -517,7 +517,7 @@ export default function VehicleLoanSettlementPage() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8">Real Life Scenarios: Learn from Others</h2>
               <div className="space-y-8">
                 <div className="bg-gray-50 p-8 rounded-2xl border border-[#DEDEDE]">
-                  <h4 className="font-bold text-xl mb-4">Case 1: The High Value Car Repossession Threat</h4>
+                  <h3 className="font-bold text-xl mb-4">Case 1: The High Value Car Repossession Threat</h3>
                   <p className="mb-4">
                     Mr. Sharma from Delhi lost his business and defaulted on his luxury SUV loan for four months. The bank sent a repossession squad to his residence. He immediately contacted SettleLoans. The team sent a legal notice to the bank stating his intent to settle and highlighting the illegal conduct of the recovery agents. Within three weeks, the repo threat was withdrawn and a settlement was reached at 45% of the total outstanding amount, allowing him to keep the car.
                   </p>
@@ -597,7 +597,7 @@ export default function VehicleLoanSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -687,7 +687,7 @@ export default function VehicleLoanSettlementPage() {
             <div className="sticky top-32 space-y-8">
               {/* Main CTA */}
               <div className="bg-white rounded-2xl p-6 border border-[#DEDEDE] shadow-lg">
-                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E]">Free Consultation</h3>
+                <div className="text-xl font-bold mb-4 text-[#2E2E2E]">Free Consultation</div>
                 <p className="text-sm text-gray-500 mb-6">Our experts are ready to review your case and provide immediate guidance on your vehicle loan.</p>
                 <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white text-center font-bold py-3 rounded-lg hover:bg-blue-600 transition-colors mb-4">
                   Call Us Today
@@ -697,7 +697,7 @@ export default function VehicleLoanSettlementPage() {
 
               {/* Related Pages */}
               <div className="bg-gray-50 rounded-2xl p-6 border border-[#DEDEDE]">
-                <h3 className="text-lg font-bold mb-4 text-[#2E2E2E]">Related Insights</h3>
+                <div className="text-lg font-bold mb-4 text-[#2E2E2E]">Related Insights</div>
                 <div className="space-y-4">
                   <Link href="/charities-that-pay-off-debt-in-india" className="block text-sm text-[#1F5EFF] hover:underline font-medium">NGO Support for Debt Relief</Link>
                   <Link href="/app-loan-settlement" className="block text-sm text-[#1F5EFF] hover:underline font-medium">App Loan Settlement Process</Link>

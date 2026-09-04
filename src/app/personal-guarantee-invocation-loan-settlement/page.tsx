@@ -553,10 +553,10 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
               </p>
 
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] rounded-r-xl p-5 my-4">
-                <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Section 139 &amp; 141: Loss of Creditor Securities as an Absolute Bar</span>
-                </h4>
+                </h3>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed">
                   Section 139 dictates that if the creditor does any act which is inconsistent with the rights of the surety, or omits to do any act which his duty to the surety requires him to do, and the eventual remedy of the surety himself against the principal debtor is thereby impaired, the surety is discharged. Under Section 141, a surety is entitled to the benefit of every security held by the creditor at the time the contract of suretyship is entered into; if the creditor loses or parts with such security without the surety's consent, the surety is discharged to the extent of the value of the security. If a bank fails to inspect, renew insurance on, or properly seize pledged inventory and plant machinery, allowing them to deteriorate or be pilfered, the personal guarantor is legally entitled to a pro-rata or full discharge of their personal guarantee.
                 </p>
@@ -691,7 +691,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200 flex items-start gap-3">
                   <div className="w-6 h-6 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] flex items-center justify-center font-bold text-xs flex-shrink-0 mt-0.5">1</div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Explicit Guarantor Discharge Clause</h5>
+                    <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Explicit Guarantor Discharge Clause</h3>
                     <p className="text-xs text-slate-600 leading-relaxed mt-0.5">The letter must explicitly name the individual guarantor and declare that upon receipt of the agreed settlement sum, the Deed of Guarantee executed on [Date] stands permanently canceled, void, and extinguished in its entirety.</p>
                   </div>
                 </div>
@@ -699,7 +699,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200 flex items-start gap-3">
                   <div className="w-6 h-6 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] flex items-center justify-center font-bold text-xs flex-shrink-0 mt-0.5">2</div>
                   <div>
-                    <h5 className="font-bold text-slate-900 text-xs sm:text-sm">Mandatory Legal Withdrawal Undertaking</h5>
+                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Mandatory Legal Withdrawal Undertaking</h4>
                     <p className="text-xs text-slate-600 leading-relaxed mt-0.5">The lender must undertake to file formal withdrawal applications for all pending Original Applications (OAs) in DRT under Section 19, insolvency petitions under Section 95 IBC before NCLT, and Section 138 NI Act complaints within 15 to 30 days of full payment.</p>
                   </div>
                 </div>
@@ -1074,11 +1074,11 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm">
+                  <div className="font-bold text-slate-900 text-sm">
                     <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
               </div>
@@ -1100,7 +1100,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Commercial Legal Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Bank Invoked Your Personal Guarantee?</h4>
+              <div className="font-bold text-base text-white mb-2">Bank Invoked Your Personal Guarantee?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not risk your personal real estate and bank accounts. Engage senior debt defense advocates to challenge DRT notices, invoke Section 133–141 Contract Act discharge defenses, and negotiate a 45%–65% OTS.
               </p>
@@ -1114,9 +1114,9 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Legal Safeguards
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

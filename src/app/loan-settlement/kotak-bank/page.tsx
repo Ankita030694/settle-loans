@@ -291,7 +291,7 @@ export default function KotakBankSettlementPage() {
                  <li className="flex items-start">
                     <div className="bg-[#003874] text-white w-8 h-8 rounded-full flex-shrink-0 flex items-center justify-center font-bold mr-4 mt-1">1</div>
                     <div>
-                        <h4 className="font-bold text-xl mb-1">Financial Analysis</h4>
+                        <h3 className="font-bold text-xl mb-1">Financial Analysis</h3>
                         <p>We analyze your total debt across all Kotak products. We need to know when the last payment was made and if the loan has moved to the 'Written Off' bucket.</p>
                     </div>
                  </li>
@@ -328,7 +328,7 @@ export default function KotakBankSettlementPage() {
                 Kotak often uses agencies like 'Vertex' or 'Asset Care' for card recoveries. If your debt has been assigned to an external agency: we handle them with strict legal protocols. we ensure they are not violating RBI guidelines during the process. Our goal is to secure a settlement that is as close to the principal amount as possible: or in several cases: even below the principal if the default is very old.
               </p>
               <div className="bg-slate-50 p-6 rounded-xl border border-slate-200">
-                 <h4 className="font-black text-[#003874] mb-4">Critical Advisory for Kotak Card Holders:</h4>
+                 <h3 className="font-black text-[#003874] mb-4">Critical Advisory for Kotak Card Holders:</h3>
                  <p className="italic">
                    Do not make any 'token payments' suggested by recovery agents. These payments reset the limitation period of your debt and can actually hinder your chances of getting a deep discount settlement.
                  </p>
@@ -342,11 +342,11 @@ export default function KotakBankSettlementPage() {
               </p>
               <div className="space-y-4">
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h5 className="font-bold text-[#003874]">Loss of Primary Income</h5>
+                    <h3 className="font-bold text-[#003874]">Loss of Primary Income</h3>
                     <p>Termination letters: resignation proofs due to company closure: or bank statements showing zero salary credit for 6+ months are vital proofs.</p>
                  </div>
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
-                    <h5 className="font-bold text-[#003874]">Medical Crisis</h5>
+                    <h4 className="font-bold text-[#003874]">Medical Crisis</h4>
                     <p>Major surgeries: chronic illnesses: or life changing accidents that have drained your savings. Hospital bills and discharge summaries are mandatory for this.</p>
                  </div>
                  <div className="p-4 bg-white shadow-sm border rounded-lg">
@@ -397,11 +397,11 @@ export default function KotakBankSettlementPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-12">
                  <div className="p-6 bg-[#f8faff] rounded-xl border-t-4 border-[#003874]">
-                    <h5 className="font-bold mb-2">Internal Nodal Access</h5>
+                    <h3 className="font-bold mb-2">Internal Nodal Access</h3>
                     <p className="text-sm">We don't talk to telecallers. we have the contacts of the Zonal and Regional Nodal Officers who actually have the power to sign off on waivers.</p>
                  </div>
                  <div className="p-6 bg-[#f8faff] rounded-xl border-t-4 border-[#003874]">
-                    <h5 className="font-bold mb-2">Legal Shielding</h5>
+                    <h4 className="font-bold mb-2">Legal Shielding</h4>
                     <p className="text-sm">We provide an immediate buffer between you and the recovery agents. Once we take over: the harassment stops legally.</p>
                  </div>
                  <div className="p-6 bg-[#f8faff] rounded-xl border-t-4 border-[#003874]">
@@ -520,7 +520,7 @@ export default function KotakBankSettlementPage() {
                     { q: "Can I settle an old loan already written off by Kotak?", a: "Yes: written off loans are actually the best candidates for deep discounts as the bank is eager to recover any amount possible." }
                   ].map((faq, i) => (
                     <div key={i} className="border-b border-slate-200 pb-6">
-                        <h4 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h4>
+                        <h3 className="font-bold text-lg text-[#1a202c] mb-2">{faq.q}</h3>
                         <p className="text-[#4a5568]">{faq.a}</p>
                     </div>
                   ))}
@@ -579,7 +579,7 @@ export default function KotakBankSettlementPage() {
                {/* CTA Container */}
                <div className="bg-[#003874] rounded-2xl shadow-xl overflow-hidden border border-white/10 group">
                  <div className="bg-[#ED1C24] p-4 text-center">
-                   <h3 className="text-lg font-black text-white">Kotak Debt Stress?</h3>
+                   <div className="text-lg font-black text-white">Kotak Debt Stress?</div>
                  </div>
                  <div className="p-6 text-center">
                    <p className="mb-6 text-sm text-white opacity-80 leading-relaxed font-medium">
@@ -594,7 +594,7 @@ export default function KotakBankSettlementPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#718096] mb-4 border-b pb-2">Kotak Related</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#718096] mb-4 border-b pb-2">Kotak Related</div>
                 <ul className="space-y-4 text-sm font-bold">
                    <li>
                      <Link href="/services/credit-card-settlement" className="group flex items-center text-[#2d3748] hover:text-[#003874] transition-colors">

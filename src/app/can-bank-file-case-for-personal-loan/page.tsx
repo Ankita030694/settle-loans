@@ -210,7 +210,7 @@ export default function PersonalLoanCaseGuidePage() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px] relative">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Litigation Index</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Litigation Index</div>
                             <TableOfContents
                                 items={[
                                     { id: "personal-loan-litigation-overview", title: "Overview" },
@@ -261,7 +261,7 @@ export default function PersonalLoanCaseGuidePage() {
                                 In a Summary Suit, the bank presents the loan agreement and statement of account as absolute proof of debt. Once you receive the summons, you don't have an automatic 'Right to Defend'. You must apply for <strong>'Leave to Defend'</strong> within 10 days. If you can show a 'Triable Issue'—such as disputed interest calculations, forgery, or unfair contract terms—the court allows you to contest the case. If you fail to apply or the leave is rejected, a decree is passed against you as if you admitted the debt.
                             </p>
                             <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 my-8 shadow-inner">
-                                <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">The Defense Strategy</h4>
+                                <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">The Defense Strategy</h3>
                                 <p className="text-sm leading-relaxed font-bold italic opacity-80">Did the bank include hidden insurance charges? Is the interest rate higher than what was promised in the sanction letter? These are valid 'Triable Issues' that can stall a summary suit and provide you leverage for settlement.</p>
                             </div>
                         </section>
@@ -277,7 +277,7 @@ export default function PersonalLoanCaseGuidePage() {
                                 If an EMI fails and the bank presents a cheque that bounces due to 'Insufficient Funds', they can initiate a case under <strong>Section 138 of the Negotiable Instruments Act</strong>. This is a bailable offense, but if ignored, it can lead to non-bailable warrants and, in extreme wilful cases, a prison term of up to 2 years.
                             </p>
                             <div className="bg-red-500/10 border-l-8 border-red-500 p-8 my-8 rounded-r-3xl">
-                                <h4 className="text-xl font-bold mb-2 text-red-400">Survival Protocol</h4>
+                                <h3 className="text-xl font-bold mb-2 text-red-400">Survival Protocol</h3>
                                 <p className="text-sm opacity-90 leading-relaxed font-black uppercase tracking-tighter italic">If you receive a statutory notice under Sec 138, you have 15 days to pay the amount. If you cannot pay, a specialized legal reply questioning the 'Legally Enforceable Debt' is your only shield to prevent the case from being filed in court.</p>
                             </div>
                         </section>
@@ -364,7 +364,7 @@ export default function PersonalLoanCaseGuidePage() {
                             <p className="mb-8 leading-relaxed">If you suspect a case is being filed, prepare your 'Legal Shield' immediately:</p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100 shadow-sm">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">1. Statement Audit</h4>
+                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">1. Statement Audit</h3>
                                     <p className="text-sm font-medium leading-relaxed">Download your full loan ledger. Identify any hidden processing fees, excessive penalties, or 'bounce charges' that were not in your original agreement.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100 shadow-sm">
@@ -462,7 +462,7 @@ export default function PersonalLoanCaseGuidePage() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-[32px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-6 text-white text-center">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Court Summons?</h3>
+                                    <div className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Court Summons?</div>
                                     <p className="opacity-80 text-[10px] font-black uppercase tracking-[0.2em]">Litigation Defense Service</p>
                                 </div>
                                 <div className="p-8">
@@ -478,7 +478,7 @@ export default function PersonalLoanCaseGuidePage() {
 
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-[32px] p-8 border border-gray-100 shadow-sm text-left">
-                                <h4 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Litigation Hub</h4>
+                                <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Litigation Hub</div>
                                 <nav className="space-y-4">
                                     <Link href="/bank-sent-legal-notice-for-loan-what-to-do" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">Legal Notice Guide</Link>
                                     <Link href="/rbi-new-recovery-guidelines-july-2026" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">RBI Recovery Rules</Link>

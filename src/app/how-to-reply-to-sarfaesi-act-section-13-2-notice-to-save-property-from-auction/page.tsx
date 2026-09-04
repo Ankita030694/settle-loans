@@ -296,7 +296,7 @@ export default function SarfaesiNoticePage() {
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">What the 60-Day Period Demands:</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">What the 60-Day Period Demands:</h3>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -404,7 +404,7 @@ export default function SarfaesiNoticePage() {
               </h2>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">Warning: Do not make these fatal errors</h4>
+                <h3 className="text-xl font-black text-red-700 mb-4">Warning: Do not make these fatal errors</h3>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <span className="text-red-900 font-bold">1. Ignoring the Notice:</span> The 60-day clock doesn't stop because you are stressed. Silence is taken as consent for them to seize the property.
@@ -489,7 +489,7 @@ export default function SarfaesiNoticePage() {
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Mandatory Application to the Magistrate</h4>
+                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">The Mandatory Application to the Magistrate</h3>
                 <p className="text-lg leading-relaxed mb-4 text-gray-800">
                   Instead, the bank is legally obligated to file a formal application before the Chief Metropolitan Magistrate (CMM) in metropolitan areas, or the District Magistrate (DM) in non-metropolitan districts, under Section 14 of the SARFAESI Act.
                 </p>
@@ -545,7 +545,7 @@ export default function SarfaesiNoticePage() {
               </p>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">Guarantor's Assets are at Risk</h4>
+                <h3 className="text-xl font-black text-red-700 mb-4">Guarantor's Assets are at Risk</h3>
                 <p className="text-lg text-red-900 leading-relaxed mb-4">
                   If you signed as a guarantor on a defaulted secured loan, the bank has the legal right to invoke SARFAESI provisions against your personal property, provided it was offered as collateral. Even if your property was not collateral, the bank can file a recovery suit in the DRT against your personal assets if the auction of the primary collateral falls short of the total dues.
                 </p>
@@ -564,7 +564,7 @@ export default function SarfaesiNoticePage() {
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Crucial Exemptions Under SARFAESI</h4>
+                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Crucial Exemptions Under SARFAESI</h3>
                 <p className="text-lg leading-relaxed mb-4 text-gray-800">
                   Not all properties or loans fall under the draconian grip of the SARFAESI Act. Before panicking, our lawyers always check if your case qualifies for a statutory exemption:
                 </p>
@@ -637,7 +637,7 @@ export default function SarfaesiNoticePage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-500"></div>
                 <div className="relative z-10">
-                  <h4 className="text-2xl font-black mb-4">Urgent DRT Legal Help</h4>
+                  <div className="text-2xl font-black mb-4">Urgent DRT Legal Help</div>
                   <p className="text-sm text-gray-300 mb-6">Halt the auction process before it's too late. Professional 13(2) reply drafting & DRT stay order representation.</p>
                   <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-bold py-3 rounded-lg hover:bg-blue-600 transition-colors">
                     Get Help Now
@@ -646,7 +646,7 @@ export default function SarfaesiNoticePage() {
               </div>
 
               <div className="bg-[#f8faff] rounded-3xl p-8 border border-[#1F5EFF]/30 shadow-sm relative overflow-hidden group">
-                <h4 className="text-sm font-black uppercase tracking-widest text-[#1F5EFF] border-b border-[#1F5EFF]/20 pb-4 mb-4">Key SARFAESI Statutes</h4>
+                <div className="text-sm font-black uppercase tracking-widest text-[#1F5EFF] border-b border-[#1F5EFF]/20 pb-4 mb-4">Key SARFAESI Statutes</div>
                 <ul className="space-y-3 text-sm text-gray-700">
                   <li className="flex items-start gap-2"><span className="font-black text-[#2E2E2E]">Sec 13(2):</span> The 60-Day Demand Notice</li>
                   <li className="flex items-start gap-2"><span className="font-black text-[#2E2E2E]">Sec 13(3A):</span> Borrower's Right to Object</li>
@@ -660,13 +660,13 @@ export default function SarfaesiNoticePage() {
                 <div className="w-20 h-20 rounded-full bg-gray-100 mb-4 flex items-center justify-center border-4 border-white shadow-lg overflow-hidden">
                   <img src="https://ui-avatars.com/api/?name=Settle+Loans&background=1F5EFF&color=fff&size=80" alt="SettleLoans Legal Expert" />
                 </div>
-                <h4 className="text-lg font-black text-[#2E2E2E] mb-1">Reviewed by DRT Experts</h4>
+                <div className="text-lg font-black text-[#2E2E2E] mb-1">Reviewed by DRT Experts</div>
                 <p className="text-xs text-gray-500 mb-4">SettleLoans Legal Advocacy Team</p>
                 <p className="text-sm text-gray-700 italic">"The SARFAESI Act operates strictly on timelines. A delay of even one day in filing your 13(3A) objection or DRT appeal can cost you your property."</p>
               </div>
 
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b border-gray-100 pb-4 mb-4">Related Legal Guides</h4>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b border-gray-100 pb-4 mb-4">Related Legal Guides</div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/what-to-do-when-you-receive-sarfaesi-act-section-13-4-possession-notice" className="group flex items-center text-sm font-bold text-gray-700 hover:text-[#1F5EFF] transition-colors">
@@ -696,7 +696,7 @@ export default function SarfaesiNoticePage() {
               </div>
 
               <div className="bg-[#2E2E2E] rounded-3xl p-6 border border-white/10 shadow-lg text-white">
-                <h4 className="text-lg font-black mb-3">Notice Checklist</h4>
+                <div className="text-lg font-black mb-3">Notice Checklist</div>
                 <ul className="space-y-2 text-sm text-gray-300">
                   <li className="flex items-center gap-2"><span className="text-[#1F5EFF] font-black">✓</span> Date of NPA correctly listed?</li>
                   <li className="flex items-center gap-2"><span className="text-[#1F5EFF] font-black">✓</span> Breakdown of principal & interest?</li>
@@ -706,7 +706,7 @@ export default function SarfaesiNoticePage() {
               </div>
 
               <div className="bg-yellow-50 rounded-3xl p-6 border border-yellow-200 shadow-sm text-yellow-900">
-                <h4 className="text-lg font-black mb-2 text-yellow-800">Is your Property Agricultural?</h4>
+                <div className="text-lg font-black mb-2 text-yellow-800">Is your Property Agricultural?</div>
                 <p className="text-sm leading-relaxed mb-3">Agricultural lands are strictly exempt from SARFAESI under Sec 31(i). If your property is classified as such, the bank's notice is legally void.</p>
                 <Link href="/contact" className="text-xs font-bold uppercase tracking-widest text-[#1F5EFF] hover:underline">Check Your Exemption Status →</Link>
               </div>

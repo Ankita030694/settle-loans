@@ -309,7 +309,7 @@ export default function MedicalEmergenciesSettlementPage() {
                   <div className="flex items-start gap-4 p-6 bg-white border border-[#DEDEDE] rounded-2xl hover:shadow-md transition-all">
                     <div className="w-12 h-12 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-black flex-shrink-0">1</div>
                     <div>
-                      <h4 className="text-xl font-bold mb-2">Early Communication is Vital</h4>
+                      <h3 className="text-xl font-bold mb-2">Early Communication is Vital</h3>
                       <p className="text-gray-600 leading-relaxed">Do not wait for the recovery agents to find you. As soon as you realize the medical costs will impact your EMI, send a formal email to the bank's Nodal Officer. This sets the timeline and shows you are not a 'willful defaulter'.</p>
                     </div>
                   </div>
@@ -339,7 +339,7 @@ export default function MedicalEmergenciesSettlementPage() {
                 
                 <div className="grid sm:grid-cols-2 gap-4 mb-10">
                   <div className="p-6 bg-gray-50 rounded-xl border border-gray-200">
-                    <h4 className="font-bold mb-4 text-[#1F5EFF]">Medical Documents</h4>
+                    <h3 className="font-bold mb-4 text-[#1F5EFF]">Medical Documents</h3>
                     <ul className="space-y-2 text-sm text-gray-700">
                       <li>• Hospital Discharge Summaries</li>
                       <li>• Surgery Bills & Diagnostic Reports</li>
@@ -438,11 +438,11 @@ export default function MedicalEmergenciesSettlementPage() {
                 </p>
                 <div className="grid md:grid-cols-3 gap-6 mb-10">
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                    <h5 className="font-bold mb-2">No Home Visits during Illness</h5>
+                    <h3 className="font-bold mb-2">No Home Visits during Illness</h3>
                     <p className="text-xs text-gray-500">Lenders must respect the medical environment. They cannot disturb you in the hospital or at home if you are bedridden.</p>
                   </div>
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                    <h5 className="font-bold mb-2">Zero Privacy Breach</h5>
+                    <h4 className="font-bold mb-2">Zero Privacy Breach</h4>
                     <p className="text-xs text-gray-500">Calling your doctor or the hospital administration to discuss your debt is a massive violation of privacy laws.</p>
                   </div>
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -540,7 +540,7 @@ export default function MedicalEmergenciesSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -582,7 +582,7 @@ export default function MedicalEmergenciesSettlementPage() {
           <aside className="hidden lg:block w-1/5 min-w-[240px] sticky top-32 flex flex-col gap-8">
             <div className="bg-[#2E2E2E] p-8 rounded-2xl border border-[#1F5EFF]/20 shadow-xl relative overflow-hidden group">
               <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/10 rounded-bl-full -mr-12 -mt-12 transition-transform group-hover:scale-150 duration-500"></div>
-              <h3 className="text-2xl font-black text-white mb-4 relative z-10 leading-tight">Medical Crisis?</h3>
+              <div className="text-2xl font-black text-white mb-4 relative z-10 leading-tight">Medical Crisis?</div>
               <p className="text-[#DEDEDE]/80 text-sm mb-6 relative z-10 leading-relaxed">Don't let banks pressure you while you recover. Let our experts handle the legal heavy lifting.</p>
               <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white text-center font-black py-4 px-6 rounded-xl hover:bg-blue-600 transition-all duration-300 relative z-10 shadow-lg hover:scale-105 active:scale-95">
                 Get Expert Help
@@ -591,7 +591,7 @@ export default function MedicalEmergenciesSettlementPage() {
             </div>
 
             <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-              <h4 className="text-lg font-black text-[#2E2E2E] mb-6 border-b border-[#DEDEDE] pb-2">Related Support</h4>
+              <div className="text-lg font-black text-[#2E2E2E] mb-6 border-b border-[#DEDEDE] pb-2">Related Support</div>
               <ul className="space-y-4">
                 {[
                   { title: "Charities Paying Off Debt", url: "/charities-that-pay-off-debt-in-india" },

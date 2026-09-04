@@ -962,9 +962,9 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                   <div className="w-20 h-20 rounded-full bg-blue-100 text-[#1F5EFF] group-hover:bg-[#1F5EFF] group-hover:text-white font-bold text-2xl mx-auto flex items-center justify-center mb-3 shadow-inner transition-colors duration-200">
                     AJ
                   </div>
-                  <h3 className="font-bold text-slate-900 text-lg group-hover:text-[#1F5EFF] transition-colors">
+                  <div className="font-bold text-slate-900 text-lg group-hover:text-[#1F5EFF] transition-colors">
                     Ashish Jhangra
-                  </h3>
+                  </div>
                 </Link>
                 <p className="text-xs text-[#1F5EFF] font-semibold mb-3">
                   Legal &amp; Debt Resolution Professional
@@ -993,9 +993,9 @@ export default function CaseStudyCibilStatusSettledToClosedClient() {
                   <PhoneCall className="w-3.5 h-3.5 text-blue-200" />
                   <span>Confidential Credit Helpline</span>
                 </div>
-                <h3 className="text-xl font-bold text-white mb-2 leading-snug">
+                <div className="text-xl font-bold text-white mb-2 leading-snug">
                   Blocked by a &quot;Settled&quot; CIBIL Tag?
-                </h3>
+                </div>
                 <p className="text-xs text-blue-100 leading-relaxed mb-5">
                   Clear your credit report for home loan approval. Let SettleLoans negotiate your residual waiver payment and upgrade your status to &quot;Closed&quot;.
                 </p>

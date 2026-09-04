@@ -301,7 +301,7 @@ export default function LoanAfterSettlementPage() {
              <div className="relative pl-8 border-l-2 border-[var(--color-primary)]/20 space-y-12 my-10">
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)] ring-4 ring-white"></span>
-                  <h4 className="font-bold text-xl text-[var(--color-text-hero)] mb-2">Month 1-3: Stabilization & Verification</h4>
+                  <h3 className="font-bold text-xl text-[var(--color-text-hero)] mb-2">Month 1-3: Stabilization & Verification</h3>
                   <p className="text-gray-600 mb-2">Ensure the settlement is accurately updated in your CIBIL report. Obtain the 'No Dues Certificate' (NDC) from the bank. Do not apply for any new credit.</p>
                   <ul className="list-disc pl-5 text-sm text-gray-500">
                       <li>Log in to CIBIL/Experian to check if the status says "Settled".</li>
@@ -372,7 +372,7 @@ export default function LoanAfterSettlementPage() {
             </p>
             <div className="grid sm:grid-cols-2 gap-4">
               <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] hover:border-[#1F5EFF] transition-colors">
-                <h4 className="font-black text-lg mb-2 flex items-center"><span className="text-yellow-500 mr-2 text-xl">●</span> Gold Loans</h4>
+                <h3 className="font-black text-lg mb-2 flex items-center"><span className="text-yellow-500 mr-2 text-xl">●</span> Gold Loans</h3>
                 <p className="text-sm text-gray-600">Quick approval (often in hours). The loan amount is based on the value of gold you pledge. No strict CIBIL check is required by most NBFCs.</p>
               </div>
               <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] hover:border-[#1F5EFF] transition-colors">
@@ -497,7 +497,7 @@ export default function LoanAfterSettlementPage() {
                   <div className="flex items-center mb-4">
                      <div className="w-10 h-10 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-black mr-3 text-sm">R</div>
                      <div>
-                        <h4 className="font-black text-[#2E2E2E]">Rajesh's Comeback</h4>
+                        <h3 className="font-black text-[#2E2E2E]">Rajesh's Comeback</h3>
                         <p className="text-xs text-gray-500">Bangalore</p>
                      </div>
                   </div>
@@ -644,7 +644,7 @@ export default function LoanAfterSettlementPage() {
             {/* CTA Container */}
              <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                <div className="bg-[#1F5EFF] p-4 text-center">
-                 <h3 className="text-lg font-black text-white">Need a Fresh Start?</h3>
+                 <div className="text-lg font-black text-white">Need a Fresh Start?</div>
                </div>
                <div className="p-6 text-center">
                 <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -659,7 +659,7 @@ export default function LoanAfterSettlementPage() {
 
             {/* Related Pages Container */}
             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-              <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Questions</h3>
+              <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Questions</div>
               <ul className="space-y-4 text-sm font-medium">
                  <li>
                   <Link href="/faqs" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

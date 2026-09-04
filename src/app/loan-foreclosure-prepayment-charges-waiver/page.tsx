@@ -176,7 +176,7 @@ export default function LoanForeclosureWaiverPage() {
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Golden Rule of RBI Prepayment</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Golden Rule of RBI Prepayment</h3>
                 <p className="text-lg leading-relaxed mb-6 text-gray-700">According to RBI circulars, banks and NBFCs are strictly prohibited from charging foreclosure penalties under the following conditions:</p>
                 <ul className="space-y-3">
                   <li className="flex items-start gap-3">
@@ -236,7 +236,7 @@ export default function LoanForeclosureWaiverPage() {
                 Walking into a bank branch and verbally demanding a waiver rarely works. Bank managers are bound by internal audit rules, and they need a solid paper trail to justify waiving a penalty that their system has automatically generated. You need to build a compelling documentary case.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-black text-[#2E2E2E] mb-4">The Essentials to Carry</h4>
+                <h3 className="text-xl font-black text-[#2E2E2E] mb-4">The Essentials to Carry</h3>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -311,7 +311,7 @@ export default function LoanForeclosureWaiverPage() {
 
             {/* Gray Insight Box */}
             <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-              <h4 className="text-xl font-black text-[#2E2E2E] mb-4">Legal Insight</h4>
+              <h3 className="text-xl font-black text-[#2E2E2E] mb-4">Legal Insight</h3>
               <p className="text-lg leading-relaxed text-gray-700">If your bank charges a penalty on a floating rate individual loan in direct violation of RBI guidelines, you don't need to beg for a waiver. You can file a direct complaint with the Banking Ombudsman for illegal fee extraction.</p>
             </div>
 
@@ -334,7 +334,7 @@ export default function LoanForeclosureWaiverPage() {
                       AM
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E]">Amit K., Business Owner</h4>
+                      <h3 className="font-bold text-[#2E2E2E]">Amit K., Business Owner</h3>
                       <div className="flex gap-1 text-yellow-400 mt-1">
                         {[...Array(5)].map((_, i) => (
                           <svg key={i} className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -428,7 +428,7 @@ export default function LoanForeclosureWaiverPage() {
             <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group mb-8">
               <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
               <div className="relative z-10">
-                <h4 className="text-2xl font-black mb-4">Are They Charging You Illegally?</h4>
+                <div className="text-2xl font-black mb-4">Are They Charging You Illegally?</div>
                 <p className="text-gray-300 mb-6 text-sm">Find out if your loan is exempt from prepayment penalties under RBI rules.</p>
                 <Link href="/consultation" className="block w-full bg-[#1F5EFF] text-white font-bold py-3 rounded-xl hover:bg-white hover:text-[#1F5EFF] transition-colors">
                   Speak to an Expert
@@ -438,7 +438,7 @@ export default function LoanForeclosureWaiverPage() {
 
             {/* Card 2 (White Resources) */}
             <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-              <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Guides</h4>
+              <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Guides</div>
               <ul className="space-y-4 text-sm font-bold">
                 <li>
                   <Link href="/guides/personal-loan-closure" className="flex items-center text-gray-700 hover:text-[#1F5EFF] group transition-colors">

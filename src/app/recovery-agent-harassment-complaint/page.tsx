@@ -215,7 +215,7 @@ export default function RecoveryHarassmentComplaintPage() {
                     <div className="w-12 h-12 bg-white rounded-xl flex items-center justify-center mb-4 shadow-sm group-hover:scale-110 transition-transform">
                       <FontAwesomeIcon icon={item.icon} className="text-[#1F5EFF] w-6 h-6" />
                     </div>
-                    <h4 className="text-xl font-bold mb-2">{item.title}</h4>
+                    <h3 className="text-xl font-bold mb-2">{item.title}</h3>
                     <p className="text-gray-600 text-sm leading-relaxed">{item.desc}</p>
                   </div>
                 ))}
@@ -464,7 +464,7 @@ export default function RecoveryHarassmentComplaintPage() {
 
               <div className="grid md:grid-cols-2 gap-8 mb-12">
                 <div className="bg-red-50 p-8 rounded-2xl border border-red-100">
-                  <h4 className="text-xl font-bold text-red-900 mb-4">Criminal Intimidation</h4>
+                  <h3 className="text-xl font-bold text-red-900 mb-4">Criminal Intimidation</h3>
                   <p className="text-sm text-red-800 leading-relaxed mb-4">
                     Relevant Section: IPC 506 / BNS 351(1). If an agent threatens to kill you, harm your family, or damage your reputation with the intent to cause alarm, it is a criminal offense. You can file an FIR at the local police station.
                   </p>
@@ -652,7 +652,7 @@ export default function RecoveryHarassmentComplaintPage() {
               {/* Promo CTA Box */}
               <div className="bg-[#1F5EFF] rounded-2xl p-6 text-white shadow-xl overflow-hidden relative group">
                 <div className="absolute -right-4 -top-4 w-24 h-24 bg-white/10 rounded-full blur-2xl group-hover:bg-white/20 transition-all"></div>
-                <h3 className="text-2xl font-black mb-4 relative z-10 leading-tight">Stop Collection Calls Now</h3>
+                <div className="text-2xl font-black mb-4 relative z-10 leading-tight">Stop Collection Calls Now</div>
                 <p className="text-white/80 text-sm mb-6 relative z-10 leading-relaxed font-medium">
                   Let us handle the recovery agents for you. Our legal team steps in to stop the harassment and negotiate a settlement you can afford.
                 </p>
@@ -663,7 +663,7 @@ export default function RecoveryHarassmentComplaintPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white rounded-2xl border border-[#DEDEDE] p-6 shadow-sm">
-                <h3 className="text-base font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter border-b border-[#EEEEEE] pb-2">Related Resources</h3>
+                <div className="text-base font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter border-b border-[#EEEEEE] pb-2">Related Resources</div>
                 <nav className="flex flex-col gap-3">
                   <Link href="/rbi-rules-for-recovery-agents" className="text-sm font-bold text-gray-600 hover:text-[#1F5EFF] transition-colors leading-tight">RBI Rules for Recovery Agents</Link>
                   <Link href="/how-to-identify-fake-recovery-agents" className="text-sm font-bold text-gray-600 hover:text-[#1F5EFF] transition-colors leading-tight">Identify Fake Recovery Agents</Link>

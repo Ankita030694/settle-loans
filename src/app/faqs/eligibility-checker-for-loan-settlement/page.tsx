@@ -270,7 +270,7 @@ export default function EligibilityCheckerPage() {
                 Many borrowers ask, "Can I settle after missing just one EMI?" The answer is generally no. Understanding the RBI mandated timeline is crucial to knowing when your "Settlement Window" opens.
              </p>
             <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 mb-8">
-              <h4 className="font-bold text-gray-900 mb-2">The Danger Zone</h4>
+              <h3 className="font-bold text-gray-900 mb-2">The Danger Zone</h3>
               <p className="text-gray-600 leading-relaxed text-sm">
                  Banks follow a strict timeline known as SMA (Special Mention Account) before tagging you as an NPA. Settlement usually becomes a viable discussion only after you cross the 90 day mark.
               </p>
@@ -487,7 +487,7 @@ export default function EligibilityCheckerPage() {
                <div className="space-y-6">
                    {/* Category 1 */}
                    <div>
-                       <h4 className="font-bold text-blue-800 border-b border-blue-200 pb-2 mb-3">1. Identity & Loan Proof</h4>
+                       <h3 className="font-bold text-blue-800 border-b border-blue-200 pb-2 mb-3">1. Identity & Loan Proof</h3>
                        <ul className="grid sm:grid-cols-2 gap-2 text-sm text-gray-700">
                            <li className="flex items-center"><span className="w-2 h-2 bg-blue-400 rounded-full mr-2"></span>PAN Card & Aadhaar Card</li>
                            <li className="flex items-center"><span className="w-2 h-2 bg-blue-400 rounded-full mr-2"></span>Original Loan Term Sheet</li>
@@ -531,7 +531,7 @@ export default function EligibilityCheckerPage() {
             </p>
             <div className="space-y-4">
                <div className="bg-white p-5 rounded-lg border-l-4 border-red-500 shadow-sm">
-                  <h4 className="font-bold text-gray-900">1. The Wilful Defaulter</h4>
+                  <h3 className="font-bold text-gray-900">1. The Wilful Defaulter</h3>
                   <p className="text-sm text-gray-600 mt-1">
                      If the bank discovers you have the money (e.g., high bank balance, new expensive car purchase, frequent international travel) but choose not to pay, they will file a criminal case. Settlement is for the "Can't Pay", not the "Won't Pay".
                   </p>
@@ -709,7 +709,7 @@ export default function EligibilityCheckerPage() {
             {/* CTA Container */}
              <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                <div className="bg-[#1F5EFF] p-4 text-center">
-                 <h3 className="text-lg font-black text-white">Check My Status</h3>
+                 <div className="text-lg font-black text-white">Check My Status</div>
                </div>
                <div className="p-6 text-center">
                 <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -724,7 +724,7 @@ export default function EligibilityCheckerPage() {
 
             {/* Related Pages Container */}
             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-              <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Tools</h3>
+              <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Tools</div>
               <ul className="space-y-4 text-sm font-medium">
                  <li>
                   <Link href="/loan-settlement" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

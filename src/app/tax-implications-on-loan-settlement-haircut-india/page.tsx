@@ -557,7 +557,7 @@ export default function TaxImplicationsLoanSettlementPage() {
 
               <div className="space-y-4 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Section 28(iv): Value of Any Benefit or Perquisite from Business</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Section 28(iv): Value of Any Benefit or Perquisite from Business</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Section 28(iv) taxes the value of any benefit or perquisite arising from business or the exercise of a profession, whether convertible into money or not, or in cash. While tax authorities historically attempted to invoke this section to tax loan haircuts, judicial consensus affirms that a distressed loan settlement is a bilateral debt recovery compromise, not an incentive or perquisite extended by a trade partner in the ordinary course of business.
                   </p>
@@ -688,7 +688,7 @@ export default function TaxImplicationsLoanSettlementPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Loan Classification &amp; Accounting Audit</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Forensic Loan Classification &amp; Accounting Audit</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Prior to initiating settlement talks, advocates scrutinize the borrower&apos;s financial records, bank statements, and tax filings to establish whether the debt is purely personal or mixed with commercial overdrafts. For business entities, loans are partitioned into capital asset term lines versus working capital trading facilities.
                   </p>
@@ -1081,7 +1081,7 @@ export default function TaxImplicationsLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Debt Resolution &amp; Tax Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Settling Your Bank Loan?</h4>
+              <div className="font-bold text-base text-white mb-2">Settling Your Bank Loan?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not risk post-settlement tax notices or botched sanction terms. Retain experienced advocates to negotiate 45%–65% haircuts with complete tax and civil immunity.
               </p>
@@ -1095,9 +1095,9 @@ export default function TaxImplicationsLoanSettlementPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Statutory &amp; Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

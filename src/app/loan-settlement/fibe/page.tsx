@@ -307,7 +307,7 @@ export default function FibeSettlementPage() {
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
                 <div className="bg-slate-50 p-6 rounded-3xl border border-slate-100">
-                  <h4 className="font-black text-slate-900 mb-4 uppercase text-xs tracking-widest">Financial Proofs</h4>
+                  <h3 className="font-black text-slate-900 mb-4 uppercase text-xs tracking-widest">Financial Proofs</h3>
                   <ul className="text-sm space-y-2 text-slate-600">
                     <li>• 6 Months Bank Statement showing zero balance</li>
                     <li>• Termination Letter or Business Loss Certificate</li>
@@ -367,7 +367,7 @@ export default function FibeSettlementPage() {
               </p>
               <div className="space-y-8 mb-12">
                 <div className="border-l-4 border-[#FF9F00] pl-6 py-2">
-                  <h4 className="font-black text-xl mb-2 text-slate-900">Case 1: The Job Loss Crisis</h4>
+                  <h3 className="font-black text-xl mb-2 text-slate-900">Case 1: The Job Loss Crisis</h3>
                   <p className="text-sm italic mb-4">Total Dues: 1.8 Lakhs | Duration of Default: 120 Days | Client: Software Engineer</p>
                   <p className="text-sm">
                     After a sudden layoff, the client was inundated with automated recovery messages. We stepped in, halted the digital harassment, and negotiated based on the 'Unemployment Hardship' clause. Result: Settled for 65,000 rupees (63% waiver) with a 2-month payment window.
@@ -410,7 +410,7 @@ export default function FibeSettlementPage() {
               </p>
               <div className="space-y-8 mb-12">
                 <div className="border-l-4 border-[#FF9F00] pl-6 py-2">
-                  <h4 className="font-black text-xl mb-2 text-slate-900">Phase 1: Breaking the Automated Loop</h4>
+                  <h3 className="font-black text-xl mb-2 text-slate-900">Phase 1: Breaking the Automated Loop</h3>
                   <p className="text-sm">
                     We bypass the standard customer care and recovery agencies. We reach out directly to the 'Special Cases' or 'Settlement Core' team at Social Worth Technologies. We present your 'Hardship Dossier' and demand a manual review of your account.
                   </p>
@@ -611,7 +611,7 @@ export default function FibeSettlementPage() {
                       <p className="text-lg opacity-80 leading-relaxed mb-8 font-light italic text-slate-700">"{review.text}"</p>
                       <div className="flex justify-between items-end">
                         <div>
-                          <h4 className="font-black text-slate-900 leading-tight">{review.name}</h4>
+                          <h3 className="font-black text-slate-900 leading-tight">{review.name}</h3>
                           <p className="text-sm opacity-50 uppercase tracking-widest text-slate-500">{review.location}</p>
                         </div>
                         <div className="text-right">
@@ -683,7 +683,7 @@ export default function FibeSettlementPage() {
           <aside className="lg:w-1/5">
             <div className="sticky top-24 space-y-8">
               <div className="bg-white border-2 border-[#FF9F00] text-slate-900 p-8 rounded-3xl shadow-xl">
-                <h3 className="text-xl font-black mb-4 text-[#FF9F00]">Fibe Debt Relief</h3>
+                <div className="text-xl font-black mb-4 text-[#FF9F00]">Fibe Debt Relief</div>
                 <p className="text-sm opacity-90 mb-6 leading-relaxed text-slate-600">
                   Struggling with Fibe app debt? We help you settle with dignity and stop the digital harassment.
                 </p>
@@ -693,7 +693,7 @@ export default function FibeSettlementPage() {
               </div>
 
               <div className="bg-slate-50 p-6 rounded-3xl border border-slate-100">
-                <h4 className="font-black text-xs uppercase tracking-[0.2em] text-slate-400 mb-4 px-2">Other App Settlements</h4>
+                <div className="font-black text-xs uppercase tracking-[0.2em] text-slate-400 mb-4 px-2">Other App Settlements</div>
                 <ul className="space-y-4">
                   <li><Link href="/loan-settlement/kisetsu-saison-finance" className="block p-3 rounded-xl hover:bg-white hover:text-[#FF9F00] font-bold transition-all text-sm border border-transparent hover:border-slate-200">Kisetsu Saison</Link></li>
                   <li><Link href="/loan-settlement/bajaj-finance" className="block p-3 rounded-xl hover:bg-white hover:text-[#FF9F00] font-bold transition-all text-sm border border-transparent hover:border-slate-200">Bajaj Finance</Link></li>

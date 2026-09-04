@@ -915,7 +915,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm">Ashish Jhangra</h4>
+                  <div className="font-bold text-slate-900 text-sm">Ashish Jhangra</div>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
               </div>
@@ -934,7 +934,7 @@ export default function AxisBankPersonalLoanSettlementClient() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Legal Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Facing Axis Bank Recovery Pressure?</h4>
+              <div className="font-bold text-base text-white mb-2">Facing Axis Bank Recovery Pressure?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Stop illegal harassment, reply to Section 25 notices, and negotiate a formal 40%–65% debt waiver directly with SARB.
               </p>
@@ -948,9 +948,9 @@ export default function AxisBankPersonalLoanSettlementClient() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

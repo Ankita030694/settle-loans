@@ -668,7 +668,7 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
                     1
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-0.5">Active DPD Strings (030, 060, 090+)</h4>
+                    <h3 className="font-bold text-slate-900 text-sm mb-0.5">Active DPD Strings (030, 060, 090+)</h3>
                     <p className="text-xs sm:text-sm text-slate-600">
                       Indicates live, rolling payment delays on existing credit cards or active loans. Lenders reject any new credit until all active overdue amounts are regularized.
                     </p>
@@ -783,9 +783,9 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
               {/* Three Golden Rules of Score Rebuilding */}
               <div className="space-y-3 my-6">
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1">
+                  <h3 className="font-bold text-slate-900 text-sm mb-1">
                     Rule 1: Keep Credit Utilization Ratio (CUR) Strictly Below 30%
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     If your secured credit card has a limit of ₹50,000, keep monthly spending capped under ₹15,000. Utilizing more than 30% of your sanctioned credit limit signals credit hunger to scoring algorithms and suppresses score growth.
                   </p>
@@ -836,10 +836,10 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
 
             {/* Regulatory Sources & References (Exactly 5 Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-8">
-              <h4 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h3 className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Legal Authorities</span>
-              </h4>
+              </h3>
               <ul className="space-y-2 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-3.5 h-3.5 text-[#1F5EFF] flex-shrink-0" />
@@ -978,14 +978,14 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm leading-tight">
+                  <div className="font-bold text-slate-900 text-sm leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-[11px] text-slate-500 font-medium">
                     Debt Settlement Strategist &amp; Consumer Advocate
                   </p>
@@ -1018,9 +1018,9 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
                 <PhoneCall className="w-3.5 h-3.5" />
                 <span>Emergency Advocate Assistance</span>
               </div>
-              <h3 className="text-lg font-black mb-2 leading-tight">
+              <div className="text-lg font-black mb-2 leading-tight">
                 Rejected for a Personal Loan Due to Low CIBIL?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-4">
                 Speak with an empaneled SettleLoans advocate to stop illegal harassment, audit your CIBIL report, and structure a lawful debt settlement.
               </p>
@@ -1034,10 +1034,10 @@ export default function MinimumCibilScoreForPersonalLoanClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-xs uppercase tracking-wider mb-3 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-xs uppercase tracking-wider mb-3 flex items-center gap-2">
                 <ShieldCheck className="w-3.5 h-3.5 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3 text-xs text-slate-600">
                 <li className="flex items-start gap-2">
                   <Check className="w-3.5 h-3.5 text-emerald-600 flex-shrink-0 mt-0.5" />

@@ -351,7 +351,7 @@ const Page = () => {
                                 <div className="flex items-center mb-6">
                                     <div className="w-14 h-14 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] text-xl mr-4 group-hover:bg-[#1F5EFF] group-hover:text-white transition-colors">V</div>
                                     <div className="text-left">
-                                        <h4 className="font-black text-xl text-[#2E2E2E]">Venkatesh R.</h4>
+                                        <h3 className="font-black text-xl text-[#2E2E2E]">Venkatesh R.</h3>
                                         <p className="text-sm text-gray-500 font-bold uppercase tracking-widest">Gachibowli, Hyderabad</p>
                                     </div>
                                     <div className="ml-auto text-yellow-500 animate-pulse">★★★★★</div>
@@ -438,7 +438,7 @@ const Page = () => {
                       {/* CTA Container */}
                       <div className="bg-[#2E2E2E] rounded-3xl shadow-2xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col group transition-all hover:border-[#1F5EFF]/50">
                         <div className="bg-[#1F5EFF] p-5 text-center transition-colors group-hover:bg-[#1F5EFF]/90">
-                          <h3 className="text-xl font-black text-white px-2">Telangana Helpline</h3>
+                          <div className="text-xl font-black text-white px-2">Telangana Helpline</div>
                         </div>
                         <div className="p-8 text-center bg-gradient-to-b from-[#2E2E2E] to-[#1a1a1a]">
                           <p className="mb-8 text-base text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -459,7 +459,7 @@ const Page = () => {
 
                       {/* Trust Section */}
                       <div className="bg-white p-6 rounded-3xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-shadow">
-                         <h3 className="text-xs font-black uppercase tracking-[0.15em] text-[#747474] mb-5 border-b border-[#DEDEDE] pb-3">Why Clients Trust Us</h3>
+                         <div className="text-xs font-black uppercase tracking-[0.15em] text-[#747474] mb-5 border-b border-[#DEDEDE] pb-3">Why Clients Trust Us</div>
                          <div className="space-y-5">
                             <div className="flex gap-4 items-start">
                                <div className="w-6 h-6 rounded-full bg-blue-50 flex items-center justify-center shrink-0">
@@ -490,7 +490,7 @@ const Page = () => {
 
                       {/* Related Pages */}
                       <div className="bg-white p-6 rounded-3xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-shadow">
-                        <h3 className="text-xs font-black uppercase tracking-[0.15em] text-[#747474] mb-5 border-b border-[#DEDEDE] pb-3">Our Core Services</h3>
+                        <div className="text-xs font-black uppercase tracking-[0.15em] text-[#747474] mb-5 border-b border-[#DEDEDE] pb-3">Our Core Services</div>
                         <ul className="space-y-4 text-xs font-extrabold">
                           <li>
                             <Link href="/services/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-all">

@@ -629,10 +629,10 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Building2 className="w-4 h-4 text-red-600" />
                     <span>Section 182 &amp; 238 Indian Contract Act, 1872 (Principal-Agent Law)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under Section 182 of the Indian Contract Act, an agency created by a lender establishes a formal principal-agent relationship. Section 238 explicitly mandates that misrepresentations made, or frauds committed, by agents acting in the course of their business for the principal have the same effect on agreements and liabilities as if such misrepresentations or frauds had been committed by the principal bank itself.
                   </p>
@@ -783,7 +783,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Step 1: Telecom Provider CDR (Call Detail Record) Retrieval</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Step 1: Telecom Provider CDR (Call Detail Record) Retrieval</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Log into your telecom service provider portal (Jio, Airtel, Vodafone Idea) or submit a formal customer service request to obtain itemized monthly Call Detail Records (CDR). The official CDR provides conclusive, carrier-verified records of incoming call frequencies, timestamps, originating telecom circles, and call durations, establishing undeniable proof of robotic call harassment.
                   </p>
@@ -1175,7 +1175,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Digital Harassment Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Hounded by Auto-Dialers &amp; Unknown Virtual Numbers?</h4>
+              <div className="font-bold text-base text-white mb-2">Hounded by Auto-Dialers &amp; Unknown Virtual Numbers?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Stop relentless robotic harassment immediately. Retain seasoned banking litigation advocates to preserve digital CDR evidence, file DoT Chakshu grievances, and negotiate a 45%–65% OTS.
               </p>
@@ -1189,9 +1189,9 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

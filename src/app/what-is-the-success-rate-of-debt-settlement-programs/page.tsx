@@ -328,7 +328,7 @@ export default function DebtSettlementSuccessRatePage() {
                 This is what we call 'Account-Level Success'. For many borrowers, this is where the momentum starts. Often, people have one or two 'problem' debts that are draining their monthly income through high interest. By settling these first, they free up the cash flow needed to tackle the remaining debts. The success rate for individual accounts is generally much higher than the success rate for entire programs because life often gets in the way.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h4 className="font-bold text-blue-900 mb-4">Why Account-Level Success is the Priority</h4>
+                <h3 className="font-bold text-blue-900 mb-4">Why Account-Level Success is the Priority</h3>
                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                   Consider a borrower with five credit card debts. If they manage to settle three of those for 50% each, they have effectively reduced their monthly interest burden by 60%. Even if they stop the program there, they have achieved a massive victory. This is why we focus on 'Incremental Success'. Every single settled account is a brick removed from the wall that is blocking your financial future.
                 </p>
@@ -348,7 +348,7 @@ export default function DebtSettlementSuccessRatePage() {
               <div className="grid sm:grid-cols-3 gap-4 my-8">
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="text-3xl font-black text-[#1F5EFF] mb-2">75%</div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-1">Partial Success</h4>
+                  <h3 className="font-bold text-[#2E2E2E] mb-1">Partial Success</h3>
                   <p className="text-xs text-gray-500">Settle at least one account within 36 months.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
@@ -549,7 +549,7 @@ export default function DebtSettlementSuccessRatePage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -620,7 +620,7 @@ export default function DebtSettlementSuccessRatePage() {
             <div className="sticky top-24 space-y-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Plan Your Success</h3>
+                  <div className="text-lg font-black text-white">Plan Your Success</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -634,7 +634,7 @@ export default function DebtSettlementSuccessRatePage() {
               </div>
 
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Insights</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Insights</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

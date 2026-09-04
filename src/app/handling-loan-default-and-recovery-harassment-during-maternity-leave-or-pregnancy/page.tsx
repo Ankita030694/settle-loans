@@ -302,7 +302,7 @@ export default function HandlingLoanDefaultMaternityPage() {
           <section id="psychological-impact" className="scroll-mt-32 mb-16">
              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Mental Health Toll</h2>
              <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-               <h4 className="font-black text-[#2E2E2E] mb-4">The Psychological Impact</h4>
+               <h3 className="font-black text-[#2E2E2E] mb-4">The Psychological Impact</h3>
                <p className="mb-4 text-gray-700 leading-relaxed">The psychological impact of aggressive recovery calls during a high-risk pregnancy can be devastating. The constant ringing of the phone can create a state of perpetual flight or fight, affecting both maternal health and fetal well-being.</p>
                <h4 className="font-black text-[#2E2E2E] mb-4 mt-8">Separating Liability from Harassment</h4>
                <p className="text-gray-700 leading-relaxed">It is crucial to separate the financial liability from the emotional harassment. You still owe the bank, but the bank owes you a legally compliant and respectful recovery process. By hiring a professional firm like SettleLoans, you can redirect these stressors to our legal desk.</p>
@@ -315,7 +315,7 @@ export default function HandlingLoanDefaultMaternityPage() {
               The Reserve Bank of India (RBI) has laid down strict Fair Practices Codes that all banks and third-party recovery agents must follow. Vulnerable borrowers, especially pregnant women or those dealing with medical emergencies, have specific protections against harassment.
             </p>
             <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-              <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Your Fundamental Rights Under RBI Code:</h4>
+              <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Your Fundamental Rights Under RBI Code:</h3>
               <ul className="space-y-4 text-blue-900 font-medium">
                 <li className="flex items-start gap-3">
                    <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -436,7 +436,7 @@ export default function HandlingLoanDefaultMaternityPage() {
               If your formal requests are ignored and recovery agents continue harassing a pregnant woman, you have the right to take aggressive legal action to protect your health and privacy.
             </p>
             <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-               <h4 className="text-lg font-bold text-red-700 mb-3">Immediate Actions Against Harassment:</h4>
+               <h3 className="text-lg font-bold text-red-700 mb-3">Immediate Actions Against Harassment:</h3>
                <p className="text-sm text-red-900 leading-relaxed italic mb-4">
                  "Do not panic. You have legal rights. Agents operate on a script of fear. Once they realize you know the RBI guidelines, their behavior often changes."
                </p>
@@ -535,7 +535,7 @@ export default function HandlingLoanDefaultMaternityPage() {
                       {review.name.charAt(0)}
                     </div>
                     <div>
-                      <h5 className="font-black text-[#2E2E2E]">{review.name}</h5>
+                      <h3 className="font-black text-[#2E2E2E]">{review.name}</h3>
                       <p className="text-xs text-[#747474] font-bold uppercase tracking-wider">{review.loc}</p>
                     </div>
                     <div className="ml-auto flex text-yellow-400">
@@ -576,7 +576,7 @@ export default function HandlingLoanDefaultMaternityPage() {
                 { q: "Do I need a lawyer to deal with a medical emergency loan settlement?", a: "While not strictly required, a legal advocate can file an official moratorium request, send a cease-and-desist notice for harassment, and negotiate a settlement without you having to deal with the stress directly." }
               ].map((faq, i) => (
                 <div key={i} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h4 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h4>
+                  <h3 className="font-black text-[#2E2E2E] text-lg mb-3">{i+1}. {faq.q}</h3>
                   <p className="text-gray-600 leading-relaxed">{faq.a}</p>
                 </div>
               ))}
@@ -605,13 +605,13 @@ export default function HandlingLoanDefaultMaternityPage() {
           <div className="sticky top-24 space-y-8">
              <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl overflow-hidden relative group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                <h3 className="text-2xl font-black mb-4 relative z-10">Emergency Help?</h3>
+                <div className="text-2xl font-black mb-4 relative z-10">Emergency Help?</div>
                 <p className="text-white/70 text-sm mb-6 relative z-10">If agents are at your door or threatening you, contact us immediately for a legal intervention.</p>
                 <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-black py-4 rounded-xl hover:bg-[#1F5EFF]/90 transition-colors shadow-lg">Request Callback</Link>
              </div>
 
              <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-4">Related Guides</h3>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 mb-6 border-b pb-4">Related Guides</div>
                 <ul className="space-y-5">
                    <li>
                       <Link href="/bank-recovery-harassment-complaint" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold transition-colors">

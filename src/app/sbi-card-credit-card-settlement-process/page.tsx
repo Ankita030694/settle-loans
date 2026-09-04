@@ -621,10 +621,10 @@ export default function SBICardCreditCardSettlementPage() {
 
               <div className="space-y-4 my-6">
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/70">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <span className="w-2.5 h-2.5 rounded-full bg-yellow-500"></span>
                     Stage 1: Days Past Due 1 to 30 (Special Mention Account 0 - SMA-0)
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Automated tele-calling systems, interactive voice response (IVR) calls, SMS payment links, and email reminders are initiated immediately. Card spending privileges are temporarily suspended. Collections agents focus on encouraging immediate minimum payments or pitching high-interest EMI restructuring conversions, offering zero principal waivers.
                   </p>
@@ -1190,14 +1190,14 @@ export default function SBICardCreditCardSettlementPage() {
                   </div>
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -1230,9 +1230,9 @@ export default function SBICardCreditCardSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>SBI Card Dispute Resolution</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Facing SBI Card Debt Default?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Stop aggressive recovery tele-calling and compounding 42%–45% APR interest immediately. Let our experienced banking advocates defend Gurugram legal notices, audit your statement ledger, and negotiate an authentic stamped SBI Card settlement letter with 50%–70% waivers.
               </p>
@@ -1246,10 +1246,10 @@ export default function SBICardCreditCardSettlementPage() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

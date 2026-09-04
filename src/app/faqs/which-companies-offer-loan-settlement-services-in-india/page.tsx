@@ -312,7 +312,7 @@ export default function LoanSettlementCompaniesPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                                    <h4 className="font-bold text-lg mb-3 text-gray-900">Knowledge of Floor Rates</h4>
+                                    <h3 className="font-bold text-lg mb-3 text-gray-900">Knowledge of Floor Rates</h3>
                                     <p className="text-gray-700 text-sm">Every bank has an internal limit on how much of a discount they can provide. A professional agency knows exactly what these limits are, preventing borrowers from accepting sub-optimal offers.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
@@ -408,7 +408,7 @@ export default function LoanSettlementCompaniesPage() {
                                     <li className="flex gap-4">
                                         <FontAwesomeIcon icon={faTriangleExclamation} className="text-[#1F5EFF] w-6 h-6 mt-1" />
                                         <div>
-                                            <h5 className="font-bold text-lg">No Harassment Allowed</h5>
+                                            <h4 className="font-bold text-lg">No Harassment Allowed</h4>
                                             <p className="text-gray-400 text-sm">RBI strictly prohibits harassment, intimidation, or persistent calling at odd hours (before 8 AM or after 7 PM).</p>
                                         </div>
                                     </li>
@@ -442,7 +442,7 @@ export default function LoanSettlementCompaniesPage() {
                             </p>
                             <div className="grid sm:grid-cols-2 gap-6 mb-8">
                                 <div className="p-8 bg-gray-50 border border-gray-100 rounded-3xl">
-                                    <h4 className="font-bold text-xl mb-4">Look for Transparency</h4>
+                                    <h3 className="font-bold text-xl mb-4">Look for Transparency</h3>
                                     <p className="text-gray-600 leading-relaxed text-sm">Reputable firms provide clear fee structures and don't demand massive upfront payments. They work on a performance basis.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border border-gray-100 rounded-3xl">
@@ -478,11 +478,11 @@ export default function LoanSettlementCompaniesPage() {
                             </p>
                             <div className="space-y-4">
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                    <h5 className="font-bold text-gray-900 mb-2">Public Sector (PSU) Banks</h5>
+                                    <h3 className="font-bold text-gray-900 mb-2">Public Sector (PSU) Banks</h3>
                                     <p className="text-sm text-gray-600">Very structured schemes. Focused on principal recovery. Slow approval process but high predictability.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
-                                    <h5 className="font-bold text-gray-900 mb-2">Private Sector Giants</h5>
+                                    <h4 className="font-bold text-gray-900 mb-2">Private Sector Giants</h4>
                                     <p className="text-sm text-gray-600">Driven by quarterly targets (March/September). Dynamic base rates. Faster resolutions if timed correctly.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm">
@@ -525,11 +525,11 @@ export default function LoanSettlementCompaniesPage() {
                             </h2>
                             <div className="grid md:grid-cols-2 gap-4">
                                 <div className="p-6 rounded-2xl bg-red-50 border border-red-100">
-                                    <h5 className="font-bold text-red-900 mb-2">Myth: Settlement is Illegal</h5>
+                                    <h3 className="font-bold text-red-900 mb-2">Myth: Settlement is Illegal</h3>
                                     <p className="text-xs text-red-800">Reality: It is a standard, board-approved banking practice used globally to manage bad debts.</p>
                                 </div>
                                 <div className="p-6 rounded-2xl bg-red-50 border border-red-100">
-                                    <h5 className="font-bold text-red-900 mb-2">Myth: You Can Settle Instantly</h5>
+                                    <h4 className="font-bold text-red-900 mb-2">Myth: You Can Settle Instantly</h4>
                                     <p className="text-xs text-red-800">Reality: Banks need the NPA classification to have the incentive to offer deep discounts.</p>
                                 </div>
                             </div>
@@ -603,7 +603,7 @@ export default function LoanSettlementCompaniesPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Expert Help</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Expert Help</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
@@ -617,7 +617,7 @@ export default function LoanSettlementCompaniesPage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Resources</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Related Resources</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/how-to-negotiate-personal-loan-settlement" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

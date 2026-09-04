@@ -342,7 +342,7 @@ export default function LoanSettlementJobLossPage() {
               </p>
               <div className="grid sm:grid-cols-2 gap-4 mb-8">
                 <div className="p-6 border border-[#DEDEDE] rounded-xl bg-white shadow-sm">
-                  <h4 className="font-bold mb-2">Tenure Extension</h4>
+                  <h3 className="font-bold mb-2">Tenure Extension</h3>
                   <p className="text-sm text-gray-500">Increasing the loan period to drop your monthly EMI to a level you can afford with your savings.</p>
                 </div>
                 <div className="p-6 border border-[#DEDEDE] rounded-xl bg-white shadow-sm">
@@ -384,7 +384,7 @@ export default function LoanSettlementJobLossPage() {
               <h2 className="text-3xl md:text-4xl font-black mb-10">Essential Documentation: Proving Your Hardship</h2>
               <div className="grid sm:grid-cols-2 gap-6 mb-10">
                 <div className="p-8 bg-gray-50 rounded-2xl border border-gray-200">
-                  <h4 className="font-bold mb-4 text-[#1F5EFF]">Employment Proofs</h4>
+                  <h3 className="font-bold mb-4 text-[#1F5EFF]">Employment Proofs</h3>
                   <ul className="space-y-3 text-sm">
                     <li>• Termination or Relieving Letter</li>
                     <li>• Layoff Notice or Company Closure Proof</li>
@@ -453,11 +453,11 @@ export default function LoanSettlementJobLossPage() {
               </p>
               <div className="grid md:grid-cols-3 gap-6 mb-10">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                  <h5 className="font-bold mb-2">Step 1: The Secured Card</h5>
+                  <h3 className="font-bold mb-2">Step 1: The Secured Card</h3>
                   <p className="text-xs text-gray-500 italic">Apply for a credit card against a small fixed deposit of 20,000 rupees. Use it for 5% of its limit and pay back in full every month. This shows consistency.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                  <h5 className="font-bold mb-2">Step 2: Utility Bills</h5>
+                  <h4 className="font-bold mb-2">Step 2: Utility Bills</h4>
                   <p className="text-xs text-gray-500 italic">Ensure every postpaid bill and gas bill is in your name and paid on time. While not directly in CIBIL, it builds a history of bill payment discipline.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -491,7 +491,7 @@ export default function LoanSettlementJobLossPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-xl">{review.name}</h5>
+                        <h3 className="font-bold text-xl">{review.name}</h3>
                         <p className="text-sm text-gray-500">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-lg">★★★★★</div>
@@ -533,7 +533,7 @@ export default function LoanSettlementJobLossPage() {
           <aside className="hidden lg:block w-1/5 min-w-[240px] sticky top-32 flex flex-col gap-8">
             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
               <div className="bg-[#1F5EFF] p-6 text-center">
-                <h3 className="text-xl font-black text-white">Restart Your Journey</h3>
+                <div className="text-xl font-black text-white">Restart Your Journey</div>
               </div>
               <div className="p-8 text-center text-[#DEDEDE]">
                 <p className="mb-6 text-sm opacity-80 leading-relaxed font-bold">
@@ -547,7 +547,7 @@ export default function LoanSettlementJobLossPage() {
             </div>
 
             <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-              <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-6 border-b border-[#DEDEDE] pb-2">Related Helpful Guides</h3>
+              <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-6 border-b border-[#DEDEDE] pb-2">Related Helpful Guides</div>
               <ul className="space-y-4 text-sm font-bold">
                 <li><Link href="/dont-have-job-cant-pay-emi" className="text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors flex items-center gap-2 decoration-2 decoration-[#1F5EFF] underline">Can't Pay My EMI</Link></li>
                 <li><Link href="/how-to-manage-loan-with-no-job" className="text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors flex items-center gap-2 decoration-2 decoration-[#1F5EFF] underline">No Job Management</Link></li>

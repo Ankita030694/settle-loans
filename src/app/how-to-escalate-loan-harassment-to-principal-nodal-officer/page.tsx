@@ -528,10 +528,10 @@ export default function PNOEscalationHarassmentPage() {
               </p>
 
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-4 rounded-r-xl my-4">
-                <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
+                <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                   <ShieldAlert className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Statutory Distinction: Branch Desk vs. Principal Nodal Officer</span>
-                </h4>
+                </h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                   While local branch personnel are incentivized purely by monthly cash recovery metrics, the Principal Nodal Officer is legally bound by RBI compliance mandates. Representations lodged with the PNO create formal regulatory audit trails that cannot be suppressed without subjecting the financial institution to severe central bank scrutiny and punitive sanctions.
                 </p>
@@ -606,10 +606,10 @@ export default function PNOEscalationHarassmentPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 rounded-xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-1.5">
                     <PhoneCall className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Telephonic Audio Logs &amp; CDR Records</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Preserve unedited audio recordings of all inbound collection calls showing timestamps, agent names, abusive phrasing, and calls placed outside the mandatory 8:00 AM to 7:00 PM window. Obtain certified Telecom Call Detail Records (CDR) proving persistent calling patterns and continuous dialing harassment.
                   </p>
@@ -833,10 +833,10 @@ export default function PNOEscalationHarassmentPage() {
               </p>
 
               <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200 space-y-3 my-6">
-                <h4 className="font-bold text-slate-900 text-sm flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
                   <Check className="w-4 h-4 text-emerald-600" />
                   <span>The Internal Ombudsman Institutional Review Process</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <strong className="text-slate-900 block mb-1">Independent Examination of Telephony Logs</strong>
@@ -868,10 +868,10 @@ export default function PNOEscalationHarassmentPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl space-y-1.5">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <BadgePercent className="w-4 h-4 text-emerald-600" />
                     <span>100% Waiver of Penal Interest &amp; Overdue Charges</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     All accumulated penal interest, compounding late fees, legal notice charges, and administrative costs are fully waived as part of the formal grievance resolution.
                   </p>
@@ -1176,7 +1176,7 @@ export default function PNOEscalationHarassmentPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Emergency Harassment Escalation</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Facing Rogue Recovery Agents?</h4>
+              <div className="font-bold text-base text-white mb-2">Facing Rogue Recovery Agents?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not endure intimidation, abusive calls, or unauthorized visits. Retain seasoned advocates to file urgent PNO representations and freeze collections immediately.
               </p>
@@ -1190,9 +1190,9 @@ export default function PNOEscalationHarassmentPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

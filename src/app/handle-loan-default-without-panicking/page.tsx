@@ -434,7 +434,7 @@ export default function HandleLoanDefaultPage() {
               </p>
               <div className="flex flex-col md:flex-row gap-8 mb-8">
                 <div className="flex-1 bg-teal-50 p-6 rounded-xl border border-teal-200">
-                  <h4 className="font-bold text-teal-900 mb-2">The Golden 60 Days</h4>
+                  <h3 className="font-bold text-teal-900 mb-2">The Golden 60 Days</h3>
                   <p className="text-sm text-teal-800">
                     If you communicate within the first 60 days of default, you have a high chance of getting the bank to agree to a restructuring plan. This might include reducing the EMI or extending the loan tenure.
                   </p>
@@ -639,7 +639,7 @@ export default function HandleLoanDefaultPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -746,7 +746,7 @@ export default function HandleLoanDefaultPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20 transform hover:-translate-y-1 transition-transform">
                 <div className="bg-[#1F5EFF] p-6 text-center text-white">
-                  <h3 className="text-xl font-black mb-2 leading-tight">Stop the Harassment</h3>
+                  <div className="text-xl font-black mb-2 leading-tight">Stop the Harassment</div>
                   <p className="opacity-90 text-xs">Let our legal experts handle the recovery calls while you regain your peace.</p>
                 </div>
                 <div className="p-6 text-center space-y-4">
@@ -760,7 +760,7 @@ export default function HandleLoanDefaultPage() {
               {/* Related Pages Container */}
               <div className="bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden">
                 <div className="bg-gray-50 p-4 border-b border-gray-200">
-                  <h3 className="text-sm font-black text-[#2E2E2E] uppercase tracking-wider">Related Guides</h3>
+                  <div className="text-sm font-black text-[#2E2E2E] uppercase tracking-wider">Related Guides</div>
                 </div>
                 <div className="p-4 space-y-3">
                   <Link href="/rbi-rules-for-recovery-agents" className="block text-sm text-gray-600 hover:text-[#1F5EFF] transition-colors border-b border-gray-50 pb-2">

@@ -424,7 +424,7 @@ export default function BusinessLoanSettlementPage() {
                 <div className="flex gap-6 items-start">
                   <div className="bg-[#1F5EFF] text-white w-10 h-10 rounded-full flex-shrink-0 flex items-center justify-center font-bold">1</div>
                   <div>
-                    <h4 className="font-bold text-xl mb-2">Detailed Financial Audit and Hardship Analysis</h4>
+                    <h3 className="font-bold text-xl mb-2">Detailed Financial Audit and Hardship Analysis</h3>
                     <p className="text-gray-600">The process begins with a deep dive into your business accounts. Why did the default happen? Is there proof of hospital bills, business loss, or client defaults? This analysis formulates the 'Story' that we present to the bank to justify a discount.</p>
                   </div>
                 </div>
@@ -522,7 +522,7 @@ export default function BusinessLoanSettlementPage() {
               </p>
               <div className="grid md:grid-cols-3 gap-6 mb-8">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Retainer / Processing</h4>
+                  <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Retainer / Processing</h3>
                   <p className="text-3xl font-black text-[#2E2E2E] mb-2">₹5K - ₹15K</p>
                   <p className="text-xs text-gray-500">Covers legal audits, drafting proposals, and initial bank communication.</p>
                 </div>
@@ -585,7 +585,7 @@ export default function BusinessLoanSettlementPage() {
                         {item.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E] text-lg">{item.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E] text-lg">{item.name}</h3>
                         <p className="text-xs text-gray-400 font-black uppercase tracking-widest">{item.loc} | {item.business}</p>
                       </div>
                     </div>
@@ -704,7 +704,7 @@ export default function BusinessLoanSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -761,7 +761,7 @@ export default function BusinessLoanSettlementPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-3xl shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-6 text-center">
-                  <h3 className="text-xl font-black text-white uppercase tracking-widest">Business First</h3>
+                  <div className="text-xl font-black text-white uppercase tracking-widest">Business First</div>
                 </div>
                 <div className="p-8 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-black uppercase italic">
@@ -776,7 +776,7 @@ export default function BusinessLoanSettlementPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-8 rounded-3xl border-2 border-[#DEDEDE] shadow-sm">
-                <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#747474] mb-6 border-b-4 border-[#1F5EFF] pb-2 inline-block">Business Mastery</h3>
+                <div className="text-xs font-black uppercase tracking-[0.2em] text-[#747474] mb-6 border-b-4 border-[#1F5EFF] pb-2 inline-block">Business Mastery</div>
                 <ul className="space-y-6 text-sm font-black">
                   <li>
                     <Link href="/business-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

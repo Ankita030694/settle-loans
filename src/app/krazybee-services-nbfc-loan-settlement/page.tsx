@@ -576,10 +576,10 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
               </p>
 
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 mb-6">
-                <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                   <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                   Statutory Entity Profile: KrazyBee Services Private Limited
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div><strong>Legal Name:</strong> KrazyBee Services Private Limited</div>
                   <div><strong>RBI Registration No:</strong> N-02.00262 (NBFC-ND-SI)</div>
@@ -822,10 +822,10 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
 
               <div className="space-y-4 my-6">
                 <div className="p-4 bg-slate-50 rounded-2xl border border-slate-200">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm mb-1 flex items-center gap-2">
                     <Check className="w-4 h-4 text-emerald-600" />
                     Strict Calling Hours (08:00 AM to 07:00 PM Only)
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Recovery agents are strictly prohibited from contacting borrowers before 8:00 AM in the morning or after 7:00 PM in the evening. Repeated calls, late-night WhatsApp messaging, and continuous automated robocalls constitute statutory harassment.
                   </p>
@@ -1285,14 +1285,14 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                   </div>
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -1325,9 +1325,9 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>KrazyBee Legal Notice Defense</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Received a KrazyBee Legal Notice?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Stop aggressive recovery tele-calling and recurring e-NACH bounce penalties immediately. Let our experienced banking advocates audit your delinquency stage, defend statutory Section 25 PSSA summons, draft your formal hardship petition, and secure an authentic stamped KrazyBee Services settlement letter.
               </p>
@@ -1341,10 +1341,10 @@ export default function KrazyBeeServicesNBFCLoanSettlementPage() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

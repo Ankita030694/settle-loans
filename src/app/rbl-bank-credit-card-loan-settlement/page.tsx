@@ -473,10 +473,10 @@ export default function RblBankCreditCardSettlementPage() {
           {/* Left Column: Sticky Table of Contents + Executive Crux */}
           <aside className="hidden lg:block sticky top-24 space-y-5">
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 shadow-sm">
-              <h3 className="text-xs font-black uppercase tracking-wider text-slate-500 mb-4 flex items-center gap-2">
+              <div className="text-xs font-black uppercase tracking-wider text-slate-500 mb-4 flex items-center gap-2">
                 <BookOpen className="w-4 h-4 text-[#1F5EFF]" />
                 Settlement Index
-              </h3>
+              </div>
               <nav className="space-y-1.5 text-xs">
                 {tocItems.map((item) => (
                   <a
@@ -762,10 +762,10 @@ export default function RblBankCreditCardSettlementPage() {
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm md:text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs flex items-center justify-center font-bold">1</span>
                     Comprehensive Ledger Forensics &amp; Account Segmentation
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                     Obtain complete historical billing statements for all RBL credit cards and co-branded SuperCards. Perform a granular ledger audit separating actual merchant transactions and cash withdrawals from unearned revolving interest, late penalties, and GST charges to establish the authentic core principal balance.
                   </p>
@@ -1137,14 +1137,14 @@ export default function RblBankCreditCardSettlementPage() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -1177,9 +1177,9 @@ export default function RblBankCreditCardSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>RBL Dispute Resolution</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Trapped in RBL Card Debt?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Halt recovery harassment and interest compounding today. Let our seasoned advocates audit your unearned interest charges, draft your formal OTS proposal, and secure an official RBL Bank settlement letter.
               </p>
@@ -1193,10 +1193,10 @@ export default function RblBankCreditCardSettlementPage() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

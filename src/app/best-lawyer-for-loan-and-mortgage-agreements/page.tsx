@@ -242,7 +242,7 @@ export default function LoanMortgageAgreementsPage() {
                                 A common legal pitfall in India is the 'Deficit Stamp Duty'. Each state, from Maharashtra to Karnataka to Delhi, has its own schedule for stamp duty on mortgages. For instance, in Mumbai, the duty on a mortgage deed can be significant, leading many to under-stamp.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border border-red-100 mb-10">
-                                <h4 className="text-xl font-bold text-red-700 mb-4 uppercase">The Registration Warning</h4>
+                                <h3 className="text-xl font-bold text-red-700 mb-4 uppercase">The Registration Warning</h3>
                                 <p className="text-gray-700 leading-relaxed font-bold">
                                     Under Section 49 of the Registration Act, an unregistered document that requires registration cannot be used to prove a transaction affecting immovable property. If your mortgage is not registered, you cannot claim a priority interest in the property over other creditors.
                                 </p>
@@ -264,7 +264,7 @@ export default function LoanMortgageAgreementsPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100 shadow-sm">
-                                    <h4 className="font-bold text-xl mb-3 text-[#1F5EFF]">Asset Monitoring</h4>
+                                    <h3 className="font-bold text-xl mb-3 text-[#1F5EFF]">Asset Monitoring</h3>
                                     <p className="text-gray-700 leading-relaxed text-sm">Clauses requiring the borrower to provide quarterly financial statements and allow physical inspection of the mortgaged property.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100 shadow-sm">
@@ -302,7 +302,7 @@ export default function LoanMortgageAgreementsPage() {
                                     <div key={i} className="flex gap-4 p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
                                         <div className="w-12 h-12 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] flex items-center justify-center font-bold flex-shrink-0">📜</div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E] mb-1">{item.title}</h4>
+                                            <h3 className="font-bold text-[#2E2E2E] mb-1">{item.title}</h3>
                                             <p className="text-gray-600 text-sm">{item.desc}</p>
                                         </div>
                                     </div>
@@ -332,7 +332,7 @@ export default function LoanMortgageAgreementsPage() {
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200 text-center">
                                     <FontAwesomeIcon icon={faShieldAlt} size="2x" className="text-[#1F5EFF] mb-4" />
-                                    <h4 className="font-bold mb-2">Title Scrutiny</h4>
+                                    <h3 className="font-bold mb-2">Title Scrutiny</h3>
                                     <p className="text-xs text-gray-500">We perform a 30-year search of property records to ensure the mortgage is being created on a clear, unencumbered title.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-200 text-center">
@@ -389,7 +389,7 @@ export default function LoanMortgageAgreementsPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                         </div>
@@ -452,7 +452,7 @@ export default function LoanMortgageAgreementsPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] p-8 rounded-[24px] text-white shadow-xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-full -mr-12 -mt-12 group-hover:scale-150 transition-transform duration-500"></div>
-                                <h4 className="text-2xl font-black mb-4 relative z-10 leading-tight">Draft Your Agreement Today</h4>
+                                <div className="text-2xl font-black mb-4 relative z-10 leading-tight">Draft Your Agreement Today</div>
                                 <p className="text-[#DEDEDE]/80 text-sm mb-8 relative z-10 font-medium">Get a legally verified, high-precision mortgage deed or loan contract.</p>
                                 <Link href="/contact" className="block w-full text-center bg-[#1F5EFF] text-white font-bold py-4 rounded-xl hover:bg-white hover:text-[#1F5EFF] transition-all duration-300 shadow-lg relative z-10">
                                     Start Drafting
@@ -460,7 +460,7 @@ export default function LoanMortgageAgreementsPage() {
                             </div>
 
                             <div className="bg-white border border-[#DEDEDE] p-8 rounded-[24px] shadow-sm font-bold">
-                                <h4 className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Legal Resources</h4>
+                                <div className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Legal Resources</div>
                                 <ul className="space-y-4">
                                     <li>
                                         <Link href="/best-lawyer-for-documentation-review-of-loan-agreement" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors">

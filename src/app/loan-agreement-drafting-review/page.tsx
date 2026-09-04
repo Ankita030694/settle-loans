@@ -226,7 +226,7 @@ export default function LoanAgreementDraftingPage() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px] relative">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Drafting Roadmap</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Drafting Roadmap</div>
                             <TableOfContents
                                 items={[
                                     { id: "foundations-loan-agreements", title: "Legal Foundations" },
@@ -275,7 +275,7 @@ export default function LoanAgreementDraftingPage() {
                             </p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-gray-100 hover:shadow-md transition-all">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-3 uppercase tracking-tight">1. Precise Definition of Parties</h4>
+                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-3 uppercase tracking-tight">1. Precise Definition of Parties</h3>
                                     <p className="leading-relaxed">Correct legal names, registered addresses, and identification numbers (PAN/CIN) for both the lender and borrower to ensure the agreement is enforceable against the right legal entities.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-2xl border border-gray-100 hover:shadow-md transition-all">
@@ -327,7 +327,7 @@ export default function LoanAgreementDraftingPage() {
                                 Most standardized bank agreements contain an 'Automatic Default' clause that triggers legal action the second a payment is missed. During a professional review, we advocate for a <strong>7 to 15-day cure period</strong>. This allows the borrower to rectify a genuine oversight without triggering penalties, CIBIL reporting, or aggressive recovery. Furthermore, we ensure that the 'Cross-Default' clause - which says one missed payment elsewhere makes you a defaulter for this loan too - is either removed or significantly limited in scope.
                             </p>
                             <div className="bg-red-50 p-10 rounded-[40px] border-2 border-red-100 my-12">
-                                <h4 className="text-2xl font-black text-red-900 mb-6 uppercase">The 'Acceleration' Clause Danger</h4>
+                                <h3 className="text-2xl font-black text-red-900 mb-6 uppercase">The 'Acceleration' Clause Danger</h3>
                                 <p className="text-lg text-red-800 leading-relaxed font-bold italic">
                                     An 'Acceleration' clause allows the lender to demand the FULL repayment of the entire loan immediately upon a single default. This can be financially devastating. We ensure these clauses are conditional upon significant, documented breaches, rather than minor technical errors.
                                 </p>
@@ -361,7 +361,7 @@ export default function LoanAgreementDraftingPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-8 bg-blue-900 text-white rounded-[40px] shadow-xl">
-                                    <h4 className="text-xl font-black mb-4 uppercase text-blue-300">Mandatory Disclosure</h4>
+                                    <h3 className="text-xl font-black mb-4 uppercase text-blue-300">Mandatory Disclosure</h3>
                                     <p className="opacity-80 leading-relaxed font-medium">Lenders must provide the borrower with a copy of the loan agreement and all its enclosures at the time of sanction. Refusal to provide these documents is a serious regulatory violation.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 border-2 border-gray-100 rounded-[40px] shadow-sm">
@@ -382,14 +382,14 @@ export default function LoanAgreementDraftingPage() {
                                 <li className="flex items-start gap-4">
                                     <span className="w-8 h-8 rounded-full bg-red-100 flex items-center justify-center shrink-0 mt-1"><svg className="w-4 h-4 text-red-600" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd"></path></svg></span>
                                     <div>
-                                        <h5 className="font-black text-lg">The 'Unilateral Modification' Clause</h5>
+                                        <h3 className="font-black text-lg">The 'Unilateral Modification' Clause</h3>
                                         <p className="leading-relaxed">This allows the bank to change interest rates or fees at any time without your consent. We struggle to remove this or at least link it to a transparent benchmark like the RBI Repo Rate.</p>
                                     </div>
                                 </li>
                                 <li className="flex items-start gap-4">
                                     <span className="w-8 h-8 rounded-full bg-red-100 flex items-center justify-center shrink-0 mt-1"><svg className="w-4 h-4 text-red-600" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd"></path></svg></span>
                                     <div>
-                                        <h5 className="font-black text-lg">The 'Arbitrary Foreclosure' Clause</h5>
+                                        <h4 className="font-black text-lg">The 'Arbitrary Foreclosure' Clause</h4>
                                         <p className="leading-relaxed">A clause that allows the lender to recall the loan for no reason ('Recall at Will'). This can lead to liquidity crises for businesses. We mandate that any recall must be preceded by a specific, defined default.</p>
                                     </div>
                                 </li>
@@ -512,7 +512,7 @@ export default function LoanAgreementDraftingPage() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-[32px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-6 text-white text-center">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Drafting<br />Emergency?</h3>
+                                    <div className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Drafting<br />Emergency?</div>
                                     <p className="opacity-80 text-[10px] font-black uppercase tracking-[0.2em]">Contact Experts Today</p>
                                 </div>
                                 <div className="p-8">
@@ -528,7 +528,7 @@ export default function LoanAgreementDraftingPage() {
 
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-[32px] p-8 border border-gray-100 shadow-sm text-left">
-                                <h4 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Essential Mastery</h4>
+                                <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Essential Mastery</div>
                                 <nav className="space-y-4">
                                     <Link href="/legal-case-for-loan-sanction-without-consent" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Unauthorized Loan Help</Link>
                                     <Link href="/best-lawyer-for-personal-loans" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Personal Loan Lawyer</Link>

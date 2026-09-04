@@ -303,7 +303,7 @@ export default function Page() {
                 <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">The Hidden Cost: Bajaj Flexi Loan Overdue Charges</h2>
                 
                 <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4">How Overdue Charges Compound Your Debt</h4>
+                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4">How Overdue Charges Compound Your Debt</h3>
                   <p className="text-lg text-gray-800 mb-4">
                     The biggest danger of missing a flexi loan payment is the compounding effect of the <strong className="text-black">Bajaj flexi loan overdue charges</strong>. Unlike a standard loan where you just pay a late fee, flexi loans penalize you heavily:
                   </p>
@@ -395,7 +395,7 @@ export default function Page() {
               <section id="common-mistakes" className="scroll-mt-32 mb-16">
                 <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Common Mistakes to Avoid When Overdue</h2>
                 <div className="bg-red-50 p-8 rounded-2xl mb-8 border border-red-100">
-                  <h4 className="text-xl font-black text-red-700 mb-4">Don't Make Your Situation Worse</h4>
+                  <h3 className="text-xl font-black text-red-700 mb-4">Don't Make Your Situation Worse</h3>
                   <p className="text-lg text-red-900 mb-6">
                     When the pressure of an overdue flexi loan mounts, many borrowers panic and make impulsive decisions that severely damage their financial future. Here are the top mistakes you must avoid at all costs:
                   </p>
@@ -432,7 +432,7 @@ export default function Page() {
                     If you have experienced a genuine job loss, medical emergency, or severe business downturn, you might be eligible for a One-Time Settlement (OTS). A settlement is a formal agreement where the lender accepts a lump sum payment that is less than the total outstanding balance, and in return, closes the loan account.
                   </p>
                   
-                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4">How the Settlement Process Works:</h4>
+                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4">How the Settlement Process Works:</h3>
                   
                   <div className="space-y-6">
                     <div className="flex gap-4 items-start">
@@ -581,7 +581,7 @@ export default function Page() {
                 <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                   <div className="relative z-10">
-                    <h4 className="text-xl font-black mb-4">Facing Recovery Harassment?</h4>
+                    <div className="text-xl font-black mb-4">Facing Recovery Harassment?</div>
                     <p className="text-sm text-gray-300 mb-6">Our advocates can issue immediate cease and desist notices to stop illegal recovery tactics.</p>
                     <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-bold py-3 px-6 rounded-xl hover:bg-blue-600 transition-colors text-sm">
                       Get Legal Protection
@@ -591,7 +591,7 @@ export default function Page() {
 
                 {/* Card 2: White Resources */}
                 <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                  <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Guides</h4>
+                  <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Guides</div>
                   <ul className="space-y-4">
                     <li>
                       <Link href="/loan-settlement-process-in-india" className="text-gray-700 hover:text-[#1F5EFF] text-sm font-medium flex items-center group transition-colors">

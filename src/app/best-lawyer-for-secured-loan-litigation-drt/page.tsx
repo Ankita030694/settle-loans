@@ -232,7 +232,7 @@ export default function SecuredLoanLitigationPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
-                                    <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">Symbolic Possession</h4>
+                                    <h3 className="font-bold text-xl mb-4 text-[#1F5EFF]">Symbolic Possession</h3>
                                     <p className="text-gray-700 leading-relaxed">The bank's officer visits the property, pastes a 'Possession Notice' on the door, and takes a photo. You are still living or working there, but legally, the bank has 'seized' the asset. This notice MUST be published in two leading newspapers (one in the local language) within 7 days of the visit. Failure to publish is a fatal procedural flaw.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100">
@@ -278,7 +278,7 @@ export default function SecuredLoanLitigationPage() {
                                 When the bank issues an 'Auction Notice' or 'Sale Notice', it is the final countdown. Under the law, the bank must give you 30 days' notice before the first auction. For any subsequent auction, they must give 15 days' notice.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-2xl border-l-8 border-yellow-500 mb-10">
-                                <h4 className="text-xl font-bold text-yellow-900 mb-4 uppercase">Direct Challenge to Sale Notice:</h4>
+                                <h3 className="text-xl font-bold text-yellow-900 mb-4 uppercase">Direct Challenge to Sale Notice:</h3>
                                 <p className="text-yellow-800 font-medium">We challenge the Sale Notice on grounds of lack of 'Wide Publicity'. The bank cannot just post it on an obscure website. They must ensure that the maximum number of buyers know about it so that the property fetched the 'Fair Market Value'. If we can prove the 'Reserve Price' was based on an outdated valuation report, the High Court or DRT will often grant an 'Interim Stay' on the auction.</p>
                             </div>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
@@ -321,7 +321,7 @@ export default function SecuredLoanLitigationPage() {
                                 <strong>The 9-Point Affidavit:</strong> Under the latest law, the bank must file a 9-point affidavit with the DM, swearing that all SARFAESI rules have been followed. The DM's role is not just to be a 'rubber stamp'. They must verify that this affidavit is correct.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border-l-8 border-red-600 mb-10 shadow-sm">
-                                <h4 className="text-xl font-bold text-red-900 mb-4">Crucial Strategic Note:</h4>
+                                <h3 className="text-xl font-bold text-red-900 mb-4">Crucial Strategic Note:</h3>
                                 <p className="text-red-800 font-medium">Many borrowers think that because they have a stay on 'symbolic' possession, the Section 14 process stops automatically. IT DOES NOT. You must specifically bring the Section 14 order to the notice of the DRT and seek a stay on the 'Actual Physical Possession'. If the bank hides the Section 14 order from the DRT, it is a ground for 'Contempt of Court'.</p>
                             </div>
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
@@ -360,7 +360,7 @@ export default function SecuredLoanLitigationPage() {
                                 <strong>Writ Petitions:</strong> A Writ of Mandamus can be filed to force the bank to follow the law, or a Writ of Certiorari can be filed to quash an illegal order. The High Court has 'extraordinary jurisdiction' to protect the fundamental rights of a citizen, including the right to property and the right to dignity.
                             </p>
                             <div className="bg-[#2E2E2E] p-8 rounded-2xl text-white mb-10 shadow-lg border-l-8 border-[#1F5EFF]">
-                                <h4 className="text-xl font-bold mb-4">When to Move the High Court:</h4>
+                                <h3 className="text-xl font-bold mb-4">When to Move the High Court:</h3>
                                 <ul className="space-y-3 opacity-90">
                                     <li>1. If the DRT is vacant and no interim relief is possible.</li>
                                     <li>2. If the bank is a Public Sector Bank and has violated principles of Natural Justice.</li>
@@ -417,7 +417,7 @@ export default function SecuredLoanLitigationPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">
@@ -442,7 +442,7 @@ export default function SecuredLoanLitigationPage() {
                             </h2>
                             <div className="space-y-8">
                                 <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">1. Can the bank take my property without a court order?</h4>
+                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">1. Can the bank take my property without a court order?</h3>
                                     <p className="text-gray-700 leading-relaxed text-lg">Yes, under the SARFAESI Act, banks can take 'symbolic' possession without a court. However, for 'physical' possession (removing you from the house), they usually need an order from the District Magistrate under Section 14.</p>
                                 </div>
                                 <div className="bg-gray-50 p-8 rounded-2xl border border-gray-100">
@@ -489,7 +489,7 @@ export default function SecuredLoanLitigationPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] p-8 rounded-[24px] text-white shadow-xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-full -mr-12 -mt-12 group-hover:scale-150 transition-transform duration-500"></div>
-                                <h4 className="text-2xl font-black mb-4 relative z-10 leading-tight">Save Your Property Today</h4>
+                                <div className="text-2xl font-black mb-4 relative z-10 leading-tight">Save Your Property Today</div>
                                 <p className="text-[#DEDEDE]/80 text-sm mb-8 relative z-10 font-medium">Expert legal intervention to stop bank auctions and SARFAESI possession.</p>
                                 <Link href="/contact" className="block w-full text-center bg-[#1F5EFF] text-white font-bold py-4 rounded-xl hover:bg-white hover:text-[#1F5EFF] transition-all duration-300 shadow-lg relative z-10">
                                     Get Legal Help

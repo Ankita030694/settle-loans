@@ -316,7 +316,7 @@ export default function HomeLoanAfterSettlementPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                  <h4 className="font-black text-red-900 mb-2 uppercase text-xs tracking-widest">Immediate Impact</h4>
+                  <h3 className="font-black text-red-900 mb-2 uppercase text-xs tracking-widest">Immediate Impact</h3>
                   <p className="text-sm text-red-800">Severe credit score drop and immediate rejection from all unsecured loans (Credit cards/Personal loans).</p>
                 </div>
                 <div className="bg-amber-50 p-6 rounded-xl border border-amber-200">
@@ -372,7 +372,7 @@ export default function HomeLoanAfterSettlementPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-black text-xl">PSU</div>
                   <div>
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Public Sector Banks (SBI, BoB)</h4>
+                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Public Sector Banks (SBI, BoB)</h3>
                     <p className="text-gray-600 leading-relaxed">
                       Very low chance of approval. They require a clean CIBIL score of 750+ with no major defaults or settlements in the last 7 years. Only possible if the settlement was for a very small amount and you have high government-job level stability.
                     </p>
@@ -434,7 +434,7 @@ export default function HomeLoanAfterSettlementPage() {
               </p>
               
               <div className="bg-[#1F5EFF] text-white p-8 rounded-3xl mb-8 shadow-xl">
-                <h4 className="text-xl font-bold mb-4">The 12-Month Recovery Roadmap</h4>
+                <h3 className="text-xl font-bold mb-4">The 12-Month Recovery Roadmap</h3>
                 <ul className="space-y-4 text-sm opacity-90">
                   <li><strong>Month 1:</strong> Clear all remaining small dues. Ensure no current "Late Payment" exists on any active account.</li>
                   <li><strong>Month 2:</strong> Get a Secured Credit Card (FD-backed). Banks like IDFC or Kotak offer these without CIBIL checks.</li>
@@ -506,7 +506,7 @@ export default function HomeLoanAfterSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-500 text-sm">★★★★★</div>
@@ -586,7 +586,7 @@ export default function HomeLoanAfterSettlementPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20 p-6">
                 <div className="text-center mb-6">
-                  <h3 className="text-xl font-black text-white mb-2 uppercase tracking-tighter">Eligibility Check</h3>
+                  <div className="text-xl font-black text-white mb-2 uppercase tracking-tighter">Eligibility Check</div>
                   <p className="text-[#DEDEDE]/70 text-sm">Find out which banks will offer you a home loan today based on your current credit profile.</p>
                 </div>
                 <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-xl hover:scale-105 transition-all text-sm text-center shadow-lg">
@@ -605,7 +605,7 @@ export default function HomeLoanAfterSettlementPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white rounded-2xl border border-[#DEDEDE] shadow-sm p-6">
-                <h3 className="text-sm font-bold uppercase tracking-wider text-[#2E2E2E] mb-4">Mortgage Resources</h3>
+                <div className="text-sm font-bold uppercase tracking-wider text-[#2E2E2E] mb-4">Mortgage Resources</div>
                 <nav className="flex flex-col gap-3">
                   <Link href="/loan-settlement-process-in-hindi" className="text-sm text-blue-600 hover:underline">Settlement Process Guide</Link>
                   <Link href="/is-is-possible-to-settle-joint-loan" className="text-sm text-blue-600 hover:underline">Settling a Joint Loan</Link>

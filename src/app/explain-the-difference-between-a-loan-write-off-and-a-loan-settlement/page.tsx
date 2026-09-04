@@ -320,7 +320,7 @@ export default function LoanWriteOffVsSettlementPage() {
                 Once the settlement amount is paid and accepted, the bank issues a "No Dues Certificate" or NOC, and the account is closed. Unlike a write-off, a settlement is a legal resolution to the debt. It puts an end to the recovery calls, the legal notices, and the constant stress. However, it comes with a catch: the "Settled" status on your credit report.
               </p>
               <div className="bg-[#1F5EFF]/5 border-l-4 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="font-bold text-[#1F5EFF] mb-2">The One-Time Settlement (OTS) Scheme</h4>
+                <h3 className="font-bold text-[#1F5EFF] mb-2">The One-Time Settlement (OTS) Scheme</h3>
                 <p className="text-sm leading-relaxed">
                   Many banks in India have periodic OTS schemes where they offer pre-approved settlement amounts to long-term defaulters. These are excellent opportunities to close your debt for as little as 30% to 50% of the original principal amount. However, you must be careful with the documentation to ensure the agreement is legally binding and correctly reported to credit bureaus.
                 </p>
@@ -379,7 +379,7 @@ export default function LoanWriteOffVsSettlementPage() {
               </p>
               <div className="space-y-6">
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                  <h4 className="font-bold text-red-800 mb-2">The "Written-Off" Tag</h4>
+                  <h3 className="font-bold text-red-800 mb-2">The "Written-Off" Tag</h3>
                   <p className="text-sm text-red-900/80 leading-relaxed">
                     This is the most damaging tag on a credit report. It tells any future lender that you took money and never returned it, nor did you make any attempt to reach a compromise. Your score can drop by 150 to 200 points instantly. Banks will almost always reject your application as long as this tag is present.
                   </p>
@@ -411,7 +411,7 @@ export default function LoanWriteOffVsSettlementPage() {
                 A settlement, on the other hand, is a legally binding contract. Once the settlement is signed and the money is paid, any ongoing legal cases must be withdrawn by the bank. If the bank continues to harass you after a settlement, you have the right to sue them for breach of contract and mental harassment.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h4 className="font-bold text-lg mb-4 text-[#1F5EFF]">Protection Against Harassment</h4>
+                <h3 className="font-bold text-lg mb-4 text-[#1F5EFF]">Protection Against Harassment</h3>
                 <p className="text-sm opacity-80 leading-relaxed mb-4">
                   Regardless of whether your loan is written off or in the process of settlement, you have the right to be treated with dignity. RBI guidelines prohibit recovery agents from:
                 </p>
@@ -459,7 +459,7 @@ export default function LoanWriteOffVsSettlementPage() {
                 However, if you have the means to pay back the full amount over a longer period, you should explore "Loan Restructuring." This is where the bank reduces your EMI and increases your tenure. This keeps your account "Standard" and doesn't damage your credit score.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8 text-center">
-                <h4 className="text-xl font-bold mb-4">When to Choose Settlement?</h4>
+                <h3 className="text-xl font-bold mb-4">When to Choose Settlement?</h3>
                 <div className="grid md:grid-cols-2 gap-4 text-sm text-left">
                   <div className="p-4 bg-white rounded-lg border border-blue-100">You have no foreseeable way to pay the full amount ever.</div>
                   <div className="p-4 bg-white rounded-lg border border-blue-100">You are facing constant harassment and want mental peace.</div>
@@ -478,14 +478,14 @@ export default function LoanWriteOffVsSettlementPage() {
                 <li className="flex items-start gap-4">
                   <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">1</div>
                   <div>
-                    <h5 className="font-bold text-lg mb-1">First 30 Days: The Soft Phase</h5>
+                    <h3 className="font-bold text-lg mb-1">First 30 Days: The Soft Phase</h3>
                     <p className="text-sm text-gray-600">The bank sends SMS and automated calls. They assume you simply forgot or have a minor cash flow issue.</p>
                   </div>
                 </li>
                 <li className="flex items-start gap-4">
                   <div className="flex-shrink-0 w-10 h-10 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">2</div>
                   <div>
-                    <h5 className="font-bold text-lg mb-1">31 to 90 Days: The SMA Phase</h5>
+                    <h4 className="font-bold text-lg mb-1">31 to 90 Days: The SMA Phase</h4>
                     <p className="text-sm text-gray-600">Your account is marked as Special Mention Account (SMA-1 or SMA-2). Recovery agents might start visiting your home.</p>
                   </div>
                 </li>
@@ -523,11 +523,11 @@ export default function LoanWriteOffVsSettlementPage() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Expert Tips for Debt Resolution</h2>
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-100 shadow-sm">
-                  <h5 className="font-bold text-[#1F5EFF] mb-3">Never Pay Cash</h5>
+                  <h3 className="font-bold text-[#1F5EFF] mb-3">Never Pay Cash</h3>
                   <p className="text-sm leading-relaxed">Always pay the bank via DD, Cheque, or NEFT directly to the bank's account. Never give cash to a recovery agent, as they might not deposit it properly.</p>
                 </div>
                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-100 shadow-sm">
-                  <h5 className="font-bold text-[#1F5EFF] mb-3">Get the Settlement Letter First</h5>
+                  <h4 className="font-bold text-[#1F5EFF] mb-3">Get the Settlement Letter First</h4>
                   <p className="text-sm leading-relaxed">Never make a payment based on a verbal promise. Demand a formal settlement letter on the bank's letterhead signed by an authorized official.</p>
                 </div>
                 <div className="p-6 bg-gray-50 rounded-xl border border-gray-100 shadow-sm">
@@ -662,7 +662,7 @@ export default function LoanWriteOffVsSettlementPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Stop the Harassment</h3>
+                  <div className="text-lg font-black text-white">Stop the Harassment</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -677,7 +677,7 @@ export default function LoanWriteOffVsSettlementPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement-lawyers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

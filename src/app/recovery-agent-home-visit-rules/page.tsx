@@ -248,7 +248,7 @@ export default function RecoveryHomeVisitRulesPage() {
                     <FontAwesomeIcon icon={faIdCard} className="text-[#1F5EFF] w-7 h-7" />
                   </div>
                   <div>
-                    <h4 className="text-xl font-bold mb-2">1. The Official ID Card</h4>
+                    <h3 className="text-xl font-bold mb-2">1. The Official ID Card</h3>
                     <p className="text-gray-600 leading-relaxed text-base">
                       The agent must carry and proactively show an identity card issued by the bank or the NBFC they represent. It should have their clear photograph, name, and the official seal of the financial institution.
                     </p>
@@ -362,7 +362,7 @@ export default function RecoveryHomeVisitRulesPage() {
                     <div className="w-10 h-10 bg-[#1F5EFF]/10 text-[#1F5EFF] rounded-full flex items-center justify-center mb-4">
                       <FontAwesomeIcon icon={item.icon} className="w-5 h-5" />
                     </div>
-                    <h4 className="text-xl font-bold mb-2">{item.title}</h4>
+                    <h3 className="text-xl font-bold mb-2">{item.title}</h3>
                     <p className="text-sm text-gray-600 leading-relaxed font-normal">{item.text}</p>
                   </div>
                 ))}
@@ -479,7 +479,7 @@ export default function RecoveryHomeVisitRulesPage() {
               <div className="bg-[#F8F9FA] p-8 rounded-3xl border border-[#DEDEDE] mb-12">
                 <div className="flex flex-col md:flex-row gap-8">
                   <div className="flex-1">
-                    <h4 className="text-xl font-bold mb-4 uppercase tracking-tighter leading-tight italic">Why the Ombudsman is Effective</h4>
+                    <h3 className="text-xl font-bold mb-4 uppercase tracking-tighter leading-tight italic">Why the Ombudsman is Effective</h3>
                     <p className="text-sm text-gray-600 leading-relaxed mb-4 font-normal">
                       The Banking Ombudsman has the power to issue awards (compensations) of up to 20 lakh rupees for any loss suffered by the borrower, and an additional 1 lakh rupee for mental agony and harassment. 
                     </p>
@@ -545,10 +545,10 @@ export default function RecoveryHomeVisitRulesPage() {
                   { q: "Can SettleLoans represent me even if agents are already visiting?", a: "Yes, and that is often when our services are most needed. Once we send a representation notice to your bank, the field visits usually stop within 48 to 72 hours as the bank moves your file from 'Recovery' to 'Negotiation' status." }
                 ].map((faq, i) => (
                   <div key={i} className="bg-white border border-[#DEDEDE] rounded-2xl p-6 hover:border-[#1F5EFF] transition-colors group">
-                    <h4 className="text-lg font-black text-gray-900 mb-3 group-hover:text-[#1F5EFF] transition-colors flex items-center justify-between pointer-events-none">
+                    <h3 className="text-lg font-black text-gray-900 mb-3 group-hover:text-[#1F5EFF] transition-colors flex items-center justify-between pointer-events-none">
                       {faq.q}
                       <div className="w-8 h-8 rounded-full bg-[#F8F9FA] flex items-center justify-center text-xs">+</div>
-                    </h4>
+                    </h3>
                     <p className="text-sm text-gray-600 leading-relaxed font-normal">{faq.a}</p>
                   </div>
                 ))}
@@ -605,7 +605,7 @@ export default function RecoveryHomeVisitRulesPage() {
               {/* Promo CTA Box */}
               <div className="bg-[#1F5EFF] rounded-2xl p-6 text-white shadow-xl overflow-hidden relative group">
                 <div className="absolute -right-4 -top-4 w-24 h-24 bg-white/10 rounded-full blur-2xl group-hover:bg-white/20 transition-all"></div>
-                <h3 className="text-2xl font-black mb-4 relative z-10 leading-tight">Block Recovery Agents Today</h3>
+                <div className="text-2xl font-black mb-4 relative z-10 leading-tight">Block Recovery Agents Today</div>
                 <p className="text-white/80 text-sm mb-6 relative z-10 leading-relaxed font-medium">
                   Tired of people knocking on your door? Our legal team steps in to stop all field visits and negotiate a legal settlement.
                 </p>
@@ -616,7 +616,7 @@ export default function RecoveryHomeVisitRulesPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white rounded-2xl border border-[#DEDEDE] p-6 shadow-sm">
-                <h3 className="text-base font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter border-b border-[#EEEEEE] pb-2">Related Library</h3>
+                <div className="text-base font-black text-[#2E2E2E] mb-4 uppercase tracking-tighter border-b border-[#EEEEEE] pb-2">Related Library</div>
                 <nav className="flex flex-col gap-3">
                   <Link href="/recovery-agent-harassment-complaint" className="text-sm font-bold text-gray-600 hover:text-[#1F5EFF] transition-colors leading-tight">Harassment Complaint Guide</Link>
                   <Link href="/rbi-rules-for-recovery-agents" className="text-sm font-bold text-gray-600 hover:text-[#1F5EFF] transition-colors leading-tight">RBI Rules for Agents</Link>

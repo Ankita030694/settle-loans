@@ -324,7 +324,7 @@ export default function PostLoanSettlementPage() {
                             <div className="relative border-l-2 border-dashed border-[#1F5EFF]/30 pl-8 ml-4 space-y-12 mb-12">
                                 <div className="relative">
                                     <div className="absolute -left-11 top-0 w-6 h-6 bg-[#1F5EFF] rounded-full border-4 border-white shadow-sm flex items-center justify-center text-[10px] text-white font-bold">1</div>
-                                    <h4 className="font-bold text-xl mb-3">Wait for the Reporting Cycle</h4>
+                                    <h3 className="font-bold text-xl mb-3">Wait for the Reporting Cycle</h3>
                                     <p className="text-gray-600 leading-relaxed">Banks typically report data to bureaus on a 30 to 45 day cycle. Do not expect changes to appear on CIBIL the very next day after payment.</p>
                                 </div>
                                 <div className="relative">
@@ -378,7 +378,7 @@ export default function PostLoanSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100">
-                                    <h4 className="font-bold text-emerald-800 mb-2">Banking Ombudsman</h4>
+                                    <h3 className="font-bold text-emerald-800 mb-2">Banking Ombudsman</h3>
                                     <p className="text-sm text-emerald-900/80">The fastest route for relief. The Ombudsman can award compensation up to 20 Lakh INR for deficiency in service and 1 Lakh INR for mental agony.</p>
                                 </div>
                                 <div className="bg-purple-50 p-6 rounded-xl border border-purple-100">
@@ -404,7 +404,7 @@ export default function PostLoanSettlementPage() {
                                 Rebuilding your credit after a settlement is a marathon, not a sprint. It requires a disciplined approach to new credit. The goal is to show lenders that your period of financial stress was an anomaly, not a habit. The most effective way to start is with 'Secured Credit'. A credit card against a fixed deposit (FD) allows you to build a positive payment history without the bank taking a risk.
                             </p>
                             <div className="bg-gray-100 p-8 rounded-2xl border border-gray-200 mb-8">
-                                <h4 className="font-bold text-xl mb-4 text-[#2E2E2E]">The 4 Pillar Rebuilding Masterclass</h4>
+                                <h3 className="font-bold text-xl mb-4 text-[#2E2E2E]">The 4 Pillar Rebuilding Masterclass</h3>
                                 <ul className="space-y-4">
                                     <li className="flex items-start gap-3">
                                         <div className="mt-1 flex-shrink-0 w-4 h-4 rounded-full bg-blue-500"></div>
@@ -508,7 +508,7 @@ export default function PostLoanSettlementPage() {
                                                 {s.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{s.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{s.name}</h3>
                                                 <p className="text-xs text-gray-400">{s.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -578,7 +578,7 @@ export default function PostLoanSettlementPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col items-center">
                                 <div className="bg-[#1F5EFF] w-full p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Closure Helpdesk</h3>
+                                    <div className="text-lg font-black text-white">Closure Helpdesk</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <div className="w-16 h-16 bg-[#1F5EFF]/10 rounded-full flex items-center justify-center mx-auto mb-4 border border-[#1F5EFF]/20">
@@ -594,7 +594,7 @@ export default function PostLoanSettlementPage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Technical Repair</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Technical Repair</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/credit-score-improvement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

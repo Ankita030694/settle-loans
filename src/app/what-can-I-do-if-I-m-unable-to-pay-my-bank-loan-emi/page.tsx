@@ -241,7 +241,7 @@ export default function UnableToPayEMIPage() {
                  <div className="flex gap-6 items-start">
                     <div className="flex-shrink-0 w-10 h-10 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold">1</div>
                     <div>
-                       <h4 className="font-bold text-xl mb-2">Draft a formal Hardship Letter</h4>
+                       <h3 className="font-bold text-xl mb-2">Draft a formal Hardship Letter</h3>
                        <p className="text-sm opacity-80 leading-relaxed">Write an email to your branch manager and the bank's customer care. Clearly state the reason for your inability to pay (Medical, Job Loss, Business Closure). Attach proof like a hospital bill or termination letter.</p>
                     </div>
                  </div>
@@ -268,7 +268,7 @@ export default function UnableToPayEMIPage() {
                </h2>
                <p className="mb-6">Restructuring is the process where the lender modifies the terms of your original agreement to make it affordable. This is the most professional way to handle an inability to pay.</p>
                <div className="bg-blue-50 p-8 rounded-3xl border border-blue-100 mb-8">
-                  <h4 className="font-bold text-blue-800 text-xl mb-4">How Restructuring Helps:</h4>
+                  <h3 className="font-bold text-blue-800 text-xl mb-4">How Restructuring Helps:</h3>
                   <ul className="list-disc pl-6 space-y-4 text-blue-900/80 mb-6">
                     <li><strong>Tenure Extension:</strong> If you have 2 years left on a personal loan, the bank might extend it to 4 years. Your EMI could drop from ₹20,000 to ₹11,000.</li>
                     <li><strong>Interest Rate Reduction:</strong> In rare cases, if you show extreme hardship, banks might reduce the interest rate slightly to ensure they eventually get their money back.</li>
@@ -285,7 +285,7 @@ export default function UnableToPayEMIPage() {
                <p className="mb-6">During COVID-19, the RBI mandated a moratorium. Today, there is no blanket mandate, but most bank policies (especially for HDFC, ICICI, SBI) have internal provisions for 'Grace Periods'.</p>
                <div className="grid md:grid-cols-2 gap-8 mb-8">
                   <div className="p-8 bg-gray-900 text-white rounded-[30px]">
-                    <h4 className="font-bold text-xl mb-4 text-[#1F5EFF]">What to Ask For:</h4>
+                    <h3 className="font-bold text-xl mb-4 text-[#1F5EFF]">What to Ask For:</h3>
                     <p className="text-sm opacity-70 leading-relaxed mb-4">"I request a temporary suspension of my EMI payments for 3 months under your internal hardship policy. I am confident of resuming payments by [Date]."</p>
                     <p className="text-xs text-red-400">Warning: Interest will continue to accrue during this period. Your loan balance will actually increase.</p>
                   </div>
@@ -356,10 +356,10 @@ export default function UnableToPayEMIPage() {
                  Legal Remedies & Rights: The Shield of Law
                </h2>
                <div className="bg-amber-50 p-10 rounded-[40px] border border-amber-200 mb-8">
-                  <h4 className="text-2xl font-black text-amber-900 mb-6">Know Your Acts:</h4>
+                  <h3 className="text-2xl font-black text-amber-900 mb-6">Know Your Acts:</h3>
                   <div className="space-y-6">
                     <div>
-                      <h5 className="font-bold text-amber-800">SARFAESI Act (Secured Loans)</h5>
+                      <h4 className="font-bold text-amber-800">SARFAESI Act (Secured Loans)</h4>
                       <p className="text-sm opacity-80">If you have a home loan, the bank will use this act. But they MUST give you a 60-day notice. You can challenge this in the Debt Recovery Tribunal (DRT) if you find any procedural error.</p>
                     </div>
                     <div>
@@ -381,7 +381,7 @@ export default function UnableToPayEMIPage() {
                <p className="mb-6">If your inability to pay is due to managing 5 different loans with 5 different dates, consolidation is your answer. You take one large loan to pay off all others.</p>
                <div className="bg-teal-50 p-8 rounded-3xl border border-teal-100 flex flex-col md:flex-row gap-8 items-center">
                   <div className="flex-1">
-                    <h4 className="font-bold text-teal-900 text-xl mb-4">Why it works:</h4>
+                    <h3 className="font-bold text-teal-900 text-xl mb-4">Why it works:</h3>
                     <ul className="text-sm text-teal-800 space-y-2 opacity-80">
                       <li>• Only one EMI date to remember.</li>
                       <li>• Psychologically easier to manage one lender.</li>
@@ -416,7 +416,7 @@ export default function UnableToPayEMIPage() {
                <p className="mb-8">Many people think they have to tolerate abuse because they owe money. This is FALSE. Debtor's rights are human rights.</p>
                <div className="space-y-4">
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl hover:shadow-md transition-shadow">
-                    <h4 className="font-bold mb-2">Rule 1: Right to Privacy</h4>
+                    <h3 className="font-bold mb-2">Rule 1: Right to Privacy</h3>
                     <p className="text-sm opacity-70">If an agent calls your boss, neighbor, or family, they are committing a crime. You can file a complaint for defamation.</p>
                   </div>
                   <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl hover:shadow-md transition-shadow">
@@ -459,7 +459,7 @@ export default function UnableToPayEMIPage() {
                </h2>
                <p className="mb-6">When you are unable to pay your EMI, it's not just your credit profile at risk. If your spouse, parent, or business partner co-signed the loan, they are equally liable. This is often the most painful part of debt distress.</p>
                <div className="bg-red-50 p-10 rounded-[40px] border border-red-100 mb-8">
-                  <h4 className="font-bold text-red-900 mb-4">Legal Implications for Guarantors:</h4>
+                  <h3 className="font-bold text-red-900 mb-4">Legal Implications for Guarantors:</h3>
                   <p className="text-sm text-red-800/80 leading-relaxed mb-4">Under the Indian Contract Act, the liability of the surety (guarantor) is co-extensive with that of the principal debtor. This means the bank can actually sue your guarantor BEFORE suing you if they think the guarantor has more liquid assets.</p>
                   <ul className="list-disc pl-6 space-y-2 text-xs text-red-800/60 font-bold">
                     <li>• Their CIBIL score will drop identically to yours.</li>
@@ -477,7 +477,7 @@ export default function UnableToPayEMIPage() {
                <p className="mb-6">An inability to pay a ₹5 Lakh personal loan is resolved differently than a ₹50 Lakh Business Loan. Understanding which 'bucket' your loan falls into helps determine your leverage.</p>
                <div className="grid md:grid-cols-2 gap-8 mb-8">
                   <div className="p-8 border border-gray-200 rounded-3xl bg-white shadow-sm">
-                    <h4 className="font-black mb-4">Retail Loans (PL, CC, Student)</h4>
+                    <h3 className="font-black mb-4">Retail Loans (PL, CC, Student)</h3>
                     <p className="text-sm opacity-80 mb-4">These are volume-driven. Banks have thousands of such defaulters. They use call centers and automated emails. Settlement here is usually about waiting for the right 'Percentage Offer' (OTS).</p>
                     <p className="text-xs font-bold text-blue-600">Leverage: High. The bank wants to clean up small accounts quickly.</p>
                   </div>
@@ -589,7 +589,7 @@ export default function UnableToPayEMIPage() {
                       <div className="w-16 h-16 bg-blue-500/20 rounded-full flex items-center justify-center mx-auto mb-6">
                         <svg className="w-8 h-8 text-blue-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"></path></svg>
                       </div>
-                      <h3 className="text-2xl font-black text-white mb-4">Debt Shield</h3>
+                      <div className="text-2xl font-black text-white mb-4">Debt Shield</div>
                       <p className="text-sm text-white/60 mb-8 leading-relaxed font-bold">
                         Protect yourself from harassment and bank pressure today. 
                       </p>
@@ -601,7 +601,7 @@ export default function UnableToPayEMIPage() {
 
                 {/* Related Links */}
                 <div className="bg-white p-10 rounded-[40px] border border-[#DEDEDE] shadow-xl">
-                  <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#747474] mb-8 border-b border-[#DEDEDE] pb-4">Essential Links</h3>
+                  <div className="text-xs font-black uppercase tracking-[0.2em] text-[#747474] mb-8 border-b border-[#DEDEDE] pb-4">Essential Links</div>
                   <ul className="space-y-6">
                      <li>
                       <Link href="/missed-your-loan-emi-heres-what-to-do" className="group flex flex-col items-start">

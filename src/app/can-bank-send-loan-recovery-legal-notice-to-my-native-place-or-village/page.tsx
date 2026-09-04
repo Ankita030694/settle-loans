@@ -307,7 +307,7 @@ export default function NativePlaceNoticePage() {
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Boundary Between Contact and Harassment</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Boundary Between Contact and Harassment</h3>
                 <p className="text-lg leading-relaxed mb-4 text-blue-900">
                   While sending a notice is legal, the way the bank or its agents act at that address is strictly regulated by the RBI:
                 </p>
@@ -376,7 +376,7 @@ export default function NativePlaceNoticePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h4 className="text-2xl font-black text-[#2E2E2E] mb-3">Submit a Change of Address Form</h4>
+                    <h3 className="text-2xl font-black text-[#2E2E2E] mb-3">Submit a Change of Address Form</h3>
                     <p className="text-lg leading-relaxed text-gray-700">
                       Write a formal letter or email to the bank's grievance officer requesting a change of communication address. Attach a valid proof (like a rent agreement or utility bill) for your current city residence. Keep the acknowledgment receipt safely.
                     </p>
@@ -414,7 +414,7 @@ export default function NativePlaceNoticePage() {
               </p>
               
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-black text-[#2E2E2E] mb-4">Instructions for Your Parents:</h4>
+                <h3 className="text-xl font-black text-[#2E2E2E] mb-4">Instructions for Your Parents:</h3>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-3">
                     <span className="font-bold text-[#1F5EFF] shrink-0">1.</span>
@@ -445,7 +445,7 @@ export default function NativePlaceNoticePage() {
               </p>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">Warning: Ex-Parte Orders</h4>
+                <h3 className="text-xl font-black text-red-700 mb-4">Warning: Ex-Parte Orders</h3>
                 <p className="text-red-900 leading-relaxed font-medium">
                   If a court summons is delivered to your native place and received by an adult family member, the court considers you legally "served." If you fail to appear in court because you were in another city, the judge may pass an "ex-parte" order against you, severely limiting your future defense options.
                 </p>
@@ -467,7 +467,7 @@ export default function NativePlaceNoticePage() {
                       RM
                     </div>
                     <div>
-                      <h4 className="font-black text-[#2E2E2E]">Rahul M.</h4>
+                      <h3 className="font-black text-[#2E2E2E]">Rahul M.</h3>
                       <div className="flex gap-1 text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" /></svg>
@@ -570,7 +570,7 @@ export default function NativePlaceNoticePage() {
               <div className="bg-[#2E2E2E] rounded-[2rem] p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-32 h-32 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-500"></div>
                 <div className="relative z-10">
-                  <h4 className="text-2xl font-black mb-4 leading-tight">Stop Harassment Instantly</h4>
+                  <div className="text-2xl font-black mb-4 leading-tight">Stop Harassment Instantly</div>
                   <p className="text-sm text-gray-300 mb-8 leading-relaxed">
                     Legally block agents from visiting your parents and redirect all notices to our law firm.
                   </p>
@@ -581,9 +581,9 @@ export default function NativePlaceNoticePage() {
               </div>
 
               <div className="bg-white rounded-[2rem] p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-xs font-black uppercase tracking-widest text-[#747474] border-b border-[#DEDEDE] pb-4 mb-6">
+                <div className="text-xs font-black uppercase tracking-widest text-[#747474] border-b border-[#DEDEDE] pb-4 mb-6">
                   RELATED GUIDES
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/legal-notice-for-loan-recovery" className="group flex items-center text-sm font-medium text-gray-600 hover:text-[#1F5EFF] transition-colors">

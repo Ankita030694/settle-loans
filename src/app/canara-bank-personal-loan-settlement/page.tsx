@@ -756,10 +756,10 @@ export default function CanaraBankPersonalLoanSettlementPage() {
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
                 <div className="border border-blue-200 bg-blue-50/50 rounded-xl p-4">
-                  <h4 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5">
+                  <h3 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5">
                     <Percent className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Penal &amp; Interest Waivers: 100% Elimination</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-blue-900 leading-relaxed">
                     All accumulated uncapitalized interest, compounding penal interest rates, late payment charges, NACH bounce penalties, and processing levies are 100% waived in all sanctioned settlements.
                   </p>
@@ -1223,7 +1223,7 @@ export default function CanaraBankPersonalLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Legal Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Facing Canara Bank Recovery Pressure?</h4>
+              <div className="font-bold text-base text-white mb-2">Facing Canara Bank Recovery Pressure?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Halt recovery harassment, reply to Section 25 PSSA notices, and negotiate a formal 40%–60% debt haircut directly with SAMB and Circle Office.
               </p>
@@ -1237,9 +1237,9 @@ export default function CanaraBankPersonalLoanSettlementPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

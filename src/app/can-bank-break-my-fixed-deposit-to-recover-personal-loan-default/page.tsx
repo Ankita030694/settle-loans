@@ -284,7 +284,7 @@ export default function BankersRightOfSetOffPage() {
                 </div>
 
                 <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                  <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial Conditions for Set-Off</h4>
+                  <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial Conditions for Set-Off</h3>
                   <ul className="space-y-3">
                     <li className="flex items-start gap-3">
                       <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -308,7 +308,7 @@ export default function BankersRightOfSetOffPage() {
                 </h2>
                 
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                  <h4 className="text-xl font-black text-red-700 mb-4">The Harsh Reality</h4>
+                  <h3 className="text-xl font-black text-red-700 mb-4">The Harsh Reality</h3>
                   <p className="text-red-900 leading-relaxed mb-4">
                     Yes. If your <strong className="font-bold">bank broke FD for loan default</strong>, they are generally within their legal rights. A Fixed Deposit represents money the bank owes to you. If you default on an unsecured personal loan or a credit card with the same bank, they can invoke their right of set-off to liquidate the FD prematurely and adjust the proceeds against your outstanding loan.
                   </p>
@@ -355,7 +355,7 @@ export default function BankersRightOfSetOffPage() {
                 </p>
 
                 <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">1. Different Legal Capacities</h4>
+                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">1. Different Legal Capacities</h3>
                   <p className="text-[#747474] mb-4">If the loan is in your individual name, but you hold a savings account as a trustee for an NGO or as a guardian for a minor child, the bank cannot touch those funds. The "capacity" of the account holder is different.</p>
                   
                   <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">2. Joint Accounts</h4>
@@ -498,7 +498,7 @@ export default function BankersRightOfSetOffPage() {
                 {/* Card 1 (Dark CTA) */}
                 <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                   <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                  <h3 className="text-2xl font-black mb-4 relative z-10">Account Frozen?</h3>
+                  <div className="text-2xl font-black mb-4 relative z-10">Account Frozen?</div>
                   <p className="text-sm opacity-80 mb-6 relative z-10">If your bank has already exercised their right of set-off, our advocates can help you negotiate a settlement.</p>
                   <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white font-bold py-3 rounded-lg hover:bg-blue-600 transition-colors relative z-10">
                     Get Legal Help
@@ -507,7 +507,7 @@ export default function BankersRightOfSetOffPage() {
 
                 {/* Card 2 (White Resources) */}
                 <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                  <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Legal Guides</h4>
+                  <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Legal Guides</div>
                   <ul className="space-y-4">
                     {[
                       { text: "RBI Guidelines on Loan Recovery", link: "/rbi-new-recovery-guidelines-july-2026" },

@@ -24,7 +24,7 @@ export default function CompanySection() {
 
         {/* Media Mentions */}
         <div className="text-center mt-6 mb-4">
-          <h3 className="text-base font-bold text-slate-800 mb-4">Media Mentions</h3>
+          <div className="text-base font-bold text-slate-800 mb-4">Media Mentions</div>
           <div className="flex flex-wrap justify-center gap-6 md:gap-8 items-center opacity-75 grayscale hover:grayscale-0 transition-all duration-300">
             {/* CSS-Recreated Logos so they look like images */}
             <div className="h-8 flex items-center justify-center font-serif font-bold text-xl tracking-tighter text-slate-800">The Times</div>
@@ -37,7 +37,7 @@ export default function CompanySection() {
 
       {/* Bottom Solutions Section */}
       <div className="bg-slate-50 p-5 md:p-6 border-t border-slate-100">
-        <h3 className="text-lg font-bold text-[#1F5EFF] mb-4">Our Solutions:</h3>
+        <div className="text-lg font-bold text-[#1F5EFF] mb-4">Our Solutions:</div>
         
         {/* Solutions Grid */}
         <div className="flex flex-col gap-3">

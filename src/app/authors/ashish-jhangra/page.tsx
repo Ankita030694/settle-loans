@@ -39,7 +39,7 @@ export default function AshishJhangraProfile() {
               At AMA Legal Solutions, I work closely with clients who are facing financial stress due to personal loans, credit cards, business loans, and recovery-related issues. My role is to understand each client's situation, provide practical legal support, and help them explore lawful debt resolution options while protecting their rights.
             </p>
             
-            <h3 className="text-xl font-bold text-slate-900 mt-10 mb-6">My Areas of Expertise</h3>
+            <h2 className="text-xl font-bold text-slate-900 mt-10 mb-6">My Areas of Expertise</h2>
             <ul className="space-y-3 list-none pl-0">
               <li className="flex items-center gap-3 m-0">
                 <span className="text-[#2D68FF] font-bold">✔</span> Personal Loan & Credit Card Debt Resolution

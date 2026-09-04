@@ -277,7 +277,7 @@ export default function DebtConsolidationEligibilityPage() {
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Nationality and Residency</h4>
+                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Nationality and Residency</h3>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         The primary requirement is that you must be an Indian citizen and a resident of the country. Lenders need to ensure that the borrower is within the legal jurisdiction of Indian recovery laws.
                                     </p>
@@ -317,7 +317,7 @@ export default function DebtConsolidationEligibilityPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">750 and Above: The Green Zone</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">750 and Above: The Green Zone</h3>
                                     <p className="text-sm">A score in this range makes you an ideal candidate. You are in a strong position to negotiate for lower interest rates and higher loan amounts. Lenders view you as a low-risk borrower who is likely to use consolidation responsibly.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -341,7 +341,7 @@ export default function DebtConsolidationEligibilityPage() {
                                 The Debt-to-Income (DTI) ratio is perhaps the most misunderstood aspect of eligibility. Lenders use this to calculate how much "breathing room" you have in your budget. If you earn 1,00,000 rupees and 60,000 goes into existing EMIs, your DTI is 60 percent.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The 40 Percent Magic Number</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The 40 Percent Magic Number</h3>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     Most conservative lenders in India want your total monthly debt obligations to be below 40 percent of your net income. This includes the new consolidation loan EMI. If your DTI is too high, it signals to the lender that you are "over-leveraged" and at high risk of defaulting.
                                 </p>
@@ -397,7 +397,7 @@ export default function DebtConsolidationEligibilityPage() {
                                 Your eligibility might vary significantly depending on the type of lender you approach.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">Choosing the Right Path</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">Choosing the Right Path</h3>
                                 <ol className="space-y-4 text-base font-medium">
                                     <li className="flex items-start gap-3">
                                         <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs flex-shrink-0 mt-1">1</span>
@@ -534,7 +534,7 @@ export default function DebtConsolidationEligibilityPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -595,7 +595,7 @@ export default function DebtConsolidationEligibilityPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">Consolidation Support</h3>
+                                    <div className="text-lg font-black text-white px-2">Consolidation Support</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -610,7 +610,7 @@ export default function DebtConsolidationEligibilityPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Top Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Top Resources</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/which-banks-offer-debt-consolidation-loans-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

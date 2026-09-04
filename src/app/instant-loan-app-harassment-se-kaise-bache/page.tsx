@@ -561,7 +561,7 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 <div className="border border-slate-200 rounded-2xl p-4 bg-slate-50 flex items-start gap-3">
                   <div className="w-7 h-7 rounded-xl bg-blue-600 text-white flex items-center justify-center text-xs font-bold flex-shrink-0">1</div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm mb-1">Dial 1930 National Cyber Financial Helpline Immediately</h4>
+                    <h3 className="font-bold text-slate-900 text-sm mb-1">Dial 1930 National Cyber Financial Helpline Immediately</h3>
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       Apne phone se turant <strong>1930</strong> dial karein. Agar aapne dar ke maare scammers ke kisi UPI handle ya bank account mein paise transfer kiye hain, toh 1930 helpline banking fraud network ke sath coordinate karke beneficiary bank account ko turant freeze (lien) karwa sakti hai, jisse paisa wapas milne ki sambhavna banti hai.
                     </p>
@@ -1177,9 +1177,9 @@ export default function InstantLoanAppHarassmentSeKaiseBachePage() {
                 <ShieldAlert className="w-3 h-3" />
                 <span>Immediate Cyber Shield</span>
               </div>
-              <h3 className="text-base font-black text-white mb-2 leading-snug">
+              <div className="text-base font-black text-white mb-2 leading-snug">
                 Facing Loan App Harassment?
-              </h3>
+              </div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not transfer any money to blackmailers. Connect with SettleLoans senior cyber advocates to halt contact harassment, file cybercrime.gov.in complaints, and secure legal immunity.
               </p>

@@ -294,7 +294,7 @@ export default function OverdueLoanProtectionPage() {
                                     <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                                         <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
                                     </div>
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase tracking-tight">8 AM - 7 PM</h4>
+                                    <h3 className="font-bold text-[#2E2E2E] mb-2 uppercase tracking-tight">8 AM - 7 PM</h3>
                                     <p className="text-xs text-gray-500">Legal Contact Window</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
@@ -339,7 +339,7 @@ export default function OverdueLoanProtectionPage() {
                                 <div className="flex gap-6 items-start">
                                     <div className="text-4xl font-black text-[#1F5EFF]">01</div>
                                     <div>
-                                        <h4 className="text-xl font-black mb-2 uppercase tracking-wide">Invalid NPA Classification</h4>
+                                        <h3 className="text-xl font-black mb-2 uppercase tracking-wide">Invalid NPA Classification</h3>
                                         <p className="text-gray-600">Many banks classify accounts as NPA before the mandatory 90-day period or without following RBI's prudential norms. This voids the entire SARFAESI process.</p>
                                     </div>
                                 </div>
@@ -435,7 +435,7 @@ export default function OverdueLoanProtectionPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -504,7 +504,7 @@ export default function OverdueLoanProtectionPage() {
                         <div className="sticky top-28 space-y-12">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Secure Your Sanity</h3>
+                                    <div className="text-lg font-black text-white">Secure Your Sanity</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -518,7 +518,7 @@ export default function OverdueLoanProtectionPage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Resources</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/legal-notice-for-loan-recovery" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

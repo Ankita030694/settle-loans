@@ -790,10 +790,10 @@ export default function FederalBankLoanSettlementPage() {
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 rounded-xl p-5">
-                  <h4 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm mb-2 flex items-center gap-2">
                     <Clock className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Strict Calling Hours (08:00 AM – 07:00 PM)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Recovery callers and collection staff are legally barred from contacting borrowers before 08:00 in the morning or after 07:00 in the evening. Late-night phone calls or continuous automated robo-calling constitute direct regulatory violations.
                   </p>
@@ -1207,14 +1207,14 @@ export default function FederalBankLoanSettlementPage() {
                   </div>
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -1247,9 +1247,9 @@ export default function FederalBankLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Federal Bank Dispute Resolution</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Facing Federal Bank Loan Default?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Stop aggressive recovery calls, unauthorized workplace visits, and recurring NACH bounce charges immediately. Let our experienced banking advocates audit your delinquency stage, defend statutory Section 138/25 notices, draft your formal OTS petition, and secure an authentic stamped Federal Bank settlement sanction letter.
               </p>
@@ -1263,10 +1263,10 @@ export default function FederalBankLoanSettlementPage() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

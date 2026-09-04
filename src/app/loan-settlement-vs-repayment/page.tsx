@@ -277,7 +277,7 @@ export default function LoanSettlementVsRepaymentPage() {
                                 In the context of secured loans, such as home loans or car loans, full repayment leads to the return of your original documents and the removal of the 'Hypothecation' or 'Lien' from the asset. This grants you absolute ownership and the freedom to sell or transfer the asset without any bank interference.
                             </p>
                             <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm mb-6">
-                                <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Benefits of Full Repayment</h4>
+                                <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Benefits of Full Repayment</h3>
                                 <ul className="space-y-3">
                                     <li className="flex items-start gap-2">
                                         <span className="text-[#1F5EFF] font-bold">✔</span>
@@ -368,7 +368,7 @@ export default function LoanSettlementVsRepaymentPage() {
                                 Credit bureaus like TransUnion CIBIL, Equifax, Experian, and CRIF High Mark all treat 'Settled' accounts with extreme caution. Even if you have other active loans that you are paying on time, a single 'Settled' tag can pull down your weighted average score significantly. It takes years of "clean" behavior with new, small credit lines (like secured cards) to move the needle back to a healthy range.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-xl border border-yellow-200 my-8">
-                                <h4 className="font-bold text-yellow-900 mb-4 text-xl">The "7-Year Itch" and Manual Underwriting</h4>
+                                <h3 className="font-bold text-yellow-900 mb-4 text-xl">The "7-Year Itch" and Manual Underwriting</h3>
                                 <p className="text-base text-yellow-800 leading-relaxed mb-4">
                                     The 'Settled' status doesn't just lower your score; it stays in the 'Accounts' section of your CIBIL report for 7 years. This is a crucial point that many settlement agencies fail to mention. Even if your score eventually goes back up to 750 through other means, a manual check by a bank's credit manager during a large loan application (like a Home Loan or Business Loan) will reveal the settlement.
                                 </p>
@@ -442,7 +442,7 @@ export default function LoanSettlementVsRepaymentPage() {
                                 If you choose the settlement path, doing it correctly is vital. Many borrowers fall into the trap of 'verbal settlements' which are never updated on the CIBIL records.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The SettleLoans Step-by-Step Method</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The SettleLoans Step-by-Step Method</h3>
                                 <ol className="space-y-4 text-base font-medium">
                                     <li className="flex items-start gap-3">
                                         <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs flex-shrink-0 mt-1">1</span>
@@ -488,7 +488,7 @@ export default function LoanSettlementVsRepaymentPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Loan Restructuring</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Loan Restructuring</h3>
                                     <p className="text-sm">Request the bank to increase your loan tenure. This will reduce your monthly EMI, making it manageable even with a reduced income. Your credit score remains safe.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -556,7 +556,7 @@ export default function LoanSettlementVsRepaymentPage() {
                             <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6 leading-tight">Case Studies: Real-World Scenarios</h2>
                             <div className="space-y-8">
                                 <div className="p-8 bg-blue-50 rounded-2xl border border-blue-100">
-                                    <h4 className="font-bold text-xl mb-4 text-blue-900">Case Study 1: The IT Professional's Comeback</h4>
+                                    <h3 className="font-bold text-xl mb-4 text-blue-900">Case Study 1: The IT Professional's Comeback</h3>
                                     <p className="text-sm text-blue-800 leading-relaxed">
                                         Amit, a software engineer, had 12 Lakhs in credit card debt across 5 cards. His EMIs were 80% of his salary. He was considering settlement. After a consultation with SettleLoans, we identified that he had a piece of land in his hometown. We helped him get a 'Loan Against Property' at 9% interest to pay off the 40% interest credit cards. By choosing <strong>Repayment</strong> through consolidation, he saved his CIBIL score and is now eligible for a home loan.
                                     </p>
@@ -625,7 +625,7 @@ export default function LoanSettlementVsRepaymentPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name[0]}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -726,7 +726,7 @@ export default function LoanSettlementVsRepaymentPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">Decision Support</h3>
+                                    <div className="text-lg font-black text-white px-2">Decision Support</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -741,7 +741,7 @@ export default function LoanSettlementVsRepaymentPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Helpful Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Helpful Resources</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/loan-settlement-process-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

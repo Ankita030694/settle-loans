@@ -261,7 +261,7 @@ export default function LegalHelpForLoanSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter italic text-center">The Right to Negotiate</h4>
+                                    <h3 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter italic text-center">The Right to Negotiate</h3>
                                     <p className="text-sm italic font-medium">Under the 2023 RBI Framework for Compromise Settlements, banks are mandated to have a Board-approved policy for settlements. This means they cannot flatly refuse a settlement if you meet certain hardship criteria.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
@@ -284,14 +284,14 @@ export default function LegalHelpForLoanSettlementPage() {
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">01</span>
                                     <div>
-                                        <h5 className="font-bold text-xl mb-2">Forensic Document Scrubbing</h5>
+                                        <h3 className="font-bold text-xl mb-2">Forensic Document Scrubbing</h3>
                                         <p className="opacity-70 text-sm italic font-medium">We audit your loan statements for illegal interest compounding, hidden penalties, and breaches of the 'Net Present Value' (NPV) calculation that banks use to decide waivers.</p>
                                     </div>
                                 </div>
                                 <div className="flex gap-6 items-center border-b border-white/10 pb-4">
                                     <span className="text-4xl font-black text-[#1F5EFF]">02</span>
                                     <div>
-                                        <h5 className="font-bold text-xl mb-2">Notice Response & Strategy</h5>
+                                        <h4 className="font-bold text-xl mb-2">Notice Response & Strategy</h4>
                                         <p className="opacity-70 text-sm italic font-medium">Drafting professional replies to Section 13(2) SARFAESI notices or Section 138 NI Act (Cheque Bounce) notices to preserve your legal standing and buy time for negotiation.</p>
                                     </div>
                                 </div>
@@ -311,7 +311,7 @@ export default function LegalHelpForLoanSettlementPage() {
                                 Negotiation is an art, but in banking, it's also a science. A professional legal approach involves:
                             </p>
                             <div className="bg-[#F8FAFC] p-8 rounded-3xl border border-[#1F5EFF]/20 mb-8">
-                                <h4 className="text-xl font-black text-blue-900 mb-4 uppercase text-center tracking-tighter">The 4-Stage Negotiation Masterclass</h4>
+                                <h3 className="text-xl font-black text-blue-900 mb-4 uppercase text-center tracking-tighter">The 4-Stage Negotiation Masterclass</h3>
                                 <ul className="space-y-4 text-blue-800 leading-relaxed font-bold">
                                     <li className="flex items-center gap-3"><span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span> <strong>Pre-Audit</strong>: Determining the 'Haircut' percentage based on the asset's current distress value vs book value.</li>
                                     <li className="flex items-center gap-3"><span className="w-2 h-2 bg-[#1F5EFF] rounded-full"></span> <strong>The 'Anchor' Proposal</strong>: Sending a formal legal proposal that anchors the negotiation at the lowest possible range.</li>
@@ -334,11 +334,11 @@ export default function LegalHelpForLoanSettlementPage() {
                             <p className="text-lg opacity-80 mb-8 relative z-10 leading-relaxed font-bold">Many commercial companies promise settlement, but only a lawyer provides legal defense.</p>
                             <div className="grid md:grid-cols-2 gap-8 relative z-10">
                                 <div className="p-6 border border-white/10 rounded-2xl bg-white/5">
-                                    <h5 className="font-bold text-[#1F5EFF] mb-2">Legal Counsel</h5>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-2">Legal Counsel</h3>
                                     <p className="text-xs opacity-70 italic font-medium">Can challenge SARFAESI notices in DRT, handle cheque bounce cases (Sec 138), and issue formal 'Cease & Desist' letters to stop harassment immediately.</p>
                                 </div>
                                 <div className="p-6 border border-white/10 rounded-2xl bg-white/5">
-                                    <h5 className="font-bold text-[#1F5EFF] mb-2">Settlement Agencies</h5>
+                                    <h4 className="font-bold text-[#1F5EFF] mb-2">Settlement Agencies</h4>
                                     <p className="text-xs opacity-70 italic font-medium">Focus only on negotiation. They have no standing in court, meaning if the bank files a case, an agency cannot protect your assets or freedom.</p>
                                 </div>
                             </div>
@@ -361,11 +361,11 @@ export default function LegalHelpForLoanSettlementPage() {
                             <div className="p-8 bg-[#2E2E2E] rounded-[40px] text-white shadow-2xl relative overflow-hidden">
                                 <div className="grid md:grid-cols-2 gap-6 relative z-10">
                                     <div>
-                                        <h5 className="font-black text-[#1F5EFF] mb-2 uppercase italic">No Court Fees</h5>
+                                        <h3 className="font-black text-[#1F5EFF] mb-2 uppercase italic">No Court Fees</h3>
                                         <p className="text-xs opacity-70 italic font-medium leading-relaxed">Unlike regular civil suits, Lok Adalats are free. If you settle here, any court fees you previously paid can often be refunded.</p>
                                     </div>
                                     <div>
-                                        <h5 className="font-black text-[#1F5EFF] mb-2 uppercase italic">Non-Appealable Award</h5>
+                                        <h4 className="font-black text-[#1F5EFF] mb-2 uppercase italic">Non-Appealable Award</h4>
                                         <p className="text-xs opacity-70 italic font-medium leading-relaxed">The decision of a Lok Adalat is final. Once you settle, the bank cannot come back later with new charges or hidden interest.</p>
                                     </div>
                                 </div>
@@ -389,11 +389,11 @@ export default function LegalHelpForLoanSettlementPage() {
                             <p className="text-lg leading-relaxed mb-6 font-medium italic text-gray-400 text-center">"Debt is not a crime, and you should not be treated like a criminal."</p>
                             <div className="grid md:grid-cols-2 gap-8">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-red-200 transition-colors">
-                                    <h5 className="font-black mb-3 text-red-600 uppercase tracking-tighter">Cease & Desist Notices</h5>
+                                    <h3 className="font-black mb-3 text-red-600 uppercase tracking-tighter">Cease & Desist Notices</h3>
                                     <p className="text-sm opacity-70 font-medium italic">If recovery agents are calling after hours or visiting your workplace, a formal legal 'Cease & Desist' notice can hold the bank's MD personally liable for the breach of RBI guidelines.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm hover:border-red-200 transition-colors">
-                                    <h5 className="font-black mb-3 text-red-600 uppercase tracking-tighter">Ombudsman Complaints</h5>
+                                    <h4 className="font-black mb-3 text-red-600 uppercase tracking-tighter">Ombudsman Complaints</h4>
                                     <p className="text-sm opacity-70 font-medium italic">We help you document the harassment and file a formal complaint with the Integrated Ombudsman Scheme, which can result in the bank paying you compensation for mental agony.</p>
                                 </div>
                             </div>
@@ -422,7 +422,7 @@ export default function LegalHelpForLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-[10px] text-gray-400 font-bold uppercase">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -455,7 +455,7 @@ export default function LegalHelpForLoanSettlementPage() {
                                     { q: "Does a lawyer charge for every bank visit?", a: "Professional fee structures vary. At SettleLoans, we offer package-based legal representation that covers the entire negotiation cycle, ensuring you don't face mounting costs." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg text-justify">
-                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10 uppercase tracking-tighter">{faq.q}</h4>
+                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10 uppercase tracking-tighter">{faq.q}</h3>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -480,7 +480,7 @@ export default function LegalHelpForLoanSettlementPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Legal Protection Plan</h3>
+                                    <div className="text-lg font-black text-white">Legal Protection Plan</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold italic">
@@ -493,7 +493,7 @@ export default function LegalHelpForLoanSettlementPage() {
                             </div>
 
                             <div className="bg-white border border-[#DEDEDE] rounded-2xl p-6 shadow-sm">
-                                <h4 className="font-black text-[#2E2E2E] mb-4 uppercase text-[10px] tracking-widest border-b pb-2">Defensive Resources</h4>
+                                <div className="font-black text-[#2E2E2E] mb-4 uppercase text-[10px] tracking-widest border-b pb-2">Defensive Resources</div>
                                 <div className="space-y-4">
                                     <Link href="/legal-notice-for-loan-recovery" className="block text-sm font-bold text-[#4A4A4A] hover:text-[#1F5EFF] transition-colors leading-tight italic">
                                         Decoding Recovery Notices

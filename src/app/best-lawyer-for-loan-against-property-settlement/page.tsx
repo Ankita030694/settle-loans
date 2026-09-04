@@ -207,7 +207,7 @@ export default function LAPSettlementPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100 shadow-sm">
-                                    <h4 className="font-bold text-xl mb-3 text-[#1F5EFF]">Net Present Value (NPV)</h4>
+                                    <h3 className="font-bold text-xl mb-3 text-[#1F5EFF]">Net Present Value (NPV)</h3>
                                     <p className="text-gray-700 leading-relaxed text-sm">Banks calculate the value of money over time. We argue that 1 Crore today is better than 1.5 Crore after 5 years of litigation and maintenance of the seized property.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 rounded-3xl border border-blue-100 shadow-sm">
@@ -234,7 +234,7 @@ export default function LAPSettlementPage() {
                                     <div key={i} className="flex gap-4 p-6 bg-gray-50 rounded-2xl border border-gray-200 hover:border-[#1F5EFF]/50 transition-colors">
                                         <div className="w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold flex-shrink-0">{i + 1}</div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E] mb-1">{item.step}</h4>
+                                            <h3 className="font-bold text-[#2E2E2E] mb-1">{item.step}</h3>
                                             <p className="text-gray-600 text-sm">{item.desc}</p>
                                         </div>
                                     </div>
@@ -268,7 +268,7 @@ export default function LAPSettlementPage() {
                             </p>
                             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-10 text-gray-700">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-black text-lg mb-2 text-[#2E2E2E]">Right to Redemption</h4>
+                                    <h3 className="font-black text-lg mb-2 text-[#2E2E2E]">Right to Redemption</h3>
                                     <p className="text-sm">Under Section 13(8), you have the right to redeem the property by paying the dues any time before the auction is completed. We use this to finalize the OTS while the auction clock is ticking.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
@@ -323,7 +323,7 @@ export default function LAPSettlementPage() {
                                 </li>
                             </ul>
                             <div className="bg-yellow-50 p-8 rounded-2xl border-l-8 border-[#2E2E2E] mb-10">
-                                <h4 className="text-xl font-bold mb-4">The Internal Ombudsman Shield</h4>
+                                <h3 className="text-xl font-bold mb-4">The Internal Ombudsman Shield</h3>
                                 <p className="text-gray-700">If a bank branch is being unreasonable, we escalate to the bank's Internal Ombudsman. This is a mandatory regulatory level that must investigate borrower grievances before a bank can proceed with coercive recovery.</p>
                             </div>
                         </section>
@@ -395,7 +395,7 @@ export default function LAPSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -463,7 +463,7 @@ export default function LAPSettlementPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] p-8 rounded-[24px] text-white shadow-xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-full -mr-12 -mt-12 group-hover:scale-150 transition-transform duration-500"></div>
-                                <h4 className="text-2xl font-black mb-4 relative z-10 leading-tight">Stop the Auction</h4>
+                                <div className="text-2xl font-black mb-4 relative z-10 leading-tight">Stop the Auction</div>
                                 <p className="text-[#DEDEDE]/80 text-sm mb-8 relative z-10 font-medium">Expert legal protection against SARFAESI notices and bank repossession teams.</p>
                                 <Link href="/contact" className="block w-full text-center bg-[#1F5EFF] text-white font-bold py-4 rounded-xl hover:bg-white hover:text-[#1F5EFF] transition-all duration-300 shadow-lg relative z-10">
                                     Legal Property Audit
@@ -471,7 +471,7 @@ export default function LAPSettlementPage() {
                             </div>
 
                             <div className="bg-white border border-[#DEDEDE] p-8 rounded-[24px] shadow-sm font-bold">
-                                <h4 className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Related Matters</h4>
+                                <div className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Related Matters</div>
                                 <ul className="space-y-4">
                                     <li>
                                         <Link href="/best-lawyer-for-secured-loan-litigation-drt" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors">

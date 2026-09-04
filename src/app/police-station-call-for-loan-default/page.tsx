@@ -599,10 +599,10 @@ export default function PoliceStationCallForLoanDefaultPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <FileWarning className="w-4 h-4 text-red-500" />
                     <span>Red Flag 1: Forged Emblems &amp; Incoherent Legal Jargon</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Fake notices frequently copy low-resolution state police logos, national emblems, or Ministry of Home Affairs crests. They combine contradictory legal phrases such as <em>&quot;Section 420 Non-Bailable Arrest Warrant issued by Cyber Crime Branch under Banking Ombudsman Act&quot;</em>. Police departments cannot issue court arrest warrants, and the Banking Ombudsman has zero criminal jurisdiction.
                   </p>
@@ -764,10 +764,10 @@ export default function PoliceStationCallForLoanDefaultPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl bg-slate-50 border border-slate-200 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-2">
                     <span className="w-5 h-5 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs">1</span>
                     <span>Demand Full Police Credentials &amp; Station Landline</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Ask the caller for their full name, rank/designation, Police General Diary (GD) number, posting station, and official government landline number. Impersonators will evade these specific questions, turn abusive, or abruptly disconnect the call.
                   </p>
@@ -1141,11 +1141,11 @@ export default function PoliceStationCallForLoanDefaultPage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm">
+                  <div className="font-bold text-slate-900 text-sm">
                     <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
               </div>
@@ -1169,7 +1169,7 @@ export default function PoliceStationCallForLoanDefaultPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Emergency Legal Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Threatened With Police Arrest?</h4>
+              <div className="font-bold text-base text-white mb-2">Threatened With Police Arrest?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not pay under duress. Hire specialized debt defense advocates to verify fake notices, halt illegal recovery harassment, and negotiate a 45%–65% OTS.
               </p>
@@ -1183,9 +1183,9 @@ export default function PoliceStationCallForLoanDefaultPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

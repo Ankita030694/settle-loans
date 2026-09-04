@@ -210,7 +210,7 @@ export default function CreditCardDefaultPage() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px] relative">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Content Guide</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Content Guide</div>
                             <TableOfContents
                                 items={[
                                     { id: "credit-card-default-overview", title: "Overview" },
@@ -259,7 +259,7 @@ export default function CreditCardDefaultPage() {
                             </p>
                             <div className="space-y-4">
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-shadow">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Days 1 to 30: The Gentle Nudge</h4>
+                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-2 uppercase italic leading-none">Days 1 to 30: The Gentle Nudge</h3>
                                     <p className="text-sm leading-relaxed font-bold opacity-70">Automated SMS, emails, and occasional 'reminder' calls. CIBIL score takes its first hit as 'Late' is reported.</p>
                                 </div>
                                 <div className="p-8 bg-blue-50 border border-blue-100 rounded-[32px] hover:shadow-md transition-shadow">
@@ -299,7 +299,7 @@ export default function CreditCardDefaultPage() {
                                 </li>
                             </ul>
                             <div className="p-8 bg-red-50 rounded-3xl border border-red-100">
-                                <h4 className="text-xl font-black text-red-900 mb-2 uppercase">Violation? Strike Back.</h4>
+                                <h3 className="text-xl font-black text-red-900 mb-2 uppercase">Violation? Strike Back.</h3>
                                 <p className="text-sm italic font-bold text-red-700 leading-relaxed">Evidence of these violations can be used to set off the bank's claim in court or file a complaint with the Banking Ombudsman, often leading to heavy penalties for the bank.</p>
                             </div>
                         </section>
@@ -316,7 +316,7 @@ export default function CreditCardDefaultPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-[#2E2E2E] text-white rounded-[48px] shadow-xl border-l-8 border-[#1F5EFF]">
-                                    <h4 className="text-2xl font-black mb-4 uppercase italic leading-none">Criminal Case: Sec 138 Nia</h4>
+                                    <h3 className="text-2xl font-black mb-4 uppercase italic leading-none">Criminal Case: Sec 138 Nia</h3>
                                     <p className="text-sm leading-relaxed opacity-90 font-medium">If you submitted 'Security Cheques' that the bank presented and they bounced, they can file a criminal case. This is why we advise never sharing blank cheques with banks.</p>
                                 </div>
                                 <div className="p-10 bg-[#2E2E2E] text-white rounded-[48px] shadow-xl border-l-8 border-red-500">
@@ -351,7 +351,7 @@ export default function CreditCardDefaultPage() {
                                 Under the <strong>Indian Limitation Act, 1963</strong>, the window for a bank to file a lawsuit for credit card recovery is limited to <strong>3 years</strong>. This period is calculated from the date of the last payment you made or the date you last officially 'acknowledged' the debt in writing.
                             </p>
                             <div className="bg-red-900 p-10 rounded-[48px] text-white my-12 shadow-2xl">
-                                <h4 className="text-2xl font-black mb-4 uppercase italic text-red-500 leading-[0.9]">The "Acknowledgement" Trap</h4>
+                                <h3 className="text-2xl font-black mb-4 uppercase italic text-red-500 leading-[0.9]">The "Acknowledgement" Trap</h3>
                                 <p className="text-sm leading-relaxed opacity-80 font-bold italic mb-6">A single signature on a 'Balance Confirmation' letter or even a nominal payment of ₹500 via GPay can reset the 3-year clock.</p>
                                 <p className="text-xs font-black uppercase tracking-[0.2em] decoration-red-500 underline underline-offset-4">Do not acknowledge debts older than 3 years without checking the limitation status first.</p>
                             </div>
@@ -370,7 +370,7 @@ export default function CreditCardDefaultPage() {
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-10 bg-gray-50 rounded-[48px] border border-gray-100 shadow-sm relative overflow-hidden group">
                                     <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/5 rounded-full -mr-12 -mt-12 group-hover:scale-150 transition-transform"></div>
-                                    <h4 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#2E2E2E]">Waiver Protocol</h4>
+                                    <h3 className="text-xl font-black mb-4 uppercase tracking-tighter text-[#2E2E2E]">Waiver Protocol</h3>
                                     <p className="text-sm leading-relaxed opacity-70 font-medium italic">We identify and demand the waiver of 'Penal Interest' and 'Over-limit Charges', which often make up 60% of the bank's claim.</p>
                                 </div>
                                 <div className="p-10 bg-gray-50 rounded-[48px] border border-gray-100 shadow-sm relative overflow-hidden group text-right">
@@ -509,7 +509,7 @@ export default function CreditCardDefaultPage() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-[32px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-6 text-white text-center">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Settle Your<br />Debt</h3>
+                                    <div className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Settle Your<br />Debt</div>
                                     <p className="opacity-80 text-[10px] font-black uppercase tracking-[0.2em]">Strategy Session</p>
                                 </div>
                                 <div className="p-8">
@@ -525,7 +525,7 @@ export default function CreditCardDefaultPage() {
 
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-[32px] p-8 border border-gray-100 shadow-sm text-left">
-                                <h4 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Debt Hub</h4>
+                                <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Debt Hub</div>
                                 <nav className="space-y-4">
                                     <Link href="/can-bank-file-case-for-personal-loan" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">Personal Loan Litigation</Link>
                                     <Link href="/bank-sent-legal-notice-for-loan-what-to-do" className="block text-[11px] font-black text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic uppercase tracking-tighter">Bank Notice Checklist</Link>

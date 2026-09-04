@@ -310,7 +310,7 @@ export default function LoanArbitrationLawyerPage() {
                                 Section 9 is the protective shield of the Arbitration Act. While a bank uses it to 'freeze' your assets, a borrower can use it to 'stay' the bank's recovery actions. If a bank is trying to take possession of your mortgaged property or vehicle before the arbitrator has even heard the case, a Section 9 petition in the District Court or High Court can provide an immediate 'Status Quo' order.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">The Triple Test for Section 9 Relief:</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">The Triple Test for Section 9 Relief:</h3>
                                 <p className="text-sm text-blue-800 leading-relaxed mb-4">
                                     To get a 'Stay' against the bank, we must satisfy the court on three points:
                                 </p>
@@ -373,7 +373,7 @@ export default function LoanArbitrationLawyerPage() {
                                 The courts have repeatedly ruled that the MSMED Act is a 'Special Law' that overrides the general Arbitration Act. This means that even if your bank loan agreement has a private arbitration clause, you can ignore it and file a reference with the MSEFC. The Council must first attempt conciliation and then move to arbitration. This process is much more affordable and borrower friendly than private arbitration.
                             </p>
                             <div className="bg-amber-50 p-8 rounded-xl border border-amber-200 my-8">
-                                <h4 className="text-xl font-bold text-amber-900 mb-4">The 75% Pre-Deposit Rule: A Critical Warning</h4>
+                                <h3 className="text-xl font-bold text-amber-900 mb-4">The 75% Pre-Deposit Rule: A Critical Warning</h3>
                                 <p className="text-sm text-amber-800 leading-relaxed mb-4">
                                     Under Section 19 of the MSMED Act, if a bank or any other party wants to challenge an award passed by the Council in favor of an MSME, they MUST deposit 75% of the award amount in court.
                                 </p>
@@ -438,7 +438,7 @@ export default function LoanArbitrationLawyerPage() {
                                 However, execution is not an automatic process. It follows the detailed procedures of the Code of Civil Procedure (CPC), 1908. We provide a robust defense during the execution stage, identifying every procedural loophole that can protect the borrower. One of the primary defenses is the 'Defective Award' argument. If the award is vague, non-speaking, or directed against individuals who weren't party to the arbitration, the execution court can refuse to enforce it.
                             </p>
                             <div className="bg-gray-50 border border-gray-200 p-8 rounded-2xl mb-8">
-                                <h4 className="text-xl font-bold mb-4">The Technicality of Transmission:</h4>
+                                <h3 className="text-xl font-bold mb-4">The Technicality of Transmission:</h3>
                                 <p className="mb-4 text-gray-700 leading-relaxed text-sm">
                                     In many loan cases, the arbitration happens in a major financial hub like Mumbai or Bangalore, but the borrower's house is in a smaller city. The bank cannot simply take the Mumbai award to a local police station. They must file a 'Transmission Petition' to transfer the decree from the court where the award was filed to the court where the assets are located.
                                 </p>
@@ -476,7 +476,7 @@ export default function LoanArbitrationLawyerPage() {
                                     <div className="flex items-center mb-6">
                                         <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center font-bold text-blue-600 mr-4">M</div>
                                         <div>
-                                            <h4 className="font-bold text-[#2E2E2E]">MSME Owner, Pune</h4>
+                                            <h3 className="font-bold text-[#2E2E2E]">MSME Owner, Pune</h3>
                                             <p className="text-xs text-gray-400 uppercase tracking-widest font-bold">MSEFC Victory</p>
                                         </div>
                                         <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -555,7 +555,7 @@ export default function LoanArbitrationLawyerPage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Arbitration Shield</h3>
+                                    <div className="text-lg font-black text-white">Arbitration Shield</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -570,7 +570,7 @@ export default function LoanArbitrationLawyerPage() {
 
                             {/* Related Pages */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Arbitration Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Arbitration Guides</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/best-lawyer-for-loan-settlement-by-drt" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

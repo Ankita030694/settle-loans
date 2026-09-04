@@ -437,7 +437,7 @@ export default function UnsecuredLoanLawyerPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">
@@ -467,7 +467,7 @@ export default function UnsecuredLoanLawyerPage() {
                                 The truth is that millions of Indians face financial distress every year. The economy has cycles, and business failures are a natural part of any capitalist system. Your worth as a human being is not defined by your credit score.
                             </p>
                             <div className="bg-green-50 p-8 rounded-3xl border border-green-200 mb-10">
-                                <h4 className="text-xl font-bold text-green-800 mb-4">Five Pillars of Debt Resilience:</h4>
+                                <h3 className="text-xl font-bold text-green-800 mb-4">Five Pillars of Debt Resilience:</h3>
                                 <ul className="space-y-4 text-green-900 font-medium">
                                     <li>1. <strong>Acceptance:</strong> Stop hiding from the truth. Open the letters. Answer the calls (or let your lawyer do it). Facing the problem is the first step to solving it.</li>
                                     <li>2. <strong>Transparency:</strong> Talk to your family. Most borrowers hide their debt until it's too late. Your family is your support system. They deserve to know the truth.</li>
@@ -487,7 +487,7 @@ export default function UnsecuredLoanLawyerPage() {
                             </p>
                             <div className="space-y-8">
                                 <div className="p-6 bg-gray-50 rounded-2xl border-l-4 border-[#1F5EFF]">
-                                    <h4 className="font-bold text-lg mb-2 text-[#2E2E2E]">ICICI Bank vs. Prakash Kaur (Supreme Court of India)</h4>
+                                    <h3 className="font-bold text-lg mb-2 text-[#2E2E2E]">ICICI Bank vs. Prakash Kaur (Supreme Court of India)</h3>
                                     <p className="text-gray-700">The Court observed that banks cannot use 'musclemen' or goons to recover loans. They must follow the 'procedure established by law'. This judgment is the foundation of almost all harassment-related litigation in India.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-2xl border-l-4 border-[#1F5EFF]">
@@ -509,7 +509,7 @@ export default function UnsecuredLoanLawyerPage() {
                             </h2>
                             <div className="space-y-8">
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">1. Can I be jailed for defaulting on a personal loan?</h4>
+                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">1. Can I be jailed for defaulting on a personal loan?</h3>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">No. In India, a simple loan default is a civil matter, not criminal. You cannot be jailed for being unable to pay. However, if you issued a check that bounced (Section 138) or if you used fake documents to get the loan (Section 420), criminal proceedings can be initiated. A lawyer ensures that cases are kept in the civil domain.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
@@ -555,7 +555,7 @@ export default function UnsecuredLoanLawyerPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] p-8 rounded-[24px] text-white shadow-xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-full -mr-12 -mt-12 group-hover:scale-150 transition-transform duration-500"></div>
-                                <h4 className="text-2xl font-black mb-4 relative z-10 leading-tight">Stop the Harassment Now</h4>
+                                <div className="text-2xl font-black mb-4 relative z-10 leading-tight">Stop the Harassment Now</div>
                                 <p className="text-[#DEDEDE]/80 text-sm mb-8 relative z-10 font-medium">Get expert legal protection against aggressive recovery agents and bank notices.</p>
                                 <Link href="/contact" className="block w-full text-center bg-[#1F5EFF] text-white font-bold py-4 rounded-xl hover:bg-white hover:text-[#1F5EFF] transition-all duration-300 shadow-lg relative z-10">
                                     Let us help you
@@ -563,7 +563,7 @@ export default function UnsecuredLoanLawyerPage() {
                             </div>
 
                             <div className="bg-white border border-[#DEDEDE] p-8 rounded-[24px] shadow-sm">
-                                <h4 className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Related Topics</h4>
+                                <div className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Related Topics</div>
                                 <ul className="space-y-4">
                                     <li>
                                         <Link href="/best-lawyer-for-msme-business-loan-dispute" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors font-bold text-sm">

@@ -1025,10 +1025,10 @@ export default function HowToAvoidLoanSettlementScamsClient() {
 
             {/* Sources Strip */}
             <div className="my-10 p-6 rounded-2xl bg-slate-50 border border-slate-200">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-3 flex items-center gap-2">
                 <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                 Authoritative Legal &amp; Regulatory Sources
-              </h4>
+              </h3>
               <ul className="space-y-2.5 text-xs text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1167,14 +1167,14 @@ export default function HowToAvoidLoanSettlementScamsClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Debt Settlement Strategist &amp; Consumer Rights Advocate
                   </p>
@@ -1207,9 +1207,9 @@ export default function HowToAvoidLoanSettlementScamsClient() {
                 <PhoneCall className="w-4 h-4" />
                 <span>OTS Sanction Verification Desk</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Holding a Settlement Offer? Verify It Before You Pay
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Received a settlement letter on WhatsApp or from an agency? Have our empaneled legal advocates audit its validity with the bank for free.
               </p>
@@ -1223,10 +1223,10 @@ export default function HowToAvoidLoanSettlementScamsClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

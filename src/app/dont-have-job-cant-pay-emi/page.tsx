@@ -320,7 +320,7 @@ export default function JobLossLoanPage() {
                 When you go to a bank and say, "I don't have a job and can't pay my EMI," you must back it up with documentation. This changes the conversation from "Why are you hiding?" to "How can we resolve this asset?" Banks would rather have 50% of the money now than 0% of the money over 10 years of court cases.
               </p>
               <div className="bg-red-50 p-6 rounded-2xl border-l-8 border-red-500 mb-8">
-                <h4 className="font-black text-red-900 mb-2 uppercase text-sm">Critical Warning</h4>
+                <h3 className="font-black text-red-900 mb-2 uppercase text-sm">Critical Warning</h3>
                 <p className="text-red-800">
                   Do not lie about your employment status. If you are working and claim you are jobless, you could be flagged for fraud. Honesty is your biggest legal weapon in debt negotiation.
                 </p>
@@ -354,7 +354,7 @@ export default function JobLossLoanPage() {
                 When the recovery agent calls, your pulse rises. But remember, they are just employees following a script. You need a better script.
               </p>
               <div className="bg-gray-50 border border-gray-200 rounded-3xl p-8 mb-10">
-                <h4 className="text-xl font-bold mb-6 text-[#2E2E2E]">The "Hardship Protocol" Response:</h4>
+                <h3 className="text-xl font-bold mb-6 text-[#2E2E2E]">The "Hardship Protocol" Response:</h3>
                 <ol className="space-y-6">
                   <li className="flex gap-4">
                     <span className="flex-shrink-0 w-8 h-8 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-bold">1</span>
@@ -389,7 +389,7 @@ export default function JobLossLoanPage() {
               <div className="space-y-10">
                 <div className="relative pl-10 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute -left-[11px] top-0 w-5 h-5 rounded-full bg-[#1F5EFF] border-4 border-white"></div>
-                  <h4 className="text-2xl font-black mb-2">Step 1: The NPA Phase</h4>
+                  <h3 className="text-2xl font-black mb-2">Step 1: The NPA Phase</h3>
                   <p className="text-gray-600 leading-relaxed">Most banks won't settle until the loan is 90 days overdue. This is when it becomes an NPA. It sounds scary, but this is your leverage. This is where the bank's internal pressure to resolve the account peaks.</p>
                 </div>
                 <div className="relative pl-10 border-l-2 border-[#1F5EFF]/20">
@@ -487,7 +487,7 @@ export default function JobLossLoanPage() {
                 You might be worried that settlement will "ruin" your credit score. Let's be honest: <strong>If you haven't paid your EMI for 2 months, your score is already dropping.</strong>
               </p>
               <div className="bg-white border border-gray-100 shadow-xl rounded-3xl p-8 mb-10">
-                <h4 className="text-xl font-bold mb-4">Settlement vs. Default</h4>
+                <h3 className="text-xl font-bold mb-4">Settlement vs. Default</h3>
                 <p className="mb-6">An 'Open Default' (unpaid loan) is like an active wound. It keeps bleeding your score every month. A 'Settlement' is like a bandage. It leaves a scar, but the bleeding stops.</p>
                 <div className="flex flex-col md:flex-row gap-8">
                   <div className="flex-1 text-center">
@@ -513,7 +513,7 @@ export default function JobLossLoanPage() {
               </p>
               <div className="space-y-6">
                 <div className="p-6 bg-emerald-50 rounded-2xl">
-                  <h4 className="font-bold text-emerald-900 mb-2">Option A: EMI Moratorium</h4>
+                  <h3 className="font-bold text-emerald-900 mb-2">Option A: EMI Moratorium</h3>
                   <p className="text-sm text-emerald-800">Ask the bank for a 3 to 6-month pause. If you have a clean record and just lost your job, many private banks will agree to help you till you find a new role.</p>
                 </div>
                 <div className="p-6 bg-amber-50 rounded-2xl">
@@ -606,7 +606,7 @@ export default function JobLossLoanPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-extrabold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-extrabold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-500 font-bold uppercase tracking-widest">{review.loc}</p>
                       </div>
                       <div className="ml-auto flex text-yellow-400">
@@ -670,7 +670,7 @@ export default function JobLossLoanPage() {
               {/* 1st Container: CTA */}
               <div className="bg-[#2E2E2E] rounded-[24px] shadow-2xl overflow-hidden border border-white/5 group">
                 <div className="bg-[#1F5EFF] p-5 text-center">
-                  <h3 className="text-xl font-black text-white">Struggling with EMI?</h3>
+                  <div className="text-xl font-black text-white">Struggling with EMI?</div>
                 </div>
                 <div className="p-8 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE]/70 font-bold leading-relaxed">
@@ -694,7 +694,7 @@ export default function JobLossLoanPage() {
 
               {/* 2nd Container: Related Pages */}
               <div className="bg-white p-8 rounded-[24px] border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#747474] mb-6 border-b border-[#DEDEDE] pb-3">Essential Links</h3>
+                <div className="text-xs font-black uppercase tracking-[0.2em] text-[#747474] mb-6 border-b border-[#DEDEDE] pb-3">Essential Links</div>
                 <ul className="space-y-5">
                   {[
                     { title: "Loan Settlement Guide", href: "/loan-settlement" },

@@ -171,7 +171,7 @@ export default function NegotiationStepsPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                    <h4 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Liquid Asset Check</h4>
+                                    <h3 className="font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">Liquid Asset Check</h3>
                                     <p className="text-sm">Identify exactly how much cash you can raise in 48 hours. A One-Time Settlement (OTS) requires immediate liquidity. If you don't have the cash ready, don't start the talk.</p>
                                 </div>
                                 <div className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
@@ -222,7 +222,7 @@ export default function NegotiationStepsPage() {
                                 The Reserve Bank of India has been very clear in its recent circulars: Lenders must have board-approved policies for One Time Settlements (OTS). You have a right to know the framework. In 2024, the "Prudential Framework for Resolution of Stressed Assets" is your bible.
                             </p>
                             <div className="bg-blue-50 p-8 rounded-3xl border border-blue-100 mb-8">
-                                <h4 className="text-xl font-black text-blue-900 mb-4">The 30-Day Cooling Window</h4>
+                                <h3 className="text-xl font-black text-blue-900 mb-4">The 30-Day Cooling Window</h3>
                                 <p className="text-blue-800 leading-relaxed font-medium">Under latest guidelines, before any SARFAESI action (for secured loans), the bank MUST provide a window for the borrower to represent their case. Use this window to initiate settlement math before they spend money on auctioning your assets.</p>
                             </div>
                             <p className="text-lg leading-relaxed">
@@ -238,12 +238,12 @@ export default function NegotiationStepsPage() {
                             <div className="grid md:grid-cols-3 gap-6 mb-12">
                                 <div className="p-6 bg-white border-2 border-gray-100 rounded-2xl flex flex-col items-center text-center">
                                     <div className="w-12 h-12 bg-red-50 rounded-full flex items-center justify-center text-red-500 font-bold mb-4">Avoid</div>
-                                    <h5 className="font-black mb-2 uppercase text-xs tracking-widest">Aggression</h5>
+                                    <h3 className="font-black mb-2 uppercase text-xs tracking-widest">Aggression</h3>
                                     <p className="text-xs opacity-70">Threatening the bank or being rude shuts down the negotiation channel instantly.</p>
                                 </div>
                                 <div className="p-6 bg-white border-2 border-gray-100 rounded-2xl flex flex-col items-center text-center">
                                     <div className="w-12 h-12 bg-green-50 rounded-full flex items-center justify-center text-green-500 font-bold mb-4">Adopt</div>
-                                    <h5 className="font-black mb-2 uppercase text-xs tracking-widest">Calculated Pity</h5>
+                                    <h4 className="font-black mb-2 uppercase text-xs tracking-widest">Calculated Pity</h4>
                                     <p className="text-xs opacity-70">Show you want to pay but the 'Circumstances' (not you) are making it impossible.</p>
                                 </div>
                                 <div className="p-6 bg-white border-2 border-gray-100 rounded-2xl flex flex-col items-center text-center">
@@ -284,7 +284,7 @@ export default function NegotiationStepsPage() {
                             </p>
                             <div className="bg-[#1F5EFF] p-12 rounded-[50px] shadow-2xl relative overflow-hidden group">
                                 <div className="absolute top-0 left-0 w-full h-full bg-black/5 opacity-0 group-hover:opacity-100 transition-opacity"></div>
-                                <h4 className="text-2xl font-black text-white mb-6 uppercase tracking-widest">The "Nuclear Option" of Negotiation</h4>
+                                <h3 className="text-2xl font-black text-white mb-6 uppercase tracking-widest">The "Nuclear Option" of Negotiation</h3>
                                 <p className="text-white/80 leading-relaxed mb-8 font-bold italic">
                                     "When the bank knows you have legal counsel ready to challenge their possession in DRT, their willingness to settle on your terms increases by 300%."
                                 </p>
@@ -335,7 +335,7 @@ export default function NegotiationStepsPage() {
                                     { title: "Success Threshold", text: "Know when to walk away. If the bank offers a 10% discount, it's not a settlement; it's just a correction." }
                                 ].map((step, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl group hover:border-[#1F5EFF] transition-colors">
-                                        <h5 className="font-black text-[#2E2E2E] mb-3 uppercase text-sm tracking-widest">{step.title}</h5>
+                                        <h3 className="font-black text-[#2E2E2E] mb-3 uppercase text-sm tracking-widest">{step.title}</h3>
                                         <p className="text-xs opacity-70 leading-relaxed">{step.text}</p>
                                     </div>
                                 ))}
@@ -366,7 +366,7 @@ export default function NegotiationStepsPage() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex gap-4 text-[10px] font-mono">
@@ -400,7 +400,7 @@ export default function NegotiationStepsPage() {
                                     { q: "Can I get a new loan after 7 years of settlement?", a: "Yes. While the 'Settled' tag stays, after 7 years and with a clean record in between, most banks will consider you a 'Rehabilitated Borrower'." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
+                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -425,7 +425,7 @@ export default function NegotiationStepsPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Need a Second Opinion?</h3>
+                                    <div className="text-lg font-black text-white">Need a Second Opinion?</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -439,7 +439,7 @@ export default function NegotiationStepsPage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Master Strategy Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Master Strategy Guides</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     {[
                                         { name: "Bank Negotiation Strategy", href: "/how-to-settle-loan-with-bank" },

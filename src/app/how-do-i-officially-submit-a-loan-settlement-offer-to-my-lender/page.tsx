@@ -284,7 +284,7 @@ export default function SubmitLoanSettlementOfferPage() {
               </p>
               <div className="grid md:grid-cols-3 gap-6 mb-8">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
-                  <h4 className="font-bold mb-2">Medical Files</h4>
+                  <h3 className="font-bold mb-2">Medical Files</h3>
                   <p className="text-sm text-gray-500">Hospital bills, discharge summaries, or chronic illness reports.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm text-center">
@@ -346,7 +346,7 @@ export default function SubmitLoanSettlementOfferPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
-                  <h4 className="font-bold mb-2">The "Capacity To Pay" Test</h4>
+                  <h3 className="font-bold mb-2">The "Capacity To Pay" Test</h3>
                   <p className="text-sm text-gray-600">The bank's recovery officer will check your CIBIL to see if you are paying other loans. If you are paying a car loan but not the personal loan, your settlement will be rejected. You must show total financial distress.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
@@ -381,7 +381,7 @@ export default function SubmitLoanSettlementOfferPage() {
                 Once you have the letter, make the payment through a traceable method: **NEFT, RTGS, or Demand Draft**. Avoid paying in cash at the counter unless you get a specific receipt that mentions the Settlement Letter reference.
               </p>
               <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 mb-8 flex flex-col items-center text-center">
-                <h4 className="font-bold mb-4">The "No Dues Certificate" (NDC)</h4>
+                <h3 className="font-bold mb-4">The "No Dues Certificate" (NDC)</h3>
                 <p className="text-sm mb-6">Within 15 to 30 days of your payment, the bank is legally obligated to issue an NDC. This is your "freedom paper." Store multiple copies of this document digitally, you will need it for the next 7 years.</p>
                 <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 font-bold mb-2">✓</div>
               </div>
@@ -487,7 +487,7 @@ export default function SubmitLoanSettlementOfferPage() {
             <div className="sticky top-24 space-y-8">
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Draft Your Offer</h3>
+                  <div className="text-lg font-black text-white">Draft Your Offer</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">Don't let a poorly written letter lead to a rejection. Get professional help.</p>
@@ -497,7 +497,7 @@ export default function SubmitLoanSettlementOfferPage() {
               </div>
 
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li><Link href="/loan-settlement-process-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>The 2024 Process Guide</Link></li>
                   <li><Link href="/what-documents-are-required-for-loan-settlement-with-a-professional-service" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Document Checklist</Link></li>

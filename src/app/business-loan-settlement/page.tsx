@@ -440,7 +440,7 @@ export default function BusinessLoanSettlementPage() {
 
             <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-                   <h4 className="font-bold text-lg text-[var(--color-primary)] mb-2">1. The "Security Cheque" Defense</h4>
+                   <h3 className="font-bold text-lg text-[var(--color-primary)] mb-2">1. The "Security Cheque" Defense</h3>
                    <p className="text-sm text-gray-600">We argue that the cheque was given as a "Security" at the time of loan disbursement and not for the discharge of any specific existing debt. Indian courts have ruled in many cases that security cheques cannot be used to file Section 138 cases indiscriminately.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
@@ -464,7 +464,7 @@ export default function BusinessLoanSettlementPage() {
              <div className="relative pl-8 border-l-2 border-[var(--color-primary)]/20 space-y-10">
                 <div className="relative">
                   <span className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-[var(--color-primary)]"></span>
-                  <h4 className="font-bold text-xl text-[var(--color-text-hero)]">Step 1: Financial Health Check</h4>
+                  <h3 className="font-bold text-xl text-[var(--color-text-hero)]">Step 1: Financial Health Check</h3>
                   <p className="text-gray-600 mt-2">
                     We analyze your current cash flow, assets, and liabilities. We calculate a "Realistic Settlement Offer" that you can actually afford to pay. Offering too little will be rejected; offering too much will hurt your business survival.
                   </p>
@@ -536,7 +536,7 @@ export default function BusinessLoanSettlementPage() {
                Recovery agents visit your shop/factory, shout in front of customers, sit in your office for hours ('Dharna'), and call your vendors. This destroys your reputation.
             </p>
             <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                <h4 className="font-bold text-red-900 mb-4">Your Rights:</h4>
+                <h3 className="font-bold text-red-900 mb-4">Your Rights:</h3>
                 <ul className="space-y-2 text-red-800 text-sm">
                    <li><FontAwesomeIcon icon={faCheck} className="mr-2 w-4 h-4"/> Agents <strong>CANNOT</strong> disturb your business operations.</li>
                    <li><FontAwesomeIcon icon={faCheck} className="mr-2 w-4 h-4"/> Agents <strong>CANNOT</strong> speak to your employees or customers about your debt.</li>
@@ -594,7 +594,7 @@ export default function BusinessLoanSettlementPage() {
               <div className="bg-white p-6 rounded-2xl border border-gray-200 shadow-sm">
                   <div className="grid md:grid-cols-2 gap-6">
                       <div>
-                          <h4 className="font-bold text-[var(--color-primary)] mb-3 flex items-center"><FontAwesomeIcon icon={faUserTie} className="mr-2 w-12 h-12"/> For Sole Proprietorship</h4>
+                          <h3 className="font-bold text-[var(--color-primary)] mb-3 flex items-center"><FontAwesomeIcon icon={faUserTie} className="mr-2 w-12 h-12"/> For Sole Proprietorship</h3>
                           <ul className="space-y-2 text-sm text-gray-700">
                               <li className="flex items-center"><FontAwesomeIcon icon={faCheck} className="text-green-500 mr-2 w-4 h-4"/> GST Registration Certificate</li>
                               <li className="flex items-center"><FontAwesomeIcon icon={faCheck} className="text-green-500 mr-2 w-4 h-4"/> 2 Years ITR (Income Tax Returns)</li>
@@ -621,7 +621,7 @@ export default function BusinessLoanSettlementPage() {
                    <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">R</div>
                       <div>
-                     <h4 className="font-bold">Rajesh Gupta</h4>
+                     <h3 className="font-bold">Rajesh Gupta</h3>
                          <p className="text-xs text-gray-500">Trader, Delhi</p>
                       </div>
                    </div>
@@ -776,7 +776,7 @@ export default function BusinessLoanSettlementPage() {
           <div className="sticky top-24 space-y-8">
              <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                <div className="bg-[#1F5EFF] p-4 text-center">
-                 <h3 className="text-lg font-black text-white">Business in Trouble?</h3>
+                 <div className="text-lg font-black text-white">Business in Trouble?</div>
                </div>
                <div className="p-6 text-center">
                 <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -790,7 +790,7 @@ export default function BusinessLoanSettlementPage() {
             </div>
 
             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-              <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Services</h3>
+              <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Services</div>
               <ul className="space-y-4 text-sm font-bold">
                  <li>
                   <Link href="/services/nbfc-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

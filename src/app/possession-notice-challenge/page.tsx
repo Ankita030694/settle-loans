@@ -319,7 +319,7 @@ export default function PossessionNoticeChallengePage() {
               </p>
               <div className="grid sm:grid-cols-2 gap-4 my-8">
                 <div className="bg-blue-50 p-6 rounded-xl border border-blue-100">
-                  <h4 className="font-bold text-blue-900 mb-2">Symbolic Possession</h4>
+                  <h3 className="font-bold text-blue-900 mb-2">Symbolic Possession</h3>
                   <ul className="text-sm text-blue-800 space-y-2">
                     <li>• Notice pasted on property</li>
                     <li>• Published in two newspapers</li>
@@ -403,7 +403,7 @@ export default function PossessionNoticeChallengePage() {
               <div className="grid sm:grid-cols-3 gap-4 my-8">
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4 font-bold text-[#1F5EFF]">01</div>
-                  <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs">Possession</h4>
+                  <h3 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs">Possession</h3>
                   <p className="text-[10px] text-gray-500">Notice pasted and publicized.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
@@ -428,7 +428,7 @@ export default function PossessionNoticeChallengePage() {
               </p>
               <ul className="space-y-6 mb-8">
                 <li className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm hover:border-[#1F5EFF] transition-colors">
-                  <h4 className="text-xl font-bold mb-2">1. Incorrect NPA Classification</h4>
+                  <h3 className="text-xl font-bold mb-2">1. Incorrect NPA Classification</h3>
                   <p className="text-sm text-gray-600">If you made a payment that they didn't account for, or if they tagged your account as NPA before the mandatory 90-day default period, the entire SARFAESI action is void from the start. We often conduct a detailed audit of the loan statement to find these discrepancies.</p>
                 </li>
                 <li className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm hover:border-[#1F5EFF] transition-colors">
@@ -554,7 +554,7 @@ export default function PossessionNoticeChallengePage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -625,7 +625,7 @@ export default function PossessionNoticeChallengePage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Protect Your Home</h3>
+                  <div className="text-lg font-black text-white">Protect Your Home</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -640,7 +640,7 @@ export default function PossessionNoticeChallengePage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/bank-sent-legal-notice-for-loan-what-to-do" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

@@ -205,7 +205,7 @@ export default function DebtProgramComparisonPage() {
                 </div>
                 <div className="grid md:grid-cols-2 gap-10">
                     <div className="p-10 bg-white border-t-8 border-t-[#1F5EFF] rounded-3xl shadow-xl">
-                        <h4 className="font-black uppercase text-[#1F5EFF] text-sm mb-6 pb-2 border-b border-gray-100">Why Settle?</h4>
+                        <h3 className="font-black uppercase text-[#1F5EFF] text-sm mb-6 pb-2 border-b border-gray-100">Why Settle?</h3>
                         <ul className="space-y-4 text-sm font-bold opacity-75">
                             <li className="flex gap-2"><span>-</span> Massive discount (up to 70% off principal)</li>
                             <li className="flex gap-2"><span>-</span> Immediate cessation of legal threats</li>
@@ -235,7 +235,7 @@ export default function DebtProgramComparisonPage() {
                 </div>
                 <div className="bg-blue-600 text-white p-12 rounded-[60px] shadow-2xl relative overflow-hidden group">
                     <div className="absolute bottom-0 right-0 w-64 h-64 bg-white/10 rounded-full translate-x-1/2 translate-y-1/2 group-hover:scale-125 transition-transform duration-1000"></div>
-                    <h4 className="text-2xl font-black mb-8 uppercase italic">Consolidation Math (A Real World Look)</h4>
+                    <h3 className="text-2xl font-black mb-8 uppercase italic">Consolidation Math (A Real World Look)</h3>
                     <div className="grid sm:grid-cols-2 gap-12 relative z-10">
                         <div>
                             <p className="text-xs font-black uppercase tracking-widest opacity-60 mb-2">Before Consolidation</p>
@@ -277,10 +277,10 @@ export default function DebtProgramComparisonPage() {
                     <p>Restructuring is a formal mechanism where the bank modifies your existing loan's terms. Unlike a settlement, where the bank takes a loss, restructuring assumes you will pay back the full amount, but over a longer time or with different conditions. It is ideal for people who have a temporary income shock (like a 3-month medical leave) but whose long-term earning potential is intact.</p>
                 </div>
                 <div className="bg-white p-12 rounded-[50px] border-4 border-green-100 shadow-sm">
-                    <h4 className="text-xl font-black mb-8 underline decoration-green-400 decoration-4">Common Restructuring Moves</h4>
+                    <h3 className="text-xl font-black mb-8 underline decoration-green-400 decoration-4">Common Restructuring Moves</h3>
                     <div className="grid md:grid-cols-2 gap-10">
                         <div className="space-y-4">
-                            <h5 className="font-black text-green-700">1. Tenure Extension</h5>
+                            <h4 className="font-black text-green-700">1. Tenure Extension</h4>
                             <p className="text-sm font-bold text-gray-500 italic">Converting your 3-year loan into a 5-year loan to drop the EMI immediately.</p>
                         </div>
                         <div className="space-y-4">
@@ -304,7 +304,7 @@ export default function DebtProgramComparisonPage() {
                 <p className="text-xl leading-relaxed mb-10 text-gray-700 font-medium">Debt recovery is theoretically governed by central RBI laws, but the ground reality differs significantly based on which state you reside in. The 'Culture of Credit' and the 'Aggression of Recovery' vary by geography.</p>
                 <div className="space-y-8">
                     <div className="p-8 bg-gray-50 rounded-3xl border-l-8 border-l-black group hover:bg-black hover:text-white transition-all duration-500">
-                        <h4 className="font-black text-lg mb-4 uppercase tracking-widest">The "Metro Hubs" (Mumbai, Delhi, Bangalore)</h4>
+                        <h3 className="font-black text-lg mb-4 uppercase tracking-widest">The "Metro Hubs" (Mumbai, Delhi, Bangalore)</h3>
                         <p className="text-sm font-bold opacity-75">Recovery here is highly organized and often handled by large third-party call centers. While physical harassment is less common than in rural areas, the digital and legal pressure is peak. Banks are more likely to offer settlement in these hubs due to the sheer volume of cases.</p>
                     </div>
                     <div className="p-8 bg-gray-50 rounded-3xl border-l-8 border-l-black group hover:bg-black hover:text-white transition-all duration-500">
@@ -397,7 +397,7 @@ export default function DebtProgramComparisonPage() {
                 <h2 className="text-2xl md:text-3xl font-black mb-8 text-[#2E2E2E] uppercase tracking-tighter">The Life After Debt Roadmap</h2>
                 <div className="grid md:grid-cols-3 gap-10">
                     <div className="space-y-4">
-                        <h4 className="font-black text-[#1F5EFF] uppercase text-xs tracking-widest">Phase 1: Months 1-12</h4>
+                        <h3 className="font-black text-[#1F5EFF] uppercase text-xs tracking-widest">Phase 1: Months 1-12</h3>
                         <p className="text-sm font-bold opacity-75 leading-relaxed">Focus on 'Credit Silence'. Do not apply for any new loans. Ensure all utilities are in your name and paid on time. Receive your No Dues Certificate and verify it with CIBIL. If the tag is 'Written-off', use your sanction letter to dispute and change it to 'Settled'.</p>
                     </div>
                     <div className="space-y-4">
@@ -418,7 +418,7 @@ export default function DebtProgramComparisonPage() {
                  </div>
                  <div className="grid lg:grid-cols-2 gap-10">
                     <div className="p-10 bg-gray-50 rounded-[40px] border border-gray-100">
-                        <h4 className="font-black text-lg mb-4 text-[#1F5EFF] uppercase">1. Gold Loan Management</h4>
+                        <h3 className="font-black text-lg mb-4 text-[#1F5EFF] uppercase">1. Gold Loan Management</h3>
                         <p className="text-sm font-bold opacity-70 leading-relaxed mb-6">Gold loans are 'Asset-Rich'. Banks will almost never offer a settlement because they can simply auction your gold. In this case, 'Consolidation' or 'Refinancing' is the only option. We help you move your gold to a lower-interest lender before the auction date to save your family's assets.</p>
                     </div>
                     <div className="p-10 bg-gray-50 rounded-[40px] border border-gray-100">
@@ -446,7 +446,7 @@ export default function DebtProgramComparisonPage() {
                       { t: "Credit Utilization Ratio", d: "The percentage of your total available credit that you are currently using. Keeping this below 30% is vital for score repair." }
                     ].map((term, i) => (
                       <div key={i} className="border-b border-white/10 pb-6 group">
-                         <h4 className="text-[#1F5EFF] font-black text-xl mb-2 group-hover:scale-110 origin-left transition-transform uppercase">{term.t}</h4>
+                         <h3 className="text-[#1F5EFF] font-black text-xl mb-2 group-hover:scale-110 origin-left transition-transform uppercase">{term.t}</h3>
                          <p className="text-sm font-bold text-white/50 leading-relaxed italic">{term.d}</p>
                       </div>
                     ))}
@@ -464,7 +464,7 @@ export default function DebtProgramComparisonPage() {
                     ].map((item, i) => (
                       <div key={i} className="bg-white p-6 rounded-3xl border border-gray-100 shadow-sm flex flex-col items-center text-center">
                         <div className={`w-3 h-3 rounded-full mb-4 ${item.color} animate-pulse`}></div>
-                        <h4 className="font-black text-lg mb-2">{item.tag}</h4>
+                        <h3 className="font-black text-lg mb-2">{item.tag}</h3>
                         <p className="text-[10px] font-bold text-gray-400 leading-relaxed italic">{item.desc}</p>
                       </div>
                     ))}
@@ -477,7 +477,7 @@ export default function DebtProgramComparisonPage() {
                     <div className="flex gap-10 items-start p-10 bg-white border border-gray-100 rounded-[50px] shadow-sm hover:shadow-2xl transition-all border-b-[16px] border-b-[#1F5EFF]/10">
                         <div className="w-16 h-16 bg-[#1F5EFF] text-white rounded-full flex-shrink-0 flex items-center justify-center font-black text-2xl">A</div>
                         <div>
-                            <h4 className="text-2xl font-black mb-4">The 'Liquidity' Path (Consolidation)</h4>
+                            <h3 className="text-2xl font-black mb-4">The 'Liquidity' Path (Consolidation)</h3>
                             <p className="text-lg font-bold text-gray-600 mb-4">You have a job. You can pay. But You are exhausted by 10 different EMI dates and high card interest.</p>
                             <span className="text-xs font-black uppercase text-[#1F5EFF] tracking-[0.2em] bg-blue-50 px-4 py-2 rounded-full">Score Focus: High</span>
                         </div>
@@ -527,7 +527,7 @@ export default function DebtProgramComparisonPage() {
                                <div className="w-16 h-16 bg-white border-4 border-[#1F5EFF] rounded-full flex-shrink-0 flex items-center justify-center font-black group-hover:bg-[#1F5EFF] group-hover:text-white transition-all transform group-hover:scale-125">{i+1}</div>
                                <div>
                                    <p className="text-[#1F5EFF] font-black uppercase text-xs tracking-widest mb-2">{item.m}</p>
-                                   <h4 className="text-2xl font-black mb-4 group-hover:text-[#1F5EFF] transition-colors">{item.t}</h4>
+                                   <h3 className="text-2xl font-black mb-4 group-hover:text-[#1F5EFF] transition-colors">{item.t}</h3>
                                    <p className="text-gray-500 font-bold leading-relaxed">{item.d}</p>
                                </div>
                            </div>
@@ -540,7 +540,7 @@ export default function DebtProgramComparisonPage() {
                 <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Legal Frameworks & Scam Prevention</h2>
                 <div className="grid md:grid-cols-2 gap-10 mb-16">
                     <div className="p-10 bg-red-50 rounded-[40px] border border-red-100">
-                        <h4 className="text-red-700 font-black mb-6 uppercase tracking-widest text-sm">Legal Armor</h4>
+                        <h3 className="text-red-700 font-black mb-6 uppercase tracking-widest text-sm">Legal Armor</h3>
                         <div className="space-y-4 text-xs font-bold leading-relaxed text-red-900/70">
                             <p><strong>Section 138 (Cheque Bounce):</strong> A criminal case, but settle-able. Professional firms prioritize these to clear your name from the courts.</p>
                             <p><strong>SARFAESI Section 13(2):</strong> The '60-day notice'. Your crucial window to negotiate settlement before the bank takes 'Constructive Possession'.</p>
@@ -599,7 +599,7 @@ export default function DebtProgramComparisonPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -649,7 +649,7 @@ export default function DebtProgramComparisonPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">We are in This Together</h3>
+                  <div className="text-lg font-black text-white">We are in This Together</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -664,7 +664,7 @@ export default function DebtProgramComparisonPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement-lawyers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

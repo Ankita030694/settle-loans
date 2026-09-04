@@ -175,7 +175,7 @@ export default function GovernmentApprovedFAQ() {
                                 Under these guidelines, banks are mandated to have a board-approved policy describing the criteria for classifying a borrower as eligible for settlement. Crucially, the RBI has emphasized that settlements should be based on the borrower's "ability to pay" rather than just their "willingness to pay." This means that if you can prove genuine financial hardship through medical bills, unemployment records, or business failure audits, the bank is legally empowered (and encouraged) to offer you a waiver.
                             </p>
                             <div className="p-8 bg-gray-50 border border-gray-100 rounded-3xl mb-8">
-                                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">Key Takeaways from the RBI Framework:</h4>
+                                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">Key Takeaways from the RBI Framework:</h3>
                                 <ul className="space-y-4">
                                     <li className="flex gap-3">
                                         <FontAwesomeIcon icon={faCheck} className="text-green-600 mt-1" />
@@ -204,7 +204,7 @@ export default function GovernmentApprovedFAQ() {
                                 When a bank files a suit against a borrower or when a borrower wants to proactively settle, the case can be referred to a Lok Adalat. The beauty of this system is that any settlement reached here has the status of a "Civil Court Decree" and is binding on both parties. There is no court fee, and if any fee was paid previously in a regular court, it is refunded upon settlement.
                             </p>
                             <div className="bg-[#2E2E2E] p-10 rounded-3xl text-white mb-12 shadow-xl">
-                                <h4 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase tracking-tighter">Why Choose Lok Adalat for Settlement?</h4>
+                                <h3 className="text-2xl font-black mb-6 text-[#1F5EFF] uppercase tracking-tighter">Why Choose Lok Adalat for Settlement?</h3>
                                 <ul className="space-y-6">
                                     <li className="flex gap-4">
                                         <FontAwesomeIcon icon={faGavel} className="text-[#1F5EFF] w-6 h-6" />
@@ -257,7 +257,7 @@ export default function GovernmentApprovedFAQ() {
                                 The <strong>Right to Privacy</strong>, recognized as a fundamental right in the <strong>Puttaswamy judgment (2017)</strong>, also plays a major role in debt resolution. Banks and their third-party agents are prohibited from sharing your loan details with anyone other than the official credit bureaus. If an agent creates a WhatsApp group with your relatives and posts your default details, it is a direct violation of your constitutional right to privacy.
                             </p>
                             <div className="bg-gray-100 p-8 rounded-3xl mb-12">
-                                <h4 className="text-2xl font-black mb-6 uppercase tracking-tighter">Your Constitutional Trio for Debt Defense:</h4>
+                                <h3 className="text-2xl font-black mb-6 uppercase tracking-tighter">Your Constitutional Trio for Debt Defense:</h3>
                                 <ul className="space-y-4">
                                     <li className="flex gap-4">
                                         <div className="w-6 h-6 rounded-full bg-blue-600 flex-shrink-0 flex items-center justify-center text-white text-xs font-bold">1</div>
@@ -337,7 +337,7 @@ export default function GovernmentApprovedFAQ() {
                                 One of the most important "Government-Approved" documents is the RBI's Fair Practices Code for Lenders. This is not just a suggestion; it is a regulatory mandate. It specifies that recovery agents must be trained, must carry identity cards, and must not resort to harassment or intimidation.
                             </p>
                             <div className="bg-yellow-50 p-8 rounded-3xl border border-yellow-200 mb-8">
-                                <h4 className="text-xl font-bold text-yellow-800 mb-4">Prohibited Practices under RBI Code:</h4>
+                                <h3 className="text-xl font-bold text-yellow-800 mb-4">Prohibited Practices under RBI Code:</h3>
                                 <ul className="list-disc pl-6 space-y-2 text-yellow-900">
                                     <li>Contacting individual borrowers before 8 AM or after 7 PM.</li>
                                     <li>Making false or misleading statements to intimidate borrowers.</li>
@@ -462,7 +462,7 @@ export default function GovernmentApprovedFAQ() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Legal Shield</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Legal Shield</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
@@ -475,7 +475,7 @@ export default function GovernmentApprovedFAQ() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Top Resources</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Top Resources</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li>
                                         <Link href="/faqs/contact-details-top-rated-debt-resolution-companies-india" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

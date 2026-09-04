@@ -806,7 +806,7 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Statutory Demand Notice &amp; Pre-Litigation Notice</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Statutory Demand Notice &amp; Pre-Litigation Notice</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Your legal counsel serves a formal advocate legal notice upon the bank&apos;s Managing Director, Principal Nodal Officer, and recovery agency head. The notice catalogs specific instances of illegal harassment, cites RBI Fair Practices Code violations, demands the immediate withdrawal of recovery agents, and warns of imminent civil and criminal proceedings if coercive actions do not cease within 48 hours.
                   </p>
@@ -1215,7 +1215,7 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Emergency Legal Injunction</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Are Recovery Agents Harassing You?</h4>
+              <div className="font-bold text-base text-white mb-2">Are Recovery Agents Harassing You?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not endure intimidation, abusive calls, or trespassing. Retain seasoned debt defense advocates to secure an urgent civil court stay order under Order 39 CPC and negotiate a 45%–65% OTS.
               </p>
@@ -1229,9 +1229,9 @@ export default function StayOrderAgainstBankLoanRecoveryPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

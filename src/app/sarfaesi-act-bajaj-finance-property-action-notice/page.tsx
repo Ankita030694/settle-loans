@@ -235,9 +235,9 @@ export default function Page() {
               </p>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">
                   Key Differences in NBFC Recovery
-                </h4>
+                </h3>
                 <div className="space-y-4">
                   <div className="flex items-start gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -305,7 +305,7 @@ export default function Page() {
               </div>
 
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-3">Critical Warning</h4>
+                <h3 className="text-xl font-black text-red-700 mb-3">Critical Warning</h3>
                 <p className="text-lg text-red-900">
                   Do not wait for physical possession proceedings to begin before taking legal action. Once the CMM/DM order is passed under Section 14, obtaining a stay order becomes significantly more difficult and expensive.
                 </p>
@@ -322,7 +322,7 @@ export default function Page() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Filing SA under Section 17</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Filing SA under Section 17</h3>
                   <p className="text-gray-700">
                     You can file a Securitisation Application (SA) before the Debt Recovery Tribunal (DRT) challenging the actions taken by the NBFC under Section 13(4).
                   </p>
@@ -449,7 +449,7 @@ export default function Page() {
             <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
               <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
               <div className="relative z-10">
-                <h4 className="text-2xl font-black mb-4">Received a 13(2) Notice?</h4>
+                <div className="text-2xl font-black mb-4">Received a 13(2) Notice?</div>
                 <p className="text-gray-300 mb-6 text-sm">You only have 60 days to respond. Don't risk symbolic possession.</p>
                 <Link href="#contact" className="inline-block w-full bg-[#1F5EFF] hover:bg-white hover:text-[#1F5EFF] text-white font-bold py-3 px-6 rounded-xl transition-all duration-300 text-sm">
                   Talk to an Expert
@@ -458,9 +458,9 @@ export default function Page() {
             </div>
 
             <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-              <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+              <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                 Related Resources
-              </h4>
+              </div>
               <ul className="space-y-4">
                 <li>
                   <Link href="/npa-account-regularisation" className="flex items-center text-gray-700 hover:text-[#1F5EFF] text-sm font-medium group transition-colors">

@@ -29,7 +29,7 @@ const ReviewSnippets: React.FC<ReviewSnippetsProps> = ({ reviews, title = "Clien
                                 {review.name.charAt(0)}
                             </div>
                             <div>
-                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                <div className="font-bold text-[#2E2E2E]">{review.name}</div>
                                 <p className="text-xs text-gray-400">{review.loc}</p>
                             </div>
                             <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">

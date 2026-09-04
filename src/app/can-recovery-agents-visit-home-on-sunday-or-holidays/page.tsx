@@ -543,10 +543,10 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
               </p>
               
               <div className="bg-slate-50 border border-slate-200 rounded-2xl p-5 my-4">
-                <h4 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
+                <h3 className="font-bold text-slate-900 text-sm mb-3 flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                   <span>Penal Consequences for Unlawful Holiday Recovery Conduct</span>
-                </h4>
+                </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs text-slate-700">
                   <div className="p-3 bg-white rounded-xl border border-slate-200">
                     <p className="font-bold text-slate-900 mb-1">Section 329 BNS: Criminal House-Trespass</p>
@@ -971,11 +971,11 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm">
+                  <div className="font-bold text-slate-900 text-sm">
                     <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
               </div>
@@ -1000,7 +1000,7 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Legal Protection</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Agents Harassing You on Weekends or Holidays?</h4>
+              <div className="font-bold text-base text-white mb-2">Agents Harassing You on Weekends or Holidays?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not endure unannounced doorstep harassment during family time. Retain our senior banking advocates to issue immediate Cease-and-Desist notices, enforce RBI visit limits, and negotiate a 40%–65% OTS.
               </p>
@@ -1014,9 +1014,9 @@ export default function CanRecoveryAgentsVisitHomeOnSundayOrHolidaysPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

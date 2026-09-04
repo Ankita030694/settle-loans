@@ -288,7 +288,7 @@ export default function CheckLoanStatusPANPage() {
               
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Synthetic Identity Fraud</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Synthetic Identity Fraud</h3>
                   <p className="text-gray-700 leading-relaxed">
                     Criminals combine real information (your PAN card number) with fake information (a burner phone number and a forged address). The automated system checks the PAN, sees a good CIBIL score, and approves the loan, sending the money to the fraudster.
                   </p>
@@ -371,7 +371,7 @@ export default function CheckLoanStatusPANPage() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Unknown NBFCs</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Unknown NBFCs</h3>
                   <p className="text-gray-700 leading-relaxed">
                     Fraudsters rarely use major banks. Look for strange NBFC names or obscure digital lending partners that you have never done business with.
                   </p>
@@ -406,7 +406,7 @@ export default function CheckLoanStatusPANPage() {
               </p>
 
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Your Key Legal Protections</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Your Key Legal Protections</h3>
                 <p className="text-blue-900 text-lg leading-relaxed mb-4">
                   Under the RBI's Fair Practices Code and Digital Lending Guidelines, you have specific rights when dealing with fraudulent loans:
                 </p>
@@ -440,7 +440,7 @@ export default function CheckLoanStatusPANPage() {
               </p>
 
               <div className="bg-white p-8 border border-[#DEDEDE] rounded-2xl shadow-sm mb-8">
-                <h4 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Immediate Action Plan</h4>
+                <h3 className="text-xl font-bold mb-4 text-[#2E2E2E] underline">Immediate Action Plan</h3>
                 <ul className="text-sm space-y-3 font-medium list-none text-gray-700">
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>1. File an FIR / Cyber Complaint:</strong> Go to the cybercrime portal or local police station. An FIR is critical to legally prove identity theft.</li>
                   <li className="flex items-start gap-2"><span className="w-1.5 h-1.5 bg-[#1F5EFF] rounded-full mt-2"></span> <strong>2. Dispute with Bureau:</strong> Log into CIBIL/Experian and raise an official dispute against the fraudulent account number.</li>
@@ -466,7 +466,7 @@ export default function CheckLoanStatusPANPage() {
               
               <div className="space-y-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-2">1. Mask Your Copies</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-2">1. Mask Your Copies</h3>
                   <p className="text-gray-700 leading-relaxed">
                     Never share photocopies of your PAN card with unverified entities. If you must submit a copy for official purposes, clearly write the date and specific purpose across the photocopy (e.g., "Submitted to XYZ Bank for KYC only on 15/08"). This makes the physical copy extremely hard to reuse.
                   </p>
@@ -499,7 +499,7 @@ export default function CheckLoanStatusPANPage() {
                       RM
                     </div>
                     <div>
-                      <h4 className="font-bold text-gray-900">Rahul M.</h4>
+                      <h3 className="font-bold text-gray-900">Rahul M.</h3>
                       <div className="flex text-yellow-400">
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
                         <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
@@ -552,7 +552,7 @@ export default function CheckLoanStatusPANPage() {
               <div className="space-y-4">
                 {jsonLd["@graph"].find(item => item["@type"] === "FAQPage")?.mainEntity?.map((faq: any, index: number) => (
                   <div key={index} className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h4>
+                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">{faq.name}</h3>
                     <p className="text-gray-700 leading-relaxed">{faq.acceptedAnswer.text}</p>
                   </div>
                 ))}
@@ -583,7 +583,7 @@ export default function CheckLoanStatusPANPage() {
             <div className="sticky top-24 space-y-6">
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
-                <h4 className="text-xl font-black mb-4 relative z-10">Found Fake Loans?</h4>
+                <div className="text-xl font-black mb-4 relative z-10">Found Fake Loans?</div>
                 <p className="text-sm opacity-90 mb-6 relative z-10">
                   Don't let fraudsters ruin your credit score. We help you take immediate legal action and wipe fraud entries.
                 </p>
@@ -593,9 +593,9 @@ export default function CheckLoanStatusPANPage() {
               </div>
 
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Legal Resources
-                </h4>
+                </div>
                 <ul className="space-y-3">
                   <li>
                     <Link href="/how-to-improve-cibil-score" className="text-sm text-gray-600 hover:text-[#1F5EFF] flex items-center group">

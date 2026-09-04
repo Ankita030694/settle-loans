@@ -210,7 +210,7 @@ export default function RBIRecoveryGuidelines2026Page() {
                     {/* Left Column: TOC */}
                     <aside className="hidden lg:block w-1/5 min-w-[240px] relative">
                         <div className="sticky top-32">
-                            <h3 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Regulatory Index</h3>
+                            <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-8 pb-4 border-b-2 border-blue-50">Regulatory Index</div>
                             <TableOfContents
                                 items={[
                                     { id: "new-era-of-recovery", title: "2026 Overview" },
@@ -259,7 +259,7 @@ export default function RBIRecoveryGuidelines2026Page() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 my-12">
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 shadow-sm transition-all hover:border-[#1F5EFF]/30 group">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase group-hover:italic transition-all">Verbal & Physical Abuse</h4>
+                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase group-hover:italic transition-all">Verbal & Physical Abuse</h3>
                                     <p className="text-sm leading-relaxed font-bold">Use of abusive language, shouting, or any form of physical threat (implied or direct) is a top-tier violation. Agents must maintain a professional and courteous tone at all times.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-[40px] border border-gray-100 shadow-sm transition-all hover:border-[#1F5EFF]/30 group">
@@ -311,7 +311,7 @@ export default function RBIRecoveryGuidelines2026Page() {
                                 Lenders are now required to maintain a digital database of these certified agents. When an agent visits you or calls you, they are legally bound to provide their certification details upon request. If an agent cannot prove their certification, the borrower has the right to refuse interaction and report the bank for engaging unverified personnel. This move ensures that the first line of recovery consists of professionals who understand the law, rather than muscle-men who seek to bypass it.
                             </p>
                             <div className="bg-orange-50 p-10 rounded-[32px] border-2 border-orange-100 my-12">
-                                <h4 className="text-2xl font-black text-orange-900 mb-4 uppercase italic">Verification Check</h4>
+                                <h3 className="text-2xl font-black text-orange-900 mb-4 uppercase italic">Verification Check</h3>
                                 <p className="text-lg text-orange-800 leading-relaxed font-bold">
                                     Always ask for the "IIBF Registration Number" during your first interaction with a recovery agent. A legitimate professional will have no hesitation in providing it. An intimidator will likely hang up.
                                 </p>
@@ -378,7 +378,7 @@ export default function RBIRecoveryGuidelines2026Page() {
                                 The Ombudsman functions as a quasi-judicial authority. They have the power to not only stop the harassment but also order the bank to pay compensation for psychological distress and loss of reputation. In recent cases, the Ombudsman has awarded amounts ranging from ₹25,000 to ₹1,00,000 for verified Fair Practices Code violations. The new guidelines strengthen the Ombudsman's hand by making it mandatory for banks to provide call recordings and interaction logs upon request, significantly simplifying the burden of proof for the borrower.
                             </p>
                             <div className="bg-[#1F5EFF]/5 border-2 border-dashed border-[#1F5EFF]/20 p-10 rounded-[40px] my-12">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase">The "30-Day Window" Rule</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-4 uppercase">The "30-Day Window" Rule</h3>
                                 <p className="text-lg leading-relaxed font-medium">
                                     Do not wait indefinitely for the bank to "investigate" itself. At the exact 31st day, if your harassment complaint hasn't been resolved with a written apology or a stop-contact order, file your online complaint at <strong>cms.rbi.org.in</strong>. This is your most effective constitutional weapon.
                                 </p>
@@ -424,7 +424,7 @@ export default function RBIRecoveryGuidelines2026Page() {
                             <p className="mb-8 leading-relaxed">As the new guidelines take effect, every borrower should maintain a 'Documentation Shield' to ensure their rights are effectively enforced.</p>
                             <div className="space-y-6">
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100 shadow-sm">
-                                    <h4 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">1. Communication Log</h4>
+                                    <h3 className="text-xl font-black text-[#1F5EFF] mb-4 uppercase">1. Communication Log</h3>
                                     <p className="text-sm font-medium leading-relaxed">Keep a recording of every call. Note the date, time, and the name of the agent. This is your primary evidence for an Ombudsman complaint.</p>
                                 </div>
                                 <div className="p-8 bg-gray-50 rounded-3xl border border-gray-100 shadow-sm">
@@ -463,7 +463,7 @@ export default function RBIRecoveryGuidelines2026Page() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -525,7 +525,7 @@ export default function RBIRecoveryGuidelines2026Page() {
                             {/* CTA Card */}
                             <div className="bg-[#2E2E2E] rounded-[32px] shadow-2xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-6 text-white text-center">
-                                    <h3 className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Legal<br />Emergency?</h3>
+                                    <div className="text-2xl font-black mb-2 uppercase tracking-tighter leading-none">Legal<br />Emergency?</div>
                                     <p className="opacity-80 text-[10px] font-black uppercase tracking-[0.2em]">Contact Authority Now</p>
                                 </div>
                                 <div className="p-8">
@@ -541,7 +541,7 @@ export default function RBIRecoveryGuidelines2026Page() {
 
                             {/* Related Pages Widget */}
                             <div className="bg-white rounded-[32px] p-8 border border-gray-100 shadow-sm text-left">
-                                <h4 className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Defense Hub</h4>
+                                <div className="text-xs font-black uppercase tracking-[0.2em] text-[#1F5EFF] mb-6 border-b border-blue-50 pb-4">Defense Hub</div>
                                 <nav className="space-y-4">
                                     <Link href="/best-nbfc-loan-settlement-lawyer" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">NBFC Resolution</Link>
                                     <Link href="/loan-agreement-drafting-review" className="block text-sm font-bold text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight italic">Agreement Mastery</Link>

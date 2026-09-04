@@ -230,9 +230,9 @@ export default function BankHarassmentLawyerPage() {
                                 The Reserve Bank of India (RBI) has issued clear, non-negotiable guidelines that banks and NBFCs must follow. Furthermore, the Supreme Court of India has consistently held that 'musclemen' have no place in a civil society. When you are being harassed, you are not just a 'defaulter' in the eyes of the bank; you are a victim in the eyes of the law.
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-2xl border-l-4 border-[#1F5EFF] my-10 shadow-sm">
-                                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4 uppercase tracking-wider italic">
+                                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4 uppercase tracking-wider italic">
                                     A Message of Hope:
-                                </h4>
+                                </h3>
                                 <p className="text-gray-700 leading-relaxed italic">
                                     "No bank, no matter how powerful, is above the law. The same legal system they use to recover money is the system we use to protect your dignity. A single well-drafted legal notice citing RBI Master Circulars is often enough to silence the loudest recovery agent."
                                 </p>
@@ -316,7 +316,7 @@ export default function BankHarassmentLawyerPage() {
                             </ul>
                             <div className="bg-[#2E2E2E] p-8 rounded-[2rem] text-white my-12 shadow-2xl relative overflow-hidden">
                                 <div className="absolute -bottom-12 -right-12 w-48 h-48 bg-[#1F5EFF]/10 rounded-full"></div>
-                                <h4 className="text-2xl font-bold mb-4 relative z-10">Pro Tip: The CMS Portal</h4>
+                                <h3 className="text-2xl font-bold mb-4 relative z-10">Pro Tip: The CMS Portal</h3>
                                 <p className="opacity-90 leading-relaxed relative z-10">The RBI's 'Complaint Management System' (CMS) is a digital platform where we file your complaints. Every complaint filed here is tracked by the RBI, and the bank must respond on the portal. This 'paper trail' is your greatest asset in stopping harassment.</p>
                             </div>
                         </section>
@@ -330,7 +330,7 @@ export default function BankHarassmentLawyerPage() {
                             </p>
                             <div className="space-y-6">
                                 <div className="p-6 bg-gray-50 rounded-xl border-l-4 border-red-500">
-                                    <h4 className="font-bold text-lg mb-2">Section 503 & 506: Criminal Intimidation</h4>
+                                    <h3 className="font-bold text-lg mb-2">Section 503 & 506: Criminal Intimidation</h3>
                                     <p className="text-gray-700 text-sm">Threatening to cause injury to the person, reputation, or property to alarm them. Punishment: Up to 2 years in jail.</p>
                                 </div>
                                 <div className="p-6 bg-gray-50 rounded-xl border-l-4 border-red-500">
@@ -381,7 +381,7 @@ export default function BankHarassmentLawyerPage() {
                                 <li><strong>The Formal Objection:</strong> Send an email to the bank's Nodal Officer daily, reporting the instances of harassment. This establishes that you tried to resolve the matter internally before moving the court.</li>
                             </ul>
                             <div className="bg-blue-50 p-8 rounded-2xl border border-blue-100 my-10 shadow-sm">
-                                <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Expert Advice:</h4>
+                                <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Expert Advice:</h3>
                                 <p className="text-[#2E2E2E] text-sm font-medium">Do not get angry or abusive with agents on the phone. They want you to lose your temper so they can record *you*. Stay calm, state that you are recording the call, and tell them your lawyer will contact them. This reversal of energy often unnerves them.</p>
                             </div>
                         </section>
@@ -400,14 +400,14 @@ export default function BankHarassmentLawyerPage() {
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl flex gap-4 items-start translate-y-0 hover:-translate-y-2 transition-transform duration-300">
                                     <div className="w-12 h-12 bg-green-50 rounded-full flex items-center justify-center shrink-0 font-bold text-green-600">₹</div>
                                     <div>
-                                        <h5 className="font-bold text-[#2E2E2E] mb-1">Mental Agony</h5>
+                                        <h3 className="font-bold text-[#2E2E2E] mb-1">Mental Agony</h3>
                                         <p className="text-xs text-gray-500 italic">Compensation for the stress and trauma caused to you and your family.</p>
                                     </div>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl flex gap-4 items-start translate-y-0 hover:-translate-y-2 transition-transform duration-300">
                                     <div className="w-12 h-12 bg-blue-50 rounded-full flex items-center justify-center shrink-0 font-bold text-blue-600">⚖</div>
                                     <div>
-                                        <h5 className="font-bold text-[#2E2E2E] mb-1">Reputational Loss</h5>
+                                        <h4 className="font-bold text-[#2E2E2E] mb-1">Reputational Loss</h4>
                                         <p className="text-xs text-gray-500 italic">If they contacted your office or neighbors, you can claim for defamation.</p>
                                     </div>
                                 </div>
@@ -483,7 +483,7 @@ export default function BankHarassmentLawyerPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -503,7 +503,7 @@ export default function BankHarassmentLawyerPage() {
                             </h2>
                             <div className="space-y-8">
                                 <div className="border-b border-gray-100 pb-6">
-                                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-3">1. Can a recovery agent call my friends or relatives?</h4>
+                                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-3">1. Can a recovery agent call my friends or relatives?</h3>
                                     <p className="text-gray-700 leading-relaxed text-lg font-medium">No. Under RBI's 'Fair Practices Code' and the 'Right to Privacy', banks and their agents are strictly prohibited from disclosing your debt status to third parties, including neighbors, relatives, or office colleagues. This is a violation of the Duty of Confidentiality.</p>
                                 </div>
                                 <div className="border-b border-gray-100 pb-6">
@@ -550,7 +550,7 @@ export default function BankHarassmentLawyerPage() {
                         <div className="sticky top-32 space-y-8">
                             <div className="bg-[#2E2E2E] p-8 rounded-[24px] text-white shadow-xl relative overflow-hidden group">
                                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-full -mr-12 -mt-12 group-hover:scale-150 transition-transform duration-500"></div>
-                                <h4 className="text-2xl font-black mb-4 relative z-10 leading-tight">Stop the Bullying Today</h4>
+                                <div className="text-2xl font-black mb-4 relative z-10 leading-tight">Stop the Bullying Today</div>
                                 <p className="text-[#DEDEDE]/80 text-sm mb-8 relative z-10 font-medium">Get expert legal protection against recovery agents and threatening bank calls.</p>
                                 <Link href="/contact" className="block w-full text-center bg-[#1F5EFF] text-white font-bold py-4 rounded-xl hover:bg-white hover:text-[#1F5EFF] transition-all duration-300 shadow-lg relative z-10">
                                     Get Legal Shield
@@ -558,7 +558,7 @@ export default function BankHarassmentLawyerPage() {
                             </div>
 
                             <div className="bg-white border border-[#DEDEDE] p-8 rounded-[24px] shadow-sm">
-                                <h4 className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Related Topics</h4>
+                                <div className="text-xl font-black text-[#2E2E2E] mb-6 uppercase tracking-wider text-sm">Related Topics</div>
                                 <ul className="space-y-4">
                                     <li>
                                         <Link href="/best-lawyer-for-unsecured-loan" className="group flex items-center gap-3 text-[#747474] hover:text-[#1F5EFF] transition-colors font-bold text-sm">

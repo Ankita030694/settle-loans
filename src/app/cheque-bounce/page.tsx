@@ -438,7 +438,7 @@ export default function ChequeBouncePage() {
               Since Sec 138 is a "Bailable Offense", you have the right to get bail. You do not need to go to jail if you follow the procedure correctly on the first date of hearing.
             </p>
             <div className="bg-[#E3EDFF]/20 border border-[#DEDEDE] rounded-2xl p-8">
-              <h4 className="font-black text-[#1F5EFF] mb-4">Steps to Secure Bail:</h4>
+              <h3 className="font-black text-[#1F5EFF] mb-4">Steps to Secure Bail:</h3>
               <ol className="list-decimal list-inside space-y-4 text-[#2E2E2E] opacity-90">
                 <li><strong>Appearance:</strong> You MUST appear in court on the date mentioned in the summons. Do not skip this.</li>
                 <li><strong>Bail Bond:</strong> Your lawyer will file a "Bail Bond" (Personal Bond) usually of ₹10,000 to ₹50,000 depending on the cheque amount.</li>
@@ -480,7 +480,7 @@ export default function ChequeBouncePage() {
                            {item.step}
                        </div>
                        <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-6 bg-white rounded-xl border border-[#DEDEDE] shadow-sm hover:shadow-md transition-all">
-                           <h4 className="font-black text-[#2E2E2E] mb-1">{item.title}</h4>
+                           <h3 className="font-black text-[#2E2E2E] mb-1">{item.title}</h3>
                            <p className="text-sm text-[#2E2E2E]/80 leading-relaxed">{item.desc}</p>
                        </div>
                    </div>
@@ -502,7 +502,7 @@ export default function ChequeBouncePage() {
             </p>
             <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white p-5 rounded-lg border border-[#DEDEDE] shadow-sm transition hover:shadow-md">
-                    <h4 className="font-black text-lg text-[#2E2E2E] mb-2">1. Security Cheque Misuse</h4>
+                    <h3 className="font-black text-lg text-[#2E2E2E] mb-2">1. Security Cheque Misuse</h3>
                     <p className="text-sm text-gray-600">If you gave a blank signed cheque as "Security" for a loan, and the lender filled a higher amount or presented it after the loan was closed.</p>
                 </div>
                 <div className="bg-white p-5 rounded-lg border border-[#DEDEDE] shadow-sm transition hover:shadow-md">
@@ -578,7 +578,7 @@ export default function ChequeBouncePage() {
                    
                    <div className="grid md:grid-cols-2 gap-6">
                       <div className="bg-white p-6 rounded-xl shadow-sm border border-[#DEDEDE]">
-                          <h4 className="font-black text-[#2E2E2E] text-xl mb-3">1. Assessment Stage</h4>
+                          <h3 className="font-black text-[#2E2E2E] text-xl mb-3">1. Assessment Stage</h3>
                           <p className="text-sm text-[#2E2E2E] mb-2">Before fighting, assess: Do you actually owe the money?</p>
                           <ul className="text-sm text-[#2E2E2E] list-disc list-inside opacity-80">
                              <li>If <strong>YES</strong>: Settle immediately to save legal costs.</li>
@@ -687,7 +687,7 @@ export default function ChequeBouncePage() {
              </h2>
              <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-red-50 p-6 rounded-xl border border-red-100">
-                    <h4 className="font-black text-red-900 mb-2">1. Ignoring the Summon</h4>
+                    <h3 className="font-black text-red-900 mb-2">1. Ignoring the Summon</h3>
                     <p className="text-sm text-red-800">
                         Thinking "If I don't receive it, they can't do anything." Reality: The court will issue a Bailable Warrant, then a Non-Bailable Warrant, and declare you a "Proclaimed Offender".
                     </p>
@@ -724,7 +724,7 @@ export default function ChequeBouncePage() {
                  </p>
                  <div className="grid md:grid-cols-2 gap-6 mt-6">
                     <div>
-                        <h4 className="font-black text-[#2E2E2E] mb-2">Who Gets Accused?</h4>
+                        <h3 className="font-black text-[#2E2E2E] mb-2">Who Gets Accused?</h3>
                         <ul className="list-disc list-inside text-sm text-gray-600 space-y-2">
                            <li>Managing Directors</li>
                            <li>Signatory Directors</li>
@@ -798,7 +798,7 @@ export default function ChequeBouncePage() {
               <p className="mb-6">The Supreme Court of India has consistently ruled to protect honest borrowers and encourage settlement.</p>
               <div className="grid md:grid-cols-2 gap-6">
                  <div className="bg-gray-50 p-6 rounded-xl border border-[#DEDEDE] hover:shadow-md transition-shadow">
-                      <h4 className="font-black text-[#2E2E2E] mb-2">Damodar S. Prabhu vs. Sayed Babalal H.</h4>
+                      <h3 className="font-black text-[#2E2E2E] mb-2">Damodar S. Prabhu vs. Sayed Babalal H.</h3>
                       <p className="text-sm text-[var(--color-text-body)] opacity-80">
                         <strong>Rule:</strong> Established graded guidelines for compounding. If you settle early (before trial), you pay no or less costs to legal services. Encourages early compromise.
                       </p>
@@ -928,7 +928,7 @@ export default function ChequeBouncePage() {
           <div className="sticky top-24 space-y-8">
              <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                <div className="bg-[#1F5EFF] p-4 text-center">
-                 <h3 className="text-lg font-black text-white">Got a Court Notice?</h3>
+                 <div className="text-lg font-black text-white">Got a Court Notice?</div>
                </div>
                  <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-black">
@@ -942,7 +942,7 @@ export default function ChequeBouncePage() {
              </div>
 
             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-              <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Services</h3>
+              <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Services</div>
               <ul className="space-y-4 text-sm font-black">
                  <li>
                   <Link href="/services/nbfc-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

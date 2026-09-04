@@ -476,7 +476,7 @@ export default function DigitalLendingSettlementPage() {
               <p className="text-lg leading-relaxed mb-6">Once the settlement is finalized and you have your No Dues Certificate, the real work of financial reconstruction begins. A settlement is a fresh start, but it requires a change in habits and a strategic approach to credit rebuilding.</p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl hover:shadow-md transition-shadow">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-tighter">Step 1: Verification</h4>
+                  <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-tighter">Step 1: Verification</h3>
                   <p className="text-sm">Within 60 days, check your CIBIL report. Ensure it is marked as "Settled." Use the CIBIL dispute portal if it still shows as "Overdue."</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl hover:shadow-md transition-shadow">
@@ -622,7 +622,7 @@ export default function DigitalLendingSettlementPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -677,12 +677,12 @@ export default function DigitalLendingSettlementPage() {
           <aside className="hidden lg:block w-1/5 min-w-[240px] relative">
             <div className="sticky top-32 space-y-8">
               <div className="bg-[#2E2E2E] p-8 rounded-2xl border border-[#1F5EFF]/20 shadow-xl">
-                <h3 className="text-xl font-black text-[#DEDEDE] mb-4">Struggling with App Loans?</h3>
+                <div className="text-xl font-black text-[#DEDEDE] mb-4">Struggling with App Loans?</div>
                 <p className="text-sm text-[#DEDEDE]/70 mb-6">Our legal experts have helped thousands settle their digital debts fairly.</p>
                 <Link href="/contact" className="block w-full text-center bg-[#1F5EFF] text-white font-bold py-3 px-4 rounded-lg hover:scale-105 transition-all">Free Consultation</Link>
               </div>
               <div className="bg-[#1F5EFF]/5 p-8 rounded-2xl border border-[#DEDEDE]">
-                <h3 className="text-lg font-black text-[#2E2E2E] mb-4">Related Knowledge</h3>
+                <div className="text-lg font-black text-[#2E2E2E] mb-4">Related Knowledge</div>
                 <ul className="space-y-4 text-sm font-bold text-[#1F5EFF]">
                   <li><Link href="/charities-that-pay-off-debt-in-india">Debt Relief Charities</Link></li>
                   <li><Link href="/best-apps-for-managing-and-settling-unsecured-loans">Top Debt Management Apps</Link></li>

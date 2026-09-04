@@ -300,7 +300,7 @@ export default function LoanSettlementInstallmentsPage() {
               </p>
               <div className="grid md:grid-cols-3 gap-4 my-8">
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
-                  <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-[#1F5EFF]">Zero Recovery Risk</h4>
+                  <h3 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-[#1F5EFF]">Zero Recovery Risk</h3>
                   <p className="text-sm">Recovering 50% in installments is mathematically superior to recovering 0% from a total write-off.</p>
                 </div>
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
@@ -328,7 +328,7 @@ export default function LoanSettlementInstallmentsPage() {
                 <li className="flex gap-4 items-start bg-white p-6 rounded-2xl border border-gray-100 shadow-sm">
                   <span className="w-10 h-10 rounded-full bg-blue-100 text-blue-600 flex items-center justify-center font-bold flex-shrink-0">1</span>
                   <div>
-                    <h4 className="font-bold text-[#2E2E2E] mb-2">Job Loss or Salary Cuts</h4>
+                    <h3 className="font-bold text-[#2E2E2E] mb-2">Job Loss or Salary Cuts</h3>
                     <p className="text-base">Layoffs, company closures, or a sudden end to employment are the most accepted reasons for financial hardship.</p>
                   </div>
                 </li>
@@ -356,7 +356,7 @@ export default function LoanSettlementInstallmentsPage() {
               <div className="space-y-12 mt-8">
                 <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20">
                   <div className="absolute top-0 left-[-9px] w-4 h-4 rounded-full bg-[#1F5EFF]"></div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">1. Honest Self-Assessment</h4>
+                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">1. Honest Self-Assessment</h3>
                   <p className="text-lg leading-relaxed">Calculate your total budget. Determine a realistic amount you can pay as a total settlement and break it down into monthly payments you are 100% sure you can meet.</p>
                 </div>
                 <div className="relative pl-8 border-l-2 border-[#1F5EFF]/20">
@@ -481,7 +481,7 @@ export default function LoanSettlementInstallmentsPage() {
                   <li className="flex items-start gap-4">
                     <span className="w-8 h-8 rounded-lg bg-[#1F5EFF] flex items-center justify-center font-bold flex-shrink-0">A</span>
                     <div>
-                      <h4 className="font-bold mb-1">Forensic Audit</h4>
+                      <h3 className="font-bold mb-1">Forensic Audit</h3>
                       <p className="opacity-80 text-sm">We analyze your entire profile for discrepancies in bank reporting or violations of RBI guidelines to gain early leverage.</p>
                     </div>
                   </li>
@@ -514,7 +514,7 @@ export default function LoanSettlementInstallmentsPage() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mt-16 mb-8 text-center">Real Stories of Installment Success</h2>
               <div className="grid md:grid-cols-2 gap-6 not-prose">
                 <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Small Business Owner (Pune)</h4>
+                  <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase text-xs tracking-widest">Small Business Owner (Pune)</h3>
                   <p className="text-sm italic mb-4">"Business dropped 70% during the slowdown. SettleLoans secured a 60% discount on my 15 lakh loan with a 6-month installment plan. I am finally debt-free and restarting today."</p>
                   <div className="flex justify-between items-center text-xs font-bold text-gray-500">
                     <span>Target: 15L</span>
@@ -613,7 +613,7 @@ export default function LoanSettlementInstallmentsPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -684,7 +684,7 @@ export default function LoanSettlementInstallmentsPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">We are in This Together</h3>
+                  <div className="text-lg font-black text-white">We are in This Together</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -699,7 +699,7 @@ export default function LoanSettlementInstallmentsPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement-lawyers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

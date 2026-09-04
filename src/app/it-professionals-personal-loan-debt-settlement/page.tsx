@@ -822,10 +822,10 @@ export default function ITProfessionalsLoanSettlementPage() {
 
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-xl border border-slate-200 bg-slate-50">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white text-xs font-black flex items-center justify-center">1</span>
                     Comprehensive Ledger Forensic Audit
-                  </h4>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Our banking specialists analyze your complete loan account statement, dissecting principal disbursed, total EMIs paid, unamortized interest, and illegitimate penalty charges. We establish the authentic core principal liability and compute target haircut thresholds.
                   </p>
@@ -1197,14 +1197,14 @@ export default function ITProfessionalsLoanSettlementPage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -1237,9 +1237,9 @@ export default function ITProfessionalsLoanSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Tech Debt Resolution Desk</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Facing High-Value Tech Debt Default?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Protect your career, eliminate recovery agent harassment, and halt recurring NACH bounce penalties. Let our experienced banking advocates audit your loan ledgers, shield your workplace, and negotiate a 45% to 65% OTS haircut directly with bank zonal desks.
               </p>
@@ -1253,10 +1253,10 @@ export default function ITProfessionalsLoanSettlementPage() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Tech Leaders Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

@@ -344,7 +344,7 @@ export default function P2PLoanSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-8">
                                 <div className="p-8 bg-blue-900/5 rounded-3xl border border-blue-100">
-                                    <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Strategic Transparency</h4>
+                                    <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Strategic Transparency</h3>
                                     <p className="text-sm leading-relaxed">Don't just say you can't pay. Show your P&L or bank statement. Individual investors are often empathetic to medical emergencies or family losses if they see genuine proof.</p>
                                 </div>
                                 <div className="p-8 bg-blue-900/5 rounded-3xl border border-blue-100">
@@ -366,7 +366,7 @@ export default function P2PLoanSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-6 mb-8">
                                 <div className="bg-white p-6 rounded-xl border border-gray-200">
-                                    <h4 className="font-bold text-lg mb-3">The "Anxious Saver"</h4>
+                                    <h3 className="font-bold text-lg mb-3">The "Anxious Saver"</h3>
                                     <p className="text-gray-700 text-sm">This investor has put a small amount (say ₹10,000) and panics when an EMI is missed. They are more likely to accept a quick settlement just to see some money back, as they fear a total loss.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-gray-200">
@@ -399,7 +399,7 @@ export default function P2PLoanSettlementPage() {
                                 P2P platforms operate nationally, but recovery practices often vary based on the borrower's location. This is because the legal infrastructure for debt recovery (Civil Courts, Consumer Forums, and Police Jurisdictions) is state-managed.
                             </p>
                             <div className="bg-gray-900 text-[#DEDEDE] p-8 rounded-3xl mb-8">
-                                <h4 className="text-xl font-bold mb-6 border-b border-white/10 pb-4">The P2P Recovery Map (Internal Industry Analysis):</h4>
+                                <h3 className="text-xl font-bold mb-6 border-b border-white/10 pb-4">The P2P Recovery Map (Internal Industry Analysis):</h3>
                                 <div className="space-y-6">
                                     <div>
                                         <p className="text-[#1F5EFF] font-bold mb-1 uppercase text-xs tracking-widest">Zone A: High-Tech Hubs (Karnataka, Telangana, Maharashtra)</p>
@@ -428,10 +428,10 @@ export default function P2PLoanSettlementPage() {
                                 One of the biggest risks in debt settlement is **Agent Fraud**. Scammers often pose as platform employees and ask you to transfer money to personal bank accounts.
                             </p>
                             <div className="bg-red-50 p-8 rounded-2xl border-2 border-red-100 mb-8">
-                                <h4 className="text-red-900 font-bold mb-4 flex items-center gap-2">
+                                <h3 className="text-red-900 font-bold mb-4 flex items-center gap-2">
                                     <FontAwesomeIcon icon={faShieldHalved} />
                                     The Golden Rule of P2P Payment
-                                </h4>
+                                </h3>
                                 <p className="text-red-800 leading-relaxed font-medium">
                                     Never pay a settlement amount to an individual. Every P2P platform uses a **Trustee-Controlled Escrow Account** (governed by banks like ICICI or Axis). Ensure the Virtual Account Number (VAN) matches the one provided in your official dashboard or the sanction letter.
                                 </p>
@@ -595,7 +595,7 @@ export default function P2PLoanSettlementPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white uppercase tracking-wider">Save on P2P</h3>
+                                    <div className="text-lg font-black text-white uppercase tracking-wider">Save on P2P</div>
                                 </div>
                                 <div className="p-8 text-center text-[#DEDEDE]">
                                     <p className="mb-8 text-sm opacity-80 leading-relaxed font-normal">
@@ -606,7 +606,7 @@ export default function P2PLoanSettlementPage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Top Resources</h3>
+                                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Top Resources</div>
                                 <ul className="space-y-4 text-sm font-medium">
                                     <li><Link href="/faqs/how-to-negotiate-personal-loan-settlement" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors"><span className="w-1.5 h-1.5 bg-gray-300 rounded-full mr-3 group-hover:bg-[var(--color-primary)]"></span>Personal Loan Tips</Link></li>
                                     <li><Link href="/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors"><span className="w-1.5 h-1.5 bg-gray-300 rounded-full mr-3 group-hover:bg-[var(--color-primary)]"></span>Joint Loan FAQ</Link></li>

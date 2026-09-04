@@ -481,10 +481,10 @@ export default function PersonalLoanSettlementPuneClient() {
 
               {/* Statutory Callout Box */}
               <div className="bg-slate-50 border-l-4 border-[#1F5EFF] p-5 rounded-r-2xl my-6">
-                <h4 className="text-slate-900 font-bold text-base mb-2 flex items-center gap-2">
+                <h3 className="text-slate-900 font-bold text-base mb-2 flex items-center gap-2">
                   <Info className="w-5 h-5 text-[#1F5EFF]" />
                   Section 138 NI Act &amp; Section 25 PSSA: Compoundable Quasi-Criminal Matters
-                </h4>
+                </h3>
                 <p className="text-slate-700 text-sm leading-relaxed">
                   While ordinary default is civil, the bouncing of repayment cheques or automated NACH mandates allows banks to file complaints under <strong>Section 138 of the Negotiable Instruments Act, 1881</strong> or <strong>Section 25 of the Payment and Settlement Systems Act, 2007</strong> before Judicial Magistrates in Pune. These offences are strictly bailable and legally compoundable under Section 147 of the NI Act. Upon concluding a negotiated One-Time Settlement, the bank is legally required to withdraw the complaint, extinguishing all criminal exposure.
                 </p>
@@ -950,14 +950,14 @@ export default function PersonalLoanSettlementPuneClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -990,9 +990,9 @@ export default function PersonalLoanSettlementPuneClient() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Pune Debt Defense Cell</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Facing Loan Default or Recovery Harassment in Pune?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Stop illegal recovery visits to Hinjewadi/Kharadi IT offices and residential societies. Let our banking advocates audit your loan accounts, issue statutory legal notices, and secure an authentic stamped OTS sanction letter.
               </p>
@@ -1006,10 +1006,10 @@ export default function PersonalLoanSettlementPuneClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Pune Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

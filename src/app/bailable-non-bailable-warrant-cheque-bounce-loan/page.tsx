@@ -590,9 +590,9 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Inder Mohan Goswami &amp; Another v. State of Uttaranchal (2007) 12 SCC 1
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The Supreme Court established unequivocal rules regarding personal liberty under Article 21 of the Constitution. The Court ruled that Non-Bailable Warrants must not be issued mechanically in the first instance. Courts must strictly follow a graded hierarchy: first issuing a summons, followed by a Bailable Warrant if the summons is ignored, and reserving Non-Bailable Warrants solely as a last resort when the court is fully satisfied that the accused is deliberately evading the judicial process.
                   </p>
@@ -746,9 +746,9 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
                     Step 1: Case Inspection, Vakalatnama Execution &amp; Certified Order Copies
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The defense advocate files a formal Memo of Appearance or Vakalatnama before the concerned trial court and conducts an immediate court diary and case file inspection. Counsel examines the summons service report, verifies whether postal acknowledgement cards were forged or unserved, obtains certified copies of the order sheets directing warrant issuance, and checks the exact warrant execution return date given to the local police station.
                   </p>
@@ -863,9 +863,9 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
                     1. Formal Compounding Application &amp; Judicial Acquittal Order
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Upon receipt of full settlement funds, the bank&apos;s authorized representative and the defense advocate jointly file a <strong>Compounding Application under Section 147 of the NI Act read with Section 320 CrPC / Section 359 BNSS</strong>. The complainant bank records its statement confirming full satisfaction of claims. The Magistrate passes a final judicial order recording the compounding of the offense. Under Section 320(8) CrPC / Section 359(8) BNSS, the compounding of an offense has the statutory effect of an <strong>absolute acquittal</strong> of the accused, permanently erasing any criminal taint.
                   </p>
@@ -1142,7 +1142,7 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
                 </Link>
                 <div>
                   <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
-                    <h4 className="font-bold text-slate-900 text-sm">Ashish Jhangra</h4>
+                    <div className="font-bold text-slate-900 text-sm">Ashish Jhangra</div>
                   </Link>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
@@ -1168,7 +1168,7 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Urgent Warrant Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Warrant Issued by Court for Loan Default?</h4>
+              <div className="font-bold text-base text-white mb-2">Warrant Issued by Court for Loan Default?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not wait for police execution. Our criminal defense advocates file immediate Section 70(2) recall petitions, secure bail, and negotiate out-of-court loan compounding.
               </p>
@@ -1182,9 +1182,9 @@ export default function BailableNonBailableWarrantChequeBounceLoanPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

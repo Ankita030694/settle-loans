@@ -605,10 +605,10 @@ export default function PersonalLoanSettlementVsClosureClient() {
 
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-2xl bg-white border border-slate-200 shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <CreditCard className="w-5 h-5 text-[#1F5EFF]" />
                     Phase 1: Secured Credit Cards (Immediate Qualification)
-                  </h4>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Following a loan settlement, traditional unsecured credit cards are unreachable for 12 months. However, <strong>Fixed Deposit (FD)-backed credit cards</strong> (such as IDFC FIRST WOW, Kotak 811 Dream Different, or OneCard) require zero credit score scrutiny. They report monthly active credit utilization to CIBIL, serving as the bedrock of your score rehabilitation.
                   </p>
@@ -647,10 +647,10 @@ export default function PersonalLoanSettlementVsClosureClient() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-6">
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-2 flex items-center gap-2">
                     <FileCheck className="w-5 h-5 text-emerald-600" />
                     Standard Loan Closure NDC
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed mb-3">
                     Certifies that all principal, interest, and charges have been paid in full without any contractual default or concession.
                   </p>
@@ -815,10 +815,10 @@ export default function PersonalLoanSettlementVsClosureClient() {
 
               <div className="space-y-4 my-6">
                 <div className="bg-slate-50 border border-slate-200 p-5 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-base mb-1.5 flex items-center gap-2">
                     <Landmark className="w-5 h-5 text-[#1F5EFF]" />
                     RBI Master Direction on Compromise Settlements (June 8, 2023)
-                  </h4>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     The RBI mandated all commercial banks, primary cooperative banks, and NBFCs to adopt board-approved policies for compromise settlements and technical write-offs. The framework provides a standardized statutory process for lenders to settle stressed loans without prejudice to prudential norms.
                   </p>
@@ -890,9 +890,9 @@ export default function PersonalLoanSettlementVsClosureClient() {
 
               <div className="space-y-4 my-6">
                 <div className="p-5 rounded-xl border border-slate-200 bg-slate-50">
-                  <h4 className="font-bold text-slate-900 text-base mb-1">
+                  <h3 className="font-bold text-slate-900 text-base mb-1">
                     Pillar 1: Establish Secured Credit Lines (FD-Backed Cards)
-                  </h4>
+                  </h3>
                   <p className="text-sm text-slate-600 leading-relaxed">
                     Open a fixed deposit of ₹25,000–₹50,000 with banks like IDFC FIRST or Kotak Mahindra to obtain a secured credit card. Use it for routine utility and grocery expenses, ensuring the card reports regular, active repayment cycles to CIBIL.
                   </p>
@@ -989,10 +989,10 @@ export default function PersonalLoanSettlementVsClosureClient() {
 
             {/* Regulatory Sources & References (Exactly 5 Links) */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 my-10">
-              <h4 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
+              <h3 className="text-sm font-bold uppercase tracking-wider text-slate-900 mb-4 flex items-center gap-2">
                 <Landmark className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Official Regulatory Sources &amp; Legal Authorities</span>
-              </h4>
+              </h3>
               <ul className="space-y-2.5 text-xs md:text-sm text-slate-600">
                 <li className="flex items-center gap-2">
                   <ExternalLink className="w-4 h-4 text-[#1F5EFF] flex-shrink-0" />
@@ -1131,14 +1131,14 @@ export default function PersonalLoanSettlementVsClosureClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Debt Settlement Strategist &amp; Consumer Rights Advocate
                   </p>
@@ -1171,9 +1171,9 @@ export default function PersonalLoanSettlementVsClosureClient() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Emergency Advocate Assistance</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Facing Recovery Harassment or Legal Court Notices?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Don&apos;t navigate bank pressure alone. Speak with an empaneled SettleLoans advocate to stop illegal harassment and negotiate a lawful OTS.
               </p>
@@ -1187,10 +1187,10 @@ export default function PersonalLoanSettlementVsClosureClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

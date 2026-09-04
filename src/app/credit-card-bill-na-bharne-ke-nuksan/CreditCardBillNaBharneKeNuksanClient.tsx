@@ -483,7 +483,7 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                     01
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-sm sm:text-base">Days 1 to 30: SMA-0 (Special Mention Account 0) &amp; Soft Collections</h4>
+                    <h3 className="font-bold text-slate-900 text-sm sm:text-base">Days 1 to 30: SMA-0 (Special Mention Account 0) &amp; Soft Collections</h3>
                     <p className="text-xs sm:text-sm text-slate-600 mt-1 leading-relaxed">
                       The cardholder misses the payment due date. The bank immediately applies late payment fees, revokes the grace period, and computes daily 42% APR interest plus GST. Automated IVR reminders, SMS warnings, and soft telephonic follow-ups begin. Credit bureaus (CIBIL, Experian, CRIF High Mark) record 30+ Days Past Due (DPD).
                     </p>
@@ -679,10 +679,10 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
 
               <div className="space-y-4 my-6">
                 <div className="p-4 rounded-xl border border-slate-200 bg-white">
-                  <h4 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
                     <FileCheck className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Advocate Legal Demand Notice (Contractual Recall)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs sm:text-sm text-slate-600 mt-1 leading-relaxed">
                     A standard 15-day or 30-day demand notice demanding repayment of total card dues plus compounded interest. It is a pre-litigation communication, not a court order. Responding through specialized legal counsel highlighting genuine financial hardship establishes documentary evidence for future compromise negotiations.
                   </p>
@@ -783,10 +783,10 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
                 <div className="p-4 rounded-xl border border-slate-200 bg-white shadow-sm">
-                  <h4 className="font-bold text-slate-900 text-sm mb-1.5 flex items-center gap-2">
+                  <h3 className="font-bold text-slate-900 text-sm mb-1.5 flex items-center gap-2">
                     <Check className="w-4 h-4 text-[#1F5EFF]" />
                     <span>Official Bank Letterhead &amp; Stamp</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The OTS Sanction Letter must be printed on official bank stationery featuring the bank&apos;s corporate logo, branch address, authorized signatory signature, employee ID, and official branch seal. Never accept agreements via plain text emails or WhatsApp messages.
                   </p>
@@ -1043,14 +1043,14 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                   </div>
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-base leading-tight">
+                  <div className="font-bold text-slate-900 text-base leading-tight">
                     <Link
                       href="/authors/ashish-jhangra"
                       className="hover:text-[#1F5EFF] transition-colors"
                     >
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500 font-medium">
                     Lead Banking Legal &amp; Debt Settlement Strategist
                   </p>
@@ -1083,9 +1083,9 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Credit Card Debt Defense</span>
               </div>
-              <h3 className="text-xl font-black mb-3 leading-tight">
+              <div className="text-xl font-black mb-3 leading-tight">
                 Trapped in 42% Card Interest?
-              </h3>
+              </div>
               <p className="text-xs text-white/90 leading-relaxed mb-5">
                 Halt aggressive recovery tele-calling and exponential finance charges immediately. Let our seasoned banking advocates audit your card statements, defend legal notices, negotiate directly with the bank credit committee, and secure up to 60%–70% debt waivers with authentic stamped sanction letters.
               </p>
@@ -1099,10 +1099,10 @@ export default function CreditCardBillNaBharneKeNuksanClient() {
 
             {/* Card 3: Trust Signals Card */}
             <div className="bg-slate-50 border border-slate-200 rounded-2xl p-6 shadow-sm">
-              <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
+              <div className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-4 flex items-center gap-2">
                 <ShieldCheck className="w-4 h-4 text-[#1F5EFF]" />
                 <span>Why Borrowers Trust SettleLoans</span>
-              </h4>
+              </div>
               <ul className="space-y-3.5 text-xs text-slate-600">
                 <li className="flex items-start gap-2.5">
                   <Check className="w-4 h-4 text-emerald-600 flex-shrink-0 mt-0.5" />

@@ -281,7 +281,7 @@ export default function CoBorrowerSettlementImpactPage() {
                 The backbone of almost every loan agreement in India is the principle of "Joint and Several Liability." This is a legal term that every co-applicant must memorize. In simple terms, it means the bank has the right to recover the <strong>entire</strong> amount from any one of the borrowers.
               </p>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-200 mb-8">
-                <h4 className="font-bold mb-4">What it actually means for you:</h4>
+                <h3 className="font-bold mb-4">What it actually means for you:</h3>
                 <ul className="space-y-4">
                   <li><strong>The "Solvent Party" Target:</strong> If the primary borrower has no assets but the co-borrower has a steady job or a house, the bank will spend 90% of its recovery energy on the co-borrower. They follow the "path of least resistance."</li>
                   <li><strong>No '50% Rule':</strong> There is no legal provision that says you only pay your share. You are legally a "Primary Debtor." If the loan is for 10 Lakhs, you owe 10 Lakhs.</li>
@@ -315,7 +315,7 @@ export default function CoBorrowerSettlementImpactPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-bold text-[#2E2E2E] mb-4">Primary Borrower Impact</h4>
+                  <h3 className="font-bold text-[#2E2E2E] mb-4">Primary Borrower Impact</h3>
                   <ul className="text-sm space-y-2 text-gray-600">
                     <li>• Status: 'Settled'</li>
                     <li>• Score Drop: 100-150 points</li>
@@ -343,7 +343,7 @@ export default function CoBorrowerSettlementImpactPage() {
               </p>
               <div className="space-y-6">
                 <div className="bg-white p-8 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-black text-xl mb-4">SARFAESI Act and Asset Seizure</h4>
+                  <h3 className="font-black text-xl mb-4">SARFAESI Act and Asset Seizure</h3>
                   <p className="text-sm leading-relaxed mb-4">
                     If the loan is secured (like a Home Loan or Loan Against Property), the bank can take possession of the security under the SARFAESI Act, 2002. If you are a co-borrower and also a co-owner of the property, your ownership stake is directly at risk. The bank can auction the property to recover its dues without needing a court order in many cases.
                   </p>
@@ -363,7 +363,7 @@ export default function CoBorrowerSettlementImpactPage() {
                 A "Settled" status is what bankers call a 'Red Flag.' Most automated credit approval systems will automatically reject any application where a previous settlement is present.
               </p>
               <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 mb-8">
-                <h4 className="font-bold text-blue-900 mb-4">How it hurts you in the long run:</h4>
+                <h3 className="font-bold text-blue-900 mb-4">How it hurts you in the long run:</h3>
                 <ul className="grid md:grid-cols-2 gap-4 text-sm text-blue-800">
                   <li>• Rejection of Credit Card applications.</li>
                   <li>• Refusal of Home Loan or Car Loan processing.</li>
@@ -404,7 +404,7 @@ export default function CoBorrowerSettlementImpactPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h4 className="font-bold mb-4">Right to Privacy</h4>
+                  <h3 className="font-bold mb-4">Right to Privacy</h3>
                   <p className="text-xs text-gray-600">Agents cannot call your workspace or shame you in your community just because you are a co-borrower. Your financial distress is private.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
@@ -541,7 +541,7 @@ export default function CoBorrowerSettlementImpactPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -612,7 +612,7 @@ export default function CoBorrowerSettlementImpactPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Protect Your Name</h3>
+                  <div className="text-lg font-black text-white">Protect Your Name</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -626,7 +626,7 @@ export default function CoBorrowerSettlementImpactPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Reads</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Reads</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement-lawyers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

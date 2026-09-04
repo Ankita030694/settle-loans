@@ -434,10 +434,10 @@ export default function DRTCaseDefencePage() {
                 The most urgent goal in any DRT case is to protect the status quo. If the bank is about to auction your property in 48 hours, you do not have time for a full trial. You need an "Interim Order" or a "Stay Order". This is a temporary command from the presiding officer that stops the bank from moving forward until the deeper issues of the case are explored.
               </p>
               <div className="bg-white p-8 rounded-2xl border-2 border-[#1F5EFF]/20 space-y-8">
-                <h4 className="font-bold text-center text-xl">The Three-Pronged Test for a Stay</h4>
+                <h3 className="font-bold text-center text-xl">The Three-Pronged Test for a Stay</h3>
                 <div className="grid md:grid-cols-3 gap-6">
                   <div className="text-center">
-                    <h5 className="font-bold mb-2">1. Prima Facie Case</h5>
+                    <h4 className="font-bold mb-2">1. Prima Facie Case</h4>
                     <p className="text-xs text-gray-500">You must show that on the face of it, you have a strong legal argument (e.g. a gross procedural error by the bank).</p>
                   </div>
                   <div className="text-center">
@@ -633,7 +633,7 @@ export default function DRTCaseDefencePage() {
               {/* Sidebar CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-5 text-center">
-                  <h3 className="text-lg font-black text-white px-2">Defend Your Future Today</h3>
+                  <div className="text-lg font-black text-white px-2">Defend Your Future Today</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -648,7 +648,7 @@ export default function DRTCaseDefencePage() {
 
               {/* Related Pages Component */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Technical Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Technical Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/best-lawyer-for-drt-case-defence-for-bank-loan-recovery" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

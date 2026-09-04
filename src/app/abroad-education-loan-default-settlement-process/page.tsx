@@ -555,9 +555,9 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
                     1. Maintenance and Welfare of Parents and Senior Citizens Act, 2007
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under this enactment, senior citizens (aged 60 and above) possess a fundamental right to live with dignity and safety. Subjecting elderly parents to psychological harassment, threats of destitution, or aggressive home visits constitutes actionable mental cruelty. Parents can petition the Maintenance Tribunal presided over by the Sub-Divisional Magistrate (SDM), which has statutory authority to issue protective restraining orders against lender agents and direct police protection.
                   </p>
@@ -822,9 +822,9 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border border-slate-200 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">
                     1. Mandatory Sanction Letter Clauses &amp; Entity Verification
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     The sanction letter must be issued on official lender letterhead, bearing a unique reference number, signature of an authorized Scale-IV/Zonal Credit Officer, and official company stamp. It must state the exact loan account number, name both the student borrower and co-borrower parents alongside their PAN numbers, specify the compromised settlement amount, outline payment deadlines, and contain an unambiguous covenant stating that upon receipt of the agreed amount, the lender waives all remaining claims and shall withdraw all pending court complaints or notices.
                   </p>
@@ -1106,7 +1106,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
                 </Link>
                 <div>
                   <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
-                    <h4 className="font-bold text-slate-900 text-sm">Ashish Jhangra</h4>
+                    <div className="font-bold text-slate-900 text-sm">Ashish Jhangra</div>
                   </Link>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
@@ -1132,7 +1132,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Urgent Expat &amp; Parent Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Are Lenders Harassing Parents in India?</h4>
+              <div className="font-bold text-base text-white mb-2">Are Lenders Harassing Parents in India?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let recovery agents intimidate your family. Our banking advocates issue immediate cease-and-desist notices, handle all court notices, and negotiate a structured international One-Time Settlement.
               </p>
@@ -1146,9 +1146,9 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

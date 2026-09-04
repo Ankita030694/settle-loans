@@ -405,7 +405,7 @@ export default function LoanSettlementForTradersPage() {
               <div className="space-y-12">
                   <div className="relative pl-12">
                       <div className="absolute left-0 top-0 w-8 h-8 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-bold">1</div>
-                      <h4 className="text-xl font-bold mb-3">Financial Audit & Internal Assessment</h4>
+                      <h3 className="text-xl font-bold mb-3">Financial Audit & Internal Assessment</h3>
                       <p className="text-gray-600 mb-3">Before approaching the bank, you need a crystal clear picture of your total debt across all lenders. We perform a deep dive into your business and personal finances to determine exactly how much you can realistically pay as a lump sum. This is your 'Settlement Budget'. We also identify which loans should be settled first based on interest rates and the level of legal risk.</p>
                        <p className="text-xs text-[#1F5EFF] font-bold">Tip: Never tell the bank your full budget in the first meeting. Always leave room for negotiation.</p>
                   </div>
@@ -570,7 +570,7 @@ export default function LoanSettlementForTradersPage() {
                         { RuleID: 10, r: "Ask for Professional Help", d: "Banks have full time lawyers and negotiators. You should have them too. Don't go into a gunfight with a knife." }
                     ].map((rule, idx) => (
                         <div key={idx} className="p-6 bg-white rounded-3xl border border-gray-100 shadow-sm transition-all hover:border-[#1F5EFF]/20">
-                            <h4 className="font-bold text-[#2E2E2E] mb-2">{idx + 1}. {rule.r}</h4>
+                            <h3 className="font-bold text-[#2E2E2E] mb-2">{idx + 1}. {rule.r}</h3>
                             <p className="text-sm text-gray-600 leading-relaxed">{rule.d}</p>
                         </div>
                     ))}
@@ -586,7 +586,7 @@ export default function LoanSettlementForTradersPage() {
                 </p>
                 <div className="space-y-8">
                     <div className="border-l-4 border-yellow-500 pl-6 py-4 bg-yellow-50/30">
-                        <h4 className="text-xl font-bold mb-3">The Recall Notice</h4>
+                        <h3 className="text-xl font-bold mb-3">The Recall Notice</h3>
                         <p className="text-gray-600 leading-relaxed">This is the first formal notice where the bank cancels your loan facility and asks for the full amount. This is the best time to start settlement talks. A proactive response here can often prevent the case from moving to more aggressive stages.</p>
                     </div>
                     <div className="border-l-4 border-orange-500 pl-6 py-4 bg-orange-50/30">
@@ -623,7 +623,7 @@ export default function LoanSettlementForTradersPage() {
                 <h2 className="text-4xl font-black text-[#2E2E2E] mb-12 text-center">Success Stories: Reclaiming the Market</h2>
                 <div className="space-y-8">
                     <div className="p-8 bg-white border border-gray-100 rounded-[2.5rem] shadow-sm hover:shadow-xl transition-all">
-                        <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">Cloth Merchant in Kanpur vs. PSU Bank</h4>
+                        <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">Cloth Merchant in Kanpur vs. PSU Bank</h3>
                         <p className="text-gray-600 leading-relaxed mb-4">
                             Mr. Singh had an OD limit of ₹85 Lakhs for his grocery wholesale business. Due to a major client's default, he fell into distress. The bank threatened to seize his warehouse. SettleLoans performed a forensic audit and found interest errors of ₹4 Lakhs. After four months of negotiation, the total dues were settled for ₹42 Lakhs, payable in three installments. This saved his business and his family home.
                         </p>
@@ -692,7 +692,7 @@ export default function LoanSettlementForTradersPage() {
             {/* CTA Container */}
             <div className="bg-[#2E2E2E] rounded-[2rem] overflow-hidden border border-[#1F5EFF]/20 shadow-2xl">
                 <div className="bg-[#1F5EFF] p-8 text-center text-white">
-                    <h3 className="text-2xl font-black mb-3">Free Case Check</h3>
+                    <div className="text-2xl font-black mb-3">Free Case Check</div>
                     <p className="opacity-80 text-sm">Find out if you qualify for a 40-70% debt reduction today.</p>
                 </div>
                 <div className="p-8">
@@ -718,7 +718,7 @@ export default function LoanSettlementForTradersPage() {
 
             {/* Related Pages Container */}
             <div className="bg-white rounded-[2rem] p-8 border border-gray-100 shadow-xl">
-                <h3 className="text-xl font-black text-[#2E2E2E] mb-6">Expert Solutions</h3>
+                <div className="text-xl font-black text-[#2E2E2E] mb-6">Expert Solutions</div>
                 <div className="space-y-4">
                     {[
                         { title: "MSME Owners Relief", href: "/loan-settlement-for-msme-owners" },

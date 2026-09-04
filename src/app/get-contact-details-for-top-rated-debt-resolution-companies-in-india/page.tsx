@@ -284,7 +284,7 @@ export default function ContactDetailsPage() {
                 <div className="flex items-start gap-4">
                   <div className="mt-1 w-6 h-6 rounded-full bg-blue-600 text-white flex items-center justify-center font-bold text-xs">A</div>
                   <div>
-                    <h4 className="font-bold text-blue-900">Official Registered Address</h4>
+                    <h3 className="font-bold text-blue-900">Official Registered Address</h3>
                     <p className="text-blue-800">2493AP, Block G, Sushant Lok 2, Sector 57, Gurugram, Haryana 122001</p>
                   </div>
                 </div>
@@ -335,7 +335,7 @@ export default function ContactDetailsPage() {
                 <div className="flex items-start gap-4">
                    <svg className="w-6 h-6 text-[#1F5EFF] mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
                   <div>
-                    <h4 className="font-bold">Gurgaon Office</h4>
+                    <h3 className="font-bold">Gurgaon Office</h3>
                     <p className="text-sm">4th Floor, 2493AP, Block G, Sushant Lok 2, Sector 57, Gurugram, Haryana 122001</p>
                   </div>
                 </div>
@@ -360,7 +360,7 @@ export default function ContactDetailsPage() {
                     <svg className="w-6 h-6 text-[#1F5EFF]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path></svg>
                   </div>
                   <div>
-                    <h4 className="font-bold text-white uppercase tracking-tighter">Toll Free Helpline</h4>
+                    <h3 className="font-bold text-white uppercase tracking-tighter">Toll Free Helpline</h3>
                     <p className="text-xl font-black text-[#1F5EFF]">1800-309-1902</p>
                   </div>
                 </div>
@@ -400,7 +400,7 @@ export default function ContactDetailsPage() {
                 <strong>FREED</strong> is India's first tech-enabled debt relief platform, focused on a unique savings-based model. They help you build a settlement fund and then negotiate on your behalf once you have enough saved.
               </p>
               <div className="bg-emerald-50 p-6 rounded-xl border border-emerald-100">
-                 <h4 className="font-bold text-emerald-900 mb-2">How to reach FREED:</h4>
+                 <h3 className="font-bold text-emerald-900 mb-2">How to reach FREED:</h3>
                  <p className="text-sm text-emerald-800 mb-4">You can start your journey at <strong>freed.care</strong> by taking their 2-minute eligibility quiz. They provide expert counseling sessions to help you evaluate if their program is right for your debt load.</p>
                  <Link href="https://freed.care" target="_blank" className="inline-flex items-center text-emerald-700 font-bold hover:underline">Visit freed.care →</Link>
               </div>
@@ -410,7 +410,7 @@ export default function ContactDetailsPage() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">Other Notable Firms</h2>
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                   <h4 className="font-bold mb-2">SolvFree</h4>
+                   <h3 className="font-bold mb-2">SolvFree</h3>
                    <p className="text-xs text-gray-500 mb-4">Leading platform for loan settlement and Credit Card negotiation.</p>
                    <Link href="https://solvfree.in" className="text-[#1F5EFF] text-xs font-black">Visit Site →</Link>
                 </div>
@@ -455,7 +455,7 @@ export default function ContactDetailsPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-tight">The Digital Advantage</h4>
+                  <h3 className="font-bold text-[#1F5EFF] mb-2 uppercase tracking-tight">The Digital Advantage</h3>
                   <ul className="text-sm space-y-2 opacity-80">
                     <li>• Instant document upload and verification</li>
                     <li>• Real-time progress tracking via dashboard</li>
@@ -481,7 +481,7 @@ export default function ContactDetailsPage() {
                 Unfortunately, the debt resolution space also attracts scammers who pose as official bank representatives or 'miracle' fixers. They often promise to 'delete your name from CIBIL' for a small fee or claim to have 'internal settings' in the bank. <strong>Never believe such claims.</strong> CIBIL records can only be updated through legitimate bank reporting after a successful settlement.
               </p>
               <div className="bg-yellow-50 p-8 rounded-2xl border border-yellow-200 mb-8">
-                 <h4 className="text-xl font-black text-yellow-900 mb-4">Red Flags to Watch For:</h4>
+                 <h3 className="text-xl font-black text-yellow-900 mb-4">Red Flags to Watch For:</h3>
                  <div className="space-y-4">
                    <p className="text-sm text-yellow-800"><strong>1. Demand for Cash:</strong> No legitimate firm will ask for case fees or settlement amounts in cash or via a personal UPI handle.</p>
                    <p className="text-sm text-yellow-800"><strong>2. Guaranteed CIBIL Cleanup:</strong> Anyone promising a 750+ score overnight is lying. Improvement takes time and proper documentation.</p>
@@ -532,7 +532,7 @@ export default function ContactDetailsPage() {
                 If you have contacted a firm and they are unable to stop aggressive harassment, remember that you have independent legal rights under the RBI's Fair Practices Code. You can file a formal complaint with the <strong>Banking Ombudsman</strong> or escalate the matter to the <strong>Police</strong> if there is physical intimidation.
               </p>
               <div className="bg-gray-900 p-8 rounded-3xl text-white mb-8 border border-[#1F5EFF]/30 shadow-2xl">
-                 <h4 className="text-xl font-black mb-4">Steps to Take During Harassment:</h4>
+                 <h3 className="text-xl font-black mb-4">Steps to Take During Harassment:</h3>
                  <ul className="space-y-3 text-sm opacity-90">
                    <li>1. Record all incoming calls and note the time/caller ID.</li>
                    <li>2. Send a formal legal notice via your resolution firm to the bank's Nodal Officer.</li>
@@ -598,7 +598,7 @@ export default function ContactDetailsPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Verified Contact List</h3>
+                  <div className="text-lg font-black text-white">Verified Contact List</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -613,7 +613,7 @@ export default function ContactDetailsPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Must Read Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/is-loan-settlement-a-good-option-for-borrowers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

@@ -197,7 +197,7 @@ export default function TenCroreLoanSettlementPage() {
                             </p>
                             <div className="grid md:grid-cols-3 gap-6 mb-8">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs">The Lead Bank</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3 uppercase text-xs">The Lead Bank</h3>
                                     <p className="text-xs">The bank with the largest share usually heads the consortium. You must win their approval first, as other banks typically follow the lead bank's recommendation.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-2xl shadow-sm">
@@ -267,7 +267,7 @@ export default function TenCroreLoanSettlementPage() {
                                 10 Crore loans almost always involve a personal guarantee from the High-Net-Worth Individual (HNI) behind the company. The Supreme Court has ruled that personal guarantors can be sued independently of the company's insolvency.
                             </p>
                             <div className="bg-gray-100 p-8 rounded-3xl border border-gray-300">
-                                <h4 className="text-xl font-black mb-4">Shielding Strategies</h4>
+                                <h3 className="text-xl font-black mb-4">Shielding Strategies</h3>
                                 <ul className="space-y-4 italic text-sm">
                                     <li>• "Separation of Assets": Identifying un-pledged personal assets from company assets.</li>
                                     <li>• "Co-Borrower Defense": Strategic defense for family members who signed as co-guarantors without being directors.</li>
@@ -315,7 +315,7 @@ export default function TenCroreLoanSettlementPage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -370,7 +370,7 @@ export default function TenCroreLoanSettlementPage() {
                                     { q: "Can I pay a 10 Crore settlement in installments?", a: "Yes, banks often allow a 6 to 12 month payment plan, but they charge interest for the period after the OTS approval." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm">
-                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">{i + 1}. {faq.q}</h4>
+                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/20">{i + 1}. {faq.q}</h3>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -395,7 +395,7 @@ export default function TenCroreLoanSettlementPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Corporate Support</h3>
+                                    <div className="text-lg font-black text-white">Corporate Support</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -409,7 +409,7 @@ export default function TenCroreLoanSettlementPage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">High-Stake Guides</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">High-Stake Guides</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/5-crore-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

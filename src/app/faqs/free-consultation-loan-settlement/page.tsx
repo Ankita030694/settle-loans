@@ -321,7 +321,7 @@ export default function FreeConsultationPage() {
                 Loan settlement counselling is not for everyone. It is specifically designed for borrowers who are in genuine distress.
               </p>
               <div className="bg-gray-50 p-6 rounded-xl border border-gray-200 mb-8">
-                <h4 className="font-bold text-gray-900 mb-2">Ideal Candidates</h4>
+                <h3 className="font-bold text-gray-900 mb-2">Ideal Candidates</h3>
                 <ul className="grid md:grid-cols-2 gap-4 mt-4">
                   <li className="flex items-start">
                     <span className="w-5 h-5 rounded-full bg-red-100 text-red-600 flex items-center justify-center mr-3 mt-0.5 text-xs font-bold">✓</span>
@@ -420,7 +420,7 @@ export default function FreeConsultationPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6">
                 <div className="border border-gray-200 p-5 rounded-lg">
-                  <h4 className="font-bold text-gray-900 mb-2">1. "Are you a law firm or a call center?"</h4>
+                  <h3 className="font-bold text-gray-900 mb-2">1. "Are you a law firm or a call center?"</h3>
                   <p className="text-sm text-gray-600">Many agencies are just call centers with no legal backing. Ensure there are real lawyers involved to handle notices.</p>
                 </div>
                 <div className="border border-gray-200 p-5 rounded-lg">
@@ -511,7 +511,7 @@ export default function FreeConsultationPage() {
                       <span className="flex items-center justify-center w-8 h-8 rounded-full bg-[var(--color-primary)] text-white font-bold text-sm">1</span>
                     </div>
                     <div>
-                      <h4 className="text-lg font-bold text-gray-900">Step 1: Book Your Slot</h4>
+                      <h3 className="text-lg font-bold text-gray-900">Step 1: Book Your Slot</h3>
                       <p className="text-sm text-gray-600 mt-1">Fill out the form on our contact page. Provide basic details about your total debt and current situation.</p>
                     </div>
                   </div>
@@ -582,7 +582,7 @@ export default function FreeConsultationPage() {
                 <div key={i} className="bg-white p-5 md:p-6 rounded-2xl border border-[var(--color-border)] shadow-sm hover:shadow-md transition-all">
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">{review.name.charAt(0)}</div>
-                    <div><h5 className="font-bold text-[#2E2E2E]">{review.name}</h5><p className="text-xs text-gray-400">{review.loc}</p></div>
+                    <div><h3 className="font-bold text-[#2E2E2E]">{review.name}</h3><p className="text-xs text-gray-400">{review.loc}</p></div>
                     <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
                       <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
                       <FontAwesomeIcon icon={faStar} className="w-3.5 h-3.5" />
@@ -711,7 +711,7 @@ export default function FreeConsultationPage() {
 
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white uppercase tracking-wider">Get Help Now</h3>
+                  <div className="text-lg font-black text-white uppercase tracking-wider">Get Help Now</div>
                 </div>
                 <div className="p-8 text-center">
                   <p className="mb-8 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-normal">
@@ -726,7 +726,7 @@ export default function FreeConsultationPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[var(--color-border)] shadow-sm">
-                <h3 className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Resources</h3>
+                <div className="text-sm font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-4 border-b border-gray-100 pb-2">Resources</div>
                 <ul className="space-y-4 text-sm font-medium">
                   <li>
                     <Link href="/faqs/eligibility-checker-for-loan-settlement" className="group flex items-center text-[var(--color-text-body)] hover:text-[var(--color-primary)] transition-colors">

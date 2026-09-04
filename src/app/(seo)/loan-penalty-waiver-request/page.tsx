@@ -311,10 +311,10 @@ export default function LoanPenaltyWaiverRequest() {
               </p>
 
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-lg font-bold text-gray-800 mb-4">Essential Elements of Your Letter:</h4>
+                <h3 className="text-lg font-bold text-gray-800 mb-4">Essential Elements of Your Letter:</h3>
                 <div className="grid md:grid-cols-2 gap-6 my-8">
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                    <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Account Details</h5>
+                    <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Account Details</h4>
                     <p className="text-gray-700">Clearly mention your Loan/Credit Card number and the exact date of the missed payment.</p>
                   </div>
                   <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -351,7 +351,7 @@ export default function LoanPenaltyWaiverRequest() {
                 Banks typically report a default if the payment is delayed by more than 30 days. If your payment was delayed by just a few days, getting a <strong>credit card penalty reversal</strong> not only saves you money but also ensures that no adverse remarks are recorded on your credit file. 
               </p>
               <div className="bg-white rounded-2xl p-8 border border-[#DEDEDE] shadow-sm relative overflow-hidden mb-8">
-                <h4 className="text-xl font-bold text-[#2E2E2E] mb-4">How to Protect Your CIBIL Score:</h4>
+                <h3 className="text-xl font-bold text-[#2E2E2E] mb-4">How to Protect Your CIBIL Score:</h3>
                 <ul className="space-y-4">
                   <li className="flex items-start gap-4">
                     <div className="flex-shrink-0 w-8 h-8 rounded-full bg-[#1F5EFF]/10 text-[#1F5EFF] flex items-center justify-center font-bold">1</div>
@@ -376,7 +376,7 @@ export default function LoanPenaltyWaiverRequest() {
                 Knowing these guidelines empowers you when you <strong>request penalty waiver from bank</strong> authorities. If a bank has applied excessive compound interest on late fees, you have legal grounds to demand a complete reversal.
               </p>
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Directives:</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Key RBI Directives:</h3>
                 <ul className="list-disc pl-6 space-y-2 text-lg text-gray-700">
                   <li>Penalties must be reasonable and commensurate with the non-compliance.</li>
                   <li>No capitalization of penal charges (no interest on interest).</li>
@@ -398,11 +398,11 @@ export default function LoanPenaltyWaiverRequest() {
 
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Level 1: Nodal Officer</h5>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">Level 1: Nodal Officer</h3>
                   <p className="text-gray-700">If the branch manager rejects your plea, email the bank's designated Grievance Redressal or Nodal Officer with your previous correspondence.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h5 className="font-black text-[#1F5EFF] text-lg mb-3">Level 2: Principal Nodal Officer</h5>
+                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">Level 2: Principal Nodal Officer</h4>
                   <p className="text-gray-700">If unresolved within 30 days, escalate to the Principal Nodal Officer at the bank's corporate headquarters.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -437,7 +437,7 @@ export default function LoanPenaltyWaiverRequest() {
                       ))}
                     </div>
                   </div>
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Manish T. - Personal Loan</h4>
+                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Manish T. - Personal Loan</h3>
                   <p className="text-gray-600 mb-6">"I missed two EMIs due to a job change. The bank charged ₹8,500 in penalties. I met the branch manager with my new offer letter and previous clear record. They waived 100% of the late fees!"</p>
                   <div className="flex gap-3">
                     <span className="inline-block py-1 px-3 rounded-full bg-red-100 text-red-700 text-xs font-bold uppercase">Penalty: ₹8,500</span>
@@ -587,7 +587,7 @@ export default function LoanPenaltyWaiverRequest() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform"></div>
                 <div className="relative z-10">
-                  <h4 className="text-xl font-black mb-4">Facing Harassment?</h4>
+                  <div className="text-xl font-black mb-4">Facing Harassment?</div>
                   <p className="text-gray-300 text-sm mb-6">Are recovery agents threatening you over late fees? Know your rights.</p>
                   <Link href="/bank-recovery-harassment-complaint" className="inline-block w-full bg-[#1F5EFF] text-white font-bold py-3 px-6 rounded-xl hover:bg-blue-600 transition-colors text-sm">
                     Stop Harassment
@@ -597,9 +597,9 @@ export default function LoanPenaltyWaiverRequest() {
 
               {/* Card 2: White Resources */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">
                   Related Resources
-                </h4>
+                </div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/personal-loan-emi-bounce-charges" className="text-gray-700 hover:text-[#1F5EFF] text-sm font-medium transition-colors flex items-center group">

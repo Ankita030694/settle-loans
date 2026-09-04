@@ -626,10 +626,10 @@ export default function BankSendingLegalNoticeToEmployerPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-red-500 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <AlertCircle className="w-4 h-4 text-red-600" />
                     <span>Criminal Defamation (Section 499 &amp; 500 IPC / Section 356 BNS 2023)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Whoever, by words spoken or written, makes or publishes any imputation concerning another person intending to harm their reputation commits criminal defamation. Sending defamatory notices, emails, or debt claims to an employer with intent to lower the borrower&apos;s professional standing carries a penalty of up to two years of simple imprisonment, a fine, or both.
                   </p>
@@ -780,7 +780,7 @@ export default function BankSendingLegalNoticeToEmployerPage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Evidence Preservation &amp; Internal HR Clarification Memo</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Evidence Preservation &amp; Internal HR Clarification Memo</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Collect every piece of evidence: email headers sent to corporate addresses, call recordings from office switchboards, WhatsApp messages, and physical copies of notices served at reception. Concurrently, provide your HR department with a formal written advisory stating that an external agency is engaged in unlawful third-party privacy harassment in violation of RBI regulations, and that your legal counsel is taking formal action.
                   </p>
@@ -1172,7 +1172,7 @@ export default function BankSendingLegalNoticeToEmployerPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Workplace Harassment Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Is a Bank Contacting Your Employer or HR?</h4>
+              <div className="font-bold text-base text-white mb-2">Is a Bank Contacting Your Employer or HR?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Protect your career and reputation immediately. Retain seasoned banking litigation advocates to serve a criminal defamation notice and negotiate a 45%–65% OTS.
               </p>
@@ -1186,9 +1186,9 @@ export default function BankSendingLegalNoticeToEmployerPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

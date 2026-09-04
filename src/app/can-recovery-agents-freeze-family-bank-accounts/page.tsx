@@ -629,10 +629,10 @@ export default function FamilyBankAccountFreezeDefensePage() {
               
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm flex items-center gap-1.5">
                     <Landmark className="w-4 h-4 text-blue-600" />
                     <span>Banker&apos;s Right of General Lien (Section 171, Indian Contract Act, 1872)</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Under <strong>Section 171 of the Indian Contract Act, 1872</strong>, a banker retains a general lien over physical goods, bonds, shares, and commercial paper deposited into its custody in the ordinary course of banking business as a bailee. Established Supreme Court jurisprudence confirms that funds deposited in savings accounts, current accounts, or fixed deposits represent a debtor-creditor relationship, not a bailment of goods. Therefore, Section 171 cannot be invoked to seize liquid account balances, and it can never extend to properties or deposits belonging to third parties.
                   </p>
@@ -811,7 +811,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
               <div className="space-y-3 my-4">
                 <div className="p-4 rounded-xl border-l-4 border-blue-600 bg-slate-50 space-y-1">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Systematic Evidence Archiving &amp; Call Recording</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Stage 1: Systematic Evidence Archiving &amp; Call Recording</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     Begin immediately recording all incoming recovery phone calls. Archive every threatening WhatsApp communication, SMS notice, voice recording, and home visit interaction. Note the caller&apos;s phone numbers, timestamps, identity disclosures, and the specific names of non-borrowing family members subjected to intimidation.
                   </p>
@@ -1210,7 +1210,7 @@ export default function FamilyBankAccountFreezeDefensePage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Emergency Legal Defense</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Are Agents Threatening Your Family?</h4>
+              <div className="font-bold text-base text-white mb-2">Are Agents Threatening Your Family?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let third-party recovery agents intimidate your spouse or parents. Retain seasoned banking advocates to issue statutory cease-and-desist notices and negotiate a 45%–65% OTS.
               </p>
@@ -1224,9 +1224,9 @@ export default function FamilyBankAccountFreezeDefensePage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Safeguards
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

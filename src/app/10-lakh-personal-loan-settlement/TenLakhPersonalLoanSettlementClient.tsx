@@ -981,7 +981,7 @@ export default function TenLakhPersonalLoanSettlementClient() {
                   AJ
                 </div>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm">Ashish Jhangra</h4>
+                  <div className="font-bold text-slate-900 text-sm">Ashish Jhangra</div>
                   <p className="text-xs text-slate-500">Lead Debt Settlement Counsel</p>
                 </div>
               </div>
@@ -1000,9 +1000,9 @@ export default function TenLakhPersonalLoanSettlementClient() {
                 <ShieldAlert className="w-3 h-3" />
                 <span>Notice Defense Desk</span>
               </div>
-              <h3 className="text-base font-black text-white mb-2 leading-snug">
+              <div className="text-base font-black text-white mb-2 leading-snug">
                 Facing a ₹10 Lakh Legal Notice or Harassment?
-              </h3>
+              </div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Get immediate advocate intervention to respond to Section 25 PSSA / Section 138 notices, stop recovery harassment, and secure a 40%–50% OTS haircut.
               </p>

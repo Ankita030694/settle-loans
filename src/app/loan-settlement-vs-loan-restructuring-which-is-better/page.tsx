@@ -297,7 +297,7 @@ export default function LoanRestructuringVsSettlement() {
                 Loan settlement (or One-Time Settlement - OTS) is a drastic measure. When a borrower has not paid EMIs for over 6 months and the bank realizes that recovering the full amount is impossible, they may offer a settlement. In this scenario, the bank agrees to waive off a significant portion of the principal, penalties, and interest, accepting a lump sum payment to close the account.
               </p>
               <div className="bg-yellow-50 p-6 rounded-lg border border-yellow-200 my-8">
-                <h4 className="font-bold text-yellow-800 text-xl mb-3">⚠️ The Settlement Trap</h4>
+                <h3 className="font-bold text-yellow-800 text-xl mb-3">⚠️ The Settlement Trap</h3>
                 <p className="text-gray-700 leading-relaxed text-lg">
                   Settlement is not a magical escape hatch. While you may only pay 40% to 50% of your outstanding balance, the bank reports this to CIBIL as "Settled" rather than "Closed." This status acts as a massive red flag to future lenders, effectively blocking you from securing home loans, car loans, or credit cards for several years.
                 </p>
@@ -613,7 +613,7 @@ export default function LoanRestructuringVsSettlement() {
             <div className="sticky top-24 flex flex-col gap-6">
               
               <div className="bg-gray-50 border border-[#DEDEDE] rounded-xl p-6 shadow-sm">
-                <h3 className="text-xl font-black text-[#2E2E2E] mb-3">Loan Settlement Support</h3>
+                <div className="text-xl font-black text-[#2E2E2E] mb-3">Loan Settlement Support</div>
                 <p className="text-gray-700 text-sm mb-5 leading-relaxed">
                   Our legal experts talk directly to banks so you don't have to face recovery agent harassment.
                 </p>
@@ -626,7 +626,7 @@ export default function LoanRestructuringVsSettlement() {
               </div>
 
               <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 shadow-sm">
-                <h3 className="text-lg font-bold text-[#2E2E2E] mb-4 border-b border-[#DEDEDE] pb-2">Helpful Resources</h3>
+                <div className="text-lg font-bold text-[#2E2E2E] mb-4 border-b border-[#DEDEDE] pb-2">Helpful Resources</div>
                 <ul className="space-y-3 text-sm">
                   <li>
                     <Link href="/services/how-to-stop-recovery-agent-harassment" className="text-gray-600 hover:text-[#1F5EFF] transition-colors flex gap-2">

@@ -237,7 +237,7 @@ export default function ScamPreventionPage() {
                 As of late 2024, the biggest fraud in the Indian debt market is the generation of fake 'No Objection Certificates'. Scammers use professional graphic designers to mirror the exact fonts, QR codes, and digital signatures used by major banks like SBI and ICICI.
               </p>
               <div className="bg-red-50 p-8 rounded-3xl border-2 border-red-100 my-8">
-                <h4 className="font-black text-xl mb-4 text-red-700">The "Paid-to-Agency" Trap:</h4>
+                <h3 className="font-black text-xl mb-4 text-red-700">The "Paid-to-Agency" Trap:</h3>
                 <p className="text-lg leading-relaxed text-red-900 italic">
                   "If an agency tells you they have an 'agreement' where you pay them and they pay the bank internally, they are lying. They will take your money, give you a perfectly forged NOC, and disappear. Six months later, you will find your CIBIL score has crashed and a recovery agent is at your door. The real bank never received a single rupee."
                 </p>
@@ -257,7 +257,7 @@ export default function ScamPreventionPage() {
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-10">
                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm border-l-8 border-[#1F5EFF]">
-                  <h4 className="font-black text-[#1A1A1A] mb-2">The "Gallery" Threat</h4>
+                  <h3 className="font-black text-[#1A1A1A] mb-2">The "Gallery" Threat</h3>
                   <p className="text-sm">These apps request access to your photos. If you default, they use AI to create morphed, offensive images and send them to your contacts. This is a criminal offense under the IT Act.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-100 rounded-2xl shadow-sm border-l-8 border-red-600">
@@ -287,7 +287,7 @@ export default function ScamPreventionPage() {
                 Scammers know that debt is a taboo subject in middle-class Indian families. They use this 'Shame Factor' as a weapon. They will threaten to post your default status on your LinkedIn profile or send your bank statements to your children's school group. 
               </p>
               <div className="bg-gray-100 p-8 rounded-2xl border border-gray-200 my-8">
-                <h4 className="font-black text-xl mb-4">The "Social Media" Defense:</h4>
+                <h3 className="font-black text-xl mb-4">The "Social Media" Defense:</h3>
                 <p className="text-lg leading-relaxed">
                   "If an agent threatens your social reputation, record the call/message. This is a violation of the Right to Privacy under Article 21. Banks are extremely sensitive to these incidents because they can lead to heavy penalties from the RBI. Once a professional firm documents this harassment, the bank usually offers an apology and a significant waiver to settle the matter quietly."
                 </p>
@@ -302,7 +302,7 @@ export default function ScamPreventionPage() {
                 To avoid this scam, you must understand its anatomy. The scammers use 'VOIP' calling to show an Indian Landline number. They start the call with a sense of extreme urgency. "Sir, your Aadhaar has been used in a ₹100 Crore money laundering case involving 5 luxury cars. You are under Digital Arrest."
               </p>
               <div className="bg-orange-50 p-8 rounded-3xl border border-orange-200 my-8">
-                <h4 className="font-bold text-xl mb-4 text-orange-900">The 4 Pillars of a Digital Arrest Scam:</h4>
+                <h3 className="font-bold text-xl mb-4 text-orange-900">The 4 Pillars of a Digital Arrest Scam:</h3>
                 <ul className="space-y-4 text-orange-800 font-medium">
                   <li><strong>Isolation:</strong> They forbid you from talking to anyone or hanging up.</li>
                   <li><strong>Visual Intimidation:</strong> They wear fake police uniforms and use fake CBI logos in the background.</li>
@@ -332,7 +332,7 @@ export default function ScamPreventionPage() {
                 A common scam involves recovery agents posing as 'Senior Advocates' from the High Court. They send you a legal notice via WhatsApp that looks 100% official. They then offer to 'Mediate' for a fee of ₹15,000 to "squash" the non-bailable warrant that supposedly exists against you.
               </p>
               <div className="bg-red-50 p-8 rounded-3xl border border-red-200 my-8">
-                <h4 className="font-bold text-xl mb-4 text-red-900">How to Spot a Fake Lawyer Call:</h4>
+                <h3 className="font-bold text-xl mb-4 text-red-900">How to Spot a Fake Lawyer Call:</h3>
                 <ul className="space-y-4 text-red-800 font-medium">
                   <li><strong>The Bar Council ID:</strong> Ask for their enrollment number. You can verify it on the 'Digital Bar' or the respective State Bar Council website.</li>
                   <li><strong>The Payment Method:</strong> Real law firms rarely ask for payment via GPay or PhonePe to a personal number. They use official firm accounts.</li>
@@ -373,7 +373,7 @@ export default function ScamPreventionPage() {
                 The Indian judiciary has repeatedly sided with the dignity of the borrower. In the landmark case of ICICI Bank vs Shanti Devi, the Supreme Court made it clear that banks cannot use 'Muscle Men' for recovery.
               </p>
               <div className="bg-gray-100 p-8 rounded-2xl border border-gray-200 my-8">
-                <h4 className="font-black text-xl mb-4">Your "Shanti Devi" Rights:</h4>
+                <h3 className="font-black text-xl mb-4">Your "Shanti Devi" Rights:</h3>
                 <p className="text-lg leading-relaxed">
                   "If an agent enters your home without your permission, they are committing 'Criminal Trespass'. If they threaten you, it is 'Criminal Intimidation'. You have the right to record these incidents and file a police complaint. No loan default justifies the violation of your constitutional right to live with dignity. Banks are terrified of these rulings and will often offer a massive waiver if you demonstrate that you know your legal rights."
                 </p>
@@ -388,7 +388,7 @@ export default function ScamPreventionPage() {
                 Some aggressive agencies ask you to stop paying the bank and instead start paying into a 'Settlement Account' managed by the agency themselves. They claim this pool of money will be used to negotiate a 'Lump Sum' deal later. 
               </p>
               <div className="bg-red-50 p-8 rounded-3xl border border-red-200 my-8">
-                <h4 className="font-bold text-xl mb-4 text-red-900">Why You Must Never Do This:</h4>
+                <h3 className="font-bold text-xl mb-4 text-red-900">Why You Must Never Do This:</h3>
                 <p className="text-lg leading-relaxed text-red-800">
                   "In India, there is no 'Trust Account' law for debt relief agencies. If you pay ₹2 Lakhs into an agency's account over 10 months, and that agency shuts down or simply refuses to pay the bank, you have 0% legal recourse to recover that money. Always save for your settlement in your OWN separate savings account at a DIFFERENT bank from where you owe money."
                 </p>
@@ -427,7 +427,7 @@ export default function ScamPreventionPage() {
                 To truly protect yourself, you must understand the 'Incentive Structure' of a fake recovery agency. Based on whistleblower insights from former employees of these 'Boiler Rooms', agents are trained on a three-tier script system.
               </p>
               <div className="bg-slate-900 text-white p-10 rounded-3xl my-10 border-l-8 border-[#1F5EFF]">
-                <h4 className="font-black text-2xl mb-4 text-[#1F5EFF]">The Scammer's Hierarchy:</h4>
+                <h3 className="font-black text-2xl mb-4 text-[#1F5EFF]">The Scammer's Hierarchy:</h3>
                 <p className="text-lg leading-relaxed mb-6">
                   "Tier 1 agents are 'The Hook'. They promise the world 90% waivers, CIBIL cleanup in 24 hours. Their only job is to get you to pay the first ₹5,000 'processing fee'. Once you pay, you are moved to Tier 2, 'The Closer'. These agents play the 'Good Cop' and ask for larger sums for 'Legal Retainers'. Finally, if you stop paying, you meet Tier 3, 'The Enforcer'. They pose as lawyers or police to scare you into paying one last time before they block your number and disappear."
                 </p>
@@ -456,7 +456,7 @@ export default function ScamPreventionPage() {
               </p>
               <ul className="space-y-6 text-lg my-10">
                 <li className="p-6 bg-gray-50 rounded-2xl border border-gray-100">
-                  <h4 className="font-bold mb-2">1. The Right to Privacy:</h4>
+                  <h3 className="font-bold mb-2">1. The Right to Privacy:</h3>
                   <p className="text-sm">Banks and agencies cannot disclose your debt status to your neighbors, distant relatives, or colleagues. Any 'Public Shaming' is a direct violation of your rights.</p>
                 </li>
                 <li className="p-6 bg-gray-50 rounded-2xl border border-gray-100">
@@ -480,7 +480,7 @@ export default function ScamPreventionPage() {
               </h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-10">
                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100">
-                  <h4 className="font-black text-xl mb-3 text-[#E31E24]">1. Fake RBI Labels</h4>
+                  <h3 className="font-black text-xl mb-3 text-[#E31E24]">1. Fake RBI Labels</h3>
                   <p className="text-sm leading-relaxed font-medium">Claiming to be an 'RBI Authorized Debt Relief Center'. The RBI only regulates banks, NBFCs, and ARCs. It does not license settlement agencies.</p>
                 </div>
                 <div className="p-6 bg-gray-50 rounded-2xl border border-gray-100">
@@ -509,7 +509,7 @@ export default function ScamPreventionPage() {
                 <li className="flex gap-4">
                   <span className="flex-shrink-0 w-10 h-10 bg-[#E31E24] text-white rounded-full flex items-center justify-center font-bold">1</span>
                   <div>
-                    <h4 className="font-bold underline">Physical Office Verification:</h4>
+                    <h3 className="font-bold underline">Physical Office Verification:</h3>
                     <p className="text-gray-600">Do they have a real office in a commercial hub? Many scammers operate solely via WhatsApp or from co-working spaces under fake names. Do not trust an agency that refuses a face-to-face meeting or video call from their office.</p>
                   </div>
                 </li>
@@ -569,7 +569,7 @@ export default function ScamPreventionPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#1A1A1A]">{review.name}</h5>
+                        <h3 className="font-bold text-[#1A1A1A]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -632,7 +632,7 @@ export default function ScamPreventionPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">We are in This Together</h3>
+                  <div className="text-lg font-black text-white">We are in This Together</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -647,7 +647,7 @@ export default function ScamPreventionPage() {
 
               {/* Danger Box */}
               <div className="bg-white rounded-2xl p-6 border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-xl font-black text-black mb-6">Fraud Alert</h3>
+                <div className="text-xl font-black text-black mb-6">Fraud Alert</div>
                 <div className="space-y-4">
                   <div className="p-4 bg-white rounded-xl border border-red-100">
                     <p className="text-xs font-black text-[#747474] uppercase mb-1">Red Flag #1</p>
@@ -666,7 +666,7 @@ export default function ScamPreventionPage() {
 
               {/* Related Resources */}
               <div className="bg-gray-50 p-6 rounded-2xl border border-gray-200">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4">Protection Links</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4">Protection Links</div>
                 <ul className="space-y-4 text-sm font-bold text-gray-900">
                   <li><Link href="/how-to-choose-a-trustworthy-debt-settlement-provider" className="hover:text-[#1F5EFF] transition-colors">Trustworthy Providers</Link></li>
                   <li><Link href="/compare-debt-settlement-fees-and-success-rate" className="hover:text-[#1F5EFF] transition-colors">Fee Comparison</Link></li>

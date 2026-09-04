@@ -538,10 +538,10 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
               
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 my-4">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1 flex items-center gap-1.5">
                     <ShieldAlert className="w-4 h-4 text-rose-600" />
                     <span>Section 506 IPC / Section 351 BNS</span>
-                  </h4>
+                  </h3>
                   <p className="text-xs text-slate-600">
                     <strong>Criminal Intimidation:</strong> Punishes anyone who threatens another with injury to their person, reputation, or property. If the threat involves death, grievous hurt, or destruction of property, the offense carries imprisonment for up to seven years.
                   </p>
@@ -705,7 +705,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                     1
                   </div>
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 1: Formal Submission to Local SHO (Section 154(1) CrPC / Section 173 BNSS)</h4>
+                    <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Tier 1: Formal Submission to Local SHO (Section 154(1) CrPC / Section 173 BNSS)</h3>
                     <p className="text-xs text-slate-600 mt-1">Submit two physical copies of the complaint to the Station House Officer. Obtain a stamped receiving acknowledgment with date and General Diary (GD) reference number on the duplicate copy.</p>
                   </div>
                 </div>
@@ -1045,11 +1045,11 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm">
+                  <div className="font-bold text-slate-900 text-sm">
                     <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
               </div>
@@ -1074,7 +1074,7 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Legal Protection</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Facing Recovery Agent Harassment?</h4>
+              <div className="font-bold text-base text-white mb-2">Facing Recovery Agent Harassment?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not endure threats, abusive calls, or home visits in silence. Engage our senior banking advocates to issue legal notices, file police complaints, and negotiate an official 50%–65% OTS.
               </p>
@@ -1088,9 +1088,9 @@ export default function PoliceComplaintFormatRecoveryAgentHarassmentPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

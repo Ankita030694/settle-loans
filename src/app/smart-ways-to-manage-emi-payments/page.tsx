@@ -390,7 +390,7 @@ export default function SmartEMIManagementPage() {
               <div className="grid sm:grid-cols-3 gap-4 my-8">
                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center">
                   <div className="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
-                    <h4 className="font-bold text-blue-600">1/12</h4>
+                    <h3 className="font-bold text-blue-600">1/12</h3>
                   </div>
                   <h4 className="font-bold text-[#2E2E2E] mb-2">The Extra EMI</h4>
                   <p className="text-xs text-gray-500">Pay one extra EMI annually to cut 4-5 years off a home loan.</p>
@@ -705,7 +705,7 @@ export default function SmartEMIManagementPage() {
             <div className="sticky top-32 flex flex-col gap-8">
               {/* Sidebar CTA */}
               <div className="bg-[#F9FAFB] p-6 rounded-2xl border border-gray-200 shadow-sm">
-                <h3 className="text-xl font-bold text-gray-900 mb-4">Need Expert Help?</h3>
+                <div className="text-xl font-bold text-gray-900 mb-4">Need Expert Help?</div>
                 <p className="text-sm text-gray-600 mb-6">Our legal experts can help you negotiate lower interest rates or settle your debts professionally.</p>
                 <Link href="/contact" className="block w-full text-center bg-[#1F5EFF] text-white font-bold py-3 px-4 rounded-lg hover:bg-blue-700 transition-colors shadow-md">
                   Talk to a Consultant
@@ -714,7 +714,7 @@ export default function SmartEMIManagementPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-gray-200 shadow-sm">
-                <h3 className="text-lg font-bold text-gray-900 mb-4">Related Guides</h3>
+                <div className="text-lg font-bold text-gray-900 mb-4">Related Guides</div>
                 <nav className="flex flex-col gap-3">
                   <Link href="/which-banks-offer-debt-consolidation-loans-in-india" className="text-sm text-blue-600 hover:underline font-medium">Debt Consolidation Banks</Link>
                   <Link href="/missed-your-loan-emi-heres-what-to-do" className="text-sm text-blue-600 hover:underline font-medium">What to do after missed EMI</Link>

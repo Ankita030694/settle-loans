@@ -343,7 +343,7 @@ export default function UttarakhandLoanSettlementPage() {
                   <div className="flex items-center mb-4">
                     <div className="w-10 h-10 rounded-full bg-[#1F5EFF]/10 flex items-center justify-center font-bold text-[#1F5EFF] mr-3">V</div>
                     <div>
-                      <h4 className="font-bold">Vikram Singh</h4>
+                      <h3 className="font-bold">Vikram Singh</h3>
                       <p className="text-xs text-gray-500">Dehradun, Uttarakhand</p>
                     </div>
                   </div>
@@ -432,7 +432,7 @@ export default function UttarakhandLoanSettlementPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white">Uttarakhand Helpdesk</h3>
+                  <div className="text-lg font-black text-white">Uttarakhand Helpdesk</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -447,7 +447,7 @@ export default function UttarakhandLoanSettlementPage() {
 
               {/* Trust Section */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                 <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Why Uttarakhand Trusts Us</h3>
+                 <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Why Uttarakhand Trusts Us</div>
                  <div className="space-y-4">
                     <div className="flex gap-3">
                        <span className="text-[#1F5EFF]">✓</span>
@@ -466,7 +466,7 @@ export default function UttarakhandLoanSettlementPage() {
 
               {/* Related Pages */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Quick Links</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Quick Links</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/services/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

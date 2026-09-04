@@ -563,7 +563,7 @@ export default function LoanNaChukaneParKyaHogaPage() {
               </p>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 my-4">
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
-                  <h4 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Fake Police Notices</h4>
+                  <h3 className="font-bold text-slate-900 text-xs sm:text-sm mb-1">Fake Police Notices</h3>
                   <p className="text-xs text-slate-600">WhatsApp par farzi seals aur arrest warrants bhejkar darana IPC Section 465/468 ke tehat non-bailable forgery apradh hai.</p>
                 </div>
                 <div className="p-4 bg-slate-50 border border-slate-200 rounded-xl">
@@ -642,7 +642,7 @@ export default function LoanNaChukaneParKyaHogaPage() {
                 <div className="p-4 bg-white border border-slate-200 rounded-xl shadow-sm flex items-start gap-3">
                   <ShieldCheck className="w-5 h-5 text-[#1F5EFF] flex-shrink-0 mt-0.5" />
                   <div>
-                    <h4 className="font-bold text-slate-900 text-xs sm:text-sm">Formal Cease-and-Desist Notice</h4>
+                    <h3 className="font-bold text-slate-900 text-xs sm:text-sm">Formal Cease-and-Desist Notice</h3>
                     <p className="text-xs text-slate-600 mt-1">Bank Nodal Officer ko notice bhejkar direct calls band karwayi jati hain aur communication counsel ke through transfer hoti hai.</p>
                   </div>
                 </div>
@@ -961,11 +961,11 @@ export default function LoanNaChukaneParKyaHogaPage() {
                   AJ
                 </Link>
                 <div>
-                  <h4 className="font-bold text-slate-900 text-sm">
+                  <div className="font-bold text-slate-900 text-sm">
                     <Link href="/authors/ashish-jhangra" className="hover:text-[#1F5EFF] transition-colors">
                       Ashish Jhangra
                     </Link>
-                  </h4>
+                  </div>
                   <p className="text-xs text-slate-500">Chief Banking &amp; Debt Resolution Expert</p>
                 </div>
               </div>
@@ -990,7 +990,7 @@ export default function LoanNaChukaneParKyaHogaPage() {
                 <PhoneCall className="w-4 h-4" />
                 <span>Immediate Legal Protection</span>
               </div>
-              <h4 className="font-bold text-base text-white mb-2">Recovery Agents Threatening Arrest?</h4>
+              <div className="font-bold text-base text-white mb-2">Recovery Agents Threatening Arrest?</div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not suffer under illegal threats or fake police summons. Have our senior banking advocates serve cease-and-desist notices, halt harassment, and negotiate an official 50%–65% OTS.
               </p>
@@ -1004,9 +1004,9 @@ export default function LoanNaChukaneParKyaHogaPage() {
 
             {/* Trust Signals Card */}
             <div className="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-3">
-              <h4 className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
+              <div className="font-bold text-xs text-slate-900 uppercase tracking-wider border-b border-slate-100 pb-2">
                 Institutional Protections
-              </h4>
+              </div>
               <div className="space-y-2.5 text-xs text-slate-600">
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="w-4 h-4 text-emerald-500 flex-shrink-0" />

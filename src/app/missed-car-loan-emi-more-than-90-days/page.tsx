@@ -280,7 +280,7 @@ export default function MissedCarLoanEmiPage() {
               
               {/* Blue Important Box */}
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial RBI Guidelines on Repossession</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">Crucial RBI Guidelines on Repossession</h3>
                 <div className="space-y-4">
                   <div className="flex gap-3">
                     <div className="mt-1.5 w-2 h-2 rounded-full bg-[#1F5EFF] flex-shrink-0"></div>
@@ -317,7 +317,7 @@ export default function MissedCarLoanEmiPage() {
               {/* 4-Grid Info Boxes */}
               <div className="grid md:grid-cols-2 gap-6 my-8">
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
-                  <h4 className="font-black text-[#1F5EFF] text-lg mb-3">1. CIBIL Score Crash</h4>
+                  <h3 className="font-black text-[#1F5EFF] text-lg mb-3">1. CIBIL Score Crash</h3>
                   <p className="text-[#4A4A4A] m-0">An NPA classification drops your CIBIL score drastically, blocking you from future home, personal, or car loans.</p>
                 </div>
                 <div className="bg-[#f8faff] p-6 rounded-xl border border-[#DEDEDE]">
@@ -345,7 +345,7 @@ export default function MissedCarLoanEmiPage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black text-xl shadow-lg">1</div>
                   <div>
-                    <h4 className="text-xl font-black text-[#2E2E2E] mb-2">Demand Identification</h4>
+                    <h3 className="text-xl font-black text-[#2E2E2E] mb-2">Demand Identification</h3>
                     <p className="text-lg text-[#4A4A4A]">If agents approach you, do not panic. Ask for their ID cards and the RBI-mandated recovery agent certification. If they fail to produce it, they are acting illegally.</p>
                   </div>
                 </div>
@@ -373,7 +373,7 @@ export default function MissedCarLoanEmiPage() {
               
               {/* Gray Insight Box */}
               <div className="bg-gray-50 p-8 rounded-2xl mb-8 border border-gray-200">
-                <h4 className="text-xl font-black text-[#2E2E2E] mb-4">The Restructuring Option</h4>
+                <h3 className="text-xl font-black text-[#2E2E2E] mb-4">The Restructuring Option</h3>
                 <p className="text-lg leading-relaxed text-[#4A4A4A] mb-0">
                   Once your account is an NPA, you can request the bank manager for restructuring or a one-time settlement (OTS). Show proof of job loss, medical emergencies, or business failure. If you negotiate properly, banks prefer settling over dealing with the hassle and legal costs of auctioning a depreciating asset like a car.
                 </p>
@@ -438,7 +438,7 @@ export default function MissedCarLoanEmiPage() {
               <div className="space-y-4">
                 {/* FAQ 1 */}
                 <div className="bg-white border border-[#DEDEDE] rounded-xl p-6 hover:shadow-md transition-shadow">
-                  <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">What happens if I miss my car loan EMI for 90 days?</h4>
+                  <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">What happens if I miss my car loan EMI for 90 days?</h3>
                   <p className="text-[#4A4A4A] m-0">After 90 days, your account becomes an NPA. The bank can legally initiate repossession proceedings under the SARFAESI Act, but only after sending proper notices.</p>
                 </div>
                 {/* FAQ 2 */}
@@ -493,7 +493,7 @@ export default function MissedCarLoanEmiPage() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-500"></div>
                 <div className="relative z-10">
-                  <h4 className="text-2xl font-black mb-4">Stop Vehicle Seizure</h4>
+                  <div className="text-2xl font-black mb-4">Stop Vehicle Seizure</div>
                   <p className="text-sm opacity-80 mb-6">Talk to an expert lawyer in 10 minutes and secure your asset.</p>
                   <Link href="/contact" className="block w-full bg-white text-[#2E2E2E] font-bold py-3 rounded-lg hover:bg-[#1F5EFF] hover:text-white transition-colors">
                     Consult Lawyer
@@ -503,7 +503,7 @@ export default function MissedCarLoanEmiPage() {
 
               {/* Card 2: White Resources */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Legal Resources</h4>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Legal Resources</div>
                 <ul className="space-y-4">
                   <li>
                     <Link href="/auto-loan-settlement" className="flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] font-bold group">

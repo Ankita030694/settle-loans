@@ -289,7 +289,7 @@ export default function CibilDefaulterLoanPage() {
                             </p>
                             <div className="space-y-6 mb-10">
                                 <div className="p-8 bg-gray-50 border-l-8 border-[#1F5EFF] rounded-r-2xl shadow-sm">
-                                    <h4 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Tata Capital</h4>
+                                    <h3 className="font-bold text-2xl mb-4 text-[#2E2E2E]">Tata Capital</h3>
                                     <p className="text-base text-gray-700 leading-relaxed mb-4">
                                         Tata Capital has one of the most balanced approaches to credit. While they do check CIBIL scores, they also place significant weight on the borrower's employment with reputed companies and their overall debt-to-income ratio. If you have a stable job, they might consider your application even with a moderate score.
                                     </p>
@@ -325,7 +325,7 @@ export default function CibilDefaulterLoanPage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-8 mb-10">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold text-[#1F5EFF] mb-3">Secured Credit Lines</h4>
+                                    <h3 className="font-bold text-[#1F5EFF] mb-3">Secured Credit Lines</h3>
                                     <p className="text-sm">Banks like ICICI and Kotak allow you to open a Fixed Deposit and take a loan or credit card against it. This is the fastest way to start rebuilding your CIBIL score. Since the loan is backed by your own money, the bank doesn't care about your past default history.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -401,7 +401,7 @@ export default function CibilDefaulterLoanPage() {
                             </p>
                             <div className="space-y-6">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                                    <h4 className="font-bold text-xl mb-2 text-[#2E2E2E]">Gold Loans</h4>
+                                    <h3 className="font-bold text-xl mb-2 text-[#2E2E2E]">Gold Loans</h3>
                                     <p className="text-base">This is the most popular option in India. Banks like Muthoot Finance and Manappuram Finance provide loans within minutes. Your gold is the security, so your CIBIL score is irrelevant. The interest rates are also much lower than unsecured personal loans.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
@@ -479,7 +479,7 @@ export default function CibilDefaulterLoanPage() {
                                 Being a defaulter does not mean you lose your fundamental rights. Many borrowers are harassed by recovery agents or threatened with immediate jail time. It is important to know that defaulting on a personal loan is a civil matter, not a criminal one (unless there is fraud or cheque bounce involved).
                             </p>
                             <div className="bg-blue-50 p-8 rounded-xl border border-blue-200 my-8">
-                                <h4 className="font-bold text-blue-900 mb-4 text-xl">Protecting Yourself from Harassment</h4>
+                                <h3 className="font-bold text-blue-900 mb-4 text-xl">Protecting Yourself from Harassment</h3>
                                 <p className="text-base text-blue-800 leading-relaxed mb-4">
                                     The RBI has strict guidelines for recovery agents. They cannot call you before 8 AM or after 7 PM. They cannot call your friends, family, or colleagues. They cannot use physical force or abusive language.
                                 </p>
@@ -498,7 +498,7 @@ export default function CibilDefaulterLoanPage() {
                                 If you decide to apply for a loan with a low CIBIL score, follow these steps to maximize your chances of success:
                             </p>
                             <div className="bg-[#1F5EFF]/5 p-8 rounded-3xl border border-[#1F5EFF]/20 mb-10">
-                                <h4 className="text-2xl font-black text-[#2E2E2E] mb-6">The 4-Step Approval Framework</h4>
+                                <h3 className="text-2xl font-black text-[#2E2E2E] mb-6">The 4-Step Approval Framework</h3>
                                 <ol className="space-y-4 text-base font-medium">
                                     <li className="flex items-start gap-3">
                                         <span className="w-6 h-6 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center text-xs flex-shrink-0 mt-1">1</span>
@@ -597,7 +597,7 @@ export default function CibilDefaulterLoanPage() {
                                         <div className="flex items-center mb-4">
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.split(' ')[0][0]}</div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -663,7 +663,7 @@ export default function CibilDefaulterLoanPage() {
                             {/* CTA Box */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white px-2">Loan Support</h3>
+                                    <div className="text-lg font-black text-white px-2">Loan Support</div>
                                 </div>
                                 <div className="p-8 text-center">
                                     <p className="mb-8 text-sm text-[#DEDEDE] opacity-90 leading-relaxed font-bold">
@@ -678,7 +678,7 @@ export default function CibilDefaulterLoanPage() {
 
                             {/* Related Guides */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Resources</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Resources</div>
                                 <ul className="space-y-4 text-sm font-extrabold px-2">
                                     <li>
                                         <Link href="/how-to-get-800-credit-score-in-india" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors leading-tight">

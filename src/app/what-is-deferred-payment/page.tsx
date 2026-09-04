@@ -255,7 +255,7 @@ export default function WhatIsDeferredPayment() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">How Does a Moratorium on Loan Work?</h2>
               
               <div className="bg-blue-50 border-l-8 border-[#1F5EFF] p-8 rounded-r-2xl mb-8">
-                <h4 className="text-xl font-black text-[#1F5EFF] mb-4">The Mechanics of a Moratorium</h4>
+                <h3 className="text-xl font-black text-[#1F5EFF] mb-4">The Mechanics of a Moratorium</h3>
                 <p className="text-lg leading-relaxed mb-4 text-[#2E2E2E]">
                   A <strong>moratorium on loan</strong> is the formal term used by banks and the RBI for a deferred payment period. Here is how it functions:
                 </p>
@@ -357,7 +357,7 @@ export default function WhatIsDeferredPayment() {
               <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-6">Risks & Warnings to Consider</h2>
               
               <div className="bg-red-50 p-6 rounded-xl border border-red-100 mb-8">
-                <h4 className="text-xl font-black text-red-700 mb-4">Warning: It Is Not a Waiver!</h4>
+                <h3 className="text-xl font-black text-red-700 mb-4">Warning: It Is Not a Waiver!</h3>
                 <p className="text-lg leading-relaxed text-red-900 mb-4">
                   The biggest mistake borrowers make is assuming a deferred payment means the bank has forgiven the EMIs for those months. <strong>They have not.</strong>
                 </p>
@@ -382,7 +382,7 @@ export default function WhatIsDeferredPayment() {
                       RK
                     </div>
                     <div>
-                      <h4 className="font-bold text-[#2E2E2E] text-lg">Rajesh K.</h4>
+                      <h3 className="font-bold text-[#2E2E2E] text-lg">Rajesh K.</h3>
                       <div className="flex gap-1 text-yellow-400">
                         ★★★★★
                       </div>
@@ -475,7 +475,7 @@ export default function WhatIsDeferredPayment() {
               <div className="bg-[#2E2E2E] rounded-3xl p-8 text-center text-white border border-white/10 shadow-2xl relative overflow-hidden group">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-[#1F5EFF]/20 rounded-bl-full group-hover:scale-150 transition-transform duration-700"></div>
                 <div className="relative z-10">
-                  <h3 className="text-2xl font-black mb-4">Bank Refusing a Moratorium?</h3>
+                  <div className="text-2xl font-black mb-4">Bank Refusing a Moratorium?</div>
                   <p className="text-white/80 mb-6 text-sm leading-relaxed">
                     If your bank rejects your deferment request, our advocates can intervene legally to stop harassment and negotiate a settlement.
                   </p>
@@ -487,7 +487,7 @@ export default function WhatIsDeferredPayment() {
 
               {/* Card 2: White Resources */}
               <div className="bg-white rounded-3xl p-8 border border-[#DEDEDE] shadow-sm">
-                <h4 className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Guides</h4>
+                <div className="text-sm font-black uppercase tracking-widest text-gray-400 border-b pb-4 mb-4">Related Guides</div>
                 <ul className="space-y-4">
                   {[
                     { text: "What Happens if EMI Not Paid", link: "/what-happens-if-loan-emi-not-paid" },

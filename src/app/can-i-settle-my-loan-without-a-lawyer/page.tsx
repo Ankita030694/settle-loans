@@ -246,7 +246,7 @@ export default function SettleWithoutLawyerPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-6 mb-8 text-left">
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                  <h4 className="font-bold mb-2 text-[#1F5EFF]">30-Day Pre-Action Notice</h4>
+                  <h3 className="font-bold mb-2 text-[#1F5EFF]">30-Day Pre-Action Notice</h3>
                   <p className="text-sm">Banks are now mandated to issue a formal 30 day pre notice before starting any legal or SARFAESI action. This is your "Golden Window" for negotiation.</p>
                 </div>
                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
@@ -272,7 +272,7 @@ export default function SettleWithoutLawyerPage() {
                     "Recovery agents have targets to collect, but Nodal Officers have targets to close disputes."
                 </p>
                 <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                    <h4 className="text-[#1F5EFF] font-bold mb-4 uppercase tracking-widest">How to use this lever:</h4>
+                    <h3 className="text-[#1F5EFF] font-bold mb-4 uppercase tracking-widest">How to use this lever:</h3>
                     <ol className="space-y-4 text-sm font-medium">
                         <li className="flex gap-4"><span className="text-[#1F5EFF] font-black">01.</span> <span>Find your bank's **Principal Nodal Officer (PNO)** contact info from the bank website or RBI's list.</span></li>
                         <li className="flex gap-4"><span className="text-[#1F5EFF] font-black">02.</span> <span>Send a formal dispute email, not a request. Mention that the collection agency is violating RBI's 2025 Fair Practice Code.</span></li>
@@ -336,7 +336,7 @@ export default function SettleWithoutLawyerPage() {
                 National Lok Adalats are the single most effective platform for DIY loan settlement. Judgments here are final, non appealable, and often come with 50% to 80% waivers.
               </p>
               <div className="bg-[#2E2E2E] text-white p-8 rounded-2xl mb-8">
-                <h4 className="text-[#1F5EFF] font-bold mb-4 uppercase tracking-widest">Mark Your Calendar 2025:</h4>
+                <h3 className="text-[#1F5EFF] font-bold mb-4 uppercase tracking-widest">Mark Your Calendar 2025:</h3>
                 <ul className="space-y-4 font-black text-xl italic">
                   <li className="flex justify-between border-b border-white/10 pb-2"><span>March 8, 2025</span> <span className="text-xs font-normal">Saturday</span></li>
                   <li className="flex justify-between border-b border-white/10 pb-2"><span>May 10, 2025</span> <span className="text-xs font-normal">Saturday</span></li>
@@ -358,7 +358,7 @@ export default function SettleWithoutLawyerPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
-                  <h4 className="font-bold border-b pb-2 mb-4">Credit Card Debt</h4>
+                  <h3 className="font-bold border-b pb-2 mb-4">Credit Card Debt</h3>
                   <p className="text-sm leading-relaxed">
                     <strong>The Dynamic:</strong> High compounding interest (36–45%) means your balance is mostly "air".
                     <br /><br />
@@ -383,7 +383,7 @@ export default function SettleWithoutLawyerPage() {
                 </p>
                 <div className="space-y-6">
                     <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
-                        <h4 className="font-bold mb-2">The "Anchor Pricing" Technique</h4>
+                        <h3 className="font-bold mb-2">The "Anchor Pricing" Technique</h3>
                         <p className="text-sm">Always start your offer at 20% of the total outstanding. Even if you are willing to pay 40%, the 20% "anchor" pulls the bank's counter-offer lower.</p>
                     </div>
                     <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl shadow-sm">
@@ -435,7 +435,7 @@ export default function SettleWithoutLawyerPage() {
                 If you follow all DIY steps and the bank still acts in bad faith—refusing to settle despite valid hardship or continuing harassment—you must use the <strong>RBI Integrated Ombudsman Scheme</strong>.
               </p>
               <div className="bg-red-50 p-8 rounded-xl border border-red-200 mb-8">
-                <h4 className="font-bold text-red-900 mb-4">Step-by-Step Ombudsman Filing:</h4>
+                <h3 className="font-bold text-red-900 mb-4">Step-by-Step Ombudsman Filing:</h3>
                 <ol className="space-y-3 text-sm text-red-800">
                   <li><strong>1. Written Complaint to Bank:</strong> You must first have a written complaint to the bank that is older than 30 days.</li>
                   <li><strong>2. Visit CMS Portal:</strong> Go to <code>cms.rbi.org.in</code>.</li>
@@ -501,7 +501,7 @@ export default function SettleWithoutLawyerPage() {
                     <div className="flex items-center mb-4">
                       <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">{review.name.charAt(0)}</div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -581,7 +581,7 @@ export default function SettleWithoutLawyerPage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white px-4">Start Your Debt Free Life</h3>
+                  <div className="text-lg font-black text-white px-4">Start Your Debt Free Life</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -596,7 +596,7 @@ export default function SettleWithoutLawyerPage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center underline">Must Read Guides</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center underline">Must Read Guides</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/loan-settlement-process-in-hindi" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

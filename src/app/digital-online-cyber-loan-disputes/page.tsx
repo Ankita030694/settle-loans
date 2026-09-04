@@ -323,7 +323,7 @@ export default function DigitalLoanDisputePage() {
 
                             <div className="grid sm:grid-cols-3 gap-4 my-8">
                                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center border-t-4 border-t-red-500">
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-red-600">Upfront Fees</h4>
+                                    <h3 className="font-bold text-[#2E2E2E] mb-2 uppercase text-xs tracking-widest text-red-600">Upfront Fees</h3>
                                     <p className="text-xs text-gray-500">Asking for a security deposit or processing fee before disbursement.</p>
                                 </div>
                                 <div className="bg-white p-5 rounded-xl border border-[#DEDEDE] shadow-sm text-center border-t-4 border-t-red-500">
@@ -472,7 +472,7 @@ export default function DigitalLoanDisputePage() {
                                                 {s.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{s.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{s.name}</h3>
                                                 <p className="text-xs text-gray-400">{s.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -542,7 +542,7 @@ export default function DigitalLoanDisputePage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col items-center">
                                 <div className="bg-[#1F5EFF] w-full p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Digital Helpdesk</h3>
+                                    <div className="text-lg font-black text-white">Digital Helpdesk</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <div className="w-16 h-16 bg-[#1F5EFF]/10 rounded-full flex items-center justify-center mx-auto mb-4 border border-[#1F5EFF]/20">
@@ -558,7 +558,7 @@ export default function DigitalLoanDisputePage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Support</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Support</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/legal-notice-for-loan-recovery" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

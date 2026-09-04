@@ -339,7 +339,7 @@ export default function NoidaLoanSettlementPage() {
               <p>At SettleLoans, we believe that a structured problem requires a structured solution. Our settlement process for Noida residents is refined over thousands of successful cases and is designed to take the burden off your shoulders from day one. It is a journey of five distinct steps that lead you from debt stress to financial freedom.</p>
               <ul className="list-none p-0 space-y-6">
                 <li className="bg-gray-50 p-6 rounded-xl border-l-4 border-[#1F5EFF]">
-                  <h4 className="font-black text-xl mb-2">1. The Financial Soul Searching (Analysis)</h4>
+                  <h3 className="font-black text-xl mb-2">1. The Financial Soul Searching (Analysis)</h3>
                   <p>We start with a deep dive into your finances. We don't just look at what you owe; we look at why you can't pay. We document your financial hardship, analyze your income vs expenses, and determine a realistic 'Settlement Budget'. This ensures that any offer we make to the bank is one you can actually afford to fulfill.</p>
                 </li>
                 <li className="bg-gray-50 p-6 rounded-xl border-l-4 border-[#1F5EFF]">
@@ -478,7 +478,7 @@ export default function NoidaLoanSettlementPage() {
               {/* Specialized Noida CTA */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 flex flex-col">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white px-2 leading-tight uppercase tracking-tighter">Noida Helpdesk</h3>
+                  <div className="text-lg font-black text-white px-2 leading-tight uppercase tracking-tighter">Noida Helpdesk</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -493,7 +493,7 @@ export default function NoidaLoanSettlementPage() {
 
               {/* Trust Section */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                 <h3 className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Why Noida Trusts Us</h3>
+                 <div className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Why Noida Trusts Us</div>
                  <div className="space-y-4">
                     <div className="flex gap-3">
                        <span className="text-[#1F5EFF] text-xs">✓</span>
@@ -512,7 +512,7 @@ export default function NoidaLoanSettlementPage() {
 
               {/* Related Services */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Noida Services</h3>
+                <div className="text-[10px] font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Noida Services</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li>
                     <Link href="/services/personal-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

@@ -1120,9 +1120,9 @@ export default function ChequeBounceHoneParKyaHogaPage() {
                 <ShieldAlert className="w-3 h-3" />
                 <span>Urgent Section 138 Desk</span>
               </div>
-              <h3 className="text-base font-black text-white mb-2 leading-snug">
+              <div className="text-base font-black text-white mb-2 leading-snug">
                 Received a Cheque Bounce Notice?
-              </h3>
+              </div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let the 15-day statutory window lapse. Connect with SettleLoans senior banking advocates to draft a formal rejoinder, secure court bail, and initiate OTS compounding.
               </p>

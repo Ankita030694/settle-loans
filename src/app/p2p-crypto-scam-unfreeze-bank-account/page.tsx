@@ -329,7 +329,7 @@ export default function P2PCryptoScamUnfreezePage() {
                 Crucially, Section 106(3) of the BNSS mandates that the police officer shall forthwith report the seizure to the Magistrate having jurisdiction. This is a critical check and balance designed to prevent the abuse of powers by law enforcement. Many frozen accounts are released by High Courts simply because the police failed to comply with this mandatory reporting requirement.
               </p>
               <div className="bg-amber-50 p-8 rounded-xl border border-amber-200 mb-8">
-                <h4 className="font-bold text-amber-900 mb-4">Key Legal Takeaway: The Mandatory Report</h4>
+                <h3 className="font-bold text-amber-900 mb-4">Key Legal Takeaway: The Mandatory Report</h3>
                 <p className="text-sm text-amber-800 leading-relaxed">
                   If the police freeze your account but do not inform the Magistrate 'forthwith', the freeze becomes legally unsustainable. A competent lawyer can file a petition in the High Court to quash such a freeze order based on procedural lapses alone. This demonstrates that while the police have power, that power is strictly bounded by the rules of procedure.
                 </p>
@@ -358,7 +358,7 @@ export default function P2PCryptoScamUnfreezePage() {
                 <div className="flex gap-6">
                   <div className="flex-shrink-0 w-12 h-12 bg-[#1F5EFF] text-white rounded-full flex items-center justify-center font-black text-xl">1</div>
                   <div>
-                    <h4 className="text-xl font-bold text-[#2E2E2E] mb-2">Engage with Your Bank Manager</h4>
+                    <h3 className="text-xl font-bold text-[#2E2E2E] mb-2">Engage with Your Bank Manager</h3>
                     <p className="text-gray-600 leading-relaxed">
                       Visit your home branch in person. Ask for the "Freeze Order Details". You need three pieces of information: The name of the Cyber Cell/Police Station, the Complaint ID (Acknowledge Number), and the name of the Investigating Officer (IO). Do not leave until you have these details in writing or over official email.
                     </p>
@@ -410,7 +410,7 @@ export default function P2PCryptoScamUnfreezePage() {
             </section>
 
             <section id="magistrate-court-role" className="scroll-mt-32 mb-16">
-              <h4 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Magistrate Court Route (Section 503 BNSS)</h4>
+              <h3 className="text-2xl font-bold text-[#2E2E2E] mb-4">The Magistrate Court Route (Section 503 BNSS)</h3>
               <p className="text-lg leading-relaxed mb-6">
                 You can file an application under Section 503 of the BNSS (formerly 457 CrPC) before the Magistrate who has jurisdiction over the police station that issued the freeze. In this application, you request the court to release your account. The court usually asks the police for a 'Status Report'.
               </p>
@@ -485,7 +485,7 @@ export default function P2PCryptoScamUnfreezePage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 my-10">
                 <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
-                  <h4 className="font-bold mb-3 text-[#1F5EFF]">1. Third-Party Check</h4>
+                  <h3 className="font-bold mb-3 text-[#1F5EFF]">1. Third-Party Check</h3>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     NEVER accept money from a bank account that does not match the name on the crypto platform. Fraudsters often use stolen accounts for transfers. If names do not match, refund the money immediately and cancel the trade.
                   </p>
@@ -526,7 +526,7 @@ export default function P2PCryptoScamUnfreezePage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-500 text-sm">★★★★★</div>
@@ -606,7 +606,7 @@ export default function P2PCryptoScamUnfreezePage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#1F5EFF]/20 p-6">
                 <div className="text-center mb-6">
-                  <h3 className="text-xl font-black text-white mb-2 uppercase tracking-tighter">Frozen Account?</h3>
+                  <div className="text-xl font-black text-white mb-2 uppercase tracking-tighter">Frozen Account?</div>
                   <p className="text-[#DEDEDE]/70 text-sm">Our legal experts have resolved 500+ bank freeze cases this year alone.</p>
                 </div>
                 <Link href="/contact" className="inline-block w-full bg-[#1F5EFF] text-white font-black py-4 px-4 rounded-xl hover:scale-105 transition-all text-sm text-center shadow-lg">
@@ -625,7 +625,7 @@ export default function P2PCryptoScamUnfreezePage() {
 
               {/* Related Pages Container */}
               <div className="bg-white rounded-2xl border border-[#DEDEDE] shadow-sm p-6">
-                <h3 className="text-sm font-bold uppercase tracking-wider text-[#2E2E2E] mb-4">Related Guides</h3>
+                <div className="text-sm font-bold uppercase tracking-wider text-[#2E2E2E] mb-4">Related Guides</div>
                 <nav className="flex flex-col gap-3">
                   <Link href="/how-to-avoid-debt-settlement-scams-in-india" className="text-sm text-blue-600 hover:underline">How to Avoid Financial Scams</Link>
                   <Link href="/digital-online-cyber-loan-disputes" className="text-sm text-blue-600 hover:underline">Cyber Loan Dispute Guide</Link>

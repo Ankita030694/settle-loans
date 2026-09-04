@@ -345,7 +345,7 @@ export default function MSMELoanDisputePage() {
                                     <div className="text-[#1F5EFF] mb-4">
                                         <FontAwesomeIcon icon={faGavel} className="w-8 h-8" />
                                     </div>
-                                    <h4 className="font-bold text-[#2E2E2E] mb-2">Interim Stays</h4>
+                                    <h3 className="font-bold text-[#2E2E2E] mb-2">Interim Stays</h3>
                                     <p className="text-xs text-gray-500">Securing immediate orders to prevent bank from taking physical possession of business units.</p>
                                 </div>
                                 <div className="bg-white p-6 rounded-xl border border-[#DEDEDE] shadow-sm">
@@ -428,7 +428,7 @@ export default function MSMELoanDisputePage() {
                             </p>
                             <div className="grid md:grid-cols-2 gap-4 mb-8">
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
-                                    <h4 className="font-bold mb-2">Technical Expertise</h4>
+                                    <h3 className="font-bold mb-2">Technical Expertise</h3>
                                     <p className="text-sm text-gray-500">The lawyer must understand banking accounts, NPA rules, and the nuances of securitization laws.</p>
                                 </div>
                                 <div className="p-6 bg-white border border-[#DEDEDE] rounded-xl">
@@ -485,7 +485,7 @@ export default function MSMELoanDisputePage() {
                                                 {review.name.charAt(0)}
                                             </div>
                                             <div>
-                                                <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                                <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                                 <p className="text-xs text-gray-400">{review.loc}</p>
                                             </div>
                                             <div className="ml-auto text-yellow-400 text-sm flex gap-0.5">
@@ -580,10 +580,10 @@ export default function MSMELoanDisputePage() {
                             {/* CTA Container */}
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white flex items-center justify-center gap-2">
+                                    <div className="text-lg font-black text-white flex items-center justify-center gap-2">
                                         <FontAwesomeIcon icon={faUserTie} />
                                         MSME Shield
-                                    </h3>
+                                    </div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -598,7 +598,7 @@ export default function MSMELoanDisputePage() {
 
                             {/* Related Pages Container */}
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Business Protection</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2 text-center">Business Protection</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     <li>
                                         <Link href="/business-loan-settlement" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors">

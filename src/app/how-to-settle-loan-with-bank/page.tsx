@@ -204,7 +204,7 @@ export default function HowToSettleLoanWithBankPage() {
                                 <div className="flex gap-8">
                                     <span className="text-5xl font-black text-[#1F5EFF]">01</span>
                                     <div>
-                                        <h4 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Financial Assessment</h4>
+                                        <h3 className="text-2xl font-bold mb-2 text-[#DEDEDE]">Financial Assessment</h3>
                                         <p className="opacity-70 text-lg">Calculate your real debt. Separate the principal from the interest, penal charges, and processing fees. Determine the maximum lump-sum you can realistically pay.</p>
                                     </div>
                                 </div>
@@ -253,7 +253,7 @@ export default function HowToSettleLoanWithBankPage() {
                             </p>
                             <div className="space-y-6">
                                 <div className="p-6 border-l-4 border-green-500 bg-green-50">
-                                    <h4 className="font-black text-green-800 mb-2 underline tracking-tighter uppercase">Board-Approved Policies</h4>
+                                    <h3 className="font-black text-green-800 mb-2 underline tracking-tighter uppercase">Board-Approved Policies</h3>
                                     <p className="text-green-900 leading-relaxed">No bank can deny a settlement without a valid reason if the borrower meets the board-approved criteria. You have the right to ask for a summary of these criteria.</p>
                                 </div>
                                 <div className="p-6 border-l-4 border-blue-500 bg-blue-50">
@@ -301,7 +301,7 @@ export default function HowToSettleLoanWithBankPage() {
                                     { title: "Social Media Protection", desc: "If they tag you or your family on social media, it is a criminal offence. File a complaint under cyber law immediately." }
                                 ].map((step, i) => (
                                     <div key={i} className="group p-8 border border-[#DEDEDE] rounded-3xl hover:border-[#FFA500] hover:bg-orange-50 transition-all">
-                                        <h4 className="text-xl font-black text-[#2E2E2E] mb-2">{step.title}</h4>
+                                        <h3 className="text-xl font-black text-[#2E2E2E] mb-2">{step.title}</h3>
                                         <p className="text-[#747474] leading-relaxed">{step.desc}</p>
                                     </div>
                                 ))}
@@ -331,7 +331,7 @@ export default function HowToSettleLoanWithBankPage() {
                             </p>
                             <div className="md:flex gap-12 items-center">
                                 <div className="flex-1">
-                                    <h4 className="text-xl font-black mb-4 border-b-2 border-[#1F5EFF] pb-2 inline-block">The Recovery Timeline</h4>
+                                    <h3 className="text-xl font-black mb-4 border-b-2 border-[#1F5EFF] pb-2 inline-block">The Recovery Timeline</h3>
                                     <ul className="space-y-4 opacity-70 mb-8 md:mb-0">
                                         <li>• **Months 1-6**: Score stabilizes. No new defaults.</li>
                                         <li>• **Months 7-12**: Start a Fixed Deposit (FD) backed credit card.</li>
@@ -385,7 +385,7 @@ export default function HowToSettleLoanWithBankPage() {
                                             <div className="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center font-bold text-blue-600 mr-3">
                                                 {review.name.charAt(0)}
                                             </div>
-                                            <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                                            <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                                             <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
                                         </div>
                                         <div className="mb-4 flex gap-4 text-[10px] font-mono">
@@ -440,7 +440,7 @@ export default function HowToSettleLoanWithBankPage() {
                                     { q: "How do I ensure the settlement is final?", a: "Only the No-Dues Certificate (NDC) and a formal update from the bank to the credit bureaus like CIBIL confirm the finality of the settlement." }
                                 ].map((faq, i) => (
                                     <div key={i} className="p-8 bg-white border border-[#DEDEDE] rounded-3xl shadow-sm transition-all hover:shadow-lg">
-                                        <h4 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h4>
+                                        <h3 className="font-black text-[#2E2E2E] mb-4 text-xl border-b pb-2 border-[#1F5EFF]/10">{faq.q}</h3>
                                         <p className="text-gray-600 leading-relaxed text-lg italic">"{faq.a}"</p>
                                     </div>
                                 ))}
@@ -465,7 +465,7 @@ export default function HowToSettleLoanWithBankPage() {
                         <div className="sticky top-24 space-y-8">
                             <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                                 <div className="bg-[#1F5EFF] p-4 text-center">
-                                    <h3 className="text-lg font-black text-white">Need Professional Help?</h3>
+                                    <div className="text-lg font-black text-white">Need Professional Help?</div>
                                 </div>
                                 <div className="p-6 text-center">
                                     <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -479,7 +479,7 @@ export default function HowToSettleLoanWithBankPage() {
                             </div>
 
                             <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Help</h3>
+                                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">Related Help</div>
                                 <ul className="space-y-4 text-sm font-bold">
                                     {[
                                         { name: "Loan Settlement Near Me", href: "/loan-settlement-near-me" },

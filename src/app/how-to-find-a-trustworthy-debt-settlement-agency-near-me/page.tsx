@@ -262,7 +262,7 @@ export default function FindAgencyNearMePage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
-                  <h4 className="text-xl font-bold mb-3 text-[#1F5EFF]">Google Maps and GMB</h4>
+                  <h3 className="text-xl font-bold mb-3 text-[#1F5EFF]">Google Maps and GMB</h3>
                   <p className="text-gray-700 leading-relaxed font-medium">Use Google Maps to find agencies with verified business profiles. Look for those with high ratings but, more importantly, read the detailed reviews. Do the reviews sound genuine? Do they mention specific interactions with lenders? A verified office location on the map is a strong indicator of legitimacy.</p>
                 </div>
                 <div className="p-6 bg-white border border-gray-200 rounded-2xl shadow-sm">
@@ -393,7 +393,7 @@ export default function FindAgencyNearMePage() {
                 <div className="flex gap-6">
                   <div className="w-12 h-12 rounded-full bg-[#1F5EFF] text-white flex items-center justify-center font-black shrink-0 shadow-lg">1</div>
                   <div>
-                    <h4 className="text-xl font-bold mb-2">Initial Local Research</h4>
+                    <h3 className="text-xl font-bold mb-2">Initial Local Research</h3>
                     <p className="text-gray-600">Start with Google and local reviews. Focus on the quality of feedback rather than the quantity. Look for agencies that have been operating for at least 3 to 5 years and have a track record of resolving cases with major Indian banks.</p>
                   </div>
                 </div>
@@ -430,7 +430,7 @@ export default function FindAgencyNearMePage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8 mb-8">
                 <div className="p-8 bg-white border border-gray-200 rounded-2xl shadow-sm hover:shadow-md transition-shadow">
-                  <h4 className="text-xl font-bold mb-4 text-[#1F5EFF]">The Mumbai Credit Card Crisis</h4>
+                  <h3 className="text-xl font-bold mb-4 text-[#1F5EFF]">The Mumbai Credit Card Crisis</h3>
                   <p className="text-gray-600 mb-4">A young professional in Mumbai had aggregated over 15 lakhs in credit card debt across four banks. Using the services of <a href="https://credsettle.com" target="_blank" rel="noopener noreferrer" className="text-[#1F5EFF] hover:underline">CredSettle</a>, they were able to consolidate the communication and negotiate settlements that reduced the total payout by 55%. The agency's local knowledge of Mumbai's recovery patterns was key to stopping the aggressive calls.</p>
                 </div>
                 <div className="p-8 bg-white border border-gray-200 rounded-2xl shadow-sm hover:shadow-md transition-shadow">
@@ -502,7 +502,7 @@ export default function FindAgencyNearMePage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -542,7 +542,7 @@ export default function FindAgencyNearMePage() {
               {/* CTA Container */}
               <div className="bg-[#2E2E2E] rounded-2xl shadow-xl overflow-hidden border border-[#DEDEDE]/10 group">
                 <div className="bg-[#1F5EFF] p-4 text-center">
-                  <h3 className="text-lg font-black text-white uppercase tracking-tight">Expert Local Help</h3>
+                  <div className="text-lg font-black text-white uppercase tracking-tight">Expert Local Help</div>
                 </div>
                 <div className="p-6 text-center">
                   <p className="mb-6 text-sm text-[#DEDEDE] opacity-80 leading-relaxed font-bold">
@@ -556,7 +556,7 @@ export default function FindAgencyNearMePage() {
 
               {/* Related Pages Container */}
               <div className="bg-white p-6 rounded-2xl border border-[#DEDEDE] shadow-sm">
-                <h3 className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">More Help Nearby</h3>
+                <div className="text-sm font-black uppercase tracking-wider text-[#747474] mb-4 border-b border-[#DEDEDE] pb-2">More Help Nearby</div>
                 <ul className="space-y-4 text-sm font-bold">
                   <li><Link href="/how-to-choose-a-trustworthy-debt-settlement-provider" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Choosing a Provider</Link></li>
                   <li><Link href="/loan-settlement-lawyers" className="group flex items-center text-[#2E2E2E] hover:text-[#1F5EFF] transition-colors"><span className="w-1.5 h-1.5 bg-[#DEDEDE] rounded-full mr-3 group-hover:bg-[#1F5EFF]"></span>Local Settlement Lawyers</Link></li>

@@ -1107,9 +1107,9 @@ export default function BankKaLegalNoticeAaneParKyaKarePage() {
                 <ShieldAlert className="w-3 h-3" />
                 <span>Urgent 15-Day Reply Desk</span>
               </div>
-              <h3 className="text-base font-black text-white mb-2 leading-snug">
+              <div className="text-base font-black text-white mb-2 leading-snug">
                 Received a Bank Legal Notice?
-              </h3>
+              </div>
               <p className="text-xs text-slate-300 leading-relaxed mb-4">
                 Do not let the 15-day window lapse. Connect with SettleLoans senior advocates to draft a formal legal rejoinder, halt civil court summons, and initiate compromise settlement.
               </p>

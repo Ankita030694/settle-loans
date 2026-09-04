@@ -297,7 +297,7 @@ export default function EffectiveNegotiationPage() {
                
                <div className="space-y-8">
                   <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
-                    <h4 className="text-xl font-bold mb-3 text-blue-700 uppercase tracking-tighter">1. Hardship Profiling (The Data Shield)</h4>
+                    <h3 className="text-xl font-bold mb-3 text-blue-700 uppercase tracking-tighter">1. Hardship Profiling (The Data Shield)</h3>
                     <p className="text-md leading-relaxed text-gray-600">Professionals do not just tell the bank you have no money. They create a "Hardship Profile" using GST filings, medical reports, and termination letters. This proves to the bank's audit committee that a settlement is the most logical outcome, as the borrower has no assets to attach.</p>
                   </div>
                   <div className="p-6 bg-white border border-gray-100 rounded-xl shadow-sm">
@@ -404,7 +404,7 @@ export default function EffectiveNegotiationPage() {
                </p>
                <div className="grid md:grid-cols-2 gap-8 mb-8">
                   <div className="p-6 bg-white border border-gray-100 rounded-xl">
-                    <h4 className="font-black text-xs uppercase text-blue-600 mb-2">HDFC and ICICI Bank</h4>
+                    <h3 className="font-black text-xs uppercase text-blue-600 mb-2">HDFC and ICICI Bank</h3>
                     <p className="text-sm">These private giants are highly process-driven. They rarely settle in the first 90 days of default. Negotiation usually becomes effective only after the account is classified as D1 or D2 (Doubtful) category. Target waivers: 40 percent to 50 percent.</p>
                   </div>
                   <div className="p-6 bg-white border border-gray-100 rounded-xl">
@@ -447,11 +447,11 @@ export default function EffectiveNegotiationPage() {
               </p>
               <div className="grid md:grid-cols-2 gap-8">
                 <div className="bg-white p-6 rounded-xl border border-blue-50">
-                  <h5 className="font-black text-blue-600 mb-2 uppercase text-xs">A. Experience and Benchmarks</h5>
+                  <h3 className="font-black text-blue-600 mb-2 uppercase text-xs">A. Experience and Benchmarks</h3>
                   <p className="text-sm">Knowing that Bank A typically settles personal loans at 45 percent whereas Bank B rarely goes below 60 percent allows a negotiator to set realistic expectations and push the limits.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-blue-50">
-                  <h5 className="font-black text-blue-600 mb-2 uppercase text-xs">B. Legal Leverage</h5>
+                  <h4 className="font-black text-blue-600 mb-2 uppercase text-xs">B. Legal Leverage</h4>
                   <p className="text-sm">A legal notice from a registered advocate carries more weight than a request from a third party agency. It signals to the bank that the borrower is aware of their rights.</p>
                 </div>
                 <div className="bg-white p-6 rounded-xl border border-blue-50">
@@ -531,7 +531,7 @@ export default function EffectiveNegotiationPage() {
                <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 text-[#1F5EFF]">Part 24: Common Negotiation Myths in the Indian Market</h2>
                <div className="space-y-6">
                  <div className="p-6 bg-white border border-blue-50 rounded-2xl">
-                   <h4 className="font-bold text-blue-700 mb-2">Myth 1: "I can just ignore the banks and they will settle eventually."</h4>
+                   <h3 className="font-bold text-blue-700 mb-2">Myth 1: "I can just ignore the banks and they will settle eventually."</h3>
                    <p className="text-sm text-gray-600 italic">Reality: Ignoring the bank leads to litigation and escalating penal interest. Effective negotiation requires proactive communication, not avoidance.</p>
                  </div>
                  <div className="p-6 bg-white border border-blue-50 rounded-2xl">
@@ -651,7 +651,7 @@ export default function EffectiveNegotiationPage() {
                 <h2 className="text-3xl md:text-4xl font-black mb-8 relative z-10">DIY Negotiation vs Professional Experts</h2>
                 <div className="grid md:grid-cols-2 gap-12 relative z-10">
                   <div>
-                    <h4 className="font-bold text-blue-400 mb-4 uppercase tracking-widest text-xs">DIY Negotiation</h4>
+                    <h3 className="font-bold text-blue-400 mb-4 uppercase tracking-widest text-xs">DIY Negotiation</h3>
                     <p className="text-sm leading-relaxed mb-4 text-gray-300">Great for small debts or those with plenty of time. You control the process and save on fees. However, the emotional toll of recovery harassment is high, and you may miss out on deeper waivers due to lack of experience.</p>
                     <p className="text-xs font-bold text-red-400">Success Rate: ~20 percent to 30 percent</p>
                   </div>
@@ -702,7 +702,7 @@ export default function EffectiveNegotiationPage() {
                         {review.name.charAt(0)}
                       </div>
                       <div>
-                        <h5 className="font-bold text-[#2E2E2E]">{review.name}</h5>
+                        <h3 className="font-bold text-[#2E2E2E]">{review.name}</h3>
                         <p className="text-xs text-gray-400">{review.loc}</p>
                       </div>
                       <div className="ml-auto text-yellow-400 text-sm">★★★★★</div>
@@ -749,7 +749,7 @@ export default function EffectiveNegotiationPage() {
           <aside className="hidden lg:block w-1/5 min-w-[280px]">
             <div className="sticky top-32 space-y-8">
               <div className="bg-[#2E2E2E] rounded-2xl p-8 shadow-xl border border-[#1F5EFF]/20">
-                <h3 className="text-xl font-black text-white mb-4 leading-tight">Expert Negotiation <br /> Audit</h3>
+                <div className="text-xl font-black text-white mb-4 leading-tight">Expert Negotiation <br /> Audit</div>
                 <p className="text-[#DEDEDE]/70 text-sm mb-6 font-normal">Our legal team specializes in high-impact debt waivers and anti-harassment shield.</p>
                 <Link href="/contact" className="block w-full bg-[#1F5EFF] text-white text-center font-bold py-4 rounded-xl hover:bg-blue-600 transition-all text-sm shadow-lg mb-4">
                   Talk to an Expert
@@ -758,7 +758,7 @@ export default function EffectiveNegotiationPage() {
               </div>
 
               <div className="bg-white rounded-2xl p-8 border border-gray-100 shadow-sm">
-                <h3 className="text-sm font-black text-[#747474] mb-6 uppercase tracking-widest italic">Related Resources</h3>
+                <div className="text-sm font-black text-[#747474] mb-6 uppercase tracking-widest italic">Related Resources</div>
                 <div className="space-y-4 border-l-2 border-[#1F5EFF]/10 pl-4 text-sm font-bold">
                   <Link href="/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement" className="block hover:text-[#1F5EFF] transition-colors leading-snug">
                     Pros & Cons of Settlement
