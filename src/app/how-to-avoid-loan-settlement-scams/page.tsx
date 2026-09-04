@@ -18,17 +18,17 @@ export const metadata: Metadata = {
     'settleloans fraud prevention and legal relief',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/how-to-avoid-loan-settlement-scams',
+    canonical: 'https://www.settleloans.in/how-to-avoid-loan-settlement-scams',
   },
   openGraph: {
     title: 'How to Identify Fake Loan Settlement Companies & Avoid OTS Scams (2026)',
     description:
       'Exhaustive investigative guide on identifying fake loan settlement companies in India. Learn the 7 fraud red flags, forensic OTS letter verification checklist, and safe debt resolution protocols.',
-    url: 'https://settleloans.in/how-to-avoid-loan-settlement-scams',
+    url: 'https://www.settleloans.in/how-to-avoid-loan-settlement-scams',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/how-to-avoid-loan-settlement-scams.jpg',
+        url: 'https://www.settleloans.in/images/infographics/how-to-avoid-loan-settlement-scams.jpg',
         width: 1200,
         height: 630,
         alt: 'How to Avoid Loan Settlement Scams - SettleLoans Fraud Prevention Guide',
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     title: 'How to Avoid Loan Settlement Scams & Identify Fake Agencies in India',
     description:
       'Terrified of paying upfront fees and getting scammed? Discover how to spot fake debt settlement companies, verify bank sanction letters, and choose ethical legal representation.',
-    images: ['https://settleloans.in/images/infographics/how-to-avoid-loan-settlement-scams.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/how-to-avoid-loan-settlement-scams.jpg'],
   },
 };
 
@@ -51,74 +51,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/how-to-avoid-loan-settlement-scams#webpage",
-      "url": "https://settleloans.in/how-to-avoid-loan-settlement-scams",
+      "@id": "https://www.settleloans.in/how-to-avoid-loan-settlement-scams#webpage",
+      "url": "https://www.settleloans.in/how-to-avoid-loan-settlement-scams",
       "name": "How to Identify Fake Loan Settlement Companies & Avoid Scams (2026)",
       "description": "Worried about loan settlement fraud? Learn how to identify fake loan settlement companies, spot upfront fee scams, verify authentic bank OTS letters, and protect your rights.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/how-to-avoid-loan-settlement-scams#breadcrumb"
+        "@id": "https://www.settleloans.in/how-to-avoid-loan-settlement-scams#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/how-to-avoid-loan-settlement-scams#breadcrumb",
+      "@id": "https://www.settleloans.in/how-to-avoid-loan-settlement-scams#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "How to Avoid Loan Settlement Scams",
-          "item": "https://settleloans.in/how-to-avoid-loan-settlement-scams"
+          "item": "https://www.settleloans.in/how-to-avoid-loan-settlement-scams"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/how-to-avoid-loan-settlement-scams#article",
+      "@id": "https://www.settleloans.in/how-to-avoid-loan-settlement-scams#article",
       "headline": "How to Identify Fake Loan Settlement Companies & Avoid OTS Scams in India (2026 Guide)",
       "description": "An exhaustive, authoritative guide on identifying fake loan settlement companies, spotting upfront fee traps, forensically verifying bank OTS sanction letters, and navigating legal recourse under Indian law.",
-      "image": "https://settleloans.in/images/infographics/how-to-avoid-loan-settlement-scams.jpg",
+      "image": "https://www.settleloans.in/images/infographics/how-to-avoid-loan-settlement-scams.jpg",
       "datePublished": "2026-08-20T14:26:57+05:30",
       "dateModified": "2026-08-20T14:26:57+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-avoid-loan-settlement-scams#webpage"
+        "@id": "https://www.settleloans.in/how-to-avoid-loan-settlement-scams#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/how-to-avoid-loan-settlement-scams#service",
+      "@id": "https://www.settleloans.in/how-to-avoid-loan-settlement-scams#service",
       "name": "SettleLoans - Debt Settlement Scam Verification & Legal Protection",
       "description": "Professional legal verification of bank OTS sanction letters, advocate-led hardship dispute resolution, and 100% transparent performance-based debt settlement services in India.",
-      "url": "https://settleloans.in/how-to-avoid-loan-settlement-scams",
-      "image": "https://settleloans.in/images/infographics/how-to-avoid-loan-settlement-scams.jpg",
+      "url": "https://www.settleloans.in/how-to-avoid-loan-settlement-scams",
+      "image": "https://www.settleloans.in/images/infographics/how-to-avoid-loan-settlement-scams.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -131,9 +131,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -207,7 +207,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/how-to-avoid-loan-settlement-scams#faq",
+      "@id": "https://www.settleloans.in/how-to-avoid-loan-settlement-scams#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -293,12 +293,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

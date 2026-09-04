@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "Can Recovery Agents Come to Your Home? | Legal Rights in India",
     description: "Discover the legal truth about recovery agent home visits. Learn about RBI guidelines, authorization requirements, and your right to refuse entry under IPC Section 441.",
     alternates: {
-        canonical: "https://settleloans.in/can-recovery-agents-come-home",
+        canonical: "https://www.settleloans.in/can-recovery-agents-come-home",
     },
 };
 
@@ -17,34 +17,34 @@ export default function CanRecoveryAgentsComeHomePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/can-recovery-agents-come-home#webpage",
-                "url": "https://settleloans.in/can-recovery-agents-come-home",
+                "@id": "https://www.settleloans.in/can-recovery-agents-come-home#webpage",
+                "url": "https://www.settleloans.in/can-recovery-agents-come-home",
                 "name": "Can Recovery Agents Legally Visit Your Home in India?",
                 "description": "A comprehensive legal guide on the boundaries of debt recovery home visits, including RBI mandates and borrower protections.",
-                "breadcrumb": { "@id": "https://settleloans.in/can-recovery-agents-come-home#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/can-recovery-agents-come-home#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/can-recovery-agents-come-home#breadcrumb",
+                "@id": "https://www.settleloans.in/can-recovery-agents-come-home#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Recovery Agent Home Visits",
-                        "item": "https://settleloans.in/can-recovery-agents-come-home"
+                        "item": "https://www.settleloans.in/can-recovery-agents-come-home"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/can-recovery-agents-come-home#article",
+                "@id": "https://www.settleloans.in/can-recovery-agents-come-home#article",
                 "headline": "Can Recovery Agents Come to Your House? Knowing Your Legal Standing",
                 "description": "Breaking down the laws of trespass, RBI circulars, and the specific hours when recovery agents can and cannot visit your residence.",
                 "author": {
@@ -56,16 +56,16 @@ export default function CanRecoveryAgentsComeHomePage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-10",
                 "dateModified": "2024-03-10",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/can-recovery-agents-come-home#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-recovery-agents-come-home#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/can-recovery-agents-come-home#product",
+                "@id": "https://www.settleloans.in/can-recovery-agents-come-home#product",
                 "name": "Home Visit Defense Support",
                 "description": "Expert legal assistance in stopping illegal home visits and handling aggressive debt collectors at your doorstep.",
                 "aggregateRating": {
@@ -76,7 +76,7 @@ export default function CanRecoveryAgentsComeHomePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/can-recovery-agents-come-home#faq",
+                "@id": "https://www.settleloans.in/can-recovery-agents-come-home#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

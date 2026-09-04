@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How to Avoid Debt Settlement Scams in India | Red Flags 2024",
   description: "Stay safe from fraudulent debt relief agencies in India. Learn to identify red flags like upfront fee demands, fake RBI registrations, and guaranteed 100% waivers.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-avoid-debt-settlement-scams-in-india",
+    canonical: "https://www.settleloans.in/how-to-avoid-debt-settlement-scams-in-india",
   },
 };
 
@@ -59,39 +59,39 @@ export default function ScamPreventionPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-avoid-debt-settlement-scams-in-india#webpage",
-        "url": "https://settleloans.in/how-to-avoid-debt-settlement-scams-in-india",
+        "@id": "https://www.settleloans.in/how-to-avoid-debt-settlement-scams-in-india#webpage",
+        "url": "https://www.settleloans.in/how-to-avoid-debt-settlement-scams-in-india",
         "name": "Guide to Avoiding Debt Settlement Scams in India",
         "description": "Critical information for Indian borrowers to identify and avoid fraudulent debt relief practices.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-avoid-debt-settlement-scams-in-india#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-avoid-debt-settlement-scams-in-india#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-avoid-debt-settlement-scams-in-india#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-avoid-debt-settlement-scams-in-india#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Avoiding Scams", "item": "https://settleloans.in/how-to-avoid-debt-settlement-scams-in-india" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Avoiding Scams", "item": "https://www.settleloans.in/how-to-avoid-debt-settlement-scams-in-india" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-avoid-debt-settlement-scams-in-india#article",
+        "@id": "https://www.settleloans.in/how-to-avoid-debt-settlement-scams-in-india#article",
         "headline": "How to Avoid Debt Settlement Scams in India: A Comprehensive Guide",
         "description": "Protect yourself from predatory lenders and fake debt relief consultants. Learn the 5 most common scams and how to verify legitimate help.",
         "author": { "@type": "Organization", "name": "SettleLoans Fraud Prevention Unit" },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+          "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
         },
         "datePublished": "2024-03-16",
         "dateModified": "2024-03-16",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-avoid-debt-settlement-scams-in-india#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-avoid-debt-settlement-scams-in-india#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-avoid-debt-settlement-scams-in-india#product",
+        "@id": "https://www.settleloans.in/how-to-avoid-debt-settlement-scams-in-india#product",
         "name": "Scam Prevention Checklist",
         "description": "Expert-vetted checklist to verify the legitimacy of debt settlement agencies.",
         "aggregateRating": {
@@ -111,7 +111,7 @@ export default function ScamPreventionPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-avoid-debt-settlement-scams-in-india#faq",
+        "@id": "https://www.settleloans.in/how-to-avoid-debt-settlement-scams-in-india#faq",
         "mainEntity": faqs.map(faq => ({
           "@type": "Question",
           "name": faq.q,

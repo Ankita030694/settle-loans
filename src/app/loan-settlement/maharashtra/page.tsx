@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Maharashtra Debt Settlement | Legal Relief from Overwhelming Loans",
   description: "Find legal debt resolution in Mumbai, Pune, and Nagpur. Our Maharashtra-specific loan settlement guide covers the 2014 Money Lending Act and Bombay High Court rulings to help you achieve a 40-70% waiver.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/maharashtra",
+    canonical: "https://www.settleloans.in/loan-settlement/maharashtra",
   },
 };
 
@@ -16,47 +16,47 @@ export default function MaharashtraLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/maharashtra#webpage",
-        "url": "https://settleloans.in/loan-settlement/maharashtra",
+        "@id": "https://www.settleloans.in/loan-settlement/maharashtra#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/maharashtra",
         "name": "Maharashtra Debt Settlement Portal | Legal Relief from Overwhelming Loans",
         "description": "Find legal debt resolution in Mumbai, Pune, and Nagpur. Our Maharashtra-specific loan settlement guide covers the 2014 Money Lending Act and Bombay High Court rulings to help you achieve a 40-70% waiver.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/maharashtra#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/maharashtra#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/maharashtra#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/maharashtra#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/maharashtra#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/maharashtra#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Maharashtra Debt Resolution",
-            "item": "https://settleloans.in/loan-settlement/maharashtra"
+            "item": "https://www.settleloans.in/loan-settlement/maharashtra"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/maharashtra#service",
+        "@id": "https://www.settleloans.in/loan-settlement/maharashtra#service",
         "name": "Maharashtra Legal Debt Resolution Services",
         "description": "Bespoke legal protection and debt negotiation for residents of Maharashtra. Settle personal loans and credit cards using state-specific legal frameworks and RBI guidelines.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans Maharashtra Division",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Mumbai Metropolitan Region" },
@@ -90,7 +90,7 @@ export default function MaharashtraLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/maharashtra#article",
+        "@id": "https://www.settleloans.in/loan-settlement/maharashtra#article",
         "headline": "Breaking the Debt Cycle in Maharashtra: A 2024-2025 Legal Perspective on Loan Resolution",
         "description": "An in-depth analysis of loan settlement in Maharashtra, detailing specific statutes like Section 39 of the Money Lending Act and recent Bombay High Court stances on borrower rights.",
         "author": {
@@ -102,16 +102,16 @@ export default function MaharashtraLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-03",
         "dateModified": "2024-02-03",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/maharashtra#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/maharashtra#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/maharashtra#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/maharashtra#faq",
         "mainEntity": [
           {
             "@type": "Question",

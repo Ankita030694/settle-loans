@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: "Government-Approved Loan Settlement Services in India | Legal Framework 2025",
     description: "Understand the legal and government-recognized ways to settle loans in India. Learn about RBI guidelines, Lok Adalats, and official debt resolution frameworks.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/government-approved-loan-settlement-services-online",
+        canonical: "https://www.settleloans.in/faqs/government-approved-loan-settlement-services-online",
     },
 };
 
@@ -21,40 +21,40 @@ export default function GovernmentApprovedFAQ() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/government-approved-loan-settlement-services-online#webpage",
-                "url": "https://settleloans.in/faqs/government-approved-loan-settlement-services-online",
+                "@id": "https://www.settleloans.in/faqs/government-approved-loan-settlement-services-online#webpage",
+                "url": "https://www.settleloans.in/faqs/government-approved-loan-settlement-services-online",
                 "name": "Government-Approved Loan Settlement Services in India",
                 "description": "A guide to legally recognized debt resolution methods in India, including RBI policies and Lok Adalat systems.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/government-approved-loan-settlement-services-online#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/government-approved-loan-settlement-services-online#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/government-approved-loan-settlement-services-online#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/government-approved-loan-settlement-services-online#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://settleloans.in/faqs" },
-                    { "@type": "ListItem", "position": 3, "name": "Government Approved Services", "item": "https://settleloans.in/faqs/government-approved-loan-settlement-services-online" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://www.settleloans.in/faqs" },
+                    { "@type": "ListItem", "position": 3, "name": "Government Approved Services", "item": "https://www.settleloans.in/faqs/government-approved-loan-settlement-services-online" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/government-approved-loan-settlement-services-online#article",
+                "@id": "https://www.settleloans.in/faqs/government-approved-loan-settlement-services-online#article",
                 "headline": "Government-Approved Loan Settlement Services in India: The Definitive Guide",
                 "description": "Learn about the legal framework governing loan settlements in India, including RBI June 2023 circulars and Lok Adalat sessions.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Research" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2025-02-22",
                 "dateModified": "2025-02-22"
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/government-approved-loan-settlement-services-online#faq",
+                "@id": "https://www.settleloans.in/faqs/government-approved-loan-settlement-services-online#faq",
                 "mainEntity": [
                     { "@type": "Question", "name": "Is loan settlement legal in India?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it is a fully legal process recognized by the RBI and the Indian judicial system. It is considered a commercial compromise under the Indian Contract Act." } },
                     { "@type": "Question", "name": "Do I need a lawyer for a Lok Adalat settlement?", "acceptedAnswer": { "@type": "Answer", "text": "While not mandatory, having a legal firm represent you significantly improves your chances of getting a higher waiver and ensures the legal wording of the 'Award' protects you." } },
@@ -63,7 +63,7 @@ export default function GovernmentApprovedFAQ() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/government-approved-loan-settlement-services-online#service",
+                "@id": "https://www.settleloans.in/faqs/government-approved-loan-settlement-services-online#service",
                 "name": "Legal Debt Resolution Consultation",
                 "description": "Professional legal guidance on participating in Lok Adalats and leveraging RBI compromise settlement guidelines.",
                 "brand": { "@type": "Brand", "name": "SettleLoans" },

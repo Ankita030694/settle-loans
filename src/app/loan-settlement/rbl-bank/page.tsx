@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "RBL Bank Loan Settlement & Credit Card OTS Guide 2026",
   description: "Struggling with RBL Bank debt? Learn the expert process for RBL Bank loan settlement and SuperCard OTS. Settle for 30-70% less and stop harassment legally.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/rbl-bank",
+    canonical: "https://www.settleloans.in/loan-settlement/rbl-bank",
   },
 };
 
@@ -16,46 +16,46 @@ export default function RBLBankSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/rbl-bank#webpage",
-        "url": "https://settleloans.in/loan-settlement/rbl-bank",
+        "@id": "https://www.settleloans.in/loan-settlement/rbl-bank#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/rbl-bank",
         "name": "RBL Bank Loan Settlement & Credit Card OTS Guide 2026",
         "description": "Comprehensive guide to RBL Bank debt negotiation, SuperCard settlement, and legal protection.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/rbl-bank#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/rbl-bank#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/rbl-bank#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/rbl-bank#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "RBL Bank Settlement",
-            "item": "https://settleloans.in/loan-settlement/rbl-bank"
+            "item": "https://www.settleloans.in/loan-settlement/rbl-bank"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/rbl-bank#service",
+        "@id": "https://www.settleloans.in/loan-settlement/rbl-bank#service",
         "name": "RBL Bank Loan Settlement Service",
         "description": "Professional debt negotiation for RBL Bank personal loans and credit cards.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -137,7 +137,7 @@ export default function RBLBankSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/rbl-bank#article",
+        "@id": "https://www.settleloans.in/loan-settlement/rbl-bank#article",
         "headline": "Ultimate Guide to RBL Bank Loan Settlement 2026",
         "description": "Strategic analysis of RBL Bank's internal write-off policies, AI driven OTS frameworks, and personal loan resolution.",
         "author": {
@@ -149,16 +149,16 @@ export default function RBLBankSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-16",
         "dateModified": "2024-02-16",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/rbl-bank#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/rbl-bank#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/rbl-bank#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/rbl-bank#faq",
         "mainEntity": [
           {
             "@type": "Question",

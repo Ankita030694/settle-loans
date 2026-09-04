@@ -46,16 +46,16 @@ export const metadata: Metadata = {
     'individual insolvency resolution process drt'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-insolvency-and-bankruptcy-process-india',
+    canonical: 'https://www.settleloans.in/personal-insolvency-and-bankruptcy-process-india',
   },
   openGraph: {
     title: 'Personal Insolvency and Bankruptcy Process in India: IBC Debt Discharge & DRT Guide',
     description: 'Seeking a statutory debt exit in India? Explore how Part III of the Insolvency and Bankruptcy Code (IBC) 2016, DRT insolvency petitions, Section 96 interim moratoriums, and Section 138 discharge orders provide comprehensive debt relief.',
-    url: 'https://settleloans.in/personal-insolvency-and-bankruptcy-process-india',
+    url: 'https://www.settleloans.in/personal-insolvency-and-bankruptcy-process-india',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-insolvency-and-bankruptcy-process-india.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-insolvency-and-bankruptcy-process-india.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Insolvency and Bankruptcy Process in India - Statutory IBC and DRT Roadmap',
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Personal Insolvency and Bankruptcy Process in India: IBC & DRT Legal Guide',
     description: 'Expert advocate analysis of individual debt discharge, Fresh Start rules, Section 94 petitions, DRT insolvency trials, and personal guarantor liability in India.',
-    images: ['https://settleloans.in/images/infographics/personal-insolvency-and-bankruptcy-process-india.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-insolvency-and-bankruptcy-process-india.jpg'],
   },
 };
 
@@ -77,74 +77,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-insolvency-and-bankruptcy-process-india#webpage",
-      "url": "https://settleloans.in/personal-insolvency-and-bankruptcy-process-india",
+      "@id": "https://www.settleloans.in/personal-insolvency-and-bankruptcy-process-india#webpage",
+      "url": "https://www.settleloans.in/personal-insolvency-and-bankruptcy-process-india",
       "name": "Personal Insolvency and Bankruptcy Process in India: IBC Debt Discharge & DRT Guide (2026)",
       "description": "Exhaustive legal manual on the personal insolvency process in India under Part III of the IBC 2016. Learn how Section 94 debtor petitions, Section 96 interim moratoriums, DRT insolvency filings, Fresh Start processes, and Section 138 discharge orders permanently eliminate unsecured debt.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-insolvency-and-bankruptcy-process-india#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-insolvency-and-bankruptcy-process-india#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-insolvency-and-bankruptcy-process-india#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-insolvency-and-bankruptcy-process-india#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Insolvency and Bankruptcy Process India",
-          "item": "https://settleloans.in/personal-insolvency-and-bankruptcy-process-india"
+          "item": "https://www.settleloans.in/personal-insolvency-and-bankruptcy-process-india"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-insolvency-and-bankruptcy-process-india#article",
+      "@id": "https://www.settleloans.in/personal-insolvency-and-bankruptcy-process-india#article",
       "headline": "Personal Insolvency and Bankruptcy Process in India: IBC Debt Discharge & DRT Legal Guide",
       "description": "A definitive procedural and statutory guide examining Part III of the Insolvency and Bankruptcy Code (IBC) 2016, DRT individual insolvency petitions, Chapter II Fresh Start provisions, Section 96 statutory interim moratoriums, Resolution Professional repayment plans, and judicial debt discharge orders under Indian law.",
-      "image": "https://settleloans.in/images/infographics/personal-insolvency-and-bankruptcy-process-india.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-insolvency-and-bankruptcy-process-india.jpg",
       "datePublished": "2026-08-26T12:00:00+05:30",
       "dateModified": "2026-08-26T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-insolvency-and-bankruptcy-process-india#webpage"
+        "@id": "https://www.settleloans.in/personal-insolvency-and-bankruptcy-process-india#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-insolvency-and-bankruptcy-process-india#service",
+      "@id": "https://www.settleloans.in/personal-insolvency-and-bankruptcy-process-india#service",
       "name": "SettleLoans - Personal Insolvency, DRT Defense & Debt Discharge Advisory",
       "description": "Specialized legal representation, insolvency petition drafting, and institutional debt negotiation services for individual borrowers, personal guarantors, and stressed professionals seeking statutory relief under IBC 2016 and RBI compromise frameworks.",
-      "url": "https://settleloans.in/personal-insolvency-and-bankruptcy-process-india",
-      "image": "https://settleloans.in/images/infographics/personal-insolvency-and-bankruptcy-process-india.jpg",
+      "url": "https://www.settleloans.in/personal-insolvency-and-bankruptcy-process-india",
+      "image": "https://www.settleloans.in/images/infographics/personal-insolvency-and-bankruptcy-process-india.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -157,9 +157,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -233,7 +233,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-insolvency-and-bankruptcy-process-india#faq",
+      "@id": "https://www.settleloans.in/personal-insolvency-and-bankruptcy-process-india#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -319,12 +319,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

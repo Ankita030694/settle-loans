@@ -20,17 +20,17 @@ export const metadata: Metadata = {
     'credit card phantom interest waiver',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/credit-card-settlement-above-1-lakh',
+    canonical: 'https://www.settleloans.in/credit-card-settlement-above-1-lakh',
   },
   openGraph: {
     title: 'Credit Card Settlement Above 1 Lakh: Haircuts, Inflation Traps & Strategy (2026)',
     description:
       'Discover how credit card balances above ₹1 Lakh inflate aggressively through 42%–48% APR compounding, and how legal OTS negotiations unlock 60%–70% waivers on total outstanding dues.',
-    url: 'https://settleloans.in/credit-card-settlement-above-1-lakh',
+    url: 'https://www.settleloans.in/credit-card-settlement-above-1-lakh',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/credit-card-settlement-above-1-lakh.jpg',
+        url: 'https://www.settleloans.in/images/infographics/credit-card-settlement-above-1-lakh.jpg',
         width: 1200,
         height: 630,
         alt: 'Credit Card Settlement Above 1 Lakh Strategy & Haircut Matrix - SettleLoans',
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     title: 'Credit Card Settlement Above ₹1 Lakh: The Ultimate Haircut & Negotiation Playbook',
     description:
       'A ₹1 Lakh credit card balance quickly spirals to ₹1.65 Lakhs due to finance charges and GST. Learn how banks calculate OTS discounts and how to resolve your debt with a single compromise payment.',
-    images: ['https://settleloans.in/images/infographics/credit-card-settlement-above-1-lakh.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/credit-card-settlement-above-1-lakh.jpg'],
   },
 };
 
@@ -53,77 +53,77 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/credit-card-settlement-above-1-lakh#webpage",
-      "url": "https://settleloans.in/credit-card-settlement-above-1-lakh",
+      "@id": "https://www.settleloans.in/credit-card-settlement-above-1-lakh#webpage",
+      "url": "https://www.settleloans.in/credit-card-settlement-above-1-lakh",
       "name": "Credit Card Settlement Above 1 Lakh: Haircut Matrix & Legal Guide (2026)",
       "description": "Settling a credit card bill above ₹1 Lakh? Learn why balances inflate from ₹1L to ₹1.65L through compounding interest, how to secure 60%–70% settlement discounts, and stop recovery harassment.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/credit-card-settlement-above-1-lakh#breadcrumb"
+        "@id": "https://www.settleloans.in/credit-card-settlement-above-1-lakh#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/credit-card-settlement-above-1-lakh#breadcrumb",
+      "@id": "https://www.settleloans.in/credit-card-settlement-above-1-lakh#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Credit Card Settlement Guides",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Credit Card Settlement Above 1 Lakh",
-          "item": "https://settleloans.in/credit-card-settlement-above-1-lakh"
+          "item": "https://www.settleloans.in/credit-card-settlement-above-1-lakh"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/credit-card-settlement-above-1-lakh#article",
+      "@id": "https://www.settleloans.in/credit-card-settlement-above-1-lakh#article",
       "headline": "Credit Card Settlement Above ₹1 Lakh: Compounding Traps, 60%–70% Haircuts, and Legal Resolution Blueprint (2026)",
       "description": "An exhaustive analysis of credit card settlement for balances exceeding ₹1 Lakh under Indian banking law. Covers violent interest compounding from 42%–48% APR, phantom balance deconstruction, bank provisioning rules, 60%–70% settlement discounts, and formal No Dues Certificate procedures.",
-      "image": "https://settleloans.in/images/infographics/credit-card-settlement-above-1-lakh.jpg",
+      "image": "https://www.settleloans.in/images/infographics/credit-card-settlement-above-1-lakh.jpg",
       "datePublished": "2026-08-22T11:25:04+05:30",
       "dateModified": "2026-08-22T11:25:04+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/credit-card-settlement-above-1-lakh#webpage"
+        "@id": "https://www.settleloans.in/credit-card-settlement-above-1-lakh#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo.png",
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
         "https://twitter.com/settleloans",
@@ -132,11 +132,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/credit-card-settlement-above-1-lakh#service",
+      "@id": "https://www.settleloans.in/credit-card-settlement-above-1-lakh#service",
       "name": "SettleLoans - Credit Card Debt Settlement & Dispute Resolution",
       "description": "Specialized legal representation for resolving high-value credit card defaults above ₹1 Lakh, negotiating 60%–70% phantom interest waivers, stopping recovery harassment, and obtaining authentic bank No Dues Certificates.",
-      "url": "https://settleloans.in/credit-card-settlement-above-1-lakh",
-      "image": "https://settleloans.in/images/infographics/credit-card-settlement-above-1-lakh.jpg",
+      "url": "https://www.settleloans.in/credit-card-settlement-above-1-lakh",
+      "image": "https://www.settleloans.in/images/infographics/credit-card-settlement-above-1-lakh.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -149,9 +149,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -225,7 +225,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/credit-card-settlement-above-1-lakh#faq",
+      "@id": "https://www.settleloans.in/credit-card-settlement-above-1-lakh#faq",
       "mainEntity": [
         {
           "@type": "Question",

@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Settling Credit Card Dues Using Third Party Loan Companies in India | 2024-25",
     description: "Learn how to settle credit card dues with third party companies like SettleLoans. Expert guide on negotiation, legal protection, and stopping harassment in 2024-25.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies",
+        canonical: "https://www.settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies",
     },
 };
 
@@ -18,43 +18,43 @@ export default function SettleCreditCardDuesPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies#webpage",
-                "url": "https://settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies",
+                "@id": "https://www.settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies#webpage",
+                "url": "https://www.settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies",
                 "name": "Settling Credit Card Dues Using Third Party Loan Companies in India | 2024-25 Guide",
                 "description": "Comprehensive guide on using professional debt settlement services for credit card debt in India, covering negotiation strategies, legal rights, and CIBIL impact.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Settle Credit Card Dues",
-                        "item": "https://settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies"
+                        "item": "https://www.settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies#article",
+                "@id": "https://www.settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies#article",
                 "headline": "How to settle credit card dues using third party loan companies in India",
                 "description": "Unlock the strategies of professional debt settlement for credit cards. Learn how to work with specialists to reduce your debt by up to 70% while staying legally protected.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Debt Relief Team"
@@ -64,7 +64,7 @@ export default function SettleCreditCardDuesPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-06-15",
@@ -72,7 +72,7 @@ export default function SettleCreditCardDuesPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies#faq",
+                "@id": "https://www.settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -238,7 +238,7 @@ export default function SettleCreditCardDuesPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies#service",
+                "@id": "https://www.settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies#service",
                 "name": "Professional Credit Card Debt Settlement",
                 "description": "Expert negotiation and legal protection services for credit card borrowers trapped in high-interest debt cycles.",
                 "brand": {

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "RBI New Recovery Guidelines July 2026 | Ethical Debt Resolution Rules",
     description: "Explore the latest RBI guidelines on loan recovery effective July 2026. Learn about prohibited harassment, certified recovery agents, and your legal rights as a borrower.",
     alternates: {
-        canonical: "https://settleloans.in/rbi-new-recovery-guidelines-july-2026",
+        canonical: "https://www.settleloans.in/rbi-new-recovery-guidelines-july-2026",
     },
 };
 
@@ -17,34 +17,34 @@ export default function RBIRecoveryGuidelines2026Page() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/rbi-new-recovery-guidelines-july-2026#webpage",
-                "url": "https://settleloans.in/rbi-new-recovery-guidelines-july-2026",
+                "@id": "https://www.settleloans.in/rbi-new-recovery-guidelines-july-2026#webpage",
+                "url": "https://www.settleloans.in/rbi-new-recovery-guidelines-july-2026",
                 "name": "RBI New Recovery Guidelines July 2026 | Professional Debt Resolution",
                 "description": "Comprehensive guide to the 2026 RBI directives for fair recovery practices and borrower protection in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/rbi-new-recovery-guidelines-july-2026#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/rbi-new-recovery-guidelines-july-2026#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/rbi-new-recovery-guidelines-july-2026#breadcrumb",
+                "@id": "https://www.settleloans.in/rbi-new-recovery-guidelines-july-2026#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "RBI Recovery Guidelines 2026",
-                        "item": "https://settleloans.in/rbi-new-recovery-guidelines-july-2026"
+                        "item": "https://www.settleloans.in/rbi-new-recovery-guidelines-july-2026"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/rbi-new-recovery-guidelines-july-2026#article",
+                "@id": "https://www.settleloans.in/rbi-new-recovery-guidelines-july-2026#article",
                 "headline": "RBI New Recovery Guidelines July 2026: A Paradigm Shift in Borrower Rights",
                 "description": "The July 2026 RBI directives mark a new era for debt recovery in India, emphasizing ethical conduct and institutional accountability.",
                 "author": {
@@ -56,16 +56,16 @@ export default function RBIRecoveryGuidelines2026Page() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-10",
                 "dateModified": "2024-03-10",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/rbi-new-recovery-guidelines-july-2026#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/rbi-new-recovery-guidelines-july-2026#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/rbi-new-recovery-guidelines-july-2026#product",
+                "@id": "https://www.settleloans.in/rbi-new-recovery-guidelines-july-2026#product",
                 "name": "RBI Compliance Legal Consultation",
                 "description": "Professional legal aid to ensure your rights under the new July 2026 RBI recovery guidelines are protected.",
                 "aggregateRating": {
@@ -76,7 +76,7 @@ export default function RBIRecoveryGuidelines2026Page() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/rbi-new-recovery-guidelines-july-2026#faq",
+                "@id": "https://www.settleloans.in/rbi-new-recovery-guidelines-july-2026#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'one time settlement haircut rules 2026',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/what-is-haircut-in-loan-settlement',
+    canonical: 'https://www.settleloans.in/what-is-haircut-in-loan-settlement',
   },
   openGraph: {
     title: 'What Is a Haircut in Loan Settlement? Meaning, Formula & RBI Limits',
     description: 'A comprehensive technical and legal guide explaining how Indian banks calculate loan settlement haircuts, RBI compromise policies, NPV recovery formulas, and negotiation strategies.',
-    url: 'https://settleloans.in/what-is-haircut-in-loan-settlement',
+    url: 'https://www.settleloans.in/what-is-haircut-in-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/what-is-haircut-in-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/what-is-haircut-in-loan-settlement.jpg',
         width: 1200,
         height: 630,
         alt: 'What Is a Haircut in Loan Settlement Guide and Infographic Blueprint',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'What Is a Haircut in Loan Settlement? Meaning, Formula & Limits (2026)',
     description: 'Learn what a debt haircut means in bank loan settlement, internal NPA provisioning rules, RBI compromise frameworks, and how to negotiate up to 75% waivers.',
-    images: ['https://settleloans.in/images/infographics/what-is-haircut-in-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/what-is-haircut-in-loan-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/what-is-haircut-in-loan-settlement#webpage",
-      "url": "https://settleloans.in/what-is-haircut-in-loan-settlement",
+      "@id": "https://www.settleloans.in/what-is-haircut-in-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/what-is-haircut-in-loan-settlement",
       "name": "What Is a Haircut in Loan Settlement? Meaning, Formula & RBI Limits (2026)",
       "description": "Understand what a haircut means in loan settlement, how Indian banks calculate NPA write-off discounts, RBI compromise guidelines, and how to negotiate maximum debt reduction.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/what-is-haircut-in-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/what-is-haircut-in-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/what-is-haircut-in-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/what-is-haircut-in-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "What Is Haircut in Loan Settlement",
-          "item": "https://settleloans.in/what-is-haircut-in-loan-settlement"
+          "item": "https://www.settleloans.in/what-is-haircut-in-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/what-is-haircut-in-loan-settlement#article",
+      "@id": "https://www.settleloans.in/what-is-haircut-in-loan-settlement#article",
       "headline": "What Is a Haircut in Loan Settlement? Meaning, Calculation & RBI Guidelines",
       "description": "An exhaustive technical and legal manual explaining the concept of debt haircuts in Indian banking, NPA provisioning mechanics, RBI compromise settlement rules, and how to secure maximum debt reductions.",
-      "image": "https://settleloans.in/images/infographics/what-is-haircut-in-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/what-is-haircut-in-loan-settlement.jpg",
       "datePublished": "2026-08-22T12:09:04+05:30",
       "dateModified": "2026-08-22T12:09:04+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-is-haircut-in-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/what-is-haircut-in-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/what-is-haircut-in-loan-settlement#service",
+      "@id": "https://www.settleloans.in/what-is-haircut-in-loan-settlement#service",
       "name": "SettleLoans - Loan Haircut & Compromise Settlement Advisory",
       "description": "Professional debt resolution and legal advocacy helping borrowers negotiate maximum permissible haircuts on unsecured loans, credit cards, and distressed banking debts under RBI guidelines.",
-      "url": "https://settleloans.in/what-is-haircut-in-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/what-is-haircut-in-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/what-is-haircut-in-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/what-is-haircut-in-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/what-is-haircut-in-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/what-is-haircut-in-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -292,12 +292,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'convert settled loan to closed status',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/case-study-cibil-status-settled-to-closed',
+    canonical: 'https://www.settleloans.in/case-study-cibil-status-settled-to-closed',
   },
   openGraph: {
     title: 'How to Convert CIBIL Status from Settled to Closed: Home Loan Case Study',
     description: 'Real case study: How a borrower converted their CIBIL status from Settled to Closed by paying residual waiver dues, boosting score to 785+ and unlocking a ₹75L home loan.',
-    url: 'https://settleloans.in/case-study-cibil-status-settled-to-closed',
+    url: 'https://www.settleloans.in/case-study-cibil-status-settled-to-closed',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/case-study-cibil-status-settled-to-closed.jpg',
+        url: 'https://www.settleloans.in/images/infographics/case-study-cibil-status-settled-to-closed.jpg',
         width: 1200,
         height: 675,
         alt: 'Converted CIBIL Status from Settled to Closed: Post-Settlement Credit Repair Case Study Infographic',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Convert CIBIL Status from Settled to Closed: Home Loan Case Study',
     description: 'Case study proof: Step-by-step breakdown of converting a Settled loan tag to Closed through residual waiver settlement, unlocking mortgage sanction.',
-    images: ['https://settleloans.in/images/infographics/case-study-cibil-status-settled-to-closed.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/case-study-cibil-status-settled-to-closed.jpg'],
   },
 };
 
@@ -50,80 +50,80 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/case-study-cibil-status-settled-to-closed#webpage",
-      "url": "https://settleloans.in/case-study-cibil-status-settled-to-closed",
+      "@id": "https://www.settleloans.in/case-study-cibil-status-settled-to-closed#webpage",
+      "url": "https://www.settleloans.in/case-study-cibil-status-settled-to-closed",
       "name": "How to Convert CIBIL Status from Settled to Closed: Home Loan Case Study",
       "description": "Real case study: How a borrower converted their CIBIL status from Settled to Closed by paying residual waiver dues, boosting score to 785+ and unlocking a ₹75L home loan.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/case-study-cibil-status-settled-to-closed#breadcrumb"
+        "@id": "https://www.settleloans.in/case-study-cibil-status-settled-to-closed#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/case-study-cibil-status-settled-to-closed#breadcrumb",
+      "@id": "https://www.settleloans.in/case-study-cibil-status-settled-to-closed#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Resources",
-          "item": "https://settleloans.in/resources"
+          "item": "https://www.settleloans.in/resources"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Convert CIBIL Status Settled to Closed",
-          "item": "https://settleloans.in/case-study-cibil-status-settled-to-closed"
+          "item": "https://www.settleloans.in/case-study-cibil-status-settled-to-closed"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/case-study-cibil-status-settled-to-closed#article",
+      "@id": "https://www.settleloans.in/case-study-cibil-status-settled-to-closed#article",
       "headline": "Converted CIBIL Status from Settled to Closed: Post-Settlement Credit Repair Case Study",
       "description": "A verified step-by-step case study demonstrating how a borrower removed the 'Settled' tag on their credit report by negotiating residual waiver repayment with the bank, achieving an official 'Closed' status and securing a ₹75 Lakh Home Loan.",
-      "image": "https://settleloans.in/images/infographics/case-study-cibil-status-settled-to-closed.jpg",
+      "image": "https://www.settleloans.in/images/infographics/case-study-cibil-status-settled-to-closed.jpg",
       "datePublished": "2026-08-24T11:16:48+05:30",
       "dateModified": "2026-08-24T11:16:48+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/case-study-cibil-status-settled-to-closed#webpage"
+        "@id": "https://www.settleloans.in/case-study-cibil-status-settled-to-closed#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/case-study-cibil-status-settled-to-closed#service",
+      "@id": "https://www.settleloans.in/case-study-cibil-status-settled-to-closed#service",
       "name": "SettleLoans - Post-Settlement Credit Repair & CIBIL Status Upgrade",
       "description": "Specialized advisory and legal negotiation services to convert 'Settled' loan tags to 'Closed' through residual waiver settlements, clearing CIBIL records for home loan approvals.",
-      "url": "https://settleloans.in/case-study-cibil-status-settled-to-closed",
-      "image": "https://settleloans.in/images/infographics/case-study-cibil-status-settled-to-closed.jpg",
+      "url": "https://www.settleloans.in/case-study-cibil-status-settled-to-closed",
+      "image": "https://www.settleloans.in/images/infographics/case-study-cibil-status-settled-to-closed.jpg",
       "telephone": "+91-8800226635",
       "priceRange": "₹₹",
       "address": {
@@ -136,9 +136,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -152,7 +152,7 @@ const jsonLdGraph = {
           "@type": "Review",
           "itemReviewed": {
             "@type": "FinancialService",
-            "@id": "https://settleloans.in/case-study-cibil-status-settled-to-closed#service"
+            "@id": "https://www.settleloans.in/case-study-cibil-status-settled-to-closed#service"
           },
           "author": {
             "@type": "Person",
@@ -171,7 +171,7 @@ const jsonLdGraph = {
           "@type": "Review",
           "itemReviewed": {
             "@type": "FinancialService",
-            "@id": "https://settleloans.in/case-study-cibil-status-settled-to-closed#service"
+            "@id": "https://www.settleloans.in/case-study-cibil-status-settled-to-closed#service"
           },
           "author": {
             "@type": "Person",
@@ -190,7 +190,7 @@ const jsonLdGraph = {
           "@type": "Review",
           "itemReviewed": {
             "@type": "FinancialService",
-            "@id": "https://settleloans.in/case-study-cibil-status-settled-to-closed#service"
+            "@id": "https://www.settleloans.in/case-study-cibil-status-settled-to-closed#service"
           },
           "author": {
             "@type": "Person",
@@ -209,7 +209,7 @@ const jsonLdGraph = {
           "@type": "Review",
           "itemReviewed": {
             "@type": "FinancialService",
-            "@id": "https://settleloans.in/case-study-cibil-status-settled-to-closed#service"
+            "@id": "https://www.settleloans.in/case-study-cibil-status-settled-to-closed#service"
           },
           "author": {
             "@type": "Person",
@@ -228,7 +228,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/case-study-cibil-status-settled-to-closed#faq",
+      "@id": "https://www.settleloans.in/case-study-cibil-status-settled-to-closed#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -314,12 +314,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

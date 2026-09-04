@@ -50,17 +50,17 @@ export const metadata: Metadata = {
     'cibil repair after settlement nagpur',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-nagpur',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-nagpur',
   },
   openGraph: {
     title: 'Personal Loan Settlement Lawyer in Nagpur: Legal Defense & Lok Adalat OTS (2026)',
     description:
       'Expert legal defense and One-Time Settlement (OTS) representation by specialized advocates in Nagpur for salaried executives, MSME traders, and logistics entrepreneurs across Vidarbha.',
-    url: 'https://settleloans.in/personal-loan-settlement-nagpur',
+    url: 'https://www.settleloans.in/personal-loan-settlement-nagpur',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-nagpur.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-nagpur.jpg',
         width: 1200,
         height: 675,
         alt: 'Nagpur Loan Settlement Blueprint: Legal Defense and OTS Haircut Matrix',
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
     title: 'Personal Loan Settlement Lawyer in Nagpur: Legal Defense & Lok Adalat Guide',
     description:
       'Comprehensive legal representation for bank loan defaults, Section 138/25 notices, DLSA Nagpur Lok Adalat compromise decrees, and anti-harassment shielding in Nagpur.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-nagpur.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-nagpur.jpg'],
   },
 };
 
@@ -83,84 +83,84 @@ const jsonLdGraph = {
   '@graph': [
     {
       '@type': 'WebPage',
-      '@id': 'https://settleloans.in/personal-loan-settlement-nagpur#webpage',
-      url: 'https://settleloans.in/personal-loan-settlement-nagpur',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-nagpur#webpage',
+      url: 'https://www.settleloans.in/personal-loan-settlement-nagpur',
       name: 'Personal Loan Settlement Lawyer in Nagpur: Legal Defense & Lok Adalat OTS (2026)',
       description:
         'Consult an expert personal loan settlement lawyer in Nagpur. Defend against recovery harassment, JMFC Nyay Mandir court notices, and negotiate 40%–70% OTS debt waivers under RBI rules.',
       breadcrumb: {
-        '@id': 'https://settleloans.in/personal-loan-settlement-nagpur#breadcrumb',
+        '@id': 'https://www.settleloans.in/personal-loan-settlement-nagpur#breadcrumb',
       },
       inLanguage: 'en-IN',
       isPartOf: {
         '@type': 'WebSite',
-        '@id': 'https://settleloans.in/#website',
+        '@id': 'https://www.settleloans.in/#website',
         name: 'SettleLoans',
-        url: 'https://settleloans.in',
+        url: 'https://www.settleloans.in',
       },
     },
     {
       '@type': 'BreadcrumbList',
-      '@id': 'https://settleloans.in/personal-loan-settlement-nagpur#breadcrumb',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-nagpur#breadcrumb',
       itemListElement: [
         {
           '@type': 'ListItem',
           position: 1,
           name: 'Home',
-          item: 'https://settleloans.in',
+          item: 'https://www.settleloans.in',
         },
         {
           '@type': 'ListItem',
           position: 2,
           name: 'Services & Legal Guides',
-          item: 'https://settleloans.in/services',
+          item: 'https://www.settleloans.in/services',
         },
         {
           '@type': 'ListItem',
           position: 3,
           name: 'Personal Loan Settlement Lawyer in Nagpur',
-          item: 'https://settleloans.in/personal-loan-settlement-nagpur',
+          item: 'https://www.settleloans.in/personal-loan-settlement-nagpur',
         },
       ],
     },
     {
       '@type': 'Article',
-      '@id': 'https://settleloans.in/personal-loan-settlement-nagpur#article',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-nagpur#article',
       headline:
         'Personal Loan Settlement Lawyer in Nagpur: Legal Debt Defense, Lok Adalat Representation & Bank OTS Waivers',
       description:
         'An exhaustive legal and financial manual for salaried professionals, MSME traders, and logistics entrepreneurs in Nagpur and Vidarbha. Learn Nyay Mandir court defense, Section 138/25 PSSA procedures, DLSA Nagpur Lok Adalat settlement, and RBI compromise settlement frameworks.',
-      image: 'https://settleloans.in/images/infographics/personal-loan-settlement-nagpur.jpg',
+      image: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-nagpur.jpg',
       datePublished: '2026-09-01T10:00:00+05:30',
       dateModified: '2026-09-01T10:00:00+05:30',
       mainEntityOfPage: {
         '@type': 'WebPage',
-        '@id': 'https://settleloans.in/personal-loan-settlement-nagpur#webpage',
+        '@id': 'https://www.settleloans.in/personal-loan-settlement-nagpur#webpage',
       },
       author: {
         '@type': 'Person',
         name: 'Ashish Jhangra',
-        url: 'https://settleloans.in/authors/ashish-jhangra',
+        url: 'https://www.settleloans.in/authors/ashish-jhangra',
       },
       publisher: {
         '@type': 'Organization',
-        '@id': 'https://settleloans.in/#organization',
+        '@id': 'https://www.settleloans.in/#organization',
         name: 'SettleLoans',
-        url: 'https://settleloans.in',
+        url: 'https://www.settleloans.in',
         logo: {
           '@type': 'ImageObject',
-          url: 'https://settleloans.in/logo/logo.svg',
+          url: 'https://www.settleloans.in/logo/logo.svg',
         },
       },
     },
     {
       '@type': 'Organization',
-      '@id': 'https://settleloans.in/#organization',
+      '@id': 'https://www.settleloans.in/#organization',
       name: 'SettleLoans',
-      url: 'https://settleloans.in',
+      url: 'https://www.settleloans.in',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://settleloans.in/logo/logo.svg',
+        url: 'https://www.settleloans.in/logo/logo.svg',
       },
       sameAs: [
         'https://www.linkedin.com/company/settleloans',
@@ -170,12 +170,12 @@ const jsonLdGraph = {
     },
     {
       '@type': 'FinancialService',
-      '@id': 'https://settleloans.in/personal-loan-settlement-nagpur#service',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-nagpur#service',
       name: 'SettleLoans - Personal Loan Settlement Lawyer in Nagpur & Legal Defense',
       description:
         'Specialized debt resolution, advocate-led bank negotiations, and District Lok Adalat representation for salaried employees, MSME traders, and commercial borrowers across Nagpur and the Vidarbha region.',
-      url: 'https://settleloans.in/personal-loan-settlement-nagpur',
-      image: 'https://settleloans.in/images/infographics/personal-loan-settlement-nagpur.jpg',
+      url: 'https://www.settleloans.in/personal-loan-settlement-nagpur',
+      image: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-nagpur.jpg',
       telephone: '+91-99999-99999',
       priceRange: '₹₹',
       address: {
@@ -188,9 +188,9 @@ const jsonLdGraph = {
       },
       provider: {
         '@type': 'Organization',
-        '@id': 'https://settleloans.in/#organization',
+        '@id': 'https://www.settleloans.in/#organization',
         name: 'SettleLoans',
-        url: 'https://settleloans.in',
+        url: 'https://www.settleloans.in',
       },
       aggregateRating: {
         '@type': 'AggregateRating',
@@ -268,7 +268,7 @@ const jsonLdGraph = {
     },
     {
       '@type': 'FAQPage',
-      '@id': 'https://settleloans.in/personal-loan-settlement-nagpur#faq',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-nagpur#faq',
       mainEntity: [
         {
           '@type': 'Question',

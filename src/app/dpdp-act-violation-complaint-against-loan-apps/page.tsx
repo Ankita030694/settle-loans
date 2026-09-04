@@ -56,16 +56,16 @@ export const metadata: Metadata = {
     'illegal contact harvesting fintech loan app cert in complaint'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/dpdp-act-violation-complaint-against-loan-apps',
+    canonical: 'https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps',
   },
   openGraph: {
     title: 'DPDP Act Violation Complaint Against Loan Apps Accessing Contacts: Legal Guide',
     description: 'Statutory breakdown on filing complaints under the Digital Personal Data Protection Act, 2023 against predatory loan apps harvesting contacts, photos, and private data.',
-    url: 'https://settleloans.in/dpdp-act-violation-complaint-against-loan-apps',
+    url: 'https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/dpdp-act-violation-complaint-against-loan-apps.jpg',
+        url: 'https://www.settleloans.in/images/infographics/dpdp-act-violation-complaint-against-loan-apps.jpg',
         width: 1200,
         height: 675,
         alt: 'DPDP Act Violation Complaint Against Loan Apps Infographic',
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'DPDP Act Violation Complaint Against Loan Apps Accessing Contacts: Legal Guide',
     description: 'Predatory loan apps scraped your phonebook or photos? Discover how to invoke the DPDP Act 2023, file with the Data Protection Board, and halt cyber harassment.',
-    images: ['https://settleloans.in/images/infographics/dpdp-act-violation-complaint-against-loan-apps.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/dpdp-act-violation-complaint-against-loan-apps.jpg'],
   },
 };
 
@@ -122,73 +122,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/dpdp-act-violation-complaint-against-loan-apps#webpage",
-      "url": "https://settleloans.in/dpdp-act-violation-complaint-against-loan-apps",
+      "@id": "https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps#webpage",
+      "url": "https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps",
       "name": "DPDP Act Violation Complaint Against Loan Apps Accessing Contacts: Legal Guide",
       "description": "Comprehensive legal framework and operational guide for filing complaints against digital loan apps that unlawfully scraped phone contacts, photos, or personal data under the DPDP Act 2023 and RBI guidelines.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/dpdp-act-violation-complaint-against-loan-apps#breadcrumb"
+        "@id": "https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/dpdp-act-violation-complaint-against-loan-apps#breadcrumb",
+      "@id": "https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "DPDP Act Violation Loan Apps Complaint",
-          "item": "https://settleloans.in/dpdp-act-violation-complaint-against-loan-apps"
+          "item": "https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/dpdp-act-violation-complaint-against-loan-apps#article",
+      "@id": "https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps#article",
       "headline": "DPDP Act Violation Complaint Against Loan Apps Accessing Contacts: Legal Guide",
       "description": "An exhaustive statutory analysis of borrower data privacy rights against illegal phonebook access by fintech applications in India. Explains DPDP Act 2023 compliance, Data Protection Board procedures, RBI digital lending mandates, and cybercrime defense.",
-      "image": "https://settleloans.in/images/infographics/dpdp-act-violation-complaint-against-loan-apps.jpg",
+      "image": "https://www.settleloans.in/images/infographics/dpdp-act-violation-complaint-against-loan-apps.jpg",
       "datePublished": "2026-09-01T10:00:00+05:30",
       "dateModified": "2026-09-01T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/dpdp-act-violation-complaint-against-loan-apps#webpage"
+        "@id": "https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo/logo.svg",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo/logo.svg",
       "sameAs": [
         "https://www.facebook.com/settleloans",
         "https://twitter.com/settleloans",
@@ -204,11 +204,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/dpdp-act-violation-complaint-against-loan-apps#service",
+      "@id": "https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps#service",
       "name": "SettleLoans - Fintech Cyber Harassment Defense & DPDP Act Resolution",
       "description": "Specialized cyber privacy defense and statutory debt resolution for borrowers subjected to illegal contact scraping, photo defamation, and predatory collection by digital lending applications across India.",
-      "url": "https://settleloans.in/dpdp-act-violation-complaint-against-loan-apps",
-      "image": "https://settleloans.in/images/infographics/dpdp-act-violation-complaint-against-loan-apps.jpg",
+      "url": "https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps",
+      "image": "https://www.settleloans.in/images/infographics/dpdp-act-violation-complaint-against-loan-apps.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -221,9 +221,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -297,7 +297,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/dpdp-act-violation-complaint-against-loan-apps#faq",
+      "@id": "https://www.settleloans.in/dpdp-act-violation-complaint-against-loan-apps#faq",
       "mainEntity": faqsList.map(faq => ({
         "@type": "Question",
         "name": faq.name,

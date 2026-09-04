@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Handling Loan Default & Recovery Harassment During Maternity Leave",
   description: "Comprehensive legal guide targeting women who face drastic income drops during unpaid maternity leave or pregnancy complications. Learn to file for a moratorium.",
   alternates: {
-    canonical: "https://settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy",
+    canonical: "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy",
   },
 };
 
@@ -16,34 +16,34 @@ export default function HandlingLoanDefaultMaternityPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#webpage",
-        "url": "https://settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy",
+        "@id": "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#webpage",
+        "url": "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy",
         "name": "Handling Loan Default & Recovery Harassment During Maternity Leave",
         "description": "Legal guide on dealing with loan default during maternity leave, unpaid leave EMI default, and stopping recovery agents harassing pregnant women.",
-        "breadcrumb": { "@id": "https://settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#breadcrumb",
+        "@id": "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Maternity Leave Default Guide",
-            "item": "https://settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy"
+            "item": "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#article",
+        "@id": "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#article",
         "headline": "Handling Loan Default and Recovery Harassment During Maternity Leave or Pregnancy",
         "description": "Learn how to handle loan defaults caused by unpaid maternity leave and how to legally stop recovery agents from harassing pregnant women.",
         "author": {
@@ -55,16 +55,16 @@ export default function HandlingLoanDefaultMaternityPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-07-21",
         "dateModified": "2026-07-21",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#faq",
+        "@id": "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -159,7 +159,7 @@ export default function HandlingLoanDefaultMaternityPage() {
         "review": [
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#review1",
+            "@id": "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#review1",
             "author": { "@type": "Person", "name": "Priyanka S." },
             "reviewBody": "I was facing severe complications and unpaid leave. The agents wouldn't stop calling. SettleLoans stepped in and got me a 6-month moratorium.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" },
@@ -167,7 +167,7 @@ export default function HandlingLoanDefaultMaternityPage() {
           },
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#review2",
+            "@id": "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#review2",
             "author": { "@type": "Person", "name": "Megha R." },
             "reviewBody": "Recovery agents were threatening me during my 8th month. SettleLoans sent a legal notice, and the harassment stopped immediately. Highly recommend their compassionate team.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" },
@@ -175,7 +175,7 @@ export default function HandlingLoanDefaultMaternityPage() {
           },
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#review3",
+            "@id": "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#review3",
             "author": { "@type": "Person", "name": "Anjali K." },
             "reviewBody": "Lost my job due to pregnancy complications. I couldn't pay my personal loan EMI. The advocates here helped me settle the loan at 40% of the principal.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" },
@@ -183,7 +183,7 @@ export default function HandlingLoanDefaultMaternityPage() {
           },
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#review4",
+            "@id": "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy#review4",
             "author": { "@type": "Person", "name": "Roshni M." },
             "reviewBody": "I was overwhelmed by debt during my maternity leave. SettleLoans provided excellent legal cover against the bank's recovery tactics.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" },

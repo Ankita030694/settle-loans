@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "What is Personal Loan Settlement? Process, Benefits & RBI Guidelines 2026",
   description: "Comprehensive guide to personal loan settlement in India. Learn the step by step process, legal rights under RBI guidelines, CIBIL impact, and how to negotiate for 50 to 70 percent waivers.",
   alternates: {
-    canonical: "https://settleloans.in/what-is-personal-loan-settlement",
+    canonical: "https://www.settleloans.in/what-is-personal-loan-settlement",
   },
 };
 
@@ -16,34 +16,34 @@ export default function WhatIsPersonalLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-is-personal-loan-settlement#webpage",
-        "url": "https://settleloans.in/what-is-personal-loan-settlement",
+        "@id": "https://www.settleloans.in/what-is-personal-loan-settlement#webpage",
+        "url": "https://www.settleloans.in/what-is-personal-loan-settlement",
         "name": "What is Personal Loan Settlement? Process, Benefits & RBI Guidelines",
         "description": "The ultimate guide to understanding personal loan settlement in the Indian financial landscape.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-is-personal-loan-settlement#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-is-personal-loan-settlement#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-is-personal-loan-settlement#breadcrumb",
+        "@id": "https://www.settleloans.in/what-is-personal-loan-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "What is Personal Loan Settlement?",
-            "item": "https://settleloans.in/what-is-personal-loan-settlement"
+            "item": "https://www.settleloans.in/what-is-personal-loan-settlement"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-is-personal-loan-settlement#article",
+        "@id": "https://www.settleloans.in/what-is-personal-loan-settlement#article",
         "headline": "What is Personal Loan Settlement? A Deep Dive Guide for 2026",
         "description": "Everything you need to know about settling your personal loans in India, including the legal framework and negotiation strategies.",
         "author": {
@@ -55,16 +55,16 @@ export default function WhatIsPersonalLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-02-19",
         "dateModified": "2026-02-19",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-is-personal-loan-settlement#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-is-personal-loan-settlement#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-is-personal-loan-settlement#faq",
+        "@id": "https://www.settleloans.in/what-is-personal-loan-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -159,7 +159,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
         "review": [
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/what-is-personal-loan-settlement#review1",
+            "@id": "https://www.settleloans.in/what-is-personal-loan-settlement#review1",
             "author": { "@type": "Person", "name": "Rajesh Sharma" },
             "reviewBody": "SettleLoans helped me settle my 10 Lakh personal loan for just 4 Lakhs. The pressure from recovery agents stopped immediately.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" },
@@ -167,7 +167,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
           },
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/what-is-personal-loan-settlement#review2",
+            "@id": "https://www.settleloans.in/what-is-personal-loan-settlement#review2",
             "author": { "@type": "Person", "name": "Suman Gupta" },
             "reviewBody": "Professional and transparent. They handled all my legal notices and got me a great deal with the bank.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" },
@@ -175,7 +175,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
           },
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/what-is-personal-loan-settlement#review3",
+            "@id": "https://www.settleloans.in/what-is-personal-loan-settlement#review3",
             "author": { "@type": "Person", "name": "Karan Verma" },
             "reviewBody": "The negotiation process was worth it. I saved over 9 lakhs in principal and interest. Highly recommend.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" },
@@ -183,7 +183,7 @@ export default function WhatIsPersonalLoanSettlementPage() {
           },
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/what-is-personal-loan-settlement#review4",
+            "@id": "https://www.settleloans.in/what-is-personal-loan-settlement#review4",
             "author": { "@type": "Person", "name": "Priyanka Das" },
             "reviewBody": "SettleLoans stopped the harassment. Their advice was genuine and helped me rebuild my financial life.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" },

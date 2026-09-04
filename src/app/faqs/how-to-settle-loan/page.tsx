@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Ultimate Guide: How to Settle Your Loan in India (2024-25) | SettleLoans",
   description: "Learn how to settle your loan legally and ethically in India. Step-by-step guide on debt negotiation, RBI guidelines, Lok Adalat, and rebuilding CIBIL score. Get 40-70% waiver.",
   alternates: {
-    canonical: "https://settleloans.in/faqs/how-to-settle-loan",
+    canonical: "https://www.settleloans.in/faqs/how-to-settle-loan",
   },
 };
 
@@ -16,41 +16,41 @@ export default function HowToSettleLoanPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/faqs/how-to-settle-loan#webpage",
-        "url": "https://settleloans.in/faqs/how-to-settle-loan",
+        "@id": "https://www.settleloans.in/faqs/how-to-settle-loan#webpage",
+        "url": "https://www.settleloans.in/faqs/how-to-settle-loan",
         "name": "Ultimate Guide: How to Settle Your Loan in India (2024-25)",
         "description": "Comprehensive guide on loan settlement procedures, legal rights, and financial recovery in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/faqs/how-to-settle-loan#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/faqs/how-to-settle-loan#article" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/faqs/how-to-settle-loan#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/faqs/how-to-settle-loan#article" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/faqs/how-to-settle-loan#breadcrumb",
+        "@id": "https://www.settleloans.in/faqs/how-to-settle-loan#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "FAQs",
-            "item": "https://settleloans.in/faqs"
+            "item": "https://www.settleloans.in/faqs"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "How to Settle Loan",
-            "item": "https://settleloans.in/faqs/how-to-settle-loan"
+            "item": "https://www.settleloans.in/faqs/how-to-settle-loan"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/faqs/how-to-settle-loan#article",
+        "@id": "https://www.settleloans.in/faqs/how-to-settle-loan#article",
         "headline": "How to Settle Loan: The Comprehensive 2024-25 Guide for Indian Borrowers",
         "description": "An in-depth analysis of the loan settlement process in India, covering legal rights, bank negotiations, and specialized mechanisms like Lok Adalat.",
         "author": {
@@ -62,22 +62,22 @@ export default function HowToSettleLoanPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-02",
         "dateModified": "2024-02-02",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/faqs/how-to-settle-loan#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/faqs/how-to-settle-loan#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/faqs/how-to-settle-loan#service",
+        "@id": "https://www.settleloans.in/faqs/how-to-settle-loan#service",
         "name": "Loan Settlement Guide",
         "description": "Ultimate guide on how to settle your loan legally and ethically in India.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -87,7 +87,7 @@ export default function HowToSettleLoanPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/faqs/how-to-settle-loan#faq",
+        "@id": "https://www.settleloans.in/faqs/how-to-settle-loan#faq",
         "mainEntity": [
           {
             "@type": "Question",

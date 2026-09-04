@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Find Certified Financial Planners for Debt Restructuring & Settlement in India",
   description: "Locate Certified Financial Planners (CFPs) specializing in debt restructuring and loan settlement in India. Get expert advice on managing debt, negotiating with banks, and achieving financial freedom.",
   alternates: {
-    canonical: "https://settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement",
+    canonical: "https://www.settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement",
   },
 };
 
@@ -17,34 +17,34 @@ export default function CFPDebtPlanningPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement#webpage",
-        "url": "https://settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement",
+        "@id": "https://www.settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement#webpage",
+        "url": "https://www.settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement",
         "name": "Find Certified Financial Planners for Debt Restructuring & Settlement",
         "description": "Comprehensive guide to finding CFPs for debt resolution and financial restructuring in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement#breadcrumb",
+        "@id": "https://www.settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Find Certified Financial Planners",
-            "item": "https://settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement"
+            "item": "https://www.settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement#article",
+        "@id": "https://www.settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement#article",
         "headline": "How to Find Certified Financial Planners Specializing in Debt Restructuring",
         "description": "Expert advice on selecting the right financial planner to help you navigate debt restructuring and bank settlement in India.",
         "author": {
@@ -56,16 +56,16 @@ export default function CFPDebtPlanningPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-21",
         "dateModified": "2024-03-21",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement#product",
+        "@id": "https://www.settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement#product",
         "name": "Debt Restructuring Advisory Services",
         "description": "Professional guidance from CFPs for debt settlement and restructuring.",
         "aggregateRating": {
@@ -76,7 +76,7 @@ export default function CFPDebtPlanningPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement#faq",
+        "@id": "https://www.settleloans.in/find-certified-financial-planners-who-specialize-in-debt-restructuring-and-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement for MSME Owners in India | Debt Relief & Samadhaan Guide",
   description: "Are you an MSME owner struggling with bank debt or NPA? Learn the legal process of MSME loan settlement, RBI restructuring, and the MSME Samadhaan portal for debt relief.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement-for-msme-owners",
+    canonical: "https://www.settleloans.in/loan-settlement-for-msme-owners",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LoanSettlementMSMEOwnersPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-for-msme-owners#webpage",
-        "url": "https://settleloans.in/loan-settlement-for-msme-owners",
+        "@id": "https://www.settleloans.in/loan-settlement-for-msme-owners#webpage",
+        "url": "https://www.settleloans.in/loan-settlement-for-msme-owners",
         "name": "Loan Settlement for MSME Owners in India | Debt Relief & Samadhaan Guide",
         "description": "Comprehensive guide to loan settlement, RBI restructuring, and MSME Samadhaan for small business owners in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-for-msme-owners#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-for-msme-owners#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement-for-msme-owners#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement-for-msme-owners#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement for MSME Owners",
-            "item": "https://settleloans.in/loan-settlement-for-msme-owners"
+            "item": "https://www.settleloans.in/loan-settlement-for-msme-owners"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement-for-msme-owners#article",
+        "@id": "https://www.settleloans.in/loan-settlement-for-msme-owners#article",
         "headline": "Loan Settlement for MSME Owners: Rescuing the Backbone of Indian Industry",
         "description": "Learn how small business owners can resolve NPAs and leverage the MSMED Act 2006 to settle debts and recover delayed payments.",
         "author": {
@@ -55,16 +55,16 @@ export default function LoanSettlementMSMEOwnersPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-25",
         "dateModified": "2024-03-25",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-for-msme-owners#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-for-msme-owners#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement-for-msme-owners#product",
+        "@id": "https://www.settleloans.in/loan-settlement-for-msme-owners#product",
         "name": "MSME Debt Settlement Services",
         "description": "Professional debt negotiation and legal support for MSME owners in India for loan settlement and Samadhaan cases.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function LoanSettlementMSMEOwnersPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement-for-msme-owners#faq",
+        "@id": "https://www.settleloans.in/loan-settlement-for-msme-owners#faq",
         "mainEntity": [
           {
             "@type": "Question",

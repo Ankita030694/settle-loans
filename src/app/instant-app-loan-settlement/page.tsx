@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'national cyber crime reporting portal 1930',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/instant-app-loan-settlement',
+    canonical: 'https://www.settleloans.in/instant-app-loan-settlement',
   },
   openGraph: {
     title: 'How to Settle Instant App Loan: RBI Rules, Cyber Fraud Defense & Harassment Protection (2026)',
     description: 'Comprehensive legal and cyber defense manual for settling instant app loans. Protect your contact list, stop morphed photo blackmail, file cyber crime FIRs, and settle with RBI-regulated digital lenders.',
-    url: 'https://settleloans.in/instant-app-loan-settlement',
+    url: 'https://www.settleloans.in/instant-app-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/instant-app-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/instant-app-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Instant App Loan Settlement and Cyber Harassment Legal Defense Blueprint',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Settle Instant App Loan: RBI Rules, Cyber Fraud Defense & Harassment Protection',
     description: 'Definitive guide on dealing with predatory instant loan apps, stopping contact harassment, reporting to National Cyber Crime Portal, and resolving digital lending disputes legally.',
-    images: ['https://settleloans.in/images/infographics/instant-app-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/instant-app-loan-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/instant-app-loan-settlement#webpage",
-      "url": "https://settleloans.in/instant-app-loan-settlement",
+      "@id": "https://www.settleloans.in/instant-app-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/instant-app-loan-settlement",
       "name": "How to Settle Instant App Loan: RBI Rules, Cyber Fraud Defense & Harassment Protection (2026)",
       "description": "Trapped by predatory instant loan apps or fake 7-day lending platforms? Learn how to settle instant app loans legally, stop contact harassment and morphed photos, file 1930 cyber complaints, and enforce RBI digital lending guidelines.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/instant-app-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/instant-app-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/instant-app-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/instant-app-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Instant App Loan Settlement",
-          "item": "https://settleloans.in/instant-app-loan-settlement"
+          "item": "https://www.settleloans.in/instant-app-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/instant-app-loan-settlement#article",
+      "@id": "https://www.settleloans.in/instant-app-loan-settlement#article",
       "headline": "How to Settle Instant App Loan: RBI Rules, Cyber Fraud Defense & Harassment Protection",
       "description": "An exhaustive guide on navigating unauthorized 7-day instant loan apps, resolving cyber blackmail and morphed photo threats, reporting to Cyber Police (1930), and executing lawful compromise settlements with RBI-regulated digital lending platforms.",
-      "image": "https://settleloans.in/images/infographics/instant-app-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/instant-app-loan-settlement.jpg",
       "datePublished": "2026-08-21T15:28:00+05:30",
       "dateModified": "2026-08-21T15:28:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/instant-app-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/instant-app-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/instant-app-loan-settlement#service",
+      "@id": "https://www.settleloans.in/instant-app-loan-settlement#service",
       "name": "SettleLoans - Instant App Loan Settlement & Cyber Harassment Defense",
       "description": "Specialized legal defense and debt settlement advisory for victims of predatory instant loan apps, unauthorized 7-day lending platforms, and regulated digital lenders. Comprehensive cyber crime reporting, anti-harassment injunctions, and RBI-compliant dispute resolution.",
-      "url": "https://settleloans.in/instant-app-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/instant-app-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/instant-app-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/instant-app-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/instant-app-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/instant-app-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -292,12 +292,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

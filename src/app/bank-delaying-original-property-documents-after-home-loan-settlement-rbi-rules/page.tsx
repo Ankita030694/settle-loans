@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Bank Delaying Original Property Documents After Home Loan Settlement: RBI Rules",
   description: "Bank not returning your original property papers after home loan settlement? Learn about the RBI rule mandating a ₹5,000/day penalty for delays over 30 days.",
   alternates: {
-    canonical: "https://settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules",
+    canonical: "https://www.settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules",
   },
 };
 
@@ -17,34 +17,34 @@ export default function DelayedPropertyDocumentsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules#webpage",
-        "url": "https://settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules",
+        "@id": "https://www.settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules#webpage",
+        "url": "https://www.settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules",
         "name": "Bank Delaying Original Property Documents After Home Loan Settlement: RBI Rules",
         "description": "A post-settlement legal guide for borrowers who paid their negotiated home loan settlement, but the bank is refusing to release the original Sale Deed or Title papers.",
-        "breadcrumb": { "@id": "https://settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules#breadcrumb",
+        "@id": "https://www.settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Delayed Property Documents",
-            "item": "https://settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules"
+            "item": "https://www.settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules#article",
+        "@id": "https://www.settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules#article",
         "headline": "Bank Delaying Original Property Documents After Home Loan Settlement: RBI Rules",
         "description": "Learn the legal steps to force your bank to return your property documents and claim the ₹5,000 per day RBI penalty.",
         "author": {
@@ -56,22 +56,22 @@ export default function DelayedPropertyDocumentsPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-10",
         "dateModified": "2024-07-10",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules#product",
+        "@id": "https://www.settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules#product",
         "name": "Property Document Recovery Legal Notice",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to compel banks to return original property documents and claim RBI-mandated compensation.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function DelayedPropertyDocumentsPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules#faq",
+        "@id": "https://www.settleloans.in/bank-delaying-original-property-documents-after-home-loan-settlement-rbi-rules#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -58,16 +58,16 @@ export const metadata: Metadata = {
     'canara bank npa settlement guidelines',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/canara-bank-personal-loan-settlement',
+    canonical: 'https://www.settleloans.in/canara-bank-personal-loan-settlement',
   },
   openGraph: {
     title: 'Canara Bank Personal Loan Settlement: OTS Rules, SAMB Process & Haircut Hierarchy (2026)',
     description: 'Strategic legal guide to settling defaulted Canara Bank personal loans. Understand SAMB Stressed Assets transfers, Circle Office financial delegation, Lok Adalat conciliation, and RBI compromise rules.',
-    url: 'https://settleloans.in/canara-bank-personal-loan-settlement',
+    url: 'https://www.settleloans.in/canara-bank-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/canara-bank-personal-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/canara-bank-personal-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Canara Bank Personal Loan Settlement Process, SAMB OTS Haircut Hierarchy and Circle Office Approval Flow',
@@ -80,7 +80,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Canara Bank Personal Loan Settlement: OTS Rules, SAMB Process & Haircut Hierarchy',
     description: 'Technical and legal playbook for settling defaulted Canara Bank personal loans under RBI Compromise Settlement frameworks, Circle Office delegation, and Lok Adalat benches.',
-    images: ['https://settleloans.in/images/infographics/canara-bank-personal-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/canara-bank-personal-loan-settlement.jpg'],
   },
 };
 
@@ -89,74 +89,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/canara-bank-personal-loan-settlement#webpage",
-      "url": "https://settleloans.in/canara-bank-personal-loan-settlement",
+      "@id": "https://www.settleloans.in/canara-bank-personal-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/canara-bank-personal-loan-settlement",
       "name": "Canara Bank Personal Loan Settlement: OTS Rules, SAMB Process & Haircut Hierarchy (2026)",
       "description": "Master the Canara Bank personal loan settlement process under RBI guidelines. Learn tier-based haircut approvals (Branch vs Circle Office), SAMB escalation, and how advocates secure 40%–60% waivers.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/canara-bank-personal-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/canara-bank-personal-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/canara-bank-personal-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/canara-bank-personal-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Canara Bank Personal Loan Settlement",
-          "item": "https://settleloans.in/canara-bank-personal-loan-settlement"
+          "item": "https://www.settleloans.in/canara-bank-personal-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/canara-bank-personal-loan-settlement#article",
+      "@id": "https://www.settleloans.in/canara-bank-personal-loan-settlement#article",
       "headline": "Canara Bank Personal Loan Settlement: OTS Rules, SAMB Process & Haircut Hierarchy",
       "description": "Comprehensive legal and operational handbook on negotiating One-Time Settlements (OTS) with Canara Bank for unsecured personal loans, navigating SAMB verticals, Circle Office financial delegation, and Lok Adalat conciliation.",
-      "image": "https://settleloans.in/images/infographics/canara-bank-personal-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/canara-bank-personal-loan-settlement.jpg",
       "datePublished": "2026-08-26T10:00:00+05:30",
       "dateModified": "2026-08-26T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/canara-bank-personal-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/canara-bank-personal-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/canara-bank-personal-loan-settlement#service",
+      "@id": "https://www.settleloans.in/canara-bank-personal-loan-settlement#service",
       "name": "SettleLoans - Canara Bank Personal Loan Settlement & Legal Defense",
       "description": "Specialized legal representation and financial negotiation advisory for resolving defaulted Canara Bank personal loans and retail credit lines under RBI compromise settlement frameworks.",
-      "url": "https://settleloans.in/canara-bank-personal-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/canara-bank-personal-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/canara-bank-personal-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/canara-bank-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -169,9 +169,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -245,7 +245,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/canara-bank-personal-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/canara-bank-personal-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -331,12 +331,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

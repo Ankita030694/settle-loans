@@ -9,39 +9,39 @@ export default function GoldLoanNearMePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/gold-loan-near-me#webpage",
-                "url": "https://settleloans.in/gold-loan-near-me",
+                "@id": "https://www.settleloans.in/gold-loan-near-me#webpage",
+                "url": "https://www.settleloans.in/gold-loan-near-me",
                 "name": "Gold Loan Near Me: Find the Best Lenders at Your Doorstep",
                 "description": "Searching for a gold loan near me? Compare local pawnbrokers, nationalized banks, and 24x7 doorstep gold loan services like Muthoot and Manappuram.",
-                "breadcrumb": { "@id": "https://settleloans.in/gold-loan-near-me#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/gold-loan-near-me#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/gold-loan-near-me#breadcrumb",
+                "@id": "https://www.settleloans.in/gold-loan-near-me#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Gold Loan Near Me", "item": "https://settleloans.in/gold-loan-near-me" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Gold Loan Near Me", "item": "https://www.settleloans.in/gold-loan-near-me" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/gold-loan-near-me#article",
+                "@id": "https://www.settleloans.in/gold-loan-near-me#article",
                 "headline": "Gold Loan Near Me: The 2024 Guide to Local vs National Lenders",
                 "description": "How to choose between the jeweler next door and a high-tech doorstep gold loan service. Safety, speed, and security analyzed.",
                 "author": { "@type": "Organization", "name": "SettleLoans Research Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/gold-loan-near-me#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/gold-loan-near-me#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/gold-loan-near-me#product",
+                "@id": "https://www.settleloans.in/gold-loan-near-me#product",
                 "name": "Local Gold Loan Verification Service",
                 "description": "SettleLoans helps you verify the credentials of local gold lenders and negotiates fair settlement terms for overdue loans.",
                 "aggregateRating": {
@@ -61,7 +61,7 @@ export default function GoldLoanNearMePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/gold-loan-near-me#faq",
+                "@id": "https://www.settleloans.in/gold-loan-near-me#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

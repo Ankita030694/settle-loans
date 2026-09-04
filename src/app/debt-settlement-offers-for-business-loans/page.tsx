@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Debt Settlement Offers for Business Loans | MSME & SME Guide 2024",
   description: "Explore the latest debt settlement offers for business loans in India. Comprehensive guide on MSME OTS schemes, RBI guidelines, and bank negotiation strategies.",
   alternates: {
-    canonical: "https://settleloans.in/debt-settlement-offers-for-business-loans",
+    canonical: "https://www.settleloans.in/debt-settlement-offers-for-business-loans",
   },
 };
 
@@ -59,39 +59,39 @@ export default function BusinessLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/debt-settlement-offers-for-business-loans#webpage",
-        "url": "https://settleloans.in/debt-settlement-offers-for-business-loans",
+        "@id": "https://www.settleloans.in/debt-settlement-offers-for-business-loans#webpage",
+        "url": "https://www.settleloans.in/debt-settlement-offers-for-business-loans",
         "name": "Debt Settlement Offers for Business Loans",
         "description": "Comprehensive guide for MSMEs and SMEs on settling business debts in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/debt-settlement-offers-for-business-loans#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/debt-settlement-offers-for-business-loans#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/debt-settlement-offers-for-business-loans#breadcrumb",
+        "@id": "https://www.settleloans.in/debt-settlement-offers-for-business-loans#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Business Loan Settlement", "item": "https://settleloans.in/debt-settlement-offers-for-business-loans" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Business Loan Settlement", "item": "https://www.settleloans.in/debt-settlement-offers-for-business-loans" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/debt-settlement-offers-for-business-loans#article",
+        "@id": "https://www.settleloans.in/debt-settlement-offers-for-business-loans#article",
         "headline": "Business Loan Settlement Offers: The Ultimate Guide for MSMEs",
         "description": "Facing business collapse? Learn how to navigate One-Time Settlement (OTS) offers and protect your future.",
         "author": { "@type": "Organization", "name": "SettleLoans Content Team" },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+          "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
         },
         "datePublished": "2024-03-16",
         "dateModified": "2024-03-16",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/debt-settlement-offers-for-business-loans#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/debt-settlement-offers-for-business-loans#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/debt-settlement-offers-for-business-loans#product",
+        "@id": "https://www.settleloans.in/debt-settlement-offers-for-business-loans#product",
         "name": "MSME Debt Resolution Program",
         "description": "Specialized settlement negotiation for business and enterprise loans.",
         "aggregateRating": {
@@ -111,7 +111,7 @@ export default function BusinessLoanSettlementPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/debt-settlement-offers-for-business-loans#faq",
+        "@id": "https://www.settleloans.in/debt-settlement-offers-for-business-loans#faq",
         "mainEntity": faqs.map(faq => ({
           "@type": "Question",
           "name": faq.q,

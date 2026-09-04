@@ -56,16 +56,16 @@ export const metadata: Metadata = {
     'loan recovery legal notice reply ahmedabad'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-ahmedabad',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-ahmedabad',
   },
   openGraph: {
     title: 'Loan Settlement Lawyer in Ahmedabad: Commercial & Personal Debt Defense',
     description: 'Specialized legal representation for business owners, traders, and salaried professionals facing loan defaults across Ahmedabad, Surat, and Gujarat. Secure 45% to 65% OTS debt waivers.',
-    url: 'https://settleloans.in/personal-loan-settlement-ahmedabad',
+    url: 'https://www.settleloans.in/personal-loan-settlement-ahmedabad',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-ahmedabad.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-ahmedabad.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Settlement Lawyer in Ahmedabad - Strategic Debt Resolution',
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement Lawyer in Ahmedabad: Legal Defense & OTS Guide',
     description: 'Expert legal defense for personal and business loan defaults in Ahmedabad. Mirzapur Court defense, Lok Adalat conciliation, and RBI-compliant debt reduction.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-ahmedabad.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-ahmedabad.jpg'],
   },
 };
 
@@ -126,73 +126,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-ahmedabad#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-ahmedabad",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-ahmedabad#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-ahmedabad",
       "name": "Loan Settlement Lawyer in Ahmedabad: Legal Defense & Business Debt Relief (2026)",
       "description": "Comprehensive legal and financial guide for distressed borrowers and commercial traders in Ahmedabad and Gujarat. Learn court defense strategies, GSLSA Lok Adalat settlement processes, and RBI Master Direction protections.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-ahmedabad#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-ahmedabad#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-ahmedabad#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-ahmedabad#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan Settlement Lawyer in Ahmedabad",
-          "item": "https://settleloans.in/personal-loan-settlement-ahmedabad"
+          "item": "https://www.settleloans.in/personal-loan-settlement-ahmedabad"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-ahmedabad#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-ahmedabad#article",
       "headline": "Loan Settlement Lawyer in Ahmedabad: Legal Defense, Gujarat Court Jurisdictions & Commercial Debt Resolution",
       "description": "An exhaustive analysis of unsecured business and personal loan settlements across Ahmedabad, Surat, and Gujarat commercial hubs. Explains Mirzapur Metropolitan Court procedures, Bhadra City Civil Court litigation defense, GSLSA Lok Adalat settlement mechanisms, and RBI-mandated NPV haircuts.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-ahmedabad.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-ahmedabad.jpg",
       "datePublished": "2026-08-25T12:00:00+05:30",
       "dateModified": "2026-08-25T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-ahmedabad#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-ahmedabad#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo/logo.svg",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo/logo.svg",
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
         "https://twitter.com/settleloans",
@@ -210,11 +210,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-ahmedabad#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-ahmedabad#service",
       "name": "SettleLoans - Loan Settlement Lawyer in Ahmedabad & Commercial Debt Resolution",
       "description": "Specialized legal representation, court litigation defense, and One-Time Settlement (OTS) negotiation for business owners, textile traders, and individuals across Ahmedabad, Surat, and Gujarat.",
-      "url": "https://settleloans.in/personal-loan-settlement-ahmedabad",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-ahmedabad.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-ahmedabad",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-ahmedabad.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -227,9 +227,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -303,7 +303,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-ahmedabad#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-ahmedabad#faq",
       "mainEntity": faqItems.map((item) => ({
         "@type": "Question",
         "name": item.question,

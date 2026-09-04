@@ -53,17 +53,17 @@ export const metadata: Metadata = {
     'one time settlement ots agra banks'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-agra',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-agra',
   },
   openGraph: {
     title: 'Personal Loan Settlement Lawyer in Agra: Legal Defense & OTS Advisory',
     description:
       'Expert legal defense and One-Time Settlement (OTS) representation for footwear manufacturers, handicraft exporters, tourism professionals, and salaried executives facing loan default across Agra, Mathura, and Firozabad.',
-    url: 'https://settleloans.in/personal-loan-settlement-agra',
+    url: 'https://www.settleloans.in/personal-loan-settlement-agra',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-agra.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-agra.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan Settlement Lawyer in Agra Legal Guide',
@@ -77,7 +77,7 @@ export const metadata: Metadata = {
     title: 'Personal Loan Settlement Lawyer in Agra: Legal Defense & Lok Adalat Guide',
     description:
       'Authoritative legal representation for bank loan defaults, Section 138/25 notices in Agra District Court, DLSA Lok Adalat compromise decrees, and anti-harassment shielding in Agra.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-agra.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-agra.jpg'],
   },
 };
 
@@ -86,79 +86,79 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-agra#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-agra",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-agra#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-agra",
       "name": "Personal Loan Settlement Lawyer in Agra: Legal Defense & OTS (2026)",
       "description": "Struggling with loan default, recovery harassment, or court summons in Agra, Mathura, or Firozabad? Senior debt settlement advocates protect footwear MSMEs, exporters, and salaried employees with 40%–70% OTS waivers.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-agra#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-agra#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-agra#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-agra#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Personal Loan Settlement Lawyer in Agra",
-          "item": "https://settleloans.in/personal-loan-settlement-agra"
+          "item": "https://www.settleloans.in/personal-loan-settlement-agra"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-agra#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-agra#article",
       "headline": "Personal Loan Settlement Lawyer in Agra: MSME Debt Defense, Bank OTS & 40%–70% Relief",
       "description": "An exhaustive legal and financial guide for distressed footwear manufacturers, handicraft exporters, tourism workers, and salaried professionals in Agra, Mathura, and Firozabad. Learn Agra District Court dynamics, Section 171 banker lien protections, DLSA Lok Adalat settlement procedures, and how seasoned Agra advocates negotiate 40% to 70% debt waivers.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-agra.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-agra.jpg",
       "datePublished": "2026-08-30T12:00:00+05:30",
       "dateModified": "2026-08-30T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-agra#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-agra#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
@@ -168,7 +168,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-agra#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-agra#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -246,11 +246,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-agra#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-agra#service",
       "name": "SettleLoans - Personal Loan Settlement Lawyer in Agra & Legal Defense",
       "description": "Premier debt settlement advisory, court notice defense, and DLSA Lok Adalat representation for footwear manufacturers, handicraft exporters, tourism workers, and salaried professionals across Agra, Mathura, Firozabad, and Sanjay Place.",
-      "url": "https://settleloans.in/personal-loan-settlement-agra",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-agra.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-agra",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-agra.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -263,9 +263,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

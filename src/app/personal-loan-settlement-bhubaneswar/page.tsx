@@ -51,17 +51,17 @@ export const metadata: Metadata = {
     'dlsa khordha lok adalat loan conciliation',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-bhubaneswar',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-bhubaneswar',
   },
   openGraph: {
     title: 'Loan Settlement Lawyer in Bhubaneswar Odisha: Personal Loan OTS & Legal Relief (2026)',
     description:
       'Expert legal defense and compromise One-Time Settlement (OTS) representation for IT professionals, mining contractors, and salaried personnel facing loan defaults across Bhubaneswar, Cuttack, and Odisha.',
-    url: 'https://settleloans.in/personal-loan-settlement-bhubaneswar',
+    url: 'https://www.settleloans.in/personal-loan-settlement-bhubaneswar',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-bhubaneswar.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-bhubaneswar.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Settlement Lawyer in Bhubaneswar Odisha Legal Defense and RBI OTS Roadmap',
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     title: 'Loan Settlement Lawyer in Bhubaneswar Odisha: Legal Notice Defense & RBI OTS Relief',
     description:
       'Authoritative legal guide for personal loan settlement in Bhubaneswar and Cuttack. Advocate-led defense against SARB notices, Section 25 PSSA, and Section 138 summons with DLSA Khordha Lok Adalat resolution.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-bhubaneswar.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-bhubaneswar.jpg'],
   },
 };
 
@@ -84,83 +84,83 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-bhubaneswar#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-bhubaneswar",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-bhubaneswar#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-bhubaneswar",
       "name": "Loan Settlement Lawyer in Bhubaneswar Odisha: Bank OTS & Notice Defense (2026)",
       "description":
         "Comprehensive legal and financial manual for personal loan settlement in Bhubaneswar and Cuttack, navigating local recovery agency boundaries, Section 25 PSSA defense in Bhubaneswar courts, SARB notice resolution, and Stressed Asset OTS negotiations.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-bhubaneswar#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-bhubaneswar#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-bhubaneswar#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-bhubaneswar#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Loan Settlement",
-          "item": "https://settleloans.in/personal-loan-debt-settlement"
+          "item": "https://www.settleloans.in/personal-loan-debt-settlement"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Bhubaneswar",
-          "item": "https://settleloans.in/personal-loan-settlement-bhubaneswar"
+          "item": "https://www.settleloans.in/personal-loan-settlement-bhubaneswar"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-bhubaneswar#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-bhubaneswar#article",
       "headline": "Loan Settlement Lawyer in Bhubaneswar Odisha: Personal Loan OTS, SARB Notice Defense & Lok Adalat Resolution",
       "description":
         "A definitive strategic guide for IT professionals in Infocity, mining contractors across Odisha, and government personnel in Bhubaneswar to resolve defaulted personal loans, stop recovery harassment, and secure 40%–60% debt haircuts.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-bhubaneswar.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-bhubaneswar.jpg",
       "datePublished": "2026-09-03T10:00:00+05:30",
       "dateModified": "2026-09-03T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-bhubaneswar#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-bhubaneswar#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-bhubaneswar#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-bhubaneswar#service",
       "name": "SettleLoans - Loan Settlement Lawyers Bhubaneswar",
       "description":
         "Specialized legal defense and compromise loan settlement advisory for unsecured personal loans, credit cards, and stressed business credit across Bhubaneswar, Cuttack, and Odisha under RBI compromise frameworks.",
-      "url": "https://settleloans.in/personal-loan-settlement-bhubaneswar",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-bhubaneswar.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-bhubaneswar",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-bhubaneswar.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -173,9 +173,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -249,7 +249,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-bhubaneswar#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-bhubaneswar#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -335,12 +335,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

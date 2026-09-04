@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Recovery Agent Calling Family Members? RBI Rules & Legal Rights in India",
   description: "Are recovery agents calling your family members? Learn about the strict RBI rules that prohibit third-party contact, your legal rights against harassment, and how to file a complaint for immediate relief.",
   alternates: {
-    canonical: "https://settleloans.in/recovery-agents-calling-family-members",
+    canonical: "https://www.settleloans.in/recovery-agents-calling-family-members",
   },
 };
 
@@ -16,34 +16,34 @@ export default function RecoveryAgentsCallingFamilyPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agents-calling-family-members#webpage",
-        "url": "https://settleloans.in/recovery-agents-calling-family-members",
+        "@id": "https://www.settleloans.in/recovery-agents-calling-family-members#webpage",
+        "url": "https://www.settleloans.in/recovery-agents-calling-family-members",
         "name": "Recovery Agent Calling Family Members? RBI Rules & Legal Rights in India",
         "description": "Comprehensive guide on RBI rules and legal rights when recovery agents contact family members in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/recovery-agents-calling-family-members#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/recovery-agents-calling-family-members#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/recovery-agents-calling-family-members#breadcrumb",
+        "@id": "https://www.settleloans.in/recovery-agents-calling-family-members#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Recovery Agent Calling Family Members",
-            "item": "https://settleloans.in/recovery-agents-calling-family-members"
+            "item": "https://www.settleloans.in/recovery-agents-calling-family-members"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/recovery-agents-calling-family-members#article",
+        "@id": "https://www.settleloans.in/recovery-agents-calling-family-members#article",
         "headline": "Is a Recovery Agent Calling Your Family Members? Know Your Rights and RBI Rules",
         "description": "Understand the legal framework and RBI guidelines that protect you and your family from recovery agent harassment in India.",
         "author": {
@@ -55,16 +55,16 @@ export default function RecoveryAgentsCallingFamilyPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-27",
         "dateModified": "2024-03-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/recovery-agents-calling-family-members#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/recovery-agents-calling-family-members#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/recovery-agents-calling-family-members#product",
+        "@id": "https://www.settleloans.in/recovery-agents-calling-family-members#product",
         "name": "Legal Protection Against Recovery Harassment",
         "description": "Expert guidance and legal support to stop recovery agent harassment and settle debts fairly.",
         "aggregateRating": {
@@ -98,7 +98,7 @@ export default function RecoveryAgentsCallingFamilyPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/recovery-agents-calling-family-members#faq",
+        "@id": "https://www.settleloans.in/recovery-agents-calling-family-members#faq",
         "mainEntity": [
           {
             "@type": "Question",

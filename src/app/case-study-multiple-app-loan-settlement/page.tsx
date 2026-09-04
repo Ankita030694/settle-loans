@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'how to settle instant loan app debt in india',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/case-study-multiple-app-loan-settlement',
+    canonical: 'https://www.settleloans.in/case-study-multiple-app-loan-settlement',
   },
   openGraph: {
     title: 'Instant App Loan Settlement Success: ₹2L Multi-App Debt Resolved for ₹85K',
     description: 'In-depth case study: How aggressive recovery harassment from 5 fintech loan apps was halted via RBI cease-and-desist notices and resolved through consolidated OTS settlements.',
-    url: 'https://settleloans.in/case-study-multiple-app-loan-settlement',
+    url: 'https://www.settleloans.in/case-study-multiple-app-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/case-study-multiple-app-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/case-study-multiple-app-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Instant App Loan Settlement & Anti-Harassment Legal Defense Blueprint Infographic',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Instant App Loan Settlement Success: ₹2L Multi-App Debt Resolved for ₹85K',
     description: 'Case study proof: Step-by-step breakdown of how 50+ daily harassment calls across 5 loan apps were stopped and ₹2 Lakhs in debt was settled for ₹85,000.',
-    images: ['https://settleloans.in/images/infographics/case-study-multiple-app-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/case-study-multiple-app-loan-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/case-study-multiple-app-loan-settlement#webpage",
-      "url": "https://settleloans.in/case-study-multiple-app-loan-settlement",
+      "@id": "https://www.settleloans.in/case-study-multiple-app-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/case-study-multiple-app-loan-settlement",
       "name": "Instant App Loan Settlement Success: How We Settled 5 App Loans & Stopped 50+ Daily Calls",
       "description": "Real case study: How SettleLoans stopped 50+ daily harassment calls across 5 instant loan apps (Navi, KreditBee, MoneyView) totaling ₹2 Lakhs, consolidated negotiations, and settled the debt for ₹85,000.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/case-study-multiple-app-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/case-study-multiple-app-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/case-study-multiple-app-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/case-study-multiple-app-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Instant App Loan Settlement Case Study",
-          "item": "https://settleloans.in/case-study-multiple-app-loan-settlement"
+          "item": "https://www.settleloans.in/case-study-multiple-app-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/case-study-multiple-app-loan-settlement#article",
+      "@id": "https://www.settleloans.in/case-study-multiple-app-loan-settlement#article",
       "headline": "Instant App Loan Settlement Success: How We Settled 5 App Loans & Stopped 50+ Harassment Calls",
       "description": "A comprehensive proof-of-concept case study detailing how SettleLoans defended a salaried professional trapped in multi-app debt across Navi, KreditBee, MoneyView, SmartCoin, and mPokket, stopping cyber harassment and securing a 57.5% consolidated OTS waiver.",
-      "image": "https://settleloans.in/images/infographics/case-study-multiple-app-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/case-study-multiple-app-loan-settlement.jpg",
       "datePublished": "2026-08-22T13:00:00+05:30",
       "dateModified": "2026-08-22T13:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/case-study-multiple-app-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/case-study-multiple-app-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/case-study-multiple-app-loan-settlement#service",
+      "@id": "https://www.settleloans.in/case-study-multiple-app-loan-settlement#service",
       "name": "SettleLoans - Instant App Loan Settlement & Anti-Harassment Defense",
       "description": "Specialized legal representation to halt fintech loan app harassment, serve statutory RBI cease-and-desist notices to digital lenders, consolidate multi-app liabilities, and negotiate One-Time Settlement (OTS) waivers.",
-      "url": "https://settleloans.in/case-study-multiple-app-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/case-study-multiple-app-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/case-study-multiple-app-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/case-study-multiple-app-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/case-study-multiple-app-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/case-study-multiple-app-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -284,12 +284,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

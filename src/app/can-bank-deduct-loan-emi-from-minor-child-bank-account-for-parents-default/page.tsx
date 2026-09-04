@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Can the Bank Deduct Loan EMI from a Minor Child's Bank Account?",
   description: "Learn if banks can legally deduct a parent's loan EMI from their minor child's savings account. Discover RBI rules on minor accounts and illegal deductions.",
   alternates: {
-    canonical: "https://settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default",
+    canonical: "https://www.settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default",
   },
 };
 
@@ -16,34 +16,34 @@ export default function MinorChildAccountDeductionPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default#webpage",
-        "url": "https://settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default",
+        "@id": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default#webpage",
+        "url": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default",
         "name": "Can the Bank Deduct Loan EMI from a Minor Child's Bank Account?",
         "description": "An emotional and strictly legal guide addressing a highly unethical recovery tactic. Clarifies that a minor's savings account contains funds belonging exclusively to the minor.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default#breadcrumb",
+        "@id": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Minor Account Legal Defense",
-            "item": "https://settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default"
+            "item": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default#article",
+        "@id": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default#article",
         "headline": "Can the Bank Deduct Loan EMI from a Minor Child's Bank Account?",
         "description": "Addressing the illegal auto debit from minor savings account for parent's loan default and the RBI rules surrounding it.",
         "author": {
@@ -55,22 +55,22 @@ export default function MinorChildAccountDeductionPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-06-15",
         "dateModified": "2024-06-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default#product",
+        "@id": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default#product",
         "name": "Legal Action Against Illegal Bank Deductions",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to stop illegal auto-debits from minor accounts and recover funds seized by banks for a parent's loan default.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -112,7 +112,7 @@ export default function MinorChildAccountDeductionPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default#faq",
+        "@id": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-minor-child-bank-account-for-parents-default#faq",
         "mainEntity": [
           {
             "@type": "Question",

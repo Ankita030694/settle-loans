@@ -16,16 +16,16 @@ export const metadata: Metadata = {
     'can recovery agent contact emergency contacts'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/recovery-agents-calling-relatives-friends',
+    canonical: 'https://www.settleloans.in/recovery-agents-calling-relatives-friends',
   },
   openGraph: {
     title: 'Bank Recovery Agent Calling My Family? Legal Rights & Immediate Action Plan',
     description: 'Learn how to stop loan recovery agents from calling your relatives, parents, and friends. Understand RBI Fair Practices, legal penalties for agents, and emergency complaint steps.',
-    url: 'https://settleloans.in/recovery-agents-calling-relatives-friends',
+    url: 'https://www.settleloans.in/recovery-agents-calling-relatives-friends',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recovery-agents-calling-relatives-friends.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recovery-agents-calling-relatives-friends.jpg',
         width: 1200,
         height: 630,
         alt: 'Bank Recovery Agent Calling Family and Relatives Legal Guide',
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Bank Recovery Agent Calling My Family? Know Your Rights & RBI Rules',
     description: 'Strict RBI circulars prohibit recovery agents from calling relatives or friends. Discover legal solutions, grievance filing steps, and anti-harassment protections.',
-    images: ['https://settleloans.in/images/infographics/recovery-agents-calling-relatives-friends.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recovery-agents-calling-relatives-friends.jpg'],
   },
 };
 
@@ -47,74 +47,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recovery-agents-calling-relatives-friends#webpage",
-      "url": "https://settleloans.in/recovery-agents-calling-relatives-friends",
+      "@id": "https://www.settleloans.in/recovery-agents-calling-relatives-friends#webpage",
+      "url": "https://www.settleloans.in/recovery-agents-calling-relatives-friends",
       "name": "Bank Recovery Agent Calling My Family? Stop Harassment & Know RBI Rules (2026)",
       "description": "Is a bank recovery agent calling your family, parents, or friends? Discover strict RBI guidelines prohibiting third-party contact, legal rights, and immediate action to stop harassment.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recovery-agents-calling-relatives-friends#breadcrumb"
+        "@id": "https://www.settleloans.in/recovery-agents-calling-relatives-friends#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recovery-agents-calling-relatives-friends#breadcrumb",
+      "@id": "https://www.settleloans.in/recovery-agents-calling-relatives-friends#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Recovery Agents Calling Family & Relatives",
-          "item": "https://settleloans.in/recovery-agents-calling-relatives-friends"
+          "item": "https://www.settleloans.in/recovery-agents-calling-relatives-friends"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recovery-agents-calling-relatives-friends#article",
+      "@id": "https://www.settleloans.in/recovery-agents-calling-relatives-friends#article",
       "headline": "Bank Recovery Agent Calling My Family? Stop Harassment & Legal Rights (RBI Guidelines)",
       "description": "Comprehensive legal and tactical guide on stopping bank recovery agents from calling family, relatives, and friends. Features statutory protections under RBI Master Directions, criminal intimidation provisions, Supreme Court rulings, and emergency grievance templates.",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-calling-relatives-friends.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-calling-relatives-friends.jpg",
       "datePublished": "2026-08-20T11:13:33+05:30",
       "dateModified": "2026-08-20T11:13:33+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agents-calling-relatives-friends#webpage"
+        "@id": "https://www.settleloans.in/recovery-agents-calling-relatives-friends#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recovery-agents-calling-relatives-friends#service",
+      "@id": "https://www.settleloans.in/recovery-agents-calling-relatives-friends#service",
       "name": "SettleLoans - Anti-Harassment & Loan Dispute Resolution",
       "description": "Specialized legal advisory, anti-harassment protection, RBI Banking Ombudsman escalation, and One-Time Settlement (OTS) negotiation for distressed loan borrowers across India.",
-      "url": "https://settleloans.in/recovery-agents-calling-relatives-friends",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-calling-relatives-friends.jpg",
+      "url": "https://www.settleloans.in/recovery-agents-calling-relatives-friends",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-calling-relatives-friends.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -127,9 +127,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -203,7 +203,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recovery-agents-calling-relatives-friends#faq",
+      "@id": "https://www.settleloans.in/recovery-agents-calling-relatives-friends#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -281,12 +281,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

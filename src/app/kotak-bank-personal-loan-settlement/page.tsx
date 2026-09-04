@@ -61,16 +61,16 @@ export const metadata: Metadata = {
     'kotak 811 account lien removal loan default'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/kotak-bank-personal-loan-settlement',
+    canonical: 'https://www.settleloans.in/kotak-bank-personal-loan-settlement',
   },
   openGraph: {
     title: 'Kotak Mahindra Bank Loan Settlement: Legal Process, OTS Policy & 60% Haircut (2026)',
     description: 'Master Kotak Mahindra Bank personal loan settlement. Learn how to handle aggressive collection calls, Section 25 PSSA notices, Phoenix ARC assignments, and negotiate directly with nodal officers for an official OTS sanction letter.',
-    url: 'https://settleloans.in/kotak-bank-personal-loan-settlement',
+    url: 'https://www.settleloans.in/kotak-bank-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/kotak-bank-personal-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/kotak-bank-personal-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Kotak Mahindra Bank Personal Loan Settlement Process & OTS Haircut Blueprint',
@@ -83,7 +83,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Kotak Mahindra Bank Personal Loan Settlement Guide: Legal OTS & Haircuts',
     description: 'Technical and legal playbook for settling defaulted Kotak Mahindra Bank personal loans, credit cards, and digital credit lines under RBI compromise frameworks.',
-    images: ['https://settleloans.in/images/infographics/kotak-bank-personal-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/kotak-bank-personal-loan-settlement.jpg'],
   },
 };
 
@@ -92,74 +92,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/kotak-bank-personal-loan-settlement#webpage",
-      "url": "https://settleloans.in/kotak-bank-personal-loan-settlement",
+      "@id": "https://www.settleloans.in/kotak-bank-personal-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/kotak-bank-personal-loan-settlement",
       "name": "Kotak Mahindra Bank Loan Settlement: Legal Process, OTS Policy & 60% Haircut (2026)",
       "description": "In-depth legal guide to Kotak Mahindra Bank personal loan settlement. Navigate Kotak pre-litigation notices, Section 25 PSSA summons, Phoenix ARC transfers, and negotiate up to 60% waiver with a ₹0 NDC under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/kotak-bank-personal-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/kotak-bank-personal-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/kotak-bank-personal-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/kotak-bank-personal-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Kotak Mahindra Bank Loan Settlement",
-          "item": "https://settleloans.in/kotak-bank-personal-loan-settlement"
+          "item": "https://www.settleloans.in/kotak-bank-personal-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/kotak-bank-personal-loan-settlement#article",
+      "@id": "https://www.settleloans.in/kotak-bank-personal-loan-settlement#article",
       "headline": "Kotak Mahindra Bank Loan Settlement: Legal Process, OTS Policy & 60% Haircut",
       "description": "An exhaustive analysis of Kotak Mahindra Bank's loan recovery apparatus, pre-litigation notices, NPA write-off mechanics, Phoenix ARC assignments, and step-by-step compromise settlement procedures under RBI guidelines.",
-      "image": "https://settleloans.in/images/infographics/kotak-bank-personal-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/kotak-bank-personal-loan-settlement.jpg",
       "datePublished": "2026-08-24T12:00:00+05:30",
       "dateModified": "2026-08-24T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/kotak-bank-personal-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/kotak-bank-personal-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/kotak-bank-personal-loan-settlement#service",
+      "@id": "https://www.settleloans.in/kotak-bank-personal-loan-settlement#service",
       "name": "SettleLoans - Kotak Mahindra Bank Loan Settlement & Legal Defense",
       "description": "Specialized legal representation and financial negotiation advisory for settling defaulted Kotak Mahindra Bank personal loans, credit cards, and digital credit lines under RBI compromise frameworks.",
-      "url": "https://settleloans.in/kotak-bank-personal-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/kotak-bank-personal-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/kotak-bank-personal-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/kotak-bank-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -172,9 +172,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -248,7 +248,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/kotak-bank-personal-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/kotak-bank-personal-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -334,12 +334,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

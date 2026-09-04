@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "DRT Notice Reply India | Professional Legal Defense & Recovery Help",
   description: "Received a DRT Notice or SARFAESI 13(2) demand? Learn how to draft a winning DRT notice reply, challenge property possession, and negotiate settlements. Expert legal guidance for borrowers.",
   alternates: {
-    canonical: "https://settleloans.in/drt-notice-reply",
+    canonical: "https://www.settleloans.in/drt-notice-reply",
   },
 };
 
@@ -16,34 +16,34 @@ export default function DRTNoticeReplyPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/drt-notice-reply#webpage",
-        "url": "https://settleloans.in/drt-notice-reply",
+        "@id": "https://www.settleloans.in/drt-notice-reply#webpage",
+        "url": "https://www.settleloans.in/drt-notice-reply",
         "name": "DRT Notice Reply India | Professional Legal Defense & Recovery Help",
         "description": "Comprehensive guide on responding to Debt Recovery Tribunal (DRT) notices and SARFAESI Act demand notices in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/drt-notice-reply#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/drt-notice-reply#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/drt-notice-reply#breadcrumb",
+        "@id": "https://www.settleloans.in/drt-notice-reply#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "DRT Notice Reply",
-            "item": "https://settleloans.in/drt-notice-reply"
+            "item": "https://www.settleloans.in/drt-notice-reply"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/drt-notice-reply#article",
+        "@id": "https://www.settleloans.in/drt-notice-reply#article",
         "headline": "DRT Notice Reply: A Comprehensive Guide to Defending Your Assets",
         "description": "Expert insights on drafting a DRT notice reply, understanding SARFAESI Act procedures, and protecting borrower rights in India.",
         "author": {
@@ -55,16 +55,16 @@ export default function DRTNoticeReplyPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-27",
         "dateModified": "2024-03-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/drt-notice-reply#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/drt-notice-reply#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/drt-notice-reply#product",
+        "@id": "https://www.settleloans.in/drt-notice-reply#product",
         "name": "DRT Legal Defense Services",
         "description": "Professional support for responding to DRT summons and bank recovery notices.",
         "aggregateRating": {
@@ -98,7 +98,7 @@ export default function DRTNoticeReplyPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/drt-notice-reply#faq",
+        "@id": "https://www.settleloans.in/drt-notice-reply#faq",
         "mainEntity": [
           {
             "@type": "Question",

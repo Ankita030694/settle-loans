@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'unregistered loan app recovery legal immunity'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail',
+    canonical: 'https://www.settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail',
   },
   openGraph: {
     title: 'How to File Cyber Crime Complaint Against Loan App: Blackmail & Extortion Legal Guide',
     description: 'Immediate legal protection and cyber cell FIR filing protocols for victims of illegal lending apps, contact list scraping, and morphed photo extortion in India.',
-    url: 'https://settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail',
+    url: 'https://www.settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/cyber-crime-complaint-illegal-loan-apps-blackmail.jpg',
+        url: 'https://www.settleloans.in/images/infographics/cyber-crime-complaint-illegal-loan-apps-blackmail.jpg',
         width: 1200,
         height: 675,
         alt: 'How to File Cyber Crime Complaint Against Illegal Loan App Blackmail Infographic',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to File Cyber Crime Complaint Against Loan App: Stop Extortion Now',
     description: 'Comprehensive guide to filing an FIR on cybercrime.gov.in, blocking numbers via Chakshu, and leveraging RBI Digital Lending Guidelines against predatory loan syndicates.',
-    images: ['https://settleloans.in/images/infographics/cyber-crime-complaint-illegal-loan-apps-blackmail.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/cyber-crime-complaint-illegal-loan-apps-blackmail.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail#webpage",
-      "url": "https://settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail",
+      "@id": "https://www.settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail#webpage",
+      "url": "https://www.settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail",
       "name": "How to File Cyber Crime Complaint Against Loan App | Blackmail Defense 2026",
       "description": "Trapped by illegal 7-day loan apps or contact blackmail? Learn how to file a cyber crime complaint on cybercrime.gov.in, report numbers on Chakshu portal, invoke RBI digital lending rules, and stop morphed photo threats.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail#breadcrumb"
+        "@id": "https://www.settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail#breadcrumb",
+      "@id": "https://www.settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Cyber Crime Complaint Against Loan App",
-          "item": "https://settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail"
+          "item": "https://www.settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail#article",
+      "@id": "https://www.settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail#article",
       "headline": "How to File a Cyber Crime Complaint Against Illegal Loan Apps & Extortion Blackmail",
       "description": "A comprehensive statutory, regulatory, and tactical legal defense manual explaining how victims of fraudulent 7-day instant loan apps can immediately register cyber crime complaints, lodge police FIRs under the Bharatiya Nyaya Sanhita and IT Act, block predatory callers on the Chakshu portal, and invoke RBI Digital Lending Guidelines to establish complete legal immunity.",
-      "image": "https://settleloans.in/images/infographics/cyber-crime-complaint-illegal-loan-apps-blackmail.jpg",
+      "image": "https://www.settleloans.in/images/infographics/cyber-crime-complaint-illegal-loan-apps-blackmail.jpg",
       "datePublished": "2026-08-29T10:00:00+05:30",
       "dateModified": "2026-08-29T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail#webpage"
+        "@id": "https://www.settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail#service",
+      "@id": "https://www.settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail#service",
       "name": "SettleLoans - Cyber Harassment & Predatory Loan App Legal Defense Advisory",
       "description": "Specialized legal representation, cyber crime FIR registration assistance, and regulatory defense for borrowers subjected to illegal lending app harassment, morphed image blackmail, and unlawful debt recovery across India.",
-      "url": "https://settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail",
-      "image": "https://settleloans.in/images/infographics/cyber-crime-complaint-illegal-loan-apps-blackmail.jpg",
+      "url": "https://www.settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail",
+      "image": "https://www.settleloans.in/images/infographics/cyber-crime-complaint-illegal-loan-apps-blackmail.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail#faq",
+      "@id": "https://www.settleloans.in/cyber-crime-complaint-illegal-loan-apps-blackmail#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -321,12 +321,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

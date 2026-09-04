@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     title: "Loan Write-Off vs. Loan Settlement: Differences & CIBIL Impact | 2025 Guide",
     description: "Understand the critical differences between a loan write-off and a loan settlement in India. Learn about RBI guidelines, legal implications, and how each affects your credit score.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements",
+        canonical: "https://www.settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements",
     },
 };
 
@@ -19,36 +19,36 @@ export default function LoanWriteOffVsSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements#webpage",
-                "url": "https://settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements",
+                "@id": "https://www.settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements#webpage",
+                "url": "https://www.settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements",
                 "name": "Loan Write-Off vs. Loan Settlement: The Definitive Guide | SettleLoans",
                 "description": "Technical analysis of debt resolution mechanisms in India, focusing on the distinction between internal write-offs and negotiated settlements.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://settleloans.in/faqs" },
-                    { "@type": "ListItem", "position": 3, "name": "Write-Off vs Settlement", "item": "https://settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://www.settleloans.in/faqs" },
+                    { "@type": "ListItem", "position": 3, "name": "Write-Off vs Settlement", "item": "https://www.settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements#article",
+                "@id": "https://www.settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements#article",
                 "headline": "What is the difference between loan write-off and loan settlement?",
                 "description": "A deep-dive into bank accounting vs. borrower resolution. Learn why a write-off doesn't mean you don't owe the money.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": { "@type": "Organization", "name": "SettleLoans Expert Team" },
-                "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" } },
+                "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" } },
                 "datePublished": "2024-02-22",
                 "dateModified": "2024-02-22"
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements#faq",
+                "@id": "https://www.settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements#faq",
                 "mainEntity": [
                     { "@type": "Question", "name": "Does a write-off mean I don't have to pay?", "acceptedAnswer": { "@type": "Answer", "text": "No. A write-off is an internal accounting move by the bank for tax purposes. You are still legally liable to pay the debt, and interest continues to accumulate." } },
                     { "@type": "Question", "name": "What is the CIBIL status for a write-off?", "acceptedAnswer": { "@type": "Answer", "text": "The status will show as 'Written-Off'. This is considered highly negative by lenders and will prevent you from getting any new credit." } },
@@ -57,7 +57,7 @@ export default function LoanWriteOffVsSettlementPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements#service",
+                "@id": "https://www.settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements#service",
                 "name": "Debt Resolution Consultation",
                 "description": "Professional guidance on settling 'Written-Off' accounts and improving CIBIL health through legal settlements.",
                 "brand": { "@type": "Brand", "name": "SettleLoans" },

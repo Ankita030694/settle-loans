@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "How to Initiate Loan Settlement Through Bank's Online Portal | Step-by-Step",
   description: "Learn how to start your loan settlement process online. Step-by-step guide for SBI, HDFC, ICICI, and Axis Bank portals. Discover the documents needed and how to submit a digital hardship request safely.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal",
+    canonical: "https://www.settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal",
   },
 };
 
@@ -17,34 +17,34 @@ export default function InitiateSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal#webpage",
-        "url": "https://settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal",
+        "@id": "https://www.settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal#webpage",
+        "url": "https://www.settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal",
         "name": "How to Initiate Loan Settlement Through Bank's Online Portal | Step-by-Step",
         "description": "Comprehensive guide on using digital banking portals to start a loan settlement request in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Initiate Loan Settlement Online",
-            "item": "https://settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal"
+            "item": "https://www.settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal#article",
+        "@id": "https://www.settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal#article",
         "headline": "How to Initiate a Loan Settlement Request Through a Bank's Online Portal",
         "description": "A complete guide to navigating the digital settlement landscape in Indian banking.",
         "author": {
@@ -56,16 +56,16 @@ export default function InitiateSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-21",
         "dateModified": "2024-03-21",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal#product",
+        "@id": "https://www.settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal#product",
         "name": "Digital Settlement Assistance",
         "description": "Support services for initiating and managing loan settlements through online banking channels.",
         "aggregateRating": {
@@ -92,7 +92,7 @@ export default function InitiateSettlementPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal#faq",
+        "@id": "https://www.settleloans.in/how-to-initiate-a-loan-settlement-request-through-a-banks-online-portal#faq",
         "mainEntity": [
           {
             "@type": "Question",

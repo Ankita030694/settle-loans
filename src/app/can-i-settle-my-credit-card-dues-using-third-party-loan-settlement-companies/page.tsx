@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Can I Settle My Credit Card Dues Using Third-Party Loan Settlement Companies? | 2024 Guide",
   description: "Learn how to settle credit card dues in India using third-party companies. Explore benefits, risks, RBI guidelines, and how firms like SettleLoans can help you.",
   alternates: {
-    canonical: "https://settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies",
+    canonical: "https://www.settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies",
   },
 };
 
@@ -17,34 +17,34 @@ export default function CreditCardSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies#webpage",
-        "url": "https://settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies",
+        "@id": "https://www.settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies#webpage",
+        "url": "https://www.settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies",
         "name": "Can I Settle My Credit Card Dues Using Third-Party Loan Settlement Companies? | 2024 Guide",
         "description": "Exhaustive guide on credit card debt settlement via third-party providers in India, covering legal aspects and step-by-step processes.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies#breadcrumb",
+        "@id": "https://www.settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Credit Card Settlement",
-            "item": "https://settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies"
+            "item": "https://www.settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies#article",
+        "@id": "https://www.settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies#article",
         "headline": "Can I Settle My Credit Card Dues Using Third-Party Loan Settlement Companies? A Comprehensive 2024 Analysis",
         "description": "Exploring the legality and effectiveness of third-party debt settlement for credit cards in India. Learn about the role of SettleLoans, Amalegal, and CredSettle.",
         "author": {
@@ -56,16 +56,16 @@ export default function CreditCardSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies#faq",
+        "@id": "https://www.settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -151,7 +151,7 @@ export default function CreditCardSettlementPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies#product",
+        "@id": "https://www.settleloans.in/can-i-settle-my-credit-card-dues-using-third-party-loan-settlement-companies#product",
         "name": "Credit Card Debt Settlement Services",
         "description": "Professional third-party negotiation and settlement services for credit card dues in India.",
         "brand": {
@@ -175,7 +175,7 @@ export default function CreditCardSettlementPage() {
               "price": "0",
               "priceCurrency": "INR",
               "availability": "https://schema.org/InStock",
-              "url": "https://settleloans.in/contact"
+              "url": "https://www.settleloans.in/contact"
             }
           ]
         },

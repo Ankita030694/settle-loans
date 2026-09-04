@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'settle loan after recovery threats'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/police-station-call-for-loan-default',
+    canonical: 'https://www.settleloans.in/police-station-call-for-loan-default',
   },
   openGraph: {
     title: 'Recovery Agent Calling From Police Station: Legal Rights & Anti-Extortion Guide',
     description: 'Master the legal defense against recovery agents posing as police officers. Understand Supreme Court civil debt protections, verify fake FIRs, and file criminal extortion complaints against rogue agencies.',
-    url: 'https://settleloans.in/police-station-call-for-loan-default',
+    url: 'https://www.settleloans.in/police-station-call-for-loan-default',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/police-station-call-for-loan-default.jpg',
+        url: 'https://www.settleloans.in/images/infographics/police-station-call-for-loan-default.jpg',
         width: 1200,
         height: 675,
         alt: 'Police Station Call for Loan Default: Borrower Rights & Anti-Extortion Guide',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Recovery Agent Calling From Police Station: Legal Protections & Action Plan',
     description: 'Threatened with arrest or fake Crime Branch summons for loan default? Learn your statutory civil protections, how to expose fake police calls, and how advocates secure official OTS settlements.',
-    images: ['https://settleloans.in/images/infographics/police-station-call-for-loan-default.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/police-station-call-for-loan-default.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/police-station-call-for-loan-default#webpage",
-      "url": "https://settleloans.in/police-station-call-for-loan-default",
+      "@id": "https://www.settleloans.in/police-station-call-for-loan-default#webpage",
+      "url": "https://www.settleloans.in/police-station-call-for-loan-default",
       "name": "Recovery Agent Calling From Police Station: Legal Rights, Fake Notice Verification & Anti-Extortion Guide (2026)",
       "description": "Received a fake police call or Crime Branch notice from a loan recovery agent? Learn your legal protections, how to verify FIR status, file Section 384/419 criminal complaints, and settle debt safely.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/police-station-call-for-loan-default#breadcrumb"
+        "@id": "https://www.settleloans.in/police-station-call-for-loan-default#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/police-station-call-for-loan-default#breadcrumb",
+      "@id": "https://www.settleloans.in/police-station-call-for-loan-default#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Borrower Anti-Harassment & Legal Rights",
-          "item": "https://settleloans.in/police-station-call-for-loan-default"
+          "item": "https://www.settleloans.in/police-station-call-for-loan-default"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/police-station-call-for-loan-default#article",
+      "@id": "https://www.settleloans.in/police-station-call-for-loan-default#article",
       "headline": "Recovery Agent Calling From Police Station: Legal Rights, Fake Notice Verification & Anti-Extortion Guide",
       "description": "An exhaustive legal guide on handling recovery agents falsely claiming to call from police stations or crime branches. Explains civil debt distinctions, Supreme Court anti-harassment rulings, penal provisions for police impersonation, and advocate-led debt resolution.",
-      "image": "https://settleloans.in/images/infographics/police-station-call-for-loan-default.jpg",
+      "image": "https://www.settleloans.in/images/infographics/police-station-call-for-loan-default.jpg",
       "datePublished": "2026-08-25T10:00:00+05:30",
       "dateModified": "2026-08-25T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/police-station-call-for-loan-default#webpage"
+        "@id": "https://www.settleloans.in/police-station-call-for-loan-default#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/police-station-call-for-loan-default#service",
+      "@id": "https://www.settleloans.in/police-station-call-for-loan-default#service",
       "name": "SettleLoans - Anti-Harassment Legal Defense & Debt Settlement Advisory",
       "description": "Comprehensive legal advocacy, criminal complaint drafting against rogue recovery agencies, and institutional debt settlement negotiation for distressed borrowers facing harassment and unlawful intimidation in India.",
-      "url": "https://settleloans.in/police-station-call-for-loan-default",
-      "image": "https://settleloans.in/images/infographics/police-station-call-for-loan-default.jpg",
+      "url": "https://www.settleloans.in/police-station-call-for-loan-default",
+      "image": "https://www.settleloans.in/images/infographics/police-station-call-for-loan-default.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/police-station-call-for-loan-default#faq",
+      "@id": "https://www.settleloans.in/police-station-call-for-loan-default#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -321,12 +321,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

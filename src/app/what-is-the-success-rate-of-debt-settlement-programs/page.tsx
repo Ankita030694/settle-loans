@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "What is the Success Rate of Debt Settlement Programs? | 2024-2025 Stats",
   description: "Explore the real success rate of debt settlement programs in India for 2024-2025. Learn about average savings, account resolution rates, and factors that influence your path to debt freedom.",
   alternates: {
-    canonical: "https://settleloans.in/what-is-the-success-rate-of-debt-settlement-programs",
+    canonical: "https://www.settleloans.in/what-is-the-success-rate-of-debt-settlement-programs",
   },
 };
 
@@ -16,34 +16,34 @@ export default function DebtSettlementSuccessRatePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-is-the-success-rate-of-debt-settlement-programs#webpage",
-        "url": "https://settleloans.in/what-is-the-success-rate-of-debt-settlement-programs",
+        "@id": "https://www.settleloans.in/what-is-the-success-rate-of-debt-settlement-programs#webpage",
+        "url": "https://www.settleloans.in/what-is-the-success-rate-of-debt-settlement-programs",
         "name": "What is the Success Rate of Debt Settlement Programs? | 2024-2025 Stats",
         "description": "Comprehensive analysis of debt settlement success rates, including statistics from AFCC and Indian market trends.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-is-the-success-rate-of-debt-settlement-programs#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-is-the-success-rate-of-debt-settlement-programs#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-is-the-success-rate-of-debt-settlement-programs#breadcrumb",
+        "@id": "https://www.settleloans.in/what-is-the-success-rate-of-debt-settlement-programs#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Success Rate of Debt Settlement",
-            "item": "https://settleloans.in/what-is-the-success-rate-of-debt-settlement-programs"
+            "item": "https://www.settleloans.in/what-is-the-success-rate-of-debt-settlement-programs"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-is-the-success-rate-of-debt-settlement-programs#article",
+        "@id": "https://www.settleloans.in/what-is-the-success-rate-of-debt-settlement-programs#article",
         "headline": "What is the Success Rate of Debt Settlement Programs? A Deep Dive into 2024-2025 Realities",
         "description": "An exhaustive guide on the statistics, benefits, and risks associated with debt settlement success in India and globally.",
         "author": {
@@ -55,16 +55,16 @@ export default function DebtSettlementSuccessRatePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-18",
         "dateModified": "2024-03-18",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-is-the-success-rate-of-debt-settlement-programs#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-is-the-success-rate-of-debt-settlement-programs#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-is-the-success-rate-of-debt-settlement-programs#product",
+        "@id": "https://www.settleloans.in/what-is-the-success-rate-of-debt-settlement-programs#product",
         "name": "Debt Settlement Negotiation Services",
         "description": "Professional debt negotiation and settlement services to help borrowers reduce their outstanding debt by 30% to 70%.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function DebtSettlementSuccessRatePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-is-the-success-rate-of-debt-settlement-programs#faq",
+        "@id": "https://www.settleloans.in/what-is-the-success-rate-of-debt-settlement-programs#faq",
         "mainEntity": [
           {
             "@type": "Question",

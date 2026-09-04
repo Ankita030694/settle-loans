@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How Do Digital Lending Companies Handle Loan Settlement Requests?",
   description: "Learn how digital lending companies in India handle loan settlement. Deep dive into fintech recovery, RBI guidelines, and CIBIL impact for NBFC loan defaults.",
   alternates: {
-    canonical: "https://settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests",
+    canonical: "https://www.settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests",
   },
 };
 
@@ -16,34 +16,34 @@ export default function DigitalLendingSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests#webpage",
-        "url": "https://settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests",
+        "@id": "https://www.settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests#webpage",
+        "url": "https://www.settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests",
         "name": "How Digital Lending Companies Handle Loan Settlement Requests in India",
         "description": "Comprehensive guide on fintech loan settlement, NBFC recovery processes, and borrower rights in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests#breadcrumb",
+        "@id": "https://www.settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Digital Lending Settlement",
-            "item": "https://settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests"
+            "item": "https://www.settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests#article",
+        "@id": "https://www.settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests#article",
         "headline": "How Digital Lending Companies Handle Loan Settlement Requests",
         "description": "A deep dive into the end-to-end process of digital loan settlement in India, covering fintech strategies, RBI regulations, and credit impact.",
         "author": {
@@ -55,12 +55,12 @@ export default function DigitalLendingSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-19",
         "dateModified": "2024-03-19",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests#webpage" }
       },
       {
         "@type": "FAQPage",
@@ -165,7 +165,7 @@ export default function DigitalLendingSettlementPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests#product",
+        "@id": "https://www.settleloans.in/how-do-digital-lending-companies-handle-loan-settlement-requests#product",
         "name": "Digital Lending Loan Settlement Guidance",
         "description": "Expert guidance on how digital lending companies handle loan settlement in India.",
         "aggregateRating": {

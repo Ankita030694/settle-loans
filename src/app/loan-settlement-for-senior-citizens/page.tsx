@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement for Senior Citizens in India | Legal Rights & RBI Rules",
   description: "Comprehensive guide to loan settlement for senior citizens in India. Learn about legal rights, RBI guidelines, medical debt relief, and how to negotiate a final settlement safely.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement-for-senior-citizens",
+    canonical: "https://www.settleloans.in/loan-settlement-for-senior-citizens",
   },
 };
 
@@ -16,34 +16,34 @@ export default function SeniorCitizenLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-for-senior-citizens#webpage",
-        "url": "https://settleloans.in/loan-settlement-for-senior-citizens",
+        "@id": "https://www.settleloans.in/loan-settlement-for-senior-citizens#webpage",
+        "url": "https://www.settleloans.in/loan-settlement-for-senior-citizens",
         "name": "Loan Settlement for Senior Citizens in India | Legal Rights & RBI Rules",
         "description": "Comprehensive guide to loan settlement for senior citizens in India, covering legal protections and negotiation strategies.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-for-senior-citizens#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-for-senior-citizens#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement-for-senior-citizens#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement-for-senior-citizens#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement for Senior Citizens",
-            "item": "https://settleloans.in/loan-settlement-for-senior-citizens"
+            "item": "https://www.settleloans.in/loan-settlement-for-senior-citizens"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement-for-senior-citizens#article",
+        "@id": "https://www.settleloans.in/loan-settlement-for-senior-citizens#article",
         "headline": "Loan Settlement for Senior Citizens: A Guide to Financial Freedom in Retirement",
         "description": "Discover the legal rights and strategies for senior citizens facing loan default and harassment in India. Learn about RBI guidelines and OTS processes.",
         "author": {
@@ -55,16 +55,16 @@ export default function SeniorCitizenLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-02",
         "dateModified": "2024-03-02",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-for-senior-citizens#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-for-senior-citizens#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement-for-senior-citizens#product",
+        "@id": "https://www.settleloans.in/loan-settlement-for-senior-citizens#product",
         "name": "Senior Citizen Debt Settlement Advisory",
         "description": "Specialized legal and financial advisory for senior citizens looking to settle their bank loans and credit card debts.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function SeniorCitizenLoanSettlementPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement-for-senior-citizens#faq",
+        "@id": "https://www.settleloans.in/loan-settlement-for-senior-citizens#faq",
         "mainEntity": [
           {
             "@type": "Question",

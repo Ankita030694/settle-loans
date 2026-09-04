@@ -12,39 +12,39 @@ export default function ChallengeARCPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc#webpage",
-                "url": "https://settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc",
+                "@id": "https://www.settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc",
                 "name": "Best Lawyer to Challenge Loan Assignment to ARC | Invalidate Debt Transfer",
                 "description": "Expert legal advice on challenging loan assignments to ARCs in India. Learn about Section 5 SARFAESI, Assignment Deed validity, and DRT defences. 4500+ word expert guide.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Challenge Loan Assignment to ARC", "item": "https://settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Challenge Loan Assignment to ARC", "item": "https://www.settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc#article",
+                "@id": "https://www.settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc#article",
                 "headline": "Best Lawyer to Challenge Loan Assignment to ARC: A Definitive Guide to Invalidating Debt Transfers",
                 "description": "Comprehensive legal framework for contesting loan sales to ARCs. Analysis of Section 5 of SARFAESI Act, registration requirements, and RBI fair practices.",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Content Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc#product",
+                "@id": "https://www.settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc#product",
                 "name": "ARC Assignment Challenge Service",
                 "description": "Specialized legal services to investigate and challenge the legality of loan transfers from banks to ARCs in DRT.",
                 "aggregateRating": {
@@ -64,7 +64,7 @@ export default function ChallengeARCPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-to-challenge-loan-assignment-to-arc#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Best Lawyer for Consortium Loan Recovery Defence | Multi-Bank Debt Resolution",
     description: "Facing recovery from multiple banks? Consult the best lawyer for consortium loan recovery defence in India. Expert help for ICA, SARFAESI, and DRT cases.",
     alternates: {
-        canonical: "https://settleloans.in/best-lawyer-for-consortium-loan-recovery-defence",
+        canonical: "https://www.settleloans.in/best-lawyer-for-consortium-loan-recovery-defence",
     },
 };
 
@@ -18,34 +18,34 @@ export default function ConsortiumLoanDefencePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-consortium-loan-recovery-defence#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-consortium-loan-recovery-defence",
+                "@id": "https://www.settleloans.in/best-lawyer-for-consortium-loan-recovery-defence#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-consortium-loan-recovery-defence",
                 "name": "Best Lawyer for Consortium Loan Recovery Defence India | Multi-Bank Legal Shield",
                 "description": "Expert legal defense services for borrowers facing consortium loan recovery actions, multi-bank disputes, and complex debt restructuring in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-consortium-loan-recovery-defence#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-consortium-loan-recovery-defence#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-consortium-loan-recovery-defence#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-consortium-loan-recovery-defence#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Consortium Loan Recovery Defence",
-                        "item": "https://settleloans.in/best-lawyer-for-consortium-loan-recovery-defence"
+                        "item": "https://www.settleloans.in/best-lawyer-for-consortium-loan-recovery-defence"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-consortium-loan-recovery-defence#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-consortium-loan-recovery-defence#article",
                 "headline": "Best Lawyer for Consortium Loan Recovery Defence: Navigating Multi-Bank Disputes",
                 "description": "A comprehensive guide to legal strategies for defending consortium loan recovery actions, understanding inter-creditor agreements, and securing settlements.",
                 "author": {
@@ -57,16 +57,16 @@ export default function ConsortiumLoanDefencePage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-consortium-loan-recovery-defence#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-consortium-loan-recovery-defence#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-consortium-loan-recovery-defence#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-consortium-loan-recovery-defence#product",
                 "name": "Consortium Debt Legal Defence Service",
                 "description": "Specialized legal representation for borrowers dealing with consortium loan defaults and bank recovery syndicates.",
                 "aggregateRating": {
@@ -93,7 +93,7 @@ export default function ConsortiumLoanDefencePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-consortium-loan-recovery-defence#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-consortium-loan-recovery-defence#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

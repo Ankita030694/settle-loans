@@ -55,16 +55,16 @@ export const metadata: Metadata = {
     'rbi penalty on banks for recovery harassment'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights',
+    canonical: 'https://www.settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights',
   },
   openGraph: {
     title: 'Top 10 RBI Rules for Loan Defaulters Rights | Master Authority Guide',
     description: 'Definitive regulatory analysis of RBI Master Directions protecting loan defaulters in India. Learn about recovery agent limits, privacy bans, criminal threat immunity, OTS frameworks, and 30-day NDC rules.',
-    url: 'https://settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights',
+    url: 'https://www.settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/top-10-rbi-rules-for-loan-defaulters-rights.jpg',
+        url: 'https://www.settleloans.in/images/infographics/top-10-rbi-rules-for-loan-defaulters-rights.jpg',
         width: 1200,
         height: 675,
         alt: 'Top 10 RBI Rules for Loan Defaulters Rights Infographic',
@@ -77,7 +77,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Top 10 RBI Rules for Loan Defaulters Rights: Complete Legal Guide',
     description: 'Facing recovery agent harassment or loan default? Explore the top 10 statutory RBI rules that safeguard your dignity, privacy, and financial rights in India.',
-    images: ['https://settleloans.in/images/infographics/top-10-rbi-rules-for-loan-defaulters-rights.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/top-10-rbi-rules-for-loan-defaulters-rights.jpg'],
   },
 };
 
@@ -86,74 +86,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights#webpage",
-      "url": "https://settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights",
+      "@id": "https://www.settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights#webpage",
+      "url": "https://www.settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights",
       "name": "Top 10 RBI Rules for Loan Defaulters Rights: Harassment Ban, Calling Hours & OTS Guidelines",
       "description": "Comprehensive legal and regulatory pillar covering the Reserve Bank of India Master Directions on borrower rights, debt recovery protocols, fair practices code, and compromise settlements.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights#breadcrumb"
+        "@id": "https://www.settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights#breadcrumb",
+      "@id": "https://www.settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Top 10 RBI Rules for Loan Defaulters Rights",
-          "item": "https://settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights"
+          "item": "https://www.settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights#article",
+      "@id": "https://www.settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights#article",
       "headline": "Top 10 RBI Rules for Loan Defaulters Rights: Harassment Ban, Calling Hours & OTS Guidelines",
       "description": "An exhaustive, advocate-reviewed authority pillar detailing the 10 essential Reserve Bank of India rules and circulars protecting loan defaulters in India from unlawful recovery tactics, predatory charges, and unconstitutional criminalization.",
-      "image": "https://settleloans.in/images/infographics/top-10-rbi-rules-for-loan-defaulters-rights.jpg",
+      "image": "https://www.settleloans.in/images/infographics/top-10-rbi-rules-for-loan-defaulters-rights.jpg",
       "datePublished": "2026-08-26T10:00:00+05:30",
       "dateModified": "2026-08-26T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights#webpage"
+        "@id": "https://www.settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights#service",
+      "@id": "https://www.settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights#service",
       "name": "SettleLoans - Debt Settlement & Borrower Rights Advisory",
       "description": "Strategic legal protection and advocate-led loan settlement advisory enforcing RBI Fair Practices Code, stopping recovery harassment, and negotiating maximum One-Time Settlement (OTS) waivers across India.",
-      "url": "https://settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights",
-      "image": "https://settleloans.in/images/infographics/top-10-rbi-rules-for-loan-defaulters-rights.jpg",
+      "url": "https://www.settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights",
+      "image": "https://www.settleloans.in/images/infographics/top-10-rbi-rules-for-loan-defaulters-rights.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -166,9 +166,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -242,7 +242,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights#faq",
+      "@id": "https://www.settleloans.in/top-10-rbi-rules-for-loan-defaulters-rights#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -328,12 +328,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

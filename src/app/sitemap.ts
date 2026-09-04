@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-    const baseUrl = 'https://settleloans.in'
+    const baseUrl = 'https://www.settleloans.in'
 
     return [
         {
@@ -2223,67 +2223,67 @@ export default function sitemap(): MetadataRoute.Sitemap {
             priority: 0.8,
         },
         {
-            url: 'https://settleloans.in/best-lawyer-for-documentation-review-of-loan-agreement',
+            url: 'https://www.settleloans.in/best-lawyer-for-documentation-review-of-loan-agreement',
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 0.8,
         },
         {
-            url: 'https://settleloans.in/best-lawyer-for-loan-recovery-documentation',
+            url: 'https://www.settleloans.in/best-lawyer-for-loan-recovery-documentation',
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 0.8,
         },
         {
-            url: 'https://settleloans.in/best-lawyer-for-arc-loan-assignment-dispute',
+            url: 'https://www.settleloans.in/best-lawyer-for-arc-loan-assignment-dispute',
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 0.8,
         },
         {
-            url: 'https://settleloans.in/best-lawyer-for-account-documents-drt',
+            url: 'https://www.settleloans.in/best-lawyer-for-account-documents-drt',
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 0.8,
         },
         {
-            url: 'https://settleloans.in/drt-lawyer-in-mumbai-loan-recovery',
+            url: 'https://www.settleloans.in/drt-lawyer-in-mumbai-loan-recovery',
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 0.8,
         },
         {
-            url: 'https://settleloans.in/best-loan-agreement-arbitration-lawyer',
+            url: 'https://www.settleloans.in/best-loan-agreement-arbitration-lawyer',
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 0.8,
         },
         {
-            url: 'https://settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer',
+            url: 'https://www.settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer',
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 0.8,
         },
         {
-            url: 'https://settleloans.in/best-lawyer-for-loan-settlement-during-drt',
+            url: 'https://www.settleloans.in/best-lawyer-for-loan-settlement-during-drt',
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 0.8,
         },
         {
-            url: 'https://settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery',
+            url: 'https://www.settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery',
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 0.8,
         },
         {
-            url: 'https://settleloans.in/best-lawyer-for-bank-loan-recovery-defence',
+            url: 'https://www.settleloans.in/best-lawyer-for-bank-loan-recovery-defence',
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 0.8,
         },
         {
-            url: 'https://settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes',
+            url: 'https://www.settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes',
             lastModified: new Date(),
             changeFrequency: 'monthly',
             priority: 0.8,

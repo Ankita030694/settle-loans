@@ -50,16 +50,16 @@ export const metadata: Metadata = {
     'postpe lender nbfc settlement liquiloans trillion',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/postpe-bharatpe-credit-line-settlement',
+    canonical: 'https://www.settleloans.in/postpe-bharatpe-credit-line-settlement',
   },
   openGraph: {
     title: 'PostPe & BharatPe Credit Line Settlement: OTS Rules, Legal Defense & Harassment Protection (2026)',
     description: 'Trapped in PostPe credit line debt or BharatPe merchant loan daily deductions? Discover how to stop recovery agent harassment, revoke e-NACH mandates, challenge partner NBFC notices, and settle with 45% to 65% OTS haircuts under RBI frameworks.',
-    url: 'https://settleloans.in/postpe-bharatpe-credit-line-settlement',
+    url: 'https://www.settleloans.in/postpe-bharatpe-credit-line-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/postpe-bharatpe-credit-line-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/postpe-bharatpe-credit-line-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'PostPe and BharatPe Credit Line & Merchant Loan Settlement Process Guide',
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'PostPe & BharatPe Credit Line Settlement: OTS Rules & Legal Defense',
     description: 'Technical and legal manual for settling defaulted PostPe consumer credit lines and BharatPe merchant loans under RBI Digital Lending Guidelines and Compromise Settlement frameworks.',
-    images: ['https://settleloans.in/images/infographics/postpe-bharatpe-credit-line-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/postpe-bharatpe-credit-line-settlement.jpg'],
   },
 };
 
@@ -81,74 +81,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/postpe-bharatpe-credit-line-settlement#webpage",
-      "url": "https://settleloans.in/postpe-bharatpe-credit-line-settlement",
+      "@id": "https://www.settleloans.in/postpe-bharatpe-credit-line-settlement#webpage",
+      "url": "https://www.settleloans.in/postpe-bharatpe-credit-line-settlement",
       "name": "PostPe & BharatPe Credit Line Settlement: OTS Rules & Legal Defense (2026)",
       "description": "Comprehensive guide to PostPe and BharatPe loan settlement. Learn how to settle retail and merchant credit lines, stop daily QR deductions & NACH bounce fees, halt WhatsApp harassment, defend partner NBFC legal notices, and negotiate 45%–65% OTS debt waivers under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/postpe-bharatpe-credit-line-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/postpe-bharatpe-credit-line-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/postpe-bharatpe-credit-line-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/postpe-bharatpe-credit-line-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "PostPe & BharatPe Credit Line Settlement",
-          "item": "https://settleloans.in/postpe-bharatpe-credit-line-settlement"
+          "item": "https://www.settleloans.in/postpe-bharatpe-credit-line-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/postpe-bharatpe-credit-line-settlement#article",
+      "@id": "https://www.settleloans.in/postpe-bharatpe-credit-line-settlement#article",
       "headline": "PostPe & BharatPe Credit Line Settlement: OTS Rules, Legal Defense & Harassment Protection Guide",
       "description": "A comprehensive strategic manual on resolving defaulted PostPe consumer credit limits and BharatPe merchant daily swipe loans. Learn how to halt unlawful recovery agent intimidation, revoke predatory e-NACH presentations, audit partner NBFC ledgers, and secure official One-Time Settlements (OTS) with up to 65% principal haircuts.",
-      "image": "https://settleloans.in/images/infographics/postpe-bharatpe-credit-line-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/postpe-bharatpe-credit-line-settlement.jpg",
       "datePublished": "2026-09-03T11:20:00+05:30",
       "dateModified": "2026-09-03T11:20:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/postpe-bharatpe-credit-line-settlement#webpage"
+        "@id": "https://www.settleloans.in/postpe-bharatpe-credit-line-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/postpe-bharatpe-credit-line-settlement#service",
+      "@id": "https://www.settleloans.in/postpe-bharatpe-credit-line-settlement#service",
       "name": "SettleLoans - PostPe & BharatPe Credit Line Settlement Advisory",
       "description": "Specialized legal representation and financial negotiation advisory for settling defaulted PostPe consumer credit lines and BharatPe merchant loans under RBI Digital Lending Guidelines with maximum debt waivers and complete anti-harassment protection.",
-      "url": "https://settleloans.in/postpe-bharatpe-credit-line-settlement",
-      "image": "https://settleloans.in/images/infographics/postpe-bharatpe-credit-line-settlement.jpg",
+      "url": "https://www.settleloans.in/postpe-bharatpe-credit-line-settlement",
+      "image": "https://www.settleloans.in/images/infographics/postpe-bharatpe-credit-line-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -161,9 +161,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -237,7 +237,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/postpe-bharatpe-credit-line-settlement#faq",
+      "@id": "https://www.settleloans.in/postpe-bharatpe-credit-line-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -323,12 +323,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

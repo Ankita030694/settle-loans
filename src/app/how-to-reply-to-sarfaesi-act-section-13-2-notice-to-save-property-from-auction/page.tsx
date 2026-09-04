@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "SARFAESI Act Section 13(2) Demand Notice: How to Reply and Save Your House from Auction",
   description: "Received a 60 days notice period home loan default under SARFAESI Act 13(2)? Learn the correct notice reply format, how to stop property auction under SARFAESI, and get a DRT stay order.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction",
+    canonical: "https://www.settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction",
   },
 };
 
@@ -16,34 +16,34 @@ export default function SarfaesiNoticePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction#webpage",
-        "url": "https://settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction",
+        "@id": "https://www.settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction#webpage",
+        "url": "https://www.settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction",
         "name": "SARFAESI Act Section 13(2) Demand Notice: How to Reply and Save Your House from Auction",
         "description": "A highly technical legal guide for secured loan defaulters who just received a formal 60-day demand notice under Section 13(2) of the SARFAESI Act.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "SARFAESI Act Section 13(2) Demand Notice Reply",
-            "item": "https://settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction"
+            "item": "https://www.settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction#article",
+        "@id": "https://www.settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction#article",
         "headline": "SARFAESI Act Section 13(2) Demand Notice: How to Reply and Save Your House from Auction",
         "description": "Explains the critical importance of drafting a legal reply under Section 13(3A) to buy time, and how to approach the DRT for a stay order before the bank takes physical possession.",
         "author": {
@@ -55,22 +55,22 @@ export default function SarfaesiNoticePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-05-15",
         "dateModified": "2024-05-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction#product",
+        "@id": "https://www.settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction#product",
         "name": "DRT Legal Representation & SARFAESI Defense",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert DRT lawyers to draft watertight SARFAESI 13(2) replies and secure stay orders against property auctions.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -119,7 +119,7 @@ export default function SarfaesiNoticePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction#faq",
+        "@id": "https://www.settleloans.in/how-to-reply-to-sarfaesi-act-section-13-2-notice-to-save-property-from-auction#faq",
         "mainEntity": [
           {
             "@type": "Question",

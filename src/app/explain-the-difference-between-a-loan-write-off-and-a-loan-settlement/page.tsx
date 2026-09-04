@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Write-Off vs Settlement: Understanding the Key Differences in India",
   description: "Explore the critical differences between a loan write-off and a loan settlement. Learn about RBI rules, credit score impacts, and legal implications for borrowers in India.",
   alternates: {
-    canonical: "https://settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement",
+    canonical: "https://www.settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement",
   },
 };
 
@@ -17,34 +17,34 @@ export default function LoanWriteOffVsSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement#webpage",
-        "url": "https://settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement",
+        "@id": "https://www.settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement#webpage",
+        "url": "https://www.settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement",
         "name": "Explain the Difference Between a Loan Write-Off and a Loan Settlement",
         "description": "Comprehensive guide explaining the differences between loan write-off and settlement in the Indian banking context.",
-        "breadcrumb": { "@id": "https://settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement#breadcrumb",
+        "@id": "https://www.settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Write-Off vs Settlement",
-            "item": "https://settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement"
+            "item": "https://www.settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement#article",
+        "@id": "https://www.settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement#article",
         "headline": "Loan Write-Off vs Loan Settlement: A Comprehensive Guide for Indian Borrowers",
         "description": "An in-depth analysis of how loan write-offs and settlements affect your financial future, credit score, and legal standing in India.",
         "author": {
@@ -56,18 +56,18 @@ export default function LoanWriteOffVsSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-21",
         "dateModified": "2024-03-21",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement#webpage" }
       },
       {
         "@type": "Organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
-        "logo": "https://settleloans.in/logo/logo.svg",
+        "url": "https://www.settleloans.in",
+        "logo": "https://www.settleloans.in/logo/logo.svg",
         "sameAs": [
           "https://www.facebook.com/settleloans",
           "https://www.twitter.com/settleloans",
@@ -76,7 +76,7 @@ export default function LoanWriteOffVsSettlementPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement#product",
+        "@id": "https://www.settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement#product",
         "name": "Debt Resolution Consultancy",
         "description": "Professional guidance on navigating loan write-offs and achieving successful debt settlements.",
         "aggregateRating": {
@@ -96,7 +96,7 @@ export default function LoanWriteOffVsSettlementPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement#faq",
+        "@id": "https://www.settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",

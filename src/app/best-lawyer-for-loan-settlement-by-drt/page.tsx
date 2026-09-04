@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Best Lawyer for Loan Settlement by DRT | Debt Recovery Tribunal Defense",
     description: "Facing a DRT case? Connect with the best lawyer for loan settlement by DRT in India. Expert defense for SARFAESI, SA filing, and bank settlement through tribunal.",
     alternates: {
-        canonical: "https://settleloans.in/best-lawyer-for-loan-settlement-by-drt",
+        canonical: "https://www.settleloans.in/best-lawyer-for-loan-settlement-by-drt",
     },
 };
 
@@ -18,34 +18,34 @@ export default function DRTLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-settlement-by-drt#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-loan-settlement-by-drt",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-settlement-by-drt#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-loan-settlement-by-drt",
                 "name": "Best Lawyer for Loan Settlement by DRT India | Tribunal Defense",
                 "description": "Comprehensive legal guide and services for borrowers facing Debt Recovery Tribunal (DRT) cases, bank recoveries, and SARFAESI actions.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-loan-settlement-by-drt#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-loan-settlement-by-drt#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-settlement-by-drt#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-settlement-by-drt#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Best Lawyer for Loan Settlement by DRT",
-                        "item": "https://settleloans.in/best-lawyer-for-loan-settlement-by-drt"
+                        "item": "https://www.settleloans.in/best-lawyer-for-loan-settlement-by-drt"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-settlement-by-drt#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-settlement-by-drt#article",
                 "headline": "Best Lawyer for Loan Settlement by DRT: Your Guide to Tribunal Defense",
                 "description": "Professional insights into the DRT process, legal remedies for borrowers, and strategies for achieving favorable settlements in the Debt Recovery Tribunal.",
                 "author": {
@@ -57,16 +57,16 @@ export default function DRTLoanSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-loan-settlement-by-drt#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-loan-settlement-by-drt#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-settlement-by-drt#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-settlement-by-drt#product",
                 "name": "DRT Legal Defense Consultation",
                 "description": "Professional legal defense and settlement negotiation for DRT and SARFAESI matters.",
                 "aggregateRating": {
@@ -93,7 +93,7 @@ export default function DRTLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-settlement-by-drt#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-settlement-by-drt#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

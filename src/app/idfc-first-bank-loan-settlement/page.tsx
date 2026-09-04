@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'idfc first bank lok adalat settlement'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/idfc-first-bank-loan-settlement',
+    canonical: 'https://www.settleloans.in/idfc-first-bank-loan-settlement',
   },
   openGraph: {
     title: 'IDFC First Bank Loan Settlement: Process, OTS Policy & 60% Haircut (2026)',
     description: 'Master IDFC First Bank personal and consumer durable loan settlement. Compare digital portal algorithms with advocate-led negotiations, handle Section 25 PSSA notices, and secure an authentic OTS sanction letter with ₹0 NDC.',
-    url: 'https://settleloans.in/idfc-first-bank-loan-settlement',
+    url: 'https://www.settleloans.in/idfc-first-bank-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/idfc-first-bank-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/idfc-first-bank-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'IDFC First Bank Loan Settlement Process and OTS Haircut Blueprint',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'IDFC First Bank Loan Settlement Guide: Legal OTS & Haircuts',
     description: 'Technical and legal manual for settling defaulted IDFC First Bank personal loans and consumer durable credit under RBI Compromise Settlement frameworks and SAMG desks.',
-    images: ['https://settleloans.in/images/infographics/idfc-first-bank-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/idfc-first-bank-loan-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/idfc-first-bank-loan-settlement#webpage",
-      "url": "https://settleloans.in/idfc-first-bank-loan-settlement",
+      "@id": "https://www.settleloans.in/idfc-first-bank-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/idfc-first-bank-loan-settlement",
       "name": "IDFC First Bank Loan Settlement: Process, OTS Policy & 60% Haircut (2026)",
       "description": "Exhaustive legal guide to IDFC First Bank loan settlement. Understand consumer durable and personal loan default, digital portal vs advocate representation, Section 25 PSSA summons, and negotiate up to 60% haircut under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/idfc-first-bank-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/idfc-first-bank-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/idfc-first-bank-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/idfc-first-bank-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "IDFC First Bank Loan Settlement",
-          "item": "https://settleloans.in/idfc-first-bank-loan-settlement"
+          "item": "https://www.settleloans.in/idfc-first-bank-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/idfc-first-bank-loan-settlement#article",
+      "@id": "https://www.settleloans.in/idfc-first-bank-loan-settlement#article",
       "headline": "IDFC First Bank Loan Settlement: Process, OTS Policy & 60% Haircut",
       "description": "A comprehensive strategic analysis of IDFC First Bank's rapid retail lending portfolio, digital settlement portal limitations, advocate representation advantages, NPA provisioning mechanics, and step-by-step compromise settlement procedures under RBI guidelines.",
-      "image": "https://settleloans.in/images/infographics/idfc-first-bank-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/idfc-first-bank-loan-settlement.jpg",
       "datePublished": "2026-08-24T12:00:00+05:30",
       "dateModified": "2026-08-24T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/idfc-first-bank-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/idfc-first-bank-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/idfc-first-bank-loan-settlement#service",
+      "@id": "https://www.settleloans.in/idfc-first-bank-loan-settlement#service",
       "name": "SettleLoans - IDFC First Bank Loan Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted IDFC First Bank personal loans, consumer durable finance, and credit lines under RBI compromise frameworks.",
-      "url": "https://settleloans.in/idfc-first-bank-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/idfc-first-bank-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/idfc-first-bank-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/idfc-first-bank-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/idfc-first-bank-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/idfc-first-bank-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -292,12 +292,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

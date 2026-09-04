@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   title: "NBFC Loan Settlement Services India | Bajaj, Tata Capital, Aditya Birla Loan Settlement",
   description: "Specialized debt settlement services for NBFC loans. Stop harassment from Bajaj Finance, Tata Capital, and more. Legal arbitration defense and negotiation for up to 50% waiver.",
   alternates: {
-    canonical: "https://settleloans.in/services/nbfc-loan-settlement",
+    canonical: "https://www.settleloans.in/services/nbfc-loan-settlement",
   },
   keywords: [
     "nbfc loan settlement", 
@@ -61,19 +61,19 @@ export default function NBFCSettlementPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Services",
-            "item": "https://settleloans.in/services"
+            "item": "https://www.settleloans.in/services"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "NBFC Loan Settlement",
-            "item": "https://settleloans.in/services/nbfc-loan-settlement"
+            "item": "https://www.settleloans.in/services/nbfc-loan-settlement"
           }
         ]
       },
@@ -84,7 +84,7 @@ export default function NBFCSettlementPage() {
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": {
           "@type": "Country",
@@ -237,7 +237,7 @@ export default function NBFCSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo1.png"
+            "url": "https://www.settleloans.in/logo/logo1.png"
           }
         },
         "datePublished": "2024-01-24",

@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'loan settlement legal implications india'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/full-and-final-settlement-vs-compromise-settlement',
+    canonical: 'https://www.settleloans.in/full-and-final-settlement-vs-compromise-settlement',
   },
   openGraph: {
     title: 'Full and Final Settlement vs Compromise Settlement: Complete Guide',
     description: 'Demystify the critical differences between full closure, bank compromise settlement (OTS), and credit write-offs. Ensure complete legal debt discharge and ₹0 balance credit bureau reporting.',
-    url: 'https://settleloans.in/full-and-final-settlement-vs-compromise-settlement',
+    url: 'https://www.settleloans.in/full-and-final-settlement-vs-compromise-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/full-and-final-settlement-vs-compromise-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/full-and-final-settlement-vs-compromise-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Full and Final Settlement vs Compromise Settlement vs Write-Off Comparison',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Full and Final Settlement vs Compromise Settlement: Legal & Financial Breakdown',
     description: 'Explore the statutory and credit distinctions between 100% full closure, compromise OTS haircuts, and accounting write-offs under RBI regulations.',
-    images: ['https://settleloans.in/images/infographics/full-and-final-settlement-vs-compromise-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/full-and-final-settlement-vs-compromise-settlement.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/full-and-final-settlement-vs-compromise-settlement#webpage",
-      "url": "https://settleloans.in/full-and-final-settlement-vs-compromise-settlement",
+      "@id": "https://www.settleloans.in/full-and-final-settlement-vs-compromise-settlement#webpage",
+      "url": "https://www.settleloans.in/full-and-final-settlement-vs-compromise-settlement",
       "name": "Full and Final Settlement vs Compromise Settlement: Complete Guide (2026)",
       "description": "Understand the technical financial difference between full and final loan closure, compromise settlement (OTS), and credit write-offs under RBI guidelines. Learn how to secure legally binding ₹0 liability documentation.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/full-and-final-settlement-vs-compromise-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/full-and-final-settlement-vs-compromise-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/full-and-final-settlement-vs-compromise-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/full-and-final-settlement-vs-compromise-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Full and Final vs Compromise Settlement",
-          "item": "https://settleloans.in/full-and-final-settlement-vs-compromise-settlement"
+          "item": "https://www.settleloans.in/full-and-final-settlement-vs-compromise-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/full-and-final-settlement-vs-compromise-settlement#article",
+      "@id": "https://www.settleloans.in/full-and-final-settlement-vs-compromise-settlement#article",
       "headline": "Difference Between Full and Final Settlement and Compromise Settlement: Regulatory, Legal, and Credit Forensics",
       "description": "An exhaustive analytical and legal comparison of 100% full loan closure, One-Time Compromise Settlement (OTS), and balance sheet technical write-offs under RBI Master Directions and the Indian Contract Act.",
-      "image": "https://settleloans.in/images/infographics/full-and-final-settlement-vs-compromise-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/full-and-final-settlement-vs-compromise-settlement.jpg",
       "datePublished": "2026-08-26T10:00:00+05:30",
       "dateModified": "2026-08-26T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/full-and-final-settlement-vs-compromise-settlement#webpage"
+        "@id": "https://www.settleloans.in/full-and-final-settlement-vs-compromise-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/full-and-final-settlement-vs-compromise-settlement#service",
+      "@id": "https://www.settleloans.in/full-and-final-settlement-vs-compromise-settlement#service",
       "name": "SettleLoans - Compromise Debt Settlement & Legal Advisory",
       "description": "Premier legal defense, debt compromise negotiation, and banking resolution advisory helping borrowers achieve legally binding loan settlements and credit bureau rectification across India.",
-      "url": "https://settleloans.in/full-and-final-settlement-vs-compromise-settlement",
-      "image": "https://settleloans.in/images/infographics/full-and-final-settlement-vs-compromise-settlement.jpg",
+      "url": "https://www.settleloans.in/full-and-final-settlement-vs-compromise-settlement",
+      "image": "https://www.settleloans.in/images/infographics/full-and-final-settlement-vs-compromise-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/full-and-final-settlement-vs-compromise-settlement#faq",
+      "@id": "https://www.settleloans.in/full-and-final-settlement-vs-compromise-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -313,12 +313,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

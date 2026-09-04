@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement Letter Format & NOC Format | Bank Sample 2026",
   description: "Find the best loan settlement letter format and NOC format for Indian banks. Download sample templates for settlement requests, offer letters, and no dues certificates. RBI rules 2026 included.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement-letter-format-noc-format",
+    canonical: "https://www.settleloans.in/loan-settlement-letter-format-noc-format",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LoanSettlementLetterNOCPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-letter-format-noc-format#webpage",
-        "url": "https://settleloans.in/loan-settlement-letter-format-noc-format",
+        "@id": "https://www.settleloans.in/loan-settlement-letter-format-noc-format#webpage",
+        "url": "https://www.settleloans.in/loan-settlement-letter-format-noc-format",
         "name": "Loan Settlement Letter and NOC Format Guide",
         "description": "Comprehensive resource providing templates and legal guidance for loan settlement documents and NOCs in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-letter-format-noc-format#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-letter-format-noc-format#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement-letter-format-noc-format#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement-letter-format-noc-format#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement Letter & NOC Format",
-            "item": "https://settleloans.in/loan-settlement-letter-format-noc-format"
+            "item": "https://www.settleloans.in/loan-settlement-letter-format-noc-format"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement-letter-format-noc-format#article",
+        "@id": "https://www.settleloans.in/loan-settlement-letter-format-noc-format#article",
         "headline": "Professional Loan Settlement Letter Format and NOC Format: The Ultimate Documentation Guide 2026",
         "description": "Master the art of debt resolution documentation. This guide provides legal notice formats, bank offer verification steps, and mandatory NOC issuance rules for borrowers.",
         "author": {
@@ -55,16 +55,16 @@ export default function LoanSettlementLetterNOCPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-03-27",
         "dateModified": "2026-03-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-letter-format-noc-format#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-letter-format-noc-format#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement-letter-format-noc-format#product",
+        "@id": "https://www.settleloans.in/loan-settlement-letter-format-noc-format#product",
         "name": "Loan Settlement Document Verification & Recovery Support",
         "description": "Legal assistance in drafting loan settlement letters and verifying the authenticity of bank-issued NOCs and offer letters.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function LoanSettlementLetterNOCPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement-letter-format-noc-format#faq",
+        "@id": "https://www.settleloans.in/loan-settlement-letter-format-noc-format#faq",
         "mainEntity": [
           {
             "@type": "Question",

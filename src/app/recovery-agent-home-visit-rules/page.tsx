@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Recovery Agent Home Visit Rules | RBI Guidelines & Borrower Rights",
   description: "Understand the strict RBI rules for recovery agent home visits in India. Know the timing (8am-7pm), ID requirements, and what to do if agents harass you at home.",
   alternates: {
-    canonical: "https://settleloans.in/recovery-agent-home-visit-rules",
+    canonical: "https://www.settleloans.in/recovery-agent-home-visit-rules",
   },
 };
 
@@ -18,34 +18,34 @@ export default function RecoveryHomeVisitRulesPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agent-home-visit-rules#webpage",
-        "url": "https://settleloans.in/recovery-agent-home-visit-rules",
+        "@id": "https://www.settleloans.in/recovery-agent-home-visit-rules#webpage",
+        "url": "https://www.settleloans.in/recovery-agent-home-visit-rules",
         "name": "Recovery Agent Home Visit Rules | RBI Guidelines & Borrower Rights",
         "description": "Comprehensive guide on the legal rules for debt recovery agent home visits in India, following RBI circulars.",
-        "breadcrumb": { "@id": "https://settleloans.in/recovery-agent-home-visit-rules#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/recovery-agent-home-visit-rules#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/recovery-agent-home-visit-rules#breadcrumb",
+        "@id": "https://www.settleloans.in/recovery-agent-home-visit-rules#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Recovery Agent Home Visit Rules",
-            "item": "https://settleloans.in/recovery-agent-home-visit-rules"
+            "item": "https://www.settleloans.in/recovery-agent-home-visit-rules"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/recovery-agent-home-visit-rules#article",
+        "@id": "https://www.settleloans.in/recovery-agent-home-visit-rules#article",
         "headline": "RBI Rules for Recovery Agent Home Visits: Know Your Rights as a Borrower",
         "description": "Exhaustive legal guide on the mandatory protocols for bank recovery agents visiting your home or workplace in India.",
         "author": {
@@ -57,16 +57,16 @@ export default function RecoveryHomeVisitRulesPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-29",
         "dateModified": "2024-03-29",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/recovery-agent-home-visit-rules#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/recovery-agent-home-visit-rules#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/recovery-agent-home-visit-rules#product",
+        "@id": "https://www.settleloans.in/recovery-agent-home-visit-rules#product",
         "name": "Debt Settlement & Harassment Protection",
         "description": "Professional mediation to stop illegal recovery visits and settle debts for a fraction of the total dues.",
         "aggregateRating": {

@@ -20,16 +20,16 @@ export const metadata: Metadata = {
     'icici central settlement desk contact',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/icici-personal-loan-settlement',
+    canonical: 'https://www.settleloans.in/icici-personal-loan-settlement',
   },
   openGraph: {
     title: 'ICICI Personal Loan Settlement: OTS Rules, Haircut Formula & Process (2026)',
     description: 'Learn how to settle an ICICI Bank personal loan, Insta Personal Loan, or credit card. Understand internal NPA haircuts, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies.',
-    url: 'https://settleloans.in/icici-personal-loan-settlement',
+    url: 'https://www.settleloans.in/icici-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/icici-personal-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/icici-personal-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'ICICI Personal Loan Settlement Process and OTS Haircut Blueprint',
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'ICICI Personal Loan Settlement: OTS Rules, Haircut Formula & Process',
     description: 'Technical and legal manual for settling defaulted ICICI Bank personal loans and credit cards under RBI Compromise Settlement frameworks.',
-    images: ['https://settleloans.in/images/infographics/icici-personal-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/icici-personal-loan-settlement.jpg'],
   },
 };
 
@@ -51,74 +51,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/icici-personal-loan-settlement#webpage",
-      "url": "https://settleloans.in/icici-personal-loan-settlement",
+      "@id": "https://www.settleloans.in/icici-personal-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/icici-personal-loan-settlement",
       "name": "ICICI Personal Loan Settlement: OTS Rules, Haircut Formula & Process (2026)",
       "description": "Exhaustive guide to ICICI Bank personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, recovery agent defense, and how to negotiate up to 60% haircut under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/icici-personal-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/icici-personal-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/icici-personal-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/icici-personal-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "ICICI Personal Loan Settlement",
-          "item": "https://settleloans.in/icici-personal-loan-settlement"
+          "item": "https://www.settleloans.in/icici-personal-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/icici-personal-loan-settlement#article",
+      "@id": "https://www.settleloans.in/icici-personal-loan-settlement#article",
       "headline": "ICICI Personal Loan Settlement: OTS Rules, Haircut Formula & Process",
       "description": "A comprehensive guide on negotiating One-Time Settlements (OTS) with ICICI Bank for personal loans and credit cards, navigating internal provisioning policies, and safeguarding against recovery harassment.",
-      "image": "https://settleloans.in/images/infographics/icici-personal-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/icici-personal-loan-settlement.jpg",
       "datePublished": "2026-08-21T15:02:17+05:30",
       "dateModified": "2026-08-21T15:02:17+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/icici-personal-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/icici-personal-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/icici-personal-loan-settlement#service",
+      "@id": "https://www.settleloans.in/icici-personal-loan-settlement#service",
       "name": "SettleLoans - ICICI Bank Personal Loan Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted ICICI Bank personal loans, Insta EMI credit, and credit cards under RBI compromise frameworks with maximum debt waivers.",
-      "url": "https://settleloans.in/icici-personal-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/icici-personal-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/icici-personal-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/icici-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -131,9 +131,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -207,7 +207,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/icici-personal-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/icici-personal-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -293,12 +293,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

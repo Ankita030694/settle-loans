@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Don't Have Job & Can't Pay EMI? Loan Settlement Options & Rights",
   description: "Struggling with EMI payments after losing your job? Learn about loan settlement, RBI guidelines for jobless borrowers, and your rights against harassment. Professional debt relief help.",
   alternates: {
-    canonical: "https://settleloans.in/dont-have-job-cant-pay-emi",
+    canonical: "https://www.settleloans.in/dont-have-job-cant-pay-emi",
   },
 };
 
@@ -16,40 +16,40 @@ export default function JobLossLoanPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/dont-have-job-cant-pay-emi#webpage",
-        "url": "https://settleloans.in/dont-have-job-cant-pay-emi",
+        "@id": "https://www.settleloans.in/dont-have-job-cant-pay-emi#webpage",
+        "url": "https://www.settleloans.in/dont-have-job-cant-pay-emi",
         "name": "Don't Have Job & Can't Pay EMI? Loan Settlement Options & Rights",
         "description": "Comprehensive guide for Indian borrowers facing job loss and unable to pay EMIs.",
-        "breadcrumb": { "@id": "https://settleloans.in/dont-have-job-cant-pay-emi#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/dont-have-job-cant-pay-emi#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/dont-have-job-cant-pay-emi#breadcrumb",
+        "@id": "https://www.settleloans.in/dont-have-job-cant-pay-emi#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Don't Have Job Can't Pay EMI",
-            "item": "https://settleloans.in/dont-have-job-cant-pay-emi"
+            "item": "https://www.settleloans.in/dont-have-job-cant-pay-emi"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/dont-have-job-cant-pay-emi#product",
+        "@id": "https://www.settleloans.in/dont-have-job-cant-pay-emi#product",
         "name": "Job Loss Debt Relief & Settlement",
         "description": "Professional legal and financial assistance for settling loans after job loss.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": {
           "@type": "Country",
@@ -79,7 +79,7 @@ export default function JobLossLoanPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/dont-have-job-cant-pay-emi#article",
+        "@id": "https://www.settleloans.in/dont-have-job-cant-pay-emi#article",
         "headline": "What to Do if You Don't Have a Job and Can't Pay EMI in India?",
         "description": "A survival guide for borrowers facing job loss, covering legal rights, RBI guidelines, and loan settlement options.",
         "author": {
@@ -91,16 +91,16 @@ export default function JobLossLoanPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2025-02-05",
         "dateModified": "2025-02-05",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/dont-have-job-cant-pay-emi#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/dont-have-job-cant-pay-emi#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/dont-have-job-cant-pay-emi#faq",
+        "@id": "https://www.settleloans.in/dont-have-job-cant-pay-emi#faq",
         "mainEntity": [
           {
             "@type": "Question",

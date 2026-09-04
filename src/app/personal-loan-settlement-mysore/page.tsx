@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'drt bengaluru loan dispute advocate mysuru',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-mysore',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-mysore',
   },
   openGraph: {
     title: 'Personal Loan Settlement Company in Mysore Karnataka: Legal Debt Relief (2026)',
     description: 'Expert banking advocate representation for personal loan settlement, credit card debt compromise, and commercial loan resolution across Mysore, Mandya, and Nanjangud under RBI OTS guidelines.',
-    url: 'https://settleloans.in/personal-loan-settlement-mysore',
+    url: 'https://www.settleloans.in/personal-loan-settlement-mysore',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-mysore.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-mysore.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan Settlement Company in Mysore Karnataka Legal Debt Resolution Guide',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Personal Loan Settlement Company in Mysore Karnataka: Legal Debt Relief',
     description: 'Authoritative legal manual for settling defaulted personal loans, multi-card debts, and MSME credit lines across Mysore and Mandya with advocate representation.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-mysore.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-mysore.jpg'],
   },
 };
 
@@ -79,81 +79,81 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-mysore#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-mysore",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-mysore#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-mysore",
       "name": "Personal Loan Settlement Company in Mysore Karnataka: Legal Debt Relief (2026)",
       "description": "Top personal loan settlement company in Mysore & Mandya. Senior advocate representation for IT professionals, silk & sandalwood merchants, and MSMEs. Settle bank loans at 40%–65% under RBI OTS rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-mysore#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-mysore#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-mysore#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-mysore#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services & Legal Guides",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Personal Loan Settlement Company in Mysore Karnataka",
-          "item": "https://settleloans.in/personal-loan-settlement-mysore"
+          "item": "https://www.settleloans.in/personal-loan-settlement-mysore"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-mysore#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-mysore#article",
       "headline": "Personal Loan Settlement Company in Mysore Karnataka: Legal Debt Relief for IT Professionals & Businesses",
       "description": "An authoritative legal and financial roadmap for IT professionals, tech consultants, heritage merchants, and MSME entrepreneurs facing personal loan defaults and recovery notices in Mysore and Mandya. Master RBI OTS rules, court defense, and NPA recovery formulas.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-mysore.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-mysore.jpg",
       "datePublished": "2026-08-28T12:00:00+05:30",
       "dateModified": "2026-08-28T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-mysore#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-mysore#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "contactPoint": [
         {
@@ -167,11 +167,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-mysore#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-mysore#service",
       "name": "SettleLoans - Personal Loan Settlement Company in Mysore Karnataka",
       "description": "Specialized advocate-led debt settlement, legal notice defense, and RBI OTS negotiation for personal loans, credit card balances, and unsecured business credit lines across Mysore and Mandya.",
-      "url": "https://settleloans.in/personal-loan-settlement-mysore",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-mysore.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-mysore",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-mysore.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -184,9 +184,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -260,7 +260,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-mysore#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-mysore#faq",
       "mainEntity": [
         {
           "@type": "Question",

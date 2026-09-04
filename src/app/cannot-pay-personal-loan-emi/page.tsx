@@ -5,16 +5,16 @@ export const metadata: Metadata = {
   title: 'I Cannot Pay My Personal Loan EMI: What Should I Do? (2026 Relief Guide)',
   description: 'Cannot pay your personal loan EMI? Discover immediate 24-hour crisis steps, RBI borrower protection rules, legal notice defense, and how to settle or restructure safely.',
   alternates: {
-    canonical: 'https://settleloans.in/cannot-pay-personal-loan-emi',
+    canonical: 'https://www.settleloans.in/cannot-pay-personal-loan-emi',
   },
   openGraph: {
     title: 'I Cannot Pay My Personal Loan EMI: Immediate Relief & Legal Rights',
     description: 'Learn what to do when you cannot pay your personal loan EMI in India. Understand RBI guidelines, stop recovery harassment, prevent legal action, and explore loan restructuring vs settlement.',
-    url: 'https://settleloans.in/cannot-pay-personal-loan-emi',
+    url: 'https://www.settleloans.in/cannot-pay-personal-loan-emi',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/cannot-pay-personal-loan-emi.jpg',
+        url: 'https://www.settleloans.in/images/infographics/cannot-pay-personal-loan-emi.jpg',
         width: 1200,
         height: 630,
         alt: 'I Cannot Pay My Personal Loan EMI Guide',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Cannot Pay Personal Loan EMI? Immediate Legal Action Guide',
     description: 'Practical emergency steps, RBI anti-harassment rules, moratorium options, and legal debt settlement strategies for distressed borrowers in India.',
-    images: ['https://settleloans.in/images/infographics/cannot-pay-personal-loan-emi.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/cannot-pay-personal-loan-emi.jpg'],
   },
   keywords: [
     'i cannot pay my personal loan emi what should i do',
@@ -48,73 +48,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/cannot-pay-personal-loan-emi#webpage",
-      "url": "https://settleloans.in/cannot-pay-personal-loan-emi",
+      "@id": "https://www.settleloans.in/cannot-pay-personal-loan-emi#webpage",
+      "url": "https://www.settleloans.in/cannot-pay-personal-loan-emi",
       "name": "I Cannot Pay My Personal Loan EMI: What Should I Do? (2026 Relief Guide)",
       "description": "Cannot pay your personal loan EMI? Discover immediate 24-hour crisis steps, RBI borrower protection rules, legal notice defense, and how to settle or restructure safely.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/cannot-pay-personal-loan-emi#breadcrumb"
+        "@id": "https://www.settleloans.in/cannot-pay-personal-loan-emi#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/cannot-pay-personal-loan-emi#breadcrumb",
+      "@id": "https://www.settleloans.in/cannot-pay-personal-loan-emi#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Cannot Pay Personal Loan EMI",
-          "item": "https://settleloans.in/cannot-pay-personal-loan-emi"
+          "item": "https://www.settleloans.in/cannot-pay-personal-loan-emi"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/cannot-pay-personal-loan-emi#article",
+      "@id": "https://www.settleloans.in/cannot-pay-personal-loan-emi#article",
       "headline": "I Cannot Pay My Personal Loan EMI: Immediate Emergency Steps, Legal Rights & Relief Options",
       "description": "An exhaustive, legally validated guide for Indian borrowers who cannot pay their personal loan EMI due to job loss, medical crisis, or financial distress. Covers RBI borrower protections, moratorium requests, restructuring, recovery defense, and one-time debt settlement.",
-      "image": "https://settleloans.in/images/infographics/cannot-pay-personal-loan-emi.jpg",
+      "image": "https://www.settleloans.in/images/infographics/cannot-pay-personal-loan-emi.jpg",
       "datePublished": "2026-08-19T09:00:00+05:30",
       "dateModified": "2026-08-19T09:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/cannot-pay-personal-loan-emi#webpage"
+        "@id": "https://www.settleloans.in/cannot-pay-personal-loan-emi#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Product",
-      "@id": "https://settleloans.in/cannot-pay-personal-loan-emi#product",
+      "@id": "https://www.settleloans.in/cannot-pay-personal-loan-emi#product",
       "name": "Emergency Personal Loan Dispute, Restructuring & Debt Settlement Advisory",
       "description": "Comprehensive legal advisory, harassment protection, RBI ombudsman escalations, loan restructuring, and One-Time Settlement (OTS) negotiations for distressed personal loan borrowers across India.",
-      "image": "https://settleloans.in/images/infographics/cannot-pay-personal-loan-emi.jpg",
+      "image": "https://www.settleloans.in/images/infographics/cannot-pay-personal-loan-emi.jpg",
       "brand": {
         "@type": "Brand",
         "name": "SettleLoans"
@@ -191,7 +191,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/cannot-pay-personal-loan-emi#faq",
+      "@id": "https://www.settleloans.in/cannot-pay-personal-loan-emi#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -277,12 +277,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

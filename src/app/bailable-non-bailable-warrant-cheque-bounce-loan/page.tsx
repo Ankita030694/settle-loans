@@ -44,16 +44,16 @@ export const metadata: Metadata = {
     'magistrate court bail for cheque bounce'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan',
+    canonical: 'https://www.settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan',
   },
   openGraph: {
     title: 'Bailable & Non-Bailable Warrant for Cheque Bounce Loan Default: Cancel Warrant & Settle',
     description: 'Master the legal procedure to cancel bailable (BW) and non-bailable warrants (NBW) issued by Magistrate courts in Section 138 cheque bounce loan default cases. Protect against arrest and compound the debt through advocate-led One-Time Settlement.',
-    url: 'https://settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan',
+    url: 'https://www.settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/bailable-non-bailable-warrant-cheque-bounce-loan.jpg',
+        url: 'https://www.settleloans.in/images/infographics/bailable-non-bailable-warrant-cheque-bounce-loan.jpg',
         width: 1200,
         height: 675,
         alt: 'Bailable and Non-Bailable Warrant for Cheque Bounce Loan Default Legal Guide',
@@ -66,7 +66,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Bailable & Non-Bailable Warrant for Cheque Bounce Loan Default: Cancel Warrant & Settle',
     description: 'Has a Magistrate court issued an arrest warrant for a bounced loan EMI cheque? Discover how banking advocates recall warrants under CrPC / BNSS and settle the underlying loan under Section 147 NI Act.',
-    images: ['https://settleloans.in/images/infographics/bailable-non-bailable-warrant-cheque-bounce-loan.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/bailable-non-bailable-warrant-cheque-bounce-loan.jpg'],
   },
 };
 
@@ -75,74 +75,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan#webpage",
-      "url": "https://settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan",
+      "@id": "https://www.settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan#webpage",
+      "url": "https://www.settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan",
       "name": "Bailable & Non-Bailable Warrant for Cheque Bounce Loan Default: Cancel Warrant & Settle Under Sec 138 NI Act (2026)",
       "description": "Received a bailable or non-bailable warrant for cheque bounce loan default? Learn how advocates file an urgent application under Section 70(2) CrPC / BNSS to cancel warrants, secure bail, and negotiate out-of-court loan compounding under Section 147 NI Act.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan#breadcrumb"
+        "@id": "https://www.settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan#breadcrumb",
+      "@id": "https://www.settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Bailable Non-Bailable Warrant Cheque Bounce Loan",
-          "item": "https://settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan"
+          "item": "https://www.settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan#article",
+      "@id": "https://www.settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan#article",
       "headline": "Bailable & Non-Bailable Warrant for Cheque Bounce Loan Default: How to Cancel Warrant & Settle Under Section 138 NI Act",
       "description": "An exhaustive judicial, procedural, and strategic legal guide for borrowers who have received a Bailable Warrant (BW) or Non-Bailable Warrant (NBW) from a Judicial Magistrate for loan cheque bounces under Section 138 of the Negotiable Instruments Act. Details urgent warrant recall applications under Section 70(2) CrPC / BNSS, bail protocols, and out-of-court compounding settlements under Section 147 NI Act.",
-      "image": "https://settleloans.in/images/infographics/bailable-non-bailable-warrant-cheque-bounce-loan.jpg",
+      "image": "https://www.settleloans.in/images/infographics/bailable-non-bailable-warrant-cheque-bounce-loan.jpg",
       "datePublished": "2026-08-27T10:00:00+05:30",
       "dateModified": "2026-08-27T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan#webpage"
+        "@id": "https://www.settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan#service",
+      "@id": "https://www.settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan#service",
       "name": "SettleLoans - Cheque Bounce Criminal Defense & Warrant Recall Advisory",
       "description": "Specialized criminal litigation defense, Section 138 NI Act warrant recall, magistrate court bail assistance, and out-of-court debt settlement advisory for borrowers facing bailable and non-bailable arrest warrants across Indian courts.",
-      "url": "https://settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan",
-      "image": "https://settleloans.in/images/infographics/bailable-non-bailable-warrant-cheque-bounce-loan.jpg",
+      "url": "https://www.settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan",
+      "image": "https://www.settleloans.in/images/infographics/bailable-non-bailable-warrant-cheque-bounce-loan.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -155,9 +155,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -231,7 +231,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan#faq",
+      "@id": "https://www.settleloans.in/bailable-non-bailable-warrant-cheque-bounce-loan#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -309,12 +309,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How to Identify Fake Recovery Agents in India | RBI Guidelines & Safety Tips",
   description: "Learn how to differentiate between genuine and fake recovery agents in India. Stay protected with RBI guidelines, identification tips, and legal rights for borrowers.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-identify-fake-recovery-agents",
+    canonical: "https://www.settleloans.in/how-to-identify-fake-recovery-agents",
   },
 };
 
@@ -16,34 +16,34 @@ export default function FakeRecoveryAgentsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-identify-fake-recovery-agents#webpage",
-        "url": "https://settleloans.in/how-to-identify-fake-recovery-agents",
+        "@id": "https://www.settleloans.in/how-to-identify-fake-recovery-agents#webpage",
+        "url": "https://www.settleloans.in/how-to-identify-fake-recovery-agents",
         "name": "How to Identify Fake Recovery Agents in India | RBI Guidelines & Safety Tips",
         "description": "Comprehensive guide to identifying fraudulent debt recovery agents and understanding your rights under RBI norms.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-identify-fake-recovery-agents#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-identify-fake-recovery-agents#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-identify-fake-recovery-agents#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-identify-fake-recovery-agents#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "How to Identify Fake Recovery Agents",
-            "item": "https://settleloans.in/how-to-identify-fake-recovery-agents"
+            "item": "https://www.settleloans.in/how-to-identify-fake-recovery-agents"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-identify-fake-recovery-agents#article",
+        "@id": "https://www.settleloans.in/how-to-identify-fake-recovery-agents#article",
         "headline": "How to Identify Fake Recovery Agents: Protect Yourself from Harassment",
         "description": "Explaining the signs of fraudulent recovery practices, RBI regulations, and the legal steps to protect yourself from debt collection scams.",
         "author": {
@@ -55,16 +55,16 @@ export default function FakeRecoveryAgentsPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-28",
         "dateModified": "2024-03-28",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-identify-fake-recovery-agents#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-identify-fake-recovery-agents#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-identify-fake-recovery-agents#product",
+        "@id": "https://www.settleloans.in/how-to-identify-fake-recovery-agents#product",
         "name": "Debt Recovery Protection Guidance",
         "description": "Expert advice and legal support for dealing with aggressive or fake recovery agents.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function FakeRecoveryAgentsPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-identify-fake-recovery-agents#faq",
+        "@id": "https://www.settleloans.in/how-to-identify-fake-recovery-agents#faq",
         "mainEntity": [
           {
             "@type": "Question",

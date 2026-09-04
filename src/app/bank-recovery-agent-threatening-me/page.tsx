@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Bank Recovery Agent Threatening Me | Legal Rights & RBI Rules 2025",
   description: "Are you being threatened by a bank recovery agent? Learn your legal rights under RBI rules, how to stop harassment, and steps to file a complaint. We help you deal with recovery agent threats legally.",
   alternates: {
-    canonical: "https://settleloans.in/bank-recovery-agent-threatening-me",
+    canonical: "https://www.settleloans.in/bank-recovery-agent-threatening-me",
   },
 };
 
@@ -16,34 +16,34 @@ export default function BankRecoveryAgentThreateningMePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/bank-recovery-agent-threatening-me#webpage",
-        "url": "https://settleloans.in/bank-recovery-agent-threatening-me",
+        "@id": "https://www.settleloans.in/bank-recovery-agent-threatening-me#webpage",
+        "url": "https://www.settleloans.in/bank-recovery-agent-threatening-me",
         "name": "Bank Recovery Agent Threatening Me | Legal Rights & RBI Rules",
         "description": "Comprehensive guide on how to handle threats from bank recovery agents, including RBI guidelines and legal recourse.",
-        "breadcrumb": { "@id": "https://settleloans.in/bank-recovery-agent-threatening-me#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/bank-recovery-agent-threatening-me#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/bank-recovery-agent-threatening-me#breadcrumb",
+        "@id": "https://www.settleloans.in/bank-recovery-agent-threatening-me#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Bank Recovery Agent Threatening Me",
-            "item": "https://settleloans.in/bank-recovery-agent-threatening-me"
+            "item": "https://www.settleloans.in/bank-recovery-agent-threatening-me"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/bank-recovery-agent-threatening-me#article",
+        "@id": "https://www.settleloans.in/bank-recovery-agent-threatening-me#article",
         "headline": "What to Do if a Bank Recovery Agent is Threatening You: A Legal Guide",
         "description": "If a bank recovery agent is threatening you, it is vital to know that the law is on your side. Discover your rights and the steps to stop harassment immediately.",
         "author": {
@@ -55,16 +55,16 @@ export default function BankRecoveryAgentThreateningMePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/bank-recovery-agent-threatening-me#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/bank-recovery-agent-threatening-me#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/bank-recovery-agent-threatening-me#product",
+        "@id": "https://www.settleloans.in/bank-recovery-agent-threatening-me#product",
         "name": "Debt Harassment Protection Services",
         "description": "Professional assistance in stopping bank recovery agent harassment through legal negotiation and debt settlement.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function BankRecoveryAgentThreateningMePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/bank-recovery-agent-threatening-me#faq",
+        "@id": "https://www.settleloans.in/bank-recovery-agent-threatening-me#faq",
         "mainEntity": [
           {
             "@type": "Question",

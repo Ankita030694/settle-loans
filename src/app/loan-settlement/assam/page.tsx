@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement in Assam | Microfinance & Debt Relief",
   description: "Expert loan settlement services in Assam. Protection against MFI harassment under Assam Micro Finance Act 2020. Resolve personal loans and credit card debt in Guwahati, Silchar, and Dibrugarh.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/assam",
+    canonical: "https://www.settleloans.in/loan-settlement/assam",
   },
 };
 
@@ -16,47 +16,47 @@ export default function AssamLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/assam#webpage",
-        "url": "https://settleloans.in/loan-settlement/assam",
+        "@id": "https://www.settleloans.in/loan-settlement/assam#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/assam",
         "name": "Loan Settlement Services in Assam | Debt Relief & Legal Protection",
         "description": "Comprehensive guide to loan settlement in Assam. Stop harassment from microfinance agents and recover financial freedom with legal support.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/assam#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/assam#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/assam#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/assam#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/assam#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/assam#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Assam",
-            "item": "https://settleloans.in/loan-settlement/assam"
+            "item": "https://www.settleloans.in/loan-settlement/assam"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/assam#service",
+        "@id": "https://www.settleloans.in/loan-settlement/assam#service",
         "name": "Assam Loan Settlement & Anti-Harassment Services",
         "description": "Specialized legal services for settling unsecured loans and protecting borrowers from aggressive recovery agents in Assam.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Guwahati" },
@@ -92,7 +92,7 @@ export default function AssamLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/assam#article",
+        "@id": "https://www.settleloans.in/loan-settlement/assam#article",
         "headline": "Loan Settlement in Assam: A Legal Shield Against Debt Harassment",
         "description": "Complete guide for Assam residents on resolving debt issues, understanding the Assam Micro Finance Act, and navigating the settlement process effectively.",
         "author": {
@@ -104,16 +104,16 @@ export default function AssamLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-03",
         "dateModified": "2024-02-03",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/assam#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/assam#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/assam#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/assam#faq",
         "mainEntity": [
           {
             "@type": "Question",

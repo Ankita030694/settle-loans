@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement for Traders in India | Settle CC, OD & Business Loans",
   description: "Expert loan settlement services for traders in India. Settle your Cash Credit (CC), Overdraft (OD), and business loans for 40-70% less. Protect your business and personal assets today.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement-for-traders",
+    canonical: "https://www.settleloans.in/loan-settlement-for-traders",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LoanSettlementForTradersPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-for-traders#webpage",
-        "url": "https://settleloans.in/loan-settlement-for-traders",
+        "@id": "https://www.settleloans.in/loan-settlement-for-traders#webpage",
+        "url": "https://www.settleloans.in/loan-settlement-for-traders",
         "name": "Loan Settlement for Traders in India | Settle CC, OD & Business Loans",
         "description": "Comprehensive guide to loan settlement for traders facing financial distress in India. Learn about legal options and strategies to settle debts.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-for-traders#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-for-traders#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement-for-traders#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement-for-traders#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement for Traders",
-            "item": "https://settleloans.in/loan-settlement-for-traders"
+            "item": "https://www.settleloans.in/loan-settlement-for-traders"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement-for-traders#article",
+        "@id": "https://www.settleloans.in/loan-settlement-for-traders#article",
         "headline": "Loan Settlement for Traders: A Strategic Path to Financial Recovery",
         "description": "Explore the specialized loan settlement strategies for traders in India, focusing on Cash Credit, Overdraft, and business loan defaults.",
         "author": {
@@ -55,16 +55,16 @@ export default function LoanSettlementForTradersPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-24",
         "dateModified": "2024-03-24",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-for-traders#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-for-traders#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement-for-traders#product",
+        "@id": "https://www.settleloans.in/loan-settlement-for-traders#product",
         "name": "Trader Loan Settlement Services",
         "description": "Expert legal and financial negotiation for traders to settle business loans, CC, and OD accounts.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function LoanSettlementForTradersPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement-for-traders#faq",
+        "@id": "https://www.settleloans.in/loan-settlement-for-traders#faq",
         "mainEntity": [
           {
             "@type": "Question",

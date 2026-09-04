@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Top Loan Settlement Lawyers in India | Expert Legal Debt Relief",
   description: "Consult the best loan settlement lawyers in India. Protect your rights, stop recovery harassment legally, and settle your debt for the lowest possible amount with expert legal representation.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement-lawyers",
+    canonical: "https://www.settleloans.in/loan-settlement-lawyers",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LoanSettlementLawyersPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-lawyers#webpage",
-        "url": "https://settleloans.in/loan-settlement-lawyers",
+        "@id": "https://www.settleloans.in/loan-settlement-lawyers#webpage",
+        "url": "https://www.settleloans.in/loan-settlement-lawyers",
         "name": "Top Loan Settlement Lawyers in India | Expert Legal Debt Relief",
         "description": "Consult the best loan settlement lawyers in India to legally protect yourself from harassment and negotiate massive discounts on personal loans and credit cards.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-lawyers#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-lawyers#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement-lawyers#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement-lawyers#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement Lawyers",
-            "item": "https://settleloans.in/loan-settlement-lawyers"
+            "item": "https://www.settleloans.in/loan-settlement-lawyers"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement-lawyers#article",
+        "@id": "https://www.settleloans.in/loan-settlement-lawyers#article",
         "headline": "Comprehensive Guide on Hiring Expert Loan Settlement Lawyers in India",
         "description": "Detailed insights on how expert loan settlement lawyers protect borrowers from legal action, negotiate massive waivers, and end harassment permanently.",
         "author": {
@@ -55,22 +55,22 @@ export default function LoanSettlementLawyersPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-10",
         "dateModified": "2024-03-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-lawyers#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-lawyers#webpage" }
       },
       {
         "@type": "LegalService",
-        "@id": "https://settleloans.in/loan-settlement-lawyers#service",
+        "@id": "https://www.settleloans.in/loan-settlement-lawyers#service",
         "name": "Expert Loan Settlement Lawyers",
         "description": "Professional loan settlement lawyers providing dedicated protection and negotiation services for distressed borrowers in India.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": "IN",
         "aggregateRating": {
@@ -104,7 +104,7 @@ export default function LoanSettlementLawyersPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement-lawyers#faq",
+        "@id": "https://www.settleloans.in/loan-settlement-lawyers#faq",
         "mainEntity": [
           {
             "@type": "Question",

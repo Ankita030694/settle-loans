@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'rbi compromise settlement master direction 2023',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/bank-one-time-settlement-ots-policy',
+    canonical: 'https://www.settleloans.in/bank-one-time-settlement-ots-policy',
   },
   openGraph: {
     title: 'Bank One-Time Settlement (OTS) Policy: How to Negotiate & RBI Haircut Calculation Guide',
     description: 'Learn internal bank NPA settlement mechanics, RBI haircut limits, NPV recovery formulas, and proven negotiation strategies to settle personal, business, and credit card debts.',
-    url: 'https://settleloans.in/bank-one-time-settlement-ots-policy',
+    url: 'https://www.settleloans.in/bank-one-time-settlement-ots-policy',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/bank-one-time-settlement-ots-policy.jpg',
+        url: 'https://www.settleloans.in/images/infographics/bank-one-time-settlement-ots-policy.jpg',
         width: 1200,
         height: 630,
         alt: 'Bank One-Time Settlement OTS Policy and RBI Haircut Calculation Guide',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Bank One-Time Settlement (OTS) Policy: How to Negotiate & RBI Rules (2026)',
     description: 'A comprehensive technical breakdown of how Indian banks calculate OTS amounts for NPAs, RBI compromise settlement rules, and how to negotiate maximum debt haircuts.',
-    images: ['https://settleloans.in/images/infographics/bank-one-time-settlement-ots-policy.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/bank-one-time-settlement-ots-policy.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/bank-one-time-settlement-ots-policy#webpage",
-      "url": "https://settleloans.in/bank-one-time-settlement-ots-policy",
+      "@id": "https://www.settleloans.in/bank-one-time-settlement-ots-policy#webpage",
+      "url": "https://www.settleloans.in/bank-one-time-settlement-ots-policy",
       "name": "Bank One-Time Settlement (OTS) Policy: How to Negotiate & RBI Haircut Calculation Guide (2026)",
       "description": "Understand internal bank One-Time Settlement (OTS) policies, RBI haircut guidelines, and NPA settlement formulas. Learn step-by-step how to negotiate a compromise settlement.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/bank-one-time-settlement-ots-policy#breadcrumb"
+        "@id": "https://www.settleloans.in/bank-one-time-settlement-ots-policy#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/bank-one-time-settlement-ots-policy#breadcrumb",
+      "@id": "https://www.settleloans.in/bank-one-time-settlement-ots-policy#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Bank One-Time Settlement Policy",
-          "item": "https://settleloans.in/bank-one-time-settlement-ots-policy"
+          "item": "https://www.settleloans.in/bank-one-time-settlement-ots-policy"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/bank-one-time-settlement-ots-policy#article",
+      "@id": "https://www.settleloans.in/bank-one-time-settlement-ots-policy#article",
       "headline": "Bank One-Time Settlement (OTS) Policy: How to Negotiate & RBI Haircut Calculation Guide",
       "description": "An exhaustive technical and legal manual on how Indian commercial banks and NBFCs evaluate One-Time Settlement (OTS) proposals, calculate NPA haircuts, and apply RBI Compromise Settlement Directives.",
-      "image": "https://settleloans.in/images/infographics/bank-one-time-settlement-ots-policy.jpg",
+      "image": "https://www.settleloans.in/images/infographics/bank-one-time-settlement-ots-policy.jpg",
       "datePublished": "2026-08-20T11:13:33+05:30",
       "dateModified": "2026-08-20T11:13:33+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/bank-one-time-settlement-ots-policy#webpage"
+        "@id": "https://www.settleloans.in/bank-one-time-settlement-ots-policy#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/bank-one-time-settlement-ots-policy#service",
+      "@id": "https://www.settleloans.in/bank-one-time-settlement-ots-policy#service",
       "name": "SettleLoans - Bank One-Time Settlement & NPA Dispute Resolution",
       "description": "Expert legal and financial advisory for negotiating One-Time Settlements (OTS) with Indian commercial banks and NBFCs, securing maximum debt haircuts under RBI compromise frameworks.",
-      "url": "https://settleloans.in/bank-one-time-settlement-ots-policy",
-      "image": "https://settleloans.in/images/infographics/bank-one-time-settlement-ots-policy.jpg",
+      "url": "https://www.settleloans.in/bank-one-time-settlement-ots-policy",
+      "image": "https://www.settleloans.in/images/infographics/bank-one-time-settlement-ots-policy.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/bank-one-time-settlement-ots-policy#faq",
+      "@id": "https://www.settleloans.in/bank-one-time-settlement-ots-policy#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -292,12 +292,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

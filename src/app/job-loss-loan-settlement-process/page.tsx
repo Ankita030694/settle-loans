@@ -50,16 +50,16 @@ export const metadata: Metadata = {
     "cibil score recovery after job loss settlement",
   ],
   alternates: {
-    canonical: "https://settleloans.in/job-loss-loan-settlement-process",
+    canonical: "https://www.settleloans.in/job-loss-loan-settlement-process",
   },
   openGraph: {
     title: "Job Loss & Layoff Loan Settlement Guide: Settle Debt After Unemployment (2026)",
     description: "Comprehensive legal and financial manual on settling defaulted personal loans following job loss or corporate downsizing in India. Discover how to leverage documented hardship for maximum OTS waivers under RBI compromise frameworks.",
-    url: "https://settleloans.in/job-loss-loan-settlement-process",
+    url: "https://www.settleloans.in/job-loss-loan-settlement-process",
     siteName: "SettleLoans",
     images: [
       {
-        url: "https://settleloans.in/images/infographics/job-loss-loan-settlement-process.jpg",
+        url: "https://www.settleloans.in/images/infographics/job-loss-loan-settlement-process.jpg",
         width: 1200,
         height: 675,
         alt: "Job Loss and Layoff Loan Settlement Process, Hardship Portfolio Checklist, and OTS Haircut Guide",
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Job Loss & Layoff Loan Settlement Guide: Settle Debt After Unemployment",
     description: "Strategic guide for borrowers facing loan defaults after layoffs. Learn how to present hardship dossiers, invoke RBI compromise settlement norms, and negotiate 50%–70% debt haircuts.",
-    images: ["https://settleloans.in/images/infographics/job-loss-loan-settlement-process.jpg"],
+    images: ["https://www.settleloans.in/images/infographics/job-loss-loan-settlement-process.jpg"],
   },
 };
 
@@ -81,74 +81,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/job-loss-loan-settlement-process#webpage",
-      "url": "https://settleloans.in/job-loss-loan-settlement-process",
+      "@id": "https://www.settleloans.in/job-loss-loan-settlement-process#webpage",
+      "url": "https://www.settleloans.in/job-loss-loan-settlement-process",
       "name": "Job Loss & Layoff Loan Settlement Guide: Settle Debt After Unemployment (2026)",
       "description": "Learn how to settle personal loans and credit card debt after job loss or corporate layoffs in India. Discover how to compile a formal hardship portfolio, halt recovery harassment under RBI rules, defend Section 25 PSSA notices, and negotiate 50%–70% OTS debt waivers.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/job-loss-loan-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/job-loss-loan-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/job-loss-loan-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/job-loss-loan-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Job Loss Loan Settlement Process",
-          "item": "https://settleloans.in/job-loss-loan-settlement-process"
+          "item": "https://www.settleloans.in/job-loss-loan-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/job-loss-loan-settlement-process#article",
+      "@id": "https://www.settleloans.in/job-loss-loan-settlement-process#article",
       "headline": "Job Loss & Layoff Loan Settlement Guide: How to Settle Debt After Unemployment",
       "description": "A comprehensive strategic and legal blueprint on resolving defaulted personal loans and credit card dues after unemployment, assembling a bulletproof financial hardship dossier, halting collection agent intimidation, and securing a formal bank OTS sanction letter.",
-      "image": "https://settleloans.in/images/infographics/job-loss-loan-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/job-loss-loan-settlement-process.jpg",
       "datePublished": "2026-08-25T10:00:00+05:30",
       "dateModified": "2026-08-25T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/job-loss-loan-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/job-loss-loan-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/job-loss-loan-settlement-process#service",
+      "@id": "https://www.settleloans.in/job-loss-loan-settlement-process#service",
       "name": "SettleLoans - Unemployment & Hardship Loan Settlement Advisory",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted unsecured personal loans and credit cards caused by job loss, layoffs, or business failure under RBI compromise settlement frameworks.",
-      "url": "https://settleloans.in/job-loss-loan-settlement-process",
-      "image": "https://settleloans.in/images/infographics/job-loss-loan-settlement-process.jpg",
+      "url": "https://www.settleloans.in/job-loss-loan-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/job-loss-loan-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -161,9 +161,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -237,7 +237,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/job-loss-loan-settlement-process#faq",
+      "@id": "https://www.settleloans.in/job-loss-loan-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -323,12 +323,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

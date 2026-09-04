@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Recovery Agent Harassment Complaint | Legal Rights & RBI Rules Guide",
   description: "Face recovery agent harassment? Learn how to file a complaint against bank recovery agents in India. Know your RBI guidelines, legal rights, and how to stop debt collection calls.",
   alternates: {
-    canonical: "https://settleloans.in/recovery-agent-harassment-complaint",
+    canonical: "https://www.settleloans.in/recovery-agent-harassment-complaint",
   },
 };
 
@@ -18,34 +18,34 @@ export default function RecoveryHarassmentComplaintPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agent-harassment-complaint#webpage",
-        "url": "https://settleloans.in/recovery-agent-harassment-complaint",
+        "@id": "https://www.settleloans.in/recovery-agent-harassment-complaint#webpage",
+        "url": "https://www.settleloans.in/recovery-agent-harassment-complaint",
         "name": "Recovery Agent Harassment Complaint | Legal Rights & RBI Rules Guide",
         "description": "Comprehensive guide on filing complaints against recovery agent harassment in India, covering RBI rules and legal remedies.",
-        "breadcrumb": { "@id": "https://settleloans.in/recovery-agent-harassment-complaint#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/recovery-agent-harassment-complaint#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/recovery-agent-harassment-complaint#breadcrumb",
+        "@id": "https://www.settleloans.in/recovery-agent-harassment-complaint#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Recovery Agent Harassment Complaint",
-            "item": "https://settleloans.in/recovery-agent-harassment-complaint"
+            "item": "https://www.settleloans.in/recovery-agent-harassment-complaint"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/recovery-agent-harassment-complaint#article",
+        "@id": "https://www.settleloans.in/recovery-agent-harassment-complaint#article",
         "headline": "How to File a Recovery Agent Harassment Complaint: Your Complete Legal Guide",
         "description": "Navigate the complex landscape of debt recovery harassment in India. Learn the official complaint process, RBI regulations, and your constitutional rights as a borrower.",
         "author": {
@@ -57,16 +57,16 @@ export default function RecoveryHarassmentComplaintPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-27",
         "dateModified": "2024-03-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/recovery-agent-harassment-complaint#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/recovery-agent-harassment-complaint#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/recovery-agent-harassment-complaint#product",
+        "@id": "https://www.settleloans.in/recovery-agent-harassment-complaint#product",
         "name": "Debt Harassment Protection Services",
         "description": "Professional legal negotiation and protection against aggressive debt recovery agents.",
         "aggregateRating": {

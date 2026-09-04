@@ -59,16 +59,16 @@ export const metadata: Metadata = {
     'one time settlement documentation comparison'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/loan-settlement-for-salaried-vs-self-employed',
+    canonical: 'https://www.settleloans.in/loan-settlement-for-salaried-vs-self-employed',
   },
   openGraph: {
     title: 'Loan Settlement for Salaried vs Self-Employed: Rules, Strategy & Proof',
     description: 'How bank credit committees evaluate salaried professionals vs business owners during One-Time Settlement (OTS). Discover key documentation, legal shields, and haircut strategies.',
-    url: 'https://settleloans.in/loan-settlement-for-salaried-vs-self-employed',
+    url: 'https://www.settleloans.in/loan-settlement-for-salaried-vs-self-employed',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/loan-settlement-for-salaried-vs-self-employed.jpg',
+        url: 'https://www.settleloans.in/images/infographics/loan-settlement-for-salaried-vs-self-employed.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Settlement for Salaried vs Self Employed Comparison Guide',
@@ -81,7 +81,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement for Salaried vs Self-Employed: Rules & Strategies',
     description: 'Learn how salaried employees and self-employed proprietors navigate bank OTS negotiations differently to secure 45% to 70% principal waivers.',
-    images: ['https://settleloans.in/images/infographics/loan-settlement-for-salaried-vs-self-employed.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/loan-settlement-for-salaried-vs-self-employed.jpg'],
   },
 };
 
@@ -90,74 +90,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/loan-settlement-for-salaried-vs-self-employed#webpage",
-      "url": "https://settleloans.in/loan-settlement-for-salaried-vs-self-employed",
+      "@id": "https://www.settleloans.in/loan-settlement-for-salaried-vs-self-employed#webpage",
+      "url": "https://www.settleloans.in/loan-settlement-for-salaried-vs-self-employed",
       "name": "Loan Settlement for Salaried vs Self-Employed: Rules, Strategy & Documentation",
       "description": "Comparative analysis of loan settlement rules for salaried individuals versus self-employed borrowers in India under RBI guidelines and civil law.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/loan-settlement-for-salaried-vs-self-employed#breadcrumb"
+        "@id": "https://www.settleloans.in/loan-settlement-for-salaried-vs-self-employed#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/loan-settlement-for-salaried-vs-self-employed#breadcrumb",
+      "@id": "https://www.settleloans.in/loan-settlement-for-salaried-vs-self-employed#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan Settlement Salaried vs Self-Employed",
-          "item": "https://settleloans.in/loan-settlement-for-salaried-vs-self-employed"
+          "item": "https://www.settleloans.in/loan-settlement-for-salaried-vs-self-employed"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/loan-settlement-for-salaried-vs-self-employed#article",
+      "@id": "https://www.settleloans.in/loan-settlement-for-salaried-vs-self-employed#article",
       "headline": "Loan Settlement for Salaried vs Self-Employed: Rules, Hardship Documentation & Haircut Optimization Blueprint",
       "description": "Comprehensive comparative legal guide detailing how commercial bank credit committees assess insolvency for salaried employees versus self-employed business owners. Explains Form 16, salary reductions, Section 60 CPC wage caps, ITR audit filings, GST cancellations, and NPA write-down formulas.",
-      "image": "https://settleloans.in/images/infographics/loan-settlement-for-salaried-vs-self-employed.jpg",
+      "image": "https://www.settleloans.in/images/infographics/loan-settlement-for-salaried-vs-self-employed.jpg",
       "datePublished": "2026-08-26T10:30:00+05:30",
       "dateModified": "2026-08-26T10:30:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-for-salaried-vs-self-employed#webpage"
+        "@id": "https://www.settleloans.in/loan-settlement-for-salaried-vs-self-employed#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/loan-settlement-for-salaried-vs-self-employed#service",
+      "@id": "https://www.settleloans.in/loan-settlement-for-salaried-vs-self-employed#service",
       "name": "SettleLoans - Salaried & Self-Employed Debt Resolution Advisory",
       "description": "Expert legal representation and structured debt settlement negotiation for salaried professionals and self-employed entrepreneurs facing unsecured loan default and recovery distress.",
-      "url": "https://settleloans.in/loan-settlement-for-salaried-vs-self-employed",
-      "image": "https://settleloans.in/images/infographics/loan-settlement-for-salaried-vs-self-employed.jpg",
+      "url": "https://www.settleloans.in/loan-settlement-for-salaried-vs-self-employed",
+      "image": "https://www.settleloans.in/images/infographics/loan-settlement-for-salaried-vs-self-employed.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -170,9 +170,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -246,7 +246,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/loan-settlement-for-salaried-vs-self-employed#faq",
+      "@id": "https://www.settleloans.in/loan-settlement-for-salaried-vs-self-employed#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -332,12 +332,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

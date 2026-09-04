@@ -58,16 +58,16 @@ export const metadata: Metadata = {
     'rbi banking ombudsman complaint lok adalat non compliance'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/lok-adalat-order-non-compliance-by-bank',
+    canonical: 'https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank',
   },
   openGraph: {
     title: 'What to Do If Bank Does Not Follow Lok Adalat Settlement? Execution & Legal Remedies',
     description: 'Enforce your Lok Adalat settlement order against non-compliant banks. Understand Section 21 LSA Act deemed civil court decrees, Order 21 CPC execution petitions, RBI ₹5,000/day NDC delay penalties, and CIBIL correction.',
-    url: 'https://settleloans.in/lok-adalat-order-non-compliance-by-bank',
+    url: 'https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/lok-adalat-order-non-compliance-by-bank.jpg',
+        url: 'https://www.settleloans.in/images/infographics/lok-adalat-order-non-compliance-by-bank.jpg',
         width: 1200,
         height: 675,
         alt: 'What to Do If Bank Does Not Follow Lok Adalat Settlement Order Infographic Guide',
@@ -80,7 +80,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'What to Do If Bank Does Not Follow Lok Adalat Settlement Order? Legal Execution Guide',
     description: 'Paid your agreed Lok Adalat settlement but the bank delayed your NDC or continues reporting overdue on CIBIL? Discover your statutory enforcement rights under Section 21 LSA Act.',
-    images: ['https://settleloans.in/images/infographics/lok-adalat-order-non-compliance-by-bank.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/lok-adalat-order-non-compliance-by-bank.jpg'],
   },
 };
 
@@ -89,74 +89,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/lok-adalat-order-non-compliance-by-bank#webpage",
-      "url": "https://settleloans.in/lok-adalat-order-non-compliance-by-bank",
+      "@id": "https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank#webpage",
+      "url": "https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank",
       "name": "What to Do If Bank Does Not Follow Lok Adalat Settlement Order? Section 21 LSA Act Execution Guide",
       "description": "Comprehensive legal and procedural guide for borrowers when a bank fails to comply with a Lok Adalat settlement award, delays the No Dues Certificate, or misreports credit status to CIBIL.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/lok-adalat-order-non-compliance-by-bank#breadcrumb"
+        "@id": "https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/lok-adalat-order-non-compliance-by-bank#breadcrumb",
+      "@id": "https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Lok Adalat Non-Compliance Defense",
-          "item": "https://settleloans.in/lok-adalat-order-non-compliance-by-bank"
+          "item": "https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/lok-adalat-order-non-compliance-by-bank#article",
+      "@id": "https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank#article",
       "headline": "What to Do If Bank Does Not Follow Lok Adalat Settlement Order: Section 21 LSA Act Execution, NDC Issuance & CIBIL Dispute Resolution",
       "description": "An exhaustive analytical and statutory examination of borrower legal remedies when commercial lenders or NBFCs fail to honor Lok Adalat settlement awards. Explains Section 21 of the Legal Services Authorities Act, Civil Court Execution under Order 21 CPC, RBI Circular RBI/2023-24/60 penalty mandates, and CIBIL rectification protocols.",
-      "image": "https://settleloans.in/images/infographics/lok-adalat-order-non-compliance-by-bank.jpg",
+      "image": "https://www.settleloans.in/images/infographics/lok-adalat-order-non-compliance-by-bank.jpg",
       "datePublished": "2026-09-01T10:00:00+05:30",
       "dateModified": "2026-09-01T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/lok-adalat-order-non-compliance-by-bank#webpage"
+        "@id": "https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/lok-adalat-order-non-compliance-by-bank#service",
+      "@id": "https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank#service",
       "name": "SettleLoans - Lok Adalat Award Enforcement & Banking Dispute Resolution",
       "description": "Specialized banking litigation advocacy and post-settlement legal enforcement. Representing borrowers in executing Lok Adalat decrees under Order 21 CPC, compelling bank NDC issuance, securing RBI delay compensation, and correcting credit bureau records.",
-      "url": "https://settleloans.in/lok-adalat-order-non-compliance-by-bank",
-      "image": "https://settleloans.in/images/infographics/lok-adalat-order-non-compliance-by-bank.jpg",
+      "url": "https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank",
+      "image": "https://www.settleloans.in/images/infographics/lok-adalat-order-non-compliance-by-bank.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -169,9 +169,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -245,7 +245,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/lok-adalat-order-non-compliance-by-bank#faq",
+      "@id": "https://www.settleloans.in/lok-adalat-order-non-compliance-by-bank#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -331,12 +331,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

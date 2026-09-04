@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Legal Loan Settlement Services in Karnataka | 40-70% Waiver",
   description: "Struggling with debt in Bangalore or Karnataka? Get expert legal representation for loan settlement. Settle credit cards & personal loans with 70% waiver. Expert Lok Adalat guidance.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/karnataka",
+    canonical: "https://www.settleloans.in/loan-settlement/karnataka",
   },
 };
 
@@ -16,47 +16,47 @@ export default function KarnatakaLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/karnataka#webpage",
-        "url": "https://settleloans.in/loan-settlement/karnataka",
+        "@id": "https://www.settleloans.in/loan-settlement/karnataka#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/karnataka",
         "name": "Legal Loan Settlement Services in Karnataka | 40-70% Debt Waiver - SettleLoans",
         "description": "Struggling with debt in Bangalore or Karnataka? Get expert legal representation for loan settlement. Settle credit cards & personal loans with 70% waiver. Expert Lok Adalat guidance.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/karnataka#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/karnataka#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/karnataka#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/karnataka#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/karnataka#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/karnataka#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Karnataka",
-            "item": "https://settleloans.in/loan-settlement/karnataka"
+            "item": "https://www.settleloans.in/loan-settlement/karnataka"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/karnataka#service",
+        "@id": "https://www.settleloans.in/loan-settlement/karnataka#service",
         "name": "Karnataka Loan Settlement Services",
         "description": "Professional debt negotiation and legal protection services for personal loans and credit cards in Bangalore and Karnataka.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Bangalore" },
@@ -88,7 +88,7 @@ export default function KarnatakaLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/karnataka#article",
+        "@id": "https://www.settleloans.in/loan-settlement/karnataka#article",
         "headline": "Strategic Loan Settlement Guide for Karnataka Borrowers",
         "description": "A comprehensive analysis of loan settlement laws, procedures, and legal help available in Karnataka, including Lok Adalats and RBI rules.",
         "author": {
@@ -100,16 +100,16 @@ export default function KarnatakaLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-02",
         "dateModified": "2024-02-02",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/karnataka#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/karnataka#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/karnataka#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/karnataka#faq",
         "mainEntity": [
           {
             "@type": "Question",

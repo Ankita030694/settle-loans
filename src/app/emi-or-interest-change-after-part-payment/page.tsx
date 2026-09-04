@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Reduce EMI or Tenure After Part Payment? Make the Right Choice",
   description: "Find out how part payment effects on loan work. Learn whether you should lower EMI vs lower tenure to save the most on interest and clear your debt faster.",
   alternates: {
-    canonical: "https://settleloans.in/emi-or-interest-change-after-part-payment",
+    canonical: "https://www.settleloans.in/emi-or-interest-change-after-part-payment",
   },
 };
 
@@ -17,34 +17,34 @@ export default function EMIVsTenurePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/emi-or-interest-change-after-part-payment#webpage",
-        "url": "https://settleloans.in/emi-or-interest-change-after-part-payment",
+        "@id": "https://www.settleloans.in/emi-or-interest-change-after-part-payment#webpage",
+        "url": "https://www.settleloans.in/emi-or-interest-change-after-part-payment",
         "name": "Reduce EMI or Tenure After Part Payment? Make the Right Choice",
         "description": "Find out how part payment effects on loan work. Learn whether you should lower EMI vs lower tenure to save the most on interest and clear your debt faster.",
-        "breadcrumb": { "@id": "https://settleloans.in/emi-or-interest-change-after-part-payment#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/emi-or-interest-change-after-part-payment#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/emi-or-interest-change-after-part-payment#breadcrumb",
+        "@id": "https://www.settleloans.in/emi-or-interest-change-after-part-payment#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "EMI vs Tenure After Part Payment",
-            "item": "https://settleloans.in/emi-or-interest-change-after-part-payment"
+            "item": "https://www.settleloans.in/emi-or-interest-change-after-part-payment"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/emi-or-interest-change-after-part-payment#article",
+        "@id": "https://www.settleloans.in/emi-or-interest-change-after-part-payment#article",
         "headline": "Reduce EMI or Tenure After Part Payment? Make the Right Choice",
         "description": "Understand part payment effects on loan and the critical financial differences between lowering your EMI vs lowering your tenure.",
         "author": {
@@ -56,22 +56,22 @@ export default function EMIVsTenurePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-24",
         "dateModified": "2024-07-24",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/emi-or-interest-change-after-part-payment#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/emi-or-interest-change-after-part-payment#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/emi-or-interest-change-after-part-payment#product",
+        "@id": "https://www.settleloans.in/emi-or-interest-change-after-part-payment#product",
         "name": "Loan Prepayment & Restructuring Advisory",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert financial advisory services to help you decide whether to reduce EMI or tenure after part payment and optimize your loan closure strategy.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function EMIVsTenurePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/emi-or-interest-change-after-part-payment#faq",
+        "@id": "https://www.settleloans.in/emi-or-interest-change-after-part-payment#faq",
         "mainEntity": [
           {
             "@type": "Question",

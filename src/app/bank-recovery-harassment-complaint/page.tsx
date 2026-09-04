@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "Bank Recovery Harassment Complaint | How to File & Win India",
     description: "Are you facing harassment from bank recovery agents? Learn exactly how to file a complaint with the RBI Ombudsman, file an FIR, and seek compensation in consumer court.",
     alternates: {
-        canonical: "https://settleloans.in/bank-recovery-harassment-complaint",
+        canonical: "https://www.settleloans.in/bank-recovery-harassment-complaint",
     },
 };
 
@@ -17,34 +17,34 @@ export default function RecoveryHarassmentComplaintPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/bank-recovery-harassment-complaint#webpage",
-                "url": "https://settleloans.in/bank-recovery-harassment-complaint",
+                "@id": "https://www.settleloans.in/bank-recovery-harassment-complaint#webpage",
+                "url": "https://www.settleloans.in/bank-recovery-harassment-complaint",
                 "name": "How to File a Bank Recovery Harassment Complaint in India",
                 "description": "Step-by-step procedure to lodge complaints against unethical bank recovery agents using RBI portals and legal channels.",
-                "breadcrumb": { "@id": "https://settleloans.in/bank-recovery-harassment-complaint#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/bank-recovery-harassment-complaint#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/bank-recovery-harassment-complaint#breadcrumb",
+                "@id": "https://www.settleloans.in/bank-recovery-harassment-complaint#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Recovery Complaint Guide",
-                        "item": "https://settleloans.in/bank-recovery-harassment-complaint"
+                        "item": "https://www.settleloans.in/bank-recovery-harassment-complaint"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/bank-recovery-harassment-complaint#article",
+                "@id": "https://www.settleloans.in/bank-recovery-harassment-complaint#article",
                 "headline": "Filing a Complaint Against Bank Recovery Agents: The Definitive Protocol",
                 "description": "Explaining the hierarchy of complaints from Bank Nodal Officers to the RBI Integrated Ombudsman and Police FIRs.",
                 "author": {
@@ -56,16 +56,16 @@ export default function RecoveryHarassmentComplaintPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-10",
                 "dateModified": "2024-03-10",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/bank-recovery-harassment-complaint#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/bank-recovery-harassment-complaint#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/bank-recovery-harassment-complaint#product",
+                "@id": "https://www.settleloans.in/bank-recovery-harassment-complaint#product",
                 "name": "Legal Harassment Redressal Support",
                 "description": "Expert assistance in drafting legal notices, filing Ombudsman complaints, and stopping illegal debt recovery tactics.",
                 "aggregateRating": {
@@ -76,7 +76,7 @@ export default function RecoveryHarassmentComplaintPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/bank-recovery-harassment-complaint#faq",
+                "@id": "https://www.settleloans.in/bank-recovery-harassment-complaint#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

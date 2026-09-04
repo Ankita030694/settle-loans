@@ -12,39 +12,39 @@ export default function LoanContractLawyerPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-contract#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-loan-contract",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-contract#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-loan-contract",
                 "name": "Best Lawyer for Loan Contract Drafting & Review | Indian Contract Law Experts",
                 "description": "Expert legal services for loan contract drafting and review in India. Ensure compliance with Indian Contract Act, Stamp Act, and RBI guidelines. 4500+ word comprehensive guide.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-loan-contract#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-loan-contract#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-contract#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-contract#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Loan Contract Lawyer", "item": "https://settleloans.in/best-lawyer-for-loan-contract" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Loan Contract Lawyer", "item": "https://www.settleloans.in/best-lawyer-for-loan-contract" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-contract#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-contract#article",
                 "headline": "Best Lawyer for Loan Contract: Drafting, Reviewing & Enforcing Loan Agreements in India",
                 "description": "Deep dive into the anatomy of a legally binding loan agreement in India, covering essential clauses, stamping, and registration requirements.",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Content Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-loan-contract#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-loan-contract#webpage" }
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-contract#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-contract#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -130,7 +130,7 @@ export default function LoanContractLawyerPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-contract#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-contract#product",
                 "name": "Professional Loan Contract Drafting Services",
                 "description": "Legal drafting and review of personal and business loan agreements by expert Indian advocates.",
                 "aggregateRating": {
@@ -141,7 +141,7 @@ export default function LoanContractLawyerPage() {
                 "review": [
                     {
                         "@type": "Review",
-                        "@id": "https://settleloans.in/best-lawyer-for-loan-contract#review1",
+                        "@id": "https://www.settleloans.in/best-lawyer-for-loan-contract#review1",
                         "author": { "@type": "Person", "name": "Rajesh M." },
                         "datePublished": "2024-02-15",
                         "reviewBody": "Excellent drafting. They covered all scenarios for my business partner loan. The acceleration and dispute resolution clauses were very well defined.",
@@ -149,7 +149,7 @@ export default function LoanContractLawyerPage() {
                     },
                     {
                         "@type": "Review",
-                        "@id": "https://settleloans.in/best-lawyer-for-loan-contract#review2",
+                        "@id": "https://www.settleloans.in/best-lawyer-for-loan-contract#review2",
                         "author": { "@type": "Person", "name": "Ananya K." },
                         "datePublished": "2024-02-28",
                         "reviewBody": "Their review of my mortgage agreement saved me from a predatory interest clause. Very professional and thorough.",

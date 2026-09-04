@@ -58,16 +58,16 @@ export const metadata: Metadata = {
     'one time settlement personal loan family protection'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/can-recovery-agents-freeze-family-bank-accounts',
+    canonical: 'https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts',
   },
   openGraph: {
     title: 'Can Bank Freeze Family Member Account for Loan Default? Legal Rights & Protection Guide',
     description: 'Learn why banks and recovery agents cannot legally freeze, attach, or touch your family members bank accounts for your individual personal loan or credit card default in India.',
-    url: 'https://settleloans.in/can-recovery-agents-freeze-family-bank-accounts',
+    url: 'https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/can-recovery-agents-freeze-family-bank-accounts.jpg',
+        url: 'https://www.settleloans.in/images/infographics/can-recovery-agents-freeze-family-bank-accounts.jpg',
         width: 1200,
         height: 675,
         alt: 'Can Bank Freeze Family Member Account for Loan Default Legal Rights Guide',
@@ -80,7 +80,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Can Bank Freeze Family Member Account for Loan Default? Legal Rights & Protection Guide',
     description: 'Are recovery agents threatening to freeze your spouse or parents bank accounts? Discover your statutory rights under Indian law and RBI Fair Practices Code.',
-    images: ['https://settleloans.in/images/infographics/can-recovery-agents-freeze-family-bank-accounts.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/can-recovery-agents-freeze-family-bank-accounts.jpg'],
   },
 };
 
@@ -89,74 +89,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/can-recovery-agents-freeze-family-bank-accounts#webpage",
-      "url": "https://settleloans.in/can-recovery-agents-freeze-family-bank-accounts",
+      "@id": "https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts#webpage",
+      "url": "https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts",
       "name": "Can Bank Freeze Family Member Account for Loan Default? Legal Rights & Protection Guide",
       "description": "Can a bank or recovery agent freeze your family member bank account for personal loan default? Discover the legal truth under Indian contract law, PAN separation, and RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/can-recovery-agents-freeze-family-bank-accounts#breadcrumb"
+        "@id": "https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/can-recovery-agents-freeze-family-bank-accounts#breadcrumb",
+      "@id": "https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Family Bank Account Protection Guide",
-          "item": "https://settleloans.in/can-recovery-agents-freeze-family-bank-accounts"
+          "item": "https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/can-recovery-agents-freeze-family-bank-accounts#article",
+      "@id": "https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts#article",
       "headline": "Can Recovery Agents Freeze Family Bank Accounts? Legal Reality, PAN Protection & Advocate Defense Guide",
       "description": "Comprehensive legal and statutory analysis clarifying why commercial lenders and third-party recovery agencies cannot freeze, lien, or attach family members' bank accounts for individual unsecured loan defaults under Indian law.",
-      "image": "https://settleloans.in/images/infographics/can-recovery-agents-freeze-family-bank-accounts.jpg",
+      "image": "https://www.settleloans.in/images/infographics/can-recovery-agents-freeze-family-bank-accounts.jpg",
       "datePublished": "2026-08-28T10:00:00+05:30",
       "dateModified": "2026-08-28T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-recovery-agents-freeze-family-bank-accounts#webpage"
+        "@id": "https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/can-recovery-agents-freeze-family-bank-accounts#service",
+      "@id": "https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts#service",
       "name": "SettleLoans - Family Debt Harassment & Account Defense Advisory",
       "description": "Expert legal representation protecting non-borrowing family members, spouses, and parents against coercive recovery tactics, unlawful account freeze threats, and structured debt resolution.",
-      "url": "https://settleloans.in/can-recovery-agents-freeze-family-bank-accounts",
-      "image": "https://settleloans.in/images/infographics/can-recovery-agents-freeze-family-bank-accounts.jpg",
+      "url": "https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts",
+      "image": "https://www.settleloans.in/images/infographics/can-recovery-agents-freeze-family-bank-accounts.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -169,9 +169,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -245,7 +245,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/can-recovery-agents-freeze-family-bank-accounts#faq",
+      "@id": "https://www.settleloans.in/can-recovery-agents-freeze-family-bank-accounts#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -331,12 +331,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

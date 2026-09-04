@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement Fees & Charges | Transparent Pricing - SettleLoans",
   description: "Understanding loan settlement costs has never been easier. We charge a flat fee of 15% of the outstanding amount, while the bank typically settles for 35%. Total cost to you: 50% of your debt.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement-fees",
+    canonical: "https://www.settleloans.in/loan-settlement-fees",
   },
 };
 
@@ -18,40 +18,40 @@ export default function LoanSettlementFeesPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/faqs/loan-settlement-fees#webpage",
-        "url": "https://settleloans.in/faqs/loan-settlement-fees",
+        "@id": "https://www.settleloans.in/faqs/loan-settlement-fees#webpage",
+        "url": "https://www.settleloans.in/faqs/loan-settlement-fees",
         "name": "Loan Settlement Fees & Charges | Transparent Pricing - SettleLoans",
         "description": "Understanding loan settlement costs has never been easier. We charge a flat fee of 15% of the outstanding amount, while the bank typically settles for 35%. Total cost to you: 50% of your debt.",
-        "breadcrumb": { "@id": "https://settleloans.in/faqs/loan-settlement-fees#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/faqs/loan-settlement-fees#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/faqs/loan-settlement-fees#breadcrumb",
+        "@id": "https://www.settleloans.in/faqs/loan-settlement-fees#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "FAQs",
-            "item": "https://settleloans.in/faqs"
+            "item": "https://www.settleloans.in/faqs"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Fees & Charges",
-            "item": "https://settleloans.in/faqs/loan-settlement-fees"
+            "item": "https://www.settleloans.in/faqs/loan-settlement-fees"
           }
         ]
       },
       {
         "@type": "PricingPlan",
-        "@id": "https://settleloans.in/faqs/loan-settlement-fees#pricing",
+        "@id": "https://www.settleloans.in/faqs/loan-settlement-fees#pricing",
         "name": "SettleLoans Service Fee",
         "description": "Our transparent pricing model for loan settlement services.",
         "price": "15%",
@@ -62,13 +62,13 @@ export default function LoanSettlementFeesPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/faqs/loan-settlement-fees#faq",
+        "@id": "https://www.settleloans.in/faqs/loan-settlement-fees#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -82,13 +82,13 @@ export default function LoanSettlementFeesPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/faqs/loan-settlement-fees#service",
+        "@id": "https://www.settleloans.in/faqs/loan-settlement-fees#service",
         "name": "Loan Settlement Cost Guide",
         "description": "Comprehensive guide on the costs and savings associated with professional loan settlement.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How to Remove 'Settled' Status from CIBIL Report",
   description: "Learn how to convert 'Settled' to 'Closed' in your CIBIL report. Understand the technical process of paying outstanding dues, getting an NOC, and restoring your credit score.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues",
+    canonical: "https://www.settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues",
   },
 };
 
@@ -16,34 +16,34 @@ export default function RemoveSettledStatusPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues#webpage",
-        "url": "https://settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues",
+        "@id": "https://www.settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues#webpage",
+        "url": "https://www.settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues",
         "name": "How to Remove 'Settled' Status from CIBIL Report",
         "description": "A technical financial guide for borrowers who previously settled a loan and are now facing loan rejections due to the 'Settled' remark on their CIBIL report. Explains the exact process of clearing dues and getting a Closed status.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Remove Settled Status from CIBIL",
-            "item": "https://settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues"
+            "item": "https://www.settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues#article",
+        "@id": "https://www.settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues#article",
         "headline": "How to Remove 'Settled' Status from CIBIL Report by Paying Outstanding Dues",
         "description": "Learn the exact process of approaching the bank, calculating the waived-off amount + interest, paying it back, and getting the bank to report a 'Closed' status to CIBIL bureaus.",
         "author": {
@@ -55,22 +55,22 @@ export default function RemoveSettledStatusPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-05-15",
         "dateModified": "2024-05-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues#product",
+        "@id": "https://www.settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues#product",
         "name": "CIBIL Dispute & Resolution Services",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert financial and legal help to negotiate with your old bank, clear outstanding dues, and convert a 'Settled' CIBIL status to 'Closed'.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -119,7 +119,7 @@ export default function RemoveSettledStatusPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues#faq",
+        "@id": "https://www.settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Bank Delaying Loan Closure Confirmation? Get NOC Under RBI Rules",
   description: "Paid your final EMI but the bank is delaying your loan closure confirmation or NOC? Learn how to use RBI rules to force them to issue it and claim compensation.",
   alternates: {
-    canonical: "https://settleloans.in/loan-account-closure-confirmation",
+    canonical: "https://www.settleloans.in/loan-account-closure-confirmation",
   },
 };
 
@@ -17,34 +17,34 @@ export default function LoanAccountClosureConfirmationPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-account-closure-confirmation#webpage",
-        "url": "https://settleloans.in/loan-account-closure-confirmation",
+        "@id": "https://www.settleloans.in/loan-account-closure-confirmation#webpage",
+        "url": "https://www.settleloans.in/loan-account-closure-confirmation",
         "name": "Bank Delaying Loan Closure Confirmation? Get NOC Under RBI Rules",
         "description": "A legal guide for borrowers who have paid their final EMI, but the bank is not giving closure confirmation or NOC for loan closure.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-account-closure-confirmation#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-account-closure-confirmation#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-account-closure-confirmation#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-account-closure-confirmation#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Closure Confirmation",
-            "item": "https://settleloans.in/loan-account-closure-confirmation"
+            "item": "https://www.settleloans.in/loan-account-closure-confirmation"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-account-closure-confirmation#article",
+        "@id": "https://www.settleloans.in/loan-account-closure-confirmation#article",
         "headline": "Bank Delaying Loan Closure Confirmation? Get NOC Under RBI Rules",
         "description": "Learn the legal steps to force your bank to issue your NOC for loan closure, standard loan closure letter format, and how to deal with bank not giving closure confirmation.",
         "author": {
@@ -56,22 +56,22 @@ export default function LoanAccountClosureConfirmationPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-23",
         "dateModified": "2024-07-23",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-account-closure-confirmation#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-account-closure-confirmation#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-account-closure-confirmation#product",
+        "@id": "https://www.settleloans.in/loan-account-closure-confirmation#product",
         "name": "Loan Closure NOC Legal Notice",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to compel banks to issue the NOC for loan closure and provide the proper loan closure letter format.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function LoanAccountClosureConfirmationPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-account-closure-confirmation#faq",
+        "@id": "https://www.settleloans.in/loan-account-closure-confirmation#faq",
         "mainEntity": [
           {
             "@type": "Question",

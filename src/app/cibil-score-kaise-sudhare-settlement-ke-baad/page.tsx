@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'credit utilization ratio 25 percent'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad',
+    canonical: 'https://www.settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad',
   },
   openGraph: {
     title: 'CIBIL Score Kaise Sudhare Settlement Ke Baad: 550 to 750+ Blueprint (2026)',
     description: 'Master the exact roadmap to repair your credit score after loan settlement. Learn how to convert Settled to Closed status, leverage FD-backed secured cards, and eliminate negative flags under CICRA 2005 rules.',
-    url: 'https://settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad',
+    url: 'https://www.settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/cibil-score-kaise-sudhare-settlement-ke-baad.jpg',
+        url: 'https://www.settleloans.in/images/infographics/cibil-score-kaise-sudhare-settlement-ke-baad.jpg',
         width: 1200,
         height: 675,
         alt: 'CIBIL Score Kaise Sudhare Settlement Ke Baad Infographic Workflow',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'CIBIL Score Kaise Sudhare Settlement Ke Baad (550 to 750+ Guide)',
     description: 'Step-by-step credit rebuilding protocol: audit No Dues Certificates, rectify bureau errors, and transition Settled remarks to Closed status.',
-    images: ['https://settleloans.in/images/infographics/cibil-score-kaise-sudhare-settlement-ke-baad.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/cibil-score-kaise-sudhare-settlement-ke-baad.jpg'],
   },
 };
 
@@ -79,73 +79,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad#webpage",
-      "url": "https://settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad",
+      "@id": "https://www.settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad#webpage",
+      "url": "https://www.settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad",
       "name": "CIBIL Score Kaise Sudhare Settlement Ke Baad: Complete 550 to 750+ Credit Recovery Guide",
       "description": "Comprehensive manual explaining how Indian borrowers can rebuild their credit profile after loan settlement, rectify bureau reports, and convert Settled marks to Closed.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad#breadcrumb"
+        "@id": "https://www.settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad#breadcrumb",
+      "@id": "https://www.settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "CIBIL Score Kaise Sudhare Settlement Ke Baad",
-          "item": "https://settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad"
+          "item": "https://www.settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad#article",
+      "@id": "https://www.settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad#article",
       "headline": "CIBIL Score Kaise Sudhare Settlement Ke Baad: From 550 to 750+ Strategic Roadmap",
       "description": "An exhaustive technical analysis of post-settlement credit bureau dynamics under RBI Master Directions and CICRA 2005, guiding borrowers through NDC verification, secured card utilization, and legal status upgrades.",
-      "image": "https://settleloans.in/images/infographics/cibil-score-kaise-sudhare-settlement-ke-baad.jpg",
+      "image": "https://www.settleloans.in/images/infographics/cibil-score-kaise-sudhare-settlement-ke-baad.jpg",
       "datePublished": "2026-08-26T09:00:00+05:30",
       "dateModified": "2026-08-26T09:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad#webpage"
+        "@id": "https://www.settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo/logo.svg",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo/logo.svg",
       "contactPoint": [
         {
           "@type": "ContactPoint",
@@ -158,11 +158,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad#service",
+      "@id": "https://www.settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad#service",
       "name": "SettleLoans Credit Rebuilding & Legal Debt Resolution Advisory",
       "description": "Specialized legal consultation and credit repair advisory assisting Indian consumers in resolving banking defaults, disputing bureau discrepancies, and systematically rebuilding credit scores to 750+.",
-      "url": "https://settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad",
-      "image": "https://settleloans.in/images/infographics/cibil-score-kaise-sudhare-settlement-ke-baad.jpg",
+      "url": "https://www.settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad",
+      "image": "https://www.settleloans.in/images/infographics/cibil-score-kaise-sudhare-settlement-ke-baad.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -175,9 +175,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -251,7 +251,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad#faq",
+      "@id": "https://www.settleloans.in/cibil-score-kaise-sudhare-settlement-ke-baad#faq",
       "mainEntity": [
         {
           "@type": "Question",

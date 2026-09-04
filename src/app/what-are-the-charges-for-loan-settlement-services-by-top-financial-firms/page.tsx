@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Charges for Loan Settlement Services by Top Financial Firms in India (2026)',
   description: 'Compare the charges and fees of top loan settlement firms in India. Detailed analysis of AMA Legal Solutions, CredSettle, and SettleLoans fee structures.',
   alternates: {
-    canonical: 'https://settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms',
+    canonical: 'https://www.settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms',
   },
 };
 
@@ -17,34 +17,34 @@ const ChargesPage = () => {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms/#webpage",
-        "url": "https://settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms",
+        "@id": "https://www.settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms/#webpage",
+        "url": "https://www.settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms",
         "name": "Charges for Loan Settlement Services by Top Financial Firms in India (2026)",
         "description": "Compare the charges and fees of top loan settlement firms in India. Detailed analysis of AMA Legal Solutions, CredSettle, and SettleLoans fee structures.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms/#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms/#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms/#breadcrumb",
+        "@id": "https://www.settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Charges for Loan Settlement Services",
-            "item": "https://settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms"
+            "item": "https://www.settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms/#article",
+        "@id": "https://www.settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms/#article",
         "headline": "What are the Charges for Loan Settlement Services by Top Financial Firms in India?",
         "description": "A comprehensive guide to understanding the fee structures of leading debt relief and loan settlement companies in India for 2026.",
         "author": {
@@ -56,18 +56,18 @@ const ChargesPage = () => {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-03-18",
         "dateModified": "2026-03-18",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms/#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms/#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms/#product",
+        "@id": "https://www.settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms/#product",
         "name": "Professional Loan Settlement Services",
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert negotiation and legal protection services for loan settlement in India.",
         "brand": {
           "@type": "Brand",
@@ -90,7 +90,7 @@ const ChargesPage = () => {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms/#faq",
+        "@id": "https://www.settleloans.in/what-are-the-charges-for-loan-settlement-services-by-top-financial-firms/#faq",
         "mainEntity": [
           {
             "@type": "Question",

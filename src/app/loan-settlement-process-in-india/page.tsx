@@ -9,39 +9,39 @@ export default function LoanSettlementProcessPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/loan-settlement-process-in-india#webpage",
-                "url": "https://settleloans.in/loan-settlement-process-in-india",
+                "@id": "https://www.settleloans.in/loan-settlement-process-in-india#webpage",
+                "url": "https://www.settleloans.in/loan-settlement-process-in-india",
                 "name": "Step-by-Step Loan Settlement Process in India | 2024 RBI Guidelines",
                 "description": "The definitive guide to the loan settlement process in India. Learn about OTS negotiation stages, RBI rules 2024, and how to get a 100% waiver on interest.",
-                "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-process-in-india#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-process-in-india#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/loan-settlement-process-in-india#breadcrumb",
+                "@id": "https://www.settleloans.in/loan-settlement-process-in-india#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Loan Settlement Process", "item": "https://settleloans.in/loan-settlement-process-in-india" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Loan Settlement Process", "item": "https://www.settleloans.in/loan-settlement-process-in-india" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/loan-settlement-process-in-india#article",
+                "@id": "https://www.settleloans.in/loan-settlement-process-in-india#article",
                 "headline": "The 2024 Master Guide to Loan Settlement Process in India",
                 "description": "An in-depth 4500+ word walkthrough of the entire loan settlement journey, from legal eligibility to final NOC issuance and credit rehabilitation.",
                 "author": { "@type": "Organization", "name": "SettleLoans Strategic Negotiation Wing" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-process-in-india#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-process-in-india#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/loan-settlement-process-in-india#product",
+                "@id": "https://www.settleloans.in/loan-settlement-process-in-india#product",
                 "name": "One-Time Settlement (OTS) Negotiation Service",
                 "description": "Professional representation for borrowers seeking to settle bank loans for a reduced lump-sum amount under RBI protocols.",
                 "aggregateRating": {
@@ -61,7 +61,7 @@ export default function LoanSettlementProcessPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/loan-settlement-process-in-india#faq",
+                "@id": "https://www.settleloans.in/loan-settlement-process-in-india#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

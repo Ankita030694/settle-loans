@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "Bank Recovery Case in Court India | Legal Process & Defense",
     description: "Facing a bank recovery suit? Learn about the legal process in India, including Civil Suits, Summary Suits (Order 37), DRT proceedings, and how to defend your rights.",
     alternates: {
-        canonical: "https://settleloans.in/bank-recovery-case-in-court",
+        canonical: "https://www.settleloans.in/bank-recovery-case-in-court",
     },
 };
 
@@ -17,34 +17,34 @@ export default function BankRecoveryCasePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/bank-recovery-case-in-court#webpage",
-                "url": "https://settleloans.in/bank-recovery-case-in-court",
+                "@id": "https://www.settleloans.in/bank-recovery-case-in-court#webpage",
+                "url": "https://www.settleloans.in/bank-recovery-case-in-court",
                 "name": "Bank Recovery Case in Court India | Step-by-Step Legal Guide",
                 "description": "Comprehensive guide on the legal aspects of bank recovery suits in India and defensive strategies for borrowers.",
-                "breadcrumb": { "@id": "https://settleloans.in/bank-recovery-case-in-court#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/bank-recovery-case-in-court#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/bank-recovery-case-in-court#breadcrumb",
+                "@id": "https://www.settleloans.in/bank-recovery-case-in-court#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Bank Recovery Case Guide",
-                        "item": "https://settleloans.in/bank-recovery-case-in-court"
+                        "item": "https://www.settleloans.in/bank-recovery-case-in-court"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/bank-recovery-case-in-court#article",
+                "@id": "https://www.settleloans.in/bank-recovery-case-in-court#article",
                 "headline": "Understanding Bank Recovery Suits in India: From Summons to Settlement",
                 "description": "An exhaustive analysis of judicial debt recovery channels including Civil Courts, DRTs, and Summary Proceedings under Order 37 CPC.",
                 "author": {
@@ -56,16 +56,16 @@ export default function BankRecoveryCasePage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-10",
                 "dateModified": "2024-03-10",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/bank-recovery-case-in-court#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/bank-recovery-case-in-court#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/bank-recovery-case-in-court#product",
+                "@id": "https://www.settleloans.in/bank-recovery-case-in-court#product",
                 "name": "Court Debt Defense Consultation",
                 "description": "Professional legal strategy and mediation services for borrowers facing bank recovery cases in Indian courts.",
                 "aggregateRating": {
@@ -76,7 +76,7 @@ export default function BankRecoveryCasePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/bank-recovery-case-in-court#faq",
+                "@id": "https://www.settleloans.in/bank-recovery-case-in-court#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

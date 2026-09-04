@@ -18,17 +18,17 @@ export const metadata: Metadata = {
     'settleloans debt settlement calculator'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-percentage',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-percentage',
   },
   openGraph: {
     title: 'What Percentage is Personal Loan Settlement in India? (2026 OTS Guide & Formula)',
     description:
       'Learn the exact percentage banks and NBFCs accept for personal loan settlement in India. Understand 30%–50% settlement benchmarks, waiver formulas, NPA provisioning, and fund planning strategies.',
-    url: 'https://settleloans.in/personal-loan-settlement-percentage',
+    url: 'https://www.settleloans.in/personal-loan-settlement-percentage',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-percentage.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-percentage.jpg',
         width: 1200,
         height: 630,
         alt: 'What Percentage is Personal Loan Settlement in India - SettleLoans Comprehensive Guide',
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     title: 'What Percentage is Personal Loan Settlement? (2026 Average Discounts & Rules)',
     description:
       'Discover average personal loan settlement percentages in India: 30%–50% compromise formulas, principal vs interest waivers, bank comparison matrix, and fund arrangement guidelines.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-percentage.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-percentage.jpg'],
   },
 };
 
@@ -51,73 +51,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-percentage#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-percentage",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-percentage#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-percentage",
       "name": "What Percentage is Personal Loan Settlement in India? (2026 OTS Guide)",
       "description": "Wondering what percentage is personal loan settlement in India? Discover average settlement percentages (30%–50%), bank discount formulas, NPA timelines & fund planning guide.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-percentage#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-percentage#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-percentage#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-percentage#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Loan Settlement Percentage",
-          "item": "https://settleloans.in/personal-loan-settlement-percentage"
+          "item": "https://www.settleloans.in/personal-loan-settlement-percentage"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-percentage#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-percentage#article",
       "headline": "What Percentage is Personal Loan Settlement in India? (2026 Average Discounts, OTS Formulas & Fund Planning)",
       "description": "An exhaustive, authoritative guide explaining what percentage banks and NBFCs accept for personal loan settlement in India. Covers average 30%–50% settlement benchmarks, RBI NPA provisioning formulas, bank-by-bank negotiation flexibility, and fund planning blueprints.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-percentage.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-percentage.jpg",
       "datePublished": "2026-08-19T10:00:00+05:30",
       "dateModified": "2026-08-19T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-percentage#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-percentage#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Product",
-      "@id": "https://settleloans.in/personal-loan-settlement-percentage#product",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-percentage#product",
       "name": "Personal Loan Settlement & OTS Percentage Advisory Services",
       "description": "Professional legal evaluation, RBI NPA provisioning analysis, hardship negotiation, and OTS discount optimization for distressed borrowers across India.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-percentage.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-percentage.jpg",
       "brand": {
         "@type": "Brand",
         "name": "SettleLoans"
@@ -194,7 +194,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-percentage#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-percentage#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -280,12 +280,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

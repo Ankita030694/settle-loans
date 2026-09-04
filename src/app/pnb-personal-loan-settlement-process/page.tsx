@@ -53,16 +53,16 @@ export const metadata: Metadata = {
     'pnb nodal officer escalation',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/pnb-personal-loan-settlement-process',
+    canonical: 'https://www.settleloans.in/pnb-personal-loan-settlement-process',
   },
   openGraph: {
     title: 'PNB Personal Loan Settlement: OTS Scheme, SASTRA Process & Rules (2026)',
     description: 'Learn how to settle a Punjab National Bank (PNB) personal loan or digital credit facility under PNB Special OTS schemes and Circle SASTRA resolution desks. Legal protections, haircut formulas, and ₹0 NDC guidelines.',
-    url: 'https://settleloans.in/pnb-personal-loan-settlement-process',
+    url: 'https://www.settleloans.in/pnb-personal-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/pnb-personal-loan-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/pnb-personal-loan-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'Punjab National Bank Personal Loan Settlement Process and OTS Haircut Blueprint',
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'PNB Personal Loan Settlement: OTS Scheme, SASTRA Process & Rules',
     description: 'Technical and legal manual for settling defaulted Punjab National Bank personal loans under PNB Compromise Settlement schemes and Circle SASTRA frameworks.',
-    images: ['https://settleloans.in/images/infographics/pnb-personal-loan-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/pnb-personal-loan-settlement-process.jpg'],
   },
 };
 
@@ -84,74 +84,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/pnb-personal-loan-settlement-process#webpage",
-      "url": "https://settleloans.in/pnb-personal-loan-settlement-process",
+      "@id": "https://www.settleloans.in/pnb-personal-loan-settlement-process#webpage",
+      "url": "https://www.settleloans.in/pnb-personal-loan-settlement-process",
       "name": "PNB Personal Loan Settlement: OTS Scheme, SASTRA Process & Rules (2026)",
       "description": "Exhaustive guide to Punjab National Bank (PNB) personal loan settlement. Understand PNB OTS compromise schemes, Circle SASTRA escalation, recovery agent conduct rules, Section 138/25 defense, and timeline for getting an NDC.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/pnb-personal-loan-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/pnb-personal-loan-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/pnb-personal-loan-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/pnb-personal-loan-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "PNB Personal Loan Settlement Process",
-          "item": "https://settleloans.in/pnb-personal-loan-settlement-process"
+          "item": "https://www.settleloans.in/pnb-personal-loan-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/pnb-personal-loan-settlement-process#article",
+      "@id": "https://www.settleloans.in/pnb-personal-loan-settlement-process#article",
       "headline": "PNB Personal Loan Settlement: OTS Scheme, SASTRA Process & Haircut Matrix",
       "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with Punjab National Bank for personal loans and unsecured facilities, navigating Circle SASTRA provisioning policies, and safeguarding against recovery harassment.",
-      "image": "https://settleloans.in/images/infographics/pnb-personal-loan-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/pnb-personal-loan-settlement-process.jpg",
       "datePublished": "2026-08-25T10:00:00+05:30",
       "dateModified": "2026-08-25T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/pnb-personal-loan-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/pnb-personal-loan-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/pnb-personal-loan-settlement-process#service",
+      "@id": "https://www.settleloans.in/pnb-personal-loan-settlement-process#service",
       "name": "SettleLoans - Punjab National Bank Loan Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted Punjab National Bank personal loans, pension credit lines, and unsecured retail debt under PNB OTS compromise frameworks.",
-      "url": "https://settleloans.in/pnb-personal-loan-settlement-process",
-      "image": "https://settleloans.in/images/infographics/pnb-personal-loan-settlement-process.jpg",
+      "url": "https://www.settleloans.in/pnb-personal-loan-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/pnb-personal-loan-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -164,9 +164,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -240,7 +240,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/pnb-personal-loan-settlement-process#faq",
+      "@id": "https://www.settleloans.in/pnb-personal-loan-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -326,12 +326,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

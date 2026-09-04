@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "लोन सेटलमेंट प्रक्रिया हिंदी में | Loan Settlement Process Guide 2025",
   description: "लोन सेटलमेंट की पूरी प्रक्रिया हिंदी में समझें। पर्सनल लोन, क्रेडिट कार्ड और बिज़नेस लोन को कैसे सेटल करें, लोक अदालत, एनपीए और आरबीआई (RBI) के नए नियम 2025।",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement-process-in-hindi",
+    canonical: "https://www.settleloans.in/loan-settlement-process-in-hindi",
   },
 };
 
@@ -16,39 +16,39 @@ export default function LoanSettlementHindiPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-process-in-hindi#webpage",
-        "url": "https://settleloans.in/loan-settlement-process-in-hindi",
+        "@id": "https://www.settleloans.in/loan-settlement-process-in-hindi#webpage",
+        "url": "https://www.settleloans.in/loan-settlement-process-in-hindi",
         "name": "लोन सेटलमेंट प्रक्रिया हिंदी में: कर्ज से मुक्ति और आपके कानूनी अधिकार | RBI Rules 2025",
         "description": "Comprehensive Hindi guide for Indian borrowers on loan settlement, NPA, and legal protections 2025.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-process-in-hindi#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-process-in-hindi#breadcrumb" },
         "inLanguage": "hi-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement-process-in-hindi#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement-process-in-hindi#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Loan Settlement Hindi Guide", "item": "https://settleloans.in/loan-settlement-process-in-hindi" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Loan Settlement Hindi Guide", "item": "https://www.settleloans.in/loan-settlement-process-in-hindi" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement-process-in-hindi#article",
+        "@id": "https://www.settleloans.in/loan-settlement-process-in-hindi#article",
         "headline": "लोन सेटलमेंट प्रक्रिया हिंदी में: 2025 का सबसे विस्तृत और सटीक मार्गदर्शक",
         "description": "जानिए कैसे एनपीए (NPA) के बाद बैंक से सेटलमेंट करें, लोक अदालत का उपयोग कैसे करें और रिकवरी एजेंटों को कानूनी तरीके से कैसे रोकें।",
         "author": { "@type": "Organization", "name": "SettleLoans Hindi Content Experts" },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "logo": { "@type": "ImageObject", url: "https://settleloans.in/logo/logo.svg" }
+          "logo": { "@type": "ImageObject", url: "https://www.settleloans.in/logo/logo.svg" }
         },
         "datePublished": "2024-03-27",
         "dateModified": "2025-03-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-process-in-hindi#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-process-in-hindi#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement-process-in-hindi#product",
+        "@id": "https://www.settleloans.in/loan-settlement-process-in-hindi#product",
         "name": "Loan Settlement Consultation Service",
         "description": "Expert Hindi-language consultation for navigating loan settlement, NPA recovery, and legal debt protection in India.",
         "aggregateRating": {
@@ -68,7 +68,7 @@ export default function LoanSettlementHindiPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement-process-in-hindi#faq",
+        "@id": "https://www.settleloans.in/loan-settlement-process-in-hindi#faq",
         "mainEntity": [
           {
             "@type": "Question",

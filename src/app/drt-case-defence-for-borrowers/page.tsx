@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "DRT Case Defence for Borrowers | SARFAESI & RDDBFI Legal Guide 2025",
   description: "Are you facing a case in the Debt Recovery Tribunal? Learn the best DRT case defence strategies, your rights under the SARFAESI Act, and how to stop auctions legally. Expert guide for borrowers in India.",
   alternates: {
-    canonical: "https://settleloans.in/drt-case-defence-for-borrowers",
+    canonical: "https://www.settleloans.in/drt-case-defence-for-borrowers",
   },
 };
 
@@ -16,34 +16,34 @@ export default function DRTCaseDefencePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/drt-case-defence-for-borrowers#webpage",
-        "url": "https://settleloans.in/drt-case-defence-for-borrowers",
+        "@id": "https://www.settleloans.in/drt-case-defence-for-borrowers#webpage",
+        "url": "https://www.settleloans.in/drt-case-defence-for-borrowers",
         "name": "DRT Case Defence for Borrowers | SARFAESI & RDDBFI Legal Guide",
         "description": "A comprehensive resource for borrowers to understand and defend themselves in DRT proceedings, including SARFAESI and RDB legal frameworks.",
-        "breadcrumb": { "@id": "https://settleloans.in/drt-case-defence-for-borrowers#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/drt-case-defence-for-borrowers#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/drt-case-defence-for-borrowers#breadcrumb",
+        "@id": "https://www.settleloans.in/drt-case-defence-for-borrowers#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "DRT Case Defence for Borrowers",
-            "item": "https://settleloans.in/drt-case-defence-for-borrowers"
+            "item": "https://www.settleloans.in/drt-case-defence-for-borrowers"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/drt-case-defence-for-borrowers#article",
+        "@id": "https://www.settleloans.in/drt-case-defence-for-borrowers#article",
         "headline": "How to Defend Your DRT Case: A Comprehensive Guide for Indian Borrowers",
         "description": "Receiving a notice from the Debt Recovery Tribunal can be overwhelming. This guide explains the step-by-step procedures to defend your case and protect your assets legally.",
         "author": {
@@ -55,16 +55,16 @@ export default function DRTCaseDefencePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-22",
         "dateModified": "2024-03-22",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/drt-case-defence-for-borrowers#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/drt-case-defence-for-borrowers#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/drt-case-defence-for-borrowers#product",
+        "@id": "https://www.settleloans.in/drt-case-defence-for-borrowers#product",
         "name": "DRT Legal Defence Consultation",
         "description": "Expert advisory and legal strategy services for borrowers facing Debt Recovery Tribunal cases and SARFAESI notices.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function DRTCaseDefencePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/drt-case-defence-for-borrowers#faq",
+        "@id": "https://www.settleloans.in/drt-case-defence-for-borrowers#faq",
         "mainEntity": [
           {
             "@type": "Question",

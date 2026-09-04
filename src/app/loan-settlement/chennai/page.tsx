@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Best Loan Settlement Services in Chennai | Legal Debt Relief Specialists - SettleLoans",
   description: "Struggling with debt in Chennai or Tamil Nadu? Get professional legal help for loan settlement. Expert negotiation at Anna Salai banks & George Town courts. Zero harassment.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/chennai",
+    canonical: "https://www.settleloans.in/loan-settlement/chennai",
   },
 };
 
@@ -16,46 +16,46 @@ export default function ChennaiLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/chennai#webpage",
-        "url": "https://settleloans.in/loan-settlement/chennai",
+        "@id": "https://www.settleloans.in/loan-settlement/chennai#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/chennai",
         "name": "Expert Loan Settlement & Legal Debt Relief in Chennai",
         "description": "Comprehensive guide to settling credit cards and personal loans in Chennai. Legal protection at Egmore courts and BKC style negotiation at Anna Salai.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/chennai#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/chennai#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/chennai#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/chennai#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chennai",
-            "item": "https://settleloans.in/loan-settlement/chennai"
+            "item": "https://www.settleloans.in/loan-settlement/chennai"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/chennai#service",
+        "@id": "https://www.settleloans.in/loan-settlement/chennai#service",
         "name": "Chennai Loan Settlement & Anti-Harassment Services",
         "description": "Specialized legal representation for Chennai residents facing debt crises, offering negotiation at Anna Salai and protection at Lok Adalats.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Chennai" },
@@ -114,7 +114,7 @@ export default function ChennaiLoanSettlementPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/chennai#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/chennai#faq",
         "mainEntity": [
           {
             "@type": "Question",

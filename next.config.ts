@@ -26,6 +26,17 @@ const nextConfig: NextConfig = {
   async redirects() {
     return [
       {
+        source: '/:path*',
+        has: [
+          {
+            type: 'host',
+            value: 'settleloans.in',
+          },
+        ],
+        destination: 'https://www.settleloans.in/:path*',
+        permanent: true,
+      },
+      {
         source: '/blog',
         destination: '/',
         permanent: true,

@@ -47,16 +47,16 @@ export const metadata: Metadata = {
     'nri visa renewal loan default india'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default',
+    canonical: 'https://www.settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default',
   },
   openGraph: {
     title: 'Will Indian Loan Default Affect Overseas Credit Score? NRI CIBIL & Legal Guide',
     description: 'A comprehensive regulatory and legal analysis on whether Indian bank loan or credit card defaults impact foreign credit scores (Equifax, Experian US, AECB) or visa renewals for NRIs in the USA, UK, Canada, and Gulf.',
-    url: 'https://settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default',
+    url: 'https://www.settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/nri-credit-bureau-mapping-cibil-overseas-default.jpg',
+        url: 'https://www.settleloans.in/images/infographics/nri-credit-bureau-mapping-cibil-overseas-default.jpg',
         width: 1200,
         height: 675,
         alt: 'NRI Cross-Border Credit Bureau Mapping and Overseas Credit Score Guide',
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Will Indian Loan Default Affect Overseas Credit Score? NRI CIBIL Guide',
     description: 'Demystifying cross-border credit bureau sharing, immigration visa checks, and legal remedies for NRIs facing Indian loan defaults. Discover remote debt settlement solutions.',
-    images: ['https://settleloans.in/images/infographics/nri-credit-bureau-mapping-cibil-overseas-default.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/nri-credit-bureau-mapping-cibil-overseas-default.jpg'],
   },
 };
 
@@ -78,74 +78,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default#webpage",
-      "url": "https://settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default",
+      "@id": "https://www.settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default#webpage",
+      "url": "https://www.settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default",
       "name": "Will Indian Loan Default Affect Overseas Credit Score? NRI CIBIL Guide",
       "description": "Will an Indian loan default affect your overseas credit score in the US, UK, Canada, or UAE? Understand cross-border credit reporting laws, CICRA 2005 data firewalls, visa renewal realities, and remote debt settlement solutions for Non-Resident Indians (NRIs).",
       "breadcrumb": {
-        "@id": "https://settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default#breadcrumb"
+        "@id": "https://www.settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default#breadcrumb",
+      "@id": "https://www.settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "NRI Credit Bureau Mapping & Overseas Default Guide",
-          "item": "https://settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default"
+          "item": "https://www.settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default#article",
+      "@id": "https://www.settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default#article",
       "headline": "Will Indian Loan Default Affect Overseas Credit Score? NRI CIBIL Mapping, Visa Realities & Remote Settlement",
       "description": "An exhaustive statutory, regulatory, and legal guide examining cross-border credit bureau reporting frameworks between India and major expat destinations including the United States, United Kingdom, Canada, and the United Arab Emirates. Clarifies data sovereignty protections under CICRA 2005, foreign credit bureau isolation, immigration and visa renewal impacts, and advocate-led remote loan settlement procedures.",
-      "image": "https://settleloans.in/images/infographics/nri-credit-bureau-mapping-cibil-overseas-default.jpg",
+      "image": "https://www.settleloans.in/images/infographics/nri-credit-bureau-mapping-cibil-overseas-default.jpg",
       "datePublished": "2026-08-26T10:00:00+05:30",
       "dateModified": "2026-08-26T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default#webpage"
+        "@id": "https://www.settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default#service",
+      "@id": "https://www.settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default#service",
       "name": "SettleLoans - NRI Debt Resolution & Cross-Border Credit Advisory",
       "description": "Specialized legal representation, banking defense, and remote loan compromise advisory for Non-Resident Indians (NRIs) managing defaulted personal loans, home loans, credit cards, or business borrowings across Indian financial institutions.",
-      "url": "https://settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default",
-      "image": "https://settleloans.in/images/infographics/nri-credit-bureau-mapping-cibil-overseas-default.jpg",
+      "url": "https://www.settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default",
+      "image": "https://www.settleloans.in/images/infographics/nri-credit-bureau-mapping-cibil-overseas-default.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -158,9 +158,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -234,7 +234,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default#faq",
+      "@id": "https://www.settleloans.in/nri-credit-bureau-mapping-cibil-overseas-default#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -320,12 +320,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

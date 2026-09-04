@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Best Loan Settlement Services in Pune | PCMC Debt Relief Experts - SettleLoans",
   description: "Legal help for loan settlement in Pune & Pimpri-Chinchwad. Negotiate credit card waivers at Shivajinagar Lok Adalat. Stop recovery agent visits in Baner, Kothrud & Hinjewadi.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/pune",
+    canonical: "https://www.settleloans.in/loan-settlement/pune",
   },
 };
 
@@ -16,46 +16,46 @@ export default function PuneLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/pune#webpage",
-        "url": "https://settleloans.in/loan-settlement/pune",
+        "@id": "https://www.settleloans.in/loan-settlement/pune#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/pune",
         "name": "Best Loan Settlement Services in Pune | PCMC Debt Relief Experts - SettleLoans",
         "description": "Legal help for loan settlement in Pune & Pimpri-Chinchwad. Negotiate credit card waivers at Shivajinagar Lok Adalat. Stop recovery agent visits in Baner, Kothrud & Hinjewadi.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/pune#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/pune#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/pune#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/pune#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Pune",
-            "item": "https://settleloans.in/loan-settlement/pune"
+            "item": "https://www.settleloans.in/loan-settlement/pune"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/pune#service",
+        "@id": "https://www.settleloans.in/loan-settlement/pune#service",
         "name": "Pune Loan Settlement Services",
         "description": "Expert debt settlement and legal assistance for personal loans and credit cards in Pune.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": {
           "@type": "City",
@@ -103,7 +103,7 @@ export default function PuneLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/pune#article",
+        "@id": "https://www.settleloans.in/loan-settlement/pune#article",
         "headline": "Complete Guide to Loan Settlement in Pune | Legal Procedures & Rights",
         "description": "A comprehensive guide on how loan settlement works in Pune and Pimpri-Chinchwad, covering Maharashtra legal aid, Lok Adalats, and borrower protection.",
         "author": {
@@ -115,16 +115,16 @@ export default function PuneLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-01-31",
         "dateModified": "2024-01-31",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/pune#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/pune#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/pune#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/pune#faq",
         "mainEntity": [
           {
             "@type": "Question",

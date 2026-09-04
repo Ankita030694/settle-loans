@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "What Happens to a Joint Personal Loan if the Primary Borrower Dies?",
   description: "Learn about co-borrower liability after death in India. Discover how to handle a joint loan death clause and negotiate a compassionate settlement with the bank.",
   alternates: {
-    canonical: "https://settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies",
+    canonical: "https://www.settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies",
   },
 };
 
@@ -16,34 +16,34 @@ export default function JointLoanDeathLiabilityPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies#webpage",
-        "url": "https://settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies",
+        "@id": "https://www.settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies#webpage",
+        "url": "https://www.settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies",
         "name": "What Happens to a Joint Personal Loan if the Primary Borrower Dies?",
         "description": "A sensitive but critical legal guide outlining the liabilities of a surviving co-borrower (often a spouse or business partner) when the primary applicant passes away.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies#breadcrumb",
+        "@id": "https://www.settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Joint Loan Death Liability",
-            "item": "https://settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies"
+            "item": "https://www.settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies#article",
+        "@id": "https://www.settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies#article",
         "headline": "What Happens to a Joint Personal Loan if the Primary Borrower Dies?",
         "description": "Understand co-borrower liability after death in India and how to negotiate a waiver or settlement for joint loans.",
         "author": {
@@ -55,22 +55,22 @@ export default function JointLoanDeathLiabilityPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies#product",
+        "@id": "https://www.settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies#product",
         "name": "Legal Settlement Services for Joint Loans",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Compassionate legal representation to negotiate waivers or settlements with banks following the death of a primary applicant.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -112,7 +112,7 @@ export default function JointLoanDeathLiabilityPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies#faq",
+        "@id": "https://www.settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies#faq",
         "mainEntity": [
           {
             "@type": "Question",

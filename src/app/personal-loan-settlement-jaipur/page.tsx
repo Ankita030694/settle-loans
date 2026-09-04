@@ -50,17 +50,17 @@ export const metadata: Metadata = {
     'c-scheme bank loan settlement lawyer',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-jaipur',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-jaipur',
   },
   openGraph: {
     title: 'Debt Settlement Services in Jaipur: Legal Defense & OTS Advisory',
     description:
       'Expert legal defense and One-Time Settlement (OTS) representation for salaried professionals, MSME owners, and traders facing loan defaults across Jaipur, Mansarovar, Vaishali Nagar, and C-Scheme.',
-    url: 'https://settleloans.in/personal-loan-settlement-jaipur',
+    url: 'https://www.settleloans.in/personal-loan-settlement-jaipur',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-jaipur.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-jaipur.jpg',
         width: 1200,
         height: 675,
         alt: 'Debt Settlement Services in Jaipur Legal Defense Guide',
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
     title: 'Personal Loan Settlement Advocates in Jaipur: Legal Defense & Lok Adalat Guide',
     description:
       'Authoritative legal representation for bank loan defaults, Section 138/25 notices in Bani Park courts, RSLSA Lok Adalat compromise awards, and anti-harassment shielding in Jaipur.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-jaipur.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-jaipur.jpg'],
   },
 };
 
@@ -83,79 +83,79 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-jaipur#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-jaipur",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-jaipur#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-jaipur",
       "name": "Debt Settlement Services in Jaipur: Legal Defense & OTS Advocates (2026)",
       "description": "Facing personal loan default, recovery harassment, or court notices in Jaipur, Mansarovar, or Vaishali Nagar? Senior debt settlement advocates offer legal defense, salary protection, and 40%–70% OTS waivers.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-jaipur#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-jaipur#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-jaipur#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-jaipur#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Debt Settlement Services in Jaipur",
-          "item": "https://settleloans.in/personal-loan-settlement-jaipur"
+          "item": "https://www.settleloans.in/personal-loan-settlement-jaipur"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-jaipur#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-jaipur#article",
       "headline": "Debt Settlement Services in Jaipur: Regional Legal Defense, Bank OTS & 40%–70% Debt Relief",
       "description": "An authoritative legal and financial guide for distressed salaried professionals, MSME entrepreneurs, and traders in Jaipur. Learn Bani Park District Court dynamics, Section 171 banker lien protections, RSLSA Lok Adalat settlement mechanics, and how seasoned Jaipur advocates negotiate 40% to 70% debt waivers.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-jaipur.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-jaipur.jpg",
       "datePublished": "2026-08-25T12:00:00+05:30",
       "dateModified": "2026-08-25T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-jaipur#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-jaipur#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
@@ -165,7 +165,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-jaipur#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-jaipur#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -243,11 +243,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-jaipur#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-jaipur#service",
       "name": "SettleLoans - Debt Settlement Services in Jaipur & Legal Defense",
       "description": "Premier debt settlement advisory, court notice defense, and RSLSA Lok Adalat representation for salaried professionals, MSME owners, and traders across Jaipur, Mansarovar, Vaishali Nagar, and C-Scheme.",
-      "url": "https://settleloans.in/personal-loan-settlement-jaipur",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-jaipur.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-jaipur",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-jaipur.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -260,9 +260,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

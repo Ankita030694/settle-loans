@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Does My Personal Loan Default Affect My Spouse's CIBIL Score in India?",
   description: "Learn whether an individual loan liability in marriage affects your spouse's credit score in India. Understand your rights if a bank is calling your spouse for your loan.",
   alternates: {
-    canonical: "https://settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score",
+    canonical: "https://www.settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score",
   },
 };
 
@@ -16,34 +16,34 @@ export default function SpouseCibilScorePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#webpage",
-        "url": "https://settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score",
+        "@id": "https://www.settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#webpage",
+        "url": "https://www.settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score",
         "name": "Does My Personal Loan Default Affect My Spouse's CIBIL Score in India?",
         "description": "Learn whether an individual loan liability in marriage affects your spouse's credit score in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#breadcrumb",
+        "@id": "https://www.settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Spouse CIBIL Score Impact",
-            "item": "https://settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score"
+            "item": "https://www.settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#article",
+        "@id": "https://www.settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#article",
         "headline": "Does My Personal Loan Default Affect My Spouse's CIBIL Score in India?",
         "description": "Clarifies the panic surrounding married couples and financial data, explaining the strict separation of individual credit files.",
         "author": {
@@ -55,16 +55,16 @@ export default function SpouseCibilScorePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-02-19",
         "dateModified": "2026-02-19",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#faq",
+        "@id": "https://www.settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -159,7 +159,7 @@ export default function SpouseCibilScorePage() {
         "review": [
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#review1",
+            "@id": "https://www.settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#review1",
             "author": { "@type": "Person", "name": "Rahul S." },
             "reviewBody": "Agents were calling my wife continuously for my personal loan. This service sent a legal notice and the calls stopped within 48 hours.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" },
@@ -167,7 +167,7 @@ export default function SpouseCibilScorePage() {
           },
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#review2",
+            "@id": "https://www.settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#review2",
             "author": { "@type": "Person", "name": "Priya K." },
             "reviewBody": "I was terrified that my husband's CIBIL would be ruined because of my credit card default. They clarified everything and stopped the harassment.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" },
@@ -175,7 +175,7 @@ export default function SpouseCibilScorePage() {
           },
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#review3",
+            "@id": "https://www.settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#review3",
             "author": { "@type": "Person", "name": "Amit M." },
             "reviewBody": "Very professional. They explained the exact laws that protect my spouse from my loan liabilities.",
             "reviewRating": { "@type": "Rating", "ratingValue": "4" },
@@ -183,7 +183,7 @@ export default function SpouseCibilScorePage() {
           },
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#review4",
+            "@id": "https://www.settleloans.in/does-my-personal-loan-default-affect-my-spouse-husband-or-wife-cibil-score#review4",
             "author": { "@type": "Person", "name": "Neha V." },
             "reviewBody": "Recovery agents even showed up at my husband's office. One legal notice from these experts and the bank apologized.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" },

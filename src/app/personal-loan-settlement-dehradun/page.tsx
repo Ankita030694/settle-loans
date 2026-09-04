@@ -49,16 +49,16 @@ export const metadata: Metadata = {
     'drt dehradun loan dispute lawyer',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-dehradun',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-dehradun',
   },
   openGraph: {
     title: 'Loan Settlement Services in Dehradun: Legal Debt Relief in Uttarakhand (2026)',
     description: 'Specialized banking advocate representation for personal loan settlement, credit card defaults, and commercial debt resolution across Dehradun, Haridwar, and Rishikesh under RBI compromise frameworks.',
-    url: 'https://settleloans.in/personal-loan-settlement-dehradun',
+    url: 'https://www.settleloans.in/personal-loan-settlement-dehradun',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-dehradun.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-dehradun.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Settlement Services in Dehradun Uttarakhand Debt Resolution Guide',
@@ -71,7 +71,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement Services in Dehradun: Legal Debt Relief in Uttarakhand',
     description: 'Technical and legal manual for settling defaulted personal loans, multi-card debts, and business credit lines across Dehradun, Haridwar, and Rishikesh.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-dehradun.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-dehradun.jpg'],
   },
 };
 
@@ -80,81 +80,81 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-dehradun#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-dehradun",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-dehradun#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-dehradun",
       "name": "Loan Settlement Services in Dehradun: Legal Debt Relief in Uttarakhand (2026)",
       "description": "Leading loan settlement services in Dehradun, Haridwar & Rishikesh. Advocate representation for government employees, hotel/tourism businesses & students facing bank recovery under RBI OTS rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-dehradun#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-dehradun#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-dehradun#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-dehradun#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services & Legal Guides",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Loan Settlement Services in Dehradun",
-          "item": "https://settleloans.in/personal-loan-settlement-dehradun"
+          "item": "https://www.settleloans.in/personal-loan-settlement-dehradun"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-dehradun#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-dehradun#article",
       "headline": "Loan Settlement Services in Dehradun: Legal Debt Relief for Uttarakhand",
       "description": "An authoritative legal and financial roadmap for government employees, hotel and tourism entrepreneurs, and higher education students facing personal loan and credit card defaults in Dehradun, Haridwar, and Rishikesh. Master RBI OTS rules, court defense, and NPA recovery formulas.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-dehradun.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-dehradun.jpg",
       "datePublished": "2026-08-26T12:00:00+05:30",
       "dateModified": "2026-08-26T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-dehradun#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-dehradun#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "contactPoint": [
         {
@@ -168,11 +168,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-dehradun#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-dehradun#service",
       "name": "SettleLoans - Loan Settlement Services in Dehradun",
       "description": "Specialized advocate-led debt settlement, legal notice defense, and RBI OTS negotiation for personal loans, credit card balances, and unsecured business credit lines across Dehradun, Haridwar, and Rishikesh.",
-      "url": "https://settleloans.in/personal-loan-settlement-dehradun",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-dehradun.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-dehradun",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-dehradun.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -185,9 +185,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -261,7 +261,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-dehradun#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-dehradun#faq",
       "mainEntity": [
         {
           "@type": "Question",

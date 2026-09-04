@@ -54,16 +54,16 @@ export const metadata: Metadata = {
     'settle loan through rbi ombudsman complaint'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment',
+    canonical: 'https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment',
   },
   openGraph: {
     title: 'The Master Guide to RBI Ombudsman Banking Complaints: Recovery Harassment & Compensation',
     description: 'Master the formal procedure for escalating loan recovery agent harassment to the RBI Integrated Ombudsman via cms.rbi.org.in. Understand statutory evidentiary requirements, mental agony compensation claims, and how regulatory oversight forces favorable loan settlements.',
-    url: 'https://settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment',
+    url: 'https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/rbi-ombudsman-complaint-loan-recovery-harassment.jpg',
+        url: 'https://www.settleloans.in/images/infographics/rbi-ombudsman-complaint-loan-recovery-harassment.jpg',
         width: 1200,
         height: 675,
         alt: 'RBI Ombudsman Banking Complaints for Loan Recovery Harassment Process Guide',
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to File RBI Ombudsman Complaint for Loan Recovery Harassment: Step-by-Step Guide',
     description: 'Facing abusive recovery agents from banks or NBFCs? File a formal complaint on the RBI CMS portal, claim statutory compensation, and protect your constitutional dignity.',
-    images: ['https://settleloans.in/images/infographics/rbi-ombudsman-complaint-loan-recovery-harassment.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/rbi-ombudsman-complaint-loan-recovery-harassment.jpg'],
   },
 };
 
@@ -85,74 +85,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#webpage",
-      "url": "https://settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment",
+      "@id": "https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#webpage",
+      "url": "https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment",
       "name": "How to File RBI Ombudsman Complaint for Recovery Harassment: Legal Guide & Compensation (2026)",
       "description": "Learn how to file an RBI Ombudsman complaint for loan recovery agent harassment on the CMS portal. Discover how to claim up to ₹1 Lakh for mental agony, halt third-party intimidation, and leverage regulatory escalation to secure a 50%–65% loan settlement.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#breadcrumb"
+        "@id": "https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#breadcrumb",
+      "@id": "https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "RBI Ombudsman Recovery Harassment Guide",
-          "item": "https://settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment"
+          "item": "https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#article",
+      "@id": "https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#article",
       "headline": "The Master Guide to RBI Ombudsman Banking Complaints: Filing Recovery Harassment Cases & Compensation Claims",
       "description": "An exhaustive regulatory guide to lodging complaints under the Reserve Bank - Integrated Ombudsman Scheme, 2021 against banks and NBFCs for unlawful loan recovery harassment, uncredited payments, and privacy violations.",
-      "image": "https://settleloans.in/images/infographics/rbi-ombudsman-complaint-loan-recovery-harassment.jpg",
+      "image": "https://www.settleloans.in/images/infographics/rbi-ombudsman-complaint-loan-recovery-harassment.jpg",
       "datePublished": "2026-08-25T12:00:00+05:30",
       "dateModified": "2026-08-25T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#webpage"
+        "@id": "https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#service",
+      "@id": "https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#service",
       "name": "SettleLoans - RBI Regulatory Escalation & Banking Grievance Legal Advisory",
       "description": "Expert advocate representation for distressed borrowers filing complaints before the Reserve Bank of India Integrated Ombudsman against aggressive recovery agents, unauthorized charges, and predatory NBFC collection practices.",
-      "url": "https://settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment",
-      "image": "https://settleloans.in/images/infographics/rbi-ombudsman-complaint-loan-recovery-harassment.jpg",
+      "url": "https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment",
+      "image": "https://www.settleloans.in/images/infographics/rbi-ombudsman-complaint-loan-recovery-harassment.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -165,9 +165,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -241,7 +241,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#faq",
+      "@id": "https://www.settleloans.in/rbi-ombudsman-complaint-loan-recovery-harassment#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -327,12 +327,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

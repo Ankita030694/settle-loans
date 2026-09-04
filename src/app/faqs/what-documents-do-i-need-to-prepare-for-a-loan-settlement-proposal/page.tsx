@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Documents Required for Loan Settlement Proposal in India | 2024 Checklist",
     description: "The definitive checklist of documents needed for a loan settlement proposal to banks and NBFCs in India. Learn which proofs convince banks to waive interest.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal",
+        canonical: "https://www.settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal",
     },
 };
 
@@ -18,43 +18,43 @@ export default function DocumentChecklistPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal#webpage",
-                "url": "https://settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal",
+                "@id": "https://www.settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal#webpage",
+                "url": "https://www.settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal",
                 "name": "Settlement Document Checklist India | SettleLoans",
                 "description": "Comprehensive guide on documentation required to initiate a debt settlement with Indian financial institutions.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Settlement Document Toolkit",
-                        "item": "https://settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal"
+                        "item": "https://www.settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal#article",
+                "@id": "https://www.settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal#article",
                 "headline": "What documents do I need to prepare for a loan settlement proposal?",
                 "description": "Master the art of hardship documentation. Learn how to curate a document trail that forces banks to accept your debt settlement offer.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Expert Team"
@@ -64,7 +64,7 @@ export default function DocumentChecklistPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-05-15",
@@ -72,7 +72,7 @@ export default function DocumentChecklistPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal#faq",
+                "@id": "https://www.settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -158,7 +158,7 @@ export default function DocumentChecklistPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal#service",
+                "@id": "https://www.settleloans.in/faqs/what-documents-do-i-need-to-prepare-for-a-loan-settlement-proposal#service",
                 "name": "Settlement Documentation & Audit Service",
                 "description": "Professional assistance in drafting hardship letters and curating the perfect document trail to secure maximum loan waivers from Indian banks.",
                 "brand": {

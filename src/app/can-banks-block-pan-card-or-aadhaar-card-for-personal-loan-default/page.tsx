@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Can Banks Block Your PAN Card or Aadhaar Card for a Personal Loan Default?",
   description: "Are recovery agents threatening to block your PAN or Aadhaar card for a loan default? Learn the truth. Banks have zero legal authority to block your ID proofs.",
   alternates: {
-    canonical: "https://settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default",
+    canonical: "https://www.settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default",
   },
 };
 
@@ -16,34 +16,34 @@ export default function PANCardAadhaarBlockDefensePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default#webpage",
-        "url": "https://settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default",
+        "@id": "https://www.settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default#webpage",
+        "url": "https://www.settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default",
         "name": "Can Banks Block Your PAN Card or Aadhaar Card for a Personal Loan Default?",
         "description": "A myth-busting legal guide addressing threats by recovery agents to block PAN and Aadhaar cards for unsecured loan defaults.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default#breadcrumb",
+        "@id": "https://www.settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "PAN & Aadhaar Block Scams",
-            "item": "https://settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default"
+            "item": "https://www.settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default#article",
+        "@id": "https://www.settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default#article",
         "headline": "Can Banks Block Your PAN Card or Aadhaar Card for a Personal Loan Default?",
         "description": "Exposing the illegal tactics of recovery agents who threaten to deactivate PAN and Aadhaar cards.",
         "author": {
@@ -55,22 +55,22 @@ export default function PANCardAadhaarBlockDefensePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-06-15",
         "dateModified": "2024-06-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default#product",
+        "@id": "https://www.settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default#product",
         "name": "Legal Protection Against Recovery Agent Harassment",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Stop recovery agents from making illegal threats about blocking your PAN and Aadhaar cards.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -112,7 +112,7 @@ export default function PANCardAadhaarBlockDefensePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default#faq",
+        "@id": "https://www.settleloans.in/can-banks-block-pan-card-or-aadhaar-card-for-personal-loan-default#faq",
         "mainEntity": [
           {
             "@type": "Question",

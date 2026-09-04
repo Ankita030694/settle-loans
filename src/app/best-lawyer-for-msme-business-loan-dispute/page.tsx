@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Best Lawyer for MSME Business Loan Dispute | Debt Recovery & SARFAESI Defense",
     description: "Are you facing a business loan dispute? Consult the best lawyer for MSME business loan disputes in India. Expert legal help for SARFAESI notices, DRT cases, and loan settlement.",
     alternates: {
-        canonical: "https://settleloans.in/best-lawyer-for-msme-business-loan-dispute",
+        canonical: "https://www.settleloans.in/best-lawyer-for-msme-business-loan-dispute",
     },
 };
 
@@ -18,34 +18,34 @@ export default function MSMELoanDisputePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-msme-business-loan-dispute#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-msme-business-loan-dispute",
+                "@id": "https://www.settleloans.in/best-lawyer-for-msme-business-loan-dispute#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-msme-business-loan-dispute",
                 "name": "Best Lawyer for MSME Business Loan Dispute India | Legal Defense",
                 "description": "Comprehensive legal guide and services for MSME business owners facing loan disputes, bank notices, and recovery actions in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-msme-business-loan-dispute#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-msme-business-loan-dispute#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-msme-business-loan-dispute#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-msme-business-loan-dispute#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Best Lawyer for MSME Business Loan Dispute",
-                        "item": "https://settleloans.in/best-lawyer-for-msme-business-loan-dispute"
+                        "item": "https://www.settleloans.in/best-lawyer-for-msme-business-loan-dispute"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-msme-business-loan-dispute#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-msme-business-loan-dispute#article",
                 "headline": "Best Lawyer for MSME Business Loan Dispute: Protecting Your Business from Bank Recovery",
                 "description": "Expert insights into legal remedies for MSMEs facing loan defaults, sarfaesi actions, and bank disputes. Learn how a specialized lawyer can save your business.",
                 "author": {
@@ -57,16 +57,16 @@ export default function MSMELoanDisputePage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-msme-business-loan-dispute#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-msme-business-loan-dispute#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-msme-business-loan-dispute#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-msme-business-loan-dispute#product",
                 "name": "MSME Loan Dispute Legal Consultation",
                 "description": "Professional legal defense and negotiation services for MSME loan disputes.",
                 "aggregateRating": {
@@ -93,7 +93,7 @@ export default function MSMELoanDisputePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-msme-business-loan-dispute#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-msme-business-loan-dispute#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

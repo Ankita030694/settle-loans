@@ -10,22 +10,22 @@ export default function LoanRecoveryDocumentationPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-recovery-documentation#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-recovery-documentation#article",
                 "headline": "Best Lawyer for Loan Recovery Documentation and Legal Paper Trail in India",
                 "description": "Expert legal guidance on loan recovery documentation, SARFAESI notices, DRT procedures, and building a robust paper trail for debt recovery in India.",
-                "image": "https://settleloans.in/images/loan-recovery-docs.jpg",
+                "image": "https://www.settleloans.in/images/loan-recovery-docs.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/best-lawyer-for-loan-recovery-documentation" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/best-lawyer-for-loan-recovery-documentation" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-recovery-documentation#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-recovery-documentation#product",
                 "name": "Loan Recovery Documentation Legal Service",
                 "description": "Strategic legal audits and documentation services for complex debt recovery matters, ensuring compliance and enforceability.",
                 "aggregateRating": {
@@ -74,9 +74,9 @@ export default function LoanRecoveryDocumentationPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://settleloans.in/services" },
-                    { "@type": "ListItem", "position": 3, "name": "Loan Recovery Documentation", "item": "https://settleloans.in/best-lawyer-for-loan-recovery-documentation" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://www.settleloans.in/services" },
+                    { "@type": "ListItem", "position": 3, "name": "Loan Recovery Documentation", "item": "https://www.settleloans.in/best-lawyer-for-loan-recovery-documentation" }
                 ]
             }
         ]

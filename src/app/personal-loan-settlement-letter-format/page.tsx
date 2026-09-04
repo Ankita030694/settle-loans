@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'job loss loan settlement request letter'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-letter-format',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-letter-format',
   },
   openGraph: {
     title: 'Personal Loan Settlement Letter Format: Ready-to-Use Templates & Legal Guide',
     description: 'Looking for a formal loan settlement letter format? Access proven OTS draft templates for SBI, HDFC, ICICI, Axis, Kotak & NBFCs with complete RBI compliance guidelines.',
-    url: 'https://settleloans.in/personal-loan-settlement-letter-format',
+    url: 'https://www.settleloans.in/personal-loan-settlement-letter-format',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-letter-format.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-letter-format.jpg',
         width: 1200,
         height: 630,
         alt: 'Personal Loan Settlement Letter Format and Templates Guide',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Personal Loan Settlement Letter Format & Bank Request Samples (2026)',
     description: 'Learn how to write a formal OTS request letter to your bank manager. Free customizable templates for medical hardship, job loss, and business distress.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-letter-format.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-letter-format.jpg'],
   },
 };
 
@@ -50,73 +50,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-letter-format#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-letter-format",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-letter-format#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-letter-format",
       "name": "Personal Loan Settlement Letter Format: Templates & Bank Samples (2026)",
       "description": "Download ready-to-use personal loan settlement letter formats for Indian banks. Get formal OTS request templates for job loss, medical crisis, RBI guidelines & approval tips.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-letter-format#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-letter-format#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-letter-format#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-letter-format#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Loan Settlement Letter Format",
-          "item": "https://settleloans.in/personal-loan-settlement-letter-format"
+          "item": "https://www.settleloans.in/personal-loan-settlement-letter-format"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-letter-format#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-letter-format#article",
       "headline": "Personal Loan Settlement Letter Format: Ready-to-Use OTS Templates, Bank Request Samples & RBI Rules",
       "description": "An exhaustive practical guide on drafting a legally sound personal loan settlement letter to Indian banks and NBFCs, featuring ready-to-copy OTS templates, hardship proof checklists, RBI compromise directives, and post-settlement NOC protocols.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-letter-format.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-letter-format.jpg",
       "datePublished": "2026-08-19T10:00:00+05:30",
       "dateModified": "2026-08-19T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-letter-format#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-letter-format#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Product",
-      "@id": "https://settleloans.in/personal-loan-settlement-letter-format#product",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-letter-format#product",
       "name": "Personal Loan Settlement Legal Advisory & Documentation Services",
       "description": "Professional drafting of bank settlement letters, OTS negotiation, anti-harassment legal protection, and CIBIL score rehabilitation for distressed borrowers in India.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-letter-format.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-letter-format.jpg",
       "brand": {
         "@type": "Brand",
         "name": "SettleLoans"
@@ -193,7 +193,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-letter-format#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-letter-format#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -279,12 +279,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

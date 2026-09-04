@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Can a Bank Freeze a Salary Account for a Credit Card Default?",
   description: "Learn how to unfreeze a salary account frozen for credit card default. Understand the Banker's Right of Set-Off and RBI rules against deducting your full salary.",
   alternates: {
-    canonical: "https://settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default",
+    canonical: "https://www.settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default",
   },
 };
 
@@ -16,34 +16,34 @@ export default function SalaryAccountFreezePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default#webpage",
-        "url": "https://settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default",
+        "@id": "https://www.settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default#webpage",
+        "url": "https://www.settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default",
         "name": "Can a Bank Freeze a Salary Account for a Credit Card Default?",
         "description": "A critical survival guide for salaried employees whose entire paycheck was wiped out by the bank to recover a credit card debt.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default#breadcrumb",
+        "@id": "https://www.settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Salary Account Defense",
-            "item": "https://settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default"
+            "item": "https://www.settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default#article",
+        "@id": "https://www.settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default#article",
         "headline": "Can a Bank Freeze a Salary Account for a Credit Card Default?",
         "description": "Explains the strict limitations of the Banker's Right of Set-Off and how a bank cannot legally render a borrower destitute.",
         "author": {
@@ -55,22 +55,22 @@ export default function SalaryAccountFreezePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-20",
         "dateModified": "2024-07-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default#product",
+        "@id": "https://www.settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default#product",
         "name": "Legal Defense for Frozen Salary Accounts",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to unfreeze salary accounts and stop banks from illegally deducting your entire paycheck for a credit card default.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -119,7 +119,7 @@ export default function SalaryAccountFreezePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default#faq",
+        "@id": "https://www.settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default#faq",
         "mainEntity": [
           {
             "@type": "Question",

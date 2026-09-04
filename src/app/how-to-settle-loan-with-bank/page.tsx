@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "How to Settle Loan with Bank legally in India | Step-by-Step Guide",
     description: "Learn how to settle loan with bank legally in India. Access expert negotiation tips, latest RBI guidelines 2024-25, and a step-by-step process to resolve debt.",
     alternates: {
-        canonical: "https://settleloans.in/how-to-settle-loan-with-bank",
+        canonical: "https://www.settleloans.in/how-to-settle-loan-with-bank",
     },
 };
 
@@ -16,39 +16,39 @@ export default function HowToSettleLoanWithBankPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/how-to-settle-loan-with-bank#webpage",
-                "url": "https://settleloans.in/how-to-settle-loan-with-bank",
+                "@id": "https://www.settleloans.in/how-to-settle-loan-with-bank#webpage",
+                "url": "https://www.settleloans.in/how-to-settle-loan-with-bank",
                 "name": "How to Settle Loan with Bank legally in India",
                 "description": "Comprehensive guide on the loan settlement process with banks in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/how-to-settle-loan-with-bank#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/how-to-settle-loan-with-bank#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/how-to-settle-loan-with-bank#breadcrumb",
+                "@id": "https://www.settleloans.in/how-to-settle-loan-with-bank#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "How to Settle Loan with Bank", "item": "https://settleloans.in/how-to-settle-loan-with-bank" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "How to Settle Loan with Bank", "item": "https://www.settleloans.in/how-to-settle-loan-with-bank" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/how-to-settle-loan-with-bank#article",
+                "@id": "https://www.settleloans.in/how-to-settle-loan-with-bank#article",
                 "headline": "How to Settle Loan with Bank in India: The Ultimate 2024-25 Guide",
                 "description": "A detailed walkthrough of the loan settlement process, legal rights, and negotiation strategies for Indian borrowers.",
                 "author": { "@type": "Organization", "name": "SettleLoans Research Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-settle-loan-with-bank#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-settle-loan-with-bank#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/how-to-settle-loan-with-bank#product",
+                "@id": "https://www.settleloans.in/how-to-settle-loan-with-bank#product",
                 "name": "Loan Settlement Consultation",
                 "description": "Professional assistance for negotiating loan settlements with Indian banks and NBFCs.",
                 "aggregateRating": {
@@ -75,7 +75,7 @@ export default function HowToSettleLoanWithBankPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/how-to-settle-loan-with-bank#faq",
+                "@id": "https://www.settleloans.in/how-to-settle-loan-with-bank#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Can Bank Recovery Agents Call My References and Relatives for Loan Default?",
   description: "Addresses the massive social embarrassment caused when banks call the references provided during the loan application. Explains the strict RBI Fair Practices Code which prohibits banks from harassing third parties, relatives, or references.",
   alternates: {
-    canonical: "https://settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default",
+    canonical: "https://www.settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default",
   },
 };
 
@@ -17,34 +17,34 @@ export default function RecoveryAgentsHarassmentPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default#webpage",
-        "url": "https://settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default",
+        "@id": "https://www.settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default#webpage",
+        "url": "https://www.settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default",
         "name": "Can Bank Recovery Agents Call My References and Relatives for Loan Default?",
         "description": "Stop bank recovery agents from harassing your references, relatives, and office colleagues. Learn your rights under the RBI Fair Practices Code.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default#breadcrumb",
+        "@id": "https://www.settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Stop Harassment of References",
-            "item": "https://settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default"
+            "item": "https://www.settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default#article",
+        "@id": "https://www.settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default#article",
         "headline": "Can Bank Recovery Agents Call My References and Relatives for Loan Default?",
         "description": "Addresses the massive social embarrassment caused when banks call the references provided during the loan application. Explains the strict RBI Fair Practices Code.",
         "author": {
@@ -56,22 +56,22 @@ export default function RecoveryAgentsHarassmentPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-06-15",
         "dateModified": "2024-06-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default#product",
+        "@id": "https://www.settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default#product",
         "name": "Anti-Harassment Legal Notices",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to send strict cease-and-desist notices to banks for harassing third parties and references.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function RecoveryAgentsHarassmentPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default#faq",
+        "@id": "https://www.settleloans.in/can-bank-recovery-agents-call-references-and-relatives-for-loan-default#faq",
         "mainEntity": [
           {
             "@type": "Question",

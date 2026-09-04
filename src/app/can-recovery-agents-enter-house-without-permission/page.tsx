@@ -54,16 +54,16 @@ export const metadata: Metadata = {
     'police complaint against recovery agent entering house'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/can-recovery-agents-enter-house-without-permission',
+    canonical: 'https://www.settleloans.in/can-recovery-agents-enter-house-without-permission',
   },
   openGraph: {
     title: 'Can Recovery Agents Enter House Without Permission? Legal Rights & RBI Rules',
     description: 'Exhaustive legal analysis on borrower rights against uninvited recovery agent doorstep entry in India. Understand Section 329 BNS criminal trespass, constitutional privacy protections, and RBI Fair Practice Directives.',
-    url: 'https://settleloans.in/can-recovery-agents-enter-house-without-permission',
+    url: 'https://www.settleloans.in/can-recovery-agents-enter-house-without-permission',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/can-recovery-agents-enter-house-without-permission.jpg',
+        url: 'https://www.settleloans.in/images/infographics/can-recovery-agents-enter-house-without-permission.jpg',
         width: 1200,
         height: 675,
         alt: 'Can Recovery Agents Enter House Without Permission Infographic',
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Can Recovery Agents Force Entry Into Your House? Legal Rights & Protections',
     description: 'Facing uninvited loan agents at your front door? Learn why forced entry is criminal trespass under Section 329 BNS / Section 441 IPC and how to lawfully shut the door on recovery personnel.',
-    images: ['https://settleloans.in/images/infographics/can-recovery-agents-enter-house-without-permission.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/can-recovery-agents-enter-house-without-permission.jpg'],
   },
 };
 
@@ -120,74 +120,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/can-recovery-agents-enter-house-without-permission#webpage",
-      "url": "https://settleloans.in/can-recovery-agents-enter-house-without-permission",
+      "@id": "https://www.settleloans.in/can-recovery-agents-enter-house-without-permission#webpage",
+      "url": "https://www.settleloans.in/can-recovery-agents-enter-house-without-permission",
       "name": "Can Recovery Agents Enter House Without Permission? Legal Rights & RBI Rules",
       "description": "Comprehensive legal guide explaining borrower protections against uninvited doorstep entry by bank and NBFC recovery agents in India. Details criminal trespass under Section 329 BNS / Section 441 IPC, Puttaswamy privacy jurisprudence, and RBI Fair Practices Code.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/can-recovery-agents-enter-house-without-permission#breadcrumb"
+        "@id": "https://www.settleloans.in/can-recovery-agents-enter-house-without-permission#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/can-recovery-agents-enter-house-without-permission#breadcrumb",
+      "@id": "https://www.settleloans.in/can-recovery-agents-enter-house-without-permission#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Can Recovery Agents Enter House Without Permission",
-          "item": "https://settleloans.in/can-recovery-agents-enter-house-without-permission"
+          "item": "https://www.settleloans.in/can-recovery-agents-enter-house-without-permission"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/can-recovery-agents-enter-house-without-permission#article",
+      "@id": "https://www.settleloans.in/can-recovery-agents-enter-house-without-permission#article",
       "headline": "Can Recovery Agents Enter House Without Permission? Legal Rights & RBI Rules",
       "description": "An in-depth statutory and constitutional breakdown examining the legal invalidity of forced home entry by loan collection personnel in India. Covers Section 329 Bharatiya Nyaya Sanhita, Section 441 IPC, Article 21 Right to Privacy, and advocate-led debt settlement protocols.",
-      "image": "https://settleloans.in/images/infographics/can-recovery-agents-enter-house-without-permission.jpg",
+      "image": "https://www.settleloans.in/images/infographics/can-recovery-agents-enter-house-without-permission.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-recovery-agents-enter-house-without-permission#webpage"
+        "@id": "https://www.settleloans.in/can-recovery-agents-enter-house-without-permission#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/can-recovery-agents-enter-house-without-permission#service",
+      "@id": "https://www.settleloans.in/can-recovery-agents-enter-house-without-permission#service",
       "name": "SettleLoans - Borrower Legal Defense & Debt Resolution Services",
       "description": "Dedicated legal defense against unconstitutional recovery agent doorstep intrusion, illegal harassment, and criminal trespass, paired with institutional One-Time Settlement (OTS) negotiations across India.",
-      "url": "https://settleloans.in/can-recovery-agents-enter-house-without-permission",
-      "image": "https://settleloans.in/images/infographics/can-recovery-agents-enter-house-without-permission.jpg",
+      "url": "https://www.settleloans.in/can-recovery-agents-enter-house-without-permission",
+      "image": "https://www.settleloans.in/images/infographics/can-recovery-agents-enter-house-without-permission.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -200,9 +200,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -276,7 +276,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/can-recovery-agents-enter-house-without-permission#faq",
+      "@id": "https://www.settleloans.in/can-recovery-agents-enter-house-without-permission#faq",
       "mainEntity": faqsList.map(faq => ({
         "@type": "Question",
         "name": faq.name,

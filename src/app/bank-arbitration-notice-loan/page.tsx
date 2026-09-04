@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "Bank Arbitration Notice for Loan | Legal Rights & Response Guide",
     description: "Received a bank arbitration notice for your loan? Learn about the Arbitration Act 1996, how to challenge biased arbitrators, and your rights in India.",
     alternates: {
-        canonical: "https://settleloans.in/bank-arbitration-notice-loan",
+        canonical: "https://www.settleloans.in/bank-arbitration-notice-loan",
     },
 };
 
@@ -17,34 +17,34 @@ export default function BankArbitrationPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/bank-arbitration-notice-loan#webpage",
-                "url": "https://settleloans.in/bank-arbitration-notice-loan",
+                "@id": "https://www.settleloans.in/bank-arbitration-notice-loan#webpage",
+                "url": "https://www.settleloans.in/bank-arbitration-notice-loan",
                 "name": "Bank Arbitration Notice for Loan India | Legal Defense Guide",
                 "description": "An exhaustive guide for borrowers on responding to bank arbitration notices under the Arbitration and Conciliation Act, 1996.",
-                "breadcrumb": { "@id": "https://settleloans.in/bank-arbitration-notice-loan#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/bank-arbitration-notice-loan#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/bank-arbitration-notice-loan#breadcrumb",
+                "@id": "https://www.settleloans.in/bank-arbitration-notice-loan#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Bank Arbitration Notice guide",
-                        "item": "https://settleloans.in/bank-arbitration-notice-loan"
+                        "item": "https://www.settleloans.in/bank-arbitration-notice-loan"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/bank-arbitration-notice-loan#article",
+                "@id": "https://www.settleloans.in/bank-arbitration-notice-loan#article",
                 "headline": "How to Handle a Bank Arbitration Notice: A Legal Framework",
                 "description": "Detailed analysis of Section 21 and Section 34 of the Arbitration Act in the context of Indian bank loan recovery.",
                 "author": {
@@ -56,16 +56,16 @@ export default function BankArbitrationPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-10",
                 "dateModified": "2024-03-10",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/bank-arbitration-notice-loan#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/bank-arbitration-notice-loan#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/bank-arbitration-notice-loan#product",
+                "@id": "https://www.settleloans.in/bank-arbitration-notice-loan#product",
                 "name": "Arbitration Notice Mediation",
                 "description": "Professional assistance in reviewing arbitration notices and negotiating settlements with banks and NBFCs.",
                 "aggregateRating": {
@@ -76,7 +76,7 @@ export default function BankArbitrationPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/bank-arbitration-notice-loan#faq",
+                "@id": "https://www.settleloans.in/bank-arbitration-notice-loan#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

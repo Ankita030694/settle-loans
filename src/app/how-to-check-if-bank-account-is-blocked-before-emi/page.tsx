@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "How to Check If Bank Account is Blocked Before EMI",
   description: "Terrified your account is blocked and your EMI will bounce tomorrow? Use these 3 secret methods to check your account status instantly and avoid EMI bounce.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi",
+    canonical: "https://www.settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi",
   },
 };
 
@@ -17,34 +17,34 @@ export default function CheckBlockedAccountPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi#webpage",
-        "url": "https://settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi",
+        "@id": "https://www.settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi#webpage",
+        "url": "https://www.settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi",
         "name": "How to Check If Bank Account is Blocked Before EMI",
         "description": "Learn the secret methods to check if your bank account is frozen or blocked before your EMI date to avoid bounce charges and legal consequences.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Check Bank Account Block Status",
-            "item": "https://settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi"
+            "item": "https://www.settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi#article",
+        "@id": "https://www.settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi#article",
         "headline": "How to Check If Bank Account is Blocked Before EMI",
         "description": "Discover immediate methods to check your bank account block status and prevent EMI bounce due to account freeze.",
         "author": {
@@ -56,22 +56,22 @@ export default function CheckBlockedAccountPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-24",
         "dateModified": "2024-07-24",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi#product",
+        "@id": "https://www.settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi#product",
         "name": "Account Freeze Legal Assistance",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to unfreeze blocked bank accounts and prevent EMI bounce penalties.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function CheckBlockedAccountPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi#faq",
+        "@id": "https://www.settleloans.in/how-to-check-if-bank-account-is-blocked-before-emi#faq",
         "mainEntity": [
           {
             "@type": "Question",

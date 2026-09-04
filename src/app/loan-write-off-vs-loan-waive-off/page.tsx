@@ -20,17 +20,17 @@ export const metadata: Metadata = {
     'technical write off meaning in banking',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/loan-write-off-vs-loan-waive-off',
+    canonical: 'https://www.settleloans.in/loan-write-off-vs-loan-waive-off',
   },
   openGraph: {
     title: 'Loan Write-Off vs Loan Waive-Off: Crucial Difference & CIBIL Reality (2026)',
     description:
       'A technical write-off is an internal bank accounting maneuver, not debt forgiveness. Learn your legal rights, recovery exposure, and how to settle written-off debts.',
-    url: 'https://settleloans.in/loan-write-off-vs-loan-waive-off',
+    url: 'https://www.settleloans.in/loan-write-off-vs-loan-waive-off',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/loan-write-off-vs-loan-waive-off.jpg',
+        url: 'https://www.settleloans.in/images/infographics/loan-write-off-vs-loan-waive-off.jpg',
         width: 1200,
         height: 630,
         alt: 'Loan Write-Off vs Loan Waive-Off Comparison Blueprint - SettleLoans',
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     title: 'Loan Write-Off vs Loan Waive-Off: Is Your Debt Actually Forgiven?',
     description:
       'Understand the critical legal difference between bank write-offs and genuine waivers. Discover how to stop recovery harassment and settle your written-off loan.',
-    images: ['https://settleloans.in/images/infographics/loan-write-off-vs-loan-waive-off.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/loan-write-off-vs-loan-waive-off.jpg'],
   },
 };
 
@@ -53,77 +53,77 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/loan-write-off-vs-loan-waive-off#webpage",
-      "url": "https://settleloans.in/loan-write-off-vs-loan-waive-off",
+      "@id": "https://www.settleloans.in/loan-write-off-vs-loan-waive-off#webpage",
+      "url": "https://www.settleloans.in/loan-write-off-vs-loan-waive-off",
       "name": "Loan Write-Off vs Loan Waive-Off: Difference & CIBIL Truth (2026)",
       "description": "Saw 'Written Off' in your CIBIL? Learn why loan write-off is not debt forgiveness. Discover legal differences, bank recovery rules, and how to settle for a clean ₹0 NDC.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/loan-write-off-vs-loan-waive-off#breadcrumb"
+        "@id": "https://www.settleloans.in/loan-write-off-vs-loan-waive-off#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/loan-write-off-vs-loan-waive-off#breadcrumb",
+      "@id": "https://www.settleloans.in/loan-write-off-vs-loan-waive-off#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan Settlement Guides",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Loan Write-Off vs Loan Waive-Off",
-          "item": "https://settleloans.in/loan-write-off-vs-loan-waive-off"
+          "item": "https://www.settleloans.in/loan-write-off-vs-loan-waive-off"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/loan-write-off-vs-loan-waive-off#article",
+      "@id": "https://www.settleloans.in/loan-write-off-vs-loan-waive-off#article",
       "headline": "Loan Write-Off vs. Loan Waive-Off: The Banking Accounting Truth, Legal Liabilities, and CIBIL Reality (2026)",
       "description": "An exhaustive analytical breakdown of the difference between loan write-offs and loan waivers under Reserve Bank of India prudential norms. Explains why a bank write-off does not extinguish borrower legal liability, how recovery agents continue pursuit, and how to execute a formal compromise settlement for complete debt closure.",
-      "image": "https://settleloans.in/images/infographics/loan-write-off-vs-loan-waive-off.jpg",
+      "image": "https://www.settleloans.in/images/infographics/loan-write-off-vs-loan-waive-off.jpg",
       "datePublished": "2026-08-22T11:59:48+05:30",
       "dateModified": "2026-08-22T11:59:48+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-write-off-vs-loan-waive-off#webpage"
+        "@id": "https://www.settleloans.in/loan-write-off-vs-loan-waive-off#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo.png",
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
         "https://twitter.com/settleloans",
@@ -132,11 +132,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/loan-write-off-vs-loan-waive-off#service",
+      "@id": "https://www.settleloans.in/loan-write-off-vs-loan-waive-off#service",
       "name": "SettleLoans - Written-Off Loan Settlement & Dispute Advisory",
       "description": "Specialized legal representation for resolving written-off bank loans, halting aggressive third-party recovery harassment, negotiating one-time compromise settlements, and updating CIBIL records.",
-      "url": "https://settleloans.in/loan-write-off-vs-loan-waive-off",
-      "image": "https://settleloans.in/images/infographics/loan-write-off-vs-loan-waive-off.jpg",
+      "url": "https://www.settleloans.in/loan-write-off-vs-loan-waive-off",
+      "image": "https://www.settleloans.in/images/infographics/loan-write-off-vs-loan-waive-off.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -149,9 +149,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -225,7 +225,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/loan-write-off-vs-loan-waive-off#faq",
+      "@id": "https://www.settleloans.in/loan-write-off-vs-loan-waive-off#faq",
       "mainEntity": [
         {
           "@type": "Question",

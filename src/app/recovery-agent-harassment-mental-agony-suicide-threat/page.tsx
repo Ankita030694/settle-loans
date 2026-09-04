@@ -54,16 +54,16 @@ export const metadata: Metadata = {
     'debt settlement legal defense mental health protection'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat',
+    canonical: 'https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat',
   },
   openGraph: {
     title: 'Recovery Agent Harassment Causing Mental Agony & Despair | Legal Protection',
     description: 'Exhaustive legal and mental health crisis guide for borrowers facing severe recovery agent harassment in India. Understand Section 108 BNS abetment deterrence, Tele-MANAS helpline access, and 24-hour advocate intervention.',
-    url: 'https://settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat',
+    url: 'https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recovery-agent-harassment-mental-agony-suicide-threat.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recovery-agent-harassment-mental-agony-suicide-threat.jpg',
         width: 1200,
         height: 675,
         alt: 'Recovery Agent Harassment Mental Agony and Life Protection Legal Infographic',
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Recovery Agent Harassment Causing Severe Mental Agony? Legal Rights & Life Protection',
     description: 'Pushed to despair by relentless recovery agent calls and threats? Learn how Section 108 BNS protects you, access immediate mental health helplines, and halt all contact through legal counsel.',
-    images: ['https://settleloans.in/images/infographics/recovery-agent-harassment-mental-agony-suicide-threat.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recovery-agent-harassment-mental-agony-suicide-threat.jpg'],
   },
 };
 
@@ -124,75 +124,75 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat#webpage",
-      "url": "https://settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat",
+      "@id": "https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat#webpage",
+      "url": "https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat",
       "name": "Recovery Agent Harassment Causing Mental Agony & Despair | Legal Protection",
       "description": "Comprehensive legal and mental health crisis guide for Indian borrowers facing recovery agent harassment, severe anxiety, and suicidal ideation. Explains Section 108 BNS abetment laws, Tele-MANAS crisis helplines, and 24-hour advocate cease-and-desist protection.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat#breadcrumb"
+        "@id": "https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat#breadcrumb",
+      "@id": "https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Recovery Harassment & Life Protection",
-          "item": "https://settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat"
+          "item": "https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat#article",
+      "@id": "https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat#article",
       "headline": "Recovery Agent Harassment Causing Depression & Mental Agony: Section 108 BNS, Crisis Helplines & 24-Hour Legal Defense",
       "description": "An exhaustive statutory, constitutional, and life-protection guide detailing civil remedies, criminal abetment deterrence under Section 108 BNS / Section 306 IPC, Tele-MANAS crisis resources, and 24-hour advocate intervention against illegal bank collection harassment in India.",
-      "image": "https://settleloans.in/images/infographics/recovery-agent-harassment-mental-agony-suicide-threat.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agent-harassment-mental-agony-suicide-threat.jpg",
       "datePublished": "2026-09-01T10:00:00+05:30",
       "dateModified": "2026-09-01T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat#webpage"
+        "@id": "https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "contactPoint": [
         {
@@ -206,11 +206,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat#service",
+      "@id": "https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat#service",
       "name": "SettleLoans - Anti-Harassment Legal Defense & Debt Resolution Services",
       "description": "Emergency legal intervention, criminal harassment injunctions, RBI Ombudsman filings, and structured One-Time Settlement (OTS) negotiations to protect borrowers against unlawful collection agent intimidation across India.",
-      "url": "https://settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat",
-      "image": "https://settleloans.in/images/infographics/recovery-agent-harassment-mental-agony-suicide-threat.jpg",
+      "url": "https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agent-harassment-mental-agony-suicide-threat.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -223,9 +223,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -299,7 +299,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat#faq",
+      "@id": "https://www.settleloans.in/recovery-agent-harassment-mental-agony-suicide-threat#faq",
       "mainEntity": faqsList.map(faq => ({
         "@type": "Question",
         "name": faq.name,

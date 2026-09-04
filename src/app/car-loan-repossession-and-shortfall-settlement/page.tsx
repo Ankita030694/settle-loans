@@ -54,16 +54,16 @@ export const metadata: Metadata = {
     'icici bank car repossession compensation'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/car-loan-repossession-and-shortfall-settlement',
+    canonical: 'https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement',
   },
   openGraph: {
     title: 'Car Loan Repossession Rules & Shortfall Settlement: Legal Protections & ₹0 Residual OTS Guide',
     description: 'Master the legal defense against illegal vehicle seizure and inflated loan shortfall demands. Understand Supreme Court rulings, RBI Fair Practices Code, auction transparency, and advocate-led ₹0 shortfall settlements.',
-    url: 'https://settleloans.in/car-loan-repossession-and-shortfall-settlement',
+    url: 'https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/car-loan-repossession-and-shortfall-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/car-loan-repossession-and-shortfall-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Car Loan Repossession Rules and Shortfall Settlement Guide India',
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Car Loan Repossession Rules & Shortfall Settlement: Stop Seizure & Settle Residual Debt',
     description: 'Vehicle repossessed by bank musclemen and now facing an aggressive shortfall notice? Discover how to leverage Supreme Court precedents to settle residual vehicle loan debt for ₹0.',
-    images: ['https://settleloans.in/images/infographics/car-loan-repossession-and-shortfall-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/car-loan-repossession-and-shortfall-settlement.jpg'],
   },
 };
 
@@ -85,74 +85,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/car-loan-repossession-and-shortfall-settlement#webpage",
-      "url": "https://settleloans.in/car-loan-repossession-and-shortfall-settlement",
+      "@id": "https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement#webpage",
+      "url": "https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement",
       "name": "Car Loan Repossession Rules and Shortfall Settlement: Supreme Court Protections, Illegal Seizure Defense & ₹0 Residual Settlement Guide",
       "description": "Comprehensive legal and financial manual on car loan repossession laws in India, Supreme Court bans on third-party recovery musclemen, challenging rigged distress auctions, and settling remaining residual shortfall debt to ₹0.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/car-loan-repossession-and-shortfall-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/car-loan-repossession-and-shortfall-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Car Loan Repossession & Shortfall Settlement",
-          "item": "https://settleloans.in/car-loan-repossession-and-shortfall-settlement"
+          "item": "https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/car-loan-repossession-and-shortfall-settlement#article",
+      "@id": "https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement#article",
       "headline": "Car Loan Repossession Rules and Shortfall Settlement: Supreme Court Protections, Illegal Seizure Defense & ₹0 Residual Settlement Guide",
       "description": "An exhaustive analysis of auto loan default jurisprudence in India. Explains Supreme Court prohibitions on strong-arm vehicle recovery, RBI mandatory notice timelines, auction valuation fraud, and strategies for extinguishing post-repossession shortfall claims through advocate representation.",
-      "image": "https://settleloans.in/images/infographics/car-loan-repossession-and-shortfall-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/car-loan-repossession-and-shortfall-settlement.jpg",
       "datePublished": "2026-08-27T10:00:00+05:30",
       "dateModified": "2026-08-27T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/car-loan-repossession-and-shortfall-settlement#webpage"
+        "@id": "https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/car-loan-repossession-and-shortfall-settlement#service",
+      "@id": "https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement#service",
       "name": "SettleLoans - Auto Loan Repossession Defense & Shortfall Settlement Advisory",
       "description": "Specialized legal representation and banking dispute resolution services for borrowers facing illegal car repossession, strong-arm recovery agent harassment, rigged distress vehicle auctions, and residual shortfall claims across Indian banks and NBFCs.",
-      "url": "https://settleloans.in/car-loan-repossession-and-shortfall-settlement",
-      "image": "https://settleloans.in/images/infographics/car-loan-repossession-and-shortfall-settlement.jpg",
+      "url": "https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement",
+      "image": "https://www.settleloans.in/images/infographics/car-loan-repossession-and-shortfall-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -165,9 +165,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -241,7 +241,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/car-loan-repossession-and-shortfall-settlement#faq",
+      "@id": "https://www.settleloans.in/car-loan-repossession-and-shortfall-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -327,12 +327,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

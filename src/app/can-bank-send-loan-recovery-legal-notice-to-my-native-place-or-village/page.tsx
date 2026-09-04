@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Can the Bank Send a Legal Notice to My Native Place or Village?",
   description: "Learn how to stop banks from sending loan recovery notices or agents to your native village or parents' address, and how to redirect all communication legally.",
   alternates: {
-    canonical: "https://settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village",
+    canonical: "https://www.settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village",
   },
 };
 
@@ -28,40 +28,40 @@ export default function NativePlaceNoticePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village#webpage",
-        "url": "https://settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village",
+        "@id": "https://www.settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village#webpage",
+        "url": "https://www.settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village",
         "name": "Can the Bank Send a Legal Notice to My Native Place or Village?",
         "description": "Learn how to stop banks from sending loan recovery notices or agents to your native village or parents' address, and how to redirect all communication legally.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village#breadcrumb",
+        "@id": "https://www.settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Bank Notices",
-            "item": "https://settleloans.in/legal-notice-for-loan-recovery"
+            "item": "https://www.settleloans.in/legal-notice-for-loan-recovery"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Notice to Native Place",
-            "item": "https://settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village"
+            "item": "https://www.settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village#article",
+        "@id": "https://www.settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village#article",
         "headline": "How to Stop Bank Recovery Notices and Agents at Your Native Village",
         "description": "A comprehensive guide on stopping banks from harassing your parents at your permanent address and redirecting legal communication.",
         "author": {
@@ -73,22 +73,22 @@ export default function NativePlaceNoticePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-05-12",
         "dateModified": "2024-05-12",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village#product",
+        "@id": "https://www.settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village#product",
         "name": "Legal Notice Defense & Communication Redirection Services",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Professional legal services to officially redirect bank communication to a lawyer's office, stopping harassment at your permanent address or native village.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -130,7 +130,7 @@ export default function NativePlaceNoticePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village#faq",
+        "@id": "https://www.settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village#faq",
         "mainEntity": [
           {
             "@type": "Question",

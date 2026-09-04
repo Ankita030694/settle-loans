@@ -15,16 +15,16 @@ export const metadata: Metadata = {
     'personal loan default property auction'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/can-bank-seize-property-for-personal-loan',
+    canonical: 'https://www.settleloans.in/can-bank-seize-property-for-personal-loan',
   },
   openGraph: {
     title: 'Can Bank Attach Property for Personal Loan in India? (2026 Legal Reality)',
     description: 'Stop living in fear of asset seizure. Discover why personal loans are 100% unsecured, why SARFAESI Act does not apply, and how Section 60 CPC protects your home.',
-    url: 'https://settleloans.in/can-bank-seize-property-for-personal-loan',
+    url: 'https://www.settleloans.in/can-bank-seize-property-for-personal-loan',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/can-bank-seize-property-for-personal-loan.jpg',
+        url: 'https://www.settleloans.in/images/infographics/can-bank-seize-property-for-personal-loan.jpg',
         width: 1200,
         height: 630,
         alt: 'Can Bank Seize Property for Personal Loan Legal Reality and Asset Protection Blueprint',
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Can Bank Attach Property for Personal Loan in India? Legal Reality Explained',
     description: 'Definitive legal guide on asset attachment: Why personal loans cannot trigger direct property seizure, SARFAESI inapplicability, and borrower defense strategies.',
-    images: ['https://settleloans.in/images/infographics/can-bank-seize-property-for-personal-loan.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/can-bank-seize-property-for-personal-loan.jpg'],
   },
 };
 
@@ -46,74 +46,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/can-bank-seize-property-for-personal-loan#webpage",
-      "url": "https://settleloans.in/can-bank-seize-property-for-personal-loan",
+      "@id": "https://www.settleloans.in/can-bank-seize-property-for-personal-loan#webpage",
+      "url": "https://www.settleloans.in/can-bank-seize-property-for-personal-loan",
       "name": "Can Bank Attach Property for Personal Loan in India? Legal Reality & Rules (2026)",
       "description": "Comprehensive legal and statutory guide addressing borrower fears of property attachment and asset seizure for personal loan defaults in India. Analyzes SARFAESI Act inapplicability, Order 38 CPC attachment before judgment, Section 60 CPC statutory exemptions, and debt settlement strategies.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/can-bank-seize-property-for-personal-loan#breadcrumb"
+        "@id": "https://www.settleloans.in/can-bank-seize-property-for-personal-loan#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/can-bank-seize-property-for-personal-loan#breadcrumb",
+      "@id": "https://www.settleloans.in/can-bank-seize-property-for-personal-loan#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Can Bank Seize Property for Personal Loan",
-          "item": "https://settleloans.in/can-bank-seize-property-for-personal-loan"
+          "item": "https://www.settleloans.in/can-bank-seize-property-for-personal-loan"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/can-bank-seize-property-for-personal-loan#article",
+      "@id": "https://www.settleloans.in/can-bank-seize-property-for-personal-loan#article",
       "headline": "Can Bank Attach Property for Personal Loan in India? Legal Reality & Asset Protection",
       "description": "An exhaustive legal analysis of unsecured debt defaults in India. Explains why SARFAESI Act does not apply to personal loans, how Section 60 CPC protects residential houses and essential belongings, and how structured debt settlement eliminates legal risks.",
-      "image": "https://settleloans.in/images/infographics/can-bank-seize-property-for-personal-loan.jpg",
+      "image": "https://www.settleloans.in/images/infographics/can-bank-seize-property-for-personal-loan.jpg",
       "datePublished": "2026-08-22T11:51:02+05:30",
       "dateModified": "2026-08-22T11:51:02+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-bank-seize-property-for-personal-loan#webpage"
+        "@id": "https://www.settleloans.in/can-bank-seize-property-for-personal-loan#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/can-bank-seize-property-for-personal-loan#service",
+      "@id": "https://www.settleloans.in/can-bank-seize-property-for-personal-loan#service",
       "name": "SettleLoans - Personal Loan Asset Protection & Debt Settlement",
       "description": "Empaneled advocate legal defense, protection against unlawful property seizure threats, civil court notice representation, and structured One-Time Settlement (OTS) negotiation across India.",
-      "url": "https://settleloans.in/can-bank-seize-property-for-personal-loan",
-      "image": "https://settleloans.in/images/infographics/can-bank-seize-property-for-personal-loan.jpg",
+      "url": "https://www.settleloans.in/can-bank-seize-property-for-personal-loan",
+      "image": "https://www.settleloans.in/images/infographics/can-bank-seize-property-for-personal-loan.jpg",
       "telephone": "+91-98212-19819",
       "priceRange": "₹₹",
       "address": {
@@ -126,9 +126,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -202,7 +202,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/can-bank-seize-property-for-personal-loan#faq",
+      "@id": "https://www.settleloans.in/can-bank-seize-property-for-personal-loan#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -280,12 +280,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

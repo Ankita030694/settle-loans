@@ -9,39 +9,39 @@ export default function GoldLoanSettlementProcessPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/gold-loan-settlement-process#webpage",
-                "url": "https://settleloans.in/gold-loan-settlement-process",
+                "@id": "https://www.settleloans.in/gold-loan-settlement-process#webpage",
+                "url": "https://www.settleloans.in/gold-loan-settlement-process",
                 "name": "Gold Loan Settlement & Auction Process India 2024-25 | RBI Guidelines",
                 "description": "The complete guide to gold loan settlement, auction rules, and default procedures in India. Learn about LTV margin calls, 90% reserve price rules, and reclaiming surplus funds.",
-                "breadcrumb": { "@id": "https://settleloans.in/gold-loan-settlement-process#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/gold-loan-settlement-process#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/gold-loan-settlement-process#breadcrumb",
+                "@id": "https://www.settleloans.in/gold-loan-settlement-process#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Gold Loan Settlement", "item": "https://settleloans.in/gold-loan-settlement-process" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Gold Loan Settlement", "item": "https://www.settleloans.in/gold-loan-settlement-process" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/gold-loan-settlement-process#article",
+                "@id": "https://www.settleloans.in/gold-loan-settlement-process#article",
                 "headline": "Gold Loan Default: The 2024 Master Guide to Settlement and Auctions",
                 "description": "An exhaustive walkthrough of how gold loans are settled, auctioned, and closed in India, including the latest 2024-25 RBI borrower protection norms.",
                 "author": { "@type": "Organization", "name": "SettleLoans Gold Desk" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/gold-loan-settlement-process#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/gold-loan-settlement-process#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/gold-loan-settlement-process#product",
+                "@id": "https://www.settleloans.in/gold-loan-settlement-process#product",
                 "name": "Gold Auction Intervention Service",
                 "description": "Strategic negotiation to stop gold auctions and secure a settlement waiver for NPA gold loan accounts.",
                 "aggregateRating": {
@@ -61,7 +61,7 @@ export default function GoldLoanSettlementProcessPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/gold-loan-settlement-process#faq",
+                "@id": "https://www.settleloans.in/gold-loan-settlement-process#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

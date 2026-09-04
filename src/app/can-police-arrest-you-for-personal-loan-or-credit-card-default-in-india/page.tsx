@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Can Police Arrest You for Defaulting on a Personal Loan or Credit Card in India?",
   description: "Debunking the myth: Understand your legal rights regarding police arrest for loan default in India, Section 420 IPC, and how to stop illegal recovery threats.",
   alternates: {
-    canonical: "https://settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india",
+    canonical: "https://www.settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india",
   },
 };
 
@@ -16,34 +16,34 @@ export default function PoliceArrestForLoanDefaultPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india#webpage",
-        "url": "https://settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india",
+        "@id": "https://www.settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india#webpage",
+        "url": "https://www.settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india",
         "name": "Can Police Arrest You for Defaulting on a Personal Loan or Credit Card in India?",
         "description": "A reassuring but legally precise guide debunking the myth that unsecured loan default is a criminal offense.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india#breadcrumb",
+        "@id": "https://www.settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Can Police Arrest You for Default",
-            "item": "https://settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india"
+            "item": "https://www.settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india#article",
+        "@id": "https://www.settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india#article",
         "headline": "Can Police Arrest You for Defaulting on a Personal Loan or Credit Card in India?",
         "description": "Explains the difference between civil liability and criminal fraud (Section 420 IPC), and how recovery agents illegally use the threat of police to extort money.",
         "author": {
@@ -55,22 +55,22 @@ export default function PoliceArrestForLoanDefaultPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2025-01-01",
         "dateModified": "2025-01-01",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india#product",
+        "@id": "https://www.settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india#product",
         "name": "Legal Protection from Recovery Agents",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Stop illegal intimidation and police threats from recovery agents with professional legal representation and debt settlement.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -112,7 +112,7 @@ export default function PoliceArrestForLoanDefaultPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india#faq",
+        "@id": "https://www.settleloans.in/can-police-arrest-you-for-personal-loan-or-credit-card-default-in-india#faq",
         "mainEntity": [
           {
             "@type": "Question",

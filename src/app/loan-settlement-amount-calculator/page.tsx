@@ -29,39 +29,39 @@ export default function LoanSettlementCalculatorPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/loan-settlement-amount-calculator#webpage",
-                "url": "https://settleloans.in/loan-settlement-amount-calculator",
+                "@id": "https://www.settleloans.in/loan-settlement-amount-calculator#webpage",
+                "url": "https://www.settleloans.in/loan-settlement-amount-calculator",
                 "name": "Loan Settlement Amount Calculator India | Targeted Estimator",
                 "description": "Calculate your potential loan settlement range using our interactive estimator. Based on RBI guidelines and bank negotiation protocols.",
-                "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-amount-calculator#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-amount-calculator#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/loan-settlement-amount-calculator#breadcrumb",
+                "@id": "https://www.settleloans.in/loan-settlement-amount-calculator#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Loan Settlement Calculator", "item": "https://settleloans.in/loan-settlement-amount-calculator" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Loan Settlement Calculator", "item": "https://www.settleloans.in/loan-settlement-amount-calculator" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/loan-settlement-amount-calculator#article",
+                "@id": "https://www.settleloans.in/loan-settlement-amount-calculator#article",
                 "headline": "Loan Settlement Amount Calculator: Estimating Your Debt Haircut in 2024-25",
                 "description": "A comprehensive guide on how loan settlement amounts are calculated by Indian banks, including the impact of interest and penalties.",
                 "author": { "@type": "Organization", "name": "SettleLoans Fin-Tech Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-amount-calculator#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-amount-calculator#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/loan-settlement-amount-calculator#product",
+                "@id": "https://www.settleloans.in/loan-settlement-amount-calculator#product",
                 "name": "Targeted Settlement Estimator",
                 "description": "Interactive tool for calculating loan settlement ranges for Indian borrowers.",
                 "aggregateRating": {
@@ -81,7 +81,7 @@ export default function LoanSettlementCalculatorPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/loan-settlement-amount-calculator#faq",
+                "@id": "https://www.settleloans.in/loan-settlement-amount-calculator#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

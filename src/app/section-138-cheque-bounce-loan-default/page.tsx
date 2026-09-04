@@ -5,16 +5,16 @@ export const metadata: Metadata = {
   title: 'Cheque Bounce Case for Personal Loan Default? Section 138 Defense & Settlement (2026)',
   description: 'Facing a Section 138 cheque bounce case for personal loan default? Discover legal defense against bounced security cheques (PDC), 15-day notice response, court bail procedures, and debt settlement options.',
   alternates: {
-    canonical: 'https://settleloans.in/section-138-cheque-bounce-loan-default',
+    canonical: 'https://www.settleloans.in/section-138-cheque-bounce-loan-default',
   },
   openGraph: {
     title: 'Cheque Bounce Case for Personal Loan Default? Section 138 Legal Defense & Settlement',
     description: 'Did your bank deposit an undated security cheque (PDC) that bounced? Learn legal defenses against Section 138 NI Act, 15-day notice reply strategies, court bail, and OTS loan settlement.',
-    url: 'https://settleloans.in/section-138-cheque-bounce-loan-default',
+    url: 'https://www.settleloans.in/section-138-cheque-bounce-loan-default',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/section-138-cheque-bounce-loan-default.jpg',
+        url: 'https://www.settleloans.in/images/infographics/section-138-cheque-bounce-loan-default.jpg',
         width: 1200,
         height: 630,
         alt: 'Section 138 Cheque Bounce Personal Loan Default Legal Defense and OTS Blueprint',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Section 138 Cheque Bounce for Personal Loan Default: Legal Rights & Settlement',
     description: 'Bounced security cheque for personal loan? Understand statutory 15-day notices, bailable court procedures, Supreme Court rulings, and compounding through One-Time Settlement (OTS).',
-    images: ['https://settleloans.in/images/infographics/section-138-cheque-bounce-loan-default.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/section-138-cheque-bounce-loan-default.jpg'],
   },
 };
 
@@ -36,74 +36,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/section-138-cheque-bounce-loan-default#webpage",
-      "url": "https://settleloans.in/section-138-cheque-bounce-loan-default",
+      "@id": "https://www.settleloans.in/section-138-cheque-bounce-loan-default#webpage",
+      "url": "https://www.settleloans.in/section-138-cheque-bounce-loan-default",
       "name": "Cheque Bounce Case for Personal Loan Default? Section 138 Defense & Settlement (2026)",
       "description": "Comprehensive legal defense guide for borrowers facing Section 138 Negotiable Instruments Act cheque bounce cases due to personal loan default in India. Covers security cheques, 15-day legal notice reply, bail, and OTS settlement.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/section-138-cheque-bounce-loan-default#breadcrumb"
+        "@id": "https://www.settleloans.in/section-138-cheque-bounce-loan-default#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/section-138-cheque-bounce-loan-default#breadcrumb",
+      "@id": "https://www.settleloans.in/section-138-cheque-bounce-loan-default#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Section 138 Cheque Bounce Loan Default",
-          "item": "https://settleloans.in/section-138-cheque-bounce-loan-default"
+          "item": "https://www.settleloans.in/section-138-cheque-bounce-loan-default"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/section-138-cheque-bounce-loan-default#article",
+      "@id": "https://www.settleloans.in/section-138-cheque-bounce-loan-default#article",
       "headline": "Section 138 Cheque Bounce Case for Personal Loan Default: Complete Legal Defense & Settlement Guide",
       "description": "An exhaustive, authoritative legal analysis on handling Section 138 NI Act criminal proceedings for personal loan default in India. Explains statutory notice timelines, security cheque defense, Supreme Court precedents, bailable court procedures, and compounding through One-Time Settlement (OTS).",
-      "image": "https://settleloans.in/images/infographics/section-138-cheque-bounce-loan-default.jpg",
+      "image": "https://www.settleloans.in/images/infographics/section-138-cheque-bounce-loan-default.jpg",
       "datePublished": "2026-08-20T13:10:56+05:30",
       "dateModified": "2026-08-20T13:10:56+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/section-138-cheque-bounce-loan-default#webpage"
+        "@id": "https://www.settleloans.in/section-138-cheque-bounce-loan-default#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/section-138-cheque-bounce-loan-default#service",
+      "@id": "https://www.settleloans.in/section-138-cheque-bounce-loan-default#service",
       "name": "SettleLoans - Section 138 Legal Defense & Cheque Bounce Loan Settlement",
       "description": "Expert advocate legal defense, statutory notice response, bailable warrant defense, and compounding of Section 138 cheque bounce criminal cases through structured One-Time Settlement (OTS) in India.",
-      "url": "https://settleloans.in/section-138-cheque-bounce-loan-default",
-      "image": "https://settleloans.in/images/infographics/section-138-cheque-bounce-loan-default.jpg",
+      "url": "https://www.settleloans.in/section-138-cheque-bounce-loan-default",
+      "image": "https://www.settleloans.in/images/infographics/section-138-cheque-bounce-loan-default.jpg",
       "telephone": "+91-98212-19819",
       "priceRange": "₹₹",
       "address": {
@@ -116,9 +116,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -192,7 +192,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/section-138-cheque-bounce-loan-default#faq",
+      "@id": "https://www.settleloans.in/section-138-cheque-bounce-loan-default#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -278,12 +278,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

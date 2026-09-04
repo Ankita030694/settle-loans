@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Mastering Loan Settlement: Tips to Negotiate Your Debt Wisely",
   description: "Unlock the secrets to mastering loan settlement with our expert tips! Negotiate your debt wisely and gain financial freedom today.",
   alternates: {
-    canonical: "https://settleloans.in/mastering-loan-settlement",
+    canonical: "https://www.settleloans.in/mastering-loan-settlement",
   },
 };
 
@@ -16,34 +16,34 @@ export default function MasteringLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/mastering-loan-settlement#webpage",
-        "url": "https://settleloans.in/mastering-loan-settlement",
+        "@id": "https://www.settleloans.in/mastering-loan-settlement#webpage",
+        "url": "https://www.settleloans.in/mastering-loan-settlement",
         "name": "Mastering Loan Settlement: Tips to Negotiate Your Debt Wisely",
         "description": "Comprehensive guide to mastering the art of debt negotiation and loan settlement in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/mastering-loan-settlement#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/mastering-loan-settlement#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/mastering-loan-settlement#breadcrumb",
+        "@id": "https://www.settleloans.in/mastering-loan-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Mastering Loan Settlement",
-            "item": "https://settleloans.in/mastering-loan-settlement"
+            "item": "https://www.settleloans.in/mastering-loan-settlement"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/mastering-loan-settlement#article",
+        "@id": "https://www.settleloans.in/mastering-loan-settlement#article",
         "headline": "Mastering Loan Settlement: Tips to Negotiate Your Debt Wisely",
         "description": "Unlock the secrets to mastering loan settlement with our expert tips! Negotiate your debt wisely and gain financial freedom today.",
         "author": {
@@ -55,12 +55,12 @@ export default function MasteringLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-02-19",
         "dateModified": "2026-02-19",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/mastering-loan-settlement#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/mastering-loan-settlement#webpage" }
       },
       {
         "@type": "FAQPage",

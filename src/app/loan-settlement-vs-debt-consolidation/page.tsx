@@ -20,17 +20,17 @@ export const metadata: Metadata = {
     'multiple loan default one time settlement',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/loan-settlement-vs-debt-consolidation',
+    canonical: 'https://www.settleloans.in/loan-settlement-vs-debt-consolidation',
   },
   openGraph: {
     title: 'Personal Loan Settlement vs Debt Consolidation: Financial Planning Guide (2026)',
     description:
       'Should you take one large consolidation loan or hire advocates to settle multiple debts with 40%–70% haircuts? In-depth legal, financial, and credit analysis under RBI guidelines.',
-    url: 'https://settleloans.in/loan-settlement-vs-debt-consolidation',
+    url: 'https://www.settleloans.in/loan-settlement-vs-debt-consolidation',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/loan-settlement-vs-debt-consolidation.jpg',
+        url: 'https://www.settleloans.in/images/infographics/loan-settlement-vs-debt-consolidation.jpg',
         width: 1200,
         height: 630,
         alt: 'Personal Loan Settlement vs Debt Consolidation Guide - SettleLoans',
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     title: 'Personal Loan Settlement vs Debt Consolidation: Which Strategy Solves Multi-Debt Traps?',
     description:
       'Compare 1 single monthly EMI vs one-time OTS haircuts. Discover CIBIL bureau impacts, total interest costs, eligibility hurdles, and RBI legal protections.',
-    images: ['https://settleloans.in/images/infographics/loan-settlement-vs-debt-consolidation.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/loan-settlement-vs-debt-consolidation.jpg'],
   },
 };
 
@@ -53,77 +53,77 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/loan-settlement-vs-debt-consolidation#webpage",
-      "url": "https://settleloans.in/loan-settlement-vs-debt-consolidation",
+      "@id": "https://www.settleloans.in/loan-settlement-vs-debt-consolidation#webpage",
+      "url": "https://www.settleloans.in/loan-settlement-vs-debt-consolidation",
       "name": "Personal Loan Settlement vs Debt Consolidation: Decision Guide (2026)",
       "description": "Confused between loan settlement vs debt consolidation? Compare monthly EMI relief vs 40%–70% debt haircuts, CIBIL score impact, eligibility, costs, and RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/loan-settlement-vs-debt-consolidation#breadcrumb"
+        "@id": "https://www.settleloans.in/loan-settlement-vs-debt-consolidation#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/loan-settlement-vs-debt-consolidation#breadcrumb",
+      "@id": "https://www.settleloans.in/loan-settlement-vs-debt-consolidation#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Financial Planning & Settlement Guides",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Loan Settlement vs Debt Consolidation",
-          "item": "https://settleloans.in/loan-settlement-vs-debt-consolidation"
+          "item": "https://www.settleloans.in/loan-settlement-vs-debt-consolidation"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/loan-settlement-vs-debt-consolidation#article",
+      "@id": "https://www.settleloans.in/loan-settlement-vs-debt-consolidation#article",
       "headline": "Personal Loan Settlement vs Debt Consolidation: The Complete Financial Planning & Legal Decision Matrix (2026)",
       "description": "An exhaustive, authoritative comparison between taking a debt consolidation loan and negotiating One-Time Settlements (OTS) across multiple personal loans and credit cards in India. Evaluates eligibility barriers, total repayment cash outgo, CIBIL reporting codes, RBI regulatory frameworks, and long-term credit recovery.",
-      "image": "https://settleloans.in/images/infographics/loan-settlement-vs-debt-consolidation.jpg",
+      "image": "https://www.settleloans.in/images/infographics/loan-settlement-vs-debt-consolidation.jpg",
       "datePublished": "2026-08-20T14:35:51+05:30",
       "dateModified": "2026-08-20T14:35:51+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-vs-debt-consolidation#webpage"
+        "@id": "https://www.settleloans.in/loan-settlement-vs-debt-consolidation#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo.png",
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
         "https://twitter.com/settleloans",
@@ -132,11 +132,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/loan-settlement-vs-debt-consolidation#service",
+      "@id": "https://www.settleloans.in/loan-settlement-vs-debt-consolidation#service",
       "name": "SettleLoans - Debt Settlement & Multi-Loan Dispute Advisory",
       "description": "Comprehensive debt relief analysis, multi-lender compromise settlement negotiations, anti-harassment legal protection, and credit score rehabilitation services across India.",
-      "url": "https://settleloans.in/loan-settlement-vs-debt-consolidation",
-      "image": "https://settleloans.in/images/infographics/loan-settlement-vs-debt-consolidation.jpg",
+      "url": "https://www.settleloans.in/loan-settlement-vs-debt-consolidation",
+      "image": "https://www.settleloans.in/images/infographics/loan-settlement-vs-debt-consolidation.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -149,9 +149,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -225,7 +225,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/loan-settlement-vs-debt-consolidation#faq",
+      "@id": "https://www.settleloans.in/loan-settlement-vs-debt-consolidation#faq",
       "mainEntity": [
         {
           "@type": "Question",

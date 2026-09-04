@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Does Settlement Erase the Debt Completely? | The Unspoken Truth - SettleLoans",
   description: "Wondering if loan settlement clears your debt completely? Discover the impact on CIBIL, the difference between 'Settled' & 'Closed', and how to rebuild your credit after settlement.",
   alternates: {
-    canonical: "https://settleloans.in/does-settlement-erase-the-debt-completely",
+    canonical: "https://www.settleloans.in/does-settlement-erase-the-debt-completely",
   },
 };
 
@@ -16,34 +16,34 @@ export default function DebtSettlementTruthPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/does-settlement-erase-the-debt-completely#webpage",
-        "url": "https://settleloans.in/does-settlement-erase-the-debt-completely",
+        "@id": "https://www.settleloans.in/does-settlement-erase-the-debt-completely#webpage",
+        "url": "https://www.settleloans.in/does-settlement-erase-the-debt-completely",
         "name": "Does Settlement Erase the Debt Completely? | The Unspoken Truth",
         "description": "A comprehensive guide on whether loan settlement erases debt completely and its long-term impact on credit history in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/does-settlement-erase-the-debt-completely#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/does-settlement-erase-the-debt-completely#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/does-settlement-erase-the-debt-completely#breadcrumb",
+        "@id": "https://www.settleloans.in/does-settlement-erase-the-debt-completely#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Does Settlement Erase Debt Completely?",
-            "item": "https://settleloans.in/does-settlement-erase-the-debt-completely"
+            "item": "https://www.settleloans.in/does-settlement-erase-the-debt-completely"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/does-settlement-erase-the-debt-completely#article",
+        "@id": "https://www.settleloans.in/does-settlement-erase-the-debt-completely#article",
         "headline": "Does Settlement Erase the Debt Completely? Everything You Need to Know",
         "description": "Learn the reality of loan settlement in India. We explain why it isn't a complete debt erasure and how it affects your financial future for 7 years.",
         "author": {
@@ -55,16 +55,16 @@ export default function DebtSettlementTruthPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-04-18",
         "dateModified": "2024-04-18",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/does-settlement-erase-the-debt-completely#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/does-settlement-erase-the-debt-completely#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/does-settlement-erase-the-debt-completely#faq",
+        "@id": "https://www.settleloans.in/does-settlement-erase-the-debt-completely#faq",
         "mainEntity": [
           {
             "@type": "Question",

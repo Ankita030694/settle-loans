@@ -54,16 +54,16 @@ export const metadata: Metadata = {
     'how to stop recovery agents threatening asset seizure'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/can-recovery-agents-take-household-furniture-or-gold',
+    canonical: 'https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold',
   },
   openGraph: {
     title: 'Can Recovery Agents Seize Household Furniture or Gold? Legal Rights & RBI Rules',
     description: 'Definitive legal analysis on property seizure threats by loan recovery agents in India. Learn why recovery agents have zero legal authority to touch household items or personal jewelry, Section 60 CPC exemptions, and RBI fair practice protections.',
-    url: 'https://settleloans.in/can-recovery-agents-take-household-furniture-or-gold',
+    url: 'https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/can-recovery-agents-take-household-furniture-or-gold.jpg',
+        url: 'https://www.settleloans.in/images/infographics/can-recovery-agents-take-household-furniture-or-gold.jpg',
         width: 1200,
         height: 675,
         alt: 'Can Recovery Agents Seize Household Furniture or Gold Infographic',
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Can Recovery Agents Seize Household Items or Gold for Personal Loan Default?',
     description: 'Agents threatening to bring a truck to seize TV, fridge, furniture, or gold jewelry? Understand your absolute statutory protections under Indian civil law and how advocates stop illegal recovery intimidation.',
-    images: ['https://settleloans.in/images/infographics/can-recovery-agents-take-household-furniture-or-gold.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/can-recovery-agents-take-household-furniture-or-gold.jpg'],
   },
 };
 
@@ -85,74 +85,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/can-recovery-agents-take-household-furniture-or-gold#webpage",
-      "url": "https://settleloans.in/can-recovery-agents-take-household-furniture-or-gold",
+      "@id": "https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold#webpage",
+      "url": "https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold",
       "name": "Can Recovery Agents Seize Household Furniture or Gold? Legal Rights & RBI Rules",
       "description": "Exhaustive legal guide on borrower protections against illegal property seizure by recovery agents for personal loans and credit card defaults in India. Covers Section 60 CPC, SARFAESI limitations, RBI Master Directions, and debt settlement strategies.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/can-recovery-agents-take-household-furniture-or-gold#breadcrumb"
+        "@id": "https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/can-recovery-agents-take-household-furniture-or-gold#breadcrumb",
+      "@id": "https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Can Recovery Agents Take Household Furniture or Gold",
-          "item": "https://settleloans.in/can-recovery-agents-take-household-furniture-or-gold"
+          "item": "https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/can-recovery-agents-take-household-furniture-or-gold#article",
+      "@id": "https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold#article",
       "headline": "Can Recovery Agents Seize Household Furniture or Gold? Legal Rights & RBI Rules",
       "description": "An exhaustive analytical examination of Indian civil and banking jurisprudence regarding movable property seizure for unsecured personal loan and credit card defaults. Details Section 60 of the Code of Civil Procedure, SARFAESI Act boundaries, RBI Fair Practices Code, and advocate-led debt resolution protocols.",
-      "image": "https://settleloans.in/images/infographics/can-recovery-agents-take-household-furniture-or-gold.jpg",
+      "image": "https://www.settleloans.in/images/infographics/can-recovery-agents-take-household-furniture-or-gold.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-recovery-agents-take-household-furniture-or-gold#webpage"
+        "@id": "https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/can-recovery-agents-take-household-furniture-or-gold#service",
+      "@id": "https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold#service",
       "name": "SettleLoans - Borrower Protection & Debt Resolution Services",
       "description": "Comprehensive legal defense against unlawful recovery agent harassment, illegal asset seizure threats, and extortion, combined with structured One-Time Settlement (OTS) negotiation across India.",
-      "url": "https://settleloans.in/can-recovery-agents-take-household-furniture-or-gold",
-      "image": "https://settleloans.in/images/infographics/can-recovery-agents-take-household-furniture-or-gold.jpg",
+      "url": "https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold",
+      "image": "https://www.settleloans.in/images/infographics/can-recovery-agents-take-household-furniture-or-gold.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -165,9 +165,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -241,7 +241,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/can-recovery-agents-take-household-furniture-or-gold#faq",
+      "@id": "https://www.settleloans.in/can-recovery-agents-take-household-furniture-or-gold#faq",
       "mainEntity": [
         {
           "@type": "Question",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Loan Default EMI Foreclosure Assistance India | Stop Bank Action",
     description: "Get professional legal help for loan default and EMI foreclosure in India. Understand your rights under RBI guidelines, stop SARFAESI possession, and explore loan restructuring.",
     alternates: {
-        canonical: "https://settleloans.in/loan-default-emi-foreclosure-assistance",
+        canonical: "https://www.settleloans.in/loan-default-emi-foreclosure-assistance",
     },
 };
 
@@ -16,34 +16,34 @@ export default function LoanDefaultEMIAsistancePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/loan-default-emi-foreclosure-assistance#webpage",
-                "url": "https://settleloans.in/loan-default-emi-foreclosure-assistance",
+                "@id": "https://www.settleloans.in/loan-default-emi-foreclosure-assistance#webpage",
+                "url": "https://www.settleloans.in/loan-default-emi-foreclosure-assistance",
                 "name": "Loan Default EMI Foreclosure Assistance India | Stop Bank Action",
                 "description": "Comprehensive legal guidance for borrowers facing loan default, EMI arrears, and foreclosure proceedings in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/loan-default-emi-foreclosure-assistance#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/loan-default-emi-foreclosure-assistance#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/loan-default-emi-foreclosure-assistance#breadcrumb",
+                "@id": "https://www.settleloans.in/loan-default-emi-foreclosure-assistance#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Loan Default & Foreclosure Assistance",
-                        "item": "https://settleloans.in/loan-default-emi-foreclosure-assistance"
+                        "item": "https://www.settleloans.in/loan-default-emi-foreclosure-assistance"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/loan-default-emi-foreclosure-assistance#article",
+                "@id": "https://www.settleloans.in/loan-default-emi-foreclosure-assistance#article",
                 "headline": "Loan Default and EMI Foreclosure Assistance: Your Legal Rights in India",
                 "description": "A deep dive into surviving financial distress, stopping foreclosure, and exercising borrower rights under RBI and SARFAESI laws.",
                 "author": {
@@ -55,16 +55,16 @@ export default function LoanDefaultEMIAsistancePage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-06",
                 "dateModified": "2024-03-06",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/loan-default-emi-foreclosure-assistance#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-default-emi-foreclosure-assistance#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/loan-default-emi-foreclosure-assistance#product",
+                "@id": "https://www.settleloans.in/loan-default-emi-foreclosure-assistance#product",
                 "name": "Foreclosure Defense & EMI Assistance",
                 "description": "Specialized legal services to stop bank foreclosure and provide relief for loan defaulters.",
                 "aggregateRating": {
@@ -105,7 +105,7 @@ export default function LoanDefaultEMIAsistancePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/loan-default-emi-foreclosure-assistance#faq",
+                "@id": "https://www.settleloans.in/loan-default-emi-foreclosure-assistance#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

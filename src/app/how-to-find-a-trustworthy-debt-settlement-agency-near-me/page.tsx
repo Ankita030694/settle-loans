@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How to Find a Trustworthy Debt Settlement Agency Near Me in India",
   description: "Looking for a reliable debt settlement agency nearby? Our expert guide helps you find the best local and national providers like AMA Legal Solutions, CredSettle, and SettleLoans.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me",
+    canonical: "https://www.settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me",
   },
 };
 
@@ -67,39 +67,39 @@ export default function FindAgencyNearMePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me#webpage",
-        "url": "https://settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me",
+        "@id": "https://www.settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me#webpage",
+        "url": "https://www.settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me",
         "name": "How to Find a Trustworthy Debt Settlement Agency Near Me in India",
         "description": "Expert guide on finding and verifying local debt settlement agencies in India for effective financial relief.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Find Trustworthy Agency Near Me", "item": "https://settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Find Trustworthy Agency Near Me", "item": "https://www.settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me#article",
+        "@id": "https://www.settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me#article",
         "headline": "How to Find a Trustworthy Debt Settlement Agency Near Me in India",
         "description": "Comprehensive strategies for locating and vetting the best debt settlement agencies in your local area and across India.",
         "author": { "@type": "Organization", "name": "SettleLoans Content Team" },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+          "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
         },
         "datePublished": "2024-03-16",
         "dateModified": "2024-03-16",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me#product",
+        "@id": "https://www.settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me#product",
         "name": "Local Debt Settlement Search",
         "description": "Expert assistance in locating reliable debt settlement help in your vicinity.",
         "aggregateRating": {
@@ -126,7 +126,7 @@ export default function FindAgencyNearMePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me#faq",
+        "@id": "https://www.settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me#faq",
         "mainEntity": faqs.map(faq => ({
           "@type": "Question",
           "name": faq.q,

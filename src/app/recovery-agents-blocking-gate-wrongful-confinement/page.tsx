@@ -55,16 +55,16 @@ export const metadata: Metadata = {
     'how to file non bailable criminal complaint recovery agent'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/recovery-agents-blocking-gate-wrongful-confinement',
+    canonical: 'https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement',
   },
   openGraph: {
     title: 'Recovery Agent Blocking Door or Car From Leaving? Legal Rights & Criminal Action',
     description: 'Exhaustive legal analysis on borrower protections against physical obstruction, vehicle blocking, and key snatching by debt recovery agents. Detailed guide on Section 127 BNS, Section 340 IPC, Article 21 rights, and police FIR filing.',
-    url: 'https://settleloans.in/recovery-agents-blocking-gate-wrongful-confinement',
+    url: 'https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recovery-agents-blocking-gate-wrongful-confinement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recovery-agents-blocking-gate-wrongful-confinement.jpg',
         width: 1200,
         height: 675,
         alt: 'Recovery Agents Blocking Gate & Wrongful Confinement Infographic',
@@ -77,7 +77,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Recovery Agent Blocking Door or Car? Sec 127 BNS & Police FIR Guide',
     description: 'Facing muscle tactics from loan collection agents? Learn why blocking doors or cars constitutes criminal wrongful confinement under Section 127 BNS / Section 340 IPC and how to take decisive legal action.',
-    images: ['https://settleloans.in/images/infographics/recovery-agents-blocking-gate-wrongful-confinement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recovery-agents-blocking-gate-wrongful-confinement.jpg'],
   },
 };
 
@@ -121,74 +121,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recovery-agents-blocking-gate-wrongful-confinement#webpage",
-      "url": "https://settleloans.in/recovery-agents-blocking-gate-wrongful-confinement",
+      "@id": "https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement#webpage",
+      "url": "https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement",
       "name": "Recovery Agent Blocking Door or Car From Leaving? Sec 127 BNS & Legal Action",
       "description": "Exhaustive legal breakdown of borrower rights against physical obstruction, gate blocking, vehicle immobilization, and key snatching by recovery agents under Section 126 & 127 BNS, Section 339 & 340 IPC, and RBI regulations.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recovery-agents-blocking-gate-wrongful-confinement#breadcrumb"
+        "@id": "https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recovery-agents-blocking-gate-wrongful-confinement#breadcrumb",
+      "@id": "https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Recovery Agent Blocking Gate Wrongful Confinement",
-          "item": "https://settleloans.in/recovery-agents-blocking-gate-wrongful-confinement"
+          "item": "https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recovery-agents-blocking-gate-wrongful-confinement#article",
+      "@id": "https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement#article",
       "headline": "Recovery Agent Blocking Door or Car From Leaving? Sec 127 BNS, Wrongful Confinement & Police Action",
       "description": "Comprehensive analysis of penal statutes prohibiting physical confinement, vehicle obstruction, and key snatching by debt collection personnel. Covers Sections 126 & 127 BNS, Article 21 constitutional liberty, RBI outsourcing rules, and FIR registration.",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-blocking-gate-wrongful-confinement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-blocking-gate-wrongful-confinement.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agents-blocking-gate-wrongful-confinement#webpage"
+        "@id": "https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recovery-agents-blocking-gate-wrongful-confinement#service",
+      "@id": "https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement#service",
       "name": "SettleLoans - Borrower Anti-Harassment & Legal Debt Resolution Services",
       "description": "Nationwide legal defense against recovery agent muscle tactics, physical obstruction, wrongful confinement, and illegal vehicle seizure, combined with institutional One-Time Settlement (OTS) negotiations.",
-      "url": "https://settleloans.in/recovery-agents-blocking-gate-wrongful-confinement",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-blocking-gate-wrongful-confinement.jpg",
+      "url": "https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-blocking-gate-wrongful-confinement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -201,9 +201,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -277,7 +277,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recovery-agents-blocking-gate-wrongful-confinement#faq",
+      "@id": "https://www.settleloans.in/recovery-agents-blocking-gate-wrongful-confinement#faq",
       "mainEntity": faqsList.map(faq => ({
         "@type": "Question",
         "name": faq.name,

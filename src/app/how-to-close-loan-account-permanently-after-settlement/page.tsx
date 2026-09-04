@@ -56,16 +56,16 @@ export const metadata: Metadata = {
     'loan settlement to closed status cibil'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/how-to-close-loan-account-permanently-after-settlement',
+    canonical: 'https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement',
   },
   openGraph: {
     title: 'How to Permanently Close Loan Account After Settlement: Complete 5-Step Protocol & Legal Clearance Guide',
     description: 'Master the mandatory 5-step banking protocol to permanently close your loan account after settlement: ledger zeroing, physical branch NDC with official seal, NPCI NACH cancellation, ECS revocation, and CIBIL zero-balance update.',
-    url: 'https://settleloans.in/how-to-close-loan-account-permanently-after-settlement',
+    url: 'https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/how-to-close-loan-account-permanently-after-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/how-to-close-loan-account-permanently-after-settlement.jpg',
         width: 1200,
         height: 675,
         alt: '5-Step Protocol to Permanently Close Loan Account After Settlement India',
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Steps to Permanently Close Loan Account After Settlement: 5-Step Protocol',
     description: 'Paying your OTS amount is not enough. Discover the 5 essential legal and banking steps to permanently terminate your loan account, cancel NACH mandates, and obtain a clean CIBIL report.',
-    images: ['https://settleloans.in/images/infographics/how-to-close-loan-account-permanently-after-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/how-to-close-loan-account-permanently-after-settlement.jpg'],
   },
 };
 
@@ -87,74 +87,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/how-to-close-loan-account-permanently-after-settlement#webpage",
-      "url": "https://settleloans.in/how-to-close-loan-account-permanently-after-settlement",
+      "@id": "https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement#webpage",
+      "url": "https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement",
       "name": "Steps to Permanently Close Loan Account After Settlement: 5-Step Protocol, Bank Ledger Zeroing & CIBIL Clearance Guide",
       "description": "Exhaustive legal and banking manual on the mandatory 5-step protocol required to achieve permanent loan account closure after One-Time Settlement (OTS), including Core Banking Solution reconciliation, branch NDC acquisition, NPCI NACH mandate revocation, ECS cancellation, and credit bureau dispute resolution.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/how-to-close-loan-account-permanently-after-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/how-to-close-loan-account-permanently-after-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Permanent Loan Account Closure Protocol",
-          "item": "https://settleloans.in/how-to-close-loan-account-permanently-after-settlement"
+          "item": "https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/how-to-close-loan-account-permanently-after-settlement#article",
+      "@id": "https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement#article",
       "headline": "Steps to Permanently Close Loan Account After Settlement: 5-Step Protocol, Bank Ledger Zeroing & CIBIL Clearance Guide",
       "description": "An in-depth regulatory and legal guide detailing the critical post-settlement steps every Indian borrower must execute. Covers Core Banking System zeroing, physical branch No Dues Certificate issuance under RBI Circular RBI/2023-24/60, NPCI NACH mandate cancellation, salary account ECS revocation, and credit bureau remediation under CICRA 2005.",
-      "image": "https://settleloans.in/images/infographics/how-to-close-loan-account-permanently-after-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/how-to-close-loan-account-permanently-after-settlement.jpg",
       "datePublished": "2026-08-28T10:00:00+05:30",
       "dateModified": "2026-08-28T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-close-loan-account-permanently-after-settlement#webpage"
+        "@id": "https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/how-to-close-loan-account-permanently-after-settlement#service",
+      "@id": "https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement#service",
       "name": "SettleLoans - Post-Settlement Loan Closure & Banking Dispute Advisory",
       "description": "Expert legal representation and banking conciliation services to secure permanent loan account closure, physical branch No Dues Certificates (NDC), NPCI e-Mandate revocations, and credit bureau record rectifications across Indian banks and NBFCs.",
-      "url": "https://settleloans.in/how-to-close-loan-account-permanently-after-settlement",
-      "image": "https://settleloans.in/images/infographics/how-to-close-loan-account-permanently-after-settlement.jpg",
+      "url": "https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement",
+      "image": "https://www.settleloans.in/images/infographics/how-to-close-loan-account-permanently-after-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -167,9 +167,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -243,7 +243,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/how-to-close-loan-account-permanently-after-settlement#faq",
+      "@id": "https://www.settleloans.in/how-to-close-loan-account-permanently-after-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -321,12 +321,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Support for Loan Settlement During Medical Emergencies in India",
   description: "Find legal support and RBI guidelines for loan settlement during medical emergencies. Learn how to negotiate with banks, stop harassment, and settle debt when facing health crises.",
   alternates: {
-    canonical: "https://settleloans.in/support-for-loan-settlement-during-medical-emergencies",
+    canonical: "https://www.settleloans.in/support-for-loan-settlement-during-medical-emergencies",
   },
 };
 
@@ -16,34 +16,34 @@ export default function MedicalEmergenciesSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/support-for-loan-settlement-during-medical-emergencies#webpage",
-        "url": "https://settleloans.in/support-for-loan-settlement-during-medical-emergencies",
+        "@id": "https://www.settleloans.in/support-for-loan-settlement-during-medical-emergencies#webpage",
+        "url": "https://www.settleloans.in/support-for-loan-settlement-during-medical-emergencies",
         "name": "Support for Loan Settlement During Medical Emergencies in India",
         "description": "Comprehensive guide to loan settlement support for individuals facing medical emergencies in India, including RBI guidelines and legal rights.",
-        "breadcrumb": { "@id": "https://settleloans.in/support-for-loan-settlement-during-medical-emergencies#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/support-for-loan-settlement-during-medical-emergencies#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/support-for-loan-settlement-during-medical-emergencies#breadcrumb",
+        "@id": "https://www.settleloans.in/support-for-loan-settlement-during-medical-emergencies#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Support for Loan Settlement During Medical Emergencies",
-            "item": "https://settleloans.in/support-for-loan-settlement-during-medical-emergencies"
+            "item": "https://www.settleloans.in/support-for-loan-settlement-during-medical-emergencies"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/support-for-loan-settlement-during-medical-emergencies#article",
+        "@id": "https://www.settleloans.in/support-for-loan-settlement-during-medical-emergencies#article",
         "headline": "Support for Loan Settlement During Medical Emergencies: A Comprehensive Guide",
         "description": "Navigate the complexities of loan settlement during medical crises with our in-depth guide covering RBI rules, bank negotiations, and legal protections.",
         "author": {
@@ -55,16 +55,16 @@ export default function MedicalEmergenciesSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-27",
         "dateModified": "2024-03-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/support-for-loan-settlement-during-medical-emergencies#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/support-for-loan-settlement-during-medical-emergencies#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/support-for-loan-settlement-during-medical-emergencies#product",
+        "@id": "https://www.settleloans.in/support-for-loan-settlement-during-medical-emergencies#product",
         "name": "Medical Emergency Debt Settlement Assistance",
         "description": "Professional negotiation and legal support for settling loans during genuine medical hardships.",
         "aggregateRating": {
@@ -84,7 +84,7 @@ export default function MedicalEmergenciesSettlementPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/support-for-loan-settlement-during-medical-emergencies#faq",
+        "@id": "https://www.settleloans.in/support-for-loan-settlement-during-medical-emergencies#faq",
         "mainEntity": [
           {
             "@type": "Question",

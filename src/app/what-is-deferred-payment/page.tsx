@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'What is Deferred Payment? Meaning, Moratorium & BNPL Vs Deferred Payment',
   description: 'Understand the deferred payment loan meaning, how a moratorium on loan works, and the key differences between BNPL vs deferred payment to avoid defaulting during a financial crisis.',
   alternates: {
-    canonical: 'https://settleloans.in/what-is-deferred-payment',
+    canonical: 'https://www.settleloans.in/what-is-deferred-payment',
   },
 };
 
@@ -28,7 +28,7 @@ export default function WhatIsDeferredPayment() {
       "@type": "WebPage",
       "name": "What is Deferred Payment?",
       "description": "Understand the deferred payment loan meaning, how a moratorium on loan works, and the key differences between BNPL vs deferred payment.",
-      "url": "https://settleloans.in/what-is-deferred-payment"
+      "url": "https://www.settleloans.in/what-is-deferred-payment"
     },
     {
       "@context": "https://schema.org",
@@ -38,13 +38,13 @@ export default function WhatIsDeferredPayment() {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in/"
+          "item": "https://www.settleloans.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "What is Deferred Payment",
-          "item": "https://settleloans.in/what-is-deferred-payment"
+          "item": "https://www.settleloans.in/what-is-deferred-payment"
         }
       ]
     },
@@ -61,7 +61,7 @@ export default function WhatIsDeferredPayment() {
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       },
       "datePublished": "2023-10-01T08:00:00+08:00",

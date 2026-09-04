@@ -49,16 +49,16 @@ export const metadata: Metadata = {
     'how to settle p2p loan in india',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/lendenclub-p2p-loan-settlement-process',
+    canonical: 'https://www.settleloans.in/lendenclub-p2p-loan-settlement-process',
   },
   openGraph: {
     title: 'LenDenClub Loan Settlement Process: Stop Recovery Harassment & Settle (2026)',
     description: 'Expert legal and financial manual for resolving defaulted LenDenClub and Finstree P2P personal loans. Stop recovery calls, challenge digital arbitration, and negotiate direct OTS waivers under RBI compromise norms.',
-    url: 'https://settleloans.in/lendenclub-p2p-loan-settlement-process',
+    url: 'https://www.settleloans.in/lendenclub-p2p-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/lendenclub-p2p-loan-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/lendenclub-p2p-loan-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'LenDenClub P2P Loan Settlement Process Architecture and Legal Resolution Blueprint',
@@ -71,7 +71,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'LenDenClub Loan Settlement Process: Stop Recovery Harassment & Settle (2026)',
     description: 'Definitive guide for borrowers facing LenDenClub and Finstree P2P loan default. Discover how to halt recovery harassment, defend Section 25 PSSA summons, and secure 40% to 65% OTS principal waivers.',
-    images: ['https://settleloans.in/images/infographics/lendenclub-p2p-loan-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/lendenclub-p2p-loan-settlement-process.jpg'],
   },
 };
 
@@ -80,74 +80,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/lendenclub-p2p-loan-settlement-process#webpage",
-      "url": "https://settleloans.in/lendenclub-p2p-loan-settlement-process",
+      "@id": "https://www.settleloans.in/lendenclub-p2p-loan-settlement-process#webpage",
+      "url": "https://www.settleloans.in/lendenclub-p2p-loan-settlement-process",
       "name": "LenDenClub Loan Settlement Process: Stop Recovery Harassment & Settle (2026)",
       "description": "Comprehensive legal guide to the LenDenClub loan settlement process. Learn how to settle defaulted P2P personal loans with Innofin Solutions and Finstree under RBI Master Directions, stop recovery agent harassment, defend Section 25 PSSA notices, and negotiate a 40% to 65% OTS haircut with an official No Dues Certificate.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/lendenclub-p2p-loan-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/lendenclub-p2p-loan-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/lendenclub-p2p-loan-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/lendenclub-p2p-loan-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "LenDenClub P2P Loan Settlement Process",
-          "item": "https://settleloans.in/lendenclub-p2p-loan-settlement-process"
+          "item": "https://www.settleloans.in/lendenclub-p2p-loan-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/lendenclub-p2p-loan-settlement-process#article",
+      "@id": "https://www.settleloans.in/lendenclub-p2p-loan-settlement-process#article",
       "headline": "LenDenClub Loan Settlement Process: Stop Recovery Harassment, Legal Notices & Settle Dues",
       "description": "A comprehensive strategic analysis on navigating defaulted LenDenClub and Finstree P2P loans, understanding Innofin Solutions regulatory parameters, mitigating e-NACH bounce penalties, asserting statutory anti-harassment rights, and securing authorized One-Time Settlements.",
-      "image": "https://settleloans.in/images/infographics/lendenclub-p2p-loan-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/lendenclub-p2p-loan-settlement-process.jpg",
       "datePublished": "2026-09-03T12:00:00+05:30",
       "dateModified": "2026-09-03T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/lendenclub-p2p-loan-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/lendenclub-p2p-loan-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/lendenclub-p2p-loan-settlement-process#service",
+      "@id": "https://www.settleloans.in/lendenclub-p2p-loan-settlement-process#service",
       "name": "SettleLoans - LenDenClub P2P Loan Settlement & Legal Defense",
       "description": "Specialized legal advisory and financial negotiation service for retail borrowers facing delinquency on LenDenClub and Finstree P2P credit facilities. Halts recovery agency overreach, defends statutory notices, and secures maximum compromise waivers.",
-      "url": "https://settleloans.in/lendenclub-p2p-loan-settlement-process",
-      "image": "https://settleloans.in/images/infographics/lendenclub-p2p-loan-settlement-process.jpg",
+      "url": "https://www.settleloans.in/lendenclub-p2p-loan-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/lendenclub-p2p-loan-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -160,9 +160,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -236,7 +236,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/lendenclub-p2p-loan-settlement-process#faq",
+      "@id": "https://www.settleloans.in/lendenclub-p2p-loan-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -322,12 +322,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

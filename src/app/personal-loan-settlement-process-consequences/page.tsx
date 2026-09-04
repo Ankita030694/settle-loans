@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "The Hidden Consequences of the Personal Loan Settlement Process",
   description: "Learn the crucial difference between closing and settling a personal loan. Understand the severe long-term consequences of a 'Settled' CIBIL status.",
   alternates: {
-    canonical: "https://settleloans.in/personal-loan-settlement-process-consequences",
+    canonical: "https://www.settleloans.in/personal-loan-settlement-process-consequences",
   },
 };
 
@@ -17,34 +17,34 @@ export default function PersonalLoanSettlementConsequencesPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-process-consequences#webpage",
-        "url": "https://settleloans.in/personal-loan-settlement-process-consequences",
+        "@id": "https://www.settleloans.in/personal-loan-settlement-process-consequences#webpage",
+        "url": "https://www.settleloans.in/personal-loan-settlement-process-consequences",
         "name": "The Hidden Consequences of the Personal Loan Settlement Process",
         "description": "A comprehensive guide explaining the crucial difference between closing a loan (paying in full) and settling it (paying a negotiated, lower amount), and the impact on your CIBIL score.",
-        "breadcrumb": { "@id": "https://settleloans.in/personal-loan-settlement-process-consequences#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/personal-loan-settlement-process-consequences#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/personal-loan-settlement-process-consequences#breadcrumb",
+        "@id": "https://www.settleloans.in/personal-loan-settlement-process-consequences#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Personal Loan Settlement Consequences",
-            "item": "https://settleloans.in/personal-loan-settlement-process-consequences"
+            "item": "https://www.settleloans.in/personal-loan-settlement-process-consequences"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/personal-loan-settlement-process-consequences#article",
+        "@id": "https://www.settleloans.in/personal-loan-settlement-process-consequences#article",
         "headline": "The Hidden Consequences of the Personal Loan Settlement Process",
         "description": "Details the severe long-term consequences of a Settled status on a CIBIL report and explains the step-by-step process of how settlement works.",
         "author": {
@@ -56,22 +56,22 @@ export default function PersonalLoanSettlementConsequencesPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-24",
         "dateModified": "2024-07-24",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/personal-loan-settlement-process-consequences#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/personal-loan-settlement-process-consequences#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/personal-loan-settlement-process-consequences#product",
+        "@id": "https://www.settleloans.in/personal-loan-settlement-process-consequences#product",
         "name": "Loan Settlement Advisory Services",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert guidance on personal loan settlement consequences, helping borrowers make informed decisions and minimize credit score damage.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function PersonalLoanSettlementConsequencesPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-process-consequences#faq",
+        "@id": "https://www.settleloans.in/personal-loan-settlement-process-consequences#faq",
         "mainEntity": [
           {
             "@type": "Question",

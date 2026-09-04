@@ -20,16 +20,16 @@ export const metadata: Metadata = {
     'rbi fair practices code hyderabad recovery'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-hyderabad',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-hyderabad',
   },
   openGraph: {
     title: 'Loan Settlement Advocates in Hyderabad: Court Defense & Debt Relief',
     description: 'Expert legal defense and One-Time Settlement (OTS) representation for IT professionals, salaried executives, and entrepreneurs facing loan defaults across Hyderabad, Secunderabad, and Cyberabad.',
-    url: 'https://settleloans.in/personal-loan-settlement-hyderabad',
+    url: 'https://www.settleloans.in/personal-loan-settlement-hyderabad',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-hyderabad.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-hyderabad.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Settlement Advocates in Hyderabad Guide',
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement Advocates in Hyderabad: Legal Defense & Lok Adalat Guide',
     description: 'Comprehensive legal representation for bank loan defaults, Section 138/25 notices, Lok Adalat compromise decrees, and anti-harassment injunctions across Hyderabad and Cyberabad.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-hyderabad.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-hyderabad.jpg'],
   },
 };
 
@@ -51,77 +51,77 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-hyderabad#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-hyderabad",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-hyderabad#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-hyderabad",
       "name": "Loan Settlement Advocates in Hyderabad: Legal Defense & Lok Adalat OTS (2026)",
       "description": "Facing loan default, recovery harassment, or court summons in Hyderabad, Secunderabad, or Cyberabad? Get premier loan settlement advocates, legal defense, and 40%–70% OTS waivers under RBI guidelines.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-hyderabad#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-hyderabad#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-hyderabad#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-hyderabad#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services & Legal Guides",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Loan Settlement Advocates in Hyderabad",
-          "item": "https://settleloans.in/personal-loan-settlement-hyderabad"
+          "item": "https://www.settleloans.in/personal-loan-settlement-hyderabad"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-hyderabad#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-hyderabad#article",
       "headline": "Loan Settlement Advocates in Hyderabad: Legal Defense, TSLSA Lok Adalat & Court Representation",
       "description": "An authoritative legal and financial guide for distressed borrowers in Hyderabad, Secunderabad, and Cyberabad. Learn court jurisdiction dynamics in Nampally, Purani Haveli, L.B. Nagar, Kukatpally, and Secunderabad, Section 138 vs Section 25 defense, TSLSA Lok Adalat settlement mechanics, and how seasoned Hyderabad advocates secure 40% to 70% debt waivers.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-hyderabad.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-hyderabad.jpg",
       "datePublished": "2026-08-24T11:55:26+05:30",
       "dateModified": "2026-08-24T11:55:26+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-hyderabad#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-hyderabad#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo.png",
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
         "https://twitter.com/settleloans",
@@ -130,7 +130,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-hyderabad#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-hyderabad#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -200,11 +200,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-hyderabad#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-hyderabad#service",
       "name": "SettleLoans - Loan Settlement Advocates in Hyderabad & Legal Dispute Resolution",
       "description": "Premier debt settlement advisory, legal defense, and TSLSA Lok Adalat representation for IT professionals, salaried executives, and entrepreneurs facing loan defaults across Hyderabad, Secunderabad, and Cyberabad.",
-      "url": "https://settleloans.in/personal-loan-settlement-hyderabad",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-hyderabad.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-hyderabad",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-hyderabad.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -217,9 +217,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

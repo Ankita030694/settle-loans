@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import PersonalLoanDebtSettlementClient from "./PersonalLoanDebtSettlementClient";
 
 export async function generateMetadata(): Promise<Metadata> {
-  const url = "https://settleloans.in/personal-loan-debt-settlement";
+  const url = "https://www.settleloans.in/personal-loan-debt-settlement";
   
   return {
     title: "Personal Loan Debt Settlement vs Consolidation in India | SettleLoans",
@@ -42,14 +42,14 @@ export default function PersonalLoanDebtSettlementPage() {
     "author": {
       "@type": "Person",
       "name": "Ashish Jhangra",
-      "url": "https://settleloans.in/authors/ashish-jhangra"
+      "url": "https://www.settleloans.in/authors/ashish-jhangra"
     },
     "publisher": {
       "@type": "Organization",
       "name": "SettleLoans",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/images/logo.png"
+        "url": "https://www.settleloans.in/images/logo.png"
       }
     },
     "datePublished": new Date().toISOString(),

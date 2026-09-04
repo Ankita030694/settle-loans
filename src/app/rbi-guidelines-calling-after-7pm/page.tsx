@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Recovery Agent Calling After 7 PM | RBI Rules & Legal Protection",
   description: "Are recovery agents calling you at night? RBI guidelines mandate that recovery contact is only permitted between 8 AM and 7 PM. Learn your rights and stop illegal late-night harassment today.",
   alternates: {
-    canonical: "https://settleloans.in/rbi-guidelines-calling-after-7pm",
+    canonical: "https://www.settleloans.in/rbi-guidelines-calling-after-7pm",
   },
 };
 
@@ -16,34 +16,34 @@ export default function RecoveryAgentCallingAfter7PMPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/rbi-guidelines-calling-after-7pm#webpage",
-        "url": "https://settleloans.in/rbi-guidelines-calling-after-7pm",
+        "@id": "https://www.settleloans.in/rbi-guidelines-calling-after-7pm#webpage",
+        "url": "https://www.settleloans.in/rbi-guidelines-calling-after-7pm",
         "name": "Recovery Agent Calling After 7 PM | RBI Rules & Legal Protection",
         "description": "Comprehensive guide on borrower rights against illegal late-night calls and contact by recovery agents in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/rbi-guidelines-calling-after-7pm#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/rbi-guidelines-calling-after-7pm#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/rbi-guidelines-calling-after-7pm#breadcrumb",
+        "@id": "https://www.settleloans.in/rbi-guidelines-calling-after-7pm#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Recovery Agent Calling Timings",
-            "item": "https://settleloans.in/rbi-guidelines-calling-after-7pm"
+            "item": "https://www.settleloans.in/rbi-guidelines-calling-after-7pm"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/rbi-guidelines-calling-after-7pm#article",
+        "@id": "https://www.settleloans.in/rbi-guidelines-calling-after-7pm#article",
         "headline": "Recovery Agent Calling After 7 PM: RBI Rules and How to Stop Harassment",
         "description": "A deep dive into the legal protections for borrowers when recovery agents violate RBI contact timing regulations.",
         "author": {
@@ -55,16 +55,16 @@ export default function RecoveryAgentCallingAfter7PMPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-22",
         "dateModified": "2024-03-22",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/rbi-guidelines-calling-after-7pm#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/rbi-guidelines-calling-after-7pm#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/rbi-guidelines-calling-after-7pm#product",
+        "@id": "https://www.settleloans.in/rbi-guidelines-calling-after-7pm#product",
         "name": "Loan Recovery Protection Services",
         "description": "Legal assistance and negotiation services to protect borrowers from recovery agent harassment and illegal timings.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function RecoveryAgentCallingAfter7PMPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/rbi-guidelines-calling-after-7pm#faq",
+        "@id": "https://www.settleloans.in/rbi-guidelines-calling-after-7pm#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -46,16 +46,16 @@ export const metadata: Metadata = {
     'pre npa one time settlement ots'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/sma-account-classification-loan-settlement-window',
+    canonical: 'https://www.settleloans.in/sma-account-classification-loan-settlement-window',
   },
   openGraph: {
     title: 'SMA Account Classification & Loan Settlement Window: Settle Before 90-Day NPA',
     description: 'Master the RBI Special Mention Account (SMA) resolution framework. Discover how to utilize the critical 1–90 day overdue window (SMA-0, SMA-1, SMA-2) to secure debt waivers, avoid SARFAESI action, and negotiate favorable settlements before formal NPA declaration.',
-    url: 'https://settleloans.in/sma-account-classification-loan-settlement-window',
+    url: 'https://www.settleloans.in/sma-account-classification-loan-settlement-window',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/sma-account-classification-loan-settlement-window.jpg',
+        url: 'https://www.settleloans.in/images/infographics/sma-account-classification-loan-settlement-window.jpg',
         width: 1200,
         height: 675,
         alt: 'SMA Account Classification & Pre-NPA Loan Settlement Window Guide',
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'SMA Account Classification & Loan Settlement Window: Settle Before 90-Day NPA',
     description: 'Is your loan overdue between 1 and 90 days? Learn how RBI SMA-0, SMA-1, and SMA-2 classifications create an urgent settlement window for borrowers to negotiate deep waivers before NPA status.',
-    images: ['https://settleloans.in/images/infographics/sma-account-classification-loan-settlement-window.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/sma-account-classification-loan-settlement-window.jpg'],
   },
 };
 
@@ -77,74 +77,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/sma-account-classification-loan-settlement-window#webpage",
-      "url": "https://settleloans.in/sma-account-classification-loan-settlement-window",
+      "@id": "https://www.settleloans.in/sma-account-classification-loan-settlement-window#webpage",
+      "url": "https://www.settleloans.in/sma-account-classification-loan-settlement-window",
       "name": "SMA Account Classification & Loan Settlement Window: Settle Before 90-Day NPA (2026)",
       "description": "Understand RBI Special Mention Account (SMA) framework: SMA-0 (1-30 days), SMA-1 (31-60 days), and SMA-2 (61-90 days). Learn how borrowers can leverage the pre-90-day window to negotiate massive penalty waivers, restructuring, or compromise settlements before formal NPA classification and coercive legal recovery.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/sma-account-classification-loan-settlement-window#breadcrumb"
+        "@id": "https://www.settleloans.in/sma-account-classification-loan-settlement-window#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/sma-account-classification-loan-settlement-window#breadcrumb",
+      "@id": "https://www.settleloans.in/sma-account-classification-loan-settlement-window#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "SMA Account Classification & Loan Settlement Window",
-          "item": "https://settleloans.in/sma-account-classification-loan-settlement-window"
+          "item": "https://www.settleloans.in/sma-account-classification-loan-settlement-window"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/sma-account-classification-loan-settlement-window#article",
+      "@id": "https://www.settleloans.in/sma-account-classification-loan-settlement-window#article",
       "headline": "SMA Account Classification & Loan Settlement Window: How to Leverage the Pre-90-Day Period Before Formal NPA Declaration",
       "description": "A comprehensive regulatory, accounting, and legal analysis of the Reserve Bank of India Special Mention Account (SMA) supervisory framework. Details the Days-Past-Due (DPD) thresholds for SMA-0, SMA-1, and SMA-2, CRILC reporting mechanics, bank provisioning economics, and advocate-led negotiation strategies to secure deep penal interest waivers and compromise settlements before non-performing asset classification and SARFAESI enforcement.",
-      "image": "https://settleloans.in/images/infographics/sma-account-classification-loan-settlement-window.jpg",
+      "image": "https://www.settleloans.in/images/infographics/sma-account-classification-loan-settlement-window.jpg",
       "datePublished": "2026-09-02T10:00:00+05:30",
       "dateModified": "2026-09-02T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/sma-account-classification-loan-settlement-window#webpage"
+        "@id": "https://www.settleloans.in/sma-account-classification-loan-settlement-window#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/sma-account-classification-loan-settlement-window#service",
+      "@id": "https://www.settleloans.in/sma-account-classification-loan-settlement-window#service",
       "name": "SettleLoans - Pre-NPA & SMA Debt Resolution Legal Advisory",
       "description": "Specialized legal representation and debt resolution advisory for borrowers managing overdue loans in SMA-0, SMA-1, and SMA-2 stages across commercial banks and NBFCs in India.",
-      "url": "https://settleloans.in/sma-account-classification-loan-settlement-window",
-      "image": "https://settleloans.in/images/infographics/sma-account-classification-loan-settlement-window.jpg",
+      "url": "https://www.settleloans.in/sma-account-classification-loan-settlement-window",
+      "image": "https://www.settleloans.in/images/infographics/sma-account-classification-loan-settlement-window.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -157,9 +157,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -233,7 +233,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/sma-account-classification-loan-settlement-window#faq",
+      "@id": "https://www.settleloans.in/sma-account-classification-loan-settlement-window#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -311,12 +311,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

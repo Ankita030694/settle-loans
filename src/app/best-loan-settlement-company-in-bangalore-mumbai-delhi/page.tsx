@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Best Loan Settlement Company in Bangalore, Mumbai & Delhi | SettleLoans",
   description: "Find the best loan settlement company in Bangalore, Mumbai, and Delhi. We offer expert legal debt relief, bank negotiation, and protection from harassment. Settle for 50% less.",
   alternates: {
-    canonical: "https://settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi",
+    canonical: "https://www.settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi",
   },
 };
 
@@ -16,40 +16,40 @@ export default function BestSettlementCompanyPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi#webpage",
-        "url": "https://settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi",
+        "@id": "https://www.settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi#webpage",
+        "url": "https://www.settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi",
         "name": "Best Loan Settlement Company in Bangalore, Mumbai & Delhi | SettleLoans",
         "description": "Comprehensive guide to choosing the best loan settlement company in India's top metros. Expert legal debt negotiation services.",
-        "breadcrumb": { "@id": "https://settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi#breadcrumb",
+        "@id": "https://www.settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Best Company in Bangalore, Mumbai & Delhi",
-            "item": "https://settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi"
+            "item": "https://www.settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi#article",
+        "@id": "https://www.settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi#article",
         "headline": "Choosing the Best Loan Settlement Company in Bangalore, Mumbai & Delhi: A Complete 2026 Guide",
         "description": "How to navigate the debt crisis in India's top metros with the help of professional loan settlement experts.",
         "author": {
@@ -61,16 +61,16 @@ export default function BestSettlementCompanyPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-04-18",
         "dateModified": "2024-04-18",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi#faq",
+        "@id": "https://www.settleloans.in/best-loan-settlement-company-in-bangalore-mumbai-delhi#faq",
         "mainEntity": [
           {
             "@type": "Question",

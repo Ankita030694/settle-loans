@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'order 37 cpc limitation period bank loan'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense',
+    canonical: 'https://www.settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense',
   },
   openGraph: {
     title: 'Order 37 CPC Summary Suit for Loan Recovery: 10-Day Court Defense & OTS Guide',
     description: 'Received a Summary Suit summons under Order XXXVII CPC? Discover how to enter an appearance within 10 days, secure unconditional Leave to Defend, and negotiate a 45%–65% One-Time Settlement.',
-    url: 'https://settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense',
+    url: 'https://www.settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/summary-suit-order-37-cpc-loan-recovery-defense.jpg',
+        url: 'https://www.settleloans.in/images/infographics/summary-suit-order-37-cpc-loan-recovery-defense.jpg',
         width: 1200,
         height: 675,
         alt: 'Order 37 CPC Summary Suit for Loan Recovery Defense and Settlement Roadmap',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Order 37 CPC Summary Suit for Loan Recovery: 10-Day Defense & OTS Guide',
     description: 'Urgent Civil Court Emergency: Master the 10-day timeline for entering appearance and filing Leave to Defend in an Order 37 CPC summary suit for bank loan recovery.',
-    images: ['https://settleloans.in/images/infographics/summary-suit-order-37-cpc-loan-recovery-defense.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/summary-suit-order-37-cpc-loan-recovery-defense.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense#webpage",
-      "url": "https://settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense",
+      "@id": "https://www.settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense#webpage",
+      "url": "https://www.settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense",
       "name": "Order 37 CPC Summary Suit for Loan Recovery: 10-Day Defense & OTS Guide",
       "description": "Comprehensive legal analysis and procedural guide for borrowers facing a Summary Suit under Order XXXVII of the Code of Civil Procedure (CPC) for bank loan recovery in Indian Civil Courts.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense#breadcrumb"
+        "@id": "https://www.settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense#breadcrumb",
+      "@id": "https://www.settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Order 37 CPC Summary Suit Defense",
-          "item": "https://settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense"
+          "item": "https://www.settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense#article",
+      "@id": "https://www.settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense#article",
       "headline": "Order 37 CPC Summary Suit for Loan Recovery: Urgent 10-Day Court Defense & OTS Guide",
       "description": "Detailed legal breakdown of Order XXXVII of the Code of Civil Procedure (CPC). Learn the critical 10-day deadlines for entering appearance and filing leave to defend, landmark Supreme Court principles in Hubtown, establishing triable issues, and converting summary suits into negotiated One-Time Settlements (OTS).",
-      "image": "https://settleloans.in/images/infographics/summary-suit-order-37-cpc-loan-recovery-defense.jpg",
+      "image": "https://www.settleloans.in/images/infographics/summary-suit-order-37-cpc-loan-recovery-defense.jpg",
       "datePublished": "2026-08-27T10:00:00+05:30",
       "dateModified": "2026-08-27T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense#webpage"
+        "@id": "https://www.settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense#service",
+      "@id": "https://www.settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense#service",
       "name": "SettleLoans - Order 37 CPC Summary Suit Legal Defense & Debt Settlement Advisory",
       "description": "Specialized civil litigation defense, appearance filings, Leave to Defend drafting, and One-Time Settlement negotiations for borrowers facing Order 37 CPC summary recovery suits in High Courts and City Civil Courts across India.",
-      "url": "https://settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense",
-      "image": "https://settleloans.in/images/infographics/summary-suit-order-37-cpc-loan-recovery-defense.jpg",
+      "url": "https://www.settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense",
+      "image": "https://www.settleloans.in/images/infographics/summary-suit-order-37-cpc-loan-recovery-defense.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense#faq",
+      "@id": "https://www.settleloans.in/summary-suit-order-37-cpc-loan-recovery-defense#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -305,12 +305,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

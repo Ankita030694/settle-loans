@@ -54,16 +54,16 @@ export const metadata: Metadata = {
     'nbfc recovery agent harassment rbi complaint'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment',
+    canonical: 'https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment',
   },
   openGraph: {
     title: 'How to File Complaint in RBI Ombudsman Against Recovery Agents | Step-by-Step CMS Portal Guide',
     description: 'Exhaustive regulatory and legal blueprint for filing an online grievance on the RBI CMS portal (cms.rbi.org.in) against aggressive loan recovery agents. Learn category selection, electronic evidence admissibility, and how to claim statutory compensation up to ₹20 Lakhs.',
-    url: 'https://settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment',
+    url: 'https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment.jpg',
+        url: 'https://www.settleloans.in/images/infographics/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment.jpg',
         width: 1200,
         height: 675,
         alt: 'How to File Complaint in RBI Ombudsman Against Recovery Agents Infographic',
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to File Complaint in RBI Ombudsman Against Recovery Agents | Step-by-Step Guide',
     description: 'Facing recovery agent harassment? Learn how to lodge an enforceable complaint on the RBI CMS portal (cms.rbi.org.in), submit digital evidence, and claim up to ₹20 Lakhs compensation under the Integrated Ombudsman Scheme.',
-    images: ['https://settleloans.in/images/infographics/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment.jpg'],
   },
 };
 
@@ -124,75 +124,75 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment#webpage",
-      "url": "https://settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment",
+      "@id": "https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment#webpage",
+      "url": "https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment",
       "name": "How to File Complaint in RBI Ombudsman Against Recovery Agents | Step-by-Step Guide",
       "description": "Comprehensive legal and regulatory manual explaining how to lodge an online complaint against bank and NBFC recovery agents on the RBI CMS portal (cms.rbi.org.in), submit audio and WhatsApp evidence, and claim statutory compensation up to ₹20 Lakhs.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment#breadcrumb"
+        "@id": "https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment#breadcrumb",
+      "@id": "https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "RBI Ombudsman Recovery Harassment Complaint Guide",
-          "item": "https://settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment"
+          "item": "https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment#article",
+      "@id": "https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment#article",
       "headline": "How to File Complaint in RBI Ombudsman Against Recovery Agents: Step-by-Step CMS Portal Guide",
       "description": "An exhaustive, procedural analysis detailing the statutory process of lodging an online grievance on cms.rbi.org.in against coercive recovery agents. Covers the mandatory 30-day GRO escalation, category selection, electronic evidence verification, compensation limits up to ₹20 Lakhs, and OTS debt settlement pathways.",
-      "image": "https://settleloans.in/images/infographics/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment.jpg",
+      "image": "https://www.settleloans.in/images/infographics/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment#webpage"
+        "@id": "https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "contactPoint": [
         {
@@ -206,11 +206,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment#service",
+      "@id": "https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment#service",
       "name": "SettleLoans - Banking Regulatory Redressal & Debt Settlement Services",
       "description": "Professional advocate-led representation for lodging statutory grievances with the Reserve Bank of India Ombudsman, enforcing Fair Practices Codes against aggressive recovery agents, and negotiating structured One-Time Settlements (OTS).",
-      "url": "https://settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment",
-      "image": "https://settleloans.in/images/infographics/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment.jpg",
+      "url": "https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment",
+      "image": "https://www.settleloans.in/images/infographics/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -223,9 +223,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -299,7 +299,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment#faq",
+      "@id": "https://www.settleloans.in/step-by-step-guide-rbi-ombudsman-complaint-recovery-harassment#faq",
       "mainEntity": faqsList.map(faq => ({
         "@type": "Question",
         "name": faq.name,

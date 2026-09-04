@@ -10,22 +10,22 @@ export default function LOCDelhiHighCourtPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/loc-cant-be-issues-for-mere-bank-loan-default-delhi-high-court#article",
+                "@id": "https://www.settleloans.in/loc-cant-be-issues-for-mere-bank-loan-default-delhi-high-court#article",
                 "headline": "Lookout Circular (LOC) Cannot Be Issued for Mere Bank Loan Default: Delhi High Court Ruling",
                 "description": "Comprehensive guide on Delhi High Court judgments stating that banks cannot issue Lookout Circulars (LOC) solely for loan defaults. Understand your right to travel under Article 21.",
-                "image": "https://settleloans.in/images/delhi-high-court-loc.jpg",
+                "image": "https://www.settleloans.in/images/delhi-high-court-loc.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-05-07",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/loc-cant-be-issues-for-mere-bank-loan-default-delhi-high-court" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/loc-cant-be-issues-for-mere-bank-loan-default-delhi-high-court" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/loc-cant-be-issues-for-mere-bank-loan-default-delhi-high-court#product",
+                "@id": "https://www.settleloans.in/loc-cant-be-issues-for-mere-bank-loan-default-delhi-high-court#product",
                 "name": "LOC Legal Defense & Debt Resolution",
                 "description": "Legal assistance for challenging illegal Lookout Circulars issued by banks and resolving outstanding loan defaults through strategic settlements.",
                 "aggregateRating": {
@@ -103,9 +103,9 @@ export default function LOCDelhiHighCourtPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Legal Help", "item": "https://settleloans.in/legal-help-for-loan-settlement" },
-                    { "@type": "ListItem", "position": 3, "name": "LOC Delhi High Court", "item": "https://settleloans.in/loc-cant-be-issues-for-mere-bank-loan-default-delhi-high-court" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Legal Help", "item": "https://www.settleloans.in/legal-help-for-loan-settlement" },
+                    { "@type": "ListItem", "position": 3, "name": "LOC Delhi High Court", "item": "https://www.settleloans.in/loc-cant-be-issues-for-mere-bank-loan-default-delhi-high-court" }
                 ]
             }
         ]

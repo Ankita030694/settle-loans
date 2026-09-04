@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "Loan Settlement for Borrowers Facing Economic Downturn | 2025 Guide",
     description: "Expert guide on loan settlement for borrowers facing economic downturn in India. Learn about RBI guidelines 2025, compromise settlement policies, and legal rights.",
     alternates: {
-        canonical: "https://settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn",
+        canonical: "https://www.settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn",
     },
 };
 
@@ -17,34 +17,34 @@ export default function EconomicDownturnSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn#webpage",
-                "url": "https://settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn",
+                "@id": "https://www.settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn#webpage",
+                "url": "https://www.settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn",
                 "name": "Loan Settlement for Borrowers Facing Economic Downturn | 2025 Guide",
                 "description": "Comprehensive guide to managing debt and pursuing loan settlement during times of economic distress and downturn in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn#breadcrumb",
+                "@id": "https://www.settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Loan Settlement for Borrowers Facing Economic Downturn",
-                        "item": "https://settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn"
+                        "item": "https://www.settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn#article",
+                "@id": "https://www.settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn#article",
                 "headline": "Loan Settlement for Borrowers Facing Economic Downturn: Navigating Financial Clouds in 2025",
                 "description": "A deep-dive analysis of loan settlement strategies for individuals and businesses impacted by economic downturns, focusing on RBI's compromise settlement frameworks.",
                 "author": {
@@ -56,16 +56,16 @@ export default function EconomicDownturnSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-28",
                 "dateModified": "2024-03-28",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn#product",
+                "@id": "https://www.settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn#product",
                 "name": "Economic Downturn Debt Relief Advisory",
                 "description": "Specialized advisory for borrowers struggling with personal and business loans due to recession or sector-specific economic slowdowns.",
                 "aggregateRating": {
@@ -92,7 +92,7 @@ export default function EconomicDownturnSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn#faq",
+                "@id": "https://www.settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

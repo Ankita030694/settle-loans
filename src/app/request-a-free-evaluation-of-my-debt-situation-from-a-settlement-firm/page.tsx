@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Request a Free Evaluation of My Debt Situation from a Settlement Firm",
   description: "Get a professional, 360-degree audit of your debt. Learn how to qualify for loan settlement, calculate your DTI ratio, and avoid predatory scams in India.",
   alternates: {
-    canonical: "https://settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm",
+    canonical: "https://www.settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm",
   },
 };
 
@@ -17,34 +17,34 @@ export default function DebtEvaluationPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm#webpage",
-        "url": "https://settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm",
+        "@id": "https://www.settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm#webpage",
+        "url": "https://www.settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm",
         "name": "Request a Free Evaluation of My Debt Situation from a Settlement Firm",
         "description": "Exhaustive guide on the debt evaluation process in India, including hardship markers and professional firm comparisons.",
-        "breadcrumb": { "@id": "https://settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm#breadcrumb",
+        "@id": "https://www.settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Free Debt Evaluation",
-            "item": "https://settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm"
+            "item": "https://www.settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm#article",
+        "@id": "https://www.settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm#article",
         "headline": "How to Request a Free Evaluation of Your Debt Situation: The 2024 Professional Guide",
         "description": "A comprehensive analysis of the debt evaluation process. Learn how professional firms assess your financial hardship and build a case for settlement.",
         "author": {
@@ -56,16 +56,16 @@ export default function DebtEvaluationPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm#faq",
+        "@id": "https://www.settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -151,7 +151,7 @@ export default function DebtEvaluationPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm#product",
+        "@id": "https://www.settleloans.in/request-a-free-evaluation-of-my-debt-situation-from-a-settlement-firm#product",
         "name": "Free Debt Evaluation Service",
         "description": "Professional 360-degree audit of personal and business debt to determine settlement eligibility and DTI ratio.",
         "brand": {
@@ -175,7 +175,7 @@ export default function DebtEvaluationPage() {
               "price": "0",
               "priceCurrency": "INR",
               "availability": "https://schema.org/InStock",
-              "url": "https://settleloans.in/contact"
+              "url": "https://www.settleloans.in/contact"
             }
           ]
         },
@@ -205,12 +205,12 @@ export default function DebtEvaluationPage() {
       },
       {
         "@type": "Organization",
-        "@id": "https://settleloans.in#organization",
+        "@id": "https://www.settleloans.in#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         },
         "sameAs": [
           "https://www.facebook.com/settleloans",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement for Salaried People | Expert Debt Relief & Negotiation",
   description: "Comprehensive guide to loan settlement for salaried individuals in India. Learn about the process, legal rights, credit score impact, and how to negotiate with banks to settle your debt for less.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement-for-salaried-people",
+    canonical: "https://www.settleloans.in/loan-settlement-for-salaried-people",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LoanSettlementSalariedPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-for-salaried-people#webpage",
-        "url": "https://settleloans.in/loan-settlement-for-salaried-people",
+        "@id": "https://www.settleloans.in/loan-settlement-for-salaried-people#webpage",
+        "url": "https://www.settleloans.in/loan-settlement-for-salaried-people",
         "name": "Loan Settlement for Salaried People | Expert Debt Relief",
         "description": "Comprehensive guide to loan settlement for salaried individuals in India. Learn about the process, legal rights, and credit score impact.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-for-salaried-people#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-for-salaried-people#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement-for-salaried-people#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement-for-salaried-people#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement for Salaried People",
-            "item": "https://settleloans.in/loan-settlement-for-salaried-people"
+            "item": "https://www.settleloans.in/loan-settlement-for-salaried-people"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement-for-salaried-people#article",
+        "@id": "https://www.settleloans.in/loan-settlement-for-salaried-people#article",
         "headline": "Loan Settlement for Salaried People: A Comprehensive Guide to Financial Freedom",
         "description": "Discover how salaried individuals in India can navigate the complexities of loan settlement, protect their legal rights, and rebuild their financial futures.",
         "author": {
@@ -55,16 +55,16 @@ export default function LoanSettlementSalariedPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-27",
         "dateModified": "2024-03-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-for-salaried-people#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-for-salaried-people#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement-for-salaried-people#product",
+        "@id": "https://www.settleloans.in/loan-settlement-for-salaried-people#product",
         "name": "Salaried Debt Settlement Services",
         "description": "Professional debt negotiation and settlement services for salaried individuals across India.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function LoanSettlementSalariedPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement-for-salaried-people#faq",
+        "@id": "https://www.settleloans.in/loan-settlement-for-salaried-people#faq",
         "mainEntity": [
           {
             "@type": "Question",

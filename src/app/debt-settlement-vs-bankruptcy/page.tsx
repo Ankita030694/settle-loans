@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Debt Settlement vs Bankruptcy in India: Which is Better for You? (2025)",
   description: "A comprehensive comparison of Debt Settlement and Bankruptcy/Insolvency for Indian borrowers. Compare credit score impact (CIBIL), legal protections, and resolution speed.",
   alternates: {
-    canonical: "https://settleloans.in/debt-settlement-vs-bankruptcy",
+    canonical: "https://www.settleloans.in/debt-settlement-vs-bankruptcy",
   },
 };
 
@@ -16,34 +16,34 @@ export default function DebtSettlementVsBankruptcyPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/debt-settlement-vs-bankruptcy#webpage",
-        "url": "https://settleloans.in/debt-settlement-vs-bankruptcy",
+        "@id": "https://www.settleloans.in/debt-settlement-vs-bankruptcy#webpage",
+        "url": "https://www.settleloans.in/debt-settlement-vs-bankruptcy",
         "name": "Debt Settlement vs Bankruptcy in India: Which is Better for You? (2025)",
         "description": "Deep dive into the differences between debt settlement and personal insolvency under the IBC 2016 for Indian borrowers.",
-        "breadcrumb": { "@id": "https://settleloans.in/debt-settlement-vs-bankruptcy#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/debt-settlement-vs-bankruptcy#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/debt-settlement-vs-bankruptcy#breadcrumb",
+        "@id": "https://www.settleloans.in/debt-settlement-vs-bankruptcy#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Debt Settlement vs Bankruptcy",
-            "item": "https://settleloans.in/debt-settlement-vs-bankruptcy"
+            "item": "https://www.settleloans.in/debt-settlement-vs-bankruptcy"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/debt-settlement-vs-bankruptcy#article",
+        "@id": "https://www.settleloans.in/debt-settlement-vs-bankruptcy#article",
         "headline": "Debt Settlement vs Bankruptcy: Choosing Your Path to Financial Freedom in India",
         "description": "Exhaustive comparison of debt relief options in India, focusing on legal frameworks, CIBIL impacts, and practical outcomes.",
         "author": {
@@ -55,16 +55,16 @@ export default function DebtSettlementVsBankruptcyPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-18",
         "dateModified": "2024-03-18",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/debt-settlement-vs-bankruptcy#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/debt-settlement-vs-bankruptcy#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/debt-settlement-vs-bankruptcy#product",
+        "@id": "https://www.settleloans.in/debt-settlement-vs-bankruptcy#product",
         "name": "Debt Relief Advisory Services",
         "description": "Expert advice on choosing between loan settlement and legal insolvency to resolve overwhelming debt professionally.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function DebtSettlementVsBankruptcyPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/debt-settlement-vs-bankruptcy#faq",
+        "@id": "https://www.settleloans.in/debt-settlement-vs-bankruptcy#faq",
         "mainEntity": [
           {
             "@type": "Question",

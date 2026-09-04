@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "HDFC Bank Loan Settlement | Settle Credit Card & Personal Loans - SettleLoans",
   description: "Struggling with HDFC Bank debt? Learn the expert process for HDFC Bank loan settlement and credit card OTS. Settle for 40-70% less and stop harassment legally.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/hdfc-bank",
+    canonical: "https://www.settleloans.in/loan-settlement/hdfc-bank",
   },
 };
 
@@ -16,46 +16,46 @@ export default function HDFCBankSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/hdfc-bank#webpage",
-        "url": "https://settleloans.in/loan-settlement/hdfc-bank",
+        "@id": "https://www.settleloans.in/loan-settlement/hdfc-bank#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/hdfc-bank",
         "name": "HDFC Bank Loan Settlement | Settle Credit Card & Personal Loans - SettleLoans",
         "description": "Expert guide to HDFC Bank loan settlement and credit card debt negotiation.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/hdfc-bank#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/hdfc-bank#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/hdfc-bank#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/hdfc-bank#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "HDFC Bank Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement/hdfc-bank"
+            "item": "https://www.settleloans.in/loan-settlement/hdfc-bank"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/hdfc-bank#service",
+        "@id": "https://www.settleloans.in/loan-settlement/hdfc-bank#service",
         "name": "HDFC Bank Loan Settlement Service",
         "description": "Professional debt negotiation for HDFC Bank personal loans and credit cards.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -88,7 +88,7 @@ export default function HDFCBankSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/hdfc-bank#article",
+        "@id": "https://www.settleloans.in/loan-settlement/hdfc-bank#article",
         "headline": "Ultimate Guide to HDFC Bank Loan Settlement 2026",
         "description": "Comprehensive analysis of HDFC Bank settlement policies, OTS schemes, and legal debt negotiation strategies.",
         "author": {
@@ -100,16 +100,16 @@ export default function HDFCBankSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-14",
         "dateModified": "2024-02-14",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/hdfc-bank#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/hdfc-bank#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/hdfc-bank#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/hdfc-bank#faq",
         "mainEntity": [
           {
             "@type": "Question",

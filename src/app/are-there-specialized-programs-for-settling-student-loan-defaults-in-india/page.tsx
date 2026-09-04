@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Specialized Programs for Settling Student Loan Defaults in India",
   description: "Navigate student loan defaults in India with specialized settlement programs. Learn about OTS, CSIS subsidies, and legal rights for education loan borrowers.",
   alternates: {
-    canonical: "https://settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india",
+    canonical: "https://www.settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india",
   },
 };
 
@@ -17,34 +17,34 @@ export default function StudentLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india#webpage",
-        "url": "https://settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india",
+        "@id": "https://www.settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india#webpage",
+        "url": "https://www.settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india",
         "name": "Specialized Programs for Settling Student Loan Defaults in India",
         "description": "Comprehensive guide to education loan settlement options, government relief schemes, and legal protections for student borrowers in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india#breadcrumb",
+        "@id": "https://www.settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Student Loan Settlement India",
-            "item": "https://settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india"
+            "item": "https://www.settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india#article",
+        "@id": "https://www.settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india#article",
         "headline": "Are There Specialized Programs for Settling Student Loan Defaults in India?",
         "description": "Exhaustive analysis of education loan recovery, settlement frameworks, and borrower relief programs in the Indian banking system.",
         "author": {
@@ -56,16 +56,16 @@ export default function StudentLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india#faq",
+        "@id": "https://www.settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -151,7 +151,7 @@ export default function StudentLoanSettlementPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india#product",
+        "@id": "https://www.settleloans.in/are-there-specialized-programs-for-settling-student-loan-defaults-in-india#product",
         "name": "Education Loan Settlement Advocacy Service",
         "description": "Specialized legal and financial representation for students and parents struggling with education loan defaults in India.",
         "brand": {
@@ -175,7 +175,7 @@ export default function StudentLoanSettlementPage() {
               "price": "0",
               "priceCurrency": "INR",
               "availability": "https://schema.org/InStock",
-              "url": "https://settleloans.in/contact"
+              "url": "https://www.settleloans.in/contact"
             }
           ]
         },
@@ -205,12 +205,12 @@ export default function StudentLoanSettlementPage() {
       },
       {
         "@type": "Organization",
-        "@id": "https://settleloans.in#organization",
+        "@id": "https://www.settleloans.in#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         },
         "sameAs": [
           "https://www.facebook.com/settleloans",

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "Loan Agreement Drafting & Review India | Essential Clauses & Checklists",
     description: "Expert legal guide on drafting and reviewing loan agreements in India. Learn about essential clauses, RBI guidelines, hidden charges, and borrower protection.",
     alternates: {
-        canonical: "https://settleloans.in/loan-agreement-drafting-review",
+        canonical: "https://www.settleloans.in/loan-agreement-drafting-review",
     },
 };
 
@@ -17,34 +17,34 @@ export default function LoanAgreementDraftingPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/loan-agreement-drafting-review#webpage",
-                "url": "https://settleloans.in/loan-agreement-drafting-review",
+                "@id": "https://www.settleloans.in/loan-agreement-drafting-review#webpage",
+                "url": "https://www.settleloans.in/loan-agreement-drafting-review",
                 "name": "Loan Agreement Drafting & Review India | Essential Clauses & Checklists",
                 "description": "Comprehensive guide for drafting and reviewing legally binding loan agreements in India, ensuring transparency and RBI compliance.",
-                "breadcrumb": { "@id": "https://settleloans.in/loan-agreement-drafting-review#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/loan-agreement-drafting-review#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/loan-agreement-drafting-review#breadcrumb",
+                "@id": "https://www.settleloans.in/loan-agreement-drafting-review#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Loan Agreement Drafting",
-                        "item": "https://settleloans.in/loan-agreement-drafting-review"
+                        "item": "https://www.settleloans.in/loan-agreement-drafting-review"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/loan-agreement-drafting-review#article",
+                "@id": "https://www.settleloans.in/loan-agreement-drafting-review#article",
                 "headline": "Drafting a Bulletproof Loan Agreement: The Complete Legal Checklist for 2024",
                 "description": "Navigate the complexities of Indian financial contracts with our masterclass on loan agreement drafting, review strategies, and essential legal clauses.",
                 "author": {
@@ -56,16 +56,16 @@ export default function LoanAgreementDraftingPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-06",
                 "dateModified": "2024-03-06",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/loan-agreement-drafting-review#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-agreement-drafting-review#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/loan-agreement-drafting-review#product",
+                "@id": "https://www.settleloans.in/loan-agreement-drafting-review#product",
                 "name": "Loan Agreement Drafting & Review Service",
                 "description": "Professional legal assistance in drafting and vetting loan documents to protect borrower interests and ensure regulatory compliance.",
                 "aggregateRating": {
@@ -92,7 +92,7 @@ export default function LoanAgreementDraftingPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/loan-agreement-drafting-review#faq",
+                "@id": "https://www.settleloans.in/loan-agreement-drafting-review#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

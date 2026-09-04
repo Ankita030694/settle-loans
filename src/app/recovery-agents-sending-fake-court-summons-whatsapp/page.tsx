@@ -54,16 +54,16 @@ export const metadata: Metadata = {
     'police complaint against recovery agency forgery'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp',
+    canonical: 'https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp',
   },
   openGraph: {
     title: 'Fake Court Notice by Loan Recovery Agent on WhatsApp: Legal Truth vs Forged Threats',
     description: 'Comprehensive legal analysis on fabricated court summons, fake Lok Adalat seals, and bogus arrest notices sent by recovery agents on WhatsApp. Discover statutory remedies under BNS, IPC, and RBI directives.',
-    url: 'https://settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp',
+    url: 'https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recovery-agents-sending-fake-court-summons-whatsapp.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recovery-agents-sending-fake-court-summons-whatsapp.jpg',
         width: 1200,
         height: 675,
         alt: 'Fake Court Notice by Loan Recovery Agent on WhatsApp Infographic',
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Fake Court Notice on WhatsApp from Recovery Agents: What to Do?',
     description: 'Received a terrifying PDF claiming to be a court summons or arrest order on WhatsApp? Understand why it is a criminal forgery under Sections 336/338 BNS & 465/471 IPC, and how advocates stop harassment.',
-    images: ['https://settleloans.in/images/infographics/recovery-agents-sending-fake-court-summons-whatsapp.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recovery-agents-sending-fake-court-summons-whatsapp.jpg'],
   },
 };
 
@@ -85,73 +85,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#webpage",
-      "url": "https://settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp",
+      "@id": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#webpage",
+      "url": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp",
       "name": "Fake Court Notice by Loan Recovery Agent on WhatsApp: Legal Rights & FIR Process",
       "description": "Exhaustive legal guide on borrower protections against fabricated court notices, bogus arrest summons, and forged Lok Adalat orders sent on WhatsApp by loan recovery agencies. Covers Section 336/338 BNS, Sections 465/471 IPC, RBI Fair Practices Code, and debt settlement strategies.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#breadcrumb"
+        "@id": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#breadcrumb",
+      "@id": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Fake Court Notice on WhatsApp",
-          "item": "https://settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp"
+          "item": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#article",
+      "@id": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#article",
       "headline": "Fake Court Notice by Loan Recovery Agent on WhatsApp: Legal Rights, Forgery Laws & How to Take Action",
       "description": "An in-depth legal examination of forged court summons, fake Lok Adalat seals, and deceptive arrest threats delivered via WhatsApp by loan collection agencies. Details criminal liabilities under Sections 336/338 BNS and Sections 465/471 IPC, RBI Fair Practices Code, and advocate-led debt resolution protocols.",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-sending-fake-court-summons-whatsapp.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-sending-fake-court-summons-whatsapp.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#webpage"
+        "@id": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo/logo.svg",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo/logo.svg",
       "contactPoint": [
         {
           "@type": "ContactPoint",
@@ -164,11 +164,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#service",
+      "@id": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#service",
       "name": "SettleLoans - Legal Defense & Loan Settlement Services",
       "description": "Nationwide legal defense against unlawful recovery agent intimidation, forged court notices, and criminal deception, paired with institutional One-Time Settlement (OTS) negotiations.",
-      "url": "https://settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-sending-fake-court-summons-whatsapp.jpg",
+      "url": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-sending-fake-court-summons-whatsapp.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -181,9 +181,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -257,7 +257,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#faq",
+      "@id": "https://www.settleloans.in/recovery-agents-sending-fake-court-summons-whatsapp#faq",
       "mainEntity": [
         {
           "@type": "Question",

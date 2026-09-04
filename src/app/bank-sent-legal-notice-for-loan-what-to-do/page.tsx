@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "Bank Sent Legal Notice for Loan: What to Do? | Indian Legal Advice",
     description: "Received a legal notice for loan default? Learn about immediate response steps, SARFAESI Act rights, and how to contest unfair demands. Professional legal aid for borrowers.",
     alternates: {
-        canonical: "https://settleloans.in/bank-sent-legal-notice-for-loan-what-to-do",
+        canonical: "https://www.settleloans.in/bank-sent-legal-notice-for-loan-what-to-do",
     },
 };
 
@@ -17,34 +17,34 @@ export default function BankLegalNoticeGuidePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/bank-sent-legal-notice-for-loan-what-to-do#webpage",
-                "url": "https://settleloans.in/bank-sent-legal-notice-for-loan-what-to-do",
+                "@id": "https://www.settleloans.in/bank-sent-legal-notice-for-loan-what-to-do#webpage",
+                "url": "https://www.settleloans.in/bank-sent-legal-notice-for-loan-what-to-do",
                 "name": "Bank Sent Legal Notice for Loan: What to Do? | Borrower Rights India",
                 "description": "Comprehensive guide on responding to bank legal notices, understanding your rights, and navigating the recovery process ethically.",
-                "breadcrumb": { "@id": "https://settleloans.in/bank-sent-legal-notice-for-loan-what-to-do#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/bank-sent-legal-notice-for-loan-what-to-do#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/bank-sent-legal-notice-for-loan-what-to-do#breadcrumb",
+                "@id": "https://www.settleloans.in/bank-sent-legal-notice-for-loan-what-to-do#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Bank Legal Notice Guide",
-                        "item": "https://settleloans.in/bank-sent-legal-notice-for-loan-what-to-do"
+                        "item": "https://www.settleloans.in/bank-sent-legal-notice-for-loan-what-to-do"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/bank-sent-legal-notice-for-loan-what-to-do#article",
+                "@id": "https://www.settleloans.in/bank-sent-legal-notice-for-loan-what-to-do#article",
                 "headline": "Bank Sent Legal Notice for Loan Default? Here is Your Defensive Roadmap",
                 "description": "A deep dive into the legal implications of a bank notice, immediate actions required, and how to defend against aggressive recovery practices.",
                 "author": {
@@ -56,16 +56,16 @@ export default function BankLegalNoticeGuidePage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-10",
                 "dateModified": "2024-03-10",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/bank-sent-legal-notice-for-loan-what-to-do#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/bank-sent-legal-notice-for-loan-what-to-do#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/bank-sent-legal-notice-for-loan-what-to-do#product",
+                "@id": "https://www.settleloans.in/bank-sent-legal-notice-for-loan-what-to-do#product",
                 "name": "Legal Notice Response Strategy",
                 "description": "Professional drafting of legal replies to bank notices and representation in Debt Recovery Tribunals (DRT).",
                 "aggregateRating": {
@@ -76,7 +76,7 @@ export default function BankLegalNoticeGuidePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/bank-sent-legal-notice-for-loan-what-to-do#faq",
+                "@id": "https://www.settleloans.in/bank-sent-legal-notice-for-loan-what-to-do#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

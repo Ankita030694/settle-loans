@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Expert Loan Settlement in Gurgaon | Cyber City Debt Relief Specialists - SettleLoans",
   description: "Overleveraged with credit cards in Gurgaon or Udyog Vihar? Our lawyers help IT professionals settle loans legally. Stop recovery harassment at Golf Course Road society gates.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/gurgaon",
+    canonical: "https://www.settleloans.in/loan-settlement/gurgaon",
   },
 };
 
@@ -16,46 +16,46 @@ export default function GurgaonLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/gurgaon#webpage",
-        "url": "https://settleloans.in/loan-settlement/gurgaon",
+        "@id": "https://www.settleloans.in/loan-settlement/gurgaon#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/gurgaon",
         "name": "Expert Loan Settlement in Gurgaon | Cyber City Debt Relief Specialists - SettleLoans",
         "description": "Overleveraged with credit cards in Gurgaon or Udyog Vihar? Our lawyers help IT professionals settle loans legally. Stop recovery harassment at Golf Course Road society gates.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/gurgaon#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/gurgaon#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/gurgaon#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/gurgaon#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Gurgaon",
-            "item": "https://settleloans.in/loan-settlement/gurgaon"
+            "item": "https://www.settleloans.in/loan-settlement/gurgaon"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/gurgaon#service",
+        "@id": "https://www.settleloans.in/loan-settlement/gurgaon#service",
         "name": "Gurgaon Loan Settlement Services",
         "description": "Expert debt settlement and legal assistance for personal loans and credit cards in Gurgaon.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": {
           "@type": "City",
@@ -111,7 +111,7 @@ export default function GurgaonLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/gurgaon#article",
+        "@id": "https://www.settleloans.in/loan-settlement/gurgaon#article",
         "headline": "Complete Guide to Loan Settlement in Gurgaon | Legal Procedures & Rights",
         "description": "A comprehensive guide on how loan settlement works in Gurugram, covering Haryana legal aid, Lok Adalats, and borrower protection.",
         "author": {
@@ -123,16 +123,16 @@ export default function GurgaonLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-01-31",
         "dateModified": "2024-01-31",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/gurgaon#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/gurgaon#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/gurgaon#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/gurgaon#faq",
         "mainEntity": [
           {
             "@type": "Question",

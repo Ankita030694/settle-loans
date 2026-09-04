@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "5 Crore Loan Settlement India | Strategic Debt Resolution & Legal Shield",
     description: "Expert guide to 5 Crore loan settlement in India. Master forensic audits, Zonal Office negotiations, and legal protections under SARFAESI & IBC frameworks.",
     alternates: {
-        canonical: "https://settleloans.in/5-crore-loan-settlement",
+        canonical: "https://www.settleloans.in/5-crore-loan-settlement",
     },
 };
 
@@ -16,39 +16,39 @@ export default function FiveCroreLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/5-crore-loan-settlement#webpage",
-                "url": "https://settleloans.in/5-crore-loan-settlement",
+                "@id": "https://www.settleloans.in/5-crore-loan-settlement#webpage",
+                "url": "https://www.settleloans.in/5-crore-loan-settlement",
                 "name": "5 Crore Loan Settlement India | High-Value Debt Guide",
                 "description": "Comprehensive strategies for settling loans of 5 Crore and above in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/5-crore-loan-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/5-crore-loan-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/5-crore-loan-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/5-crore-loan-settlement#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "5 Crore Loan Settlement", "item": "https://settleloans.in/5-crore-loan-settlement" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "5 Crore Loan Settlement", "item": "https://www.settleloans.in/5-crore-loan-settlement" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/5-crore-loan-settlement#article",
+                "@id": "https://www.settleloans.in/5-crore-loan-settlement#article",
                 "headline": "5 Crore Loan Settlement: Mastering High-Value Debt Resolution in India",
                 "description": "A deep dive into the legal, financial, and strategic aspects of settling a 5 Crore debt with Indian banks and NBFCs.",
                 "author": { "@type": "Organization", "name": "SettleLoans Research Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/5-crore-loan-settlement#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/5-crore-loan-settlement#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/5-crore-loan-settlement#product",
+                "@id": "https://www.settleloans.in/5-crore-loan-settlement#product",
                 "name": "Ultra High-Value Loan Settlement Advisory",
                 "description": "Specialized legal and financial representation for loan settlements exceeding 5 Crore.",
                 "aggregateRating": {
@@ -75,7 +75,7 @@ export default function FiveCroreLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/5-crore-loan-settlement#faq",
+                "@id": "https://www.settleloans.in/5-crore-loan-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

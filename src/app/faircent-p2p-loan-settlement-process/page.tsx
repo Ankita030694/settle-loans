@@ -50,16 +50,16 @@ export const metadata: Metadata = {
     'p2p debt compromise settlement',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/faircent-p2p-loan-settlement-process',
+    canonical: 'https://www.settleloans.in/faircent-p2p-loan-settlement-process',
   },
   openGraph: {
     title: 'Faircent & P2P Loan Settlement: Process, RBI Rules & Haircut (2026)',
     description: 'Strategic legal guide for resolving defaulted Peer-to-Peer loans with Faircent, LenDenClub, and LiquiLoans. Understand Trustee Escrow operations, stop predatory collection calls, and secure up to 65% OTS waivers.',
-    url: 'https://settleloans.in/faircent-p2p-loan-settlement-process',
+    url: 'https://www.settleloans.in/faircent-p2p-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/faircent-p2p-loan-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/faircent-p2p-loan-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'Faircent and P2P Loan Settlement Process Architecture and Legal Framework',
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Faircent & P2P Loan Settlement: Process, RBI Rules & Haircut',
     description: 'In-depth legal analysis of P2P loan settlement under RBI Master Directions, Trustee Escrow mechanisms, legal notice defense, and debt waiver negotiations.',
-    images: ['https://settleloans.in/images/infographics/faircent-p2p-loan-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/faircent-p2p-loan-settlement-process.jpg'],
   },
 };
 
@@ -81,74 +81,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/faircent-p2p-loan-settlement-process#webpage",
-      "url": "https://settleloans.in/faircent-p2p-loan-settlement-process",
+      "@id": "https://www.settleloans.in/faircent-p2p-loan-settlement-process#webpage",
+      "url": "https://www.settleloans.in/faircent-p2p-loan-settlement-process",
       "name": "Faircent & P2P Loan Settlement: Process, RBI Rules & Haircut (2026)",
       "description": "Comprehensive guide to Faircent and P2P loan settlement in India. Learn how to settle Peer-to-Peer personal loans across Faircent, LenDenClub, and LiquiLoans under RBI Master Directions, stop recovery harassment, defend Section 25 PSSA notices, and negotiate a 40%–65% OTS debt haircut with official No Dues Certificates.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/faircent-p2p-loan-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/faircent-p2p-loan-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/faircent-p2p-loan-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/faircent-p2p-loan-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "P2P Loan Settlement Process",
-          "item": "https://settleloans.in/faircent-p2p-loan-settlement-process"
+          "item": "https://www.settleloans.in/faircent-p2p-loan-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/faircent-p2p-loan-settlement-process#article",
+      "@id": "https://www.settleloans.in/faircent-p2p-loan-settlement-process#article",
       "headline": "Faircent & P2P Loan Settlement: Process, RBI Directives, Legal Defense & Haircut Guide",
       "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with Faircent, LenDenClub, and Indian P2P NBFC platforms under RBI Master Directions, navigating Trustee Escrow mechanics, halting NACH bounce fees, and defending against recovery agent harassment.",
-      "image": "https://settleloans.in/images/infographics/faircent-p2p-loan-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/faircent-p2p-loan-settlement-process.jpg",
       "datePublished": "2026-08-25T12:00:00+05:30",
       "dateModified": "2026-08-25T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/faircent-p2p-loan-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/faircent-p2p-loan-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/faircent-p2p-loan-settlement-process#service",
+      "@id": "https://www.settleloans.in/faircent-p2p-loan-settlement-process#service",
       "name": "SettleLoans - Faircent & P2P Loan Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted Faircent, LenDenClub, LiquiLoans, and other NBFC-P2P personal loans under RBI Master Directions with maximum debt waivers and complete anti-harassment protection.",
-      "url": "https://settleloans.in/faircent-p2p-loan-settlement-process",
-      "image": "https://settleloans.in/images/infographics/faircent-p2p-loan-settlement-process.jpg",
+      "url": "https://www.settleloans.in/faircent-p2p-loan-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/faircent-p2p-loan-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -161,9 +161,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -237,7 +237,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/faircent-p2p-loan-settlement-process#faq",
+      "@id": "https://www.settleloans.in/faircent-p2p-loan-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -323,12 +323,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "Recovery Agents Threatening Me? What to Do | Legal Defense Guide",
     description: "Are loan recovery agents harrassing or threatening you? Learn about your legal rights in India, RBI guidelines on recovery agents, and how to file a police complaint.",
     alternates: {
-        canonical: "https://settleloans.in/recovery-agents-threatening-me-what-to-do",
+        canonical: "https://www.settleloans.in/recovery-agents-threatening-me-what-to-do",
     },
 };
 
@@ -17,34 +17,34 @@ export default function RecoveryHarassmentPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/recovery-agents-threatening-me-what-to-do#webpage",
-                "url": "https://settleloans.in/recovery-agents-threatening-me-what-to-do",
+                "@id": "https://www.settleloans.in/recovery-agents-threatening-me-what-to-do#webpage",
+                "url": "https://www.settleloans.in/recovery-agents-threatening-me-what-to-do",
                 "name": "Recovery Agent Harassment Defense India | Legal Step-by-Step",
                 "description": "An exhaustive guide for borrowers facing threats or harassment from loan recovery agents in India, including legal remedies and RBI protocols.",
-                "breadcrumb": { "@id": "https://settleloans.in/recovery-agents-threatening-me-what-to-do#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/recovery-agents-threatening-me-what-to-do#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/recovery-agents-threatening-me-what-to-do#breadcrumb",
+                "@id": "https://www.settleloans.in/recovery-agents-threatening-me-what-to-do#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Recovery Agent Protection",
-                        "item": "https://settleloans.in/recovery-agents-threatening-me-what-to-do"
+                        "item": "https://www.settleloans.in/recovery-agents-threatening-me-what-to-do"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/recovery-agents-threatening-me-what-to-do#article",
+                "@id": "https://www.settleloans.in/recovery-agents-threatening-me-what-to-do#article",
                 "headline": "Defeating Debt Harassment: Your Legal Shield Against Recovery Agents",
                 "description": "How to handle illegal threats from recovery agents using RBI guidelines and Indian Penal Code (IPC) protections.",
                 "author": {
@@ -56,16 +56,16 @@ export default function RecoveryHarassmentPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-10",
                 "dateModified": "2024-03-10",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/recovery-agents-threatening-me-what-to-do#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/recovery-agents-threatening-me-what-to-do#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/recovery-agents-threatening-me-what-to-do#product",
+                "@id": "https://www.settleloans.in/recovery-agents-threatening-me-what-to-do#product",
                 "name": "Harassment Redressal Mediation",
                 "description": "Professional mediation and legal assistance to stop illegal recovery agent harassment and negotiate loan settlements.",
                 "aggregateRating": {
@@ -76,7 +76,7 @@ export default function RecoveryHarassmentPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/recovery-agents-threatening-me-what-to-do#faq",
+                "@id": "https://www.settleloans.in/recovery-agents-threatening-me-what-to-do#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

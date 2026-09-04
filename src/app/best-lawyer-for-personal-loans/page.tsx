@@ -12,22 +12,22 @@ export default function PersonalLoanLawyerPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-personal-loans#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-personal-loans#article",
                 "headline": "Best Lawyer for Personal Loan Settlement & Disputes in India (2025 Guide)",
                 "description": "Expert legal representation for personal loan disputes, RBI harassment defense, and a debt settlement strategies. Rank #1 legal counsel for borrowers in India.",
-                "image": "https://settleloans.in/images/personal-loan-dispute.jpg",
+                "image": "https://www.settleloans.in/images/personal-loan-dispute.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/best-lawyer-for-personal-loans" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/best-lawyer-for-personal-loans" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-personal-loans#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-personal-loans#product",
                 "name": "Personal Loan Legal Defense Service",
                 "description": "Strategic legal representation for personal loan borrowers facing harassment, legal notices, or seeking debt settlement.",
                 "brand": { "@type": "Brand", "name": "SettleLoans" },
@@ -77,8 +77,8 @@ export default function PersonalLoanLawyerPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Personal Loan Lawyer", "item": "https://settleloans.in/best-lawyer-for-personal-loans" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Personal Loan Lawyer", "item": "https://www.settleloans.in/best-lawyer-for-personal-loans" }
                 ]
             }
         ]

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Wilful Defaulter vs Non-Wilful Defaulter: RBI Guidelines",
   description: "Learn who is a wilful defaulter as per RBI, the difference between intentional and genuine default, consequences of the tag, and how to remove it.",
   alternates: {
-    canonical: "https://settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences",
+    canonical: "https://www.settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences",
   },
 };
 
@@ -16,34 +16,34 @@ export default function WilfulDefaulterDefensePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences#webpage",
-        "url": "https://settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences",
+        "@id": "https://www.settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences#webpage",
+        "url": "https://www.settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences",
         "name": "Wilful Defaulter vs. Non-Wilful Defaulter: RBI Guidelines and Consequences",
         "description": "Understand the specific RBI criteria that upgrades a standard NPA to a Wilful Defaulter, the consequences, and how genuine business failures can defend themselves.",
-        "breadcrumb": { "@id": "https://settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences#breadcrumb",
+        "@id": "https://www.settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Wilful Defaulter Guide",
-            "item": "https://settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences"
+            "item": "https://www.settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences#article",
+        "@id": "https://www.settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences#article",
         "headline": "Wilful Defaulter vs. Non-Wilful Defaulter: RBI Guidelines and Consequences",
         "description": "Breaks down the specific RBI criteria that upgrades a standard NPA to a Wilful Defaulter.",
         "author": {
@@ -55,22 +55,22 @@ export default function WilfulDefaulterDefensePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences#product",
+        "@id": "https://www.settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences#product",
         "name": "Wilful Defaulter Tag Removal & Defense Services",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal assistance to challenge and remove illegal wilful defaulter tags.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -112,7 +112,7 @@ export default function WilfulDefaulterDefensePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences#faq",
+        "@id": "https://www.settleloans.in/wilful-defaulter-vs-non-wilful-defaulter-rbi-guidelines-and-consequences#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -52,16 +52,16 @@ export const metadata: Metadata = {
     'fintech credit card debt haircut percentage',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/onecard-slice-uni-credit-card-settlement',
+    canonical: 'https://www.settleloans.in/onecard-slice-uni-credit-card-settlement',
   },
   openGraph: {
     title: 'OneCard, Slice & Uni Credit Card Settlement: Partner Bank OTS Rules & Legal Defense (2026)',
     description: 'Struggling with OneCard, Slice, or Uni card debt in India? Discover how to negotiate One-Time Settlements with partner banks (Federal, SBM, BOB Financial, NESFB), halt compounding interest, stop collection harassment, and secure ₹0 No Dues Certificates.',
-    url: 'https://settleloans.in/onecard-slice-uni-credit-card-settlement',
+    url: 'https://www.settleloans.in/onecard-slice-uni-credit-card-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/onecard-slice-uni-credit-card-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/onecard-slice-uni-credit-card-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'OneCard, Slice and Uni Fintech Credit Card Settlement and Partner Bank Resolution Guide',
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'OneCard, Slice & Uni Credit Card Settlement: Partner Bank OTS Rules & Legal Defense',
     description: 'Strategic guide for settling defaulted OneCard, Slice, and Uni co-branded credit cards in India under RBI Master Directions with maximum debt haircuts.',
-    images: ['https://settleloans.in/images/infographics/onecard-slice-uni-credit-card-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/onecard-slice-uni-credit-card-settlement.jpg'],
   },
 };
 
@@ -83,74 +83,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/onecard-slice-uni-credit-card-settlement#webpage",
-      "url": "https://settleloans.in/onecard-slice-uni-credit-card-settlement",
+      "@id": "https://www.settleloans.in/onecard-slice-uni-credit-card-settlement#webpage",
+      "url": "https://www.settleloans.in/onecard-slice-uni-credit-card-settlement",
       "name": "OneCard, Slice & Uni Credit Card Settlement: Partner Bank OTS Rules & Legal Defense (2026)",
       "description": "Comprehensive guide to OneCard, Slice, and Uni credit card settlement in India. Learn how to settle co-branded fintech cards backed by Federal Bank, SBM Bank, BOB Financial, and NESFB, halt 36%-48% APR compounding, defend recovery harassment under RBI Digital Lending rules, and negotiate up to 60% OTS debt haircuts.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/onecard-slice-uni-credit-card-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/onecard-slice-uni-credit-card-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/onecard-slice-uni-credit-card-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/onecard-slice-uni-credit-card-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Fintech Card Settlement",
-          "item": "https://settleloans.in/onecard-slice-uni-credit-card-settlement"
+          "item": "https://www.settleloans.in/onecard-slice-uni-credit-card-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/onecard-slice-uni-credit-card-settlement#article",
+      "@id": "https://www.settleloans.in/onecard-slice-uni-credit-card-settlement#article",
       "headline": "OneCard, Slice & Uni Credit Card Settlement: Partner Bank OTS Rules, Legal Defense & ₹0 NDC Guide",
       "description": "An exhaustive technical and legal manual for settling defaulted OneCard, Slice, and Uni co-branded credit cards in India. Explores the tripartite fintech banking architecture, partner bank balance sheet provisioning, RBI Digital Lending directives, Section 25 PSSA defense, and structured OTS negotiations.",
-      "image": "https://settleloans.in/images/infographics/onecard-slice-uni-credit-card-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/onecard-slice-uni-credit-card-settlement.jpg",
       "datePublished": "2026-09-03T10:00:00+05:30",
       "dateModified": "2026-09-03T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/onecard-slice-uni-credit-card-settlement#webpage"
+        "@id": "https://www.settleloans.in/onecard-slice-uni-credit-card-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/onecard-slice-uni-credit-card-settlement#service",
+      "@id": "https://www.settleloans.in/onecard-slice-uni-credit-card-settlement#service",
       "name": "SettleLoans - Fintech Credit Card Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted OneCard, Slice, and Uni credit card obligations directly with underlying partner banks under RBI compromise settlement frameworks.",
-      "url": "https://settleloans.in/onecard-slice-uni-credit-card-settlement",
-      "image": "https://settleloans.in/images/infographics/onecard-slice-uni-credit-card-settlement.jpg",
+      "url": "https://www.settleloans.in/onecard-slice-uni-credit-card-settlement",
+      "image": "https://www.settleloans.in/images/infographics/onecard-slice-uni-credit-card-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -163,9 +163,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -239,7 +239,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/onecard-slice-uni-credit-card-settlement#faq",
+      "@id": "https://www.settleloans.in/onecard-slice-uni-credit-card-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -325,12 +325,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

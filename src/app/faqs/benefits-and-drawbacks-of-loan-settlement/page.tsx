@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Key Benefits & Drawbacks of Loan Settlement in India | 2024 Expert Guide",
     description: "Discover the critical benefits and hidden drawbacks of pursuing a loan settlement in India. Master the trade-offs between debt relief and CIBIL impact.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement",
+        canonical: "https://www.settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement",
     },
 };
 
@@ -18,43 +18,43 @@ export default function BenefitsDrawbacksPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement#webpage",
-                "url": "https://settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement",
+                "@id": "https://www.settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement#webpage",
+                "url": "https://www.settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement",
                 "name": "Benefits and Drawbacks of Loan Settlement India | SettleLoans",
                 "description": "Comprehensive analysis of the pros and cons of debt settlement for Indian borrowers.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Benefits & Drawbacks",
-                        "item": "https://settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement"
+                        "item": "https://www.settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement#article",
+                "@id": "https://www.settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement#article",
                 "headline": "What are the key benefits and drawbacks of pursuing a loan settlement?",
                 "description": "Weight the pros and cons of loan settlement. Learn how to navigate the immediate relief of debt waivers against the long-term impact on your credit score.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Research Cell"
@@ -64,7 +64,7 @@ export default function BenefitsDrawbacksPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-05-18",
@@ -72,7 +72,7 @@ export default function BenefitsDrawbacksPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement#faq",
+                "@id": "https://www.settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -150,7 +150,7 @@ export default function BenefitsDrawbacksPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement#service",
+                "@id": "https://www.settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement#service",
                 "name": "Debt Settlement Negotiation Service",
                 "description": "Expert assistance in balancing the benefits and drawbacks of loan settlement to achieve the best possible financial outcome for the borrower.",
                 "brand": {

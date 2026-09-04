@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "How to Check the CIBIL Defaulter List | RBI Guidelines",
   description: "Has a recovery agent threatened to put your name on the 'CIBIL Defaulter List'? Discover what this list actually is, how to check it online, and stop recovery agent threats.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-check-the-cibil-defaulter-list",
+    canonical: "https://www.settleloans.in/how-to-check-the-cibil-defaulter-list",
   },
 };
 
@@ -17,34 +17,34 @@ export default function CibilDefaulterListPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-check-the-cibil-defaulter-list#webpage",
-        "url": "https://settleloans.in/how-to-check-the-cibil-defaulter-list",
+        "@id": "https://www.settleloans.in/how-to-check-the-cibil-defaulter-list#webpage",
+        "url": "https://www.settleloans.in/how-to-check-the-cibil-defaulter-list",
         "name": "How to Check the CIBIL Defaulter List | RBI Guidelines",
         "description": "Has a recovery agent threatened to put your name on the 'CIBIL Defaulter List'? Discover what this list actually is and how to check it.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-check-the-cibil-defaulter-list#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-check-the-cibil-defaulter-list#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-check-the-cibil-defaulter-list#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-check-the-cibil-defaulter-list#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "CIBIL Defaulter List Guide",
-            "item": "https://settleloans.in/how-to-check-the-cibil-defaulter-list"
+            "item": "https://www.settleloans.in/how-to-check-the-cibil-defaulter-list"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-check-the-cibil-defaulter-list#article",
+        "@id": "https://www.settleloans.in/how-to-check-the-cibil-defaulter-list#article",
         "headline": "How to Check the CIBIL Defaulter List",
         "description": "A comprehensive guide on checking the CIBIL defaulter list, the RBI wilful defaulter database, and how to deal with recovery agent threats.",
         "author": {
@@ -56,22 +56,22 @@ export default function CibilDefaulterListPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-08-15",
         "dateModified": "2024-08-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-check-the-cibil-defaulter-list#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-check-the-cibil-defaulter-list#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-check-the-cibil-defaulter-list#product",
+        "@id": "https://www.settleloans.in/how-to-check-the-cibil-defaulter-list#product",
         "name": "Anti-Harassment Legal Intervention",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to stop recovery agent harassment and resolve CIBIL default threats.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function CibilDefaulterListPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-check-the-cibil-defaulter-list#faq",
+        "@id": "https://www.settleloans.in/how-to-check-the-cibil-defaulter-list#faq",
         "mainEntity": [
           {
             "@type": "Question",

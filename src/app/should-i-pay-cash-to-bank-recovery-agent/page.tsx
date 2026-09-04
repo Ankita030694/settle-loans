@@ -47,16 +47,16 @@ export const metadata: Metadata = {
     'safe payment methods for loan settlement'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/should-i-pay-cash-to-bank-recovery-agent',
+    canonical: 'https://www.settleloans.in/should-i-pay-cash-to-bank-recovery-agent',
   },
   openGraph: {
     title: 'Can You Pay Cash to Loan Recovery Agents? RBI Rules, Fraud Risks & Safe Settlement Protocols',
     description: 'Never hand cash to a third-party recovery agent. Learn RBI regulations on debt collection, how fake manual receipts misappropriate your money, and how to execute safe bank settlements.',
-    url: 'https://settleloans.in/should-i-pay-cash-to-bank-recovery-agent',
+    url: 'https://www.settleloans.in/should-i-pay-cash-to-bank-recovery-agent',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/should-i-pay-cash-to-bank-recovery-agent.jpg',
+        url: 'https://www.settleloans.in/images/infographics/should-i-pay-cash-to-bank-recovery-agent.jpg',
         width: 1200,
         height: 675,
         alt: 'Can You Pay Cash to Bank Loan Recovery Agents Infographic Guide',
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Can You Pay Cash to Loan Recovery Agents? RBI Rules & Safe Payment Protocols',
     description: 'Explore why paying cash to field debt collectors leads to financial fraud. Understand RBI guidelines, digital verification steps, and safe loan settlement protocols.',
-    images: ['https://settleloans.in/images/infographics/should-i-pay-cash-to-bank-recovery-agent.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/should-i-pay-cash-to-bank-recovery-agent.jpg'],
   },
 };
 
@@ -78,74 +78,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/should-i-pay-cash-to-bank-recovery-agent#webpage",
-      "url": "https://settleloans.in/should-i-pay-cash-to-bank-recovery-agent",
+      "@id": "https://www.settleloans.in/should-i-pay-cash-to-bank-recovery-agent#webpage",
+      "url": "https://www.settleloans.in/should-i-pay-cash-to-bank-recovery-agent",
       "name": "Can You Pay Cash to Loan Recovery Agents? RBI Rules & Fraud Risks (2026)",
       "description": "Comprehensive legal and financial advisory guide explaining why borrowers must never pay cash to bank recovery agents, citing RBI Master Directions, criminal breach of trust risks, and verified settlement procedures.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/should-i-pay-cash-to-bank-recovery-agent#breadcrumb"
+        "@id": "https://www.settleloans.in/should-i-pay-cash-to-bank-recovery-agent#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/should-i-pay-cash-to-bank-recovery-agent#breadcrumb",
+      "@id": "https://www.settleloans.in/should-i-pay-cash-to-bank-recovery-agent#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Should I Pay Cash to Bank Recovery Agent",
-          "item": "https://settleloans.in/should-i-pay-cash-to-bank-recovery-agent"
+          "item": "https://www.settleloans.in/should-i-pay-cash-to-bank-recovery-agent"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/should-i-pay-cash-to-bank-recovery-agent#article",
+      "@id": "https://www.settleloans.in/should-i-pay-cash-to-bank-recovery-agent#article",
       "headline": "Can You Pay Cash to Loan Recovery Agents? RBI Rules, Fraud Risks & Safe Settlement Protocols",
       "description": "An exhaustive analysis of the legal, procedural, and financial perils of paying cash to field debt collectors in India. Covers RBI Master Directions on recovery conduct, fake manual receipt scams, ledger reconciliation failures, and safe digital payment protocols.",
-      "image": "https://settleloans.in/images/infographics/should-i-pay-cash-to-bank-recovery-agent.jpg",
+      "image": "https://www.settleloans.in/images/infographics/should-i-pay-cash-to-bank-recovery-agent.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/should-i-pay-cash-to-bank-recovery-agent#webpage"
+        "@id": "https://www.settleloans.in/should-i-pay-cash-to-bank-recovery-agent#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/should-i-pay-cash-to-bank-recovery-agent#service",
+      "@id": "https://www.settleloans.in/should-i-pay-cash-to-bank-recovery-agent#service",
       "name": "SettleLoans - Debt Settlement & Anti-Fraud Advisory",
       "description": "Specialized legal representation, recovery agent anti-harassment defense, financial fraud prevention, and structured loan settlement advisory for borrowers across Indian banking institutions.",
-      "url": "https://settleloans.in/should-i-pay-cash-to-bank-recovery-agent",
-      "image": "https://settleloans.in/images/infographics/should-i-pay-cash-to-bank-recovery-agent.jpg",
+      "url": "https://www.settleloans.in/should-i-pay-cash-to-bank-recovery-agent",
+      "image": "https://www.settleloans.in/images/infographics/should-i-pay-cash-to-bank-recovery-agent.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -158,9 +158,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -234,7 +234,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/should-i-pay-cash-to-bank-recovery-agent#faq",
+      "@id": "https://www.settleloans.in/should-i-pay-cash-to-bank-recovery-agent#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -304,12 +304,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

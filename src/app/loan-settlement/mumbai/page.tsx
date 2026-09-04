@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Expert Loan Settlement Services in Mumbai & MMR | Legal Debt Relief - SettleLoans",
   description: "Overwhelmed by debt in Mumbai? Navigate Lok Adalat 2026, stop recovery harassment legally, and settle credit cards/personal loans with 40-70% waivers. Expert legal aid for MMR families.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/mumbai",
+    canonical: "https://www.settleloans.in/loan-settlement/mumbai",
   },
 };
 
@@ -16,46 +16,46 @@ export default function MumbaiLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/mumbai#webpage",
-        "url": "https://settleloans.in/loan-settlement/mumbai",
+        "@id": "https://www.settleloans.in/loan-settlement/mumbai#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/mumbai",
         "name": "Mumbai's Definitive Guide to Legal Loan Settlement & Debt Recovery",
         "description": "Comprehensive legal and financial guide to settling loans in Mumbai, featuring Lok Adalat schedules and borrower protection laws.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/mumbai#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/mumbai#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/mumbai#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/mumbai#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Mumbai",
-            "item": "https://settleloans.in/loan-settlement/mumbai"
+            "item": "https://www.settleloans.in/loan-settlement/mumbai"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/mumbai#service",
+        "@id": "https://www.settleloans.in/loan-settlement/mumbai#service",
         "name": "Mumbai Loan Settlement & Anti-Harassment Services",
         "description": "Specialized legal representation for Mumbaikars facing debt crises, offering negotiation at BKC headquarters and protection at Lok Adalats.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Mumbai" },
@@ -114,7 +114,7 @@ export default function MumbaiLoanSettlementPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/mumbai#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/mumbai#faq",
         "mainEntity": [
           {
             "@type": "Question",

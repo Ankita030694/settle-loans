@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How to Settle Debt for Less: 30-70% Waiver Guide (2024-25) | SettleLoans",
   description: "Learn how to settle your debt for less in India. Professional negotiation tactics for credit cards and personal loans. Get a 50% waiver legally with our guide.",
   alternates: {
-    canonical: "https://settleloans.in/faqs/how-to-settle-debt-for-less",
+    canonical: "https://www.settleloans.in/faqs/how-to-settle-debt-for-less",
   },
 };
 
@@ -16,41 +16,41 @@ export default function SettleDebtForLessPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/faqs/how-to-settle-debt-for-less#webpage",
-        "url": "https://settleloans.in/faqs/how-to-settle-debt-for-less",
+        "@id": "https://www.settleloans.in/faqs/how-to-settle-debt-for-less#webpage",
+        "url": "https://www.settleloans.in/faqs/how-to-settle-debt-for-less",
         "name": "How to Settle Debt for Less: Step-by-Step Negotiation Guide",
         "description": "Comprehensive strategies for settling credit card and personal loan debts for a fraction of the outstanding amount in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/faqs/how-to-settle-debt-for-less#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/faqs/how-to-settle-debt-for-less#article" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/faqs/how-to-settle-debt-for-less#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/faqs/how-to-settle-debt-for-less#article" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/faqs/how-to-settle-debt-for-less#breadcrumb",
+        "@id": "https://www.settleloans.in/faqs/how-to-settle-debt-for-less#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "FAQs",
-            "item": "https://settleloans.in/faqs"
+            "item": "https://www.settleloans.in/faqs"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Settle Debt for Less",
-            "item": "https://settleloans.in/faqs/how-to-settle-debt-for-less"
+            "item": "https://www.settleloans.in/faqs/how-to-settle-debt-for-less"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/faqs/how-to-settle-debt-for-less#article",
+        "@id": "https://www.settleloans.in/faqs/how-to-settle-debt-for-less#article",
         "headline": "How to Settle Debt for Less in India: The 2024-25 Masterclass",
         "description": "Expert advice on negotiating with Indian banks to settle debts for significantly lower amounts while staying legally protected.",
         "author": {
@@ -62,22 +62,22 @@ export default function SettleDebtForLessPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-02",
         "dateModified": "2024-02-02",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/faqs/how-to-settle-debt-for-less#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/faqs/how-to-settle-debt-for-less#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/faqs/how-to-settle-debt-for-less#service",
+        "@id": "https://www.settleloans.in/faqs/how-to-settle-debt-for-less#service",
         "name": "How to Settle Debt Guide",
         "description": "Expert advice on negotiating with Indian banks to settle debts for significantly lower amounts.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -87,7 +87,7 @@ export default function SettleDebtForLessPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/faqs/how-to-settle-debt-for-less#faq",
+        "@id": "https://www.settleloans.in/faqs/how-to-settle-debt-for-less#faq",
         "mainEntity": [
           {
             "@type": "Question",

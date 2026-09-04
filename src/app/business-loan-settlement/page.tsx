@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   title: "Business Loan Settlement | MSME & Unsecured Loan Settlement Experts",
   description: "Unable to repay your business loan? We specialize in settling Unsecured Business Loans, MSME loans, and handling Cheque Bounce (Sec 138) cases. Save up to 50% on outstanding dues.",
   alternates: {
-    canonical: "https://settleloans.in/business-loan-settlement",
+    canonical: "https://www.settleloans.in/business-loan-settlement",
   },
   keywords: [
     "business loan settlement", 
@@ -51,40 +51,40 @@ export default function BusinessLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/business-loan-settlement#webpage",
-        "url": "https://settleloans.in/business-loan-settlement",
+        "@id": "https://www.settleloans.in/business-loan-settlement#webpage",
+        "url": "https://www.settleloans.in/business-loan-settlement",
         "name": "Business Loan Settlement | MSME & Unsecured Loan Settlement Experts",
         "description": "Unable to repay your business loan? We specialize in settling Unsecured Business Loans, MSME loans, and handling Cheque Bounce (Sec 138) cases.",
-        "breadcrumb": { "@id": "https://settleloans.in/business-loan-settlement#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/business-loan-settlement#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/business-loan-settlement#breadcrumb",
+        "@id": "https://www.settleloans.in/business-loan-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Business Loan Settlement",
-            "item": "https://settleloans.in/business-loan-settlement"
+            "item": "https://www.settleloans.in/business-loan-settlement"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/business-loan-settlement#service",
+        "@id": "https://www.settleloans.in/business-loan-settlement#service",
         "name": "Business Loan Settlement Services",
         "description": "Legal settlement services for unsecured business loans, MSME debts, and defense against Section 138 cheque bounce cases.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": {
           "@type": "Country",
@@ -141,7 +141,7 @@ export default function BusinessLoanSettlementPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/business-loan-settlement#faq",
+        "@id": "https://www.settleloans.in/business-loan-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -227,7 +227,7 @@ export default function BusinessLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/business-loan-settlement#article",
+        "@id": "https://www.settleloans.in/business-loan-settlement#article",
         "headline": "Business Loan Settlement India: The Complete Guide",
         "description": "How to settle unsecured business loans and deal with Section 138 cases. A guide for MSME owners facing debt crisis.",
         "author": {
@@ -239,12 +239,12 @@ export default function BusinessLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-01-24",
         "dateModified": "2024-01-30",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/business-loan-settlement#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/business-loan-settlement#webpage" }
       }
     ]
   };

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Overdue Loan Legal Protection India | Defaulter Rights & Recovery Defense",
     description: "Are you facing an overdue loan default? Understand your legal rights under RBI guidelines and Indian law. Protect yourself from illegal recovery and SARFAESI actions.",
     alternates: {
-        canonical: "https://settleloans.in/overdue-loan-legal-protection",
+        canonical: "https://www.settleloans.in/overdue-loan-legal-protection",
     },
 };
 
@@ -16,34 +16,34 @@ export default function OverdueLoanProtectionPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/overdue-loan-legal-protection#webpage",
-                "url": "https://settleloans.in/overdue-loan-legal-protection",
+                "@id": "https://www.settleloans.in/overdue-loan-legal-protection#webpage",
+                "url": "https://www.settleloans.in/overdue-loan-legal-protection",
                 "name": "Overdue Loan Legal Protection India | Defaulter Rights & Recovery Defense",
                 "description": "Essential legal resource for loan defaulters in India. Learn about debt recovery laws, RBI guidelines, and how to defend against aggressive collection tactics.",
-                "breadcrumb": { "@id": "https://settleloans.in/overdue-loan-legal-protection#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/overdue-loan-legal-protection#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/overdue-loan-legal-protection#breadcrumb",
+                "@id": "https://www.settleloans.in/overdue-loan-legal-protection#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Overdue Loan Legal Protection",
-                        "item": "https://settleloans.in/overdue-loan-legal-protection"
+                        "item": "https://www.settleloans.in/overdue-loan-legal-protection"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/overdue-loan-legal-protection#article",
+                "@id": "https://www.settleloans.in/overdue-loan-legal-protection#article",
                 "headline": "Defending Defaulters: The Legal Shield Against Aggressive Debt Recovery",
                 "description": "A comprehensive guide to borrower rights, the SARFAESI process, and legal defenses against loan default lawsuits in India.",
                 "author": {
@@ -55,16 +55,16 @@ export default function OverdueLoanProtectionPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-07",
                 "dateModified": "2024-03-07",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/overdue-loan-legal-protection#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/overdue-loan-legal-protection#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/overdue-loan-legal-protection#product",
+                "@id": "https://www.settleloans.in/overdue-loan-legal-protection#product",
                 "name": "Overdue Loan Defense & Legal Counsel",
                 "description": "Professional legal protection services for individuals and businesses facing loan defaults, recovery notices, and asset seizure threats.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function OverdueLoanProtectionPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/overdue-loan-legal-protection#faq",
+                "@id": "https://www.settleloans.in/overdue-loan-legal-protection#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

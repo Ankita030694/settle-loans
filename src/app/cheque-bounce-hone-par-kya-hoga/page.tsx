@@ -47,16 +47,16 @@ export const metadata: Metadata = {
     'magistrate court summons cheque bounce defence'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/cheque-bounce-hone-par-kya-hoga',
+    canonical: 'https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga',
   },
   openGraph: {
     title: 'Cheque Bounce Hone Par Kya Hoga: Section 138 Legal Defence & Settlement',
     description: 'Bank deposited your blank security cheque? Understand Section 138 notice timelines, bail rights in Magistrate Court, and how compounding under Section 147 withdraws criminal cases.',
-    url: 'https://settleloans.in/cheque-bounce-hone-par-kya-hoga',
+    url: 'https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/cheque-bounce-hone-par-kya-hoga.jpg',
+        url: 'https://www.settleloans.in/images/infographics/cheque-bounce-hone-par-kya-hoga.jpg',
         width: 1200,
         height: 675,
         alt: 'Cheque Bounce Hone Par Kya Hoga Legal Defence Infographic',
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Cheque Bounce Hone Par Kya Hoga: Comprehensive Borrower Legal Guide',
     description: 'Exhaustive defence roadmap for loan cheque dishonour: Section 138 notice audit, bailable offence bail procedures, and complete case compounding through One-Time Settlement (OTS).',
-    images: ['https://settleloans.in/images/infographics/cheque-bounce-hone-par-kya-hoga.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/cheque-bounce-hone-par-kya-hoga.jpg'],
   },
 };
 
@@ -78,73 +78,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/cheque-bounce-hone-par-kya-hoga#webpage",
-      "url": "https://settleloans.in/cheque-bounce-hone-par-kya-hoga",
+      "@id": "https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga#webpage",
+      "url": "https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga",
       "name": "Cheque Bounce Hone Par Kya Hoga: Section 138 Legal Defence, Bail Rights & Case Withdrawal",
       "description": "A comprehensive legal and financial guide detailing borrower rights, statutory timelines, criminal intimidation defense, bail procedures, and compounding of Section 138 cases via loan settlement.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/cheque-bounce-hone-par-kya-hoga#breadcrumb"
+        "@id": "https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/cheque-bounce-hone-par-kya-hoga#breadcrumb",
+      "@id": "https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Cheque Bounce Hone Par Kya Hoga",
-          "item": "https://settleloans.in/cheque-bounce-hone-par-kya-hoga"
+          "item": "https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/cheque-bounce-hone-par-kya-hoga#article",
+      "@id": "https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga#article",
       "headline": "Cheque Bounce Hone Par Kya Hoga: Section 138 Defence, Bail Rights, and OTS Compounding",
       "description": "In-depth legal analysis of cheque dishonour under Section 138 of the Negotiable Instruments Act, Supreme Court precedents on security cheques, bailable offence provisions, and compounding under Section 147.",
-      "image": "https://settleloans.in/images/infographics/cheque-bounce-hone-par-kya-hoga.jpg",
+      "image": "https://www.settleloans.in/images/infographics/cheque-bounce-hone-par-kya-hoga.jpg",
       "datePublished": "2026-08-26T09:00:00+05:30",
       "dateModified": "2026-08-26T09:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/cheque-bounce-hone-par-kya-hoga#webpage"
+        "@id": "https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo/logo.svg",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo/logo.svg",
       "contactPoint": [
         {
           "@type": "ContactPoint",
@@ -157,11 +157,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/cheque-bounce-hone-par-kya-hoga#service",
+      "@id": "https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga#service",
       "name": "SettleLoans Section 138 Cheque Bounce Defence & OTS Advisory",
       "description": "Specialized banking and criminal law defense consultancy protecting borrowers against malicious security cheque presentation, Section 138 notices, and executing case compounding through structured debt settlements.",
-      "url": "https://settleloans.in/cheque-bounce-hone-par-kya-hoga",
-      "image": "https://settleloans.in/images/infographics/cheque-bounce-hone-par-kya-hoga.jpg",
+      "url": "https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga",
+      "image": "https://www.settleloans.in/images/infographics/cheque-bounce-hone-par-kya-hoga.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -174,9 +174,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -250,7 +250,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/cheque-bounce-hone-par-kya-hoga#faq",
+      "@id": "https://www.settleloans.in/cheque-bounce-hone-par-kya-hoga#faq",
       "mainEntity": [
         {
           "@type": "Question",

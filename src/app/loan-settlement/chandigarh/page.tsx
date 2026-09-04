@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement Chandigarh | 3500+ Word Legal Debt Relief Guide",
   description: "Expert loan settlement services in Chandigarh. Detailed 3500+ word guide on debt relief, DRT Chandigarh procedures, stopping harassment in Tricity, and settling credit card dues legally.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/chandigarh",
+    canonical: "https://www.settleloans.in/loan-settlement/chandigarh",
   },
 };
 
@@ -16,47 +16,47 @@ export default function ChandigarhLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/chandigarh#webpage",
-        "url": "https://settleloans.in/loan-settlement/chandigarh",
+        "@id": "https://www.settleloans.in/loan-settlement/chandigarh#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/chandigarh",
         "name": "Loan Settlement Chandigarh | Legal Debt Relief Guide - SettleLoans",
         "description": "Expert loan settlement services in Chandigarh. Detailed 3500+ word guide on debt relief, DRT Chandigarh procedures, stopping harassment in Tricity, and settling credit card dues legally.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/chandigarh#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/chandigarh#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/chandigarh#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/chandigarh#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/chandigarh#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/chandigarh#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Chandigarh",
-            "item": "https://settleloans.in/loan-settlement/chandigarh"
+            "item": "https://www.settleloans.in/loan-settlement/chandigarh"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/chandigarh#service",
+        "@id": "https://www.settleloans.in/loan-settlement/chandigarh#service",
         "name": "Chandigarh Loan Settlement Services",
         "description": "Professional debt negotiation and legal protection services for personal loans and credit cards in Chandigarh, Mohali, and Panchkula.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Chandigarh" },
@@ -90,7 +90,7 @@ export default function ChandigarhLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/chandigarh#article",
+        "@id": "https://www.settleloans.in/loan-settlement/chandigarh#article",
         "headline": "Loan Settlement in Chandigarh: A Comprehensive Legal Guide",
         "description": "The ultimate guide to settling loans in Chandigarh. Learn about DRT procedures, RBI guidelines, and how to get out of debt in the Tricity area.",
         "author": {
@@ -102,16 +102,16 @@ export default function ChandigarhLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-03",
         "dateModified": "2024-02-03",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/chandigarh#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/chandigarh#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/chandigarh#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/chandigarh#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Legal Risks of Defaulting on a Loan Without Settlement in India | 2024-25",
     description: "Understand the civil and criminal risks of loan default in India. Learn about SARFAESI, Section 138, Wilful Defaulter status, and legal rights for 2024-25.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement",
+        canonical: "https://www.settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement",
     },
 };
 
@@ -18,43 +18,43 @@ export default function LegalRisksLoanDefaultPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement#webpage",
-                "url": "https://settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement",
+                "@id": "https://www.settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement#webpage",
+                "url": "https://www.settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement",
                 "name": "Legal Risks of Defaulting on a Loan Without Settlement in India | 2024-25 Guide",
                 "description": "Comprehensive guide on civil and criminal legal consequences of loan default in India, including SARFAESI Act, Section 138 NI Act, and borrower rights.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Legal Risks of Loan Default",
-                        "item": "https://settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement"
+                        "item": "https://www.settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement#article",
+                "@id": "https://www.settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement#article",
                 "headline": "What are the legal risks of defaulting on a loan without settlement in India",
                 "description": "A deep-dive into the legal framework of debt recovery in India, highlighting civil suits, criminal charges, and how to protect yourself legally.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Legal Analysis Team"
@@ -64,7 +64,7 @@ export default function LegalRisksLoanDefaultPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-06-10",
@@ -72,7 +72,7 @@ export default function LegalRisksLoanDefaultPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement#faq",
+                "@id": "https://www.settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -238,7 +238,7 @@ export default function LegalRisksLoanDefaultPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement#service",
+                "@id": "https://www.settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement#service",
                 "name": "Legal Protection during Loan Settlement",
                 "description": "Professional legal defense and negotiation services to protect borrowers from aggressive recovery and court cases during the debt settlement process.",
                 "brand": {

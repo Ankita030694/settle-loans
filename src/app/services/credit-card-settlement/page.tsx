@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   title: "Credit Card Settlement Services India | Expert Debt Relief - SettleLoans",
   description: "Stuck in the credit card Minimum Due trap? SettleLoans helps you legally settle credit card debt for 50% less. Expert protection from recovery agents and arbitration.",
   alternates: {
-    canonical: "https://settleloans.in/services/credit-card-settlement",
+    canonical: "https://www.settleloans.in/services/credit-card-settlement",
   },
   keywords: ["credit card settlement", "settle credit card debt", "credit card debt relief india", "minimum due trap calculator", "credit card arbitration defense", "stop recovery harassment", "debt settlement process india", "credit card written off vs settled", "credit card defaulter rights rbi", "rbi guidelines for credit card recovery agents"]
 };
@@ -46,46 +46,46 @@ export default function CreditCardSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/services/credit-card-settlement#webpage",
-        "url": "https://settleloans.in/services/credit-card-settlement",
+        "@id": "https://www.settleloans.in/services/credit-card-settlement#webpage",
+        "url": "https://www.settleloans.in/services/credit-card-settlement",
         "name": "Credit Card Settlement Services India | Expert Debt Relief - SettleLoans",
         "description": "Stuck in the credit card Minimum Due trap? SettleLoans helps you legally settle credit card debt for 50% less. Expert protection from recovery agents and arbitration.",
-        "breadcrumb": { "@id": "https://settleloans.in/services/credit-card-settlement#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/services/credit-card-settlement#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/services/credit-card-settlement#breadcrumb",
+        "@id": "https://www.settleloans.in/services/credit-card-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Services",
-            "item": "https://settleloans.in/services"
+            "item": "https://www.settleloans.in/services"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Credit Card Settlement",
-            "item": "https://settleloans.in/services/credit-card-settlement"
+            "item": "https://www.settleloans.in/services/credit-card-settlement"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/services/credit-card-settlement#service",
+        "@id": "https://www.settleloans.in/services/credit-card-settlement#service",
         "name": "Credit Card Settlement Services",
         "description": "Comprehensive legal and financial service to settle unsecured credit card debt, aiming for 50-60% waiver on total outstanding. Services include anti-harassment protection, legal defense against arbitration/Section 138, and financial planning.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": {
           "@type": "Country",
@@ -135,7 +135,7 @@ export default function CreditCardSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/services/credit-card-settlement#article",
+        "@id": "https://www.settleloans.in/services/credit-card-settlement#article",
         "headline": "Credit Card Settlement India: The Complete Guide",
         "description": "Learn how to escape the minimum due trap and settle your credit card debt legally with a 50% waiver.",
         "author": {
@@ -147,16 +147,16 @@ export default function CreditCardSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-01-10",
         "dateModified": "2024-01-30",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/services/credit-card-settlement#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/services/credit-card-settlement#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/services/credit-card-settlement#faq",
+        "@id": "https://www.settleloans.in/services/credit-card-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",

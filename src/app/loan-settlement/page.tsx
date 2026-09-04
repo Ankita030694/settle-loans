@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement Services in India | Legal Debt Negotiation - SettleLoans",
   description: "Don't let debt take over your life. SettleLoans provides professional loan settlement and anti-harassment services across India. Settle credit cards & personal loans for 40-70% less.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement",
+    canonical: "https://www.settleloans.in/loan-settlement",
   },
 };
 
@@ -16,40 +16,40 @@ export default function LoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement#webpage",
-        "url": "https://settleloans.in/loan-settlement",
+        "@id": "https://www.settleloans.in/loan-settlement#webpage",
+        "url": "https://www.settleloans.in/loan-settlement",
         "name": "Loan Settlement Services in India | Legal Debt Negotiation - SettleLoans",
         "description": "Don't let debt take over your life. SettleLoans provides professional loan settlement and anti-harassment services across India. Settle credit cards & personal loans for 40-70% less.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement#service",
+        "@id": "https://www.settleloans.in/loan-settlement#service",
         "name": "Loan Settlement Services",
         "description": "Expert legal and financial negotiation services for settling unsecured loans and credit card debts.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": {
           "@type": "Country",
@@ -79,7 +79,7 @@ export default function LoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement#article",
+        "@id": "https://www.settleloans.in/loan-settlement#article",
         "headline": "Complete Guide to Loan Settlement in India",
         "description": "A comprehensive guide on how loan settlement works in India, its benefits, risks, and how SettleLoans can help you get out of debt.",
         "author": {
@@ -91,16 +91,16 @@ export default function LoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-01-24",
         "dateModified": "2024-01-30",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement#faq",
+        "@id": "https://www.settleloans.in/loan-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",

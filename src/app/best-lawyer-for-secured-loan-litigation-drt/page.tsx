@@ -12,35 +12,35 @@ export default function SecuredLoanLitigationPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-secured-loan-litigation-drt#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-secured-loan-litigation-drt",
+                "@id": "https://www.settleloans.in/best-lawyer-for-secured-loan-litigation-drt#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-secured-loan-litigation-drt",
                 "name": "Best Lawyer for Secured Loan Litigation & DRT | SARFAESI Act Defence",
                 "description": "Expert legal representation for secured loan defaults. Challenge SARFAESI 13(2) & 13(4) notices, stop auctions, and defend your property in DRT. 4500+ word expert guide.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-secured-loan-litigation-drt#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-secured-loan-litigation-drt#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-secured-loan-litigation-drt#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-secured-loan-litigation-drt#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Secured Loan Litigation", "item": "https://settleloans.in/best-lawyer-for-secured-loan-litigation-drt" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Secured Loan Litigation", "item": "https://www.settleloans.in/best-lawyer-for-secured-loan-litigation-drt" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-secured-loan-litigation-drt#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-secured-loan-litigation-drt#article",
                 "headline": "Best Lawyer for Secured Loan Litigation: Defending SARFAESI and DRT Recovery",
                 "description": "Comprehensive guide to defending secured loans. Learn how to challenge bank notices, stop property auctions, and leverage DRT litigation to save your assets.",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Content Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-secured-loan-litigation-drt#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-secured-loan-litigation-drt#webpage" }
             },
             {
                 "@type": "FAQPage",
@@ -65,7 +65,7 @@ export default function SecuredLoanLitigationPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-secured-loan-litigation-drt#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-secured-loan-litigation-drt#product",
                 "name": "Secured Loan Legal Defence & DRT Services",
                 "description": "Professional SARFAESI Act defence, property auction suspension, and DRT litigation services for secured loan borrowers in India.",
                 "aggregateRating": {

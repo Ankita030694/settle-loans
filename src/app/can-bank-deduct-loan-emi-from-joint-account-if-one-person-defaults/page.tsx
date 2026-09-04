@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Can the Bank Deduct Loan EMI from a Joint Account if Only One Person Defaulted?",
   description: "A legal analysis of the Banker's Right of Set-Off in India. Learn if banks can legally deduct EMI from a joint account without permission or freeze a spouse's account for a personal loan default.",
   alternates: {
-    canonical: "https://settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults",
+    canonical: "https://www.settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults",
   },
 };
 
@@ -17,34 +17,34 @@ export default function JointAccountEmiDeductionPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults#webpage",
-        "url": "https://settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults",
+        "@id": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults#webpage",
+        "url": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults",
         "name": "Can the Bank Deduct Loan EMI from a Joint Account if Only One Person Defaulted?",
         "description": "Understand the Banker’s Right of General Lien and Set-Off. Learn when a bank can legally auto debit from a joint account for a personal loan default.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults#breadcrumb",
+        "@id": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Bank Deducting EMI From Joint Account",
-            "item": "https://settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults"
+            "item": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults#article",
+        "@id": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults#article",
         "headline": "Can the Bank Deduct Loan EMI from a Joint Account if Only One Person Defaulted?",
         "description": "A comprehensive guide on right of set-off rules in India and dealing with unauthorized bank deductions from joint accounts.",
         "author": {
@@ -56,22 +56,22 @@ export default function JointAccountEmiDeductionPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-07-22",
         "dateModified": "2026-07-22",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults#product",
+        "@id": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults#product",
         "name": "Unauthorized Deduction Legal Defense Services",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Legal consultation and defense services for unauthorized bank deductions and freezing of joint accounts due to spouse or partner defaults.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -113,7 +113,7 @@ export default function JointAccountEmiDeductionPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults#faq",
+        "@id": "https://www.settleloans.in/can-bank-deduct-loan-emi-from-joint-account-if-one-person-defaults#faq",
         "mainEntity": [
           {
             "@type": "Question",

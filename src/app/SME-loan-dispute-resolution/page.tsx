@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "SME Loan Dispute Resolution India | MSME Samadhan & Legal Defense",
     description: "Comprehensive guide to SME loan dispute resolution in India. Learn about MSME Samadhan, MSEFC conciliation, DRT litigation, and legal remedies for business owners.",
     alternates: {
-        canonical: "https://settleloans.in/SME-loan-dispute-resolution",
+        canonical: "https://www.settleloans.in/SME-loan-dispute-resolution",
     },
 };
 
@@ -17,34 +17,34 @@ export default function SMELoanDisputePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/SME-loan-dispute-resolution#webpage",
-                "url": "https://settleloans.in/SME-loan-dispute-resolution",
+                "@id": "https://www.settleloans.in/SME-loan-dispute-resolution#webpage",
+                "url": "https://www.settleloans.in/SME-loan-dispute-resolution",
                 "name": "SME Loan Dispute Resolution India | MSME Samadhan & Legal Defense",
                 "description": "Expert legal guide on resolving SME and MSME loan disputes through formal and informal mechanisms in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/SME-loan-dispute-resolution#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/SME-loan-dispute-resolution#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/SME-loan-dispute-resolution#breadcrumb",
+                "@id": "https://www.settleloans.in/SME-loan-dispute-resolution#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "SME Loan Dispute Resolution",
-                        "item": "https://settleloans.in/SME-loan-dispute-resolution"
+                        "item": "https://www.settleloans.in/SME-loan-dispute-resolution"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/SME-loan-dispute-resolution#article",
+                "@id": "https://www.settleloans.in/SME-loan-dispute-resolution#article",
                 "headline": "SME Loan Dispute Resolution: Protecting Your MSME from Predatory Recovery",
                 "description": "Navigate the complex landscape of SME loan disputes in India with our comprehensive guide on MSME Samadhan, DRT, and legal settlements.",
                 "author": {
@@ -56,16 +56,16 @@ export default function SMELoanDisputePage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-06",
                 "dateModified": "2024-03-06",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/SME-loan-dispute-resolution#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/SME-loan-dispute-resolution#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/SME-loan-dispute-resolution#product",
+                "@id": "https://www.settleloans.in/SME-loan-dispute-resolution#product",
                 "name": "MSME Legal Defense Services",
                 "description": "Professional legal assistance for MSMEs facing loan disputes, recovery actions, and NPA classifications.",
                 "aggregateRating": {
@@ -92,7 +92,7 @@ export default function SMELoanDisputePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/SME-loan-dispute-resolution#faq",
+                "@id": "https://www.settleloans.in/SME-loan-dispute-resolution#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

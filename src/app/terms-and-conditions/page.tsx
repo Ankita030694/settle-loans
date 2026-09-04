@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Terms and Conditions - SettleLoans",
   description: "Read the Terms and Conditions for using SettleLoans services and website. Understand your rights and responsibilities when using our platform.",
   alternates: {
-    canonical: "https://settleloans.in/terms-and-conditions",
+    canonical: "https://www.settleloans.in/terms-and-conditions",
   },
 };
 

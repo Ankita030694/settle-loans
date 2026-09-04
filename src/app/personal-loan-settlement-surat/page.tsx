@@ -50,16 +50,16 @@ export const metadata: Metadata = {
     'debt settlement advocate surat'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-surat',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-surat',
   },
   openGraph: {
     title: 'Loan Settlement Services in Surat: Settle Unsecured & Business Loans',
     description: 'Master the legal and financial roadmap for personal loan, business loan, and overdraft settlement in Surat. Learn how advocate representation halts recovery harassment, defends against court notices, and secures 45%–65% One-Time Settlements.',
-    url: 'https://settleloans.in/personal-loan-settlement-surat',
+    url: 'https://www.settleloans.in/personal-loan-settlement-surat',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-surat.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-surat.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Settlement Services in Surat - Legal Debt Relief Roadmap',
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement Services in Surat: Settle Unsecured & Business Loans',
     description: 'Facing loan default in Surat? Legal debt settlement guide for diamond traders, textile MSMEs, and salaried borrowers in Surat, Gujarat.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-surat.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-surat.jpg'],
   },
 };
 
@@ -81,74 +81,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-surat#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-surat",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-surat#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-surat",
       "name": "Loan Settlement Services in Surat: Settle Unsecured & Business Loans (2026)",
       "description": "Struggling with unsecured personal loans, business loans, or OD facilities in Surat? Discover how diamond merchants, textile traders, and salaried professionals in Surat legally settle bank debt with 45%–65% OTS waivers, halt harassment, and obtain RBI No Dues Certificates.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-surat#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-surat#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-surat#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-surat#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan Settlement Services in Surat",
-          "item": "https://settleloans.in/personal-loan-settlement-surat"
+          "item": "https://www.settleloans.in/personal-loan-settlement-surat"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-surat#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-surat#article",
       "headline": "Loan Settlement Services in Surat: How Traders, MSMEs & Borrowers Resolve Unsecured Debt",
       "description": "A comprehensive regulatory and financial guide to settling unsecured personal loans, business credit lines, and overdrafts in Surat, Gujarat. Covers RBI IRACP prudential guidelines, Surat local court defenses under Section 138 NI Act, Net Present Value recovery formulas, and compromise procedures for textile and diamond traders.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-surat.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-surat.jpg",
       "datePublished": "2026-08-27T10:00:00+05:30",
       "dateModified": "2026-08-27T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-surat#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-surat#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-surat#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-surat#service",
       "name": "SettleLoans - Loan Settlement Services in Surat",
       "description": "Specialized legal representation and debt resolution advisory for textile traders, diamond brokers, MSME business owners, and salaried borrowers managing delinquent personal loans and credit lines in Surat, Gujarat.",
-      "url": "https://settleloans.in/personal-loan-settlement-surat",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-surat.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-surat",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-surat.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -161,9 +161,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -237,7 +237,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-surat#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-surat#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -315,12 +315,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

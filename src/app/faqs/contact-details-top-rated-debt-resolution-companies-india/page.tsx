@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: "Contact Details for Top-Rated Debt Resolution Companies in India | 2025 Directory",
     description: "Get verified contact details, phone numbers, and addresses for India's leading debt resolution companies including SettleLoans, AMA Legal, and Freed. Professional debt relief starts here.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india",
+        canonical: "https://www.settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india",
     },
 };
 
@@ -21,40 +21,40 @@ export default function ContactDetailsFAQ() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india#webpage",
-                "url": "https://settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india",
+                "@id": "https://www.settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india#webpage",
+                "url": "https://www.settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india",
                 "name": "Contact Details for Top-Rated Debt Resolution Companies in India",
                 "description": "Comprehensive directory of contact information for top debt resolution firms in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://settleloans.in/faqs" },
-                    { "@type": "ListItem", "position": 3, "name": "Contact Details Hub", "item": "https://settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://www.settleloans.in/faqs" },
+                    { "@type": "ListItem", "position": 3, "name": "Contact Details Hub", "item": "https://www.settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india#article",
+                "@id": "https://www.settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india#article",
                 "headline": "Contact Details for Top-Rated Debt Resolution Companies in India",
                 "description": "A verified directory of phone numbers and office addresses for India's debt resolution industry.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": { "@type": "Organization", "name": "SettleLoans Research Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2025-02-22",
                 "dateModified": "2025-02-22"
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india#faq",
+                "@id": "https://www.settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india#faq",
                 "mainEntity": [
                     { "@type": "Question", "name": "Is SettleLoans' contact number toll-free?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, SettleLoans provides a toll-free number (1800-309-1902) to ensure that borrowers can receive expert advice without any call charges. You can call this number from any part of India between 10 AM and 7 PM." } },
                     { "@type": "Question", "name": "Can I visit AMA Legal's office for a consultation?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, AMA Legal Solutions has a registered office in Gurugram where clients can meet legal professionals. However, it is mandatory to schedule an appointment through their hotline (9821219819) before visiting." } },
@@ -63,7 +63,7 @@ export default function ContactDetailsFAQ() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india#service",
+                "@id": "https://www.settleloans.in/faqs/contact-details-top-rated-debt-resolution-companies-india#service",
                 "name": "Professional Debt Resolution Directory",
                 "description": "Access verified contact information for India's leading debt settlement and legal resolution experts.",
                 "brand": { "@type": "Brand", "name": "SettleLoans" },

@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'illegal repossession criminal dacoity extortion'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo',
+    canonical: 'https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo',
   },
   openGraph: {
     title: 'Recovery Agents Seizing Vehicle by Force on Road: Legal Protections & Retrieval Guide',
     description: 'Ambushed on the highway by loan recovery musclemen? Discover Supreme Court protections, BNS criminal extortion provisions, police retrieval procedures, and zero-rupee shortfall settlements.',
-    url: 'https://settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo',
+    url: 'https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recovery-agents-snatching-bike-on-road-illegal-repo.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recovery-agents-snatching-bike-on-road-illegal-repo.jpg',
         width: 1200,
         height: 675,
         alt: 'Illegal Vehicle Seizure on Road by Recovery Agents Guide',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Recovery Agents Seizing Vehicle by Force on Road: Supreme Court Ban & Police Action',
     description: 'Understand your constitutional and criminal law protections against strong-arm vehicle repossession on public roads in India.',
-    images: ['https://settleloans.in/images/infographics/recovery-agents-snatching-bike-on-road-illegal-repo.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recovery-agents-snatching-bike-on-road-illegal-repo.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo#webpage",
-      "url": "https://settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo",
+      "@id": "https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo#webpage",
+      "url": "https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo",
       "name": "Recovery Agents Seizing Vehicle by Force on Road: Supreme Court Ban, Criminal Extortion Laws & Vehicle Retrieval Guide",
       "description": "Comprehensive legal handbook on illegal vehicle seizure by recovery agents on public roads in India, landmark Supreme Court jurisprudence, police emergency response protocols, and residual shortfall debt settlement.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo#breadcrumb"
+        "@id": "https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo#breadcrumb",
+      "@id": "https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Illegal Roadside Vehicle Repossession Defense",
-          "item": "https://settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo"
+          "item": "https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo#article",
+      "@id": "https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo#article",
       "headline": "Recovery Agents Seizing Vehicle by Force on Road: Supreme Court Ban, Criminal Extortion Laws & Vehicle Retrieval Guide",
       "description": "An in-depth legal analysis of forceful street vehicle repossession in India. Covers Supreme Court judgments in Shanti Devi Sharma and Prakash Kaur, criminal liabilities under the Bharatiya Nyaya Sanhita, mandatory RBI Fair Practices Code protocols, police retrieval mechanisms, and advocate-led zero-rupee shortfall settlements.",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-snatching-bike-on-road-illegal-repo.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-snatching-bike-on-road-illegal-repo.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo#webpage"
+        "@id": "https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo#service",
+      "@id": "https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo#service",
       "name": "SettleLoans - Illegal Vehicle Repossession Defense & Debt Settlement Advisory",
       "description": "Expert legal representation for vehicle loan borrowers facing illegal roadside repossession, physical intimidation by musclemen, fabricated auction shortfall claims, and bank recovery harassment across India.",
-      "url": "https://settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-snatching-bike-on-road-illegal-repo.jpg",
+      "url": "https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-snatching-bike-on-road-illegal-repo.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo#faq",
+      "@id": "https://www.settleloans.in/recovery-agents-snatching-bike-on-road-illegal-repo#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -321,12 +321,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

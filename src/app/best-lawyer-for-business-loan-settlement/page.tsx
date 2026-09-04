@@ -12,39 +12,39 @@ export default function BusinessLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-business-loan-settlement#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-business-loan-settlement",
+                "@id": "https://www.settleloans.in/best-lawyer-for-business-loan-settlement#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-business-loan-settlement",
                 "name": "Best Lawyer for Business Loan Settlement India | MSME Debt Relief & DRT Defense",
                 "description": "Expert legal representation for business loan settlements. MSME debt restructuring, SARFAESI defense for commercial property, and NPA resolution strategies. 4500+ word guide.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-business-loan-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-business-loan-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-business-loan-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-business-loan-settlement#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Business Loan Settlement", "item": "https://settleloans.in/best-lawyer-for-business-loan-settlement" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Business Loan Settlement", "item": "https://www.settleloans.in/best-lawyer-for-business-loan-settlement" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-business-loan-settlement#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-business-loan-settlement#article",
                 "headline": "Best Lawyer for Business Loan Settlement: Protecting MSMEs and Commercial Assets in India",
                 "description": "Comprehensive legal guide on business loan defaults, Debt Recovery Tribunal (DRT) processes, and successful One-Time Settlement (OTS) negotiations.",
                 "author": { "@type": "Organization", "name": "SettleLoans Business Legal Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-business-loan-settlement#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-business-loan-settlement#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-business-loan-settlement#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-business-loan-settlement#product",
                 "name": "Business Loan Legal Defence & Advisory",
                 "description": "Professional legal services for corporate and MSME loan settlements, NPA management, and SARFAESI defense.",
                 "aggregateRating": {
@@ -85,7 +85,7 @@ export default function BusinessLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-business-loan-settlement#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-business-loan-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

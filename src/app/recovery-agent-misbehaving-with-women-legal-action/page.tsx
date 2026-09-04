@@ -56,16 +56,16 @@ export const metadata: Metadata = {
     'one time settlement female borrower loan default'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/recovery-agent-misbehaving-with-women-legal-action',
+    canonical: 'https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action',
   },
   openGraph: {
     title: 'Recovery Agent Misbehaving with Female Borrower? Legal Action & RBI Rules',
     description: 'Protect female borrowers and housewives from illegal recovery harassment. Understand mandatory RBI female staff rules, criminal action under BNS/IPC, NCW escalation, and OTS debt resolution.',
-    url: 'https://settleloans.in/recovery-agent-misbehaving-with-women-legal-action',
+    url: 'https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recovery-agent-misbehaving-with-women-legal-action.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recovery-agent-misbehaving-with-women-legal-action.jpg',
         width: 1200,
         height: 675,
         alt: 'Legal Action for Recovery Agent Misbehaving with Female Borrower',
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Recovery Agent Misbehaving with Female Borrower? Legal Action & RBI Rules',
     description: 'Male recovery agents intimidating or shouting at women at home? Learn strict RBI protections, Section 74/75 BNS outraging modesty laws, NCW complaints, and debt settlement rights.',
-    images: ['https://settleloans.in/images/infographics/recovery-agent-misbehaving-with-women-legal-action.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recovery-agent-misbehaving-with-women-legal-action.jpg'],
   },
 };
 
@@ -87,74 +87,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recovery-agent-misbehaving-with-women-legal-action#webpage",
-      "url": "https://settleloans.in/recovery-agent-misbehaving-with-women-legal-action",
+      "@id": "https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action#webpage",
+      "url": "https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action",
       "name": "Recovery Agent Misbehaving with Female Borrower? Legal Action & RBI Rules",
       "description": "Comprehensive legal and statutory guide for women borrowers, co-borrowers, and housewives facing aggressive or unlawful debt recovery harassment in India.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recovery-agent-misbehaving-with-women-legal-action#breadcrumb"
+        "@id": "https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recovery-agent-misbehaving-with-women-legal-action#breadcrumb",
+      "@id": "https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Women Borrower Protection & Legal Action",
-          "item": "https://settleloans.in/recovery-agent-misbehaving-with-women-legal-action"
+          "item": "https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recovery-agent-misbehaving-with-women-legal-action#article",
+      "@id": "https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action#article",
       "headline": "Recovery Agent Misbehaving with Female Borrower: Mandatory RBI Rules, BNS/IPC Criminal Action & NCW Escalation Guide",
       "description": "An exhaustive statutory analysis of protections for women borrowers, housewives, and female family members facing debt recovery misconduct. Covers mandatory RBI female staff directives, Sections 74/75/79 BNS, NCW filings, Police FIRs, and One-Time Settlement strategies.",
-      "image": "https://settleloans.in/images/infographics/recovery-agent-misbehaving-with-women-legal-action.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agent-misbehaving-with-women-legal-action.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agent-misbehaving-with-women-legal-action#webpage"
+        "@id": "https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recovery-agent-misbehaving-with-women-legal-action#service",
+      "@id": "https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action#service",
       "name": "SettleLoans - Women Borrower Protection & Legal Debt Resolution Advisory",
       "description": "Specialized legal defense and debt settlement advisory protecting female borrowers and families from coercive recovery harassment, unannounced home visits, and criminal intimidation.",
-      "url": "https://settleloans.in/recovery-agent-misbehaving-with-women-legal-action",
-      "image": "https://settleloans.in/images/infographics/recovery-agent-misbehaving-with-women-legal-action.jpg",
+      "url": "https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agent-misbehaving-with-women-legal-action.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -167,9 +167,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -243,7 +243,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recovery-agent-misbehaving-with-women-legal-action#faq",
+      "@id": "https://www.settleloans.in/recovery-agent-misbehaving-with-women-legal-action#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -329,12 +329,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

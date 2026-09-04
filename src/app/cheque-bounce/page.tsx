@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   title: "Cheque Bounce (Sec 138) Lawyer & Settlement Services",
   description: "Facing a Cheque Bounce case under Section 138? Understand the legal consequences, 2-year jail term, and how to settle or defend your case legally.",
   alternates: {
-    canonical: "https://settleloans.in/cheque-bounce",
+    canonical: "https://www.settleloans.in/cheque-bounce",
   },
   keywords: [
     "cheque bounce lawyer",
@@ -50,40 +50,40 @@ export default function ChequeBouncePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/cheque-bounce#webpage",
-        "url": "https://settleloans.in/cheque-bounce",
+        "@id": "https://www.settleloans.in/cheque-bounce#webpage",
+        "url": "https://www.settleloans.in/cheque-bounce",
         "name": "Cheque Bounce (Sec 138) Lawyer & Settlement Services",
         "description": "Facing a Cheque Bounce case under Section 138? Understand the legal consequences, 2-year jail term, and how to settle or defend your case legally.",
-        "breadcrumb": { "@id": "https://settleloans.in/cheque-bounce#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/cheque-bounce#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/cheque-bounce#breadcrumb",
+        "@id": "https://www.settleloans.in/cheque-bounce#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Cheque Bounce (Sec 138)",
-            "item": "https://settleloans.in/cheque-bounce"
+            "item": "https://www.settleloans.in/cheque-bounce"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/cheque-bounce#service",
+        "@id": "https://www.settleloans.in/cheque-bounce#service",
         "name": "Cheque Bounce Legal Defense",
         "description": "Expert legal representation and settlement services for Section 138 NI Act cases. We handle notice replies, court representation, and out-of-court settlements.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": {
           "@type": "Country",
@@ -106,7 +106,7 @@ export default function ChequeBouncePage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/cheque-bounce#article",
+        "@id": "https://www.settleloans.in/cheque-bounce#article",
         "headline": "Cheque Bounce (Section 138) Law in India: The Complete Guide",
         "description": "How to handle Section 138 cases, understand legal consequences, and find paths to settlement.",
         "author": {
@@ -118,16 +118,16 @@ export default function ChequeBouncePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-01-15",
         "dateModified": "2024-01-30",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/cheque-bounce#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/cheque-bounce#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/cheque-bounce#faq",
+        "@id": "https://www.settleloans.in/cheque-bounce#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Best Lawyers for Bounced Security Check | Loan & Credit Card Disputes 2025",
     description: "Expert legal representation for Section 138 cheque bounce cases in India. Defence for security checks, loan disputes, and credit card irregularities. 2025 NI Act updates.",
     alternates: {
-        canonical: "https://settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes",
+        canonical: "https://www.settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes",
     },
 };
 
@@ -18,34 +18,34 @@ export default function BouncedSecurityCheckPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes#webpage",
-                "url": "https://settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes",
+                "@id": "https://www.settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes#webpage",
+                "url": "https://www.settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes",
                 "name": "Best Lawyers for Bounced Security Check | Loan & Credit Card Disputes 2025",
                 "description": "Technical legal strategies for defending cheque bounce cases under Section 138 of the NI Act.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Bounced Security Check Lawyer",
-                        "item": "https://settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes"
+                        "item": "https://www.settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes#article",
+                "@id": "https://www.settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes#article",
                 "headline": "Defending Section 138: The Security Cheque vs Debt Cheque Strategy",
                 "description": "A comprehensive guide on defending cheque bounce cases in 2025, focusing on the legally enforceable debt requirement and NI Act amendments.",
                 "author": {
@@ -57,16 +57,16 @@ export default function BouncedSecurityCheckPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes#product",
+                "@id": "https://www.settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes#product",
                 "name": "Legal Defence for Section 138 Cheque Bounce Cases",
                 "description": "Specialized legal services for defending against cheque bounce complaints initiated by banks, NBFCs, and credit card companies.",
                 "aggregateRating": {
@@ -93,7 +93,7 @@ export default function BouncedSecurityCheckPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes#faq",
+                "@id": "https://www.settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

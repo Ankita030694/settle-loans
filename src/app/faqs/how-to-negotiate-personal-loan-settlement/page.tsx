@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "How to Negotiate a Personal Loan Settlement with Lenders | 2024-25 Guide",
     description: "Master the art of personal loan settlement negotiation in India. Get expert tips, learn RBI guidelines, avoid common mistakes, and save up to 50-70% on your debt.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/how-to-negotiate-personal-loan-settlement",
+        canonical: "https://www.settleloans.in/faqs/how-to-negotiate-personal-loan-settlement",
     },
 };
 
@@ -18,43 +18,43 @@ export default function NegotiatePersonalLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/how-to-negotiate-personal-loan-settlement#webpage",
-                "url": "https://settleloans.in/faqs/how-to-negotiate-personal-loan-settlement",
+                "@id": "https://www.settleloans.in/faqs/how-to-negotiate-personal-loan-settlement#webpage",
+                "url": "https://www.settleloans.in/faqs/how-to-negotiate-personal-loan-settlement",
                 "name": "How to Negotiate a Personal Loan Settlement with Lenders | Professional Guide",
                 "description": "A comprehensive guide on negotiating personal loan settlements with banks and NBFCs in India, covering strategies, legal rights, and RBI guidelines.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/how-to-negotiate-personal-loan-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/how-to-negotiate-personal-loan-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/how-to-negotiate-personal-loan-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/how-to-negotiate-personal-loan-settlement#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Negotiate Personal Loan Settlement",
-                        "item": "https://settleloans.in/faqs/how-to-negotiate-personal-loan-settlement"
+                        "item": "https://www.settleloans.in/faqs/how-to-negotiate-personal-loan-settlement"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/how-to-negotiate-personal-loan-settlement#article",
+                "@id": "https://www.settleloans.in/faqs/how-to-negotiate-personal-loan-settlement#article",
                 "headline": "How can I negotiate a personal loan settlement with lenders",
                 "description": "The ultimate roadmap to negotiating a debt settlement for personal loans in India. Learn the strategies used by professionals to reduce debt by 50% or more.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Expert Team"
@@ -64,7 +64,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-05-15",
@@ -72,7 +72,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/how-to-negotiate-personal-loan-settlement#faq",
+                "@id": "https://www.settleloans.in/faqs/how-to-negotiate-personal-loan-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -158,7 +158,7 @@ export default function NegotiatePersonalLoanSettlementPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/how-to-negotiate-personal-loan-settlement#service",
+                "@id": "https://www.settleloans.in/faqs/how-to-negotiate-personal-loan-settlement#service",
                 "name": "Professional Loan Settlement Negotiation",
                 "description": "Expert negotiation services to help you settle your personal loans for a fraction of the total cost while providing legal protection.",
                 "brand": {

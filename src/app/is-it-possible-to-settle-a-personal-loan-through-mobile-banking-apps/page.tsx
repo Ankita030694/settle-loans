@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Is it Possible to Settle a Personal Loan Through Mobile Banking Apps?",
   description: "Can you settle a personal loan via mobile banking in India? Explore the digital loan settlement process, bank-specific app rules (SBI, HDFC, ICICI, Axis), RBI's 2025 digital lending guidelines, and legal protections.",
   alternates: {
-    canonical: "https://settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps",
+    canonical: "https://www.settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps",
   },
 };
 
@@ -16,34 +16,34 @@ export default function MobileAppLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#webpage",
-        "url": "https://settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps",
+        "@id": "https://www.settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#webpage",
+        "url": "https://www.settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps",
         "name": "Is it Possible to Settle a Personal Loan Through Mobile Banking Apps?",
         "description": "Authoritative guide on settling personal loans through digital banking and fintech apps in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#breadcrumb",
+        "@id": "https://www.settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Is it Possible to Settle a Personal Loan Through Mobile Banking Apps",
-            "item": "https://settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps"
+            "item": "https://www.settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#article",
+        "@id": "https://www.settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#article",
         "headline": "Is it Possible to Settle a Personal Loan Through Mobile Banking Apps?",
         "description": "Everything you need to know about the digital transition of loan settlement in India, including specific app rules and legal strategies.",
         "author": {
@@ -55,22 +55,22 @@ export default function MobileAppLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#product",
+        "@id": "https://www.settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#product",
         "name": "Digital Loan Settlement Consultation",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Professional assistance in negotiating settlements for digital and fintech loan defaults.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -98,7 +98,7 @@ export default function MobileAppLoanSettlementPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#faq",
+        "@id": "https://www.settleloans.in/is-it-possible-to-settle-a-personal-loan-through-mobile-banking-apps#faq",
         "mainEntity": [
           {
             "@type": "Question",

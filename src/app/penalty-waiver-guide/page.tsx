@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Penalty Waiver Guide for Indian Borrowers | Stop Unfair Bank Charges',
   description: 'The ultimate guide to fighting unfair banking penalties. Learn how to use the latest RBI guidelines to force banks to waive unjust penal interest and late fees.',
   alternates: {
-    canonical: 'https://settleloans.in/penalty-waiver-guide',
+    canonical: 'https://www.settleloans.in/penalty-waiver-guide',
   },
 };
 
@@ -30,14 +30,14 @@ export default function PenaltyWaiverGuidePage() {
         "@type": "WebPage",
         "name": "Penalty Waiver Guide for Indian Borrowers",
         "description": "The ultimate guide to fighting unfair banking penalties.",
-        "url": "https://settleloans.in/penalty-waiver-guide"
+        "url": "https://www.settleloans.in/penalty-waiver-guide"
       },
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Guides", "item": "https://settleloans.in/guides" },
-          { "@type": "ListItem", "position": 3, "name": "Penalty Waiver Guide", "item": "https://settleloans.in/penalty-waiver-guide" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Guides", "item": "https://www.settleloans.in/guides" },
+          { "@type": "ListItem", "position": 3, "name": "Penalty Waiver Guide", "item": "https://www.settleloans.in/penalty-waiver-guide" }
         ]
       },
       {

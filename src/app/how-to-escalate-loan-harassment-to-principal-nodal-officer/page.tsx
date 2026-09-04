@@ -56,16 +56,16 @@ export const metadata: Metadata = {
     'escalate bank harassment level 3 rbi'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer',
+    canonical: 'https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer',
   },
   openGraph: {
     title: 'How to Escalate Bank Loan Harassment to Principal Nodal Officer (PNO) | RBI Grievance & Collection Freeze Guide',
     description: 'Learn how to bypass local branch managers and file formal statutory representations directly with the bank’s Principal Nodal Officer (PNO) under RBI Internal Ombudsman guidelines to freeze collection actions.',
-    url: 'https://settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer',
+    url: 'https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/how-to-escalate-loan-harassment-to-principal-nodal-officer.jpg',
+        url: 'https://www.settleloans.in/images/infographics/how-to-escalate-loan-harassment-to-principal-nodal-officer.jpg',
         width: 1200,
         height: 675,
         alt: 'How to Escalate Bank Loan Harassment to Principal Nodal Officer Legal Guide',
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Escalate Bank Loan Harassment to Principal Nodal Officer (PNO): RBI Freeze Guide',
     description: 'Facing rogue recovery calls, third-party defamation, or workplace visits? Discover how to file a statutory Level-3 complaint with the bank Principal Nodal Officer to stop harassment immediately.',
-    images: ['https://settleloans.in/images/infographics/how-to-escalate-loan-harassment-to-principal-nodal-officer.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/how-to-escalate-loan-harassment-to-principal-nodal-officer.jpg'],
   },
 };
 
@@ -87,74 +87,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer#webpage",
-      "url": "https://settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer",
+      "@id": "https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer#webpage",
+      "url": "https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer",
       "name": "How to Escalate Bank Loan Harassment to Principal Nodal Officer (PNO) | RBI Grievance & Collection Freeze Guide",
       "description": "Suffering bank recovery agent harassment? Learn how to bypass local branch managers and file formal statutory representations directly with the bank’s Principal Nodal Officer (PNO) under RBI Internal Ombudsman guidelines to freeze collection actions and secure a 50%–70% OTS settlement.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer#breadcrumb"
+        "@id": "https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer#breadcrumb",
+      "@id": "https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Principal Nodal Officer Harassment Escalation",
-          "item": "https://settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer"
+          "item": "https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer#article",
+      "@id": "https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer#article",
       "headline": "How to Escalate Bank Loan Harassment to the Principal Nodal Officer: RBI Grievance Escalation & Recovery Freeze Blueprint",
       "description": "A comprehensive regulatory and legal blueprint detailing how aggrieved borrowers can bypass unhelpful branch staff, file formal statutory representations directly with the bank's Principal Nodal Officer (PNO) under RBI Master Directions, trigger mandatory Internal Ombudsman scrutiny, legally freeze third-party recovery operations, and convert institutional exposure into a structured One-Time Settlement.",
-      "image": "https://settleloans.in/images/infographics/how-to-escalate-loan-harassment-to-principal-nodal-officer.jpg",
+      "image": "https://www.settleloans.in/images/infographics/how-to-escalate-loan-harassment-to-principal-nodal-officer.jpg",
       "datePublished": "2026-09-02T12:00:00+05:30",
       "dateModified": "2026-09-02T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer#webpage"
+        "@id": "https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer#service",
+      "@id": "https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer#service",
       "name": "SettleLoans - Principal Nodal Officer Legal Escalation & Debt Resolution Advisory",
       "description": "Executive legal representation and statutory banking dispute advisory for borrowers subjected to unlawful loan recovery harassment, predatory debt collection calls, and regulatory non-compliance across commercial banks and NBFCs in India.",
-      "url": "https://settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer",
-      "image": "https://settleloans.in/images/infographics/how-to-escalate-loan-harassment-to-principal-nodal-officer.jpg",
+      "url": "https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer",
+      "image": "https://www.settleloans.in/images/infographics/how-to-escalate-loan-harassment-to-principal-nodal-officer.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -167,9 +167,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -243,7 +243,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer#faq",
+      "@id": "https://www.settleloans.in/how-to-escalate-loan-harassment-to-principal-nodal-officer#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -329,12 +329,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

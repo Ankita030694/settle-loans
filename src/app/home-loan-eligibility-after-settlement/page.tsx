@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Home Loan Eligibility After Settlement | CIBIL Recovery Guide 2026",
   description: "Can you get a home loan after a loan settlement? Learn how to improve eligibility, rebuild CIBIL, and convert 'settled' status to 'closed'. A complete guide for Indian homeowners.",
   alternates: {
-    canonical: "https://settleloans.in/home-loan-eligibility-after-settlement",
+    canonical: "https://www.settleloans.in/home-loan-eligibility-after-settlement",
   },
 };
 
@@ -16,34 +16,34 @@ export default function HomeLoanAfterSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/home-loan-eligibility-after-settlement#webpage",
-        "url": "https://settleloans.in/home-loan-eligibility-after-settlement",
+        "@id": "https://www.settleloans.in/home-loan-eligibility-after-settlement#webpage",
+        "url": "https://www.settleloans.in/home-loan-eligibility-after-settlement",
         "name": "Home Loan Eligibility After Settlement Guide",
         "description": "Comprehensive resource for Indian borrowers seeking home loans after a past debt settlement/default.",
-        "breadcrumb": { "@id": "https://settleloans.in/home-loan-eligibility-after-settlement#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/home-loan-eligibility-after-settlement#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/home-loan-eligibility-after-settlement#breadcrumb",
+        "@id": "https://www.settleloans.in/home-loan-eligibility-after-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Home Loan After Settlement",
-            "item": "https://settleloans.in/home-loan-eligibility-after-settlement"
+            "item": "https://www.settleloans.in/home-loan-eligibility-after-settlement"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/home-loan-eligibility-after-settlement#article",
+        "@id": "https://www.settleloans.in/home-loan-eligibility-after-settlement#article",
         "headline": "Home Loan Eligibility After Loan Settlement: The Definitive CIBIL Roadmap",
         "description": "Don't let a past settlement stop you from owning a home. Discover the legal and financial steps to restore your home loan eligibility in India.",
         "author": {
@@ -55,16 +55,16 @@ export default function HomeLoanAfterSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-03-27",
         "dateModified": "2026-03-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/home-loan-eligibility-after-settlement#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/home-loan-eligibility-after-settlement#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/home-loan-eligibility-after-settlement#product",
+        "@id": "https://www.settleloans.in/home-loan-eligibility-after-settlement#product",
         "name": "Home Loan Eligibility & CIBIL Repair Service",
         "description": "Expert guidance on qualifying for home loans specifically after a loan settlement or default.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function HomeLoanAfterSettlementPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/home-loan-eligibility-after-settlement#faq",
+        "@id": "https://www.settleloans.in/home-loan-eligibility-after-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",

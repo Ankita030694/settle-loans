@@ -20,17 +20,17 @@ export const metadata: Metadata = {
     'one time settlement pune bank branches',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-pune',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-pune',
   },
   openGraph: {
     title: 'Debt Settlement Services in Pune: Legal Defense & OTS Advisory (2026)',
     description:
       'Expert legal defense and One-Time Settlement (OTS) representation for salaried IT & Auto professionals and business owners facing loan defaults across Pune, Hinjewadi, Magarpatta, and PCMC.',
-    url: 'https://settleloans.in/personal-loan-settlement-pune',
+    url: 'https://www.settleloans.in/personal-loan-settlement-pune',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-pune.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-pune.jpg',
         width: 1200,
         height: 675,
         alt: 'Debt Settlement Services in Pune: Legal Defense, Lok Adalat & Bank OTS Roadmap',
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     title: 'Debt Settlement Services in Pune: Legal Defense & Lok Adalat Guide',
     description:
       'Comprehensive legal representation for bank loan defaults, Section 138/25 notices, PDLSA Lok Adalat compromise decrees, and anti-harassment shielding across Pune & PCMC.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-pune.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-pune.jpg'],
   },
 };
 
@@ -53,81 +53,81 @@ const jsonLdGraph = {
   '@graph': [
     {
       '@type': 'WebPage',
-      '@id': 'https://settleloans.in/personal-loan-settlement-pune#webpage',
-      url: 'https://settleloans.in/personal-loan-settlement-pune',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-pune#webpage',
+      url: 'https://www.settleloans.in/personal-loan-settlement-pune',
       name: 'Debt Settlement Services in Pune: Legal Defense & OTS Advisory (2026)',
       description:
         'Struggling with personal loan default, recovery harassment, or court notices in Pune & PCMC? Get expert debt settlement services in Pune, legal shielding for IT/Auto professionals, and 40%–70% OTS waivers.',
       breadcrumb: {
-        '@id': 'https://settleloans.in/personal-loan-settlement-pune#breadcrumb',
+        '@id': 'https://www.settleloans.in/personal-loan-settlement-pune#breadcrumb',
       },
       inLanguage: 'en-IN',
       isPartOf: {
         '@type': 'WebSite',
-        '@id': 'https://settleloans.in/#website',
+        '@id': 'https://www.settleloans.in/#website',
         name: 'SettleLoans',
-        url: 'https://settleloans.in',
+        url: 'https://www.settleloans.in',
       },
     },
     {
       '@type': 'BreadcrumbList',
-      '@id': 'https://settleloans.in/personal-loan-settlement-pune#breadcrumb',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-pune#breadcrumb',
       itemListElement: [
         {
           '@type': 'ListItem',
           position: 1,
           name: 'Home',
-          item: 'https://settleloans.in',
+          item: 'https://www.settleloans.in',
         },
         {
           '@type': 'ListItem',
           position: 2,
           name: 'Services & Legal Guides',
-          item: 'https://settleloans.in/services',
+          item: 'https://www.settleloans.in/services',
         },
         {
           '@type': 'ListItem',
           position: 3,
           name: 'Debt Settlement Services in Pune',
-          item: 'https://settleloans.in/personal-loan-settlement-pune',
+          item: 'https://www.settleloans.in/personal-loan-settlement-pune',
         },
       ],
     },
     {
       '@type': 'Article',
-      '@id': 'https://settleloans.in/personal-loan-settlement-pune#article',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-pune#article',
       headline: 'Debt Settlement Services in Pune: Legal Defense, Bank OTS & Lok Adalat Guide',
       description:
         'An authoritative legal and financial manual for distressed borrowers across Pune, Hinjewadi, Magarpatta, Kharadi, and PCMC. Learn Shivajinagar & Pimpri court jurisdiction dynamics, Section 138/25 defense, PDLSA Lok Adalat settlement mechanics, and how seasoned Pune advocates negotiate 40% to 70% debt waivers under RBI rules.',
-      image: 'https://settleloans.in/images/infographics/personal-loan-settlement-pune.jpg',
+      image: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-pune.jpg',
       datePublished: '2026-08-24T11:57:02+05:30',
       dateModified: '2026-08-24T11:57:02+05:30',
       mainEntityOfPage: {
         '@type': 'WebPage',
-        '@id': 'https://settleloans.in/personal-loan-settlement-pune#webpage',
+        '@id': 'https://www.settleloans.in/personal-loan-settlement-pune#webpage',
       },
       author: {
         '@type': 'Person',
         name: 'Ashish Jhangra',
-        url: 'https://settleloans.in/authors/ashish-jhangra',
+        url: 'https://www.settleloans.in/authors/ashish-jhangra',
       },
       publisher: {
         '@type': 'Organization',
-        '@id': 'https://settleloans.in/#organization',
+        '@id': 'https://www.settleloans.in/#organization',
         name: 'SettleLoans',
-        url: 'https://settleloans.in',
+        url: 'https://www.settleloans.in',
         logo: {
           '@type': 'ImageObject',
-          url: 'https://settleloans.in/logo/logo.svg',
+          url: 'https://www.settleloans.in/logo/logo.svg',
         },
       },
     },
     {
       '@type': 'Organization',
-      '@id': 'https://settleloans.in/#organization',
+      '@id': 'https://www.settleloans.in/#organization',
       name: 'SettleLoans',
-      url: 'https://settleloans.in',
-      logo: 'https://settleloans.in/logo/logo.svg',
+      url: 'https://www.settleloans.in',
+      logo: 'https://www.settleloans.in/logo/logo.svg',
       contactPoint: [
         {
           '@type': 'ContactPoint',
@@ -145,7 +145,7 @@ const jsonLdGraph = {
     },
     {
       '@type': 'FAQPage',
-      '@id': 'https://settleloans.in/personal-loan-settlement-pune#faq',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-pune#faq',
       mainEntity: [
         {
           '@type': 'Question',
@@ -215,12 +215,12 @@ const jsonLdGraph = {
     },
     {
       '@type': 'FinancialService',
-      '@id': 'https://settleloans.in/personal-loan-settlement-pune#service',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-pune#service',
       name: 'SettleLoans - Debt Settlement Services in Pune & Legal Debt Defense',
       description:
         'Premier debt settlement advisory, legal defense, and PDLSA Lok Adalat representation for salaried IT/Auto professionals and entrepreneurs facing loan defaults across Pune and PCMC.',
-      url: 'https://settleloans.in/personal-loan-settlement-pune',
-      image: 'https://settleloans.in/images/infographics/personal-loan-settlement-pune.jpg',
+      url: 'https://www.settleloans.in/personal-loan-settlement-pune',
+      image: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-pune.jpg',
       telephone: '+91-99999-99999',
       priceRange: '₹₹',
       address: {
@@ -233,9 +233,9 @@ const jsonLdGraph = {
       },
       provider: {
         '@type': 'Organization',
-        '@id': 'https://settleloans.in/#organization',
+        '@id': 'https://www.settleloans.in/#organization',
         name: 'SettleLoans',
-        url: 'https://settleloans.in',
+        url: 'https://www.settleloans.in',
       },
       aggregateRating: {
         '@type': 'AggregateRating',

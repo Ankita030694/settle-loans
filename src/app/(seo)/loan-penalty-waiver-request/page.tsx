@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Loan Penalty Waiver Request: A Complete Guide | Bank Late Fees Reversal',
   description: 'Did you know bank managers have the power to reverse 100% of your late fees? Learn the exact process to submit a successful loan penalty waiver request.',
   alternates: {
-    canonical: 'https://settleloans.in/loan-penalty-waiver-request',
+    canonical: 'https://www.settleloans.in/loan-penalty-waiver-request',
   },
 };
 
@@ -30,7 +30,7 @@ export default function LoanPenaltyWaiverRequest() {
         "@type": "WebPage",
         "name": "Loan Penalty Waiver Request: A Complete Guide",
         "description": "Learn the exact process to submit a successful waiver request for bank penalties and late fees.",
-        "url": "https://settleloans.in/loan-penalty-waiver-request"
+        "url": "https://www.settleloans.in/loan-penalty-waiver-request"
       },
       {
         "@type": "BreadcrumbList",
@@ -39,13 +39,13 @@ export default function LoanPenaltyWaiverRequest() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Penalty Waiver Request",
-            "item": "https://settleloans.in/loan-penalty-waiver-request"
+            "item": "https://www.settleloans.in/loan-penalty-waiver-request"
           }
         ]
       },
@@ -61,7 +61,7 @@ export default function LoanPenaltyWaiverRequest() {
           "name": "SettleLoan",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo.png"
+            "url": "https://www.settleloans.in/logo.png"
           }
         }
       },

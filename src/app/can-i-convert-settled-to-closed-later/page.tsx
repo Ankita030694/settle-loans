@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Can I Convert a Settled Loan to 'Closed' Later? Steps to Improve CIBIL",
   description: "Learn how to convert a 'Settled' loan status to 'Closed' in India. Follow our step-by-step guide to repay waived amounts, improve your CIBIL score, and regain financial eligibility.",
   alternates: {
-    canonical: "https://settleloans.in/can-i-convert-settled-to-closed-later",
+    canonical: "https://www.settleloans.in/can-i-convert-settled-to-closed-later",
   },
 };
 
@@ -16,34 +16,34 @@ export default function ConvertSettledToClosedPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-i-convert-settled-to-closed-later#webpage",
-        "url": "https://settleloans.in/can-i-convert-settled-to-closed-later",
+        "@id": "https://www.settleloans.in/can-i-convert-settled-to-closed-later#webpage",
+        "url": "https://www.settleloans.in/can-i-convert-settled-to-closed-later",
         "name": "Can I Convert a Settled Loan to 'Closed' Later? Your Complete Guide",
         "description": "Comprehensive guide on converting settled loan status to closed on your credit report in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-i-convert-settled-to-closed-later#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-i-convert-settled-to-closed-later#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-i-convert-settled-to-closed-later#breadcrumb",
+        "@id": "https://www.settleloans.in/can-i-convert-settled-to-closed-later#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Can I Convert Settled to Closed Later?",
-            "item": "https://settleloans.in/can-i-convert-settled-to-closed-later"
+            "item": "https://www.settleloans.in/can-i-convert-settled-to-closed-later"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-i-convert-settled-to-closed-later#article",
+        "@id": "https://www.settleloans.in/can-i-convert-settled-to-closed-later#article",
         "headline": "Can I Convert a Settled Loan to 'Closed' Later? A Modern Approach to Credit Recovery",
         "description": "Discover the exact process to change your loan status from 'Settled' to 'Closed' on your credit report to enhance your future borrowing capacity.",
         "author": {
@@ -55,16 +55,16 @@ export default function ConvertSettledToClosedPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-27",
         "dateModified": "2024-03-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-i-convert-settled-to-closed-later#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-i-convert-settled-to-closed-later#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-i-convert-settled-to-closed-later#product",
+        "@id": "https://www.settleloans.in/can-i-convert-settled-to-closed-later#product",
         "name": "Loan Status Conversion Guidance",
         "description": "Expert advisory on improving credit status from settled to closed.",
         "aggregateRating": {
@@ -84,7 +84,7 @@ export default function ConvertSettledToClosedPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-i-convert-settled-to-closed-later#faq",
+        "@id": "https://www.settleloans.in/can-i-convert-settled-to-closed-later#faq",
         "mainEntity": [
           {
             "@type": "Question",

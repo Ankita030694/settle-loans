@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Is a Digital Signature or E-Sign Valid for a Personal Loan Agreement in India?",
   description: "Learn how to challenge the validity of e-sign in a loan agreement. Understand the IT Act and Section 65B Evidence Act defenses against forged digital signatures by loan apps.",
   alternates: {
-    canonical: "https://settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india",
+    canonical: "https://www.settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india",
   },
 };
 
@@ -16,34 +16,34 @@ export default function DigitalSignatureValidityPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india#webpage",
-        "url": "https://settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india",
+        "@id": "https://www.settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india#webpage",
+        "url": "https://www.settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india",
         "name": "Is a Digital Signature Valid for a Personal Loan Agreement?",
         "description": "A technical legal defense for borrowers facing lawsuits from digital NBFCs or instant loan apps over digitally signed contracts.",
-        "breadcrumb": { "@id": "https://settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india#breadcrumb",
+        "@id": "https://www.settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "E-Sign Validity in Loan Agreements",
-            "item": "https://settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india"
+            "item": "https://www.settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india#article",
+        "@id": "https://www.settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india#article",
         "headline": "Is a Digital Signature or E-Sign Valid for a Personal Loan Agreement in India?",
         "description": "Explains the Information Technology (IT) Act's stance on Aadhaar-based e-signs vs. unchecked digital check boxes and how lawyers challenge them.",
         "author": {
@@ -55,22 +55,22 @@ export default function DigitalSignatureValidityPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india#product",
+        "@id": "https://www.settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india#product",
         "name": "DRT Legal Defense Services for Loan Apps",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert DRT lawyers to challenge forged digital signatures and illegal loan agreements enforced by NBFCs and digital apps.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -119,7 +119,7 @@ export default function DigitalSignatureValidityPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india#faq",
+        "@id": "https://www.settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india#faq",
         "mainEntity": [
           {
             "@type": "Question",

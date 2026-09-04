@@ -53,16 +53,16 @@ export const metadata: Metadata = {
     'software engineer credit card debt settlement',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/it-professionals-personal-loan-debt-settlement',
+    canonical: 'https://www.settleloans.in/it-professionals-personal-loan-debt-settlement',
   },
   openGraph: {
     title: 'Loan Settlement for IT Professionals: Tech Layoff Debt Relief & Legal OTS Guide',
     description: 'Confidential debt resolution for software engineers and tech leaders in Bengaluru, Hyderabad, and Pune. Settle unsecured personal loans and credit cards with 45%–65% haircuts under RBI guidelines without workplace or HR exposure.',
-    url: 'https://settleloans.in/it-professionals-personal-loan-debt-settlement',
+    url: 'https://www.settleloans.in/it-professionals-personal-loan-debt-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/it-professionals-personal-loan-debt-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/it-professionals-personal-loan-debt-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan and Credit Card Debt Settlement for IT Professionals in India',
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement for IT Professionals: Tech Layoff Debt Relief & Legal OTS Guide',
     description: 'Strategic and confidential legal guide for IT professionals settling high-value personal loans and credit card debt following tech layoffs and variable pay reductions.',
-    images: ['https://settleloans.in/images/infographics/it-professionals-personal-loan-debt-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/it-professionals-personal-loan-debt-settlement.jpg'],
   },
 };
 
@@ -84,74 +84,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/it-professionals-personal-loan-debt-settlement#webpage",
-      "url": "https://settleloans.in/it-professionals-personal-loan-debt-settlement",
+      "@id": "https://www.settleloans.in/it-professionals-personal-loan-debt-settlement#webpage",
+      "url": "https://www.settleloans.in/it-professionals-personal-loan-debt-settlement",
       "name": "Loan Settlement for IT Professionals: Tech Layoff Debt Relief & Legal OTS Guide",
       "description": "Comprehensive guide to loan settlement for IT professionals in Bengaluru, Hyderabad & Pune facing layoffs or salary cuts. Learn how to settle personal loans and credit cards confidentially, eliminate recovery harassment, protect workplace privacy, and negotiate 45%–65% OTS waivers under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/it-professionals-personal-loan-debt-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/it-professionals-personal-loan-debt-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/it-professionals-personal-loan-debt-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/it-professionals-personal-loan-debt-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "IT Professionals Loan Settlement",
-          "item": "https://settleloans.in/it-professionals-personal-loan-debt-settlement"
+          "item": "https://www.settleloans.in/it-professionals-personal-loan-debt-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/it-professionals-personal-loan-debt-settlement#article",
+      "@id": "https://www.settleloans.in/it-professionals-personal-loan-debt-settlement#article",
       "headline": "Personal Loan & Credit Card Debt Settlement for IT Professionals: Tech Layoff Relief, Advocate Negotiations & RBI OTS Framework",
       "description": "An exhaustive technical and legal guide for software developers, engineering leads, and technology executives managing unsecured personal loans and credit card debt defaults in major Indian tech hubs.",
-      "image": "https://settleloans.in/images/infographics/it-professionals-personal-loan-debt-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/it-professionals-personal-loan-debt-settlement.jpg",
       "datePublished": "2026-08-26T12:00:00+05:30",
       "dateModified": "2026-08-26T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/it-professionals-personal-loan-debt-settlement#webpage"
+        "@id": "https://www.settleloans.in/it-professionals-personal-loan-debt-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/it-professionals-personal-loan-debt-settlement#service",
+      "@id": "https://www.settleloans.in/it-professionals-personal-loan-debt-settlement#service",
       "name": "SettleLoans - IT Professional Debt Resolution & Confidential Legal Defense",
       "description": "Specialized confidential legal advocacy and debt compromise settlement advisory for IT professionals, software engineers, and tech managers facing personal loan and credit card debt defaults in Bengaluru, Hyderabad, Pune, Chennai, and NCR.",
-      "url": "https://settleloans.in/it-professionals-personal-loan-debt-settlement",
-      "image": "https://settleloans.in/images/infographics/it-professionals-personal-loan-debt-settlement.jpg",
+      "url": "https://www.settleloans.in/it-professionals-personal-loan-debt-settlement",
+      "image": "https://www.settleloans.in/images/infographics/it-professionals-personal-loan-debt-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -164,9 +164,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -240,7 +240,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/it-professionals-personal-loan-debt-settlement#faq",
+      "@id": "https://www.settleloans.in/it-professionals-personal-loan-debt-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -326,12 +326,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

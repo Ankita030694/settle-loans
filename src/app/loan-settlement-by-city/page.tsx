@@ -15,7 +15,7 @@ export default function LawyerByCity() {
     "@graph": [
       {
         "@type": "WebPage",
-        "url": "https://settleloans.in/loan-settlement-by-city",
+        "url": "https://www.settleloans.in/loan-settlement-by-city",
         "name": "Loan Settlement Services by City in India | SettleLoans",
         "description": "Find specialized loan settlement lawyers and procedures for your specific city in India."
       },

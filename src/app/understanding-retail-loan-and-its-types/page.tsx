@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "Understanding Retail Loan and Its Types | Complete Guide",
     description: "Learn the exact retail loan meaning, explore the different types of retail banking loans available, and understand how consumer loans in India affect your rights.",
     alternates: {
-        canonical: "https://settleloans.in/understanding-retail-loan-and-its-types",
+        canonical: "https://www.settleloans.in/understanding-retail-loan-and-its-types",
     },
 };
 
@@ -17,32 +17,32 @@ export default function RetailLoanPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/understanding-retail-loan-and-its-types",
-                "url": "https://settleloans.in/understanding-retail-loan-and-its-types",
+                "@id": "https://www.settleloans.in/understanding-retail-loan-and-its-types",
+                "url": "https://www.settleloans.in/understanding-retail-loan-and-its-types",
                 "name": "Understanding Retail Loan and Its Types",
                 "description": "Learn the exact retail loan meaning, explore the different types of retail banking loans available, and understand how consumer loans in India affect your rights."
             },
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Understanding Retail Loan and Its Types", "item": "https://settleloans.in/understanding-retail-loan-and-its-types" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Understanding Retail Loan and Its Types", "item": "https://www.settleloans.in/understanding-retail-loan-and-its-types" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/understanding-retail-loan-and-its-types#article",
+                "@id": "https://www.settleloans.in/understanding-retail-loan-and-its-types#article",
                 "headline": "Understanding Retail Loan and Its Types",
                 "description": "Comprehensive guide on retail loan meaning, types of retail banking loans, and consumer loans in India.",
-                "image": "https://settleloans.in/images/retail-loan-guide.jpg",
+                "image": "https://www.settleloans.in/images/retail-loan-guide.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2026-07-24",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/understanding-retail-loan-and-its-types" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/understanding-retail-loan-and-its-types" }
             },
             {
                 "@type": "FAQPage",
@@ -131,7 +131,7 @@ export default function RetailLoanPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/understanding-retail-loan-and-its-types#product",
+                "@id": "https://www.settleloans.in/understanding-retail-loan-and-its-types#product",
                 "name": "Retail Loan Settlement Advisory",
                 "description": "Expert guidance and legal advisory for individuals struggling with high-interest consumer loans in India.",
                 "aggregateRating": {

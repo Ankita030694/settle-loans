@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement for Borrowers Planning Financial Reset | Path to Freedom",
   description: "A comprehensive 5000-word guide on loan settlement for borrowers planning a financial reset. Learn how to negotiate with banks, rebuild your CIBIL score, and regain financial freedom with SettleLoans and Ama Legal Solutions.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement-for-borrowers-planning-financial-reset",
+    canonical: "https://www.settleloans.in/loan-settlement-for-borrowers-planning-financial-reset",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LoanSettlementFinancialResetPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-for-borrowers-planning-financial-reset#webpage",
-        "url": "https://settleloans.in/loan-settlement-for-borrowers-planning-financial-reset",
+        "@id": "https://www.settleloans.in/loan-settlement-for-borrowers-planning-financial-reset#webpage",
+        "url": "https://www.settleloans.in/loan-settlement-for-borrowers-planning-financial-reset",
         "name": "Loan Settlement for Borrowers Planning Financial Reset | Path to Freedom",
         "description": "Comprehensive guide on loan settlement strategies for a fresh financial start.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-for-borrowers-planning-financial-reset#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-for-borrowers-planning-financial-reset#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement-for-borrowers-planning-financial-reset#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement-for-borrowers-planning-financial-reset#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement for Financial Reset",
-            "item": "https://settleloans.in/loan-settlement-for-borrowers-planning-financial-reset"
+            "item": "https://www.settleloans.in/loan-settlement-for-borrowers-planning-financial-reset"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement-for-borrowers-planning-financial-reset#article",
+        "@id": "https://www.settleloans.in/loan-settlement-for-borrowers-planning-financial-reset#article",
         "headline": "Loan Settlement for Borrowers Planning Financial Reset: The Ultimate Guide",
         "description": "Master the art of loan settlement to achieve a total financial reset. This guide covers legal rights, negotiation tactics, and rebuilding after debt.",
         "author": {
@@ -55,16 +55,16 @@ export default function LoanSettlementFinancialResetPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-28",
         "dateModified": "2024-03-28",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-for-borrowers-planning-financial-reset#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-for-borrowers-planning-financial-reset#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement-for-borrowers-planning-financial-reset#product",
+        "@id": "https://www.settleloans.in/loan-settlement-for-borrowers-planning-financial-reset#product",
         "name": "Financial Reset Settlement Services",
         "description": "Professional loan settlement negotiation services by SettleLoans and Ama Legal Solutions.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function LoanSettlementFinancialResetPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement-for-borrowers-planning-financial-reset#faq",
+        "@id": "https://www.settleloans.in/loan-settlement-for-borrowers-planning-financial-reset#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -60,16 +60,16 @@ export const metadata: Metadata = {
     'one time settlement after filing police complaint recovery agent'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording',
+    canonical: 'https://www.settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording',
   },
   openGraph: {
     title: 'How to File Police FIR with Recovery Agent Call Recording: Section 63 BSA / 65B Guide',
     description: 'Convert recorded audio evidence into decisive legal action. Learn how to draft a Section 63 BSA certificate, register a police FIR against abusive recovery agents, and enforce RBI compliance.',
-    url: 'https://settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording',
+    url: 'https://www.settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/how-to-file-police-fir-with-recovery-agent-call-recording.jpg',
+        url: 'https://www.settleloans.in/images/infographics/how-to-file-police-fir-with-recovery-agent-call-recording.jpg',
         width: 1200,
         height: 675,
         alt: 'How to File Police FIR with Recovery Agent Call Recording Guide',
@@ -82,7 +82,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to File Police FIR with Recovery Agent Call Recording: Section 63 BSA / 65B Guide',
     description: 'Turn abusive debt recovery audio recordings into actionable criminal FIRs. Master electronic certification under Section 63 BSA and Section 65B Evidence Act.',
-    images: ['https://settleloans.in/images/infographics/how-to-file-police-fir-with-recovery-agent-call-recording.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/how-to-file-police-fir-with-recovery-agent-call-recording.jpg'],
   },
 };
 
@@ -91,74 +91,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording#webpage",
-      "url": "https://settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording",
+      "@id": "https://www.settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording#webpage",
+      "url": "https://www.settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording",
       "name": "How to File Police FIR with Recovery Agent Call Recording: Section 63 BSA / 65B Guide",
       "description": "Comprehensive legal manual on converting recorded phone calls into admissible electronic criminal evidence under Section 63 BSA and Section 65B Evidence Act to file police FIRs against abusive recovery agents.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording#breadcrumb"
+        "@id": "https://www.settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording#breadcrumb",
+      "@id": "https://www.settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Police Complaint with Call Recording Guide",
-          "item": "https://settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording"
+          "item": "https://www.settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording#article",
+      "@id": "https://www.settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording#article",
       "headline": "How to File Police FIR with Recovery Agent Call Recording: Section 63 BSA & Section 65B Evidence Act Certificate Guide",
       "description": "Step-by-step legal blueprint explaining how borrowers can transform recorded phone threats from loan recovery agents into legally admissible criminal evidence, draft mandatory electronic certificates under Section 63 of Bharatiya Sakshya Adhiniyam (BSA) / Section 65B of Indian Evidence Act, file police FIRs under BNS/IPC, and negotiate formal debt settlements.",
-      "image": "https://settleloans.in/images/infographics/how-to-file-police-fir-with-recovery-agent-call-recording.jpg",
+      "image": "https://www.settleloans.in/images/infographics/how-to-file-police-fir-with-recovery-agent-call-recording.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording#webpage"
+        "@id": "https://www.settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording#service",
+      "@id": "https://www.settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording#service",
       "name": "SettleLoans - Criminal Defense & Debt Settlement Advisory",
       "description": "Specialized legal representation for borrowers facing unlawful debt collection harassment, criminal intimidation, extortionate calls, and statutory non-compliance by bank recovery agencies.",
-      "url": "https://settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording",
-      "image": "https://settleloans.in/images/infographics/how-to-file-police-fir-with-recovery-agent-call-recording.jpg",
+      "url": "https://www.settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording",
+      "image": "https://www.settleloans.in/images/infographics/how-to-file-police-fir-with-recovery-agent-call-recording.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -171,9 +171,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -247,7 +247,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording#faq",
+      "@id": "https://www.settleloans.in/how-to-file-police-fir-with-recovery-agent-call-recording#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -333,12 +333,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

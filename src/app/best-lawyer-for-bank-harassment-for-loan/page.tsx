@@ -12,39 +12,39 @@ export default function BankHarassmentLawyerPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-bank-harassment-for-loan#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-bank-harassment-for-loan",
+                "@id": "https://www.settleloans.in/best-lawyer-for-bank-harassment-for-loan#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-bank-harassment-for-loan",
                 "name": "Best Lawyer for Bank Harassment for Loan | Legal Protection & RBI Guidelines",
                 "description": "Expert legal help to stop bank recovery agent harassment. Leverge RBI guidelines, IPC sections, and Supreme Court judgments to protect your rights. 4500+ word guide.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-bank-harassment-for-loan#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-bank-harassment-for-loan#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-bank-harassment-for-loan#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-bank-harassment-for-loan#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Bank Harassment Lawyer", "item": "https://settleloans.in/best-lawyer-for-bank-harassment-for-loan" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Bank Harassment Lawyer", "item": "https://www.settleloans.in/best-lawyer-for-bank-harassment-for-loan" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-bank-harassment-for-loan#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-bank-harassment-for-loan#article",
                 "headline": "Best Lawyer for Bank Harassment: Your Legal Shield Against Recovery Agent Greed",
                 "description": "A comprehensive legal guide on stopping debt collection harassment in India using RBI master circulars and criminal law protections.",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Content Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-bank-harassment-for-loan#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-bank-harassment-for-loan#webpage" }
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-bank-harassment-for-loan#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-bank-harassment-for-loan#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -130,7 +130,7 @@ export default function BankHarassmentLawyerPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-bank-harassment-for-loan#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-bank-harassment-for-loan#product",
                 "name": "Bank Harassment Legal Defence Services",
                 "description": "Specialized legal services to stop bank and NBFC recovery agent harassment using RBI guidelines and IPC protections.",
                 "aggregateRating": {
@@ -141,7 +141,7 @@ export default function BankHarassmentLawyerPage() {
                 "review": [
                     {
                         "@type": "Review",
-                        "@id": "https://settleloans.in/best-lawyer-for-bank-harassment-for-loan#review1",
+                        "@id": "https://www.settleloans.in/best-lawyer-for-bank-harassment-for-loan#review1",
                         "author": { "@type": "Person", "name": "Sanjay D." },
                         "datePublished": "2024-02-01",
                         "reviewBody": "The constant calls from recovery agents were destroying my peace. SettleLoans stepped in, sent a legal notice, and the harassment stopped within days. Highly recommend!",
@@ -149,7 +149,7 @@ export default function BankHarassmentLawyerPage() {
                     },
                     {
                         "@type": "Review",
-                        "@id": "https://settleloans.in/best-lawyer-for-bank-harassment-for-loan#review2",
+                        "@id": "https://www.settleloans.in/best-lawyer-for-bank-harassment-for-loan#review2",
                         "author": { "@type": "Person", "name": "Priyanka S." },
                         "datePublished": "2024-01-20",
                         "reviewBody": "Recovery agents were threatening my family. SettleLoans helped me file an FIR and a complaint with the RBI. Truly professional and effective.",

@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'personal loan arbitration delhi ncr lawyer'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-delhi-ncr',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-delhi-ncr',
   },
   openGraph: {
     title: 'Personal Loan Settlement Lawyer in Delhi NCR: Court Representation & Debt Relief',
     description: 'Expert legal defense and One-Time Settlement (OTS) representation for personal loan defaulters across Delhi, Noida, and Gurugram courts under RBI guidelines.',
-    url: 'https://settleloans.in/personal-loan-settlement-delhi-ncr',
+    url: 'https://www.settleloans.in/personal-loan-settlement-delhi-ncr',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-delhi-ncr.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-delhi-ncr.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan Settlement Lawyer in Delhi NCR Guide',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Personal Loan Settlement Lawyer in Delhi NCR: Legal Defense & Lok Adalat Guide',
     description: 'Comprehensive legal representation for bank loan defaults, Section 138/25 notices, Lok Adalat compromise decrees, and anti-harassment injunctions across Delhi NCR.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-delhi-ncr.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-delhi-ncr.jpg'],
   },
 };
 
@@ -50,77 +50,77 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-delhi-ncr#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-delhi-ncr",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-delhi-ncr#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-delhi-ncr",
       "name": "Personal Loan Settlement Lawyer in Delhi NCR: Legal Defense & Lok Adalat (2026)",
       "description": "Facing personal loan default, court summons, or recovery harassment in Delhi NCR? Connect with experienced debt settlement lawyers for Tis Hazari, Saket, Karkardooma, Rohini, Dwarka & Gurugram courts. RBI-compliant legal defense & Lok Adalat settlements.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-delhi-ncr#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-delhi-ncr#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-delhi-ncr#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-delhi-ncr#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services & Legal Guides",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Personal Loan Settlement Lawyer in Delhi NCR",
-          "item": "https://settleloans.in/personal-loan-settlement-delhi-ncr"
+          "item": "https://www.settleloans.in/personal-loan-settlement-delhi-ncr"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-delhi-ncr#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-delhi-ncr#article",
       "headline": "Personal Loan Settlement Lawyer in Delhi NCR: Legal Defense, Lok Adalat & Court Representation",
       "description": "An authoritative legal and financial guide for distressed borrowers in Delhi, Gurgaon, and Noida. Learn court jurisdiction dynamics in Tis Hazari, Saket, Karkardooma, Rohini, and Dwarka, Section 138 vs Section 25 defense, DSLSA Lok Adalat settlement mechanics, and how seasoned NCR advocates secure 40% to 70% debt waivers.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-delhi-ncr.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-delhi-ncr.jpg",
       "datePublished": "2026-08-24T11:36:24+05:30",
       "dateModified": "2026-08-24T11:36:24+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-delhi-ncr#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-delhi-ncr#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo.png",
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
         "https://twitter.com/settleloans",
@@ -129,7 +129,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-delhi-ncr#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-delhi-ncr#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -199,11 +199,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-delhi-ncr#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-delhi-ncr#service",
       "name": "SettleLoans - Personal Loan Settlement Lawyer in Delhi NCR & Legal Defense",
       "description": "Premier debt settlement advisory, legal defense, and DSLSA Lok Adalat representation for salaried professionals and entrepreneurs facing loan defaults across Delhi, Gurugram, and Noida.",
-      "url": "https://settleloans.in/personal-loan-settlement-delhi-ncr",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-delhi-ncr.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-delhi-ncr",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-delhi-ncr.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -216,9 +216,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

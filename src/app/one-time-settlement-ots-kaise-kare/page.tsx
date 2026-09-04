@@ -50,16 +50,16 @@ export const metadata: Metadata = {
     'personal loan credit card ots settlement discount'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/one-time-settlement-ots-kaise-kare',
+    canonical: 'https://www.settleloans.in/one-time-settlement-ots-kaise-kare',
   },
   openGraph: {
     title: 'One Time Settlement (OTS) Kaise Le: Complete Bank NPA Negotiation & NDC Roadmap',
     description: 'Struggling with unpaid personal loans or credit cards? Discover how to bypass third-party recovery agents, approach the bank Stressed Asset Department, negotiate OTS waivers, and secure an authentic No Dues Certificate.',
-    url: 'https://settleloans.in/one-time-settlement-ots-kaise-kare',
+    url: 'https://www.settleloans.in/one-time-settlement-ots-kaise-kare',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/one-time-settlement-ots-kaise-kare.jpg',
+        url: 'https://www.settleloans.in/images/infographics/one-time-settlement-ots-kaise-kare.jpg',
         width: 1200,
         height: 675,
         alt: 'One Time Settlement OTS Kaise Le Bank Negotiation Blueprint Infographic',
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'One Time Settlement OTS Kaise Le: Bank NPA Negotiation & ₹0 NDC Guide',
     description: 'Step-by-step masterclass: approach bank NPA branches, leverage RBI Compromise Settlement circulars, calculate NPV recovery, and obtain ₹0 No Dues Certificate.',
-    images: ['https://settleloans.in/images/infographics/one-time-settlement-ots-kaise-kare.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/one-time-settlement-ots-kaise-kare.jpg'],
   },
 };
 
@@ -81,73 +81,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/one-time-settlement-ots-kaise-kare#webpage",
-      "url": "https://settleloans.in/one-time-settlement-ots-kaise-kare",
+      "@id": "https://www.settleloans.in/one-time-settlement-ots-kaise-kare#webpage",
+      "url": "https://www.settleloans.in/one-time-settlement-ots-kaise-kare",
       "name": "One Time Settlement OTS Kaise Le: Bank NPA Negotiation, Proposal Strategy & ₹0 NDC Guide",
       "description": "Comprehensive legal and financial manual explaining how Indian borrowers can negotiate a One-Time Settlement (OTS) with bank Stressed Asset departments under RBI Master Directions.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/one-time-settlement-ots-kaise-kare#breadcrumb"
+        "@id": "https://www.settleloans.in/one-time-settlement-ots-kaise-kare#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/one-time-settlement-ots-kaise-kare#breadcrumb",
+      "@id": "https://www.settleloans.in/one-time-settlement-ots-kaise-kare#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "One Time Settlement OTS Kaise Le",
-          "item": "https://settleloans.in/one-time-settlement-ots-kaise-kare"
+          "item": "https://www.settleloans.in/one-time-settlement-ots-kaise-kare"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/one-time-settlement-ots-kaise-kare#article",
+      "@id": "https://www.settleloans.in/one-time-settlement-ots-kaise-kare#article",
       "headline": "One Time Settlement OTS Kaise Le: Bank NPA Negotiation, Proposal Strategy & ₹0 NDC Guide",
       "description": "An exhaustive analysis of bank NPA compromise settlement dynamics, detailing how to engage Stressed Asset Management Verticals, draft compelling OTS proposals, audit sanction letters, and secure ₹0 No Dues Certificates.",
-      "image": "https://settleloans.in/images/infographics/one-time-settlement-ots-kaise-kare.jpg",
+      "image": "https://www.settleloans.in/images/infographics/one-time-settlement-ots-kaise-kare.jpg",
       "datePublished": "2026-08-26T09:00:00+05:30",
       "dateModified": "2026-08-26T09:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/one-time-settlement-ots-kaise-kare#webpage"
+        "@id": "https://www.settleloans.in/one-time-settlement-ots-kaise-kare#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo/logo.svg",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo/logo.svg",
       "contactPoint": [
         {
           "@type": "ContactPoint",
@@ -160,11 +160,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/one-time-settlement-ots-kaise-kare#service",
+      "@id": "https://www.settleloans.in/one-time-settlement-ots-kaise-kare#service",
       "name": "SettleLoans Bank OTS Advisory & Stressed Asset Settlement Desk",
       "description": "Professional debt resolution and banking negotiation service helping borrowers approach bank NPA departments, draft formal OTS proposals, secure maximum legal waivers, and obtain authentic ₹0 No Dues Certificates.",
-      "url": "https://settleloans.in/one-time-settlement-ots-kaise-kare",
-      "image": "https://settleloans.in/images/infographics/one-time-settlement-ots-kaise-kare.jpg",
+      "url": "https://www.settleloans.in/one-time-settlement-ots-kaise-kare",
+      "image": "https://www.settleloans.in/images/infographics/one-time-settlement-ots-kaise-kare.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -177,9 +177,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -253,7 +253,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/one-time-settlement-ots-kaise-kare#faq",
+      "@id": "https://www.settleloans.in/one-time-settlement-ots-kaise-kare#faq",
       "mainEntity": [
         {
           "@type": "Question",

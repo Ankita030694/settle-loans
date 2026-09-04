@@ -57,16 +57,16 @@ export const metadata: Metadata = {
     'one time settlement after doorstep recovery harassment'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do',
+    canonical: 'https://www.settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do',
   },
   openGraph: {
     title: 'Recovery Agent Sitting Outside House Refusing to Leave? Police 112 Protocol & Legal Eviction Guide',
     description: 'Bank recovery agents staging a dharna outside your flat or doorstep? Learn your rights under Supreme Court privacy rulings, Section 270 BNS public nuisance, and immediate police 112 action.',
-    url: 'https://settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do',
+    url: 'https://www.settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recovery-agent-refusing-to-leave-house-dharna-what-to-do.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recovery-agent-refusing-to-leave-house-dharna-what-to-do.jpg',
         width: 1200,
         height: 675,
         alt: 'Recovery Agent Sitting Outside House Dharna Legal Defense Protocol',
@@ -79,7 +79,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Recovery Agent Sitting Outside House Refusing to Leave? Police 112 Protocol & Legal Eviction Guide',
     description: 'Facing a doorstep standoff from bank recovery agents refusing to leave? Discover step-by-step 112 emergency police protocols, DD entry procedures, and advocate legal defenses.',
-    images: ['https://settleloans.in/images/infographics/recovery-agent-refusing-to-leave-house-dharna-what-to-do.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recovery-agent-refusing-to-leave-house-dharna-what-to-do.jpg'],
   },
 };
 
@@ -88,74 +88,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do#webpage",
-      "url": "https://settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do",
+      "@id": "https://www.settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do#webpage",
+      "url": "https://www.settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do",
       "name": "Recovery Agent Sitting Outside House Refusing to Leave? Police 112 Protocol & Legal Eviction Guide",
       "description": "Recovery agent staging a dharna outside your house, sitting on stairs, or refusing to leave? Follow our emergency 112 police protocol, DD entry guide for public nuisance, and RWA eviction remedies.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do#breadcrumb"
+        "@id": "https://www.settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do#breadcrumb",
+      "@id": "https://www.settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Doorstep Harassment & Dharna Defense",
-          "item": "https://settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do"
+          "item": "https://www.settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do#article",
+      "@id": "https://www.settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do#article",
       "headline": "Recovery Agent Sitting Outside House Refusing to Leave? Step-by-Step Police 112 Protocol, Daily Diary Entry & Legal Eviction Defenses",
       "description": "An exhaustive statutory and procedural handbook for borrowers facing recovery agent doorstep standoffs, hallway dharnas, and public shaming. Covers 112 emergency calls, Section 270 BNS / Section 290 IPC Daily Diary registration, RWA society eviction, RBI Master Directions, and 55% OTS negotiations.",
-      "image": "https://settleloans.in/images/infographics/recovery-agent-refusing-to-leave-house-dharna-what-to-do.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agent-refusing-to-leave-house-dharna-what-to-do.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do#webpage"
+        "@id": "https://www.settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do#service",
+      "@id": "https://www.settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do#service",
       "name": "SettleLoans - Doorstep Harassment Legal Defense & Loan Settlement Advisory",
       "description": "Specialized legal intervention, emergency advocate protection, and financial dispute resolution for borrowers facing coercive doorstep collection standoffs, public nuisance, and illegal bank recovery harassment.",
-      "url": "https://settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do",
-      "image": "https://settleloans.in/images/infographics/recovery-agent-refusing-to-leave-house-dharna-what-to-do.jpg",
+      "url": "https://www.settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agent-refusing-to-leave-house-dharna-what-to-do.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -168,9 +168,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -244,7 +244,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do#faq",
+      "@id": "https://www.settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -330,12 +330,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

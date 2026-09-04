@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Is Loan Settlement a Good Option for Borrowers? | Full Guide 2024-25",
     description: "Wondering if loan settlement is a good option? Explore the pros, cons, legal rights, and CIBIL impact of settling your debt in India with this 5500+ word guide.",
     alternates: {
-        canonical: "https://settleloans.in/is-loan-settlement-a-good-option-for-borrowers",
+        canonical: "https://www.settleloans.in/is-loan-settlement-a-good-option-for-borrowers",
     },
 };
 
@@ -16,34 +16,34 @@ export default function LoanSettlementGoodOptionPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/is-loan-settlement-a-good-option-for-borrowers#webpage",
-                "url": "https://settleloans.in/is-loan-settlement-a-good-option-for-borrowers",
+                "@id": "https://www.settleloans.in/is-loan-settlement-a-good-option-for-borrowers#webpage",
+                "url": "https://www.settleloans.in/is-loan-settlement-a-good-option-for-borrowers",
                 "name": "Is Loan Settlement a Good Option for Borrowers? | Expert Analysis",
                 "description": "A comprehensive analysis of loan settlement as a debt relief strategy in India, covering pros, cons, and legal aspects.",
-                "breadcrumb": { "@id": "https://settleloans.in/is-loan-settlement-a-good-option-for-borrowers#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/is-loan-settlement-a-good-option-for-borrowers#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/is-loan-settlement-a-good-option-for-borrowers#breadcrumb",
+                "@id": "https://www.settleloans.in/is-loan-settlement-a-good-option-for-borrowers#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Is Loan Settlement a Good Option?",
-                        "item": "https://settleloans.in/is-loan-settlement-a-good-option-for-borrowers"
+                        "item": "https://www.settleloans.in/is-loan-settlement-a-good-option-for-borrowers"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/is-loan-settlement-a-good-option-for-borrowers#article",
+                "@id": "https://www.settleloans.in/is-loan-settlement-a-good-option-for-borrowers#article",
                 "headline": "Is Loan Settlement a Good Option for Borrowers? The Ultimate 2024 Guide",
                 "description": "Deep dive into the world of loan settlement. Learn when it's a lifeline and when it's a risk.",
                 "author": {
@@ -55,16 +55,16 @@ export default function LoanSettlementGoodOptionPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-12",
                 "dateModified": "2024-03-12",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/is-loan-settlement-a-good-option-for-borrowers#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/is-loan-settlement-a-good-option-for-borrowers#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/is-loan-settlement-a-good-option-for-borrowers#product",
+                "@id": "https://www.settleloans.in/is-loan-settlement-a-good-option-for-borrowers#product",
                 "name": "Professional Loan Settlement Service",
                 "description": "Expert assistance in negotiating with banks for a reduced lump-sum payment to close your debts.",
                 "aggregateRating": {
@@ -105,7 +105,7 @@ export default function LoanSettlementGoodOptionPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/is-loan-settlement-a-good-option-for-borrowers#faq",
+                "@id": "https://www.settleloans.in/is-loan-settlement-a-good-option-for-borrowers#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

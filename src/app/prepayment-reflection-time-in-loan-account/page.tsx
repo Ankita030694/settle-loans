@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Prepayment Reflection Time in Loan Account | Part Payment Not Updated",
   description: "Made a massive part-payment but your principal hasn't reduced? Learn the exact time taken to reflect loan prepayment and how to handle a banking ombudsman prepayment delay.",
   alternates: {
-    canonical: "https://settleloans.in/prepayment-reflection-time-in-loan-account",
+    canonical: "https://www.settleloans.in/prepayment-reflection-time-in-loan-account",
   },
 };
 
@@ -17,34 +17,34 @@ export default function PrepaymentReflectionTimePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/prepayment-reflection-time-in-loan-account#webpage",
-        "url": "https://settleloans.in/prepayment-reflection-time-in-loan-account",
+        "@id": "https://www.settleloans.in/prepayment-reflection-time-in-loan-account#webpage",
+        "url": "https://www.settleloans.in/prepayment-reflection-time-in-loan-account",
         "name": "Prepayment Reflection Time in Loan Account | Part Payment Not Updated",
         "description": "Made a massive part-payment but your principal hasn't reduced? Here is how to force the bank to update your ledger immediately.",
-        "breadcrumb": { "@id": "https://settleloans.in/prepayment-reflection-time-in-loan-account#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/prepayment-reflection-time-in-loan-account#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/prepayment-reflection-time-in-loan-account#breadcrumb",
+        "@id": "https://www.settleloans.in/prepayment-reflection-time-in-loan-account#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Prepayment Reflection Time",
-            "item": "https://settleloans.in/prepayment-reflection-time-in-loan-account"
+            "item": "https://www.settleloans.in/prepayment-reflection-time-in-loan-account"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/prepayment-reflection-time-in-loan-account#article",
+        "@id": "https://www.settleloans.in/prepayment-reflection-time-in-loan-account#article",
         "headline": "Prepayment Reflection Time in Loan Account",
         "description": "Learn what to do when your part payment is not updated in your loan account and the time taken to reflect loan prepayments.",
         "author": {
@@ -56,22 +56,22 @@ export default function PrepaymentReflectionTimePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-24",
         "dateModified": "2024-07-24",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/prepayment-reflection-time-in-loan-account#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/prepayment-reflection-time-in-loan-account#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/prepayment-reflection-time-in-loan-account#product",
+        "@id": "https://www.settleloans.in/prepayment-reflection-time-in-loan-account#product",
         "name": "Loan Ledger Correction Legal Notice",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to compel banks to update loan accounts immediately after prepayment and refund excess interest charged.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function PrepaymentReflectionTimePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/prepayment-reflection-time-in-loan-account#faq",
+        "@id": "https://www.settleloans.in/prepayment-reflection-time-in-loan-account#faq",
         "mainEntity": [
           {
             "@type": "Question",

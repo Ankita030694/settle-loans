@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Alternatives to Loan Settlement in India | Managing Overwhelming Debt 2024-25",
     description: "Explorer alternatives to loan settlement like debt consolidation, DMPs, and asset refinancing. Save your CIBIL score while clearing debt in 2024-25.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt",
+        canonical: "https://www.settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt",
     },
 };
 
@@ -18,43 +18,43 @@ export default function AlternativesToSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt#webpage",
-                "url": "https://settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt",
+                "@id": "https://www.settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt#webpage",
+                "url": "https://www.settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt",
                 "name": "Alternatives to Loan Settlement for Managing Overwhelming Debt | 2024-25 Guide",
                 "description": "Comprehensive guide on debt consolidation, Debt Management Plans (DMPs), and asset liquidation as better alternatives to loan settlement in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Alternatives to Settlement",
-                        "item": "https://settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt"
+                        "item": "https://www.settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt#article",
+                "@id": "https://www.settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt#article",
                 "headline": "Top Alternatives to Loan Settlement for Indian Borrowers in 2024",
                 "description": "Don't ruin your credit score with a settlement. Explore how consolidation, refinancing, and DMPs can clear your debt while keeping your CIBIL report clean.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Financial Advisory Team"
@@ -64,7 +64,7 @@ export default function AlternativesToSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-07-10",
@@ -72,7 +72,7 @@ export default function AlternativesToSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt#faq",
+                "@id": "https://www.settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -238,7 +238,7 @@ export default function AlternativesToSettlementPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt#service",
+                "@id": "https://www.settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt#service",
                 "name": "Debt Consolidation & Management Advisory",
                 "description": "Professional advisory services to help borrowers consolidate debt and avoid the credit-damaging process of settlement.",
                 "brand": {

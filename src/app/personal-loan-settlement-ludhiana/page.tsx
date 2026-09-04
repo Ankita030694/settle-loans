@@ -56,16 +56,16 @@ export const metadata: Metadata = {
     'rbi debt settlement guidelines punjab'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-ludhiana',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-ludhiana',
   },
   openGraph: {
     title: 'Personal Loan Settlement in Ludhiana | Debt Settlement Advocates Punjab',
     description: 'Strategic legal defense and bank loan settlement for factory owners, textile manufacturers, and salaried borrowers across Ludhiana and Punjab. Stop harassment, challenge illegal notices, and negotiate institutional OTS compromises.',
-    url: 'https://settleloans.in/personal-loan-settlement-ludhiana',
+    url: 'https://www.settleloans.in/personal-loan-settlement-ludhiana',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-ludhiana.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-ludhiana.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan and Business Debt Settlement in Ludhiana Punjab Infographic',
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Personal Loan Settlement in Ludhiana | Debt Settlement Advocates Punjab',
     description: 'Expert debt settlement advocates in Ludhiana Punjab for industrial manufacturers, MSMEs, and salaried workers. Secure 40%–65% bank OTS waivers and complete legal immunity.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-ludhiana.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-ludhiana.jpg'],
   },
 };
 
@@ -126,74 +126,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-ludhiana#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-ludhiana",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-ludhiana#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-ludhiana",
       "name": "Personal Loan Settlement in Ludhiana | Debt Settlement Advocates Punjab",
       "description": "Comprehensive legal and financial guide for personal and business loan settlement in Ludhiana, Jalandhar, and Amritsar. Learn how factory owners, MSMEs, and salaried workers resolve unsecured bank debts with expert legal advocacy under RBI Master Directions.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-ludhiana#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-ludhiana#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-ludhiana#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-ludhiana#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Loan Settlement Ludhiana",
-          "item": "https://settleloans.in/personal-loan-settlement-ludhiana"
+          "item": "https://www.settleloans.in/personal-loan-settlement-ludhiana"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-ludhiana#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-ludhiana#article",
       "headline": "Personal Loan Settlement in Ludhiana: Legal Rights, Industrial Defaults & Advocate-Led Bank OTS in Punjab",
       "description": "In-depth statutory breakdown of personal and MSME business debt resolution in Ludhiana, Punjab. Explains bank NPA provisioning rules, NPV recovery formulas, Section 138 NI Act defense, and institutional compromise procedures.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-ludhiana.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-ludhiana.jpg",
       "datePublished": "2026-09-01T10:00:00+05:30",
       "dateModified": "2026-09-01T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-ludhiana#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-ludhiana#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-ludhiana#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-ludhiana#service",
       "name": "SettleLoans Ludhiana & Punjab Debt Resolution Services",
       "description": "Premier legal defense and loan compromise advisory for industrial factory owners, MSME proprietors, and salaried employees facing personal loan defaults and recovery harassment in Ludhiana, Jalandhar, and Amritsar.",
-      "url": "https://settleloans.in/personal-loan-settlement-ludhiana",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-ludhiana.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-ludhiana",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-ludhiana.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -206,9 +206,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -282,7 +282,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-ludhiana#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-ludhiana#faq",
       "mainEntity": faqsList.map((faq) => ({
         "@type": "Question",
         "name": faq.name,

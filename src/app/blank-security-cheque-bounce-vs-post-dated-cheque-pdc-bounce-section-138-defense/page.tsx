@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Blank Security Cheque vs. PDC Bounce: Section 138 Defenses",
   description: "Learn how to defend yourself against a Section 138 criminal case when a bank deposits a blank security cheque. Understand the difference between PDC and security cheques.",
   alternates: {
-    canonical: "https://settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense",
+    canonical: "https://www.settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense",
   },
 };
 
@@ -16,34 +16,34 @@ export default function SecurityChequeBounceDefensePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense#webpage",
-        "url": "https://settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense",
+        "@id": "https://www.settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense#webpage",
+        "url": "https://www.settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense",
         "name": "Blank Security Cheque vs. PDC Bounce: Section 138 Defenses",
         "description": "A highly technical legal guide for borrowers who were forced to give a blank, signed security cheque when taking a loan, which the bank later filled out and bounced to trigger a criminal Section 138 case.",
-        "breadcrumb": { "@id": "https://settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense#breadcrumb",
+        "@id": "https://www.settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Security Cheque Bounce Defense",
-            "item": "https://settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense"
+            "item": "https://www.settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense#article",
+        "@id": "https://www.settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense#article",
         "headline": "Blank Security Cheque vs. Post-Dated Cheque (PDC) Bounce: Section 138 Defenses",
         "description": "Learn the legal defenses under Section 138 of the NI Act against blank security cheques deposited by banks.",
         "author": {
@@ -55,22 +55,22 @@ export default function SecurityChequeBounceDefensePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense#product",
+        "@id": "https://www.settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense#product",
         "name": "DRT Legal Defense Services for Cheque Bounce",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert DRT lawyers to quash illegal Section 138 notices stemming from blank security cheques.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -119,7 +119,7 @@ export default function SecurityChequeBounceDefensePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense#faq",
+        "@id": "https://www.settleloans.in/blank-security-cheque-bounce-vs-post-dated-cheque-pdc-bounce-section-138-defense#faq",
         "mainEntity": [
           {
             "@type": "Question",

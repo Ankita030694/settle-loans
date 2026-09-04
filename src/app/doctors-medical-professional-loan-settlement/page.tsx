@@ -47,16 +47,16 @@ export const metadata: Metadata = {
     'medical practitioner loan compromise settlement',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/doctors-medical-professional-loan-settlement',
+    canonical: 'https://www.settleloans.in/doctors-medical-professional-loan-settlement',
   },
   openGraph: {
     title: 'Loan Settlement for Doctors in India: Clinic Debt, Equipment & OTS Guide',
     description: 'Strategic debt resolution manual for medical practitioners facing clinic expansion debt, professional overdrafts, and equipment finance defaults in India.',
-    url: 'https://settleloans.in/doctors-medical-professional-loan-settlement',
+    url: 'https://www.settleloans.in/doctors-medical-professional-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/doctors-medical-professional-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/doctors-medical-professional-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Settlement for Doctors in India - Clinic Debt and OTS Resolution Guide',
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement for Doctors in India: Clinic Debt & OTS Resolution Guide',
     description: 'Expert legal and financial advisory for doctors navigating professional loan defaults, clinic cash-flow crunches, and RBI compromise settlements.',
-    images: ['https://settleloans.in/images/infographics/doctors-medical-professional-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/doctors-medical-professional-loan-settlement.jpg'],
   },
 };
 
@@ -78,74 +78,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/doctors-medical-professional-loan-settlement#webpage",
-      "url": "https://settleloans.in/doctors-medical-professional-loan-settlement",
+      "@id": "https://www.settleloans.in/doctors-medical-professional-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/doctors-medical-professional-loan-settlement",
       "name": "Loan Settlement for Doctors in India: Clinic Debt, Equipment & OTS Guide",
       "description": "Specialized guide on loan settlement for doctors in India. Learn how to resolve unsecured professional loans, clinic expansion debts, safeguard medical equipment, halt clinic harassment, and negotiate structured OTS under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/doctors-medical-professional-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/doctors-medical-professional-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/doctors-medical-professional-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/doctors-medical-professional-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan Settlement for Doctors in India",
-          "item": "https://settleloans.in/doctors-medical-professional-loan-settlement"
+          "item": "https://www.settleloans.in/doctors-medical-professional-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/doctors-medical-professional-loan-settlement#article",
+      "@id": "https://www.settleloans.in/doctors-medical-professional-loan-settlement#article",
       "headline": "Loan Settlement for Doctors in India: Resolving High-Ticket Clinic Debt & Professional Loans",
       "description": "A comprehensive strategic manual for medical practitioners to settle high-value professional loans, safeguard clinical equipment, protect medical council registration, and secure RBI compromise settlements.",
-      "image": "https://settleloans.in/images/infographics/doctors-medical-professional-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/doctors-medical-professional-loan-settlement.jpg",
       "datePublished": "2026-08-26T12:00:00+05:30",
       "dateModified": "2026-08-26T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/doctors-medical-professional-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/doctors-medical-professional-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/doctors-medical-professional-loan-settlement#service",
+      "@id": "https://www.settleloans.in/doctors-medical-professional-loan-settlement#service",
       "name": "SettleLoans - Medical Professional Debt Resolution & Doctor Loan Settlement",
       "description": "Specialized legal and financial advisory for doctors, surgeons, and healthcare entrepreneurs to settle unsecured professional loans, clinic lines of credit, and medical equipment liabilities under RBI compromise frameworks.",
-      "url": "https://settleloans.in/doctors-medical-professional-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/doctors-medical-professional-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/doctors-medical-professional-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/doctors-medical-professional-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹₹",
       "address": {
@@ -158,9 +158,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -234,7 +234,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/doctors-medical-professional-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/doctors-medical-professional-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -312,12 +312,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

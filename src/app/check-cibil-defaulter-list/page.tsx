@@ -5,16 +5,16 @@ export const metadata: Metadata = {
   title: 'How to Check My Name in CIBIL Defaulter List? Myth vs Reality (2026)',
   description: 'Wondering how to check your name in CIBIL defaulter list? Learn why a public blacklist is a myth, what DPD & Written-Off mean, how to get your CIR, and rebuild to 750+.',
   alternates: {
-    canonical: 'https://settleloans.in/check-cibil-defaulter-list',
+    canonical: 'https://www.settleloans.in/check-cibil-defaulter-list',
   },
   openGraph: {
     title: 'How to Check My Name in CIBIL Defaulter List? Myth vs Reality & Credit Guide',
     description: 'Demystifying the CIBIL defaulter list myth: discover how credit bureaus track payment histories, how to access your official credit report, and legal recovery pathways.',
-    url: 'https://settleloans.in/check-cibil-defaulter-list',
+    url: 'https://www.settleloans.in/check-cibil-defaulter-list',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/check-cibil-defaulter-list.jpg',
+        url: 'https://www.settleloans.in/images/infographics/check-cibil-defaulter-list.jpg',
         width: 1200,
         height: 630,
         alt: 'How to Check Name in CIBIL Defaulter List Myth vs Reality Infographic',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Check My Name in CIBIL Defaulter List? Score Impact & Recovery Guide',
     description: 'Learn the truth about CIBIL defaulter lists, understand DPD strings and written-off codes, and discover how to rebuild your score to 750+.',
-    images: ['https://settleloans.in/images/infographics/check-cibil-defaulter-list.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/check-cibil-defaulter-list.jpg'],
   },
 };
 
@@ -36,33 +36,33 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/check-cibil-defaulter-list#article",
+      "@id": "https://www.settleloans.in/check-cibil-defaulter-list#article",
       "headline": "How to Check My Name in CIBIL Defaulter List? Myth vs Reality & Credit Report Recovery Guide",
       "description": "An exhaustive legal and credit scoring breakdown explaining why a public CIBIL defaulter list does not exist in India, how credit bureaus record DPD and Written-Off accounts, and how to verify your credit report.",
-      "image": "https://settleloans.in/images/infographics/check-cibil-defaulter-list.jpg",
+      "image": "https://www.settleloans.in/images/infographics/check-cibil-defaulter-list.jpg",
       "datePublished": "2026-08-22T10:00:00+05:30",
       "dateModified": "2026-08-22T10:00:00+05:30",
-      "mainEntityOfPage": "https://settleloans.in/check-cibil-defaulter-list",
+      "mainEntityOfPage": "https://www.settleloans.in/check-cibil-defaulter-list",
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo.png",
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
         "https://twitter.com/settleloans",
@@ -71,31 +71,31 @@ const jsonLdGraph = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/check-cibil-defaulter-list#breadcrumb",
+      "@id": "https://www.settleloans.in/check-cibil-defaulter-list#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services & Guides",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Check CIBIL Defaulter List",
-          "item": "https://settleloans.in/check-cibil-defaulter-list"
+          "item": "https://www.settleloans.in/check-cibil-defaulter-list"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/check-cibil-defaulter-list#faq",
+      "@id": "https://www.settleloans.in/check-cibil-defaulter-list#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -173,11 +173,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/check-cibil-defaulter-list#service",
+      "@id": "https://www.settleloans.in/check-cibil-defaulter-list#service",
       "name": "SettleLoans - CIBIL Dispute Resolution & Debt Settlement Advisory",
       "description": "Authoritative legal advisory, CIBIL forensic dispute resolution, bank OTS negotiation, and credit score reconstruction for distressed borrowers across India.",
-      "url": "https://settleloans.in/check-cibil-defaulter-list",
-      "image": "https://settleloans.in/images/infographics/check-cibil-defaulter-list.jpg",
+      "url": "https://www.settleloans.in/check-cibil-defaulter-list",
+      "image": "https://www.settleloans.in/images/infographics/check-cibil-defaulter-list.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -190,9 +190,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

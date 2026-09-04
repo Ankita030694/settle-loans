@@ -52,16 +52,16 @@ export const metadata: Metadata = {
     'settleloans cyber loan harassment support'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/instant-loan-app-harassment-se-kaise-bache',
+    canonical: 'https://www.settleloans.in/instant-loan-app-harassment-se-kaise-bache',
   },
   openGraph: {
     title: 'Instant Loan App Harassment Se Kaise Bache: Emergency Cyber Shield & Legal Guide',
     description: 'Trapped by 7-day instant loan apps? Learn how to neutralize morphed photo threats, stop contact harassment, lodge cybercrime.gov.in FIRs, and report on Chakshu portal.',
-    url: 'https://settleloans.in/instant-loan-app-harassment-se-kaise-bache',
+    url: 'https://www.settleloans.in/instant-loan-app-harassment-se-kaise-bache',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/instant-loan-app-harassment-se-kaise-bache.jpg',
+        url: 'https://www.settleloans.in/images/infographics/instant-loan-app-harassment-se-kaise-bache.jpg',
         width: 1200,
         height: 675,
         alt: 'Instant Loan App Harassment Se Kaise Bache Cyber Shield Infographic',
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Instant Loan App Harassment Se Kaise Bache: 4-Step Action Guide',
     description: 'Immediate legal steps to stop Chinese loan app blackmail, morphed photos, contact list harassment, and file complaints on cybercrime.gov.in & Chakshu.',
-    images: ['https://settleloans.in/images/infographics/instant-loan-app-harassment-se-kaise-bache.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/instant-loan-app-harassment-se-kaise-bache.jpg'],
   },
 };
 
@@ -83,73 +83,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/instant-loan-app-harassment-se-kaise-bache#webpage",
-      "url": "https://settleloans.in/instant-loan-app-harassment-se-kaise-bache",
+      "@id": "https://www.settleloans.in/instant-loan-app-harassment-se-kaise-bache#webpage",
+      "url": "https://www.settleloans.in/instant-loan-app-harassment-se-kaise-bache",
       "name": "Instant Loan App Harassment Se Kaise Bache: Cyber Crime Filing & Legal Shield Protocol",
       "description": "An exhaustive emergency manual for borrowers facing cyber extortion, contact list spamming, and morphed photo blackmail from fraudulent 7-day instant loan applications.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/instant-loan-app-harassment-se-kaise-bache#breadcrumb"
+        "@id": "https://www.settleloans.in/instant-loan-app-harassment-se-kaise-bache#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/instant-loan-app-harassment-se-kaise-bache#breadcrumb",
+      "@id": "https://www.settleloans.in/instant-loan-app-harassment-se-kaise-bache#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Instant Loan App Harassment Se Kaise Bache",
-          "item": "https://settleloans.in/instant-loan-app-harassment-se-kaise-bache"
+          "item": "https://www.settleloans.in/instant-loan-app-harassment-se-kaise-bache"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/instant-loan-app-harassment-se-kaise-bache#article",
+      "@id": "https://www.settleloans.in/instant-loan-app-harassment-se-kaise-bache#article",
       "headline": "Instant Loan App Harassment Se Kaise Bache: Emergency Cyber Crime Filing, Chakshu Reporting, and Legal Shielding",
       "description": "Comprehensive legal and cyber defense protocol detailing criminal provisions under BNS, IT Act 2000, RBI Digital Lending Master Directions, and national cyber grievance redressal portals against fraudulent lending apps.",
-      "image": "https://settleloans.in/images/infographics/instant-loan-app-harassment-se-kaise-bache.jpg",
+      "image": "https://www.settleloans.in/images/infographics/instant-loan-app-harassment-se-kaise-bache.jpg",
       "datePublished": "2026-08-26T09:00:00+05:30",
       "dateModified": "2026-08-26T09:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/instant-loan-app-harassment-se-kaise-bache#webpage"
+        "@id": "https://www.settleloans.in/instant-loan-app-harassment-se-kaise-bache#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo/logo.svg",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo/logo.svg",
       "contactPoint": [
         {
           "@type": "ContactPoint",
@@ -162,11 +162,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/instant-loan-app-harassment-se-kaise-bache#service",
+      "@id": "https://www.settleloans.in/instant-loan-app-harassment-se-kaise-bache#service",
       "name": "SettleLoans Cyber Harassment Redressal & Anti-Extortion Advisory",
       "description": "Specialized legal and cyber defence desk providing immediate protection, cybercrime portal filing assistance, and legal notice representation for victims of illegal instant loan apps and recovery extortion in India.",
-      "url": "https://settleloans.in/instant-loan-app-harassment-se-kaise-bache",
-      "image": "https://settleloans.in/images/infographics/instant-loan-app-harassment-se-kaise-bache.jpg",
+      "url": "https://www.settleloans.in/instant-loan-app-harassment-se-kaise-bache",
+      "image": "https://www.settleloans.in/images/infographics/instant-loan-app-harassment-se-kaise-bache.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -179,9 +179,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -255,7 +255,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/instant-loan-app-harassment-se-kaise-bache#faq",
+      "@id": "https://www.settleloans.in/instant-loan-app-harassment-se-kaise-bache#faq",
       "mainEntity": [
         {
           "@type": "Question",

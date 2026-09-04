@@ -55,16 +55,16 @@ export const metadata: Metadata = {
     'one sided arbitration clause bank loan invalid'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/unfair-contract-terms-in-bank-loan-agreements',
+    canonical: 'https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements',
   },
   openGraph: {
     title: 'Unfair Contract Terms in Bank Loan Agreements: Consumer Protection Act Section 2(46) Legal Guide',
     description: 'Learn how borrowers can legally challenge one-sided loan covenants, arbitrary interest hikes, and predatory penal charges under Section 2(46) of CPA 2019 to secure fair debt settlement.',
-    url: 'https://settleloans.in/unfair-contract-terms-in-bank-loan-agreements',
+    url: 'https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/unfair-contract-terms-in-bank-loan-agreements.jpg',
+        url: 'https://www.settleloans.in/images/infographics/unfair-contract-terms-in-bank-loan-agreements.jpg',
         width: 1200,
         height: 675,
         alt: 'Unfair Contract Terms in Bank Loan Agreements Consumer Protection Act Guide',
@@ -77,7 +77,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Unfair Contract Terms in Bank Loan Agreements: Section 2(46) CPA 2019 Legal Defense',
     description: 'Are your bank loan terms oppressive or one-sided? Discover how Consumer Protection Act Section 2(46) empowers borrowers to declare unfair terms null and void.',
-    images: ['https://settleloans.in/images/infographics/unfair-contract-terms-in-bank-loan-agreements.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/unfair-contract-terms-in-bank-loan-agreements.jpg'],
   },
 };
 
@@ -86,74 +86,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/unfair-contract-terms-in-bank-loan-agreements#webpage",
-      "url": "https://settleloans.in/unfair-contract-terms-in-bank-loan-agreements",
+      "@id": "https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements#webpage",
+      "url": "https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements",
       "name": "Unfair Contract Terms in Bank Loan Agreements | Consumer Protection Act Sec 2(46)",
       "description": "Subject to unilateral penalty clauses or arbitrary interest hikes? Learn how Section 2(46) of the Consumer Protection Act 2019 declares abusive loan terms null and void.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/unfair-contract-terms-in-bank-loan-agreements#breadcrumb"
+        "@id": "https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/unfair-contract-terms-in-bank-loan-agreements#breadcrumb",
+      "@id": "https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Unfair Contract Terms in Loan Agreements",
-          "item": "https://settleloans.in/unfair-contract-terms-in-bank-loan-agreements"
+          "item": "https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/unfair-contract-terms-in-bank-loan-agreements#article",
+      "@id": "https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements#article",
       "headline": "Unfair Contract Terms in Bank Loan Agreements: Statutory Legal Challenge Under Consumer Protection Act Section 2(46)",
       "description": "An exhaustive legal treatise examining standard form adhesion loan agreements, unilateral penal clauses, arbitrary rate adjustments, and statutory remedies under Section 2(46) of the Consumer Protection Act 2019 to invalidate unconscionable covenants and enforce equitable debt settlements.",
-      "image": "https://settleloans.in/images/infographics/unfair-contract-terms-in-bank-loan-agreements.jpg",
+      "image": "https://www.settleloans.in/images/infographics/unfair-contract-terms-in-bank-loan-agreements.jpg",
       "datePublished": "2026-09-01T09:00:00+05:30",
       "dateModified": "2026-09-01T09:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/unfair-contract-terms-in-bank-loan-agreements#webpage"
+        "@id": "https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/unfair-contract-terms-in-bank-loan-agreements#service",
+      "@id": "https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements#service",
       "name": "SettleLoans - Unfair Loan Contract Dispute & Statutory Resolution Advisory",
       "description": "Nationwide legal defense, forensic loan agreement audits, and advocate-led consumer dispute advocacy challenging unconscionable banking clauses, usurious penalties, and one-sided adhesion contracts.",
-      "url": "https://settleloans.in/unfair-contract-terms-in-bank-loan-agreements",
-      "image": "https://settleloans.in/images/infographics/unfair-contract-terms-in-bank-loan-agreements.jpg",
+      "url": "https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements",
+      "image": "https://www.settleloans.in/images/infographics/unfair-contract-terms-in-bank-loan-agreements.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -166,9 +166,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -242,7 +242,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/unfair-contract-terms-in-bank-loan-agreements#faq",
+      "@id": "https://www.settleloans.in/unfair-contract-terms-in-bank-loan-agreements#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -328,12 +328,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

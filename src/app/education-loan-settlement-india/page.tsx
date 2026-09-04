@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'education loan npa classification rules',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/education-loan-settlement-india',
+    canonical: 'https://www.settleloans.in/education-loan-settlement-india',
   },
   openGraph: {
     title: 'How to Settle Education Loan in India: Moratorium Expiry, Parent Liability & RBI Rules',
     description: 'A comprehensive legal and financial guide on settling defaulted student loans in India, stopping recovery harassment against parents, and negotiating debt haircuts under RBI rules.',
-    url: 'https://settleloans.in/education-loan-settlement-india',
+    url: 'https://www.settleloans.in/education-loan-settlement-india',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/education-loan-settlement-india.jpg',
+        url: 'https://www.settleloans.in/images/infographics/education-loan-settlement-india.jpg',
         width: 1200,
         height: 630,
         alt: 'How to Settle Education Loan in India Legal and Negotiation Guide',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Settle Education Loan in India: Parent Liability & RBI Rules (2026)',
     description: 'Expert guide for unemployed graduates facing expired moratoriums and bank recovery pressure. Understand co-applicant rights, NPA provisioning, and OTS negotiation.',
-    images: ['https://settleloans.in/images/infographics/education-loan-settlement-india.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/education-loan-settlement-india.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/education-loan-settlement-india#webpage",
-      "url": "https://settleloans.in/education-loan-settlement-india",
+      "@id": "https://www.settleloans.in/education-loan-settlement-india#webpage",
+      "url": "https://www.settleloans.in/education-loan-settlement-india",
       "name": "How to Settle Education Loan in India: Moratorium Expiry, Parent Liability & RBI Rules (2026)",
       "description": "Unemployed after graduation with expired moratorium? Learn how to settle education loans in India, protect parent co-applicants, and negotiate an RBI-compliant OTS.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/education-loan-settlement-india#breadcrumb"
+        "@id": "https://www.settleloans.in/education-loan-settlement-india#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/education-loan-settlement-india#breadcrumb",
+      "@id": "https://www.settleloans.in/education-loan-settlement-india#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Education Loan Settlement India",
-          "item": "https://settleloans.in/education-loan-settlement-india"
+          "item": "https://www.settleloans.in/education-loan-settlement-india"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/education-loan-settlement-india#article",
+      "@id": "https://www.settleloans.in/education-loan-settlement-india#article",
       "headline": "How to Settle Education Loan in India: Moratorium Expiry, Parent Liability & RBI Rules",
       "description": "An exhaustive technical and legal manual on how Indian graduates and parent co-applicants can negotiate One-Time Settlement (OTS) for defaulted student loans, handle NPA classification, and enforce RBI Fair Practice protections.",
-      "image": "https://settleloans.in/images/infographics/education-loan-settlement-india.jpg",
+      "image": "https://www.settleloans.in/images/infographics/education-loan-settlement-india.jpg",
       "datePublished": "2026-08-22T11:35:14+05:30",
       "dateModified": "2026-08-22T11:35:14+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/education-loan-settlement-india#webpage"
+        "@id": "https://www.settleloans.in/education-loan-settlement-india#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/education-loan-settlement-india#service",
+      "@id": "https://www.settleloans.in/education-loan-settlement-india#service",
       "name": "SettleLoans - Education Loan Settlement & Co-Applicant Defense",
       "description": "Specialized legal and financial advisory for negotiating One-Time Settlements (OTS) on defaulted education loans, shielding parent guarantors from coercive recovery, and securing official bank No Dues Certificates.",
-      "url": "https://settleloans.in/education-loan-settlement-india",
-      "image": "https://settleloans.in/images/infographics/education-loan-settlement-india.jpg",
+      "url": "https://www.settleloans.in/education-loan-settlement-india",
+      "image": "https://www.settleloans.in/images/infographics/education-loan-settlement-india.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/education-loan-settlement-india#faq",
+      "@id": "https://www.settleloans.in/education-loan-settlement-india#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -292,12 +292,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

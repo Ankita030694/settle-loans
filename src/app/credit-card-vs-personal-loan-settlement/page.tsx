@@ -20,17 +20,17 @@ export const metadata: Metadata = {
     'credit card charge off vs loan npa settlement',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/credit-card-vs-personal-loan-settlement',
+    canonical: 'https://www.settleloans.in/credit-card-vs-personal-loan-settlement',
   },
   openGraph: {
     title: 'Credit Card vs Personal Loan Settlement: Difference, Haircuts & Priority Guide (2026)',
     description:
       'Holding both credit card debt and personal loans with limited cash? In-depth legal, banking, and financial analysis on which debt yields bigger discounts and which to settle first.',
-    url: 'https://settleloans.in/credit-card-vs-personal-loan-settlement',
+    url: 'https://www.settleloans.in/credit-card-vs-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/credit-card-vs-personal-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/credit-card-vs-personal-loan-settlement.jpg',
         width: 1200,
         height: 630,
         alt: 'Credit Card vs Personal Loan Settlement Comparison Guide - SettleLoans',
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     title: 'Credit Card vs Personal Loan Settlement: Which Debt Should You Settle First?',
     description:
       'Compare 50%–75% credit card discounts vs 35%–60% personal loan waivers. Learn bank accounting rules, legal exposure under Section 138, and optimal debt triage.',
-    images: ['https://settleloans.in/images/infographics/credit-card-vs-personal-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/credit-card-vs-personal-loan-settlement.jpg'],
   },
 };
 
@@ -53,77 +53,77 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/credit-card-vs-personal-loan-settlement#webpage",
-      "url": "https://settleloans.in/credit-card-vs-personal-loan-settlement",
+      "@id": "https://www.settleloans.in/credit-card-vs-personal-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/credit-card-vs-personal-loan-settlement",
       "name": "Credit Card vs Personal Loan Settlement: Difference & Priority (2026)",
       "description": "Confused between credit card vs personal loan settlement? Compare 50%–75% card haircuts vs 35%–60% loan discounts, legal risks, CIBIL impact, and payoff priority.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/credit-card-vs-personal-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/credit-card-vs-personal-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/credit-card-vs-personal-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/credit-card-vs-personal-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Financial Planning & Settlement Guides",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Credit Card vs Personal Loan Settlement",
-          "item": "https://settleloans.in/credit-card-vs-personal-loan-settlement"
+          "item": "https://www.settleloans.in/credit-card-vs-personal-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/credit-card-vs-personal-loan-settlement#article",
+      "@id": "https://www.settleloans.in/credit-card-vs-personal-loan-settlement#article",
       "headline": "Credit Card vs Personal Loan Settlement: The Strategic Comparison, Haircut Depth, and Priority Playbook (2026)",
       "description": "An exhaustive comparative analysis of credit card debt settlement versus personal loan settlement under Indian banking regulations. Explores why credit cards offer 50%–75% discounts compared to 35%–60% on personal loans, legal risks under Section 138 vs civil recovery, CIBIL reporting differences, and strategic debt triage when facing severe liquidity constraints.",
-      "image": "https://settleloans.in/images/infographics/credit-card-vs-personal-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/credit-card-vs-personal-loan-settlement.jpg",
       "datePublished": "2026-08-22T10:39:02+05:30",
       "dateModified": "2026-08-22T10:39:02+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/credit-card-vs-personal-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/credit-card-vs-personal-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo.png",
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
         "https://twitter.com/settleloans",
@@ -132,11 +132,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/credit-card-vs-personal-loan-settlement#service",
+      "@id": "https://www.settleloans.in/credit-card-vs-personal-loan-settlement#service",
       "name": "SettleLoans - Credit Card & Personal Loan Settlement Advisory",
       "description": "Expert multi-lender debt resolution, credit card charge-off negotiation, personal loan compromise settlement, anti-harassment legal protection, and credit rehabilitation across India.",
-      "url": "https://settleloans.in/credit-card-vs-personal-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/credit-card-vs-personal-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/credit-card-vs-personal-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/credit-card-vs-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -149,9 +149,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -225,7 +225,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/credit-card-vs-personal-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/credit-card-vs-personal-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",

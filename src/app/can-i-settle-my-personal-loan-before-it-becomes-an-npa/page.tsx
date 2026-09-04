@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Pre-NPA Settlement: Can You Settle a Loan Before Default? 2026",
   description: "Understand the 90 days loan default rule in India. Learn if you can negotiate a loan settlement or restructuring before your account becomes an NPA.",
   alternates: {
-    canonical: "https://settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa",
+    canonical: "https://www.settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa",
   },
 };
 
@@ -16,34 +16,34 @@ export default function PreNPASettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#webpage",
-        "url": "https://settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa",
+        "@id": "https://www.settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#webpage",
+        "url": "https://www.settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa",
         "name": "Pre-NPA Settlement: Can You Settle a Loan Before Default?",
         "description": "A strategic financial guide on negotiating loan settlement and restructuring before the 90-day NPA mark.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#breadcrumb",
+        "@id": "https://www.settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Pre-NPA Settlement",
-            "item": "https://settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa"
+            "item": "https://www.settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#article",
+        "@id": "https://www.settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#article",
         "headline": "Pre-NPA Settlement: Can You Settle a Loan Before Default?",
         "description": "Learn the realities of SMA-1, SMA-2, and how to protect your CIBIL score through pre-default loan restructuring.",
         "author": {
@@ -55,16 +55,16 @@ export default function PreNPASettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-07-21",
         "dateModified": "2026-07-21",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#faq",
+        "@id": "https://www.settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -159,7 +159,7 @@ export default function PreNPASettlementPage() {
         "review": [
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#review1",
+            "@id": "https://www.settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#review1",
             "author": { "@type": "Person", "name": "Arun P." },
             "reviewBody": "My business was struggling and I was at SMA-1. The team helped me negotiate a tenure extension that lowered my EMI by 40%.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" },
@@ -167,7 +167,7 @@ export default function PreNPASettlementPage() {
           },
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#review2",
+            "@id": "https://www.settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#review2",
             "author": { "@type": "Person", "name": "Meera J." },
             "reviewBody": "They explained the CIBIL impact clearly. We opted for restructuring instead of settlement and saved my credit score.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" },
@@ -175,7 +175,7 @@ export default function PreNPASettlementPage() {
           },
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#review3",
+            "@id": "https://www.settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#review3",
             "author": { "@type": "Person", "name": "Karthik R." },
             "reviewBody": "I couldn't pay for 2 months (SMA-2). They intervened and got all my penal charges waived so I could clear the overdue.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" },
@@ -183,7 +183,7 @@ export default function PreNPASettlementPage() {
           },
           {
             "@type": "Review",
-            "@id": "https://settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#review4",
+            "@id": "https://www.settleloans.in/can-i-settle-my-personal-loan-before-it-becomes-an-npa#review4",
             "author": { "@type": "Person", "name": "Neha S." },
             "reviewBody": "Excellent strategic advice. Prevented my account from becoming an NPA just in time.",
             "reviewRating": { "@type": "Rating", "ratingValue": "5" },

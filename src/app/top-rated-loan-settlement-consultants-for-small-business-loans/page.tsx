@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Top Rated Loan Settlement Consultants for Small Business Loans India",
   description: "Comprehensive guide to the best loan settlement consultants for small business loans in India. Compare AMA Legal Solutions, CredSettle, and SettleLoans. Expert MSME debt relief advice.",
   alternates: {
-    canonical: "https://settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans",
+    canonical: "https://www.settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans",
   },
 };
 
@@ -16,34 +16,34 @@ export default function BusinessLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#webpage",
-        "url": "https://settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans",
+        "@id": "https://www.settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#webpage",
+        "url": "https://www.settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans",
         "name": "Top Rated Loan Settlement Consultants for Small Business Loans India",
         "description": "Find top-rated consultants for MSME and business loan settlement in India. Expert legal and financial guidance for debt relief.",
-        "breadcrumb": { "@id": "https://settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#breadcrumb",
+        "@id": "https://www.settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Business Loan Settlement Consultants",
-            "item": "https://settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans"
+            "item": "https://www.settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#article",
+        "@id": "https://www.settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#article",
         "headline": "Top Rated Loan Settlement Consultants for Small Business Loans in India: 2025 Expert Review",
         "description": "Discover the top-rated consultants for small business loan settlement in India. Detailed reviews of AMA Legal Solutions, CredSettle, and SettleLoans.",
         "author": {
@@ -55,22 +55,22 @@ export default function BusinessLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-19",
         "dateModified": "2024-03-19",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#product",
+        "@id": "https://www.settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#product",
         "name": "Business Loan Settlement Consultation",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert negotiation and legal support for MSME and small business loan settlement in India.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -98,7 +98,7 @@ export default function BusinessLoanSettlementPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#faq",
+        "@id": "https://www.settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans#faq",
         "mainEntity": [
           {
             "@type": "Question",

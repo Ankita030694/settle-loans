@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "OTS Full Form in Banking: Everything You Need to Know (2024-25) | SettleLoans",
   description: "What is the OTS full form in banking? Learn about One Time Settlement process, RBI rules, eligibility, and how to get maximum waivers on your loan in India.",
   alternates: {
-    canonical: "https://settleloans.in/faqs/ots-full-form",
+    canonical: "https://www.settleloans.in/faqs/ots-full-form",
   },
 };
 
@@ -16,41 +16,41 @@ export default function OTSFullFormPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/faqs/ots-full-form#webpage",
-        "url": "https://settleloans.in/faqs/ots-full-form",
+        "@id": "https://www.settleloans.in/faqs/ots-full-form#webpage",
+        "url": "https://www.settleloans.in/faqs/ots-full-form",
         "name": "OTS Full Form: One Time Settlement Guide 2024-25",
         "description": "Exhaustive guide on the OTS (One Time Settlement) mechanism in Indian banking, covering legal aspects and debt relief strategies.",
-        "breadcrumb": { "@id": "https://settleloans.in/faqs/ots-full-form#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/faqs/ots-full-form#article" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/faqs/ots-full-form#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/faqs/ots-full-form#article" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/faqs/ots-full-form#breadcrumb",
+        "@id": "https://www.settleloans.in/faqs/ots-full-form#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "FAQs",
-            "item": "https://settleloans.in/faqs"
+            "item": "https://www.settleloans.in/faqs"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "OTS Full Form",
-            "item": "https://settleloans.in/faqs/ots-full-form"
+            "item": "https://www.settleloans.in/faqs/ots-full-form"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/faqs/ots-full-form#article",
+        "@id": "https://www.settleloans.in/faqs/ots-full-form#article",
         "headline": "OTS Full Form in Banking: A Deep Dive into One Time Settlement (2024-25)",
         "description": "Discover the true meaning of OTS in banking, how the process works for NPA accounts, and the latest RBI guidelines for 2024 and 2025.",
         "author": {
@@ -62,22 +62,22 @@ export default function OTSFullFormPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-02",
         "dateModified": "2024-02-02",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/faqs/ots-full-form#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/faqs/ots-full-form#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/faqs/ots-full-form#service",
+        "@id": "https://www.settleloans.in/faqs/ots-full-form#service",
         "name": "One Time Settlement (OTS) Guide",
         "description": "Comprehensive guide on One Time Settlement (OTS) procedures and RBI guidelines.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -87,7 +87,7 @@ export default function OTSFullFormPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/faqs/ots-full-form#faq",
+        "@id": "https://www.settleloans.in/faqs/ots-full-form#faq",
         "mainEntity": [
           {
             "@type": "Question",

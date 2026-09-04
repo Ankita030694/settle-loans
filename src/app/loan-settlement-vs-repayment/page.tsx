@@ -10,22 +10,22 @@ export default function LoanSettlementVsRepaymentPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/loan-settlement-vs-repayment#article",
+                "@id": "https://www.settleloans.in/loan-settlement-vs-repayment#article",
                 "headline": "Loan Settlement vs. Repayment: A Comprehensive Guide for Indian Borrowers",
                 "description": "Understand the critical differences between loan settlement and full repayment. Learn about the impact on CIBIL scores, future loan eligibility, and how to make the right financial choice.",
-                "image": "https://settleloans.in/images/loan-settlement-vs-repayment.jpg",
+                "image": "https://www.settleloans.in/images/loan-settlement-vs-repayment.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-05-07",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/loan-settlement-vs-repayment" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/loan-settlement-vs-repayment" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/loan-settlement-vs-repayment#product",
+                "@id": "https://www.settleloans.in/loan-settlement-vs-repayment#product",
                 "name": "Debt Resolution Advisory",
                 "description": "Expert consultancy on choosing between loan settlement and full repayment based on your financial situation.",
                 "aggregateRating": {
@@ -159,9 +159,9 @@ export default function LoanSettlementVsRepaymentPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Resources", "item": "https://settleloans.in/resources" },
-                    { "@type": "ListItem", "position": 3, "name": "Loan Settlement vs Repayment", "item": "https://settleloans.in/loan-settlement-vs-repayment" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Resources", "item": "https://www.settleloans.in/resources" },
+                    { "@type": "ListItem", "position": 3, "name": "Loan Settlement vs Repayment", "item": "https://www.settleloans.in/loan-settlement-vs-repayment" }
                 ]
             }
         ]

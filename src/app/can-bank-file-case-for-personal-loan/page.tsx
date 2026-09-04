@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "Can Bank File Case for Personal Loan Default? | Indian Legal Guide",
     description: "Wondering if a bank can file a case for personal loan default in India? Discover the legal consequences, summary suits, 138 NI Act risks, and how to defend your case effectively.",
     alternates: {
-        canonical: "https://settleloans.in/can-bank-file-case-for-personal-loan",
+        canonical: "https://www.settleloans.in/can-bank-file-case-for-personal-loan",
     },
 };
 
@@ -17,34 +17,34 @@ export default function PersonalLoanCaseGuidePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/can-bank-file-case-for-personal-loan#webpage",
-                "url": "https://settleloans.in/can-bank-file-case-for-personal-loan",
+                "@id": "https://www.settleloans.in/can-bank-file-case-for-personal-loan#webpage",
+                "url": "https://www.settleloans.in/can-bank-file-case-for-personal-loan",
                 "name": "Can Bank File Case for Personal Loan Default? | Legal Roadmap India",
                 "description": "A comprehensive analysis of the legal avenues banks take for personal loan recovery and the constitutional protections available to borrowers.",
-                "breadcrumb": { "@id": "https://settleloans.in/can-bank-file-case-for-personal-loan#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/can-bank-file-case-for-personal-loan#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/can-bank-file-case-for-personal-loan#breadcrumb",
+                "@id": "https://www.settleloans.in/can-bank-file-case-for-personal-loan#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Personal Loan Legal Case Guide",
-                        "item": "https://settleloans.in/can-bank-file-case-for-personal-loan"
+                        "item": "https://www.settleloans.in/can-bank-file-case-for-personal-loan"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/can-bank-file-case-for-personal-loan#article",
+                "@id": "https://www.settleloans.in/can-bank-file-case-for-personal-loan#article",
                 "headline": "Personal Loan Default: Can the Bank Really File a Case Against You?",
                 "description": "Understanding the boundary between civil recovery and criminal liability in personal loan defaults in India.",
                 "author": {
@@ -56,16 +56,16 @@ export default function PersonalLoanCaseGuidePage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-10",
                 "dateModified": "2024-03-10",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/can-bank-file-case-for-personal-loan#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-bank-file-case-for-personal-loan#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/can-bank-file-case-for-personal-loan#product",
+                "@id": "https://www.settleloans.in/can-bank-file-case-for-personal-loan#product",
                 "name": "Personal Loan Legal Representation",
                 "description": "Expert legal defense and negotiation services for personal loan default cases in Civil Courts and DRT.",
                 "aggregateRating": {
@@ -76,7 +76,7 @@ export default function PersonalLoanCaseGuidePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/can-bank-file-case-for-personal-loan#faq",
+                "@id": "https://www.settleloans.in/can-bank-file-case-for-personal-loan#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

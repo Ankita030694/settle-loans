@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'drt chandigarh loan dispute advocate'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-chandigarh',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-chandigarh',
   },
   openGraph: {
     title: 'Loan Settlement Company in Chandigarh: Tricity & NRI Debt Relief (2026)',
     description: 'Expert legal defense and One-Time Settlement (OTS) representation for high-ticket personal loans, credit card defaults, and NRI debts across Chandigarh, Mohali, and Panchkula under RBI directives.',
-    url: 'https://settleloans.in/personal-loan-settlement-chandigarh',
+    url: 'https://www.settleloans.in/personal-loan-settlement-chandigarh',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-chandigarh.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-chandigarh.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Settlement Company in Chandigarh Tricity and NRI Debt Relief Guide',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement Company in Chandigarh: Tricity & NRI Debt Resolution',
     description: 'Technical and legal manual for settling defaulted high-ticket personal loans, multi-card debts, and NRI liabilities in Chandigarh, Mohali, and Panchkula.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-chandigarh.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-chandigarh.jpg'],
   },
 };
 
@@ -79,81 +79,81 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-chandigarh#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-chandigarh",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-chandigarh#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-chandigarh",
       "name": "Loan Settlement Company in Chandigarh: Tricity & NRI Debt Relief (2026)",
       "description": "Leading loan settlement company in Chandigarh, Mohali & Panchkula. Expert advocate representation for high-ticket personal loans, credit cards & NRI debt under RBI OTS rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-chandigarh#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-chandigarh#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-chandigarh#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-chandigarh#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services & Legal Guides",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Loan Settlement Company in Chandigarh",
-          "item": "https://settleloans.in/personal-loan-settlement-chandigarh"
+          "item": "https://www.settleloans.in/personal-loan-settlement-chandigarh"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-chandigarh#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-chandigarh#article",
       "headline": "Loan Settlement Company in Chandigarh: Discreet High-Ticket & NRI Debt Relief",
       "description": "An authoritative legal and financial roadmap for high-income professionals, entrepreneurs, and NRIs facing personal loan and credit card defaults in Chandigarh, Mohali, and Panchkula. Master RBI OTS rules, court defense, and NPA recovery formulas.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-chandigarh.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-chandigarh.jpg",
       "datePublished": "2026-08-25T12:00:00+05:30",
       "dateModified": "2026-08-25T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-chandigarh#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-chandigarh#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "contactPoint": [
         {
@@ -167,11 +167,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-chandigarh#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-chandigarh#service",
       "name": "SettleLoans - Loan Settlement Company in Chandigarh",
       "description": "Specialized advocate-led debt settlement, legal notice defense, and RBI OTS negotiation for high-ticket personal loans, unsecured business credit, and NRI debts across Chandigarh, Mohali, and Panchkula.",
-      "url": "https://settleloans.in/personal-loan-settlement-chandigarh",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-chandigarh.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-chandigarh",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-chandigarh.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -184,9 +184,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -260,7 +260,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-chandigarh#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-chandigarh#faq",
       "mainEntity": [
         {
           "@type": "Question",

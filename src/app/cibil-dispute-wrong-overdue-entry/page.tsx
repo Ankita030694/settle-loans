@@ -15,16 +15,16 @@ export const metadata: Metadata = {
     'cibil rectification after settlement no dues certificate',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/cibil-dispute-wrong-overdue-entry',
+    canonical: 'https://www.settleloans.in/cibil-dispute-wrong-overdue-entry',
   },
   openGraph: {
     title: 'How to Raise CIBIL Dispute for Wrong Overdue Entry? Step-by-Step Legal Guide',
     description: 'Master the official CIBIL dispute resolution framework for paid loans showing overdue, wrong DPD strings, and fraudulent PAN loans under RBI guidelines.',
-    url: 'https://settleloans.in/cibil-dispute-wrong-overdue-entry',
+    url: 'https://www.settleloans.in/cibil-dispute-wrong-overdue-entry',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/cibil-dispute-wrong-overdue-entry.jpg',
+        url: 'https://www.settleloans.in/images/infographics/cibil-dispute-wrong-overdue-entry.jpg',
         width: 1200,
         height: 630,
         alt: 'How to Raise CIBIL Dispute for Wrong Overdue Entry Infographic',
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Raise CIBIL Dispute for Wrong Entry? RBI & CICRA Resolution Guide',
     description: 'Step-by-step guide to removing erroneous overdue records, correcting paid loan statuses, and clearing fraudulent PAN loans from TransUnion CIBIL.',
-    images: ['https://settleloans.in/images/infographics/cibil-dispute-wrong-overdue-entry.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/cibil-dispute-wrong-overdue-entry.jpg'],
   },
 };
 
@@ -46,33 +46,33 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/cibil-dispute-wrong-overdue-entry#article",
+      "@id": "https://www.settleloans.in/cibil-dispute-wrong-overdue-entry#article",
       "headline": "How to Raise CIBIL Dispute for Wrong Overdue Entry? Step-by-Step Legal & Procedural Guide",
       "description": "An exhaustive technical and legal breakdown on how to initiate an official CIBIL dispute under CICRA 2005 for erroneous overdue amounts, un-updated paid loans, and fraudulent PAN entries.",
-      "image": "https://settleloans.in/images/infographics/cibil-dispute-wrong-overdue-entry.jpg",
+      "image": "https://www.settleloans.in/images/infographics/cibil-dispute-wrong-overdue-entry.jpg",
       "datePublished": "2026-08-22T10:00:00+05:30",
       "dateModified": "2026-08-22T10:00:00+05:30",
-      "mainEntityOfPage": "https://settleloans.in/cibil-dispute-wrong-overdue-entry",
+      "mainEntityOfPage": "https://www.settleloans.in/cibil-dispute-wrong-overdue-entry",
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo.png",
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
         "https://twitter.com/settleloans",
@@ -81,31 +81,31 @@ const jsonLdGraph = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/cibil-dispute-wrong-overdue-entry#breadcrumb",
+      "@id": "https://www.settleloans.in/cibil-dispute-wrong-overdue-entry#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services & Guides",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "CIBIL Dispute for Wrong Entry",
-          "item": "https://settleloans.in/cibil-dispute-wrong-overdue-entry"
+          "item": "https://www.settleloans.in/cibil-dispute-wrong-overdue-entry"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/cibil-dispute-wrong-overdue-entry#faq",
+      "@id": "https://www.settleloans.in/cibil-dispute-wrong-overdue-entry#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -183,11 +183,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/cibil-dispute-wrong-overdue-entry#service",
+      "@id": "https://www.settleloans.in/cibil-dispute-wrong-overdue-entry#service",
       "name": "SettleLoans - CIBIL Dispute Resolution & Credit Rectification Advisory",
       "description": "Authoritative legal advisory, forensic CIBIL dispute filing, bank nodal officer escalations, and credit report rectification services for retail borrowers across India.",
-      "url": "https://settleloans.in/cibil-dispute-wrong-overdue-entry",
-      "image": "https://settleloans.in/images/infographics/cibil-dispute-wrong-overdue-entry.jpg",
+      "url": "https://www.settleloans.in/cibil-dispute-wrong-overdue-entry",
+      "image": "https://www.settleloans.in/images/infographics/cibil-dispute-wrong-overdue-entry.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -200,9 +200,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

@@ -47,16 +47,16 @@ export const metadata: Metadata = {
     'equifax credit report error correction after ots',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/crif-high-mark-equifax-loan-settlement-dispute',
+    canonical: 'https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute',
   },
   openGraph: {
     title: 'CRIF High Mark & Equifax Loan Settlement Dispute: Online Correction Guide (2026)',
     description: 'Learn how to file online dispute corrections with CRIF High Mark and Equifax after a loan compromise settlement. Clear unupdated overdue balances to ₹0, enforce RBI 30-day resolution mandates, and rebuild your credit rating.',
-    url: 'https://settleloans.in/crif-high-mark-equifax-loan-settlement-dispute',
+    url: 'https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/crif-high-mark-equifax-loan-settlement-dispute.jpg',
+        url: 'https://www.settleloans.in/images/infographics/crif-high-mark-equifax-loan-settlement-dispute.jpg',
         width: 1200,
         height: 675,
         alt: 'CRIF High Mark and Equifax Loan Settlement Dispute Resolution Workflow and RBI Compensation Guide',
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'CRIF High Mark & Equifax Loan Settlement Dispute: Online Correction Guide',
     description: 'Comprehensive legal and procedural manual for correcting unupdated loan settlement records and wrong overdue balances in CRIF High Mark and Equifax under CICRA 2005 and RBI regulations.',
-    images: ['https://settleloans.in/images/infographics/crif-high-mark-equifax-loan-settlement-dispute.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/crif-high-mark-equifax-loan-settlement-dispute.jpg'],
   },
 };
 
@@ -78,74 +78,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/crif-high-mark-equifax-loan-settlement-dispute#webpage",
-      "url": "https://settleloans.in/crif-high-mark-equifax-loan-settlement-dispute",
+      "@id": "https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute#webpage",
+      "url": "https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute",
       "name": "CRIF High Mark & Equifax Loan Settlement Dispute: Online Correction Guide (2026)",
       "description": "Step-by-step legal guide on filing online dispute corrections with CRIF High Mark and Equifax post loan settlement. Learn how to rectify wrong overdue balances to ₹0, invoke CICRA 2005 rules, claim RBI ₹100/day delay compensation, and restore credit scores.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/crif-high-mark-equifax-loan-settlement-dispute#breadcrumb"
+        "@id": "https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/crif-high-mark-equifax-loan-settlement-dispute#breadcrumb",
+      "@id": "https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "CRIF & Equifax Settlement Dispute",
-          "item": "https://settleloans.in/crif-high-mark-equifax-loan-settlement-dispute"
+          "item": "https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/crif-high-mark-equifax-loan-settlement-dispute#article",
+      "@id": "https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute#article",
       "headline": "CRIF High Mark & Equifax Loan Settlement Dispute: Online Correction Guide",
       "description": "Comprehensive legal and operational blueprint for rectifying unupdated microfinance, fintech, and NBFC loan settlement records in CRIF High Mark and Equifax credit bureaus under CICRA 2005 and RBI Master Directions.",
-      "image": "https://settleloans.in/images/infographics/crif-high-mark-equifax-loan-settlement-dispute.jpg",
+      "image": "https://www.settleloans.in/images/infographics/crif-high-mark-equifax-loan-settlement-dispute.jpg",
       "datePublished": "2026-09-01T10:00:00+05:30",
       "dateModified": "2026-09-01T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/crif-high-mark-equifax-loan-settlement-dispute#webpage"
+        "@id": "https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/crif-high-mark-equifax-loan-settlement-dispute#service",
+      "@id": "https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute#service",
       "name": "SettleLoans - Credit Bureau Dispute Resolution & Debt Rectification",
       "description": "Specialized legal and procedural advocacy for resolving post-settlement credit bureau reporting discrepancies across CRIF High Mark, Equifax, Experian, and CIBIL, ensuring ₹0 balance reflection and enforcement of statutory RBI compensation.",
-      "url": "https://settleloans.in/crif-high-mark-equifax-loan-settlement-dispute",
-      "image": "https://settleloans.in/images/infographics/crif-high-mark-equifax-loan-settlement-dispute.jpg",
+      "url": "https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute",
+      "image": "https://www.settleloans.in/images/infographics/crif-high-mark-equifax-loan-settlement-dispute.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -158,9 +158,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -234,7 +234,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/crif-high-mark-equifax-loan-settlement-dispute#faq",
+      "@id": "https://www.settleloans.in/crif-high-mark-equifax-loan-settlement-dispute#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -320,12 +320,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

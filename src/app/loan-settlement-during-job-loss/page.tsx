@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement During Job Loss | EMI Relief & Legal Rights in India",
   description: "Struggling with loan repayments after losing your job? Learn about RBI guidelines, EMI restructuring, and how to negotiate a loan settlement during unemployment in India. Get expert help now.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement-during-job-loss",
+    canonical: "https://www.settleloans.in/loan-settlement-during-job-loss",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LoanSettlementJobLossPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-during-job-loss#webpage",
-        "url": "https://settleloans.in/loan-settlement-during-job-loss",
+        "@id": "https://www.settleloans.in/loan-settlement-during-job-loss#webpage",
+        "url": "https://www.settleloans.in/loan-settlement-during-job-loss",
         "name": "Loan Settlement During Job Loss: A Complete Guide to Financial Relief",
         "description": "Comprehensive guide for individuals facing unemployment in India, detailing loan settlement strategies, legal protections, and bank negotiation tips.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-during-job-loss#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-during-job-loss#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement-during-job-loss#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement-during-job-loss#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement During Job Loss",
-            "item": "https://settleloans.in/loan-settlement-during-job-loss"
+            "item": "https://www.settleloans.in/loan-settlement-during-job-loss"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement-during-job-loss#article",
+        "@id": "https://www.settleloans.in/loan-settlement-during-job-loss#article",
         "headline": "How to Navigate Loan Settlement and EMI Relief After Job Loss",
         "description": "Expert advice on managing bank debts during unemployment, including restructuring options and legal rights against recovery harassment.",
         "author": {
@@ -55,16 +55,16 @@ export default function LoanSettlementJobLossPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-29",
         "dateModified": "2024-03-29",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-during-job-loss#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-during-job-loss#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement-during-job-loss#product",
+        "@id": "https://www.settleloans.in/loan-settlement-during-job-loss#product",
         "name": "Unemployment Debt Settlement Consultation",
         "description": "Professional negotiation with banks for people who have lost their jobs and cannot pay loan EMIs.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function LoanSettlementJobLossPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement-during-job-loss#faq",
+        "@id": "https://www.settleloans.in/loan-settlement-during-job-loss#faq",
         "mainEntity": [
           {
             "@type": "Question",

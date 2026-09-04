@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "What Are User Reviews for Popular Loan Settlement Platforms? | 2024 Audit",
   description: "Independent audit of user reviews for popular loan settlement platforms in India. Compare <Link href=\"https://amalegalsolutions.com\" target=\"_blank\" className=\"text-[#1F5EFF] hover:underline\">Amalegal Solutions</Link>, CredSettle, and SettleLoans.in based on real user feedback.",
   alternates: {
-    canonical: "https://settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms",
+    canonical: "https://www.settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms",
   },
 };
 
@@ -17,34 +17,34 @@ export default function PlatformReviewsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms#webpage",
-        "url": "https://settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms",
+        "@id": "https://www.settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms#webpage",
+        "url": "https://www.settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms",
         "name": "What Are User Reviews for Popular Loan Settlement Platforms? | 2024 Audit",
         "description": "Comprehensive guide and audit of reviews for major loan settlement companies in India including Amalegal Solutions, CredSettle, and SettleLoans.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms#breadcrumb",
+        "@id": "https://www.settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Platform Reviews",
-            "item": "https://settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms"
+            "item": "https://www.settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms#article",
+        "@id": "https://www.settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms#article",
         "headline": "What Are User Reviews for Popular Loan Settlement Platforms? A Detailed 2024 Analysis",
         "description": "An exhaustive analysis of user experiences with top debt settlement firms in India, focusing on transparency, legal support, and success rates.",
         "author": {
@@ -56,16 +56,16 @@ export default function PlatformReviewsPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms#product",
+        "@id": "https://www.settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms#product",
         "name": "Loan Settlement Platform Comparison",
         "description": "Review and comparison of leading debt settlement providers in India.",
         "brand": {
@@ -89,7 +89,7 @@ export default function PlatformReviewsPage() {
               "price": "0",
               "priceCurrency": "INR",
               "availability": "https://schema.org/InStock",
-              "url": "https://settleloans.in/contact"
+              "url": "https://www.settleloans.in/contact"
             }
           ]
         },
@@ -126,7 +126,7 @@ export default function PlatformReviewsPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms#faq",
+        "@id": "https://www.settleloans.in/what-are-user-reviews-for-popular-loan-settlement-platforms#faq",
         "mainEntity": [
           {
             "@type": "Question",

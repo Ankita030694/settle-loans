@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Steps to Apply for a Loan Settlement Through a Financial Service Provider | 2024 Guide",
     description: "Learn the professional steps to apply for a loan settlement in India. Master the process from financial audit to final 'No Dues Certificate' with expert guidance.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider",
+        canonical: "https://www.settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider",
     },
 };
 
@@ -18,43 +18,43 @@ export default function SettlementStepsPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider#webpage",
-                "url": "https://settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider",
+                "@id": "https://www.settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider#webpage",
+                "url": "https://www.settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider",
                 "name": "Professional Steps for Loan Settlement Application | SettleLoans",
                 "description": "A detailed walkthrough of the professional debt resolution process in India, covering audit, negotiation, and legal closure.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Settlement Application Steps",
-                        "item": "https://settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider"
+                        "item": "https://www.settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider#article",
+                "@id": "https://www.settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider#article",
                 "headline": "Steps to apply for a loan settlement through a financial service provider",
                 "description": "The ultimate roadmap to professional debt settlement in India. Navigate the complexities of banking negotiations with a structured, multi-phase approach.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Expert Team"
@@ -64,7 +64,7 @@ export default function SettlementStepsPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-06-01",
@@ -72,7 +72,7 @@ export default function SettlementStepsPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider#faq",
+                "@id": "https://www.settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -158,7 +158,7 @@ export default function SettlementStepsPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider#service",
+                "@id": "https://www.settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider#service",
                 "name": "Professional Debt Resolution Service",
                 "description": "A complete end-to-end service for managing loan settlements with Indian banks and NBFCs, including legal drafting, negotiation, and closure verification.",
                 "brand": {

@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'mobikwik zip bnpl debt relief'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/mobikwik-zip-pay-later-settlement-process',
+    canonical: 'https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process',
   },
   openGraph: {
     title: 'MobiKwik ZIP Pay Later Default Settlement: Late Fee Waiver & CIBIL Resolution Guide',
     description: 'Comprehensive legal and financial manual on settling defaulted MobiKwik ZIP Pay Later credit lines. Understand partner NBFC provisioning, late fee waivers, anti-harassment laws, and CIBIL rehabilitation.',
-    url: 'https://settleloans.in/mobikwik-zip-pay-later-settlement-process',
+    url: 'https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/mobikwik-zip-pay-later-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/mobikwik-zip-pay-later-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'MobiKwik ZIP Pay Later Debt Settlement Process and OTS Haircut Blueprint',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'MobiKwik ZIP Settlement: Settle Default, Waive Late Fees & CIBIL Fix (2026)',
     description: 'Strategic guide to settling defaulted MobiKwik ZIP Pay Later credit lines, waiving compounding penalty charges, and restoring credit scores under RBI compromise frameworks.',
-    images: ['https://settleloans.in/images/infographics/mobikwik-zip-pay-later-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/mobikwik-zip-pay-later-settlement-process.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/mobikwik-zip-pay-later-settlement-process#webpage",
-      "url": "https://settleloans.in/mobikwik-zip-pay-later-settlement-process",
+      "@id": "https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process#webpage",
+      "url": "https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process",
       "name": "MobiKwik ZIP Settlement: Settle Default, Waive Late Fees & CIBIL Fix (2026)",
       "description": "Trapped by ballooning MobiKwik ZIP Pay Later late fees? Learn how to settle defaulted ₹10,000–₹60,000 ZIP credit lines, waive 100% penalties, halt recovery harassment, and resolve active CIBIL defaults under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/mobikwik-zip-pay-later-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/mobikwik-zip-pay-later-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "MobiKwik ZIP Pay Later Settlement",
-          "item": "https://settleloans.in/mobikwik-zip-pay-later-settlement-process"
+          "item": "https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/mobikwik-zip-pay-later-settlement-process#article",
+      "@id": "https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process#article",
       "headline": "MobiKwik ZIP Pay Later Default Settlement: Complete Process, Late Fee Waiver & CIBIL Resolution",
       "description": "A comprehensive strategic guide on negotiating One-Time Settlements for defaulted MobiKwik ZIP Pay Later credit lines, eliminating predatory late fees, navigating partner NBFC write-offs, and curing active credit bureau defaults.",
-      "image": "https://settleloans.in/images/infographics/mobikwik-zip-pay-later-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/mobikwik-zip-pay-later-settlement-process.jpg",
       "datePublished": "2026-09-03T09:00:00+05:30",
       "dateModified": "2026-09-03T09:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/mobikwik-zip-pay-later-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/mobikwik-zip-pay-later-settlement-process#service",
+      "@id": "https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process#service",
       "name": "SettleLoans - MobiKwik ZIP Pay Later Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for resolving defaulted MobiKwik ZIP Pay Later accounts and digital micro-credit facilities under RBI compromise frameworks with maximum debt waivers and complete harassment protection.",
-      "url": "https://settleloans.in/mobikwik-zip-pay-later-settlement-process",
-      "image": "https://settleloans.in/images/infographics/mobikwik-zip-pay-later-settlement-process.jpg",
+      "url": "https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/mobikwik-zip-pay-later-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/mobikwik-zip-pay-later-settlement-process#faq",
+      "@id": "https://www.settleloans.in/mobikwik-zip-pay-later-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -313,12 +313,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

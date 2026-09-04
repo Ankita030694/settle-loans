@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Debt Settlement vs Debt Consolidation India | 2025 Comparison",
   description: "Compare Debt Settlement and Debt Consolidation in India. Learn the pros, cons, CIBIL impact, and interest rate differences to choose the best debt relief path.",
   alternates: {
-    canonical: "https://settleloans.in/debt-settlement-vs-debt-consolidation",
+    canonical: "https://www.settleloans.in/debt-settlement-vs-debt-consolidation",
   },
 };
 
@@ -16,34 +16,34 @@ export default function SettlementVsConsolidationPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/debt-settlement-vs-debt-consolidation#webpage",
-        "url": "https://settleloans.in/debt-settlement-vs-debt-consolidation",
+        "@id": "https://www.settleloans.in/debt-settlement-vs-debt-consolidation#webpage",
+        "url": "https://www.settleloans.in/debt-settlement-vs-debt-consolidation",
         "name": "Debt Settlement vs Debt Consolidation India | 2025 Comparison",
         "description": "Comprehensive analysis of debt relief options for Indian borrowers in 2025.",
-        "breadcrumb": { "@id": "https://settleloans.in/debt-settlement-vs-debt-consolidation#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/debt-settlement-vs-debt-consolidation#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/debt-settlement-vs-debt-consolidation#breadcrumb",
+        "@id": "https://www.settleloans.in/debt-settlement-vs-debt-consolidation#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Settlement vs Consolidation",
-            "item": "https://settleloans.in/debt-settlement-vs-debt-consolidation"
+            "item": "https://www.settleloans.in/debt-settlement-vs-debt-consolidation"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/debt-settlement-vs-debt-consolidation#article",
+        "@id": "https://www.settleloans.in/debt-settlement-vs-debt-consolidation#article",
         "headline": "The 2025 Debt Dilemma: Should You Settle or Consolidate?",
         "description": "A deep dive into the financial implications, CIBIL impacts, and long-term costs of settlement vs consolidation in the Indian market.",
         "author": {
@@ -55,16 +55,16 @@ export default function SettlementVsConsolidationPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-18",
         "dateModified": "2024-03-18",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/debt-settlement-vs-debt-consolidation#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/debt-settlement-vs-debt-consolidation#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/debt-settlement-vs-debt-consolidation#product",
+        "@id": "https://www.settleloans.in/debt-settlement-vs-debt-consolidation#product",
         "name": "Debt Strategy Consultation",
         "description": "Professional assessment to determine if settlement or consolidation is the right path for your specific financial situation.",
         "aggregateRating": {
@@ -105,7 +105,7 @@ export default function SettlementVsConsolidationPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/debt-settlement-vs-debt-consolidation#faq",
+        "@id": "https://www.settleloans.in/debt-settlement-vs-debt-consolidation#faq",
         "mainEntity": [
           {
             "@type": "Question",

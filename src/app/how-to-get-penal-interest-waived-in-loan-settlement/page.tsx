@@ -47,16 +47,16 @@ export const metadata: Metadata = {
     'rbi fair lending practice penal charges guidelines'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement',
+    canonical: 'https://www.settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement',
   },
   openGraph: {
     title: 'How to Waive Penal Interest and Charges on Loan Default | SettleLoans',
     description: 'Master the financial statement forensic audit to strip predatory penal fees, late charges, and compound interest from defaulted loan balances under RBI Master Directions.',
-    url: 'https://settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement',
+    url: 'https://www.settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/how-to-get-penal-interest-waived-in-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/how-to-get-penal-interest-waived-in-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'How to Get Penal Interest and Charges Waived in Loan Settlement - Financial Statement Forensic Audit',
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Waive Penal Interest & Charges on Defaulted Loans: Forensic Audit Guide',
     description: 'Learn how banking advocates audit loan ledgers, invoke RBI Master Directions, and secure 100% waivers on penal interest, bounce fees, and legal charges.',
-    images: ['https://settleloans.in/images/infographics/how-to-get-penal-interest-waived-in-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/how-to-get-penal-interest-waived-in-loan-settlement.jpg'],
   },
 };
 
@@ -78,74 +78,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement#webpage",
-      "url": "https://settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement",
+      "@id": "https://www.settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement",
       "name": "How to Waive Penal Interest and Charges on Loan Default | SettleLoans",
       "description": "Complete legal guide to financial statement forensic audits for loan default. Learn how to isolate genuine principal, leverage RBI fair lending directions, and waive 100% of penal charges.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "How to Get Penal Interest Waived in Loan Settlement",
-          "item": "https://settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement"
+          "item": "https://www.settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement#article",
+      "@id": "https://www.settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement#article",
       "headline": "How to Get Penal Interest and Charges Waived in Loan Settlement: Forensic Audit & Legal Guide",
       "description": "A comprehensive guide on auditing bank statement ledgers to isolate genuine principal, invoking RBI Master Directions on penal charges, and forcing bank committees to waive 100% of non-principal charges during loan compromise settlements.",
-      "image": "https://settleloans.in/images/infographics/how-to-get-penal-interest-waived-in-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/how-to-get-penal-interest-waived-in-loan-settlement.jpg",
       "datePublished": "2026-08-27T12:00:00+05:30",
       "dateModified": "2026-08-27T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement#service",
+      "@id": "https://www.settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement#service",
       "name": "SettleLoans - Loan Ledger Forensic Audit & Penal Waiver Advisory",
       "description": "Specialized banking forensic audit and legal representation to eliminate predatory penal interest, uncapitalized charges, and inflated late fees during compromise loan settlements across Indian commercial banks and NBFCs.",
-      "url": "https://settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/how-to-get-penal-interest-waived-in-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/how-to-get-penal-interest-waived-in-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -158,9 +158,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -234,7 +234,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/how-to-get-penal-interest-waived-in-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -304,12 +304,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

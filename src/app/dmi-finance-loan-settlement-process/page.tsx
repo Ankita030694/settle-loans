@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'fintech loan settlement rbi rules',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/dmi-finance-loan-settlement-process',
+    canonical: 'https://www.settleloans.in/dmi-finance-loan-settlement-process',
   },
   openGraph: {
     title: 'DMI Finance Loan Settlement Process: OTS Rules, Fintech Legal Defense & Haircut (2026)',
     description: 'Strategic guide to settling defaulted DMI Finance personal and consumer loans across Samsung Finance+, Google Pay, and Airtel. Master automated notice defense, e-NACH bounce waivers, and Credit Committee compromise negotiations.',
-    url: 'https://settleloans.in/dmi-finance-loan-settlement-process',
+    url: 'https://www.settleloans.in/dmi-finance-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/dmi-finance-loan-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/dmi-finance-loan-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'DMI Finance Loan Settlement Process and Fintech Debt Resolution Blueprint',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'DMI Finance Loan Settlement Process: OTS Rules, Fintech Legal Defense & Haircut',
     description: 'Technical and legal manual for resolving defaulted DMI Finance co-lending loans under RBI Compromise Settlement frameworks with maximum debt waivers.',
-    images: ['https://settleloans.in/images/infographics/dmi-finance-loan-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/dmi-finance-loan-settlement-process.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/dmi-finance-loan-settlement-process#webpage",
-      "url": "https://settleloans.in/dmi-finance-loan-settlement-process",
+      "@id": "https://www.settleloans.in/dmi-finance-loan-settlement-process#webpage",
+      "url": "https://www.settleloans.in/dmi-finance-loan-settlement-process",
       "name": "DMI Finance Loan Settlement Process: OTS Rules, Fintech Legal Defense & Haircut (2026)",
       "description": "Comprehensive guide to DMI Finance loan settlement for Samsung Finance+, Google Pay, and Airtel loans. Learn how to stop automated WhatsApp notices, halt e-NACH bounce fees, defend Section 25 PSSA summons, and negotiate a 40% to 60% OTS debt haircut under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/dmi-finance-loan-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/dmi-finance-loan-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/dmi-finance-loan-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/dmi-finance-loan-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "DMI Finance Loan Settlement Process",
-          "item": "https://settleloans.in/dmi-finance-loan-settlement-process"
+          "item": "https://www.settleloans.in/dmi-finance-loan-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/dmi-finance-loan-settlement-process#article",
+      "@id": "https://www.settleloans.in/dmi-finance-loan-settlement-process#article",
       "headline": "DMI Finance Loan Settlement Process: OTS Rules, Fintech Legal Defense & Haircut Guide",
       "description": "A detailed strategic manual on negotiating One-Time Settlements (OTS) with DMI Finance Private Limited across Samsung Finance+, Google Pay, and Airtel credit lines, halting digital harassment, and securing ₹0 No Dues Certificates.",
-      "image": "https://settleloans.in/images/infographics/dmi-finance-loan-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/dmi-finance-loan-settlement-process.jpg",
       "datePublished": "2026-08-26T12:00:00+05:30",
       "dateModified": "2026-08-26T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/dmi-finance-loan-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/dmi-finance-loan-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/dmi-finance-loan-settlement-process#service",
+      "@id": "https://www.settleloans.in/dmi-finance-loan-settlement-process#service",
       "name": "SettleLoans - DMI Finance Loan Settlement & Fintech Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted DMI Finance personal loans, Samsung Finance+ device financing, Google Pay personal loans, and Airtel credit facilities under RBI compromise frameworks with maximum debt waivers.",
-      "url": "https://settleloans.in/dmi-finance-loan-settlement-process",
-      "image": "https://settleloans.in/images/infographics/dmi-finance-loan-settlement-process.jpg",
+      "url": "https://www.settleloans.in/dmi-finance-loan-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/dmi-finance-loan-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/dmi-finance-loan-settlement-process#faq",
+      "@id": "https://www.settleloans.in/dmi-finance-loan-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -321,12 +321,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

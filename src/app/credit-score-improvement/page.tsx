@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   title: "Credit Score Improvement Services | Remove 'Settled' Status & Boost CIBIL",
   description: "Struggling with a low CIBIL score? Learn how to remove 'Settled' status, dispute errors, and use secured cards to rebuild your credit score above 750+. Expert legal guidance.",
   alternates: {
-    canonical: "https://settleloans.in/credit-score-improvement",
+    canonical: "https://www.settleloans.in/credit-score-improvement",
   },
   keywords: [
     "improve cibil score india", 
@@ -47,40 +47,40 @@ export default function CreditScoreImprovementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/credit-score-improvement#webpage",
-        "url": "https://settleloans.in/credit-score-improvement",
+        "@id": "https://www.settleloans.in/credit-score-improvement#webpage",
+        "url": "https://www.settleloans.in/credit-score-improvement",
         "name": "Credit Score Improvement Services | Remove 'Settled' Status & Boost CIBIL",
         "description": "Struggling with a low CIBIL score? Learn how to remove 'Settled' status, dispute errors, and use secured cards to rebuild your credit score above 750+. Expert legal guidance.",
-        "breadcrumb": { "@id": "https://settleloans.in/credit-score-improvement#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/credit-score-improvement#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/credit-score-improvement#breadcrumb",
+        "@id": "https://www.settleloans.in/credit-score-improvement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Credit Score Improvement",
-            "item": "https://settleloans.in/credit-score-improvement"
+            "item": "https://www.settleloans.in/credit-score-improvement"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/credit-score-improvement#service",
+        "@id": "https://www.settleloans.in/credit-score-improvement#service",
         "name": "Credit Score Repair Services",
         "description": "Comprehensive credit repair and score improvement services. We help removing 'Settled' tags, disputing wrong entries, and planning debt consolidation to boost CIBIL.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": {
           "@type": "Country",
@@ -137,7 +137,7 @@ export default function CreditScoreImprovementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/credit-score-improvement#article",
+        "@id": "https://www.settleloans.in/credit-score-improvement#article",
         "headline": "How to Improve CIBIL Score in India: The Ultimate Guide",
         "description": "A comprehensive 2024 guide on repairing your CIBIL score. Learn how to remove negative flags, manage credit utilization, and use credit builder tools effectively.",
         "author": {
@@ -149,16 +149,16 @@ export default function CreditScoreImprovementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-01-24",
         "dateModified": "2024-01-30",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/credit-score-improvement#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/credit-score-improvement#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/credit-score-improvement#faq",
+        "@id": "https://www.settleloans.in/credit-score-improvement#faq",
         "mainEntity": [
           {
             "@type": "Question",

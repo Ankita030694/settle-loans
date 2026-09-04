@@ -10,22 +10,22 @@ export default function LoanForeclosureCibilPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/does-foreclosure-of-loan-affect-cibil#article",
+                "@id": "https://www.settleloans.in/does-foreclosure-of-loan-affect-cibil#article",
                 "headline": "Does Foreclosure of Loan Affect CIBIL? Comprehensive Guide to Loan Prepayment and Credit Scores",
                 "description": "Understand how loan foreclosure impacts your CIBIL score. Learn the difference between prepayment and default, the benefits of foreclosing, and how to maintain a healthy credit profile.",
-                "image": "https://settleloans.in/images/loan-foreclosure-cibil.jpg",
+                "image": "https://www.settleloans.in/images/loan-foreclosure-cibil.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-05-07",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/does-foreclosure-of-loan-affect-cibil" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/does-foreclosure-of-loan-affect-cibil" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/does-foreclosure-of-loan-affect-cibil#product",
+                "@id": "https://www.settleloans.in/does-foreclosure-of-loan-affect-cibil#product",
                 "name": "Credit Score Optimization & Loan Foreclosure Consulting",
                 "description": "Expert guidance on loan foreclosure procedures and credit score management to ensure your CIBIL remains healthy.",
                 "aggregateRating": {
@@ -159,9 +159,9 @@ export default function LoanForeclosureCibilPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Resources", "item": "https://settleloans.in/resources" },
-                    { "@type": "ListItem", "position": 3, "name": "Loan Foreclosure CIBIL Impact", "item": "https://settleloans.in/does-foreclosure-of-loan-affect-cibil" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Resources", "item": "https://www.settleloans.in/resources" },
+                    { "@type": "ListItem", "position": 3, "name": "Loan Foreclosure CIBIL Impact", "item": "https://www.settleloans.in/does-foreclosure-of-loan-affect-cibil" }
                 ]
             }
         ]

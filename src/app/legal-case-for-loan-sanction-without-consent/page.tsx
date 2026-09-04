@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "Legal Case for Loan Sanction Without Consent | Forged Signatures & Fraud Help",
     description: "Victim of loan fraud or identity theft? Learn about legal remedies for loans sanctioned without consent, forged signatures, IPC sections, and RBI grievance redressal.",
     alternates: {
-        canonical: "https://settleloans.in/legal-case-for-loan-sanction-without-consent",
+        canonical: "https://www.settleloans.in/legal-case-for-loan-sanction-without-consent",
     },
 };
 
@@ -17,34 +17,34 @@ export default function LoanSanctionWithoutConsentPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/legal-case-for-loan-sanction-without-consent#webpage",
-                "url": "https://settleloans.in/legal-case-for-loan-sanction-without-consent",
+                "@id": "https://www.settleloans.in/legal-case-for-loan-sanction-without-consent#webpage",
+                "url": "https://www.settleloans.in/legal-case-for-loan-sanction-without-consent",
                 "name": "Legal Case for Loan Sanction Without Consent | Forged Signatures & Fraud Help",
                 "description": "Comprehensive legal guide for victims of unauthorized loan sanctions, identity theft, and forged financial documents in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/legal-case-for-loan-sanction-without-consent#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/legal-case-for-loan-sanction-without-consent#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/legal-case-for-loan-sanction-without-consent#breadcrumb",
+                "@id": "https://www.settleloans.in/legal-case-for-loan-sanction-without-consent#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Loan Sanction Without Consent",
-                        "item": "https://settleloans.in/legal-case-for-loan-sanction-without-consent"
+                        "item": "https://www.settleloans.in/legal-case-for-loan-sanction-without-consent"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/legal-case-for-loan-sanction-without-consent#article",
+                "@id": "https://www.settleloans.in/legal-case-for-loan-sanction-without-consent#article",
                 "headline": "Loan Sanctioned Without Consent? Your Complete Legal Defense Manual",
                 "description": "Discover the criminal and civil remedies available in India if a loan has been fraudulently sanctioned in your name using forged signatures.",
                 "author": {
@@ -56,16 +56,16 @@ export default function LoanSanctionWithoutConsentPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-06",
                 "dateModified": "2024-03-06",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/legal-case-for-loan-sanction-without-consent#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/legal-case-for-loan-sanction-without-consent#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/legal-case-for-loan-sanction-without-consent#product",
+                "@id": "https://www.settleloans.in/legal-case-for-loan-sanction-without-consent#product",
                 "name": "Identity Theft & Loan Fraud Legal Help",
                 "description": "Expert legal assistance for victims of forged loan documents and unauthorized credit applications.",
                 "aggregateRating": {
@@ -92,7 +92,7 @@ export default function LoanSanctionWithoutConsentPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/legal-case-for-loan-sanction-without-consent#faq",
+                "@id": "https://www.settleloans.in/legal-case-for-loan-sanction-without-consent#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

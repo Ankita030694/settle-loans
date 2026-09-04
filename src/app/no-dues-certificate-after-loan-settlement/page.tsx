@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'legal notice to bank for delay in ndc',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/no-dues-certificate-after-loan-settlement',
+    canonical: 'https://www.settleloans.in/no-dues-certificate-after-loan-settlement',
   },
   openGraph: {
     title: 'How to Get No Dues Certificate After Loan Settlement: Verification & RBI Rules Guide',
     description: 'A complete step-by-step procedural manual on obtaining, verifying, and legally enforcing a No Dues Certificate (NDC) post loan settlement. Avoid fraud, claim delayed compensation, and update CIBIL.',
-    url: 'https://settleloans.in/no-dues-certificate-after-loan-settlement',
+    url: 'https://www.settleloans.in/no-dues-certificate-after-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/no-dues-certificate-after-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/no-dues-certificate-after-loan-settlement.jpg',
         width: 1200,
         height: 630,
         alt: 'No Dues Certificate NDC Post Loan Settlement Verification Guide',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Get No Dues Certificate After Settlement: RBI Rules & Verification (2026)',
     description: 'Essential post-settlement legal guide: How to verify your bank NDC, hold lenders accountable under RBI Circular RBI/2023-24/60, and ensure complete debt extinguishment.',
-    images: ['https://settleloans.in/images/infographics/no-dues-certificate-after-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/no-dues-certificate-after-loan-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/no-dues-certificate-after-loan-settlement#webpage",
-      "url": "https://settleloans.in/no-dues-certificate-after-loan-settlement",
+      "@id": "https://www.settleloans.in/no-dues-certificate-after-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/no-dues-certificate-after-loan-settlement",
       "name": "How to Get No Dues Certificate After Loan Settlement: Verification, RBI Rules & Legal Guide (2026)",
       "description": "Paid your loan settlement? Learn how to get and verify an authentic No Dues Certificate (NDC/NOC), RBI 30-day rules, ₹5,000/day compensation penalty, and avoid recovery scams.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/no-dues-certificate-after-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/no-dues-certificate-after-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/no-dues-certificate-after-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/no-dues-certificate-after-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "No Dues Certificate After Loan Settlement",
-          "item": "https://settleloans.in/no-dues-certificate-after-loan-settlement"
+          "item": "https://www.settleloans.in/no-dues-certificate-after-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/no-dues-certificate-after-loan-settlement#article",
+      "@id": "https://www.settleloans.in/no-dues-certificate-after-loan-settlement#article",
       "headline": "How to Get No Dues Certificate After Loan Settlement: Verification, RBI Rules & Legal Guide",
       "description": "An exhaustive technical and legal manual detailing the statutory procedures to obtain, verify, and enforce a genuine No Dues Certificate (NDC) or No Objection Certificate (NOC) following a compromise loan settlement in India.",
-      "image": "https://settleloans.in/images/infographics/no-dues-certificate-after-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/no-dues-certificate-after-loan-settlement.jpg",
       "datePublished": "2026-08-20T14:57:59+05:30",
       "dateModified": "2026-08-20T14:57:59+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/no-dues-certificate-after-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/no-dues-certificate-after-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/no-dues-certificate-after-loan-settlement#service",
+      "@id": "https://www.settleloans.in/no-dues-certificate-after-loan-settlement#service",
       "name": "SettleLoans - Post-Settlement Verification & No Dues Certificate (NDC) Legal Assistance",
       "description": "Expert post-settlement verification, debt extinguishment validation, and legal enforcement for obtaining authentic No Dues Certificates from Indian banks and NBFCs.",
-      "url": "https://settleloans.in/no-dues-certificate-after-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/no-dues-certificate-after-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/no-dues-certificate-after-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/no-dues-certificate-after-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/no-dues-certificate-after-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/no-dues-certificate-after-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -292,12 +292,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

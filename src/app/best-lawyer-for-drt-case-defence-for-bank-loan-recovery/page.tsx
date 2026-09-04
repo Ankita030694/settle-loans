@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Best Lawyer for DRT Case Defence for Bank Loan Recovery India",
     description: "Expert DRT case defense for bank loan recovery. Challenge SARFAESI notices, Section 13(2), 13(4), and property auctions. Technical legal defense for borrowers and MSMEs.",
     alternates: {
-        canonical: "https://settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery",
+        canonical: "https://www.settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery",
     },
 };
 
@@ -18,34 +18,34 @@ export default function DRTCaseDefencePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery",
+                "@id": "https://www.settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery",
                 "name": "Best Lawyer for DRT Case Defence for Bank Loan Recovery India",
                 "description": "Technical legal defense for borrowers facing debt recovery proceedings in the Debt Recovery Tribunal.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "DRT Case Defence",
-                        "item": "https://settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery"
+                        "item": "https://www.settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery#article",
                 "headline": "Mastering the DRT Case Defence: Technical Strategies for SARFAESI and Loan Recovery",
                 "description": "In-depth analysis of legal defenses in the Debt Recovery Tribunal, including challenging NPA classification and stay on auction properties.",
                 "author": {
@@ -57,16 +57,16 @@ export default function DRTCaseDefencePage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery#product",
                 "name": "DRT Legal Defence Service",
                 "description": "Premium legal defense for borrowers and MSMEs against bank recovery actions in DRT and SARFAESI proceedings.",
                 "aggregateRating": {
@@ -93,7 +93,7 @@ export default function DRTCaseDefencePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

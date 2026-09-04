@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Are There Any Government-Approved Loan Settlement Services Available Online? | Legal 2024 Guide",
   description: "Learn about the legality of loan settlement in India and the role of RBI. Explore how professional firms like Amalegal, CredSettle, and SettleLoans operate within the legal framework.",
   alternates: {
-    canonical: "https://settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online",
+    canonical: "https://www.settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online",
   },
 };
 
@@ -17,34 +17,34 @@ export default function GovernmentApprovedPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online#webpage",
-        "url": "https://settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online",
+        "@id": "https://www.settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online#webpage",
+        "url": "https://www.settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online",
         "name": "Are There Any Government-Approved Loan Settlement Services Available Online? | Legal 2024 Guide",
         "description": "Exhaustive guide on the legality of debt settlement in India. Discussing RBI guidelines and the role of professional settlement firms.",
-        "breadcrumb": { "@id": "https://settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online#breadcrumb",
+        "@id": "https://www.settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Government Approved Services",
-            "item": "https://settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online"
+            "item": "https://www.settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online#article",
+        "@id": "https://www.settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online#article",
         "headline": "Are There Any Government-Approved Loan Settlement Services Available Online? A Comprehensive Legal Analysis (2024)",
         "description": "Exploring the legal landscape of debt settlement in India. Understand how private firms like Amalegal, CredSettle, and SettleLoans follow RBI's ethical frameworks.",
         "author": {
@@ -56,16 +56,16 @@ export default function GovernmentApprovedPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online#faq",
+        "@id": "https://www.settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -151,7 +151,7 @@ export default function GovernmentApprovedPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online#product",
+        "@id": "https://www.settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online#product",
         "name": "Legal Loan Settlement Consultation",
         "description": "Government-compliant and RBI-aligned debt settlement consultation services in India.",
         "brand": {
@@ -175,7 +175,7 @@ export default function GovernmentApprovedPage() {
               "price": "0",
               "priceCurrency": "INR",
               "availability": "https://schema.org/InStock",
-              "url": "https://settleloans.in/contact"
+              "url": "https://www.settleloans.in/contact"
             }
           ]
         },

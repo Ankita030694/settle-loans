@@ -57,16 +57,16 @@ export const metadata: Metadata = {
     'commercial loan default personal assets protection'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-guarantee-invocation-loan-settlement',
+    canonical: 'https://www.settleloans.in/personal-guarantee-invocation-loan-settlement',
   },
   openGraph: {
     title: 'Personal Guarantee Invocation for Business Loan Settlement: Legal Defenses & Promoter OTS Blueprint',
     description: 'Master the legal defense against bank personal guarantee invocation. Understand Section 128 co-extensive liability, Section 133–141 surety discharge, DRT litigation defense, and advocate-led One-Time Settlements (OTS).',
-    url: 'https://settleloans.in/personal-guarantee-invocation-loan-settlement',
+    url: 'https://www.settleloans.in/personal-guarantee-invocation-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-guarantee-invocation-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-guarantee-invocation-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Guarantee Invocation and Business Loan Settlement Guide',
@@ -79,7 +79,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Personal Guarantee Invocation for Business Loan Settlement: Legal Defenses & Promoter OTS',
     description: 'Bank invoked your personal guarantee for a defaulted corporate or MSME loan? Learn how to defend personal assets, challenge illegal notices, and negotiate an advocate-led OTS settlement.',
-    images: ['https://settleloans.in/images/infographics/personal-guarantee-invocation-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-guarantee-invocation-loan-settlement.jpg'],
   },
 };
 
@@ -88,74 +88,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-guarantee-invocation-loan-settlement#webpage",
-      "url": "https://settleloans.in/personal-guarantee-invocation-loan-settlement",
+      "@id": "https://www.settleloans.in/personal-guarantee-invocation-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/personal-guarantee-invocation-loan-settlement",
       "name": "Personal Guarantee Invocation for Business Loan Settlement: Legal Defenses & Promoter OTS Guide (2026)",
       "description": "Facing personal guarantee invocation for a defaulted business loan? Learn Section 128 Indian Contract Act defenses, Section 133-139 surety discharge rules, DRT & IBC strategies, and advocate-led OTS blueprints to protect promoter personal assets.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-guarantee-invocation-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-guarantee-invocation-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-guarantee-invocation-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-guarantee-invocation-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Guarantee Invocation Settlement Guide",
-          "item": "https://settleloans.in/personal-guarantee-invocation-loan-settlement"
+          "item": "https://www.settleloans.in/personal-guarantee-invocation-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-guarantee-invocation-loan-settlement#article",
+      "@id": "https://www.settleloans.in/personal-guarantee-invocation-loan-settlement#article",
       "headline": "Personal Guarantee Invocation for Business Loan Settlement: Legal Defenses, Section 128 Contract Act & Promoter OTS Blueprint",
       "description": "An exhaustive legal and financial analysis of personal guarantee invocation in India. Explains co-extensive liability under Section 128 of the Indian Contract Act, statutory surety discharge mechanisms under Sections 133 to 141, DRT Section 19 defense, Lalit Kumar Jain Supreme Court precedent under IBC, and strategic advocate negotiations to secure a binding One-Time Settlement (OTS) with full release of personal assets.",
-      "image": "https://settleloans.in/images/infographics/personal-guarantee-invocation-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-guarantee-invocation-loan-settlement.jpg",
       "datePublished": "2026-08-28T10:00:00+05:30",
       "dateModified": "2026-08-28T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-guarantee-invocation-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/personal-guarantee-invocation-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-guarantee-invocation-loan-settlement#service",
+      "@id": "https://www.settleloans.in/personal-guarantee-invocation-loan-settlement#service",
       "name": "SettleLoans - Commercial Debt & Personal Guarantee Defense Advisory",
       "description": "Specialized legal defense and financial negotiation advisory for company directors, MSME founders, and individual guarantors facing personal guarantee invocation, DRT recovery proceedings, and IBC personal insolvency claims.",
-      "url": "https://settleloans.in/personal-guarantee-invocation-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/personal-guarantee-invocation-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/personal-guarantee-invocation-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/personal-guarantee-invocation-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹₹",
       "address": {
@@ -168,9 +168,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -244,7 +244,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-guarantee-invocation-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/personal-guarantee-invocation-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -330,12 +330,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

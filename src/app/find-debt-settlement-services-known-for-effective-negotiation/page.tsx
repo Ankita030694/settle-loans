@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Find Debt Settlement Services Known for Effective Negotiation in India",
   description: "Looking for the best debt settlement companies in India? Explore expert negotiation services from AMA Legal Solutions, CredSettle, and more. Achieve 40-70% debt reduction safely.",
   alternates: {
-    canonical: "https://settleloans.in/find-debt-settlement-services-known-for-effective-negotiation",
+    canonical: "https://www.settleloans.in/find-debt-settlement-services-known-for-effective-negotiation",
   },
 };
 
@@ -16,34 +16,34 @@ export default function EffectiveNegotiationPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#webpage",
-        "url": "https://settleloans.in/find-debt-settlement-services-known-for-effective-negotiation",
+        "@id": "https://www.settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#webpage",
+        "url": "https://www.settleloans.in/find-debt-settlement-services-known-for-effective-negotiation",
         "name": "Effective Debt Negotiation Services in India",
         "description": "Comprehensive guide to finding and choosing the most effective debt settlement and negotiation services in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#breadcrumb",
+        "@id": "https://www.settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Effective Debt Negotiation Services",
-            "item": "https://settleloans.in/find-debt-settlement-services-known-for-effective-negotiation"
+            "item": "https://www.settleloans.in/find-debt-settlement-services-known-for-effective-negotiation"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#article",
+        "@id": "https://www.settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#article",
         "headline": "Find Debt Settlement Services Known for Effective Negotiation",
         "description": "How professional negotiation can help you achieve significant debt waivers on credit cards and personal loans in India.",
         "author": {
@@ -55,22 +55,22 @@ export default function EffectiveNegotiationPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#product",
+        "@id": "https://www.settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#product",
         "name": "Debt Settlement Negotiation Service",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal-backed negotiation services for settling unsecured loans and credit card debts in India.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -98,7 +98,7 @@ export default function EffectiveNegotiationPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#faq",
+        "@id": "https://www.settleloans.in/find-debt-settlement-services-known-for-effective-negotiation#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -358,7 +358,7 @@ export default function EffectiveNegotiationPage() {
                     <li>• Deep relationships with bank settlement committees.</li>
                     <li>• Focus on credit score rebuild post-settlement.</li>
                   </ul>
-                  <Link href="https://settleloans.in" className="block w-full text-center py-3 border-2 border-slate-800 text-slate-800 font-black rounded-xl hover:bg-gray-50 transition">Visit Site</Link>
+                  <Link href="https://www.settleloans.in" className="block w-full text-center py-3 border-2 border-slate-800 text-slate-800 font-black rounded-xl hover:bg-gray-50 transition">Visit Site</Link>
                 </div>
               </div>
               

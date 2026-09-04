@@ -55,16 +55,16 @@ export const metadata: Metadata = {
     'pension account freeze legal notice defense'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/senior-citizen-pensioner-loan-settlement-relief',
+    canonical: 'https://www.settleloans.in/senior-citizen-pensioner-loan-settlement-relief',
   },
   openGraph: {
     title: 'Loan Settlement Rules for Senior Citizens & Pensioners: Pension Attachment Protection & OTS Guide',
     description: 'Comprehensive legal guide for senior citizens and retired pensioners facing unmanageable debt, unlawful pension account debits, and recovery agent coercion in India.',
-    url: 'https://settleloans.in/senior-citizen-pensioner-loan-settlement-relief',
+    url: 'https://www.settleloans.in/senior-citizen-pensioner-loan-settlement-relief',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/senior-citizen-pensioner-loan-settlement-relief.jpg',
+        url: 'https://www.settleloans.in/images/infographics/senior-citizen-pensioner-loan-settlement-relief.jpg',
         width: 1200,
         height: 675,
         alt: 'Senior Citizen and Pensioner Loan Settlement Legal Protection Guide',
@@ -77,7 +77,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement Rules for Senior Citizens & Pensioners: Pension Attachment Protection & OTS Guide',
     description: 'Protect your pension from illegal bank attachments. Understand Section 60 CPC statutory exemptions, senior citizen debt relief rights, and compassionate OTS.',
-    images: ['https://settleloans.in/images/infographics/senior-citizen-pensioner-loan-settlement-relief.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/senior-citizen-pensioner-loan-settlement-relief.jpg'],
   },
 };
 
@@ -86,74 +86,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/senior-citizen-pensioner-loan-settlement-relief#webpage",
-      "url": "https://settleloans.in/senior-citizen-pensioner-loan-settlement-relief",
+      "@id": "https://www.settleloans.in/senior-citizen-pensioner-loan-settlement-relief#webpage",
+      "url": "https://www.settleloans.in/senior-citizen-pensioner-loan-settlement-relief",
       "name": "Loan Settlement Rules for Senior Citizens & Pensioners: Pension Attachment Protection & OTS Guide",
       "description": "Can banks deduct EMI from a pensioner account or seize retirement funds? Learn Section 60 CPC pension attachment protections, compassionate OTS relief, and RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/senior-citizen-pensioner-loan-settlement-relief#breadcrumb"
+        "@id": "https://www.settleloans.in/senior-citizen-pensioner-loan-settlement-relief#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/senior-citizen-pensioner-loan-settlement-relief#breadcrumb",
+      "@id": "https://www.settleloans.in/senior-citizen-pensioner-loan-settlement-relief#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Senior Citizen & Pensioner Loan Settlement Guide",
-          "item": "https://settleloans.in/senior-citizen-pensioner-loan-settlement-relief"
+          "item": "https://www.settleloans.in/senior-citizen-pensioner-loan-settlement-relief"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/senior-citizen-pensioner-loan-settlement-relief#article",
+      "@id": "https://www.settleloans.in/senior-citizen-pensioner-loan-settlement-relief#article",
       "headline": "Loan Settlement Rules for Senior Citizens & Pensioners: Statutory Pension Shields, Section 60 CPC & Compassionate Compromise Settlements",
       "description": "An exhaustive legal treatise examining debt default protections for retired senior citizens and pensioners. Analyzes Section 60(1)(g) CPC statutory pension immunity, Section 11 of the Pensions Act 1871, illegality of banker's lien on pension disbursements, compassionate OTS frameworks, and advocate-led debt resolution.",
-      "image": "https://settleloans.in/images/infographics/senior-citizen-pensioner-loan-settlement-relief.jpg",
+      "image": "https://www.settleloans.in/images/infographics/senior-citizen-pensioner-loan-settlement-relief.jpg",
       "datePublished": "2026-08-26T12:00:00+05:30",
       "dateModified": "2026-08-26T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/senior-citizen-pensioner-loan-settlement-relief#webpage"
+        "@id": "https://www.settleloans.in/senior-citizen-pensioner-loan-settlement-relief#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/senior-citizen-pensioner-loan-settlement-relief#service",
+      "@id": "https://www.settleloans.in/senior-citizen-pensioner-loan-settlement-relief#service",
       "name": "SettleLoans - Senior Citizen & Pensioner Debt Resolution Advisory",
       "description": "Specialized legal defense and compassionate One-Time Settlement (OTS) advisory for senior citizens, retired defense personnel, central and state government pensioners facing unlawful bank deductions and recovery harassment.",
-      "url": "https://settleloans.in/senior-citizen-pensioner-loan-settlement-relief",
-      "image": "https://settleloans.in/images/infographics/senior-citizen-pensioner-loan-settlement-relief.jpg",
+      "url": "https://www.settleloans.in/senior-citizen-pensioner-loan-settlement-relief",
+      "image": "https://www.settleloans.in/images/infographics/senior-citizen-pensioner-loan-settlement-relief.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -166,9 +166,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -242,7 +242,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/senior-citizen-pensioner-loan-settlement-relief#faq",
+      "@id": "https://www.settleloans.in/senior-citizen-pensioner-loan-settlement-relief#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -328,12 +328,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

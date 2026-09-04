@@ -12,39 +12,39 @@ export default function LAPSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-against-property-settlement#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-loan-against-property-settlement",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-against-property-settlement#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-loan-against-property-settlement",
                 "name": "Best Lawyer for Loan Against Property (LAP) Settlement India | SARFAESI Defense",
                 "description": "Expert legal representation for Loan Against Property (LAP) settlements. Defend against SARFAESI Act, stop property auctions, and negotiate OTS with banks. 4500+ word guide.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-loan-against-property-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-loan-against-property-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-against-property-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-against-property-settlement#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "LAP Settlement", "item": "https://settleloans.in/best-lawyer-for-loan-against-property-settlement" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "LAP Settlement", "item": "https://www.settleloans.in/best-lawyer-for-loan-against-property-settlement" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-against-property-settlement#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-against-property-settlement#article",
                 "headline": "Best Lawyer for Loan Against Property Settlement: Essential Guide to SARFAESI and Debt Resolution",
                 "description": "Comprehensive legal strategies for LAP defaults. Learn how to stop property repossession, challenge bank valuation, and secure the best One-Time Settlement (OTS).",
                 "author": { "@type": "Organization", "name": "SettleLoans Property Law Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-loan-against-property-settlement#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-loan-against-property-settlement#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-against-property-settlement#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-against-property-settlement#product",
                 "name": "LAP Legal Defence & Settlement Services",
                 "description": "Strategic legal services for residential and commercial property loan settlements and SARFAESI litigation.",
                 "aggregateRating": {
@@ -71,7 +71,7 @@ export default function LAPSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-against-property-settlement#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-against-property-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

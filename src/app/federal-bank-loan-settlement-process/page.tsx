@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'federal bank lok adalat settlement',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/federal-bank-loan-settlement-process',
+    canonical: 'https://www.settleloans.in/federal-bank-loan-settlement-process',
   },
   openGraph: {
     title: 'Federal Bank Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
     description: 'Learn how to settle a Federal Bank personal loan, business facility, or gold loan shortfall. Understand SAMD recovery desks, NPA provisioning haircuts, legal notice defense, and step-by-step compromise procedures.',
-    url: 'https://settleloans.in/federal-bank-loan-settlement-process',
+    url: 'https://www.settleloans.in/federal-bank-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/federal-bank-loan-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/federal-bank-loan-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'Federal Bank Loan Settlement Process, SAMD Escalation and OTS Haircut Guide',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Federal Bank Loan Settlement: OTS Rules, Legal Defense & Haircut',
     description: 'Technical and legal framework for negotiating One-Time Settlements (OTS) with The Federal Bank Limited under RBI Compromise Settlement frameworks.',
-    images: ['https://settleloans.in/images/infographics/federal-bank-loan-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/federal-bank-loan-settlement-process.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/federal-bank-loan-settlement-process#webpage",
-      "url": "https://settleloans.in/federal-bank-loan-settlement-process",
+      "@id": "https://www.settleloans.in/federal-bank-loan-settlement-process#webpage",
+      "url": "https://www.settleloans.in/federal-bank-loan-settlement-process",
       "name": "Federal Bank Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)",
       "description": "Comprehensive guide to Federal Bank loan settlement. Learn how to settle personal, business, and gold loan deficits, halt recovery harassment, defend Section 138 NI Act & Section 25 PSSA summons, navigate SAMD escalation, and negotiate up to 60% OTS haircut under RBI guidelines.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/federal-bank-loan-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/federal-bank-loan-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/federal-bank-loan-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/federal-bank-loan-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Federal Bank Loan Settlement Process",
-          "item": "https://settleloans.in/federal-bank-loan-settlement-process"
+          "item": "https://www.settleloans.in/federal-bank-loan-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/federal-bank-loan-settlement-process#article",
+      "@id": "https://www.settleloans.in/federal-bank-loan-settlement-process#article",
       "headline": "Federal Bank Loan Settlement: OTS Rules, Legal Defense & Haircut Guide",
       "description": "An exhaustive strategic guide on negotiating One-Time Settlements (OTS) with Federal Bank, navigating SAMD Stressed Assets desks, halting NACH bounce fees, defending Section 138/25 notices, and resolving gold loan shortfall claims.",
-      "image": "https://settleloans.in/images/infographics/federal-bank-loan-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/federal-bank-loan-settlement-process.jpg",
       "datePublished": "2026-08-29T10:00:00+05:30",
       "dateModified": "2026-08-29T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/federal-bank-loan-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/federal-bank-loan-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/federal-bank-loan-settlement-process#service",
+      "@id": "https://www.settleloans.in/federal-bank-loan-settlement-process#service",
       "name": "SettleLoans - Federal Bank Loan Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted Federal Bank personal loans, business credit facilities, and gold loan shortfalls under RBI compromise settlement frameworks.",
-      "url": "https://settleloans.in/federal-bank-loan-settlement-process",
-      "image": "https://settleloans.in/images/infographics/federal-bank-loan-settlement-process.jpg",
+      "url": "https://www.settleloans.in/federal-bank-loan-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/federal-bank-loan-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/federal-bank-loan-settlement-process#faq",
+      "@id": "https://www.settleloans.in/federal-bank-loan-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -321,12 +321,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -55,16 +55,16 @@ export const metadata: Metadata = {
     'one time settlement for government employees without service impact'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/government-employee-loan-default-salary-attachment',
+    canonical: 'https://www.settleloans.in/government-employee-loan-default-salary-attachment',
   },
   openGraph: {
     title: 'Loan Default Rules for Government Employees: Salary Attachment, CCS Rules & Legal Defense',
     description: 'Comprehensive legal analysis for Central, State, Railway, Defense, and PSU personnel facing loan default notices, salary attachment threats, and departmental inquiry fears.',
-    url: 'https://settleloans.in/government-employee-loan-default-salary-attachment',
+    url: 'https://www.settleloans.in/government-employee-loan-default-salary-attachment',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/government-employee-loan-default-salary-attachment.jpg',
+        url: 'https://www.settleloans.in/images/infographics/government-employee-loan-default-salary-attachment.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Default Rules for Government Employees Legal Defense Guide',
@@ -77,7 +77,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Default Rules for Government Employees: Salary Attachment, CCS Rules & Legal Defense',
     description: 'Worried that a personal loan default will impact your government service record or trigger salary deductions? Learn your statutory protections under Section 60 CPC.',
-    images: ['https://settleloans.in/images/infographics/government-employee-loan-default-salary-attachment.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/government-employee-loan-default-salary-attachment.jpg'],
   },
 };
 
@@ -86,74 +86,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/government-employee-loan-default-salary-attachment#webpage",
-      "url": "https://settleloans.in/government-employee-loan-default-salary-attachment",
+      "@id": "https://www.settleloans.in/government-employee-loan-default-salary-attachment#webpage",
+      "url": "https://www.settleloans.in/government-employee-loan-default-salary-attachment",
       "name": "Loan Default Rules for Government Employees: Salary Attachment, CCS Rules & Legal Defense",
       "description": "Can banks attach a government employee salary or report loan default to your department? Understand Section 60 CPC exemptions, CCS Conduct Rules, CAT precedents, and legal settlement.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/government-employee-loan-default-salary-attachment#breadcrumb"
+        "@id": "https://www.settleloans.in/government-employee-loan-default-salary-attachment#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/government-employee-loan-default-salary-attachment#breadcrumb",
+      "@id": "https://www.settleloans.in/government-employee-loan-default-salary-attachment#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Government Employee Loan Default Guide",
-          "item": "https://settleloans.in/government-employee-loan-default-salary-attachment"
+          "item": "https://www.settleloans.in/government-employee-loan-default-salary-attachment"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/government-employee-loan-default-salary-attachment#article",
+      "@id": "https://www.settleloans.in/government-employee-loan-default-salary-attachment#article",
       "headline": "Loan Default Rules for Government Employees: Salary Attachment Protections, CCS Conduct Rules & Service Shield Blueprint",
       "description": "An exhaustive legal treatise examining debt default implications for Central Government, State Civil Services, Indian Railways, Defense, and PSU personnel. Analyzes CCS Conduct Rule 16, Section 60 CPC wage attachment exemptions, DDO jurisdictional constraints, CAT rulings, and confidential debt settlement procedures.",
-      "image": "https://settleloans.in/images/infographics/government-employee-loan-default-salary-attachment.jpg",
+      "image": "https://www.settleloans.in/images/infographics/government-employee-loan-default-salary-attachment.jpg",
       "datePublished": "2026-08-26T12:00:00+05:30",
       "dateModified": "2026-08-26T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/government-employee-loan-default-salary-attachment#webpage"
+        "@id": "https://www.settleloans.in/government-employee-loan-default-salary-attachment#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/government-employee-loan-default-salary-attachment#service",
+      "@id": "https://www.settleloans.in/government-employee-loan-default-salary-attachment#service",
       "name": "SettleLoans - Government & PSU Employee Debt Resolution Advisory",
       "description": "Specialized legal defense and confidential debt settlement advisory for Central Government, State Civil Services, Railways, Defense, and Public Sector undertaking personnel facing aggressive recovery and salary attachment threats.",
-      "url": "https://settleloans.in/government-employee-loan-default-salary-attachment",
-      "image": "https://settleloans.in/images/infographics/government-employee-loan-default-salary-attachment.jpg",
+      "url": "https://www.settleloans.in/government-employee-loan-default-salary-attachment",
+      "image": "https://www.settleloans.in/images/infographics/government-employee-loan-default-salary-attachment.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -166,9 +166,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -242,7 +242,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/government-employee-loan-default-salary-attachment#faq",
+      "@id": "https://www.settleloans.in/government-employee-loan-default-salary-attachment#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -328,12 +328,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

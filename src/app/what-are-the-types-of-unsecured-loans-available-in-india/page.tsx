@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "What Are the Types of Unsecured Loans Available in India?",
     description: "Looking for money without pledging your assets? Discover the complete list of unsecured loans available in India today, including personal loans and credit cards.",
     alternates: {
-        canonical: "https://settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india",
+        canonical: "https://www.settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india",
     },
 };
 
@@ -17,35 +17,35 @@ export default function TypesOfUnsecuredLoansPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india",
-                "url": "https://settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india",
+                "@id": "https://www.settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india",
+                "url": "https://www.settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india",
                 "name": "What Are the Types of Unsecured Loans Available in India?",
                 "description": "Looking for money without pledging your assets? Discover the complete list of unsecured loans available in India today.",
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 }
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india#article",
+                "@id": "https://www.settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india#article",
                 "headline": "What Are the Types of Unsecured Loans Available in India?",
                 "description": "Comprehensive guide to the types of unsecured loans and collateral free loans in India.",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2026-07-24",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india" }
             },
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Types of Unsecured Loans", "item": "https://settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Types of Unsecured Loans", "item": "https://www.settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india" }
                 ]
             },
             {
@@ -105,7 +105,7 @@ export default function TypesOfUnsecuredLoansPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india#product",
+                "@id": "https://www.settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india#product",
                 "name": "Unsecured Loan Settlement & Advisory",
                 "description": "Professional advisory services for managing, restructuring, or settling unsecured loans and credit card debts in India.",
                 "aggregateRating": {

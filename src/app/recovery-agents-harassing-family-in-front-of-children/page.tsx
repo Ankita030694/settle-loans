@@ -60,16 +60,16 @@ export const metadata: Metadata = {
     'one time settlement debt harassment children'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/recovery-agents-harassing-family-in-front-of-children',
+    canonical: 'https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children',
   },
   openGraph: {
     title: 'Recovery Agent Shouting at Home in Front of Kids? Legal Rights & Police FIR Guide',
     description: 'Stop traumatic home debt recovery. Understand legal protections under the Juvenile Justice Act, Supreme Court dignity rulings, RBI Fair Practices Code, and emergency police complaint protocols.',
-    url: 'https://settleloans.in/recovery-agents-harassing-family-in-front-of-children',
+    url: 'https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recovery-agents-harassing-family-in-front-of-children.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recovery-agents-harassing-family-in-front-of-children.jpg',
         width: 1200,
         height: 675,
         alt: 'Recovery Agents Harassing Family in Front of Children Legal Defense Guide',
@@ -82,7 +82,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Recovery Agent Shouting at Home in Front of Kids? Legal Rights & Police FIR Guide',
     description: 'Facing aggressive collection agents creating scenes in front of your children or elderly family? Discover statutory child protections, criminal law remedies, and debt settlement solutions.',
-    images: ['https://settleloans.in/images/infographics/recovery-agents-harassing-family-in-front-of-children.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recovery-agents-harassing-family-in-front-of-children.jpg'],
   },
 };
 
@@ -91,74 +91,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recovery-agents-harassing-family-in-front-of-children#webpage",
-      "url": "https://settleloans.in/recovery-agents-harassing-family-in-front-of-children",
+      "@id": "https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children#webpage",
+      "url": "https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children",
       "name": "Recovery Agent Shouting at Home in Front of Kids? Legal Rights & Police FIR Guide",
       "description": "Is a bank recovery agent shouting at your home in front of your kids, elderly parents, or family? Learn child protection laws, Juvenile Justice Act provisions, emergency police FIR remedies, and advocate-led OTS settlement.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recovery-agents-harassing-family-in-front-of-children#breadcrumb"
+        "@id": "https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recovery-agents-harassing-family-in-front-of-children#breadcrumb",
+      "@id": "https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Family & Child Protection Defense",
-          "item": "https://settleloans.in/recovery-agents-harassing-family-in-front-of-children"
+          "item": "https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recovery-agents-harassing-family-in-front-of-children#article",
+      "@id": "https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children#article",
       "headline": "Recovery Agent Shouting at Home in Front of Kids? Child Protection Laws, Juvenile Justice Act, Police FIR & OTS Defense",
       "description": "Comprehensive statutory analysis for borrowers dealing with rogue collection agents creating public scenes, banging doors, or shouting in front of minors and elderly dependents. Explains Section 75 Juvenile Justice Act, criminal trespass, breach of domestic peace, RBI Master Directions, and advocate debt settlement strategies.",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-harassing-family-in-front-of-children.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-harassing-family-in-front-of-children.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agents-harassing-family-in-front-of-children#webpage"
+        "@id": "https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recovery-agents-harassing-family-in-front-of-children#service",
+      "@id": "https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children#service",
       "name": "SettleLoans - Family Debt Protection & Harassment Defense Advisory",
       "description": "Expert legal representation, child protection intervention, and stressed debt resolution for families subjected to unlawful recovery harassment, domestic peace breaches, and aggressive home visits.",
-      "url": "https://settleloans.in/recovery-agents-harassing-family-in-front-of-children",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-harassing-family-in-front-of-children.jpg",
+      "url": "https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-harassing-family-in-front-of-children.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -171,9 +171,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -247,7 +247,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recovery-agents-harassing-family-in-front-of-children#faq",
+      "@id": "https://www.settleloans.in/recovery-agents-harassing-family-in-front-of-children#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -333,12 +333,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

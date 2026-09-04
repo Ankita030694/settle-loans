@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Compare Loan Settlement Apps India | Features & Services Comparison 2025",
   description: "Comprehensive comparison of major loan settlement apps in India including AMA Connect, FREED, SingleDebt, and more. Find the best digital debt relief platform for your needs.",
   alternates: {
-    canonical: "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps",
+    canonical: "https://www.settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps",
   },
 };
 
@@ -16,34 +16,34 @@ export default function CompareLoanAppsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#webpage",
-        "url": "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps",
+        "@id": "https://www.settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#webpage",
+        "url": "https://www.settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps",
         "name": "Compare Features of Loan Settlement Services Offered by Major Financial Apps",
         "description": "A detailed comparison of loan settlement fintech platforms in India, evaluating features like negotiation support, legal protection, and AI integration.",
-        "breadcrumb": { "@id": "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#breadcrumb",
+        "@id": "https://www.settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Compare Loan Settlement Apps",
-            "item": "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps"
+            "item": "https://www.settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#article",
+        "@id": "https://www.settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#article",
         "headline": "Comparing Loan Settlement Apps in India: Features, Performance, and Legal Protection",
         "description": "An exhaustive analysis of India's top loan settlement applications, comparing their negotiation strength, transparency, and RBI compliance.",
         "author": {
@@ -55,22 +55,22 @@ export default function CompareLoanAppsPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#product",
+        "@id": "https://www.settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#product",
         "name": "Loan Settlement App Comparison Advisory",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert guidance on comparing and choosing the best digital loan settlement platform in India, from AMA Connect to FREED.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -98,7 +98,7 @@ export default function CompareLoanAppsPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#faq",
+        "@id": "https://www.settleloans.in/compare-features-of-loan-settlement-services-offered-by-major-financial-apps#faq",
         "mainEntity": [
           {
             "@type": "Question",

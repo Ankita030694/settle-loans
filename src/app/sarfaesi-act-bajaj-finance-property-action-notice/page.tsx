@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'SARFAESI Act: NBFC Property Action Notice Guide',
   description: 'Has an NBFC initiated property action under the SARFAESI Act? Learn about NBFC home loan defaults, symbolic possession, and how to secure a stay order.',
   alternates: {
-    canonical: 'https://settleloans.in/sarfaesi-act-bajaj-finance-property-action-notice',
+    canonical: 'https://www.settleloans.in/sarfaesi-act-bajaj-finance-property-action-notice',
   },
 };
 
@@ -70,8 +70,8 @@ export default function Page() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/sarfaesi-act-bajaj-finance-property-action-notice",
-        "url": "https://settleloans.in/sarfaesi-act-bajaj-finance-property-action-notice",
+        "@id": "https://www.settleloans.in/sarfaesi-act-bajaj-finance-property-action-notice",
+        "url": "https://www.settleloans.in/sarfaesi-act-bajaj-finance-property-action-notice",
         "name": "SARFAESI Act: NBFC Property Action Notice",
         "description": "Has an NBFC initiated property action under the SARFAESI Act? Learn about NBFC home loan defaults, symbolic possession, and how to secure a stay order."
       },
@@ -82,13 +82,13 @@ export default function Page() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "SARFAESI Act: NBFC Notice",
-            "item": "https://settleloans.in/sarfaesi-act-bajaj-finance-property-action-notice"
+            "item": "https://www.settleloans.in/sarfaesi-act-bajaj-finance-property-action-notice"
           }
         ]
       },
@@ -105,7 +105,7 @@ export default function Page() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo.png"
+            "url": "https://www.settleloans.in/logo.png"
           }
         }
       },

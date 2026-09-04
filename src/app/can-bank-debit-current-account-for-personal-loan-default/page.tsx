@@ -58,16 +58,16 @@ export const metadata: Metadata = {
     'one time settlement to unfreeze business bank account'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/can-bank-debit-current-account-for-personal-loan-default',
+    canonical: 'https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default',
   },
   openGraph: {
     title: 'Can Bank Freeze Current Account for Personal Loan Default? Legal Entity Protection & Unfreeze Guide',
     description: 'Learn how Indian corporate jurisprudence and the Doctrine of Mutuality protect business current accounts from unauthorized bank debits and freezes stemming from individual personal loan defaults.',
-    url: 'https://settleloans.in/can-bank-debit-current-account-for-personal-loan-default',
+    url: 'https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/can-bank-debit-current-account-for-personal-loan-default.jpg',
+        url: 'https://www.settleloans.in/images/infographics/can-bank-debit-current-account-for-personal-loan-default.jpg',
         width: 1200,
         height: 675,
         alt: 'Can Bank Freeze Current Account for Personal Loan Default Legal Remedies Guide',
@@ -80,7 +80,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Can Bank Freeze Current Account for Personal Loan Default? Legal Entity Protection & Unfreeze Guide',
     description: 'Facing a sudden freeze on your business current account due to an individual personal loan default? Discover your legal rights under Indian banking law, High Court precedents, and RBI guidelines.',
-    images: ['https://settleloans.in/images/infographics/can-bank-debit-current-account-for-personal-loan-default.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/can-bank-debit-current-account-for-personal-loan-default.jpg'],
   },
 };
 
@@ -89,74 +89,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/can-bank-debit-current-account-for-personal-loan-default#webpage",
-      "url": "https://settleloans.in/can-bank-debit-current-account-for-personal-loan-default",
+      "@id": "https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default#webpage",
+      "url": "https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default",
       "name": "Can Bank Freeze Current Account for Personal Loan Default? Legal Entity Protection & Unfreeze Guide",
       "description": "Can a bank debit or freeze your business current account for a personal loan default? Understand legal entity separation (Proprietorship vs Partnership vs Pvt Ltd), Doctrine of Mutuality, High Court stays, and advocate unfreezing protocols.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/can-bank-debit-current-account-for-personal-loan-default#breadcrumb"
+        "@id": "https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/can-bank-debit-current-account-for-personal-loan-default#breadcrumb",
+      "@id": "https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Current Account Freeze & Legal Entity Defense",
-          "item": "https://settleloans.in/can-bank-debit-current-account-for-personal-loan-default"
+          "item": "https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/can-bank-debit-current-account-for-personal-loan-default#article",
+      "@id": "https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default#article",
       "headline": "Can Bank Freeze Current Account for Personal Loan Default? Legal Entity Protection, Right of Set-Off Limits & High Court Precedents",
       "description": "A comprehensive legal analysis exploring whether lending banks can freeze or debit commercial current accounts to recover personal loan defaults. Details the Doctrine of Mutuality, legal entity separation across Proprietorships, Partnerships, LLPs, and Private Limited Companies, High Court protections on business working capital, RBI Fair Practices Code, and emergency unfreezing protocols.",
-      "image": "https://settleloans.in/images/infographics/can-bank-debit-current-account-for-personal-loan-default.jpg",
+      "image": "https://www.settleloans.in/images/infographics/can-bank-debit-current-account-for-personal-loan-default.jpg",
       "datePublished": "2026-09-03T12:00:00+05:30",
       "dateModified": "2026-09-03T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-bank-debit-current-account-for-personal-loan-default#webpage"
+        "@id": "https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/can-bank-debit-current-account-for-personal-loan-default#service",
+      "@id": "https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default#service",
       "name": "SettleLoans - Business Account Defense & Debt Resolution Advisory",
       "description": "Specialized corporate and retail debt defense legal advisory assisting enterprise founders, partners, and sole proprietors in lifting illegal current account freezes, preventing unauthorized set-off debits, and structuring heavily discounted One-Time Settlements (OTS).",
-      "url": "https://settleloans.in/can-bank-debit-current-account-for-personal-loan-default",
-      "image": "https://settleloans.in/images/infographics/can-bank-debit-current-account-for-personal-loan-default.jpg",
+      "url": "https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default",
+      "image": "https://www.settleloans.in/images/infographics/can-bank-debit-current-account-for-personal-loan-default.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -169,9 +169,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -245,7 +245,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/can-bank-debit-current-account-for-personal-loan-default#faq",
+      "@id": "https://www.settleloans.in/can-bank-debit-current-account-for-personal-loan-default#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -331,12 +331,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

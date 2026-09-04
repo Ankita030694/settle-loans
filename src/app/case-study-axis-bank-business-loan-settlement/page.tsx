@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'axis bank no dues certificate business loan',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/case-study-axis-bank-business-loan-settlement',
+    canonical: 'https://www.settleloans.in/case-study-axis-bank-business-loan-settlement',
   },
   openGraph: {
     title: 'Axis Bank Business Loan Settlement Case Study: ₹15L SME Debt Settled for ₹5.5L',
     description: 'In-depth commercial debt resolution: How a distressed MSME owner resolved an ₹15 Lakh unsecured Axis Bank business loan for ₹5.5 Lakhs (63.3% haircut) with complete personal asset protection.',
-    url: 'https://settleloans.in/case-study-axis-bank-business-loan-settlement',
+    url: 'https://www.settleloans.in/case-study-axis-bank-business-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/case-study-axis-bank-business-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/case-study-axis-bank-business-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Axis Bank Business Loan Settlement Case Study Infographic: ₹15L Settled for ₹5.5L',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Axis Bank Business Loan Settlement Case Study: ₹15L SME Debt Settled for ₹5.5L',
     description: 'Case study proof: Step-by-step breakdown of how a ₹15 Lakh Axis Bank business loan default was settled for ₹5.5 Lakhs with official bank sanction letter and full personal guarantor immunity.',
-    images: ['https://settleloans.in/images/infographics/case-study-axis-bank-business-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/case-study-axis-bank-business-loan-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/case-study-axis-bank-business-loan-settlement#webpage",
-      "url": "https://settleloans.in/case-study-axis-bank-business-loan-settlement",
+      "@id": "https://www.settleloans.in/case-study-axis-bank-business-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/case-study-axis-bank-business-loan-settlement",
       "name": "Axis Bank Business Loan Settlement Case Study: ₹15L SME Debt Settled for ₹5.5L",
       "description": "Real case study: How an ₹15 Lakh unsecured Axis Bank business loan was settled for ₹5.5 Lakhs (63.3% waiver) following SME failure. Learn commercial debt negotiation, personal guarantor asset protection, and RBI OTS rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/case-study-axis-bank-business-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/case-study-axis-bank-business-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/case-study-axis-bank-business-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/case-study-axis-bank-business-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Axis Bank Business Loan Settlement Case Study",
-          "item": "https://settleloans.in/case-study-axis-bank-business-loan-settlement"
+          "item": "https://www.settleloans.in/case-study-axis-bank-business-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/case-study-axis-bank-business-loan-settlement#article",
+      "@id": "https://www.settleloans.in/case-study-axis-bank-business-loan-settlement#article",
       "headline": "Axis Bank Business Loan Settlement Case Study: How a ₹15 Lakh SME Debt Was Settled for ₹5.5 Lakhs",
       "description": "A comprehensive proof-of-concept case study detailing how a distressed small business owner settled an ₹15,00,000 Axis Bank unsecured commercial loan for ₹5,50,000 (a 63.3% haircut) after commercial venture failure, ensuring full protection against personal asset attachment.",
-      "image": "https://settleloans.in/images/infographics/case-study-axis-bank-business-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/case-study-axis-bank-business-loan-settlement.jpg",
       "datePublished": "2026-08-22T13:16:37+05:30",
       "dateModified": "2026-08-22T13:16:37+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/case-study-axis-bank-business-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/case-study-axis-bank-business-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/case-study-axis-bank-business-loan-settlement#service",
+      "@id": "https://www.settleloans.in/case-study-axis-bank-business-loan-settlement#service",
       "name": "SettleLoans - Axis Bank Business Loan Settlement & Commercial Dispute Resolution",
       "description": "Specialized legal representation and commercial debt negotiation advisory for distressed MSME founders seeking One-Time Settlement (OTS), asset protection, and debt waivers with Axis Bank under RBI guidelines.",
-      "url": "https://settleloans.in/case-study-axis-bank-business-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/case-study-axis-bank-business-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/case-study-axis-bank-business-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/case-study-axis-bank-business-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/case-study-axis-bank-business-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/case-study-axis-bank-business-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -284,12 +284,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

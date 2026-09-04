@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "How Does Settling a Loan Impact My CIBIL Credit Score | 2024-25 Guide",
     description: "Deep-dive into how loan settlement affects your CIBIL score in India. Learn recovery timelines, rebuilding strategies, and the difference between closed and settled status.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score",
+        canonical: "https://www.settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score",
     },
 };
 
@@ -18,43 +18,43 @@ export default function CibilImpactPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score#webpage",
-                "url": "https://settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score",
+                "@id": "https://www.settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score#webpage",
+                "url": "https://www.settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score",
                 "name": "How Loan Settlement Impacts Your CIBIL Score | Professional Analysis",
                 "description": "A comprehensive guide on the long-term impact of debt settlement on credit scores in India, including recovery steps and CIBIL reporting standards.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "CIBIL Impact of Settlement",
-                        "item": "https://settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score"
+                        "item": "https://www.settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score#article",
+                "@id": "https://www.settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score#article",
                 "headline": "How does settling a loan impact my CIBIL credit score",
                 "description": "The definitive guide to understanding loan settlement and credit scores in India. Learn how to rebuild your credit after a settlement recorded on your CIBIL report.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Credit Expert Team"
@@ -64,7 +64,7 @@ export default function CibilImpactPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-05-20",
@@ -72,7 +72,7 @@ export default function CibilImpactPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score#faq",
+                "@id": "https://www.settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -158,7 +158,7 @@ export default function CibilImpactPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score#service",
+                "@id": "https://www.settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score#service",
                 "name": "CIBIL Recovery & Settlement Consulting",
                 "description": "Expert advice on managing loan settlements while minimizing original CIBIL damage and creating a custom roadmap for score rebuilding.",
                 "brand": {

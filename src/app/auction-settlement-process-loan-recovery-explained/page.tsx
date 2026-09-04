@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Property Auction Settlement Process & Loan Recovery Rules Explained",
   description: "Is the bank threatening to auction your property? Learn the strict legal DRT auction settlement process and discover how to stop bank auction loan recovery.",
   alternates: {
-    canonical: "https://settleloans.in/auction-settlement-process-loan-recovery-explained",
+    canonical: "https://www.settleloans.in/auction-settlement-process-loan-recovery-explained",
   },
 };
 
@@ -17,34 +17,34 @@ export default function AuctionSettlementProcessPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/auction-settlement-process-loan-recovery-explained#webpage",
-        "url": "https://settleloans.in/auction-settlement-process-loan-recovery-explained",
+        "@id": "https://www.settleloans.in/auction-settlement-process-loan-recovery-explained#webpage",
+        "url": "https://www.settleloans.in/auction-settlement-process-loan-recovery-explained",
         "name": "Property Auction Settlement Process & Loan Recovery Rules Explained",
         "description": "Understand the strict legal auction process and how you can stop bank auction loan recovery under DRT rules.",
-        "breadcrumb": { "@id": "https://settleloans.in/auction-settlement-process-loan-recovery-explained#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/auction-settlement-process-loan-recovery-explained#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/auction-settlement-process-loan-recovery-explained#breadcrumb",
+        "@id": "https://www.settleloans.in/auction-settlement-process-loan-recovery-explained#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Auction Settlement Process",
-            "item": "https://settleloans.in/auction-settlement-process-loan-recovery-explained"
+            "item": "https://www.settleloans.in/auction-settlement-process-loan-recovery-explained"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/auction-settlement-process-loan-recovery-explained#article",
+        "@id": "https://www.settleloans.in/auction-settlement-process-loan-recovery-explained#article",
         "headline": "Property Auction Settlement Process & Loan Recovery Rules Explained",
         "description": "Is the bank threatening to auction your property? Understand the strict legal auction process and how you can stop it.",
         "author": {
@@ -56,16 +56,16 @@ export default function AuctionSettlementProcessPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-23",
         "dateModified": "2024-07-23",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/auction-settlement-process-loan-recovery-explained#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/auction-settlement-process-loan-recovery-explained#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/auction-settlement-process-loan-recovery-explained#faq",
+        "@id": "https://www.settleloans.in/auction-settlement-process-loan-recovery-explained#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -151,13 +151,13 @@ export default function AuctionSettlementProcessPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/auction-settlement-process-loan-recovery-explained#product",
+        "@id": "https://www.settleloans.in/auction-settlement-process-loan-recovery-explained#product",
         "name": "Anti-Auction & DRT Legal Intervention",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to halt bank auctions, secure DRT stay orders, and negotiate favorable settlements to save your property.",
         "aggregateRating": {
           "@type": "AggregateRating",

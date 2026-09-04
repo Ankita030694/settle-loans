@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     title: "Settling Joint Loans: Implications for Co-borrowers & Legal Guide 2025",
     description: "Can you settle a joint loan? Discover the legal implications for co-borrowers, how settlements affect both credit scores, and strategies for shared debt resolution.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers",
+        canonical: "https://www.settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers",
     },
 };
 
@@ -19,36 +19,36 @@ export default function JointLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers#webpage",
-                "url": "https://settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers",
+                "@id": "https://www.settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers#webpage",
+                "url": "https://www.settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers",
                 "name": "Joint Loan Settlements: A Legal & Financial Guide",
                 "description": "Expert analysis of shared liability in Indian banking. Learn how to navigate joint debt resolution correctly.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://settleloans.in/faqs" },
-                    { "@type": "ListItem", "position": 3, "name": "Joint Loan Settlement", "item": "https://settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://www.settleloans.in/faqs" },
+                    { "@type": "ListItem", "position": 3, "name": "Joint Loan Settlement", "item": "https://www.settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers#article",
+                "@id": "https://www.settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers#article",
                 "headline": "Is it possible to settle a joint loan and what are the implications for co-borrowers?",
                 "description": "A comprehensive guide to resolving shared debt. Understand how joint and several liability impacts cross-guaranteed settlements.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Team" },
-                "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" } },
+                "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" } },
                 "datePublished": "2024-02-22",
                 "dateModified": "2024-02-22"
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers#faq",
+                "@id": "https://www.settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers#faq",
                 "mainEntity": [
                     { "@type": "Question", "name": "Can one co-borrower settle a loan without the other?", "acceptedAnswer": { "@type": "Answer", "text": "While one person can pay, the settlement sanction letter must cover all co-borrowers to ensure the legal liability is extinguished for everyone." } },
                     { "@type": "Question", "name": "Does a joint loan settlement affect both CIBIL scores?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Since both borrowers are 100% liable, the 'Settled' status will appear on both individuals' credit reports." } },
@@ -57,7 +57,7 @@ export default function JointLoanSettlementPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers#service",
+                "@id": "https://www.settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers#service",
                 "name": "Joint Debt Resolution Service",
                 "description": "Specialized legal negotiation for shared debts, ensuring both co-borrowers are protected in the final settlement.",
                 "brand": { "@type": "Brand", "name": "SettleLoans" },

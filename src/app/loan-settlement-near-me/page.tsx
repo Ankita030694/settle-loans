@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Loan Settlement Near Me | Expert Debt Relief Services Across India",
     description: "Find the best loan settlement services near you. Expert legal help for personal loans, credit cards, and business debt resolution across all Indian states and cities.",
     alternates: {
-        canonical: "https://settleloans.in/loan-settlement-near-me",
+        canonical: "https://www.settleloans.in/loan-settlement-near-me",
     },
 };
 
@@ -16,39 +16,39 @@ export default function LoanSettlementNearMePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/loan-settlement-near-me#webpage",
-                "url": "https://settleloans.in/loan-settlement-near-me",
+                "@id": "https://www.settleloans.in/loan-settlement-near-me#webpage",
+                "url": "https://www.settleloans.in/loan-settlement-near-me",
                 "name": "Loan Settlement Near Me | Local Debt Relief Experts",
                 "description": "Localized guide to finding the best loan settlement services and legal help in your city.",
-                "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-near-me#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-near-me#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/loan-settlement-near-me#breadcrumb",
+                "@id": "https://www.settleloans.in/loan-settlement-near-me#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Loan Settlement Near Me", "item": "https://settleloans.in/loan-settlement-near-me" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Loan Settlement Near Me", "item": "https://www.settleloans.in/loan-settlement-near-me" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/loan-settlement-near-me#article",
+                "@id": "https://www.settleloans.in/loan-settlement-near-me#article",
                 "headline": "Loan Settlement Near Me: How to Find Reliable Debt Resolution in India",
                 "description": "Discover how to locate reputable loan settlement companies and lawyers near your location. A comprehensive guide to local debt relief laws and strategies.",
                 "author": { "@type": "Organization", "name": "SettleLoans Local Research Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-near-me#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-near-me#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/loan-settlement-near-me#product",
+                "@id": "https://www.settleloans.in/loan-settlement-near-me#product",
                 "name": "Localized Loan Settlement Advisory",
                 "description": "Professional debt resolution and legal protection services available across all major Indian cities.",
                 "aggregateRating": {
@@ -75,7 +75,7 @@ export default function LoanSettlementNearMePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/loan-settlement-near-me#faq",
+                "@id": "https://www.settleloans.in/loan-settlement-near-me#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

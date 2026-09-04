@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Best Lawyer for Loan Settlement During DRT | Expert OTS Negotiation",
     description: "Facing Debt Recovery Tribunal proceedings? Settle your bank loan during DRT. Specialized legal defense, OTS negotiation, and SARFAESI stay strategies for borrowers.",
     alternates: {
-        canonical: "https://settleloans.in/best-lawyer-for-loan-settlement-during-drt",
+        canonical: "https://www.settleloans.in/best-lawyer-for-loan-settlement-during-drt",
     },
 };
 
@@ -18,34 +18,34 @@ export default function LoanSettlementDRTPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-settlement-during-drt#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-loan-settlement-during-drt",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-settlement-during-drt#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-loan-settlement-during-drt",
                 "name": "Best Lawyer for Loan Settlement During DRT | Expert OTS Negotiation",
                 "description": "Navigate One-Time Settlements (OTS) while your case is pending in the Debt Recovery Tribunal.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-loan-settlement-during-drt#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-loan-settlement-during-drt#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-settlement-during-drt#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-settlement-during-drt#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Loan Settlement During DRT",
-                        "item": "https://settleloans.in/best-lawyer-for-loan-settlement-during-drt"
+                        "item": "https://www.settleloans.in/best-lawyer-for-loan-settlement-during-drt"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-settlement-during-drt#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-settlement-during-drt#article",
                 "headline": "Strategic Loan Settlement in the Debt Recovery Tribunal: From Litigation to Negotiation",
                 "description": "A comprehensive guide for borrowers on how to leverage DRT defense to secure favorable One-Time Settlements (OTS) and protect assets.",
                 "author": {
@@ -57,16 +57,16 @@ export default function LoanSettlementDRTPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-loan-settlement-during-drt#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-loan-settlement-during-drt#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-settlement-during-drt#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-settlement-during-drt#product",
                 "name": "DRT Settlement Legal Service",
                 "description": "Expert legal representation for negotiating settlements and defending cases in the Debt Recovery Tribunal.",
                 "aggregateRating": {
@@ -93,7 +93,7 @@ export default function LoanSettlementDRTPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-settlement-during-drt#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-settlement-during-drt#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

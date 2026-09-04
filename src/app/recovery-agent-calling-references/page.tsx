@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Recovery Agent Calling References | RBI Rules & Harassment Protection",
   description: "Learn your legal rights when recovery agents call your references, friends, or family. RBI guidelines strictly prohibit third-party contact. Get expert help to stop harassment and settle loans legally.",
   alternates: {
-    canonical: "https://settleloans.in/recovery-agent-calling-references",
+    canonical: "https://www.settleloans.in/recovery-agent-calling-references",
   },
 };
 
@@ -16,34 +16,34 @@ export default function RecoveryAgentCallingReferencesPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agent-calling-references#webpage",
-        "url": "https://settleloans.in/recovery-agent-calling-references",
+        "@id": "https://www.settleloans.in/recovery-agent-calling-references#webpage",
+        "url": "https://www.settleloans.in/recovery-agent-calling-references",
         "name": "Recovery Agent Calling References | RBI Rules & Harassment Protection",
         "description": "Comprehensive guide on borrower rights against illegal third-party contact by recovery agents in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/recovery-agent-calling-references#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/recovery-agent-calling-references#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/recovery-agent-calling-references#breadcrumb",
+        "@id": "https://www.settleloans.in/recovery-agent-calling-references#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Recovery Agent Calling References",
-            "item": "https://settleloans.in/recovery-agent-calling-references"
+            "item": "https://www.settleloans.in/recovery-agent-calling-references"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/recovery-agent-calling-references#article",
+        "@id": "https://www.settleloans.in/recovery-agent-calling-references#article",
         "headline": "Recovery Agent Calling References: RBI Rules and How to Stop Harassment",
         "description": "A deep dive into the legal protections for borrowers when recovery agents illegally contact references and third parties.",
         "author": {
@@ -55,16 +55,16 @@ export default function RecoveryAgentCallingReferencesPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/recovery-agent-calling-references#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/recovery-agent-calling-references#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/recovery-agent-calling-references#product",
+        "@id": "https://www.settleloans.in/recovery-agent-calling-references#product",
         "name": "Loan Recovery Protection Services",
         "description": "Legal assistance and negotiation services to protect borrowers from recovery agent harassment.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function RecoveryAgentCallingReferencesPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/recovery-agent-calling-references#faq",
+        "@id": "https://www.settleloans.in/recovery-agent-calling-references#faq",
         "mainEntity": [
           {
             "@type": "Question",

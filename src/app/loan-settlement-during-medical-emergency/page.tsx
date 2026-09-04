@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement During Medical Emergency | RBI Relief & Legal Rights",
   description: "Facing difficulties in repaying loans due to a medical crisis? Explore your legal rights, RBI guidelines, and how to settle loans during medical emergencies in India. Stop bank harassment now.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement-during-medical-emergency",
+    canonical: "https://www.settleloans.in/loan-settlement-during-medical-emergency",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LoanSettlementMedicalEmergencyPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-during-medical-emergency#webpage",
-        "url": "https://settleloans.in/loan-settlement-during-medical-emergency",
+        "@id": "https://www.settleloans.in/loan-settlement-during-medical-emergency#webpage",
+        "url": "https://www.settleloans.in/loan-settlement-during-medical-emergency",
         "name": "Loan Settlement During Medical Emergency: Your Complete Legal Guide",
         "description": "Comprehensive guide to navigating loan settlements during medical hardships in India, covering legal rights and RBI guidelines.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-during-medical-emergency#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-during-medical-emergency#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement-during-medical-emergency#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement-during-medical-emergency#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement During Medical Emergency",
-            "item": "https://settleloans.in/loan-settlement-during-medical-emergency"
+            "item": "https://www.settleloans.in/loan-settlement-during-medical-emergency"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement-during-medical-emergency#article",
+        "@id": "https://www.settleloans.in/loan-settlement-during-medical-emergency#article",
         "headline": "How to Handle Loan Settlement During a Medical Emergency in India",
         "description": "Discover the legal protections and financial strategies available to Indians struggle with loan EMIs during a health crisis.",
         "author": {
@@ -55,16 +55,16 @@ export default function LoanSettlementMedicalEmergencyPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-28",
         "dateModified": "2024-03-28",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-during-medical-emergency#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-during-medical-emergency#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement-during-medical-emergency#product",
+        "@id": "https://www.settleloans.in/loan-settlement-during-medical-emergency#product",
         "name": "Medical Hardship Loan Resolution Services",
         "description": "Professional assistance for settling bank and NBFC loans during genuine medical emergencies.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function LoanSettlementMedicalEmergencyPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement-during-medical-emergency#faq",
+        "@id": "https://www.settleloans.in/loan-settlement-during-medical-emergency#faq",
         "mainEntity": [
           {
             "@type": "Question",

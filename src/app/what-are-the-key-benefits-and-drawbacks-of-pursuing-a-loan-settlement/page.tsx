@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Key Benefits and Drawbacks of Pursuing a Loan Settlement in India (2026)",
   description: "Explore the comprehensive guide on the benefits and drawbacks of loan settlement in India. Understand the impact on CIBIL scores, legal protections, and the path to financial freedom.",
   alternates: {
-    canonical: "https://settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement",
+    canonical: "https://www.settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement#webpage",
-        "url": "https://settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement",
+        "@id": "https://www.settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement#webpage",
+        "url": "https://www.settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement",
         "name": "Key Benefits and Drawbacks of Pursuing a Loan Settlement in India (2026)",
         "description": "Comprehensive analysis of pros and cons of debt settlement in the Indian financial landscape.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement#breadcrumb",
+        "@id": "https://www.settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Key Benefits and Drawbacks of Pursuing a Loan Settlement",
-            "item": "https://settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement"
+            "item": "https://www.settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement#article",
+        "@id": "https://www.settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement#article",
         "headline": "What are the Key Benefits and Drawbacks of Pursuing a Loan Settlement?",
         "description": "An in-depth look at how loan settlement affects your financial future, including credit score impacts, legal rights, and debt reduction strategies.",
         "author": {
@@ -55,16 +55,16 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-03-18",
         "dateModified": "2026-03-18",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement#product",
+        "@id": "https://www.settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement#product",
         "name": "Loan Settlement Consultation",
         "description": "Expert legal and financial guidance for settling unsecured loans in India.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function LoanSettlementBenefitsDrawbacksPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement#faq",
+        "@id": "https://www.settleloans.in/what-are-the-key-benefits-and-drawbacks-of-pursuing-a-loan-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",

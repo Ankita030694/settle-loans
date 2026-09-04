@@ -47,16 +47,16 @@ export const metadata: Metadata = {
     'business loan settlement tamil nadu',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-coimbatore',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-coimbatore',
   },
   openGraph: {
     title: 'Loan Settlement Company in Coimbatore: Legal Debt Relief & OTS | SettleLoans',
     description: 'Specialized advocate-led debt settlement for borrowers in Coimbatore, Tirupur, and Salem managing unsecured personal, business, and credit card debts.',
-    url: 'https://settleloans.in/personal-loan-settlement-coimbatore',
+    url: 'https://www.settleloans.in/personal-loan-settlement-coimbatore',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-coimbatore.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-coimbatore.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Settlement in Coimbatore, Tirupur and Salem - Debt Relief Blueprint',
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement Company in Coimbatore: Advocate-Led Debt Relief in Tamil Nadu',
     description: 'Expert legal and financial advisory for personal loan, credit card, and MSME debt settlement across Coimbatore and Western Tamil Nadu.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-coimbatore.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-coimbatore.jpg'],
   },
 };
 
@@ -78,74 +78,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-coimbatore#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-coimbatore",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-coimbatore#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-coimbatore",
       "name": "Loan Settlement Company in Coimbatore: Legal Debt Relief & OTS | SettleLoans",
       "description": "Looking for a trusted loan settlement company in Coimbatore, Tirupur, or Salem? SettleLoans provides advocate-led debt relief, bank OTS negotiation, and RBI legal protection.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-coimbatore#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-coimbatore#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-coimbatore#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-coimbatore#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan Settlement Company in Coimbatore",
-          "item": "https://settleloans.in/personal-loan-settlement-coimbatore"
+          "item": "https://www.settleloans.in/personal-loan-settlement-coimbatore"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-coimbatore#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-coimbatore#article",
       "headline": "Loan Settlement Company in Coimbatore: Advocate-Led Debt Relief in Tamil Nadu",
       "description": "A strategic manual for personal loan borrowers, textile entrepreneurs, and professionals in Coimbatore, Tirupur, and Salem to negotiate structured OTS waivers, halt recovery harassment, and rebuild credit stability under RBI guidelines.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-coimbatore.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-coimbatore.jpg",
       "datePublished": "2026-09-01T10:00:00+05:30",
       "dateModified": "2026-09-01T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-coimbatore#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-coimbatore#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-coimbatore#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-coimbatore#service",
       "name": "SettleLoans - Loan Settlement Company in Coimbatore",
       "description": "Premier advocate-led loan settlement consultancy in Coimbatore, Tirupur, and Salem providing bank OTS negotiation, civil defense against recovery harassment, and legal debt compromise services.",
-      "url": "https://settleloans.in/personal-loan-settlement-coimbatore",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-coimbatore.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-coimbatore",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-coimbatore.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -158,9 +158,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -234,7 +234,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-coimbatore#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-coimbatore#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -312,12 +312,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

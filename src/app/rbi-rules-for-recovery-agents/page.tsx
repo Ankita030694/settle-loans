@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "RBI Rules for Recovery Agents 2026: Official Guidelines & Borrower Rights",
   description: "Comprehensive guide to RBI rules for recovery agents in 2026. Learn about 8 AM-7 PM timing, certification requirements, and how to stop illegal harassment today.",
   alternates: {
-    canonical: "https://settleloans.in/rbi-rules-for-recovery-agents",
+    canonical: "https://www.settleloans.in/rbi-rules-for-recovery-agents",
   },
 };
 
@@ -16,34 +16,34 @@ export default function RBIRulesPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/rbi-rules-for-recovery-agents#webpage",
-        "url": "https://settleloans.in/rbi-rules-for-recovery-agents",
+        "@id": "https://www.settleloans.in/rbi-rules-for-recovery-agents#webpage",
+        "url": "https://www.settleloans.in/rbi-rules-for-recovery-agents",
         "name": "RBI Rules for Recovery Agents 2026: Official Guidelines",
         "description": "Deep dive into the latest RBI regulations governing the conduct and practices of loan recovery agents in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/rbi-rules-for-recovery-agents#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/rbi-rules-for-recovery-agents#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/rbi-rules-for-recovery-agents#breadcrumb",
+        "@id": "https://www.settleloans.in/rbi-rules-for-recovery-agents#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "RBI Rules for Recovery Agents",
-            "item": "https://settleloans.in/rbi-rules-for-recovery-agents"
+            "item": "https://www.settleloans.in/rbi-rules-for-recovery-agents"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/rbi-rules-for-recovery-agents#article",
+        "@id": "https://www.settleloans.in/rbi-rules-for-recovery-agents#article",
         "headline": "RBI Rules for Recovery Agents: The Definitive 2026 Guide to Borrower Rights",
         "description": "Examine the latest RBI master circulars and 2026 amendments that protect borrowers from aggressive debt collection practices.",
         "author": {
@@ -55,16 +55,16 @@ export default function RBIRulesPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-22",
         "dateModified": "2024-03-22",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/rbi-rules-for-recovery-agents#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/rbi-rules-for-recovery-agents#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/rbi-rules-for-recovery-agents#product",
+        "@id": "https://www.settleloans.in/rbi-rules-for-recovery-agents#product",
         "name": "Debt Resolution & Protection Services",
         "description": "Strategic legal protection against illegal recovery practices and professional debt settlement negotiation.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function RBIRulesPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/rbi-rules-for-recovery-agents#faq",
+        "@id": "https://www.settleloans.in/rbi-rules-for-recovery-agents#faq",
         "mainEntity": [
           {
             "@type": "Question",

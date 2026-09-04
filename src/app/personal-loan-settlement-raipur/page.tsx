@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'ots scheme raipur chhattisgarh',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-raipur',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-raipur',
   },
   openGraph: {
     title: 'Debt Settlement Services in Raipur Chhattisgarh: Settle Personal & Business Loans (2026)',
     description: 'Comprehensive legal and financial guide for resolving delinquent personal loans, credit card balances, and business credit lines in Raipur, Bhilai, and Bilaspur under RBI compromise settlement frameworks.',
-    url: 'https://settleloans.in/personal-loan-settlement-raipur',
+    url: 'https://www.settleloans.in/personal-loan-settlement-raipur',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-raipur.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-raipur.jpg',
         width: 1200,
         height: 675,
         alt: 'Debt Settlement Services in Raipur Chhattisgarh - Legal Debt Defense & OTS Guide',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Debt Settlement Services in Raipur Chhattisgarh: Legal Loan Settlement Guide',
     description: 'Strategic legal defense against aggressive recovery agents, Section 138 NI Act notices, and Lok Adalat compromise settlements for Raipur, Bhilai, and Bilaspur borrowers.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-raipur.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-raipur.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-raipur#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-raipur",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-raipur#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-raipur",
       "name": "Debt Settlement Services in Raipur Chhattisgarh: Settle Personal & Business Loans (2026)",
       "description": "Overdue loans in Raipur, Bhilai or Bilaspur? Consult top debt settlement services in Raipur Chhattisgarh to halt recovery harassment, defend Section 138/25 PSSA notices in District Court, represent at DLSA Lok Adalat, and negotiate 45%–65% RBI OTS debt waivers.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-raipur#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-raipur#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-raipur#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-raipur#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Debt Settlement Services Raipur",
-          "item": "https://settleloans.in/personal-loan-settlement-raipur"
+          "item": "https://www.settleloans.in/personal-loan-settlement-raipur"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-raipur#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-raipur#article",
       "headline": "Debt Settlement Services in Raipur Chhattisgarh: Legal Protection, Lok Adalat Representation & RBI OTS Debt Relief",
       "description": "A comprehensive regulatory, civil, and financial roadmap for salaried professionals, wholesale merchants, and MSME industrial manufacturers navigating unsecured debt settlement in Raipur, Bhilai, and Chhattisgarh. Covers RBI compromise settlement circulars, District Court JMFC defenses, DLSA Lok Adalat awards, and 45%–65% principal haircuts.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-raipur.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-raipur.jpg",
       "datePublished": "2026-09-01T10:00:00+05:30",
       "dateModified": "2026-09-01T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-raipur#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-raipur#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-raipur#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-raipur#service",
       "name": "SettleLoans - Debt Settlement Services in Raipur Chhattisgarh",
       "description": "Specialized legal debt defense and financial settlement advisory for salaried executives, wholesale traders, MSME manufacturing unit owners, and retail borrowers dealing with personal loan, credit card, and business credit default in Raipur, Bhilai, and Bilaspur.",
-      "url": "https://settleloans.in/personal-loan-settlement-raipur",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-raipur.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-raipur",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-raipur.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-raipur#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-raipur#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -321,12 +321,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

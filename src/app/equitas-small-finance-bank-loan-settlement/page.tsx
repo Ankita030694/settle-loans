@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'equitas small finance bank arbitration notice defense'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/equitas-small-finance-bank-loan-settlement',
+    canonical: 'https://www.settleloans.in/equitas-small-finance-bank-loan-settlement',
   },
   openGraph: {
     title: 'Equitas Small Finance Bank Loan Settlement: Process, OTS Rules & Haircut (2026)',
     description: 'Learn how to settle an Equitas Small Finance Bank personal or micro-business loan. Master NPA provisioning mechanics, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies under RBI compromise rules.',
-    url: 'https://settleloans.in/equitas-small-finance-bank-loan-settlement',
+    url: 'https://www.settleloans.in/equitas-small-finance-bank-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/equitas-small-finance-bank-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/equitas-small-finance-bank-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Equitas Small Finance Bank Loan Settlement Process and OTS Haircut Guide',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Equitas Small Finance Bank Loan Settlement: Process & Legal OTS Haircut',
     description: 'Technical and legal manual for settling defaulted Equitas Small Finance Bank personal loans and micro-business credit under RBI Compromise Settlement frameworks.',
-    images: ['https://settleloans.in/images/infographics/equitas-small-finance-bank-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/equitas-small-finance-bank-loan-settlement.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/equitas-small-finance-bank-loan-settlement#webpage",
-      "url": "https://settleloans.in/equitas-small-finance-bank-loan-settlement",
+      "@id": "https://www.settleloans.in/equitas-small-finance-bank-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/equitas-small-finance-bank-loan-settlement",
       "name": "Equitas Small Finance Bank Loan Settlement: Process, OTS Rules & Haircut (2026)",
       "description": "Exhaustive legal guide to Equitas Small Finance Bank loan settlement. Settle unsecured personal and micro-business loans, stop NACH bounce charges, halt recovery agent harassment, defend Section 25 PSSA notices, and negotiate up to 60% OTS haircut under RBI guidelines.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/equitas-small-finance-bank-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/equitas-small-finance-bank-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/equitas-small-finance-bank-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/equitas-small-finance-bank-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Equitas Small Finance Bank Loan Settlement",
-          "item": "https://settleloans.in/equitas-small-finance-bank-loan-settlement"
+          "item": "https://www.settleloans.in/equitas-small-finance-bank-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/equitas-small-finance-bank-loan-settlement#article",
+      "@id": "https://www.settleloans.in/equitas-small-finance-bank-loan-settlement#article",
       "headline": "Equitas Small Finance Bank Loan Settlement: Process, OTS Rules & Haircut Guide",
       "description": "An in-depth legal and financial manual on negotiating One-Time Settlements (OTS) with Equitas Small Finance Bank, navigating NPA provisioning, eliminating predatory bounce penalties, defending statutory notices, and securing an authentic ₹0 No Dues Certificate.",
-      "image": "https://settleloans.in/images/infographics/equitas-small-finance-bank-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/equitas-small-finance-bank-loan-settlement.jpg",
       "datePublished": "2026-09-03T10:00:00+05:30",
       "dateModified": "2026-09-03T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/equitas-small-finance-bank-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/equitas-small-finance-bank-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/equitas-small-finance-bank-loan-settlement#service",
+      "@id": "https://www.settleloans.in/equitas-small-finance-bank-loan-settlement#service",
       "name": "SettleLoans - Equitas Small Finance Bank Loan Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted Equitas Small Finance Bank unsecured personal loans, micro-business loans (MBL), and commercial lines under RBI compromise frameworks with maximum debt waivers and complete harassment protection.",
-      "url": "https://settleloans.in/equitas-small-finance-bank-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/equitas-small-finance-bank-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/equitas-small-finance-bank-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/equitas-small-finance-bank-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/equitas-small-finance-bank-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/equitas-small-finance-bank-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -321,12 +321,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

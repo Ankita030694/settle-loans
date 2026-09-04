@@ -48,17 +48,17 @@ export const metadata: Metadata = {
     'rbl bank nodal officer escalation',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/rbl-bank-credit-card-loan-settlement',
+    canonical: 'https://www.settleloans.in/rbl-bank-credit-card-loan-settlement',
   },
   openGraph: {
     title: 'RBL Bank Credit Card Settlement: High-Risk Debt, Co-Branded Cards & OTS Guide (2026)',
     description:
       'Learn how to settle defaulted RBL Bank credit cards and co-branded Bajaj Finserv SuperCards. Understand revolving interest spirals, NPA provisioning rules, recovery agent defense, and RBI compromise settlement frameworks.',
-    url: 'https://settleloans.in/rbl-bank-credit-card-loan-settlement',
+    url: 'https://www.settleloans.in/rbl-bank-credit-card-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/rbl-bank-credit-card-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/rbl-bank-credit-card-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'RBL Bank Credit Card Settlement Process and OTS Debt Relief Blueprint',
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     title: 'RBL Bank Credit Card Settlement: High-Risk Debt, Co-Branded Cards & OTS Guide',
     description:
       'Technical and legal manual for settling defaulted RBL Bank credit cards and Bajaj SuperCards under RBI Compromise Settlement frameworks.',
-    images: ['https://settleloans.in/images/infographics/rbl-bank-credit-card-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/rbl-bank-credit-card-loan-settlement.jpg'],
   },
 };
 
@@ -81,77 +81,77 @@ const jsonLdGraph = {
   '@graph': [
     {
       '@type': 'WebPage',
-      '@id': 'https://settleloans.in/rbl-bank-credit-card-loan-settlement#webpage',
-      url: 'https://settleloans.in/rbl-bank-credit-card-loan-settlement',
+      '@id': 'https://www.settleloans.in/rbl-bank-credit-card-loan-settlement#webpage',
+      url: 'https://www.settleloans.in/rbl-bank-credit-card-loan-settlement',
       name: 'RBL Bank Credit Card Settlement: High-Risk Debt, Co-Branded Cards & OTS Guide (2026)',
       description:
         'Exhaustive guide to RBL Bank credit card settlement. Understand Bajaj SuperCard, Zomato & BookMyShow card debt traps, 48% APR compounding, NPA provisioning, and how to negotiate up to 65% OTS waivers under RBI rules.',
       breadcrumb: {
-        '@id': 'https://settleloans.in/rbl-bank-credit-card-loan-settlement#breadcrumb',
+        '@id': 'https://www.settleloans.in/rbl-bank-credit-card-loan-settlement#breadcrumb',
       },
       inLanguage: 'en-IN',
       isPartOf: {
         '@type': 'WebSite',
-        '@id': 'https://settleloans.in/#website',
+        '@id': 'https://www.settleloans.in/#website',
         name: 'SettleLoans',
-        url: 'https://settleloans.in',
+        url: 'https://www.settleloans.in',
       },
     },
     {
       '@type': 'BreadcrumbList',
-      '@id': 'https://settleloans.in/rbl-bank-credit-card-loan-settlement#breadcrumb',
+      '@id': 'https://www.settleloans.in/rbl-bank-credit-card-loan-settlement#breadcrumb',
       itemListElement: [
         {
           '@type': 'ListItem',
           position: 1,
           name: 'Home',
-          item: 'https://settleloans.in',
+          item: 'https://www.settleloans.in',
         },
         {
           '@type': 'ListItem',
           position: 2,
           name: 'RBL Bank Credit Card Settlement',
-          item: 'https://settleloans.in/rbl-bank-credit-card-loan-settlement',
+          item: 'https://www.settleloans.in/rbl-bank-credit-card-loan-settlement',
         },
       ],
     },
     {
       '@type': 'Article',
-      '@id': 'https://settleloans.in/rbl-bank-credit-card-loan-settlement#article',
+      '@id': 'https://www.settleloans.in/rbl-bank-credit-card-loan-settlement#article',
       headline: 'RBL Bank Credit Card Settlement: High-Risk Debt, Co-Branded Cards & OTS Haircut Guide',
       description:
         'A comprehensive strategic manual on resolving high-risk RBL Bank credit card debt and co-branded card defaults (Bajaj Finserv SuperCard, BookMyShow Play, Zomato Edition) through formal One-Time Settlement (OTS) and RBI compromise guidelines.',
-      image: 'https://settleloans.in/images/infographics/rbl-bank-credit-card-loan-settlement.jpg',
+      image: 'https://www.settleloans.in/images/infographics/rbl-bank-credit-card-loan-settlement.jpg',
       datePublished: '2026-08-24T12:00:00+05:30',
       dateModified: '2026-08-24T12:00:00+05:30',
       mainEntityOfPage: {
         '@type': 'WebPage',
-        '@id': 'https://settleloans.in/rbl-bank-credit-card-loan-settlement#webpage',
+        '@id': 'https://www.settleloans.in/rbl-bank-credit-card-loan-settlement#webpage',
       },
       author: {
         '@type': 'Person',
         name: 'Ashish Jhangra',
-        url: 'https://settleloans.in/authors/ashish-jhangra',
+        url: 'https://www.settleloans.in/authors/ashish-jhangra',
       },
       publisher: {
         '@type': 'Organization',
-        '@id': 'https://settleloans.in/#organization',
+        '@id': 'https://www.settleloans.in/#organization',
         name: 'SettleLoans',
-        url: 'https://settleloans.in',
+        url: 'https://www.settleloans.in',
         logo: {
           '@type': 'ImageObject',
-          url: 'https://settleloans.in/logo/logo.svg',
+          url: 'https://www.settleloans.in/logo/logo.svg',
         },
       },
     },
     {
       '@type': 'FinancialService',
-      '@id': 'https://settleloans.in/rbl-bank-credit-card-loan-settlement#service',
+      '@id': 'https://www.settleloans.in/rbl-bank-credit-card-loan-settlement#service',
       name: 'SettleLoans - RBL Bank Credit Card Settlement & Legal Representation',
       description:
         'Specialized legal and financial negotiation advisory for settling defaulted RBL Bank credit cards, co-branded Bajaj Finserv SuperCards, and retail revolving debt under RBI compromise settlement frameworks.',
-      url: 'https://settleloans.in/rbl-bank-credit-card-loan-settlement',
-      image: 'https://settleloans.in/images/infographics/rbl-bank-credit-card-loan-settlement.jpg',
+      url: 'https://www.settleloans.in/rbl-bank-credit-card-loan-settlement',
+      image: 'https://www.settleloans.in/images/infographics/rbl-bank-credit-card-loan-settlement.jpg',
       telephone: '+91-99999-99999',
       priceRange: '₹₹',
       address: {
@@ -164,9 +164,9 @@ const jsonLdGraph = {
       },
       provider: {
         '@type': 'Organization',
-        '@id': 'https://settleloans.in/#organization',
+        '@id': 'https://www.settleloans.in/#organization',
         name: 'SettleLoans',
-        url: 'https://settleloans.in',
+        url: 'https://www.settleloans.in',
       },
       aggregateRating: {
         '@type': 'AggregateRating',
@@ -244,7 +244,7 @@ const jsonLdGraph = {
     },
     {
       '@type': 'FAQPage',
-      '@id': 'https://settleloans.in/rbl-bank-credit-card-loan-settlement#faq',
+      '@id': 'https://www.settleloans.in/rbl-bank-credit-card-loan-settlement#faq',
       mainEntity: [
         {
           '@type': 'Question',
@@ -322,12 +322,12 @@ const jsonLdGraph = {
     },
     {
       '@type': 'Organization',
-      '@id': 'https://settleloans.in/#organization',
+      '@id': 'https://www.settleloans.in/#organization',
       name: 'SettleLoans',
-      url: 'https://settleloans.in',
+      url: 'https://www.settleloans.in',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://settleloans.in/logo/logo.svg',
+        url: 'https://www.settleloans.in/logo/logo.svg',
       },
       sameAs: [
         'https://www.linkedin.com/company/settleloans',

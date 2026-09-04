@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Best Vehicle Loan Settlement Guide India | Car & Bike Loan Relief",
   description: "Learn how to get the best settlement deal on a vehicle loan in India using online services. Expert guide on car loan settlement process, negotiation tactics, and avoiding repossession.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services",
+    canonical: "https://www.settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services",
   },
 };
 
@@ -16,34 +16,34 @@ export default function VehicleLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#webpage",
-        "url": "https://settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services",
+        "@id": "https://www.settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#webpage",
+        "url": "https://www.settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services",
         "name": "How to Get the Best Settlement Deal on a Vehicle Loan Using Online Services",
         "description": "Comprehensive guide to vehicle loan settlement in India, focusing on online negotiation services and legal protections.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Vehicle Loan Settlement",
-            "item": "https://settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services"
+            "item": "https://www.settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#article",
+        "@id": "https://www.settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#article",
         "headline": "How to Get the Best Settlement Deal on a Vehicle Loan Using Online Services in India",
         "description": "Discover the step by step process to settle your car or bike loan in India. Minimize debt, avoid repossession, and restore your financial stability.",
         "author": {
@@ -55,22 +55,22 @@ export default function VehicleLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-19",
         "dateModified": "2024-03-19",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#product",
+        "@id": "https://www.settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#product",
         "name": "Vehicle Loan Settlement Consultation",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "areaServed": "India",
         "hasOfferCatalog": {
           "@type": "OfferCatalog",
@@ -118,7 +118,7 @@ export default function VehicleLoanSettlementPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#faq",
+        "@id": "https://www.settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services#faq",
         "mainEntity": [
           {
             "@type": "Question",

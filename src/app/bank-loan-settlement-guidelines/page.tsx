@@ -10,22 +10,22 @@ export default function BankLoanSettlementGuidelinesPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/bank-loan-settlement-guidelines#article",
+                "@id": "https://www.settleloans.in/bank-loan-settlement-guidelines#article",
                 "headline": "Comprehensive Bank Loan Settlement Guidelines: RBI Rules, Process, and CIBIL Impact",
                 "description": "Understand the latest bank loan settlement rules in India. Learn about RBI guidelines, One-Time Settlement (OTS) processes, and how to settle your debt while protecting your rights.",
-                "image": "https://settleloans.in/images/bank-loan-settlement-guidelines.jpg",
+                "image": "https://www.settleloans.in/images/bank-loan-settlement-guidelines.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-05-07",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/bank-loan-settlement-guidelines" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/bank-loan-settlement-guidelines" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/bank-loan-settlement-guidelines#product",
+                "@id": "https://www.settleloans.in/bank-loan-settlement-guidelines#product",
                 "name": "Bank Loan Settlement Advisory Service",
                 "description": "Professional assistance in negotiating with banks for loan settlement and debt resolution.",
                 "aggregateRating": {
@@ -159,9 +159,9 @@ export default function BankLoanSettlementGuidelinesPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Guidelines", "item": "https://settleloans.in/guidelines" },
-                    { "@type": "ListItem", "position": 3, "name": "Bank Loan Settlement", "item": "https://settleloans.in/bank-loan-settlement-guidelines" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Guidelines", "item": "https://www.settleloans.in/guidelines" },
+                    { "@type": "ListItem", "position": 3, "name": "Bank Loan Settlement", "item": "https://www.settleloans.in/bank-loan-settlement-guidelines" }
                 ]
             }
         ]

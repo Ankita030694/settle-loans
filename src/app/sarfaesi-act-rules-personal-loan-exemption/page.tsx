@@ -53,16 +53,16 @@ export const metadata: Metadata = {
     'settle personal loan after default'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/sarfaesi-act-rules-personal-loan-exemption',
+    canonical: 'https://www.settleloans.in/sarfaesi-act-rules-personal-loan-exemption',
   },
   openGraph: {
     title: 'Does SARFAESI Act Apply to Personal Loans? Legal Rules & Exemption Breakdown',
     description: 'Explore the absolute legal protections for personal loan borrowers under the SARFAESI Act. Learn why Section 13(2) cannot attach unencumbered residential property and how to stop illegal recovery harassment.',
-    url: 'https://settleloans.in/sarfaesi-act-rules-personal-loan-exemption',
+    url: 'https://www.settleloans.in/sarfaesi-act-rules-personal-loan-exemption',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/sarfaesi-act-rules-personal-loan-exemption.jpg',
+        url: 'https://www.settleloans.in/images/infographics/sarfaesi-act-rules-personal-loan-exemption.jpg',
         width: 1200,
         height: 675,
         alt: 'SARFAESI Act Rules and Personal Loan Exemption Infographic Guide',
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Does SARFAESI Act Apply to Personal Loans? Legal Protections & OTS Reality',
     description: 'Received a SARFAESI Section 13(2) threat for an unsecured personal loan? Discover your statutory rights, civil exemptions under Section 60 CPC, and proven debt settlement strategies.',
-    images: ['https://settleloans.in/images/infographics/sarfaesi-act-rules-personal-loan-exemption.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/sarfaesi-act-rules-personal-loan-exemption.jpg'],
   },
 };
 
@@ -84,74 +84,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/sarfaesi-act-rules-personal-loan-exemption#webpage",
-      "url": "https://settleloans.in/sarfaesi-act-rules-personal-loan-exemption",
+      "@id": "https://www.settleloans.in/sarfaesi-act-rules-personal-loan-exemption#webpage",
+      "url": "https://www.settleloans.in/sarfaesi-act-rules-personal-loan-exemption",
       "name": "Does SARFAESI Act Apply to Personal Loans? Rules, Exemption & Legal Rights (2026)",
       "description": "Comprehensive legal and statutory guide explaining why the SARFAESI Act does not apply to unsecured personal loans, credit card balances, or collateral-free debts in India.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/sarfaesi-act-rules-personal-loan-exemption#breadcrumb"
+        "@id": "https://www.settleloans.in/sarfaesi-act-rules-personal-loan-exemption#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/sarfaesi-act-rules-personal-loan-exemption#breadcrumb",
+      "@id": "https://www.settleloans.in/sarfaesi-act-rules-personal-loan-exemption#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "SARFAESI Act Personal Loan Exemption",
-          "item": "https://settleloans.in/sarfaesi-act-rules-personal-loan-exemption"
+          "item": "https://www.settleloans.in/sarfaesi-act-rules-personal-loan-exemption"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/sarfaesi-act-rules-personal-loan-exemption#article",
+      "@id": "https://www.settleloans.in/sarfaesi-act-rules-personal-loan-exemption#article",
       "headline": "Does SARFAESI Act Apply to Personal Loans? Section 13(2) Rules, Home Seizure Reality & Unsecured Debt Rights",
       "description": "An exhaustive statutory analysis proving why the SARFAESI Act of 2002 applies strictly to secured assets and registered mortgages, rendering recovery agent Section 13(2) home eviction threats against unsecured personal loan borrowers completely illegal.",
-      "image": "https://settleloans.in/images/infographics/sarfaesi-act-rules-personal-loan-exemption.jpg",
+      "image": "https://www.settleloans.in/images/infographics/sarfaesi-act-rules-personal-loan-exemption.jpg",
       "datePublished": "2026-08-26T12:00:00+05:30",
       "dateModified": "2026-08-26T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/sarfaesi-act-rules-personal-loan-exemption#webpage"
+        "@id": "https://www.settleloans.in/sarfaesi-act-rules-personal-loan-exemption#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/sarfaesi-act-rules-personal-loan-exemption#service",
+      "@id": "https://www.settleloans.in/sarfaesi-act-rules-personal-loan-exemption#service",
       "name": "SettleLoans - Debt Defense & SARFAESI Legal Advisory",
       "description": "Professional debt resolution, banking dispute advocacy, and legal protection services for borrowers facing illegal recovery threats, fake SARFAESI notices, and unmanageable unsecured loan defaults.",
-      "url": "https://settleloans.in/sarfaesi-act-rules-personal-loan-exemption",
-      "image": "https://settleloans.in/images/infographics/sarfaesi-act-rules-personal-loan-exemption.jpg",
+      "url": "https://www.settleloans.in/sarfaesi-act-rules-personal-loan-exemption",
+      "image": "https://www.settleloans.in/images/infographics/sarfaesi-act-rules-personal-loan-exemption.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -164,9 +164,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -240,7 +240,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/sarfaesi-act-rules-personal-loan-exemption#faq",
+      "@id": "https://www.settleloans.in/sarfaesi-act-rules-personal-loan-exemption#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -326,12 +326,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

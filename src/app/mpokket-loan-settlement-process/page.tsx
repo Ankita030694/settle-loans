@@ -46,16 +46,16 @@ export const metadata: Metadata = {
     'small ticket app loan settlement india',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/mpokket-loan-settlement-process',
+    canonical: 'https://www.settleloans.in/mpokket-loan-settlement-process',
   },
   openGraph: {
     title: 'mPokket Loan Settlement Process: OTS Rules, Harassment Defense & Haircut (2026)',
     description: 'Struggling with defaulted mPokket pocket loans? Learn how to halt recovery calls to friends and family, revoke app permissions, defend against WhatsApp legal notices, and negotiate a 40%–60% OTS discount with Maybright Ventures NBFC.',
-    url: 'https://settleloans.in/mpokket-loan-settlement-process',
+    url: 'https://www.settleloans.in/mpokket-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/mpokket-loan-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/mpokket-loan-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'mPokket Loan Settlement Process, Maybright NBFC Resolution, and Anti-Harassment Defense Guide',
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'mPokket Loan Settlement Process: OTS Rules, Legal Defense & Haircut',
     description: 'Technical and legal manual for settling defaulted mPokket personal loans, stopping contact-list harassment, and securing a zero-balance closure certificate under RBI directives.',
-    images: ['https://settleloans.in/images/infographics/mpokket-loan-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/mpokket-loan-settlement-process.jpg'],
   },
 };
 
@@ -77,74 +77,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/mpokket-loan-settlement-process#webpage",
-      "url": "https://settleloans.in/mpokket-loan-settlement-process",
+      "@id": "https://www.settleloans.in/mpokket-loan-settlement-process#webpage",
+      "url": "https://www.settleloans.in/mpokket-loan-settlement-process",
       "name": "mPokket Loan Settlement Process: OTS Rules, Harassment Defense & Haircut (2026)",
       "description": "Step-by-step legal guide to mPokket and Maybright Ventures loan settlement for college students and young professionals. Halt third-party tele-calling, stop reference harassment, cancel e-NACH debits, and secure a 40% to 60% OTS debt haircut with an official RBI-compliant No Dues Certificate.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/mpokket-loan-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/mpokket-loan-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/mpokket-loan-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/mpokket-loan-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "mPokket Loan Settlement Process",
-          "item": "https://settleloans.in/mpokket-loan-settlement-process"
+          "item": "https://www.settleloans.in/mpokket-loan-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/mpokket-loan-settlement-process#article",
+      "@id": "https://www.settleloans.in/mpokket-loan-settlement-process#article",
       "headline": "mPokket Loan Settlement Process: OTS Rules, Anti-Harassment Defense & Haircut Guide (2026)",
       "description": "An in-depth legal and practical manual on settling defaulted mPokket micro-loans, neutralizing automated tele-caller intimidation and family contact threats, revoking e-mandates, and executing a formal RBI-compliant One-Time Settlement with Maybright Ventures NBFC.",
-      "image": "https://settleloans.in/images/infographics/mpokket-loan-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/mpokket-loan-settlement-process.jpg",
       "datePublished": "2026-08-26T12:00:00+05:30",
       "dateModified": "2026-08-26T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/mpokket-loan-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/mpokket-loan-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/mpokket-loan-settlement-process#service",
+      "@id": "https://www.settleloans.in/mpokket-loan-settlement-process#service",
       "name": "SettleLoans - mPokket Loan Settlement & Legal Debt Advisory",
       "description": "Dedicated legal advocacy and debt settlement representation for college students, fresh graduates, and young professionals facing defaulted mPokket loans. Anti-harassment defense, penalty waiver negotiation, and structured One-Time Settlement execution with Maybright Ventures Private Limited.",
-      "url": "https://settleloans.in/mpokket-loan-settlement-process",
-      "image": "https://settleloans.in/images/infographics/mpokket-loan-settlement-process.jpg",
+      "url": "https://www.settleloans.in/mpokket-loan-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/mpokket-loan-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -157,9 +157,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -233,7 +233,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/mpokket-loan-settlement-process#faq",
+      "@id": "https://www.settleloans.in/mpokket-loan-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -319,12 +319,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

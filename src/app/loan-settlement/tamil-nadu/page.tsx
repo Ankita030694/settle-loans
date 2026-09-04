@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Legal Loan Settlement Services in Tamil Nadu | 40-70% Waiver",
   description: "Struggling with debt in Chennai or Tamil Nadu? Get expert legal representation for loan settlement. Tamil Nadu Money-Lenders Act protection & Coercive Action prevention. Settle credit cards & personal loans with 70% waiver.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/tamil-nadu",
+    canonical: "https://www.settleloans.in/loan-settlement/tamil-nadu",
   },
 };
 
@@ -16,47 +16,47 @@ export default function TamilNaduLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/tamil-nadu#webpage",
-        "url": "https://settleloans.in/loan-settlement/tamil-nadu",
+        "@id": "https://www.settleloans.in/loan-settlement/tamil-nadu#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/tamil-nadu",
         "name": "Professional Loan Settlement Services in Tamil Nadu | 40-70% Debt Waiver - SettleLoans",
         "description": "Struggling with debt in Chennai or Tamil Nadu? Get expert legal representation for loan settlement. Tamil Nadu Money-Lenders Act protection & Coercive Action prevention. Settle credit cards & personal loans with 70% waiver.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/tamil-nadu#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/tamil-nadu#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/tamil-nadu#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/tamil-nadu#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/tamil-nadu#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/tamil-nadu#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Tamil Nadu",
-            "item": "https://settleloans.in/loan-settlement/tamil-nadu"
+            "item": "https://www.settleloans.in/loan-settlement/tamil-nadu"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/tamil-nadu#service",
+        "@id": "https://www.settleloans.in/loan-settlement/tamil-nadu#service",
         "name": "Tamil Nadu Loan Settlement Services",
         "description": "Professional debt negotiation and legal protection services for personal loans and credit cards in Chennai, Coimbatore, and across Tamil Nadu.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Chennai" },
@@ -90,7 +90,7 @@ export default function TamilNaduLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/tamil-nadu#article",
+        "@id": "https://www.settleloans.in/loan-settlement/tamil-nadu#article",
         "headline": "Strategic Loan Settlement Guide for Tamil Nadu Borrowers",
         "description": "A comprehensive analysis of loan settlement laws, procedures, and legal help available in Tamil Nadu, including the Tamil Nadu Money-Lenders Act and Lok Adalats.",
         "author": {
@@ -102,16 +102,16 @@ export default function TamilNaduLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-02",
         "dateModified": "2024-02-02",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/tamil-nadu#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/tamil-nadu#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/tamil-nadu#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/tamil-nadu#faq",
         "mainEntity": [
           {
             "@type": "Question",

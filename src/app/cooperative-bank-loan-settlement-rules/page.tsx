@@ -50,16 +50,16 @@ export const metadata: Metadata = {
     'cooperative bank no dues certificate CIBIL update'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/cooperative-bank-loan-settlement-rules',
+    canonical: 'https://www.settleloans.in/cooperative-bank-loan-settlement-rules',
   },
   openGraph: {
     title: 'Cooperative Bank Loan Settlement Rules: UCB & DCCB OTS Process Guide',
     description: 'A comprehensive regulatory and legal roadmap to settle defaulted loans in Urban Co-operative Banks and District Central Co-operative Banks. Understand dual RBI-Registrar oversight, Section 101 defense, Board OTS approvals, and securing a zero-balance No Dues Certificate.',
-    url: 'https://settleloans.in/cooperative-bank-loan-settlement-rules',
+    url: 'https://www.settleloans.in/cooperative-bank-loan-settlement-rules',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/cooperative-bank-loan-settlement-rules.jpg',
+        url: 'https://www.settleloans.in/images/infographics/cooperative-bank-loan-settlement-rules.jpg',
         width: 1200,
         height: 675,
         alt: 'Cooperative Bank Loan Settlement Process & Legal Resolution Guide',
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Cooperative Bank Loan Settlement Rules 2026: UCB & DCCB OTS Guide',
     description: 'Facing Section 101 recovery notices or mounting penal interest from a cooperative bank? Learn how advocate-led OTS negotiations with the Board of Directors can secure a 40%–60% settlement.',
-    images: ['https://settleloans.in/images/infographics/cooperative-bank-loan-settlement-rules.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/cooperative-bank-loan-settlement-rules.jpg'],
   },
 };
 
@@ -81,73 +81,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/cooperative-bank-loan-settlement-rules#webpage",
-      "url": "https://settleloans.in/cooperative-bank-loan-settlement-rules",
+      "@id": "https://www.settleloans.in/cooperative-bank-loan-settlement-rules#webpage",
+      "url": "https://www.settleloans.in/cooperative-bank-loan-settlement-rules",
       "name": "Cooperative Bank Loan Settlement Rules 2026: UCB & DCCB OTS Process Guide",
       "description": "Master the cooperative bank loan settlement process in India. Learn how One-Time Settlement (OTS) works in Urban Co-operative Banks (UCBs) & DCCBs under State Cooperative Societies Acts, Registrar Section 101 notices, Board approvals, RBI compromise guidelines, and credit bureau ₹0 NDC restoration.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/cooperative-bank-loan-settlement-rules#breadcrumb"
+        "@id": "https://www.settleloans.in/cooperative-bank-loan-settlement-rules#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/cooperative-bank-loan-settlement-rules#breadcrumb",
+      "@id": "https://www.settleloans.in/cooperative-bank-loan-settlement-rules#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Cooperative Bank Loan Settlement Rules",
-          "item": "https://settleloans.in/cooperative-bank-loan-settlement-rules"
+          "item": "https://www.settleloans.in/cooperative-bank-loan-settlement-rules"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/cooperative-bank-loan-settlement-rules#article",
+      "@id": "https://www.settleloans.in/cooperative-bank-loan-settlement-rules#article",
       "headline": "Cooperative Bank Loan Settlement Rules: How One-Time Settlement Works in UCBs and DCCBs",
       "description": "An exhaustive statutory and financial analysis of loan settlement procedures in Indian Urban Co-operative Banks and District Central Co-operative Banks. Explains the dual regulatory jurisdiction of RBI and the Registrar of Co-operative Societies, Section 101 recovery certificates, Board of Directors compromise resolutions, and Net Present Value debt haircut calculations.",
-      "image": "https://settleloans.in/images/infographics/cooperative-bank-loan-settlement-rules.jpg",
+      "image": "https://www.settleloans.in/images/infographics/cooperative-bank-loan-settlement-rules.jpg",
       "datePublished": "2026-08-26T10:00:00+05:30",
       "dateModified": "2026-08-26T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/cooperative-bank-loan-settlement-rules#webpage"
+        "@id": "https://www.settleloans.in/cooperative-bank-loan-settlement-rules#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo/logo.svg",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo/logo.svg",
       "sameAs": [
         "https://www.facebook.com/settleloans",
         "https://www.linkedin.com/company/settleloans",
@@ -163,11 +163,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/cooperative-bank-loan-settlement-rules#service",
+      "@id": "https://www.settleloans.in/cooperative-bank-loan-settlement-rules#service",
       "name": "SettleLoans - Cooperative Bank Loan Settlement & Dispute Advisory",
       "description": "Specialized legal representation and debt resolution advisory for borrowers managing delinquent loans, Section 101 recovery certificates, and Board OTS negotiations across Urban Co-operative Banks and District Central Co-operative Banks in India.",
-      "url": "https://settleloans.in/cooperative-bank-loan-settlement-rules",
-      "image": "https://settleloans.in/images/infographics/cooperative-bank-loan-settlement-rules.jpg",
+      "url": "https://www.settleloans.in/cooperative-bank-loan-settlement-rules",
+      "image": "https://www.settleloans.in/images/infographics/cooperative-bank-loan-settlement-rules.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -180,9 +180,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -256,7 +256,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/cooperative-bank-loan-settlement-rules#faq",
+      "@id": "https://www.settleloans.in/cooperative-bank-loan-settlement-rules#faq",
       "mainEntity": [
         {
           "@type": "Question",

@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 export const metadata: Metadata = {
   title: 'Bajaj Finance Flexi Loan Overdue: Action Plan',
   description: 'Trapped in a Bajaj Flexi Loan overdue cycle? Learn about flexi loan default consequences, overdue charges, the recovery process, and how to negotiate a settlement.',
-  alternates: { canonical: 'https://settleloans.in/bajaj-finance-flexi-loan-overdue' },
+  alternates: { canonical: 'https://www.settleloans.in/bajaj-finance-flexi-loan-overdue' },
 };
 
 export default function Page() {
@@ -28,7 +28,7 @@ export default function Page() {
       "@type": "WebPage",
       "name": "Bajaj Finance Flexi Loan Overdue: Action Plan",
       "description": "Are you trapped in a Bajaj Flexi Loan overdue cycle with compounding interest? Learn how to break the cycle and negotiate a settlement.",
-      "url": "https://settleloans.in/bajaj-finance-flexi-loan-overdue"
+      "url": "https://www.settleloans.in/bajaj-finance-flexi-loan-overdue"
     },
     {
       "@context": "https://schema.org",
@@ -38,13 +38,13 @@ export default function Page() {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in/"
+          "item": "https://www.settleloans.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Bajaj Finance Flexi Loan Overdue",
-          "item": "https://settleloans.in/bajaj-finance-flexi-loan-overdue"
+          "item": "https://www.settleloans.in/bajaj-finance-flexi-loan-overdue"
         }
       ]
     },
@@ -56,7 +56,7 @@ export default function Page() {
       "author": {
         "@type": "Organization",
         "name": "SettleLoan",
-        "url": "https://settleloans.in/"
+        "url": "https://www.settleloans.in/"
       }
     },
     {

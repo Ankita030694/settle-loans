@@ -9,39 +9,39 @@ export default function EmiNotPaidPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/what-happens-if-loan-emi-not-paid#webpage",
-                "url": "https://settleloans.in/what-happens-if-loan-emi-not-paid",
+                "@id": "https://www.settleloans.in/what-happens-if-loan-emi-not-paid#webpage",
+                "url": "https://www.settleloans.in/what-happens-if-loan-emi-not-paid",
                 "name": "What Happens if Loan EMI Not Paid in India | 2024-25 Analysis",
                 "description": "Comprehensive guide on the financial, legal, and credit consequences of missing loan EMIs in India. Learn about penalty interest, CIBIL impact, and SARFAESI Act.",
-                "breadcrumb": { "@id": "https://settleloans.in/what-happens-if-loan-emi-not-paid#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/what-happens-if-loan-emi-not-paid#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/what-happens-if-loan-emi-not-paid#breadcrumb",
+                "@id": "https://www.settleloans.in/what-happens-if-loan-emi-not-paid#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "EMI Default Consequences", "item": "https://settleloans.in/what-happens-if-loan-emi-not-paid" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "EMI Default Consequences", "item": "https://www.settleloans.in/what-happens-if-loan-emi-not-paid" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/what-happens-if-loan-emi-not-paid#article",
+                "@id": "https://www.settleloans.in/what-happens-if-loan-emi-not-paid#article",
                 "headline": "What Happens if Loan EMI Not Paid? A Complete Legal and Financial Breakdown",
                 "description": "An exhaustive 4500+ word audit of everything that happens from the first day of default to the final legal resolution in the Indian banking system.",
                 "author": { "@type": "Organization", "name": "SettleLoans Financial Intelligence Unit" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/what-happens-if-loan-emi-not-paid#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-happens-if-loan-emi-not-paid#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/what-happens-if-loan-emi-not-paid#product",
+                "@id": "https://www.settleloans.in/what-happens-if-loan-emi-not-paid#product",
                 "name": "EMI Default Legal Assistance",
                 "description": "Professional legal and strategy support for borrowers facing loan EMI defaults and recovery harassment.",
                 "aggregateRating": {
@@ -61,7 +61,7 @@ export default function EmiNotPaidPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/what-happens-if-loan-emi-not-paid#faq",
+                "@id": "https://www.settleloans.in/what-happens-if-loan-emi-not-paid#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

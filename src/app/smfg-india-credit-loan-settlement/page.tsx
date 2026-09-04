@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'smfg nodal officer complaint',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/smfg-india-credit-loan-settlement',
+    canonical: 'https://www.settleloans.in/smfg-india-credit-loan-settlement',
   },
   openGraph: {
     title: 'SMFG India Credit Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
     description: 'Master guide to settling defaulted SMFG India Credit (formerly Fullerton India) personal and business loans. Understand SARB debt resolution, recovery agent compliance, Credit Committee approval matrices, and step-by-step OTS negotiation.',
-    url: 'https://settleloans.in/smfg-india-credit-loan-settlement',
+    url: 'https://www.settleloans.in/smfg-india-credit-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/smfg-india-credit-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/smfg-india-credit-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'SMFG India Credit Loan Settlement Process and OTS Haircut Guide',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'SMFG India Credit Loan Settlement: OTS Rules, Legal Defense & Haircut',
     description: 'Technical and legal manual for settling defaulted SMFG India Credit personal loans and business credit facilities under RBI Compromise Settlement frameworks.',
-    images: ['https://settleloans.in/images/infographics/smfg-india-credit-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/smfg-india-credit-loan-settlement.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/smfg-india-credit-loan-settlement#webpage",
-      "url": "https://settleloans.in/smfg-india-credit-loan-settlement",
+      "@id": "https://www.settleloans.in/smfg-india-credit-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/smfg-india-credit-loan-settlement",
       "name": "SMFG India Credit Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)",
       "description": "Comprehensive guide to SMFG India Credit (formerly Fullerton India) loan settlement. Learn how to settle high-ticket personal and business loans, navigate SARB recovery collections, halt aggressive NACH bounce fees, defend Section 25 PSSA and arbitration notices, and negotiate up to 60% OTS haircut under RBI compromise rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/smfg-india-credit-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/smfg-india-credit-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/smfg-india-credit-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/smfg-india-credit-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "SMFG India Credit Loan Settlement",
-          "item": "https://settleloans.in/smfg-india-credit-loan-settlement"
+          "item": "https://www.settleloans.in/smfg-india-credit-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/smfg-india-credit-loan-settlement#article",
+      "@id": "https://www.settleloans.in/smfg-india-credit-loan-settlement#article",
       "headline": "SMFG India Credit Loan Settlement: OTS Rules, Legal Defense & Haircut Guide",
       "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with SMFG India Credit Co. Ltd. (formerly Fullerton India), managing SARB collection escalations, stopping NACH debit penalties, and protecting against unlawful recovery harassment.",
-      "image": "https://settleloans.in/images/infographics/smfg-india-credit-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/smfg-india-credit-loan-settlement.jpg",
       "datePublished": "2026-08-25T12:00:00+05:30",
       "dateModified": "2026-08-25T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/smfg-india-credit-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/smfg-india-credit-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/smfg-india-credit-loan-settlement#service",
+      "@id": "https://www.settleloans.in/smfg-india-credit-loan-settlement#service",
       "name": "SettleLoans - SMFG India Credit Loan Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted SMFG India Credit (formerly Fullerton India) personal loans, business installment facilities, and retail credit lines under RBI compromise frameworks with maximum debt waivers and complete harassment protection.",
-      "url": "https://settleloans.in/smfg-india-credit-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/smfg-india-credit-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/smfg-india-credit-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/smfg-india-credit-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/smfg-india-credit-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/smfg-india-credit-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -321,12 +321,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

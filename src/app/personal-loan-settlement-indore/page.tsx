@@ -47,16 +47,16 @@ export const metadata: Metadata = {
     'ots scheme indore madhya pradesh',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-indore',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-indore',
   },
   openGraph: {
     title: 'Loan Settlement Lawyer in Indore: Settle Personal & Business Debt (2026)',
     description: 'Comprehensive legal and financial guide for resolving delinquent personal loans, credit card balances, and business credit lines in Indore and MP under RBI compromise settlement frameworks.',
-    url: 'https://settleloans.in/personal-loan-settlement-indore',
+    url: 'https://www.settleloans.in/personal-loan-settlement-indore',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-indore.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-indore.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan Settlement Lawyer in Indore - Legal Debt Defense & OTS Guide',
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement Lawyer in Indore: Settle Personal & Business Debt',
     description: 'Strategic legal defense against aggressive recovery agents, Section 138 NI Act notices, and Lok Adalat compromise settlements for Indore and MP borrowers.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-indore.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-indore.jpg'],
   },
 };
 
@@ -78,74 +78,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-indore#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-indore",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-indore#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-indore",
       "name": "Loan Settlement Lawyer in Indore: Settle Personal & Business Debt (2026)",
       "description": "Facing loan default in Indore or MP? Consult experienced loan settlement lawyers in Indore to halt recovery harassment, defend Section 138/25 PSSA notices in District Court, represent at DLSA Lok Adalat, and negotiate 45%–65% RBI OTS debt waivers.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-indore#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-indore#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-indore#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-indore#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Loan Settlement Indore",
-          "item": "https://settleloans.in/personal-loan-settlement-indore"
+          "item": "https://www.settleloans.in/personal-loan-settlement-indore"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-indore#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-indore#article",
       "headline": "Loan Settlement Lawyer in Indore: Legal Protection, Lok Adalat Representation & RBI OTS Debt Relief",
       "description": "A comprehensive regulatory, civil, and financial roadmap for salaried employees, commercial traders, and MSME business owners navigating unsecured debt settlement in Indore and Madhya Pradesh. Covers RBI compromise settlement circulars, District Court JMFC defenses, DLSA Lok Adalat awards, and 45%–65% principal haircuts.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-indore.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-indore.jpg",
       "datePublished": "2026-08-27T12:00:00+05:30",
       "dateModified": "2026-08-27T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-indore#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-indore#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-indore#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-indore#service",
       "name": "SettleLoans - Loan Settlement Lawyer in Indore",
       "description": "Specialized legal representation and debt settlement advisory for salaried executives, wholesale traders, MSME manufacturers, and retail borrowers dealing with personal loan, credit card, and business credit default in Indore and Madhya Pradesh.",
-      "url": "https://settleloans.in/personal-loan-settlement-indore",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-indore.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-indore",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-indore.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -158,9 +158,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -234,7 +234,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-indore#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-indore#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -320,12 +320,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

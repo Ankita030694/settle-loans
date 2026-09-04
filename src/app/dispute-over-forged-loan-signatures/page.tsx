@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Dispute Over Forged Loan Signatures India | Legal Help & Fraud Defense",
     description: "Victim of loan fraud or identity theft? Get expert legal help for forged loan signature disputes in India. Learn about FIRs, handwriting experts, and RBI complaints.",
     alternates: {
-        canonical: "https://settleloans.in/dispute-over-forged-loan-signatures",
+        canonical: "https://www.settleloans.in/dispute-over-forged-loan-signatures",
     },
 };
 
@@ -16,34 +16,34 @@ export default function ForgedLoanSignaturesPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/dispute-over-forged-loan-signatures#webpage",
-                "url": "https://settleloans.in/dispute-over-forged-loan-signatures",
+                "@id": "https://www.settleloans.in/dispute-over-forged-loan-signatures#webpage",
+                "url": "https://www.settleloans.in/dispute-over-forged-loan-signatures",
                 "name": "Dispute Over Forged Loan Signatures India | Legal Help & Fraud Defense",
                 "description": "Comprehensive legal guide on contesting unauthorized loans with forged signatures. Expert advice on criminal complaints and credit report correction.",
-                "breadcrumb": { "@id": "https://settleloans.in/dispute-over-forged-loan-signatures#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/dispute-over-forged-loan-signatures#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/dispute-over-forged-loan-signatures#breadcrumb",
+                "@id": "https://www.settleloans.in/dispute-over-forged-loan-signatures#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Dispute Over Forged Loan Signatures",
-                        "item": "https://settleloans.in/dispute-over-forged-loan-signatures"
+                        "item": "https://www.settleloans.in/dispute-over-forged-loan-signatures"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/dispute-over-forged-loan-signatures#article",
+                "@id": "https://www.settleloans.in/dispute-over-forged-loan-signatures#article",
                 "headline": "Fighting Forged Loan Signatures: A Legal Masterclass for Fraud Victims",
                 "description": "Step-by-step legal procedure to challenge forged loan documents, identify fraudsters, and exonerate yourself from illegal debt in India.",
                 "author": {
@@ -55,16 +55,16 @@ export default function ForgedLoanSignaturesPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-07",
                 "dateModified": "2024-03-07",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/dispute-over-forged-loan-signatures#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/dispute-over-forged-loan-signatures#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/dispute-over-forged-loan-signatures#product",
+                "@id": "https://www.settleloans.in/dispute-over-forged-loan-signatures#product",
                 "name": "Loan Fraud Legal Assistance",
                 "description": "Specialized legal services to contest forged loan signatures and clear fraudulent debt from credit reports.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function ForgedLoanSignaturesPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/dispute-over-forged-loan-signatures#faq",
+                "@id": "https://www.settleloans.in/dispute-over-forged-loan-signatures#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

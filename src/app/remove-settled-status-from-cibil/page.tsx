@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'How to Remove Settled Status from CIBIL: Legal Guide to "Closed" (2026)',
   description: 'Learn how to remove settled status from CIBIL and convert it to "Closed". Step-by-step process to pay residual balance, get No Dues Certificate, file CIBIL disputes, and rebuild credit to 750+.',
   alternates: {
-    canonical: 'https://settleloans.in/remove-settled-status-from-cibil',
+    canonical: 'https://www.settleloans.in/remove-settled-status-from-cibil',
   },
   keywords: [
     'how to remove settled status from cibil',
@@ -20,11 +20,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'How to Remove Settled Status from CIBIL: Legal Process to Upgrade to "Closed"',
     description: 'Stuck with a "Settled" remark on your CIBIL report? Follow our proven legal roadmap to pay the waived balance, obtain an unconditional NDC, and upgrade your status to "Closed".',
-    url: 'https://settleloans.in/remove-settled-status-from-cibil',
+    url: 'https://www.settleloans.in/remove-settled-status-from-cibil',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/remove-settled-status-from-cibil.jpg',
+        url: 'https://www.settleloans.in/images/infographics/remove-settled-status-from-cibil.jpg',
         width: 1200,
         height: 630,
         alt: 'How to Remove Settled Status from CIBIL Guide',
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Remove Settled Status from CIBIL Report (2026 Legal Guide)',
     description: 'Step-by-step guide on converting a "Settled" status to "Closed" in CIBIL, Experian, and CRIF reports. Discover RBI rules, NDC retrieval, and score recovery.',
-    images: ['https://settleloans.in/images/infographics/remove-settled-status-from-cibil.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/remove-settled-status-from-cibil.jpg'],
   },
 };
 
@@ -46,73 +46,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/remove-settled-status-from-cibil#webpage",
-      "url": "https://settleloans.in/remove-settled-status-from-cibil",
+      "@id": "https://www.settleloans.in/remove-settled-status-from-cibil#webpage",
+      "url": "https://www.settleloans.in/remove-settled-status-from-cibil",
       "name": "How to Remove Settled Status from CIBIL: Legal Guide to 'Closed' (2026)",
       "description": "Learn how to remove settled status from CIBIL and convert it to 'Closed'. Step-by-step process to pay residual balance, get No Dues Certificate, file CIBIL disputes, and rebuild credit to 750+.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/remove-settled-status-from-cibil#breadcrumb"
+        "@id": "https://www.settleloans.in/remove-settled-status-from-cibil#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/remove-settled-status-from-cibil#breadcrumb",
+      "@id": "https://www.settleloans.in/remove-settled-status-from-cibil#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Remove Settled Status from CIBIL",
-          "item": "https://settleloans.in/remove-settled-status-from-cibil"
+          "item": "https://www.settleloans.in/remove-settled-status-from-cibil"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/remove-settled-status-from-cibil#article",
+      "@id": "https://www.settleloans.in/remove-settled-status-from-cibil#article",
       "headline": "How to Remove Settled Status from CIBIL: The Complete Legal & Procedural Guide to Upgrade to Closed",
       "description": "An exhaustive, authoritative guide explaining how borrowers in India can legitimately remove or upgrade a 'Settled' loan remark in CIBIL, CRIF, and Experian reports to 'Closed' status by paying residual balances, securing an authentic No Dues Certificate, and filing bureau dispute rectifications.",
-      "image": "https://settleloans.in/images/infographics/remove-settled-status-from-cibil.jpg",
+      "image": "https://www.settleloans.in/images/infographics/remove-settled-status-from-cibil.jpg",
       "datePublished": "2026-08-19T09:00:00+05:30",
       "dateModified": "2026-08-19T09:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/remove-settled-status-from-cibil#webpage"
+        "@id": "https://www.settleloans.in/remove-settled-status-from-cibil#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Product",
-      "@id": "https://settleloans.in/remove-settled-status-from-cibil#product",
+      "@id": "https://www.settleloans.in/remove-settled-status-from-cibil#product",
       "name": "CIBIL Settled-to-Closed Status Upgrade & Dispute Resolution",
       "description": "Expert legal advisory, bank balance waiver negotiation, No Dues Certificate retrieval, and bureau dispute filing to upgrade 'Settled' loan accounts to 'Closed' in CIBIL, Experian, and CRIF reports.",
-      "image": "https://settleloans.in/images/infographics/remove-settled-status-from-cibil.jpg",
+      "image": "https://www.settleloans.in/images/infographics/remove-settled-status-from-cibil.jpg",
       "brand": {
         "@type": "Brand",
         "name": "SettleLoans"
@@ -189,7 +189,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/remove-settled-status-from-cibil#faq",
+      "@id": "https://www.settleloans.in/remove-settled-status-from-cibil#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -275,12 +275,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

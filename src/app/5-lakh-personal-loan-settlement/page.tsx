@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'rbi rules for 5 lakh loan settlement',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/5-lakh-personal-loan-settlement',
+    canonical: 'https://www.settleloans.in/5-lakh-personal-loan-settlement',
   },
   openGraph: {
     title: 'How to Settle 5 Lakh Personal Loan: OTS Percentage, Timeline & Harassment Defense (2026)',
     description: 'Learn how to settle a ₹5,00,000 personal loan default in India. Understand realistic 50%–70% OTS haircuts, NPA provisioning timelines, collection agent defense, and RBI compromise settlement guidelines.',
-    url: 'https://settleloans.in/5-lakh-personal-loan-settlement',
+    url: 'https://www.settleloans.in/5-lakh-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/5-lakh-personal-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/5-lakh-personal-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: '5 Lakh Personal Loan Settlement Process, OTS Haircut Matrix, and Legal Defense Roadmap',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Settle 5 Lakh Personal Loan: OTS Percentage, Timeline & Legal Defense',
     description: 'Technical and legal manual for settling defaulted ₹5 Lakh personal loans across Indian banks and NBFCs under RBI compromise settlement frameworks.',
-    images: ['https://settleloans.in/images/infographics/5-lakh-personal-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/5-lakh-personal-loan-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/5-lakh-personal-loan-settlement#webpage",
-      "url": "https://settleloans.in/5-lakh-personal-loan-settlement",
+      "@id": "https://www.settleloans.in/5-lakh-personal-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/5-lakh-personal-loan-settlement",
       "name": "How to Settle 5 Lakh Personal Loan: OTS Percentage, Timeline & Harassment Defense (2026)",
       "description": "Step-by-step legal guide to settling a ₹5 Lakh personal loan in India. Discover realistic OTS haircut percentages (₹1.5L–₹2.5L settlements), NPA timelines, recovery harassment defense, and RBI compromise settlement rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/5-lakh-personal-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/5-lakh-personal-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/5-lakh-personal-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/5-lakh-personal-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "How to Settle 5 Lakh Personal Loan",
-          "item": "https://settleloans.in/5-lakh-personal-loan-settlement"
+          "item": "https://www.settleloans.in/5-lakh-personal-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/5-lakh-personal-loan-settlement#article",
+      "@id": "https://www.settleloans.in/5-lakh-personal-loan-settlement#article",
       "headline": "How to Settle 5 Lakh Personal Loan: OTS Percentage, Timeline & Harassment Defense",
       "description": "A comprehensive guide on negotiating One-Time Settlements (OTS) for a ₹5 Lakh personal loan default in India, understanding bank provisioning haircuts, handling recovery agency escalation, and obtaining a zero balance No Dues Certificate.",
-      "image": "https://settleloans.in/images/infographics/5-lakh-personal-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/5-lakh-personal-loan-settlement.jpg",
       "datePublished": "2026-08-22T10:56:05+05:30",
       "dateModified": "2026-08-22T10:56:05+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/5-lakh-personal-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/5-lakh-personal-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/5-lakh-personal-loan-settlement#service",
+      "@id": "https://www.settleloans.in/5-lakh-personal-loan-settlement#service",
       "name": "SettleLoans - 5 Lakh Personal Loan Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted ₹5 Lakh unsecured personal loans under RBI compromise frameworks with maximum debt waivers.",
-      "url": "https://settleloans.in/5-lakh-personal-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/5-lakh-personal-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/5-lakh-personal-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/5-lakh-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/5-lakh-personal-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/5-lakh-personal-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",

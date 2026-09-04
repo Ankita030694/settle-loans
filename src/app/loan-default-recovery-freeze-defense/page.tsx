@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Loan Default Recovery Freeze Defense | Stop Bank Action Legally",
     description: "Expert legal defense to freeze loan recovery, stop SARFAESI auctions, and obtain DRT stay orders. Navigate NPA classification challenges and debt recovery freezes.",
     alternates: {
-        canonical: "https://settleloans.in/loan-default-recovery-freeze-defense",
+        canonical: "https://www.settleloans.in/loan-default-recovery-freeze-defense",
     },
 };
 
@@ -16,34 +16,34 @@ export default function RecoveryFreezeDefensePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/loan-default-recovery-freeze-defense#webpage",
-                "url": "https://settleloans.in/loan-default-recovery-freeze-defense",
+                "@id": "https://www.settleloans.in/loan-default-recovery-freeze-defense#webpage",
+                "url": "https://www.settleloans.in/loan-default-recovery-freeze-defense",
                 "name": "Loan Default Recovery Freeze Defense | Stop Bank Action Legally",
                 "description": "Comprehensive guide to freezing loan recovery actions through legal defense and stay orders in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/loan-default-recovery-freeze-defense#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/loan-default-recovery-freeze-defense#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/loan-default-recovery-freeze-defense#breadcrumb",
+                "@id": "https://www.settleloans.in/loan-default-recovery-freeze-defense#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Recovery Freeze Defense",
-                        "item": "https://settleloans.in/loan-default-recovery-freeze-defense"
+                        "item": "https://www.settleloans.in/loan-default-recovery-freeze-defense"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/loan-default-recovery-freeze-defense#article",
+                "@id": "https://www.settleloans.in/loan-default-recovery-freeze-defense#article",
                 "headline": "Loan Recovery Freeze Defense: The Ultimate Masterclass in Debt Litigation",
                 "description": "Strategic guide to using stay orders, injunctions, and technical loopholes to freeze predatory loan recovery.",
                 "author": {
@@ -55,16 +55,16 @@ export default function RecoveryFreezeDefensePage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-06",
                 "dateModified": "2024-03-06",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/loan-default-recovery-freeze-defense#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-default-recovery-freeze-defense#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/loan-default-recovery-freeze-defense#product",
+                "@id": "https://www.settleloans.in/loan-default-recovery-freeze-defense#product",
                 "name": "Recovery Freeze Litigation Advisory",
                 "description": "Professional assistance in filing DRT stay applications and challenging SARFAESI notices to freeze recovery.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function RecoveryFreezeDefensePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/loan-default-recovery-freeze-defense#faq",
+                "@id": "https://www.settleloans.in/loan-default-recovery-freeze-defense#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

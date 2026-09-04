@@ -50,16 +50,16 @@ export const metadata: Metadata = {
     'kissht nodal officer email id',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/kissht-loan-settlement-process',
+    canonical: 'https://www.settleloans.in/kissht-loan-settlement-process',
   },
   openGraph: {
     title: 'Kissht App Loan Settlement: Stop Harassment, RBI Rules & OTS Guide (2026)',
     description: 'Definitive legal guide to settling defaulted Kissht & Ring app credit lines. Halt recovery harassment, revoke NACH sweeps, enforce RBI fair practices, and secure a verified ₹0 No Dues Certificate.',
-    url: 'https://settleloans.in/kissht-loan-settlement-process',
+    url: 'https://www.settleloans.in/kissht-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/kissht-loan-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/kissht-loan-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'Kissht Loan Settlement Process, RBI Digital Lending Guidelines and Anti-Harassment Defense Guide',
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Kissht App Loan Settlement: Stop Harassment, RBI Rules & OTS Guide',
     description: 'Technical and legal manual for settling defaulted Kissht loans under RBI Digital Lending Guidelines and OTS compromise frameworks.',
-    images: ['https://settleloans.in/images/infographics/kissht-loan-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/kissht-loan-settlement-process.jpg'],
   },
 };
 
@@ -81,74 +81,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/kissht-loan-settlement-process#webpage",
-      "url": "https://settleloans.in/kissht-loan-settlement-process",
+      "@id": "https://www.settleloans.in/kissht-loan-settlement-process#webpage",
+      "url": "https://www.settleloans.in/kissht-loan-settlement-process",
       "name": "Kissht App Loan Settlement: Stop Harassment, RBI Rules & OTS Guide (2026)",
       "description": "Trapped in Kissht or Ring app debt? Learn how to stop aggressive recovery harassment, halt WhatsApp threats, invoke RBI Digital Lending Guidelines, defend Section 25 notices, and negotiate a 40% to 60% OTS settlement haircut.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/kissht-loan-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/kissht-loan-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/kissht-loan-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/kissht-loan-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Kissht Loan Settlement Process",
-          "item": "https://settleloans.in/kissht-loan-settlement-process"
+          "item": "https://www.settleloans.in/kissht-loan-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/kissht-loan-settlement-process#article",
+      "@id": "https://www.settleloans.in/kissht-loan-settlement-process#article",
       "headline": "Kissht App Loan Settlement: Stop Harassment, RBI Digital Lending Guidelines & OTS Process",
       "description": "Comprehensive legal and strategic guide on settling Kissht and Ring app loans, navigating Si Creva Capital NBFC policies, stopping third-party recovery harassment, and obtaining a valid No Dues Certificate.",
-      "image": "https://settleloans.in/images/infographics/kissht-loan-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/kissht-loan-settlement-process.jpg",
       "datePublished": "2026-08-25T12:00:00+05:30",
       "dateModified": "2026-08-25T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/kissht-loan-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/kissht-loan-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/kissht-loan-settlement-process#service",
+      "@id": "https://www.settleloans.in/kissht-loan-settlement-process#service",
       "name": "SettleLoans - Kissht & Ring App Loan Settlement & Legal Defense",
       "description": "Specialized fintech debt settlement and legal defense advisory for resolving defaulted Kissht and Ring app credit lines under RBI digital lending directives with maximum OTS haircuts and complete anti-harassment protection.",
-      "url": "https://settleloans.in/kissht-loan-settlement-process",
-      "image": "https://settleloans.in/images/infographics/kissht-loan-settlement-process.jpg",
+      "url": "https://www.settleloans.in/kissht-loan-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/kissht-loan-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -161,9 +161,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -237,7 +237,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/kissht-loan-settlement-process#faq",
+      "@id": "https://www.settleloans.in/kissht-loan-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -315,12 +315,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

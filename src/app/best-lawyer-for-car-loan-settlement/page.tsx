@@ -12,39 +12,39 @@ export default function CarLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-car-loan-settlement#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-car-loan-settlement",
+                "@id": "https://www.settleloans.in/best-lawyer-for-car-loan-settlement#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-car-loan-settlement",
                 "name": "Best Lawyer for Car Loan Settlement India | Vehicle Repossession Defense",
                 "description": "Expert legal help for car loan settlements. Stop vehicle repossession, handle recovery agent harassment, and negotiate OTS with banks/NBFCs. 4500+ word expert guide.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-car-loan-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-car-loan-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-car-loan-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-car-loan-settlement#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Car Loan Settlement", "item": "https://settleloans.in/best-lawyer-for-car-loan-settlement" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Car Loan Settlement", "item": "https://www.settleloans.in/best-lawyer-for-car-loan-settlement" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-car-loan-settlement#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-car-loan-settlement#article",
                 "headline": "Best Lawyer for Car Loan Settlement: Navigating Repossession and Debt Resolution in India",
                 "description": "Deep dive into legal protections for car loan borrowers. Learn how to stop illegal repossession, negotiate haircuts, and handle recovery agents.",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Content Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-car-loan-settlement#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-car-loan-settlement#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-car-loan-settlement#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-car-loan-settlement#product",
                 "name": "Car Loan Legal Defence Services",
                 "description": "Professional legal representation for borrowers facing car repossession and recovery harassment.",
                 "aggregateRating": {
@@ -85,7 +85,7 @@ export default function CarLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-car-loan-settlement#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-car-loan-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

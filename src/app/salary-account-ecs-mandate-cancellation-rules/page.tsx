@@ -56,16 +56,16 @@ export const metadata: Metadata = {
     'loan settlement after stopping ecs mandate'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/salary-account-ecs-mandate-cancellation-rules',
+    canonical: 'https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules',
   },
   openGraph: {
     title: 'How to Stop ECS Mandate for Loan: Salary Account Auto-Debit Cancellation Rules & Legal Defense',
     description: 'Facing continuous salary draining from loan auto-debits? Discover your statutory right to stop ECS and NACH e-mandates under RBI directives and Section 7 of the Payment of Wages Act.',
-    url: 'https://settleloans.in/salary-account-ecs-mandate-cancellation-rules',
+    url: 'https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/salary-account-ecs-mandate-cancellation-rules.jpg',
+        url: 'https://www.settleloans.in/images/infographics/salary-account-ecs-mandate-cancellation-rules.jpg',
         width: 1200,
         height: 675,
         alt: 'How to Stop ECS Mandate for Loan Salary Account Cancellation Rules',
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
       title: 'How to Stop ECS Mandate for Loan: Salary Account Auto-Debit Cancellation Rules',
     description: 'Learn how to revoke ECS and NACH mandates legally on your salary account. Understand RBI cancellation circulars, wage protections, and debt settlement strategies.',
-    images: ['https://settleloans.in/images/infographics/salary-account-ecs-mandate-cancellation-rules.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/salary-account-ecs-mandate-cancellation-rules.jpg'],
   },
 };
 
@@ -87,74 +87,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/salary-account-ecs-mandate-cancellation-rules#webpage",
-      "url": "https://settleloans.in/salary-account-ecs-mandate-cancellation-rules",
+      "@id": "https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules#webpage",
+      "url": "https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules",
       "name": "How to Stop ECS Mandate for Loan: Salary Account Auto-Debit Cancellation Rules & Legal Defense",
       "description": "Comprehensive legal and regulatory guide on stopping ECS and NACH e-mandates on salary accounts. Explains RBI circulars, Section 7 Payment of Wages Act, Section 25 PSSA safeguards, and advocate debt settlement strategies.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/salary-account-ecs-mandate-cancellation-rules#breadcrumb"
+        "@id": "https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/salary-account-ecs-mandate-cancellation-rules#breadcrumb",
+      "@id": "https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "ECS Mandate Cancellation Rules",
-          "item": "https://settleloans.in/salary-account-ecs-mandate-cancellation-rules"
+          "item": "https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/salary-account-ecs-mandate-cancellation-rules#article",
+      "@id": "https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules#article",
       "headline": "How to Stop ECS Mandate for Loan: Salary Account Auto-Debit Cancellation Rules & Legal Defense",
       "description": "An exhaustive analysis explaining how salaried borrowers can legally stop ECS and NACH auto-debits to prevent cash-flow strangulation. Details RBI e-mandate cancellation directives, Section 7 of the Payment of Wages Act, avoiding Section 25 PSSA criminal complaints, and structuring a 55% compromise settlement.",
-      "image": "https://settleloans.in/images/infographics/salary-account-ecs-mandate-cancellation-rules.jpg",
+      "image": "https://www.settleloans.in/images/infographics/salary-account-ecs-mandate-cancellation-rules.jpg",
       "datePublished": "2026-08-29T12:00:00+05:30",
       "dateModified": "2026-08-29T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/salary-account-ecs-mandate-cancellation-rules#webpage"
+        "@id": "https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/salary-account-ecs-mandate-cancellation-rules#service",
+      "@id": "https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules#service",
       "name": "SettleLoans - Auto-Debit Mandate Revocation & Loan Settlement Advisory",
       "description": "Specialized legal counsel and financial restructuring advisory helping salaried employees legally cancel ECS/NACH mandates, stop punitive bounce charges, defend against Section 25 PSSA notices, and negotiate institutional One-Time Settlements.",
-      "url": "https://settleloans.in/salary-account-ecs-mandate-cancellation-rules",
-      "image": "https://settleloans.in/images/infographics/salary-account-ecs-mandate-cancellation-rules.jpg",
+      "url": "https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules",
+      "image": "https://www.settleloans.in/images/infographics/salary-account-ecs-mandate-cancellation-rules.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -167,9 +167,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -243,7 +243,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/salary-account-ecs-mandate-cancellation-rules#faq",
+      "@id": "https://www.settleloans.in/salary-account-ecs-mandate-cancellation-rules#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -329,12 +329,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "SettleLoans Support for Avoiding Aggressive Recovery Practices | RBI Guidelines 2025",
   description: "Stop aggressive recovery practices with SettleLoans. Learn about RBI guidelines for recovery agents, your rights as a borrower, and how to stop harassment legally. Get expert support from Amalegal Solutions.",
   alternates: {
-    canonical: "https://settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices",
+    canonical: "https://www.settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices",
   },
 };
 
@@ -16,34 +16,34 @@ export default function AggressiveRecoverySupportPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices#webpage",
-        "url": "https://settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices",
+        "@id": "https://www.settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices#webpage",
+        "url": "https://www.settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices",
         "name": "SettleLoans Support for Avoiding Aggressive Recovery Practices",
         "description": "Information and support for borrowers facing aggressive recovery practices from banks and NBFCs in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices#breadcrumb",
+        "@id": "https://www.settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Avoiding Aggressive Recovery Practices",
-            "item": "https://settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices"
+            "item": "https://www.settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices#article",
+        "@id": "https://www.settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices#article",
         "headline": "SettleLoans Support: How to Avoid Aggressive Recovery Practices and Stop Harassment",
         "description": "A comprehensive guide on borrower rights under RBI guidelines and how to handle aggressive debt recovery agents legally with SettleLoans and Amalegal Solutions.",
         "author": {
@@ -55,16 +55,16 @@ export default function AggressiveRecoverySupportPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-28",
         "dateModified": "2024-03-28",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices#product",
+        "@id": "https://www.settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices#product",
         "name": "Aggressive Recovery Support Services",
         "description": "Legal and professional support to stop aggressive debt recovery harassment and negotiate settlements.",
         "aggregateRating": {
@@ -98,7 +98,7 @@ export default function AggressiveRecoverySupportPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices#faq",
+        "@id": "https://www.settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices#faq",
         "mainEntity": [
           {
             "@type": "Question",

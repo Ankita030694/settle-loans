@@ -12,39 +12,39 @@ export default function UnsecuredLoanLawyerPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-unsecured-loan#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-unsecured-loan",
+                "@id": "https://www.settleloans.in/best-lawyer-for-unsecured-loan#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-unsecured-loan",
                 "name": "Best Lawyer for Unsecured Loan Defence | Expert Recovery Agent Harassment Support",
                 "description": "Expert legal help for unsecured loan defaults. Stop recovery agent harassment, negotiate personal loan settlements, and navigate DRT cases. 4500+ word expert guide.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-unsecured-loan#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-unsecured-loan#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-unsecured-loan#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-unsecured-loan#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Unsecured Loan Lawyer", "item": "https://settleloans.in/best-lawyer-for-unsecured-loan" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Unsecured Loan Lawyer", "item": "https://www.settleloans.in/best-lawyer-for-unsecured-loan" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-unsecured-loan#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-unsecured-loan#article",
                 "headline": "Best Lawyer for Unsecured Loan: Navigating Recovery Harassment and Debt Settlement in India",
                 "description": "Deep dive into legal protections for unsecured loan borrowers. Learn how to handle recovery agents, negotiate haircuts, and defend against civil/DRT suits.",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Content Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-unsecured-loan#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-unsecured-loan#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-unsecured-loan#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-unsecured-loan#product",
                 "name": "Unsecured Loan Legal Defence Services",
                 "description": "Professional legal representation and consultancy for borrowers facing collection harassment and debt recovery litigation for unsecured loans.",
                 "aggregateRating": {
@@ -71,7 +71,7 @@ export default function UnsecuredLoanLawyerPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-unsecured-loan#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-unsecured-loan#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

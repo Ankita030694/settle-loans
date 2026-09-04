@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Ignoring Calls of Recovery Agent? Legal Consequences & Solutions | SettleLoans",
   description: "What happens if you ignore recovery agent calls in India? Understand the legal consequences, RBI guidelines against harassment, and how loan settlement can help you.",
   alternates: {
-    canonical: "https://settleloans.in/ignoring-calls-of-recovery-agent",
+    canonical: "https://www.settleloans.in/ignoring-calls-of-recovery-agent",
   },
 };
 
@@ -16,34 +16,34 @@ export default function IgnoringCallsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/ignoring-calls-of-recovery-agent#webpage",
-        "url": "https://settleloans.in/ignoring-calls-of-recovery-agent",
+        "@id": "https://www.settleloans.in/ignoring-calls-of-recovery-agent#webpage",
+        "url": "https://www.settleloans.in/ignoring-calls-of-recovery-agent",
         "name": "Ignoring Calls of Recovery Agent? Legal Consequences & Solutions",
         "description": "Comprehensive guide on the risks of ignoring loan recovery calls and legal remedies available in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/ignoring-calls-of-recovery-agent#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/ignoring-calls-of-recovery-agent#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/ignoring-calls-of-recovery-agent#breadcrumb",
+        "@id": "https://www.settleloans.in/ignoring-calls-of-recovery-agent#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Ignoring Calls of Recovery Agent",
-            "item": "https://settleloans.in/ignoring-calls-of-recovery-agent"
+            "item": "https://www.settleloans.in/ignoring-calls-of-recovery-agent"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/ignoring-calls-of-recovery-agent#article",
+        "@id": "https://www.settleloans.in/ignoring-calls-of-recovery-agent#article",
         "headline": "What Happens If You Ignore Calls of Recovery Agents in India?",
         "description": "A detailed analysis of the legal and financial repercussions of ignoring debt recovery calls and how to handle them legally.",
         "author": {
@@ -55,16 +55,16 @@ export default function IgnoringCallsPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-05",
         "dateModified": "2024-02-05",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/ignoring-calls-of-recovery-agent#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/ignoring-calls-of-recovery-agent#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/ignoring-calls-of-recovery-agent#faq",
+        "@id": "https://www.settleloans.in/ignoring-calls-of-recovery-agent#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -230,13 +230,13 @@ export default function IgnoringCallsPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/ignoring-calls-of-recovery-agent#product",
+        "@id": "https://www.settleloans.in/ignoring-calls-of-recovery-agent#product",
         "name": "Recovery Agent Anti-Harassment & Legal Shield",
         "description": "Professional legal protection and negotiation services to stop recovery agent harassment and settle debts.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",

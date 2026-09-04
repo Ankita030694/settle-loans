@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'cross border education loan recovery india ots'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/abroad-education-loan-default-settlement-process',
+    canonical: 'https://www.settleloans.in/abroad-education-loan-default-settlement-process',
   },
   openGraph: {
     title: 'Abroad Education Loan Default Settlement Process: Shield Parents & Settle NBFC Debt',
     description: 'A comprehensive legal and financial guide for expat students in the US, UK, and Canada facing layoffs or visa expiration, and their resident Indian parents facing aggressive recovery from NBFCs and banks.',
-    url: 'https://settleloans.in/abroad-education-loan-default-settlement-process',
+    url: 'https://www.settleloans.in/abroad-education-loan-default-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/abroad-education-loan-default-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/abroad-education-loan-default-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'Abroad Education Loan Default Settlement and Parent Protection Legal Blueprint',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Abroad Education Loan Default Settlement Process: Shield Parents & Settle NBFC Debt',
     description: 'Expat student or parent facing education loan default with Avanse, InCred, Auxilo, or Credila? Discover how banking advocates shield parents and structure cross-border One-Time Settlements.',
-    images: ['https://settleloans.in/images/infographics/abroad-education-loan-default-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/abroad-education-loan-default-settlement-process.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/abroad-education-loan-default-settlement-process#webpage",
-      "url": "https://settleloans.in/abroad-education-loan-default-settlement-process",
+      "@id": "https://www.settleloans.in/abroad-education-loan-default-settlement-process#webpage",
+      "url": "https://www.settleloans.in/abroad-education-loan-default-settlement-process",
       "name": "Abroad Education Loan Default Settlement Process: Shield Parents & Settle NBFC Debt in India (2026)",
       "description": "Defaulted on an abroad education loan from Avanse, InCred, Auxilo, or HDFC Credila? Learn how to legally protect Indian co-borrower parents, halt recovery agent harassment, and negotiate a cross-border One-Time Settlement (OTS).",
       "breadcrumb": {
-        "@id": "https://settleloans.in/abroad-education-loan-default-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/abroad-education-loan-default-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/abroad-education-loan-default-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/abroad-education-loan-default-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Abroad Education Loan Default Settlement Process",
-          "item": "https://settleloans.in/abroad-education-loan-default-settlement-process"
+          "item": "https://www.settleloans.in/abroad-education-loan-default-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/abroad-education-loan-default-settlement-process#article",
+      "@id": "https://www.settleloans.in/abroad-education-loan-default-settlement-process#article",
       "headline": "Abroad Education Loan Default Settlement Process: How to Protect Parents in India & Resolve International Student Debt",
       "description": "An exhaustive statutory, procedural, and financial guide for Indian graduate students residing in the US, UK, Canada, and Europe who face employment dislocation or visa expiration, and their aging resident co-borrower parents targeted by specialized NBFCs and commercial banks. Details civil contract defense under Section 128 of the Indian Contract Act, Senior Citizens Act protections, criminal notice defense under Section 138 NI Act and Section 25 PSSA, and structured cross-border One-Time Settlements (OTS).",
-      "image": "https://settleloans.in/images/infographics/abroad-education-loan-default-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/abroad-education-loan-default-settlement-process.jpg",
       "datePublished": "2026-09-02T10:00:00+05:30",
       "dateModified": "2026-09-02T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/abroad-education-loan-default-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/abroad-education-loan-default-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/abroad-education-loan-default-settlement-process#service",
+      "@id": "https://www.settleloans.in/abroad-education-loan-default-settlement-process#service",
       "name": "SettleLoans - Cross-Border Education Debt Settlement & Parent Defense Advisory",
       "description": "Specialized legal defense, senior citizen parent anti-harassment shielding, Section 138 / Section 25 PSSA response management, and cross-border One-Time Settlement (OTS) negotiations for international education loans availed from Indian banks and NBFCs.",
-      "url": "https://settleloans.in/abroad-education-loan-default-settlement-process",
-      "image": "https://settleloans.in/images/infographics/abroad-education-loan-default-settlement-process.jpg",
+      "url": "https://www.settleloans.in/abroad-education-loan-default-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/abroad-education-loan-default-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/abroad-education-loan-default-settlement-process#faq",
+      "@id": "https://www.settleloans.in/abroad-education-loan-default-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -305,12 +305,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "NBFC Education Loan Default: Legal Action by HDFC Credila, Avanse, and InCred",
   description: "Facing HDFC Credila or Avanse loan recovery harassment? Learn what happens if you don't pay an NBFC education loan and how to settle it.",
   alternates: {
-    canonical: "https://settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred",
+    canonical: "https://www.settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred",
   },
 };
 
@@ -16,34 +16,34 @@ export default function NBFCEducationLoanDefaultPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred#webpage",
-        "url": "https://settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred",
+        "@id": "https://www.settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred#webpage",
+        "url": "https://www.settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred",
         "name": "NBFC Education Loan Default: Legal Action by HDFC Credila, Avanse, and InCred",
         "description": "A highly targeted guide addressing the aggressive recovery tactics used by specialized education NBFCs and how to negotiate a massive waiver.",
-        "breadcrumb": { "@id": "https://settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred#breadcrumb",
+        "@id": "https://www.settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "NBFC Education Loan Default",
-            "item": "https://settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred"
+            "item": "https://www.settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred#article",
+        "@id": "https://www.settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred#article",
         "headline": "NBFC Education Loan Default: Legal Action by HDFC Credila, Avanse, and InCred",
         "description": "Explains the arbitration tactics used by specialized education NBFCs and how to settle education loan with NBFC.",
         "author": {
@@ -55,22 +55,22 @@ export default function NBFCEducationLoanDefaultPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-22",
         "dateModified": "2024-07-22",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred#product",
+        "@id": "https://www.settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred#product",
         "name": "NBFC Education Loan Settlement & Legal Defense",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to counter Avanse loan recovery harassment, HDFC Credila education loan default cases, and arbitrations.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -112,7 +112,7 @@ export default function NBFCEducationLoanDefaultPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred#faq",
+        "@id": "https://www.settleloans.in/nbfc-education-loan-default-legal-action-by-hdfc-credila-avanse-incred#faq",
         "mainEntity": [
           {
             "@type": "Question",

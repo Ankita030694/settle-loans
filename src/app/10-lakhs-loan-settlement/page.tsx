@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "10 Lakhs Loan Settlement India | Expert Negotiation & Legal Guidance",
     description: "Comprehensive guide on settling a 10 lakhs loan in India. Master the negotiation process, understand bank committees, manage CIBIL impact, and ensure a legal closure.",
     alternates: {
-        canonical: "https://settleloans.in/10-lakhs-loan-settlement",
+        canonical: "https://www.settleloans.in/10-lakhs-loan-settlement",
     },
 };
 
@@ -16,34 +16,34 @@ export default function TenLakhsLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/10-lakhs-loan-settlement#webpage",
-                "url": "https://settleloans.in/10-lakhs-loan-settlement",
+                "@id": "https://www.settleloans.in/10-lakhs-loan-settlement#webpage",
+                "url": "https://www.settleloans.in/10-lakhs-loan-settlement",
                 "name": "10 Lakhs Loan Settlement India | Expert Negotiation Guide",
                 "description": "The ultimate resource for settling a 10 lakh loan with banks and NBFCs in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/10-lakhs-loan-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/10-lakhs-loan-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/10-lakhs-loan-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/10-lakhs-loan-settlement#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "10 Lakhs Loan Settlement",
-                        "item": "https://settleloans.in/10-lakhs-loan-settlement"
+                        "item": "https://www.settleloans.in/10-lakhs-loan-settlement"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/10-lakhs-loan-settlement#article",
+                "@id": "https://www.settleloans.in/10-lakhs-loan-settlement#article",
                 "headline": "10 Lakhs Loan Settlement: Navigating the Complex Path to Debt Resolution",
                 "description": "Strategize your 10 lakh loan settlement with our in-depth analysis of bank policies, legal frameworks, and negotiation secrets.",
                 "author": {
@@ -55,16 +55,16 @@ export default function TenLakhsLoanSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/10-lakhs-loan-settlement#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/10-lakhs-loan-settlement#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/10-lakhs-loan-settlement#product",
+                "@id": "https://www.settleloans.in/10-lakhs-loan-settlement#product",
                 "name": "10 Lakhs Loan Settlement Consultation",
                 "description": "Premium negotiation and legal advocacy for high-value loan settlements of 10 lakhs and above.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function TenLakhsLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/10-lakhs-loan-settlement#faq",
+                "@id": "https://www.settleloans.in/10-lakhs-loan-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

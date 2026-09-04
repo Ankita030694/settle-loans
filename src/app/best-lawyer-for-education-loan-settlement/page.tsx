@@ -12,39 +12,39 @@ export default function EducationLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-education-loan-settlement#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-education-loan-settlement",
+                "@id": "https://www.settleloans.in/best-lawyer-for-education-loan-settlement#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-education-loan-settlement",
                 "name": "Best Lawyer for Education Loan Settlement India | Student Debt Relief",
                 "description": "Expert legal help for education loan settlements in India. Resolve student debt, stop recovery harassment, and negotiate OTS for study loans. 4500+ word expert guide.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-education-loan-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-education-loan-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-education-loan-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-education-loan-settlement#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Education Loan Settlement", "item": "https://settleloans.in/best-lawyer-for-education-loan-settlement" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Education Loan Settlement", "item": "https://www.settleloans.in/best-lawyer-for-education-loan-settlement" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-education-loan-settlement#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-education-loan-settlement#article",
                 "headline": "Best Lawyer for Education Loan Settlement: Navigating Student Debt and One-Time Settlements in India",
                 "description": "Comprehensive legal guide on education loan defaults, RBI moratorium rules, and successful settlement strategies for students and parents.",
                 "author": { "@type": "Organization", "name": "SettleLoans Academic Legal Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-education-loan-settlement#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-education-loan-settlement#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-education-loan-settlement#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-education-loan-settlement#product",
                 "name": "Education Loan Legal Defence & Advisory",
                 "description": "Professional legal services for student loan restructuring, settlement negotiations, and harassment protection.",
                 "aggregateRating": {
@@ -71,7 +71,7 @@ export default function EducationLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-education-loan-settlement#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-education-loan-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

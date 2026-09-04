@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Legal Loan Settlement Services in Odisha | 40-70% Debt Waiver",
   description: "Expert loan settlement services in Odisha. Stop bank harassment, reduce EMI burden, and settle personal loans & credit cards. Legal protection under Odisha Money Lenders Act. Serving Bhubaneswar, Cuttack, Rourkela & entire state.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/odisha",
+    canonical: "https://www.settleloans.in/loan-settlement/odisha",
   },
 };
 
@@ -16,47 +16,47 @@ export default function OdishaLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/odisha#webpage",
-        "url": "https://settleloans.in/loan-settlement/odisha",
+        "@id": "https://www.settleloans.in/loan-settlement/odisha#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/odisha",
         "name": "Loan Settlement in Odisha | Top Legal Debt Relief Service - SettleLoans",
         "description": "Expert loan settlement services in Odisha. Stop bank harassment, reduce EMI burden, and settle personal loans & credit cards. Legal protection under Odisha Money Lenders Act.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/odisha#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/odisha#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/odisha#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/odisha#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/odisha#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/odisha#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Odisha",
-            "item": "https://settleloans.in/loan-settlement/odisha"
+            "item": "https://www.settleloans.in/loan-settlement/odisha"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/odisha#service",
+        "@id": "https://www.settleloans.in/loan-settlement/odisha#service",
         "name": "Odisha Loan Settlement Services",
         "description": "Professional debt negotiation and legal defense services for borrowers in Odisha. We handle personal loans, credit cards, and business debts.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Bhubaneswar" },
@@ -93,7 +93,7 @@ export default function OdishaLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/odisha#article",
+        "@id": "https://www.settleloans.in/loan-settlement/odisha#article",
         "headline": "Complete Guide to Loan Settlement in Odisha: Laws, Process & Rights",
         "description": "A comprehensive analysis of debt settlement options in Odisha, covering the Odisha Money Lenders Act, DRT procedures, and borrower rights against harassment.",
         "author": {
@@ -105,16 +105,16 @@ export default function OdishaLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-03",
         "dateModified": "2024-02-03",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/odisha#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/odisha#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/odisha#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/odisha#faq",
         "mainEntity": [
           {
             "@type": "Question",

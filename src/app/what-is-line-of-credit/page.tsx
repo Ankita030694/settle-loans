@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'What is a Line of Credit? Better than a Personal Loan?',
   description: 'Understand what a line of credit is in India, how this revolving credit facility works, and how it compares against a personal loan to save you thousands in interest.',
   alternates: {
-    canonical: 'https://settleloans.in/what-is-line-of-credit',
+    canonical: 'https://www.settleloans.in/what-is-line-of-credit',
   },
 };
 
@@ -28,7 +28,7 @@ export default function WhatIsLineOfCredit() {
       "@type": "WebPage",
       "name": "What is a Line of Credit? Better than a Personal Loan?",
       "description": "Understand what a line of credit is in India, how this revolving credit facility works, and how it compares against a personal loan to save you thousands in interest.",
-      "url": "https://settleloans.in/what-is-line-of-credit"
+      "url": "https://www.settleloans.in/what-is-line-of-credit"
     },
     {
       "@context": "https://schema.org",
@@ -38,13 +38,13 @@ export default function WhatIsLineOfCredit() {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in/"
+          "item": "https://www.settleloans.in/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "What is Line of Credit",
-          "item": "https://settleloans.in/what-is-line-of-credit"
+          "item": "https://www.settleloans.in/what-is-line-of-credit"
         }
       ]
     },
@@ -62,12 +62,12 @@ export default function WhatIsLineOfCredit() {
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       },
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-is-line-of-credit"
+        "@id": "https://www.settleloans.in/what-is-line-of-credit"
       }
     },
     {

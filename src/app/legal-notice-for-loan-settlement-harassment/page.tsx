@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Legal Notice for Loan Settlement Harassment | RBI Rules & IPC Guide 2026",
   description: "Facing harassment from loan recovery agents? Learn how to send a legal notice for loan settlement harassment in India. A complete guide on RBI rules, IPC Section 506/384, and Banking Ombudsman complaints.",
   alternates: {
-    canonical: "https://settleloans.in/legal-notice-for-loan-settlement-harassment",
+    canonical: "https://www.settleloans.in/legal-notice-for-loan-settlement-harassment",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LoanHarassmentLegalNoticePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/legal-notice-for-loan-settlement-harassment#webpage",
-        "url": "https://settleloans.in/legal-notice-for-loan-settlement-harassment",
+        "@id": "https://www.settleloans.in/legal-notice-for-loan-settlement-harassment#webpage",
+        "url": "https://www.settleloans.in/legal-notice-for-loan-settlement-harassment",
         "name": "Legal Notice for Loan Settlement Harassment Guide",
         "description": "Legal roadmap for Indian borrowers to stop harassment by bank recovery agents and NBFCs during loan settlements.",
-        "breadcrumb": { "@id": "https://settleloans.in/legal-notice-for-loan-settlement-harassment#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/legal-notice-for-loan-settlement-harassment#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/legal-notice-for-loan-settlement-harassment#breadcrumb",
+        "@id": "https://www.settleloans.in/legal-notice-for-loan-settlement-harassment#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Legal Notice for Loan Harassment",
-            "item": "https://settleloans.in/legal-notice-for-loan-settlement-harassment"
+            "item": "https://www.settleloans.in/legal-notice-for-loan-settlement-harassment"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/legal-notice-for-loan-settlement-harassment#article",
+        "@id": "https://www.settleloans.in/legal-notice-for-loan-settlement-harassment#article",
         "headline": "How to Send a Legal Notice for Loan Settlement Harassment in India: A Comprehensive Resource",
         "description": "Stop aggressive recovery agents today. This guide explains the use of legal notices and IPC sections to combat illegal loan harassment practices.",
         "author": {
@@ -55,16 +55,16 @@ export default function LoanHarassmentLegalNoticePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-03-27",
         "dateModified": "2026-03-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/legal-notice-for-loan-settlement-harassment#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/legal-notice-for-loan-settlement-harassment#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/legal-notice-for-loan-settlement-harassment#product",
+        "@id": "https://www.settleloans.in/legal-notice-for-loan-settlement-harassment#product",
         "name": "Legal Support for Loan Harassment Victims",
         "description": "Professional support in drafting legal notices and stopping recovery agent harassment in India.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function LoanHarassmentLegalNoticePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/legal-notice-for-loan-settlement-harassment#faq",
+        "@id": "https://www.settleloans.in/legal-notice-for-loan-settlement-harassment#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Legal Loan Settlement Services in Uttar Pradesh | 40-70% Debt Waiver",
   description: "Struggling with debt in Lucknow, Kanpur, or Noida? Expert legal representation for loan settlement in Uttar Pradesh. Settle credit cards & personal loans with 70% waiver. No more harassment.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/uttar-pradesh",
+    canonical: "https://www.settleloans.in/loan-settlement/uttar-pradesh",
   },
 };
 
@@ -16,47 +16,47 @@ export default function UttarPradeshLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/uttar-pradesh#webpage",
-        "url": "https://settleloans.in/loan-settlement/uttar-pradesh",
+        "@id": "https://www.settleloans.in/loan-settlement/uttar-pradesh#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/uttar-pradesh",
         "name": "Legal Loan Settlement Services in Uttar Pradesh | 40-70% Debt Waiver",
         "description": "Struggling with debt in Lucknow, Kanpur, or Noida? Expert legal representation for loan settlement in Uttar Pradesh. Settle credit cards & personal loans with 70% waiver. No more harassment.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/uttar-pradesh#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/uttar-pradesh#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/uttar-pradesh#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/uttar-pradesh#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/uttar-pradesh#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/uttar-pradesh#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Uttar Pradesh",
-            "item": "https://settleloans.in/loan-settlement/uttar-pradesh"
+            "item": "https://www.settleloans.in/loan-settlement/uttar-pradesh"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/uttar-pradesh#service",
+        "@id": "https://www.settleloans.in/loan-settlement/uttar-pradesh#service",
         "name": "Uttar Pradesh Loan Settlement Services",
         "description": "Professional debt negotiation and legal protection services for personal loans and credit cards in Lucknow, Kanpur, Noida, and across UP.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Lucknow" },
@@ -92,7 +92,7 @@ export default function UttarPradeshLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/uttar-pradesh#article",
+        "@id": "https://www.settleloans.in/loan-settlement/uttar-pradesh#article",
         "headline": "Strategic Loan Settlement Guide for Uttar Pradesh Borrowers",
         "description": "A comprehensive analysis of loan settlement laws, procedures, and legal help available in Uttar Pradesh, including UP Regulation of Money Lending Act and Lok Adalats.",
         "author": {
@@ -104,16 +104,16 @@ export default function UttarPradeshLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-02",
         "dateModified": "2024-02-02",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/uttar-pradesh#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/uttar-pradesh#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/uttar-pradesh#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/uttar-pradesh#faq",
         "mainEntity": [
           {
             "@type": "Question",

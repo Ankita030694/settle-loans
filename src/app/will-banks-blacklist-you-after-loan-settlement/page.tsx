@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Will Banks Blacklist You After Loan Settlement? | The Truth 2024",
     description: "Concerned about being blacklisted after loan settlement? This 5500+ word guide explains internal bank lists, CIBIL impact, and how to regain your creditworthiness.",
     alternates: {
-        canonical: "https://settleloans.in/will-banks-blacklist-you-after-loan-settlement",
+        canonical: "https://www.settleloans.in/will-banks-blacklist-you-after-loan-settlement",
     },
 };
 
@@ -16,34 +16,34 @@ export default function BanksBlacklistAfterSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/will-banks-blacklist-you-after-loan-settlement#webpage",
-                "url": "https://settleloans.in/will-banks-blacklist-you-after-loan-settlement",
+                "@id": "https://www.settleloans.in/will-banks-blacklist-you-after-loan-settlement#webpage",
+                "url": "https://www.settleloans.in/will-banks-blacklist-you-after-loan-settlement",
                 "name": "Will Banks Blacklist You After Loan Settlement? | Full Analysis",
                 "description": "Explaining the reality of bank blacklisting post-settlement in India, covering internal lists and credit recovery.",
-                "breadcrumb": { "@id": "https://settleloans.in/will-banks-blacklist-you-after-loan-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/will-banks-blacklist-you-after-loan-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/will-banks-blacklist-you-after-loan-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/will-banks-blacklist-you-after-loan-settlement#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Will Banks Blacklist You?",
-                        "item": "https://settleloans.in/will-banks-blacklist-you-after-loan-settlement"
+                        "item": "https://www.settleloans.in/will-banks-blacklist-you-after-loan-settlement"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/will-banks-blacklist-you-after-loan-settlement#article",
+                "@id": "https://www.settleloans.in/will-banks-blacklist-you-after-loan-settlement#article",
                 "headline": "Will Banks Blacklist You After Loan Settlement? The Ultimate 2024 Guide",
                 "description": "Is a loan settlement a permanent ban from banking? We uncover the truth about internal bank lists and CIBIL reporting.",
                 "author": {
@@ -55,16 +55,16 @@ export default function BanksBlacklistAfterSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-12",
                 "dateModified": "2024-03-12",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/will-banks-blacklist-you-after-loan-settlement#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/will-banks-blacklist-you-after-loan-settlement#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/will-banks-blacklist-you-after-loan-settlement#product",
+                "@id": "https://www.settleloans.in/will-banks-blacklist-you-after-loan-settlement#product",
                 "name": "Loan Settlement Consultation",
                 "description": "Expert advice on avoiding permanent blacklisting and negotiating settlements with Indian banks.",
                 "aggregateRating": {
@@ -105,7 +105,7 @@ export default function BanksBlacklistAfterSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/will-banks-blacklist-you-after-loan-settlement#faq",
+                "@id": "https://www.settleloans.in/will-banks-blacklist-you-after-loan-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

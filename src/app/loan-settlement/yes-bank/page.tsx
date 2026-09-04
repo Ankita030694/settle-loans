@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "YES Bank Loan Settlement Guide 2026 | Settle Credit Card & Personal Loans",
   description: "Struggling with YES Bank debt? Learn the expert process for YES Bank loan settlement, J.C. Flowers ARC negotiation, and OTS schemes. Settle for 30-70% less legally.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/yes-bank",
+    canonical: "https://www.settleloans.in/loan-settlement/yes-bank",
   },
 };
 
@@ -16,46 +16,46 @@ export default function YesBankSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/yes-bank#webpage",
-        "url": "https://settleloans.in/loan-settlement/yes-bank",
+        "@id": "https://www.settleloans.in/loan-settlement/yes-bank#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/yes-bank",
         "name": "YES Bank Loan Settlement Guide 2026 | Settle Credit Card & Personal Loans",
         "description": "Expert guide to YES Bank loan settlement and credit card debt negotiation.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/yes-bank#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/yes-bank#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/yes-bank#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/yes-bank#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "YES Bank Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement/yes-bank"
+            "item": "https://www.settleloans.in/loan-settlement/yes-bank"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/yes-bank#service",
+        "@id": "https://www.settleloans.in/loan-settlement/yes-bank#service",
         "name": "YES Bank Loan Settlement Service",
         "description": "Professional debt negotiation for YES Bank personal loans and credit cards.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "EMI Deducted But Not Updated? Loan Payment Is Not Reflected on Time",
   description: "Money deducted from your account but the bank says 'EMI bounced'? Learn how to resolve when your loan payment is not reflected on time and avoid penal interest for bank delays.",
   alternates: {
-    canonical: "https://settleloans.in/loan-payment-is-not-reflected-on-time",
+    canonical: "https://www.settleloans.in/loan-payment-is-not-reflected-on-time",
   },
 };
 
@@ -17,34 +17,34 @@ export default function LoanPaymentNotReflectedPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-payment-is-not-reflected-on-time#webpage",
-        "url": "https://settleloans.in/loan-payment-is-not-reflected-on-time",
+        "@id": "https://www.settleloans.in/loan-payment-is-not-reflected-on-time#webpage",
+        "url": "https://www.settleloans.in/loan-payment-is-not-reflected-on-time",
         "name": "EMI Deducted But Not Updated? Loan Payment Is Not Reflected on Time",
         "description": "Learn how to resolve when your loan payment is not reflected on time and avoid penal interest for bank delays.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-payment-is-not-reflected-on-time#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-payment-is-not-reflected-on-time#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-payment-is-not-reflected-on-time#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-payment-is-not-reflected-on-time#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Payment Not Reflected",
-            "item": "https://settleloans.in/loan-payment-is-not-reflected-on-time"
+            "item": "https://www.settleloans.in/loan-payment-is-not-reflected-on-time"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-payment-is-not-reflected-on-time#article",
+        "@id": "https://www.settleloans.in/loan-payment-is-not-reflected-on-time#article",
         "headline": "EMI Deducted But Not Updated? Loan Payment Is Not Reflected on Time",
         "description": "Don't pay late fees when money is deducted from your account but the bank says EMI bounced. File a complaint immediately.",
         "author": {
@@ -56,22 +56,22 @@ export default function LoanPaymentNotReflectedPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-23",
         "dateModified": "2024-07-23",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-payment-is-not-reflected-on-time#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-payment-is-not-reflected-on-time#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-payment-is-not-reflected-on-time#product",
+        "@id": "https://www.settleloans.in/loan-payment-is-not-reflected-on-time#product",
         "name": "Financial Dispute Legal Notice",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal assistance to resolve technical disputes where loan payment is not reflected and to reverse unjust penal interest for bank delays.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function LoanPaymentNotReflectedPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-payment-is-not-reflected-on-time#faq",
+        "@id": "https://www.settleloans.in/loan-payment-is-not-reflected-on-time#faq",
         "mainEntity": [
           {
             "@type": "Question",

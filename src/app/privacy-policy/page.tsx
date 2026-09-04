@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Privacy Policy - SettleLoans",
   description: "Learn about how SettleLoans collects, uses, and protects your personal and financial information. Our commitment to your privacy and data security.",
   alternates: {
-    canonical: "https://settleloans.in/privacy-policy",
+    canonical: "https://www.settleloans.in/privacy-policy",
   },
 };
 

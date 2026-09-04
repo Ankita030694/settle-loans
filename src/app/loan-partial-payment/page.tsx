@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Loan Partial Payment: How to Reduce Your Loan Principal Faster",
   description: "Want to crush your debt faster? Learn the mathematical secret of how a partial payment in a personal loan can shave years off your loan and maximize part payment benefits.",
   alternates: {
-    canonical: "https://settleloans.in/loan-partial-payment",
+    canonical: "https://www.settleloans.in/loan-partial-payment",
   },
 };
 
@@ -17,34 +17,34 @@ export default function LoanPartialPaymentPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-partial-payment#webpage",
-        "url": "https://settleloans.in/loan-partial-payment",
+        "@id": "https://www.settleloans.in/loan-partial-payment#webpage",
+        "url": "https://www.settleloans.in/loan-partial-payment",
         "name": "Loan Partial Payment: How to Reduce Your Loan Principal Faster",
         "description": "Learn the mathematical secret of how 1 extra partial payment can shave years off your loan and explore the part payment benefits for your personal loan.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-partial-payment#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-partial-payment#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-partial-payment#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-partial-payment#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Partial Payment",
-            "item": "https://settleloans.in/loan-partial-payment"
+            "item": "https://www.settleloans.in/loan-partial-payment"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-partial-payment#article",
+        "@id": "https://www.settleloans.in/loan-partial-payment#article",
         "headline": "Loan Partial Payment: How to Reduce Your Loan Principal Faster",
         "description": "Discover the incredible benefits of making a partial payment in personal loan accounts. Learn how to reduce loan principal effectively.",
         "author": {
@@ -56,22 +56,22 @@ export default function LoanPartialPaymentPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-24",
         "dateModified": "2024-07-24",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-partial-payment#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-partial-payment#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-partial-payment#product",
+        "@id": "https://www.settleloans.in/loan-partial-payment#product",
         "name": "Debt Reduction & Optimization Services",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert financial services helping borrowers optimize partial payments, reduce their principal, and accelerate loan closure.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function LoanPartialPaymentPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-partial-payment#faq",
+        "@id": "https://www.settleloans.in/loan-partial-payment#faq",
         "mainEntity": [
           {
             "@type": "Question",

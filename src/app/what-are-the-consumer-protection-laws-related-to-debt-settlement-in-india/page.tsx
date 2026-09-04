@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Consumer Protection Laws for Debt Settlement in India | 2025 Guide",
   description: "Learn about your legal rights under the Consumer Protection Act 2019 and RBI 2025 guidelines regarding debt settlement and recovery harassment in India.",
   alternates: {
-    canonical: "https://settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india",
+    canonical: "https://www.settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india",
   },
 };
 
@@ -16,34 +16,34 @@ export default function ConsumerProtectionLawsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india#webpage",
-        "url": "https://settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india",
+        "@id": "https://www.settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india#webpage",
+        "url": "https://www.settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india",
         "name": "Consumer Protection Laws for Debt Settlement in India | 2025 Guide",
         "description": "Exhaustive guide on legal protections for Indian borrowers facing debt collection and negotiation.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india#breadcrumb",
+        "@id": "https://www.settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Consumer Protection Laws",
-            "item": "https://settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india"
+            "item": "https://www.settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india#article",
+        "@id": "https://www.settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india#article",
         "headline": "Consumer Protection Laws in Debt Settlement: Your 2025 Legal Shield",
         "description": "A deep dive into the RBI Fair Practice Code, Consumer Protection Act 2019, and the rights of every Indian borrower.",
         "author": {
@@ -55,19 +55,19 @@ export default function ConsumerProtectionLawsPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-18",
         "dateModified": "2024-03-18",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india#webpage" }
       },
       {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
-        "logo": "https://settleloans.in/logo/logo.svg",
+        "url": "https://www.settleloans.in",
+        "logo": "https://www.settleloans.in/logo/logo.svg",
         "contactPoint": {
           "@type": "ContactPoint",
           "telephone": "+91-XXXXXXXXXX",
@@ -76,7 +76,7 @@ export default function ConsumerProtectionLawsPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india#product",
+        "@id": "https://www.settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india#product",
         "name": "Legal Debt Protection Service",
         "description": "Expert legal guidance to protect borrowers from recovery harassment and negotiate settlements under RBI laws.",
         "aggregateRating": {
@@ -117,7 +117,7 @@ export default function ConsumerProtectionLawsPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india#faq",
+        "@id": "https://www.settleloans.in/what-are-the-consumer-protection-laws-related-to-debt-settlement-in-india#faq",
         "mainEntity": [
           {
             "@type": "Question",

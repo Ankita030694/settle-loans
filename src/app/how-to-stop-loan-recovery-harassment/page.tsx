@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How to Stop Loan Recovery Harassment in India | RBI Guidelines 2026",
   description: "Are you facing harassment from loan recovery agents? Learn exactly how to stop recovery harassment using RBI guidelines, legal steps, and police complaints. Regain your peace of mind today.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-stop-loan-recovery-harassment",
+    canonical: "https://www.settleloans.in/how-to-stop-loan-recovery-harassment",
   },
 };
 
@@ -16,34 +16,34 @@ export default function StopLoanHarassmentPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-stop-loan-recovery-harassment#webpage",
-        "url": "https://settleloans.in/how-to-stop-loan-recovery-harassment",
+        "@id": "https://www.settleloans.in/how-to-stop-loan-recovery-harassment#webpage",
+        "url": "https://www.settleloans.in/how-to-stop-loan-recovery-harassment",
         "name": "How to Stop Loan Recovery Harassment in India | RBI Guidelines 2026",
         "description": "Comprehensive guide on stopping loan recovery agent harassment through legal means and RBI guidelines in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-stop-loan-recovery-harassment#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-stop-loan-recovery-harassment#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-stop-loan-recovery-harassment#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-stop-loan-recovery-harassment#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Stop Loan Recovery Harassment",
-            "item": "https://settleloans.in/how-to-stop-loan-recovery-harassment"
+            "item": "https://www.settleloans.in/how-to-stop-loan-recovery-harassment"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-stop-loan-recovery-harassment#article",
+        "@id": "https://www.settleloans.in/how-to-stop-loan-recovery-harassment#article",
         "headline": "How to Stop Loan Recovery Harassment: The Ultimate 2026 Legal Guide",
         "description": "Stop aggressive debt collection today by following these validated steps based on the latest RBI regulations and Indian laws.",
         "author": {
@@ -55,16 +55,16 @@ export default function StopLoanHarassmentPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-stop-loan-recovery-harassment#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-stop-loan-recovery-harassment#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-stop-loan-recovery-harassment#product",
+        "@id": "https://www.settleloans.in/how-to-stop-loan-recovery-harassment#product",
         "name": "Debt Harassment Protection Services",
         "description": "Expert assistance in stopping illegal loan recovery harassment and negotiating debt settlements.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function StopLoanHarassmentPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-stop-loan-recovery-harassment#faq",
+        "@id": "https://www.settleloans.in/how-to-stop-loan-recovery-harassment#faq",
         "mainEntity": [
           {
             "@type": "Question",

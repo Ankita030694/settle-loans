@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'cibil report restructured vs settled status'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement',
+    canonical: 'https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement',
   },
   openGraph: {
     title: 'RBI Debt Resolution Framework vs Loan Settlement: Restructuring vs OTS Compared',
     description: 'Master the strategic choice between loan restructuring under RBI Master Directions and a definitive One Time Settlement (OTS) haircut. Learn how banking regulations, CIBIL scoring, and NPV recovery economics dictate the right debt relief path.',
-    url: 'https://settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement',
+    url: 'https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/rbi-debt-resolution-framework-vs-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/rbi-debt-resolution-framework-vs-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'RBI Debt Resolution Framework vs Loan Settlement Comparison Infographic',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'RBI Debt Resolution Framework vs Loan Settlement: Restructuring vs OTS Compared',
     description: 'Facing loan default in India? Discover whether you should apply for tenure extension and moratorium under the RBI Resolution Framework or negotiate a 50%–75% OTS haircut settlement.',
-    images: ['https://settleloans.in/images/infographics/rbi-debt-resolution-framework-vs-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/rbi-debt-resolution-framework-vs-loan-settlement.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement#webpage",
-      "url": "https://settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement",
+      "@id": "https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement",
       "name": "RBI Debt Resolution Framework vs Loan Settlement: Restructuring vs OTS Compared (2026)",
       "description": "Understand the critical difference between loan restructuring under the RBI Debt Resolution Framework and One Time Settlement (OTS). Compare tenure extensions, moratoriums, CIBIL reporting, NPV haircut formulas, and legal finality.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "RBI Debt Resolution Framework vs Loan Settlement",
-          "item": "https://settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement"
+          "item": "https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement#article",
+      "@id": "https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement#article",
       "headline": "RBI Debt Resolution Framework vs Loan Settlement: Strategic Restructuring vs OTS Haircut Analysis",
       "description": "A comprehensive regulatory, financial, and legal comparison between loan restructuring under RBI Master Directions on Resolution of Stressed Assets and One-Time Settlement (OTS) debt compromise. Details eligibility criteria, tenure modifications, moratoriums, CIBIL credit score impact, bank provisioning economics, and Net Present Value recovery formulas.",
-      "image": "https://settleloans.in/images/infographics/rbi-debt-resolution-framework-vs-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/rbi-debt-resolution-framework-vs-loan-settlement.jpg",
       "datePublished": "2026-08-28T10:00:00+05:30",
       "dateModified": "2026-08-28T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement#service",
+      "@id": "https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement#service",
       "name": "SettleLoans - RBI Debt Resolution & Loan Settlement Legal Advisory",
       "description": "Specialized legal representation and financial debt defense advisory helping retail, SME, and corporate borrowers navigate the RBI Prudential Resolution Framework, loan restructuring, and high-haircut One-Time Settlements across India.",
-      "url": "https://settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/rbi-debt-resolution-framework-vs-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/rbi-debt-resolution-framework-vs-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/rbi-debt-resolution-framework-vs-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -313,12 +313,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

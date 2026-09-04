@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     title: `Loan Settlement for ${bank.company} | Settle Credit Card & Loans - SettleLoans`,
     description: `Expert assistance for loan settlement for ${bank.company}. Settle your credit card and personal loans for 40-70% less. Professional debt relief for ${bank.company} customers.`,
     alternates: {
-        canonical: `https://settleloans.in/loan-settlement-by-bank/${slug}`,
+        canonical: `https://www.settleloans.in/loan-settlement-by-bank/${slug}`,
     },
   };
 }
@@ -56,31 +56,31 @@ export default async function BankSettlementPage({
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": `https://settleloans.in/loan-settlement-by-bank/${slug}#webpage`,
-        "url": `https://settleloans.in/loan-settlement-by-bank/${slug}`,
+        "@id": `https://www.settleloans.in/loan-settlement-by-bank/${slug}#webpage`,
+        "url": `https://www.settleloans.in/loan-settlement-by-bank/${slug}`,
         "name": `Loan Settlement for ${bankName} | Legal Debt Relief Guide`,
         "description": `Comprehensive guide on loan settlement for ${bankName}. Learn how to negotiate and settle your debts.`,
-        "breadcrumb": { "@id": `https://settleloans.in/loan-settlement-by-bank/${slug}#breadcrumb` },
+        "breadcrumb": { "@id": `https://www.settleloans.in/loan-settlement-by-bank/${slug}#breadcrumb` },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": `https://settleloans.in/loan-settlement-by-bank/${slug}#breadcrumb`,
+        "@id": `https://www.settleloans.in/loan-settlement-by-bank/${slug}#breadcrumb`,
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Loan Settlement by Bank", "item": "https://settleloans.in/loan-settlement-by-bank" },
-          { "@type": "ListItem", "position": 3, "name": `${bankName} Settlement`, "item": `https://settleloans.in/loan-settlement-by-bank/${slug}` }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Loan Settlement by Bank", "item": "https://www.settleloans.in/loan-settlement-by-bank" },
+          { "@type": "ListItem", "position": 3, "name": `${bankName} Settlement`, "item": `https://www.settleloans.in/loan-settlement-by-bank/${slug}` }
         ]
       },
       {
         "@type": "Product",
-        "@id": `https://settleloans.in/loan-settlement-by-bank/${slug}#service`,
+        "@id": `https://www.settleloans.in/loan-settlement-by-bank/${slug}#service`,
         "name": `Loan Settlement for ${bankName} Service`,
         "description": `Professional debt negotiation for ${bankName} personal loans and credit cards.`,
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -106,7 +106,7 @@ export default async function BankSettlementPage({
       },
       {
         "@type": "Article",
-        "@id": `https://settleloans.in/loan-settlement-by-bank/${slug}#article`,
+        "@id": `https://www.settleloans.in/loan-settlement-by-bank/${slug}#article`,
         "headline": `The Ultimate Guide to Loan Settlement for ${bankName} in 2026`,
         "author": { "@type": "Organization", "name": "SettleLoans Legal Team" },
         "datePublished": "2024-03-01",
@@ -114,7 +114,7 @@ export default async function BankSettlementPage({
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+          "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
         }
       }
     ]

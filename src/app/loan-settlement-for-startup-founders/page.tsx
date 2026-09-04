@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement for Startup Founders in India | Venture Debt Relief",
   description: "Are you a startup founder struggling with personal guarantees and venture debt? Learn the legal process of startup loan settlement and debt resolution in India. Reclaim your future today.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement-for-startup-founders",
+    canonical: "https://www.settleloans.in/loan-settlement-for-startup-founders",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LoanSettlementStartupFoundersPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-for-startup-founders#webpage",
-        "url": "https://settleloans.in/loan-settlement-for-startup-founders",
+        "@id": "https://www.settleloans.in/loan-settlement-for-startup-founders#webpage",
+        "url": "https://www.settleloans.in/loan-settlement-for-startup-founders",
         "name": "Loan Settlement for Startup Founders in India | Venture Debt Relief",
         "description": "Expert guide to startup loan resolution and debt settlement for founders in India, focusing on personal guarantees and venture debt.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-for-startup-founders#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-for-startup-founders#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement-for-startup-founders#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement-for-startup-founders#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement for Startup Founders",
-            "item": "https://settleloans.in/loan-settlement-for-startup-founders"
+            "item": "https://www.settleloans.in/loan-settlement-for-startup-founders"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement-for-startup-founders#article",
+        "@id": "https://www.settleloans.in/loan-settlement-for-startup-founders#article",
         "headline": "Loan Settlement for Startup Founders: Protecting Your Vision and Assets",
         "description": "Learn how startup founders can resolve business liabilities and personally guaranteed loans legally after a pivot or shutdown.",
         "author": {
@@ -55,16 +55,16 @@ export default function LoanSettlementStartupFoundersPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-for-startup-founders#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-for-startup-founders#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement-for-startup-founders#product",
+        "@id": "https://www.settleloans.in/loan-settlement-for-startup-founders#product",
         "name": "Founder Debt Settlement Services",
         "description": "Legal and financial consultancy for startup founders in India for debt resolution and personal guarantee management.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function LoanSettlementStartupFoundersPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement-for-startup-founders#faq",
+        "@id": "https://www.settleloans.in/loan-settlement-for-startup-founders#faq",
         "mainEntity": [
           {
             "@type": "Question",

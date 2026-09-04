@@ -51,16 +51,16 @@ export const metadata: Metadata = {
     'personal loan settlement legal rights'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/bank-fir-for-loan-default-reality-check',
+    canonical: 'https://www.settleloans.in/bank-fir-for-loan-default-reality-check',
   },
   openGraph: {
     title: 'Can Bank File FIR for Loan Default? Section 420 IPC Myth vs Reality',
     description: 'Definitive legal analysis on loan default and criminal law in India. Understand why banks cannot lodge an FIR under Section 420/406 IPC for genuine defaults, Supreme Court protections, and how advocates stop recovery harassment.',
-    url: 'https://settleloans.in/bank-fir-for-loan-default-reality-check',
+    url: 'https://www.settleloans.in/bank-fir-for-loan-default-reality-check',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/bank-fir-for-loan-default-reality-check.jpg',
+        url: 'https://www.settleloans.in/images/infographics/bank-fir-for-loan-default-reality-check.jpg',
         width: 1200,
         height: 675,
         alt: 'Bank FIR for Loan Default Reality Check Infographic',
@@ -73,7 +73,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Can Bank File FIR for Personal Loan Default? Legal Reality Check',
     description: 'Collection agents threatening an FIR under Section 420 IPC? Discover landmark Supreme Court rulings that protect honest borrowers from criminal intimidation and how to settle safely.',
-    images: ['https://settleloans.in/images/infographics/bank-fir-for-loan-default-reality-check.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/bank-fir-for-loan-default-reality-check.jpg'],
   },
 };
 
@@ -82,74 +82,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/bank-fir-for-loan-default-reality-check#webpage",
-      "url": "https://settleloans.in/bank-fir-for-loan-default-reality-check",
+      "@id": "https://www.settleloans.in/bank-fir-for-loan-default-reality-check#webpage",
+      "url": "https://www.settleloans.in/bank-fir-for-loan-default-reality-check",
       "name": "Can Bank File FIR for Personal Loan Default? Section 420 IPC Myth vs Reality & Legal Protections",
       "description": "Exhaustive legal reality check on bank FIR threats for personal loan defaults in India. Explains Section 420 & 406 IPC abuse, landmark Supreme Court quashing precedents, RBI Fair Practices Code, and debt settlement strategies.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/bank-fir-for-loan-default-reality-check#breadcrumb"
+        "@id": "https://www.settleloans.in/bank-fir-for-loan-default-reality-check#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/bank-fir-for-loan-default-reality-check#breadcrumb",
+      "@id": "https://www.settleloans.in/bank-fir-for-loan-default-reality-check#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Bank FIR for Loan Default Reality Check",
-          "item": "https://settleloans.in/bank-fir-for-loan-default-reality-check"
+          "item": "https://www.settleloans.in/bank-fir-for-loan-default-reality-check"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/bank-fir-for-loan-default-reality-check#article",
+      "@id": "https://www.settleloans.in/bank-fir-for-loan-default-reality-check#article",
       "headline": "Can Bank File FIR for Personal Loan Default? Section 420 IPC Myth vs Reality & Legal Protections",
       "description": "An in-depth legal analysis examining whether banks can file an FIR for loan default in India. Features comprehensive statutory breakdowns of Section 420 & 406 IPC, Supreme Court quashing rulings, RBI Fair Practices Code against recovery agent intimidation, and advocate-led debt settlement protocols.",
-      "image": "https://settleloans.in/images/infographics/bank-fir-for-loan-default-reality-check.jpg",
+      "image": "https://www.settleloans.in/images/infographics/bank-fir-for-loan-default-reality-check.jpg",
       "datePublished": "2026-08-25T10:00:00+05:30",
       "dateModified": "2026-08-25T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/bank-fir-for-loan-default-reality-check#webpage"
+        "@id": "https://www.settleloans.in/bank-fir-for-loan-default-reality-check#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/bank-fir-for-loan-default-reality-check#service",
+      "@id": "https://www.settleloans.in/bank-fir-for-loan-default-reality-check#service",
       "name": "SettleLoans - Legal Defense & Loan Default Resolution Advisory",
       "description": "Expert legal protection against illegal criminal intimidation, fraudulent Section 420 police complaints, and recovery agent harassment, paired with structured One-Time Settlement (OTS) negotiation across India.",
-      "url": "https://settleloans.in/bank-fir-for-loan-default-reality-check",
-      "image": "https://settleloans.in/images/infographics/bank-fir-for-loan-default-reality-check.jpg",
+      "url": "https://www.settleloans.in/bank-fir-for-loan-default-reality-check",
+      "image": "https://www.settleloans.in/images/infographics/bank-fir-for-loan-default-reality-check.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -162,9 +162,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -238,7 +238,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/bank-fir-for-loan-default-reality-check#faq",
+      "@id": "https://www.settleloans.in/bank-fir-for-loan-default-reality-check#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -316,12 +316,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How to Remove a 'Written-Off' Status from Your CIBIL Report",
   description: "Bank wrote off your personal loan? Discover the severe consequences of a written-off status and learn exactly how to convert written-off to closed CIBIL status.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india",
+    canonical: "https://www.settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india",
   },
 };
 
@@ -16,34 +16,34 @@ export default function RemoveWrittenOffStatusPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india#webpage",
-        "url": "https://settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india",
+        "@id": "https://www.settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india#webpage",
+        "url": "https://www.settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india",
         "name": "How to Remove a 'Written-Off' Status from Your CIBIL Report",
         "description": "A technical financial guide explaining the difference between 'Settled' and 'Written-Off'. Learn how to negotiate and clear a written-off loan from CIBIL.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Remove Written-Off Status",
-            "item": "https://settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india"
+            "item": "https://www.settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india#article",
+        "@id": "https://www.settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india#article",
         "headline": "How to Remove a 'Written-Off' Status from Your CIBIL Report",
         "description": "Learn the exact steps to convert written-off to closed CIBIL status after a bank writes off your loan.",
         "author": {
@@ -55,22 +55,22 @@ export default function RemoveWrittenOffStatusPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-25",
         "dateModified": "2024-03-25",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india#product",
+        "@id": "https://www.settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india#product",
         "name": "CIBIL Dispute & Loan Settlement Services",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert financial services to negotiate with banks, clear written-off loans, and upgrade your CIBIL status to 'Closed'.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -119,7 +119,7 @@ export default function RemoveWrittenOffStatusPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india#faq",
+        "@id": "https://www.settleloans.in/how-to-remove-written-off-status-from-cibil-report-in-india#faq",
         "mainEntity": [
           {
             "@type": "Question",

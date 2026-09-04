@@ -52,17 +52,17 @@ export const metadata: Metadata = {
     'one time settlement ots kanpur banks'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-kanpur',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-kanpur',
   },
   openGraph: {
     title: 'Debt Settlement Advocates in Kanpur: Legal Defense & Bank OTS Advisory',
     description:
       'Expert legal defense and One-Time Settlement (OTS) representation for leather exporters, factory workers, traders, and salaried executives facing loan default across Kanpur, Civil Lines, and Panki.',
-    url: 'https://settleloans.in/personal-loan-settlement-kanpur',
+    url: 'https://www.settleloans.in/personal-loan-settlement-kanpur',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-kanpur.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-kanpur.jpg',
         width: 1200,
         height: 675,
         alt: 'Debt Settlement Advocates in Kanpur Legal Guide',
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
     title: 'Debt Settlement Advocates in Kanpur: Legal Defense & Lok Adalat Guide',
     description:
       'Authoritative legal representation for bank loan defaults, Section 138/25 notices in Kanpur Nagar courts, DLSA Lok Adalat compromise decrees, and anti-harassment shielding in Kanpur.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-kanpur.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-kanpur.jpg'],
   },
 };
 
@@ -85,79 +85,79 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-kanpur#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-kanpur",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-kanpur#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-kanpur",
       "name": "Debt Settlement Advocates in Kanpur: Legal Defense & OTS (2026)",
       "description": "Facing loan default, recovery agent harassment, or court summons in Kanpur? Senior debt settlement advocates protect leather exporters, merchants, and workers with 40%–70% OTS waivers.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-kanpur#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-kanpur#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-kanpur#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-kanpur#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Debt Settlement Advocates in Kanpur",
-          "item": "https://settleloans.in/personal-loan-settlement-kanpur"
+          "item": "https://www.settleloans.in/personal-loan-settlement-kanpur"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-kanpur#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-kanpur#article",
       "headline": "Debt Settlement Advocates in Kanpur: Industrial Debt Defense, Bank OTS & 40%–70% Relief",
       "description": "An exhaustive legal and financial guide for distressed leather exporters, factory workers, retail merchants, and salaried professionals in Kanpur. Learn Kanpur Nagar District Court dynamics, Section 171 banker lien protections, DLSA Lok Adalat settlement procedures, and how seasoned Kanpur advocates negotiate 40% to 70% debt waivers.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-kanpur.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-kanpur.jpg",
       "datePublished": "2026-08-28T12:00:00+05:30",
       "dateModified": "2026-08-28T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-kanpur#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-kanpur#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
@@ -167,7 +167,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-kanpur#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-kanpur#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -245,11 +245,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-kanpur#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-kanpur#service",
       "name": "SettleLoans - Debt Settlement Advocates in Kanpur & Legal Defense",
       "description": "Premier debt settlement advisory, court notice defense, and DLSA Lok Adalat representation for leather exporters, factory workers, traders, and salaried professionals across Kanpur, Civil Lines, Panki, and Swaroop Nagar.",
-      "url": "https://settleloans.in/personal-loan-settlement-kanpur",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-kanpur.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-kanpur",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-kanpur.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -262,9 +262,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

@@ -56,16 +56,16 @@ export const metadata: Metadata = {
     'one time settlement after stay order'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/stay-order-against-bank-loan-recovery',
+    canonical: 'https://www.settleloans.in/stay-order-against-bank-loan-recovery',
   },
   openGraph: {
     title: 'How to Get Stay Order Against Loan Recovery: Civil Injunctions & Legal Guide',
     description: 'Learn how borrowers facing coercive recovery agent harassment can secure an urgent civil court stay order under Order 39 CPC and constitutional protection.',
-    url: 'https://settleloans.in/stay-order-against-bank-loan-recovery',
+    url: 'https://www.settleloans.in/stay-order-against-bank-loan-recovery',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/stay-order-against-bank-loan-recovery.jpg',
+        url: 'https://www.settleloans.in/images/infographics/stay-order-against-bank-loan-recovery.jpg',
         width: 1200,
         height: 675,
         alt: 'Court Stay Order Against Coercive Loan Recovery Legal Procedure and Civil Injunction Guide',
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Get Stay Order Against Loan Recovery: Civil Injunctions & Legal Guide',
     description: 'Stop recovery agent intimidation. Understand how to obtain an emergency civil injunction and restraining order under Order 39 CPC.',
-    images: ['https://settleloans.in/images/infographics/stay-order-against-bank-loan-recovery.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/stay-order-against-bank-loan-recovery.jpg'],
   },
 };
 
@@ -87,74 +87,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/stay-order-against-bank-loan-recovery#webpage",
-      "url": "https://settleloans.in/stay-order-against-bank-loan-recovery",
+      "@id": "https://www.settleloans.in/stay-order-against-bank-loan-recovery#webpage",
+      "url": "https://www.settleloans.in/stay-order-against-bank-loan-recovery",
       "name": "How to Get Stay Order Against Loan Recovery: Civil Injunctions & Legal Guide",
       "description": "Facing unlawful physical harassment by bank recovery agents? Learn how to get a court stay order and interim civil injunction under Order 39 CPC prohibiting agents from approaching your home or office.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/stay-order-against-bank-loan-recovery#breadcrumb"
+        "@id": "https://www.settleloans.in/stay-order-against-bank-loan-recovery#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/stay-order-against-bank-loan-recovery#breadcrumb",
+      "@id": "https://www.settleloans.in/stay-order-against-bank-loan-recovery#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Stay Order Against Bank Loan Recovery",
-          "item": "https://settleloans.in/stay-order-against-bank-loan-recovery"
+          "item": "https://www.settleloans.in/stay-order-against-bank-loan-recovery"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/stay-order-against-bank-loan-recovery#article",
+      "@id": "https://www.settleloans.in/stay-order-against-bank-loan-recovery#article",
       "headline": "Court Stay Order Against Coercive Loan Recovery: Legal Procedure, Civil Injunctions & Protection",
       "description": "A comprehensive legal guide detailing how distressed borrowers can secure civil court injunctions under Order 39 CPC to restrain banks and recovery agents from physical intimidation, workplace harassment, and unannounced home visits.",
-      "image": "https://settleloans.in/images/infographics/stay-order-against-bank-loan-recovery.jpg",
+      "image": "https://www.settleloans.in/images/infographics/stay-order-against-bank-loan-recovery.jpg",
       "datePublished": "2026-08-25T12:00:00+05:30",
       "dateModified": "2026-08-25T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/stay-order-against-bank-loan-recovery#webpage"
+        "@id": "https://www.settleloans.in/stay-order-against-bank-loan-recovery#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/stay-order-against-bank-loan-recovery#service",
+      "@id": "https://www.settleloans.in/stay-order-against-bank-loan-recovery#service",
       "name": "SettleLoans - Civil Injunction & Coercive Recovery Defense Advisory",
       "description": "Specialized legal representation for borrowers facing unlawful recovery agent harassment, providing civil court stay order assistance, Order 39 CPC applications, and institutional debt settlement.",
-      "url": "https://settleloans.in/stay-order-against-bank-loan-recovery",
-      "image": "https://settleloans.in/images/infographics/stay-order-against-bank-loan-recovery.jpg",
+      "url": "https://www.settleloans.in/stay-order-against-bank-loan-recovery",
+      "image": "https://www.settleloans.in/images/infographics/stay-order-against-bank-loan-recovery.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -167,9 +167,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -243,7 +243,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/stay-order-against-bank-loan-recovery#faq",
+      "@id": "https://www.settleloans.in/stay-order-against-bank-loan-recovery#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -329,12 +329,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

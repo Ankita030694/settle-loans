@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Kisetsu Saison Finance Loan Settlement | Credit Saison India OTS Guide - SettleLoans",
   description: "Struggling with Kisetsu Saison Finance (Credit Saison India) debt? Expert guide to loan settlement, interest waivers, and stopping collection harassment legally.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/kisetsu-saison-finance",
+    canonical: "https://www.settleloans.in/loan-settlement/kisetsu-saison-finance",
   },
 };
 
@@ -16,28 +16,28 @@ export default function KisetsuSaisonSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/kisetsu-saison-finance#webpage",
-        "url": "https://settleloans.in/loan-settlement/kisetsu-saison-finance",
+        "@id": "https://www.settleloans.in/loan-settlement/kisetsu-saison-finance#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/kisetsu-saison-finance",
         "name": "Kisetsu Saison Finance Loan Settlement | Credit Saison India OTS Guide",
         "description": "Professional assistance for Kisetsu Saison Finance loan and app debt settlement.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/kisetsu-saison-finance#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/kisetsu-saison-finance#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/kisetsu-saison-finance#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/kisetsu-saison-finance#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Loan Settlement", "item": "https://settleloans.in/loan-settlement" },
-          { "@type": "ListItem", "position": 3, "name": "Kisetsu Saison Settlement", "item": "https://settleloans.in/loan-settlement/kisetsu-saison-finance" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Loan Settlement", "item": "https://www.settleloans.in/loan-settlement" },
+          { "@type": "ListItem", "position": 3, "name": "Kisetsu Saison Settlement", "item": "https://www.settleloans.in/loan-settlement/kisetsu-saison-finance" }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/kisetsu-saison-finance#service",
+        "@id": "https://www.settleloans.in/loan-settlement/kisetsu-saison-finance#service",
         "name": "Kisetsu Saison Finance Loan Settlement Service",
         "description": "Legal debt negotiation for Credit Saison India personal and business loans.",
-        "provider": { "@type": "Organization", "name": "SettleLoans", "url": "https://settleloans.in" },
+        "provider": { "@type": "Organization", "name": "SettleLoans", "url": "https://www.settleloans.in" },
         "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "415" },
         "review": [
           {
@@ -58,18 +58,18 @@ export default function KisetsuSaisonSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/kisetsu-saison-finance#article",
+        "@id": "https://www.settleloans.in/loan-settlement/kisetsu-saison-finance#article",
         "headline": "Kisetsu Saison Finance Loan Settlement: The 2026 Strategic Guide",
         "description": "Exhaustive guide on Credit Saison India settlement policies, app loan OTS, and borrower rights.",
         "author": { "@type": "Organization", "name": "SettleLoans Legal Team" },
         "publisher": { "@type": "Organization", "name": "SettleLoans" },
         "datePublished": "2024-02-16",
         "dateModified": "2024-02-16",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/kisetsu-saison-finance#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/kisetsu-saison-finance#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/kisetsu-saison-finance#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/kisetsu-saison-finance#faq",
         "mainEntity": [
           {
             "@type": "Question",

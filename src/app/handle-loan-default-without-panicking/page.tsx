@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How to Handle Loan Default Without Panicking | RBI Guidelines 2026 & Your Rights",
   description: "Struggling with loan default? Learn how to handle loan default without panicking. Explore RBI guidelines, borrower rights, recovery agent rules, and legal debt settlement options in India.",
   alternates: {
-    canonical: "https://settleloans.in/handle-loan-default-without-panicking",
+    canonical: "https://www.settleloans.in/handle-loan-default-without-panicking",
   },
 };
 
@@ -16,34 +16,34 @@ export default function HandleLoanDefaultPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/handle-loan-default-without-panicking#webpage",
-        "url": "https://settleloans.in/handle-loan-default-without-panicking",
+        "@id": "https://www.settleloans.in/handle-loan-default-without-panicking#webpage",
+        "url": "https://www.settleloans.in/handle-loan-default-without-panicking",
         "name": "How to Handle Loan Default Without Panicking | RBI Guidelines 2026 & Your Rights",
         "description": "Comprehensive guide on managing loan defaults in India without panic, covering legal rights and RBI recovery rules.",
-        "breadcrumb": { "@id": "https://settleloans.in/handle-loan-default-without-panicking#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/handle-loan-default-without-panicking#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/handle-loan-default-without-panicking#breadcrumb",
+        "@id": "https://www.settleloans.in/handle-loan-default-without-panicking#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Handle Loan Default Without Panicking",
-            "item": "https://settleloans.in/handle-loan-default-without-panicking"
+            "item": "https://www.settleloans.in/handle-loan-default-without-panicking"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/handle-loan-default-without-panicking#article",
+        "@id": "https://www.settleloans.in/handle-loan-default-without-panicking#article",
         "headline": "How to Handle Loan Default Without Panicking: A Comprehensive Guide for 2026",
         "description": "Examine the step by step process of managing loan defaults under new RBI rules. Protect your rights and find a legal way out of debt.",
         "author": {
@@ -55,16 +55,16 @@ export default function HandleLoanDefaultPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-03-28",
         "dateModified": "2026-03-28",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/handle-loan-default-without-panicking#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/handle-loan-default-without-panicking#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/handle-loan-default-without-panicking#product",
+        "@id": "https://www.settleloans.in/handle-loan-default-without-panicking#product",
         "name": "Debt Resolution Support Services",
         "description": "Expert guidance and legal negotiation for loan settlement in India.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function HandleLoanDefaultPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/handle-loan-default-without-panicking#faq",
+        "@id": "https://www.settleloans.in/handle-loan-default-without-panicking#faq",
         "mainEntity": [
           {
             "@type": "Question",

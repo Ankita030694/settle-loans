@@ -9,39 +9,39 @@ export default function NegotiationStepsPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender#webpage",
-                "url": "https://settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender",
+                "@id": "https://www.settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender#webpage",
+                "url": "https://www.settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender",
                 "name": "Steps Before Negotiating Loan Settlement | RBI Guidelines 2024-25",
                 "description": "Critical steps to take before starting loan settlement negotiations. Learn about financial audits, hardship documentation, and 2024-25 RBI protocols.",
-                "breadcrumb": { "@id": "https://settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender#breadcrumb",
+                "@id": "https://www.settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Negotiation Steps", "item": "https://settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Negotiation Steps", "item": "https://www.settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender#article",
+                "@id": "https://www.settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender#article",
                 "headline": "What Steps Should I Take Before Negotiating a Loan Settlement with My Lender?",
                 "description": "A comprehensive 4500+ word master guide on the strategic preparation required for a successful debt resolution in the Indian banking landscape.",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Research Wing" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender#product",
+                "@id": "https://www.settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender#product",
                 "name": "Loan Settlement Strategy Consultation",
                 "description": "Expert guidance and strategic planning for borrowers entering debt settlement negotiations with Indian banks.",
                 "aggregateRating": {
@@ -61,7 +61,7 @@ export default function NegotiationStepsPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender#faq",
+                "@id": "https://www.settleloans.in/what-steps-should-i-take-before-negotiating-a-loan-settlement-with-my-lender#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

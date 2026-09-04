@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'hdfc personal loan lok adalat settlement',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/case-study-hdfc-personal-loan-settlement',
+    canonical: 'https://www.settleloans.in/case-study-hdfc-personal-loan-settlement',
   },
   openGraph: {
     title: 'HDFC Personal Loan Settlement Success Story: ₹8 Lakh Settled for ₹3.2L',
     description: 'In-depth proof of concept: How an ₹8 Lakh unsecured HDFC personal loan was settled for ₹3.2 Lakhs (60% haircut) under RBI compromise guidelines after sudden job loss.',
-    url: 'https://settleloans.in/case-study-hdfc-personal-loan-settlement',
+    url: 'https://www.settleloans.in/case-study-hdfc-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/case-study-hdfc-personal-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/case-study-hdfc-personal-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'HDFC Personal Loan Settlement Success Story Infographic: ₹8L Settled for ₹3.2L',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'HDFC Personal Loan Settlement Success Story: ₹8 Lakh Settled for ₹3.2L',
     description: 'Case study proof: Step-by-step breakdown of how an ₹8 Lakh HDFC personal loan default was resolved for ₹3.2 Lakhs with official bank sanction letter and zero dues NDC.',
-    images: ['https://settleloans.in/images/infographics/case-study-hdfc-personal-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/case-study-hdfc-personal-loan-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/case-study-hdfc-personal-loan-settlement#webpage",
-      "url": "https://settleloans.in/case-study-hdfc-personal-loan-settlement",
+      "@id": "https://www.settleloans.in/case-study-hdfc-personal-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/case-study-hdfc-personal-loan-settlement",
       "name": "HDFC Personal Loan Settlement Success Story: ₹8 Lakh Settled for ₹3.2L",
       "description": "Real case study: How an ₹8 Lakh HDFC Bank personal loan was settled for ₹3.2 Lakhs (60% waiver) following job loss. Learn the step-by-step OTS negotiation process, NPV recovery formula, and legal defense.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/case-study-hdfc-personal-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/case-study-hdfc-personal-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/case-study-hdfc-personal-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/case-study-hdfc-personal-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "HDFC Personal Loan Settlement Success Story",
-          "item": "https://settleloans.in/case-study-hdfc-personal-loan-settlement"
+          "item": "https://www.settleloans.in/case-study-hdfc-personal-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/case-study-hdfc-personal-loan-settlement#article",
+      "@id": "https://www.settleloans.in/case-study-hdfc-personal-loan-settlement#article",
       "headline": "HDFC Personal Loan Settlement Success Story: How an ₹8 Lakh Loan Was Settled for ₹3.2 Lakhs",
       "description": "A comprehensive proof-of-concept case study detailing how a distressed IT professional settled an ₹8,00,000 HDFC Bank personal loan for ₹3,20,000 (a 60% haircut) following an unexpected layoff.",
-      "image": "https://settleloans.in/images/infographics/case-study-hdfc-personal-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/case-study-hdfc-personal-loan-settlement.jpg",
       "datePublished": "2026-08-22T12:25:44+05:30",
       "dateModified": "2026-08-22T12:25:44+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/case-study-hdfc-personal-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/case-study-hdfc-personal-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/case-study-hdfc-personal-loan-settlement#service",
+      "@id": "https://www.settleloans.in/case-study-hdfc-personal-loan-settlement#service",
       "name": "SettleLoans - HDFC Personal Loan Settlement & Dispute Resolution",
       "description": "Specialized legal representation and financial negotiation advisory for distressed borrowers seeking One-Time Settlement (OTS) and debt waivers with HDFC Bank under RBI guidelines.",
-      "url": "https://settleloans.in/case-study-hdfc-personal-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/case-study-hdfc-personal-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/case-study-hdfc-personal-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/case-study-hdfc-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/case-study-hdfc-personal-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/case-study-hdfc-personal-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -284,12 +284,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

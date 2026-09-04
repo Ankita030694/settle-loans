@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "What Percentage Do Banks Accept in Loan Settlement? | 2024 Guide",
     description: "Learn what percentage banks accept in loan settlement in India. Our 5500+ word guide covers typical 30-60% waiver ranges, RBI guidelines, and negotiation secrets.",
     alternates: {
-        canonical: "https://settleloans.in/what-percentage-do-banks-accept-in-loan-settlement",
+        canonical: "https://www.settleloans.in/what-percentage-do-banks-accept-in-loan-settlement",
     },
 };
 
@@ -16,34 +16,34 @@ export default function BankSettlementPercentagePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/what-percentage-do-banks-accept-in-loan-settlement#webpage",
-                "url": "https://settleloans.in/what-percentage-do-banks-accept-in-loan-settlement",
+                "@id": "https://www.settleloans.in/what-percentage-do-banks-accept-in-loan-settlement#webpage",
+                "url": "https://www.settleloans.in/what-percentage-do-banks-accept-in-loan-settlement",
                 "name": "What Percentage Do Banks Accept in Loan Settlement? | Detailed Analysis",
                 "description": "Comprehensive analysis of bank settlement percentages in India, focusing on negotiation ranges and bank behaviors.",
-                "breadcrumb": { "@id": "https://settleloans.in/what-percentage-do-banks-accept-in-loan-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/what-percentage-do-banks-accept-in-loan-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/what-percentage-do-banks-accept-in-loan-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/what-percentage-do-banks-accept-in-loan-settlement#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Bank Settlement Percentage",
-                        "item": "https://settleloans.in/what-percentage-do-banks-accept-in-loan-settlement"
+                        "item": "https://www.settleloans.in/what-percentage-do-banks-accept-in-loan-settlement"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/what-percentage-do-banks-accept-in-loan-settlement#article",
+                "@id": "https://www.settleloans.in/what-percentage-do-banks-accept-in-loan-settlement#article",
                 "headline": "What Percentage Do Banks Accept in Loan Settlement in India?",
                 "description": "Discover the typical settlement percentages for personal loans, credit cards, and business loans in the Indian banking system.",
                 "author": {
@@ -55,16 +55,16 @@ export default function BankSettlementPercentagePage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-12",
                 "dateModified": "2024-03-12",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/what-percentage-do-banks-accept-in-loan-settlement#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-percentage-do-banks-accept-in-loan-settlement#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/what-percentage-do-banks-accept-in-loan-settlement#product",
+                "@id": "https://www.settleloans.in/what-percentage-do-banks-accept-in-loan-settlement#product",
                 "name": "Settlement Percentage Consultation",
                 "description": "Expert guidance on negotiating the maximum waiver percentage with your bank or NBFC.",
                 "aggregateRating": {
@@ -105,7 +105,7 @@ export default function BankSettlementPercentagePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/what-percentage-do-banks-accept-in-loan-settlement#faq",
+                "@id": "https://www.settleloans.in/what-percentage-do-banks-accept-in-loan-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

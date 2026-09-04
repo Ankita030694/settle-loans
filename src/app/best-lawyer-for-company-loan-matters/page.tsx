@@ -123,8 +123,8 @@ const CompanyLoanMattersPage = () => {
                             "breadcrumb": {
                                 "@type": "BreadcrumbList",
                                 "itemListElement": [
-                                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                                    { "@type": "ListItem", "position": 2, "name": "Company Loan Matters", "item": "https://settleloans.in/best-lawyer-for-company-loan-matters" }
+                                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                                    { "@type": "ListItem", "position": 2, "name": "Company Loan Matters", "item": "https://www.settleloans.in/best-lawyer-for-company-loan-matters" }
                                 ]
                             },
                             "mainEntity": {
@@ -134,7 +134,7 @@ const CompanyLoanMattersPage = () => {
                                 "publisher": {
                                     "@type": "Organization",
                                     "name": "SettleLoans",
-                                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                                 },
                                 "datePublished": "2024-03-03"
                             },

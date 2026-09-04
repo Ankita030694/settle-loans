@@ -18,16 +18,16 @@ export const metadata: Metadata = {
     'lok adalat vs civil court for loan default'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/lok-adalat-notice-for-personal-loan',
+    canonical: 'https://www.settleloans.in/lok-adalat-notice-for-personal-loan',
   },
   openGraph: {
     title: 'Lok Adalat Notice for Personal Loan: Is It Mandatory? Legal Rights & Settlement Blueprint',
     description: 'Received a Lok Adalat summons or pre-litigation notice for unpaid personal loan EMIs? Discover why attendance is 100% voluntary, arrest is legally impossible, and how to secure a 40%–70% binding OTS decree.',
-    url: 'https://settleloans.in/lok-adalat-notice-for-personal-loan',
+    url: 'https://www.settleloans.in/lok-adalat-notice-for-personal-loan',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/lok-adalat-notice-for-personal-loan.jpg',
+        url: 'https://www.settleloans.in/images/infographics/lok-adalat-notice-for-personal-loan.jpg',
         width: 1200,
         height: 630,
         alt: 'Lok Adalat Notice for Personal Loan Default Guide',
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Lok Adalat Notice for Personal Loan Default: Real Consequences & Settlement Guide',
     description: 'Comprehensive legal guide for Indian borrowers on handling Lok Adalat notices, avoiding legal panic, negotiating OTS discounts with senior bank officials, and obtaining non-appealable court awards.',
-    images: ['https://settleloans.in/images/infographics/lok-adalat-notice-for-personal-loan.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/lok-adalat-notice-for-personal-loan.jpg'],
   },
 };
 
@@ -49,33 +49,33 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/lok-adalat-notice-for-personal-loan#article",
+      "@id": "https://www.settleloans.in/lok-adalat-notice-for-personal-loan#article",
       "headline": "Lok Adalat Notice for Personal Loan Default: Attendance Rules, Arrest Myths & Binding Settlement Guide",
       "description": "An exhaustive, forensic legal guide for Indian borrowers receiving Lok Adalat notices for personal loan defaults. Discover why attendance is voluntary, why no arrest warrants can be issued, how Section 21 of the Legal Services Authorities Act makes settlements final, and step-by-step negotiation tactics.",
-      "image": "https://settleloans.in/images/infographics/lok-adalat-notice-for-personal-loan.jpg",
+      "image": "https://www.settleloans.in/images/infographics/lok-adalat-notice-for-personal-loan.jpg",
       "datePublished": "2026-08-20T13:09:22+05:30",
       "dateModified": "2026-08-20T13:09:22+05:30",
-      "mainEntityOfPage": "https://settleloans.in/lok-adalat-notice-for-personal-loan",
+      "mainEntityOfPage": "https://www.settleloans.in/lok-adalat-notice-for-personal-loan",
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo.png",
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
         "https://twitter.com/settleloans",
@@ -84,31 +84,31 @@ const jsonLdGraph = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/lok-adalat-notice-for-personal-loan#breadcrumb",
+      "@id": "https://www.settleloans.in/lok-adalat-notice-for-personal-loan#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services & Legal Guides",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Lok Adalat Notice for Personal Loan",
-          "item": "https://settleloans.in/lok-adalat-notice-for-personal-loan"
+          "item": "https://www.settleloans.in/lok-adalat-notice-for-personal-loan"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/lok-adalat-notice-for-personal-loan#faq",
+      "@id": "https://www.settleloans.in/lok-adalat-notice-for-personal-loan#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -194,11 +194,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/lok-adalat-notice-for-personal-loan#service",
+      "@id": "https://www.settleloans.in/lok-adalat-notice-for-personal-loan#service",
       "name": "SettleLoans - Lok Adalat Notice Legal Representation & Debt Settlement",
       "description": "Specialized advocate representation at National Lok Adalat sessions, pre-litigation conciliation defense, and RBI-compliant One-Time Settlement (OTS) negotiations for personal loans across India.",
-      "url": "https://settleloans.in/lok-adalat-notice-for-personal-loan",
-      "image": "https://settleloans.in/images/infographics/lok-adalat-notice-for-personal-loan.jpg",
+      "url": "https://www.settleloans.in/lok-adalat-notice-for-personal-loan",
+      "image": "https://www.settleloans.in/images/infographics/lok-adalat-notice-for-personal-loan.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -211,9 +211,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

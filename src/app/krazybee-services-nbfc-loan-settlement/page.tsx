@@ -50,16 +50,16 @@ export const metadata: Metadata = {
     'kreditbee default legal notice lawyer',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/krazybee-services-nbfc-loan-settlement',
+    canonical: 'https://www.settleloans.in/krazybee-services-nbfc-loan-settlement',
   },
   openGraph: {
     title: 'KrazyBee Services NBFC Loan Settlement: Legal Notice Defense & OTS Guide (2026)',
     description: 'Learn how to settle defaulted KrazyBee / KreditBee personal loans. Discover how to defend Section 25 PSSA and arbitration notices, stop illegal digital collection harassment, and secure an authentic 40%–60% OTS settlement letter under RBI guidelines.',
-    url: 'https://settleloans.in/krazybee-services-nbfc-loan-settlement',
+    url: 'https://www.settleloans.in/krazybee-services-nbfc-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/krazybee-services-nbfc-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/krazybee-services-nbfc-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'KrazyBee Services NBFC Loan Settlement Process and Legal Notice Defense Guide',
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'KrazyBee Services NBFC Loan Settlement: Legal Notice Defense & OTS Guide',
     description: 'Strategic guide on resolving defaulted KrazyBee Services (KreditBee) personal loans, deconstructing statutory legal notices, eliminating bounce penalties, and negotiating verified One-Time Settlements.',
-    images: ['https://settleloans.in/images/infographics/krazybee-services-nbfc-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/krazybee-services-nbfc-loan-settlement.jpg'],
   },
 };
 
@@ -81,74 +81,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/krazybee-services-nbfc-loan-settlement#webpage",
-      "url": "https://settleloans.in/krazybee-services-nbfc-loan-settlement",
+      "@id": "https://www.settleloans.in/krazybee-services-nbfc-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/krazybee-services-nbfc-loan-settlement",
       "name": "KrazyBee Services NBFC Loan Settlement: Legal Notice Defense & OTS Guide (2026)",
       "description": "Comprehensive legal and financial guide to KrazyBee Services NBFC loan settlement. Learn how to settle KreditBee personal loans, respond to Section 25 PSSA legal notices and arbitration summons, halt digital recovery harassment, and negotiate a 40% to 60% OTS debt haircut under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/krazybee-services-nbfc-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/krazybee-services-nbfc-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/krazybee-services-nbfc-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/krazybee-services-nbfc-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "KrazyBee Services Loan Settlement",
-          "item": "https://settleloans.in/krazybee-services-nbfc-loan-settlement"
+          "item": "https://www.settleloans.in/krazybee-services-nbfc-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/krazybee-services-nbfc-loan-settlement#article",
+      "@id": "https://www.settleloans.in/krazybee-services-nbfc-loan-settlement#article",
       "headline": "KrazyBee Services NBFC Loan Settlement: Legal Notice Defense & OTS Haircut Guide",
       "description": "An exhaustive manual for navigating KrazyBee Services Private Limited (KreditBee) debt resolution, deconstructing statutory notices under Section 25 PSSA and arbitration acts, halting collection agency harassment, and securing a formal OTS sanction letter under RBI guidelines.",
-      "image": "https://settleloans.in/images/infographics/krazybee-services-nbfc-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/krazybee-services-nbfc-loan-settlement.jpg",
       "datePublished": "2026-09-02T12:00:00+05:30",
       "dateModified": "2026-09-02T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/krazybee-services-nbfc-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/krazybee-services-nbfc-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/krazybee-services-nbfc-loan-settlement#service",
+      "@id": "https://www.settleloans.in/krazybee-services-nbfc-loan-settlement#service",
       "name": "SettleLoans - KrazyBee Services NBFC Loan Settlement & Legal Notice Defense",
       "description": "Specialized legal representation and debt negotiation advisory for resolving defaulted KrazyBee Services Private Limited (KreditBee) loans under RBI compromise frameworks, stopping unlawful recovery harassment, defending court notices, and securing verified OTS letters.",
-      "url": "https://settleloans.in/krazybee-services-nbfc-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/krazybee-services-nbfc-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/krazybee-services-nbfc-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/krazybee-services-nbfc-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -161,9 +161,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -237,7 +237,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/krazybee-services-nbfc-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/krazybee-services-nbfc-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -323,12 +323,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

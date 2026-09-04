@@ -51,16 +51,16 @@ export const metadata: Metadata = {
     'american express dlf cyber city collections legal notice',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/american-express-amex-credit-card-settlement-india',
+    canonical: 'https://www.settleloans.in/american-express-amex-credit-card-settlement-india',
   },
   openGraph: {
     title: 'American Express Credit Card Settlement: Amex OTS Rules & Legal Defense (2026)',
     description: 'Struggling with Amex Platinum or Gold card debt in India? Discover the official American Express Banking Corp. OTS compromise process, halt Gurugram pre-litigation harassment, and negotiate an authorized 45% to 60% debt waiver.',
-    url: 'https://settleloans.in/american-express-amex-credit-card-settlement-india',
+    url: 'https://www.settleloans.in/american-express-amex-credit-card-settlement-india',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/american-express-amex-credit-card-settlement-india.jpg',
+        url: 'https://www.settleloans.in/images/infographics/american-express-amex-credit-card-settlement-india.jpg',
         width: 1200,
         height: 675,
         alt: 'American Express Credit Card Settlement Process and OTS Haircut Guide India',
@@ -73,7 +73,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'American Express Credit Card Settlement: Amex OTS Rules & Legal Defense',
     description: 'Technical and legal manual for settling defaulted American Express credit and charge cards in India under RBI Master Directions with maximum debt haircuts.',
-    images: ['https://settleloans.in/images/infographics/american-express-amex-credit-card-settlement-india.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/american-express-amex-credit-card-settlement-india.jpg'],
   },
 };
 
@@ -82,74 +82,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/american-express-amex-credit-card-settlement-india#webpage",
-      "url": "https://settleloans.in/american-express-amex-credit-card-settlement-india",
+      "@id": "https://www.settleloans.in/american-express-amex-credit-card-settlement-india#webpage",
+      "url": "https://www.settleloans.in/american-express-amex-credit-card-settlement-india",
       "name": "American Express Credit Card Settlement: Amex OTS Rules & Legal Defense (2026)",
       "description": "Comprehensive guide to American Express (Amex) credit card settlement in India. Learn how to settle Platinum and Gold cards, halt 42%-52% APR interest, defend Gurugram legal notices, and negotiate up to 60% OTS haircut under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/american-express-amex-credit-card-settlement-india#breadcrumb"
+        "@id": "https://www.settleloans.in/american-express-amex-credit-card-settlement-india#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/american-express-amex-credit-card-settlement-india#breadcrumb",
+      "@id": "https://www.settleloans.in/american-express-amex-credit-card-settlement-india#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "American Express Credit Card Settlement",
-          "item": "https://settleloans.in/american-express-amex-credit-card-settlement-india"
+          "item": "https://www.settleloans.in/american-express-amex-credit-card-settlement-india"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/american-express-amex-credit-card-settlement-india#article",
+      "@id": "https://www.settleloans.in/american-express-amex-credit-card-settlement-india#article",
       "headline": "American Express Credit Card Settlement: Amex OTS Rules, Gurugram Legal Defense & Haircut Guide",
       "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with American Express Banking Corp. India, navigating charge card defaults, halting 42%-52% APR compounding interest, defending Gurugram pre-litigation notices, and securing stamped No Dues Certificates.",
-      "image": "https://settleloans.in/images/infographics/american-express-amex-credit-card-settlement-india.jpg",
+      "image": "https://www.settleloans.in/images/infographics/american-express-amex-credit-card-settlement-india.jpg",
       "datePublished": "2026-08-28T10:00:00+05:30",
       "dateModified": "2026-08-28T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/american-express-amex-credit-card-settlement-india#webpage"
+        "@id": "https://www.settleloans.in/american-express-amex-credit-card-settlement-india#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/american-express-amex-credit-card-settlement-india#service",
+      "@id": "https://www.settleloans.in/american-express-amex-credit-card-settlement-india#service",
       "name": "SettleLoans - American Express Credit Card Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted American Express Platinum, Gold, and revolving credit cards under RBI compromise frameworks with maximum debt waivers and complete harassment protection.",
-      "url": "https://settleloans.in/american-express-amex-credit-card-settlement-india",
-      "image": "https://settleloans.in/images/infographics/american-express-amex-credit-card-settlement-india.jpg",
+      "url": "https://www.settleloans.in/american-express-amex-credit-card-settlement-india",
+      "image": "https://www.settleloans.in/images/infographics/american-express-amex-credit-card-settlement-india.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -162,9 +162,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -238,7 +238,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/american-express-amex-credit-card-settlement-india#faq",
+      "@id": "https://www.settleloans.in/american-express-amex-credit-card-settlement-india#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -324,12 +324,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

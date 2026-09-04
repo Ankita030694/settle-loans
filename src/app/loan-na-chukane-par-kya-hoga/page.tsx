@@ -51,16 +51,16 @@ export const metadata: Metadata = {
     'how to stop recovery agent calls in india'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/loan-na-chukane-par-kya-hoga',
+    canonical: 'https://www.settleloans.in/loan-na-chukane-par-kya-hoga',
   },
   openGraph: {
     title: 'Loan Na Chukane Par Kya Hota Hai? Civil Law vs Recovery Myths & Legal Exit',
     description: 'Comprehensive legal analysis on bank loan default in India. Clear the police arrest fear, understand civil law protections under Supreme Court rulings, CIBIL recovery, and One-Time Settlement (OTS).',
-    url: 'https://settleloans.in/loan-na-chukane-par-kya-hoga',
+    url: 'https://www.settleloans.in/loan-na-chukane-par-kya-hoga',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/loan-na-chukane-par-kya-hoga.jpg',
+        url: 'https://www.settleloans.in/images/infographics/loan-na-chukane-par-kya-hoga.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Na Chukane Par Kya Hota Hai Infographic Guide',
@@ -73,7 +73,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Na Chukane Par Kya Hota Hai? Legal Facts & Borrower Rights',
     description: 'Worried about police action or court cases for unpaid loans? Discover landmark Supreme Court protections, RBI guidelines against recovery harassment, and legal debt settlement options.',
-    images: ['https://settleloans.in/images/infographics/loan-na-chukane-par-kya-hoga.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/loan-na-chukane-par-kya-hoga.jpg'],
   },
 };
 
@@ -82,74 +82,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/loan-na-chukane-par-kya-hoga#webpage",
-      "url": "https://settleloans.in/loan-na-chukane-par-kya-hoga",
+      "@id": "https://www.settleloans.in/loan-na-chukane-par-kya-hoga#webpage",
+      "url": "https://www.settleloans.in/loan-na-chukane-par-kya-hoga",
       "name": "Loan Na Chukane Par Kya Hota Hai? Bank Action, Police Threat Myths & Legal Exit via Settlement",
       "description": "Comprehensive legal and financial analysis answering what happens when you cannot repay a personal loan or credit card debt in India. Explains civil breach of contract, police non-involvement, RBI guidelines, and structured OTS debt resolution.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/loan-na-chukane-par-kya-hoga#breadcrumb"
+        "@id": "https://www.settleloans.in/loan-na-chukane-par-kya-hoga#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/loan-na-chukane-par-kya-hoga#breadcrumb",
+      "@id": "https://www.settleloans.in/loan-na-chukane-par-kya-hoga#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan Na Chukane Par Kya Hoga",
-          "item": "https://settleloans.in/loan-na-chukane-par-kya-hoga"
+          "item": "https://www.settleloans.in/loan-na-chukane-par-kya-hoga"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/loan-na-chukane-par-kya-hoga#article",
+      "@id": "https://www.settleloans.in/loan-na-chukane-par-kya-hoga#article",
       "headline": "Loan Na Chukane Par Kya Hota Hai? Bank Action, Police Threat Myths & Legal Exit via Settlement",
       "description": "An exhaustive guide addressing borrower anxieties when unable to service loans in India. Covers civil vs criminal liability, Section 420 IPC myths, landmark Supreme Court rulings, RBI Fair Practices Code, CIBIL repair, and One-Time Settlement protocols.",
-      "image": "https://settleloans.in/images/infographics/loan-na-chukane-par-kya-hoga.jpg",
+      "image": "https://www.settleloans.in/images/infographics/loan-na-chukane-par-kya-hoga.jpg",
       "datePublished": "2026-08-26T10:00:00+05:30",
       "dateModified": "2026-08-26T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-na-chukane-par-kya-hoga#webpage"
+        "@id": "https://www.settleloans.in/loan-na-chukane-par-kya-hoga#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/loan-na-chukane-par-kya-hoga#service",
+      "@id": "https://www.settleloans.in/loan-na-chukane-par-kya-hoga#service",
       "name": "SettleLoans - Debt Resolution & Legal Protection Services",
       "description": "Professional advocate-led legal protection against unlawful debt recovery intimidation, false criminal complaints, and unyielding collection agents, combined with structured One-Time Settlement (OTS) negotiations.",
-      "url": "https://settleloans.in/loan-na-chukane-par-kya-hoga",
-      "image": "https://settleloans.in/images/infographics/loan-na-chukane-par-kya-hoga.jpg",
+      "url": "https://www.settleloans.in/loan-na-chukane-par-kya-hoga",
+      "image": "https://www.settleloans.in/images/infographics/loan-na-chukane-par-kya-hoga.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -162,9 +162,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -238,7 +238,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/loan-na-chukane-par-kya-hoga#faq",
+      "@id": "https://www.settleloans.in/loan-na-chukane-par-kya-hoga#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -316,12 +316,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

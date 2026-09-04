@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Credit Card Legal Notice Process & Next Steps",
   description: "Received a legal notice for credit card default? Learn how to reply to a credit card legal notice, handle summons, and protect yourself from legal action.",
   alternates: {
-    canonical: "https://settleloans.in/credit-card-legal-notice-process-next-steps",
+    canonical: "https://www.settleloans.in/credit-card-legal-notice-process-next-steps",
   },
 };
 
@@ -17,34 +17,34 @@ export default function CreditCardLegalNoticePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/credit-card-legal-notice-process-next-steps#webpage",
-        "url": "https://settleloans.in/credit-card-legal-notice-process-next-steps",
+        "@id": "https://www.settleloans.in/credit-card-legal-notice-process-next-steps#webpage",
+        "url": "https://www.settleloans.in/credit-card-legal-notice-process-next-steps",
         "name": "Credit Card Legal Notice Process & Next Steps",
         "description": "Just received a heavy legal notice from your credit card company? Don't ignore it. Follow these next steps to protect yourself.",
-        "breadcrumb": { "@id": "https://settleloans.in/credit-card-legal-notice-process-next-steps#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/credit-card-legal-notice-process-next-steps#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/credit-card-legal-notice-process-next-steps#breadcrumb",
+        "@id": "https://www.settleloans.in/credit-card-legal-notice-process-next-steps#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Credit Card Legal Notice Process",
-            "item": "https://settleloans.in/credit-card-legal-notice-process-next-steps"
+            "item": "https://www.settleloans.in/credit-card-legal-notice-process-next-steps"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/credit-card-legal-notice-process-next-steps#article",
+        "@id": "https://www.settleloans.in/credit-card-legal-notice-process-next-steps#article",
         "headline": "Credit Card Legal Notice Process & Next Steps",
         "description": "Understand the legal action for credit card default and the exact steps to reply to a credit card legal notice or summons.",
         "author": {
@@ -56,22 +56,22 @@ export default function CreditCardLegalNoticePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-24",
         "dateModified": "2024-07-24",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/credit-card-legal-notice-process-next-steps#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/credit-card-legal-notice-process-next-steps#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/credit-card-legal-notice-process-next-steps#product",
+        "@id": "https://www.settleloans.in/credit-card-legal-notice-process-next-steps#product",
         "name": "Credit Card Notice Defense & Settlement",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal help to reply to credit card legal notices, defend against summons, and negotiate a favorable settlement.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function CreditCardLegalNoticePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/credit-card-legal-notice-process-next-steps#faq",
+        "@id": "https://www.settleloans.in/credit-card-legal-notice-process-next-steps#faq",
         "mainEntity": [
           {
             "@type": "Question",

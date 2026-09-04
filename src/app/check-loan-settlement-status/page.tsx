@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Check Loan Settlement Status: How to Track & Get NOC Online",
   description: "Waiting for your settlement NOC? Learn how to legally check loan settlement status online, track your NOC, and force the bank to update your CIBIL.",
   alternates: {
-    canonical: "https://settleloans.in/check-loan-settlement-status",
+    canonical: "https://www.settleloans.in/check-loan-settlement-status",
   },
 };
 
@@ -17,34 +17,34 @@ export default function CheckLoanSettlementStatusPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/check-loan-settlement-status#webpage",
-        "url": "https://settleloans.in/check-loan-settlement-status",
+        "@id": "https://www.settleloans.in/check-loan-settlement-status#webpage",
+        "url": "https://www.settleloans.in/check-loan-settlement-status",
         "name": "Check Loan Settlement Status: How to Track & Get NOC Online",
         "description": "Learn how to track your loan settlement status, obtain your NOC, and force the bank to update your CIBIL after settlement.",
-        "breadcrumb": { "@id": "https://settleloans.in/check-loan-settlement-status#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/check-loan-settlement-status#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/check-loan-settlement-status#breadcrumb",
+        "@id": "https://www.settleloans.in/check-loan-settlement-status#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Check Settlement Status",
-            "item": "https://settleloans.in/check-loan-settlement-status"
+            "item": "https://www.settleloans.in/check-loan-settlement-status"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/check-loan-settlement-status#article",
+        "@id": "https://www.settleloans.in/check-loan-settlement-status#article",
         "headline": "Check Loan Settlement Status online and Track NOC",
         "description": "Step by step guide to track your loan settlement status, and legal remedies if the bank delays your settlement NOC status.",
         "author": {
@@ -56,22 +56,22 @@ export default function CheckLoanSettlementStatusPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-23",
         "dateModified": "2024-07-23",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/check-loan-settlement-status#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/check-loan-settlement-status#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/check-loan-settlement-status#product",
+        "@id": "https://www.settleloans.in/check-loan-settlement-status#product",
         "name": "NOC & Settlement Status Legal Assistance",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to compel banks to issue the NOC and update your settlement status on CIBIL.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function CheckLoanSettlementStatusPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/check-loan-settlement-status#faq",
+        "@id": "https://www.settleloans.in/check-loan-settlement-status#faq",
         "mainEntity": [
           {
             "@type": "Question",

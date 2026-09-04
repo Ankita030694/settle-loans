@@ -5,16 +5,16 @@ export const metadata: Metadata = {
   title: 'Minimum CIBIL Score for Personal Loan: Eligibility & Low Score Solutions (2026)',
   description: 'Discover the minimum CIBIL score for personal loan approval in India. Find out why loans get rejected below 750, bank-wise cutoffs, and how to fix your score or settle debt.',
   alternates: {
-    canonical: 'https://settleloans.in/minimum-cibil-score-for-personal-loan',
+    canonical: 'https://www.settleloans.in/minimum-cibil-score-for-personal-loan',
   },
   openGraph: {
     title: 'Minimum CIBIL Score for Personal Loan: Cutoffs & Credit Repair Guide',
     description: 'Understand the minimum CIBIL score for personal loans across Indian banks and NBFCs, rejection root causes, FOIR formulas, and practical legal debt relief solutions.',
-    url: 'https://settleloans.in/minimum-cibil-score-for-personal-loan',
+    url: 'https://www.settleloans.in/minimum-cibil-score-for-personal-loan',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/minimum-cibil-score-for-personal-loan.jpg',
+        url: 'https://www.settleloans.in/images/infographics/minimum-cibil-score-for-personal-loan.jpg',
         width: 1200,
         height: 630,
         alt: 'Minimum CIBIL Score for Personal Loan Eligibility and Recovery Guide',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Minimum CIBIL Score for Personal Loan: Eligibility, Cutoffs & Score Recovery',
     description: 'Learn why personal loans get rejected below 750 CIBIL score, bank vs NBFC approval cutoffs, and how to rebuild creditworthiness via legal debt settlement.',
-    images: ['https://settleloans.in/images/infographics/minimum-cibil-score-for-personal-loan.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/minimum-cibil-score-for-personal-loan.jpg'],
   },
 };
 
@@ -36,33 +36,33 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/minimum-cibil-score-for-personal-loan#article",
+      "@id": "https://www.settleloans.in/minimum-cibil-score-for-personal-loan#article",
       "headline": "Minimum CIBIL Score for Personal Loan: Eligibility, Bank Cutoffs & Credit Recovery Guide",
       "description": "An exhaustive technical and regulatory breakdown detailing minimum CIBIL score requirements for personal loans in India, banking risk models, FOIR calculations, rejection recovery, and debt settlement strategies.",
-      "image": "https://settleloans.in/images/infographics/minimum-cibil-score-for-personal-loan.jpg",
+      "image": "https://www.settleloans.in/images/infographics/minimum-cibil-score-for-personal-loan.jpg",
       "datePublished": "2026-08-22T10:00:00+05:30",
       "dateModified": "2026-08-22T10:00:00+05:30",
-      "mainEntityOfPage": "https://settleloans.in/minimum-cibil-score-for-personal-loan",
+      "mainEntityOfPage": "https://www.settleloans.in/minimum-cibil-score-for-personal-loan",
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo.png",
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
         "https://twitter.com/settleloans",
@@ -71,31 +71,31 @@ const jsonLdGraph = {
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/minimum-cibil-score-for-personal-loan#breadcrumb",
+      "@id": "https://www.settleloans.in/minimum-cibil-score-for-personal-loan#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services & Guides",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Minimum CIBIL Score for Personal Loan",
-          "item": "https://settleloans.in/minimum-cibil-score-for-personal-loan"
+          "item": "https://www.settleloans.in/minimum-cibil-score-for-personal-loan"
         }
       ]
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/minimum-cibil-score-for-personal-loan#faq",
+      "@id": "https://www.settleloans.in/minimum-cibil-score-for-personal-loan#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -173,11 +173,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/minimum-cibil-score-for-personal-loan#service",
+      "@id": "https://www.settleloans.in/minimum-cibil-score-for-personal-loan#service",
       "name": "SettleLoans - Credit Repair & Personal Loan Dispute Resolution",
       "description": "Authoritative legal advisory, credit score diagnosis, bank OTS compromise settlements, and financial reconstruction for rejected personal loan borrowers across India.",
-      "url": "https://settleloans.in/minimum-cibil-score-for-personal-loan",
-      "image": "https://settleloans.in/images/infographics/minimum-cibil-score-for-personal-loan.jpg",
+      "url": "https://www.settleloans.in/minimum-cibil-score-for-personal-loan",
+      "image": "https://www.settleloans.in/images/infographics/minimum-cibil-score-for-personal-loan.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -190,9 +190,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

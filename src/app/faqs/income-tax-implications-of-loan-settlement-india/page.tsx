@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Income Tax Implications of Loan Settlement in India | 2024 Expert Guide",
     description: "Understand the taxability of settled debt in India. Master Section 28(iv), 41(1), and 194R. Expert guide on how loan waivers impact your tax liability.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/income-tax-implications-of-loan-settlement-india",
+        canonical: "https://www.settleloans.in/faqs/income-tax-implications-of-loan-settlement-india",
     },
 };
 
@@ -18,43 +18,43 @@ export default function TaxImplicationsPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/income-tax-implications-of-loan-settlement-india#webpage",
-                "url": "https://settleloans.in/faqs/income-tax-implications-of-loan-settlement-india",
+                "@id": "https://www.settleloans.in/faqs/income-tax-implications-of-loan-settlement-india#webpage",
+                "url": "https://www.settleloans.in/faqs/income-tax-implications-of-loan-settlement-india",
                 "name": "Income Tax Implications of Settled Debt India | SettleLoans",
                 "description": "Comprehensive guide on the tax treatment of loan waivers for individuals and businesses in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/income-tax-implications-of-loan-settlement-india#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/income-tax-implications-of-loan-settlement-india#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/income-tax-implications-of-loan-settlement-india#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/income-tax-implications-of-loan-settlement-india#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Tax Implications",
-                        "item": "https://settleloans.in/faqs/income-tax-implications-of-loan-settlement-india"
+                        "item": "https://www.settleloans.in/faqs/income-tax-implications-of-loan-settlement-india"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/income-tax-implications-of-loan-settlement-india#article",
+                "@id": "https://www.settleloans.in/faqs/income-tax-implications-of-loan-settlement-india#article",
                 "headline": "What are the income tax implications of a settled debt amount?",
                 "description": "Detailed analysis of how the Indian Income Tax Act treats loan settlements. Learn about taxable waivers, Section 194R, and the difference between personal and business loan settlements.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Taxation Cell"
@@ -64,7 +64,7 @@ export default function TaxImplicationsPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-05-19",
@@ -72,7 +72,7 @@ export default function TaxImplicationsPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/income-tax-implications-of-loan-settlement-india#faq",
+                "@id": "https://www.settleloans.in/faqs/income-tax-implications-of-loan-settlement-india#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -158,7 +158,7 @@ export default function TaxImplicationsPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/income-tax-implications-of-loan-settlement-india#service",
+                "@id": "https://www.settleloans.in/faqs/income-tax-implications-of-loan-settlement-india#service",
                 "name": "Tax Efficient Debt Settlement Consultation",
                 "description": "Specialized advisory services to ensure your loan settlement is structured in a tax-efficient manner, complying with Section 28(iv) and 41(1).",
                 "brand": {

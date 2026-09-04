@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Best Loan EMI Settlement Lawyer in India | Expert Debt Relief Lawyer",
     description: "Looking for the best loan EMI settlement lawyer in India? Get expert legal help for personal loan EMI settlement, business debt negotiation, and protection from recovery harassment.",
     alternates: {
-        canonical: "https://settleloans.in/best-loan-emi-settlement-lawyer",
+        canonical: "https://www.settleloans.in/best-loan-emi-settlement-lawyer",
     },
 };
 
@@ -16,34 +16,34 @@ export default function LoanEMISettlementLawyerPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-loan-emi-settlement-lawyer#webpage",
-                "url": "https://settleloans.in/best-loan-emi-settlement-lawyer",
+                "@id": "https://www.settleloans.in/best-loan-emi-settlement-lawyer#webpage",
+                "url": "https://www.settleloans.in/best-loan-emi-settlement-lawyer",
                 "name": "Best Loan EMI Settlement Lawyer in India | Expert Debt Relief Lawyer",
                 "description": "Professional legal guidance for settling overdue loan EMIs in India. Expert negotiation for personal, business, and NBFC loans.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-loan-emi-settlement-lawyer#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-loan-emi-settlement-lawyer#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-loan-emi-settlement-lawyer#breadcrumb",
+                "@id": "https://www.settleloans.in/best-loan-emi-settlement-lawyer#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Best Loan EMI Settlement Lawyer",
-                        "item": "https://settleloans.in/best-loan-emi-settlement-lawyer"
+                        "item": "https://www.settleloans.in/best-loan-emi-settlement-lawyer"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-loan-emi-settlement-lawyer#article",
+                "@id": "https://www.settleloans.in/best-loan-emi-settlement-lawyer#article",
                 "headline": "Hiring the Best Loan EMI Settlement Lawyer: Your Guide to Strategic Debt Relief",
                 "description": "An in-depth look at how a specialized lawyer can help you negotiate EMI settlements, stop bank harassment, and rebuild your financial life.",
                 "author": {
@@ -55,16 +55,16 @@ export default function LoanEMISettlementLawyerPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-07",
                 "dateModified": "2024-03-07",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-loan-emi-settlement-lawyer#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-loan-emi-settlement-lawyer#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-loan-emi-settlement-lawyer#product",
+                "@id": "https://www.settleloans.in/best-loan-emi-settlement-lawyer#product",
                 "name": "EMI Settlement Legal Defense",
                 "description": "Specialized legal services for negotiating loan EMI settlements and defending against aggressive bank recovery.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function LoanEMISettlementLawyerPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-loan-emi-settlement-lawyer#faq",
+                "@id": "https://www.settleloans.in/best-loan-emi-settlement-lawyer#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

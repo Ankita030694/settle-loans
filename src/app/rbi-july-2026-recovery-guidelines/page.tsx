@@ -10,18 +10,18 @@ export default function RbiJuly2026GuidelinesPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/rbi-july-2026-recovery-guidelines#article",
+                "@id": "https://www.settleloans.in/rbi-july-2026-recovery-guidelines#article",
                 "headline": "RBI July 2026 Recovery Guidelines: A Complete Guide to Your Rights",
                 "description": "Comprehensive analysis of the RBI July 2026 recovery guidelines. Learn about restricted contact hours, prohibition of harassment, and privacy protections for borrowers.",
-                "image": "https://settleloans.in/images/rbi-guidelines-2026.jpg",
+                "image": "https://www.settleloans.in/images/rbi-guidelines-2026.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2026-05-07",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/rbi-july-2026-recovery-guidelines" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/rbi-july-2026-recovery-guidelines" }
             },
             {
                 "@type": "FAQPage",
@@ -47,7 +47,7 @@ export default function RbiJuly2026GuidelinesPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/rbi-july-2026-recovery-guidelines#product",
+                "@id": "https://www.settleloans.in/rbi-july-2026-recovery-guidelines#product",
                 "name": "RBI Compliance Legal Advisory",
                 "description": "Expert legal help for borrowers facing harassment from recovery agents in violation of RBI July 2026 guidelines.",
                 "aggregateRating": {
@@ -68,8 +68,8 @@ export default function RbiJuly2026GuidelinesPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "RBI Guidelines", "item": "https://settleloans.in/rbi-july-2026-recovery-guidelines" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "RBI Guidelines", "item": "https://www.settleloans.in/rbi-july-2026-recovery-guidelines" }
                 ]
             }
         ]

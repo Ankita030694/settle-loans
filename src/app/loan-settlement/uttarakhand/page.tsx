@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Expert Loan Settlement Services in Uttarakhand | 40-70% Waiver Experts - SettleLoans",
   description: "Struggling with debt in Uttarakhand? Get expert legal representation in Dehradun, Haridwar & Haldwani. Settle credit cards & personal loans with 70% waiver. Expert Lok Adalat guidance.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/uttarakhand",
+    canonical: "https://www.settleloans.in/loan-settlement/uttarakhand",
   },
 };
 
@@ -16,47 +16,47 @@ export default function UttarakhandLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/uttarakhand#webpage",
-        "url": "https://settleloans.in/loan-settlement/uttarakhand",
+        "@id": "https://www.settleloans.in/loan-settlement/uttarakhand#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/uttarakhand",
         "name": "Expert Loan Settlement Services in Uttarakhand | 40-70% Waiver Experts",
         "description": "Struggling with debt in Uttarakhand? Get expert legal representation in Dehradun, Haridwar & Haldwani. Settle credit cards & personal loans with 70% waiver.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/uttarakhand#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/uttarakhand#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/uttarakhand#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/uttarakhand#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/uttarakhand#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/uttarakhand#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Uttarakhand",
-            "item": "https://settleloans.in/loan-settlement/uttarakhand"
+            "item": "https://www.settleloans.in/loan-settlement/uttarakhand"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/uttarakhand#service",
+        "@id": "https://www.settleloans.in/loan-settlement/uttarakhand#service",
         "name": "Uttarakhand Loan Settlement Services",
         "description": "Professional debt negotiation and legal protection services for personal loans and credit cards in Uttarakhand.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": {
           "@type": "State",
@@ -86,7 +86,7 @@ export default function UttarakhandLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/uttarakhand#article",
+        "@id": "https://www.settleloans.in/loan-settlement/uttarakhand#article",
         "headline": "Complete Guide to Loan Settlement in Uttarakhand | Laws and Procedures",
         "description": "A comprehensive guide on how loan settlement works in Uttarakhand, covering UKSLSA rules, legal help, Lok Adalats, and cooperative bank OTS schemes.",
         "author": {
@@ -98,16 +98,16 @@ export default function UttarakhandLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-03",
         "dateModified": "2024-02-03",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/uttarakhand#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/uttarakhand#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/uttarakhand#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/uttarakhand#faq",
         "mainEntity": [
           {
             "@type": "Question",

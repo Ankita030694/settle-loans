@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Post Loan Settlement Legal Help | NOC, Credit Repair & Bank Help",
     description: "Expert legal help after loan settlement in India. Navigate NOC collection, credit score repair, and stop bank harassment with our technical masterclass.",
     alternates: {
-        canonical: "https://settleloans.in/post-loan-settlement-legal-help",
+        canonical: "https://www.settleloans.in/post-loan-settlement-legal-help",
     },
 };
 
@@ -16,34 +16,34 @@ export default function PostLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/post-loan-settlement-legal-help#webpage",
-                "url": "https://settleloans.in/post-loan-settlement-legal-help",
+                "@id": "https://www.settleloans.in/post-loan-settlement-legal-help#webpage",
+                "url": "https://www.settleloans.in/post-loan-settlement-legal-help",
                 "name": "Post Loan Settlement Legal Help | NOC, Credit Repair & Bank Help",
                 "description": "Comprehensive guide to post-settlement legalities, NOC procedures, and credit rebuilding in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/post-loan-settlement-legal-help#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/post-loan-settlement-legal-help#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/post-loan-settlement-legal-help#breadcrumb",
+                "@id": "https://www.settleloans.in/post-loan-settlement-legal-help#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Post Loan Settlement Legal Help",
-                        "item": "https://settleloans.in/post-loan-settlement-legal-help"
+                        "item": "https://www.settleloans.in/post-loan-settlement-legal-help"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/post-loan-settlement-legal-help#article",
+                "@id": "https://www.settleloans.in/post-loan-settlement-legal-help#article",
                 "headline": "Post-Loan Settlement Legalities: The Essential Guide to Full Closure",
                 "description": "Deep dive into life after settlement, ensuring legal immunity, and technical steps to restore your financial health.",
                 "author": {
@@ -55,16 +55,16 @@ export default function PostLoanSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-06",
                 "dateModified": "2024-03-06",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/post-loan-settlement-legal-help#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/post-loan-settlement-legal-help#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/post-loan-settlement-legal-help#product",
+                "@id": "https://www.settleloans.in/post-loan-settlement-legal-help#product",
                 "name": "Post Settlement Legal Advisory",
                 "description": "Expert assistance in obtaining NOCs, correcting credit reports, and preventing post-settlement harassment.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function PostLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/post-loan-settlement-legal-help#faq",
+                "@id": "https://www.settleloans.in/post-loan-settlement-legal-help#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

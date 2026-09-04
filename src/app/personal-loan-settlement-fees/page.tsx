@@ -17,16 +17,16 @@ export const metadata: Metadata = {
     'settlement fee calculator india'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-fees',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-fees',
   },
   openGraph: {
     title: 'How Much Do Loan Settlement Companies Charge in India? (2026 Fee Guide & Scam Warning)',
     description: 'Learn the exact fee structures of legitimate loan settlement firms in India. Discover percentage of savings vs enrolled debt models, upfront fee scams to avoid, and RBI legal protections.',
-    url: 'https://settleloans.in/personal-loan-settlement-fees',
+    url: 'https://www.settleloans.in/personal-loan-settlement-fees',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-debt-settlement.jpg',
         width: 1200,
         height: 630,
         alt: 'How Much Do Loan Settlement Companies Charge in India - Comprehensive Fee Guide',
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How Much Do Loan Settlement Companies Charge? Fees, Models & Scams (2026)',
     description: 'Exhaustive guide on loan settlement charges in India: 10%–20% success fees, upfront scam warnings, calculation worksheets, and RBI fair practice guidelines.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-debt-settlement.jpg'],
   },
 };
 
@@ -48,73 +48,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-fees#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-fees",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-fees#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-fees",
       "name": "How Much Do Loan Settlement Companies Charge? Fees & Scams (2026)",
       "description": "Wondering how much loan settlement companies charge in India? Compare standard success fee models (10–20% of savings), upfront fee red flags, RBI rules & fee calculator.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-fees#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-fees#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-fees#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-fees#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Loan Settlement Fees",
-          "item": "https://settleloans.in/personal-loan-settlement-fees"
+          "item": "https://www.settleloans.in/personal-loan-settlement-fees"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-fees#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-fees#article",
       "headline": "How Much Do Loan Settlement Companies Charge in India? (2026 Fee Guide, Pricing Models & Scam Warnings)",
       "description": "An exhaustive investigative guide into loan settlement company fee structures in India. Compare success fee vs enrolled debt models (10–20% of savings), upfront fee scam red flags, RBI fair practices, legal safeguards, and real calculation case studies.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-debt-settlement.jpg",
       "datePublished": "2026-08-19T10:00:00+05:30",
       "dateModified": "2026-08-19T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-fees#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-fees#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Product",
-      "@id": "https://settleloans.in/personal-loan-settlement-fees#product",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-fees#product",
       "name": "Debt Settlement Legal Advisory & Fee Evaluation Services",
       "description": "Transparent, success-linked loan settlement legal representation, anti-harassment protection, and OTS negotiation for borrowers facing financial distress across India.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-debt-settlement.jpg",
       "brand": {
         "@type": "Brand",
         "name": "SettleLoans"
@@ -191,7 +191,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-fees#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-fees#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -277,12 +277,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

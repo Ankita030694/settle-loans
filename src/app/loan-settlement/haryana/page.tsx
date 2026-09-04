@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Legal Loan Settlement Services in Haryana | 40-70% Waiver",
   description: "Struggling with debt in Gurgaon, Faridabad, or anywhere in Haryana? Get expert legal representation for loan settlement. HALSA & Lok Adalat Haryana protection. Settle credit cards & personal loans with 70% waiver.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/haryana",
+    canonical: "https://www.settleloans.in/loan-settlement/haryana",
   },
 };
 
@@ -16,47 +16,47 @@ export default function HaryanaLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/haryana#webpage",
-        "url": "https://settleloans.in/loan-settlement/haryana",
+        "@id": "https://www.settleloans.in/loan-settlement/haryana#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/haryana",
         "name": "Professional Loan Settlement Services in Haryana | 40-70% Debt Waiver - SettleLoans",
         "description": "Struggling with debt in Gurgaon, Faridabad, or anywhere in Haryana? Get expert legal representation for loan settlement. HALSA & Lok Adalat Haryana protection. Settle credit cards & personal loans with 70% waiver.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/haryana#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/haryana#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/haryana#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/haryana#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/haryana#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/haryana#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Haryana",
-            "item": "https://settleloans.in/loan-settlement/haryana"
+            "item": "https://www.settleloans.in/loan-settlement/haryana"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/haryana#service",
+        "@id": "https://www.settleloans.in/loan-settlement/haryana#service",
         "name": "Haryana Loan Settlement Services",
         "description": "Professional debt negotiation and legal protection services for personal loans and credit cards in Gurgaon, Faridabad, and across Haryana.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Gurgaon" },
@@ -90,7 +90,7 @@ export default function HaryanaLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/haryana#article",
+        "@id": "https://www.settleloans.in/loan-settlement/haryana#article",
         "headline": "Complete Guide to Loan Settlement in Haryana: Legal Rights and Procedures",
         "description": "A comprehensive guide for Haryana residents on how to settle bank loans legally, including the role of HALSA Lok Adalats and state-specific borrower protections.",
         "author": {
@@ -102,16 +102,16 @@ export default function HaryanaLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-03",
         "dateModified": "2024-02-03",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/haryana#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/haryana#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/haryana#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/haryana#faq",
         "mainEntity": [
           {
             "@type": "Question",

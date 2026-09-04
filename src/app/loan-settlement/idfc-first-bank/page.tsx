@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "IDFC First Bank Loan Settlement | Settle Credit Card & Personal Loans - SettleLoans",
   description: "Struggling with IDFC First Bank debt? Learn the expert process for IDFC First Bank loan settlement and credit card OTS. Settle for 40-70% less and stop harassment legally.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/idfc-first-bank",
+    canonical: "https://www.settleloans.in/loan-settlement/idfc-first-bank",
   },
 };
 
@@ -16,46 +16,46 @@ export default function IDFCFirstBankSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/idfc-first-bank#webpage",
-        "url": "https://settleloans.in/loan-settlement/idfc-first-bank",
+        "@id": "https://www.settleloans.in/loan-settlement/idfc-first-bank#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/idfc-first-bank",
         "name": "IDFC First Bank Loan Settlement | Settle Credit Card & Personal Loans - SettleLoans",
         "description": "Expert guide to IDFC First Bank loan settlement and credit card debt negotiation.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/idfc-first-bank#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/idfc-first-bank#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/idfc-first-bank#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/idfc-first-bank#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IDFC First Bank Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement/idfc-first-bank"
+            "item": "https://www.settleloans.in/loan-settlement/idfc-first-bank"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/idfc-first-bank#service",
+        "@id": "https://www.settleloans.in/loan-settlement/idfc-first-bank#service",
         "name": "IDFC First Bank Loan Settlement Service",
         "description": "Professional debt negotiation for IDFC First Bank personal loans and credit cards.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -81,7 +81,7 @@ export default function IDFCFirstBankSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/idfc-first-bank#article",
+        "@id": "https://www.settleloans.in/loan-settlement/idfc-first-bank#article",
         "headline": "Ultimate Guide to IDFC First Bank Loan Settlement 2026",
         "description": "Comprehensive analysis of IDFC First Bank settlement policies, OTS schemes, and legal debt negotiation strategies.",
         "author": {
@@ -93,16 +93,16 @@ export default function IDFCFirstBankSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-14",
         "dateModified": "2024-02-14",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/idfc-first-bank#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/idfc-first-bank#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/idfc-first-bank#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/idfc-first-bank#faq",
         "mainEntity": [
           {
             "@type": "Question",

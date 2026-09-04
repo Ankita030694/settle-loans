@@ -49,16 +49,16 @@ export const metadata: Metadata = {
     'stashfin loan settlement cibil impact',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/stashfin-loan-default-settlement-process',
+    canonical: 'https://www.settleloans.in/stashfin-loan-default-settlement-process',
   },
   openGraph: {
     title: 'Stashfin Loan Default Settlement Process: Akara Capital OTS & 60% Haircut (2026)',
     description: 'Master the step-by-step roadmap to settle defaulted Stashfin card credit lines and personal loans directly with Akara Capital. Defend legal notices, stop recovery calls, and secure up to 60% principal waivers under RBI compromise guidelines.',
-    url: 'https://settleloans.in/stashfin-loan-default-settlement-process',
+    url: 'https://www.settleloans.in/stashfin-loan-default-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/stashfin-loan-default-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/stashfin-loan-default-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'Stashfin Loan Default Settlement Process and Akara Capital Debt Resolution Guide',
@@ -71,7 +71,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Stashfin Loan Default Settlement Process: Akara Capital OTS & 60% Haircut',
     description: 'Technical and legal manual for negotiating One-Time Settlements (OTS) on defaulted Stashfin credit lines and personal loans with Akara Capital Advisors under RBI rules.',
-    images: ['https://settleloans.in/images/infographics/stashfin-loan-default-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/stashfin-loan-default-settlement-process.jpg'],
   },
 };
 
@@ -80,74 +80,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/stashfin-loan-default-settlement-process#webpage",
-      "url": "https://settleloans.in/stashfin-loan-default-settlement-process",
+      "@id": "https://www.settleloans.in/stashfin-loan-default-settlement-process#webpage",
+      "url": "https://www.settleloans.in/stashfin-loan-default-settlement-process",
       "name": "Stashfin Loan Default Settlement Process: Akara Capital OTS & 60% Haircut (2026)",
       "description": "Comprehensive guide to Stashfin loan settlement and Akara Capital debt resolution. Learn how to halt late fee accumulation, stop recovery harassment, defend Section 25 PSSA advocate notices, and negotiate a 50% to 60% principal waiver under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/stashfin-loan-default-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/stashfin-loan-default-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/stashfin-loan-default-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/stashfin-loan-default-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Stashfin Loan Settlement Process",
-          "item": "https://settleloans.in/stashfin-loan-default-settlement-process"
+          "item": "https://www.settleloans.in/stashfin-loan-default-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/stashfin-loan-default-settlement-process#article",
+      "@id": "https://www.settleloans.in/stashfin-loan-default-settlement-process#article",
       "headline": "Stashfin Loan Default Settlement Process: Akara Capital OTS, Legal Defense & 60% Haircut Guide",
       "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with Akara Capital Advisors Private Limited (Stashfin), navigating digital lending regulations, halting NACH bounce fees, and safeguarding against recovery harassment.",
-      "image": "https://settleloans.in/images/infographics/stashfin-loan-default-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/stashfin-loan-default-settlement-process.jpg",
       "datePublished": "2026-08-29T12:00:00+05:30",
       "dateModified": "2026-08-29T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/stashfin-loan-default-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/stashfin-loan-default-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/stashfin-loan-default-settlement-process#service",
+      "@id": "https://www.settleloans.in/stashfin-loan-default-settlement-process#service",
       "name": "SettleLoans - Stashfin Loan Settlement & Akara Capital Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted Stashfin credit lines, card dues, and personal loans directly with Akara Capital under RBI compromise frameworks with maximum debt waivers and complete harassment protection.",
-      "url": "https://settleloans.in/stashfin-loan-default-settlement-process",
-      "image": "https://settleloans.in/images/infographics/stashfin-loan-default-settlement-process.jpg",
+      "url": "https://www.settleloans.in/stashfin-loan-default-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/stashfin-loan-default-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -160,9 +160,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -236,7 +236,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/stashfin-loan-default-settlement-process#faq",
+      "@id": "https://www.settleloans.in/stashfin-loan-default-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -322,12 +322,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Compare Debt Settlement Fees & Success Rates India 2024",
   description: "Detailed comparison of debt settlement fee structures and success rates in India. Learn about flat fees, percentage-based models, and average debt waivers (30% to 70%).",
   alternates: {
-    canonical: "https://settleloans.in/compare-debt-settlement-fees-and-success-rate",
+    canonical: "https://www.settleloans.in/compare-debt-settlement-fees-and-success-rate",
   },
 };
 
@@ -59,39 +59,39 @@ export default function FeesSuccessRatePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/compare-debt-settlement-fees-and-success-rate#webpage",
-        "url": "https://settleloans.in/compare-debt-settlement-fees-and-success-rate",
+        "@id": "https://www.settleloans.in/compare-debt-settlement-fees-and-success-rate#webpage",
+        "url": "https://www.settleloans.in/compare-debt-settlement-fees-and-success-rate",
         "name": "Comparison of Debt Settlement Fees and Success Rates in India",
         "description": "A deep dive into the costs and results of professional debt settlement in the Indian market.",
-        "breadcrumb": { "@id": "https://settleloans.in/compare-debt-settlement-fees-and-success-rate#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/compare-debt-settlement-fees-and-success-rate#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/compare-debt-settlement-fees-and-success-rate#breadcrumb",
+        "@id": "https://www.settleloans.in/compare-debt-settlement-fees-and-success-rate#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Fees & Success Rates", "item": "https://settleloans.in/compare-debt-settlement-fees-and-success-rate" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Fees & Success Rates", "item": "https://www.settleloans.in/compare-debt-settlement-fees-and-success-rate" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/compare-debt-settlement-fees-and-success-rate#article",
+        "@id": "https://www.settleloans.in/compare-debt-settlement-fees-and-success-rate#article",
         "headline": "Comparing Debt Settlement Fees and Success Rates in India",
         "description": "Understand the pricing models used by debt relief agencies and what realistic results you can expect from a settlement.",
         "author": { "@type": "Organization", "name": "SettleLoans Analytics Dept" },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+          "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
         },
         "datePublished": "2024-03-16",
         "dateModified": "2024-03-16",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/compare-debt-settlement-fees-and-success-rate#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/compare-debt-settlement-fees-and-success-rate#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/compare-debt-settlement-fees-and-success-rate#product",
+        "@id": "https://www.settleloans.in/compare-debt-settlement-fees-and-success-rate#product",
         "name": "Debt Settlement Success Analysis",
         "description": "Professional benchmarking of settlement outcomes and costs.",
         "aggregateRating": {
@@ -111,7 +111,7 @@ export default function FeesSuccessRatePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/compare-debt-settlement-fees-and-success-rate#faq",
+        "@id": "https://www.settleloans.in/compare-debt-settlement-fees-and-success-rate#faq",
         "mainEntity": faqs.map(faq => ({
           "@type": "Question",
           "name": faq.q,

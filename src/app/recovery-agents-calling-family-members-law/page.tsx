@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "Recovery Agents Calling Family Members | Privacy Law in India",
     description: "Is a bank calling your family or neighbors? Learn about the DPDP Act 2023, RBI third-party contact bans, and how to stop illegal debt harassment today.",
     alternates: {
-        canonical: "https://settleloans.in/recovery-agents-calling-family-members-law",
+        canonical: "https://www.settleloans.in/recovery-agents-calling-family-members-law",
     },
 };
 
@@ -17,34 +17,34 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/recovery-agents-calling-family-members-law#webpage",
-                "url": "https://settleloans.in/recovery-agents-calling-family-members-law",
+                "@id": "https://www.settleloans.in/recovery-agents-calling-family-members-law#webpage",
+                "url": "https://www.settleloans.in/recovery-agents-calling-family-members-law",
                 "name": "Illegal Recovery Agents Calling Family Members: Legal Protection Guide",
                 "description": "A deep dive into the legalities of third-party contact by debt collectors in India, featuring RBI rules and privacy breach redressal.",
-                "breadcrumb": { "@id": "https://settleloans.in/recovery-agents-calling-family-members-law#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/recovery-agents-calling-family-members-law#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/recovery-agents-calling-family-members-law#breadcrumb",
+                "@id": "https://www.settleloans.in/recovery-agents-calling-family-members-law#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Family Contact Laws",
-                        "item": "https://settleloans.in/recovery-agents-calling-family-members-law"
+                        "item": "https://www.settleloans.in/recovery-agents-calling-family-members-law"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/recovery-agents-calling-family-members-law#article",
+                "@id": "https://www.settleloans.in/recovery-agents-calling-family-members-law#article",
                 "headline": "Can Recovery Agents Legally Call Your Family? Exploring the DPDP Act",
                 "description": "Understanding the absolute ban on third-party harassment in debt recovery. How to protect your parents, siblings, and colleagues from illegal bank calls.",
                 "author": {
@@ -56,16 +56,16 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-10",
                 "dateModified": "2024-03-10",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/recovery-agents-calling-family-members-law#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/recovery-agents-calling-family-members-law#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/recovery-agents-calling-family-members-law#product",
+                "@id": "https://www.settleloans.in/recovery-agents-calling-family-members-law#product",
                 "name": "Family Privacy Guard",
                 "description": "Legal service to stop bank recovery agents from contacting your family members, relatives, or employers.",
                 "aggregateRating": {
@@ -76,7 +76,7 @@ export default function RecoveryAgentsCallingFamilyMembersLawPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/recovery-agents-calling-family-members-law#faq",
+                "@id": "https://www.settleloans.in/recovery-agents-calling-family-members-law#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

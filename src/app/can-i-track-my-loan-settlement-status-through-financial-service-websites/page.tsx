@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Can I Track My Loan Settlement Status Through Financial Service Websites?",
   description: "Learn how to track your loan settlement status through financial service platforms like Amalegal, CredSettle, and SettleLoans. Understand the documentation and process involved.",
   alternates: {
-    canonical: "https://settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites",
+    canonical: "https://www.settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites",
   },
 };
 
@@ -17,34 +17,34 @@ export default function TrackLoanSettlementStatusPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites#webpage",
-        "url": "https://settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites",
+        "@id": "https://www.settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites#webpage",
+        "url": "https://www.settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites",
         "name": "Can I Track My Loan Settlement Status Through Financial Service Websites?",
         "description": "A comprehensive guide on tracking loan settlement progress through various financial service providers in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites#breadcrumb",
+        "@id": "https://www.settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Track Settlement Status",
-            "item": "https://settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites"
+            "item": "https://www.settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites#article",
+        "@id": "https://www.settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites#article",
         "headline": "How to Track Your Loan Settlement Status: A Guide to Financial Service Websites",
         "description": "Discover the most effective ways to monitor your debt resolution journey using professional settlement platforms and legal services.",
         "author": {
@@ -56,22 +56,22 @@ export default function TrackLoanSettlementStatusPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-21",
         "dateModified": "2024-03-21",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites#webpage" }
       },
       {
         "@type": "Organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
-        "logo": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in",
+        "logo": "https://www.settleloans.in/logo/logo.svg"
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites#product",
+        "@id": "https://www.settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites#product",
         "name": "Settlement Status Tracking Support",
         "description": "Professional support in managing and monitoring the progress of loan settlement negotiations and documentation.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function TrackLoanSettlementStatusPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites#faq",
+        "@id": "https://www.settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Can You Get a Loan Again After Settling a Previous Loan? | Credit Recovery Guide",
     description: "Wondering if you can get a loan again after settlement? Our comprehensive 5500+ word guide explains the CIBIL impact, timelines, and how to rebuild credit to secure future loans.",
     alternates: {
-        canonical: "https://settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan",
+        canonical: "https://www.settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan",
     },
 };
 
@@ -16,34 +16,34 @@ export default function LoanAgainAfterSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan#webpage",
-                "url": "https://settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan",
+                "@id": "https://www.settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan#webpage",
+                "url": "https://www.settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan",
                 "name": "Can You Get a Loan Again After Settling a Previous Loan? | Full Analysis",
                 "description": "Explaining the reality of getting new credit after a loan settlement in India, focusing on credit scores and timelines.",
-                "breadcrumb": { "@id": "https://settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan#breadcrumb",
+                "@id": "https://www.settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Loan After Settlement",
-                        "item": "https://settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan"
+                        "item": "https://www.settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan#article",
+                "@id": "https://www.settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan#article",
                 "headline": "Can You Get a Loan Again After Settling a Previous Loan? The Ultimate Guide",
                 "description": "Is a loan settlement the end of your credit journey? Learn how to qualify for new loans even after a settlement.",
                 "author": {
@@ -55,16 +55,16 @@ export default function LoanAgainAfterSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-12",
                 "dateModified": "2024-03-12",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan#product",
+                "@id": "https://www.settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan#product",
                 "name": "Post-Settlement Credit Consultation",
                 "description": "Expert advice on rebuilding credit and securing new loans after a previous settlement.",
                 "aggregateRating": {
@@ -105,7 +105,7 @@ export default function LoanAgainAfterSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan#faq",
+                "@id": "https://www.settleloans.in/can-you-get-a-loan-again-after-settling-a-previous-loan#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

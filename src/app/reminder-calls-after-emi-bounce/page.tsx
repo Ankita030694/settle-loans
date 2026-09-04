@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Handling Reminder Calls After an EMI Bounce | Stop Harassment',
   description: 'Getting 20 calls a day after a single EMI bounce? Learn the exact script to use with tele-callers to stop the harassment and understand your rights.',
   alternates: {
-    canonical: 'https://settleloans.in/reminder-calls-after-emi-bounce'
+    canonical: 'https://www.settleloans.in/reminder-calls-after-emi-bounce'
   }
 };
 
@@ -26,8 +26,8 @@ export default function ReminderCallsAfterEmiBouncePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/reminder-calls-after-emi-bounce/#webpage",
-        "url": "https://settleloans.in/reminder-calls-after-emi-bounce",
+        "@id": "https://www.settleloans.in/reminder-calls-after-emi-bounce/#webpage",
+        "url": "https://www.settleloans.in/reminder-calls-after-emi-bounce",
         "name": "Handling Reminder Calls After an EMI Bounce",
         "description": "Getting 20 calls a day after a single EMI bounce? Learn the exact script to use with tele-callers to stop the harassment.",
         "inLanguage": "en-IN"
@@ -35,19 +35,19 @@ export default function ReminderCallsAfterEmiBouncePage() {
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Loan Guides", "item": "https://settleloans.in/guides" },
-          { "@type": "ListItem", "position": 3, "name": "Handling Reminder Calls After an EMI Bounce", "item": "https://settleloans.in/reminder-calls-after-emi-bounce" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Loan Guides", "item": "https://www.settleloans.in/guides" },
+          { "@type": "ListItem", "position": 3, "name": "Handling Reminder Calls After an EMI Bounce", "item": "https://www.settleloans.in/reminder-calls-after-emi-bounce" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/reminder-calls-after-emi-bounce/#article",
+        "@id": "https://www.settleloans.in/reminder-calls-after-emi-bounce/#article",
         "headline": "Handling Reminder Calls After an EMI Bounce",
         "description": "Stop recovery calls and learn how to talk to recovery agents with our proven scripts.",
-        "author": { "@type": "Organization", "name": "SettleLoans", "url": "https://settleloans.in" },
-        "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" } },
-        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/reminder-calls-after-emi-bounce/#webpage" }
+        "author": { "@type": "Organization", "name": "SettleLoans", "url": "https://www.settleloans.in" },
+        "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" } },
+        "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/reminder-calls-after-emi-bounce/#webpage" }
       },
       {
         "@type": "FAQPage",

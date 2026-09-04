@@ -45,16 +45,16 @@ export const metadata: Metadata = {
     'lok adalat loan settlement rajkot'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-rajkot',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-rajkot',
   },
   openGraph: {
     title: 'Loan Settlement Services in Rajkot: Settle Personal & MSME Debt (2026)',
     description: 'Comprehensive legal and financial debt resolution for foundry owners, auto-component manufacturers, and individual borrowers in Rajkot and the Saurashtra industrial corridor.',
-    url: 'https://settleloans.in/personal-loan-settlement-rajkot',
+    url: 'https://www.settleloans.in/personal-loan-settlement-rajkot',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-rajkot.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-rajkot.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan and MSME Debt Settlement Process in Rajkot Gujarat',
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement Services in Rajkot: Settle Personal & MSME Debt',
     description: 'Legal debt resolution manual for Rajkot, Jamnagar, and Bhavnagar business owners and individuals facing personal loan and unsecured debt default.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-rajkot.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-rajkot.jpg'],
   },
 };
 
@@ -76,80 +76,80 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-rajkot#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-rajkot",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-rajkot#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-rajkot",
       "name": "Loan Settlement Services in Rajkot: Settle Personal & MSME Debt (2026)",
       "description": "Expert loan settlement services in Rajkot for MSME owners, foundry operators, and individuals. Resolve unsecured personal and business loans with 40%–70% legal waiver.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-rajkot#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-rajkot#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-rajkot#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-rajkot#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Loan Settlement",
-          "item": "https://settleloans.in/personal-loan-settlement"
+          "item": "https://www.settleloans.in/personal-loan-settlement"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Rajkot",
-          "item": "https://settleloans.in/personal-loan-settlement-rajkot"
+          "item": "https://www.settleloans.in/personal-loan-settlement-rajkot"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-rajkot#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-rajkot#article",
       "headline": "Personal Loan Settlement Services in Rajkot: MSME, Foundry & Individual Debt Resolution Guide",
       "description": "An exhaustive statutory, procedural, and financial guide for foundry owners, auto-component precision job-workers, machine-tool manufacturers, and individual borrowers in Rajkot, Jamnagar, and Bhavnagar facing personal loan and unsecured debt stress. Explains banking regulations, RBI Master Directions, civil law protections under Section 60 CPC, local court defense in Rajkot, and structured One-Time Settlement (OTS) negotiations.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-rajkot.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-rajkot.jpg",
       "datePublished": "2026-09-02T10:00:00+05:30",
       "dateModified": "2026-09-02T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-rajkot#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-rajkot#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-rajkot#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-rajkot#service",
       "name": "SettleLoans - Loan Settlement Services in Rajkot & MSME Debt Defense",
       "description": "Specialized legal debt settlement, Section 138 NI Act court defense, anti-harassment protection, and advocate-led One-Time Settlement (OTS) negotiations for personal loans and unsecured business debts across Rajkot, Jamnagar, Bhavnagar, and the Saurashtra industrial corridor.",
-      "url": "https://settleloans.in/personal-loan-settlement-rajkot",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-rajkot.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-rajkot",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-rajkot.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -162,9 +162,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -238,7 +238,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-rajkot#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-rajkot#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -324,12 +324,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

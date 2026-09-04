@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "EMI Reduction vs Tenure Reduction After Part Payment",
   description: "The ultimate financial showdown: Should you lower your monthly EMI or slash your loan tenure after a part prepayment? We ran the math.",
   alternates: {
-    canonical: "https://settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment",
+    canonical: "https://www.settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment",
   },
 };
 
@@ -17,34 +17,34 @@ export default function EMIVsTenureReductionPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment#webpage",
-        "url": "https://settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment",
+        "@id": "https://www.settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment#webpage",
+        "url": "https://www.settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment",
         "name": "EMI Reduction vs Tenure Reduction After Part Payment",
         "description": "The ultimate financial showdown: Should you lower your monthly EMI or slash your loan tenure after a part prepayment? We ran the math.",
-        "breadcrumb": { "@id": "https://settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment#breadcrumb",
+        "@id": "https://www.settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "EMI vs Tenure Reduction",
-            "item": "https://settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment"
+            "item": "https://www.settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment#article",
+        "@id": "https://www.settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment#article",
         "headline": "EMI Reduction vs Tenure Reduction After Part Payment",
         "description": "Compare EMI vs tenure reduction to see which part prepayment strategy offers the best home loan part payment benefits for your financial situation.",
         "author": {
@@ -56,22 +56,22 @@ export default function EMIVsTenureReductionPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-24",
         "dateModified": "2024-07-24",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment#product",
+        "@id": "https://www.settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment#product",
         "name": "Loan Prepayment Strategy Consultation",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert financial advice to optimize your part prepayment strategy and maximize interest savings on your home loan.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function EMIVsTenureReductionPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment#faq",
+        "@id": "https://www.settleloans.in/emi-reduction-vs-tenure-reduction-after-part-payment#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -59,16 +59,16 @@ export const metadata: Metadata = {
     'saidapet court loan default notice reply',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-chennai',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-chennai',
   },
   openGraph: {
     title: 'Loan Settlement Services in Chennai: Legal Notice Defense & OTS Haircut (2026)',
     description: 'Specialized legal defense and loan settlement services in Chennai. Learn how borrowers in Tamil Nadu negotiate 40%–65% One-Time Settlement (OTS) haircuts, counter local recovery agency intimidation, and secure RBI-compliant No Dues Certificates.',
-    url: 'https://settleloans.in/personal-loan-settlement-chennai',
+    url: 'https://www.settleloans.in/personal-loan-settlement-chennai',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-chennai.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-chennai.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan Settlement Process in Chennai and Tamil Nadu Legal Defense Roadmap',
@@ -81,7 +81,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement Services in Chennai: Legal Notice Defense & OTS Haircut',
     description: 'Technical and legal manual for personal loan settlement in Chennai and Tamil Nadu. Advocate-led defense against Section 25 PSSA and Section 138 notices across George Town, Egmore, and Saidapet courts.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-chennai.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-chennai.jpg'],
   },
 };
 
@@ -90,74 +90,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-chennai#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-chennai",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-chennai#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-chennai",
       "name": "Loan Settlement Services in Chennai: Legal Notice Defense & OTS Haircut (2026)",
       "description": "Comprehensive legal and financial guide for personal loan settlement in Chennai, navigating Tamil Nadu recovery agency regulations, Section 25 PSSA defense, and SARB OTS negotiations.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-chennai#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-chennai#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-chennai#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-chennai#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Loan Settlement Chennai",
-          "item": "https://settleloans.in/personal-loan-settlement-chennai"
+          "item": "https://www.settleloans.in/personal-loan-settlement-chennai"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-chennai#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-chennai#article",
       "headline": "Loan Settlement Services in Chennai: Legal Notice Defense, Local Agency Protections & OTS Haircut Blueprint",
       "description": "An authoritative strategic guide for distressed borrowers in Chennai and Tamil Nadu facing aggressive local recovery agents, Section 25 PSSA and Section 138 NI Act notices, and seeking structured One-Time Settlement with banks.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-chennai.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-chennai.jpg",
       "datePublished": "2026-08-24T12:00:00+05:30",
       "dateModified": "2026-08-24T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-chennai#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-chennai#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-chennai#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-chennai#service",
       "name": "SettleLoans - Personal Loan Settlement Services in Chennai & Tamil Nadu",
       "description": "Specialized legal defense and debt negotiation advisory for settling defaulted unsecured personal loans and credit cards across Chennai, Coimbatore, Madurai, and Tamil Nadu under RBI compromise settlement frameworks.",
-      "url": "https://settleloans.in/personal-loan-settlement-chennai",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-chennai.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-chennai",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-chennai.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -170,9 +170,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -246,7 +246,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-chennai#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-chennai#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -332,12 +332,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

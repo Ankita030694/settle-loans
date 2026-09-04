@@ -47,16 +47,16 @@ export const metadata: Metadata = {
     'stop recovery agent harassment assam'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-guwahati',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-guwahati',
   },
   openGraph: {
     title: 'Loan Settlement Company in Guwahati Assam: Legal Defense & OTS Guide',
     description: 'Premier legal debt defense and bank OTS settlement advisory for salaried professionals and merchants in Guwahati, Kamrup Metro, and Assam. Resolve defaults with 40%–70% waivers.',
-    url: 'https://settleloans.in/personal-loan-settlement-guwahati',
+    url: 'https://www.settleloans.in/personal-loan-settlement-guwahati',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-guwahati.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-guwahati.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan Settlement Process in Guwahati and Assam Legal Defense Roadmap',
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement Company in Guwahati Assam: Legal Defense & OTS Guide',
     description: 'Expert advocate-led debt settlement in Guwahati & Assam. Protect against recovery harassment, Section 138 NI Act notices, and secure bank OTS waivers.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-guwahati.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-guwahati.jpg'],
   },
 };
 
@@ -78,81 +78,81 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-guwahati#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-guwahati",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-guwahati#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-guwahati",
       "name": "Loan Settlement Company in Guwahati Assam: Legal Defense & OTS (2026)",
       "description": "Comprehensive legal and financial guide for personal loan settlement in Guwahati and Assam, navigating Gauhati High Court protections, CJM Kamrup Metro notices, PSU bank SARB branches, and 40%–70% OTS debt resolution.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-guwahati#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-guwahati#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-guwahati#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-guwahati#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan Settlement",
-          "item": "https://settleloans.in/loan-settlement"
+          "item": "https://www.settleloans.in/loan-settlement"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Guwahati Assam",
-          "item": "https://settleloans.in/personal-loan-settlement-guwahati"
+          "item": "https://www.settleloans.in/personal-loan-settlement-guwahati"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-guwahati#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-guwahati#article",
       "headline": "Loan Settlement Company in Guwahati Assam: Gauhati High Court Defense, SARB & 40%–70% OTS Resolution",
       "description": "An authoritative legal and financial guide for salaried individuals, merchants, and entrepreneurs in Guwahati and Assam managing severe loan defaults, PSU bank SARB recovery actions, and Kamrup Metro court proceedings.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-guwahati.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-guwahati.jpg",
       "datePublished": "2026-09-02T10:00:00+05:30",
       "dateModified": "2026-09-02T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-guwahati#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-guwahati#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
@@ -162,11 +162,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-guwahati#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-guwahati#service",
       "name": "SettleLoans Guwahati - Legal Debt Relief & Bank OTS Advisory",
       "description": "Specialized legal representation, recovery agent anti-harassment defense, and bank OTS settlement negotiations for personal loans, business credit facilities, and credit cards across Guwahati and Assam.",
-      "url": "https://settleloans.in/personal-loan-settlement-guwahati",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-guwahati.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-guwahati",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-guwahati.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -179,9 +179,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -255,7 +255,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-guwahati#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-guwahati#faq",
       "mainEntity": [
         {
           "@type": "Question",

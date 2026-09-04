@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Legal Loan Settlement Services in West Bengal | 40-70% Waiver",
   description: "Struggling with debt in Kolkata or West Bengal? Get expert legal representation for loan settlement. Bengal Money-Lenders Act protection & Damdupat rule guidance. Settle credit cards & personal loans with 70% waiver.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/west-bengal",
+    canonical: "https://www.settleloans.in/loan-settlement/west-bengal",
   },
 };
 
@@ -16,47 +16,47 @@ export default function WestBengalLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/west-bengal#webpage",
-        "url": "https://settleloans.in/loan-settlement/west-bengal",
+        "@id": "https://www.settleloans.in/loan-settlement/west-bengal#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/west-bengal",
         "name": "Legal Loan Settlement Services in West Bengal | 40-70% Debt Waiver - SettleLoans",
         "description": "Struggling with debt in Kolkata or West Bengal? Get expert legal representation for loan settlement. Bengal Money-Lenders Act protection & Damdupat rule guidance. Settle credit cards & personal loans with 70% waiver.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/west-bengal#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/west-bengal#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/west-bengal#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/west-bengal#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/west-bengal#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/west-bengal#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "West Bengal",
-            "item": "https://settleloans.in/loan-settlement/west-bengal"
+            "item": "https://www.settleloans.in/loan-settlement/west-bengal"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/west-bengal#service",
+        "@id": "https://www.settleloans.in/loan-settlement/west-bengal#service",
         "name": "West Bengal Loan Settlement Services",
         "description": "Professional debt negotiation and legal protection services for personal loans and credit cards in Kolkata and West Bengal.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Kolkata" },
@@ -89,7 +89,7 @@ export default function WestBengalLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/west-bengal#article",
+        "@id": "https://www.settleloans.in/loan-settlement/west-bengal#article",
         "headline": "Strategic Loan Settlement Guide for West Bengal Borrowers",
         "description": "A comprehensive analysis of loan settlement laws, procedures, and legal help available in West Bengal, including Bengal Money-Lenders Act and Lok Adalats.",
         "author": {
@@ -101,16 +101,16 @@ export default function WestBengalLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-02",
         "dateModified": "2024-02-02",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/west-bengal#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/west-bengal#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/west-bengal#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/west-bengal#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Can a Bank Freeze a Company Current Account for a Director's Personal Loan Default?",
   description: "Learn why a bank cannot legally freeze a Private Limited Company or MSME current account to recover a director's personal loan default. Understand the corporate veil.",
   alternates: {
-    canonical: "https://settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default",
+    canonical: "https://www.settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default",
   },
 };
 
@@ -16,34 +16,34 @@ export default function FreezeCompanyAccountDefensePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default#webpage",
-        "url": "https://settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default",
+        "@id": "https://www.settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default#webpage",
+        "url": "https://www.settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default",
         "name": "Can a Bank Freeze a Company Current Account for a Director's Personal Loan Default?",
         "description": "A high-level legal guide for business owners and MSME directors explaining the corporate veil and why banks cannot freeze a company account for personal defaults.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default#breadcrumb",
+        "@id": "https://www.settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Company Account Freezing Defense",
-            "item": "https://settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default"
+            "item": "https://www.settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default#article",
+        "@id": "https://www.settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default#article",
         "headline": "Can a Bank Freeze a Company Current Account for a Director's Personal Loan Default?",
         "description": "Explains the concept of the corporate veil and outlines how a bank absolutely cannot freeze a company's current account to recover the personal debt of a director.",
         "author": {
@@ -55,22 +55,22 @@ export default function FreezeCompanyAccountDefensePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-05-15",
         "dateModified": "2024-05-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default#product",
+        "@id": "https://www.settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default#product",
         "name": "Corporate Legal Defense & Writ Petitions",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert corporate lawyers to unfreeze MSME and Private Limited Company current accounts illegally frozen by banks.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -119,7 +119,7 @@ export default function FreezeCompanyAccountDefensePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default#faq",
+        "@id": "https://www.settleloans.in/can-bank-freeze-company-current-account-for-directors-personal-loan-default#faq",
         "mainEntity": [
           {
             "@type": "Question",

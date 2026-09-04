@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Compare Debt Management & Settlement Programs India 2025",
   description: "Exhaustive 5000+ word comparison of debt settlement, consolidation, restructuring, and counseling in India. Find the perfect debt relief solution for your financial situation.",
   alternates: {
-    canonical: "https://settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers",
+    canonical: "https://www.settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers",
   },
 };
 
@@ -16,35 +16,35 @@ export default function DebtProgramComparisonPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers#webpage",
-        "url": "https://settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers",
+        "@id": "https://www.settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers#webpage",
+        "url": "https://www.settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers",
         "name": "Compare Different Debt Management and Settlement Programs Available to Indian Consumers",
         "description": "Comprehensive guide comparing debt relief options in India. Understand pros, cons, costs, and CIBIL impacts of each program.",
-        "breadcrumb": { "@id": "https://settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers#breadcrumb",
+        "@id": "https://www.settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Compare Debt Programs", "item": "https://settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Compare Debt Programs", "item": "https://www.settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers#article",
+        "@id": "https://www.settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers#article",
         "headline": "Comparing Debt Relief in India: Settlement, Consolidation, and Restructuring Explained",
         "description": "Exhaustive comparison of Indian debt management programs. Learn about CIBIL impact, costs, and timelines for each option.",
-        "author": { "@type": "Organization", "name": "SettleLoans Financial Research", "url": "https://settleloans.in" },
-        "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" } },
+        "author": { "@type": "Organization", "name": "SettleLoans Financial Research", "url": "https://www.settleloans.in" },
+        "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" } },
         "datePublished": "2024-03-19",
         "dateModified": "2024-03-19",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers#faq",
+        "@id": "https://www.settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers#faq",
         "mainEntity": [
           { "@type": "Question", "name": "What is the best debt relief program in India?", "acceptedAnswer": { "@type": "Answer", "text": "The 'best' program depends on your CIBIL score and income. Debt consolidation is better for high scores (700+), while debt settlement is for those in genuine hardship with scores below 600." } },
           { "@type": "Question", "name": "How does debt settlement differs from debt consolidation?", "acceptedAnswer": { "@type": "Answer", "text": "Debt settlement involves reducing the total amount owed via negotiation, while debt consolidation involves taking a new loan to pay off multiple existing debts without reducing the principal." } },
@@ -62,7 +62,7 @@ export default function DebtProgramComparisonPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers#product",
+        "@id": "https://www.settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers#product",
         "name": "Debt Program Comparison & Settlement Services",
         "description": "Expert comparison and guidance on all debt management and settlement programs available to Indian consumers.",
         "aggregateRating": {

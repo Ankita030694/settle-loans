@@ -49,16 +49,16 @@ export const metadata: Metadata = {
     'rbi compromise settlement madurai'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-madurai',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-madurai',
   },
   openGraph: {
     title: 'Debt Settlement Advocates in Madurai: Personal Loan & SARB OTS Legal Guide (2026)',
     description: 'Specialized legal defense and loan settlement advisory for traders, entrepreneurs, and professionals in Madurai, Dindigul, and Virudhunagar facing private bank SARB notices and microfinance disputes.',
-    url: 'https://settleloans.in/personal-loan-settlement-madurai',
+    url: 'https://www.settleloans.in/personal-loan-settlement-madurai',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-madurai.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-madurai.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan & Debt Settlement in Madurai and Southern Tamil Nadu Infographic',
@@ -71,7 +71,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Debt Settlement Advocates in Madurai: Personal Loan & SARB OTS Guide',
     description: 'Facing loan default notices, Section 138 summons, or recovery agent harassment in Madurai or Southern Tamil Nadu? Learn how advocate-led OTS achieves 40%–60% debt reduction under RBI directives.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-madurai.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-madurai.jpg'],
   },
 };
 
@@ -80,73 +80,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-madurai#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-madurai",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-madurai#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-madurai",
       "name": "Debt Settlement Advocates in Madurai: Personal Loan & SARB OTS Legal Guide (2026)",
       "description": "Comprehensive legal and financial manual for settling personal loans, credit card debts, and microfinance disputes across Madurai, Dindigul, and Virudhunagar under Reserve Bank of India compromise settlement regulations.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-madurai#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-madurai#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-madurai#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-madurai#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Loan Settlement Madurai",
-          "item": "https://settleloans.in/personal-loan-settlement-madurai"
+          "item": "https://www.settleloans.in/personal-loan-settlement-madurai"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-madurai#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-madurai#article",
       "headline": "Debt Settlement Advocates in Madurai: Personal Loan & Bank SARB OTS Legal Guide",
       "description": "An exhaustive guide on navigating personal loan defaults, private bank Stressed Assets Recovery Branch (SARB) notices, microfinance disputes, and Lok Adalat compromise settlements in Madurai, Dindigul, and Virudhunagar.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-madurai.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-madurai.jpg",
       "datePublished": "2026-08-28T10:00:00+05:30",
       "dateModified": "2026-08-28T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-madurai#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-madurai#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo/logo.svg",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo/logo.svg",
       "sameAs": [
         "https://www.facebook.com/settleloans",
         "https://www.linkedin.com/company/settleloans",
@@ -162,11 +162,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-madurai#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-madurai#service",
       "name": "SettleLoans - Debt Settlement Advocates & Legal Defense Madurai",
       "description": "Specialized legal representation and debt resolution advisory for borrowers managing delinquent personal loans, private bank SARB notices, and microfinance claims across Madurai, Dindigul, and Virudhunagar.",
-      "url": "https://settleloans.in/personal-loan-settlement-madurai",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-madurai.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-madurai",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-madurai.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -179,9 +179,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -255,7 +255,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-madurai#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-madurai#faq",
       "mainEntity": [
         {
           "@type": "Question",

@@ -46,16 +46,16 @@ export const metadata: Metadata = {
     'cibil score time barred loan settlement no dues certificate'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/limitation-act-3-years-time-barred-loan-recovery',
+    canonical: 'https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery',
   },
   openGraph: {
     title: 'Limitation Act 3 Years for Bank Loan Recovery in India | Time-Barred Debt Defense',
     description: 'Comprehensive legal analysis of the 3-year statutory limitation period for bank loan recovery in India. Discover why civil courts must dismiss time-barred debt suits under Section 3 and how to handle aggressive collection calls without resetting liability.',
-    url: 'https://settleloans.in/limitation-act-3-years-time-barred-loan-recovery',
+    url: 'https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/limitation-act-3-years-time-barred-loan-recovery.jpg',
+        url: 'https://www.settleloans.in/images/infographics/limitation-act-3-years-time-barred-loan-recovery.jpg',
         width: 1200,
         height: 675,
         alt: 'Limitation Act 3 Years for Bank Loan Recovery in India Infographic Guide',
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Limitation Act 3 Years for Bank Loan Recovery in India | Time-Barred Debt Defense',
     description: 'Can a bank sue you after 3 years of loan default? Master the statutory limitation defense under Articles 19 and 55 of the Limitation Act, 1963, and protect against unlawful debt revival traps.',
-    images: ['https://settleloans.in/images/infographics/limitation-act-3-years-time-barred-loan-recovery.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/limitation-act-3-years-time-barred-loan-recovery.jpg'],
   },
 };
 
@@ -77,74 +77,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/limitation-act-3-years-time-barred-loan-recovery#webpage",
-      "url": "https://settleloans.in/limitation-act-3-years-time-barred-loan-recovery",
+      "@id": "https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery#webpage",
+      "url": "https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery",
       "name": "Limitation Act 3 Years for Bank Loan Recovery in India | Time-Barred Debt Defense",
       "description": "Under Article 19 and 55 of the Limitation Act 1963, banks have a strict 3-year window from loan default to file a civil recovery suit. Learn how time-barred debt shields borrowers, Section 18 acknowledgment traps, and how to stop recovery agent harassment on 4-5 year old loans.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/limitation-act-3-years-time-barred-loan-recovery#breadcrumb"
+        "@id": "https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/limitation-act-3-years-time-barred-loan-recovery#breadcrumb",
+      "@id": "https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Limitation Act 3 Years Bank Loan Recovery",
-          "item": "https://settleloans.in/limitation-act-3-years-time-barred-loan-recovery"
+          "item": "https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/limitation-act-3-years-time-barred-loan-recovery#article",
+      "@id": "https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery#article",
       "headline": "Limitation Act 3 Years for Bank Loan Recovery in India: Complete Legal Defense & Time-Barred Debt Guide",
       "description": "A comprehensive legal, statutory, and practical guide explaining the 3-year limitation bar on bank loan recovery under the Limitation Act 1963. Details Articles 19 and 55, Section 3 mandatory dismissal of belated suits, debt revival traps under Section 18 and Section 19, Order 37 CPC summary suit defense, and advocate-led resolution protocols for 4-5 year old debts.",
-      "image": "https://settleloans.in/images/infographics/limitation-act-3-years-time-barred-loan-recovery.jpg",
+      "image": "https://www.settleloans.in/images/infographics/limitation-act-3-years-time-barred-loan-recovery.jpg",
       "datePublished": "2026-09-03T10:00:00+05:30",
       "dateModified": "2026-09-03T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/limitation-act-3-years-time-barred-loan-recovery#webpage"
+        "@id": "https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/limitation-act-3-years-time-barred-loan-recovery#service",
+      "@id": "https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery#service",
       "name": "SettleLoans - Time-Barred Debt Defense & Stressed Asset Legal Advisory",
       "description": "Specialized legal representation and debt resolution advisory for borrowers facing collection harassment, civil court summons, or recovery notices on defaulted loans past the 3-year statutory limitation period across India.",
-      "url": "https://settleloans.in/limitation-act-3-years-time-barred-loan-recovery",
-      "image": "https://settleloans.in/images/infographics/limitation-act-3-years-time-barred-loan-recovery.jpg",
+      "url": "https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery",
+      "image": "https://www.settleloans.in/images/infographics/limitation-act-3-years-time-barred-loan-recovery.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -157,9 +157,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -233,7 +233,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/limitation-act-3-years-time-barred-loan-recovery#faq",
+      "@id": "https://www.settleloans.in/limitation-act-3-years-time-barred-loan-recovery#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -319,12 +319,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

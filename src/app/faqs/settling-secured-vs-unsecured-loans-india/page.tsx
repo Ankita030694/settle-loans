@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Settling Secured vs Unsecured Loans in India | 2024 Expert Guide",
     description: "Can you settle a home loan? Discover the differences between secured and unsecured loan settlements in India. Master SARFAESI and negotiation tactics.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/settling-secured-vs-unsecured-loans-india",
+        canonical: "https://www.settleloans.in/faqs/settling-secured-vs-unsecured-loans-india",
     },
 };
 
@@ -18,43 +18,43 @@ export default function SecuredVsUnsecuredPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/settling-secured-vs-unsecured-loans-india#webpage",
-                "url": "https://settleloans.in/faqs/settling-secured-vs-unsecured-loans-india",
+                "@id": "https://www.settleloans.in/faqs/settling-secured-vs-unsecured-loans-india#webpage",
+                "url": "https://www.settleloans.in/faqs/settling-secured-vs-unsecured-loans-india",
                 "name": "Secured vs Unsecured Loan Settlement India | SettleLoans",
                 "description": "Comprehensive comparison of settlement possibilities for secured and unsecured debts in the Indian banking system.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/settling-secured-vs-unsecured-loans-india#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/settling-secured-vs-unsecured-loans-india#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/settling-secured-vs-unsecured-loans-india#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/settling-secured-vs-unsecured-loans-india#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Secured vs Unsecured",
-                        "item": "https://settleloans.in/faqs/settling-secured-vs-unsecured-loans-india"
+                        "item": "https://www.settleloans.in/faqs/settling-secured-vs-unsecured-loans-india"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/settling-secured-vs-unsecured-loans-india#article",
+                "@id": "https://www.settleloans.in/faqs/settling-secured-vs-unsecured-loans-india#article",
                 "headline": "Can I settle a secured loan like a home loan or only unsecured loan?",
                 "description": "Deep dive into the feasibility of settling secured debts like home loans and LAP versus unsecured debts like credit cards. Learn about the role of the SARFAESI Act.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Credit Research"
@@ -64,7 +64,7 @@ export default function SecuredVsUnsecuredPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-05-20",
@@ -72,7 +72,7 @@ export default function SecuredVsUnsecuredPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/settling-secured-vs-unsecured-loans-india#faq",
+                "@id": "https://www.settleloans.in/faqs/settling-secured-vs-unsecured-loans-india#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -158,7 +158,7 @@ export default function SecuredVsUnsecuredPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/settling-secured-vs-unsecured-loans-india#service",
+                "@id": "https://www.settleloans.in/faqs/settling-secured-vs-unsecured-loans-india#service",
                 "name": "Collateral Debt Advisory",
                 "description": "Strategic advisory for borrowers facing defaults on both secured (Property/Vehicle) and unsecured (Credit Card/PL) debts in India.",
                 "brand": {

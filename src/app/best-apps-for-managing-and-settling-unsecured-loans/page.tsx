@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "10 Best Apps for Managing and Settling Unsecured Loans in India (2026)",
   description: "Comprehensive guide to the top-rated apps in India for tracking EMIs, managing unsecured personal loans, and professional debt settlement. Navigate your financial crisis with the right digital tools.",
   alternates: {
-    canonical: "https://settleloans.in/best-apps-for-managing-and-settling-unsecured-loans",
+    canonical: "https://www.settleloans.in/best-apps-for-managing-and-settling-unsecured-loans",
   },
 };
 
@@ -100,23 +100,23 @@ export default function BestAppsLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/best-apps-for-managing-and-settling-unsecured-loans#webpage",
-        "url": "https://settleloans.in/best-apps-for-managing-and-settling-unsecured-loans",
+        "@id": "https://www.settleloans.in/best-apps-for-managing-and-settling-unsecured-loans#webpage",
+        "url": "https://www.settleloans.in/best-apps-for-managing-and-settling-unsecured-loans",
         "name": "10 Best Apps for Managing and Settling Unsecured Loans in India",
-        "breadcrumb": { "@id": "https://settleloans.in/best-apps-for-managing-and-settling-unsecured-loans#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/best-apps-for-managing-and-settling-unsecured-loans#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/best-apps-for-managing-and-settling-unsecured-loans#breadcrumb",
+        "@id": "https://www.settleloans.in/best-apps-for-managing-and-settling-unsecured-loans#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Best Apps", "item": "https://settleloans.in/best-apps-for-managing-and-settling-unsecured-loans" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Best Apps", "item": "https://www.settleloans.in/best-apps-for-managing-and-settling-unsecured-loans" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/best-apps-for-managing-and-settling-unsecured-loans#article",
+        "@id": "https://www.settleloans.in/best-apps-for-managing-and-settling-unsecured-loans#article",
         "headline": "10 Best Apps for Managing and Settling Unsecured Loans in India (2026)",
         "description": "Comprehensive guide to the top-rated apps in India for tracking EMIs, managing unsecured personal loans, and professional debt settlement.",
         "author": {
@@ -128,16 +128,16 @@ export default function BestAppsLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-18",
         "dateModified": "2024-03-18",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/best-apps-for-managing-and-settling-unsecured-loans#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-apps-for-managing-and-settling-unsecured-loans#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/best-apps-for-managing-and-settling-unsecured-loans#product",
+        "@id": "https://www.settleloans.in/best-apps-for-managing-and-settling-unsecured-loans#product",
         "name": "Debt Management & Settlement App Information",
         "description": "Expert reviews and guides on the best financial apps for loan management and settlement in India.",
         "aggregateRating": {
@@ -366,7 +366,7 @@ export default function BestAppsLoanSettlementPage() {
                 {/* SettleLoans Card */}
                 <div className="bg-[#1F5EFF]/5 p-10 rounded-[30px] border border-[#1F5EFF]/10">
                     <h3 className="text-2xl font-black text-[#1F5EFF] mb-6 capsule inline-block py-2 px-6 bg-white rounded-full shadow-sm">
-                        <a href="https://settleloans.in" target="_blank" rel="noopener noreferrer">SettleLoans</a>
+                        <a href="https://www.settleloans.in" target="_blank" rel="noopener noreferrer">SettleLoans</a>
                     </h3>
                     <p className="text-lg leading-relaxed text-[#2E2E2E] mb-6 font-medium">
                         The gold standard in comprehensive debt settlement in India. Offers unparalleled legal protection against harassment and maximum waivers through a massive in-house legal team.

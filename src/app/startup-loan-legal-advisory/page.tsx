@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Startup Loan Legal Advisory India | Funding & Compliance Support",
     description: "Expert legal advisory for startup loans in India. Understand funding structures, government schemes like Startup India, compliance requirements, and debt recovery laws. Scale your startup safely.",
     alternates: {
-        canonical: "https://settleloans.in/startup-loan-legal-advisory",
+        canonical: "https://www.settleloans.in/startup-loan-legal-advisory",
     },
 };
 
@@ -16,34 +16,34 @@ export default function StartupLoanLegalAdvisoryPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/startup-loan-legal-advisory#webpage",
-                "url": "https://settleloans.in/startup-loan-legal-advisory",
+                "@id": "https://www.settleloans.in/startup-loan-legal-advisory#webpage",
+                "url": "https://www.settleloans.in/startup-loan-legal-advisory",
                 "name": "Startup Loan Legal Advisory India | Funding & Compliance Support",
                 "description": "Comprehensive legal guidance for startups in India seeking debt and equity funding, focusing on compliance and risk management.",
-                "breadcrumb": { "@id": "https://settleloans.in/startup-loan-legal-advisory#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/startup-loan-legal-advisory#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/startup-loan-legal-advisory#breadcrumb",
+                "@id": "https://www.settleloans.in/startup-loan-legal-advisory#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Startup Loan Legal Advisory",
-                        "item": "https://settleloans.in/startup-loan-legal-advisory"
+                        "item": "https://www.settleloans.in/startup-loan-legal-advisory"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/startup-loan-legal-advisory#article",
+                "@id": "https://www.settleloans.in/startup-loan-legal-advisory#article",
                 "headline": "Startup Loan Legal Advisory: Empowering India's Entrepreneurs",
                 "description": "A deep dive into the legal complexities of startup financing in India, including government schemes, compliance, and legal protections.",
                 "author": {
@@ -55,16 +55,16 @@ export default function StartupLoanLegalAdvisoryPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-06",
                 "dateModified": "2024-03-06",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/startup-loan-legal-advisory#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/startup-loan-legal-advisory#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/startup-loan-legal-advisory#product",
+                "@id": "https://www.settleloans.in/startup-loan-legal-advisory#product",
                 "name": "Startup Funding Legal Advisory",
                 "description": "Specialized legal services for startups to manage debt, equity, and compliance for sustainable growth.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function StartupLoanLegalAdvisoryPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/startup-loan-legal-advisory#faq",
+                "@id": "https://www.settleloans.in/startup-loan-legal-advisory#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'rbi compromise settlement 2 lakh personal loan',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/2-lakh-personal-loan-settlement',
+    canonical: 'https://www.settleloans.in/2-lakh-personal-loan-settlement',
   },
   openGraph: {
     title: 'How to Settle 2 Lakh Personal Loan in India: OTS Haircuts, Legal Reality & Defense (2026)',
     description: 'Learn how to settle a ₹2,00,000 personal loan default in India. Understand realistic 50%–70% OTS haircuts, why banks avoid civil litigation for small amounts, recovery defense, and RBI compromise settlement guidelines.',
-    url: 'https://settleloans.in/2-lakh-personal-loan-settlement',
+    url: 'https://www.settleloans.in/2-lakh-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/2-lakh-personal-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/2-lakh-personal-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: '2 Lakh Personal Loan Settlement Process, OTS Haircut Matrix, and Legal Defense Roadmap',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Settle 2 Lakh Personal Loan in India: OTS Haircuts, Legal Reality & Defense',
     description: 'Technical and legal manual for settling defaulted ₹2 Lakh personal loans across Indian banks, NBFCs, and instant lending apps under RBI compromise settlement frameworks.',
-    images: ['https://settleloans.in/images/infographics/2-lakh-personal-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/2-lakh-personal-loan-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/2-lakh-personal-loan-settlement#webpage",
-      "url": "https://settleloans.in/2-lakh-personal-loan-settlement",
+      "@id": "https://www.settleloans.in/2-lakh-personal-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/2-lakh-personal-loan-settlement",
       "name": "How to Settle 2 Lakh Personal Loan in India: OTS Haircuts, Legal Reality & Defense (2026)",
       "description": "Step-by-step legal guide to settling a ₹2 Lakh personal loan in India. Discover realistic OTS haircut percentages (₹60k–₹1L settlements), legal action vs tele-calling reality, RBI recovery rules, and ₹0 NDC process.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/2-lakh-personal-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/2-lakh-personal-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/2-lakh-personal-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/2-lakh-personal-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "How to Settle 2 Lakh Personal Loan",
-          "item": "https://settleloans.in/2-lakh-personal-loan-settlement"
+          "item": "https://www.settleloans.in/2-lakh-personal-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/2-lakh-personal-loan-settlement#article",
+      "@id": "https://www.settleloans.in/2-lakh-personal-loan-settlement#article",
       "headline": "How to Settle 2 Lakh Personal Loan in India: OTS Haircuts, Legal Reality & Defense",
       "description": "A comprehensive guide on negotiating One-Time Settlements (OTS) for a ₹2 Lakh personal loan default in India, understanding why banks avoid civil litigation for smaller amounts, defending against relentless tele-calling, and securing a zero balance No Dues Certificate.",
-      "image": "https://settleloans.in/images/infographics/2-lakh-personal-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/2-lakh-personal-loan-settlement.jpg",
       "datePublished": "2026-08-22T11:09:32+05:30",
       "dateModified": "2026-08-22T11:09:32+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/2-lakh-personal-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/2-lakh-personal-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/2-lakh-personal-loan-settlement#service",
+      "@id": "https://www.settleloans.in/2-lakh-personal-loan-settlement#service",
       "name": "SettleLoans - 2 Lakh Personal Loan Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted ₹2 Lakh unsecured personal loans under RBI compromise frameworks with maximum debt waivers.",
-      "url": "https://settleloans.in/2-lakh-personal-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/2-lakh-personal-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/2-lakh-personal-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/2-lakh-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/2-lakh-personal-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/2-lakh-personal-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",

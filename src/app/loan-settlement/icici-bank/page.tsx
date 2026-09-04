@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "ICICI Bank Loan Settlement Guide | 10,000+ Words of Expert Strategy",
   description: "The most comprehensive guide to ICICI Bank debt resolution. Deep-dives into SARFAESI, credit card loops, 2026 OTS schemes, and legal debt negotiation tactics.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/icici-bank",
+    canonical: "https://www.settleloans.in/loan-settlement/icici-bank",
   },
 };
 
@@ -16,11 +16,11 @@ export default function ICICIBankSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/icici-bank#webpage",
-        "url": "https://settleloans.in/loan-settlement/icici-bank",
+        "@id": "https://www.settleloans.in/loan-settlement/icici-bank#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/icici-bank",
         "name": "ICICI Bank Loan Settlement | Ultimate 10,000+ Word Expert Guide",
         "description": "Comprehensive guide to ICICI Bank debt negotiation, legal protection, and OTS schemes.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/icici-bank#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/icici-bank#breadcrumb" },
         "inLanguage": "en-IN"
       },
       // ... schemas included in final build

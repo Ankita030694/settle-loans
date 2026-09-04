@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Loan Parties Dispute Resolution India | Legal Help for Recovery Conflicts",
     description: "Expert legal advisory for loan party disputes in India. Navigate DRT procedures, Banking Ombudsman complaints, and ADR mechanisms. Settle your loan conflicts with professional legal representation.",
     alternates: {
-        canonical: "https://settleloans.in/loan-parties-dispute-resolution",
+        canonical: "https://www.settleloans.in/loan-parties-dispute-resolution",
     },
 };
 
@@ -16,34 +16,34 @@ export default function LoanPartiesDisputeResolutionPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/loan-parties-dispute-resolution#webpage",
-                "url": "https://settleloans.in/loan-parties-dispute-resolution",
+                "@id": "https://www.settleloans.in/loan-parties-dispute-resolution#webpage",
+                "url": "https://www.settleloans.in/loan-parties-dispute-resolution",
                 "name": "Loan Parties Dispute Resolution India | Legal Help for Recovery Conflicts",
                 "description": "Comprehensive guide to resolving disputes between borrowers, lenders, and co-borrowers in the Indian banking system.",
-                "breadcrumb": { "@id": "https://settleloans.in/loan-parties-dispute-resolution#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/loan-parties-dispute-resolution#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/loan-parties-dispute-resolution#breadcrumb",
+                "@id": "https://www.settleloans.in/loan-parties-dispute-resolution#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Loan Parties Dispute Resolution",
-                        "item": "https://settleloans.in/loan-parties-dispute-resolution"
+                        "item": "https://www.settleloans.in/loan-parties-dispute-resolution"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/loan-parties-dispute-resolution#article",
+                "@id": "https://www.settleloans.in/loan-parties-dispute-resolution#article",
                 "headline": "Loan Parties Dispute Resolution in India: A Comprehensive Legal Guide",
                 "description": "Understanding the landscape of loan disputes, from consumer forums to Debt Recovery Tribunals and ADR mechanisms.",
                 "author": {
@@ -55,16 +55,16 @@ export default function LoanPartiesDisputeResolutionPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-06",
                 "dateModified": "2024-03-06",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/loan-parties-dispute-resolution#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-parties-dispute-resolution#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/loan-parties-dispute-resolution#product",
+                "@id": "https://www.settleloans.in/loan-parties-dispute-resolution#product",
                 "name": "Loan Dispute Legal Representation",
                 "description": "Professional legal services for resolving complex loan disputes and recovery conflicts in India.",
                 "aggregateRating": {
@@ -105,7 +105,7 @@ export default function LoanPartiesDisputeResolutionPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/loan-parties-dispute-resolution#faq",
+                "@id": "https://www.settleloans.in/loan-parties-dispute-resolution#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

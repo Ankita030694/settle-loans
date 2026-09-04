@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "How to Check Active Loan on Your Name in India | 2026 Step-by-Step Guide",
   description: "Learn how to check all active loans on your PAN card and Aadhaar in India. Step-by-step guide to using CIBIL, Income Tax AIS, and RBI portals to detect unauthorized loans.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide",
+    canonical: "https://www.settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide",
   },
 };
 
@@ -17,34 +17,34 @@ export default function CheckActiveLoansGuidePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide#webpage",
-        "url": "https://settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide",
+        "@id": "https://www.settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide#webpage",
+        "url": "https://www.settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide",
         "name": "How to Check Active Loan on Your Name in India | 2026 Step-by-Step Guide",
         "description": "Comprehensive guide on how to track all your active loans and credit accounts in India using official government and bureau portals.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "How to Check Active Loans in India",
-            "item": "https://settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide"
+            "item": "https://www.settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide#article",
+        "@id": "https://www.settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide#article",
         "headline": "How to Check Active Loan on Your Name in India: The Ultimate 2026 Step-by-Step Guide",
         "description": "A complete 5000+ word guide on identifying unauthorized loans, checking credit reports, and using government portals like AIS to secure your financial identity in India.",
         "author": {
@@ -56,16 +56,16 @@ export default function CheckActiveLoansGuidePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-03-28",
         "dateModified": "2026-03-28",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide#product",
+        "@id": "https://www.settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide#product",
         "name": "Active Loan Checking & Credit Audit Guide",
         "description": "Expert advice on checking loans, identifying fraud, and restoring credit scores in India.",
         "aggregateRating": {
@@ -106,7 +106,7 @@ export default function CheckActiveLoansGuidePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide#faq",
+        "@id": "https://www.settleloans.in/how-to-check-active-loan-on-your-name-in-india-stepbystep-guide#faq",
         "mainEntity": [
           {
             "@type": "Question",

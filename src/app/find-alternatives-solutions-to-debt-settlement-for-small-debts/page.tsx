@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Alternatives to Debt Settlement for Small Debts | Guide 2025",
   description: "Explore effective alternatives to debt settlement for loans under 2 lakhs in India. Learn about debt consolidation, snowball method, and credit counseling.",
   alternates: {
-    canonical: "https://settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts",
+    canonical: "https://www.settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts",
   },
 };
 
@@ -16,34 +16,34 @@ export default function SmallDebtAlternativesPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts#webpage",
-        "url": "https://settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts",
+        "@id": "https://www.settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts#webpage",
+        "url": "https://www.settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts",
         "name": "Alternatives to Debt Settlement for Small Debts | Guide 2025",
         "description": "Comprehensive guide on debt relief options for small amounts under 2 lakhs in the Indian market.",
-        "breadcrumb": { "@id": "https://settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts#breadcrumb",
+        "@id": "https://www.settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Small Debt Alternatives",
-            "item": "https://settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts"
+            "item": "https://www.settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts#article",
+        "@id": "https://www.settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts#article",
         "headline": "Small Debt Recovery: Why Settlement Isn't Always the Best Choice for Under 2 Lakhs",
         "description": "A deep dive into debt consolidation, credit counseling, and the snowball method for Indian borrowers with manageable debt.",
         "author": {
@@ -55,16 +55,16 @@ export default function SmallDebtAlternativesPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-18",
         "dateModified": "2024-03-18",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts#product",
+        "@id": "https://www.settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts#product",
         "name": "Debt Consolidation & Credit Coaching",
         "description": "Professional guidance to restructure your small debts without the massive credit score hit of a formal settlement.",
         "aggregateRating": {
@@ -84,7 +84,7 @@ export default function SmallDebtAlternativesPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts#faq",
+        "@id": "https://www.settleloans.in/find-alternatives-solutions-to-debt-settlement-for-small-debts#faq",
         "mainEntity": [
           {
             "@type": "Question",

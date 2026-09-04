@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "What Alternatives Exist to Loan Settlement for Managing Overwhelming Debt? | 2024 Guide",
   description: "Discover the best alternatives to loan settlement in India. Learn about debt consolidation, restructuring, and moratoriums to manage your debt without ruining your CIBIL score.",
   alternates: {
-    canonical: "https://settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt",
+    canonical: "https://www.settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt",
   },
 };
 
@@ -17,34 +17,34 @@ export default function DebtAlternativesPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt#webpage",
-        "url": "https://settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt",
+        "@id": "https://www.settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt#webpage",
+        "url": "https://www.settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt",
         "name": "What Alternatives Exist to Loan Settlement for Managing Overwhelming Debt? | 2024 Guide",
         "description": "Exhaustive guide on debt management alternatives in India, covering consolidation, restructuring, and credit counseling.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt#breadcrumb",
+        "@id": "https://www.settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Debt Alternatives",
-            "item": "https://settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt"
+            "item": "https://www.settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt#article",
+        "@id": "https://www.settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt#article",
         "headline": "What Alternatives Exist to Loan Settlement for Managing Overwhelming Debt? A Comprehensive 2024 Analysis",
         "description": "Exploring high-impact alternatives to loan settlement in India. Learn how to protect your credit score while resolving debt through consolidation and restructuring.",
         "author": {
@@ -56,16 +56,16 @@ export default function DebtAlternativesPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt#faq",
+        "@id": "https://www.settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -151,7 +151,7 @@ export default function DebtAlternativesPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt#product",
+        "@id": "https://www.settleloans.in/what-alternatives-exist-to-loan-settlement-for-managing-overwhelming-debt#product",
         "name": "Debt Management Alternatives Guide",
         "description": "Comprehensive guide on debt management alternatives in India.",
         "aggregateRating": {

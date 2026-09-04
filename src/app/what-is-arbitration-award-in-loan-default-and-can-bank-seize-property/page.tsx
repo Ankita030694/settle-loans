@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "What is an Arbitration Award in a Loan Default and Can the Bank Seize My Property?",
   description: "Received an ex-parte arbitration award for loan default? Learn how banks try to execute an arbitration award against your property and how to challenge it under Section 34.",
   alternates: {
-    canonical: "https://settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property",
+    canonical: "https://www.settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property",
   },
 };
 
@@ -16,34 +16,34 @@ export default function ArbitrationAwardDefensePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property#webpage",
-        "url": "https://settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property",
+        "@id": "https://www.settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property#webpage",
+        "url": "https://www.settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property",
         "name": "What is an Arbitration Award in a Loan Default?",
         "description": "A technical breakdown for borrowers who ignored earlier notices and suddenly received an Arbitration Award declaring they must pay the full amount.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property#breadcrumb",
+        "@id": "https://www.settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Arbitration Award in Loan Default",
-            "item": "https://settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property"
+            "item": "https://www.settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property#article",
+        "@id": "https://www.settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property#article",
         "headline": "What is an Arbitration Award in a Loan Default and Can the Bank Seize My Property?",
         "description": "Explains what an ex-parte award is, how banks try to execute it as a civil court decree to attach property, and exactly how a borrower can challenge the award under Section 34 of the Arbitration Act.",
         "author": {
@@ -55,22 +55,22 @@ export default function ArbitrationAwardDefensePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property#product",
+        "@id": "https://www.settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property#product",
         "name": "Legal Defense Services for Arbitration Awards",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert litigation lawyers to challenge bank arbitration orders and protect your property from execution.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -119,7 +119,7 @@ export default function ArbitrationAwardDefensePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property#faq",
+        "@id": "https://www.settleloans.in/what-is-arbitration-award-in-loan-default-and-can-bank-seize-property#faq",
         "mainEntity": [
           {
             "@type": "Question",

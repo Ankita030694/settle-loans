@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Settlement of Personal Loan Immediately with Low Funds | SettleLoans",
   description: "Struggling with debt? Learn how to negotiate a settlement of personal loan immediately even with low funds. Expert legal advice to stop harassment and save 40-70%.",
   alternates: {
-    canonical: "https://settleloans.in/settlement-of-personal-loan-immediately-with-low-funds",
+    canonical: "https://www.settleloans.in/settlement-of-personal-loan-immediately-with-low-funds",
   },
 };
 
@@ -16,34 +16,34 @@ export default function PersonalLoanSettlementImmediatelyPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/settlement-of-personal-loan-immediately-with-low-funds#webpage",
-        "url": "https://settleloans.in/settlement-of-personal-loan-immediately-with-low-funds",
+        "@id": "https://www.settleloans.in/settlement-of-personal-loan-immediately-with-low-funds#webpage",
+        "url": "https://www.settleloans.in/settlement-of-personal-loan-immediately-with-low-funds",
         "name": "Settlement of Personal Loan Immediately with Low Funds | SettleLoans",
         "description": "Learn the most effective strategies for the settlement of personal loan immediately with low funds in India. Expert guide on negotiation and legal rights.",
-        "breadcrumb": { "@id": "https://settleloans.in/settlement-of-personal-loan-immediately-with-low-funds#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/settlement-of-personal-loan-immediately-with-low-funds#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/settlement-of-personal-loan-immediately-with-low-funds#breadcrumb",
+        "@id": "https://www.settleloans.in/settlement-of-personal-loan-immediately-with-low-funds#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Settlement of Personal Loan Immediately with Low Funds",
-            "item": "https://settleloans.in/settlement-of-personal-loan-immediately-with-low-funds"
+            "item": "https://www.settleloans.in/settlement-of-personal-loan-immediately-with-low-funds"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/settlement-of-personal-loan-immediately-with-low-funds#article",
+        "@id": "https://www.settleloans.in/settlement-of-personal-loan-immediately-with-low-funds#article",
         "headline": "How to Achieve Settlement of Personal Loan Immediately with Low Funds",
         "description": "A comprehensive 5000+ word guide on navigating personal loan debt when you have limited resources and need an immediate solution.",
         "author": {
@@ -55,22 +55,22 @@ export default function PersonalLoanSettlementImmediatelyPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-04-18",
         "dateModified": "2026-04-18",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/settlement-of-personal-loan-immediately-with-low-funds#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/settlement-of-personal-loan-immediately-with-low-funds#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/settlement-of-personal-loan-immediately-with-low-funds#service",
+        "@id": "https://www.settleloans.in/settlement-of-personal-loan-immediately-with-low-funds#service",
         "name": "Personal Loan Settlement Service",
         "description": "Professional debt negotiation services for individuals with low funds seeking immediate personal loan closure.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -89,7 +89,7 @@ export default function PersonalLoanSettlementImmediatelyPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/settlement-of-personal-loan-immediately-with-low-funds#faq",
+        "@id": "https://www.settleloans.in/settlement-of-personal-loan-immediately-with-low-funds#faq",
         "mainEntity": [
           {
             "@type": "Question",

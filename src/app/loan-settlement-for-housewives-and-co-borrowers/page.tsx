@@ -55,16 +55,16 @@ export const metadata: Metadata = {
     'rbi fair practices code family harassment complaint'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/loan-settlement-for-housewives-and-co-borrowers',
+    canonical: 'https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers',
   },
   openGraph: {
     title: 'Loan Settlement for Non Earning Co Borrower & Housewives | SettleLoans',
     description: 'Legal defense guide for non-earning co-borrowers and homemakers facing loan default. Understand Stridhan rights, Section 60 CPC exemptions, and RBI anti-harassment protections.',
-    url: 'https://settleloans.in/loan-settlement-for-housewives-and-co-borrowers',
+    url: 'https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/loan-settlement-for-housewives-and-co-borrowers.jpg',
+        url: 'https://www.settleloans.in/images/infographics/loan-settlement-for-housewives-and-co-borrowers.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Settlement for Non-Earning Co-Borrowers and Housewives Legal Guide',
@@ -77,7 +77,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement for Non Earning Co Borrower & Housewives | SettleLoans',
     description: 'Are recovery agents harassing non-earning housewives or co-applicants? Discover Section 60 CPC Stridhan exemptions, zero-asset legal defense, and structured OTS resolution.',
-    images: ['https://settleloans.in/images/infographics/loan-settlement-for-housewives-and-co-borrowers.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/loan-settlement-for-housewives-and-co-borrowers.jpg'],
   },
 };
 
@@ -86,74 +86,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/loan-settlement-for-housewives-and-co-borrowers#webpage",
-      "url": "https://settleloans.in/loan-settlement-for-housewives-and-co-borrowers",
+      "@id": "https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers#webpage",
+      "url": "https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers",
       "name": "Loan Settlement for Non Earning Co Borrower & Housewives | SettleLoans",
       "description": "Protect non-earning co-borrowers and housewives from loan recovery harassment. Learn Section 60 CPC Stridhan protections, zero-asset defense, and OTS debt relief.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/loan-settlement-for-housewives-and-co-borrowers#breadcrumb"
+        "@id": "https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/loan-settlement-for-housewives-and-co-borrowers#breadcrumb",
+      "@id": "https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Non-Earning Co-Borrower Settlement",
-          "item": "https://settleloans.in/loan-settlement-for-housewives-and-co-borrowers"
+          "item": "https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/loan-settlement-for-housewives-and-co-borrowers#article",
+      "@id": "https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers#article",
       "headline": "Loan Settlement for Non-Earning Co-Borrowers & Housewives: Legal Rights, Stridhan & Zero-Asset Defense",
       "description": "Protections for non-earning co-applicants, housewives, and personal guarantors under Indian banking law, Section 60 CPC Stridhan exemptions, RBI Fair Practices Code, and advocate-led OTS resolution.",
-      "image": "https://settleloans.in/images/infographics/loan-settlement-for-housewives-and-co-borrowers.jpg",
+      "image": "https://www.settleloans.in/images/infographics/loan-settlement-for-housewives-and-co-borrowers.jpg",
       "datePublished": "2026-08-28T10:00:00+05:30",
       "dateModified": "2026-08-28T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-for-housewives-and-co-borrowers#webpage"
+        "@id": "https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/loan-settlement-for-housewives-and-co-borrowers#service",
+      "@id": "https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers#service",
       "name": "SettleLoans - Non-Earning Co-Borrower Legal Defense & Debt Resolution",
       "description": "Specialized legal representation for homemakers, housewives, and non-earning co-borrowers facing debt collection harassment, protecting Stridhan assets and securing institutional compromise settlements.",
-      "url": "https://settleloans.in/loan-settlement-for-housewives-and-co-borrowers",
-      "image": "https://settleloans.in/images/infographics/loan-settlement-for-housewives-and-co-borrowers.jpg",
+      "url": "https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers",
+      "image": "https://www.settleloans.in/images/infographics/loan-settlement-for-housewives-and-co-borrowers.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -166,9 +166,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -242,7 +242,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/loan-settlement-for-housewives-and-co-borrowers#faq",
+      "@id": "https://www.settleloans.in/loan-settlement-for-housewives-and-co-borrowers#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -320,12 +320,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

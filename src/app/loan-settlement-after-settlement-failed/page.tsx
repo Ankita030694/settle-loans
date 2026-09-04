@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement After Settlement Failed | IARC Debt Resolution Guide 2025",
   description: "What happens if your loan settlement fails? Learn about IARC (International Asset Reconstruction Company) resolution process, and how to fix a breached OTS agreement.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement-after-settlement-failed",
+    canonical: "https://www.settleloans.in/loan-settlement-after-settlement-failed",
   },
 };
 
@@ -16,40 +16,40 @@ export default function LoanSettlementFailedPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-after-settlement-failed#webpage",
-        "url": "https://settleloans.in/loan-settlement-after-settlement-failed",
+        "@id": "https://www.settleloans.in/loan-settlement-after-settlement-failed#webpage",
+        "url": "https://www.settleloans.in/loan-settlement-after-settlement-failed",
         "name": "Loan Settlement After Settlement Failed | IARC Debt Resolution Guide",
         "description": "Comprehensive guide on recovering from a failed loan settlement, dealing with IARC, and understanding your legal rights in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-after-settlement-failed#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-after-settlement-failed#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement-after-settlement-failed#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement-after-settlement-failed#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement Failed",
-            "item": "https://settleloans.in/loan-settlement-after-settlement-failed"
+            "item": "https://www.settleloans.in/loan-settlement-after-settlement-failed"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement-after-settlement-failed#product",
+        "@id": "https://www.settleloans.in/loan-settlement-after-settlement-failed#product",
         "name": "Failed Settlement Recovery & Renegotiation",
         "description": "Expert legal assistance for borrowers whose One-Time Settlement (OTS) has failed or breached.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -75,7 +75,7 @@ export default function LoanSettlementFailedPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement-after-settlement-failed#article",
+        "@id": "https://www.settleloans.in/loan-settlement-after-settlement-failed#article",
         "headline": "Loan Settlement After Settlement Failed: The Complete Recovery Guide",
         "description": "Facing a failed One-Time Settlement (OTS)? Understand the role of IARC, legal consequences of a breach, and how to get back on the path to debt freedom.",
         "author": {
@@ -87,16 +87,16 @@ export default function LoanSettlementFailedPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2025-02-05",
         "dateModified": "2025-02-05",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-after-settlement-failed#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-after-settlement-failed#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement-after-settlement-failed#faq",
+        "@id": "https://www.settleloans.in/loan-settlement-after-settlement-failed#faq",
         "mainEntity": [
           {
             "@type": "Question",

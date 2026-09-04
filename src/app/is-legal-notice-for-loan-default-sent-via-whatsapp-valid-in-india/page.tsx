@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Is a Legal Notice Sent via WhatsApp Valid for Loan Defaults?",
   description: "Received a fake FIR copy on WhatsApp from a recovery agent? Understand the validity of a digital legal notice and WhatsApp summons for loan default in India.",
   alternates: {
-    canonical: "https://settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india",
+    canonical: "https://www.settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india",
   },
 };
 
@@ -16,34 +16,34 @@ export default function WhatsAppLegalNoticePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india#webpage",
-        "url": "https://settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india",
+        "@id": "https://www.settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india#webpage",
+        "url": "https://www.settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india",
         "name": "Is a Legal Notice Sent via WhatsApp Valid for Loan Defaults in India?",
         "description": "Learn when a bank sent legal notice on WhatsApp is valid versus when it is a fake FIR copy or fake WhatsApp summons used by recovery agents for extortion.",
-        "breadcrumb": { "@id": "https://settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india#breadcrumb",
+        "@id": "https://www.settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "WhatsApp Legal Notice Validity",
-            "item": "https://settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india"
+            "item": "https://www.settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india#article",
+        "@id": "https://www.settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india#article",
         "headline": "Is a Legal Notice Sent via WhatsApp Valid for Loan Defaults in India?",
         "description": "Addresses the rampant tactic where recovery agents send fake police complaints or aggressive 'legal notices' via WhatsApp to intimidate borrowers.",
         "author": {
@@ -55,22 +55,22 @@ export default function WhatsAppLegalNoticePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-06-15",
         "dateModified": "2024-06-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india#product",
+        "@id": "https://www.settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india#product",
         "name": "Legal Action Against Fake WhatsApp Notices",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Stop harassment from recovery agents sending fake FIRs and illegal summons on WhatsApp. Expert legal help to protect you.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -119,7 +119,7 @@ export default function WhatsAppLegalNoticePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india#faq",
+        "@id": "https://www.settleloans.in/is-legal-notice-for-loan-default-sent-via-whatsapp-valid-in-india#faq",
         "mainEntity": [
           {
             "@type": "Question",

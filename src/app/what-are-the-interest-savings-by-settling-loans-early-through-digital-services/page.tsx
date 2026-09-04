@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Interest Savings by Settling Loans Early Through Digital Services in India",
   description: "Calculate and maximize your interest savings by settling loans early using digital platforms. Learn how <Link href=\"https://amalegalsolutions.com\" target=\"_blank\" className=\"text-[#1F5EFF] hover:underline\">Amalegal</Link>, CredSettle, and SettleLoans help you save lakhs in interest.",
   alternates: {
-    canonical: "https://settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services",
+    canonical: "https://www.settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services",
   },
 };
 
@@ -17,34 +17,34 @@ export default function InterestSavingsDigitalPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services#webpage",
-        "url": "https://settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services",
+        "@id": "https://www.settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services#webpage",
+        "url": "https://www.settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services",
         "name": "Interest Savings by Settling Loans Early Through Digital Services in India",
         "description": "Exhaustive guide on the financial mathematics of early loan settlement in India, focusing on digital platform advantages and interest recovery.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services#breadcrumb",
+        "@id": "https://www.settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Interest Savings Early Settlement",
-            "item": "https://settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services"
+            "item": "https://www.settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services#article",
+        "@id": "https://www.settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services#article",
         "headline": "What are the Interest Savings by Settling Loans Early Through Digital Services?",
         "description": "Unlock massive interest savings by leveraging digital debt resolution platforms. A deep dive into ROI, pre-closure math, and professional negotiation.",
         "author": {
@@ -56,16 +56,16 @@ export default function InterestSavingsDigitalPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services#faq",
+        "@id": "https://www.settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -151,7 +151,7 @@ export default function InterestSavingsDigitalPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services#product",
+        "@id": "https://www.settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services#product",
         "name": "Digital Loan Settlement & Interest Optimization Service",
         "description": "Professional assistance in early loan settlement to maximize interest savings through legal and tech-driven negotiation in India.",
         "brand": {
@@ -175,7 +175,7 @@ export default function InterestSavingsDigitalPage() {
               "price": "0",
               "priceCurrency": "INR",
               "availability": "https://schema.org/InStock",
-              "url": "https://settleloans.in/contact"
+              "url": "https://www.settleloans.in/contact"
             }
           ]
         },
@@ -205,12 +205,12 @@ export default function InterestSavingsDigitalPage() {
       },
       {
         "@type": "Organization",
-        "@id": "https://settleloans.in#organization",
+        "@id": "https://www.settleloans.in#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         },
         "sameAs": [
           "https://www.facebook.com/settleloans",

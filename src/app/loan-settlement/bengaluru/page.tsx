@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Best Loan Settlement Services in Bengaluru | Legal Debt Relief Specialists - SettleLoans",
   description: "Struggling with debt in Bengaluru or Karnataka? Get professional legal help for loan settlement. Expert negotiation at MG Road banks & Mayo Hall courts. Zero harassment.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/bengaluru",
+    canonical: "https://www.settleloans.in/loan-settlement/bengaluru",
   },
 };
 
@@ -16,46 +16,46 @@ export default function BengaluruLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/bengaluru#webpage",
-        "url": "https://settleloans.in/loan-settlement/bengaluru",
+        "@id": "https://www.settleloans.in/loan-settlement/bengaluru#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/bengaluru",
         "name": "Expert Loan Settlement & Legal Debt Relief in Bengaluru",
         "description": "Comprehensive guide to settling credit cards and personal loans in Bengaluru. Legal protection at Mayo Hall courts and expert negotiation at MG Road banking hubs.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/bengaluru#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/bengaluru#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/bengaluru#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/bengaluru#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bengaluru",
-            "item": "https://settleloans.in/loan-settlement/bengaluru"
+            "item": "https://www.settleloans.in/loan-settlement/bengaluru"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/bengaluru#service",
+        "@id": "https://www.settleloans.in/loan-settlement/bengaluru#service",
         "name": "Bengaluru Loan Settlement & Anti-Harassment Services",
         "description": "Specialized legal representation for Bengaluru residents facing debt crises, offering negotiation at MG Road and protection at Mayo Hall courts.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Bengaluru" },
@@ -114,7 +114,7 @@ export default function BengaluruLoanSettlementPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/bengaluru#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/bengaluru#faq",
         "mainEntity": [
           {
             "@type": "Question",

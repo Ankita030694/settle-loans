@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Can I Pay Extra EMI for Personal Loan? | Save Lakhs in Interest",
   description: "Learn how paying just one extra EMI every year can dramatically reduce your personal loan tenure and save you lakhs in interest payments. Expert guide.",
   alternates: {
-    canonical: "https://settleloans.in/can-i-pay-extra-emi-for-personal-loan",
+    canonical: "https://www.settleloans.in/can-i-pay-extra-emi-for-personal-loan",
   },
 };
 
@@ -17,34 +17,34 @@ export default function ExtraEMIPersonalLoanPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-i-pay-extra-emi-for-personal-loan#webpage",
-        "url": "https://settleloans.in/can-i-pay-extra-emi-for-personal-loan",
+        "@id": "https://www.settleloans.in/can-i-pay-extra-emi-for-personal-loan#webpage",
+        "url": "https://www.settleloans.in/can-i-pay-extra-emi-for-personal-loan",
         "name": "Can I Pay Extra EMI for Personal Loan? | Save Lakhs in Interest",
         "description": "Can you legally pay an extra EMI every year to close your personal loan early? Yes, and it saves you lakhs in interest. Discover how to reduce personal loan tenure.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-i-pay-extra-emi-for-personal-loan#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-i-pay-extra-emi-for-personal-loan#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-i-pay-extra-emi-for-personal-loan#breadcrumb",
+        "@id": "https://www.settleloans.in/can-i-pay-extra-emi-for-personal-loan#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Pay Extra EMI Personal Loan",
-            "item": "https://settleloans.in/can-i-pay-extra-emi-for-personal-loan"
+            "item": "https://www.settleloans.in/can-i-pay-extra-emi-for-personal-loan"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-i-pay-extra-emi-for-personal-loan#article",
+        "@id": "https://www.settleloans.in/can-i-pay-extra-emi-for-personal-loan#article",
         "headline": "Can I Pay Extra EMI for Personal Loan? | Save Lakhs in Interest",
         "description": "Learn how paying just one extra EMI every year can dramatically reduce your personal loan tenure and save you lakhs in interest payments.",
         "author": {
@@ -56,22 +56,22 @@ export default function ExtraEMIPersonalLoanPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-08-15",
         "dateModified": "2024-08-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-i-pay-extra-emi-for-personal-loan#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-i-pay-extra-emi-for-personal-loan#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-i-pay-extra-emi-for-personal-loan#product",
+        "@id": "https://www.settleloans.in/can-i-pay-extra-emi-for-personal-loan#product",
         "name": "Personal Loan Prepayment & Consultation Services",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert financial strategies to help you pay extra EMI for personal loans, reduce tenure, and maximize double EMI payment benefits.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function ExtraEMIPersonalLoanPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-i-pay-extra-emi-for-personal-loan#faq",
+        "@id": "https://www.settleloans.in/can-i-pay-extra-emi-for-personal-loan#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -5,16 +5,16 @@ export const metadata: Metadata = {
   title: 'Does Personal Loan Settlement Affect CIBIL? Score Drop & Recovery Guide (2026)',
   description: 'Does personal loan settlement affect CIBIL? Discover the exact score drop (75-150 pts), how long "Settled" status lasts (7 years), RBI guidelines, and how to rebuild to 750+.',
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-cibil-impact',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-cibil-impact',
   },
   openGraph: {
     title: 'Does Personal Loan Settlement Affect CIBIL Score? Everything You Must Know',
     description: 'Learn how personal loan settlement impacts your CIBIL score, the difference between Settled and Closed, RBI rules, and proven steps to rebuild your credit score.',
-    url: 'https://settleloans.in/personal-loan-settlement-cibil-impact',
+    url: 'https://www.settleloans.in/personal-loan-settlement-cibil-impact',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-cibil-impact.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-cibil-impact.jpg',
         width: 1200,
         height: 630,
         alt: 'Does Personal Loan Settlement Affect CIBIL Score Guide',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Does Personal Loan Settlement Affect CIBIL? Score Impact & Recovery',
     description: 'Understand the CIBIL impact of loan settlement, the 7-year retention rule, and how to restore your creditworthiness to 750+.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-cibil-impact.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-cibil-impact.jpg'],
   },
 };
 
@@ -36,73 +36,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-cibil-impact#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-cibil-impact",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-cibil-impact#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-cibil-impact",
       "name": "Does Personal Loan Settlement Affect CIBIL? Score Drop & Recovery Guide (2026)",
       "description": "Does personal loan settlement affect CIBIL? Discover the exact score drop (75-150 pts), how long 'Settled' status lasts (7 years), RBI guidelines, and how to rebuild to 750+.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-cibil-impact#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-cibil-impact#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-cibil-impact#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-cibil-impact#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Loan Settlement CIBIL Impact",
-          "item": "https://settleloans.in/personal-loan-settlement-cibil-impact"
+          "item": "https://www.settleloans.in/personal-loan-settlement-cibil-impact"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-cibil-impact#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-cibil-impact#article",
       "headline": "Does Personal Loan Settlement Affect CIBIL Score? Complete Credit Impact & Recovery Guide",
       "description": "An exhaustive analysis of how personal loan settlement affects your CIBIL score, comparing Settled vs. Closed status, credit report retention timelines, RBI compromise settlement directives, and a step-by-step recovery roadmap to reach 750+.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-cibil-impact.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-cibil-impact.jpg",
       "datePublished": "2026-08-19T09:00:00+05:30",
       "dateModified": "2026-08-19T09:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-cibil-impact#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-cibil-impact#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Product",
-      "@id": "https://settleloans.in/personal-loan-settlement-cibil-impact#product",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-cibil-impact#product",
       "name": "Personal Loan Debt Settlement & CIBIL Resolution Assistance",
       "description": "Comprehensive legal advisory, bank OTS negotiation, harassment defense, and CIBIL credit recovery strategies for distressed personal loan borrowers across India.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-cibil-impact.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-cibil-impact.jpg",
       "brand": {
         "@type": "Brand",
         "name": "SettleLoans"
@@ -179,7 +179,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-cibil-impact#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-cibil-impact#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -257,12 +257,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

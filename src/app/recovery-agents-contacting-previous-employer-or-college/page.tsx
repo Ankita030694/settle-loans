@@ -57,16 +57,16 @@ export const metadata: Metadata = {
     'rbi ombudsman complaint for third party data misuse'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/recovery-agents-contacting-previous-employer-or-college',
+    canonical: 'https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college',
   },
   openGraph: {
     title: 'Recovery Agents Calling Previous Employer or College? DPDP Act & Legal Rights',
     description: 'Stop illegal collection stalking. Understand statutory protections under DPDP Act 2023, RBI Fair Practices Code, and how advocates file data misuse damage claims and negotiate OTS.',
-    url: 'https://settleloans.in/recovery-agents-contacting-previous-employer-or-college',
+    url: 'https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recovery-agents-contacting-previous-employer-or-college.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recovery-agents-contacting-previous-employer-or-college.jpg',
         width: 1200,
         height: 675,
         alt: 'Recovery Agents Calling Previous Employer or College Legal Defense Guide',
@@ -79,7 +79,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Recovery Agents Calling Previous Employer or College? DPDP Act & Legal Rights',
     description: 'Facing severe privacy breaches from debt collectors scraping LinkedIn, resumes, or alumni directories? Discover your statutory rights under DPDP Act 2023 and RBI directives.',
-    images: ['https://settleloans.in/images/infographics/recovery-agents-contacting-previous-employer-or-college.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recovery-agents-contacting-previous-employer-or-college.jpg'],
   },
 };
 
@@ -88,74 +88,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recovery-agents-contacting-previous-employer-or-college#webpage",
-      "url": "https://settleloans.in/recovery-agents-contacting-previous-employer-or-college",
+      "@id": "https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college#webpage",
+      "url": "https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college",
       "name": "Recovery Agents Calling Previous Employer or College? DPDP Act & Legal Rights",
       "description": "Are recovery agents contacting your former employer, past colleagues, or college professors? Discover illegal scraping violations under DPDP Act 2023, RBI bans, and legal remedies.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recovery-agents-contacting-previous-employer-or-college#breadcrumb"
+        "@id": "https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recovery-agents-contacting-previous-employer-or-college#breadcrumb",
+      "@id": "https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Data Privacy & Harassment Defense",
-          "item": "https://settleloans.in/recovery-agents-contacting-previous-employer-or-college"
+          "item": "https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recovery-agents-contacting-previous-employer-or-college#article",
+      "@id": "https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college#article",
       "headline": "Recovery Agents Contacting Previous Employer or College? DPDP Act 2023 Violations, RBI Third-Party Bans & Defamation Remedies",
       "description": "An in-depth legal analysis on addressing predatory debt collection stalking, unauthorized scraping of LinkedIn and alumni directories, DPDP Act 2023 statutory penalties, RBI Fair Practices Code enforcement, and advocate OTS negotiation strategies.",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-contacting-previous-employer-or-college.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-contacting-previous-employer-or-college.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agents-contacting-previous-employer-or-college#webpage"
+        "@id": "https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recovery-agents-contacting-previous-employer-or-college#service",
+      "@id": "https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college#service",
       "name": "SettleLoans - Data Privacy Harassment Defense & Debt Resolution Advisory",
       "description": "Specialized legal defense and institutional debt resolution for borrowers facing unlawful cyber stalking, unauthorized reference scraping, and defamatory third-party collection practices across India.",
-      "url": "https://settleloans.in/recovery-agents-contacting-previous-employer-or-college",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-contacting-previous-employer-or-college.jpg",
+      "url": "https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-contacting-previous-employer-or-college.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -168,9 +168,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -244,7 +244,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recovery-agents-contacting-previous-employer-or-college#faq",
+      "@id": "https://www.settleloans.in/recovery-agents-contacting-previous-employer-or-college#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -322,12 +322,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

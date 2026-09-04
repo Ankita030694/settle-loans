@@ -51,16 +51,16 @@ export const metadata: Metadata = {
     'debt settlement harassment legal protection'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/police-complaint-format-recovery-agent-harassment',
+    canonical: 'https://www.settleloans.in/police-complaint-format-recovery-agent-harassment',
   },
   openGraph: {
     title: 'Police Complaint Against Recovery Agent Format: Legal Draft, IPC Sections & RBI Protections',
     description: 'Comprehensive legal analysis and statutory complaint framework against debt recovery agent harassment. Understand IPC 506, 509, 383, RBI Fair Practices Code, and local police station submission protocols.',
-    url: 'https://settleloans.in/police-complaint-format-recovery-agent-harassment',
+    url: 'https://www.settleloans.in/police-complaint-format-recovery-agent-harassment',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/police-complaint-format-recovery-agent-harassment.jpg',
+        url: 'https://www.settleloans.in/images/infographics/police-complaint-format-recovery-agent-harassment.jpg',
         width: 1200,
         height: 675,
         alt: 'Police Complaint Against Recovery Agent Format Infographic',
@@ -73,7 +73,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Police Complaint Against Recovery Agent Format: Legal Draft & Police Recourse',
     description: 'Unlawful threats, home trespassing, or abusive phone calls from collection agents? Learn how to draft and file an actionable police complaint under IPC Sections 506 & 509.',
-    images: ['https://settleloans.in/images/infographics/police-complaint-format-recovery-agent-harassment.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/police-complaint-format-recovery-agent-harassment.jpg'],
   },
 };
 
@@ -82,74 +82,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/police-complaint-format-recovery-agent-harassment#webpage",
-      "url": "https://settleloans.in/police-complaint-format-recovery-agent-harassment",
+      "@id": "https://www.settleloans.in/police-complaint-format-recovery-agent-harassment#webpage",
+      "url": "https://www.settleloans.in/police-complaint-format-recovery-agent-harassment",
       "name": "Police Complaint Against Recovery Agent Format | Legal Draft & Rights",
       "description": "Statutory legal guide and formal police complaint framework against abusive loan recovery agents. Details IPC Sections 506, 509, 383, RBI Master Directions, evidentiary requirements, and advocate-led resolution.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/police-complaint-format-recovery-agent-harassment#breadcrumb"
+        "@id": "https://www.settleloans.in/police-complaint-format-recovery-agent-harassment#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/police-complaint-format-recovery-agent-harassment#breadcrumb",
+      "@id": "https://www.settleloans.in/police-complaint-format-recovery-agent-harassment#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Police Complaint Against Recovery Agent Format",
-          "item": "https://settleloans.in/police-complaint-format-recovery-agent-harassment"
+          "item": "https://www.settleloans.in/police-complaint-format-recovery-agent-harassment"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/police-complaint-format-recovery-agent-harassment#article",
+      "@id": "https://www.settleloans.in/police-complaint-format-recovery-agent-harassment#article",
       "headline": "Police Complaint Against Recovery Agent Format: Legal Draft, IPC Sections & RBI Safeguards",
       "description": "An exhaustive statutory analysis of legal remedies against loan recovery agent harassment in India. Examines Indian Penal Code Sections 506, 509, 383, 441, RBI Fair Practices Code, police station filing procedures, and debt settlement negotiation strategies.",
-      "image": "https://settleloans.in/images/infographics/police-complaint-format-recovery-agent-harassment.jpg",
+      "image": "https://www.settleloans.in/images/infographics/police-complaint-format-recovery-agent-harassment.jpg",
       "datePublished": "2026-08-25T10:00:00+05:30",
       "dateModified": "2026-08-25T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/police-complaint-format-recovery-agent-harassment#webpage"
+        "@id": "https://www.settleloans.in/police-complaint-format-recovery-agent-harassment#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/police-complaint-format-recovery-agent-harassment#service",
+      "@id": "https://www.settleloans.in/police-complaint-format-recovery-agent-harassment#service",
       "name": "SettleLoans - Legal Debt Defense & Harassment Protection Advisory",
       "description": "Comprehensive legal defense against recovery agent harassment, unlawful criminal intimidation, unauthorized workplace intrusions, and deceptive collection practices, combined with structured One-Time Settlement (OTS) negotiations.",
-      "url": "https://settleloans.in/police-complaint-format-recovery-agent-harassment",
-      "image": "https://settleloans.in/images/infographics/police-complaint-format-recovery-agent-harassment.jpg",
+      "url": "https://www.settleloans.in/police-complaint-format-recovery-agent-harassment",
+      "image": "https://www.settleloans.in/images/infographics/police-complaint-format-recovery-agent-harassment.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -162,9 +162,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -238,7 +238,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/police-complaint-format-recovery-agent-harassment#faq",
+      "@id": "https://www.settleloans.in/police-complaint-format-recovery-agent-harassment#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -316,12 +316,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

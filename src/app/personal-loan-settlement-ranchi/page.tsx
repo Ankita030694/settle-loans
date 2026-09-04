@@ -45,16 +45,16 @@ export const metadata: Metadata = {
     'drt ranchi loan recovery defense'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-ranchi',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-ranchi',
   },
   openGraph: {
     title: 'Personal Loan Settlement in Ranchi, Jharkhand: Advocate Defense & Bank OTS Guide',
     description: 'Struggling with unmanageable personal loans or credit card debt in Ranchi, Jamshedpur, or Dhanbad? Learn how advocate-led OTS negotiations, SARB notice legal defense, and JHALSA Lok Adalat settlements can reduce your debt by 40% to 60%.',
-    url: 'https://settleloans.in/personal-loan-settlement-ranchi',
+    url: 'https://www.settleloans.in/personal-loan-settlement-ranchi',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-ranchi.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-ranchi.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan Settlement Company in Ranchi Jharkhand Legal Resolution Guide',
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Personal Loan Settlement in Ranchi Jharkhand: Legal OTS & Lok Adalat Representation',
     description: 'Facing SARB recovery notices, Section 138 summons, or collection pressure in Jharkhand? Settle personal loans and credit card debt legally with advocate-led bank negotiations.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-ranchi.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-ranchi.jpg'],
   },
 };
 
@@ -76,79 +76,79 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-ranchi#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-ranchi",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-ranchi#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-ranchi",
       "name": "Personal Loan Settlement Company in Ranchi Jharkhand | Top Debt Relief Lawyers",
       "description": "Leading personal loan settlement company in Ranchi, Jharkhand. Expert legal defense against PSU bank SARB notices, mining debt distress, JHALSA Lok Adalat OTS & bank harassment.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-ranchi#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-ranchi#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-ranchi#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-ranchi#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan Settlement",
-          "item": "https://settleloans.in/loan-settlement"
+          "item": "https://www.settleloans.in/loan-settlement"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Ranchi Jharkhand Loan Settlement",
-          "item": "https://settleloans.in/personal-loan-settlement-ranchi"
+          "item": "https://www.settleloans.in/personal-loan-settlement-ranchi"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-ranchi#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-ranchi#article",
       "headline": "Personal Loan Settlement Company in Ranchi, Jharkhand: Advocate Defense & Bank OTS Guide",
       "description": "An exhaustive statutory and legal analysis of personal loan and unsecured debt settlement across Ranchi, Jamshedpur, Dhanbad, and Jharkhand. Explains PSU bank SARB procedures, Section 138 defense, JHALSA Lok Adalat awards, and RBI compromise settlement mandates.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-ranchi.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-ranchi.jpg",
       "datePublished": "2026-08-28T10:00:00+05:30",
       "dateModified": "2026-08-28T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-ranchi#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-ranchi#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo/logo.svg",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo/logo.svg",
       "sameAs": [
         "https://www.facebook.com/settleloans",
         "https://www.linkedin.com/company/settleloans",
@@ -164,11 +164,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-ranchi#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-ranchi#service",
       "name": "SettleLoans - Ranchi & Jharkhand Debt Resolution & Loan Settlement Advisory",
       "description": "Premier legal representation and debt settlement advisory for borrowers facing delinquent personal loans, credit card debt, PSU bank SARB notices, and mining contractor debt disputes across Ranchi, Jamshedpur, Dhanbad, Bokaro, and Jharkhand.",
-      "url": "https://settleloans.in/personal-loan-settlement-ranchi",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-ranchi.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-ranchi",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-ranchi.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -181,9 +181,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -257,7 +257,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-ranchi#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-ranchi#faq",
       "mainEntity": [
         {
           "@type": "Question",

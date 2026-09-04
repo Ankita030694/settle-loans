@@ -63,16 +63,16 @@ export const metadata: Metadata = {
     'one time settlement digital harassment virtual numbers'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers',
+    canonical: 'https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers',
   },
   openGraph: {
     title: 'Recovery Agents Calling from Virtual Numbers & WhatsApp? Legal Defenses & DoT Chakshu Guide',
     description: 'Stop digital debt collection harassment. Discover statutory protections against VoIP auto-dialers, illegal virtual numbers, and disappearing WhatsApp threats under RBI, DoT, and IT Act frameworks.',
-    url: 'https://settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers',
+    url: 'https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recovery-agents-calling-from-unknown-virtual-numbers.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recovery-agents-calling-from-unknown-virtual-numbers.jpg',
         width: 1200,
         height: 675,
         alt: 'Recovery Agents Calling from Unknown Virtual Numbers Legal Defense Guide',
@@ -85,7 +85,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Recovery Agents Calling from Virtual Numbers & WhatsApp? Legal Defenses & DoT Chakshu Guide',
     description: 'Facing relentless calls from spoofed VoIP lines, automated dialers, or WhatsApp bots? Learn how to preserve digital evidence, report to DoT Chakshu, and hold banks vicariously liable.',
-    images: ['https://settleloans.in/images/infographics/recovery-agents-calling-from-unknown-virtual-numbers.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recovery-agents-calling-from-unknown-virtual-numbers.jpg'],
   },
 };
 
@@ -94,74 +94,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers#webpage",
-      "url": "https://settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers",
+      "@id": "https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers#webpage",
+      "url": "https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers",
       "name": "Recovery Agents Calling from Virtual Numbers & WhatsApp? Legal Defenses & DoT Chakshu Guide",
       "description": "Comprehensive legal and technical breakdown for borrowers facing recovery agent harassment through VoIP numbers, auto-dialers, spoofed caller IDs, and disappearing WhatsApp chats in India.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers#breadcrumb"
+        "@id": "https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers#breadcrumb",
+      "@id": "https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Digital Recovery Harassment Defense",
-          "item": "https://settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers"
+          "item": "https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers#article",
+      "@id": "https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers#article",
       "headline": "Recovery Agents Calling from Unknown Virtual Numbers: VoIP Tracking, DoT Chakshu Complaints & Bank Accountability",
       "description": "An exhaustive analysis on how recovery agencies exploit VoIP auto-dialers, virtual series (+91 140 / +91 160 headers), and disappearing WhatsApp messages to bypass Truecaller blocking, and the exact statutory mechanisms to preserve digital evidence, file DoT Chakshu grievances, invoke RBI Master Directions, and negotiate 55% One-Time Settlements.",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-calling-from-unknown-virtual-numbers.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-calling-from-unknown-virtual-numbers.jpg",
       "datePublished": "2026-08-28T10:00:00+05:30",
       "dateModified": "2026-08-28T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers#webpage"
+        "@id": "https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers#service",
+      "@id": "https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers#service",
       "name": "SettleLoans - Digital Debt Harassment Defense & Loan Settlement Advisory",
       "description": "Specialized legal defense and financial dispute resolution for borrowers facing aggressive digital collection harassment, automated robocalls, spoofed virtual numbers, and unauthorized WhatsApp outreach.",
-      "url": "https://settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-calling-from-unknown-virtual-numbers.jpg",
+      "url": "https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-calling-from-unknown-virtual-numbers.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -174,9 +174,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -250,7 +250,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers#faq",
+      "@id": "https://www.settleloans.in/recovery-agents-calling-from-unknown-virtual-numbers#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -336,12 +336,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

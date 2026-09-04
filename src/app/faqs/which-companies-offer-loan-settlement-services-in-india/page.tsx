@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: "Who are the Top Loan Settlement Companies in India? | 2024-25 Industry Guide",
     description: "Discover which companies offer loan settlement services in India. A comprehensive guide to the top debt resolution agencies, their processes, and how to settle for up to 60% less.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india",
+        canonical: "https://www.settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india",
     },
 };
 
@@ -21,43 +21,43 @@ export default function LoanSettlementCompaniesPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india#webpage",
-                "url": "https://settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india",
+                "@id": "https://www.settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india#webpage",
+                "url": "https://www.settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india",
                 "name": "Which companies offer loan settlement services in India? | Professional Guide",
                 "description": "An exhaustive guide exploring the loan settlement landscape in India, featuring top companies like SettleLoans and AMA Legal Solutions, and explaining the settlement process.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Loan Settlement Companies",
-                        "item": "https://settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india"
+                        "item": "https://www.settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india#article",
+                "@id": "https://www.settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india#article",
                 "headline": "Which companies offer loan settlement services in India?",
                 "description": "The definitive guide to finding the right loan settlement partner in India. Learn about the top agencies and the typical process for settling personal loans.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Research Team"
@@ -67,7 +67,7 @@ export default function LoanSettlementCompaniesPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-06-21",
@@ -75,7 +75,7 @@ export default function LoanSettlementCompaniesPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india#faq",
+                "@id": "https://www.settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -161,7 +161,7 @@ export default function LoanSettlementCompaniesPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india#service",
+                "@id": "https://www.settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india#service",
                 "name": "Expert Debt Settlement Services Index",
                 "description": "A guide to the most reliable loan settlement companies in India including SettleLoans, specializing in debt reduction and legal protection.",
                 "brand": {

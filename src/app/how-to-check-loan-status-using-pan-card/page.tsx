@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "How to Check Loan Status Using PAN Card | Fraud Check",
   description: "Are there fake loans running on your PAN card without your knowledge? Learn how to instantly check every active loan tied to your name.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-check-loan-status-using-pan-card",
+    canonical: "https://www.settleloans.in/how-to-check-loan-status-using-pan-card",
   },
 };
 
@@ -17,34 +17,34 @@ export default function CheckLoanStatusPANPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-check-loan-status-using-pan-card#webpage",
-        "url": "https://settleloans.in/how-to-check-loan-status-using-pan-card",
+        "@id": "https://www.settleloans.in/how-to-check-loan-status-using-pan-card#webpage",
+        "url": "https://www.settleloans.in/how-to-check-loan-status-using-pan-card",
         "name": "How to Check Loan Status Using PAN Card",
         "description": "Are there fake loans running on your PAN card without your knowledge? Learn how to instantly check every active loan tied to your name.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-check-loan-status-using-pan-card#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-check-loan-status-using-pan-card#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-check-loan-status-using-pan-card#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-check-loan-status-using-pan-card#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Check Loan Status PAN Card",
-            "item": "https://settleloans.in/how-to-check-loan-status-using-pan-card"
+            "item": "https://www.settleloans.in/how-to-check-loan-status-using-pan-card"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-check-loan-status-using-pan-card#article",
+        "@id": "https://www.settleloans.in/how-to-check-loan-status-using-pan-card#article",
         "headline": "How to Check Loan Status Using PAN Card",
         "description": "A comprehensive guide on how to find all loans on your PAN card and check for active loan frauds using your PAN number.",
         "author": {
@@ -56,22 +56,22 @@ export default function CheckLoanStatusPANPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-08-15",
         "dateModified": "2024-08-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-check-loan-status-using-pan-card#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-check-loan-status-using-pan-card#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-check-loan-status-using-pan-card#product",
+        "@id": "https://www.settleloans.in/how-to-check-loan-status-using-pan-card#product",
         "name": "PAN Card Fraud Resolution Service",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Legal resolution and guidance for removing fraudulent and fake loans from your PAN card.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function CheckLoanStatusPANPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-check-loan-status-using-pan-card#faq",
+        "@id": "https://www.settleloans.in/how-to-check-loan-status-using-pan-card#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     title: "How Peer-to-Peer (P2P) Lending Platforms Handle Loan Settlements | India 2025",
     description: "Discover how P2P platforms like Faircent and Lendbox handle loan settlements. Learn about individual lender negotiations, RBI recovery guidelines, and settlement strategies.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements",
+        canonical: "https://www.settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements",
     },
 };
 
@@ -19,36 +19,36 @@ export default function P2PLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements#webpage",
-                "url": "https://settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements",
+                "@id": "https://www.settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements#webpage",
+                "url": "https://www.settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements",
                 "name": "How Peer-to-Peer (P2P) Lending Platforms Handle Loan Settlements | Expert Analysis",
                 "description": "A comprehensive guide on negotiating settlements with P2P lending intermediaries and individual lenders in the Indian fintech ecosystem.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://settleloans.in/faqs" },
-                    { "@type": "ListItem", "position": 3, "name": "P2P Loan Settlements", "item": "https://settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://www.settleloans.in/faqs" },
+                    { "@type": "ListItem", "position": 3, "name": "P2P Loan Settlements", "item": "https://www.settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements#article",
+                "@id": "https://www.settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements#article",
                 "headline": "How Peer-to-Peer (P2P) Lending Platforms Handle Loan Settlements",
                 "description": "The ultimate roadmap to navigating P2P debt resolution in India. Learn how individual lenders and platforms negotiate settlements.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": { "@type": "Organization", "name": "SettleLoans Expert Team" },
-                "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" } },
+                "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" } },
                 "datePublished": "2024-02-22",
                 "dateModified": "2024-02-22"
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements#faq",
+                "@id": "https://www.settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -134,7 +134,7 @@ export default function P2PLoanSettlementPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements#service",
+                "@id": "https://www.settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements#service",
                 "name": "Professional P2P Loan Settlement Assistance",
                 "description": "Specialized negotiation services for borrowers struggling with P2P loans from platforms like Faircent, Lendbox, and i2ifunding.",
                 "brand": { "@type": "Brand", "name": "SettleLoans" },

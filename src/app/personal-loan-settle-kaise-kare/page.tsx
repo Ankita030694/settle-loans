@@ -61,16 +61,16 @@ export const metadata: Metadata = {
     'ots scheme for personal loan',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settle-kaise-kare',
+    canonical: 'https://www.settleloans.in/personal-loan-settle-kaise-kare',
   },
   openGraph: {
     title: 'Personal Loan Settle Kaise Kare: Bank Se Baat Karne Ka Tarika, Haircut Formula & Legal Rules (2026)',
     description: 'Complete legal and financial guide on personal loan settlement in India. Understand RBI compromise settlement policies, NPA provisioning timelines, harassment defense, and step-by-step negotiation protocols.',
-    url: 'https://settleloans.in/personal-loan-settle-kaise-kare',
+    url: 'https://www.settleloans.in/personal-loan-settle-kaise-kare',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settle-kaise-kare.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settle-kaise-kare.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan Settle Kaise Kare - Step-by-Step Settlement Process, Haircut Formula & Legal Defense',
@@ -83,7 +83,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Personal Loan Settle Kaise Kare: Bank Se Baat Karne Ka Tarika & Legal Rules',
     description: 'Technical and legal manual for settling defaulted unsecured personal loans across Indian commercial banks and NBFCs under RBI compromise settlement frameworks.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settle-kaise-kare.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settle-kaise-kare.jpg'],
   },
 };
 
@@ -135,75 +135,75 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settle-kaise-kare#webpage",
-      "url": "https://settleloans.in/personal-loan-settle-kaise-kare",
+      "@id": "https://www.settleloans.in/personal-loan-settle-kaise-kare#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settle-kaise-kare",
       "name": "Personal Loan Settle Kaise Kare: Bank Se Baat Karne Ka Tarika, Haircut Formula & Legal Rules (2026)",
       "description": "Comprehensive guide on settling unsecured personal loan defaults in India under RBI compromise settlement frameworks, legal notice defense, and CIBIL score recovery.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settle-kaise-kare#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settle-kaise-kare#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settle-kaise-kare#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settle-kaise-kare#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Loan Settle Kaise Kare",
-          "item": "https://settleloans.in/personal-loan-settle-kaise-kare"
+          "item": "https://www.settleloans.in/personal-loan-settle-kaise-kare"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settle-kaise-kare#article",
+      "@id": "https://www.settleloans.in/personal-loan-settle-kaise-kare#article",
       "headline": "Personal Loan Settle Kaise Kare: Bank Se Baat Karne Ka Tarika, Haircut Formula & Legal Rules",
       "description": "Detailed strategic analysis of the personal loan settlement process in India, including NPA provisioning timelines, RBI circulars on compromise settlements, legal notice defense, and credit score rehabilitation.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settle-kaise-kare.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settle-kaise-kare.jpg",
       "datePublished": "2026-08-26T10:30:00+05:30",
       "dateModified": "2026-08-26T10:30:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settle-kaise-kare#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settle-kaise-kare#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "contactPoint": {
         "@type": "ContactPoint",
@@ -215,11 +215,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settle-kaise-kare#service",
+      "@id": "https://www.settleloans.in/personal-loan-settle-kaise-kare#service",
       "name": "SettleLoans - Personal Loan Settlement & Legal Advisory Desk",
       "description": "Professional debt negotiation, legal notice defense, and RBI-compliant compromise settlement advisory for unsecured personal loan defaults in India.",
-      "url": "https://settleloans.in/personal-loan-settle-kaise-kare",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settle-kaise-kare.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settle-kaise-kare",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settle-kaise-kare.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -232,9 +232,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -308,7 +308,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settle-kaise-kare#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settle-kaise-kare#faq",
       "mainEntity": faqsList.map((faq) => ({
         "@type": "Question",
         "name": faq.question,

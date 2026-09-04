@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'close frozen overdraft account'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/bank-overdraft-facility-settlement-process',
+    canonical: 'https://www.settleloans.in/bank-overdraft-facility-settlement-process',
   },
   openGraph: {
     title: 'How to Settle Bank Overdraft Loan: Unsecured & Dropline OD OTS Guide',
     description: 'Master the legal and financial roadmap to settle defaulted bank overdraft accounts and dropline facilities. Learn how advocate representation halts compounding interest, resolves banker lien freezes, and secures a 45%–65% One-Time Settlement.',
-    url: 'https://settleloans.in/bank-overdraft-facility-settlement-process',
+    url: 'https://www.settleloans.in/bank-overdraft-facility-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/bank-overdraft-facility-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/bank-overdraft-facility-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'Bank Overdraft Facility Settlement Process & Legal Resolution Guide',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Settle Bank Overdraft Loan: Unsecured & Dropline OD Guide',
     description: 'Stuck with a frozen bank overdraft account accumulating daily compounding interest? Discover the statutory OTS process to convert irregular OD limits into a compromised debt settlement.',
-    images: ['https://settleloans.in/images/infographics/bank-overdraft-facility-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/bank-overdraft-facility-settlement-process.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/bank-overdraft-facility-settlement-process#webpage",
-      "url": "https://settleloans.in/bank-overdraft-facility-settlement-process",
+      "@id": "https://www.settleloans.in/bank-overdraft-facility-settlement-process#webpage",
+      "url": "https://www.settleloans.in/bank-overdraft-facility-settlement-process",
       "name": "How to Settle Bank Overdraft Loan: Unsecured & Dropline OD OTS Guide (2026)",
       "description": "Learn how to settle bank overdraft loans, unsecured OD limits, and dropline credit facilities in India. Discover how to freeze compounding interest, convert irregular OD accounts into a formal One-Time Settlement (OTS), negotiate 45%–65% principal haircuts, and obtain a zero-balance No Dues Certificate.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/bank-overdraft-facility-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/bank-overdraft-facility-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/bank-overdraft-facility-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/bank-overdraft-facility-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Bank Overdraft Settlement Process",
-          "item": "https://settleloans.in/bank-overdraft-facility-settlement-process"
+          "item": "https://www.settleloans.in/bank-overdraft-facility-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/bank-overdraft-facility-settlement-process#article",
+      "@id": "https://www.settleloans.in/bank-overdraft-facility-settlement-process#article",
       "headline": "Bank Overdraft Facility Settlement Process: How to Settle Unsecured & Dropline OD Loans",
       "description": "A comprehensive regulatory and financial guide to settling bank overdraft accounts, dropline lines of credit, and irregular working capital limits in India. Covers RBI IRACP prudential guidelines, banker lien protections under Section 171 of the Contract Act, Net Present Value recovery formulations, and debt compromise procedures.",
-      "image": "https://settleloans.in/images/infographics/bank-overdraft-facility-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/bank-overdraft-facility-settlement-process.jpg",
       "datePublished": "2026-08-26T10:00:00+05:30",
       "dateModified": "2026-08-26T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/bank-overdraft-facility-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/bank-overdraft-facility-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/bank-overdraft-facility-settlement-process#service",
+      "@id": "https://www.settleloans.in/bank-overdraft-facility-settlement-process#service",
       "name": "SettleLoans - Bank Overdraft Settlement & Stressed Working Capital Advisory",
       "description": "Specialized legal representation and debt resolution advisory for business owners and salaried individuals managing delinquent bank overdraft facilities, dropline credit lines, and irregular business accounts across Indian commercial banks.",
-      "url": "https://settleloans.in/bank-overdraft-facility-settlement-process",
-      "image": "https://settleloans.in/images/infographics/bank-overdraft-facility-settlement-process.jpg",
+      "url": "https://www.settleloans.in/bank-overdraft-facility-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/bank-overdraft-facility-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/bank-overdraft-facility-settlement-process#faq",
+      "@id": "https://www.settleloans.in/bank-overdraft-facility-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -313,12 +313,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

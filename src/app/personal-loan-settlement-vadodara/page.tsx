@@ -56,16 +56,16 @@ export const metadata: Metadata = {
     'section 25 pssa notice defense vadodara',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-vadodara',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-vadodara',
   },
   openGraph: {
     title: 'Debt Settlement Services in Vadodara: Legal OTS, Bank NPA Rules & Haircut Guide (2026)',
     description: 'Master the loan settlement process in Vadodara and the Gujarat Industrial Corridor. Understand Stressed Assets Recovery Branch (SARB) escalation, Zonal Office OTS negotiation, Vadodara Lok Adalat conciliation, and RBI compromise frameworks.',
-    url: 'https://settleloans.in/personal-loan-settlement-vadodara',
+    url: 'https://www.settleloans.in/personal-loan-settlement-vadodara',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-vadodara.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-vadodara.jpg',
         width: 1200,
         height: 675,
         alt: 'Debt Settlement Services in Vadodara: Gujarat Industrial Corridor Legal OTS Blueprint and Bank NPA Resolution Process',
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Debt Settlement Services in Vadodara: Legal OTS, Bank NPA Rules & Haircut Guide',
     description: 'Technical and legal manual for resolving personal and business debt overdues across Vadodara, Anand, and Bharuch under RBI compromise settlement frameworks and Lok Adalat decrees.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-vadodara.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-vadodara.jpg'],
   },
 };
 
@@ -87,74 +87,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-vadodara#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-vadodara",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vadodara#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-vadodara",
       "name": "Debt Settlement Services in Vadodara: Legal OTS, Bank NPA Rules & Haircut Guide (2026)",
       "description": "Comprehensive legal guide to debt settlement services in Vadodara. Learn how industrialists, engineers & borrowers across Vadodara, Anand & Bharuch negotiate 40%–60% loan haircuts under RBI rules, SARB policies & Lok Adalat.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-vadodara#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-vadodara#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-vadodara#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vadodara#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Debt Settlement Services in Vadodara",
-          "item": "https://settleloans.in/personal-loan-settlement-vadodara"
+          "item": "https://www.settleloans.in/personal-loan-settlement-vadodara"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-vadodara#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vadodara#article",
       "headline": "Debt Settlement Services in Vadodara: Legal OTS Process, Bank NPA Rules & Debt Haircut Guide",
       "description": "An exhaustive legal and financial manual on resolving personal and business debt overdues across Vadodara, Anand, and Bharuch. Covers SARB procedures, Zonal Office OTS negotiation, Vadodara Lok Adalat conciliation, and RBI debt compromise regulations.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-vadodara.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-vadodara.jpg",
       "datePublished": "2026-08-28T10:00:00+05:30",
       "dateModified": "2026-08-28T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-vadodara#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-vadodara#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-vadodara#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vadodara#service",
       "name": "SettleLoans - Debt Settlement Services & Legal Defense Vadodara",
       "description": "Expert legal advocacy and financial debt settlement advisory for individuals, engineers, and MSME proprietors across Vadodara, Anand, and Bharuch navigating bank NPA recovery and One-Time Settlements (OTS).",
-      "url": "https://settleloans.in/personal-loan-settlement-vadodara",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-vadodara.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-vadodara",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-vadodara.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -167,9 +167,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -243,7 +243,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-vadodara#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vadodara#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -321,12 +321,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

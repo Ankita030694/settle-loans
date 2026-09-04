@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Legal Implications of Non-Payment During Debt Settlement | India Guide",
   description: "Understand the legal risks of non-payment during debt settlement in India. Detailed guide on Section 138 NI Act, Section 25 PSS Act, and RBI recovery guidelines.",
   alternates: {
-    canonical: "https://settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement",
+    canonical: "https://www.settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement",
   },
 };
 
@@ -59,39 +59,39 @@ export default function LegalImplicationsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement#webpage",
-        "url": "https://settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement",
+        "@id": "https://www.settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement#webpage",
+        "url": "https://www.settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement",
         "name": "Legal Implications of Non-Payment During Debt Settlement",
         "description": "Comprehensive guide on the legal risks and protections during the loan settlement process in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement#breadcrumb",
+        "@id": "https://www.settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Legal Implications Guide", "item": "https://settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Legal Implications Guide", "item": "https://www.settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement#article",
+        "@id": "https://www.settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement#article",
         "headline": "Are There Legal Implications for Non-Payment During Debt Settlement?",
         "description": "Examine the risks: from Section 138 NI Act to the SARFAESI process, and how RBI guidelines protect you from harassment.",
         "author": { "@type": "Organization", "name": "SettleLoans Legal Research Team" },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+          "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
         },
         "datePublished": "2024-03-16",
         "dateModified": "2024-03-16",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement#product",
+        "@id": "https://www.settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement#product",
         "name": "Legal Risk Assessment Service",
         "description": "Professional evaluation of legal exposure during the settlement period.",
         "aggregateRating": {
@@ -111,7 +111,7 @@ export default function LegalImplicationsPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement#faq",
+        "@id": "https://www.settleloans.in/are-there-legal-implecations-or-non-payment-during-debt-settlement#faq",
         "mainEntity": faqs.map(faq => ({
           "@type": "Question",
           "name": faq.q,

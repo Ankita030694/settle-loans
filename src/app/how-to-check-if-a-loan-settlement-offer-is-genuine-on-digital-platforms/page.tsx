@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How to Check if a Loan Settlement Offer is Genuine on Digital Platforms (2026)",
   description: "Learn how to verify if a loan settlement offer is genuine on digital platforms. Identify red flags, follow RBI guidelines, and protect yourself from debt settlement scams in India.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms",
+    canonical: "https://www.settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms",
   },
 };
 
@@ -16,34 +16,34 @@ export default function GenuineSettlementOfferPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms#webpage",
-        "url": "https://settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms",
+        "@id": "https://www.settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms#webpage",
+        "url": "https://www.settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms",
         "name": "How to Check if a Loan Settlement Offer is Genuine on Digital Platforms",
         "description": "Comprehensive guide to verifying loan settlement offers from banks and NBFCs in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Check Genuine Settlement Offer",
-            "item": "https://settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms"
+            "item": "https://www.settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms#article",
+        "@id": "https://www.settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms#article",
         "headline": "How to Check if a Loan Settlement Offer is Genuine on Digital Platforms",
         "description": "Protect yourself from fraudulent loan settlement offers. Learn the verification steps and red flags to watch for in 2026.",
         "author": {
@@ -55,18 +55,18 @@ export default function GenuineSettlementOfferPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-03-19",
         "dateModified": "2026-03-19",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms#webpage" }
       },
       {
         "@type": "Organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
-        "logo": "https://settleloans.in/logo/logo.svg",
+        "url": "https://www.settleloans.in",
+        "logo": "https://www.settleloans.in/logo/logo.svg",
         "sameAs": [
           "https://www.facebook.com/settleloans",
           "https://www.linkedin.com/company/settleloans"
@@ -74,7 +74,7 @@ export default function GenuineSettlementOfferPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms#product",
+        "@id": "https://www.settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms#product",
         "name": "Debt Settlement Verification Service",
         "description": "Expert guidance on verifying the authenticity of loan settlement offers from Indian banks and NBFCs.",
         "aggregateRating": {
@@ -101,7 +101,7 @@ export default function GenuineSettlementOfferPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms#faq",
+        "@id": "https://www.settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms#faq",
         "mainEntity": [
           {
             "@type": "Question",

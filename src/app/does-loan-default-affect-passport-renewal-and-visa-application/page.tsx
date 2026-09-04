@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Does a Loan Default Affect Passport Renewal and Visa Applications in India?',
   description: 'Understand the impact of a loan default on passport renewal and visa applications. Discover if a low CIBIL score leads to visa rejection and if defaulters can travel abroad.',
   alternates: {
-    canonical: 'https://settleloans.in/does-loan-default-affect-passport-renewal-and-visa-application',
+    canonical: 'https://www.settleloans.in/does-loan-default-affect-passport-renewal-and-visa-application',
   }
 };
 
@@ -22,19 +22,19 @@ export default function LoanDefaultPassportVisaPage() {
         "author": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo.png"
+            "url": "https://www.settleloans.in/logo.png"
           }
         },
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://settleloans.in/does-loan-default-affect-passport-renewal-and-visa-application"
+          "@id": "https://www.settleloans.in/does-loan-default-affect-passport-renewal-and-visa-application"
         }
       },
       {
@@ -180,19 +180,19 @@ export default function LoanDefaultPassportVisaPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in/"
+            "item": "https://www.settleloans.in/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Resources",
-            "item": "https://settleloans.in/resources"
+            "item": "https://www.settleloans.in/resources"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Loan Default Passport & Visa Impact",
-            "item": "https://settleloans.in/does-loan-default-affect-passport-renewal-and-visa-application"
+            "item": "https://www.settleloans.in/does-loan-default-affect-passport-renewal-and-visa-application"
           }
         ]
       }

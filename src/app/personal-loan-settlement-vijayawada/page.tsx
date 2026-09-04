@@ -50,16 +50,16 @@ export const metadata: Metadata = {
     'dlsa krishna loan dispute resolution',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-vijayawada',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-vijayawada',
   },
   openGraph: {
     title: 'Debt Settlement Advocates in Vijayawada: Personal Loan OTS & Legal Relief (2026)',
     description: 'Expert legal defense and compromise One-Time Settlement (OTS) representation for agricultural traders, transport operators, and salaried employees facing loan defaults across Vijayawada, Guntur, and Krishna District.',
-    url: 'https://settleloans.in/personal-loan-settlement-vijayawada',
+    url: 'https://www.settleloans.in/personal-loan-settlement-vijayawada',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-vijayawada.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-vijayawada.jpg',
         width: 1200,
         height: 675,
         alt: 'Debt Settlement Advocates in Vijayawada Legal Defense and RBI OTS Roadmap',
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Debt Settlement Advocates in Vijayawada: Legal Notice Defense & RBI OTS Relief',
     description: 'Authoritative legal manual for personal loan settlement in Vijayawada and Guntur. Advocate-led defense against Section 25 PSSA and Section 138 notices in local courts with DLSA Lok Adalat resolution.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-vijayawada.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-vijayawada.jpg'],
   },
 };
 
@@ -81,80 +81,80 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-vijayawada#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-vijayawada",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vijayawada#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-vijayawada",
       "name": "Debt Settlement Advocates in Vijayawada: Loan OTS & Legal Notice Defense (2026)",
       "description": "Comprehensive legal and financial guide for personal loan settlement in Vijayawada and Guntur, navigating local recovery agency regulations, Section 25 PSSA defense in Vijayawada courts, and Stressed Asset OTS negotiations.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-vijayawada#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-vijayawada#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-vijayawada#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vijayawada#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Loan Settlement",
-          "item": "https://settleloans.in/personal-loan-debt-settlement"
+          "item": "https://www.settleloans.in/personal-loan-debt-settlement"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Vijayawada",
-          "item": "https://settleloans.in/personal-loan-settlement-vijayawada"
+          "item": "https://www.settleloans.in/personal-loan-settlement-vijayawada"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-vijayawada#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vijayawada#article",
       "headline": "Debt Settlement Advocates in Vijayawada: Personal Loan OTS, Legal Notice Defense & Lok Adalat Resolution",
       "description": "A comprehensive strategic guide for agricultural traders, transport operators, and salaried employees in Vijayawada and Guntur to resolve defaulted personal loans, stop recovery harassment, and secure 40%–60% debt haircuts.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-vijayawada.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-vijayawada.jpg",
       "datePublished": "2026-08-28T10:00:00+05:30",
       "dateModified": "2026-08-28T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-vijayawada#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-vijayawada#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-vijayawada#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vijayawada#service",
       "name": "SettleLoans - Debt Settlement Advocates Vijayawada",
       "description": "Specialized legal defense and loan compromise settlement advisory for unsecured personal loans, business credit facilities, and credit cards across Vijayawada, Guntur, and Andhra Pradesh under RBI compromise frameworks.",
-      "url": "https://settleloans.in/personal-loan-settlement-vijayawada",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-vijayawada.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-vijayawada",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-vijayawada.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -167,9 +167,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -243,7 +243,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-vijayawada#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vijayawada#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -329,12 +329,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

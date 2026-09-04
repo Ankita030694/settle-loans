@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Loan Recovery Notice Reply: Spot Fakes & Know When to Ignore",
   description: "Received a terrifying loan recovery notice? Learn how to verify if it's a fake recovery notice, when you can ignore a bank legal notice, and how to reply legally.",
   alternates: {
-    canonical: "https://settleloans.in/loan-revcovery-notice",
+    canonical: "https://www.settleloans.in/loan-revcovery-notice",
   },
 };
 
@@ -17,34 +17,34 @@ export default function LoanRecoveryNoticePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-revcovery-notice#webpage",
-        "url": "https://settleloans.in/loan-revcovery-notice",
+        "@id": "https://www.settleloans.in/loan-revcovery-notice#webpage",
+        "url": "https://www.settleloans.in/loan-revcovery-notice",
         "name": "Loan Recovery Notice Reply: Spot Fakes & Know When to Ignore",
         "description": "Received a terrifying loan recovery notice via WhatsApp or Post? Don't panic. Learn how to verify if it's real and how to reply legally.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-revcovery-notice#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-revcovery-notice#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-revcovery-notice#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-revcovery-notice#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Recovery Notice Guide",
-            "item": "https://settleloans.in/loan-revcovery-notice"
+            "item": "https://www.settleloans.in/loan-revcovery-notice"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-revcovery-notice#article",
+        "@id": "https://www.settleloans.in/loan-revcovery-notice#article",
         "headline": "Loan Recovery Notice Reply: Spot Fakes & Know When to Ignore",
         "description": "Step-by-step legal guide on drafting a loan recovery notice reply, identifying fake recovery notices, and handling illegal bank legal notices.",
         "author": {
@@ -56,22 +56,22 @@ export default function LoanRecoveryNoticePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-08-15",
         "dateModified": "2024-08-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-revcovery-notice#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-revcovery-notice#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-revcovery-notice#product",
+        "@id": "https://www.settleloans.in/loan-revcovery-notice#product",
         "name": "Legal Notice Reply & Defense Services",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to analyze, verify, and reply to loan recovery notices from banks, NBFCs, or fake loan apps.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function LoanRecoveryNoticePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-revcovery-notice#faq",
+        "@id": "https://www.settleloans.in/loan-revcovery-notice#faq",
         "mainEntity": [
           {
             "@type": "Question",

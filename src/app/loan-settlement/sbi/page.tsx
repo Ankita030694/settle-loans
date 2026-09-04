@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "SBI Loan Settlement Guide 2026 | Rinn Samadhan & OTS Expert Strategy",
   description: "Advanced legal strategies for State Bank of India (SBI) loan settlement. Master the Rinn Samadhan scheme, OTS 2026 protocols, and legal debt resolution.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/sbi",
+    canonical: "https://www.settleloans.in/loan-settlement/sbi",
   },
 };
 
@@ -16,22 +16,22 @@ export default function SBILoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/sbi#webpage",
-        "url": "https://settleloans.in/loan-settlement/sbi",
+        "@id": "https://www.settleloans.in/loan-settlement/sbi#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/sbi",
         "name": "SBI Loan Settlement | Expert Legal Resolution Guide 2026",
         "description": "Comprehensive guide to SBI debt negotiation, Rinn Samadhan OTS schemes, and legal protection.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/sbi#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/sbi#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/sbi#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/sbi#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "item": {
-              "@id": "https://settleloans.in/",
+              "@id": "https://www.settleloans.in/",
               "name": "Home"
             }
           },
@@ -39,7 +39,7 @@ export default function SBILoanSettlementPage() {
             "@type": "ListItem",
             "position": 2,
             "item": {
-              "@id": "https://settleloans.in/loan-settlement",
+              "@id": "https://www.settleloans.in/loan-settlement",
               "name": "Loan Settlement"
             }
           },
@@ -47,7 +47,7 @@ export default function SBILoanSettlementPage() {
             "@type": "ListItem",
             "position": 3,
             "item": {
-              "@id": "https://settleloans.in/loan-settlement/sbi",
+              "@id": "https://www.settleloans.in/loan-settlement/sbi",
               "name": "SBI Bank Master Guide"
             }
           }
@@ -65,11 +65,11 @@ export default function SBILoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo.png"
+            "url": "https://www.settleloans.in/logo.png"
           }
         },
         "datePublished": "2026-02-14",
-        "image": "https://settleloans.in/images/sbi-settlement-guide.jpg"
+        "image": "https://www.settleloans.in/images/sbi-settlement-guide.jpg"
       },
       {
         "@type": "FAQPage",
@@ -158,13 +158,13 @@ export default function SBILoanSettlementPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/sbi#service",
+        "@id": "https://www.settleloans.in/loan-settlement/sbi#service",
         "name": "SBI Loan Settlement Service",
         "description": "Professional debt negotiation for SBI personal loans and credit cards.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",

@@ -12,39 +12,39 @@ export default function LoanMortgageAgreementsPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-and-mortgage-agreements#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-loan-and-mortgage-agreements",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-and-mortgage-agreements#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-loan-and-mortgage-agreements",
                 "name": "Best Lawyer for Loan and Mortgage Agreements India | Expert Legal Drafting",
                 "description": "Professional legal drafting and review of loan and mortgage agreements in India. Ensure compliance with Transfer of Property Act, Stamp Act, and Registration Act. 4500+ word guide.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-loan-and-mortgage-agreements#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-loan-and-mortgage-agreements#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-and-mortgage-agreements#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-and-mortgage-agreements#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Loan and Mortgage Agreements", "item": "https://settleloans.in/best-lawyer-for-loan-and-mortgage-agreements" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Loan and Mortgage Agreements", "item": "https://www.settleloans.in/best-lawyer-for-loan-and-mortgage-agreements" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-and-mortgage-agreements#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-and-mortgage-agreements#article",
                 "headline": "Best Lawyer for Loan and Mortgage Agreements: Drafting, Reviewing, and Enforcing Secure Lending in India",
                 "description": "Comprehensive legal guide on drafting loan agreements, types of mortgages in India, registration requirements, and protecting lender and borrower rights.",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Documentation Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-loan-and-mortgage-agreements#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-loan-and-mortgage-agreements#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-and-mortgage-agreements#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-and-mortgage-agreements#product",
                 "name": "Legal Documentation & Mortgage Advisory Service",
                 "description": "Specialized legal services for drafting, vetting, and registering complex loan and mortgage instruments.",
                 "aggregateRating": {
@@ -71,7 +71,7 @@ export default function LoanMortgageAgreementsPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-and-mortgage-agreements#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-and-mortgage-agreements#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

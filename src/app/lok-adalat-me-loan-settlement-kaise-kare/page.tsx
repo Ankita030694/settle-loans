@@ -18,16 +18,16 @@ export const metadata: Metadata = {
     'dlsa pre litigation notice loan settlement'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/lok-adalat-me-loan-settlement-kaise-kare',
+    canonical: 'https://www.settleloans.in/lok-adalat-me-loan-settlement-kaise-kare',
   },
   openGraph: {
     title: 'Lok Adalat Me Loan Settlement Kaise Kare: Legal Process, Notice Rules & Spot OTS Haircut',
     description: 'Received a Lok Adalat summons or pre-litigation notice for unpaid loan EMIs? Discover why attendance is 100% voluntary, arrest is legally impossible, zero court fees apply, and how to secure a 40%–75% binding OTS decree.',
-    url: 'https://settleloans.in/lok-adalat-me-loan-settlement-kaise-kare',
+    url: 'https://www.settleloans.in/lok-adalat-me-loan-settlement-kaise-kare',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/lok-adalat-me-loan-settlement-kaise-kare.jpg',
+        url: 'https://www.settleloans.in/images/infographics/lok-adalat-me-loan-settlement-kaise-kare.jpg',
         width: 1200,
         height: 675,
         alt: 'Lok Adalat Me Loan Settlement Kaise Kare Process and Legal Blueprint',
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Lok Adalat Me Loan Settlement Kaise Kare: Legal Process & Spot OTS Guide',
     description: 'Comprehensive legal and tactical guide on handling Lok Adalat loan settlement notices, debunking arrest myths, negotiating on-the-spot bank haircuts, and securing non-appealable court awards.',
-    images: ['https://settleloans.in/images/infographics/lok-adalat-me-loan-settlement-kaise-kare.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/lok-adalat-me-loan-settlement-kaise-kare.jpg'],
   },
 };
 
@@ -49,73 +49,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/lok-adalat-me-loan-settlement-kaise-kare#webpage",
-      "url": "https://settleloans.in/lok-adalat-me-loan-settlement-kaise-kare",
+      "@id": "https://www.settleloans.in/lok-adalat-me-loan-settlement-kaise-kare#webpage",
+      "url": "https://www.settleloans.in/lok-adalat-me-loan-settlement-kaise-kare",
       "name": "Lok Adalat Me Loan Settlement Kaise Kare: Notice Rules, Process & Spot OTS (2026)",
       "description": "Received a National Lok Adalat notice? Learn how Lok Adalat loan settlement works in India, notice rules, voluntary attendance, zero court fee benefits, and how to get a 40%–75% OTS discount.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/lok-adalat-me-loan-settlement-kaise-kare#breadcrumb"
+        "@id": "https://www.settleloans.in/lok-adalat-me-loan-settlement-kaise-kare#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/lok-adalat-me-loan-settlement-kaise-kare#breadcrumb",
+      "@id": "https://www.settleloans.in/lok-adalat-me-loan-settlement-kaise-kare#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Lok Adalat Loan Settlement",
-          "item": "https://settleloans.in/lok-adalat-me-loan-settlement-kaise-kare"
+          "item": "https://www.settleloans.in/lok-adalat-me-loan-settlement-kaise-kare"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/lok-adalat-me-loan-settlement-kaise-kare#article",
+      "@id": "https://www.settleloans.in/lok-adalat-me-loan-settlement-kaise-kare#article",
       "headline": "Lok Adalat Me Loan Settlement Kaise Kare: Legal Process, Notice Rules & Spot OTS Haircut",
       "description": "An exhaustive, forensic legal guide for Indian borrowers on settling defaulted personal loans, credit cards, and business debts in National Lok Adalat. Learn DLSA conciliation rules, Section 21 court decree finality, and step-by-step negotiation tactics for maximum waiver.",
-      "image": "https://settleloans.in/images/infographics/lok-adalat-me-loan-settlement-kaise-kare.jpg",
+      "image": "https://www.settleloans.in/images/infographics/lok-adalat-me-loan-settlement-kaise-kare.jpg",
       "datePublished": "2026-08-26T11:12:44+05:30",
       "dateModified": "2026-08-26T11:12:44+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/lok-adalat-me-loan-settlement-kaise-kare#webpage"
+        "@id": "https://www.settleloans.in/lok-adalat-me-loan-settlement-kaise-kare#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo/logo.svg",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo/logo.svg",
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
         "https://twitter.com/settleloans",
@@ -124,7 +124,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/lok-adalat-me-loan-settlement-kaise-kare#faq",
+      "@id": "https://www.settleloans.in/lok-adalat-me-loan-settlement-kaise-kare#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -210,11 +210,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/lok-adalat-me-loan-settlement-kaise-kare#service",
+      "@id": "https://www.settleloans.in/lok-adalat-me-loan-settlement-kaise-kare#service",
       "name": "SettleLoans - National Lok Adalat Loan Settlement & Legal Defense",
       "description": "Expert advocate representation at National Lok Adalat sessions across India. We demystify DLSA notices, defend against unlawful bank pressure, and negotiate binding 40%–75% OTS compromise decrees with complete statutory finality.",
-      "url": "https://settleloans.in/lok-adalat-me-loan-settlement-kaise-kare",
-      "image": "https://settleloans.in/images/infographics/lok-adalat-me-loan-settlement-kaise-kare.jpg",
+      "url": "https://www.settleloans.in/lok-adalat-me-loan-settlement-kaise-kare",
+      "image": "https://www.settleloans.in/images/infographics/lok-adalat-me-loan-settlement-kaise-kare.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -227,9 +227,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

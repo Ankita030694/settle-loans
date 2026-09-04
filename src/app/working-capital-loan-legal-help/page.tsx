@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Working Capital Loan Legal Help in India | Recovery & Settlement Support",
     description: "Expert legal help for working capital loan disputes in India. Navigate RBI recovery guidelines, legal settlement procedures, and protect your business from harassment. Get a professional shield today.",
     alternates: {
-        canonical: "https://settleloans.in/working-capital-loan-legal-help",
+        canonical: "https://www.settleloans.in/working-capital-loan-legal-help",
     },
 };
 
@@ -16,34 +16,34 @@ export default function WorkingCapitalLoanLegalHelpPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/working-capital-loan-legal-help#webpage",
-                "url": "https://settleloans.in/working-capital-loan-legal-help",
+                "@id": "https://www.settleloans.in/working-capital-loan-legal-help#webpage",
+                "url": "https://www.settleloans.in/working-capital-loan-legal-help",
                 "name": "Working Capital Loan Legal Help in India | Recovery & Settlement Support",
                 "description": "Comprehensive legal advisory for businesses struggling with working capital loan repayments in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/working-capital-loan-legal-help#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/working-capital-loan-legal-help#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/working-capital-loan-legal-help#breadcrumb",
+                "@id": "https://www.settleloans.in/working-capital-loan-legal-help#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Working Capital Loan Legal Help",
-                        "item": "https://settleloans.in/working-capital-loan-legal-help"
+                        "item": "https://www.settleloans.in/working-capital-loan-legal-help"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/working-capital-loan-legal-help#article",
+                "@id": "https://www.settleloans.in/working-capital-loan-legal-help#article",
                 "headline": "Working Capital Loan Legal Help in India: Your Professional Shield",
                 "description": "Navigate the complex landscape of working capital loan recovery, legal notices, and settlement strategies in India with expert guidance.",
                 "author": {
@@ -55,16 +55,16 @@ export default function WorkingCapitalLoanLegalHelpPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-06",
                 "dateModified": "2024-03-06",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/working-capital-loan-legal-help#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/working-capital-loan-legal-help#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/working-capital-loan-legal-help#product",
+                "@id": "https://www.settleloans.in/working-capital-loan-legal-help#product",
                 "name": "Business Loan Legal Advisory Services",
                 "description": "Expert legal representation and negotiation services for business and working capital loan settlements.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function WorkingCapitalLoanLegalHelpPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/working-capital-loan-legal-help#faq",
+                "@id": "https://www.settleloans.in/working-capital-loan-legal-help#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

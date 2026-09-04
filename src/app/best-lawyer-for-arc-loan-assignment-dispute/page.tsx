@@ -10,22 +10,22 @@ export default function ArcLoanAssignmentPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-arc-loan-assignment-dispute#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-arc-loan-assignment-dispute#article",
                 "headline": "Best Lawyer for ARC Loan Assignment Dispute Legal Defense in India",
                 "description": "Expert legal defense against Asset Reconstruction Companies (ARCs). Challenge loan assignments, defective deeds, and SARFAESI actions in DRT with senior advocates.",
-                "image": "https://settleloans.in/images/arc-loan-dispute.jpg",
+                "image": "https://www.settleloans.in/images/arc-loan-dispute.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/best-lawyer-for-arc-loan-assignment-dispute" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/best-lawyer-for-arc-loan-assignment-dispute" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-arc-loan-assignment-dispute#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-arc-loan-assignment-dispute#product",
                 "name": "ARC Loan Assignment Legal Defense Service",
                 "description": "Specialized legal services to challenge the validity of loan assignments to ARCs under SARFAESI Act and RBI guidelines.",
                 "aggregateRating": {
@@ -74,9 +74,9 @@ export default function ArcLoanAssignmentPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://settleloans.in/services" },
-                    { "@type": "ListItem", "position": 3, "name": "ARC Loan Dispute", "item": "https://settleloans.in/best-lawyer-for-arc-loan-assignment-dispute" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://www.settleloans.in/services" },
+                    { "@type": "ListItem", "position": 3, "name": "ARC Loan Dispute", "item": "https://www.settleloans.in/best-lawyer-for-arc-loan-assignment-dispute" }
                 ]
             }
         ]

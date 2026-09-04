@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Best Lawyer for Bank Loan Recovery Defence India | 2025 Legal Guide",
     description: "Expert legal defence against bank loan recovery actions. Protect your assets from SARFAESI, DRT, and IBC proceedings. Technical legal audits and lender liability strategies.",
     alternates: {
-        canonical: "https://settleloans.in/best-lawyer-for-bank-loan-recovery-defence",
+        canonical: "https://www.settleloans.in/best-lawyer-for-bank-loan-recovery-defence",
     },
 };
 
@@ -18,34 +18,34 @@ export default function BankLoanRecoveryDefencePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-bank-loan-recovery-defence#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-bank-loan-recovery-defence",
+                "@id": "https://www.settleloans.in/best-lawyer-for-bank-loan-recovery-defence#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-bank-loan-recovery-defence",
                 "name": "Best Lawyer for Bank Loan Recovery Defence India | 2025 Legal Guide",
                 "description": "Technical legal strategies for borrowers to defend against bank recovery actions in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-bank-loan-recovery-defence#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-bank-loan-recovery-defence#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-bank-loan-recovery-defence#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-bank-loan-recovery-defence#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Bank Loan Recovery Defence",
-                        "item": "https://settleloans.in/best-lawyer-for-bank-loan-recovery-defence"
+                        "item": "https://www.settleloans.in/best-lawyer-for-bank-loan-recovery-defence"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-bank-loan-recovery-defence#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-bank-loan-recovery-defence#article",
                 "headline": "Strategic Bank Loan Recovery Defence: Protecting Borrowers in 2025",
                 "description": "A comprehensive guide on defending against banks in recovery proceedings using SARFAESI defects, NPA audits, and lender liability claims.",
                 "author": {
@@ -57,16 +57,16 @@ export default function BankLoanRecoveryDefencePage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-bank-loan-recovery-defence#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-bank-loan-recovery-defence#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-bank-loan-recovery-defence#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-bank-loan-recovery-defence#product",
                 "name": "Legal Consultancy for Bank Loan Recovery Defence",
                 "description": "High-end legal representation and consultancy for defending against bank recovery actions under SARFAESI and RDB Acts.",
                 "aggregateRating": {
@@ -93,7 +93,7 @@ export default function BankLoanRecoveryDefencePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-bank-loan-recovery-defence#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-bank-loan-recovery-defence#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

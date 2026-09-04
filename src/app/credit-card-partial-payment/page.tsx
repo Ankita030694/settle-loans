@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Credit Card Partial Payment: Why It's a Massive Debt Trap",
   description: "Making partial payments on your credit card? You are falling into a massive debt trap. Read the brutal truth about compounding interest and minimum due vs partial payment.",
   alternates: {
-    canonical: "https://settleloans.in/credit-card-partial-payment",
+    canonical: "https://www.settleloans.in/credit-card-partial-payment",
   },
 };
 
@@ -17,34 +17,34 @@ export default function CreditCardPartialPaymentPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/credit-card-partial-payment#webpage",
-        "url": "https://settleloans.in/credit-card-partial-payment",
+        "@id": "https://www.settleloans.in/credit-card-partial-payment#webpage",
+        "url": "https://www.settleloans.in/credit-card-partial-payment",
         "name": "Credit Card Partial Payment: Why It's a Massive Debt Trap",
         "description": "Making partial payments on your credit card? You are falling into a massive debt trap. Read the brutal truth about compounding interest and minimum due vs partial payment.",
-        "breadcrumb": { "@id": "https://settleloans.in/credit-card-partial-payment#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/credit-card-partial-payment#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/credit-card-partial-payment#breadcrumb",
+        "@id": "https://www.settleloans.in/credit-card-partial-payment#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Credit Card Partial Payment",
-            "item": "https://settleloans.in/credit-card-partial-payment"
+            "item": "https://www.settleloans.in/credit-card-partial-payment"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/credit-card-partial-payment#article",
+        "@id": "https://www.settleloans.in/credit-card-partial-payment#article",
         "headline": "Credit Card Partial Payment: The Brutal Truth About Compounding Interest",
         "description": "Understand why partial payment of credit card bill is a financial mistake, how credit card interest on partial payment works, and the difference between minimum due vs partial payment.",
         "author": {
@@ -56,22 +56,22 @@ export default function CreditCardPartialPaymentPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-24",
         "dateModified": "2024-07-24",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/credit-card-partial-payment#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/credit-card-partial-payment#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/credit-card-partial-payment#product",
+        "@id": "https://www.settleloans.in/credit-card-partial-payment#product",
         "name": "Credit Card Debt Settlement Service",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert credit card settlement services to help you escape the compounding interest debt trap.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function CreditCardPartialPaymentPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/credit-card-partial-payment#faq",
+        "@id": "https://www.settleloans.in/credit-card-partial-payment#faq",
         "mainEntity": [
           {
             "@type": "Question",

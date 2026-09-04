@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'settle personal loan without travelling to india',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/case-study-nri-loan-settlement-from-dubai',
+    canonical: 'https://www.settleloans.in/case-study-nri-loan-settlement-from-dubai',
   },
   openGraph: {
     title: 'NRI Personal Loan Settlement Case Study: ₹10L Settled From Dubai via POA',
     description: 'In-depth case study: How an NRI settled a ₹10 Lakh unsecured bank loan in India for ₹4.10 Lakhs (60% haircut) through consular Power of Attorney and remote legal defense.',
-    url: 'https://settleloans.in/case-study-nri-loan-settlement-from-dubai',
+    url: 'https://www.settleloans.in/case-study-nri-loan-settlement-from-dubai',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/case-study-nri-loan-settlement-from-dubai.jpg',
+        url: 'https://www.settleloans.in/images/infographics/case-study-nri-loan-settlement-from-dubai.jpg',
         width: 1200,
         height: 675,
         alt: 'NRI Personal Loan Settlement Case Study: ₹10 Lakh Settled From Dubai via POA',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'NRI Personal Loan Settlement Case Study: ₹10L Settled From Dubai via POA',
     description: 'Proof of concept: Step-by-step breakdown of how an NRI resolved an ₹10 Lakh default in India for ₹4.10 Lakhs with zero travel and official bank No Dues Certificate.',
-    images: ['https://settleloans.in/images/infographics/case-study-nri-loan-settlement-from-dubai.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/case-study-nri-loan-settlement-from-dubai.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/case-study-nri-loan-settlement-from-dubai#webpage",
-      "url": "https://settleloans.in/case-study-nri-loan-settlement-from-dubai",
+      "@id": "https://www.settleloans.in/case-study-nri-loan-settlement-from-dubai#webpage",
+      "url": "https://www.settleloans.in/case-study-nri-loan-settlement-from-dubai",
       "name": "NRI Personal Loan Settlement Case Study: ₹10 Lakh Default Settled From Dubai via Legal Power of Attorney",
       "description": "Real case study: How an NRI in Dubai defaulted on a ₹10 Lakh Indian personal loan and settled it for ₹4.1 Lakhs (60% waiver) via Power of Attorney without flying to India.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/case-study-nri-loan-settlement-from-dubai#breadcrumb"
+        "@id": "https://www.settleloans.in/case-study-nri-loan-settlement-from-dubai#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/case-study-nri-loan-settlement-from-dubai#breadcrumb",
+      "@id": "https://www.settleloans.in/case-study-nri-loan-settlement-from-dubai#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "NRI Loan Settlement Case Study",
-          "item": "https://settleloans.in/case-study-nri-loan-settlement-from-dubai"
+          "item": "https://www.settleloans.in/case-study-nri-loan-settlement-from-dubai"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/case-study-nri-loan-settlement-from-dubai#article",
+      "@id": "https://www.settleloans.in/case-study-nri-loan-settlement-from-dubai#article",
       "headline": "NRI Personal Loan Settlement Case Study: ₹10 Lakh Default Settled From Dubai via Legal Power of Attorney",
       "description": "A comprehensive proof-of-concept case study showing how an Indian expatriate working in Dubai settled a defaulted ₹10,00,000 personal loan for ₹4,10,000 using consular Power of Attorney and remote legal representation.",
-      "image": "https://settleloans.in/images/infographics/case-study-nri-loan-settlement-from-dubai.jpg",
+      "image": "https://www.settleloans.in/images/infographics/case-study-nri-loan-settlement-from-dubai.jpg",
       "datePublished": "2026-08-24T11:33:02+05:30",
       "dateModified": "2026-08-24T11:33:02+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/case-study-nri-loan-settlement-from-dubai#webpage"
+        "@id": "https://www.settleloans.in/case-study-nri-loan-settlement-from-dubai#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/case-study-nri-loan-settlement-from-dubai#service",
+      "@id": "https://www.settleloans.in/case-study-nri-loan-settlement-from-dubai#service",
       "name": "SettleLoans - NRI Loan Dispute Resolution & Remote Settlement Services",
       "description": "Specialized legal representation and financial negotiation advisory for Non-Resident Indians (NRIs) seeking One-Time Settlement (OTS) and debt waivers for Indian bank loans via Power of Attorney.",
-      "url": "https://settleloans.in/case-study-nri-loan-settlement-from-dubai",
-      "image": "https://settleloans.in/images/infographics/case-study-nri-loan-settlement-from-dubai.jpg",
+      "url": "https://www.settleloans.in/case-study-nri-loan-settlement-from-dubai",
+      "image": "https://www.settleloans.in/images/infographics/case-study-nri-loan-settlement-from-dubai.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/case-study-nri-loan-settlement-from-dubai#faq",
+      "@id": "https://www.settleloans.in/case-study-nri-loan-settlement-from-dubai#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -284,12 +284,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

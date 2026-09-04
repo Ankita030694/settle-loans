@@ -23,17 +23,17 @@ export const metadata: Metadata = {
     'sbi card one time settlement',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/how-to-settle-credit-card-debt',
+    canonical: 'https://www.settleloans.in/how-to-settle-credit-card-debt',
   },
   openGraph: {
     title: 'How to Settle Credit Card Debt in India: 40%–70% OTS Waivers & Legal Shield (2026)',
     description:
       'Escape the 42% APR minimum due trap. Discover how revolving credit card settlements differ from personal loans, calculate settlement haircuts, stop collection harassment, and secure official ₹0 No Dues Certificates.',
-    url: 'https://settleloans.in/how-to-settle-credit-card-debt',
+    url: 'https://www.settleloans.in/how-to-settle-credit-card-debt',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/how-to-settle-credit-card-debt.jpg',
+        url: 'https://www.settleloans.in/images/infographics/how-to-settle-credit-card-debt.jpg',
         width: 1200,
         height: 630,
         alt: 'How to Settle Credit Card Debt in India Legal Guide - SettleLoans',
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     title: 'How to Settle Credit Card Debt in India: Complete Legal & Financial Roadmap',
     description:
       'Break free from 42% APR compounding interest and minimum due traps. In-depth guide to negotiating credit card One-Time Settlements (OTS) with top Indian banks.',
-    images: ['https://settleloans.in/images/infographics/how-to-settle-credit-card-debt.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/how-to-settle-credit-card-debt.jpg'],
   },
 };
 
@@ -56,77 +56,77 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/how-to-settle-credit-card-debt#webpage",
-      "url": "https://settleloans.in/how-to-settle-credit-card-debt",
+      "@id": "https://www.settleloans.in/how-to-settle-credit-card-debt#webpage",
+      "url": "https://www.settleloans.in/how-to-settle-credit-card-debt",
       "name": "How to Settle Credit Card Debt in India: 40%–70% Waivers & Legal Guide (2026)",
       "description": "Trapped in 36%–42% APR credit card minimum dues? Learn how to legally settle credit card debt in India with 40%–70% waivers, stop recovery agent harassment, and rebuild your CIBIL score under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/how-to-settle-credit-card-debt#breadcrumb"
+        "@id": "https://www.settleloans.in/how-to-settle-credit-card-debt#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/how-to-settle-credit-card-debt#breadcrumb",
+      "@id": "https://www.settleloans.in/how-to-settle-credit-card-debt#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Credit Card & Loan Settlement Guides",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "How to Settle Credit Card Debt",
-          "item": "https://settleloans.in/how-to-settle-credit-card-debt"
+          "item": "https://www.settleloans.in/how-to-settle-credit-card-debt"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/how-to-settle-credit-card-debt#article",
+      "@id": "https://www.settleloans.in/how-to-settle-credit-card-debt#article",
       "headline": "How to Settle Credit Card Debt in India: Legal Process, 40%–70% Waivers, and Escaping the Minimum-Due Trap (2026)",
       "description": "An exhaustive, legal and financial blueprint on settling delinquent credit card debt across Indian banks. Details the mathematics of the 42% APR revolving interest trap, comparison with term loan settlements, NPA classification timelines, RBI anti-harassment regulations, OTS negotiation tactics, and CIBIL credit rebuilding protocols.",
-      "image": "https://settleloans.in/images/infographics/how-to-settle-credit-card-debt.jpg",
+      "image": "https://www.settleloans.in/images/infographics/how-to-settle-credit-card-debt.jpg",
       "datePublished": "2026-08-20T14:45:46+05:30",
       "dateModified": "2026-08-20T14:45:46+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-settle-credit-card-debt#webpage"
+        "@id": "https://www.settleloans.in/how-to-settle-credit-card-debt#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo.png",
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
         "https://twitter.com/settleloans",
@@ -135,11 +135,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/how-to-settle-credit-card-debt#service",
+      "@id": "https://www.settleloans.in/how-to-settle-credit-card-debt#service",
       "name": "SettleLoans - Credit Card Debt Settlement & Legal Protection Services",
       "description": "Professional credit card debt settlement, revolving interest waiver negotiations, anti-harassment legal representation, and credit rehabilitation across India.",
-      "url": "https://settleloans.in/how-to-settle-credit-card-debt",
-      "image": "https://settleloans.in/images/infographics/how-to-settle-credit-card-debt.jpg",
+      "url": "https://www.settleloans.in/how-to-settle-credit-card-debt",
+      "image": "https://www.settleloans.in/images/infographics/how-to-settle-credit-card-debt.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -152,9 +152,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -228,7 +228,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/how-to-settle-credit-card-debt#faq",
+      "@id": "https://www.settleloans.in/how-to-settle-credit-card-debt#faq",
       "mainEntity": [
         {
           "@type": "Question",

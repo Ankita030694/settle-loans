@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement in Jharkhand | 3500+ Word Legal Guide",
   description: "Comprehensive 3500+ word guide to loan settlement in Jharkhand. Legal protection under CNT/SPT Acts, JHALSA Lok Adalat procedures, and debt recovery defenses in Ranchi & Jamshedpur.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/jharkhand",
+    canonical: "https://www.settleloans.in/loan-settlement/jharkhand",
   },
 };
 
@@ -16,47 +16,47 @@ export default function JharkhandLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/jharkhand#webpage",
-        "url": "https://settleloans.in/loan-settlement/jharkhand",
+        "@id": "https://www.settleloans.in/loan-settlement/jharkhand#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/jharkhand",
         "name": "Professional Loan Settlement Jharkhand | Legal Guide - SettleLoans",
         "description": "Comprehensive word guide to loan settlement in Jharkhand. Legal protection under CNT/SPT Acts, JHALSA Lok Adalat procedures, and debt recovery defenses in Ranchi & Jamshedpur.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/jharkhand#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/jharkhand#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/jharkhand#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/jharkhand#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/jharkhand#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/jharkhand#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Jharkhand",
-            "item": "https://settleloans.in/loan-settlement/jharkhand"
+            "item": "https://www.settleloans.in/loan-settlement/jharkhand"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/jharkhand#service",
+        "@id": "https://www.settleloans.in/loan-settlement/jharkhand#service",
         "name": "Jharkhand Loan Settlement Services",
         "description": "Professional debt negotiation and legal protection services for personal loans and credit cards in Ranchi, Jamshedpur, and across Jharkhand.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Ranchi" },
@@ -93,7 +93,7 @@ export default function JharkhandLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/jharkhand#article",
+        "@id": "https://www.settleloans.in/loan-settlement/jharkhand#article",
         "headline": "Strategic Loan Settlement in Jharkhand: Legal Protections and Guide",
         "description": "The most comprehensive guide for Jharkhand residents on legal debt resolution, featuring CNT/SPT Acts, Jharkhand Private Money Lending Act, JHALSA Lok Adalat procedures, and banking recovery defenses.",
         "author": {
@@ -105,16 +105,16 @@ export default function JharkhandLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-03",
         "dateModified": "2024-02-03",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/jharkhand#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/jharkhand#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/jharkhand#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/jharkhand#faq",
         "mainEntity": [
           {
             "@type": "Question",

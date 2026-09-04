@@ -9,39 +9,39 @@ export default function LegalHelpForLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/legal-help-for-loan-settlement#webpage",
-                "url": "https://settleloans.in/legal-help-for-loan-settlement",
+                "@id": "https://www.settleloans.in/legal-help-for-loan-settlement#webpage",
+                "url": "https://www.settleloans.in/legal-help-for-loan-settlement",
                 "name": "Legal Help for Loan Settlement: Your 2024-25 Guide to Debt Relief",
                 "description": "Struggling with debt? Get legal help for loan settlement in India. Learn about borrower rights, RBI rules, and how specialized lawyers negotiate One-Time Settlements (OTS).",
-                "breadcrumb": { "@id": "https://settleloans.in/legal-help-for-loan-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/legal-help-for-loan-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/legal-help-for-loan-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/legal-help-for-loan-settlement#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Legal Help for Loan Settlement", "item": "https://settleloans.in/legal-help-for-loan-settlement" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Legal Help for Loan Settlement", "item": "https://www.settleloans.in/legal-help-for-loan-settlement" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/legal-help-for-loan-settlement#article",
+                "@id": "https://www.settleloans.in/legal-help-for-loan-settlement#article",
                 "headline": "Legal Help for Loan Settlement: Master the OTS Process and RBI Rights",
                 "description": "How to legally navigate loan settlement in India. A deep dive into SARFAESI Act defense, Lok Adalat, and hiring the right debt settlement lawyer.",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Research Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/legal-help-for-loan-settlement#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/legal-help-for-loan-settlement#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/legal-help-for-loan-settlement#product",
+                "@id": "https://www.settleloans.in/legal-help-for-loan-settlement#product",
                 "name": "Loan Settlement Legal Assistance",
                 "description": "Professional legal consultation for One-Time Settlement (OTS), bank negotiation, and protection against recovery agent harassment.",
                 "aggregateRating": {
@@ -61,7 +61,7 @@ export default function LegalHelpForLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/legal-help-for-loan-settlement#faq",
+                "@id": "https://www.settleloans.in/legal-help-for-loan-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

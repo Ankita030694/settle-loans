@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Axis Bank Loan Settlement Guide 2026 | Expert OTS & Debt Resolution",
   description: "Advanced legal analysis of Axis Bank loan and credit card settlement. Master the Citi migration nuances, Burgundy banking protocols, and MSME OTS 2026.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/axis-bank",
+    canonical: "https://www.settleloans.in/loan-settlement/axis-bank",
   },
 };
 
@@ -16,22 +16,22 @@ export default function AxisBankSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/axis-bank#webpage",
-        "url": "https://settleloans.in/loan-settlement/axis-bank",
+        "@id": "https://www.settleloans.in/loan-settlement/axis-bank#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/axis-bank",
         "name": "Axis Bank Loan Settlement | Expert Legal Resolution Guide 2026",
         "description": "Unique guide to Axis Bank debt negotiation, including Citi migration and MSME OTS schemes.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/axis-bank#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/axis-bank#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/axis-bank#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/axis-bank#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "item": {
-              "@id": "https://settleloans.in/",
+              "@id": "https://www.settleloans.in/",
               "name": "Home"
             }
           },
@@ -39,7 +39,7 @@ export default function AxisBankSettlementPage() {
             "@type": "ListItem",
             "position": 2,
             "item": {
-              "@id": "https://settleloans.in/loan-settlement",
+              "@id": "https://www.settleloans.in/loan-settlement",
               "name": "Loan Settlement"
             }
           },
@@ -47,7 +47,7 @@ export default function AxisBankSettlementPage() {
             "@type": "ListItem",
             "position": 3,
             "item": {
-              "@id": "https://settleloans.in/loan-settlement/axis-bank",
+              "@id": "https://www.settleloans.in/loan-settlement/axis-bank",
               "name": "Axis Bank Expert Guide"
             }
           }
@@ -65,11 +65,11 @@ export default function AxisBankSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo.png"
+            "url": "https://www.settleloans.in/logo.png"
           }
         },
         "datePublished": "2026-02-14",
-        "image": "https://settleloans.in/images/axis-settlement-guide.jpg"
+        "image": "https://www.settleloans.in/images/axis-settlement-guide.jpg"
       },
       {
         "@type": "FAQPage",

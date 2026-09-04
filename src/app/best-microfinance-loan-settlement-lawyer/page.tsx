@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Best Microfinance Loan Settlement Lawyer in India | Legal Debt Relief Experts",
     description: "Find the best microfinance loan settlement lawyer in India. Expert legal help for MFI debt resolution, stopping recovery agent harassment, and legal negotiation under RBI norms.",
     alternates: {
-        canonical: "https://settleloans.in/best-microfinance-loan-settlement-lawyer",
+        canonical: "https://www.settleloans.in/best-microfinance-loan-settlement-lawyer",
     },
 };
 
@@ -16,34 +16,34 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-microfinance-loan-settlement-lawyer#webpage",
-                "url": "https://settleloans.in/best-microfinance-loan-settlement-lawyer",
+                "@id": "https://www.settleloans.in/best-microfinance-loan-settlement-lawyer#webpage",
+                "url": "https://www.settleloans.in/best-microfinance-loan-settlement-lawyer",
                 "name": "Best Microfinance Loan Settlement Lawyer in India | Legal Debt Relief Experts",
                 "description": "Expert legal guidance for settlement of microfinance loans in India, focusing on borrower protection and compliance with RBI microfinance regulations.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-microfinance-loan-settlement-lawyer#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-microfinance-loan-settlement-lawyer#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-microfinance-loan-settlement-lawyer#breadcrumb",
+                "@id": "https://www.settleloans.in/best-microfinance-loan-settlement-lawyer#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Best Microfinance Loan Settlement Lawyer",
-                        "item": "https://settleloans.in/best-microfinance-loan-settlement-lawyer"
+                        "item": "https://www.settleloans.in/best-microfinance-loan-settlement-lawyer"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-microfinance-loan-settlement-lawyer#article",
+                "@id": "https://www.settleloans.in/best-microfinance-loan-settlement-lawyer#article",
                 "headline": "Choosing the Best Microfinance Loan Settlement Lawyer: Your Path to Debt Freedom",
                 "description": "A detailed guide on why you need a specialized lawyer for microfinance loan settlement, how they protect you from predatory practices, and the legal framework for MFI debt relief in India.",
                 "author": {
@@ -55,16 +55,16 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-07",
                 "dateModified": "2024-03-07",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-microfinance-loan-settlement-lawyer#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-microfinance-loan-settlement-lawyer#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-microfinance-loan-settlement-lawyer#product",
+                "@id": "https://www.settleloans.in/best-microfinance-loan-settlement-lawyer#product",
                 "name": "Microfinance Legal Defense Service",
                 "description": "Specialized legal services for settling microfinance loans and stopping MFI recovery harassment.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function MicrofinanceLoanSettlementLawyerPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-microfinance-loan-settlement-lawyer#faq",
+                "@id": "https://www.settleloans.in/best-microfinance-loan-settlement-lawyer#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

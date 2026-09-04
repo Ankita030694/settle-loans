@@ -9,39 +9,39 @@ export default function LegalNoticeForLoanRecoveryPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/legal-notice-for-loan-recovery#webpage",
-                "url": "https://settleloans.in/legal-notice-for-loan-recovery",
+                "@id": "https://www.settleloans.in/legal-notice-for-loan-recovery#webpage",
+                "url": "https://www.settleloans.in/legal-notice-for-loan-recovery",
                 "name": "Legal Notice for Loan Recovery: How to Respond & Defend",
                 "description": "Received a legal notice for loan recovery? Learn how to reply to Section 13(2) SARFAESI notices and Section 138 NI Act (Cheque Bounce) demands legally.",
-                "breadcrumb": { "@id": "https://settleloans.in/legal-notice-for-loan-recovery#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/legal-notice-for-loan-recovery#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/legal-notice-for-loan-recovery#breadcrumb",
+                "@id": "https://www.settleloans.in/legal-notice-for-loan-recovery#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Legal Notice for Loan Recovery", "item": "https://settleloans.in/legal-notice-for-loan-recovery" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Legal Notice for Loan Recovery", "item": "https://www.settleloans.in/legal-notice-for-loan-recovery" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/legal-notice-for-loan-recovery#article",
+                "@id": "https://www.settleloans.in/legal-notice-for-loan-recovery#article",
                 "headline": "Legal Notice for Loan Recovery: The Definitive Defense Guide",
                 "description": "A technical breakdown of responding to loan recovery notices in India. Essential strategies for SARFAESI defense and criminal notice mitigation.",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Taskforce" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/legal-notice-for-loan-recovery#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/legal-notice-for-loan-recovery#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/legal-notice-for-loan-recovery#product",
+                "@id": "https://www.settleloans.in/legal-notice-for-loan-recovery#product",
                 "name": "Legal Notice Drafting & Reply Service",
                 "description": "Expert legal drafting for replies to bank recovery notices, including challenge of NPA classification and SARFAESI stay applications.",
                 "aggregateRating": {
@@ -61,7 +61,7 @@ export default function LegalNoticeForLoanRecoveryPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/legal-notice-for-loan-recovery#faq",
+                "@id": "https://www.settleloans.in/legal-notice-for-loan-recovery#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

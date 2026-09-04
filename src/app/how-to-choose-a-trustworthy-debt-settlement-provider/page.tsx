@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How to Choose a Trustworthy Debt Settlement Provider in India",
   description: "Learn how to select a reliable debt settlement agency in India. Our comprehensive guide covers transparency, legal backing, and the best providers like AMA Legal Solutions, CredSettle, and SettleLoans.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider",
+    canonical: "https://www.settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider",
   },
 };
 
@@ -67,39 +67,39 @@ export default function ChooseTrustworthyProviderPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider#webpage",
-        "url": "https://settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider",
+        "@id": "https://www.settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider#webpage",
+        "url": "https://www.settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider",
         "name": "How to Choose a Trustworthy Debt Settlement Provider in India",
         "description": "Comprehensive guide on selecting the right debt settlement partner for financial freedom.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "How to Choose a Trustworthy Debt Settlement Provider", "item": "https://settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "How to Choose a Trustworthy Debt Settlement Provider", "item": "https://www.settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider#article",
+        "@id": "https://www.settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider#article",
         "headline": "How to Choose a Trustworthy Debt Settlement Provider in India",
         "description": "A deep dive into the criteria for evaluating debt settlement agencies to ensure you choose a reliable and effective partner.",
         "author": { "@type": "Organization", "name": "SettleLoans Content Team" },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+          "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
         },
         "datePublished": "2024-03-16",
         "dateModified": "2024-03-16",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider#product",
+        "@id": "https://www.settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider#product",
         "name": "Debt Settlement Consultation",
         "description": "Expert guidance on choosing and working with debt settlement providers in India.",
         "aggregateRating": {
@@ -126,7 +126,7 @@ export default function ChooseTrustworthyProviderPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider#faq",
+        "@id": "https://www.settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider#faq",
         "mainEntity": faqs.map(faq => ({
           "@type": "Question",
           "name": faq.q,

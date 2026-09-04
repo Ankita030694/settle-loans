@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Legal Loan Settlement Services in Kerala | 40-70% Debt Waiver",
   description: "Struggling with debt in Kochi, Thiruvananthapuram, or Kozhikode? Expert legal representation for loan settlement in Kerala. Settle credit cards & personal loans with 70% waiver. No more harassment.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/kerala",
+    canonical: "https://www.settleloans.in/loan-settlement/kerala",
   },
 };
 
@@ -16,47 +16,47 @@ export default function KeralaLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/kerala#webpage",
-        "url": "https://settleloans.in/loan-settlement/kerala",
+        "@id": "https://www.settleloans.in/loan-settlement/kerala#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/kerala",
         "name": "Legal Loan Settlement Services in Kerala | 40-70% Debt Waiver",
         "description": "Struggling with debt in Kochi, Thiruvananthapuram, or Kozhikode? Expert legal representation for loan settlement in Kerala. Settle credit cards & personal loans with 70% waiver. No more harassment.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/kerala#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/kerala#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/kerala#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/kerala#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/kerala#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/kerala#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Kerala",
-            "item": "https://settleloans.in/loan-settlement/kerala"
+            "item": "https://www.settleloans.in/loan-settlement/kerala"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/kerala#service",
+        "@id": "https://www.settleloans.in/loan-settlement/kerala#service",
         "name": "Kerala Loan Settlement Services",
         "description": "Professional debt negotiation and legal protection services for personal loans and credit cards in Kochi, Thiruvananthapuram, Kozhikode, and across Kerala.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Kochi" },
@@ -92,7 +92,7 @@ export default function KeralaLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/kerala#article",
+        "@id": "https://www.settleloans.in/loan-settlement/kerala#article",
         "headline": "Definitive Guide to Loan Settlement and Debt Relief in Kerala",
         "description": "Explore the legal pathways for loan settlement in Kerala, including the Kerala Money Lenders Act, Operation Kubera protections, and the role of KELSA Lok Adalats.",
         "author": {
@@ -104,16 +104,16 @@ export default function KeralaLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-03",
         "dateModified": "2024-02-03",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/kerala#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/kerala#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/kerala#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/kerala#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -47,7 +47,7 @@ const CompanyComparison: React.FC = () => {
                                 <span className="text-sm font-bold">Veteran Negotiators</span>
                             </div>
                         </div>
-                        <Link href="https://settleloans.in" className="inline-flex items-center text-[#1F5EFF] font-black uppercase tracking-widest text-sm hover:underline">
+                        <Link href="https://www.settleloans.in" className="inline-flex items-center text-[#1F5EFF] font-black uppercase tracking-widest text-sm hover:underline">
                             Visit settleloans.in <svg className="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M17 8l4 4m0 0l-4 4m4-4H3"></path></svg>
                         </Link>
                     </div>

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "What Questions Should I Ask a Debt Settlement Consultant? | SettleLoans Guide",
   description: "Crucial questions to ask before hiring a debt settlement consultant in India. Learn about fees, RBI compliance, CIBIL impact, and how to spot potential scams.",
   alternates: {
-    canonical: "https://settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant",
+    canonical: "https://www.settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant",
   },
 };
 
@@ -59,39 +59,39 @@ export default function ConsultantQuestionsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant#webpage",
-        "url": "https://settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant",
+        "@id": "https://www.settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant#webpage",
+        "url": "https://www.settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant",
         "name": "What Questions Should I Ask a Debt Settlement Consultant?",
         "description": "Comprehensive guide for Indian borrowers on evaluating debt settlement professionals.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant#breadcrumb",
+        "@id": "https://www.settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Consultant Questions", "item": "https://settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Consultant Questions", "item": "https://www.settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant#article",
+        "@id": "https://www.settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant#article",
         "headline": "What Questions Should I Ask a Debt Settlement Consultant? A Complete Guide",
         "description": "Ensure your financial future is in safe hands by asking these 25+ critical questions to any potential debt relief partner in India.",
         "author": { "@type": "Organization", "name": "SettleLoans Content Team" },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+          "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
         },
         "datePublished": "2024-03-16",
         "dateModified": "2024-03-16",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant#product",
+        "@id": "https://www.settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant#product",
         "name": "Debt Settlement Consultation Evaluation",
         "description": "A structured framework for evaluating and choosing the right debt settlement partner.",
         "aggregateRating": {
@@ -118,7 +118,7 @@ export default function ConsultantQuestionsPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant#faq",
+        "@id": "https://www.settleloans.in/what-questions-should-i-ask-a-debt-settlement-consultant#faq",
         "mainEntity": faqs.map(faq => ({
           "@type": "Question",
           "name": faq.q,

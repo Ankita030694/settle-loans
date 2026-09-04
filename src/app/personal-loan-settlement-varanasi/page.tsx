@@ -48,17 +48,17 @@ export const metadata: Metadata = {
     'no dues certificate loan closure varanasi'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-varanasi',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-varanasi',
   },
   openGraph: {
     title: 'Personal Loan Settlement Lawyer in Varanasi: Legal Defense & OTS Advisory',
     description:
       'Authoritative legal representation and One-Time Settlement (OTS) negotiation for silk traders, business owners, and salaried employees across Varanasi, Prayagraj, and Gorakhpur.',
-    url: 'https://settleloans.in/personal-loan-settlement-varanasi',
+    url: 'https://www.settleloans.in/personal-loan-settlement-varanasi',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-varanasi.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-varanasi.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan Settlement Lawyer in Varanasi Legal Guide',
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     title: 'Personal Loan Settlement Lawyer in Varanasi: Legal Defense & Lok Adalat Guide',
     description:
       'Strategic legal defense for bank loan defaults, Section 138 / Section 25 notices at Varanasi Kutchery, DLSA Lok Adalat compromise settlements, and anti-harassment protection across Eastern UP.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-varanasi.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-varanasi.jpg'],
   },
 };
 
@@ -81,82 +81,82 @@ const jsonLdGraph = {
   '@graph': [
     {
       '@type': 'WebPage',
-      '@id': 'https://settleloans.in/personal-loan-settlement-varanasi#webpage',
-      url: 'https://settleloans.in/personal-loan-settlement-varanasi',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-varanasi#webpage',
+      url: 'https://www.settleloans.in/personal-loan-settlement-varanasi',
       name: 'Personal Loan Settlement Lawyer in Varanasi: Legal Defense & Bank OTS (2026)',
       description:
         'Struggling with loan default, recovery harassment, or court summons in Varanasi, Prayagraj, or Gorakhpur? Get expert advocate defense, Lok Adalat compromise, and 40%–70% OTS waivers.',
       breadcrumb: {
-        '@id': 'https://settleloans.in/personal-loan-settlement-varanasi#breadcrumb',
+        '@id': 'https://www.settleloans.in/personal-loan-settlement-varanasi#breadcrumb',
       },
       inLanguage: 'en-IN',
       isPartOf: {
         '@type': 'WebSite',
-        '@id': 'https://settleloans.in/#website',
+        '@id': 'https://www.settleloans.in/#website',
         name: 'SettleLoans',
-        url: 'https://settleloans.in',
+        url: 'https://www.settleloans.in',
       },
     },
     {
       '@type': 'BreadcrumbList',
-      '@id': 'https://settleloans.in/personal-loan-settlement-varanasi#breadcrumb',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-varanasi#breadcrumb',
       itemListElement: [
         {
           '@type': 'ListItem',
           position: 1,
           name: 'Home',
-          item: 'https://settleloans.in',
+          item: 'https://www.settleloans.in',
         },
         {
           '@type': 'ListItem',
           position: 2,
           name: 'Services',
-          item: 'https://settleloans.in/services',
+          item: 'https://www.settleloans.in/services',
         },
         {
           '@type': 'ListItem',
           position: 3,
           name: 'Personal Loan Settlement Lawyer in Varanasi',
-          item: 'https://settleloans.in/personal-loan-settlement-varanasi',
+          item: 'https://www.settleloans.in/personal-loan-settlement-varanasi',
         },
       ],
     },
     {
       '@type': 'Article',
-      '@id': 'https://settleloans.in/personal-loan-settlement-varanasi#article',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-varanasi#article',
       headline:
         'Personal Loan Settlement Lawyer in Varanasi: Eastern UP Legal Defense, Bank OTS & 40%–70% Debt Relief',
       description:
         'An exhaustive judicial and financial advisory guide for distressed textile traders, hospitality operators, and salaried employees in Varanasi, Prayagraj, and Gorakhpur. Learn Varanasi Kutchery court procedures, DLSA Lok Adalat mechanics, RBI compromise settlement rules, and how seasoned advocates secure 40% to 70% debt waivers.',
-      image: 'https://settleloans.in/images/infographics/personal-loan-settlement-varanasi.jpg',
+      image: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-varanasi.jpg',
       datePublished: '2026-09-02T10:00:00+05:30',
       dateModified: '2026-09-02T10:00:00+05:30',
       mainEntityOfPage: {
         '@type': 'WebPage',
-        '@id': 'https://settleloans.in/personal-loan-settlement-varanasi#webpage',
+        '@id': 'https://www.settleloans.in/personal-loan-settlement-varanasi#webpage',
       },
       author: {
         '@type': 'Person',
         name: 'Ashish Jhangra',
-        url: 'https://settleloans.in/authors/ashish-jhangra',
+        url: 'https://www.settleloans.in/authors/ashish-jhangra',
       },
       publisher: {
         '@type': 'Organization',
         name: 'SettleLoans',
         logo: {
           '@type': 'ImageObject',
-          url: 'https://settleloans.in/logo/logo.svg',
+          url: 'https://www.settleloans.in/logo/logo.svg',
         },
       },
     },
     {
       '@type': 'Organization',
-      '@id': 'https://settleloans.in/#organization',
+      '@id': 'https://www.settleloans.in/#organization',
       name: 'SettleLoans',
-      url: 'https://settleloans.in',
+      url: 'https://www.settleloans.in',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://settleloans.in/logo/logo.svg',
+        url: 'https://www.settleloans.in/logo/logo.svg',
       },
       sameAs: [
         'https://www.linkedin.com/company/settleloans',
@@ -166,7 +166,7 @@ const jsonLdGraph = {
     },
     {
       '@type': 'FAQPage',
-      '@id': 'https://settleloans.in/personal-loan-settlement-varanasi#faq',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-varanasi#faq',
       mainEntity: [
         {
           '@type': 'Question',
@@ -236,12 +236,12 @@ const jsonLdGraph = {
     },
     {
       '@type': 'FinancialService',
-      '@id': 'https://settleloans.in/personal-loan-settlement-varanasi#service',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-varanasi#service',
       name: 'SettleLoans - Personal Loan Settlement Lawyer in Varanasi & Legal Defense',
       description:
         'Premier debt settlement advisory, court notice defense, and DLSA Lok Adalat representation for silk traders, business owners, and salaried professionals across Varanasi, Prayagraj, and Gorakhpur.',
-      url: 'https://settleloans.in/personal-loan-settlement-varanasi',
-      image: 'https://settleloans.in/images/infographics/personal-loan-settlement-varanasi.jpg',
+      url: 'https://www.settleloans.in/personal-loan-settlement-varanasi',
+      image: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-varanasi.jpg',
       telephone: '+91-99999-99999',
       priceRange: '₹₹',
       address: {
@@ -254,9 +254,9 @@ const jsonLdGraph = {
       },
       provider: {
         '@type': 'Organization',
-        '@id': 'https://settleloans.in/#organization',
+        '@id': 'https://www.settleloans.in/#organization',
         name: 'SettleLoans',
-        url: 'https://settleloans.in',
+        url: 'https://www.settleloans.in',
       },
       aggregateRating: {
         '@type': 'AggregateRating',

@@ -10,22 +10,22 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/unsecured-personal-loan-definition#article",
+                "@id": "https://www.settleloans.in/unsecured-personal-loan-definition#article",
                 "headline": "Unsecured Personal Loan Definition: A Complete Guide",
                 "description": "Understand the full unsecured personal loan definition. Learn about eligibility, interest rates, benefits, risks, and how to apply for an unsecured personal loan in India.",
-                "image": "https://settleloans.in/images/unsecured-loan-definition.jpg",
+                "image": "https://www.settleloans.in/images/unsecured-loan-definition.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-05-07",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/unsecured-personal-loan-definition" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/unsecured-personal-loan-definition" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/unsecured-personal-loan-definition#product",
+                "@id": "https://www.settleloans.in/unsecured-personal-loan-definition#product",
                 "name": "Unsecured Personal Loan Guidance and Settlement Services",
                 "description": "Comprehensive guidance on understanding unsecured personal loans, including definitions, features, benefits, and expert settlement assistance for borrowers facing financial hardship.",
                 "aggregateRating": {
@@ -159,9 +159,9 @@ export default function UnsecuredPersonalLoanDefinitionPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://settleloans.in/services" },
-                    { "@type": "ListItem", "position": 3, "name": "Unsecured Personal Loan Definition", "item": "https://settleloans.in/unsecured-personal-loan-definition" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://www.settleloans.in/services" },
+                    { "@type": "ListItem", "position": 3, "name": "Unsecured Personal Loan Definition", "item": "https://www.settleloans.in/unsecured-personal-loan-definition" }
                 ]
             }
         ]

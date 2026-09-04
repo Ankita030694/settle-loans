@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Can Banks Issue an LOC at the Airport for a Personal Loan Default?",
   description: "Are you afraid of being stopped at the airport for loan default? Learn if banks can issue an LOC (Look Out Circular) or seize your passport for unpaid personal loans.",
   alternates: {
-    canonical: "https://settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default",
+    canonical: "https://www.settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LOCAirportDefensePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default#webpage",
-        "url": "https://settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default",
+        "@id": "https://www.settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default#webpage",
+        "url": "https://www.settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default",
         "name": "Can Banks Issue a Look Out Circular (LOC) at the Airport for a Personal Loan Default?",
         "description": "A high-anxiety crisis guide addressing the fear of being detained at immigration. Explains that while Public Sector Banks do have the power to request a Look Out Circular, it is strictly reserved for massive economic offenders.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default#breadcrumb",
+        "@id": "https://www.settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Airport LOC for Personal Loan Default",
-            "item": "https://settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default"
+            "item": "https://www.settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default#article",
+        "@id": "https://www.settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default#article",
         "headline": "Can Banks Issue a Look Out Circular (LOC) at the Airport for a Personal Loan Default?",
         "description": "Find out if you can travel abroad if you have an unpaid loan and if recovery agents' threats about immigration detention are legal.",
         "author": {
@@ -55,22 +55,22 @@ export default function LOCAirportDefensePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-05-15",
         "dateModified": "2024-05-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default#product",
+        "@id": "https://www.settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default#product",
         "name": "Legal Consultation for Harassment by Recovery Agents",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert lawyers to handle illegal threats of airport detention and passport seizure by banks for retail loans.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -119,7 +119,7 @@ export default function LOCAirportDefensePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default#faq",
+        "@id": "https://www.settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default#faq",
         "mainEntity": [
           {
             "@type": "Question",

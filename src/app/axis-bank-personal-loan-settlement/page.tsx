@@ -20,16 +20,16 @@ export const metadata: Metadata = {
     'axis bank nodal officer escalation',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/axis-bank-personal-loan-settlement',
+    canonical: 'https://www.settleloans.in/axis-bank-personal-loan-settlement',
   },
   openGraph: {
     title: 'Axis Bank Personal Loan Settlement: SARB Process, OTS Rules & Haircut (2026)',
     description: 'Learn how to settle an Axis Bank personal loan, Burgundy credit card, or 24x7 instant loan. Understand SARB transfer timelines, NPA provisioning rules, recovery agent defense, and RBI compromise settlement frameworks.',
-    url: 'https://settleloans.in/axis-bank-personal-loan-settlement',
+    url: 'https://www.settleloans.in/axis-bank-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/axis-bank-personal-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/axis-bank-personal-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Axis Bank Personal Loan Settlement Process and SARB OTS Haircut Blueprint',
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Axis Bank Personal Loan Settlement: SARB Process, OTS Rules & Haircut',
     description: 'Technical and legal manual for settling defaulted Axis Bank personal loans and Burgundy credit cards under RBI Compromise Settlement frameworks and SARB resolution desks.',
-    images: ['https://settleloans.in/images/infographics/axis-bank-personal-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/axis-bank-personal-loan-settlement.jpg'],
   },
 };
 
@@ -51,74 +51,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/axis-bank-personal-loan-settlement#webpage",
-      "url": "https://settleloans.in/axis-bank-personal-loan-settlement",
+      "@id": "https://www.settleloans.in/axis-bank-personal-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/axis-bank-personal-loan-settlement",
       "name": "Axis Bank Personal Loan Settlement: SARB Process, OTS Rules & Haircut (2026)",
       "description": "Exhaustive guide to Axis Bank personal loan settlement. Understand SARB branch escalation, Burgundy credit card dues, NPA provisioning, and how to negotiate up to 60% haircut under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/axis-bank-personal-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/axis-bank-personal-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/axis-bank-personal-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/axis-bank-personal-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Axis Bank Personal Loan Settlement",
-          "item": "https://settleloans.in/axis-bank-personal-loan-settlement"
+          "item": "https://www.settleloans.in/axis-bank-personal-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/axis-bank-personal-loan-settlement#article",
+      "@id": "https://www.settleloans.in/axis-bank-personal-loan-settlement#article",
       "headline": "Axis Bank Personal Loan Settlement: SARB Process, OTS Rules & Haircut Matrix",
       "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with Axis Bank for personal loans and Burgundy credit cards, navigating internal SARB provisioning policies, and safeguarding against recovery harassment.",
-      "image": "https://settleloans.in/images/infographics/axis-bank-personal-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/axis-bank-personal-loan-settlement.jpg",
       "datePublished": "2026-08-24T12:00:00+05:30",
       "dateModified": "2026-08-24T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/axis-bank-personal-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/axis-bank-personal-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/axis-bank-personal-loan-settlement#service",
+      "@id": "https://www.settleloans.in/axis-bank-personal-loan-settlement#service",
       "name": "SettleLoans - Axis Bank Personal Loan Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted Axis Bank personal loans, Burgundy credit cards, and instant digital credit lines under RBI compromise frameworks.",
-      "url": "https://settleloans.in/axis-bank-personal-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/axis-bank-personal-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/axis-bank-personal-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/axis-bank-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -131,9 +131,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -207,7 +207,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/axis-bank-personal-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/axis-bank-personal-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -293,12 +293,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

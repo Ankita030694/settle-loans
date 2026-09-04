@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Does Closing a Loan Early Hurt Your Credit Score? | CIBIL Impact",
   description: "Will paying off your loan years early actually HURT your CIBIL score? The answer will shock you. Learn about the prepaying loan CIBIL impact and early closure credit history.",
   alternates: {
-    canonical: "https://settleloans.in/prepaying-loan-impact-on-credit-score",
+    canonical: "https://www.settleloans.in/prepaying-loan-impact-on-credit-score",
   },
 };
 
@@ -17,34 +17,34 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/prepaying-loan-impact-on-credit-score#webpage",
-        "url": "https://settleloans.in/prepaying-loan-impact-on-credit-score",
+        "@id": "https://www.settleloans.in/prepaying-loan-impact-on-credit-score#webpage",
+        "url": "https://www.settleloans.in/prepaying-loan-impact-on-credit-score",
         "name": "Does Closing a Loan Early Hurt Your Credit Score? | CIBIL Impact",
         "description": "Will paying off your loan years early actually HURT your CIBIL score? Learn about the prepaying loan CIBIL impact and early closure credit history.",
-        "breadcrumb": { "@id": "https://settleloans.in/prepaying-loan-impact-on-credit-score#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/prepaying-loan-impact-on-credit-score#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/prepaying-loan-impact-on-credit-score#breadcrumb",
+        "@id": "https://www.settleloans.in/prepaying-loan-impact-on-credit-score#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Prepaying Loan Impact on Credit Score",
-            "item": "https://settleloans.in/prepaying-loan-impact-on-credit-score"
+            "item": "https://www.settleloans.in/prepaying-loan-impact-on-credit-score"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/prepaying-loan-impact-on-credit-score#article",
+        "@id": "https://www.settleloans.in/prepaying-loan-impact-on-credit-score#article",
         "headline": "Does Closing a Loan Early Hurt Your Credit Score? | CIBIL Impact",
         "description": "Will paying off your loan years early actually HURT your CIBIL score? The answer will shock you. Learn about the prepaying loan CIBIL impact.",
         "author": {
@@ -56,22 +56,22 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-24",
         "dateModified": "2024-07-24",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/prepaying-loan-impact-on-credit-score#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/prepaying-loan-impact-on-credit-score#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/prepaying-loan-impact-on-credit-score#product",
+        "@id": "https://www.settleloans.in/prepaying-loan-impact-on-credit-score#product",
         "name": "Credit Score Restoration & Loan Consultation",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert financial consulting on prepaying loans, managing CIBIL score impact, and planning early closure effectively.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function PrepayingLoanImpactOnCreditScorePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/prepaying-loan-impact-on-credit-score#faq",
+        "@id": "https://www.settleloans.in/prepaying-loan-impact-on-credit-score#faq",
         "mainEntity": [
           {
             "@type": "Question",

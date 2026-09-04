@@ -12,22 +12,22 @@ export default function MSMELoanLawyerPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-MSME-personal-loan#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-MSME-personal-loan#article",
                 "headline": "Best Lawyer for MSME Personal Loan Disputes & Recovery (2025 Guide)",
                 "description": "Expert MSME legal counsel for business loan disputes, payment recovery under MSMED Act 2006, and SARFAESI defense for small business owners in India.",
-                "image": "https://settleloans.in/images/msme-loan-defense.jpg",
+                "image": "https://www.settleloans.in/images/msme-loan-defense.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/best-lawyer-for-MSME-personal-loan" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/best-lawyer-for-MSME-personal-loan" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-MSME-personal-loan#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-MSME-personal-loan#product",
                 "name": "MSME Legal Defense & Recovery Service",
                 "description": "Expert legal services for MSMEs including payment recovery, business loan settlement, and SARFAESI defense.",
                 "aggregateRating": {
@@ -76,8 +76,8 @@ export default function MSMELoanLawyerPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "MSME Loan Lawyer", "item": "https://settleloans.in/best-lawyer-for-MSME-personal-loan" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "MSME Loan Lawyer", "item": "https://www.settleloans.in/best-lawyer-for-MSME-personal-loan" }
                 ]
             }
         ]

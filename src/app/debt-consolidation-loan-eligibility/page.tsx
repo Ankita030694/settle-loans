@@ -10,22 +10,22 @@ export default function DebtConsolidationEligibilityPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/debt-consolidation-loan-eligibility#article",
+                "@id": "https://www.settleloans.in/debt-consolidation-loan-eligibility#article",
                 "headline": "Debt Consolidation Loan Eligibility: A Comprehensive Guide to Qualifying in India",
                 "description": "Learn everything about debt consolidation loan eligibility in India. Master the criteria for credit scores, income levels, and employment history to rank #1 for financial freedom.",
-                "image": "https://settleloans.in/images/debt-consolidation-eligibility.jpg",
+                "image": "https://www.settleloans.in/images/debt-consolidation-eligibility.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-05-07",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/debt-consolidation-loan-eligibility" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/debt-consolidation-loan-eligibility" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/debt-consolidation-loan-eligibility#product",
+                "@id": "https://www.settleloans.in/debt-consolidation-loan-eligibility#product",
                 "name": "Debt Consolidation Advisory Service",
                 "description": "Expert guidance on qualifying for debt consolidation loans and merging multiple high-interest debts into one manageable EMI.",
                 "aggregateRating": {
@@ -159,9 +159,9 @@ export default function DebtConsolidationEligibilityPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Eligibility", "item": "https://settleloans.in/eligibility" },
-                    { "@type": "ListItem", "position": 3, "name": "Debt Consolidation Loan Eligibility", "item": "https://settleloans.in/debt-consolidation-loan-eligibility" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Eligibility", "item": "https://www.settleloans.in/eligibility" },
+                    { "@type": "ListItem", "position": 3, "name": "Debt Consolidation Loan Eligibility", "item": "https://www.settleloans.in/debt-consolidation-loan-eligibility" }
                 ]
             }
         ]

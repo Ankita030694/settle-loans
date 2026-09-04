@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'settled vs restructured status in cibil'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-vs-restructuring',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-vs-restructuring',
   },
   openGraph: {
     title: 'Personal Loan Settlement vs Restructuring: CIBIL Impact & Decision Guide (2026)',
     description: 'Should you lower your EMI through restructuring or settle your personal loan with a one-time haircut? In-depth legal, financial, and credit analysis under RBI guidelines.',
-    url: 'https://settleloans.in/personal-loan-settlement-vs-restructuring',
+    url: 'https://www.settleloans.in/personal-loan-settlement-vs-restructuring',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/settlement-process.jpg',
         width: 1200,
         height: 630,
         alt: 'Personal Loan Settlement vs Restructuring Guide',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Personal Loan Settlement vs Restructuring: Which Option Is Right For You?',
     description: 'Compare monthly EMI reduction vs one-time settlement haircut. Discover credit bureau impacts, total interest costs, RBI rules, and legal protections.',
-    images: ['https://settleloans.in/images/infographics/settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/settlement-process.jpg'],
   },
 };
 
@@ -50,73 +50,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-vs-restructuring#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-vs-restructuring",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vs-restructuring#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-vs-restructuring",
       "name": "Personal Loan Settlement vs Restructuring: CIBIL Score Impact & Decision Guide (2026)",
       "description": "Confused between personal loan settlement vs restructuring? Compare EMI reduction vs one-time settlement haircut, CIBIL score drop (-50 vs -120 pts), RBI guidelines, total repayment cost & recovery roadmap.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-vs-restructuring#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-vs-restructuring#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-vs-restructuring#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vs-restructuring#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Loan Settlement vs Restructuring",
-          "item": "https://settleloans.in/personal-loan-settlement-vs-restructuring"
+          "item": "https://www.settleloans.in/personal-loan-settlement-vs-restructuring"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-vs-restructuring#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vs-restructuring#article",
       "headline": "Personal Loan Settlement vs Restructuring: CIBIL Score Impact, Legal Nuances & Financial Decision Matrix",
       "description": "An exhaustive, authoritative comparison between personal loan restructuring and one-time debt settlement in India. Evaluates EMI modifications, total interest outgo, CIBIL reporting codes, RBI regulatory frameworks, and credit score rehabilitation.",
-      "image": "https://settleloans.in/images/infographics/settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/settlement-process.jpg",
       "datePublished": "2026-08-19T10:00:00+05:30",
       "dateModified": "2026-08-19T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-vs-restructuring#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-vs-restructuring#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Product",
-      "@id": "https://settleloans.in/personal-loan-settlement-vs-restructuring#product",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vs-restructuring#product",
       "name": "Personal Loan Restructuring & Settlement Legal Advisory",
       "description": "Expert financial evaluation, bank restructuring representation, compromise OTS settlement negotiation, anti-harassment legal protection, and CIBIL score rehabilitation services across India.",
-      "image": "https://settleloans.in/images/infographics/settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/settlement-process.jpg",
       "brand": {
         "@type": "Brand",
         "name": "SettleLoans"
@@ -193,7 +193,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-vs-restructuring#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vs-restructuring#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -279,12 +279,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -5,16 +5,16 @@ export const metadata: Metadata = {
   title: 'Recovery Agent Visiting Workplace? RBI Rules, Legal Rights & How to Stop It (2026)',
   description: 'Are recovery agents threatening to visit your workplace, office, or HR? Learn strict RBI rules on workplace visits, criminal trespass protections under IPC/BNS, drafted complaints, and how to stop harassment immediately.',
   alternates: {
-    canonical: 'https://settleloans.in/recovery-agent-visiting-workplace-office',
+    canonical: 'https://www.settleloans.in/recovery-agent-visiting-workplace-office',
   },
   openGraph: {
     title: 'Recovery Agent Visiting My Workplace? Legal Protection & RBI Directives',
     description: 'Protect your job and professional reputation. Discover RBI guidelines prohibiting workplace recovery harassment, trespass laws, and legal shield solutions by SettleLoans.',
-    url: 'https://settleloans.in/recovery-agent-visiting-workplace-office',
+    url: 'https://www.settleloans.in/recovery-agent-visiting-workplace-office',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recovery-agent-visiting-workplace-office.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recovery-agent-visiting-workplace-office.jpg',
         width: 1200,
         height: 630,
         alt: 'Recovery Agent Visiting Workplace Legal Shield and Protection Guide',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Can Recovery Agents Visit Your Office? RBI Rules & Legal Shield',
     description: 'Learn how to stop recovery agents from visiting your office or contacting your HR department. Legal templates, RBI rules, and advocate intervention.',
-    images: ['https://settleloans.in/images/infographics/recovery-agent-visiting-workplace-office.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recovery-agent-visiting-workplace-office.jpg'],
   },
 };
 
@@ -36,74 +36,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recovery-agent-visiting-workplace-office#webpage",
-      "url": "https://settleloans.in/recovery-agent-visiting-workplace-office",
+      "@id": "https://www.settleloans.in/recovery-agent-visiting-workplace-office#webpage",
+      "url": "https://www.settleloans.in/recovery-agent-visiting-workplace-office",
       "name": "Recovery Agent Visiting Workplace? RBI Rules, Legal Rights & How to Stop It (2026)",
       "description": "Comprehensive legal guide on dealing with loan recovery agents visiting your workplace, office, or contacting HR. Covers RBI Master Directions, criminal trespass under IPC/BNS, and formal complaint processes.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recovery-agent-visiting-workplace-office#breadcrumb"
+        "@id": "https://www.settleloans.in/recovery-agent-visiting-workplace-office#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recovery-agent-visiting-workplace-office#breadcrumb",
+      "@id": "https://www.settleloans.in/recovery-agent-visiting-workplace-office#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Recovery Agent Visiting Workplace",
-          "item": "https://settleloans.in/recovery-agent-visiting-workplace-office"
+          "item": "https://www.settleloans.in/recovery-agent-visiting-workplace-office"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recovery-agent-visiting-workplace-office#article",
+      "@id": "https://www.settleloans.in/recovery-agent-visiting-workplace-office#article",
       "headline": "Recovery Agent Visiting Workplace: Legal Rights, RBI Directives, and Immediate Defense Blueprint",
       "description": "An exhaustive analysis of borrower legal rights when recovery agents threaten to visit their office or contact HR. Details RBI Fair Practices Code, criminal trespass, defamation, advocate notice templates, and debt settlement mechanisms.",
-      "image": "https://settleloans.in/images/infographics/recovery-agent-visiting-workplace-office.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agent-visiting-workplace-office.jpg",
       "datePublished": "2026-08-20T12:40:47+05:30",
       "dateModified": "2026-08-20T12:40:47+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agent-visiting-workplace-office#webpage"
+        "@id": "https://www.settleloans.in/recovery-agent-visiting-workplace-office#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recovery-agent-visiting-workplace-office#service",
+      "@id": "https://www.settleloans.in/recovery-agent-visiting-workplace-office#service",
       "name": "SettleLoans - Workplace Harassment Legal Defense & Debt Resolution",
       "description": "Comprehensive legal shield, anti-harassment advocate intervention, RBI Banking Ombudsman escalation, and structured One-Time Settlement (OTS) services for borrowers facing workplace recovery intimidation in India.",
-      "url": "https://settleloans.in/recovery-agent-visiting-workplace-office",
-      "image": "https://settleloans.in/images/infographics/recovery-agent-visiting-workplace-office.jpg",
+      "url": "https://www.settleloans.in/recovery-agent-visiting-workplace-office",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agent-visiting-workplace-office.jpg",
       "telephone": "+91-98212-19819",
       "priceRange": "₹₹",
       "address": {
@@ -116,9 +116,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -192,7 +192,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recovery-agent-visiting-workplace-office#faq",
+      "@id": "https://www.settleloans.in/recovery-agent-visiting-workplace-office#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -278,12 +278,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

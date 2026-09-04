@@ -58,16 +58,16 @@ export const metadata: Metadata = {
     'how to stop recovery agents coming home'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate',
+    canonical: 'https://www.settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate',
   },
   openGraph: {
     title: 'How to Verify Bank Recovery Agent ID Card & DRA Certificate | Doorstep Defense Guide',
     description: 'Master doorstep debt defense. Discover mandatory RBI credentials: Bank Authorization Letter, Photo ID Card, IIBF DRA Certificate, and why refusing entry is 100% legal.',
-    url: 'https://settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate',
+    url: 'https://www.settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/how-to-check-recovery-agent-id-card-and-dra-certificate.jpg',
+        url: 'https://www.settleloans.in/images/infographics/how-to-check-recovery-agent-id-card-and-dra-certificate.jpg',
         width: 1200,
         height: 675,
         alt: 'How to Verify Bank Recovery Agent ID Card and DRA Certificate Guide',
@@ -80,7 +80,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Verify Bank Recovery Agent ID Card & DRA Certificate | SettleLoans',
     description: 'Demand mandatory RBI credentials before speaking to recovery agents. Step-by-step verification guide for Bank ID, DRA Certificate, and Authorization Letters.',
-    images: ['https://settleloans.in/images/infographics/how-to-check-recovery-agent-id-card-and-dra-certificate.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/how-to-check-recovery-agent-id-card-and-dra-certificate.jpg'],
   },
 };
 
@@ -89,74 +89,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate#webpage",
-      "url": "https://settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate",
+      "@id": "https://www.settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate#webpage",
+      "url": "https://www.settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate",
       "name": "How to Verify Bank Recovery Agent ID Card & DRA Certificate | SettleLoans",
       "description": "Learn how to verify bank recovery agent identity card, check mandatory IIBF DRA certificate, bank authorization letter, and your legal rights to refuse unverified agents.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate#breadcrumb"
+        "@id": "https://www.settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate#breadcrumb",
+      "@id": "https://www.settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Recovery Agent ID & DRA Verification Guide",
-          "item": "https://settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate"
+          "item": "https://www.settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate#article",
+      "@id": "https://www.settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate#article",
       "headline": "How to Verify Bank Recovery Agent ID Card & DRA Certificate: Legal Doorstep Defense & RBI Verification Protocol",
       "description": "An exhaustive statutory analysis of borrower doorstep defense rights under RBI Master Directions, detailing mandatory Bank Authorization Letters, Photo ID Cards, IIBF Debt Recovery Agent certifications, criminal trespass protections, and advocate OTS negotiation strategies.",
-      "image": "https://settleloans.in/images/infographics/how-to-check-recovery-agent-id-card-and-dra-certificate.jpg",
+      "image": "https://www.settleloans.in/images/infographics/how-to-check-recovery-agent-id-card-and-dra-certificate.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate#webpage"
+        "@id": "https://www.settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate#service",
+      "@id": "https://www.settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate#service",
       "name": "SettleLoans - Doorstep Harassment Defense & Debt Settlement Advisory",
       "description": "Specialized legal protection and financial dispute resolution for borrowers facing unauthorized doorstep collection agents, unverified recovery visits, and coercive debt recovery tactics.",
-      "url": "https://settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate",
-      "image": "https://settleloans.in/images/infographics/how-to-check-recovery-agent-id-card-and-dra-certificate.jpg",
+      "url": "https://www.settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate",
+      "image": "https://www.settleloans.in/images/infographics/how-to-check-recovery-agent-id-card-and-dra-certificate.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -169,9 +169,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -245,7 +245,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate#faq",
+      "@id": "https://www.settleloans.in/how-to-check-recovery-agent-id-card-and-dra-certificate#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -331,12 +331,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

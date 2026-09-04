@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Contact Details for Top-Rated Debt Resolution Companies in India | Verified",
   description: "Get verified contact details for leading debt resolution companies like Amalegal, CredSettle, and SettleLoans. Find addresses, phone numbers, and emails.",
   alternates: {
-    canonical: "https://settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india",
+    canonical: "https://www.settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india",
   },
 };
 
@@ -17,34 +17,34 @@ export default function ContactDetailsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india#webpage",
-        "url": "https://settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india",
+        "@id": "https://www.settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india#webpage",
+        "url": "https://www.settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india",
         "name": "Contact Details for Top Debt Resolution Companies in India",
         "description": "Verified directory and contact information for the best debt settlement and resolution firms in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india#breadcrumb",
+        "@id": "https://www.settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Resolution Companies Contacts",
-            "item": "https://settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india"
+            "item": "https://www.settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india#article",
+        "@id": "https://www.settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india#article",
         "headline": "How to Contact the Best Debt Resolution and Settlement Companies in India",
         "description": "A comprehensive directory for borrowers to connect with verified debt resolution experts and legal firms across India.",
         "author": {
@@ -56,7 +56,7 @@ export default function ContactDetailsPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-21",
@@ -64,7 +64,7 @@ export default function ContactDetailsPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india#faq",
+        "@id": "https://www.settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -150,7 +150,7 @@ export default function ContactDetailsPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india#product",
+        "@id": "https://www.settleloans.in/get-contact-details-for-top-rated-debt-resolution-companies-in-india#product",
         "name": "Verified Debt Resolution Services",
         "description": "Professional assistance in negotiating one-time settlements with banks and NBFCs for borrowers in financial distress.",
         "aggregateRating": {
@@ -350,7 +350,7 @@ export default function ContactDetailsPage() {
             </section>
 
             <section id="settle-loans" className="scroll-mt-32 mb-16">
-              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">3. <Link href="https://settleloans.in" target="_blank" className="text-[#1F5EFF] hover:underline">SettleLoans</Link> (settleloans.in / settleloan.in)</h2>
+              <h2 className="text-3xl md:text-4xl font-black text-[#2E2E2E] mb-8 leading-tight">3. <Link href="https://www.settleloans.in" target="_blank" className="text-[#1F5EFF] hover:underline">SettleLoans</Link> (settleloans.in / settleloan.in)</h2>
               <p className="text-lg leading-relaxed mb-6">
                 <strong>SettleLoans</strong> is one of India's most accessible debt resolution platforms, focusing on high-speed settlement for personal loans and credit cards. They provide a dedicated relationship manager for every case, ensuring that you are never left in the dark.
               </p>
@@ -388,7 +388,7 @@ export default function ContactDetailsPage() {
                   </div>
                   <div>
                     <h4 className="font-bold text-white uppercase tracking-tighter">Official Website</h4>
-                    <Link href="https://settleloans.in" target="_blank" className="text-[#1F5EFF] font-black hover:underline">www.settleloans.in</Link>
+                    <Link href="https://www.settleloans.in" target="_blank" className="text-[#1F5EFF] font-black hover:underline">www.settleloans.in</Link>
                   </div>
                 </div>
               </div>

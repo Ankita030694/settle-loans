@@ -59,16 +59,16 @@ export const metadata: Metadata = {
     'one time settlement tax liability india'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/tax-implications-on-loan-settlement-haircut-india',
+    canonical: 'https://www.settleloans.in/tax-implications-on-loan-settlement-haircut-india',
   },
   openGraph: {
     title: 'Tax Implications on Loan Settlement Haircut in India: Is Waived Debt Taxable?',
     description: 'Critical post-settlement financial clarity: Discover whether bank loan waivers trigger tax liabilities under Section 28(iv), 41(1), or 194R under Indian income tax law.',
-    url: 'https://settleloans.in/tax-implications-on-loan-settlement-haircut-india',
+    url: 'https://www.settleloans.in/tax-implications-on-loan-settlement-haircut-india',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/tax-implications-on-loan-settlement-haircut-india.jpg',
+        url: 'https://www.settleloans.in/images/infographics/tax-implications-on-loan-settlement-haircut-india.jpg',
         width: 1200,
         height: 675,
         alt: 'Tax Implications on Loan Settlement Haircut in India Legal Guide',
@@ -81,7 +81,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Tax Implications on Loan Settlement Haircut in India: Is Waived Debt Taxable?',
     description: 'Worried that your bank loan haircut of ₹5 Lakhs or ₹20 Lakhs will be taxed? Learn the statutory difference between personal capital receipts and business debt remission.',
-    images: ['https://settleloans.in/images/infographics/tax-implications-on-loan-settlement-haircut-india.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/tax-implications-on-loan-settlement-haircut-india.jpg'],
   },
 };
 
@@ -90,74 +90,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/tax-implications-on-loan-settlement-haircut-india#webpage",
-      "url": "https://settleloans.in/tax-implications-on-loan-settlement-haircut-india",
+      "@id": "https://www.settleloans.in/tax-implications-on-loan-settlement-haircut-india#webpage",
+      "url": "https://www.settleloans.in/tax-implications-on-loan-settlement-haircut-india",
       "name": "Tax Implications on Loan Settlement Haircut in India: Is Waived Debt Taxable?",
       "description": "Comprehensive legal and taxation analysis clarifying whether loan settlement waivers and bank haircuts are taxable under the Income Tax Act, 1961.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/tax-implications-on-loan-settlement-haircut-india#breadcrumb"
+        "@id": "https://www.settleloans.in/tax-implications-on-loan-settlement-haircut-india#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/tax-implications-on-loan-settlement-haircut-india#breadcrumb",
+      "@id": "https://www.settleloans.in/tax-implications-on-loan-settlement-haircut-india#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Tax Implications on Loan Settlement",
-          "item": "https://settleloans.in/tax-implications-on-loan-settlement-haircut-india"
+          "item": "https://www.settleloans.in/tax-implications-on-loan-settlement-haircut-india"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/tax-implications-on-loan-settlement-haircut-india#article",
+      "@id": "https://www.settleloans.in/tax-implications-on-loan-settlement-haircut-india#article",
       "headline": "Tax Implications on Loan Settlement Haircut in India: Is Waived Debt Taxable?",
       "description": "An exhaustive statutory examination of tax implications on loan waivers in India. Covers capital vs revenue receipts, Section 28(iv), Section 41(1), Section 56(2)(x), Section 194R TDS exemptions, Supreme Court precedents, and AIS scrutiny defense.",
-      "image": "https://settleloans.in/images/infographics/tax-implications-on-loan-settlement-haircut-india.jpg",
+      "image": "https://www.settleloans.in/images/infographics/tax-implications-on-loan-settlement-haircut-india.jpg",
       "datePublished": "2026-08-27T12:00:00+05:30",
       "dateModified": "2026-08-27T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/tax-implications-on-loan-settlement-haircut-india#webpage"
+        "@id": "https://www.settleloans.in/tax-implications-on-loan-settlement-haircut-india#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/tax-implications-on-loan-settlement-haircut-india#service",
+      "@id": "https://www.settleloans.in/tax-implications-on-loan-settlement-haircut-india#service",
       "name": "SettleLoans - Debt Resolution & Tax Advisory Services",
       "description": "Institutional debt settlement negotiation and post-waiver tax defense advisory for salaried individuals, professionals, and MSME business owners facing unmanageable unsecured debt across India.",
-      "url": "https://settleloans.in/tax-implications-on-loan-settlement-haircut-india",
-      "image": "https://settleloans.in/images/infographics/tax-implications-on-loan-settlement-haircut-india.jpg",
+      "url": "https://www.settleloans.in/tax-implications-on-loan-settlement-haircut-india",
+      "image": "https://www.settleloans.in/images/infographics/tax-implications-on-loan-settlement-haircut-india.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -170,9 +170,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -246,7 +246,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/tax-implications-on-loan-settlement-haircut-india#faq",
+      "@id": "https://www.settleloans.in/tax-implications-on-loan-settlement-haircut-india#faq",
       "mainEntity": [
         {
           "@type": "Question",

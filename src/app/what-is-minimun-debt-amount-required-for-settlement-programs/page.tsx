@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Minimum Debt Amount for Settlement | What Is Required in India?",
   description: "Learn about the minimum debt amount required for debt settlement programs in India. Discover thresholds for banks, NBFCs, and MSME settlement schemes.",
   alternates: {
-    canonical: "https://settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs",
+    canonical: "https://www.settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs",
   },
 };
 
@@ -59,39 +59,39 @@ export default function MinimumDebtPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs#webpage",
-        "url": "https://settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs",
+        "@id": "https://www.settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs#webpage",
+        "url": "https://www.settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs",
         "name": "Minimum Debt Amount for Settlement Programs",
         "description": "Comprehensive guide on the debt thresholds for settlement programs in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs#breadcrumb",
+        "@id": "https://www.settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Minimum Debt for Settlement", "item": "https://settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Minimum Debt for Settlement", "item": "https://www.settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs#article",
+        "@id": "https://www.settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs#article",
         "headline": "Minimum Debt Amount for Settlement: Decoding the Requirements in India",
         "description": "How much debt do you need to qualify for a settlement program? We analyze bank policies, NBFC thresholds, and MSME schemes.",
         "author": { "@type": "Organization", "name": "SettleLoans Content Team" },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+          "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
         },
         "datePublished": "2024-03-16",
         "dateModified": "2024-03-16",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs#product",
+        "@id": "https://www.settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs#product",
         "name": "Debt Amount Analysis Service",
         "description": "Professional evaluation of debt eligibility for settlement programs.",
         "aggregateRating": {
@@ -111,7 +111,7 @@ export default function MinimumDebtPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs#faq",
+        "@id": "https://www.settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs#faq",
         "mainEntity": faqs.map(faq => ({
           "@type": "Question",
           "name": faq.q,

@@ -58,16 +58,16 @@ export const metadata: Metadata = {
     'one time settlement for workplace loan harassment'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery',
+    canonical: 'https://www.settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery',
   },
   openGraph: {
     title: 'Bank Recovery Agent Contacting Employer HR? Legal Defenses & Defamation Notice Guide',
     description: 'Stop illegal workplace debt collection. Understand your rights under Supreme Court privacy rulings, RBI Fair Practices Code, and how advocates file criminal defamation notices against banks.',
-    url: 'https://settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery',
+    url: 'https://www.settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/bank-sending-legal-notice-to-employer-illegal-recovery.jpg',
+        url: 'https://www.settleloans.in/images/infographics/bank-sending-legal-notice-to-employer-illegal-recovery.jpg',
         width: 1200,
         height: 675,
         alt: 'Bank Recovery Agent Contacting Employer HR Legal Defenses Guide',
@@ -80,7 +80,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Bank Recovery Agent Contacting Employer HR? Legal Defenses & Defamation Notice Guide',
     description: 'Facing severe workplace harassment from recovery agents emailing HR or serving notices at your office? Discover statutory legal protections and defamation remedies.',
-    images: ['https://settleloans.in/images/infographics/bank-sending-legal-notice-to-employer-illegal-recovery.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/bank-sending-legal-notice-to-employer-illegal-recovery.jpg'],
   },
 };
 
@@ -89,74 +89,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery#webpage",
-      "url": "https://settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery",
+      "@id": "https://www.settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery#webpage",
+      "url": "https://www.settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery",
       "name": "Bank Recovery Agent Contacting Employer HR? Legal Defenses & Defamation Notice Guide",
       "description": "Is a bank recovery agent contacting your employer HR or sending legal notices to your office? Learn Supreme Court privacy protections, RBI third-party disclosure bans, and criminal defamation remedies.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery#breadcrumb"
+        "@id": "https://www.settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery#breadcrumb",
+      "@id": "https://www.settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Workplace Harassment Legal Defense",
-          "item": "https://settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery"
+          "item": "https://www.settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery#article",
+      "@id": "https://www.settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery#article",
       "headline": "Bank Sending Legal Notice to Employer or Contacting HR? Supreme Court Privacy Protections, RBI Third-Party Bans & Defamation Action",
       "description": "A comprehensive legal analysis on handling illegal workplace debt collection, unauthorized HR communications, and office notices. Explains Privity of Contract, Puttaswamy privacy jurisprudence, RBI Fair Practices Code, IPC/BNS criminal defamation, and advocate OTS negotiation strategies.",
-      "image": "https://settleloans.in/images/infographics/bank-sending-legal-notice-to-employer-illegal-recovery.jpg",
+      "image": "https://www.settleloans.in/images/infographics/bank-sending-legal-notice-to-employer-illegal-recovery.jpg",
       "datePublished": "2026-08-27T10:00:00+05:30",
       "dateModified": "2026-08-27T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery#webpage"
+        "@id": "https://www.settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery#service",
+      "@id": "https://www.settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery#service",
       "name": "SettleLoans - Workplace Harassment Defense & Loan Resolution Advisory",
       "description": "Specialized legal protection and financial dispute resolution for salaried borrowers facing illegal workplace collection harassment, unauthorized HR disclosures, and coercive debt recovery.",
-      "url": "https://settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery",
-      "image": "https://settleloans.in/images/infographics/bank-sending-legal-notice-to-employer-illegal-recovery.jpg",
+      "url": "https://www.settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery",
+      "image": "https://www.settleloans.in/images/infographics/bank-sending-legal-notice-to-employer-illegal-recovery.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -169,9 +169,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -245,7 +245,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery#faq",
+      "@id": "https://www.settleloans.in/bank-sending-legal-notice-to-employer-illegal-recovery#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -331,12 +331,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

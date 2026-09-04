@@ -10,22 +10,22 @@ export default function DocumentationReviewPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-documentation-review-of-loan-agreement#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-documentation-review-of-loan-agreement#article",
                 "headline": "Best Lawyer for Documentation Review of Loan Agreement in India",
                 "description": "Expert legal review of loan agreements, mortgage deeds, and bank documentation to protect borrowers from predatory clauses and ensure financial safety.",
-                "image": "https://settleloans.in/images/loan-doc-review.jpg",
+                "image": "https://www.settleloans.in/images/loan-doc-review.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/best-lawyer-for-documentation-review-of-loan-agreement" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/best-lawyer-for-documentation-review-of-loan-agreement" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-documentation-review-of-loan-agreement#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-documentation-review-of-loan-agreement#product",
                 "name": "Loan Agreement Legal Review Service",
                 "description": "Comprehensive legal audit of loan documents by expert financial lawyers to identify hidden risks and predatory terms.",
                 "aggregateRating": {
@@ -82,9 +82,9 @@ export default function DocumentationReviewPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://settleloans.in/services" },
-                    { "@type": "ListItem", "position": 3, "name": "Loan Agreement Review", "item": "https://settleloans.in/best-lawyer-for-documentation-review-of-loan-agreement" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://www.settleloans.in/services" },
+                    { "@type": "ListItem", "position": 3, "name": "Loan Agreement Review", "item": "https://www.settleloans.in/best-lawyer-for-documentation-review-of-loan-agreement" }
                 ]
             }
         ]

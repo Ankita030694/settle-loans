@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "What is Credit Pulse Report? Meaning & How to Check",
   description: "Banks use a secret 'Credit Pulse' algorithm to decide your loan approval. Learn the Credit Pulse report meaning, how it differs from CIBIL, and how to check your credit health report.",
   alternates: {
-    canonical: "https://settleloans.in/what-is-credit-pulse-report",
+    canonical: "https://www.settleloans.in/what-is-credit-pulse-report",
   },
 };
 
@@ -17,34 +17,34 @@ export default function CreditPulseReportPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-is-credit-pulse-report#webpage",
-        "url": "https://settleloans.in/what-is-credit-pulse-report",
+        "@id": "https://www.settleloans.in/what-is-credit-pulse-report#webpage",
+        "url": "https://www.settleloans.in/what-is-credit-pulse-report",
         "name": "What is Credit Pulse Report? Meaning & How to Check",
         "description": "Learn the Credit Pulse report meaning, how it differs from CIBIL, and how to check your credit health report.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-is-credit-pulse-report#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-is-credit-pulse-report#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-is-credit-pulse-report#breadcrumb",
+        "@id": "https://www.settleloans.in/what-is-credit-pulse-report#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Credit Pulse Report",
-            "item": "https://settleloans.in/what-is-credit-pulse-report"
+            "item": "https://www.settleloans.in/what-is-credit-pulse-report"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-is-credit-pulse-report#article",
+        "@id": "https://www.settleloans.in/what-is-credit-pulse-report#article",
         "headline": "What is Credit Pulse Report? Meaning & How to Check",
         "description": "Banks use a secret 'Credit Pulse' algorithm to decide your loan approval. Learn how to decode your own pulse report.",
         "author": {
@@ -56,22 +56,22 @@ export default function CreditPulseReportPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-23",
         "dateModified": "2024-07-23",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-is-credit-pulse-report#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-is-credit-pulse-report#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-is-credit-pulse-report#product",
+        "@id": "https://www.settleloans.in/what-is-credit-pulse-report#product",
         "name": "Credit Health Analysis & Optimization",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert credit analysis to decode your Credit Pulse report and improve your loan approval chances.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function CreditPulseReportPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-is-credit-pulse-report#faq",
+        "@id": "https://www.settleloans.in/what-is-credit-pulse-report#faq",
         "mainEntity": [
           {
             "@type": "Question",

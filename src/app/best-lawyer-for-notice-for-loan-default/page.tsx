@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Best Lawyer for Notice for Loan Default | SARFAESI 13(2) Defense",
     description: "Received a 13(2) or 13(4) notice for loan default? Get expert legal help to reply to bank notices, challenge possession, and stay auctions in DRT. Protect your home and business today.",
     alternates: {
-        canonical: "https://settleloans.in/best-lawyer-for-notice-for-loan-default",
+        canonical: "https://www.settleloans.in/best-lawyer-for-notice-for-loan-default",
     },
 };
 
@@ -18,34 +18,34 @@ export default function LoanDefaultNoticePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-notice-for-loan-default#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-notice-for-loan-default",
+                "@id": "https://www.settleloans.in/best-lawyer-for-notice-for-loan-default#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-notice-for-loan-default",
                 "name": "Best Lawyer for Notice for Loan Default | SARFAESI 13(2) Defense",
                 "description": "Comprehensive guide and legal aid for fighting bank notices for loan defaults in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-notice-for-loan-default#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-notice-for-loan-default#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-notice-for-loan-default#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-notice-for-loan-default#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Notice for Loan Default",
-                        "item": "https://settleloans.in/best-lawyer-for-notice-for-loan-default"
+                        "item": "https://www.settleloans.in/best-lawyer-for-notice-for-loan-default"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-notice-for-loan-default#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-notice-for-loan-default#article",
                 "headline": "Received a Bank Notice for Loan Default? Your Complete Defense Guide",
                 "description": "Understand your rights under the SARFAESI Act. Learn how to reply to Section 13(2) notices and stop property auctions with legal aid.",
                 "author": {
@@ -57,16 +57,16 @@ export default function LoanDefaultNoticePage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-notice-for-loan-default#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-notice-for-loan-default#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-notice-for-loan-default#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-notice-for-loan-default#product",
                 "name": "Legal Defense for Bank Notices",
                 "description": "Expert legal representation for borrowers facing SARFAESI recovery actions and loan default notices.",
                 "aggregateRating": {
@@ -93,7 +93,7 @@ export default function LoanDefaultNoticePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-notice-for-loan-default#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-notice-for-loan-default#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "P2P Crypto Scam Unfreeze Bank Account | Section 106 BNSS Legal Guide 2026",
   description: "Learn how to unfreeze your bank account after a P2P crypto scam. A comprehensive legal guide on Section 106 BNSS (formerly 102 CrPC), Cyber Cell procedures, and court applications to recover frozen funds in India.",
   alternates: {
-    canonical: "https://settleloans.in/p2p-crypto-scam-unfreeze-bank-account",
+    canonical: "https://www.settleloans.in/p2p-crypto-scam-unfreeze-bank-account",
   },
 };
 
@@ -16,34 +16,34 @@ export default function P2PCryptoScamUnfreezePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/p2p-crypto-scam-unfreeze-bank-account#webpage",
-        "url": "https://settleloans.in/p2p-crypto-scam-unfreeze-bank-account",
+        "@id": "https://www.settleloans.in/p2p-crypto-scam-unfreeze-bank-account#webpage",
+        "url": "https://www.settleloans.in/p2p-crypto-scam-unfreeze-bank-account",
         "name": "P2P Crypto Scam Unfreeze Bank Account Guide",
         "description": "Legal instructions and procedural steps to unfreeze bank accounts in India after P2P crypto scams.",
-        "breadcrumb": { "@id": "https://settleloans.in/p2p-crypto-scam-unfreeze-bank-account#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/p2p-crypto-scam-unfreeze-bank-account#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/p2p-crypto-scam-unfreeze-bank-account#breadcrumb",
+        "@id": "https://www.settleloans.in/p2p-crypto-scam-unfreeze-bank-account#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Unfreeze Bank Account P2P Scam",
-            "item": "https://settleloans.in/p2p-crypto-scam-unfreeze-bank-account"
+            "item": "https://www.settleloans.in/p2p-crypto-scam-unfreeze-bank-account"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/p2p-crypto-scam-unfreeze-bank-account#article",
+        "@id": "https://www.settleloans.in/p2p-crypto-scam-unfreeze-bank-account#article",
         "headline": "How to Unfreeze Bank Account After P2P Crypto Scam: The Ultimate Legal Roadmap",
         "description": "Comprehensive guide for Indian bank account holders whose accounts were frozen due to P2P crypto transactions and suspected scams.",
         "author": {
@@ -55,16 +55,16 @@ export default function P2PCryptoScamUnfreezePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-03-27",
         "dateModified": "2026-03-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/p2p-crypto-scam-unfreeze-bank-account#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/p2p-crypto-scam-unfreeze-bank-account#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/p2p-crypto-scam-unfreeze-bank-account#product",
+        "@id": "https://www.settleloans.in/p2p-crypto-scam-unfreeze-bank-account#product",
         "name": "Bank Account Unfreeze Support Information",
         "description": "Information and support for unfreezing bank accounts linked to P2P crypto scams.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function P2PCryptoScamUnfreezePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/p2p-crypto-scam-unfreeze-bank-account#faq",
+        "@id": "https://www.settleloans.in/p2p-crypto-scam-unfreeze-bank-account#faq",
         "mainEntity": [
           {
             "@type": "Question",

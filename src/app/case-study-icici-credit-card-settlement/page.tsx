@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'icici credit card recovery harassment complaint',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/case-study-icici-credit-card-settlement',
+    canonical: 'https://www.settleloans.in/case-study-icici-credit-card-settlement',
   },
   openGraph: {
     title: 'ICICI Credit Card Settlement Case Study: ₹5 Lakh Debt Settled for ₹1.5L',
     description: 'In-depth case study: How a ₹5 Lakh ICICI Bank credit card debt was settled for ₹1.5 Lakhs (70% overall haircut) under RBI compromise settlement guidelines, breaking a vicious compound interest cycle.',
-    url: 'https://settleloans.in/case-study-icici-credit-card-settlement',
+    url: 'https://www.settleloans.in/case-study-icici-credit-card-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/case-study-icici-credit-card-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/case-study-icici-credit-card-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'ICICI Credit Card Settlement Case Study Infographic: ₹5L Settled for ₹1.5L',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'ICICI Credit Card Settlement Case Study: ₹5 Lakh Debt Settled for ₹1.5L',
     description: 'Case study proof: Step-by-step breakdown of how a ₹5 Lakh ICICI credit card default was resolved for ₹1.5 Lakhs with official bank sanction letter and zero dues NDC.',
-    images: ['https://settleloans.in/images/infographics/case-study-icici-credit-card-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/case-study-icici-credit-card-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/case-study-icici-credit-card-settlement#webpage",
-      "url": "https://settleloans.in/case-study-icici-credit-card-settlement",
+      "@id": "https://www.settleloans.in/case-study-icici-credit-card-settlement#webpage",
+      "url": "https://www.settleloans.in/case-study-icici-credit-card-settlement",
       "name": "ICICI Credit Card Settlement Case Study: ₹5 Lakh Debt Settled for ₹1.5L",
       "description": "Real case study: How a ₹5 Lakh ICICI Bank credit card debt (₹1.8L principal + ₹3.2L interest/penalties) was settled for ₹1.5 Lakhs (70% total waiver). Learn the high-interest relief process, compound interest breakdown, and OTS letter.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/case-study-icici-credit-card-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/case-study-icici-credit-card-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/case-study-icici-credit-card-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/case-study-icici-credit-card-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "ICICI Credit Card Settlement Case Study",
-          "item": "https://settleloans.in/case-study-icici-credit-card-settlement"
+          "item": "https://www.settleloans.in/case-study-icici-credit-card-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/case-study-icici-credit-card-settlement#article",
+      "@id": "https://www.settleloans.in/case-study-icici-credit-card-settlement#article",
       "headline": "ICICI Credit Card Settlement Case Study: How a ₹5 Lakh Debt Was Settled for ₹1.5 Lakhs",
       "description": "A comprehensive proof-of-concept case study detailing how a borrower trapped in a ₹5,00,000 ICICI Bank credit card debt cycle (consisting of ₹1,80,000 principal and ₹3,20,000 compounded penal charges) secured an official One-Time Settlement of ₹1,50,000.",
-      "image": "https://settleloans.in/images/infographics/case-study-icici-credit-card-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/case-study-icici-credit-card-settlement.jpg",
       "datePublished": "2026-08-22T12:45:09+05:30",
       "dateModified": "2026-08-22T12:45:09+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/case-study-icici-credit-card-settlement#webpage"
+        "@id": "https://www.settleloans.in/case-study-icici-credit-card-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/case-study-icici-credit-card-settlement#service",
+      "@id": "https://www.settleloans.in/case-study-icici-credit-card-settlement#service",
       "name": "SettleLoans - ICICI Credit Card Debt Settlement & Dispute Resolution",
       "description": "Specialized legal representation and financial negotiation advisory for distressed credit card holders seeking One-Time Settlement (OTS), interest waivers, and principal relief with ICICI Bank under RBI guidelines.",
-      "url": "https://settleloans.in/case-study-icici-credit-card-settlement",
-      "image": "https://settleloans.in/images/infographics/case-study-icici-credit-card-settlement.jpg",
+      "url": "https://www.settleloans.in/case-study-icici-credit-card-settlement",
+      "image": "https://www.settleloans.in/images/infographics/case-study-icici-credit-card-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/case-study-icici-credit-card-settlement#faq",
+      "@id": "https://www.settleloans.in/case-study-icici-credit-card-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -284,12 +284,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

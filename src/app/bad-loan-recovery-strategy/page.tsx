@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Bad Loan Recovery Strategy in India | Expert Legal Debt Resolution Guide",
     description: "Comprehensive guide on bad loan recovery strategies in India. Learn about SARFAESI Act, DRT, Lok Adalats, and RBI guidelines. Expert legal help for bank debt resolution and loan settlement.",
     alternates: {
-        canonical: "https://settleloans.in/bad-loan-recovery-strategy",
+        canonical: "https://www.settleloans.in/bad-loan-recovery-strategy",
     },
 };
 
@@ -16,34 +16,34 @@ export default function BadLoanRecoveryStrategyPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/bad-loan-recovery-strategy#webpage",
-                "url": "https://settleloans.in/bad-loan-recovery-strategy",
+                "@id": "https://www.settleloans.in/bad-loan-recovery-strategy#webpage",
+                "url": "https://www.settleloans.in/bad-loan-recovery-strategy",
                 "name": "Bad Loan Recovery Strategy in India | Expert Legal Debt Resolution Guide",
                 "description": "Deep dive into the legal frameworks and strategies used for bad loan recovery in India, including borrower rights and settlement options.",
-                "breadcrumb": { "@id": "https://settleloans.in/bad-loan-recovery-strategy#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/bad-loan-recovery-strategy#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/bad-loan-recovery-strategy#breadcrumb",
+                "@id": "https://www.settleloans.in/bad-loan-recovery-strategy#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Bad Loan Recovery Strategy",
-                        "item": "https://settleloans.in/bad-loan-recovery-strategy"
+                        "item": "https://www.settleloans.in/bad-loan-recovery-strategy"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/bad-loan-recovery-strategy#article",
+                "@id": "https://www.settleloans.in/bad-loan-recovery-strategy#article",
                 "headline": "Bad Loan Recovery Strategy: A Mastering Guide to Indian Debt Resolution",
                 "description": "An exhaustive analysis of bad loan recovery mechanisms in India, legal protections for borrowers, and the path to financial freedom through professional settlement.",
                 "author": {
@@ -55,16 +55,16 @@ export default function BadLoanRecoveryStrategyPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-07",
                 "dateModified": "2024-03-07",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/bad-loan-recovery-strategy#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/bad-loan-recovery-strategy#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/bad-loan-recovery-strategy#product",
+                "@id": "https://www.settleloans.in/bad-loan-recovery-strategy#product",
                 "name": "Bad Loan Resolution Consultancy",
                 "description": "Professional legal and financial advisory for resolving bad loans in India.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function BadLoanRecoveryStrategyPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/bad-loan-recovery-strategy#faq",
+                "@id": "https://www.settleloans.in/bad-loan-recovery-strategy#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

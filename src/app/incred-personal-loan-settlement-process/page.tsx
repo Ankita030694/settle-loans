@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'incred loan arbitration notice response',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/incred-personal-loan-settlement-process',
+    canonical: 'https://www.settleloans.in/incred-personal-loan-settlement-process',
   },
   openGraph: {
     title: 'InCred Personal Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
     description: 'Learn how to settle an InCred Financial Services personal or MSME loan. Understand internal NPA haircuts, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies.',
-    url: 'https://settleloans.in/incred-personal-loan-settlement-process',
+    url: 'https://www.settleloans.in/incred-personal-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/incred-personal-loan-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/incred-personal-loan-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'InCred Personal Loan Settlement Process and OTS Haircut Guide',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'InCred Personal Loan Settlement: OTS Rules, Legal Defense & Haircut',
     description: 'Technical and legal manual for settling defaulted InCred Financial Services personal loans and digital credit facilities under RBI Compromise Settlement frameworks.',
-    images: ['https://settleloans.in/images/infographics/incred-personal-loan-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/incred-personal-loan-settlement-process.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/incred-personal-loan-settlement-process#webpage",
-      "url": "https://settleloans.in/incred-personal-loan-settlement-process",
+      "@id": "https://www.settleloans.in/incred-personal-loan-settlement-process#webpage",
+      "url": "https://www.settleloans.in/incred-personal-loan-settlement-process",
       "name": "InCred Personal Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)",
       "description": "Comprehensive guide to InCred Financial Services personal loan settlement. Learn how to settle personal and MSME loans, stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA and arbitration notices, and negotiate up to 60% OTS haircut under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/incred-personal-loan-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/incred-personal-loan-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/incred-personal-loan-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/incred-personal-loan-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "InCred Personal Loan Settlement",
-          "item": "https://settleloans.in/incred-personal-loan-settlement-process"
+          "item": "https://www.settleloans.in/incred-personal-loan-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/incred-personal-loan-settlement-process#article",
+      "@id": "https://www.settleloans.in/incred-personal-loan-settlement-process#article",
       "headline": "InCred Personal Loan Settlement: OTS Rules, Legal Defense & Haircut Guide",
       "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with InCred Financial Services Limited, navigating internal provisioning policies, halting NACH bounce fees, and safeguarding against recovery harassment.",
-      "image": "https://settleloans.in/images/infographics/incred-personal-loan-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/incred-personal-loan-settlement-process.jpg",
       "datePublished": "2026-09-02T12:00:00+05:30",
       "dateModified": "2026-09-02T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/incred-personal-loan-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/incred-personal-loan-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/incred-personal-loan-settlement-process#service",
+      "@id": "https://www.settleloans.in/incred-personal-loan-settlement-process#service",
       "name": "SettleLoans - InCred Loan Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted InCred Financial Services personal loans, education loans, and MSME credit lines under RBI compromise frameworks with maximum debt waivers and complete harassment protection.",
-      "url": "https://settleloans.in/incred-personal-loan-settlement-process",
-      "image": "https://settleloans.in/images/infographics/incred-personal-loan-settlement-process.jpg",
+      "url": "https://www.settleloans.in/incred-personal-loan-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/incred-personal-loan-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/incred-personal-loan-settlement-process#faq",
+      "@id": "https://www.settleloans.in/incred-personal-loan-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -321,12 +321,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Receive Documents After Loan Pre-Closure | RBI Rules",
   description: "Pre-closed your home loan but the bank is holding your original property documents hostage? Claim ₹5000/day penalty under new RBI rules.",
   alternates: {
-    canonical: "https://settleloans.in/receive-documents-after-loan-pre-closure",
+    canonical: "https://www.settleloans.in/receive-documents-after-loan-pre-closure",
   },
 };
 
@@ -17,34 +17,34 @@ export default function ReceiveDocumentsPreClosurePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/receive-documents-after-loan-pre-closure#webpage",
-        "url": "https://settleloans.in/receive-documents-after-loan-pre-closure",
+        "@id": "https://www.settleloans.in/receive-documents-after-loan-pre-closure#webpage",
+        "url": "https://www.settleloans.in/receive-documents-after-loan-pre-closure",
         "name": "Receive Documents After Loan Pre-Closure | RBI Rules",
         "description": "Pre-closed your home loan but the bank is holding your original property documents hostage? Claim ₹5000/day penalty under new RBI rules.",
-        "breadcrumb": { "@id": "https://settleloans.in/receive-documents-after-loan-pre-closure#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/receive-documents-after-loan-pre-closure#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/receive-documents-after-loan-pre-closure#breadcrumb",
+        "@id": "https://www.settleloans.in/receive-documents-after-loan-pre-closure#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Receive Documents After Pre-Closure",
-            "item": "https://settleloans.in/receive-documents-after-loan-pre-closure"
+            "item": "https://www.settleloans.in/receive-documents-after-loan-pre-closure"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/receive-documents-after-loan-pre-closure#article",
+        "@id": "https://www.settleloans.in/receive-documents-after-loan-pre-closure#article",
         "headline": "Receive Documents After Loan Pre-Closure | RBI Rules",
         "description": "Learn the legal steps to force your bank to return your property documents and claim the ₹5,000 per day RBI penalty after home loan pre-closure.",
         "author": {
@@ -56,22 +56,22 @@ export default function ReceiveDocumentsPreClosurePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-23",
         "dateModified": "2024-07-23",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/receive-documents-after-loan-pre-closure#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/receive-documents-after-loan-pre-closure#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/receive-documents-after-loan-pre-closure#product",
+        "@id": "https://www.settleloans.in/receive-documents-after-loan-pre-closure#product",
         "name": "Property Document Recovery Legal Notice",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to compel banks to return original property documents after loan pre-closure and claim RBI-mandated compensation.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function ReceiveDocumentsPreClosurePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/receive-documents-after-loan-pre-closure#faq",
+        "@id": "https://www.settleloans.in/receive-documents-after-loan-pre-closure#faq",
         "mainEntity": [
           {
             "@type": "Question",

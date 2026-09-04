@@ -10,22 +10,22 @@ export default function DrtAccountDocumentsPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-account-documents-drt#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-account-documents-drt#article",
                 "headline": "Best Lawyer for DRT Account Documents & Bank Statement Audit in India",
                 "description": "Expert legal defense in DRT cases through specialized bank statement audits. Challenge interest calculations, Bankers' Books Evidence Act certification, and bank document errors.",
-                "image": "https://settleloans.in/images/drt-account-docs.jpg",
+                "image": "https://www.settleloans.in/images/drt-account-docs.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/best-lawyer-for-account-documents-drt" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/best-lawyer-for-account-documents-drt" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-account-documents-drt#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-account-documents-drt#product",
                 "name": "DRT Account Document Audit Service",
                 "description": "Forensic audit of bank statements and loan documents for defense in Debt Recovery Tribunal (DRT) cases.",
                 "aggregateRating": {
@@ -74,9 +74,9 @@ export default function DrtAccountDocumentsPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://settleloans.in/services" },
-                    { "@type": "ListItem", "position": 3, "name": "DRT Account Documents", "item": "https://settleloans.in/best-lawyer-for-account-documents-drt" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://www.settleloans.in/services" },
+                    { "@type": "ListItem", "position": 3, "name": "DRT Account Documents", "item": "https://www.settleloans.in/best-lawyer-for-account-documents-drt" }
                 ]
             }
         ]

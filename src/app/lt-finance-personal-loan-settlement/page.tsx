@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'l&t finance lok adalat settlement',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/lt-finance-personal-loan-settlement',
+    canonical: 'https://www.settleloans.in/lt-finance-personal-loan-settlement',
   },
   openGraph: {
     title: 'L&T Finance Personal Loan Settlement: OTS Rules, Haircut Matrix & Legal Defense (2026)',
     description: 'Definitive manual for settling defaulted L&T Finance personal and retail loans. Understand internal Stressed Assets Committee thresholds, rural vs urban recovery dynamics, and step-by-step compromise procedures.',
-    url: 'https://settleloans.in/lt-finance-personal-loan-settlement',
+    url: 'https://www.settleloans.in/lt-finance-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/lt-finance-personal-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/lt-finance-personal-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'L&T Finance Personal Loan Settlement Process and OTS Haircut Guide',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'L&T Finance Personal Loan Settlement: OTS Rules, Haircut Matrix & Legal Defense',
     description: 'Technical and legal manual for negotiating One-Time Settlements on defaulted L&T Finance personal loans under RBI Compromise Settlement frameworks.',
-    images: ['https://settleloans.in/images/infographics/lt-finance-personal-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/lt-finance-personal-loan-settlement.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/lt-finance-personal-loan-settlement#webpage",
-      "url": "https://settleloans.in/lt-finance-personal-loan-settlement",
+      "@id": "https://www.settleloans.in/lt-finance-personal-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/lt-finance-personal-loan-settlement",
       "name": "L&T Finance Personal Loan Settlement: OTS Rules, Haircut Matrix & Legal Defense (2026)",
       "description": "Comprehensive guide to L&T Finance personal loan settlement. Learn how to negotiate One-Time Settlements (OTS), stop repeated NACH bounce fees, halt recovery harassment across urban and rural borrowers, defend Section 25 PSSA and arbitration notices, and secure up to 60% debt haircuts under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/lt-finance-personal-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/lt-finance-personal-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/lt-finance-personal-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/lt-finance-personal-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "L&T Finance Personal Loan Settlement",
-          "item": "https://settleloans.in/lt-finance-personal-loan-settlement"
+          "item": "https://www.settleloans.in/lt-finance-personal-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/lt-finance-personal-loan-settlement#article",
+      "@id": "https://www.settleloans.in/lt-finance-personal-loan-settlement#article",
       "headline": "L&T Finance Personal Loan Settlement: OTS Rules, Haircut Matrix & Legal Defense Guide",
       "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with L&T Finance Limited, navigating internal Stressed Assets Committee matrices, halting e-NACH bounce penalties, and protecting urban and rural borrowers against illegal recovery harassment.",
-      "image": "https://settleloans.in/images/infographics/lt-finance-personal-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/lt-finance-personal-loan-settlement.jpg",
       "datePublished": "2026-09-02T12:00:00+05:30",
       "dateModified": "2026-09-02T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/lt-finance-personal-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/lt-finance-personal-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/lt-finance-personal-loan-settlement#service",
+      "@id": "https://www.settleloans.in/lt-finance-personal-loan-settlement#service",
       "name": "SettleLoans - L&T Finance Personal Loan Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted L&T Finance personal loans, consumer credit lines, and retail facilities under RBI compromise frameworks with maximum debt waivers and complete harassment protection.",
-      "url": "https://settleloans.in/lt-finance-personal-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/lt-finance-personal-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/lt-finance-personal-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/lt-finance-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/lt-finance-personal-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/lt-finance-personal-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -321,12 +321,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

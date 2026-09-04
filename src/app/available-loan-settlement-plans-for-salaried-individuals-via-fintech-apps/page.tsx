@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Available Loan Settlement Plans for Salaried Individuals via Fintech Apps in India",
   description: "Explore the best loan settlement and debt relief plans for salaried individuals in India using fintech apps. Professional negotiation, harassment protection, and credit rebuilding.",
   alternates: {
-    canonical: "https://settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps",
+    canonical: "https://www.settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps",
   },
 };
 
@@ -16,34 +16,34 @@ export default function FintechLoanSettlementSalariedPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps#webpage",
-        "url": "https://settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps",
+        "@id": "https://www.settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps#webpage",
+        "url": "https://www.settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps",
         "name": "Available Loan Settlement Plans for Salaried Individuals via Fintech Apps in India",
         "description": "Comprehensive guide to fintech platforms offering loan settlement services for salaried employees in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps#breadcrumb",
+        "@id": "https://www.settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Fintech Loan Settlement for Salaried Individuals",
-            "item": "https://settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps"
+            "item": "https://www.settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps#article",
+        "@id": "https://www.settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps#article",
         "headline": "Available Loan Settlement Plans for Salaried Individuals via Fintech Apps: A Complete Guide",
         "description": "Discover how salaried individuals can use fintech apps for loan settlement, debt restructuring, and legal protection in India.",
         "author": {
@@ -55,16 +55,16 @@ export default function FintechLoanSettlementSalariedPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps#product",
+        "@id": "https://www.settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps#product",
         "name": "Fintech Debt Settlement Advisory",
         "description": "Professional guidance on using fintech apps for loan settlement and debt relief for salaried employees.",
         "brand": {
@@ -88,7 +88,7 @@ export default function FintechLoanSettlementSalariedPage() {
               "price": "0",
               "priceCurrency": "INR",
               "availability": "https://schema.org/InStock",
-              "url": "https://settleloans.in/contact"
+              "url": "https://www.settleloans.in/contact"
             }
           ]
         },
@@ -125,7 +125,7 @@ export default function FintechLoanSettlementSalariedPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps#faq",
+        "@id": "https://www.settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps#faq",
         "mainEntity": [
           {
             "@type": "Question",

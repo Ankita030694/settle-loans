@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'microfinance no dues certificate',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/microfinance-loan-settlement-process',
+    canonical: 'https://www.settleloans.in/microfinance-loan-settlement-process',
   },
   openGraph: {
     title: 'Microfinance Loan Settlement Process: RBI Master Directions, JLG Relief & Debt Haircut (2026)',
     description: 'Strategic and legal manual for resolving defaulted Joint Liability Group (JLG) and NBFC-MFI microfinance loans under Reserve Bank of India regulatory frameworks with maximum debt waivers and anti-harassment protections.',
-    url: 'https://settleloans.in/microfinance-loan-settlement-process',
+    url: 'https://www.settleloans.in/microfinance-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/microfinance-loan-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/microfinance-loan-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'Microfinance Loan Settlement Process and Vulnerable Borrower Protection Framework',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Microfinance Loan Settlement Process: RBI Master Directions, JLG Relief & Debt Haircut',
     description: 'Technical and statutory handbook for settling defaulted microfinance and JLG loans across Bandhan, Fusion, Spandana, and CreditAccess Grameen under RBI compromise frameworks.',
-    images: ['https://settleloans.in/images/infographics/microfinance-loan-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/microfinance-loan-settlement-process.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/microfinance-loan-settlement-process#webpage",
-      "url": "https://settleloans.in/microfinance-loan-settlement-process",
+      "@id": "https://www.settleloans.in/microfinance-loan-settlement-process#webpage",
+      "url": "https://www.settleloans.in/microfinance-loan-settlement-process",
       "name": "Microfinance Loan Settlement Process: RBI Master Directions, JLG Relief & Debt Haircut (2026)",
       "description": "Comprehensive guide to microfinance loan settlement rules under RBI Master Directions (2022). Learn how to halt Joint Liability Group (JLG) coercion, stop social harassment from MFI recovery agents, and negotiate a 40% to 65% OTS debt haircut with Bandhan, Fusion, Spandana, and CreditAccess Grameen.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/microfinance-loan-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/microfinance-loan-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/microfinance-loan-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/microfinance-loan-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Microfinance Loan Settlement Process",
-          "item": "https://settleloans.in/microfinance-loan-settlement-process"
+          "item": "https://www.settleloans.in/microfinance-loan-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/microfinance-loan-settlement-process#article",
+      "@id": "https://www.settleloans.in/microfinance-loan-settlement-process#article",
       "headline": "Microfinance Loan Settlement Process: RBI Master Directions, JLG Relief & Debt Haircut Guide",
       "description": "A comprehensive strategic manual on negotiating One-Time Settlements (OTS) with NBFC-MFIs and Small Finance Banks across Joint Liability Group credit lines, eliminating predatory penalties, halting group shaming, and securing ₹0 No Dues Certificates.",
-      "image": "https://settleloans.in/images/infographics/microfinance-loan-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/microfinance-loan-settlement-process.jpg",
       "datePublished": "2026-08-26T12:00:00+05:30",
       "dateModified": "2026-08-26T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/microfinance-loan-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/microfinance-loan-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/microfinance-loan-settlement-process#service",
+      "@id": "https://www.settleloans.in/microfinance-loan-settlement-process#service",
       "name": "SettleLoans - Microfinance & JLG Loan Settlement Legal Advocacy",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted microfinance, Joint Liability Group (JLG), and NBFC-MFI loans across Bandhan, Fusion, Spandana, Muthoot Microfin, and CreditAccess Grameen under RBI compromise frameworks with maximum debt waivers and anti-harassment protections.",
-      "url": "https://settleloans.in/microfinance-loan-settlement-process",
-      "image": "https://settleloans.in/images/infographics/microfinance-loan-settlement-process.jpg",
+      "url": "https://www.settleloans.in/microfinance-loan-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/microfinance-loan-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/microfinance-loan-settlement-process#faq",
+      "@id": "https://www.settleloans.in/microfinance-loan-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -313,12 +313,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

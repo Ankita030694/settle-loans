@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement in Gujarat | 3500+ Word Legal Guide",
   description: "Comprehensive 3500+ word guide to loan settlement in Gujarat. Legal protection under Gujarat Money Lenders Act 2011, GSLSA Lok Adalat procedures, and debt recovery defenses in Ahmedabad & Surat.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/gujarat",
+    canonical: "https://www.settleloans.in/loan-settlement/gujarat",
   },
 };
 
@@ -16,47 +16,47 @@ export default function GujaratLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/gujarat#webpage",
-        "url": "https://settleloans.in/loan-settlement/gujarat",
+        "@id": "https://www.settleloans.in/loan-settlement/gujarat#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/gujarat",
         "name": "Professional Loan Settlement Gujarat | Legal Guide - SettleLoans",
         "description": "Comprehensive guide to loan settlement in Gujarat. Legal protection under Gujarat Money Lenders Act 2011, GSLSA Lok Adalat procedures, and debt recovery defenses in Ahmedabad & Surat.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/gujarat#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/gujarat#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/gujarat#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/gujarat#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/gujarat#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/gujarat#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Gujarat",
-            "item": "https://settleloans.in/loan-settlement/gujarat"
+            "item": "https://www.settleloans.in/loan-settlement/gujarat"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/gujarat#service",
+        "@id": "https://www.settleloans.in/loan-settlement/gujarat#service",
         "name": "Gujarat Loan Settlement Services",
         "description": "Professional debt negotiation and legal protection services for personal loans and credit cards in Ahmedabad, Surat, and across Gujarat.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Ahmedabad" },
@@ -93,7 +93,7 @@ export default function GujaratLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/gujarat#article",
+        "@id": "https://www.settleloans.in/loan-settlement/gujarat#article",
         "headline": "Strategic Loan Settlement in Gujarat: Legal Protections and Guide",
         "description": "The most comprehensive guide for Gujarat residents on legal debt resolution, featuring Gujarat Money Lenders Act 2011, GSLSA Lok Adalat procedures, and banking recovery defenses.",
         "author": {
@@ -105,16 +105,16 @@ export default function GujaratLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-03",
         "dateModified": "2024-02-03",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/gujarat#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/gujarat#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/gujarat#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/gujarat#faq",
         "mainEntity": [
           {
             "@type": "Question",

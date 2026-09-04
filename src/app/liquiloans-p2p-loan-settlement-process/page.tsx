@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'ndx p2p lending technologies private limited settlement',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/liquiloans-p2p-loan-settlement-process',
+    canonical: 'https://www.settleloans.in/liquiloans-p2p-loan-settlement-process',
   },
   openGraph: {
     title: 'LiquiLoans Settlement Process: NDX P2P Loan Relief & Legal Defense (2026)',
     description: 'Struggling with defaulted LiquiLoans zero-cost EMI or healthcare loans? Discover how to negotiate One-Time Settlements (OTS) with NDX P2P Lending, stop recovery harassment, and secure official ₹0 No Dues Certificates.',
-    url: 'https://settleloans.in/liquiloans-p2p-loan-settlement-process',
+    url: 'https://www.settleloans.in/liquiloans-p2p-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/liquiloans-p2p-loan-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/liquiloans-p2p-loan-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'LiquiLoans NDX P2P Loan Settlement Process and Debt Relief Framework',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'LiquiLoans Settlement Process: NDX P2P Loan Relief & Legal Defense',
     description: 'Technical and legal roadmap for settling defaulted LiquiLoans consumer credit facilities under RBI compromise settlement frameworks and consumer protection directives.',
-    images: ['https://settleloans.in/images/infographics/liquiloans-p2p-loan-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/liquiloans-p2p-loan-settlement-process.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/liquiloans-p2p-loan-settlement-process#webpage",
-      "url": "https://settleloans.in/liquiloans-p2p-loan-settlement-process",
+      "@id": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process#webpage",
+      "url": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process",
       "name": "LiquiLoans Settlement Process: NDX P2P Loan Relief & Legal Defense (2026)",
       "description": "Comprehensive legal guide to LiquiLoans (NDX P2P) loan settlement. Learn how to settle zero-cost EMI, healthcare, and EdTech loans, stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA notices, and negotiate 40%–60% debt haircuts under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/liquiloans-p2p-loan-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/liquiloans-p2p-loan-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "LiquiLoans P2P Loan Settlement Process",
-          "item": "https://settleloans.in/liquiloans-p2p-loan-settlement-process"
+          "item": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/liquiloans-p2p-loan-settlement-process#article",
+      "@id": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process#article",
       "headline": "LiquiLoans Settlement Process: Resolving NDX P2P Zero-Cost EMI, Healthcare & EdTech Loans",
       "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with NDX P2P Lending Technologies (LiquiLoans), navigating P2P regulatory frameworks, halting recurring NACH bounce fees, and safeguarding against collection harassment.",
-      "image": "https://settleloans.in/images/infographics/liquiloans-p2p-loan-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/liquiloans-p2p-loan-settlement-process.jpg",
       "datePublished": "2026-09-03T12:00:00+05:30",
       "dateModified": "2026-09-03T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/liquiloans-p2p-loan-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/liquiloans-p2p-loan-settlement-process#service",
+      "@id": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process#service",
       "name": "SettleLoans - LiquiLoans NDX P2P Loan Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted LiquiLoans consumer credit facilities, EdTech skilling loans, and elective healthcare installments under RBI compromise frameworks with maximum debt waivers and complete anti-harassment protection.",
-      "url": "https://settleloans.in/liquiloans-p2p-loan-settlement-process",
-      "image": "https://settleloans.in/images/infographics/liquiloans-p2p-loan-settlement-process.jpg",
+      "url": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/liquiloans-p2p-loan-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/liquiloans-p2p-loan-settlement-process#faq",
+      "@id": "https://www.settleloans.in/liquiloans-p2p-loan-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -305,12 +305,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

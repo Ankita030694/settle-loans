@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Best Loan Agreement Arbitration Lawyer in India | Section 9, 11 & 34",
     description: "Expert legal defense for arbitration in loan agreements. Navigate Section 9 interim relief, Section 11 arbitrator challenges, Section 34 award setting aside, and MSME arbitration.",
     alternates: {
-        canonical: "https://settleloans.in/best-loan-agreement-arbitration-lawyer",
+        canonical: "https://www.settleloans.in/best-loan-agreement-arbitration-lawyer",
     },
 };
 
@@ -18,34 +18,34 @@ export default function LoanArbitrationLawyerPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-loan-agreement-arbitration-lawyer#webpage",
-                "url": "https://settleloans.in/best-loan-agreement-arbitration-lawyer",
+                "@id": "https://www.settleloans.in/best-loan-agreement-arbitration-lawyer#webpage",
+                "url": "https://www.settleloans.in/best-loan-agreement-arbitration-lawyer",
                 "name": "Best Loan Agreement Arbitration Lawyer in India | Section 9, 11 & 34",
                 "description": "Specialized legal guidance for borrowers facing arbitration in loan and debt recovery matters in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-loan-agreement-arbitration-lawyer#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-loan-agreement-arbitration-lawyer#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-loan-agreement-arbitration-lawyer#breadcrumb",
+                "@id": "https://www.settleloans.in/best-loan-agreement-arbitration-lawyer#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Loan Agreement Arbitration",
-                        "item": "https://settleloans.in/best-loan-agreement-arbitration-lawyer"
+                        "item": "https://www.settleloans.in/best-loan-agreement-arbitration-lawyer"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-loan-agreement-arbitration-lawyer#article",
+                "@id": "https://www.settleloans.in/best-loan-agreement-arbitration-lawyer#article",
                 "headline": "Defending Your Rights in Loan Agreement Arbitration: Interim Relief to Award Challenges",
                 "description": "Comprehensive analysis of the Arbitration and Conciliation Act 1996 in the context of loan agreements, debt recovery, and MSME protections.",
                 "author": {
@@ -57,16 +57,16 @@ export default function LoanArbitrationLawyerPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-loan-agreement-arbitration-lawyer#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-loan-agreement-arbitration-lawyer#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-loan-agreement-arbitration-lawyer#product",
+                "@id": "https://www.settleloans.in/best-loan-agreement-arbitration-lawyer#product",
                 "name": "Loan Arbitration Defense Service",
                 "description": "Professional legal representation for borrowers and MSMEs in loan-related arbitration proceedings.",
                 "aggregateRating": {
@@ -93,7 +93,7 @@ export default function LoanArbitrationLawyerPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-loan-agreement-arbitration-lawyer#faq",
+                "@id": "https://www.settleloans.in/best-loan-agreement-arbitration-lawyer#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

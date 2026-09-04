@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Typical Process for Personal Loan Settlement in India | 2024-25 Expert Guide",
     description: "Learn the step-by-step process of personal loan settlement in India. Understand RBI guidelines, negotiation strategies, and how to settle for 50% or less legally.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/typical-process-personal-loan-settlement-india",
+        canonical: "https://www.settleloans.in/faqs/typical-process-personal-loan-settlement-india",
     },
 };
 
@@ -18,43 +18,43 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/typical-process-personal-loan-settlement-india#webpage",
-                "url": "https://settleloans.in/faqs/typical-process-personal-loan-settlement-india",
+                "@id": "https://www.settleloans.in/faqs/typical-process-personal-loan-settlement-india#webpage",
+                "url": "https://www.settleloans.in/faqs/typical-process-personal-loan-settlement-india",
                 "name": "What is typical process for setting a personal loan in India | Professional Guide",
                 "description": "A comprehensive 5000-word guide on the procedural and legal steps involved in settling personal loans with Indian banks and NBFCs.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/typical-process-personal-loan-settlement-india#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/typical-process-personal-loan-settlement-india#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/typical-process-personal-loan-settlement-india#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/typical-process-personal-loan-settlement-india#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Typical Process for Personal Loan Settlement",
-                        "item": "https://settleloans.in/faqs/typical-process-personal-loan-settlement-india"
+                        "item": "https://www.settleloans.in/faqs/typical-process-personal-loan-settlement-india"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/typical-process-personal-loan-settlement-india#article",
+                "@id": "https://www.settleloans.in/faqs/typical-process-personal-loan-settlement-india#article",
                 "headline": "What is typical process for setting a personal loan in India",
                 "description": "The authoritative roadmap to the personal loan settlement process in India. Covering legal rights, step-by-step negotiation, and post-settlement credit recovery.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Research Team"
@@ -64,7 +64,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-06-01",
@@ -72,7 +72,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/typical-process-personal-loan-settlement-india#faq",
+                "@id": "https://www.settleloans.in/faqs/typical-process-personal-loan-settlement-india#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -158,7 +158,7 @@ export default function TypicalProcessPersonalLoanSettlementPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/typical-process-personal-loan-settlement-india#service",
+                "@id": "https://www.settleloans.in/faqs/typical-process-personal-loan-settlement-india#service",
                 "name": "Professional Debt Resolution Services",
                 "description": "Comprehensive expert assistance for navigating the complex loan settlement landscape in India, ensuring legal safety and maximum waivers.",
                 "brand": {

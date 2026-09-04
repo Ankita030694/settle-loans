@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Can Banks Recover Loan Default from an FD or Bank Account Nominee?",
   description: "Learn the legal difference between a nominee and a legal heir. Find out if a bank can attach or freeze a nominee's FD or savings account for a deceased borrower's loan default under RBI rules.",
   alternates: {
-    canonical: "https://settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd",
+    canonical: "https://www.settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd",
   },
 };
 
@@ -16,34 +16,34 @@ export default function NomineeLiabilityDefensePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd#webpage",
-        "url": "https://settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd",
+        "@id": "https://www.settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd#webpage",
+        "url": "https://www.settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd",
         "name": "Can Banks Recover Loan Default from an FD or Bank Account Nominee?",
         "description": "Explains the legal distinction between a nominee and a legal heir, clarifying that banks cannot arbitrarily seize funds from a nominee's personal accounts for a deceased borrower's debt.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd#breadcrumb",
+        "@id": "https://www.settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Nominee Liability for Loan Default",
-            "item": "https://settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd"
+            "item": "https://www.settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd#article",
+        "@id": "https://www.settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd#article",
         "headline": "Can Banks Recover Loan Dues from a Bank Account or FD Nominee?",
         "description": "Understand your legal rights as a nominee when a bank tries to freeze your account or attach an FD to recover a deceased relative's loan default.",
         "author": {
@@ -55,22 +55,22 @@ export default function NomineeLiabilityDefensePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-25",
         "dateModified": "2024-03-25",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd#product",
+        "@id": "https://www.settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd#product",
         "name": "Expert Banking Legal Services for Nominee Defense",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Protect your funds from illegal bank seizures when you are the nominee on a deceased relative's account.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -112,7 +112,7 @@ export default function NomineeLiabilityDefensePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd#faq",
+        "@id": "https://www.settleloans.in/can-bank-recover-loan-default-amount-from-nominee-of-bank-account-or-fd#faq",
         "mainEntity": [
           {
             "@type": "Question",

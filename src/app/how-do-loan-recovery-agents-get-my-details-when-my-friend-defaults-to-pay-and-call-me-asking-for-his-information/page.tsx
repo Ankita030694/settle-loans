@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Why Recovery Agents Call You for Friend's Loan | Stop Harassment Now",
   description: "How do loan recovery agents get my details when my friend defaults to pay? Learn about contact scraping, RBI guidelines, and how to stop illegal calls legally.",
   alternates: {
-    canonical: "https://settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information",
+    canonical: "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information",
   },
 };
 
@@ -16,40 +16,40 @@ export default function RecoveryAgentHarassmentGuide() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#webpage",
-        "url": "https://settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information",
+        "@id": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#webpage",
+        "url": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information",
         "name": "How Loan Recovery Agents Get Your Details and Stop Harassment",
         "description": "Comprehensive guide on how recovery agents find third-party contacts and the legal steps to stop harassment in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#breadcrumb",
+        "@id": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "FAQs",
-            "item": "https://settleloans.in/faqs"
+            "item": "https://www.settleloans.in/faqs"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Recovery Agent Harassment Guide",
-            "item": "https://settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information"
+            "item": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#article",
+        "@id": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#article",
         "headline": "How Recovery Agents Get Your Details and How to Stop Harassment",
         "author": {
           "@type": "Organization",
@@ -60,17 +60,17 @@ export default function RecoveryAgentHarassmentGuide() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-01",
         "dateModified": "2024-03-01",
         "description": "Learn the technical and legal reasons why recovery agents call you for someone else's debt and the RBI rules that protect you.",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#faq",
+        "@id": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information#faq",
         "mainEntity": [
           {
             "@type": "Question",

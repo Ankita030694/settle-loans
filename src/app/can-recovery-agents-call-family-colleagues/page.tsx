@@ -9,39 +9,39 @@ export default function RecoveryAgentsCallFamilyPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/can-recovery-agents-call-family-colleagues#webpage",
-                "url": "https://settleloans.in/can-recovery-agents-call-family-colleagues",
+                "@id": "https://www.settleloans.in/can-recovery-agents-call-family-colleagues#webpage",
+                "url": "https://www.settleloans.in/can-recovery-agents-call-family-colleagues",
                 "name": "Can Recovery Agents Call Family or Colleagues? Legal RBI Rules 2026",
                 "description": "Exposing the legality of recovery agents calling family members, colleagues, and relatives. Learn about RBI guidelines, privacy laws, and how to stop harassment legally.",
-                "breadcrumb": { "@id": "https://settleloans.in/can-recovery-agents-call-family-colleagues#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/can-recovery-agents-call-family-colleagues#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/can-recovery-agents-call-family-colleagues#breadcrumb",
+                "@id": "https://www.settleloans.in/can-recovery-agents-call-family-colleagues#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Recovery Agent Rules", "item": "https://settleloans.in/can-recovery-agents-call-family-colleagues" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Recovery Agent Rules", "item": "https://www.settleloans.in/can-recovery-agents-call-family-colleagues" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/can-recovery-agents-call-family-colleagues#article",
+                "@id": "https://www.settleloans.in/can-recovery-agents-call-family-colleagues#article",
                 "headline": "Can Recovery Agents Call My Family or Colleagues? The Ultimate Legal Defense Guide",
                 "description": "A massive 5000+ word deep dive into RBI recovery agent rules, privacy rights, and the criminal implications of third-party harassment in India.",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Research Wing" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2026-04-18",
                 "dateModified": "2026-04-18",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/can-recovery-agents-call-family-colleagues#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-recovery-agents-call-family-colleagues#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/can-recovery-agents-call-family-colleagues#product",
+                "@id": "https://www.settleloans.in/can-recovery-agents-call-family-colleagues#product",
                 "name": "Anti-Harassment & Loan Settlement Representation",
                 "description": "Legal protection against predatory recovery practices and professional negotiation for bank loan settlements.",
                 "aggregateRating": {
@@ -68,7 +68,7 @@ export default function RecoveryAgentsCallFamilyPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/can-recovery-agents-call-family-colleagues#faq",
+                "@id": "https://www.settleloans.in/can-recovery-agents-call-family-colleagues#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

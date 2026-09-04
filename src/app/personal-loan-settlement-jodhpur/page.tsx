@@ -49,17 +49,17 @@ export const metadata: Metadata = {
     'solar contractor loan settlement jodhpur',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-jodhpur',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-jodhpur',
   },
   openGraph: {
     title: 'Personal Loan Settlement Lawyer in Jodhpur: Legal Defense & OTS Advisory',
     description:
       'Authoritative legal defense and One-Time Settlement (OTS) representation for handicraft exporters, solar contractors, MSMEs, and salaried professionals in Jodhpur, Pali, and Bikaner.',
-    url: 'https://settleloans.in/personal-loan-settlement-jodhpur',
+    url: 'https://www.settleloans.in/personal-loan-settlement-jodhpur',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-jodhpur.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-jodhpur.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan Settlement Lawyer in Jodhpur Legal Defense Guide',
@@ -73,7 +73,7 @@ export const metadata: Metadata = {
     title: 'Personal Loan Settlement Lawyer in Jodhpur: High Court Seat & Lok Adalat Defense',
     description:
       'Strategic debt defense against bank recovery harassment, Section 138/25 notices in Paota courts, and 40%–70% OTS waivers for borrowers across Jodhpur and Western Rajasthan.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-jodhpur.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-jodhpur.jpg'],
   },
 };
 
@@ -82,79 +82,79 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-jodhpur#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-jodhpur",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-jodhpur#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-jodhpur",
       "name": "Personal Loan Settlement Lawyer in Jodhpur: Legal Defense & OTS Advocates",
       "description": "Facing personal loan default, recovery harassment, or court notices in Jodhpur, Pali, or Bikaner? Experienced debt settlement lawyers provide Rajasthan High Court defense, salary protection, and 40%–70% OTS waivers.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-jodhpur#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-jodhpur#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-jodhpur#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-jodhpur#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Personal Loan Settlement Lawyer in Jodhpur",
-          "item": "https://settleloans.in/personal-loan-settlement-jodhpur"
+          "item": "https://www.settleloans.in/personal-loan-settlement-jodhpur"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-jodhpur#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-jodhpur#article",
       "headline": "Personal Loan Settlement Lawyer in Jodhpur: High Court Seat Legal Defense & 40%–70% Bank OTS Waivers",
       "description": "Comprehensive legal and financial analysis for distressed handicraft exporters, solar contractors, traders, and salaried professionals in Jodhpur. Explore Paota District Court dynamics, Rajasthan High Court civil debt protections, Section 171 banker lien limits, and advocate-led OTS negotiations yielding 40% to 70% debt waivers.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-jodhpur.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-jodhpur.jpg",
       "datePublished": "2026-09-03T11:30:00+05:30",
       "dateModified": "2026-09-03T11:30:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-jodhpur#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-jodhpur#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
@@ -164,7 +164,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-jodhpur#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-jodhpur#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -242,11 +242,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-jodhpur#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-jodhpur#service",
       "name": "SettleLoans - Personal Loan Settlement Lawyer in Jodhpur & Legal Defense",
       "description": "Specialized debt settlement representation, High Court and District Court notice defense, and bank One-Time Settlement (OTS) advisory for handicraft exporters, solar contractors, traders, and salaried professionals across Jodhpur, Pali, and Bikaner.",
-      "url": "https://settleloans.in/personal-loan-settlement-jodhpur",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-jodhpur.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-jodhpur",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-jodhpur.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -259,9 +259,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

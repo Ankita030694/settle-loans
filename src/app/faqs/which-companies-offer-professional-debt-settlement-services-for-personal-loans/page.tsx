@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: "Which Companies Offer Professional Debt Settlement Services for Personal Loans? | Expert Rankings",
     description: "Compare the top professional debt settlement services for personal loans in India. Ratings and reviews for SettleLoans, AMA Legal, and more.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans",
+        canonical: "https://www.settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans",
     },
 };
 
@@ -20,43 +20,43 @@ export default function PersonalLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans#webpage",
-                "url": "https://settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans",
+                "@id": "https://www.settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans#webpage",
+                "url": "https://www.settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans",
                 "name": "Professional Debt Settlement Services for Personal Loans | Expert Guide",
                 "description": "Information on the best professional agencies specializing in personal loan settlement in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Personal Loan Settlement Services",
-                        "item": "https://settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans"
+                        "item": "https://www.settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans#article",
+                "@id": "https://www.settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans#article",
                 "headline": "Which Companies Offer Professional Debt Settlement Services for Personal Loans?",
                 "description": "An in-depth look at the top-rated professional services providing personal loan negotiation and settlement in India for 2025.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Debt Research"
@@ -66,7 +66,7 @@ export default function PersonalLoanSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-05-20",
@@ -74,7 +74,7 @@ export default function PersonalLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans#faq",
+                "@id": "https://www.settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -160,7 +160,7 @@ export default function PersonalLoanSettlementPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans#service",
+                "@id": "https://www.settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans#service",
                 "name": "Personal Loan Resolution Package",
                 "description": "Comprehensive negotiation and legal assistance for individuals defaulting on personal loans with top Indian banks.",
                 "brand": {

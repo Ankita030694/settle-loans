@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Can I Go to Jail for Loan Default in India? | My Legal Rights 2024-25",
     description: "Are you worried about jail for loan default in India? Learn the strict RBI guidelines, the difference between civil and criminal default, and how to legally handle debt recovery without fear.",
     alternates: {
-        canonical: "https://settleloans.in/can-i-go-to-jail-for-loan-default-in-india",
+        canonical: "https://www.settleloans.in/can-i-go-to-jail-for-loan-default-in-india",
     },
 };
 
@@ -16,34 +16,34 @@ export default function LoanDefaultJailPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/can-i-go-to-jail-for-loan-default-in-india#webpage",
-                "url": "https://settleloans.in/can-i-go-to-jail-for-loan-default-in-india",
+                "@id": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default-in-india#webpage",
+                "url": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default-in-india",
                 "name": "Can I Go to Jail for Loan Default in India? | Legal Rights & RBI Rules",
                 "description": "Comprehensive guide on the legal consequences of loan default in India, including jail risks and borrower protections.",
-                "breadcrumb": { "@id": "https://settleloans.in/can-i-go-to-jail-for-loan-default-in-india#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default-in-india#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/can-i-go-to-jail-for-loan-default-in-india#breadcrumb",
+                "@id": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default-in-india#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Can I Go to Jail for Loan Default?",
-                        "item": "https://settleloans.in/can-i-go-to-jail-for-loan-default-in-india"
+                        "item": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default-in-india"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/can-i-go-to-jail-for-loan-default-in-india#article",
+                "@id": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default-in-india#article",
                 "headline": "Can I Go to Jail for Loan Default in India? The Definitive Legal Guide",
                 "description": "Understanding the legal landscape of debt default in India: Why simple default is not a crime and when it can become one.",
                 "author": {
@@ -55,16 +55,16 @@ export default function LoanDefaultJailPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-10",
                 "dateModified": "2024-03-10",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/can-i-go-to-jail-for-loan-default-in-india#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default-in-india#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/can-i-go-to-jail-for-loan-default-in-india#product",
+                "@id": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default-in-india#product",
                 "name": "Debt Resolution & Legal Protection",
                 "description": "Professional assistance in settling loans and protecting borrowers from illegal recovery harassment.",
                 "aggregateRating": {
@@ -84,7 +84,7 @@ export default function LoanDefaultJailPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/can-i-go-to-jail-for-loan-default-in-india#faq",
+                "@id": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default-in-india#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

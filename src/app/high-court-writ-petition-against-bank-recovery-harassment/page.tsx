@@ -47,16 +47,16 @@ export const metadata: Metadata = {
     'debt settlement high court writ petition'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/high-court-writ-petition-against-bank-recovery-harassment',
+    canonical: 'https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment',
   },
   openGraph: {
     title: 'High Court Writ Petition Against Bank Recovery Harassment | Article 226 Constitutional Shield',
     description: 'Learn how to invoke Article 226 of the Constitution before the State High Court to halt unlawful bank recovery harassment, obtain urgent police protection, and secure a structured debt settlement.',
-    url: 'https://settleloans.in/high-court-writ-petition-against-bank-recovery-harassment',
+    url: 'https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/high-court-writ-petition-against-bank-recovery-harassment.jpg',
+        url: 'https://www.settleloans.in/images/infographics/high-court-writ-petition-against-bank-recovery-harassment.jpg',
         width: 1200,
         height: 675,
         alt: 'High Court Writ Petition Against Bank Recovery Harassment Legal Guide',
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Writ Petition Against Bank Recovery Harassment in High Court: Article 226 Legal Protection',
     description: 'Facing severe physical intimidation or extortion by bank collection agencies? Discover how High Court writ petitions enforce fundamental rights and provide judicial restraining orders.',
-    images: ['https://settleloans.in/images/infographics/high-court-writ-petition-against-bank-recovery-harassment.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/high-court-writ-petition-against-bank-recovery-harassment.jpg'],
   },
 };
 
@@ -78,74 +78,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/high-court-writ-petition-against-bank-recovery-harassment#webpage",
-      "url": "https://settleloans.in/high-court-writ-petition-against-bank-recovery-harassment",
+      "@id": "https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment#webpage",
+      "url": "https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment",
       "name": "Writ Petition Against Bank Recovery Harassment in High Court | Article 226 Legal Shield",
       "description": "Comprehensive constitutional legal blueprint detailing how aggrieved borrowers can file an Article 226 Writ Petition in the High Court against coercive bank recovery practices, obtain police protection, and secure favorable loan settlements.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/high-court-writ-petition-against-bank-recovery-harassment#breadcrumb"
+        "@id": "https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/high-court-writ-petition-against-bank-recovery-harassment#breadcrumb",
+      "@id": "https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "High Court Writ Petition Bank Harassment Guide",
-          "item": "https://settleloans.in/high-court-writ-petition-against-bank-recovery-harassment"
+          "item": "https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/high-court-writ-petition-against-bank-recovery-harassment#article",
+      "@id": "https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment#article",
       "headline": "High Court Writ Petition Against Bank Recovery Harassment: Article 226 Legal Shield, Police Protection & Injunction Guide",
       "description": "An exhaustive constitutional litigation manual explaining the jurisdiction of State High Courts under Article 226 to protect borrowers from predatory debt recovery, direct police commissioners to provide personal security, hold bank executives accountable in contempt, and force institutional compromise settlements.",
-      "image": "https://settleloans.in/images/infographics/high-court-writ-petition-against-bank-recovery-harassment.jpg",
+      "image": "https://www.settleloans.in/images/infographics/high-court-writ-petition-against-bank-recovery-harassment.jpg",
       "datePublished": "2026-09-01T10:00:00+05:30",
       "dateModified": "2026-09-01T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/high-court-writ-petition-against-bank-recovery-harassment#webpage"
+        "@id": "https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/high-court-writ-petition-against-bank-recovery-harassment#service",
+      "@id": "https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment#service",
       "name": "SettleLoans - High Court Constitutional Writ & Bank Harassment Defense Advisory",
       "description": "Premier legal defense and financial resolution advisory providing senior High Court advocacy, Article 226 writ petitions, emergency police protection orders, and structured loan settlement negotiations across India.",
-      "url": "https://settleloans.in/high-court-writ-petition-against-bank-recovery-harassment",
-      "image": "https://settleloans.in/images/infographics/high-court-writ-petition-against-bank-recovery-harassment.jpg",
+      "url": "https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment",
+      "image": "https://www.settleloans.in/images/infographics/high-court-writ-petition-against-bank-recovery-harassment.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -158,9 +158,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -234,7 +234,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/high-court-writ-petition-against-bank-recovery-harassment#faq",
+      "@id": "https://www.settleloans.in/high-court-writ-petition-against-bank-recovery-harassment#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -320,12 +320,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

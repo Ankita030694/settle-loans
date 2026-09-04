@@ -47,16 +47,16 @@ export const metadata: Metadata = {
     'sbi card npa recovery advocate legal defense',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/sbi-card-credit-card-settlement-process',
+    canonical: 'https://www.settleloans.in/sbi-card-credit-card-settlement-process',
   },
   openGraph: {
     title: 'SBI Card Credit Card Settlement: OTS Rules, Gurugram Legal Defense & Lok Adalat Guide (2026)',
     description: 'Struggling with SBI credit card dues? Discover how SBI Cards & Payment Services operates separately from SBI Bank, resolve Gurugram legal notices, and negotiate 50% to 70% Lok Adalat debt waivers.',
-    url: 'https://settleloans.in/sbi-card-credit-card-settlement-process',
+    url: 'https://www.settleloans.in/sbi-card-credit-card-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/sbi-card-credit-card-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/sbi-card-credit-card-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'SBI Card Credit Card Settlement Process and OTS Haircut Guide India',
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'SBI Card Credit Card Settlement: OTS Rules, Legal Defense & Lok Adalat Guide',
     description: 'Technical and legal manual for settling defaulted SBI credit cards under RBI compromise frameworks with maximum debt waivers and complete harassment protection.',
-    images: ['https://settleloans.in/images/infographics/sbi-card-credit-card-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/sbi-card-credit-card-settlement-process.jpg'],
   },
 };
 
@@ -78,74 +78,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/sbi-card-credit-card-settlement-process#webpage",
-      "url": "https://settleloans.in/sbi-card-credit-card-settlement-process",
+      "@id": "https://www.settleloans.in/sbi-card-credit-card-settlement-process#webpage",
+      "url": "https://www.settleloans.in/sbi-card-credit-card-settlement-process",
       "name": "SBI Card Credit Card Settlement: OTS Rules, Gurugram Legal Defense & Lok Adalat Guide (2026)",
       "description": "Comprehensive guide to SBI Card credit card settlement in India. Learn how to settle SimplySAVE, SimplyCLICK, and Prime cards, defend Gurugram legal notices, secure 60%-70% Lok Adalat waivers, and obtain ₹0 NDC under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/sbi-card-credit-card-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/sbi-card-credit-card-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/sbi-card-credit-card-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/sbi-card-credit-card-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "SBI Card Credit Card Settlement",
-          "item": "https://settleloans.in/sbi-card-credit-card-settlement-process"
+          "item": "https://www.settleloans.in/sbi-card-credit-card-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/sbi-card-credit-card-settlement-process#article",
+      "@id": "https://www.settleloans.in/sbi-card-credit-card-settlement-process#article",
       "headline": "SBI Card Credit Card Settlement: OTS Rules, Gurugram Legal Defense & Lok Adalat Guide",
       "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with SBI Cards & Payment Services Limited, navigating corporate independence from SBI Bank, defending Gurugram Section 25 PSSA notices, and securing 60%-70% Lok Adalat waivers.",
-      "image": "https://settleloans.in/images/infographics/sbi-card-credit-card-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/sbi-card-credit-card-settlement-process.jpg",
       "datePublished": "2026-09-01T10:00:00+05:30",
       "dateModified": "2026-09-01T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/sbi-card-credit-card-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/sbi-card-credit-card-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/sbi-card-credit-card-settlement-process#service",
+      "@id": "https://www.settleloans.in/sbi-card-credit-card-settlement-process#service",
       "name": "SettleLoans - SBI Card Credit Card Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted SBI SimplyCLICK, SimplySAVE, PRIME, and Elite credit cards under RBI compromise frameworks with maximum debt waivers and complete harassment protection.",
-      "url": "https://settleloans.in/sbi-card-credit-card-settlement-process",
-      "image": "https://settleloans.in/images/infographics/sbi-card-credit-card-settlement-process.jpg",
+      "url": "https://www.settleloans.in/sbi-card-credit-card-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/sbi-card-credit-card-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -158,9 +158,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -234,7 +234,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/sbi-card-credit-card-settlement-process#faq",
+      "@id": "https://www.settleloans.in/sbi-card-credit-card-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -320,12 +320,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How to Settle 7-Day Loan Apps in India | 5000+ Word Detailed Guide",
   description: "The ultimate 5000-word guide on settling illegal 7-day loan apps. Stop harassment, report to cybercrime, and secure your digital life legally in India.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-settle-7-day-loan-apps",
+    canonical: "https://www.settleloans.in/how-to-settle-7-day-loan-apps",
   },
 };
 
@@ -16,41 +16,41 @@ export default function SevenDayLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-settle-7-day-loan-apps#webpage",
-        "url": "https://settleloans.in/how-to-settle-7-day-loan-apps",
+        "@id": "https://www.settleloans.in/how-to-settle-7-day-loan-apps#webpage",
+        "url": "https://www.settleloans.in/how-to-settle-7-day-loan-apps",
         "name": "How to Settle 7-Day Loan Apps in India | SettleLoans",
         "description": "Exhaustive legal and technical guide to dealing with illegal 7-day loan apps in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-settle-7-day-loan-apps#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-settle-7-day-loan-apps#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-settle-7-day-loan-apps#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-settle-7-day-loan-apps#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "7-Day Loan Settlement",
-            "item": "https://settleloans.in/how-to-settle-7-day-loan-apps"
+            "item": "https://www.settleloans.in/how-to-settle-7-day-loan-apps"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-settle-7-day-loan-apps#article",
+        "@id": "https://www.settleloans.in/how-to-settle-7-day-loan-apps#article",
         "headline": "How to Settle 7-Day Loan Apps: The ultimate 5000-Word Survival & Legal Guide",
         "description": "The most detailed resource in India on handling illegal loan apps, data breaches, and recovery extortion.",
         "author": { "@type": "Organization", "name": "SettleLoans Legal Team" },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+          "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
         },
         "datePublished": "2024-04-18",
         "dateModified": "2024-04-18"

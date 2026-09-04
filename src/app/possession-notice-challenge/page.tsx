@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Possession Notice Challenge | Your Legal Shield Against SARFAESI Property Takedown",
   description: "Received a SARFAESI possession notice? Learn how to challenge it legally in the DRT. Protect your home from bank auctions with our comprehensive guide on Section 13(2), 13(4), and 17 rights.",
   alternates: {
-    canonical: "https://settleloans.in/possession-notice-challenge",
+    canonical: "https://www.settleloans.in/possession-notice-challenge",
   },
 };
 
@@ -16,34 +16,34 @@ export default function PossessionNoticeChallengePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/possession-notice-challenge#webpage",
-        "url": "https://settleloans.in/possession-notice-challenge",
+        "@id": "https://www.settleloans.in/possession-notice-challenge#webpage",
+        "url": "https://www.settleloans.in/possession-notice-challenge",
         "name": "Possession Notice Challenge | Your Legal Shield Against SARFAESI Property Takedown",
         "description": "Comprehensive guide to challenging bank possession notices under the SARFAESI Act, filing SA in DRT, and obtaining stay orders.",
-        "breadcrumb": { "@id": "https://settleloans.in/possession-notice-challenge#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/possession-notice-challenge#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/possession-notice-challenge#breadcrumb",
+        "@id": "https://www.settleloans.in/possession-notice-challenge#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Possession Notice Challenge",
-            "item": "https://settleloans.in/possession-notice-challenge"
+            "item": "https://www.settleloans.in/possession-notice-challenge"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/possession-notice-challenge#article",
+        "@id": "https://www.settleloans.in/possession-notice-challenge#article",
         "headline": "Possession Notice Challenge: How to Protect Your Property from Bank Auctions",
         "description": "Discover your legal rights under the SARFAESI Act and learn how to challenge a possession notice in the Debt Recovery Tribunal (DRT).",
         "author": {
@@ -55,16 +55,16 @@ export default function PossessionNoticeChallengePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-22",
         "dateModified": "2024-03-22",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/possession-notice-challenge#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/possession-notice-challenge#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/possession-notice-challenge#product",
+        "@id": "https://www.settleloans.in/possession-notice-challenge#product",
         "name": "Possession Notice Legal Support Information",
         "description": "Expert insights into SARFAESI Act rights and DRT challenge procedures.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function PossessionNoticeChallengePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/possession-notice-challenge#faq",
+        "@id": "https://www.settleloans.in/possession-notice-challenge#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "What is Credit Appraisal Process in Banks? Complete Guide",
   description: "Ever wonder how banks secretly grade you before rejecting your loan? Step inside the rigid credit appraisal process and learn how banks approve loans in India.",
   alternates: {
-    canonical: "https://settleloans.in/what-is-credit-appraisal",
+    canonical: "https://www.settleloans.in/what-is-credit-appraisal",
   },
 };
 
@@ -17,34 +17,34 @@ export default function CreditAppraisalPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-is-credit-appraisal#webpage",
-        "url": "https://settleloans.in/what-is-credit-appraisal",
+        "@id": "https://www.settleloans.in/what-is-credit-appraisal#webpage",
+        "url": "https://www.settleloans.in/what-is-credit-appraisal",
         "name": "What is Credit Appraisal Process in Banks? Complete Guide",
         "description": "Ever wonder how banks secretly grade you before rejecting your loan? Step inside the rigid 'Credit Appraisal' process.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-is-credit-appraisal#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-is-credit-appraisal#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-is-credit-appraisal#breadcrumb",
+        "@id": "https://www.settleloans.in/what-is-credit-appraisal#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Credit Appraisal",
-            "item": "https://settleloans.in/what-is-credit-appraisal"
+            "item": "https://www.settleloans.in/what-is-credit-appraisal"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-is-credit-appraisal#article",
+        "@id": "https://www.settleloans.in/what-is-credit-appraisal#article",
         "headline": "What is Credit Appraisal Process in Banks? Complete Guide",
         "description": "Learn exactly how banks evaluate your profile during the credit appraisal process, including the 5 C's of credit and how to improve your approval chances.",
         "author": {
@@ -56,22 +56,22 @@ export default function CreditAppraisalPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-24",
         "dateModified": "2024-07-24",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-is-credit-appraisal#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-is-credit-appraisal#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-is-credit-appraisal#product",
+        "@id": "https://www.settleloans.in/what-is-credit-appraisal#product",
         "name": "Credit Profile Assessment Service",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert credit profile assessment to help you understand your loan eligibility and fix issues causing loan rejections.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function CreditAppraisalPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-is-credit-appraisal#faq",
+        "@id": "https://www.settleloans.in/what-is-credit-appraisal#faq",
         "mainEntity": [
           {
             "@type": "Question",

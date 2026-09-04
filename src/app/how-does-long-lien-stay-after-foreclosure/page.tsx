@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "How Long Does a Lien Stay on Property After Foreclosure or Closure?",
   description: "Closed your loan but the bank's 'Lien' is still marked on your property or car? Discover the exact process to remove a bank lien after loan closure or foreclosure.",
   alternates: {
-    canonical: "https://settleloans.in/how-does-long-lien-stay-after-foreclosure",
+    canonical: "https://www.settleloans.in/how-does-long-lien-stay-after-foreclosure",
   },
 };
 
@@ -17,34 +17,34 @@ export default function LienRemovalPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-does-long-lien-stay-after-foreclosure#webpage",
-        "url": "https://settleloans.in/how-does-long-lien-stay-after-foreclosure",
+        "@id": "https://www.settleloans.in/how-does-long-lien-stay-after-foreclosure#webpage",
+        "url": "https://www.settleloans.in/how-does-long-lien-stay-after-foreclosure",
         "name": "How Long Does a Lien Stay on Property After Foreclosure or Closure?",
         "description": "Learn the exact process for RTO lien removal and how to remove a bank lien after loan closure or foreclosure on your property.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-does-long-lien-stay-after-foreclosure#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-does-long-lien-stay-after-foreclosure#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-does-long-lien-stay-after-foreclosure#breadcrumb",
+        "@id": "https://www.settleloans.in/how-does-long-lien-stay-after-foreclosure#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Lien Removal Guide",
-            "item": "https://settleloans.in/how-does-long-lien-stay-after-foreclosure"
+            "item": "https://www.settleloans.in/how-does-long-lien-stay-after-foreclosure"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-does-long-lien-stay-after-foreclosure#article",
+        "@id": "https://www.settleloans.in/how-does-long-lien-stay-after-foreclosure#article",
         "headline": "How Long Does a Lien Stay After Foreclosure? The Removal Guide",
         "description": "Closed your loan but the bank's 'Lien' is still marked on your property or car? Here is the exact process to remove it.",
         "author": {
@@ -56,22 +56,22 @@ export default function LienRemovalPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-23",
         "dateModified": "2024-07-23",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-does-long-lien-stay-after-foreclosure#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-does-long-lien-stay-after-foreclosure#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-does-long-lien-stay-after-foreclosure#product",
+        "@id": "https://www.settleloans.in/how-does-long-lien-stay-after-foreclosure#product",
         "name": "Lien Removal Legal Services",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to help you remove a bank lien after loan closure or foreclosure on your property or car.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function LienRemovalPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-does-long-lien-stay-after-foreclosure#faq",
+        "@id": "https://www.settleloans.in/how-does-long-lien-stay-after-foreclosure#faq",
         "mainEntity": [
           {
             "@type": "Question",

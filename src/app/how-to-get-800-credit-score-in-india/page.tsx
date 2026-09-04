@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How to Get 800 Credit Score in India | Step-by-Step 2024 Guide",
   description: "Master the secrets to achieving a CIBIL score of 800+ in India. Learn about credit utilization, payment history, and the exact steps to reach super-prime status.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-get-800-credit-score-in-india",
+    canonical: "https://www.settleloans.in/how-to-get-800-credit-score-in-india",
   },
 };
 
@@ -16,34 +16,34 @@ export default function CreditScore800Page() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-get-800-credit-score-in-india#webpage",
-        "url": "https://settleloans.in/how-to-get-800-credit-score-in-india",
+        "@id": "https://www.settleloans.in/how-to-get-800-credit-score-in-india#webpage",
+        "url": "https://www.settleloans.in/how-to-get-800-credit-score-in-india",
         "name": "How to Get 800 Credit Score in India | Step-by-Step 2024 Guide",
         "description": "A comprehensive guide on how to improve your CIBIL score to 800 and above in India, featuring expert tips and strategic credit management.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-get-800-credit-score-in-india#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-get-800-credit-score-in-india#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-get-800-credit-score-in-india#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-get-800-credit-score-in-india#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "How to Get 800 Credit Score in India",
-            "item": "https://settleloans.in/how-to-get-800-credit-score-in-india"
+            "item": "https://www.settleloans.in/how-to-get-800-credit-score-in-india"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-get-800-credit-score-in-india#article",
+        "@id": "https://www.settleloans.in/how-to-get-800-credit-score-in-india#article",
         "headline": "How to Get 800 Credit Score in India: The Ultimate Playbook",
         "description": "Unlock the benefits of an 800+ CIBIL score. This guide provides a detailed roadmap to building an excellent credit profile in the Indian financial market.",
         "author": {
@@ -55,16 +55,16 @@ export default function CreditScore800Page() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-27",
         "dateModified": "2024-03-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-get-800-credit-score-in-india#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-get-800-credit-score-in-india#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-get-800-credit-score-in-india#product",
+        "@id": "https://www.settleloans.in/how-to-get-800-credit-score-in-india#product",
         "name": "Credit Score Rebuilding Program",
         "description": "Expert-led program to help Indian borrowers improve their CIBIL score to 800 and above through strategic credit management.",
         "aggregateRating": {
@@ -84,7 +84,7 @@ export default function CreditScore800Page() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-get-800-credit-score-in-india#faq",
+        "@id": "https://www.settleloans.in/how-to-get-800-credit-score-in-india#faq",
         "mainEntity": [
           {
             "@type": "Question",

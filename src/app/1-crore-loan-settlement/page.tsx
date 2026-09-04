@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     title: '1 Crore Loan Settlement: Professional Help for Ultra-High Value Debt',
     description: 'Struggling with a 1 Crore loan? Learn about professional settlement strategies, SARFAESI defenses, and zonal bank committee approvals for massive debts.',
     alternates: {
-        canonical: 'https://settleloans.in/1-crore-loan-settlement',
+        canonical: 'https://www.settleloans.in/1-crore-loan-settlement',
     },
 };
 
@@ -19,36 +19,36 @@ export default function OneCroreLoanSettlement() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/1-crore-loan-settlement#webpage",
-                "url": "https://settleloans.in/1-crore-loan-settlement",
+                "@id": "https://www.settleloans.in/1-crore-loan-settlement#webpage",
+                "url": "https://www.settleloans.in/1-crore-loan-settlement",
                 "name": "1 Crore Loan Settlement | Strategic Resolution for High-Value Debt",
                 "description": "Expert advice on settling loans of 1 Crore and above in India, including SARFAESI defense and zonal approval navigation.",
-                "breadcrumb": { "@id": "https://settleloans.in/1-crore-loan-settlement#breadcrumb" }
+                "breadcrumb": { "@id": "https://www.settleloans.in/1-crore-loan-settlement#breadcrumb" }
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/1-crore-loan-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/1-crore-loan-settlement#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "1 Crore Loan Settlement",
-                        "item": "https://settleloans.in/1-crore-loan-settlement"
+                        "item": "https://www.settleloans.in/1-crore-loan-settlement"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/1-crore-loan-settlement#article",
+                "@id": "https://www.settleloans.in/1-crore-loan-settlement#article",
                 "headline": "1 Crore Loan Settlement: Navigating the Ultra-High Value Debt Landscape",
                 "description": "A comprehensive guide to settling 1 Crore plus loans in India, focusing on corporate debt restructuring and legal defenses.",
-                "image": "https://settleloans.in/images/1-crore-loan-settlement.jpg",
+                "image": "https://www.settleloans.in/images/1-crore-loan-settlement.jpg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans"
@@ -58,7 +58,7 @@ export default function OneCroreLoanSettlement() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo.png"
+                        "url": "https://www.settleloans.in/logo.png"
                     }
                 },
                 "datePublished": "2024-03-05",
@@ -66,7 +66,7 @@ export default function OneCroreLoanSettlement() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/1-crore-loan-settlement#faq",
+                "@id": "https://www.settleloans.in/1-crore-loan-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -112,7 +112,7 @@ export default function OneCroreLoanSettlement() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/1-crore-loan-settlement#product",
+                "@id": "https://www.settleloans.in/1-crore-loan-settlement#product",
                 "name": "High-Value Loan Settlement Services",
                 "description": "Expert legal representation and negotiation for settling loans of 1 Crore and above.",
                 "aggregateRating": {

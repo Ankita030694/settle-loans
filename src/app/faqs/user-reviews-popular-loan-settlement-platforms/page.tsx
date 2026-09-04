@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: "User Reviews: Popular Loan Settlement Platforms in India | 2025 Trust Report",
     description: "Read verified user reviews and success stories for India's leading loan settlement platforms. Compare SettleLoans, Freed, and others based on real customer experiences.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms",
+        canonical: "https://www.settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms",
     },
 };
 
@@ -21,40 +21,40 @@ export default function UserReviewsFAQ() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms#webpage",
-                "url": "https://settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms",
+                "@id": "https://www.settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms#webpage",
+                "url": "https://www.settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms",
                 "name": "User Reviews for Popular Loan Settlement Platforms",
                 "description": "A comprehensive compilation of user feedback and experience reports for debt resolution services in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://settleloans.in/faqs" },
-                    { "@type": "ListItem", "position": 3, "name": "User Reviews Hub", "item": "https://settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://www.settleloans.in/faqs" },
+                    { "@type": "ListItem", "position": 3, "name": "User Reviews Hub", "item": "https://www.settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms#article",
+                "@id": "https://www.settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms#article",
                 "headline": "User Reviews for Popular Loan Settlement Platforms in India",
                 "description": "Read verified success stories and critical feedback for India's leading debt settlement platforms.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": { "@type": "Organization", "name": "SettleLoans Analytics Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2025-02-22",
                 "dateModified": "2025-02-22"
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms#faq",
+                "@id": "https://www.settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms#faq",
                 "mainEntity": [
                     { "@type": "Question", "name": "Where can I find the most authentic reviews?", "acceptedAnswer": { "@type": "Answer", "text": "Platforms like Trustpilot, Google Maps (for physical offices), and the company's own verified success stories portal are the best places." } },
                     { "@type": "Question", "name": "Does a 1-star review mean a platform is bad?", "acceptedAnswer": { "@type": "Answer", "text": "Not necessarily. In this industry, banks sometimes refuse settlements for certain cases. An honest company that documents rejections is often more trustworthy." } },
@@ -63,7 +63,7 @@ export default function UserReviewsFAQ() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms#service",
+                "@id": "https://www.settleloans.in/faqs/user-reviews-popular-loan-settlement-platforms#service",
                 "name": "Loan Settlement Platform Comparison",
                 "description": "Expert analysis and user-driven ratings for India's debt resolution apps and services.",
                 "brand": { "@type": "Brand", "name": "SettleLoans" },

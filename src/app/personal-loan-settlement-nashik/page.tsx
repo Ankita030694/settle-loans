@@ -50,17 +50,17 @@ export const metadata: Metadata = {
     'cibil repair after settlement nashik',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-nashik',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-nashik',
   },
   openGraph: {
     title: 'Loan Settlement Services in Nashik: Legal Defense & 40%–70% OTS',
     description:
       'Advocate-led personal loan and business debt settlement in Nashik for auto-ancillary engineers, wine/agro-business owners, and salaried professionals across North Maharashtra.',
-    url: 'https://settleloans.in/personal-loan-settlement-nashik',
+    url: 'https://www.settleloans.in/personal-loan-settlement-nashik',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-nashik.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-nashik.jpg',
         width: 1200,
         height: 675,
         alt: 'Nashik Debt Settlement Framework: Advocate-Led Legal Defense and OTS Haircut Protocol',
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
     title: 'Loan Settlement Services in Nashik: Legal Defense & Lok Adalat Guide',
     description:
       'Comprehensive legal representation for bank loan defaults, Section 138/25 notices, DLSA Nashik Lok Adalat compromise decrees, and anti-harassment shielding in Nashik.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-nashik.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-nashik.jpg'],
   },
 };
 
@@ -83,84 +83,84 @@ const jsonLdGraph = {
   '@graph': [
     {
       '@type': 'WebPage',
-      '@id': 'https://settleloans.in/personal-loan-settlement-nashik#webpage',
-      url: 'https://settleloans.in/personal-loan-settlement-nashik',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-nashik#webpage',
+      url: 'https://www.settleloans.in/personal-loan-settlement-nashik',
       name: 'Loan Settlement Services in Nashik: Legal Defense & 40%–70% OTS',
       description:
         'Expert loan settlement services in Nashik by senior advocates. Defend against recovery harassment, Old Agra Road District Court notices, and secure 40%–70% OTS waivers under RBI rules.',
       breadcrumb: {
-        '@id': 'https://settleloans.in/personal-loan-settlement-nashik#breadcrumb',
+        '@id': 'https://www.settleloans.in/personal-loan-settlement-nashik#breadcrumb',
       },
       inLanguage: 'en-IN',
       isPartOf: {
         '@type': 'WebSite',
-        '@id': 'https://settleloans.in/#website',
+        '@id': 'https://www.settleloans.in/#website',
         name: 'SettleLoans',
-        url: 'https://settleloans.in',
+        url: 'https://www.settleloans.in',
       },
     },
     {
       '@type': 'BreadcrumbList',
-      '@id': 'https://settleloans.in/personal-loan-settlement-nashik#breadcrumb',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-nashik#breadcrumb',
       itemListElement: [
         {
           '@type': 'ListItem',
           position: 1,
           name: 'Home',
-          item: 'https://settleloans.in',
+          item: 'https://www.settleloans.in',
         },
         {
           '@type': 'ListItem',
           position: 2,
           name: 'Services & Legal Guides',
-          item: 'https://settleloans.in/services',
+          item: 'https://www.settleloans.in/services',
         },
         {
           '@type': 'ListItem',
           position: 3,
           name: 'Loan Settlement Services in Nashik',
-          item: 'https://settleloans.in/personal-loan-settlement-nashik',
+          item: 'https://www.settleloans.in/personal-loan-settlement-nashik',
         },
       ],
     },
     {
       '@type': 'Article',
-      '@id': 'https://settleloans.in/personal-loan-settlement-nashik#article',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-nashik#article',
       headline:
         'Loan Settlement Services in Nashik: Legal Debt Defense, Lok Adalat Representation & Bank OTS Waivers',
       description:
         'An exhaustive legal and financial manual for auto-ancillary engineers, wine/agro-business owners, and salaried professionals in Nashik. Learn District Court defense, Section 138/25 PSSA procedures, DLSA Nashik Lok Adalat settlement, and RBI compromise settlement frameworks.',
-      image: 'https://settleloans.in/images/infographics/personal-loan-settlement-nashik.jpg',
+      image: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-nashik.jpg',
       datePublished: '2026-09-02T10:00:00+05:30',
       dateModified: '2026-09-02T10:00:00+05:30',
       mainEntityOfPage: {
         '@type': 'WebPage',
-        '@id': 'https://settleloans.in/personal-loan-settlement-nashik#webpage',
+        '@id': 'https://www.settleloans.in/personal-loan-settlement-nashik#webpage',
       },
       author: {
         '@type': 'Person',
         name: 'Ashish Jhangra',
-        url: 'https://settleloans.in/authors/ashish-jhangra',
+        url: 'https://www.settleloans.in/authors/ashish-jhangra',
       },
       publisher: {
         '@type': 'Organization',
-        '@id': 'https://settleloans.in/#organization',
+        '@id': 'https://www.settleloans.in/#organization',
         name: 'SettleLoans',
-        url: 'https://settleloans.in',
+        url: 'https://www.settleloans.in',
         logo: {
           '@type': 'ImageObject',
-          url: 'https://settleloans.in/logo/logo.svg',
+          url: 'https://www.settleloans.in/logo/logo.svg',
         },
       },
     },
     {
       '@type': 'Organization',
-      '@id': 'https://settleloans.in/#organization',
+      '@id': 'https://www.settleloans.in/#organization',
       name: 'SettleLoans',
-      url: 'https://settleloans.in',
+      url: 'https://www.settleloans.in',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://settleloans.in/logo/logo.svg',
+        url: 'https://www.settleloans.in/logo/logo.svg',
       },
       sameAs: [
         'https://www.linkedin.com/company/settleloans',
@@ -170,12 +170,12 @@ const jsonLdGraph = {
     },
     {
       '@type': 'FinancialService',
-      '@id': 'https://settleloans.in/personal-loan-settlement-nashik#service',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-nashik#service',
       name: 'SettleLoans - Loan Settlement Services in Nashik & Legal Defense',
       description:
         'Specialized debt resolution, advocate-led bank negotiations, and District Lok Adalat representation for auto-ancillary engineers, wine/agro-business owners, and salaried borrowers across Nashik and North Maharashtra.',
-      url: 'https://settleloans.in/personal-loan-settlement-nashik',
-      image: 'https://settleloans.in/images/infographics/personal-loan-settlement-nashik.jpg',
+      url: 'https://www.settleloans.in/personal-loan-settlement-nashik',
+      image: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-nashik.jpg',
       telephone: '+91-99999-99999',
       priceRange: '₹₹',
       address: {
@@ -188,9 +188,9 @@ const jsonLdGraph = {
       },
       provider: {
         '@type': 'Organization',
-        '@id': 'https://settleloans.in/#organization',
+        '@id': 'https://www.settleloans.in/#organization',
         name: 'SettleLoans',
-        url: 'https://settleloans.in',
+        url: 'https://www.settleloans.in',
       },
       aggregateRating: {
         '@type': 'AggregateRating',
@@ -268,7 +268,7 @@ const jsonLdGraph = {
     },
     {
       '@type': 'FAQPage',
-      '@id': 'https://settleloans.in/personal-loan-settlement-nashik#faq',
+      '@id': 'https://www.settleloans.in/personal-loan-settlement-nashik#faq',
       mainEntity: [
         {
           '@type': 'Question',

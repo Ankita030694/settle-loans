@@ -47,16 +47,16 @@ export const metadata: Metadata = {
     'compound section 25 pssa criminal complaint',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/section-25-pssa-notice-loan-default',
+    canonical: 'https://www.settleloans.in/section-25-pssa-notice-loan-default',
   },
   openGraph: {
     title: 'Section 25 PSSA Notice for Loan Default: Legal Rights & Settlement Guide',
     description: 'Comprehensive legal breakdown for borrowers facing a Section 25 PSSA notice following an electronic NACH or auto-debit EMI bounce. Learn how to respond within 15 days, prevent magistrate warrants, and settle the debt.',
-    url: 'https://settleloans.in/section-25-pssa-notice-loan-default',
+    url: 'https://www.settleloans.in/section-25-pssa-notice-loan-default',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/section-25-pssa-notice-loan-default.jpg',
+        url: 'https://www.settleloans.in/images/infographics/section-25-pssa-notice-loan-default.jpg',
         width: 1200,
         height: 675,
         alt: 'Section 25 PSSA Notice Loan Default Legal Defense and Debt Settlement Framework',
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Section 25 PSSA Notice for Loan Default: Borrower Rights & Legal Defense',
     description: 'Received a criminal notice under Section 25 of the Payment and Settlement Systems Act? Discover why NACH bounce is not intentional fraud and how an advocate-drafted reply stops prosecution.',
-    images: ['https://settleloans.in/images/infographics/section-25-pssa-notice-loan-default.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/section-25-pssa-notice-loan-default.jpg'],
   },
 };
 
@@ -78,74 +78,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/section-25-pssa-notice-loan-default#webpage",
-      "url": "https://settleloans.in/section-25-pssa-notice-loan-default",
+      "@id": "https://www.settleloans.in/section-25-pssa-notice-loan-default#webpage",
+      "url": "https://www.settleloans.in/section-25-pssa-notice-loan-default",
       "name": "Section 25 PSSA Notice for Loan Default: Legal Rights & Settlement (2026)",
       "description": "Technical and legal guide for borrowers receiving Section 25 Payment and Settlement Systems Act notices after NACH EMI bounces. Understand criminal notice myths, 15-day response timelines, and OTS debt extinguishment.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/section-25-pssa-notice-loan-default#breadcrumb"
+        "@id": "https://www.settleloans.in/section-25-pssa-notice-loan-default#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/section-25-pssa-notice-loan-default#breadcrumb",
+      "@id": "https://www.settleloans.in/section-25-pssa-notice-loan-default#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Section 25 PSSA Notice Guide",
-          "item": "https://settleloans.in/section-25-pssa-notice-loan-default"
+          "item": "https://www.settleloans.in/section-25-pssa-notice-loan-default"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/section-25-pssa-notice-loan-default#article",
+      "@id": "https://www.settleloans.in/section-25-pssa-notice-loan-default#article",
       "headline": "Section 25 PSSA Notice for Loan Default: Borrower Rights, 15-Day Defense & OTS Extinguishment",
       "description": "An exhaustive legal manual detailing the statutory nature of Section 25 Payment and Settlement Systems Act notices, disproving criminal fraud allegations for NACH bounces, and demonstrating how compromise settlement quashes complaints.",
-      "image": "https://settleloans.in/images/infographics/section-25-pssa-notice-loan-default.jpg",
+      "image": "https://www.settleloans.in/images/infographics/section-25-pssa-notice-loan-default.jpg",
       "datePublished": "2026-08-24T12:00:00+05:30",
       "dateModified": "2026-08-24T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/section-25-pssa-notice-loan-default#webpage"
+        "@id": "https://www.settleloans.in/section-25-pssa-notice-loan-default#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/section-25-pssa-notice-loan-default#service",
+      "@id": "https://www.settleloans.in/section-25-pssa-notice-loan-default#service",
       "name": "SettleLoans - Section 25 PSSA Legal Defense & Debt Settlement Advisory",
       "description": "Nationwide legal defense and compromise settlement services for borrowers facing Section 25 PSSA and Section 138 NI Act notices for unpaid personal loans, credit cards, and business debts.",
-      "url": "https://settleloans.in/section-25-pssa-notice-loan-default",
-      "image": "https://settleloans.in/images/infographics/section-25-pssa-notice-loan-default.jpg",
+      "url": "https://www.settleloans.in/section-25-pssa-notice-loan-default",
+      "image": "https://www.settleloans.in/images/infographics/section-25-pssa-notice-loan-default.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -158,9 +158,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -234,7 +234,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/section-25-pssa-notice-loan-default#faq",
+      "@id": "https://www.settleloans.in/section-25-pssa-notice-loan-default#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -320,12 +320,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

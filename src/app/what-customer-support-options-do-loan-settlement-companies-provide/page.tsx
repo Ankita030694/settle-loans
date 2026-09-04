@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement Customer Support Options: Direct Access to Experts",
   description: "Explore the customer support options provided by loan settlement companies in India. From dedicated case managers to 24/7 legal support and harassment relief services.",
   alternates: {
-    canonical: "https://settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide",
+    canonical: "https://www.settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide",
   },
 };
 
@@ -17,34 +17,34 @@ export default function SupportOptionsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide#webpage",
-        "url": "https://settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide",
+        "@id": "https://www.settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide#webpage",
+        "url": "https://www.settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide",
         "name": "Customer Support Options in Loan Settlement Companies",
         "description": "Comprehensive guide to the support systems and legal assistance provided by loan settlement firms in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide#breadcrumb",
+        "@id": "https://www.settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Customer Support Options",
-            "item": "https://settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide"
+            "item": "https://www.settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide#article",
+        "@id": "https://www.settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide#article",
         "headline": "What Customer Support Options Do Loan Settlement Companies Provide?",
         "description": "A detailed look at the support channels, legal defense, and personalized assistance offered by leading loan settlement providers in India.",
         "author": {
@@ -56,16 +56,16 @@ export default function SupportOptionsPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-21",
         "dateModified": "2024-03-21",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide#product",
+        "@id": "https://www.settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide#product",
         "name": "Loan Settlement Support Services",
         "description": "Professional support and legal defense for borrowers in distress.",
         "aggregateRating": {
@@ -76,7 +76,7 @@ export default function SupportOptionsPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide#faq",
+        "@id": "https://www.settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide#faq",
         "mainEntity": [
           {
             "@type": "Question",

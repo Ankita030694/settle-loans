@@ -5,16 +5,16 @@ export const metadata: Metadata = {
   title: 'Can I Go to Jail for Loan Default in India? What Really Happens If You Stop Paying (2026)',
   description: 'Terrified of going to jail for personal loan default in India? Discover the legal reality: Civil debt vs criminal fraud, Supreme Court protections, Section 138/NACH facts, RBI anti-harassment rules, and debt settlement clean exits.',
   alternates: {
-    canonical: 'https://settleloans.in/can-i-go-to-jail-for-loan-default',
+    canonical: 'https://www.settleloans.in/can-i-go-to-jail-for-loan-default',
   },
   openGraph: {
     title: 'Can I Go to Jail for Loan Default in India? Legal Reality & Borrower Protection Guide',
     description: 'Stop living in fear of arrest. Learn why personal loan default is a civil breach of contract in India, how Supreme Court rulings protect honest borrowers, and how to settle debts safely.',
-    url: 'https://settleloans.in/can-i-go-to-jail-for-loan-default',
+    url: 'https://www.settleloans.in/can-i-go-to-jail-for-loan-default',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/can-i-go-to-jail-for-loan-default.jpg',
+        url: 'https://www.settleloans.in/images/infographics/can-i-go-to-jail-for-loan-default.jpg',
         width: 1200,
         height: 630,
         alt: 'Can I Go to Jail for Loan Default in India Legal Reality and Defense Blueprint',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Can I Go to Jail for Personal Loan Default in India? (2026 Legal Reality)',
     description: 'Definitive legal guide for distressed loan borrowers: Civil liability vs criminal fraud, RBI fair practice codes, Section 138 defense, and One-Time Settlement (OTS) options.',
-    images: ['https://settleloans.in/images/infographics/can-i-go-to-jail-for-loan-default.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/can-i-go-to-jail-for-loan-default.jpg'],
   },
 };
 
@@ -36,74 +36,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/can-i-go-to-jail-for-loan-default#webpage",
-      "url": "https://settleloans.in/can-i-go-to-jail-for-loan-default",
+      "@id": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default#webpage",
+      "url": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default",
       "name": "Can I Go to Jail for Loan Default in India? What Really Happens If You Stop Paying (2026)",
       "description": "Comprehensive legal and consumer rights guide addressing borrower fears of arrest and imprisonment for personal loan default in India. Details civil versus criminal liability, Section 138 NI Act, Section 25 PSSA, RBI anti-harassment mandates, and One-Time Settlement exits.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/can-i-go-to-jail-for-loan-default#breadcrumb"
+        "@id": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/can-i-go-to-jail-for-loan-default#breadcrumb",
+      "@id": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Can I Go to Jail for Loan Default",
-          "item": "https://settleloans.in/can-i-go-to-jail-for-loan-default"
+          "item": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/can-i-go-to-jail-for-loan-default#article",
+      "@id": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default#article",
       "headline": "Can I Go to Jail for Loan Default in India? What Happens If You Stop Paying Personal Loans",
       "description": "An exhaustive, authoritative legal breakdown of personal loan defaults in India. Explains why inability to pay is purely a civil dispute, dismantles recovery agent arrest threats, analyzes Section 138 NI Act and Section 25 PSSA, and details structured debt settlement as the ultimate clean exit.",
-      "image": "https://settleloans.in/images/infographics/can-i-go-to-jail-for-loan-default.jpg",
+      "image": "https://www.settleloans.in/images/infographics/can-i-go-to-jail-for-loan-default.jpg",
       "datePublished": "2026-08-20T13:23:20+05:30",
       "dateModified": "2026-08-20T13:23:20+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-i-go-to-jail-for-loan-default#webpage"
+        "@id": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/can-i-go-to-jail-for-loan-default#service",
+      "@id": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default#service",
       "name": "SettleLoans - Loan Default Legal Protection & Debt Settlement",
       "description": "Expert advocate representation, protection against recovery agent harassment, civil & Section 138 defense, and structured One-Time Settlement (OTS) negotiation for distressed personal loan borrowers across India.",
-      "url": "https://settleloans.in/can-i-go-to-jail-for-loan-default",
-      "image": "https://settleloans.in/images/infographics/can-i-go-to-jail-for-loan-default.jpg",
+      "url": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default",
+      "image": "https://www.settleloans.in/images/infographics/can-i-go-to-jail-for-loan-default.jpg",
       "telephone": "+91-98212-19819",
       "priceRange": "₹₹",
       "address": {
@@ -116,9 +116,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -192,7 +192,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/can-i-go-to-jail-for-loan-default#faq",
+      "@id": "https://www.settleloans.in/can-i-go-to-jail-for-loan-default#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -278,12 +278,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

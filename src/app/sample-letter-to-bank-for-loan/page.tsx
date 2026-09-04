@@ -10,22 +10,22 @@ export default function SampleLetterToBankForLoanPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/sample-letter-to-bank-for-loan#article",
+                "@id": "https://www.settleloans.in/sample-letter-to-bank-for-loan#article",
                 "headline": "Sample Letter to Bank for Loan: Complete Guide and Templates",
                 "description": "Learn how to write the perfect sample letter to bank for loan. Explore templates for personal, business, home, and education loans with expert tips.",
-                "image": "https://settleloans.in/images/sample-letter-to-bank-for-loan.jpg",
+                "image": "https://www.settleloans.in/images/sample-letter-to-bank-for-loan.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-05-07",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/sample-letter-to-bank-for-loan" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/sample-letter-to-bank-for-loan" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/sample-letter-to-bank-for-loan#product",
+                "@id": "https://www.settleloans.in/sample-letter-to-bank-for-loan#product",
                 "name": "Expert Loan Application Guidance",
                 "description": "Comprehensive guidance on drafting the perfect letter to bank for loan approval.",
                 "aggregateRating": {
@@ -159,9 +159,9 @@ export default function SampleLetterToBankForLoanPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Resources", "item": "https://settleloans.in/resources" },
-                    { "@type": "ListItem", "position": 3, "name": "Sample Letter to Bank for Loan", "item": "https://settleloans.in/sample-letter-to-bank-for-loan" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Resources", "item": "https://www.settleloans.in/resources" },
+                    { "@type": "ListItem", "position": 3, "name": "Sample Letter to Bank for Loan", "item": "https://www.settleloans.in/sample-letter-to-bank-for-loan" }
                 ]
             }
         ]

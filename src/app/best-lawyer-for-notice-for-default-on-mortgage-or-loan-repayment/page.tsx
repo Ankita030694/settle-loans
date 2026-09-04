@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Best Lawyer for Notice for Default on Mortgage or Loan Repayment | Legal Help",
     description: "Received a default notice on your mortgage? Get expert legal help. Best lawyer for loan repayment default notices in India. SARFAESI & Recall notice defense.",
     alternates: {
-        canonical: "https://settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment",
+        canonical: "https://www.settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment",
     },
 };
 
@@ -18,34 +18,34 @@ export default function MortgageDefaultNoticePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment",
+                "@id": "https://www.settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment",
                 "name": "Best Lawyer for Notice for Default on Mortgage or Loan Repayment India",
                 "description": "Premium legal defense for borrowers who have received default notices for mortgage or business loans. Expert guidance on SARFAESI 13(2) and Recall notices.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Mortgage Default Notice Lawyer",
-                        "item": "https://settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment"
+                        "item": "https://www.settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment#article",
                 "headline": "Received a Mortgage Default Notice? Here is Your Comprehensive Legal Defense Guide",
                 "description": "Expert insights on how to legally respond to bank default notices, challenge NPA classification, and prevent property foreclosure in India.",
                 "author": {
@@ -57,16 +57,16 @@ export default function MortgageDefaultNoticePage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment#product",
                 "name": "Mortgage Foreclosure Legal Defence",
                 "description": "Defense services for borrowers facing SARFAESI proceedings and mortgage loan default notices.",
                 "aggregateRating": {
@@ -93,7 +93,7 @@ export default function MortgageDefaultNoticePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-notice-for-default-on-mortgage-or-loan-repayment#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

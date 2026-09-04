@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement with IARC | How to Manage Loan with No Job - SettleLoans",
   description: "Struggling with IARC loan settlement or can't pay EMI due to job loss? Learn the process of settling with International Asset Reconstruction Company and your legal rights.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement-with-iarc",
+    canonical: "https://www.settleloans.in/loan-settlement-with-iarc",
   },
 };
 
@@ -16,34 +16,34 @@ export default function IARCPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-with-iarc#webpage",
-        "url": "https://settleloans.in/loan-settlement-with-iarc",
+        "@id": "https://www.settleloans.in/loan-settlement-with-iarc#webpage",
+        "url": "https://www.settleloans.in/loan-settlement-with-iarc",
         "name": "Loan Settlement with IARC | How to Manage Loan with No Job",
         "description": "Comprehensive guide on settling loans with International Asset Reconstruction Company and managing debt during unemployment.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-with-iarc#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-with-iarc#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement-with-iarc#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement-with-iarc#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement with IARC",
-            "item": "https://settleloans.in/loan-settlement-with-iarc"
+            "item": "https://www.settleloans.in/loan-settlement-with-iarc"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement-with-iarc#article",
+        "@id": "https://www.settleloans.in/loan-settlement-with-iarc#article",
         "headline": "Loan Settlement with IARC: Complete Guide for Unemployed Borrowers",
         "description": "Detailed insights into the International Asset Reconstruction Company settlement process and financial survival strategies.",
         "author": {
@@ -55,16 +55,16 @@ export default function IARCPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2025-02-05",
         "dateModified": "2025-02-05",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-with-iarc#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-with-iarc#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement-with-iarc#faq",
+        "@id": "https://www.settleloans.in/loan-settlement-with-iarc#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -150,13 +150,13 @@ export default function IARCPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement-with-iarc#product",
+        "@id": "https://www.settleloans.in/loan-settlement-with-iarc#product",
         "name": "IARC Loan Settlement & Resolution",
         "description": "Expert assistance in settling loans acquired by International Asset Reconstruction Company (IARC).",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",

@@ -49,16 +49,16 @@ export const metadata: Metadata = {
     "cibil status after authentic settlement",
   ],
   alternates: {
-    canonical: "https://settleloans.in/how-to-verify-authentic-bank-settlement-letter",
+    canonical: "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter",
   },
   openGraph: {
     title: "How to Verify Authentic Bank Settlement Letter: 7 Forensic Checks to Avoid Fake OTS Scams",
     description: "Protect yourself from rogue collection agent scams. Comprehensive legal guide to verifying bank OTS sanction letters, official domain headers, Credit Committee seals, and RBI-mandated remittance protocols.",
-    url: "https://settleloans.in/how-to-verify-authentic-bank-settlement-letter",
+    url: "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter",
     siteName: "SettleLoans",
     images: [
       {
-        url: "https://settleloans.in/images/infographics/how-to-verify-authentic-bank-settlement-letter.jpg",
+        url: "https://www.settleloans.in/images/infographics/how-to-verify-authentic-bank-settlement-letter.jpg",
         width: 1200,
         height: 675,
         alt: "How to Verify Authentic Bank Settlement Letter Forensic Checklist",
@@ -71,7 +71,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "How to Verify Authentic Bank Settlement Letter: Stop Fake OTS Scams (2026)",
     description: "Critical E-E-A-T fraud protection manual: 7 forensic checks to verify bank loan settlement letters, spot rogue agent WhatsApp forgeries, and ensure safe debt discharge.",
-    images: ["https://settleloans.in/images/infographics/how-to-verify-authentic-bank-settlement-letter.jpg"],
+    images: ["https://www.settleloans.in/images/infographics/how-to-verify-authentic-bank-settlement-letter.jpg"],
   },
 };
 
@@ -80,74 +80,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/how-to-verify-authentic-bank-settlement-letter#webpage",
-      "url": "https://settleloans.in/how-to-verify-authentic-bank-settlement-letter",
+      "@id": "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter#webpage",
+      "url": "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter",
       "name": "How to Verify Authentic Bank Settlement Letter: 7 Forensic Checks to Avoid Fake OTS Scams (2026)",
       "description": "Learn how to verify a bank loan settlement letter authenticity. Discover 7 critical forensic checks, official domain email verification, branch seal checks, RBI safe remittance rules, and how to avoid fake WhatsApp OTS fraud.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/how-to-verify-authentic-bank-settlement-letter#breadcrumb"
+        "@id": "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/how-to-verify-authentic-bank-settlement-letter#breadcrumb",
+      "@id": "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Verify Bank Settlement Letter",
-          "item": "https://settleloans.in/how-to-verify-authentic-bank-settlement-letter"
+          "item": "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/how-to-verify-authentic-bank-settlement-letter#article",
+      "@id": "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter#article",
       "headline": "How to Verify Authentic Bank Settlement Letter: 7 Forensic Checks to Avoid Fake OTS Scams",
       "description": "An exhaustive technical and legal manual on how Indian borrowers can verify bank One-Time Settlement (OTS) sanction letters, detect rogue collection agent forgeries, and ensure lawful debt extinguishment under RBI directives.",
-      "image": "https://settleloans.in/images/infographics/how-to-verify-authentic-bank-settlement-letter.jpg",
+      "image": "https://www.settleloans.in/images/infographics/how-to-verify-authentic-bank-settlement-letter.jpg",
       "datePublished": "2026-08-26T10:30:00+05:30",
       "dateModified": "2026-08-26T10:30:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-verify-authentic-bank-settlement-letter#webpage"
+        "@id": "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/how-to-verify-authentic-bank-settlement-letter#service",
+      "@id": "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter#service",
       "name": "SettleLoans - Bank Settlement Letter Forensic Verification & Legal Advisory",
       "description": "Professional legal verification and debt settlement advisory helping borrowers authenticate bank OTS sanction letters, prevent collection fraud, and secure binding debt discharge under RBI rules.",
-      "url": "https://settleloans.in/how-to-verify-authentic-bank-settlement-letter",
-      "image": "https://settleloans.in/images/infographics/how-to-verify-authentic-bank-settlement-letter.jpg",
+      "url": "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter",
+      "image": "https://www.settleloans.in/images/infographics/how-to-verify-authentic-bank-settlement-letter.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -160,9 +160,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -236,7 +236,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/how-to-verify-authentic-bank-settlement-letter#faq",
+      "@id": "https://www.settleloans.in/how-to-verify-authentic-bank-settlement-letter#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -322,12 +322,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Legal Risks of Loan Default in India | Penalties, Court Cases & RBI Rules",
   description: "Understand the legal risks of defaulting on a loan in India without settlement. Explore RBI rules, Section 138 NI Act, SARFAESI Act, and how to protect yourself from legal action.",
   alternates: {
-    canonical: "https://settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement",
+    canonical: "https://www.settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LegalRisksLoanDefaultPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement#webpage",
-        "url": "https://settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement",
+        "@id": "https://www.settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement#webpage",
+        "url": "https://www.settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement",
         "name": "Legal Risks of Loan Default in India | Penalties, Court Cases & RBI Rules",
         "description": "A comprehensive guide on the legal consequences of loan default in India, covering SARFAESI, DRT, and Section 138.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement#breadcrumb",
+        "@id": "https://www.settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Legal Risks of Loan Default",
-            "item": "https://settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement"
+            "item": "https://www.settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement#article",
+        "@id": "https://www.settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement#article",
         "headline": "What Are the Legal Risks Associated With Defaulting on a Loan Without Settlement?",
         "description": "Deep dive into the legal and financial consequences of loan default in India and the importance of professional settlement.",
         "author": {
@@ -55,16 +55,16 @@ export default function LegalRisksLoanDefaultPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement#faq",
+        "@id": "https://www.settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -150,7 +150,7 @@ export default function LegalRisksLoanDefaultPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement#product",
+        "@id": "https://www.settleloans.in/what-are-the-legal-risks-associated-with-defaulting-on-a-loan-without-settlement#product",
         "name": "SettleLoans Legal Protection & Settlement Negotiation Services",
         "description": "Professional debt settlement and legal protection services for individuals facing loan recovery harassment, legal notices, and court cases.",
         "brand": {
@@ -174,7 +174,7 @@ export default function LegalRisksLoanDefaultPage() {
               "price": "0",
               "priceCurrency": "INR",
               "availability": "https://schema.org/InStock",
-              "url": "https://settleloans.in/contact"
+              "url": "https://www.settleloans.in/contact"
             }
           ]
         },

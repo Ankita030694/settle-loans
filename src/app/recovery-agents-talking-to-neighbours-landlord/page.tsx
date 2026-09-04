@@ -60,16 +60,16 @@ export const metadata: Metadata = {
     'one time settlement after recovery harassment'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/recovery-agents-talking-to-neighbours-landlord',
+    canonical: 'https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord',
   },
   openGraph: {
     title: 'Recovery Agents Harassing Neighbours & Landlord? Legal Rights, Privacy Laws & Defamation Remedies',
     description: 'Stop illegal residential collection harassment. Understand your rights under Supreme Court privacy rulings, RBI Fair Practices Code, and how advocates file criminal defamation notices against banks.',
-    url: 'https://settleloans.in/recovery-agents-talking-to-neighbours-landlord',
+    url: 'https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recovery-agents-talking-to-neighbours-landlord.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recovery-agents-talking-to-neighbours-landlord.jpg',
         width: 1200,
         height: 675,
         alt: 'Recovery Agents Harassing Neighbours and Landlord Legal Defenses Guide',
@@ -82,7 +82,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Recovery Agents Harassing Neighbours & Landlord? Legal Rights, Privacy Laws & Defamation Remedies',
     description: 'Facing social humiliation and eviction panic from collection agents contacting your landlord or neighbours? Discover statutory legal protections and defamation remedies.',
-    images: ['https://settleloans.in/images/infographics/recovery-agents-talking-to-neighbours-landlord.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recovery-agents-talking-to-neighbours-landlord.jpg'],
   },
 };
 
@@ -91,74 +91,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recovery-agents-talking-to-neighbours-landlord#webpage",
-      "url": "https://settleloans.in/recovery-agents-talking-to-neighbours-landlord",
+      "@id": "https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord#webpage",
+      "url": "https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord",
       "name": "Recovery Agents Harassing Neighbours & Landlord? Legal Rights, Privacy Laws & Defamation Remedies",
       "description": "Are bank recovery agents harassing your neighbours, building guards, or landlord? Learn Supreme Court privacy protections, Section 356 BNS defamation laws, and society trespass remedies.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recovery-agents-talking-to-neighbours-landlord#breadcrumb"
+        "@id": "https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recovery-agents-talking-to-neighbours-landlord#breadcrumb",
+      "@id": "https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Residential Harassment Legal Defense",
-          "item": "https://settleloans.in/recovery-agents-talking-to-neighbours-landlord"
+          "item": "https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recovery-agents-talking-to-neighbours-landlord#article",
+      "@id": "https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord#article",
       "headline": "Recovery Agents Talking to Neighbours & Landlord? Supreme Court Privacy Protections, Criminal Defamation & Society Trespass Injunctions",
       "description": "A comprehensive legal analysis on handling illegal residential debt collection, unauthorized neighbour communications, building guard interrogations, and landlord intimidation. Explains Privity of Contract, Puttaswamy privacy jurisprudence, RBI Fair Practices Code, Section 356 BNS / Section 500 IPC criminal defamation, and advocate OTS negotiation strategies.",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-talking-to-neighbours-landlord.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-talking-to-neighbours-landlord.jpg",
       "datePublished": "2026-08-31T10:30:00+05:30",
       "dateModified": "2026-08-31T10:30:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agents-talking-to-neighbours-landlord#webpage"
+        "@id": "https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recovery-agents-talking-to-neighbours-landlord#service",
+      "@id": "https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord#service",
       "name": "SettleLoans - Residential Harassment Defense & Debt Resolution Advisory",
       "description": "Specialized legal protection and financial dispute resolution for borrowers facing illegal residential collection harassment, unauthorized landlord disclosures, and coercive third-party shaming.",
-      "url": "https://settleloans.in/recovery-agents-talking-to-neighbours-landlord",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-talking-to-neighbours-landlord.jpg",
+      "url": "https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-talking-to-neighbours-landlord.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -171,9 +171,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -247,7 +247,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recovery-agents-talking-to-neighbours-landlord#faq",
+      "@id": "https://www.settleloans.in/recovery-agents-talking-to-neighbours-landlord#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -333,12 +333,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

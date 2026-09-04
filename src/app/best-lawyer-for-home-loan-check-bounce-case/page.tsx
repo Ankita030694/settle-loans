@@ -10,22 +10,22 @@ export default function HomeLoanCheckBouncePage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-home-loan-check-bounce-case#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-home-loan-check-bounce-case#article",
                 "headline": "Best Lawyer for Home Loan Check Bounce Case | Section 138 NI Act Defense",
                 "description": "Expert legal defense for home loan cheque bounce cases under Section 138 NI Act. We represent borrowers facing EMI defaults, security cheque misuse, and builder fraud cases.",
-                "image": "https://settleloans.in/images/home-loan-check-bounce.jpg",
+                "image": "https://www.settleloans.in/images/home-loan-check-bounce.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/best-lawyer-for-home-loan-check-bounce-case" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/best-lawyer-for-home-loan-check-bounce-case" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-home-loan-check-bounce-case#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-home-loan-check-bounce-case#product",
                 "name": "Home Loan Section 138 Legal Defense",
                 "description": "Criminal and civil legal representation for borrowers facing cheque bounce proceedings from banks and NBFCs.",
                 "aggregateRating": {
@@ -59,9 +59,9 @@ export default function HomeLoanCheckBouncePage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://settleloans.in/services" },
-                    { "@type": "ListItem", "position": 3, "name": "Home Loan Check Bounce Lawyer", "item": "https://settleloans.in/best-lawyer-for-home-loan-check-bounce-case" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://www.settleloans.in/services" },
+                    { "@type": "ListItem", "position": 3, "name": "Home Loan Check Bounce Lawyer", "item": "https://www.settleloans.in/best-lawyer-for-home-loan-check-bounce-case" }
                 ]
             }
         ]

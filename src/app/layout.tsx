@@ -17,6 +17,7 @@ const satoshi = localFont({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.settleloans.in"),
   title: "Loan Settlement Services - Debt Relief & Legal Assistance in India",
   description: "Professional loan settlement services to help you manage debt, handle recovery agents, and find a structured legal path to financial freedom. Expert help for personal, business, and credit card loans.",
   keywords: ["loan settlement", "debt settlement India", "debt relief services", "legal help for loan defaults", "bank loan settlement", "NPA settlement experts", "credit score improvement"],
@@ -29,16 +30,16 @@ export const metadata: Metadata = {
     telephone: false,
   },
   alternates: {
-    canonical: "https://settleloans.in", // Adjust to your actual domain
+    canonical: "https://www.settleloans.in", // Adjust to your actual domain
   },
   openGraph: {
     title: "Loan Settlement Services - Debt Relief & Legal Assistance",
     description: "Expert assistance for loan settlement and debt management. We help you deal with recovery agents and find a lawful way out of debt.",
-    url: "https://settleloans.in",
+    url: "https://www.settleloans.in",
     siteName: "SettleLoans",
     images: [
       {
-        url: "https://settleloans.in/og-image.jpg", // Ensure this image exists
+        url: "https://www.settleloans.in/og-image.jpg", // Ensure this image exists
         width: 1200,
         height: 630,
         alt: "SettleLoans - Professional Debt Settlement",
@@ -51,7 +52,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Loan Settlement Services - Debt Relief & Legal Assistance",
     description: "Expert assistance for loan settlement and debt management. We help you deal with recovery agents and find a lawful way out of debt.",
-    images: ["https://settleloans.in/twitter-image.jpg"], // Ensure this image exists
+    images: ["https://www.settleloans.in/twitter-image.jpg"], // Ensure this image exists
   },
   robots: {
     index: true,
@@ -75,8 +76,8 @@ export default function RootLayout({
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": "SettleLoans",
-    "url": "https://settleloans.in",
-    "logo": "https://settleloans.in/logo.png",
+    "url": "https://www.settleloans.in",
+    "logo": "https://www.settleloans.in/logo.png",
     "contactPoint": {
       "@type": "ContactPoint",
       "telephone": "+91-XXXXXXXXXX", // Update with actual contact

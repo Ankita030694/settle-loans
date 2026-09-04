@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Charities That Pay Off Debt in India | Direct Debt Relief & NGO Support",
   description: "Find charities and NGOs that help pay off debt in India. Explore interest-free microcredit, free debt counseling, and religious financial assistance programs. We are here to help you regain financial freedom.",
   alternates: {
-    canonical: "https://settleloans.in/charities-that-pay-off-debt-in-india",
+    canonical: "https://www.settleloans.in/charities-that-pay-off-debt-in-india",
   },
 };
 
@@ -16,34 +16,34 @@ export default function CharitiesDebtReliefPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/charities-that-pay-off-debt-in-india#webpage",
-        "url": "https://settleloans.in/charities-that-pay-off-debt-in-india",
+        "@id": "https://www.settleloans.in/charities-that-pay-off-debt-in-india#webpage",
+        "url": "https://www.settleloans.in/charities-that-pay-off-debt-in-india",
         "name": "Charities That Pay Off Debt in India | Direct Debt Relief & NGO Support",
         "description": "Comprehensive guide to charities, NGOs, and religious organizations providing debt relief and financial assistance in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/charities-that-pay-off-debt-in-india#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/charities-that-pay-off-debt-in-india#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/charities-that-pay-off-debt-in-india#breadcrumb",
+        "@id": "https://www.settleloans.in/charities-that-pay-off-debt-in-india#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Charities That Pay Off Debt in India",
-            "item": "https://settleloans.in/charities-that-pay-off-debt-in-india"
+            "item": "https://www.settleloans.in/charities-that-pay-off-debt-in-india"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/charities-that-pay-off-debt-in-india#article",
+        "@id": "https://www.settleloans.in/charities-that-pay-off-debt-in-india#article",
         "headline": "Charities That Pay Off Debt in India: A Path to Financial Freedom",
         "description": "Discover various NGOs, charities, and religious bodies that offer debt relief and financial counseling in India for those in distress.",
         "author": {
@@ -55,16 +55,16 @@ export default function CharitiesDebtReliefPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-26",
         "dateModified": "2024-02-26",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/charities-that-pay-off-debt-in-india#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/charities-that-pay-off-debt-in-india#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/charities-that-pay-off-debt-in-india#product",
+        "@id": "https://www.settleloans.in/charities-that-pay-off-debt-in-india#product",
         "name": "Debt Relief Information Services",
         "description": "Comprehensive guide to charities and NGOs providing debt relief in India.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function CharitiesDebtReliefPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/charities-that-pay-off-debt-in-india#faq",
+        "@id": "https://www.settleloans.in/charities-that-pay-off-debt-in-india#faq",
         "mainEntity": [
           {
             "@type": "Question",

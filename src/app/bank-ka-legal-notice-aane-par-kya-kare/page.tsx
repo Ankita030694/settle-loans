@@ -46,16 +46,16 @@ export const metadata: Metadata = {
     'how to stop civil court case for loan default'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/bank-ka-legal-notice-aane-par-kya-kare',
+    canonical: 'https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare',
   },
   openGraph: {
     title: 'Bank Ka Legal Notice Aane Par Kya Kare: 15-Day Legal Action Protocol',
     description: 'Received a bank demand notice or advocate notice by post? Discover why ignoring it leads to ex-parte court decrees and how a formal advocate reply initiates compromise settlement talks.',
-    url: 'https://settleloans.in/bank-ka-legal-notice-aane-par-kya-kare',
+    url: 'https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/bank-ka-legal-notice-aane-par-kya-kare.jpg',
+        url: 'https://www.settleloans.in/images/infographics/bank-ka-legal-notice-aane-par-kya-kare.jpg',
         width: 1200,
         height: 675,
         alt: 'Bank Ka Legal Notice Aane Par Kya Kare Legal Protocol Infographic',
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Bank Ka Legal Notice Aane Par Kya Kare: Defensive Action Guide',
     description: 'Step-by-step borrower roadmap: audit the 15-day window, draft an advocate reply under RBI rules, halt civil suits, and negotiate One-Time Settlement (OTS).',
-    images: ['https://settleloans.in/images/infographics/bank-ka-legal-notice-aane-par-kya-kare.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/bank-ka-legal-notice-aane-par-kya-kare.jpg'],
   },
 };
 
@@ -77,73 +77,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/bank-ka-legal-notice-aane-par-kya-kare#webpage",
-      "url": "https://settleloans.in/bank-ka-legal-notice-aane-par-kya-kare",
+      "@id": "https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare#webpage",
+      "url": "https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare",
       "name": "Bank Ka Legal Notice Aane Par Kya Kare: 15-Day Legal Action Protocol & Settlement Roadmap",
       "description": "An exhaustive guide explaining the legal procedures, borrower rights, advocate reply mechanisms, and dispute resolution protocols when a bank issues a legal demand notice.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/bank-ka-legal-notice-aane-par-kya-kare#breadcrumb"
+        "@id": "https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/bank-ka-legal-notice-aane-par-kya-kare#breadcrumb",
+      "@id": "https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Bank Ka Legal Notice Aane Par Kya Kare",
-          "item": "https://settleloans.in/bank-ka-legal-notice-aane-par-kya-kare"
+          "item": "https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/bank-ka-legal-notice-aane-par-kya-kare#article",
+      "@id": "https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare#article",
       "headline": "Bank Ka Legal Notice Aane Par Kya Kare: Legal Protocol, 15-Day Reply Window, and OTS Negotiation",
       "description": "Comprehensive legal and financial analysis of bank recovery notices under Indian law, detailing statutory protections under the Civil Procedure Code, RBI Master Directions, and debt settlement strategies.",
-      "image": "https://settleloans.in/images/infographics/bank-ka-legal-notice-aane-par-kya-kare.jpg",
+      "image": "https://www.settleloans.in/images/infographics/bank-ka-legal-notice-aane-par-kya-kare.jpg",
       "datePublished": "2026-08-26T09:00:00+05:30",
       "dateModified": "2026-08-26T09:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/bank-ka-legal-notice-aane-par-kya-kare#webpage"
+        "@id": "https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo/logo.svg",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo/logo.svg",
       "contactPoint": [
         {
           "@type": "ContactPoint",
@@ -156,11 +156,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/bank-ka-legal-notice-aane-par-kya-kare#service",
+      "@id": "https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare#service",
       "name": "SettleLoans Legal Notice Defence & Debt Settlement Advisory",
       "description": "Specialized banking law consultancy and advocate reply drafting service defending Indian borrowers against aggressive debt recovery notices, civil suits, and arbitrary loan demands.",
-      "url": "https://settleloans.in/bank-ka-legal-notice-aane-par-kya-kare",
-      "image": "https://settleloans.in/images/infographics/bank-ka-legal-notice-aane-par-kya-kare.jpg",
+      "url": "https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare",
+      "image": "https://www.settleloans.in/images/infographics/bank-ka-legal-notice-aane-par-kya-kare.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -173,9 +173,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -249,7 +249,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/bank-ka-legal-notice-aane-par-kya-kare#faq",
+      "@id": "https://www.settleloans.in/bank-ka-legal-notice-aane-par-kya-kare#faq",
       "mainEntity": [
         {
           "@type": "Question",

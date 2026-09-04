@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Application to Unblock Bank Account for Loan EMI | Legal Format",
   description: "Bank froze account illegally? Get the exact letter format to unfreeze bank account and unblock account for EMI payment before other cheques bounce.",
   alternates: {
-    canonical: "https://settleloans.in/application-to-unblock-bank-account-for-loan-emi",
+    canonical: "https://www.settleloans.in/application-to-unblock-bank-account-for-loan-emi",
   },
 };
 
@@ -17,34 +17,34 @@ export default function UnblockBankAccountPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/application-to-unblock-bank-account-for-loan-emi#webpage",
-        "url": "https://settleloans.in/application-to-unblock-bank-account-for-loan-emi",
+        "@id": "https://www.settleloans.in/application-to-unblock-bank-account-for-loan-emi#webpage",
+        "url": "https://www.settleloans.in/application-to-unblock-bank-account-for-loan-emi",
         "name": "Application to Unblock Bank Account for Loan EMI",
         "description": "Did the bank freeze your account, causing your other EMIs to bounce? Copy-paste this legal application to get it unblocked.",
-        "breadcrumb": { "@id": "https://settleloans.in/application-to-unblock-bank-account-for-loan-emi#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/application-to-unblock-bank-account-for-loan-emi#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/application-to-unblock-bank-account-for-loan-emi#breadcrumb",
+        "@id": "https://www.settleloans.in/application-to-unblock-bank-account-for-loan-emi#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Unblock Bank Account",
-            "item": "https://settleloans.in/application-to-unblock-bank-account-for-loan-emi"
+            "item": "https://www.settleloans.in/application-to-unblock-bank-account-for-loan-emi"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/application-to-unblock-bank-account-for-loan-emi#article",
+        "@id": "https://www.settleloans.in/application-to-unblock-bank-account-for-loan-emi#article",
         "headline": "Application to Unblock Bank Account for Loan EMI",
         "description": "If your bank froze your account illegally, use this letter format to unfreeze your bank account and resume EMI payments immediately.",
         "author": {
@@ -56,22 +56,22 @@ export default function UnblockBankAccountPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-08-15",
         "dateModified": "2024-08-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/application-to-unblock-bank-account-for-loan-emi#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/application-to-unblock-bank-account-for-loan-emi#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/application-to-unblock-bank-account-for-loan-emi#product",
+        "@id": "https://www.settleloans.in/application-to-unblock-bank-account-for-loan-emi#product",
         "name": "Bank Account Unfreeze Legal Notice Format",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expertly drafted application format and legal intervention to unblock accounts frozen illegally by banks due to loan defaults.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function UnblockBankAccountPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/application-to-unblock-bank-account-for-loan-emi#faq",
+        "@id": "https://www.settleloans.in/application-to-unblock-bank-account-for-loan-emi#faq",
         "mainEntity": [
           {
             "@type": "Question",

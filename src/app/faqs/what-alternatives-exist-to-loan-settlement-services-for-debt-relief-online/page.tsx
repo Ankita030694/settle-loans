@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     title: "Alternatives to Loan Settlement: Debt Relief & Consolidation Guide 2025",
     description: "Explore effective alternatives to loan settlement. Learn about debt consolidation, restructuring, credit counseling, and strategic repayment plans in India.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online",
+        canonical: "https://www.settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online",
     },
 };
 
@@ -19,36 +19,36 @@ export default function AlternativesToSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online#webpage",
-                "url": "https://settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online",
+                "@id": "https://www.settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online#webpage",
+                "url": "https://www.settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online",
                 "name": "Alternatives to Loan Settlement: Guide to Debt Relief",
                 "description": "Expert analysis of debt consolidation, restructuring, and strategic repayment methods. Find a path to debt freedom without settling.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://settleloans.in/faqs" },
-                    { "@type": "ListItem", "position": 3, "name": "Debt Relief Alternatives", "item": "https://settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://www.settleloans.in/faqs" },
+                    { "@type": "ListItem", "position": 3, "name": "Debt Relief Alternatives", "item": "https://www.settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online#article",
+                "@id": "https://www.settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online#article",
                 "headline": "What alternatives exist to loan settlement services for debt relief online?",
                 "description": "Discover high-authority alternatives to settling debt, including RBI restructuring, professional consolidation, and credit counseling.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": { "@type": "Organization", "name": "SettleLoans Financial Analysis Team" },
-                "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" } },
+                "publisher": { "@type": "Organization", "name": "SettleLoans", "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" } },
                 "datePublished": "2024-02-22",
                 "dateModified": "2024-02-22"
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online#faq",
+                "@id": "https://www.settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online#faq",
                 "mainEntity": [
                     { "@type": "Question", "name": "Is debt consolidation better than settlement?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, if you can afford the new EMI. Consolidation protects your credit score, while settlement damages it for several years." } },
                     { "@type": "Question", "name": "What is RBI debt restructuring?", "acceptedAnswer": { "@type": "Answer", "text": "It is a formal process where banks modify loan terms (EMI, tenure) to help borrowers during temporary financial hardship without a settlement tag." } },
@@ -57,7 +57,7 @@ export default function AlternativesToSettlementPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online#service",
+                "@id": "https://www.settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online#service",
                 "name": "Strategic Debt Relief Consultation",
                 "description": "Professional evaluation of all debt resolution options, including consolidation, restructuring, and settlement.",
                 "brand": { "@type": "Brand", "name": "SettleLoans" },

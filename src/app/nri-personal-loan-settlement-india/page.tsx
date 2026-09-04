@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'How NRI Can Settle Personal Loan in India: Remote OTS & Legal Defense (2026)',
   description: 'Can an NRI settle a personal loan in India remotely? Learn how to settle bank debt from abroad via Consular Power of Attorney (POA), stop airport arrest fears, handle Section 138, and secure a No Dues Certificate.',
   alternates: {
-    canonical: 'https://settleloans.in/nri-personal-loan-settlement-india',
+    canonical: 'https://www.settleloans.in/nri-personal-loan-settlement-india',
   },
   keywords: [
     'how nri can settle personal loan in india',
@@ -23,11 +23,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'How NRI Can Settle Personal Loan in India: Remote Settlement & Legal Defense',
     description: 'Living abroad with unpaid personal loans in India? Discover how to execute a remote Power of Attorney (POA), resolve airport LOC fears, negotiate One-Time Settlement (OTS), and get an official No Dues Certificate.',
-    url: 'https://settleloans.in/nri-personal-loan-settlement-india',
+    url: 'https://www.settleloans.in/nri-personal-loan-settlement-india',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/nri-personal-loan-settlement-india.jpg',
+        url: 'https://www.settleloans.in/images/infographics/nri-personal-loan-settlement-india.jpg',
         width: 1200,
         height: 630,
         alt: 'NRI Personal Loan Settlement in India Remote Legal Defense and OTS Blueprint',
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'NRI Personal Loan Settlement India: Settle Remotely via Power of Attorney (POA)',
     description: 'Comprehensive legal and financial guide for Non-Resident Indians to resolve defaulted personal loans, eliminate airport arrest anxiety, and negotiate One-Time Settlements from abroad.',
-    images: ['https://settleloans.in/images/infographics/nri-personal-loan-settlement-india.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/nri-personal-loan-settlement-india.jpg'],
   },
 };
 
@@ -49,74 +49,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/nri-personal-loan-settlement-india#webpage",
-      "url": "https://settleloans.in/nri-personal-loan-settlement-india",
+      "@id": "https://www.settleloans.in/nri-personal-loan-settlement-india#webpage",
+      "url": "https://www.settleloans.in/nri-personal-loan-settlement-india",
       "name": "How NRI Can Settle Personal Loan in India: Remote OTS & Legal Defense (2026)",
       "description": "Comprehensive legal and financial guide for Non-Resident Indians (NRIs) to settle unpaid personal loans and credit card debts in India remotely using Consular Power of Attorney, clarifying airport immigration rules, Section 138 defense, and One-Time Settlement.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/nri-personal-loan-settlement-india#breadcrumb"
+        "@id": "https://www.settleloans.in/nri-personal-loan-settlement-india#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/nri-personal-loan-settlement-india#breadcrumb",
+      "@id": "https://www.settleloans.in/nri-personal-loan-settlement-india#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "NRI Personal Loan Settlement India",
-          "item": "https://settleloans.in/nri-personal-loan-settlement-india"
+          "item": "https://www.settleloans.in/nri-personal-loan-settlement-india"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/nri-personal-loan-settlement-india#article",
+      "@id": "https://www.settleloans.in/nri-personal-loan-settlement-india#article",
       "headline": "How NRI Can Settle Personal Loan in India: Remote Resolution, Power of Attorney & Legal Defense Guide",
       "description": "An exhaustive analysis for Non-Resident Indians on settling defaulted personal loans in India. Explains remote legal representation via consular Power of Attorney, debunking airport arrest and Look Out Circular myths, RBI stressed asset provisioning, FEMA remittance rules, and obtaining official No Dues Certificates.",
-      "image": "https://settleloans.in/images/infographics/nri-personal-loan-settlement-india.jpg",
+      "image": "https://www.settleloans.in/images/infographics/nri-personal-loan-settlement-india.jpg",
       "datePublished": "2026-08-22T10:47:58+05:30",
       "dateModified": "2026-08-22T10:47:58+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/nri-personal-loan-settlement-india#webpage"
+        "@id": "https://www.settleloans.in/nri-personal-loan-settlement-india#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/nri-personal-loan-settlement-india#service",
+      "@id": "https://www.settleloans.in/nri-personal-loan-settlement-india#service",
       "name": "SettleLoans - NRI Debt Settlement & Cross-Border Legal Dispute Resolution",
       "description": "Specialized legal representation and remote One-Time Settlement (OTS) advisory for Non-Resident Indians facing defaulted personal loans, credit cards, and banking disputes in India.",
-      "url": "https://settleloans.in/nri-personal-loan-settlement-india",
-      "image": "https://settleloans.in/images/infographics/nri-personal-loan-settlement-india.jpg",
+      "url": "https://www.settleloans.in/nri-personal-loan-settlement-india",
+      "image": "https://www.settleloans.in/images/infographics/nri-personal-loan-settlement-india.jpg",
       "telephone": "+91-98212-19819",
       "priceRange": "₹₹",
       "address": {
@@ -129,9 +129,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -205,7 +205,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/nri-personal-loan-settlement-india#faq",
+      "@id": "https://www.settleloans.in/nri-personal-loan-settlement-india#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -291,12 +291,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

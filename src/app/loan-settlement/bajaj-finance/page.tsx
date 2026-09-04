@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Bajaj Finance Loan Settlement | Settle Bajaj Finserv Personal Loans & Credit Cards",
   description: "Struggling with Bajaj Finance debt? Learn the expert process for Bajaj Finserv loan settlement and EMI card OTS. Settle for 40-70% less and stop collection harassment.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/bajaj-finance",
+    canonical: "https://www.settleloans.in/loan-settlement/bajaj-finance",
   },
 };
 
@@ -27,13 +27,13 @@ export default function BajajFinanceSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo.png"
+            "url": "https://www.settleloans.in/logo.png"
           }
         },
         "datePublished": "2026-02-16",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://settleloans.in/loan-settlement/bajaj-finance"
+          "@id": "https://www.settleloans.in/loan-settlement/bajaj-finance"
         }
       },
       {
@@ -104,13 +104,13 @@ export default function BajajFinanceSettlementPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Product",
-            "@id": "https://settleloans.in/loan-settlement/bajaj-finance#service",
+            "@id": "https://www.settleloans.in/loan-settlement/bajaj-finance#service",
             "name": "Bajaj Finance Loan Settlement Service",
             "description": "Expert debt negotiation for Bajaj Finserv personal loans and EMI cards.",
             "provider": {
               "@type": "Organization",
               "name": "SettleLoans",
-              "url": "https://settleloans.in"
+              "url": "https://www.settleloans.in"
             },
             "aggregateRating": {
               "@type": "AggregateRating",

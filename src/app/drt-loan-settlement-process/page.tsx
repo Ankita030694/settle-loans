@@ -53,16 +53,16 @@ export const metadata: Metadata = {
     'recovery certificate execution drt'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/drt-loan-settlement-process',
+    canonical: 'https://www.settleloans.in/drt-loan-settlement-process',
   },
   openGraph: {
     title: 'DRT Loan Settlement Process in India: High-Ticket Legal Procedure, OA Defense & OTS Guide',
     description: 'Received a DRT summons or OA notice for debt over ₹20 Lakhs? Discover how advocates challenge bank claims, file interim stays, and negotiate a binding DRT-supervised One Time Settlement.',
-    url: 'https://settleloans.in/drt-loan-settlement-process',
+    url: 'https://www.settleloans.in/drt-loan-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/drt-loan-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/drt-loan-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'DRT Loan Settlement Process in India - Legal Procedure and Advocate Defense Guide',
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'DRT Loan Settlement Process: OA Defense & DRT-Supervised OTS Guide',
     description: 'Expert advocate guide on contesting DRT Original Applications, filing stay petitions, and securing a compromised One Time Settlement for loans over ₹20 Lakhs.',
-    images: ['https://settleloans.in/images/infographics/drt-loan-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/drt-loan-settlement-process.jpg'],
   },
 };
 
@@ -84,74 +84,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/drt-loan-settlement-process#webpage",
-      "url": "https://settleloans.in/drt-loan-settlement-process",
+      "@id": "https://www.settleloans.in/drt-loan-settlement-process#webpage",
+      "url": "https://www.settleloans.in/drt-loan-settlement-process",
       "name": "DRT Loan Settlement Process in India: High-Ticket Legal Procedure, OA Defense & OTS Guide (2026)",
       "description": "Master the DRT loan settlement process in India for debts exceeding ₹20 Lakhs. Learn how to contest bank Original Applications (OA), file interim stay petitions, leverage RDB Act protections, and secure a DRT-supervised One Time Settlement (OTS) with significant principal waivers.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/drt-loan-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/drt-loan-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/drt-loan-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/drt-loan-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "DRT Loan Settlement Process",
-          "item": "https://settleloans.in/drt-loan-settlement-process"
+          "item": "https://www.settleloans.in/drt-loan-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/drt-loan-settlement-process#article",
+      "@id": "https://www.settleloans.in/drt-loan-settlement-process#article",
       "headline": "DRT Loan Settlement Process in India: High-Ticket Legal Procedure, OA Defense & DRT-Supervised OTS Guide",
       "description": "An exhaustive legal guide on navigating Debt Recovery Tribunal (DRT) proceedings in India for loans over ₹20 Lakhs. Explains Section 19 RDB Act claims, SARFAESI parallel actions, interim stay applications, banking NPA provisioning formulas, and securing binding Consent Orders.",
-      "image": "https://settleloans.in/images/infographics/drt-loan-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/drt-loan-settlement-process.jpg",
       "datePublished": "2026-08-25T12:00:00+05:30",
       "dateModified": "2026-08-25T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/drt-loan-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/drt-loan-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/drt-loan-settlement-process#service",
+      "@id": "https://www.settleloans.in/drt-loan-settlement-process#service",
       "name": "SettleLoans - DRT Legal Defense & High-Value Loan Settlement Advisory",
       "description": "Specialized legal representation and institutional negotiation services for borrowers facing Debt Recovery Tribunal (DRT) summons, Original Applications (OA), SARFAESI possession notices, and high-value loan recovery suits exceeding ₹20 Lakhs across India.",
-      "url": "https://settleloans.in/drt-loan-settlement-process",
-      "image": "https://settleloans.in/images/infographics/drt-loan-settlement-process.jpg",
+      "url": "https://www.settleloans.in/drt-loan-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/drt-loan-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -164,9 +164,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -240,7 +240,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/drt-loan-settlement-process#faq",
+      "@id": "https://www.settleloans.in/drt-loan-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -326,12 +326,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

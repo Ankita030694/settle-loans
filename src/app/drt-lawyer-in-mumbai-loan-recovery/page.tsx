@@ -10,22 +10,22 @@ export default function MumbaiDrtLawyerPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/drt-lawyer-in-mumbai-loan-recovery#article",
+                "@id": "https://www.settleloans.in/drt-lawyer-in-mumbai-loan-recovery#article",
                 "headline": "Best DRT Lawyer in Mumbai for Loan Recovery Defense & SARFAESI Cases",
                 "description": "Expert DRT lawyers in Mumbai for debt recovery defense. We represent borrowers in DRT 1, 2, and 3 Mumbai and Vashi. Specialized in SARFAESI stays and DRAT appeals.",
-                "image": "https://settleloans.in/images/mumbai-drt-lawyer.jpg",
+                "image": "https://www.settleloans.in/images/mumbai-drt-lawyer.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/drt-lawyer-in-mumbai-loan-recovery" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/drt-lawyer-in-mumbai-loan-recovery" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/drt-lawyer-in-mumbai-loan-recovery#product",
+                "@id": "https://www.settleloans.in/drt-lawyer-in-mumbai-loan-recovery#product",
                 "name": "Mumbai DRT Legal Defense Service",
                 "description": "Comprehensive legal representation in Mumbai Debt Recovery Tribunals for NPA borrowers and businesses.",
                 "aggregateRating": {
@@ -59,9 +59,9 @@ export default function MumbaiDrtLawyerPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://settleloans.in/services" },
-                    { "@type": "ListItem", "position": 3, "name": "DRT Lawyer Mumbai", "item": "https://settleloans.in/drt-lawyer-in-mumbai-loan-recovery" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://www.settleloans.in/services" },
+                    { "@type": "ListItem", "position": 3, "name": "DRT Lawyer Mumbai", "item": "https://www.settleloans.in/drt-lawyer-in-mumbai-loan-recovery" }
                 ]
             }
         ]

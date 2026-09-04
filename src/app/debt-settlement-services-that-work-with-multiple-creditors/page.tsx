@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Debt Settlement Services That Work With Multiple Creditors | SettleLoans",
   description: "Comprehensive guide to debt settlement services in India for borrowers with multiple creditors. Learn about consolidation vs settlement, legal rights, and multi-lender negotiation.",
   alternates: {
-    canonical: "https://settleloans.in/debt-settlement-services-that-work-with-multiple-creditors",
+    canonical: "https://www.settleloans.in/debt-settlement-services-that-work-with-multiple-creditors",
   },
 };
 
@@ -59,39 +59,39 @@ export default function MultiCreditorPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/debt-settlement-services-that-work-with-multiple-creditors#webpage",
-        "url": "https://settleloans.in/debt-settlement-services-that-work-with-multiple-creditors",
+        "@id": "https://www.settleloans.in/debt-settlement-services-that-work-with-multiple-creditors#webpage",
+        "url": "https://www.settleloans.in/debt-settlement-services-that-work-with-multiple-creditors",
         "name": "Debt Settlement Services That Work With Multiple Creditors",
         "description": "Expert guide on managing multiple debts in India through professional settlement services.",
-        "breadcrumb": { "@id": "https://settleloans.in/debt-settlement-services-that-work-with-multiple-creditors#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/debt-settlement-services-that-work-with-multiple-creditors#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/debt-settlement-services-that-work-with-multiple-creditors#breadcrumb",
+        "@id": "https://www.settleloans.in/debt-settlement-services-that-work-with-multiple-creditors#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Multi-Creditor Services", "item": "https://settleloans.in/debt-settlement-services-that-work-with-multiple-creditors" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Multi-Creditor Services", "item": "https://www.settleloans.in/debt-settlement-services-that-work-with-multiple-creditors" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/debt-settlement-services-that-work-with-multiple-creditors#article",
+        "@id": "https://www.settleloans.in/debt-settlement-services-that-work-with-multiple-creditors#article",
         "headline": "Debt Settlement Services That Work With Multiple Creditors: A Comprehensive Guide",
         "description": "Managing multiple loans from different banks? Discover how professional debt settlement services can help you negotiate with all your creditors and clear your debt.",
         "author": { "@type": "Organization", "name": "SettleLoans Content Team" },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+          "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
         },
         "datePublished": "2024-03-16",
         "dateModified": "2024-03-16",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/debt-settlement-services-that-work-with-multiple-creditors#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/debt-settlement-services-that-work-with-multiple-creditors#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/debt-settlement-services-that-work-with-multiple-creditors#product",
+        "@id": "https://www.settleloans.in/debt-settlement-services-that-work-with-multiple-creditors#product",
         "name": "Multi-Creditor Debt Settlement Program",
         "description": "A structured program to negotiate with multiple banks and financial institutions for debt resolution.",
         "aggregateRating": {
@@ -118,7 +118,7 @@ export default function MultiCreditorPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/debt-settlement-services-that-work-with-multiple-creditors#faq",
+        "@id": "https://www.settleloans.in/debt-settlement-services-that-work-with-multiple-creditors#faq",
         "mainEntity": faqs.map(faq => ({
           "@type": "Question",
           "name": faq.q,

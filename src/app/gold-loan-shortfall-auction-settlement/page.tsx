@@ -52,16 +52,16 @@ export const metadata: Metadata = {
     'how to settle residual gold loan balance'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/gold-loan-shortfall-auction-settlement',
+    canonical: 'https://www.settleloans.in/gold-loan-shortfall-auction-settlement',
   },
   openGraph: {
     title: 'Gold Loan Shortfall Notice Settlement: Legal Defense & ₹0 Residual Debt Guide',
     description: 'Master the legal defense against gold loan shortfall notices. Discover how to challenge flawed auction procedures, uncap illegal penal interest, and secure an official ₹0 No Dues Certificate.',
-    url: 'https://settleloans.in/gold-loan-shortfall-auction-settlement',
+    url: 'https://www.settleloans.in/gold-loan-shortfall-auction-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/gold-loan-shortfall-auction-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/gold-loan-shortfall-auction-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Gold Loan Shortfall Notice Legal Defense and Settlement Guide',
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Gold Loan Shortfall Notice Settlement: Legal Protections & ₹0 Resolution',
     description: 'Lender auctioned your gold and demands residual shortfall? Understand RBI Fair Practices Code, contract law defenses, and how legal representation forces a complete waiver.',
-    images: ['https://settleloans.in/images/infographics/gold-loan-shortfall-auction-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/gold-loan-shortfall-auction-settlement.jpg'],
   },
 };
 
@@ -83,74 +83,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/gold-loan-shortfall-auction-settlement#webpage",
-      "url": "https://settleloans.in/gold-loan-shortfall-auction-settlement",
+      "@id": "https://www.settleloans.in/gold-loan-shortfall-auction-settlement#webpage",
+      "url": "https://www.settleloans.in/gold-loan-shortfall-auction-settlement",
       "name": "Gold Loan Shortfall Notice Settlement: Legal Defense & ₹0 Residual Debt Guide (2026)",
       "description": "Received a gold loan shortfall notice from Muthoot, Manappuram, or bank after auction? Learn your legal rights under RBI Master Directions, civil suit defenses under Order 37 CPC, and how to settle residual debt for ₹0.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/gold-loan-shortfall-auction-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/gold-loan-shortfall-auction-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/gold-loan-shortfall-auction-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/gold-loan-shortfall-auction-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Gold Loan Shortfall Notice Settlement Guide",
-          "item": "https://settleloans.in/gold-loan-shortfall-auction-settlement"
+          "item": "https://www.settleloans.in/gold-loan-shortfall-auction-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/gold-loan-shortfall-auction-settlement#article",
+      "@id": "https://www.settleloans.in/gold-loan-shortfall-auction-settlement#article",
       "headline": "Gold Loan Shortfall Notice Settlement: Legal Defenses, RBI Guidelines & Zero-Balance Resolution",
       "description": "An exhaustive legal analysis of post-auction gold loan shortfall demands in India. Explains auction procedural illegalities under RBI Master Directions, Section 176 of the Indian Contract Act, forensic loan account auditing, and advocate strategies to settle residual deficits for zero rupees.",
-      "image": "https://settleloans.in/images/infographics/gold-loan-shortfall-auction-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/gold-loan-shortfall-auction-settlement.jpg",
       "datePublished": "2026-08-26T10:00:00+05:30",
       "dateModified": "2026-08-26T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/gold-loan-shortfall-auction-settlement#webpage"
+        "@id": "https://www.settleloans.in/gold-loan-shortfall-auction-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/gold-loan-shortfall-auction-settlement#service",
+      "@id": "https://www.settleloans.in/gold-loan-shortfall-auction-settlement#service",
       "name": "SettleLoans - Gold Loan Shortfall Notice Defense & Debt Settlement Advisory",
       "description": "Specialized legal representation and financial negotiation services for borrowers facing post-auction gold loan deficit claims, recovery notices, and legal threats from NBFCs and commercial banks.",
-      "url": "https://settleloans.in/gold-loan-shortfall-auction-settlement",
-      "image": "https://settleloans.in/images/infographics/gold-loan-shortfall-auction-settlement.jpg",
+      "url": "https://www.settleloans.in/gold-loan-shortfall-auction-settlement",
+      "image": "https://www.settleloans.in/images/infographics/gold-loan-shortfall-auction-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -163,9 +163,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -239,7 +239,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/gold-loan-shortfall-auction-settlement#faq",
+      "@id": "https://www.settleloans.in/gold-loan-shortfall-auction-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -317,12 +317,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

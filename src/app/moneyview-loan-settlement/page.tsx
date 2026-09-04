@@ -54,16 +54,16 @@ export const metadata: Metadata = {
     'moneyview loan default cibil score',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/moneyview-loan-settlement',
+    canonical: 'https://www.settleloans.in/moneyview-loan-settlement',
   },
   openGraph: {
     title: 'MoneyView Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
     description: 'Struggling with defaulted MoneyView personal loans? Discover how to negotiate with Whizdm Finance and co-lending NBFCs, halt automated collection harassment, defend against legal notices, and secure a 50%–60% OTS haircut with an official zero-balance NDC.',
-    url: 'https://settleloans.in/moneyview-loan-settlement',
+    url: 'https://www.settleloans.in/moneyview-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/moneyview-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/moneyview-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'MoneyView Loan Settlement Process, NACH Bounce Defense, and OTS Haircut Blueprint',
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'MoneyView Loan Settlement Guide: Legal OTS & Haircuts',
     description: 'Technical and legal defense blueprint for resolving defaulted MoneyView app personal loans under RBI compromise settlement frameworks and Digital Lending Guidelines.',
-    images: ['https://settleloans.in/images/infographics/moneyview-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/moneyview-loan-settlement.jpg'],
   },
 };
 
@@ -85,74 +85,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/moneyview-loan-settlement#webpage",
-      "url": "https://settleloans.in/moneyview-loan-settlement",
+      "@id": "https://www.settleloans.in/moneyview-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/moneyview-loan-settlement",
       "name": "MoneyView Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)",
       "description": "Master the MoneyView personal loan settlement process. Learn how Whizdm Finance & partner NBFCs operate, stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA notices, and negotiate up to 60% OTS haircut under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/moneyview-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/moneyview-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/moneyview-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/moneyview-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "MoneyView Loan Settlement",
-          "item": "https://settleloans.in/moneyview-loan-settlement"
+          "item": "https://www.settleloans.in/moneyview-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/moneyview-loan-settlement#article",
+      "@id": "https://www.settleloans.in/moneyview-loan-settlement#article",
       "headline": "MoneyView Loan Settlement Process: OTS Rules, Anti-Harassment Legal Shield & 50-60% Haircut",
       "description": "An exhaustive technical and legal manual on resolving defaulted MoneyView personal loans, curbing aggressive tele-calling bots and WhatsApp intimidation, countering Section 25 PSSA notices, and executing a formal RBI-compliant One-Time Settlement with Whizdm Finance and partner NBFCs.",
-      "image": "https://settleloans.in/images/infographics/moneyview-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/moneyview-loan-settlement.jpg",
       "datePublished": "2026-08-25T12:00:00+05:30",
       "dateModified": "2026-08-25T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/moneyview-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/moneyview-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/moneyview-loan-settlement#service",
+      "@id": "https://www.settleloans.in/moneyview-loan-settlement#service",
       "name": "SettleLoans - MoneyView Loan Settlement & Legal Defense",
       "description": "Specialized legal debt advisory and negotiation services for borrowers facing default on MoneyView digital personal loans. Direct representation before Whizdm Finance and partner NBFC Stressed Asset Desks, anti-harassment defense, and structured One-Time Settlement execution.",
-      "url": "https://settleloans.in/moneyview-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/moneyview-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/moneyview-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/moneyview-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -165,9 +165,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -241,7 +241,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/moneyview-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/moneyview-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -327,12 +327,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

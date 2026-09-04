@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "How to Officially Submit a Loan Settlement Offer to Your Lender in India",
   description: "A step-by-step guide on officially submitting a loan settlement offer to banks or NBFCs in India. Learn about assessment, documentation, negotiation, and templates.",
   alternates: {
-    canonical: "https://settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender",
+    canonical: "https://www.settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender",
   },
 };
 
@@ -17,34 +17,34 @@ export default function SubmitLoanSettlementOfferPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender#webpage",
-        "url": "https://settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender",
+        "@id": "https://www.settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender#webpage",
+        "url": "https://www.settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender",
         "name": "How to Officially Submit a Loan Settlement Offer to Your Lender",
         "description": "Comprehensive guide on the formal process of proposing a loan settlement to financial institutions in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender#breadcrumb",
+        "@id": "https://www.settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "How to Submit Settlement Offer",
-            "item": "https://settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender"
+            "item": "https://www.settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender#article",
+        "@id": "https://www.settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender#article",
         "headline": "How to Officially Submit a Loan Settlement Offer to Your Lender: A Step-by-Step Guide",
         "description": "Master the art of bank negotiation and learn the exact steps to submit a professional loan settlement proposal in India.",
         "author": {
@@ -56,7 +56,7 @@ export default function SubmitLoanSettlementOfferPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-21",
@@ -65,12 +65,12 @@ export default function SubmitLoanSettlementOfferPage() {
       {
         "@type": "Organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
-        "logo": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in",
+        "logo": "https://www.settleloans.in/logo/logo.svg"
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender#product",
+        "@id": "https://www.settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender#product",
         "name": "Loan Settlement Consultation",
         "description": "Expert assistance in drafting and submitting professional loan settlement offers to Indian banks and NBFCs.",
         "aggregateRating": {
@@ -90,7 +90,7 @@ export default function SubmitLoanSettlementOfferPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender#faq",
+        "@id": "https://www.settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender#faq",
         "mainEntity": [
           {
             "@type": "Question",

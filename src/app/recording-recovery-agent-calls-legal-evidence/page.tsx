@@ -56,16 +56,16 @@ export const metadata: Metadata = {
     'admissibility of tape recorded conversation in court supreme court'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/recording-recovery-agent-calls-legal-evidence',
+    canonical: 'https://www.settleloans.in/recording-recovery-agent-calls-legal-evidence',
   },
   openGraph: {
     title: 'How to Record Recovery Agent Calls for Court Evidence: Admissibility & Section 65B',
     description: 'Comprehensive legal protocol on recording abusive recovery agent phone calls, preserving CCTV video, and authenticating electronic records under Section 65B IEA / Section 63 BSA for police FIRs and debt settlement.',
-    url: 'https://settleloans.in/recording-recovery-agent-calls-legal-evidence',
+    url: 'https://www.settleloans.in/recording-recovery-agent-calls-legal-evidence',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recording-recovery-agent-calls-legal-evidence.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recording-recovery-agent-calls-legal-evidence.jpg',
         width: 1200,
         height: 675,
         alt: 'Recording Recovery Agent Calls for Legal Evidence Infographic',
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Record Recovery Agent Calls for Court Evidence in India',
     description: 'Master the legal steps to record harassing recovery agent calls, secure Section 65B / Section 63 BSA certificates, file criminal complaints, and secure structured loan settlement.',
-    images: ['https://settleloans.in/images/infographics/recording-recovery-agent-calls-legal-evidence.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recording-recovery-agent-calls-legal-evidence.jpg'],
   },
 };
 
@@ -87,74 +87,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recording-recovery-agent-calls-legal-evidence#webpage",
-      "url": "https://settleloans.in/recording-recovery-agent-calls-legal-evidence",
+      "@id": "https://www.settleloans.in/recording-recovery-agent-calls-legal-evidence#webpage",
+      "url": "https://www.settleloans.in/recording-recovery-agent-calls-legal-evidence",
       "name": "How to Record Recovery Agent Calls for Court Evidence: Section 65B Guide",
       "description": "Comprehensive legal guide on capturing, preserving, and authenticating recovery agent audio recordings, CCTV video, and WhatsApp chats under Section 65B of the Indian Evidence Act and Section 63 of the Bharatiya Sakshya Adhiniyam.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recording-recovery-agent-calls-legal-evidence#breadcrumb"
+        "@id": "https://www.settleloans.in/recording-recovery-agent-calls-legal-evidence#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recording-recovery-agent-calls-legal-evidence#breadcrumb",
+      "@id": "https://www.settleloans.in/recording-recovery-agent-calls-legal-evidence#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Recording Recovery Agent Calls for Legal Evidence",
-          "item": "https://settleloans.in/recording-recovery-agent-calls-legal-evidence"
+          "item": "https://www.settleloans.in/recording-recovery-agent-calls-legal-evidence"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recording-recovery-agent-calls-legal-evidence#article",
+      "@id": "https://www.settleloans.in/recording-recovery-agent-calls-legal-evidence#article",
       "headline": "How to Record Recovery Agent Calls for Court Evidence: Legal Admissibility, Section 65B Certificate & Harassment Protection",
       "description": "An exhaustive manual for distressed borrowers on recording abusive collection calls, archiving home surveillance video, drafting statutory Section 65B certificates, and utilizing digital proof in court proceedings.",
-      "image": "https://settleloans.in/images/infographics/recording-recovery-agent-calls-legal-evidence.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recording-recovery-agent-calls-legal-evidence.jpg",
       "datePublished": "2026-08-26T10:00:00+05:30",
       "dateModified": "2026-08-26T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recording-recovery-agent-calls-legal-evidence#webpage"
+        "@id": "https://www.settleloans.in/recording-recovery-agent-calls-legal-evidence#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recording-recovery-agent-calls-legal-evidence#service",
+      "@id": "https://www.settleloans.in/recording-recovery-agent-calls-legal-evidence#service",
       "name": "SettleLoans - Digital Evidence Authentication & Debt Settlement Advisory",
       "description": "Strategic legal advisory providing electronic evidence forensics, Section 65B/63 BSA certification, criminal harassment defense, and structured One-Time Settlement (OTS) negotiations.",
-      "url": "https://settleloans.in/recording-recovery-agent-calls-legal-evidence",
-      "image": "https://settleloans.in/images/infographics/recording-recovery-agent-calls-legal-evidence.jpg",
+      "url": "https://www.settleloans.in/recording-recovery-agent-calls-legal-evidence",
+      "image": "https://www.settleloans.in/images/infographics/recording-recovery-agent-calls-legal-evidence.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -167,9 +167,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -243,7 +243,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recording-recovery-agent-calls-legal-evidence#faq",
+      "@id": "https://www.settleloans.in/recording-recovery-agent-calls-legal-evidence#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -313,12 +313,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

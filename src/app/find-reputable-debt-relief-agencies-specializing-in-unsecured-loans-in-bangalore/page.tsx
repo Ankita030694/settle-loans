@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Reputable Debt Relief Agencies in Bangalore | SettleLoans",
   description: "Find top-rated debt relief agencies in Bangalore specializing in unsecured loans. Expert legal help for personal loan and credit card settlement.",
   alternates: {
-    canonical: "https://settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore",
+    canonical: "https://www.settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore",
   },
 };
 
@@ -16,40 +16,40 @@ export default function BangaloreDebtReliefPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore#webpage",
-        "url": "https://settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore",
+        "@id": "https://www.settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore#webpage",
+        "url": "https://www.settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore",
         "name": "Reputable Debt Relief Agencies in Bangalore | SettleLoans",
         "description": "Find top-rated debt relief agencies in Bangalore specializing in unsecured loans. Expert legal help for personal loan and credit card settlement.",
-        "breadcrumb": { "@id": "https://settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore#breadcrumb",
+        "@id": "https://www.settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Debt Relief Bangalore",
-            "item": "https://settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore"
+            "item": "https://www.settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore#article",
+        "@id": "https://www.settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore#article",
         "headline": "Finding Reputable Debt Relief Agencies Specializing in Unsecured Loans in Bangalore",
         "description": "Discover top-rated debt relief agencies in Bangalore specializing in unsecured loans and legal negotiation.",
         "author": {
@@ -61,16 +61,16 @@ export default function BangaloreDebtReliefPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-18",
         "dateModified": "2024-03-18",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore#product",
+        "@id": "https://www.settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore#product",
         "name": "Debt Relief Bangalore Services",
         "description": "Professional debt settlement services for unsecured loans in Bangalore.",
         "aggregateRating": {
@@ -111,7 +111,7 @@ export default function BangaloreDebtReliefPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore#faq",
+        "@id": "https://www.settleloans.in/find-reputable-debt-relief-agencies-specializing-in-unsecured-loans-in-bangalore#faq",
         "mainEntity": [
           {
             "@type": "Question",

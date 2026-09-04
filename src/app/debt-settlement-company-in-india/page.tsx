@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Top Debt Settlement Company in India | Reduce Your Debt Today",
   description: "Looking for the best debt settlement company in India? Settleloans offers expert debt relief for personal loans and credit cards. Protect yourself from harassment.",
   alternates: {
-    canonical: "https://settleloans.in/debt-settlement-company-in-india",
+    canonical: "https://www.settleloans.in/debt-settlement-company-in-india",
   },
 };
 
@@ -16,34 +16,34 @@ export default function DebtSettlementCompanyIndiaPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/debt-settlement-company-in-india#webpage",
-        "url": "https://settleloans.in/debt-settlement-company-in-india",
+        "@id": "https://www.settleloans.in/debt-settlement-company-in-india#webpage",
+        "url": "https://www.settleloans.in/debt-settlement-company-in-india",
         "name": "Top Debt Settlement Company in India | Reduce Your Debt Today",
         "description": "Expert debt settlement company in India helping individuals settle personal loans and credit cards legally.",
-        "breadcrumb": { "@id": "https://settleloans.in/debt-settlement-company-in-india#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/debt-settlement-company-in-india#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/debt-settlement-company-in-india#breadcrumb",
+        "@id": "https://www.settleloans.in/debt-settlement-company-in-india#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Debt Settlement Company In India",
-            "item": "https://settleloans.in/debt-settlement-company-in-india"
+            "item": "https://www.settleloans.in/debt-settlement-company-in-india"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/debt-settlement-company-in-india#article",
+        "@id": "https://www.settleloans.in/debt-settlement-company-in-india#article",
         "headline": "Complete Guide to Finding the Best Debt Settlement Company in India",
         "description": "Detailed insights on how a debt settlement company in India works, reviews of top agencies, and how to become debt free.",
         "author": {
@@ -55,22 +55,22 @@ export default function DebtSettlementCompanyIndiaPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-01",
         "dateModified": "2024-03-05",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/debt-settlement-company-in-india#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/debt-settlement-company-in-india#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/debt-settlement-company-in-india#service",
+        "@id": "https://www.settleloans.in/debt-settlement-company-in-india#service",
         "name": "Debt Settlement Company in India",
         "description": "Professional debt negotiation and settlement company in India.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": "IN",
         "aggregateRating": {
@@ -104,7 +104,7 @@ export default function DebtSettlementCompanyIndiaPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/debt-settlement-company-in-india#faq",
+        "@id": "https://www.settleloans.in/debt-settlement-company-in-india#faq",
         "mainEntity": [
           {
             "@type": "Question",

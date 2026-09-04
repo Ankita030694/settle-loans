@@ -17,18 +17,18 @@ export const metadata: Metadata = {
     'rbi guidelines on multiple loan settlement'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/multiple-personal-loan-settlement',
+    canonical: 'https://www.settleloans.in/multiple-personal-loan-settlement',
   },
   openGraph: {
     title: 'How to Settle Multiple Personal Loans in India | Multi-Debt Resolution Guide',
     description: 'Drowning in multiple unsecured loans and credit cards? Learn how an expert settlement agency negotiates with all lenders simultaneously into a single manageable plan.',
-    url: 'https://settleloans.in/multiple-personal-loan-settlement',
+    url: 'https://www.settleloans.in/multiple-personal-loan-settlement',
     siteName: 'SettleLoans',
     locale: 'en_IN',
     type: 'article',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/best-personal-loan-settlement-company.jpg',
+        url: 'https://www.settleloans.in/images/infographics/best-personal-loan-settlement-company.jpg',
         width: 1200,
         height: 630,
         alt: 'How to Settle Multiple Personal Loans Simultaneously in India',
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Settle Multiple Personal Loans in India | SettleLoans',
     description: 'Complete commercial and legal guide on settling multiple personal loans and credit cards simultaneously with Indian banks and NBFCs.',
-    images: ['https://settleloans.in/images/infographics/best-personal-loan-settlement-company.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/best-personal-loan-settlement-company.jpg'],
   },
 };
 
@@ -48,73 +48,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/multiple-personal-loan-settlement#webpage",
-      "url": "https://settleloans.in/multiple-personal-loan-settlement",
+      "@id": "https://www.settleloans.in/multiple-personal-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/multiple-personal-loan-settlement",
       "name": "How to Settle Multiple Personal Loans in India | Multi-Debt Resolution Guide",
       "description": "Drowning in multiple personal loans and credit cards? Discover how to negotiate multiple lenders simultaneously into one manageable settlement plan. Full RBI legal guide.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/multiple-personal-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/multiple-personal-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/multiple-personal-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/multiple-personal-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Multiple Personal Loan Settlement",
-          "item": "https://settleloans.in/multiple-personal-loan-settlement"
+          "item": "https://www.settleloans.in/multiple-personal-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/multiple-personal-loan-settlement#article",
+      "@id": "https://www.settleloans.in/multiple-personal-loan-settlement#article",
       "headline": "How to Settle Multiple Personal Loans in India: The Complete Multi-Lender Resolution Guide",
       "description": "Comprehensive legal and commercial guide on settling multiple unsecured personal loans and credit cards across multiple banks and NBFCs simultaneously in India.",
-      "image": "https://settleloans.in/images/infographics/best-personal-loan-settlement-company.jpg",
+      "image": "https://www.settleloans.in/images/infographics/best-personal-loan-settlement-company.jpg",
       "datePublished": "2026-02-18T10:00:00+05:30",
       "dateModified": "2026-02-18T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/multiple-personal-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/multiple-personal-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Product",
-      "@id": "https://settleloans.in/multiple-personal-loan-settlement#product",
+      "@id": "https://www.settleloans.in/multiple-personal-loan-settlement#product",
       "name": "Multiple Personal Loan Settlement Program",
       "description": "Comprehensive legal advocacy and multi-lender debt negotiation program to resolve multiple unsecured personal loans, credit card balances, and fintech app debts across Indian banks and NBFCs.",
-      "image": "https://settleloans.in/images/infographics/best-personal-loan-settlement-company.jpg",
+      "image": "https://www.settleloans.in/images/infographics/best-personal-loan-settlement-company.jpg",
       "brand": {
         "@type": "Brand",
         "name": "SettleLoans"
@@ -191,7 +191,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/multiple-personal-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/multiple-personal-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -277,12 +277,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

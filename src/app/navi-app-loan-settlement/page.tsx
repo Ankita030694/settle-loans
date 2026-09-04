@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'navi loan no dues certificate ndc'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/navi-app-loan-settlement',
+    canonical: 'https://www.settleloans.in/navi-app-loan-settlement',
   },
   openGraph: {
     title: 'Navi App Personal Loan Settlement: OTS Rules, Bounce Fees & Legal Defense (2026)',
     description: 'Master Navi app personal loan settlement. Discover how to negotiate with Navi Finserv NBFC, stop repetitive NACH bounce penalties and automated collection calls, reply to legal notices, and secure a 50%–65% OTS haircut with zero balance NDC.',
-    url: 'https://settleloans.in/navi-app-loan-settlement',
+    url: 'https://www.settleloans.in/navi-app-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/navi-app-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/navi-app-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Navi App Personal Loan Settlement Process, NACH Bounce Defense, and OTS Haircut Blueprint',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Navi App Personal Loan Settlement Guide: Legal OTS & Haircuts',
     description: 'Technical and legal defense manual for settling defaulted Navi app personal loans up to ₹20 Lakhs under RBI compromise frameworks and Fair Practices Code.',
-    images: ['https://settleloans.in/images/infographics/navi-app-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/navi-app-loan-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/navi-app-loan-settlement#webpage",
-      "url": "https://settleloans.in/navi-app-loan-settlement",
+      "@id": "https://www.settleloans.in/navi-app-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/navi-app-loan-settlement",
       "name": "Navi App Personal Loan Settlement: OTS Rules, Bounce Fees & Legal Defense (2026)",
       "description": "Exhaustive legal guide to Navi app personal loan settlement. Learn how Navi Finserv NBFC lending works, stop automated calling & NACH bounce fees, handle Section 25 PSSA notices, and negotiate up to 65% OTS haircut under RBI guidelines.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/navi-app-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/navi-app-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/navi-app-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/navi-app-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Navi App Loan Settlement",
-          "item": "https://settleloans.in/navi-app-loan-settlement"
+          "item": "https://www.settleloans.in/navi-app-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/navi-app-loan-settlement#article",
+      "@id": "https://www.settleloans.in/navi-app-loan-settlement#article",
       "headline": "Navi App Personal Loan Settlement: OTS Process, NACH Bounce Defense & 50-65% Haircut",
       "description": "An exhaustive technical and legal manual on resolving defaulted Navi personal loans up to ₹20 Lakhs, curbing aggressive tele-calling bots, countering Section 25 PSSA notices, and executing a formal RBI-compliant One-Time Settlement with Navi Finserv Limited.",
-      "image": "https://settleloans.in/images/infographics/navi-app-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/navi-app-loan-settlement.jpg",
       "datePublished": "2026-08-24T13:00:00+05:30",
       "dateModified": "2026-08-24T13:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/navi-app-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/navi-app-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/navi-app-loan-settlement#service",
+      "@id": "https://www.settleloans.in/navi-app-loan-settlement#service",
       "name": "SettleLoans - Navi App Personal Loan Settlement & Legal Defense",
       "description": "Specialized legal debt advisory and negotiation services for borrowers facing default on Navi app personal loans and digital credit lines. Representation before Navi Finserv Stressed Asset Desks, anti-harassment defense, and structured One-Time Settlement execution.",
-      "url": "https://settleloans.in/navi-app-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/navi-app-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/navi-app-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/navi-app-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/navi-app-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/navi-app-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -292,12 +292,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

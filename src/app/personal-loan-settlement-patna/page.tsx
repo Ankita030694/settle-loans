@@ -45,16 +45,16 @@ export const metadata: Metadata = {
     'psu bank loan settlement patna gandhi maidan'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-patna',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-patna',
   },
   openGraph: {
     title: 'Loan Settlement Services in Patna, Bihar: SARB Notice Defense & Lok Adalat Guide',
     description: 'Struggling with unpaid personal loans or credit cards in Patna, Gaya, or Muzaffarpur? Learn how advocate-led OTS negotiations, SARB notice legal defense, and National Lok Adalat settlements can reduce your debt by 40% to 60%.',
-    url: 'https://settleloans.in/personal-loan-settlement-patna',
+    url: 'https://www.settleloans.in/personal-loan-settlement-patna',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-patna.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-patna.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Settlement Services in Patna Bihar Legal Resolution Guide',
@@ -67,7 +67,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement Services in Patna Bihar: Legal OTS & Lok Adalat Representation',
     description: 'Facing SARB recovery notices, Section 138 summons, or collection pressure in Bihar? Settle personal loans and credit card debt legally with advocate-led bank negotiations.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-patna.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-patna.jpg'],
   },
 };
 
@@ -76,79 +76,79 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-patna#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-patna",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-patna#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-patna",
       "name": "Loan Settlement Services in Patna Bihar | Top Debt Relief Lawyers",
       "description": "Expert loan settlement services in Patna, Bihar. Professional legal defense against PSU bank SARB notices, microfinance recovery harassment, and Lok Adalat OTS.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-patna#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-patna#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-patna#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-patna#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan Settlement",
-          "item": "https://settleloans.in/loan-settlement"
+          "item": "https://www.settleloans.in/loan-settlement"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Patna Bihar Loan Settlement",
-          "item": "https://settleloans.in/personal-loan-settlement-patna"
+          "item": "https://www.settleloans.in/personal-loan-settlement-patna"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-patna#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-patna#article",
       "headline": "Loan Settlement Services in Patna, Bihar: SARB Notice Defense, Lok Adalat & Bank OTS Guide",
       "description": "An exhaustive statutory and legal analysis of personal loan and unsecured debt settlement across Patna and Bihar. Explains PSU bank SARB procedures, Section 138 defense, BSLSA Lok Adalat awards, and RBI compromise settlement mandates.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-patna.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-patna.jpg",
       "datePublished": "2026-08-28T10:00:00+05:30",
       "dateModified": "2026-08-28T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-patna#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-patna#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo/logo.svg",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo/logo.svg",
       "sameAs": [
         "https://www.facebook.com/settleloans",
         "https://www.linkedin.com/company/settleloans",
@@ -164,11 +164,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-patna#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-patna#service",
       "name": "SettleLoans - Patna & Bihar Debt Resolution & Loan Settlement Advisory",
       "description": "Premier legal representation and debt settlement advisory for borrowers facing delinquent personal loans, credit card debt, PSU bank SARB notices, and microfinance recovery disputes across Patna, Gaya, Muzaffarpur, and Bihar.",
-      "url": "https://settleloans.in/personal-loan-settlement-patna",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-patna.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-patna",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-patna.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -181,9 +181,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -257,7 +257,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-patna#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-patna#faq",
       "mainEntity": [
         {
           "@type": "Question",

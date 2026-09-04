@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Business & Corporate Loan Matters India | IBC, NCLT & Debt Resolution",
     description: "Expert legal guidance on business corporate loan matters in India. Navigate IBC, NCLT proceedings, CIRP, and personal guarantor liability with our comprehensive technical guide.",
     alternates: {
-        canonical: "https://settleloans.in/business-corporate-loan-matters",
+        canonical: "https://www.settleloans.in/business-corporate-loan-matters",
     },
 };
 
@@ -16,34 +16,34 @@ export default function BusinessCorporateLoanPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/business-corporate-loan-matters#webpage",
-                "url": "https://settleloans.in/business-corporate-loan-matters",
+                "@id": "https://www.settleloans.in/business-corporate-loan-matters#webpage",
+                "url": "https://www.settleloans.in/business-corporate-loan-matters",
                 "name": "Business & Corporate Loan Matters India | IBC, NCLT & Debt Resolution",
                 "description": "Comprehensive technical guide to corporate loan resolution, IBC 2016, and NCLT procedures in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/business-corporate-loan-matters#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/business-corporate-loan-matters#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/business-corporate-loan-matters#breadcrumb",
+                "@id": "https://www.settleloans.in/business-corporate-loan-matters#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Business Corporate Loan Matters",
-                        "item": "https://settleloans.in/business-corporate-loan-matters"
+                        "item": "https://www.settleloans.in/business-corporate-loan-matters"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/business-corporate-loan-matters#article",
+                "@id": "https://www.settleloans.in/business-corporate-loan-matters#article",
                 "headline": "Business & Corporate Loan Matters in India: The Ultimate Resolution Guide",
                 "description": "Deep dive into the legal framework of corporate debt, including IBC 2016, NCLT processes, and strategic recovery defense.",
                 "author": {
@@ -55,16 +55,16 @@ export default function BusinessCorporateLoanPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-06",
                 "dateModified": "2024-03-06",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/business-corporate-loan-matters#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/business-corporate-loan-matters#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/business-corporate-loan-matters#product",
+                "@id": "https://www.settleloans.in/business-corporate-loan-matters#product",
                 "name": "Corporate Debt Advisory Services",
                 "description": "Professional legal advisory for corporate insolvency, NCLT cases, and bank debt resolution.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function BusinessCorporateLoanPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/business-corporate-loan-matters#faq",
+                "@id": "https://www.settleloans.in/business-corporate-loan-matters#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Auction Notice Challenge | Your Legal Shield Against Bank Auctions in India",
   description: "Received an auction notice? Learn how to challenge bank auctions under the SARFAESI Act, protect your property rights, and file for a stay in the DRT. Your complete guide to Rule 8(6) and Rule 9(1).",
   alternates: {
-    canonical: "https://settleloans.in/auction-notice-challenge",
+    canonical: "https://www.settleloans.in/auction-notice-challenge",
   },
 };
 
@@ -16,34 +16,34 @@ export default function AuctionNoticeChallengePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/auction-notice-challenge#webpage",
-        "url": "https://settleloans.in/auction-notice-challenge",
+        "@id": "https://www.settleloans.in/auction-notice-challenge#webpage",
+        "url": "https://www.settleloans.in/auction-notice-challenge",
         "name": "Auction Notice Challenge | Your Legal Shield Against Bank Auctions in India",
         "description": "Comprehensive legal guide on challenging bank auction notices issued under the SARFAESI Act, filing Securitisation Applications in DRT, and obtaining stay orders.",
-        "breadcrumb": { "@id": "https://settleloans.in/auction-notice-challenge#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/auction-notice-challenge#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/auction-notice-challenge#breadcrumb",
+        "@id": "https://www.settleloans.in/auction-notice-challenge#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Auction Notice Challenge",
-            "item": "https://settleloans.in/auction-notice-challenge"
+            "item": "https://www.settleloans.in/auction-notice-challenge"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/auction-notice-challenge#article",
+        "@id": "https://www.settleloans.in/auction-notice-challenge#article",
         "headline": "Auction Notice Challenge: How to Stop a Bank Auction Legally",
         "description": "Discover the procedural lapses and legal grounds to challenge a bank auction notice under the SARFAESI Act and save your property from being sold.",
         "author": {
@@ -55,16 +55,16 @@ export default function AuctionNoticeChallengePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-24",
         "dateModified": "2024-03-24",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/auction-notice-challenge#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/auction-notice-challenge#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/auction-notice-challenge#product",
+        "@id": "https://www.settleloans.in/auction-notice-challenge#product",
         "name": "Auction Notice Legal Support Information",
         "description": "Expert advice and strategic guidance on challenging SARFAESI auction notices.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function AuctionNoticeChallengePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/auction-notice-challenge#faq",
+        "@id": "https://www.settleloans.in/auction-notice-challenge#faq",
         "mainEntity": [
           {
             "@type": "Question",

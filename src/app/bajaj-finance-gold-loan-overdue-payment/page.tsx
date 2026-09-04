@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Bajaj Finance Gold Loan Overdue Payment Rules: Stop Auction',
   description: 'Overdue on your Bajaj Gold Loan? The clock is ticking before your pledged gold is auctioned. Learn your rights to stop the auction and understand NBFC gold auction rules.',
   alternates: {
-    canonical: 'https://settleloans.in/bajaj-finance-gold-loan-overdue-payment',
+    canonical: 'https://www.settleloans.in/bajaj-finance-gold-loan-overdue-payment',
   },
 };
 
@@ -37,7 +37,7 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
                 "@type": "WebPage",
                 "name": "Bajaj Finance Gold Loan Overdue Payment Rules",
                 "description": "Overdue on your Bajaj Gold Loan? The clock is ticking before your pledged gold is auctioned. Learn your rights to stop the auction.",
-                "url": "https://settleloans.in/bajaj-finance-gold-loan-overdue-payment"
+                "url": "https://www.settleloans.in/bajaj-finance-gold-loan-overdue-payment"
               },
               {
                 "@context": "https://schema.org",
@@ -47,13 +47,13 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
                     "@type": "ListItem",
                     "position": 1,
                     "name": "Home",
-                    "item": "https://settleloans.in"
+                    "item": "https://www.settleloans.in"
                   },
                   {
                     "@type": "ListItem",
                     "position": 2,
                     "name": "Bajaj Finance Gold Loan Overdue Payment Rules",
-                    "item": "https://settleloans.in/bajaj-finance-gold-loan-overdue-payment"
+                    "item": "https://www.settleloans.in/bajaj-finance-gold-loan-overdue-payment"
                   }
                 ]
               },
@@ -71,12 +71,12 @@ export default function BajajFinanceGoldLoanOverduePaymentPage() {
                   "name": "SettleLoan",
                   "logo": {
                     "@type": "ImageObject",
-                    "url": "https://settleloans.in/logo.png"
+                    "url": "https://www.settleloans.in/logo.png"
                   }
                 },
                 "mainEntityOfPage": {
                   "@type": "WebPage",
-                  "@id": "https://settleloans.in/bajaj-finance-gold-loan-overdue-payment"
+                  "@id": "https://www.settleloans.in/bajaj-finance-gold-loan-overdue-payment"
                 }
               },
               {

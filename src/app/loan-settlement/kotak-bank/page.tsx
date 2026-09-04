@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Kotak Bank Loan Settlement | Settle Credit Card & Personal Loans - SettleLoans",
   description: "Struggling with Kotak Mahindra Bank debt? Learn the expert process for Kotak Bank loan settlement and credit card OTS. Settle for 40-70% less and stop harassment legally.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/kotak-bank",
+    canonical: "https://www.settleloans.in/loan-settlement/kotak-bank",
   },
 };
 
@@ -16,46 +16,46 @@ export default function KotakBankSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/kotak-bank#webpage",
-        "url": "https://settleloans.in/loan-settlement/kotak-bank",
+        "@id": "https://www.settleloans.in/loan-settlement/kotak-bank#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/kotak-bank",
         "name": "Kotak Bank Loan Settlement | Settle Credit Card & Personal Loans - SettleLoans",
         "description": "Expert guide to Kotak Bank loan settlement and credit card debt negotiation.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/kotak-bank#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/kotak-bank#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/kotak-bank#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/kotak-bank#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Kotak Bank Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement/kotak-bank"
+            "item": "https://www.settleloans.in/loan-settlement/kotak-bank"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/kotak-bank#service",
+        "@id": "https://www.settleloans.in/loan-settlement/kotak-bank#service",
         "name": "Kotak Bank Loan Settlement Service",
         "description": "Professional debt negotiation for Kotak Bank personal loans and credit cards.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -81,7 +81,7 @@ export default function KotakBankSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/kotak-bank#article",
+        "@id": "https://www.settleloans.in/loan-settlement/kotak-bank#article",
         "headline": "Ultimate Guide to Kotak Mahindra Bank Loan Settlement 2026",
         "description": "Comprehensive analysis of Kotak Bank settlement policies, OTS schemes, and legal debt negotiation strategies.",
         "author": {
@@ -93,16 +93,16 @@ export default function KotakBankSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-14",
         "dateModified": "2024-02-14",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/kotak-bank#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/kotak-bank#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/kotak-bank#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/kotak-bank#faq",
         "mainEntity": [
           {
             "@type": "Question",

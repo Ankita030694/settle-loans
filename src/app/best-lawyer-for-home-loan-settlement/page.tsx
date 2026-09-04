@@ -9,39 +9,39 @@ export default function HomeLoanLawyerPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-home-loan-settlement#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-home-loan-settlement",
+                "@id": "https://www.settleloans.in/best-lawyer-for-home-loan-settlement#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-home-loan-settlement",
                 "name": "Best Lawyer for Home Loan Settlement India | SARFAESI & DRT Defense",
                 "description": "Expert legal defense for home loan defaults. Challenge SARFAESI notices, stop bank auctions, and negotiate one-time settlements with top banking lawyers.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-home-loan-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-home-loan-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-home-loan-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-home-loan-settlement#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Home Loan Lawyer", "item": "https://settleloans.in/best-lawyer-for-home-loan-settlement" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Home Loan Lawyer", "item": "https://www.settleloans.in/best-lawyer-for-home-loan-settlement" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-home-loan-settlement#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-home-loan-settlement#article",
                 "headline": "Best Lawyer for Home Loan Settlement: Defending Your Property from Bank Auctions",
                 "description": "A 4500+ word master guide on home loan legal defense, SARFAESI Section 13(2) challenges, and strategic debt resolution for mortgaged assets.",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Advocacy Group" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-home-loan-settlement#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-home-loan-settlement#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-home-loan-settlement#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-home-loan-settlement#product",
                 "name": "Home Loan Legal Defense & Settlement Service",
                 "description": "Professional legal representation for borrowers facing home loan recovery actions and SARFAESI proceedings.",
                 "aggregateRating": {
@@ -61,7 +61,7 @@ export default function HomeLoanLawyerPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-home-loan-settlement#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-home-loan-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

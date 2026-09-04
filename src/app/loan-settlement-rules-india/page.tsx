@@ -9,39 +9,39 @@ export default function LoanSettlementRulesIndiaPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/loan-settlement-rules-india#webpage",
-                "url": "https://settleloans.in/loan-settlement-rules-india",
+                "@id": "https://www.settleloans.in/loan-settlement-rules-india#webpage",
+                "url": "https://www.settleloans.in/loan-settlement-rules-india",
                 "name": "Latest RBI Loan Settlement Rules in India 2024-25 | Master Guide",
                 "description": "The definitive guide to the legal rules governing loan settlement in India. Cover RBI's 2024 compromise settlement framework, cooling-off periods, and borrower rights.",
-                "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-rules-india#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-rules-india#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/loan-settlement-rules-india#breadcrumb",
+                "@id": "https://www.settleloans.in/loan-settlement-rules-india#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Loan Settlement Rules", "item": "https://settleloans.in/loan-settlement-rules-india" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Loan Settlement Rules", "item": "https://www.settleloans.in/loan-settlement-rules-india" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/loan-settlement-rules-india#article",
+                "@id": "https://www.settleloans.in/loan-settlement-rules-india#article",
                 "headline": "The Ultimate 4500+ Word Guide to RBI Loan Settlement Rules in India",
                 "description": "An exhaustive technical walkthrough of the June 2023 RBI framework, January 2025 ARC guidelines, and the constitutional rights of Indian borrowers.",
                 "author": { "@type": "Organization", "name": "SettleLoans Legal Research Wing" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-rules-india#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-rules-india#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/loan-settlement-rules-india#product",
+                "@id": "https://www.settleloans.in/loan-settlement-rules-india#product",
                 "name": "Legal Settlement Compliance Audit",
                 "description": "Expert audit of loan settlement offers against the latest RBI Board-approved policies and fair practice codes.",
                 "aggregateRating": {
@@ -61,7 +61,7 @@ export default function LoanSettlementRulesIndiaPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/loan-settlement-rules-india#faq",
+                "@id": "https://www.settleloans.in/loan-settlement-rules-india#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

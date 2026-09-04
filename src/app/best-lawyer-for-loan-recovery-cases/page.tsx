@@ -12,39 +12,39 @@ export default function LoanRecoveryCasesPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-recovery-cases#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-loan-recovery-cases",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-recovery-cases#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-loan-recovery-cases",
                 "name": "Best Lawyer for Loan Recovery Cases India | Lender Debt Recovery Expert",
                 "description": "Expert legal help for loan recovery in India. Resolve summary suits (Order 37 CPC), cheque bounce cases (Sec 138 NI Act), and SARFAESI actions for lenders. 4500+ word expert guide.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-loan-recovery-cases#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-loan-recovery-cases#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-recovery-cases#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-recovery-cases#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Loan Recovery Cases", "item": "https://settleloans.in/best-lawyer-for-loan-recovery-cases" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Loan Recovery Cases", "item": "https://www.settleloans.in/best-lawyer-for-loan-recovery-cases" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-recovery-cases#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-recovery-cases#article",
                 "headline": "Best Lawyer for Loan Recovery: Advanced Strategies for Lenders and Creditors in India",
                 "description": "Comprehensive legal guide on the loan recovery process, from demand notices to execution of stays and property auctions under SARFAESI and CPC.",
                 "author": { "@type": "Organization", "name": "SettleLoans Recovery Litigation Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-loan-recovery-cases#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-loan-recovery-cases#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-recovery-cases#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-recovery-cases#product",
                 "name": "Professional Loan Recovery Legal Service",
                 "description": "Comprehensive lender-side legal representation for recovering bad debts through fast-track courts and specialized recovery tribunals.",
                 "aggregateRating": {
@@ -71,7 +71,7 @@ export default function LoanRecoveryCasesPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-loan-recovery-cases#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-loan-recovery-cases#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

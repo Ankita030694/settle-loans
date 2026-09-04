@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement in Bihar | 3500+ Word Legal Guide",
   description: "Comprehensive 3500+ word guide to loan settlement in Bihar. Legal protection under Bihar Money Lenders Act, BSLSA Lok Adalat procedures, and debt recovery defenses in Patna & Gaya.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/bihar",
+    canonical: "https://www.settleloans.in/loan-settlement/bihar",
   },
 };
 
@@ -16,47 +16,47 @@ export default function BiharLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/bihar#webpage",
-        "url": "https://settleloans.in/loan-settlement/bihar",
+        "@id": "https://www.settleloans.in/loan-settlement/bihar#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/bihar",
         "name": "Professional Loan Settlement Bihar | Legal Guide - SettleLoans",
         "description": "Comprehensive word guide to loan settlement in Bihar. Legal protection under Bihar Money Lenders Act, BSLSA Lok Adalat procedures, and debt recovery defenses in Patna & Gaya.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/bihar#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/bihar#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/bihar#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/bihar#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/bihar#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/bihar#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Bihar",
-            "item": "https://settleloans.in/loan-settlement/bihar"
+            "item": "https://www.settleloans.in/loan-settlement/bihar"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/bihar#service",
+        "@id": "https://www.settleloans.in/loan-settlement/bihar#service",
         "name": "Bihar Loan Settlement Services",
         "description": "Professional debt negotiation and legal protection services for personal loans and credit cards in Patna, Gaya, and across Bihar.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Patna" },
@@ -93,7 +93,7 @@ export default function BiharLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/bihar#article",
+        "@id": "https://www.settleloans.in/loan-settlement/bihar#article",
         "headline": "Strategic Loan Settlement in Bihar: Legal Protections and Guide",
         "description": "The most comprehensive guide for Bihar residents on legal debt resolution, featuring Bihar Money Lenders Act, Public Demands Recovery Act, BSLSA Lok Adalat procedures, and banking recovery defenses.",
         "author": {
@@ -105,16 +105,16 @@ export default function BiharLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-03",
         "dateModified": "2024-02-03",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/bihar#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/bihar#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/bihar#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/bihar#faq",
         "mainEntity": [
           {
             "@type": "Question",

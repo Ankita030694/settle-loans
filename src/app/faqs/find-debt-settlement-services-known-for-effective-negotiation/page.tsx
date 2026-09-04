@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: "Find Debt Settlement Services Known for Effective Negotiation | Expert Guide",
     description: "Discover the best debt settlement services in India known for effective negotiation. Learn how top agencies like SettleLoans secure deep waivers from banks.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation",
+        canonical: "https://www.settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation",
     },
 };
 
@@ -20,43 +20,43 @@ export default function EffectiveNegotiationPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation#webpage",
-                "url": "https://settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation",
+                "@id": "https://www.settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation#webpage",
+                "url": "https://www.settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation",
                 "name": "Find Debt Settlement Services Known for Effective Negotiation | Professional Guide",
                 "description": "Expert analysis on finding debt settlement agencies with the best negotiation skills in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Effective Negotiation Services",
-                        "item": "https://settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation"
+                        "item": "https://www.settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation#article",
+                "@id": "https://www.settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation#article",
                 "headline": "Find Debt Settlement Services Known for Effective Negotiation",
                 "description": "Learn the art of choosing a debt settlement service that actually has the negotiation leverage required to deal with major Indian banks.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Editorial Team"
@@ -66,7 +66,7 @@ export default function EffectiveNegotiationPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-05-12",
@@ -74,7 +74,7 @@ export default function EffectiveNegotiationPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation#faq",
+                "@id": "https://www.settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -160,7 +160,7 @@ export default function EffectiveNegotiationPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation#service",
+                "@id": "https://www.settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation#service",
                 "name": "Premium Debt Negotiation Service",
                 "description": "Expert-led debt negotiation service specializing in high-value settlements with Indian public and private sector banks.",
                 "brand": {

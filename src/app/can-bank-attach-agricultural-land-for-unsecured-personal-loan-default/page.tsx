@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Can the Bank Attach Agricultural Land for an Unsecured Personal Loan Default?",
   description: "Learn how Section 60 of the CPC protects a farmer's agricultural land, farming implements, and cattle from being seized by banks for an unsecured loan default.",
   alternates: {
-    canonical: "https://settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default",
+    canonical: "https://www.settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default",
   },
 };
 
@@ -16,34 +16,34 @@ export default function AgriculturalLandAttachmentPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default#webpage",
-        "url": "https://settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default",
+        "@id": "https://www.settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default#webpage",
+        "url": "https://www.settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default",
         "name": "Can the Bank Attach Agricultural Land for an Unsecured Personal Loan Default?",
         "description": "A specific legal guide focusing on rural borrowers and farmers. Highlights absolute protections granted under Section 60 of the CPC regarding agricultural land.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default#breadcrumb",
+        "@id": "https://www.settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Agricultural Land Attachment Rules",
-            "item": "https://settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default"
+            "item": "https://www.settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default#article",
+        "@id": "https://www.settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default#article",
         "headline": "Can the Bank Attach Agricultural Land for an Unsecured Personal Loan Default?",
         "description": "Explains the absolute protections under Section 60 of the Civil Procedure Code against the attachment of a farmer's agricultural land and implements for personal loan recovery.",
         "author": {
@@ -55,22 +55,22 @@ export default function AgriculturalLandAttachmentPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-05-20",
         "dateModified": "2024-05-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default#product",
+        "@id": "https://www.settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default#product",
         "name": "Agricultural Land Defense Legal Services",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert civil and agricultural lawyers protecting farmers' ancestral land and implements from illegal bank seizure.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -119,7 +119,7 @@ export default function AgriculturalLandAttachmentPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default#faq",
+        "@id": "https://www.settleloans.in/can-bank-attach-agricultural-land-for-unsecured-personal-loan-default#faq",
         "mainEntity": [
           {
             "@type": "Question",

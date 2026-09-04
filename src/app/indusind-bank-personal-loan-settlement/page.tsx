@@ -52,16 +52,16 @@ export const metadata: Metadata = {
     'indusind bank pioneer account lien loan default'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/indusind-bank-personal-loan-settlement',
+    canonical: 'https://www.settleloans.in/indusind-bank-personal-loan-settlement',
   },
   openGraph: {
     title: 'IndusInd Bank Personal Loan Settlement: OTS Process, Haircut & Legal Guide (2026)',
     description: 'Learn how to settle an IndusInd Bank personal loan or credit card. Understand NPA provisioning rules, Section 25 PSSA defense, recovery agent conduct rules, and RBI compromise settlement frameworks.',
-    url: 'https://settleloans.in/indusind-bank-personal-loan-settlement',
+    url: 'https://www.settleloans.in/indusind-bank-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/indusind-bank-personal-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/indusind-bank-personal-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'IndusInd Bank Personal Loan Settlement Process & OTS Haircut Blueprint',
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'IndusInd Bank Personal Loan Settlement Guide: Legal OTS & Haircut Rules',
     description: 'Technical and legal playbook for settling defaulted IndusInd Bank personal loans, credit cards, and digital credit lines under RBI compromise frameworks.',
-    images: ['https://settleloans.in/images/infographics/indusind-bank-personal-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/indusind-bank-personal-loan-settlement.jpg'],
   },
 };
 
@@ -83,74 +83,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/indusind-bank-personal-loan-settlement#webpage",
-      "url": "https://settleloans.in/indusind-bank-personal-loan-settlement",
+      "@id": "https://www.settleloans.in/indusind-bank-personal-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/indusind-bank-personal-loan-settlement",
       "name": "IndusInd Bank Personal Loan Settlement: OTS Process, Haircut & Legal Guide (2026)",
       "description": "Comprehensive legal guide to IndusInd Bank personal loan and credit card settlement. Understand recovery calls, Section 25 PSSA notices, NPA provisioning, and how to negotiate up to 60% haircut under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/indusind-bank-personal-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/indusind-bank-personal-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/indusind-bank-personal-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/indusind-bank-personal-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "IndusInd Bank Personal Loan Settlement",
-          "item": "https://settleloans.in/indusind-bank-personal-loan-settlement"
+          "item": "https://www.settleloans.in/indusind-bank-personal-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/indusind-bank-personal-loan-settlement#article",
+      "@id": "https://www.settleloans.in/indusind-bank-personal-loan-settlement#article",
       "headline": "IndusInd Bank Personal Loan Settlement: OTS Process, Haircut & Legal Guide",
       "description": "An analytical, step-by-step guide to settling defaulted IndusInd Bank personal loans and credit cards, understanding NPA write-off mechanics, replying to Section 25 PSSA notices, and securing an official bank-stamped No Dues Certificate under RBI rules.",
-      "image": "https://settleloans.in/images/infographics/indusind-bank-personal-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/indusind-bank-personal-loan-settlement.jpg",
       "datePublished": "2026-08-24T12:00:00+05:30",
       "dateModified": "2026-08-24T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/indusind-bank-personal-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/indusind-bank-personal-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/indusind-bank-personal-loan-settlement#service",
+      "@id": "https://www.settleloans.in/indusind-bank-personal-loan-settlement#service",
       "name": "SettleLoans - IndusInd Bank Personal Loan Settlement & Legal Defense",
       "description": "Expert legal representation and financial negotiation services for settling delinquent IndusInd Bank personal loans, credit cards, and digital credit lines under RBI compromise frameworks.",
-      "url": "https://settleloans.in/indusind-bank-personal-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/indusind-bank-personal-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/indusind-bank-personal-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/indusind-bank-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -163,9 +163,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -239,7 +239,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/indusind-bank-personal-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/indusind-bank-personal-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -325,12 +325,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Income Tax Implications of Settled Debt in India | Complete Tax Guide 2026",
   description: "Understand the income tax implications of settled loan amounts in India. Learn about Section 41(1), the Finance Act 2023 amendment to Section 28(iv), and how it affects personal vs business debt waivers.",
   alternates: {
-    canonical: "https://settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount",
+    canonical: "https://www.settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount",
   },
 };
 
@@ -16,34 +16,34 @@ export default function TaxImplicationsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount#webpage",
-        "url": "https://settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount",
+        "@id": "https://www.settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount#webpage",
+        "url": "https://www.settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount",
         "name": "Income Tax Implications of Settled Debt in India | Complete Tax Guide 2026",
         "description": "Comprehensive guide on how loan settlements and waivers are taxed under the Indian Income Tax Act, including Section 41(1) and Section 28(iv).",
-        "breadcrumb": { "@id": "https://settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount#breadcrumb",
+        "@id": "https://www.settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Income Tax Implications of Settled Debt",
-            "item": "https://settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount"
+            "item": "https://www.settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount#article",
+        "@id": "https://www.settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount#article",
         "headline": "What are the Income Tax Implications of a Settled Debt Amount in India?",
         "description": "Explaining the taxability of loan waivers, Section 41(1), and the landmark Finance Act 2023 changes affecting business and personal debt settlements.",
         "author": {
@@ -55,16 +55,16 @@ export default function TaxImplicationsPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-03-19",
         "dateModified": "2026-03-19",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount#faq",
+        "@id": "https://www.settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -150,7 +150,7 @@ export default function TaxImplicationsPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount#product",
+        "@id": "https://www.settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount#product",
         "name": "Debt Settlement Tax Advisory Services",
         "description": "Expert tax guidance on income tax implications of settled debt amounts in India.",
         "aggregateRating": {

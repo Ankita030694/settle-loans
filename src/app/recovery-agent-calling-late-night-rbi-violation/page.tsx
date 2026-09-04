@@ -61,16 +61,16 @@ export const metadata: Metadata = {
     'debt settlement for recovery harassment victims'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/recovery-agent-calling-late-night-rbi-violation',
+    canonical: 'https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation',
   },
   openGraph: {
     title: 'Recovery Agents Calling Before 8 AM or After 7 PM? RBI Rules & Injunction Guide',
     description: 'Stop illegal late-night and early-morning debt collection calls. Understand Reserve Bank of India timing restrictions, constitutional right to sleep, Banking Ombudsman penalties, and advocate-led OTS strategies.',
-    url: 'https://settleloans.in/recovery-agent-calling-late-night-rbi-violation',
+    url: 'https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recovery-agent-calling-late-night-rbi-violation.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recovery-agent-calling-late-night-rbi-violation.jpg',
         width: 1200,
         height: 675,
         alt: 'RBI Calling Time Window Regulations for Debt Recovery Agents Infographic',
@@ -83,7 +83,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Recovery Agents Calling Before 8 AM or After 7 PM? RBI Rules & Injunction Guide',
     description: 'Facing abusive recovery calls at 9 PM, midnight, or 6 AM? Discover statutory RBI protections, sleep deprivation jurisprudence, and how to secure immediate Ombudsman relief.',
-    images: ['https://settleloans.in/images/infographics/recovery-agent-calling-late-night-rbi-violation.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recovery-agent-calling-late-night-rbi-violation.jpg'],
   },
 };
 
@@ -92,74 +92,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recovery-agent-calling-late-night-rbi-violation#webpage",
-      "url": "https://settleloans.in/recovery-agent-calling-late-night-rbi-violation",
+      "@id": "https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation#webpage",
+      "url": "https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation",
       "name": "Recovery Agents Calling Before 8 AM or After 7 PM? RBI Rules & Injunction Guide",
       "description": "Comprehensive legal and regulatory analysis on handling illegal late-night and early-morning debt collection calls. Covers RBI Fair Practices Code, Supreme Court sleep jurisprudence, Banking Ombudsman restraining procedures, and One-Time Settlement negotiations.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recovery-agent-calling-late-night-rbi-violation#breadcrumb"
+        "@id": "https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recovery-agent-calling-late-night-rbi-violation#breadcrumb",
+      "@id": "https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Recovery Agent Timing Violations",
-          "item": "https://settleloans.in/recovery-agent-calling-late-night-rbi-violation"
+          "item": "https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recovery-agent-calling-late-night-rbi-violation#article",
+      "@id": "https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation#article",
       "headline": "Recovery Agents Calling Before 8 AM or After 7 PM? RBI Timing Violations, Legal Penalties & Ombudsman Restraining Guide",
       "description": "An exhaustive guide examining RBI Master Directions on debt collection hours, the 8:00 AM to 7:00 PM mandatory operational window, criminal remedies for sleep deprivation under the Bharatiya Nyaya Sanhita, Banking Ombudsman injunctions, and NPV-backed debt settlement formulas.",
-      "image": "https://settleloans.in/images/infographics/recovery-agent-calling-late-night-rbi-violation.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agent-calling-late-night-rbi-violation.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agent-calling-late-night-rbi-violation#webpage"
+        "@id": "https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recovery-agent-calling-late-night-rbi-violation#service",
+      "@id": "https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation#service",
       "name": "SettleLoans - Debt Recovery Harassment Defense & Legal Advisory",
       "description": "Specialized legal representation and institutional debt settlement services for borrowers suffering from unlawful collection practices, predatory timing violations, and recovery agent harassment.",
-      "url": "https://settleloans.in/recovery-agent-calling-late-night-rbi-violation",
-      "image": "https://settleloans.in/images/infographics/recovery-agent-calling-late-night-rbi-violation.jpg",
+      "url": "https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agent-calling-late-night-rbi-violation.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -172,9 +172,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -248,7 +248,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recovery-agent-calling-late-night-rbi-violation#faq",
+      "@id": "https://www.settleloans.in/recovery-agent-calling-late-night-rbi-violation#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -334,12 +334,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

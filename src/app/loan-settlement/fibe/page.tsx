@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Fibe Loan Settlement | Settle EarlySalary Personal Loans & App Dues",
   description: "Struggling with Fibe (EarlySalary) debt? Learn the expert process for Fibe loan settlement and OTS. Settle for 40-70% less, stop collection calls, and reclaim your peace.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/fibe",
+    canonical: "https://www.settleloans.in/loan-settlement/fibe",
   },
 };
 
@@ -18,28 +18,28 @@ export default function FibeSettlementPage() {
     "@graph": [
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/fibe#article",
+        "@id": "https://www.settleloans.in/loan-settlement/fibe#article",
         "headline": "Fibe (EarlySalary) Loan Settlement Guide: The 2026 Digital Relief Playbook",
         "description": "An exhaustive guide on settling Fibe personal loans with expert negotiation strategies and legal protections.",
-        "image": "https://settleloans.in/logo.png",
+        "image": "https://www.settleloans.in/logo.png",
         "author": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo.png"
+            "url": "https://www.settleloans.in/logo.png"
           }
         },
         "datePublished": "2024-05-15T08:00:00+05:30",
         "dateModified": "2026-02-16T12:57:00+05:30",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://settleloans.in/loan-settlement/fibe"
+          "@id": "https://www.settleloans.in/loan-settlement/fibe"
         }
       },
       {
@@ -65,13 +65,13 @@ export default function FibeSettlementPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/fibe#service",
+        "@id": "https://www.settleloans.in/loan-settlement/fibe#service",
         "name": "Fibe Loan Settlement Service",
         "description": "Expert debt negotiation for Fibe (EarlySalary) personal loans.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -108,19 +108,19 @@ export default function FibeSettlementPage() {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Fibe",
-            "item": "https://settleloans.in/loan-settlement/fibe"
+            "item": "https://www.settleloans.in/loan-settlement/fibe"
           }
         ]
       }

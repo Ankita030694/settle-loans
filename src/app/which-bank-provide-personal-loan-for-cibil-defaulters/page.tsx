@@ -10,22 +10,22 @@ export default function CibilDefaulterLoanPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/which-bank-provide-personal-loan-for-cibil-defaulters#article",
+                "@id": "https://www.settleloans.in/which-bank-provide-personal-loan-for-cibil-defaulters#article",
                 "headline": "Which Bank Provide Personal Loan for CIBIL Defaulters in India? 2025 Comprehensive Guide",
                 "description": "Looking for personal loans for CIBIL defaulters? Explore top banks, NBFCs, and fintech apps providing loans to low credit score borrowers. Learn legal rights and strategies to get approved.",
-                "image": "https://settleloans.in/images/cibil-defaulter-loan.jpg",
+                "image": "https://www.settleloans.in/images/cibil-defaulter-loan.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-05-07",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/which-bank-provide-personal-loan-for-cibil-defaulters" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/which-bank-provide-personal-loan-for-cibil-defaulters" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/which-bank-provide-personal-loan-for-cibil-defaulters#product",
+                "@id": "https://www.settleloans.in/which-bank-provide-personal-loan-for-cibil-defaulters#product",
                 "name": "CIBIL Defaulter Loan Assistance",
                 "description": "Expert guidance and loan assistance for individuals with low credit scores or past defaults.",
                 "brand": {
@@ -34,7 +34,7 @@ export default function CibilDefaulterLoanPage() {
                 },
                 "offers": {
                     "@type": "Offer",
-                    "url": "https://settleloans.in/which-bank-provide-personal-loan-for-cibil-defaulters",
+                    "url": "https://www.settleloans.in/which-bank-provide-personal-loan-for-cibil-defaulters",
                     "priceCurrency": "INR",
                     "price": "0",
                     "valueAddedTaxIncluded": "true",
@@ -173,9 +173,9 @@ export default function CibilDefaulterLoanPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://settleloans.in/services" },
-                    { "@type": "ListItem", "position": 3, "name": "Loans for CIBIL Defaulters", "item": "https://settleloans.in/which-bank-provide-personal-loan-for-cibil-defaulters" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://www.settleloans.in/services" },
+                    { "@type": "ListItem", "position": 3, "name": "Loans for CIBIL Defaulters", "item": "https://www.settleloans.in/which-bank-provide-personal-loan-for-cibil-defaulters" }
                 ]
             }
         ]

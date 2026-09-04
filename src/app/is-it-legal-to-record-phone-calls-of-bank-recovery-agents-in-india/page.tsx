@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Is It Legal to Record Phone Calls of Bank Recovery Agents in India?",
   description: "Learn if recording recovery agent calls is legal in India. Discover how to use call recording as proof in DRT to prove bank harassment and stop abuse.",
   alternates: {
-    canonical: "https://settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india",
+    canonical: "https://www.settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india",
   },
 };
 
@@ -16,34 +16,34 @@ export default function RecordRecoveryAgentsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india#webpage",
-        "url": "https://settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india",
+        "@id": "https://www.settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india#webpage",
+        "url": "https://www.settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india",
         "name": "Is It Legal to Record Phone Calls of Bank Recovery Agents in India?",
         "description": "A tactical guide empowering borrowers to gather evidence against abusive recovery agents. Explains the legality of recording phone conversations under the Indian Evidence Act.",
-        "breadcrumb": { "@id": "https://settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india#breadcrumb",
+        "@id": "https://www.settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Legality of Recording Recovery Agents",
-            "item": "https://settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india"
+            "item": "https://www.settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india#article",
+        "@id": "https://www.settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india#article",
         "headline": "Is It Legal to Record Phone Calls of Bank Recovery Agents in India?",
         "description": "Explains the legality of recording your own phone conversations in India under the Indian Evidence Act as proof against bank harassment.",
         "author": {
@@ -55,22 +55,22 @@ export default function RecordRecoveryAgentsPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-05-15",
         "dateModified": "2024-05-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india#product",
+        "@id": "https://www.settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india#product",
         "name": "Anti-Harassment Legal Action & Defense against Recovery Agents",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Submit recovery agent call recordings to our legal team to file a severe harassment case against the bank.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -119,7 +119,7 @@ export default function RecordRecoveryAgentsPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india#faq",
+        "@id": "https://www.settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india#faq",
         "mainEntity": [
           {
             "@type": "Question",

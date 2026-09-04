@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Instant Loan App Harassment: Can They Legally Access My Contacts and Photo Gallery?",
   description: "A critical crisis-management guide for victims of illegal '7-day' digital lending apps. Learn how to stop Chinese loan app harassment, block fake loan app blackmailing with photos, and file a cyber cell complaint against loan app.",
   alternates: {
-    canonical: "https://settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery",
+    canonical: "https://www.settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LoanAppHarassmentPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery#webpage",
-        "url": "https://settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery",
+        "@id": "https://www.settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery#webpage",
+        "url": "https://www.settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery",
         "name": "Instant Loan App Harassment: Can They Legally Access My Contacts and Photo Gallery?",
         "description": "A critical crisis-management guide for victims of illegal '7-day' digital lending apps.",
-        "breadcrumb": { "@id": "https://settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery#breadcrumb",
+        "@id": "https://www.settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Instant Loan App Harassment",
-            "item": "https://settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery"
+            "item": "https://www.settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery#article",
+        "@id": "https://www.settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery#article",
         "headline": "Instant Loan App Harassment: Can They Legally Access My Contacts and Photo Gallery?",
         "description": "Learn how illegal lending apps hack your phone to steal contacts and galleries, and what immediate legal actions to take.",
         "author": {
@@ -55,22 +55,22 @@ export default function LoanAppHarassmentPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-22",
         "dateModified": "2024-03-22",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery#product",
+        "@id": "https://www.settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery#product",
         "name": "Cyber-Legal Anti-Harassment Services",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal assistance to stop illegal loan app blackmail and file cyber complaints.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -112,7 +112,7 @@ export default function LoanAppHarassmentPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery#faq",
+        "@id": "https://www.settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery#faq",
         "mainEntity": [
           {
             "@type": "Question",

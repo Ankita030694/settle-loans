@@ -49,16 +49,16 @@ export const metadata: Metadata = {
     'rbi digital lending guidelines moneytap',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/freo-moneytap-credit-line-settlement',
+    canonical: 'https://www.settleloans.in/freo-moneytap-credit-line-settlement',
   },
   openGraph: {
     title: 'MoneyTap (Freo) Credit Line Settlement: OTS Process, RBL & DMI Legal Defense (2026)',
     description: 'Strategic roadmap to settle defaulted MoneyTap (Freo) revolving credit lines with RBL Bank and DMI Finance. Halt e-NACH bounce cycles, defend legal notices, and negotiate an authorized 40% to 60% OTS.',
-    url: 'https://settleloans.in/freo-moneytap-credit-line-settlement',
+    url: 'https://www.settleloans.in/freo-moneytap-credit-line-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/freo-moneytap-credit-line-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/freo-moneytap-credit-line-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'MoneyTap Freo Credit Line Settlement Process and Co-Lending Legal Defense Guide',
@@ -71,7 +71,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'MoneyTap (Freo) Credit Line Settlement: OTS Process, RBL & DMI Legal Defense',
     description: 'Technical manual for settling defaulted MoneyTap (Freo) revolving credit lines under RBI Compromise Settlement and Digital Lending frameworks.',
-    images: ['https://settleloans.in/images/infographics/freo-moneytap-credit-line-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/freo-moneytap-credit-line-settlement.jpg'],
   },
 };
 
@@ -80,74 +80,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/freo-moneytap-credit-line-settlement#webpage",
-      "url": "https://settleloans.in/freo-moneytap-credit-line-settlement",
+      "@id": "https://www.settleloans.in/freo-moneytap-credit-line-settlement#webpage",
+      "url": "https://www.settleloans.in/freo-moneytap-credit-line-settlement",
       "name": "MoneyTap (Freo) Credit Line Settlement: OTS Process, RBL & DMI Legal Defense (2026)",
       "description": "Comprehensive guide to MoneyTap (Freo) credit line settlement. Resolve revolving credit debt with RBL Bank & DMI Finance, stop e-NACH bounce penalties, halt recovery harassment, defend Section 25 PSSA notices, and negotiate a 40%–60% OTS haircut under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/freo-moneytap-credit-line-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/freo-moneytap-credit-line-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/freo-moneytap-credit-line-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/freo-moneytap-credit-line-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "MoneyTap Freo Credit Line Settlement",
-          "item": "https://settleloans.in/freo-moneytap-credit-line-settlement"
+          "item": "https://www.settleloans.in/freo-moneytap-credit-line-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/freo-moneytap-credit-line-settlement#article",
+      "@id": "https://www.settleloans.in/freo-moneytap-credit-line-settlement#article",
       "headline": "MoneyTap (Freo) Credit Line Settlement: OTS Process, RBL/DMI Co-Lending Legal Defense & Haircut Guide",
       "description": "A comprehensive strategic guide on resolving defaulted MoneyTap (Freo) revolving credit lines, navigating RBL Bank and DMI Finance co-lending desks, halting recurring e-NACH bounce fees, and securing authentic One-Time Settlements under RBI compromise frameworks.",
-      "image": "https://settleloans.in/images/infographics/freo-moneytap-credit-line-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/freo-moneytap-credit-line-settlement.jpg",
       "datePublished": "2026-09-03T11:00:00+05:30",
       "dateModified": "2026-09-03T11:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/freo-moneytap-credit-line-settlement#webpage"
+        "@id": "https://www.settleloans.in/freo-moneytap-credit-line-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/freo-moneytap-credit-line-settlement#service",
+      "@id": "https://www.settleloans.in/freo-moneytap-credit-line-settlement#service",
       "name": "SettleLoans - MoneyTap (Freo) Credit Line Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted MoneyTap (Freo) revolving credit lines, RBL Bank co-branded lines, and DMI Finance personal loans under RBI compromise frameworks with maximum debt waivers and complete anti-harassment protection.",
-      "url": "https://settleloans.in/freo-moneytap-credit-line-settlement",
-      "image": "https://settleloans.in/images/infographics/freo-moneytap-credit-line-settlement.jpg",
+      "url": "https://www.settleloans.in/freo-moneytap-credit-line-settlement",
+      "image": "https://www.settleloans.in/images/infographics/freo-moneytap-credit-line-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -160,9 +160,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -236,7 +236,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/freo-moneytap-credit-line-settlement#faq",
+      "@id": "https://www.settleloans.in/freo-moneytap-credit-line-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -314,12 +314,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

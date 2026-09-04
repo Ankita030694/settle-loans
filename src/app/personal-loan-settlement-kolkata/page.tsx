@@ -59,16 +59,16 @@ export const metadata: Metadata = {
     'salary account lien protection section 171 kolkata'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-kolkata',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-kolkata',
   },
   openGraph: {
     title: 'Loan Settlement Advocates in Kolkata: Legal Defense & Lok Adalat OTS Guide',
     description: 'Expert advocate representation for personal loan defaults, Section 138/25 notices, and Lok Adalat OTS settlements across Kolkata, Salt Lake, Rajarhat, and Howrah.',
-    url: 'https://settleloans.in/personal-loan-settlement-kolkata',
+    url: 'https://www.settleloans.in/personal-loan-settlement-kolkata',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-kolkata.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-kolkata.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan Settlement Process in Kolkata and West Bengal Legal Defense Roadmap',
@@ -81,7 +81,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement Advocates in Kolkata: Legal Defense & Lok Adalat Guide',
     description: 'Technical and legal roadmap for personal loan settlement in Kolkata and West Bengal. Advocate-led defense against Section 25 PSSA and Section 138 notices across Bankshall and Alipore courts.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-kolkata.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-kolkata.jpg'],
   },
 };
 
@@ -90,79 +90,79 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-kolkata#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-kolkata",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-kolkata#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-kolkata",
       "name": "Loan Settlement Advocates in Kolkata: Legal Defense & Lok Adalat OTS (2026)",
       "description": "Comprehensive legal and financial guide for personal loan settlement in Kolkata, navigating West Bengal recovery agency restrictions, Bankshall and Alipore court defense, and PSU/Private bank OTS negotiations.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-kolkata#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-kolkata#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-kolkata#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-kolkata#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Legal & Debt Services",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Loan Settlement Advocates in Kolkata",
-          "item": "https://settleloans.in/personal-loan-settlement-kolkata"
+          "item": "https://www.settleloans.in/personal-loan-settlement-kolkata"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-kolkata#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-kolkata#article",
       "headline": "Loan Settlement Advocates in Kolkata: Legal Defense, Court Summons & 40%–70% OTS Settlements",
       "description": "An authoritative legal manual for distressed borrowers in Kolkata and West Bengal facing aggressive recovery pressure, Section 25 PSSA and Section 138 NI Act notices in Bankshall and Alipore courts, and seeking structured One-Time Settlements with PSU and private banks.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-kolkata.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-kolkata.jpg",
       "datePublished": "2026-08-24T12:00:00+05:30",
       "dateModified": "2026-08-24T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-kolkata#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-kolkata#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo.png"
+          "url": "https://www.settleloans.in/logo.png"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
-      "logo": "https://settleloans.in/logo.png",
+      "url": "https://www.settleloans.in",
+      "logo": "https://www.settleloans.in/logo.png",
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
         "https://twitter.com/settleloans",
@@ -171,7 +171,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-kolkata#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-kolkata#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -257,11 +257,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-kolkata#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-kolkata#service",
       "name": "SettleLoans - Loan Settlement Advocates in Kolkata & Debt Defense",
       "description": "Premier debt settlement advisory, advocate-led court defense, and WBSLSA Lok Adalat representation for salaried professionals and entrepreneurs facing loan defaults across Kolkata, Salt Lake, Rajarhat, and Howrah.",
-      "url": "https://settleloans.in/personal-loan-settlement-kolkata",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-kolkata.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-kolkata",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-kolkata.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -274,9 +274,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

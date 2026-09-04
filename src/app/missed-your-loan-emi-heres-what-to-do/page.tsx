@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Missed Your Loan EMI? Here's What to Do | Step-by-Step Guide 2024",
   description: "Have you missed your loan EMI? Learn the immediate steps to take, understand grace periods, CIBIL impact, and legal rights. Expert advice on managing loan defaults in India.",
   alternates: {
-    canonical: "https://settleloans.in/missed-your-loan-emi-heres-what-to-do",
+    canonical: "https://www.settleloans.in/missed-your-loan-emi-heres-what-to-do",
   },
 };
 
@@ -16,34 +16,34 @@ export default function MissedEMIPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/missed-your-loan-emi-heres-what-to-do#webpage",
-        "url": "https://settleloans.in/missed-your-loan-emi-heres-what-to-do",
+        "@id": "https://www.settleloans.in/missed-your-loan-emi-heres-what-to-do#webpage",
+        "url": "https://www.settleloans.in/missed-your-loan-emi-heres-what-to-do",
         "name": "Missed Your Loan EMI? Here's What to Do | Step-by-Step Guide 2024",
         "description": "Comprehensive guide on what to do if you miss a loan EMI. Covers credit score impact, bank negotiations, legal rights, and recovery options.",
-        "breadcrumb": { "@id": "https://settleloans.in/missed-your-loan-emi-heres-what-to-do#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/missed-your-loan-emi-heres-what-to-do#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/missed-your-loan-emi-heres-what-to-do#breadcrumb",
+        "@id": "https://www.settleloans.in/missed-your-loan-emi-heres-what-to-do#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Missed Your Loan EMI",
-            "item": "https://settleloans.in/missed-your-loan-emi-heres-what-to-do"
+            "item": "https://www.settleloans.in/missed-your-loan-emi-heres-what-to-do"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/missed-your-loan-emi-heres-what-to-do#article",
+        "@id": "https://www.settleloans.in/missed-your-loan-emi-heres-what-to-do#article",
         "headline": "Missed Your Loan EMI? Here's What to Do: The Ultimate Recovery Guide",
         "description": "Missing a loan EMI can be stressful. This guide provides actionable steps to minimize credit score damage, avoid penalties, and deal with banks legally.",
         "author": {
@@ -55,12 +55,12 @@ export default function MissedEMIPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-27",
         "dateModified": "2024-02-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/missed-your-loan-emi-heres-what-to-do#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/missed-your-loan-emi-heres-what-to-do#webpage" }
       },
       {
         "@type": "Product",
@@ -90,7 +90,7 @@ export default function MissedEMIPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/missed-your-loan-emi-heres-what-to-do#faq",
+        "@id": "https://www.settleloans.in/missed-your-loan-emi-heres-what-to-do#faq",
         "mainEntity": [
           {
             "@type": "Question",

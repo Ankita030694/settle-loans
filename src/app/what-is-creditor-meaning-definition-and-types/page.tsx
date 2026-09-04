@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "What is a Creditor? Meaning, Definition, and Types (IBC & Banking)",
   description: "Understand the meaning and types of creditors in banking. Learn the difference between secured vs unsecured creditor, and financial vs operational creditor under IBC.",
   alternates: {
-    canonical: "https://settleloans.in/what-is-creditor-meaning-definition-and-types",
+    canonical: "https://www.settleloans.in/what-is-creditor-meaning-definition-and-types",
   },
 };
 
@@ -17,34 +17,34 @@ export default function CreditorMeaningPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-is-creditor-meaning-definition-and-types#webpage",
-        "url": "https://settleloans.in/what-is-creditor-meaning-definition-and-types",
+        "@id": "https://www.settleloans.in/what-is-creditor-meaning-definition-and-types#webpage",
+        "url": "https://www.settleloans.in/what-is-creditor-meaning-definition-and-types",
         "name": "What is a Creditor? Meaning, Definition, and Types (IBC & Banking)",
         "description": "Comprehensive guide on what a creditor is, the types of creditors in banking, and how to differentiate secured vs unsecured, and financial vs operational creditors.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-is-creditor-meaning-definition-and-types#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-is-creditor-meaning-definition-and-types#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-is-creditor-meaning-definition-and-types#breadcrumb",
+        "@id": "https://www.settleloans.in/what-is-creditor-meaning-definition-and-types#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Creditor Meaning and Types",
-            "item": "https://settleloans.in/what-is-creditor-meaning-definition-and-types"
+            "item": "https://www.settleloans.in/what-is-creditor-meaning-definition-and-types"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-is-creditor-meaning-definition-and-types#article",
+        "@id": "https://www.settleloans.in/what-is-creditor-meaning-definition-and-types#article",
         "headline": "What is a Creditor? Meaning, Definition, and Types",
         "description": "Understand the meaning of a creditor, types of creditors in banking, secured vs unsecured creditor, and financial creditor vs operational creditor IBC.",
         "author": {
@@ -56,22 +56,22 @@ export default function CreditorMeaningPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-24",
         "dateModified": "2024-07-24",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-is-creditor-meaning-definition-and-types#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-is-creditor-meaning-definition-and-types#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-is-creditor-meaning-definition-and-types#product",
+        "@id": "https://www.settleloans.in/what-is-creditor-meaning-definition-and-types#product",
         "name": "Creditor Defense and Loan Settlement Service",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal and negotiation services to deal with different types of creditors in banking, handle DRT matters, and successfully settle loans.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function CreditorMeaningPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-is-creditor-meaning-definition-and-types#faq",
+        "@id": "https://www.settleloans.in/what-is-creditor-meaning-definition-and-types#faq",
         "mainEntity": [
           {
             "@type": "Question",

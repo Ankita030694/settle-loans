@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "IndusInd Bank Loan Settlement | Settle Credit Card & Personal Loans - SettleLoans",
   description: "Struggling with IndusInd Bank debt? Learn the expert process for IndusInd Bank loan settlement and credit card OTS. Settle for 40-70% less and stop harassment legally.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/indusind-bank",
+    canonical: "https://www.settleloans.in/loan-settlement/indusind-bank",
   },
 };
 
@@ -16,46 +16,46 @@ export default function IndusIndBankSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/indusind-bank#webpage",
-        "url": "https://settleloans.in/loan-settlement/indusind-bank",
+        "@id": "https://www.settleloans.in/loan-settlement/indusind-bank#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/indusind-bank",
         "name": "IndusInd Bank Loan Settlement | Settle Credit Card & Personal Loans - SettleLoans",
         "description": "Expert guide to IndusInd Bank loan settlement and credit card debt negotiation.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/indusind-bank#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/indusind-bank#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/indusind-bank#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/indusind-bank#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "IndusInd Bank Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement/indusind-bank"
+            "item": "https://www.settleloans.in/loan-settlement/indusind-bank"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/indusind-bank#service",
+        "@id": "https://www.settleloans.in/loan-settlement/indusind-bank#service",
         "name": "IndusInd Bank Loan Settlement Service",
         "description": "Professional debt negotiation for IndusInd Bank personal loans and credit cards.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -88,7 +88,7 @@ export default function IndusIndBankSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/indusind-bank#article",
+        "@id": "https://www.settleloans.in/loan-settlement/indusind-bank#article",
         "headline": "Ultimate Guide to IndusInd Bank Loan Settlement 2026",
         "description": "Detailed guide on IndusInd Bank settlement policies, credit card OTS, and legal debt negotiation strategies.",
         "author": {
@@ -100,16 +100,16 @@ export default function IndusIndBankSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-16",
         "dateModified": "2024-02-16",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/indusind-bank#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/indusind-bank#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/indusind-bank#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/indusind-bank#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Does a Director's Personal Loan Default Affect Their Company's MSME Loan Eligibility?",
   description: "Learn how a single director's personal loan default can impact a Private Limited Company's MSME loan and working capital eligibility, despite the separate legal entity rule.",
   alternates: {
-    canonical: "https://settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility",
+    canonical: "https://www.settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility",
   },
 };
 
@@ -16,40 +16,40 @@ export default function DirectorDefaultImpactPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility#webpage",
-        "url": "https://settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility",
+        "@id": "https://www.settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility#webpage",
+        "url": "https://www.settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility",
         "name": "Does a Director's Personal Loan Default Affect Their Company's MSME Loan Eligibility?",
         "description": "Learn how a single director's personal loan default can impact a Private Limited Company's MSME loan and working capital eligibility, despite the separate legal entity rule.",
-        "breadcrumb": { "@id": "https://settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility#breadcrumb",
+        "@id": "https://www.settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Business Loan Resources",
-            "item": "https://settleloans.in/business-loans"
+            "item": "https://www.settleloans.in/business-loans"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Director Default Impact",
-            "item": "https://settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility"
+            "item": "https://www.settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility#article",
+        "@id": "https://www.settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility#article",
         "headline": "Does a Director's Personal Loan Default Affect Their Company's MSME Loan Eligibility?",
         "description": "A crucial guide for business owners and startup founders explaining how banks evaluate commercial risk when a director defaults on a personal loan.",
         "author": {
@@ -61,16 +61,16 @@ export default function DirectorDefaultImpactPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-22",
         "dateModified": "2024-03-22",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility#faq",
+        "@id": "https://www.settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility#faq",
         "mainEntity": [
           {
             "@type": "Question",

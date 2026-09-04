@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   title: "Loan App Settlement | Settlement for KreditBee, MoneyView, Navi & More",
   description: "Trapped by instant loan apps? We settle loans for legal apps (KreditBee, MoneyView, CASHe) and help you handle harassment from illegal Chinese loan apps. Expert legal protection.",
   alternates: {
-    canonical: "https://settleloans.in/app-loan-settlement",
+    canonical: "https://www.settleloans.in/app-loan-settlement",
   },
   keywords: [
     "loan app settlement", 
@@ -51,40 +51,40 @@ export default function AppLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/app-loan-settlement#webpage",
-        "url": "https://settleloans.in/app-loan-settlement",
+        "@id": "https://www.settleloans.in/app-loan-settlement#webpage",
+        "url": "https://www.settleloans.in/app-loan-settlement",
         "name": "Loan App Settlement | Settlement for KreditBee, MoneyView, Navi & More",
         "description": "Trapped by instant loan apps? We settle loans for legal apps (KreditBee, MoneyView, CASHe) and help you handle harassment from illegal Chinese loan apps. Expert legal protection.",
-        "breadcrumb": { "@id": "https://settleloans.in/app-loan-settlement#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/app-loan-settlement#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/app-loan-settlement#breadcrumb",
+        "@id": "https://www.settleloans.in/app-loan-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan App Settlement",
-            "item": "https://settleloans.in/app-loan-settlement"
+            "item": "https://www.settleloans.in/app-loan-settlement"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/app-loan-settlement#service",
+        "@id": "https://www.settleloans.in/app-loan-settlement#service",
         "name": "Loan App Settlement Services",
         "description": "Expert legal negotiation and settlement services for instant personal loan apps like KreditBee, MoneyView, Navi, and protection against illegal loan app harassment.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": {
           "@type": "Country",
@@ -141,7 +141,7 @@ export default function AppLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/app-loan-settlement#article",
+        "@id": "https://www.settleloans.in/app-loan-settlement#article",
         "headline": "How to Settle Debt with Instant Loan Apps in India",
         "description": "Comprehensive guide on dealing with instant loan apps. Learn the difference between legal vs illegal apps, how to stop harassment, and the settlement process for major players like KreditBee and Navi.",
         "author": {
@@ -153,16 +153,16 @@ export default function AppLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-01-24",
         "dateModified": "2024-01-30",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/app-loan-settlement#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/app-loan-settlement#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/app-loan-settlement#faq",
+        "@id": "https://www.settleloans.in/app-loan-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",

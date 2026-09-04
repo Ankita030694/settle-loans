@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: "How to Choose a Trustworthy Debt Settlement Company | Expert Guide",
     description: "Learn how to vet and choose a trustworthy debt settlement company in India. 7-step protocol to avoid scams and find professional negotiators.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me",
+        canonical: "https://www.settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me",
     },
 };
 
@@ -20,43 +20,43 @@ export default function TrustworthyCompanyPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me#webpage",
-                "url": "https://settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me",
+                "@id": "https://www.settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me#webpage",
+                "url": "https://www.settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me",
                 "name": "How to Choose a Trustworthy Debt Settlement Company | Professional Guide",
                 "description": "Comprehensive guide on vetting debt settlement companies in India to ensure security and effectiveness.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Choosing a Trustworthy Company",
-                        "item": "https://settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me"
+                        "item": "https://www.settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me#article",
+                "@id": "https://www.settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me#article",
                 "headline": "How to Choose a Trustworthy Debt Settlement Company to Assist Me",
                 "description": "The definitive guide to identifying, vetting, and selecting a debt settlement partner that protects your interests and your data.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Safety Team"
@@ -66,7 +66,7 @@ export default function TrustworthyCompanyPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-06-01",
@@ -74,7 +74,7 @@ export default function TrustworthyCompanyPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me#faq",
+                "@id": "https://www.settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -160,7 +160,7 @@ export default function TrustworthyCompanyPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me#service",
+                "@id": "https://www.settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me#service",
                 "name": "Accountable Debt Resolution Service",
                 "description": "Transparent and ethically-driven debt settlement assistance for Indian consumers facing financial hardship.",
                 "brand": {

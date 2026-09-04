@@ -61,16 +61,16 @@ export const metadata: Metadata = {
     'one time settlement after recovery harassment'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/recovery-agent-fake-police-call-complaint',
+    canonical: 'https://www.settleloans.in/recovery-agent-fake-police-call-complaint',
   },
   openGraph: {
     title: 'Recovery Agent Pretending to Be Police Officer? Legal Rights, Criminal Offenses & FIR Guide',
     description: 'Stop fake police intimidation by loan collection agencies. Learn your statutory rights under Section 204 BNS / 170 IPC, RBI Master Directions, and how advocates file criminal FIRs.',
-    url: 'https://settleloans.in/recovery-agent-fake-police-call-complaint',
+    url: 'https://www.settleloans.in/recovery-agent-fake-police-call-complaint',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recovery-agent-fake-police-call-complaint.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recovery-agent-fake-police-call-complaint.jpg',
         width: 1200,
         height: 675,
         alt: 'Recovery Agent Posing as Police Officer Legal Defense & FIR Guide',
@@ -83,7 +83,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Recovery Agent Pretending to Be Police Officer? FIR, BNS/IPC Sections & RBI Rules',
     description: 'Facing fraudulent police threats from collection agents? Learn criminal impersonation laws, RBI Ombudsman protocols, and how to negotiate a legal One-Time Settlement.',
-    images: ['https://settleloans.in/images/infographics/recovery-agent-fake-police-call-complaint.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recovery-agent-fake-police-call-complaint.jpg'],
   },
 };
 
@@ -92,74 +92,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recovery-agent-fake-police-call-complaint#webpage",
-      "url": "https://settleloans.in/recovery-agent-fake-police-call-complaint",
+      "@id": "https://www.settleloans.in/recovery-agent-fake-police-call-complaint#webpage",
+      "url": "https://www.settleloans.in/recovery-agent-fake-police-call-complaint",
       "name": "Recovery Agent Pretending to Be Police Officer? FIR, BNS/IPC Sections & RBI Rules",
       "description": "Is a loan recovery agent posing as a police officer or Crime Branch inspector? Discover criminal offenses under Section 204 BNS / 170 IPC, RBI rules, and how to file an immediate FIR.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recovery-agent-fake-police-call-complaint#breadcrumb"
+        "@id": "https://www.settleloans.in/recovery-agent-fake-police-call-complaint#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recovery-agent-fake-police-call-complaint#breadcrumb",
+      "@id": "https://www.settleloans.in/recovery-agent-fake-police-call-complaint#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Fake Police Recovery Call Defense",
-          "item": "https://settleloans.in/recovery-agent-fake-police-call-complaint"
+          "item": "https://www.settleloans.in/recovery-agent-fake-police-call-complaint"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recovery-agent-fake-police-call-complaint#article",
+      "@id": "https://www.settleloans.in/recovery-agent-fake-police-call-complaint#article",
       "headline": "Recovery Agent Pretending to Be Police Officer? Criminal Offenses (Section 204 BNS / 170 IPC), RBI Directives & Emergency FIR Filing Protocol",
       "description": "An exhaustive legal guide on handling predatory collection agents impersonating police officers, Crime Branch officials, or court bailiffs. Explains statutory provisions under Bharatiya Nyaya Sanhita (BNS), Indian Penal Code (IPC), IT Act Section 66D, RBI Fair Practices Code, and advocate-led settlement procedures.",
-      "image": "https://settleloans.in/images/infographics/recovery-agent-fake-police-call-complaint.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agent-fake-police-call-complaint.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agent-fake-police-call-complaint#webpage"
+        "@id": "https://www.settleloans.in/recovery-agent-fake-police-call-complaint#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recovery-agent-fake-police-call-complaint#service",
+      "@id": "https://www.settleloans.in/recovery-agent-fake-police-call-complaint#service",
       "name": "SettleLoans - Debt Harassment Defense & Criminal Impersonation Legal Advisory",
       "description": "Comprehensive legal defense, police FIR intervention, and institutional debt settlement advisory for borrowers harassed by predatory collection agents posing as police officers or law enforcement authorities.",
-      "url": "https://settleloans.in/recovery-agent-fake-police-call-complaint",
-      "image": "https://settleloans.in/images/infographics/recovery-agent-fake-police-call-complaint.jpg",
+      "url": "https://www.settleloans.in/recovery-agent-fake-police-call-complaint",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agent-fake-police-call-complaint.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -172,9 +172,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -248,7 +248,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recovery-agent-fake-police-call-complaint#faq",
+      "@id": "https://www.settleloans.in/recovery-agent-fake-police-call-complaint#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -334,12 +334,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

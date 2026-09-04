@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Documents Required for Loan Settlement in India | Professional Guide",
   description: "Complete list of documents required for loan settlement in India. Hardship letters, KYC, bank statements, and more. A professional guide to debt resolution paperwork.",
   alternates: {
-    canonical: "https://settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service",
+    canonical: "https://www.settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LoanSettlementDocumentsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#webpage",
-        "url": "https://settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service",
+        "@id": "https://www.settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#webpage",
+        "url": "https://www.settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service",
         "name": "Documents Required for Loan Settlement in India | Professional Guide",
         "description": "A comprehensive guide to the paperwork needed for a successful loan settlement in India when working with a professional service.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#breadcrumb",
+        "@id": "https://www.settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Required Settlement Documents",
-            "item": "https://settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service"
+            "item": "https://www.settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#article",
+        "@id": "https://www.settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#article",
         "headline": "Documents Required for Loan Settlement in India: A Comprehensive Guide",
         "description": "Master the paperwork of loan settlement. From KYC to hardship letters, learn what you need to settle your debt legally and effectively in India.",
         "author": {
@@ -55,16 +55,16 @@ export default function LoanSettlementDocumentsPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-19",
         "dateModified": "2024-03-19",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#faq",
+        "@id": "https://www.settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -150,13 +150,13 @@ export default function LoanSettlementDocumentsPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#product",
+        "@id": "https://www.settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service#product",
         "name": "Loan Settlement Document Advisory",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Professional guidance on organizing and submitting the correct documentation for a successful loan settlement with Indian banks and NBFCs.",
         "aggregateRating": {
           "@type": "AggregateRating",

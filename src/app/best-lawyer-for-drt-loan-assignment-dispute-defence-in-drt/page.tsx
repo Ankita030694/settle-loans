@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Best Lawyer for DRT Loan Assignment Dispute Defence | ARC Recovery Help",
     description: "Get expert legal defense against loan assignment disputes in DRT. Challenge ARC actions, assignment deeds, and stay recovery orders with India's top DRT lawyers. Protect your assets from Asset Reconstruction Companies today.",
     alternates: {
-        canonical: "https://settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt",
+        canonical: "https://www.settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt",
     },
 };
 
@@ -18,34 +18,34 @@ export default function DRTLoanAssignmentPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt#webpage",
-                "url": "https://settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt",
+                "@id": "https://www.settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt#webpage",
+                "url": "https://www.settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt",
                 "name": "Best Lawyer for DRT Loan Assignment Dispute Defence | ARC Recovery Help",
                 "description": "Expert legal strategies to challenge loan assignment to ARCs in Debt Recovery Tribunals.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt#breadcrumb",
+                "@id": "https://www.settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "DRT Loan Assignment Dispute Defence",
-                        "item": "https://settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt"
+                        "item": "https://www.settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt#article",
+                "@id": "https://www.settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt#article",
                 "headline": "Defending Loan Assignment Disputes in DRT: A Comprehensive Legal Guide",
                 "description": "Navigate the complexities of loan assignments to ARCs. Learn how to challenge assignment deeds and protect your property in DRT.",
                 "author": {
@@ -57,16 +57,16 @@ export default function DRTLoanAssignmentPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt#product",
+                "@id": "https://www.settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt#product",
                 "name": "DRT Legal Defence Service",
                 "description": "Specialized legal representation for borrowers facing ARC debt recovery in Debt Recovery Tribunals.",
                 "aggregateRating": {
@@ -93,7 +93,7 @@ export default function DRTLoanAssignmentPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt#faq",
+                "@id": "https://www.settleloans.in/best-lawyer-for-drt-loan-assignment-dispute-defence-in-drt#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

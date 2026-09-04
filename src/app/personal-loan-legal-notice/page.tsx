@@ -18,16 +18,16 @@ export const metadata: Metadata = {
     'civil vs criminal personal loan default'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-legal-notice',
+    canonical: 'https://www.settleloans.in/personal-loan-legal-notice',
   },
   openGraph: {
     title: 'Legal Notice for Personal Loan Default: Will You Go to Jail? Legal Rights & Reply Guide',
     description: 'Received a bank or advocate legal notice for personal loan default? Understand your statutory rights under RBI guidelines, Section 138/25 defense, and step-by-step reply protocol.',
-    url: 'https://settleloans.in/personal-loan-legal-notice',
+    url: 'https://www.settleloans.in/personal-loan-legal-notice',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-lawyer.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-lawyer.jpg',
         width: 1200,
         height: 630,
         alt: 'Legal Notice for Personal Loan Default Guide',
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Legal Notice for Personal Loan Default: Real Consequences & Reply Guide',
     description: 'Complete legal guide for Indian borrowers on handling bank notices, Section 138/25 proceedings, avoiding arrest, and negotiating an authentic One-Time Settlement (OTS).',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-lawyer.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-lawyer.jpg'],
   },
 };
 
@@ -49,73 +49,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-legal-notice#webpage",
-      "url": "https://settleloans.in/personal-loan-legal-notice",
+      "@id": "https://www.settleloans.in/personal-loan-legal-notice#webpage",
+      "url": "https://www.settleloans.in/personal-loan-legal-notice",
       "name": "Legal Notice for Personal Loan Default: Real Consequences & Reply Guide (2026)",
       "description": "Received a legal notice for personal loan default in India? Discover if you can go to jail, Section 138 vs Section 25 PSS Act, 15-day reply procedure, fake notice identification, and RBI-backed settlement options.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-legal-notice#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-legal-notice#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-legal-notice#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-legal-notice#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Legal Notice for Personal Loan Default",
-          "item": "https://settleloans.in/personal-loan-legal-notice"
+          "item": "https://www.settleloans.in/personal-loan-legal-notice"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-legal-notice#article",
+      "@id": "https://www.settleloans.in/personal-loan-legal-notice#article",
       "headline": "Legal Notice for Personal Loan Default: Real Consequences, Reply Format & Legal Protection",
       "description": "An authoritative, forensic guide on handling bank legal notices for personal loan defaults in India. Learn the difference between civil default and criminal liability, Section 138 NI Act vs. Section 25 PSS Act, how to reply within 15 days, and how to negotiate a One-Time Settlement.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-lawyer.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-lawyer.jpg",
       "datePublished": "2026-08-19T09:00:00+05:30",
       "dateModified": "2026-08-19T09:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-legal-notice#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-legal-notice#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Product",
-      "@id": "https://settleloans.in/personal-loan-legal-notice#product",
+      "@id": "https://www.settleloans.in/personal-loan-legal-notice#product",
       "name": "Personal Loan Legal Notice Defense & Settlement Services",
       "description": "Expert advocate legal notice reply drafting, Section 138/25 defense, anti-harassment injunctions, and RBI-compliant One-Time Settlement (OTS) negotiations for distressed borrowers across India.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-lawyer.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-lawyer.jpg",
       "brand": {
         "@type": "Brand",
         "name": "SettleLoans"
@@ -192,7 +192,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-legal-notice#faq",
+      "@id": "https://www.settleloans.in/personal-loan-legal-notice#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -278,12 +278,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

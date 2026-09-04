@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Legal Loan Settlement Services in Punjab | 40-70% Debt Waiver",
   description: "Struggling with bank debts in Ludhiana, Amritsar, or Jalandhar? Get professional legal representation, stop recovery agent harassment, and settle your credit cards and personal loans with up to 70% waiver. Expert Lok Adalat guidance.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/punjab",
+    canonical: "https://www.settleloans.in/loan-settlement/punjab",
   },
 };
 
@@ -16,47 +16,47 @@ export default function PunjabLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/punjab#webpage",
-        "url": "https://settleloans.in/loan-settlement/punjab",
+        "@id": "https://www.settleloans.in/loan-settlement/punjab#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/punjab",
         "name": "Expert Loan Settlement Services in Punjab | 40-70% Waiver Experts",
         "description": "Struggling with bank debts in Punjab? Get expert legal representation in Ludhiana, Amritsar & Jalandhar. Settle credit cards & personal loans with 70% waiver.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/punjab#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/punjab#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/punjab#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/punjab#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/punjab#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/punjab#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Punjab",
-            "item": "https://settleloans.in/loan-settlement/punjab"
+            "item": "https://www.settleloans.in/loan-settlement/punjab"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/punjab#service",
+        "@id": "https://www.settleloans.in/loan-settlement/punjab#service",
         "name": "Punjab Loan Settlement Services",
         "description": "Professional debt negotiation and legal protection services for personal loans and credit cards in Punjab.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": {
           "@type": "State",
@@ -86,7 +86,7 @@ export default function PunjabLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/punjab#article",
+        "@id": "https://www.settleloans.in/loan-settlement/punjab#article",
         "headline": "Complete Guide to Loan Settlement in Punjab | Laws and Procedures",
         "description": "A comprehensive guide on how loan settlement works in Punjab, covering PSLSA rules, legal help, Lok Adalats, and the 2016 Agricultural Debt Act.",
         "author": {
@@ -98,16 +98,16 @@ export default function PunjabLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-03",
         "dateModified": "2024-02-03",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/punjab#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/punjab#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/punjab#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/punjab#faq",
         "mainEntity": [
           {
             "@type": "Question",

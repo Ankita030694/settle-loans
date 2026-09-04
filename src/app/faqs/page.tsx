@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Frequently Asked Questions | Loan Settlement | SettleLoans",
   description: "Browse our detailed guides and frequently asked questions about loan settlement, eligibility, fees, and more.",
   alternates: {
-    canonical: "https://settleloans.in/faqs",
+    canonical: "https://www.settleloans.in/faqs",
   },
 };
 
@@ -16,43 +16,43 @@ export default function FAQsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/faqs#webpage",
-        "url": "https://settleloans.in/faqs",
+        "@id": "https://www.settleloans.in/faqs#webpage",
+        "url": "https://www.settleloans.in/faqs",
         "name": "Frequently Asked Questions | Loan Settlement Guides - SettleLoans",
         "description": "Browse our detailed guides and frequently asked questions about loan settlement, eligibility, fees, and more.",
-        "breadcrumb": { "@id": "https://settleloans.in/faqs#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/faqs#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/faqs#breadcrumb",
+        "@id": "https://www.settleloans.in/faqs#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Services",
-            "item": "https://settleloans.in/services"
+            "item": "https://www.settleloans.in/services"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "FAQs",
-            "item": "https://settleloans.in/faqs"
+            "item": "https://www.settleloans.in/faqs"
           }
         ]
       },
       {
         "@type": "CollectionPage",
-        "@id": "https://settleloans.in/faqs#collection",
+        "@id": "https://www.settleloans.in/faqs#collection",
         "name": "SettleLoans FAQ Guides",
         "description": "Collection of detailed guides and FAQs regarding loan settlement.",
-        "url": "https://settleloans.in/faqs",
+        "url": "https://www.settleloans.in/faqs",
         "mainEntity": {
           "@type": "ItemList",
           "itemListElement": [
@@ -60,157 +60,157 @@ export default function FAQsPage() {
               "@type": "ListItem",
               "position": 1,
               "name": "Can I Get a Loan After Settlement?",
-              "url": "https://settleloans.in/faqs/can-i-get-loan-after-settlement"
+              "url": "https://www.settleloans.in/faqs/can-i-get-loan-after-settlement"
             },
             {
               "@type": "ListItem",
               "position": 2,
               "name": "Loan Settlement Fees",
-              "url": "https://settleloans.in/faqs/loan-settlement-fees"
+              "url": "https://www.settleloans.in/faqs/loan-settlement-fees"
             },
             {
               "@type": "ListItem",
               "position": 3,
               "name": "Eligibility Checker",
-              "url": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement"
+              "url": "https://www.settleloans.in/faqs/eligibility-checker-for-loan-settlement"
             },
             {
               "@type": "ListItem",
               "position": 4,
               "name": "Free Consultation",
-              "url": "https://settleloans.in/faqs/free-consultation-loan-settlement"
+              "url": "https://www.settleloans.in/faqs/free-consultation-loan-settlement"
             },
             {
               "@type": "ListItem",
               "position": 5,
               "name": "How to Settle Loan",
-              "url": "https://settleloans.in/faqs/how-to-settle-loan"
+              "url": "https://www.settleloans.in/faqs/how-to-settle-loan"
             },
             {
               "@type": "ListItem",
               "position": 6,
               "name": "OTS Full Form",
-              "url": "https://settleloans.in/faqs/ots-full-form"
+              "url": "https://www.settleloans.in/faqs/ots-full-form"
             },
             {
               "@type": "ListItem",
               "position": 7,
               "name": "Settle Debt for Less",
-              "url": "https://settleloans.in/faqs/how-to-settle-debt-for-less"
+              "url": "https://www.settleloans.in/faqs/how-to-settle-debt-for-less"
             },
             {
               "@type": "ListItem",
               "position": 8,
               "name": "Negotiate Personal Loan Settlement",
-              "url": "https://settleloans.in/faqs/how-to-negotiate-personal-loan-settlement"
+              "url": "https://www.settleloans.in/faqs/how-to-negotiate-personal-loan-settlement"
             },
             {
               "@type": "ListItem",
               "position": 9,
               "name": "CIBIL Impact of Settlement",
-              "url": "https://settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score"
+              "url": "https://www.settleloans.in/faqs/how-does-settling-a-loan-impact-my-cibil-credit-score"
             },
             {
               "@type": "ListItem",
               "position": 10,
               "name": "Professional Settlement Steps",
-              "url": "https://settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider"
+              "url": "https://www.settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider"
             },
             {
               "@type": "ListItem",
               "position": 12,
               "name": "Benefits and Drawbacks of Settlement",
-              "url": "https://settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement"
+              "url": "https://www.settleloans.in/faqs/benefits-and-drawbacks-of-loan-settlement"
             },
             {
               "@type": "ListItem",
               "position": 13,
               "name": "Income Tax on Settled Debt",
-              "url": "https://settleloans.in/faqs/income-tax-implications-of-loan-settlement-india"
+              "url": "https://www.settleloans.in/faqs/income-tax-implications-of-loan-settlement-india"
             },
             {
               "@type": "ListItem",
               "position": 14,
               "name": "Secured vs Unsecured Settlements",
-              "url": "https://settleloans.in/faqs/settling-secured-vs-unsecured-loans-india"
+              "url": "https://www.settleloans.in/faqs/settling-secured-vs-unsecured-loans-india"
             },
             {
               "@type": "ListItem",
               "position": 15,
               "name": "Legal Risks of Default",
-              "url": "https://settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement"
+              "url": "https://www.settleloans.in/faqs/legal-risks-defaulting-loan-without-settlement"
             },
             {
               "@type": "ListItem",
               "position": 16,
               "name": "Credit Card Settlement via Third Party",
-              "url": "https://settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies"
+              "url": "https://www.settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies"
             },
             {
               "@type": "ListItem",
               "position": 17,
               "name": "Alternatives to Settlement",
-              "url": "https://settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt"
+              "url": "https://www.settleloans.in/faqs/alternatives-to-loan-settlement-managing-debt"
             },
             {
               "@type": "ListItem",
               "position": 19,
               "name": "Top Loan Settlement Companies",
-              "url": "https://settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india"
+              "url": "https://www.settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india"
             },
             {
               "@type": "ListItem",
               "position": 20,
               "name": "Professional Debt Settlement Companies",
-              "url": "https://settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans"
+              "url": "https://www.settleloans.in/faqs/which-companies-offer-professional-debt-settlement-services-for-personal-loans"
             },
             {
               "@type": "ListItem",
               "position": 21,
               "name": "Online Platforms for Home Loan Settlement",
-              "url": "https://settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan"
+              "url": "https://www.settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan"
             },
             {
               "@type": "ListItem",
               "position": 22,
               "name": "Debt Settlement with Effective Negotiation",
-              "url": "https://settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation"
+              "url": "https://www.settleloans.in/faqs/find-debt-settlement-services-known-for-effective-negotiation"
             },
             {
               "@type": "ListItem",
               "position": 23,
               "name": "How to Choose a Trustworthy Debt Settlement Company",
-              "url": "https://settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me"
+              "url": "https://www.settleloans.in/faqs/how-to-choose-trustworthy-debt-settlement-company-to-assist-me"
             },
             {
               "@type": "ListItem",
               "position": 24,
               "name": "P2P Lending & Loan Settlements",
-              "url": "https://settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements"
+              "url": "https://www.settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements"
             },
             {
               "@type": "ListItem",
               "position": 25,
               "name": "Loan Write-off vs. Settlement",
-              "url": "https://settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements"
+              "url": "https://www.settleloans.in/faqs/difference-between-loan-write-off-and-loan-settlements"
             },
             {
               "@type": "ListItem",
               "position": 26,
               "name": "Joint Loan Settlement Implications",
-              "url": "https://settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers"
+              "url": "https://www.settleloans.in/faqs/is-it-possible-to-settle-a-joint-loan-and-what-are-the-implications-for-co-borrowers"
             },
             {
               "@type": "ListItem",
               "position": 27,
               "name": "Alternatives to Loan Settlement",
-              "url": "https://settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online"
+              "url": "https://www.settleloans.in/faqs/what-alternatives-exist-to-loan-settlement-services-for-debt-relief-online"
             },
             {
               "@type": "ListItem",
               "position": 28,
               "name": "Recovery Agent Harassment Guide",
-              "url": "https://settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information"
+              "url": "https://www.settleloans.in/how-do-loan-recovery-agents-get-my-details-when-my-friend-defaults-to-pay-and-call-me-asking-for-his-information"
             }
           ]
         }

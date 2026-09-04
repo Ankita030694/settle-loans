@@ -54,16 +54,16 @@ export const metadata: Metadata = {
     'ots for loan against property residual debt'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/loan-against-property-lap-shortfall-settlement',
+    canonical: 'https://www.settleloans.in/loan-against-property-lap-shortfall-settlement',
   },
   openGraph: {
     title: 'Loan Against Property (LAP) Shortfall Settlement: Settle Post-Auction Residual Debt & DRT Shortfall Guide',
     description: 'Master the legal defense against post-auction LAP residual debt. Understand mortgage extinction, DRT 3-year limitation under Article 55/113, SARFAESI auction undervaluation challenges, and advocate-led OTS settlement.',
-    url: 'https://settleloans.in/loan-against-property-lap-shortfall-settlement',
+    url: 'https://www.settleloans.in/loan-against-property-lap-shortfall-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/loan-against-property-lap-shortfall-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/loan-against-property-lap-shortfall-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Against Property LAP Shortfall Settlement Roadmap India',
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Against Property Shortfall Settlement: Settle Residual Debt After Bank Auction',
     description: 'Facing a massive shortfall notice after bank auctioned your mortgaged property? Discover statutory protections under SARFAESI and DRT laws to legally settle residual debt.',
-    images: ['https://settleloans.in/images/infographics/loan-against-property-lap-shortfall-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/loan-against-property-lap-shortfall-settlement.jpg'],
   },
 };
 
@@ -85,74 +85,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/loan-against-property-lap-shortfall-settlement#webpage",
-      "url": "https://settleloans.in/loan-against-property-lap-shortfall-settlement",
+      "@id": "https://www.settleloans.in/loan-against-property-lap-shortfall-settlement#webpage",
+      "url": "https://www.settleloans.in/loan-against-property-lap-shortfall-settlement",
       "name": "Loan Against Property (LAP) Shortfall Settlement: Settle Post-Auction Residual Debt & Unsecured Shortfall under SARFAESI & DRT Rules",
       "description": "Comprehensive legal and financial manual on resolving Loan Against Property (LAP) shortfall debt after bank property auction in India. Covers SARFAESI Act, DRT limitation periods, unsecured conversion, and One-Time Settlement.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/loan-against-property-lap-shortfall-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/loan-against-property-lap-shortfall-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/loan-against-property-lap-shortfall-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/loan-against-property-lap-shortfall-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "LAP Shortfall Settlement",
-          "item": "https://settleloans.in/loan-against-property-lap-shortfall-settlement"
+          "item": "https://www.settleloans.in/loan-against-property-lap-shortfall-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/loan-against-property-lap-shortfall-settlement#article",
+      "@id": "https://www.settleloans.in/loan-against-property-lap-shortfall-settlement#article",
       "headline": "Loan Against Property (LAP) Shortfall Settlement: Settle Post-Auction Residual Debt & Unsecured Shortfall under SARFAESI & DRT Rules",
       "description": "An exhaustive analysis of post-mortgage recovery law in India. Explains statutory conversion of secured debt to unsecured monetary claims, 3-year limitation periods in DRT under Article 55/113, SARFAESI distress auction fraud, and strategies for extinguishing post-auction shortfall claims through advocate representation.",
-      "image": "https://settleloans.in/images/infographics/loan-against-property-lap-shortfall-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/loan-against-property-lap-shortfall-settlement.jpg",
       "datePublished": "2026-08-28T10:00:00+05:30",
       "dateModified": "2026-08-28T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-against-property-lap-shortfall-settlement#webpage"
+        "@id": "https://www.settleloans.in/loan-against-property-lap-shortfall-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/loan-against-property-lap-shortfall-settlement#service",
+      "@id": "https://www.settleloans.in/loan-against-property-lap-shortfall-settlement#service",
       "name": "SettleLoans - LAP Shortfall Debt Settlement & DRT Defense Advisory",
       "description": "Specialized legal representation and banking conciliation services for borrowers facing post-auction Loan Against Property (LAP) shortfall claims, SARFAESI deficit recovery notices, and DRT recovery suits across Indian commercial banks and housing finance companies.",
-      "url": "https://settleloans.in/loan-against-property-lap-shortfall-settlement",
-      "image": "https://settleloans.in/images/infographics/loan-against-property-lap-shortfall-settlement.jpg",
+      "url": "https://www.settleloans.in/loan-against-property-lap-shortfall-settlement",
+      "image": "https://www.settleloans.in/images/infographics/loan-against-property-lap-shortfall-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -165,9 +165,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -241,7 +241,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/loan-against-property-lap-shortfall-settlement#faq",
+      "@id": "https://www.settleloans.in/loan-against-property-lap-shortfall-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -327,12 +327,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

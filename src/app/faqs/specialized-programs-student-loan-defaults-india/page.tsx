@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Student Loan Settlement Programs India | Vidya Lakshmi & OTS 2024-25",
     description: "Learn about specialized programs for settling student loan defaults in India. Explore Vidya Lakshmi, CGFSEL guarantee, and bank OTS schemes for 2024-25.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/specialized-programs-student-loan-defaults-india",
+        canonical: "https://www.settleloans.in/faqs/specialized-programs-student-loan-defaults-india",
     },
 };
 
@@ -18,43 +18,43 @@ export default function StudentLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/specialized-programs-student-loan-defaults-india#webpage",
-                "url": "https://settleloans.in/faqs/specialized-programs-student-loan-defaults-india",
+                "@id": "https://www.settleloans.in/faqs/specialized-programs-student-loan-defaults-india#webpage",
+                "url": "https://www.settleloans.in/faqs/specialized-programs-student-loan-defaults-india",
                 "name": "Specialized Student Loan Settlement Programs in India (2024-25)",
                 "description": "Comprehensive guide on settling education loan defaults using Vidya Lakshmi, Central Sector Interest Subsidy (CSIS), and bank One-Time Settlement (OTS) schemes.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/specialized-programs-student-loan-defaults-india#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/specialized-programs-student-loan-defaults-india#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/specialized-programs-student-loan-defaults-india#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/specialized-programs-student-loan-defaults-india#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Student Loan Programs",
-                        "item": "https://settleloans.in/faqs/specialized-programs-student-loan-defaults-india"
+                        "item": "https://www.settleloans.in/faqs/specialized-programs-student-loan-defaults-india"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/specialized-programs-student-loan-defaults-india#article",
+                "@id": "https://www.settleloans.in/faqs/specialized-programs-student-loan-defaults-india#article",
                 "headline": "How to Settle Student Loan Defaults in India: Expert Guide 2024-25",
                 "description": "Discover how the CGFSEL guarantee and CSIS interest subsidies can help you settle your student loan for a fraction of the outstanding amount.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Student Debt Relief Team"
@@ -64,7 +64,7 @@ export default function StudentLoanSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-07-15",
@@ -72,7 +72,7 @@ export default function StudentLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/specialized-programs-student-loan-defaults-india#faq",
+                "@id": "https://www.settleloans.in/faqs/specialized-programs-student-loan-defaults-india#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -238,7 +238,7 @@ export default function StudentLoanSettlementPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/specialized-programs-student-loan-defaults-india#service",
+                "@id": "https://www.settleloans.in/faqs/specialized-programs-student-loan-defaults-india#service",
                 "name": "Education Loan Resolution & Subsidy Audit",
                 "description": "Professional services to help students audit government subsidies and settle education loan defaults using legal frameworks like CGFSEL and OTS.",
                 "brand": {

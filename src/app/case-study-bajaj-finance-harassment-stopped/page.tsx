@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'stop recovery agents visiting office pune',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/case-study-bajaj-finance-harassment-stopped',
+    canonical: 'https://www.settleloans.in/case-study-bajaj-finance-harassment-stopped',
   },
   openGraph: {
     title: 'How to Stop Bajaj Finance Recovery Harassment: ₹3L Case Study & Legal Cease-and-Desist',
     description: 'In-depth case study: How aggressive Bajaj Finance recovery agent workplace visits for a ₹3 Lakh loan were stopped immediately through formal RBI legal notices and resolved via OTS.',
-    url: 'https://settleloans.in/case-study-bajaj-finance-harassment-stopped',
+    url: 'https://www.settleloans.in/case-study-bajaj-finance-harassment-stopped',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/case-study-bajaj-finance-harassment-stopped.jpg',
+        url: 'https://www.settleloans.in/images/infographics/case-study-bajaj-finance-harassment-stopped.jpg',
         width: 1200,
         height: 675,
         alt: 'Bajaj Finance Recovery Harassment Legal Defense & Settlement Case Study Infographic',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Stop Bajaj Finance Recovery Harassment: ₹3L Case Study & Legal Cease-and-Desist',
     description: 'Case study proof: Step-by-step breakdown of how illegal recovery agent office visits were halted and a ₹3 Lakh Bajaj Finance loan was settled for ₹1.35 Lakhs.',
-    images: ['https://settleloans.in/images/infographics/case-study-bajaj-finance-harassment-stopped.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/case-study-bajaj-finance-harassment-stopped.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/case-study-bajaj-finance-harassment-stopped#webpage",
-      "url": "https://settleloans.in/case-study-bajaj-finance-harassment-stopped",
+      "@id": "https://www.settleloans.in/case-study-bajaj-finance-harassment-stopped#webpage",
+      "url": "https://www.settleloans.in/case-study-bajaj-finance-harassment-stopped",
       "name": "How to Stop Bajaj Finance Recovery Harassment: ₹3L Case Study & Legal Cease-and-Desist",
       "description": "Real case study: How SettleLoans halted illegal Bajaj Finance recovery agent workplace visits for a ₹3 Lakh loan using RBI cease-and-desist notices and settled the debt for ₹1.35L.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/case-study-bajaj-finance-harassment-stopped#breadcrumb"
+        "@id": "https://www.settleloans.in/case-study-bajaj-finance-harassment-stopped#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/case-study-bajaj-finance-harassment-stopped#breadcrumb",
+      "@id": "https://www.settleloans.in/case-study-bajaj-finance-harassment-stopped#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Bajaj Finance Recovery Harassment Case Study",
-          "item": "https://settleloans.in/case-study-bajaj-finance-harassment-stopped"
+          "item": "https://www.settleloans.in/case-study-bajaj-finance-harassment-stopped"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/case-study-bajaj-finance-harassment-stopped#article",
+      "@id": "https://www.settleloans.in/case-study-bajaj-finance-harassment-stopped#article",
       "headline": "How to Stop Bajaj Finance Recovery Harassment: ₹3 Lakh Workplace Visit Case Study & Legal Cease-and-Desist",
       "description": "A comprehensive proof-of-concept case study detailing how SettleLoans defended a corporate employee against unauthorized recovery agent office visits by Bajaj Finance and negotiated an official 55% OTS debt waiver.",
-      "image": "https://settleloans.in/images/infographics/case-study-bajaj-finance-harassment-stopped.jpg",
+      "image": "https://www.settleloans.in/images/infographics/case-study-bajaj-finance-harassment-stopped.jpg",
       "datePublished": "2026-08-22T12:50:00+05:30",
       "dateModified": "2026-08-22T12:50:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/case-study-bajaj-finance-harassment-stopped#webpage"
+        "@id": "https://www.settleloans.in/case-study-bajaj-finance-harassment-stopped#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/case-study-bajaj-finance-harassment-stopped#service",
+      "@id": "https://www.settleloans.in/case-study-bajaj-finance-harassment-stopped#service",
       "name": "SettleLoans - Bajaj Finance Harassment Defense & Debt Settlement",
       "description": "Specialized legal representation to stop NBFC recovery agent harassment, serve statutory RBI cease-and-desist notices, and negotiate One-Time Settlement (OTS) waivers.",
-      "url": "https://settleloans.in/case-study-bajaj-finance-harassment-stopped",
-      "image": "https://settleloans.in/images/infographics/case-study-bajaj-finance-harassment-stopped.jpg",
+      "url": "https://www.settleloans.in/case-study-bajaj-finance-harassment-stopped",
+      "image": "https://www.settleloans.in/images/infographics/case-study-bajaj-finance-harassment-stopped.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/case-study-bajaj-finance-harassment-stopped#faq",
+      "@id": "https://www.settleloans.in/case-study-bajaj-finance-harassment-stopped#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -284,12 +284,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

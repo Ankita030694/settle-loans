@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Can Banks Attach Provident Fund (EPF) and Gratuity for Loan Recovery?",
   description: "Is the bank threatening to seize your EPF or Gratuity funds for loan default? Learn about Section 60 CPC and EPF Act protections against attachment.",
   alternates: {
-    canonical: "https://settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery",
+    canonical: "https://www.settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery",
   },
 };
 
@@ -16,34 +16,34 @@ export default function EPFAndGratuityProtectionPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery#webpage",
-        "url": "https://settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery",
+        "@id": "https://www.settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery#webpage",
+        "url": "https://www.settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery",
         "name": "Can Banks Attach Provident Fund (EPF) and Gratuity for Loan Recovery?",
         "description": "A reassuring guide detailing the statutory protections around retirement funds in India. Explains Section 60 of the Civil Procedure Code and the EPF Act.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery#breadcrumb",
+        "@id": "https://www.settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "EPF & Gratuity Attachment Protection",
-            "item": "https://settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery"
+            "item": "https://www.settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery#article",
+        "@id": "https://www.settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery#article",
         "headline": "Can Banks Attach Provident Fund (EPF), PF, and Gratuity for Loan Recovery?",
         "description": "Explains Section 60 of the Civil Procedure Code and the EPF Act, which strictly mandate that a borrower's Provident Fund (PF) and Gratuity cannot be attached or seized by any court, bank, or DRT.",
         "author": {
@@ -55,22 +55,22 @@ export default function EPFAndGratuityProtectionPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-05-10",
         "dateModified": "2024-05-10",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery#product",
+        "@id": "https://www.settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery#product",
         "name": "Legal Protection for Retirement Funds (EPF & Gratuity)",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to unfreeze bank accounts and stop illegal attachment of EPF and Gratuity by banks and recovery agents.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -112,7 +112,7 @@ export default function EPFAndGratuityProtectionPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery#faq",
+        "@id": "https://www.settleloans.in/can-bank-attach-provident-fund-pf-and-gratuity-for-loan-recovery#faq",
         "mainEntity": [
           {
             "@type": "Question",

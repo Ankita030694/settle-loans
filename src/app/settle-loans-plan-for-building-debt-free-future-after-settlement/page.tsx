@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "SettleLoans Plan for Building Debt-Free Future After Settlement | 2025 Strategy",
     description: "Master your financial future after loan settlement. Learn the SettleLoans plan for rebuilding credit, securing your legal rights with Amalegal Solutions, and building wealth.",
     alternates: {
-        canonical: "https://settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement",
+        canonical: "https://www.settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement",
     },
 };
 
@@ -17,34 +17,34 @@ export default function DebtFreeFuturePlanPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement#webpage",
-                "url": "https://settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement",
+                "@id": "https://www.settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement#webpage",
+                "url": "https://www.settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement",
                 "name": "SettleLoans Plan for Building Debt-Free Future After Settlement | 2025 Strategy",
                 "description": "A comprehensive roadmap for borrowers who have completed a loan settlement and want to rebuild their credit and financial life.",
-                "breadcrumb": { "@id": "https://settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "SettleLoans Plan for Building Debt-Free Future After Settlement",
-                        "item": "https://settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement"
+                        "item": "https://www.settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement#article",
+                "@id": "https://www.settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement#article",
                 "headline": "SettleLoans Plan for Building Debt-Free Future After Settlement: Your 2025 Roadmap",
                 "description": "Expert advice on financial recovery post-settlement, emphasizing CIBIL score rebuilding, legal protection with Amalegal Solutions, and emergency fund creation.",
                 "author": {
@@ -56,16 +56,16 @@ export default function DebtFreeFuturePlanPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-28",
                 "dateModified": "2024-03-28",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement#product",
+                "@id": "https://www.settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement#product",
                 "name": "Post-Settlement Financial Rebuilding Advisory",
                 "description": "Specialized planning for individuals looking to recover their CIBIL score and achieve financial freedom after a loan settlement.",
                 "aggregateRating": {
@@ -92,7 +92,7 @@ export default function DebtFreeFuturePlanPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement#faq",
+                "@id": "https://www.settleloans.in/settle-loans-plan-for-building-debt-free-future-after-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Which Banks Offer Debt Consolidation Loans in India? (2026 Guide)",
   description: "Explore the top banks and NBFCs in India offering debt consolidation loans in 2026. Compare HDFC, ICICI, SBI, and Axis Bank interest rates, eligibility, and benefits.",
   alternates: {
-    canonical: "https://settleloans.in/which-banks-offer-debt-consolidation-loans-in-india",
+    canonical: "https://www.settleloans.in/which-banks-offer-debt-consolidation-loans-in-india",
   },
 };
 
@@ -16,34 +16,34 @@ export default function DebtConsolidationBanksPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/which-banks-offer-debt-consolidation-loans-in-india#webpage",
-        "url": "https://settleloans.in/which-banks-offer-debt-consolidation-loans-in-india",
+        "@id": "https://www.settleloans.in/which-banks-offer-debt-consolidation-loans-in-india#webpage",
+        "url": "https://www.settleloans.in/which-banks-offer-debt-consolidation-loans-in-india",
         "name": "Which Banks Offer Debt Consolidation Loans in India? 2026 Comparison",
         "description": "The ultimate list of Indian banks offering debt consolidation solutions to help you manage multiple EMIs.",
-        "breadcrumb": { "@id": "https://settleloans.in/which-banks-offer-debt-consolidation-loans-in-india#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/which-banks-offer-debt-consolidation-loans-in-india#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/which-banks-offer-debt-consolidation-loans-in-india#breadcrumb",
+        "@id": "https://www.settleloans.in/which-banks-offer-debt-consolidation-loans-in-india#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Debt Consolidation Banks",
-            "item": "https://settleloans.in/which-banks-offer-debt-consolidation-loans-in-india"
+            "item": "https://www.settleloans.in/which-banks-offer-debt-consolidation-loans-in-india"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/which-banks-offer-debt-consolidation-loans-in-india#article",
+        "@id": "https://www.settleloans.in/which-banks-offer-debt-consolidation-loans-in-india#article",
         "headline": "Which Banks Offer Debt Consolidation Loans in India? Top Picks for 2026",
         "description": "A comprehensive analysis of Indian banking institutions that provide debt consolidation loans, including interest rates and eligibility criteria.",
         "author": {
@@ -55,12 +55,12 @@ export default function DebtConsolidationBanksPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-02-19",
         "dateModified": "2026-02-19",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/which-banks-offer-debt-consolidation-loans-in-india#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/which-banks-offer-debt-consolidation-loans-in-india#webpage" }
       },
       {
         "@type": "FAQPage",

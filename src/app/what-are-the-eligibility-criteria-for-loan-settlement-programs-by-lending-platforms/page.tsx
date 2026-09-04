@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Eligibility Criteria for Loan Settlement Programs by Lending Platforms in India",
   description: "Explore the comprehensive eligibility criteria for loan settlement programs in India. Understand how banks, NBFCs, and fintech platforms evaluate your case for debt resolution.",
   alternates: {
-    canonical: "https://settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms",
+    canonical: "https://www.settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms",
   },
 };
 
@@ -17,34 +17,34 @@ export default function LoanSettlementEligibilityPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms#webpage",
-        "url": "https://settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms",
+        "@id": "https://www.settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms#webpage",
+        "url": "https://www.settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms",
         "name": "Eligibility Criteria for Loan Settlement Programs in India",
         "description": "A detailed guide on who qualifies for a loan settlement and the criteria used by various lending platforms in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms#breadcrumb",
+        "@id": "https://www.settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement Eligibility",
-            "item": "https://settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms"
+            "item": "https://www.settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms#article",
+        "@id": "https://www.settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms#article",
         "headline": "What are the Eligibility Criteria for Loan Settlement Programs in India?",
         "description": "Unlock the secrets to qualifying for a loan settlement. Understand the rigid and flexible rules of Indian financial institutions.",
         "author": {
@@ -56,7 +56,7 @@ export default function LoanSettlementEligibilityPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-21",
@@ -65,12 +65,12 @@ export default function LoanSettlementEligibilityPage() {
       {
         "@type": "Organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
-        "logo": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in",
+        "logo": "https://www.settleloans.in/logo/logo.svg"
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms#product",
+        "@id": "https://www.settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms#product",
         "name": "Debt Resolution Eligibility Assessment",
         "description": "Professional assessment services to determine your eligibility for loan settlement with major Indian lenders.",
         "aggregateRating": {
@@ -90,7 +90,7 @@ export default function LoanSettlementEligibilityPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms#faq",
+        "@id": "https://www.settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms#faq",
         "mainEntity": [
           {
             "@type": "Question",

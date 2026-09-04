@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Personal Loan Settlement Services | Debt Relief & Negotiation Experts",
   description: "Struggling with debt? SettleLoans is a top-rated loan settlement company offering professional debt relief. We help you settle personal loans, negotiate with banks, and become debt-free without taking new loans. Expert financial help for debt management.",
   alternates: {
-    canonical: "https://settleloans.in/services/personal-loan-settlement",
+    canonical: "https://www.settleloans.in/services/personal-loan-settlement",
   },
   keywords: ["loan settlement", "debt relief", "personal loan debt relief", "debt settlement companies", "settle debt", "debt negotiation", "financial help for debt", "debt free program"]
 };
@@ -19,46 +19,46 @@ export default function PersonalLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/services/personal-loan-settlement#webpage",
-        "url": "https://settleloans.in/services/personal-loan-settlement",
+        "@id": "https://www.settleloans.in/services/personal-loan-settlement#webpage",
+        "url": "https://www.settleloans.in/services/personal-loan-settlement",
         "name": "Personal Loan Settlement Services | SettleLoans",
         "description": "Expert personal loan settlement services in India. We help you negotiate with banks, stop recovery harassment, and settle for a reduced amount.",
-        "breadcrumb": { "@id": "https://settleloans.in/services/personal-loan-settlement#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/services/personal-loan-settlement#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/services/personal-loan-settlement#breadcrumb",
+        "@id": "https://www.settleloans.in/services/personal-loan-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Services",
-            "item": "https://settleloans.in/services"
+            "item": "https://www.settleloans.in/services"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Personal Loan Settlement",
-            "item": "https://settleloans.in/services/personal-loan-settlement"
+            "item": "https://www.settleloans.in/services/personal-loan-settlement"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/services/personal-loan-settlement#service",
+        "@id": "https://www.settleloans.in/services/personal-loan-settlement#service",
         "name": "Personal Loan Settlement",
         "description": "Professional negotiation service to settle unsecured personal loans for a reduced lump sum amount.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -84,10 +84,10 @@ export default function PersonalLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/services/personal-loan-settlement#article",
+        "@id": "https://www.settleloans.in/services/personal-loan-settlement#article",
         "headline": "Personal Loan Debt Relief & Settlement: The Complete Guide",
         "description": "A comprehensive guide on how to settle personal loans in India, including RBI guidelines, legal risks like Section 138, and the settlement process.",
-        "image": "https://settleloans.in/hero/settlement.png",
+        "image": "https://www.settleloans.in/hero/settlement.png",
         "author": {
           "@type": "Organization",
           "name": "SettleLoans团队"
@@ -97,16 +97,16 @@ export default function PersonalLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-01-01",
         "dateModified": "2024-01-30",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/services/personal-loan-settlement#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/services/personal-loan-settlement#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/services/personal-loan-settlement#faq",
+        "@id": "https://www.settleloans.in/services/personal-loan-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",

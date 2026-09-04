@@ -53,16 +53,16 @@ export const metadata: Metadata = {
     'settle loan after arbitration notice'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/bank-arbitration-notice-reply',
+    canonical: 'https://www.settleloans.in/bank-arbitration-notice-reply',
   },
   openGraph: {
     title: 'How to Reply to Bank Arbitration Notice: Legal Process, Unilateral Defense & 60% Settlement Guide',
     description: 'Master the legal defense against bank arbitration notices. Understand Section 12(5) invalidation, Perkins Eastman precedent, and how advocate representation converts aggressive arbitration claims into a compromised One-Time Settlement.',
-    url: 'https://settleloans.in/bank-arbitration-notice-reply',
+    url: 'https://www.settleloans.in/bank-arbitration-notice-reply',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/bank-arbitration-notice-reply.jpg',
+        url: 'https://www.settleloans.in/images/infographics/bank-arbitration-notice-reply.jpg',
         width: 1200,
         height: 675,
         alt: 'Bank Arbitration Notice Reply & Legal Loan Settlement Guide',
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Reply to Bank Arbitration Notice: Legal Protections & OTS Blueprint',
     description: 'Received an arbitration notice from ICICI, Axis, HDFC, or Kotak? Learn how to file a formal legal reply, challenge unilateral appointments, and secure an official debt settlement.',
-    images: ['https://settleloans.in/images/infographics/bank-arbitration-notice-reply.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/bank-arbitration-notice-reply.jpg'],
   },
 };
 
@@ -84,74 +84,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/bank-arbitration-notice-reply#webpage",
-      "url": "https://settleloans.in/bank-arbitration-notice-reply",
+      "@id": "https://www.settleloans.in/bank-arbitration-notice-reply#webpage",
+      "url": "https://www.settleloans.in/bank-arbitration-notice-reply",
       "name": "How to Reply to Bank Arbitration Notice: Legal Process, Unilateral Defense & 60% Settlement Guide (2026)",
       "description": "Learn how to reply to a bank arbitration notice for personal loans and credit cards. Discover why unilateral arbitrator appointments by ICICI, Axis, HDFC, and Kotak violate Supreme Court rulings, how to challenge bias under Section 12(5), and how advocates force a 50%–65% OTS settlement.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/bank-arbitration-notice-reply#breadcrumb"
+        "@id": "https://www.settleloans.in/bank-arbitration-notice-reply#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/bank-arbitration-notice-reply#breadcrumb",
+      "@id": "https://www.settleloans.in/bank-arbitration-notice-reply#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Bank Arbitration Notice Reply Guide",
-          "item": "https://settleloans.in/bank-arbitration-notice-reply"
+          "item": "https://www.settleloans.in/bank-arbitration-notice-reply"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/bank-arbitration-notice-reply#article",
+      "@id": "https://www.settleloans.in/bank-arbitration-notice-reply#article",
       "headline": "How to Reply to Bank Arbitration Notice: Legal Defense, Unilateral Arbitrator Invalidation & Debt Settlement",
       "description": "An exhaustive legal analysis of bank arbitration proceedings in India. Explains unilateral appointment illegalities under Section 12(5) of the Arbitration Act, Perkins Eastman doctrine, drafting defensive replies, and leveraging arbitral hearings to secure a binding compromise award.",
-      "image": "https://settleloans.in/images/infographics/bank-arbitration-notice-reply.jpg",
+      "image": "https://www.settleloans.in/images/infographics/bank-arbitration-notice-reply.jpg",
       "datePublished": "2026-08-24T12:00:00+05:30",
       "dateModified": "2026-08-24T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/bank-arbitration-notice-reply#webpage"
+        "@id": "https://www.settleloans.in/bank-arbitration-notice-reply#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/bank-arbitration-notice-reply#service",
+      "@id": "https://www.settleloans.in/bank-arbitration-notice-reply#service",
       "name": "SettleLoans - Bank Arbitration Defense & Compromise Settlement Advisory",
       "description": "Specialized legal representation and financial negotiation services for borrowers facing bank arbitration notices, unilateral arbitrator appointments, and debt recovery claims from major Indian private banks and NBFCs.",
-      "url": "https://settleloans.in/bank-arbitration-notice-reply",
-      "image": "https://settleloans.in/images/infographics/bank-arbitration-notice-reply.jpg",
+      "url": "https://www.settleloans.in/bank-arbitration-notice-reply",
+      "image": "https://www.settleloans.in/images/infographics/bank-arbitration-notice-reply.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -164,9 +164,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -240,7 +240,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/bank-arbitration-notice-reply#faq",
+      "@id": "https://www.settleloans.in/bank-arbitration-notice-reply#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -326,12 +326,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

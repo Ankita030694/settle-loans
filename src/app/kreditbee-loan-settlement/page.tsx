@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'kreditbee no dues certificate ndc',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/kreditbee-loan-settlement',
+    canonical: 'https://www.settleloans.in/kreditbee-loan-settlement',
   },
   openGraph: {
     title: 'KreditBee Loan Settlement: OTS Rules, Legal Defense & Harassment Shield (2026)',
     description: 'Struggling with defaulted KreditBee instant personal loans? Discover how to negotiate with Krazybee Services NBFC, halt third-party collection harassment, defend against legal notices, and secure a 50%–65% OTS haircut with an official zero-balance NDC.',
-    url: 'https://settleloans.in/kreditbee-loan-settlement',
+    url: 'https://www.settleloans.in/kreditbee-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/kreditbee-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/kreditbee-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'KreditBee Loan Settlement Process, NACH Bounce Defense, and OTS Haircut Guide',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'KreditBee Loan Settlement: OTS Process & Anti-Harassment Defense',
     description: 'Technical and legal defense blueprint for resolving defaulted KreditBee app loans up to ₹5 Lakhs under RBI compromise frameworks and Digital Lending Guidelines.',
-    images: ['https://settleloans.in/images/infographics/kreditbee-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/kreditbee-loan-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/kreditbee-loan-settlement#webpage",
-      "url": "https://settleloans.in/kreditbee-loan-settlement",
+      "@id": "https://www.settleloans.in/kreditbee-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/kreditbee-loan-settlement",
       "name": "KreditBee Loan Settlement: OTS Rules, Legal Defense & Harassment Shield (2026)",
       "description": "Complete legal guide to KreditBee and Krazybee Services personal loan settlement. Halt automated recovery calls and WhatsApp harassment, stop NACH bounce charges, defend Section 25 PSSA notices, and negotiate up to 65% OTS haircut under RBI guidelines.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/kreditbee-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/kreditbee-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/kreditbee-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/kreditbee-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "KreditBee Loan Settlement",
-          "item": "https://settleloans.in/kreditbee-loan-settlement"
+          "item": "https://www.settleloans.in/kreditbee-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/kreditbee-loan-settlement#article",
+      "@id": "https://www.settleloans.in/kreditbee-loan-settlement#article",
       "headline": "KreditBee Loan Settlement Process: OTS Rules, Anti-Harassment Legal Shield & 50-65% Haircut",
       "description": "An exhaustive technical and legal manual on resolving defaulted KreditBee personal loans, curbing aggressive tele-calling bots and WhatsApp intimidation, countering Section 25 PSSA notices, and executing a formal RBI-compliant One-Time Settlement with Krazybee Services Private Limited.",
-      "image": "https://settleloans.in/images/infographics/kreditbee-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/kreditbee-loan-settlement.jpg",
       "datePublished": "2026-08-24T13:00:00+05:30",
       "dateModified": "2026-08-24T13:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/kreditbee-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/kreditbee-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/kreditbee-loan-settlement#service",
+      "@id": "https://www.settleloans.in/kreditbee-loan-settlement#service",
       "name": "SettleLoans - KreditBee Loan Settlement & Legal Defense",
       "description": "Specialized legal debt advisory and negotiation services for borrowers facing default on KreditBee app personal loans and digital credit lines. Representation before Krazybee Services NBFC Stressed Asset Desks, anti-harassment defense, and structured One-Time Settlement execution.",
-      "url": "https://settleloans.in/kreditbee-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/kreditbee-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/kreditbee-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/kreditbee-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/kreditbee-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/kreditbee-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -292,12 +292,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Bank Filed Civil Suit for Loan Recovery: Order 37 CPC Summons Guide",
   description: "A technical legal breakdown for borrowers who have received a court summons under Order 37 of the CPC (Summary Suit). Learn how to reply to an Order 37 summons and seek leave to defend within 10 days.",
   alternates: {
-    canonical: "https://settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons",
+    canonical: "https://www.settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons",
   },
 };
 
@@ -16,34 +16,34 @@ export default function Order37SummonsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons#webpage",
-        "url": "https://settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons",
+        "@id": "https://www.settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons#webpage",
+        "url": "https://www.settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons",
         "name": "Bank Filed Civil Suit for Loan Recovery: Order 37 CPC Summons Guide",
         "description": "Technical legal breakdown for borrowers who received a court summons under Order 37 CPC (Summary Suit) for loan recovery. Learn how to respond.",
-        "breadcrumb": { "@id": "https://settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons#breadcrumb",
+        "@id": "https://www.settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Order 37 CPC Bank Loan Guide",
-            "item": "https://settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons"
+            "item": "https://www.settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons#article",
+        "@id": "https://www.settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons#article",
         "headline": "What to do if a Bank Filed a Civil Suit Against Me under Order 37 CPC",
         "description": "Understand the timeline and legal procedures when dealing with a summary suit for loan recovery under Order 37 CPC.",
         "author": {
@@ -55,22 +55,22 @@ export default function Order37SummonsPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-05-15",
         "dateModified": "2024-05-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons#product",
+        "@id": "https://www.settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons#product",
         "name": "Order 37 CPC Legal Defense & Loan Settlement Services",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert DRT and civil lawyers helping borrowers file their appearance and seek leave to defend against Order 37 CPC bank loan recovery suits.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -112,7 +112,7 @@ export default function Order37SummonsPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons#faq",
+        "@id": "https://www.settleloans.in/bank-filed-civil-suit-for-loan-recovery-order-37-cpc-summons#faq",
         "mainEntity": [
           {
             "@type": "Question",

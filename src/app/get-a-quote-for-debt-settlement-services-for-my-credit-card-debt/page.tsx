@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Get a Quote for Credit Card Debt Settlement Services in India | Real Savings",
   description: "Learn how to get a personalized quote for credit card debt settlement. Explore fee models, saving potentials, and expert negotiation strategies to settle for 40-60%.",
   alternates: {
-    canonical: "https://settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt",
+    canonical: "https://www.settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt",
   },
 };
 
@@ -17,34 +17,34 @@ export default function CreditCardQuotePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt#webpage",
-        "url": "https://settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt",
+        "@id": "https://www.settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt#webpage",
+        "url": "https://www.settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt",
         "name": "Get a Quote for Credit Card Debt Settlement Services",
         "description": "Comprehensive guide on obtaining and understanding quotes for professional credit card debt settlement in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt#breadcrumb",
+        "@id": "https://www.settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Get a Settlement Quote",
-            "item": "https://settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt"
+            "item": "https://www.settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt#article",
+        "@id": "https://www.settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt#article",
         "headline": "How to Get a Professional Quote for Credit Card Debt Settlement",
         "description": "Discover the factors that influence your settlement quote and how to secure the best deal for your credit card debt.",
         "author": {
@@ -56,7 +56,7 @@ export default function CreditCardQuotePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-21",
@@ -64,7 +64,7 @@ export default function CreditCardQuotePage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt#product",
+        "@id": "https://www.settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt#product",
         "name": "Credit Card Settlement Quote Service",
         "description": "Professional assessment and quotation for credit card debt resolution.",
         "aggregateRating": {
@@ -84,7 +84,7 @@ export default function CreditCardQuotePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt#faq",
+        "@id": "https://www.settleloans.in/get-a-quote-for-debt-settlement-services-for-my-credit-card-debt#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -441,7 +441,7 @@ export default function CreditCardQuotePage() {
             <section id="settleloans-perspective" className="scroll-mt-32 mb-16 bg-[#2E2E2E] text-[#DEDEDE] p-12 rounded-3xl border border-[#1F5EFF]/20 shadow-2xl relative overflow-hidden text-center">
               <div className="absolute bottom-0 left-0 w-full h-1 bg-[#1F5EFF]"></div>
               <h3 className="text-4xl font-black text-[#1F5EFF] mb-4 uppercase tracking-tighter">The SettleLoans Difference</h3>
-              <Link href="https://settleloans.in" target="_blank" className="inline-block mb-8 text-[#1F5EFF] font-bold hover:underline underline-offset-4">www.settleloans.in</Link>
+              <Link href="https://www.settleloans.in" target="_blank" className="inline-block mb-8 text-[#1F5EFF] font-bold hover:underline underline-offset-4">www.settleloans.in</Link>
               <p className="text-lg mb-8 leading-relaxed opacity-90 text-left">
                 At <strong>SettleLoans</strong>, we believe every borrower deserves a second chance. Our quoting process is designed as a 'Life Audit.' We look beyond the numbers to see the human being behind the debt. We understand that your credit card debt might be the result of a medical crisis, a business failure, or an unforeseen layoff. Our quotes are all-inclusive, with no hidden charges for legal drafting, call management, or relationship manager access.
               </p>

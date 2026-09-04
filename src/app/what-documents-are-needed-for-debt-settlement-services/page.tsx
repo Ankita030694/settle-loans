@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Documents Needed for Debt Settlement Services in India | 2025 Checklist",
   description: "Complete list of documents required for debt settlement in India. Learn about KYC, financial hardship proof, income documents, and post-settlement NOC requirements.",
   alternates: {
-    canonical: "https://settleloans.in/what-documents-are-needed-for-debt-settlement-services",
+    canonical: "https://www.settleloans.in/what-documents-are-needed-for-debt-settlement-services",
   },
 };
 
@@ -16,34 +16,34 @@ export default function DocumentRequirementsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-documents-are-needed-for-debt-settlement-services#webpage",
-        "url": "https://settleloans.in/what-documents-are-needed-for-debt-settlement-services",
+        "@id": "https://www.settleloans.in/what-documents-are-needed-for-debt-settlement-services#webpage",
+        "url": "https://www.settleloans.in/what-documents-are-needed-for-debt-settlement-services",
         "name": "Documents Needed for Debt Settlement Services in India | 2025 Checklist",
         "description": "Comprehensive guide to all document requirements for the debt settlement process in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-documents-are-needed-for-debt-settlement-services#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-documents-are-needed-for-debt-settlement-services#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-documents-are-needed-for-debt-settlement-services#breadcrumb",
+        "@id": "https://www.settleloans.in/what-documents-are-needed-for-debt-settlement-services#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Document Requirements",
-            "item": "https://settleloans.in/what-documents-are-needed-for-debt-settlement-services"
+            "item": "https://www.settleloans.in/what-documents-are-needed-for-debt-settlement-services"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-documents-are-needed-for-debt-settlement-services#article",
+        "@id": "https://www.settleloans.in/what-documents-are-needed-for-debt-settlement-services#article",
         "headline": "What Documents Are Needed for Debt Settlement Services? The 2025 Indian Guide",
         "description": "Identify and organize all necessary paperwork for a successful loan settlement. From income proof to hardship letters, we cover every detail.",
         "author": {
@@ -55,16 +55,16 @@ export default function DocumentRequirementsPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-18",
         "dateModified": "2024-03-18",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-documents-are-needed-for-debt-settlement-services#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-documents-are-needed-for-debt-settlement-services#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-documents-are-needed-for-debt-settlement-services#product",
+        "@id": "https://www.settleloans.in/what-documents-are-needed-for-debt-settlement-services#product",
         "name": "Debt Settlement Document Assistance",
         "description": "Expert guidance on preparing and organizing documents for the loan settlement process in India.",
         "aggregateRating": {
@@ -105,7 +105,7 @@ export default function DocumentRequirementsPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-documents-are-needed-for-debt-settlement-services#faq",
+        "@id": "https://www.settleloans.in/what-documents-are-needed-for-debt-settlement-services#faq",
         "mainEntity": [
           {
             "@type": "Question",

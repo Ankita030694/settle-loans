@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How Can I Initiate a Full and Final Settlement Discussion with My Bank? (2026 Guide)",
   description: "Comprehensive guide on initiating a full and final loan settlement with your bank in India. Learn the process, documentation, and negotiation strategies for debt relief.",
   alternates: {
-    canonical: "https://settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank",
+    canonical: "https://www.settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank",
   },
 };
 
@@ -16,34 +16,34 @@ export default function InitiateSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank#webpage",
-        "url": "https://settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank",
+        "@id": "https://www.settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank#webpage",
+        "url": "https://www.settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank",
         "name": "How Can I Initiate a Full and Final Settlement Discussion with My Bank",
         "description": "Step-by-step guide to starting a successful debt settlement conversation with Indian banks.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank#breadcrumb",
+        "@id": "https://www.settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Initiate Settlement Discussion",
-            "item": "https://settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank"
+            "item": "https://www.settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank#article",
+        "@id": "https://www.settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank#article",
         "headline": "How Can I Initiate a Full and Final Settlement Discussion with My Bank?",
         "description": "Master the art of initiating a full and final loan settlement. Learn the steps, legal rights, and negotiation tips to clear your debt in 2026.",
         "author": {
@@ -55,22 +55,22 @@ export default function InitiateSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-03-19",
         "dateModified": "2026-03-19",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank#webpage" }
       },
       {
         "@type": "Organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
-        "logo": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in",
+        "logo": "https://www.settleloans.in/logo/logo.svg"
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank#product",
+        "@id": "https://www.settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank#product",
         "name": "Debt Settlement Consultation",
         "description": "Professional assistance in preparing and presenting your full and final settlement case to banks and NBFCs.",
         "aggregateRating": {
@@ -90,7 +90,7 @@ export default function InitiateSettlementPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank#faq",
+        "@id": "https://www.settleloans.in/how-can-i-initiate-a-full-and-final-settlement-discussion-with-my-bank#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Legal Loan Settlement Services in Rajasthan | 40-70% Debt Waiver",
   description: "Struggling with bank debts in Jaipur, Jodhpur, or Udaipur? Get professional legal representation, stop recovery agent harassment, and settle your credit cards and personal loans with up to 70% waiver. Expert Lok Adalat guidance for Rajasthan residents.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/rajasthan",
+    canonical: "https://www.settleloans.in/loan-settlement/rajasthan",
   },
 };
 
@@ -16,47 +16,47 @@ export default function RajasthanLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/rajasthan#webpage",
-        "url": "https://settleloans.in/loan-settlement/rajasthan",
+        "@id": "https://www.settleloans.in/loan-settlement/rajasthan#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/rajasthan",
         "name": "Expert Loan Settlement Services in Rajasthan | 40nd 70% Waiver Experts",
         "description": "Struggling with bank debts in Rajasthan? Get expert legal representation in Jaipur, Jodhpur and Udaipur. Settle credit cards and personal loans with 70% waiver.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/rajasthan#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/rajasthan#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/rajasthan#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/rajasthan#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/rajasthan#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/rajasthan#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Rajasthan",
-            "item": "https://settleloans.in/loan-settlement/rajasthan"
+            "item": "https://www.settleloans.in/loan-settlement/rajasthan"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/rajasthan#service",
+        "@id": "https://www.settleloans.in/loan-settlement/rajasthan#service",
         "name": "Rajasthan Loan Settlement Services",
         "description": "Professional debt negotiation and legal protection services for personal loans and credit cards in Rajasthan.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": {
           "@type": "State",
@@ -86,7 +86,7 @@ export default function RajasthanLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/rajasthan#article",
+        "@id": "https://www.settleloans.in/loan-settlement/rajasthan#article",
         "headline": "Complete Guide to Loan Settlement in Rajasthan | Laws and Procedures",
         "description": "A comprehensive guide on how loan settlement works in Rajasthan, covering RSLSA rules, legal help, Lok Adalats, and state debt relief schemes like Samadhan 2024.",
         "author": {
@@ -98,16 +98,16 @@ export default function RajasthanLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-03",
         "dateModified": "2024-02-03",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/rajasthan#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/rajasthan#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/rajasthan#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/rajasthan#faq",
         "mainEntity": [
           {
             "@type": "Question",

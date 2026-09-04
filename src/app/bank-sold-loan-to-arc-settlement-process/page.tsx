@@ -46,16 +46,16 @@ export const metadata: Metadata = {
     'arc cibil score update no dues certificate'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/bank-sold-loan-to-arc-settlement-process',
+    canonical: 'https://www.settleloans.in/bank-sold-loan-to-arc-settlement-process',
   },
   openGraph: {
     title: 'Bank Sold Loan to ARC Settlement Process: Settle Debt Assigned to ARCs',
     description: 'Master the legal and strategic roadmap to settle distressed debt sold by commercial banks to Asset Reconstruction Companies (ARCs). Learn how to leverage ARC low acquisition cost for 70%–80% principal haircut settlements.',
-    url: 'https://settleloans.in/bank-sold-loan-to-arc-settlement-process',
+    url: 'https://www.settleloans.in/bank-sold-loan-to-arc-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/bank-sold-loan-to-arc-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/bank-sold-loan-to-arc-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'Bank Sold Loan to ARC Settlement Process & Debt Assignment Guide',
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Bank Sold Loan to ARC Settlement Process: Settle Debt Assigned to ARCs',
     description: 'Did your bank assign your bad loan to an ARC? Discover how Section 5 of the SARFAESI Act works and how advocate representation secures massive 70%–80% debt compromise settlements.',
-    images: ['https://settleloans.in/images/infographics/bank-sold-loan-to-arc-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/bank-sold-loan-to-arc-settlement-process.jpg'],
   },
 };
 
@@ -77,74 +77,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/bank-sold-loan-to-arc-settlement-process#webpage",
-      "url": "https://settleloans.in/bank-sold-loan-to-arc-settlement-process",
+      "@id": "https://www.settleloans.in/bank-sold-loan-to-arc-settlement-process#webpage",
+      "url": "https://www.settleloans.in/bank-sold-loan-to-arc-settlement-process",
       "name": "Bank Sold Loan to ARC Settlement Process: Settle Debt Assigned to ARCs (2026)",
       "description": "Has your bank sold your defaulted loan to an Asset Reconstruction Company (ARC)? Learn the debt assignment framework under Section 5 of SARFAESI, why ARCs purchase NPAs at 15%–25% discounts, and how to negotiate a 70%–80% haircut settlement with Phoenix, ARCIL, Edelweiss, or CFM ARC.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/bank-sold-loan-to-arc-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/bank-sold-loan-to-arc-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/bank-sold-loan-to-arc-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/bank-sold-loan-to-arc-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Bank Sold Loan to ARC Settlement Process",
-          "item": "https://settleloans.in/bank-sold-loan-to-arc-settlement-process"
+          "item": "https://www.settleloans.in/bank-sold-loan-to-arc-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/bank-sold-loan-to-arc-settlement-process#article",
+      "@id": "https://www.settleloans.in/bank-sold-loan-to-arc-settlement-process#article",
       "headline": "Bank Sold Loan to ARC Settlement Process: How to Settle Debt Assigned to Asset Reconstruction Companies",
       "description": "A comprehensive regulatory, financial, and legal guide explaining what happens when commercial banks assign bad loans to Asset Reconstruction Companies (ARCs) under Section 5 of the SARFAESI Act. Details discounted portfolio acquisitions, Security Receipts resolution pressure, and advocate-led negotiation strategies to secure 70% to 80% haircut settlements.",
-      "image": "https://settleloans.in/images/infographics/bank-sold-loan-to-arc-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/bank-sold-loan-to-arc-settlement-process.jpg",
       "datePublished": "2026-08-26T10:00:00+05:30",
       "dateModified": "2026-08-26T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/bank-sold-loan-to-arc-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/bank-sold-loan-to-arc-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/bank-sold-loan-to-arc-settlement-process#service",
+      "@id": "https://www.settleloans.in/bank-sold-loan-to-arc-settlement-process#service",
       "name": "SettleLoans - ARC Debt Settlement & Distressed Asset Legal Advisory",
       "description": "Specialized legal representation and debt resolution advisory for borrowers whose non-performing personal loans, business loans, home loans, or credit cards have been assigned or sold to Asset Reconstruction Companies across India.",
-      "url": "https://settleloans.in/bank-sold-loan-to-arc-settlement-process",
-      "image": "https://settleloans.in/images/infographics/bank-sold-loan-to-arc-settlement-process.jpg",
+      "url": "https://www.settleloans.in/bank-sold-loan-to-arc-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/bank-sold-loan-to-arc-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -157,9 +157,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -233,7 +233,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/bank-sold-loan-to-arc-settlement-process#faq",
+      "@id": "https://www.settleloans.in/bank-sold-loan-to-arc-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -311,12 +311,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

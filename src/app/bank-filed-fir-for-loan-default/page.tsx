@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Bank Filed FIR for Loan Default in India | Legal Rights & Recovery Guide",
     description: "Has a bank filed an FIR for your loan default? Learn the difference between civil and criminal default, Section 420 IPC, Section 138 NI Act, and how to protect yourself from illegal harassment.",
     alternates: {
-        canonical: "https://settleloans.in/bank-filed-fir-for-loan-default",
+        canonical: "https://www.settleloans.in/bank-filed-fir-for-loan-default",
     },
 };
 
@@ -16,34 +16,34 @@ export default function BankFiledFIRPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/bank-filed-fir-for-loan-default#webpage",
-                "url": "https://settleloans.in/bank-filed-fir-for-loan-default",
+                "@id": "https://www.settleloans.in/bank-filed-fir-for-loan-default#webpage",
+                "url": "https://www.settleloans.in/bank-filed-fir-for-loan-default",
                 "name": "Bank Filed FIR for Loan Default in India | Legal Rights & Recovery Guide",
                 "description": "Comprehensive guide on FIRs filed by banks for loan defaults, covering IPC sections, legal defenses, and borrower protections.",
-                "breadcrumb": { "@id": "https://settleloans.in/bank-filed-fir-for-loan-default#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/bank-filed-fir-for-loan-default#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/bank-filed-fir-for-loan-default#breadcrumb",
+                "@id": "https://www.settleloans.in/bank-filed-fir-for-loan-default#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Bank Filed FIR for Loan Default",
-                        "item": "https://settleloans.in/bank-filed-fir-for-loan-default"
+                        "item": "https://www.settleloans.in/bank-filed-fir-for-loan-default"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/bank-filed-fir-for-loan-default#article",
+                "@id": "https://www.settleloans.in/bank-filed-fir-for-loan-default#article",
                 "headline": "What to Do When a Bank Files an FIR for Loan Default: A Comprehensive Support Guide",
                 "description": "Understand the legal implications of an FIR for loan default in India. Learn about civil vs criminal cases and how to defend your rights.",
                 "author": {
@@ -55,16 +55,16 @@ export default function BankFiledFIRPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-10",
                 "dateModified": "2024-03-10",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/bank-filed-fir-for-loan-default#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/bank-filed-fir-for-loan-default#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/bank-filed-fir-for-loan-default#product",
+                "@id": "https://www.settleloans.in/bank-filed-fir-for-loan-default#product",
                 "name": "Loan Default Legal Support & Negotiation",
                 "description": "Expert assistance in handling bank FIRs and negotiating loan settlements in India.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function BankFiledFIRPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/bank-filed-fir-for-loan-default#faq",
+                "@id": "https://www.settleloans.in/bank-filed-fir-for-loan-default#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

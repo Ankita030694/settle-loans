@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Best Lawyer for Project Finance & Builder Loan Recovery | SettleLoans",
     description: "Expert legal defense for project finance disputes and builder loan recovery in India. Navigate RBI 2025 project finance guidelines, RERA vs IBC conflicts, and project debt restructuring.",
     alternates: {
-        canonical: "https://settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer",
+        canonical: "https://www.settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer",
     },
 };
 
@@ -18,34 +18,34 @@ export default function ProjectFinanceLawyerPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer#webpage",
-                "url": "https://settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer",
+                "@id": "https://www.settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer#webpage",
+                "url": "https://www.settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer",
                 "name": "Best Lawyer for Project Finance & Builder Loan Recovery | SettleLoans",
                 "description": "Comprehensive legal guide for builders and developers on project finance recovery, RBI guidelines, and debt defense.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer#breadcrumb",
+                "@id": "https://www.settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Project Finance & Builder Loan Recovery",
-                        "item": "https://settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer"
+                        "item": "https://www.settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer#article",
+                "@id": "https://www.settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer#article",
                 "headline": "Navigating Project Finance & Builder Loan Recovery in India: Legal Defenses & RBI 2025 Norms",
                 "description": "A deep dive into the legal complexities of project finance for developers, including RERA compliance, IBC challenges, and the new RBI guidelines for 2025.",
                 "author": {
@@ -57,16 +57,16 @@ export default function ProjectFinanceLawyerPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-03",
                 "dateModified": "2024-03-03",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer#product",
+                "@id": "https://www.settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer#product",
                 "name": "Project Finance Legal Defense Service",
                 "description": "Specialized legal representation for builders and developers in project finance recovery and dispute matters.",
                 "aggregateRating": {
@@ -93,7 +93,7 @@ export default function ProjectFinanceLawyerPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer#faq",
+                "@id": "https://www.settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

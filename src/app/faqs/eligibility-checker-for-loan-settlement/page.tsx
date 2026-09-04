@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Check Loan Settlement Eligibility | Am I Eligible? - SettleLoans",
   description: "Unsure if you qualify for loan settlement? Use our detailed eligibility checker guide. Understand the 4 core criteria, NPA status rules, and documentation required to settle your debt.",
   alternates: {
-    canonical: "https://settleloans.in/eligibility-checker-for-loan-settlement",
+    canonical: "https://www.settleloans.in/eligibility-checker-for-loan-settlement",
   },
 };
 
@@ -16,40 +16,40 @@ export default function EligibilityCheckerPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#webpage",
-        "url": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement",
+        "@id": "https://www.settleloans.in/faqs/eligibility-checker-for-loan-settlement#webpage",
+        "url": "https://www.settleloans.in/faqs/eligibility-checker-for-loan-settlement",
         "name": "Check Loan Settlement Eligibility | Am I Eligible? - SettleLoans",
         "description": "Unsure if you qualify for loan settlement? Use our detailed eligibility checker guide. Understand the 4 core criteria, NPA status rules, and documentation required to settle your debt.",
-        "breadcrumb": { "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/faqs/eligibility-checker-for-loan-settlement#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#breadcrumb",
+        "@id": "https://www.settleloans.in/faqs/eligibility-checker-for-loan-settlement#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "FAQs",
-            "item": "https://settleloans.in/faqs"
+            "item": "https://www.settleloans.in/faqs"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Eligibility Checker",
-            "item": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement"
+            "item": "https://www.settleloans.in/faqs/eligibility-checker-for-loan-settlement"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#article",
+        "@id": "https://www.settleloans.in/faqs/eligibility-checker-for-loan-settlement#article",
         "headline": "Loan Settlement Eligibility Checker: Do You Qualify?",
         "description": "A comprehensive guide and checklist to determine if you are eligible for a one-time loan settlement with banks in India.",
         "author": {
@@ -61,16 +61,16 @@ export default function EligibilityCheckerPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-01-20",
         "dateModified": "2024-01-30",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/faqs/eligibility-checker-for-loan-settlement#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#faq",
+        "@id": "https://www.settleloans.in/faqs/eligibility-checker-for-loan-settlement#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -92,13 +92,13 @@ export default function EligibilityCheckerPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/faqs/eligibility-checker-for-loan-settlement#service",
+        "@id": "https://www.settleloans.in/faqs/eligibility-checker-for-loan-settlement#service",
         "name": "Loan Settlement Eligibility Assessment",
         "description": "Detailed assessment tool to check qualification for bank loan settlement.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",

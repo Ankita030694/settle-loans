@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Payday Loan Settlement Lawyer India | Stop App Harassment & Settle Debt",
     description: "Caught in a payday loan app debt trap? Get expert legal help to settle online loans, stop harassment, and protect your data. RBI compliant legal defense.",
     alternates: {
-        canonical: "https://settleloans.in/payday-loan-settlement-lawyer",
+        canonical: "https://www.settleloans.in/payday-loan-settlement-lawyer",
     },
 };
 
@@ -16,34 +16,34 @@ export default function PaydayLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/payday-loan-settlement-lawyer#webpage",
-                "url": "https://settleloans.in/payday-loan-settlement-lawyer",
+                "@id": "https://www.settleloans.in/payday-loan-settlement-lawyer#webpage",
+                "url": "https://www.settleloans.in/payday-loan-settlement-lawyer",
                 "name": "Payday Loan Settlement Lawyer India | Stop App Harassment & Settle Debt",
                 "description": "Comprehensive legal guide and assistance for victims of predatory payday loan apps in India. Legal protection against harassment and debt settlement solutions.",
-                "breadcrumb": { "@id": "https://settleloans.in/payday-loan-settlement-lawyer#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/payday-loan-settlement-lawyer#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/payday-loan-settlement-lawyer#breadcrumb",
+                "@id": "https://www.settleloans.in/payday-loan-settlement-lawyer#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Payday Loan Settlement Lawyer",
-                        "item": "https://settleloans.in/payday-loan-settlement-lawyer"
+                        "item": "https://www.settleloans.in/payday-loan-settlement-lawyer"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/payday-loan-settlement-lawyer#article",
+                "@id": "https://www.settleloans.in/payday-loan-settlement-lawyer#article",
                 "headline": "Payday Loan Settlement: The Criminal Law & RBI Defense Strategy",
                 "description": "A masterclass on fighting back against predatory loan apps, stopping contact list harassment, and negotiating legal settlements.",
                 "author": {
@@ -55,16 +55,16 @@ export default function PaydayLoanSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-07",
                 "dateModified": "2024-03-07",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/payday-loan-settlement-lawyer#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/payday-loan-settlement-lawyer#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/payday-loan-settlement-lawyer#product",
+                "@id": "https://www.settleloans.in/payday-loan-settlement-lawyer#product",
                 "name": "Online Loan Fraud Defense & Settlement",
                 "description": "Expert legal representation for victims of high-interest payday loan apps facing harassment and data theft.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function PaydayLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/payday-loan-settlement-lawyer#faq",
+                "@id": "https://www.settleloans.in/payday-loan-settlement-lawyer#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

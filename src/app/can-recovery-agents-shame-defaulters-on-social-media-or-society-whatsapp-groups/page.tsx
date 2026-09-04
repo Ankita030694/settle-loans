@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Can Recovery Agents Shame Defaulters on Social Media or WhatsApp?",
   description: "Learn your legal rights if recovery agents threaten to post your loan default on Facebook, LinkedIn, or your housing society WhatsApp group. Fight defamation today.",
   alternates: {
-    canonical: "https://settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups",
+    canonical: "https://www.settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups",
   },
 };
 
@@ -16,34 +16,34 @@ export default function SocialMediaShamingDefensePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups#webpage",
-        "url": "https://settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups",
+        "@id": "https://www.settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups#webpage",
+        "url": "https://www.settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups",
         "name": "Can Recovery Agents Shame Defaulters on Social Media or WhatsApp?",
         "description": "A strong legal guide addressing extreme cyber-harassment and social shaming tactics by loan recovery agents. Learn how to file an FIR and defamation suit.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups#breadcrumb",
+        "@id": "https://www.settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Recovery Agents Social Media Shaming",
-            "item": "https://settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups"
+            "item": "https://www.settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups#article",
+        "@id": "https://www.settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups#article",
         "headline": "Can Recovery Agents Shame Defaulters on Social Media or Society WhatsApp Groups?",
         "description": "Understand the Supreme Court's stance on a borrower's right to privacy and how to fight defamation by loan recovery agents.",
         "author": {
@@ -55,22 +55,22 @@ export default function SocialMediaShamingDefensePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-06-15",
         "dateModified": "2024-06-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups#product",
+        "@id": "https://www.settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups#product",
         "name": "Defamation Legal Notice & FIR Services against Banks",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert legal services to stop cyber-harassment, file cybercrime FIRs, and send strong defamation notices to banks and recovery agents.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -112,7 +112,7 @@ export default function SocialMediaShamingDefensePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups#faq",
+        "@id": "https://www.settleloans.in/can-recovery-agents-shame-defaulters-on-social-media-or-society-whatsapp-groups#faq",
         "mainEntity": [
           {
             "@type": "Question",

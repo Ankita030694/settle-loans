@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'credit card bill unpaid for 6 months',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/credit-card-bill-na-bharne-ke-nuksan',
+    canonical: 'https://www.settleloans.in/credit-card-bill-na-bharne-ke-nuksan',
   },
   openGraph: {
     title: 'Credit Card Bill Na Bharne Ke Nuksan: 42% APR Trap, Legal Reality & 60-70% Settlement (2026)',
     description: 'Understand the hidden dangers of credit card default in India: 42% APR compounding, collection agency escalation, civil legal notices, and how to negotiate a structured 60%–70% One-Time Settlement under RBI frameworks.',
-    url: 'https://settleloans.in/credit-card-bill-na-bharne-ke-nuksan',
+    url: 'https://www.settleloans.in/credit-card-bill-na-bharne-ke-nuksan',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/credit-card-bill-na-bharne-ke-nuksan.jpg',
+        url: 'https://www.settleloans.in/images/infographics/credit-card-bill-na-bharne-ke-nuksan.jpg',
         width: 1200,
         height: 675,
         alt: 'Credit Card Bill Non-Payment Consequences, 42% APR Finance Charge Trap, and Settlement Roadmap',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Credit Card Bill Na Bharne Ke Nuksan: 42% APR Trap & Settlement Guide',
     description: 'Technical and legal manual for managing defaulted credit card debt across Indian banks, stopping recovery harassment, and securing 60%–70% OTS waivers.',
-    images: ['https://settleloans.in/images/infographics/credit-card-bill-na-bharne-ke-nuksan.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/credit-card-bill-na-bharne-ke-nuksan.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/credit-card-bill-na-bharne-ke-nuksan#webpage",
-      "url": "https://settleloans.in/credit-card-bill-na-bharne-ke-nuksan",
+      "@id": "https://www.settleloans.in/credit-card-bill-na-bharne-ke-nuksan#webpage",
+      "url": "https://www.settleloans.in/credit-card-bill-na-bharne-ke-nuksan",
       "name": "Credit Card Bill Na Bharne Ke Nuksan: 42% APR Trap, Legal Reality & 60-70% Settlement (2026)",
       "description": "Comprehensive analysis of non-payment of credit card bills in India, covering 42% APR interest calculations, recovery agent rights, legal notice defenses, and RBI compromise settlement strategies.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/credit-card-bill-na-bharne-ke-nuksan#breadcrumb"
+        "@id": "https://www.settleloans.in/credit-card-bill-na-bharne-ke-nuksan#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/credit-card-bill-na-bharne-ke-nuksan#breadcrumb",
+      "@id": "https://www.settleloans.in/credit-card-bill-na-bharne-ke-nuksan#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Credit Card Bill Na Bharne Ke Nuksan",
-          "item": "https://settleloans.in/credit-card-bill-na-bharne-ke-nuksan"
+          "item": "https://www.settleloans.in/credit-card-bill-na-bharne-ke-nuksan"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/credit-card-bill-na-bharne-ke-nuksan#article",
+      "@id": "https://www.settleloans.in/credit-card-bill-na-bharne-ke-nuksan#article",
       "headline": "Credit Card Bill Na Bharne Ke Nuksan: 42% APR Trap, Legal Reality & 60-70% Settlement",
       "description": "An exhaustive legal and financial breakdown of what happens when you stop paying credit card bills in India, the mathematical mechanics of 42% APR compounding, recovery agent harassment defense under RBI guidelines, and how to execute a 60%–70% compromise settlement.",
-      "image": "https://settleloans.in/images/infographics/credit-card-bill-na-bharne-ke-nuksan.jpg",
+      "image": "https://www.settleloans.in/images/infographics/credit-card-bill-na-bharne-ke-nuksan.jpg",
       "datePublished": "2026-08-26T11:00:00+05:30",
       "dateModified": "2026-08-26T11:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/credit-card-bill-na-bharne-ke-nuksan#webpage"
+        "@id": "https://www.settleloans.in/credit-card-bill-na-bharne-ke-nuksan#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/credit-card-bill-na-bharne-ke-nuksan#service",
+      "@id": "https://www.settleloans.in/credit-card-bill-na-bharne-ke-nuksan#service",
       "name": "SettleLoans - Credit Card Debt Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for resolving compounding credit card debts under RBI compromise settlement frameworks with up to 60%-70% waivers and anti-harassment protection.",
-      "url": "https://settleloans.in/credit-card-bill-na-bharne-ke-nuksan",
-      "image": "https://settleloans.in/images/infographics/credit-card-bill-na-bharne-ke-nuksan.jpg",
+      "url": "https://www.settleloans.in/credit-card-bill-na-bharne-ke-nuksan",
+      "image": "https://www.settleloans.in/images/infographics/credit-card-bill-na-bharne-ke-nuksan.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/credit-card-bill-na-bharne-ke-nuksan#faq",
+      "@id": "https://www.settleloans.in/credit-card-bill-na-bharne-ke-nuksan#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -284,12 +284,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

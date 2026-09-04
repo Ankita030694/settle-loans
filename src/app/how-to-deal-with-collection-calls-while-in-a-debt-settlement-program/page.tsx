@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How to Deal with Collection Calls During Debt Settlement | RBI Rules 2025",
   description: "Learn how to handle aggressive recovery agents and collection calls while in a debt settlement program in India. Expert guide on RBI guidelines (2024-2025) and legal protections.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program",
+    canonical: "https://www.settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program",
   },
 };
 
@@ -16,34 +16,34 @@ export default function CollectionCallsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program#webpage",
-        "url": "https://settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program",
+        "@id": "https://www.settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program#webpage",
+        "url": "https://www.settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program",
         "name": "How to Deal with Collection Calls During Debt Settlement | RBI Rules 2025",
         "description": "Comprehensive guide on managing collection calls and recovery agents under RBI guidelines for Indian borrowers.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "How to Deal with Collection Calls",
-            "item": "https://settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program"
+            "item": "https://www.settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program#article",
+        "@id": "https://www.settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program#article",
         "headline": "Managing Collection Calls: A Survival Guide for Debt Settlement Candidates in India",
         "description": "Deep dive into the legal rights of borrowers regarding recovery agents, including the 8 AM to 7 PM rule and privacy laws.",
         "author": {
@@ -55,16 +55,16 @@ export default function CollectionCallsPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-18",
         "dateModified": "2024-03-18",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program#product",
+        "@id": "https://www.settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program#product",
         "name": "Legal Harassment Protection & Negotiation",
         "description": "We provide a legal shield against aggressive recovery agents while negotiating your debt for a significantly reduced amount.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function CollectionCallsPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program#faq",
+        "@id": "https://www.settleloans.in/how-to-deal-with-collection-calls-while-in-a-debt-settlement-program#faq",
         "mainEntity": [
           {
             "@type": "Question",

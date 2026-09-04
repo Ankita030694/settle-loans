@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Interest Rate Recalculate After Prepayment: How It Works",
   description: "Learn how interest is calculated after part payment, the loan recalculation formula, and how to maximize your part payment interest savings.",
   alternates: {
-    canonical: "https://settleloans.in/interest-rate-recalculate-after-prepayment",
+    canonical: "https://www.settleloans.in/interest-rate-recalculate-after-prepayment",
   },
 };
 
@@ -17,34 +17,34 @@ export default function InterestRateRecalculatePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/interest-rate-recalculate-after-prepayment#webpage",
-        "url": "https://settleloans.in/interest-rate-recalculate-after-prepayment",
+        "@id": "https://www.settleloans.in/interest-rate-recalculate-after-prepayment#webpage",
+        "url": "https://www.settleloans.in/interest-rate-recalculate-after-prepayment",
         "name": "Interest Rate Recalculate After Prepayment: How It Works",
         "description": "Learn how interest is calculated after part payment, the loan recalculation formula, and how to maximize your part payment interest savings.",
-        "breadcrumb": { "@id": "https://settleloans.in/interest-rate-recalculate-after-prepayment#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/interest-rate-recalculate-after-prepayment#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/interest-rate-recalculate-after-prepayment#breadcrumb",
+        "@id": "https://www.settleloans.in/interest-rate-recalculate-after-prepayment#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Interest Rate Recalculate After Prepayment",
-            "item": "https://settleloans.in/interest-rate-recalculate-after-prepayment"
+            "item": "https://www.settleloans.in/interest-rate-recalculate-after-prepayment"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/interest-rate-recalculate-after-prepayment#article",
+        "@id": "https://www.settleloans.in/interest-rate-recalculate-after-prepayment#article",
         "headline": "Interest Rate Recalculate After Prepayment: How It Works",
         "description": "Understand the exact loan recalculation formula and find out how banks reduce your interest burden after a part-payment.",
         "author": {
@@ -56,22 +56,22 @@ export default function InterestRateRecalculatePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-24",
         "dateModified": "2024-07-24",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/interest-rate-recalculate-after-prepayment#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/interest-rate-recalculate-after-prepayment#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/interest-rate-recalculate-after-prepayment#product",
+        "@id": "https://www.settleloans.in/interest-rate-recalculate-after-prepayment#product",
         "name": "Loan Prepayment & Interest Dispute Resolution",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert assistance to ensure your bank correctly applies the loan recalculation formula and honors your part payment interest savings.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -120,7 +120,7 @@ export default function InterestRateRecalculatePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/interest-rate-recalculate-after-prepayment#faq",
+        "@id": "https://www.settleloans.in/interest-rate-recalculate-after-prepayment#faq",
         "mainEntity": [
           {
             "@type": "Question",

@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "Why Does My Credit Score Drop Even Though I Pay on Time- India Guide",
   description: "Confused why your CIBIL score is dropping despite timely payments? Discover the hidden factors like utilization, credit mix, and report errors. Expert guide for 2026.",
   alternates: {
-    canonical: "https://settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time",
+    canonical: "https://www.settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time",
   },
 };
 
@@ -19,34 +19,34 @@ export default function CreditScoreDropPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time#webpage",
-        "url": "https://settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time",
+        "@id": "https://www.settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time#webpage",
+        "url": "https://www.settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time",
         "name": "Why Does My Credit Score Drop Even Though I Pay on Time? Comprehensive India Guide",
         "description": "An in-depth analysis of why Indian credit scores like CIBIL drop despite consistent on-time payments, covering technical factors and resolution strategies.",
-        "breadcrumb": { "@id": "https://settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time#breadcrumb",
+        "@id": "https://www.settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Why Does My Credit Score Drop Even Though I Pay on Time",
-            "item": "https://settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time"
+            "item": "https://www.settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time#article",
+        "@id": "https://www.settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time#article",
         "headline": "Why Does My Credit Score Drop Even Though I Pay on Time? | Detailed Analysis",
         "description": "Understand the non-obvious reasons for credit score fluctuations in India, including utilization ratios, hard inquiries, and lender reporting errors.",
         "author": {
@@ -58,16 +58,16 @@ export default function CreditScoreDropPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-28",
         "dateModified": "2024-03-28",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time#product",
+        "@id": "https://www.settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time#product",
         "name": "Credit Score Correction Services",
         "description": "Professional guidance to identify and resolve credit score drops caused by reporting errors or structural issues.",
         "aggregateRating": {
@@ -87,7 +87,7 @@ export default function CreditScoreDropPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time#faq",
+        "@id": "https://www.settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time#faq",
         "mainEntity": [
           {
             "@type": "Question",

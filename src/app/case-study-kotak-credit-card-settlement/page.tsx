@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'kotak credit card no dues certificate',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/case-study-kotak-credit-card-settlement',
+    canonical: 'https://www.settleloans.in/case-study-kotak-credit-card-settlement',
   },
   openGraph: {
     title: 'Kotak Credit Card Settlement Case Study: ₹4.2L Debt Settled for ₹1.35L',
     description: 'In-depth case study: How a ₹4.2 Lakh Kotak Mahindra Bank credit card debt was settled for ₹1.35 Lakhs (68% overall haircut) under RBI compromise settlement guidelines, securing an official No Dues Certificate on bank letterhead.',
-    url: 'https://settleloans.in/case-study-kotak-credit-card-settlement',
+    url: 'https://www.settleloans.in/case-study-kotak-credit-card-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/case-study-kotak-credit-card-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/case-study-kotak-credit-card-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Kotak Mahindra Bank Credit Card Settlement Case Study Infographic: ₹4.2L Settled for ₹1.35L',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Kotak Credit Card Settlement Case Study: ₹4.2L Debt Settled for ₹1.35L',
     description: 'Case study proof: Step-by-step breakdown of how a ₹4.2 Lakh Kotak credit card default was resolved for ₹1.35 Lakhs with official bank sanction letter and zero dues NDC.',
-    images: ['https://settleloans.in/images/infographics/case-study-kotak-credit-card-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/case-study-kotak-credit-card-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/case-study-kotak-credit-card-settlement#webpage",
-      "url": "https://settleloans.in/case-study-kotak-credit-card-settlement",
+      "@id": "https://www.settleloans.in/case-study-kotak-credit-card-settlement#webpage",
+      "url": "https://www.settleloans.in/case-study-kotak-credit-card-settlement",
       "name": "Kotak Credit Card Settlement Case Study: ₹4.2L Debt Settled for ₹1.35L",
       "description": "Real case study: How a ₹4.2 Lakh Kotak Mahindra Bank credit card debt (₹1.55L principal + ₹2.65L interest/penalties) was settled for ₹1.35 Lakhs (68% total waiver). Learn the high-interest relief process, NPA accounting rules, and how to obtain a formal No Dues Certificate on bank letterhead.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/case-study-kotak-credit-card-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/case-study-kotak-credit-card-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/case-study-kotak-credit-card-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/case-study-kotak-credit-card-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Kotak Credit Card Settlement Case Study",
-          "item": "https://settleloans.in/case-study-kotak-credit-card-settlement"
+          "item": "https://www.settleloans.in/case-study-kotak-credit-card-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/case-study-kotak-credit-card-settlement#article",
+      "@id": "https://www.settleloans.in/case-study-kotak-credit-card-settlement#article",
       "headline": "Kotak Mahindra Bank Credit Card Settlement Case Study: How a ₹4.2 Lakh Debt Was Settled for ₹1.35 Lakhs",
       "description": "A comprehensive proof-of-concept case study detailing how a borrower trapped in a ₹4,20,000 Kotak Mahindra Bank credit card debt cycle (consisting of ₹1,55,000 principal and ₹2,65,000 compounded penal charges) secured an official One-Time Settlement of ₹1,35,000 with a formal No Dues Certificate on bank letterhead.",
-      "image": "https://settleloans.in/images/infographics/case-study-kotak-credit-card-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/case-study-kotak-credit-card-settlement.jpg",
       "datePublished": "2026-08-22T13:25:00+05:30",
       "dateModified": "2026-08-22T13:25:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/case-study-kotak-credit-card-settlement#webpage"
+        "@id": "https://www.settleloans.in/case-study-kotak-credit-card-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/case-study-kotak-credit-card-settlement#service",
+      "@id": "https://www.settleloans.in/case-study-kotak-credit-card-settlement#service",
       "name": "SettleLoans - Kotak Mahindra Bank Credit Card Debt Settlement & Dispute Resolution",
       "description": "Specialized legal representation and financial negotiation advisory for distressed credit card holders seeking One-Time Settlement (OTS), interest waivers, and principal relief with Kotak Mahindra Bank under RBI guidelines.",
-      "url": "https://settleloans.in/case-study-kotak-credit-card-settlement",
-      "image": "https://settleloans.in/images/infographics/case-study-kotak-credit-card-settlement.jpg",
+      "url": "https://www.settleloans.in/case-study-kotak-credit-card-settlement",
+      "image": "https://www.settleloans.in/images/infographics/case-study-kotak-credit-card-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/case-study-kotak-credit-card-settlement#faq",
+      "@id": "https://www.settleloans.in/case-study-kotak-credit-card-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -284,12 +284,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

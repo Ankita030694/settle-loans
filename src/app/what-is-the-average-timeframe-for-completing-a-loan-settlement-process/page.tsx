@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Average Timeframe for Loan Settlement in India | Full Process & Timeline",
   description: "How long does it take to settle a loan in India? Discover the average timeframe for personal loans, credit cards, and NBFC settlements. From default to No Dues Certificate, we break down every stage of the 6-month journey.",
   alternates: {
-    canonical: "https://settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process",
+    canonical: "https://www.settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process",
   },
 };
 
@@ -17,34 +17,34 @@ export default function AverageTimeframePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process#webpage",
-        "url": "https://settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process",
+        "@id": "https://www.settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process#webpage",
+        "url": "https://www.settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process",
         "name": "Average Timeframe for Loan Settlement in India | Full Process & Timeline",
         "description": "Comprehensive guide to the time taken for loan settlement in India, from initial default to final closure.",
-        "breadcrumb": { "@id": "https://settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process#breadcrumb",
+        "@id": "https://www.settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Average Timeframe for Loan Settlement",
-            "item": "https://settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process"
+            "item": "https://www.settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process#article",
+        "@id": "https://www.settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process#article",
         "headline": "What is the Average Timeframe for Completing a Loan Settlement Process?",
         "description": "A detailed analysis of the stages and duration of the loan settlement process in the Indian banking system.",
         "author": {
@@ -56,16 +56,16 @@ export default function AverageTimeframePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-21",
         "dateModified": "2024-03-21",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process#product",
+        "@id": "https://www.settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process#product",
         "name": "Loan Settlement Consultation",
         "description": "Expert advice on managing and negotiating loan settlements in India.",
         "aggregateRating": {
@@ -92,7 +92,7 @@ export default function AverageTimeframePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process#faq",
+        "@id": "https://www.settleloans.in/what-is-the-average-timeframe-for-completing-a-loan-settlement-process#faq",
         "mainEntity": [
           {
             "@type": "Question",

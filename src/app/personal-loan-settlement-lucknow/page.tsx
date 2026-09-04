@@ -50,17 +50,17 @@ export const metadata: Metadata = {
     'psu bank loan settlement lucknow hazratganj',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-lucknow',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-lucknow',
   },
   openGraph: {
     title: 'Personal Loan Settlement Advocates in Lucknow: Legal Defense & OTS Advisory',
     description:
       'Expert legal defense and One-Time Settlement (OTS) representation for salaried executives, government staff, and business owners facing loan defaults across Lucknow, Gomti Nagar, Hazratganj, and Kanpur.',
-    url: 'https://settleloans.in/personal-loan-settlement-lucknow',
+    url: 'https://www.settleloans.in/personal-loan-settlement-lucknow',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-lucknow.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-lucknow.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan Settlement Advocates in Lucknow Legal Guide',
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
     title: 'Personal Loan Settlement Advocates in Lucknow: Legal Defense & Lok Adalat Guide',
     description:
       'Authoritative legal representation for bank loan defaults, Section 138/25 notices in Kaisarbagh courts, UPSLSA Lok Adalat compromise decrees, and anti-harassment shielding across Lucknow.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-lucknow.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-lucknow.jpg'],
   },
 };
 
@@ -83,79 +83,79 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-lucknow#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-lucknow",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-lucknow#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-lucknow",
       "name": "Personal Loan Settlement Advocates in Lucknow: Legal Defense & OTS (2026)",
       "description": "Struggling with loan default, recovery harassment, or court summons in Lucknow, Gomti Nagar, or Kanpur? Get senior advocate defense, salary protection, and 40%–70% OTS waivers.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-lucknow#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-lucknow#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-lucknow#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-lucknow#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Personal Loan Settlement Advocates in Lucknow",
-          "item": "https://settleloans.in/personal-loan-settlement-lucknow"
+          "item": "https://www.settleloans.in/personal-loan-settlement-lucknow"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-lucknow#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-lucknow#article",
       "headline": "Personal Loan Settlement Advocates in Lucknow: Regional Legal Defense, Bank OTS & 40%–70% Debt Relief",
       "description": "An authoritative legal and financial guide for distressed salaried professionals, UP government employees, and business owners in Lucknow and Kanpur. Learn Kaisarbagh District Court dynamics, Section 171 banker lien protections, UPSLSA Lok Adalat settlement mechanics, and how seasoned Lucknow advocates negotiate 40% to 70% debt waivers.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-lucknow.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-lucknow.jpg",
       "datePublished": "2026-08-25T12:00:00+05:30",
       "dateModified": "2026-08-25T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-lucknow#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-lucknow#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
@@ -165,7 +165,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-lucknow#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-lucknow#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -243,11 +243,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-lucknow#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-lucknow#service",
       "name": "SettleLoans - Personal Loan Settlement Advocates in Lucknow & Legal Defense",
       "description": "Premier debt settlement advisory, court notice defense, and UPSLSA Lok Adalat representation for salaried professionals, government employees, and business owners across Lucknow, Gomti Nagar, Hazratganj, and Kanpur.",
-      "url": "https://settleloans.in/personal-loan-settlement-lucknow",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-lucknow.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-lucknow",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-lucknow.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -260,9 +260,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

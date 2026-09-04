@@ -49,16 +49,16 @@ export const metadata: Metadata = {
     'no dues certificate after settlement vs foreclosure'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement',
+    canonical: 'https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement',
   },
   openGraph: {
     title: 'Loan Foreclosure vs Prepayment vs Settlement: Complete Regulatory & Financial Guide',
     description: 'Comprehensive analysis of early loan exit mechanisms in India: CIBIL credit score impact, RBI foreclosure directives, financial trade-offs, and legal documentation.',
-    url: 'https://settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement',
+    url: 'https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/loan-foreclosure-vs-prepayment-vs-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/loan-foreclosure-vs-prepayment-vs-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Foreclosure vs Prepayment vs Settlement Infographic Comparison',
@@ -71,7 +71,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Foreclosure vs Prepayment vs Settlement: RBI Rules & CIBIL Analysis',
     description: 'Understand the critical legal, financial, and credit score distinctions between loan foreclosure, part-prepayment, and distressed debt settlement in India.',
-    images: ['https://settleloans.in/images/infographics/loan-foreclosure-vs-prepayment-vs-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/loan-foreclosure-vs-prepayment-vs-settlement.jpg'],
   },
 };
 
@@ -80,74 +80,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement#webpage",
-      "url": "https://settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement",
+      "@id": "https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement#webpage",
+      "url": "https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement",
       "name": "Loan Foreclosure vs Prepayment vs Settlement | RBI Rules & CIBIL Impact",
       "description": "Confused between loan foreclosure, part-prepayment, and debt settlement? Discover the difference in CIBIL credit tags (Closed vs Settled), RBI zero-fee rules, tax implications under Section 194R, and NPV cost comparisons.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Loan Foreclosure vs Prepayment vs Settlement",
-          "item": "https://settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement"
+          "item": "https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement#article",
+      "@id": "https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement#article",
       "headline": "Loan Foreclosure vs Prepayment vs Settlement: RBI Rules, CIBIL Impact & Cost Comparison",
       "description": "An exhaustive statutory and financial comparative analysis detailing the procedural, regulatory, credit bureau, and tax distinctions between early loan foreclosure, part-prepayment, and one-time debt settlement across Indian banks and NBFCs.",
-      "image": "https://settleloans.in/images/infographics/loan-foreclosure-vs-prepayment-vs-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/loan-foreclosure-vs-prepayment-vs-settlement.jpg",
       "datePublished": "2026-08-29T10:00:00+05:30",
       "dateModified": "2026-08-29T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement#webpage"
+        "@id": "https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement#service",
+      "@id": "https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement#service",
       "name": "SettleLoans - Debt Resolution, Foreclosure & Credit Advisory",
       "description": "Authoritative financial consulting, bank foreclosure facilitation, and distressed debt settlement negotiation under RBI Master Directions for retail and commercial borrowers across India.",
-      "url": "https://settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement",
-      "image": "https://settleloans.in/images/infographics/loan-foreclosure-vs-prepayment-vs-settlement.jpg",
+      "url": "https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement",
+      "image": "https://www.settleloans.in/images/infographics/loan-foreclosure-vs-prepayment-vs-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -160,9 +160,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -236,7 +236,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement#faq",
+      "@id": "https://www.settleloans.in/loan-foreclosure-vs-prepayment-vs-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -322,12 +322,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

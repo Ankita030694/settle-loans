@@ -46,16 +46,16 @@ export const metadata: Metadata = {
     'ots scheme bhopal madhya pradesh',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-bhopal',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-bhopal',
   },
   openGraph: {
     title: 'Personal Loan Settlement Advocates in Bhopal: Settle Debt (2026)',
     description: 'Comprehensive legal and financial guide for resolving delinquent personal loans, credit card balances, and MSME credit lines in Bhopal and Madhya Pradesh under RBI compromise settlement frameworks.',
-    url: 'https://settleloans.in/personal-loan-settlement-bhopal',
+    url: 'https://www.settleloans.in/personal-loan-settlement-bhopal',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-bhopal.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-bhopal.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan Settlement Advocates in Bhopal - Legal Debt Defense & OTS Guide',
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Personal Loan Settlement Advocates in Bhopal: Settle Debt',
     description: 'Strategic legal defense against aggressive recovery agents, Section 138 NI Act notices, and Lok Adalat compromise settlements for Bhopal and MP borrowers.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-bhopal.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-bhopal.jpg'],
   },
 };
 
@@ -77,74 +77,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-bhopal#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-bhopal",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-bhopal#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-bhopal",
       "name": "Personal Loan Settlement Advocates in Bhopal: Settle Debt (2026)",
       "description": "Facing loan default in Bhopal? Consult expert personal loan settlement advocates in Bhopal to stop recovery harassment, defend Section 138/25 PSSA summons at Arera Hills District Court, represent at DLSA Lok Adalat, and secure 45%–65% RBI OTS debt waivers.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-bhopal#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-bhopal#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-bhopal#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-bhopal#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Loan Settlement Bhopal",
-          "item": "https://settleloans.in/personal-loan-settlement-bhopal"
+          "item": "https://www.settleloans.in/personal-loan-settlement-bhopal"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-bhopal#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-bhopal#article",
       "headline": "Personal Loan Settlement Advocates in Bhopal: Legal Protection, Lok Adalat Representation & RBI OTS Debt Relief",
       "description": "A comprehensive regulatory, civil, and financial roadmap for government employees, educators, commercial traders, and MSME business owners navigating unsecured debt settlement in Bhopal and Madhya Pradesh. Covers RBI compromise settlement circulars, Arera Hills District Court JMFC defenses, DLSA Lok Adalat awards, and 45%–65% principal haircuts.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-bhopal.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-bhopal.jpg",
       "datePublished": "2026-08-28T12:00:00+05:30",
       "dateModified": "2026-08-28T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-bhopal#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-bhopal#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-bhopal#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-bhopal#service",
       "name": "SettleLoans - Personal Loan Settlement Advocates in Bhopal",
       "description": "Specialized legal representation and debt settlement advisory for state and central government employees, academic professionals, retail traders, and MSME industrial borrowers dealing with personal loan, credit card, and business credit default in Bhopal and Madhya Pradesh.",
-      "url": "https://settleloans.in/personal-loan-settlement-bhopal",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-bhopal.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-bhopal",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-bhopal.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -157,9 +157,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -233,7 +233,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-bhopal#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-bhopal#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -319,12 +319,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

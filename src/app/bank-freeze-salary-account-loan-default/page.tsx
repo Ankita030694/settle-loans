@@ -56,16 +56,16 @@ export const metadata: Metadata = {
     'one time settlement to unblock bank account'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/bank-freeze-salary-account-loan-default',
+    canonical: 'https://www.settleloans.in/bank-freeze-salary-account-loan-default',
   },
   openGraph: {
     title: 'Can Bank Freeze Salary Account for Loan Default? Legal Remedies & Unfreeze Guide',
     description: 'Learn your legal protections against arbitrary salary account freezes by banks. Understand Section 60 CPC exemptions, Banker Right of Set-Off restrictions, and statutory unfreezing procedures.',
-    url: 'https://settleloans.in/bank-freeze-salary-account-loan-default',
+    url: 'https://www.settleloans.in/bank-freeze-salary-account-loan-default',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/bank-freeze-salary-account-loan-default.jpg',
+        url: 'https://www.settleloans.in/images/infographics/bank-freeze-salary-account-loan-default.jpg',
         width: 1200,
         height: 675,
         alt: 'Can Bank Freeze Salary Account for Loan Default Legal Remedies Guide',
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Can Bank Freeze Salary Account for Loan Default? Legal Remedies & Unfreeze Guide',
     description: 'Facing an emergency salary account freeze or total balance debit by your lender? Discover legal remedies under Section 60 CPC and RBI guidelines to unblock your account.',
-    images: ['https://settleloans.in/images/infographics/bank-freeze-salary-account-loan-default.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/bank-freeze-salary-account-loan-default.jpg'],
   },
 };
 
@@ -87,74 +87,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/bank-freeze-salary-account-loan-default#webpage",
-      "url": "https://settleloans.in/bank-freeze-salary-account-loan-default",
+      "@id": "https://www.settleloans.in/bank-freeze-salary-account-loan-default#webpage",
+      "url": "https://www.settleloans.in/bank-freeze-salary-account-loan-default",
       "name": "Can Bank Freeze Salary Account for Loan Default? Legal Remedies & Unfreeze Guide",
       "description": "Can a bank freeze your salary account for loan default? Discover your legal rights under Section 60 CPC, Banker Right of Set-Off limits, RBI Ombudsman rules, and advocate unfreezing protocols.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/bank-freeze-salary-account-loan-default#breadcrumb"
+        "@id": "https://www.settleloans.in/bank-freeze-salary-account-loan-default#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/bank-freeze-salary-account-loan-default#breadcrumb",
+      "@id": "https://www.settleloans.in/bank-freeze-salary-account-loan-default#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Salary Account Freeze Legal Guide",
-          "item": "https://settleloans.in/bank-freeze-salary-account-loan-default"
+          "item": "https://www.settleloans.in/bank-freeze-salary-account-loan-default"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/bank-freeze-salary-account-loan-default#article",
+      "@id": "https://www.settleloans.in/bank-freeze-salary-account-loan-default#article",
       "headline": "Can Bank Freeze Salary Account for Loan Default? Legal Remedies, Right of Set-Off Limits & Account Unfreezing Blueprint",
       "description": "An in-depth legal analysis examining whether commercial banks can freeze or sweep salary accounts for loan defaults. Explains Section 171 Contract Act, Section 60 CPC salary attachment exemptions, Article 21 livelihood rights, RBI Fair Practices Code, and emergency unfreezing protocols.",
-      "image": "https://settleloans.in/images/infographics/bank-freeze-salary-account-loan-default.jpg",
+      "image": "https://www.settleloans.in/images/infographics/bank-freeze-salary-account-loan-default.jpg",
       "datePublished": "2026-08-25T12:00:00+05:30",
       "dateModified": "2026-08-25T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/bank-freeze-salary-account-loan-default#webpage"
+        "@id": "https://www.settleloans.in/bank-freeze-salary-account-loan-default#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/bank-freeze-salary-account-loan-default#service",
+      "@id": "https://www.settleloans.in/bank-freeze-salary-account-loan-default#service",
       "name": "SettleLoans - Bank Account Lien & Emergency Unfreezing Advisory",
       "description": "Specialized legal representation and financial resolution advisory for salaried borrowers facing illegal bank account freezes, unannounced set-off debits, and coercive debt recovery on unsecured loans.",
-      "url": "https://settleloans.in/bank-freeze-salary-account-loan-default",
-      "image": "https://settleloans.in/images/infographics/bank-freeze-salary-account-loan-default.jpg",
+      "url": "https://www.settleloans.in/bank-freeze-salary-account-loan-default",
+      "image": "https://www.settleloans.in/images/infographics/bank-freeze-salary-account-loan-default.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -167,9 +167,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -243,7 +243,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/bank-freeze-salary-account-loan-default#faq",
+      "@id": "https://www.settleloans.in/bank-freeze-salary-account-loan-default#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -329,12 +329,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

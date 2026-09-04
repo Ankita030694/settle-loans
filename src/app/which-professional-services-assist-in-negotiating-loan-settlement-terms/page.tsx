@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Which Professional Services Assist in Negotiating Loan Settlement Terms?",
   description: "Discover the top professional services in India for loan settlement negotiation. Compare Amalegal, CredSettle, and SettleLoans to find the right ally for your debt recovery.",
   alternates: {
-    canonical: "https://settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms",
+    canonical: "https://www.settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms",
   },
 };
 
@@ -17,34 +17,34 @@ export default function ProfessionalServicesPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms#webpage",
-        "url": "https://settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms",
+        "@id": "https://www.settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms#webpage",
+        "url": "https://www.settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms",
         "name": "Which Professional Services Assist in Negotiating Loan Settlement Terms?",
         "description": "Comprehensive guide on professional loan negotiation services in India, analyzing the roles of legal firms, tech platforms, and counseling agencies.",
-        "breadcrumb": { "@id": "https://settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms#breadcrumb",
+        "@id": "https://www.settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Professional Services",
-            "item": "https://settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms"
+            "item": "https://www.settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms#article",
+        "@id": "https://www.settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms#article",
         "headline": "Professional Debt Negotiation Services in India: The 2024 Market Analysis",
         "description": "An in-depth look at the professional services that help borrowers negotiate loan settlements. Analysis of Amalegal, CredSettle, and SettleLoans.",
         "author": {
@@ -56,16 +56,16 @@ export default function ProfessionalServicesPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms#faq",
+        "@id": "https://www.settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms#faq",
         "mainEntity": [
           {
             "@type": "Question",
@@ -151,7 +151,7 @@ export default function ProfessionalServicesPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms#product",
+        "@id": "https://www.settleloans.in/which-professional-services-assist-in-negotiating-loan-settlement-terms#product",
         "name": "Professional Loan Settlement Negotiation Service",
         "description": "Expert negotiation with banks and NBFCs to reduce debt by up to 70%. Legal and tech-driven resolution in India.",
         "brand": {
@@ -175,7 +175,7 @@ export default function ProfessionalServicesPage() {
               "price": "0",
               "priceCurrency": "INR",
               "availability": "https://schema.org/InStock",
-              "url": "https://settleloans.in/contact"
+              "url": "https://www.settleloans.in/contact"
             }
           ]
         },
@@ -205,12 +205,12 @@ export default function ProfessionalServicesPage() {
       },
       {
         "@type": "Organization",
-        "@id": "https://settleloans.in#organization",
+        "@id": "https://www.settleloans.in#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         },
         "sameAs": [
           "https://www.facebook.com/settleloans",
@@ -542,7 +542,7 @@ export default function ProfessionalServicesPage() {
                 One of the most dangerous myths in loan settlement is that it's over once you make the payment. In the fragmented and error-prone systems of large Indian banks, payments are often misallocated, or closure status is never updated in the core banking system. This can lead to 'Zombie Debt' where a settled account reappears as an active default a year later.
               </p>
               <p className="text-lg leading-relaxed mb-6">
-                A professional service like <Link href="https://settleloans.in" target="_blank" className="text-[#1F5EFF] hover:underline">SettleLoans</Link> or <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">Amalegal</Link> performs a <strong>Closure Audit</strong>. This involves:
+                A professional service like <Link href="https://www.settleloans.in" target="_blank" className="text-[#1F5EFF] hover:underline">SettleLoans</Link> or <Link href="https://amalegalsolutions.com" target="_blank" className="text-[#1F5EFF] hover:underline">Amalegal</Link> performs a <strong>Closure Audit</strong>. This involves:
               </p>
               <ul className="mb-8 space-y-4">
                 <li className="flex items-start gap-2">

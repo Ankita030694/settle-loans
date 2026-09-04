@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "Best NBFC Loan Settlement Lawyer India | OTS & Harassment Help",
     description: "Expert legal assistance for NBFC loan settlement in India. Protect your rights under RBI guidelines, stop harassment, and secure a favorable One-Time Settlement (OTS).",
     alternates: {
-        canonical: "https://settleloans.in/best-nbfc-loan-settlement-lawyer",
+        canonical: "https://www.settleloans.in/best-nbfc-loan-settlement-lawyer",
     },
 };
 
@@ -17,34 +17,34 @@ export default function NBFCLoanSettlementLawyerPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/best-nbfc-loan-settlement-lawyer#webpage",
-                "url": "https://settleloans.in/best-nbfc-loan-settlement-lawyer",
+                "@id": "https://www.settleloans.in/best-nbfc-loan-settlement-lawyer#webpage",
+                "url": "https://www.settleloans.in/best-nbfc-loan-settlement-lawyer",
                 "name": "Best NBFC Loan Settlement Lawyer India | OTS & Harassment Help",
                 "description": "Professional debt resolution for NBFC loans. Expertise in OTS negotiations, RBI compliance, and defender against illegal recovery practices.",
-                "breadcrumb": { "@id": "https://settleloans.in/best-nbfc-loan-settlement-lawyer#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/best-nbfc-loan-settlement-lawyer#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/best-nbfc-loan-settlement-lawyer#breadcrumb",
+                "@id": "https://www.settleloans.in/best-nbfc-loan-settlement-lawyer#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "NBFC Settlement Lawyer",
-                        "item": "https://settleloans.in/best-nbfc-loan-settlement-lawyer"
+                        "item": "https://www.settleloans.in/best-nbfc-loan-settlement-lawyer"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/best-nbfc-loan-settlement-lawyer#article",
+                "@id": "https://www.settleloans.in/best-nbfc-loan-settlement-lawyer#article",
                 "headline": "NBFC Loan Settlement: Your Legal Guide to RBI Rights and OTS Negotiation",
                 "description": "Discover how a specialized NBFC loan settlement lawyer can help you navigate financial hardship, stop recovery harassment, and settle your debt legally.",
                 "author": {
@@ -56,16 +56,16 @@ export default function NBFCLoanSettlementLawyerPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-06",
                 "dateModified": "2024-03-06",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/best-nbfc-loan-settlement-lawyer#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/best-nbfc-loan-settlement-lawyer#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/best-nbfc-loan-settlement-lawyer#product",
+                "@id": "https://www.settleloans.in/best-nbfc-loan-settlement-lawyer#product",
                 "name": "NBFC Loan Settlement Legal Service",
                 "description": "Expert negotiation and legal protection services for individuals and MSMEs facing NBFC loan defaults and harassment.",
                 "aggregateRating": {
@@ -92,7 +92,7 @@ export default function NBFCLoanSettlementLawyerPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/best-nbfc-loan-settlement-lawyer#faq",
+                "@id": "https://www.settleloans.in/best-nbfc-loan-settlement-lawyer#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

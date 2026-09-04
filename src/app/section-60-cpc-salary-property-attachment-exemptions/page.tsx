@@ -57,16 +57,16 @@ export const metadata: Metadata = {
     'bank loan default court attachment defense lawyer'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/section-60-cpc-salary-property-attachment-exemptions',
+    canonical: 'https://www.settleloans.in/section-60-cpc-salary-property-attachment-exemptions',
   },
   openGraph: {
     title: 'Section 60 CPC Property & Salary Attachment Exemptions: Bank Execution Guide',
     description: 'Comprehensive legal analysis of Section 60 Code of Civil Procedure (CPC) statutory exemptions. Learn what banks and civil courts cannot seize during loan recovery execution.',
-    url: 'https://settleloans.in/section-60-cpc-salary-property-attachment-exemptions',
+    url: 'https://www.settleloans.in/section-60-cpc-salary-property-attachment-exemptions',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/section-60-cpc-salary-property-attachment-exemptions.jpg',
+        url: 'https://www.settleloans.in/images/infographics/section-60-cpc-salary-property-attachment-exemptions.jpg',
         width: 1200,
         height: 675,
         alt: 'Section 60 CPC Property and Salary Attachment Exemptions Guide',
@@ -79,7 +79,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Section 60 CPC Property & Salary Attachment Exemptions: Bank Execution Guide',
     description: 'Facing bank civil execution threats? Discover the non-attachable assets under Section 60 CPC: salary caps, Stridhan, PF, gratuity, pensions, and tools of trade.',
-    images: ['https://settleloans.in/images/infographics/section-60-cpc-salary-property-attachment-exemptions.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/section-60-cpc-salary-property-attachment-exemptions.jpg'],
   },
 };
 
@@ -88,74 +88,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/section-60-cpc-salary-property-attachment-exemptions#webpage",
-      "url": "https://settleloans.in/section-60-cpc-salary-property-attachment-exemptions",
+      "@id": "https://www.settleloans.in/section-60-cpc-salary-property-attachment-exemptions#webpage",
+      "url": "https://www.settleloans.in/section-60-cpc-salary-property-attachment-exemptions",
       "name": "Section 60 CPC Property & Salary Attachment Exemptions: Bank Execution Guide",
       "description": "What property and salary is exempted from attachment under Section 60 CPC? Understand statutory shields for wages, Stridhan, PF, gratuity, and tools of trade against bank recovery execution.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/section-60-cpc-salary-property-attachment-exemptions#breadcrumb"
+        "@id": "https://www.settleloans.in/section-60-cpc-salary-property-attachment-exemptions#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/section-60-cpc-salary-property-attachment-exemptions#breadcrumb",
+      "@id": "https://www.settleloans.in/section-60-cpc-salary-property-attachment-exemptions#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Section 60 CPC Attachment Exemptions",
-          "item": "https://settleloans.in/section-60-cpc-salary-property-attachment-exemptions"
+          "item": "https://www.settleloans.in/section-60-cpc-salary-property-attachment-exemptions"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/section-60-cpc-salary-property-attachment-exemptions#article",
+      "@id": "https://www.settleloans.in/section-60-cpc-salary-property-attachment-exemptions#article",
       "headline": "Section 60 CPC Property & Salary Attachment Exemptions: Complete Legal Shield Against Bank Civil Execution",
       "description": "An exhaustive statutory analysis of Section 60 of the Code of Civil Procedure, 1908. Details non-attachable assets, wage garnishment limits, Stridhan protections, PF/Gratuity immunity, and bank compromise settlement mechanisms.",
-      "image": "https://settleloans.in/images/infographics/section-60-cpc-salary-property-attachment-exemptions.jpg",
+      "image": "https://www.settleloans.in/images/infographics/section-60-cpc-salary-property-attachment-exemptions.jpg",
       "datePublished": "2026-08-26T12:00:00+05:30",
       "dateModified": "2026-08-26T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/section-60-cpc-salary-property-attachment-exemptions#webpage"
+        "@id": "https://www.settleloans.in/section-60-cpc-salary-property-attachment-exemptions#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/section-60-cpc-salary-property-attachment-exemptions#service",
+      "@id": "https://www.settleloans.in/section-60-cpc-salary-property-attachment-exemptions#service",
       "name": "SettleLoans - Civil Debt Defense & Attachment Exemption Advisory",
       "description": "Specialized legal defense against bank civil execution proceedings, Order XXI attachment orders, salary garnishment threats, and advocate-led One-Time Settlement (OTS) structuring.",
-      "url": "https://settleloans.in/section-60-cpc-salary-property-attachment-exemptions",
-      "image": "https://settleloans.in/images/infographics/section-60-cpc-salary-property-attachment-exemptions.jpg",
+      "url": "https://www.settleloans.in/section-60-cpc-salary-property-attachment-exemptions",
+      "image": "https://www.settleloans.in/images/infographics/section-60-cpc-salary-property-attachment-exemptions.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -168,9 +168,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -244,7 +244,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/section-60-cpc-salary-property-attachment-exemptions#faq",
+      "@id": "https://www.settleloans.in/section-60-cpc-salary-property-attachment-exemptions#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -330,12 +330,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Is Pre-Closure of a Personal Loan a Good Choice",
   description: "Have extra cash and wondering if you should pre-close your personal loan? Read this financial analysis first to compare pre-closing vs investing.",
   alternates: {
-    canonical: "https://settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice",
+    canonical: "https://www.settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice",
   },
 };
 
@@ -17,34 +17,34 @@ export default function PreClosurePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice#webpage",
-        "url": "https://settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice",
+        "@id": "https://www.settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice#webpage",
+        "url": "https://www.settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice",
         "name": "Is Pre-Closure of a Personal Loan a Good Choice",
         "description": "Have extra cash and wondering if you should pre-close your personal loan? Read this financial analysis first.",
-        "breadcrumb": { "@id": "https://settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice#breadcrumb",
+        "@id": "https://www.settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Is Pre-Closure of a Personal Loan a Good Choice",
-            "item": "https://settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice"
+            "item": "https://www.settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice#article",
+        "@id": "https://www.settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice#article",
         "headline": "Is Pre-Closure of a Personal Loan a Good Choice",
         "description": "Financial analysis of personal loan pre-closure, comparing it to investing, and determining the best time to foreclose.",
         "author": {
@@ -56,22 +56,22 @@ export default function PreClosurePage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-07-23",
         "dateModified": "2024-07-23",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice#product",
+        "@id": "https://www.settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice#product",
         "name": "Loan Pre-Closure Analysis",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert financial analysis for personal loan pre-closure, comparing it to investing, and determining the best time to foreclose.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -113,7 +113,7 @@ export default function PreClosurePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice#faq",
+        "@id": "https://www.settleloans.in/is-pre-closure-of-a-personal-loan-a-good-choice#faq",
         "mainEntity": [
           {
             "@type": "Question",

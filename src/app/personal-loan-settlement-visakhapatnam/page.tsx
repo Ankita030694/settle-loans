@@ -53,16 +53,16 @@ export const metadata: Metadata = {
     'personal loan ots waiver visakhapatnam'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-visakhapatnam',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-visakhapatnam',
   },
   openGraph: {
     title: 'Loan Settlement Lawyer in Vizag Visakhapatnam: Legal Defense & OTS Haircut (2026)',
     description: 'Expert legal defense and One-Time Settlement (OTS) representation for salaried professionals, port employees, and business owners facing loan defaults across Visakhapatnam, Gajuwaka, and Madhurawada.',
-    url: 'https://settleloans.in/personal-loan-settlement-visakhapatnam',
+    url: 'https://www.settleloans.in/personal-loan-settlement-visakhapatnam',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-visakhapatnam.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-visakhapatnam.jpg',
         width: 1200,
         height: 675,
         alt: 'Loan Settlement Lawyer in Vizag Visakhapatnam Legal Defense and RBI OTS Roadmap',
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement Lawyer in Vizag Visakhapatnam: Legal Defense & RBI OTS Relief',
     description: 'Authoritative legal manual for personal loan settlement in Visakhapatnam. Advocate-led defense against Section 25 PSSA and Section 138 notices across Vizag District Courts with DLSA Lok Adalat resolution.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-visakhapatnam.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-visakhapatnam.jpg'],
   },
 };
 
@@ -84,81 +84,81 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-visakhapatnam#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-visakhapatnam",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-visakhapatnam#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-visakhapatnam",
       "name": "Loan Settlement Lawyer in Vizag Visakhapatnam: Legal Notice Defense & OTS Haircut (2026)",
       "description": "Comprehensive legal and financial guide for personal loan settlement in Visakhapatnam, navigating local recovery agency regulations, Section 25 PSSA defense in Vizag courts, and SARB OTS negotiations.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-visakhapatnam#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-visakhapatnam#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-visakhapatnam#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-visakhapatnam#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services & Legal Guides",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Loan Settlement Lawyer in Vizag Visakhapatnam",
-          "item": "https://settleloans.in/personal-loan-settlement-visakhapatnam"
+          "item": "https://www.settleloans.in/personal-loan-settlement-visakhapatnam"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-visakhapatnam#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-visakhapatnam#article",
       "headline": "Loan Settlement Lawyer in Vizag Visakhapatnam: Legal Notice Defense & Andhra OTS Blueprint",
       "description": "An authoritative legal and financial roadmap for salaried professionals, port employees, and industrial business owners facing personal loan defaults in Visakhapatnam, Gajuwaka, MVP Colony, and Madhurawada.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-visakhapatnam.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-visakhapatnam.jpg",
       "datePublished": "2026-09-01T12:00:00+05:30",
       "dateModified": "2026-09-01T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-visakhapatnam#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-visakhapatnam#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "contactPoint": [
         {
@@ -177,7 +177,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-visakhapatnam#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-visakhapatnam#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -247,11 +247,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-visakhapatnam#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-visakhapatnam#service",
       "name": "SettleLoans - Loan Settlement Lawyer in Vizag Visakhapatnam & Legal Dispute Resolution",
       "description": "Specialized advocate-led debt settlement, legal notice defense, and RBI OTS negotiation for defaulted unsecured personal loans, credit cards, and SME business debts across Visakhapatnam, Gajuwaka, MVP Colony, and Madhurawada.",
-      "url": "https://settleloans.in/personal-loan-settlement-visakhapatnam",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-visakhapatnam.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-visakhapatnam",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-visakhapatnam.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -264,9 +264,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

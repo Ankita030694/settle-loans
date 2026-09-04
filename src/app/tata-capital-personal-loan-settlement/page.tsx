@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'tata capital nodal officer escalation',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/tata-capital-personal-loan-settlement',
+    canonical: 'https://www.settleloans.in/tata-capital-personal-loan-settlement',
   },
   openGraph: {
     title: 'Tata Capital Personal Loan Settlement: OTS Rules, Bounce Charges & Legal Rights (2026)',
     description: 'Learn how to settle a Tata Capital personal loan or business credit line. Understand internal NPA haircuts, recovery agent compliance, Credit Committee approval matrices, and step-by-step negotiation strategies.',
-    url: 'https://settleloans.in/tata-capital-personal-loan-settlement',
+    url: 'https://www.settleloans.in/tata-capital-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/tata-capital-personal-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/tata-capital-personal-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Tata Capital Personal Loan Settlement Process and OTS Haircut Guide',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Tata Capital Personal Loan Settlement: OTS Rules, Bounce Charges & Legal Rights',
     description: 'Technical and legal manual for settling defaulted Tata Capital personal loans and consumer credit facilities under RBI Compromise Settlement frameworks.',
-    images: ['https://settleloans.in/images/infographics/tata-capital-personal-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/tata-capital-personal-loan-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/tata-capital-personal-loan-settlement#webpage",
-      "url": "https://settleloans.in/tata-capital-personal-loan-settlement",
+      "@id": "https://www.settleloans.in/tata-capital-personal-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/tata-capital-personal-loan-settlement",
       "name": "Tata Capital Personal Loan Settlement: OTS Rules, Bounce Charges & Legal Rights (2026)",
       "description": "Comprehensive guide to Tata Capital personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, NACH bounce defense, and how to negotiate up to 60% haircut under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/tata-capital-personal-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/tata-capital-personal-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/tata-capital-personal-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/tata-capital-personal-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Tata Capital Personal Loan Settlement",
-          "item": "https://settleloans.in/tata-capital-personal-loan-settlement"
+          "item": "https://www.settleloans.in/tata-capital-personal-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/tata-capital-personal-loan-settlement#article",
+      "@id": "https://www.settleloans.in/tata-capital-personal-loan-settlement#article",
       "headline": "Tata Capital Personal Loan Settlement: OTS Rules, Bounce Charges & Legal Rights",
       "description": "A comprehensive strategic guide on negotiating One-Time Settlements (OTS) with Tata Capital Limited, navigating internal provisioning policies, halting NACH bounce fees, and safeguarding against recovery harassment.",
-      "image": "https://settleloans.in/images/infographics/tata-capital-personal-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/tata-capital-personal-loan-settlement.jpg",
       "datePublished": "2026-08-24T12:00:00+05:30",
       "dateModified": "2026-08-24T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/tata-capital-personal-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/tata-capital-personal-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/tata-capital-personal-loan-settlement#service",
+      "@id": "https://www.settleloans.in/tata-capital-personal-loan-settlement#service",
       "name": "SettleLoans - Tata Capital Personal Loan Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted Tata Capital personal loans, business loans, and consumer credit lines under RBI compromise frameworks with maximum debt waivers and complete harassment protection.",
-      "url": "https://settleloans.in/tata-capital-personal-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/tata-capital-personal-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/tata-capital-personal-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/tata-capital-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/tata-capital-personal-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/tata-capital-personal-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -292,12 +292,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

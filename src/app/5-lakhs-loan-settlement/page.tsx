@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "5 Lakhs Loan Settlement Process in India | Legal Guide & Negotiation Strategies",
     description: "Learn how to settle a 5 lakhs loan in India. Detailed guide on negotiation, bank processes, CIBIL impact, and legal rights. Expert advice on achieving the best settlement amount.",
     alternates: {
-        canonical: "https://settleloans.in/5-lakhs-loan-settlement",
+        canonical: "https://www.settleloans.in/5-lakhs-loan-settlement",
     },
 };
 
@@ -16,34 +16,34 @@ export default function FiveLakhsLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/5-lakhs-loan-settlement#webpage",
-                "url": "https://settleloans.in/5-lakhs-loan-settlement",
+                "@id": "https://www.settleloans.in/5-lakhs-loan-settlement#webpage",
+                "url": "https://www.settleloans.in/5-lakhs-loan-settlement",
                 "name": "5 Lakhs Loan Settlement Process in India | Legal Guide",
                 "description": "Comprehensive guide to settling a 5 lakh loan with Indian banks and NBFCs.",
-                "breadcrumb": { "@id": "https://settleloans.in/5-lakhs-loan-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/5-lakhs-loan-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/5-lakhs-loan-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/5-lakhs-loan-settlement#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "5 Lakhs Loan Settlement",
-                        "item": "https://settleloans.in/5-lakhs-loan-settlement"
+                        "item": "https://www.settleloans.in/5-lakhs-loan-settlement"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/5-lakhs-loan-settlement#article",
+                "@id": "https://www.settleloans.in/5-lakhs-loan-settlement#article",
                 "headline": "5 Lakhs Loan Settlement: A Comprehensive Guide to Debt Freedom",
                 "description": "Navigate the complexities of settling a 5 lakh loan in India with our expert-led guide on processes, legal rights, and negotiation.",
                 "author": {
@@ -55,16 +55,16 @@ export default function FiveLakhsLoanSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/5-lakhs-loan-settlement#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/5-lakhs-loan-settlement#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/5-lakhs-loan-settlement#product",
+                "@id": "https://www.settleloans.in/5-lakhs-loan-settlement#product",
                 "name": "5 Lakhs Loan Settlement Services",
                 "description": "Expert negotiation and legal support for settling loans of 5 lakhs or more.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function FiveLakhsLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/5-lakhs-loan-settlement#faq",
+                "@id": "https://www.settleloans.in/5-lakhs-loan-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -177,10 +177,10 @@ export default function FiveLakhsLoanSettlementPage() {
             },
             {
                 "@type": "Organization",
-                "@id": "https://settleloans.in/#organization",
+                "@id": "https://www.settleloans.in/#organization",
                 "name": "SettleLoans",
-                "url": "https://settleloans.in",
-                "logo": "https://settleloans.in/logo/logo.svg",
+                "url": "https://www.settleloans.in",
+                "logo": "https://www.settleloans.in/logo/logo.svg",
                 "contactPoint": {
                     "@type": "ContactPoint",
                     "telephone": "+91-9821219819",

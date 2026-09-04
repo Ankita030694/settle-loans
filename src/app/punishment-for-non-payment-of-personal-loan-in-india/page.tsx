@@ -10,22 +10,22 @@ export default function PunishmentPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/punishment-for-non-payment-of-personal-loan-in-india#article",
+                "@id": "https://www.settleloans.in/punishment-for-non-payment-of-personal-loan-in-india#article",
                 "headline": "Punishment for Non-Payment of Personal Loan in India: Legal Rights & Solutions",
                 "description": "Exhaustive guide on legal consequences, punishment, and RBI guidelines for non-payment of personal loans in India. Understand your rights against harassment.",
-                "image": "https://settleloans.in/images/loan-punishment-india.jpg",
+                "image": "https://www.settleloans.in/images/loan-punishment-india.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-03-05",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/punishment-for-non-payment-of-personal-loan-in-india" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/punishment-for-non-payment-of-personal-loan-in-india" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/punishment-for-non-payment-of-personal-loan-in-india#product",
+                "@id": "https://www.settleloans.in/punishment-for-non-payment-of-personal-loan-in-india#product",
                 "name": "Personal Loan Legal Defense & Settlement Service",
                 "description": "Expert legal representation and negotiation services for borrowers facing personal loan recovery actions in India.",
                 "aggregateRating": {
@@ -159,8 +159,8 @@ export default function PunishmentPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Legal Consequences", "item": "https://settleloans.in/punishment-for-non-payment-of-personal-loan-in-india" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Legal Consequences", "item": "https://www.settleloans.in/punishment-for-non-payment-of-personal-loan-in-india" }
                 ]
             }
         ]

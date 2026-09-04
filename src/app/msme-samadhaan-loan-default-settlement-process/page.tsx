@@ -48,16 +48,16 @@ export const metadata: Metadata = {
     'cibil commercial msme loan settlement no dues certificate'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/msme-samadhaan-loan-default-settlement-process',
+    canonical: 'https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process',
   },
   openGraph: {
     title: 'MSME Loan Settlement Scheme in India: Resolve Business Debt & Protect Machinery',
     description: 'A comprehensive regulatory and legal roadmap for Indian MSMEs to resolve stressed Cash Credit, Overdraft, and term loans. Discover how to leverage Udyam registration, MSEFC Samadhaan, and RBI OTS policies to protect manufacturing assets.',
-    url: 'https://settleloans.in/msme-samadhaan-loan-default-settlement-process',
+    url: 'https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/msme-samadhaan-loan-default-settlement-process.jpg',
+        url: 'https://www.settleloans.in/images/infographics/msme-samadhaan-loan-default-settlement-process.jpg',
         width: 1200,
         height: 675,
         alt: 'MSME Loan Settlement Scheme in India & Asset Protection Guide',
@@ -70,7 +70,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'MSME Loan Settlement Scheme in India: Resolve Business Debt & Protect Machinery',
     description: 'Facing bank recovery on MSME working capital loans? Master RBI stressed asset restructuring, MSME Samadhaan delayed payment recovery, and advocate-led OTS settlement strategies.',
-    images: ['https://settleloans.in/images/infographics/msme-samadhaan-loan-default-settlement-process.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/msme-samadhaan-loan-default-settlement-process.jpg'],
   },
 };
 
@@ -79,74 +79,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/msme-samadhaan-loan-default-settlement-process#webpage",
-      "url": "https://settleloans.in/msme-samadhaan-loan-default-settlement-process",
+      "@id": "https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process#webpage",
+      "url": "https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process",
       "name": "MSME Loan Settlement Scheme in India: Resolve Business Debt & Protect Machinery (2026)",
       "description": "Struggling with stressed MSME working capital loans, CC/OD limits, or SARFAESI notices? Learn how Udyam-registered businesses leverage MSME Samadhaan, RBI's Prudential Framework, and OTS schemes to settle bank debt without losing plant and machinery.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/msme-samadhaan-loan-default-settlement-process#breadcrumb"
+        "@id": "https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/msme-samadhaan-loan-default-settlement-process#breadcrumb",
+      "@id": "https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "MSME Loan Settlement Process",
-          "item": "https://settleloans.in/msme-samadhaan-loan-default-settlement-process"
+          "item": "https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/msme-samadhaan-loan-default-settlement-process#article",
+      "@id": "https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process#article",
       "headline": "MSME Loan Settlement Scheme in India: How to Settle Business Debt & Protect Plant and Machinery",
       "description": "An exhaustive statutory, financial, and legal analysis explaining how micro, small, and medium enterprises registered under Udyam can navigate working capital distress, leverage the MSMED Act and MSEFC Samadhaan portal, enforce RBI Prudential Restructuring Frameworks, and secure deep One-Time Settlements without forfeiting essential plant and machinery.",
-      "image": "https://settleloans.in/images/infographics/msme-samadhaan-loan-default-settlement-process.jpg",
+      "image": "https://www.settleloans.in/images/infographics/msme-samadhaan-loan-default-settlement-process.jpg",
       "datePublished": "2026-09-01T10:00:00+05:30",
       "dateModified": "2026-09-01T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/msme-samadhaan-loan-default-settlement-process#webpage"
+        "@id": "https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/msme-samadhaan-loan-default-settlement-process#service",
+      "@id": "https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process#service",
       "name": "SettleLoans - MSME Business Debt Resolution & SARFAESI Legal Advisory",
       "description": "Specialized legal representation and financial resolution advisory for Indian MSME enterprises, sole proprietorships, partnerships, and private limited companies managing non-performing working capital, Cash Credit/Overdraft limits, machinery term loans, and SARFAESI recovery proceedings.",
-      "url": "https://settleloans.in/msme-samadhaan-loan-default-settlement-process",
-      "image": "https://settleloans.in/images/infographics/msme-samadhaan-loan-default-settlement-process.jpg",
+      "url": "https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process",
+      "image": "https://www.settleloans.in/images/infographics/msme-samadhaan-loan-default-settlement-process.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -159,9 +159,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -235,7 +235,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/msme-samadhaan-loan-default-settlement-process#faq",
+      "@id": "https://www.settleloans.in/msme-samadhaan-loan-default-settlement-process#faq",
       "mainEntity": [
         {
           "@type": "Question",

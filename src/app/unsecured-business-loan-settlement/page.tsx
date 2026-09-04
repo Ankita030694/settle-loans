@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'msme debt restructuring vs one time settlement',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/unsecured-business-loan-settlement',
+    canonical: 'https://www.settleloans.in/unsecured-business-loan-settlement',
   },
   openGraph: {
     title: 'Unsecured Business Loan Settlement: MSME Distress & Haircut Guide',
     description: 'A complete legal and financial guide for small business owners facing enterprise failure. Understand personal guarantees, SARFAESI limitations, and RBI OTS frameworks.',
-    url: 'https://settleloans.in/unsecured-business-loan-settlement',
+    url: 'https://www.settleloans.in/unsecured-business-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/unsecured-business-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/unsecured-business-loan-settlement.jpg',
         width: 1200,
         height: 630,
         alt: 'Unsecured Business Loan Settlement Process and MSME Debt Resolution Blueprint',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Unsecured Business Loan Settlement Process: SME Distress Guide (2026)',
     description: 'Expert guide to settling unsecured business loans and working capital defaults in India. Learn legal rights, personal guarantee defense, and bank OTS haircuts.',
-    images: ['https://settleloans.in/images/infographics/unsecured-business-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/unsecured-business-loan-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/unsecured-business-loan-settlement#webpage",
-      "url": "https://settleloans.in/unsecured-business-loan-settlement",
+      "@id": "https://www.settleloans.in/unsecured-business-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/unsecured-business-loan-settlement",
       "name": "Unsecured Business Loan Settlement: MSME Distress & Haircut Guide (2026)",
       "description": "Learn the unsecured business loan settlement process for failed SMEs. Understand corporate vs retail debt, personal guarantee defense, and RBI OTS rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/unsecured-business-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/unsecured-business-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/unsecured-business-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/unsecured-business-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Unsecured Business Loan Settlement",
-          "item": "https://settleloans.in/unsecured-business-loan-settlement"
+          "item": "https://www.settleloans.in/unsecured-business-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/unsecured-business-loan-settlement#article",
+      "@id": "https://www.settleloans.in/unsecured-business-loan-settlement#article",
       "headline": "Unsecured Business Loan Settlement: MSME Distress & Haircut Guide",
       "description": "Comprehensive legal and banking manual on the unsecured business loan settlement process for distressed SME founders, proprietorships, partnerships, and corporate directors under RBI frameworks.",
-      "image": "https://settleloans.in/images/infographics/unsecured-business-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/unsecured-business-loan-settlement.jpg",
       "datePublished": "2026-08-22T11:43:53+05:30",
       "dateModified": "2026-08-22T11:43:53+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/unsecured-business-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/unsecured-business-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/unsecured-business-loan-settlement#service",
+      "@id": "https://www.settleloans.in/unsecured-business-loan-settlement#service",
       "name": "SettleLoans - Unsecured Business Loan Settlement & MSME Debt Resolution",
       "description": "Strategic legal defense and debt negotiation advisory for small business owners and corporate directors facing unsecured working capital loan defaults, personal guarantee invocations, and multi-lender debt distress.",
-      "url": "https://settleloans.in/unsecured-business-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/unsecured-business-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/unsecured-business-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/unsecured-business-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/unsecured-business-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/unsecured-business-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -276,12 +276,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

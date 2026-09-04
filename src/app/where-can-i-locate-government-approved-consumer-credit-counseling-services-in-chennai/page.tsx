@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Government Approved Credit Counseling Chennai | Locate RBI FLCs 2025",
   description: "Find government-approved and bank-led credit counseling services in Chennai. Locate RBI-supported Financial Literacy Centres (FLCs), Disha, and Abhay for free debt advice.",
   alternates: {
-    canonical: "https://settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai",
+    canonical: "https://www.settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai",
   },
 };
 
@@ -16,34 +16,34 @@ export default function ChennaiCreditCounselingPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai#webpage",
-        "url": "https://settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai",
+        "@id": "https://www.settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai#webpage",
+        "url": "https://www.settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai",
         "name": "Where Can I Locate Government Approved Consumer Credit Counseling Services in Chennai?",
         "description": "A comprehensive guide to finding free, government-approved, and bank-led credit counseling services in Chennai, including RBI-supported initiatives.",
-        "breadcrumb": { "@id": "https://settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai#breadcrumb",
+        "@id": "https://www.settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Chennai Credit Counseling",
-            "item": "https://settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai"
+            "item": "https://www.settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai#article",
+        "@id": "https://www.settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai#article",
         "headline": "Locating Government-Approved Credit Counseling in Chennai: A Complete Guide",
         "description": "An exhaustive analysis of India's credit counseling ecosystem with a focus on Chennai, covering RBI-supported FLCs, bank-led initiatives, and NGO support.",
         "author": {
@@ -55,12 +55,12 @@ export default function ChennaiCreditCounselingPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-20",
         "dateModified": "2024-03-20",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai#webpage" }
       },
       {
         "@type": "FAQPage",
@@ -85,14 +85,14 @@ export default function ChennaiCreditCounselingPage() {
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai#product",
+        "@id": "https://www.settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai#product",
         "name": "Credit Counseling Services Chennai",
         "description": "Free financial literacy and credit counseling services for debt resolution in Chennai.",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "areaServed": {
           "@type": "City",
           "name": "Chennai"

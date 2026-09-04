@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "10 Crore Loan Settlement India | Corporate Debt & NCLT Resolution",
     description: "Master the 10 Crore loan settlement process in India. Specialized guide for corporate debt, IBC Section 12A, NCLT defense, and Large Credit Exposure (LCE) protocols.",
     alternates: {
-        canonical: "https://settleloans.in/10-crore-loan-settlement",
+        canonical: "https://www.settleloans.in/10-crore-loan-settlement",
     },
 };
 
@@ -16,39 +16,39 @@ export default function TenCroreLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/10-crore-loan-settlement#webpage",
-                "url": "https://settleloans.in/10-crore-loan-settlement",
+                "@id": "https://www.settleloans.in/10-crore-loan-settlement#webpage",
+                "url": "https://www.settleloans.in/10-crore-loan-settlement",
                 "name": "10 Crore Loan Settlement India | Corporate Debt Guide",
                 "description": "Expert strategies for resolving corporate and high-value personal debt exceeding 10 Crore.",
-                "breadcrumb": { "@id": "https://settleloans.in/10-crore-loan-settlement#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/10-crore-loan-settlement#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/10-crore-loan-settlement#breadcrumb",
+                "@id": "https://www.settleloans.in/10-crore-loan-settlement#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "10 Crore Loan Settlement", "item": "https://settleloans.in/10-crore-loan-settlement" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "10 Crore Loan Settlement", "item": "https://www.settleloans.in/10-crore-loan-settlement" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/10-crore-loan-settlement#article",
+                "@id": "https://www.settleloans.in/10-crore-loan-settlement#article",
                 "headline": "10 Crore Loan Settlement: Navigating Corporate Insolvency and Strategic Resolution",
                 "description": "A comprehensive guide for HNIs and Corporate Entities to settle debts of 10 Crore and above in India.",
                 "author": { "@type": "Organization", "name": "SettleLoans Corporate Panel" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/10-crore-loan-settlement#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/10-crore-loan-settlement#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/10-crore-loan-settlement#product",
+                "@id": "https://www.settleloans.in/10-crore-loan-settlement#product",
                 "name": "Corporate Debt Settlement Advisory",
                 "description": "Premium legal advocacy for multi-crore debt resolution and NCLT withdrawal cases.",
                 "aggregateRating": {
@@ -75,7 +75,7 @@ export default function TenCroreLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/10-crore-loan-settlement#faq",
+                "@id": "https://www.settleloans.in/10-crore-loan-settlement#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

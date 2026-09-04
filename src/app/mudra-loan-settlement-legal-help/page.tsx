@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Mudra Loan Settlement Legal Help India | Expert PMMY Debt Relief",
     description: "Struggling with Mudra loan repayment? Get expert legal help for Mudra loan settlement (Shishu, Kishor, Tarun). Learn about OTS, RBI guidelines, and stopping harassment.",
     alternates: {
-        canonical: "https://settleloans.in/mudra-loan-settlement-legal-help",
+        canonical: "https://www.settleloans.in/mudra-loan-settlement-legal-help",
     },
 };
 
@@ -16,34 +16,34 @@ export default function MudraLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/mudra-loan-settlement-legal-help#webpage",
-                "url": "https://settleloans.in/mudra-loan-settlement-legal-help",
+                "@id": "https://www.settleloans.in/mudra-loan-settlement-legal-help#webpage",
+                "url": "https://www.settleloans.in/mudra-loan-settlement-legal-help",
                 "name": "Mudra Loan Settlement Legal Help India | Expert PMMY Debt Relief",
                 "description": "Professional legal assistance for settling Mudra loans under PMMY. Comprehensive guide on NPA resolution, OTS schemes, and borrower rights.",
-                "breadcrumb": { "@id": "https://settleloans.in/mudra-loan-settlement-legal-help#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/mudra-loan-settlement-legal-help#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/mudra-loan-settlement-legal-help#breadcrumb",
+                "@id": "https://www.settleloans.in/mudra-loan-settlement-legal-help#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Mudra Loan Settlement Legal Help",
-                        "item": "https://settleloans.in/mudra-loan-settlement-legal-help"
+                        "item": "https://www.settleloans.in/mudra-loan-settlement-legal-help"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/mudra-loan-settlement-legal-help#article",
+                "@id": "https://www.settleloans.in/mudra-loan-settlement-legal-help#article",
                 "headline": "Mudra Loan Settlement: The Definitive Legal Guide for Indian MSMEs",
                 "description": "A masterclass on resolving Mudra loan defaults, negotiating One-Time Settlements (OTS), and understanding RBI guidelines for PMMY loans.",
                 "author": {
@@ -55,16 +55,16 @@ export default function MudraLoanSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-07",
                 "dateModified": "2024-03-07",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/mudra-loan-settlement-legal-help#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/mudra-loan-settlement-legal-help#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/mudra-loan-settlement-legal-help#product",
+                "@id": "https://www.settleloans.in/mudra-loan-settlement-legal-help#product",
                 "name": "Mudra Loan Legal Defense & Settlement",
                 "description": "Expert legal representation for small businesses facing Mudra loan recovery actions and seeking debt settlement.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function MudraLoanSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/mudra-loan-settlement-legal-help#faq",
+                "@id": "https://www.settleloans.in/mudra-loan-settlement-legal-help#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

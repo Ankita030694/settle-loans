@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Smart Ways to Manage EMI Payments | Debt Reduction Strategies 2026",
   description: "Learn smart ways to manage EMI payments in India. Comprehensive guide on debt avalanche, snowball methods, budgeting, and loan consolidation to regain financial freedom.",
   alternates: {
-    canonical: "https://settleloans.in/smart-ways-to-manage-emi-payments",
+    canonical: "https://www.settleloans.in/smart-ways-to-manage-emi-payments",
   },
 };
 
@@ -16,34 +16,34 @@ export default function SmartEMIManagementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/smart-ways-to-manage-emi-payments#webpage",
-        "url": "https://settleloans.in/smart-ways-to-manage-emi-payments",
+        "@id": "https://www.settleloans.in/smart-ways-to-manage-emi-payments#webpage",
+        "url": "https://www.settleloans.in/smart-ways-to-manage-emi-payments",
         "name": "Smart Ways to Manage EMI Payments | Debt Reduction Strategies 2026",
         "description": "Expert guide on managing EMIs effectively, reducing interest costs, and escaping the debt trap in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/smart-ways-to-manage-emi-payments#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/smart-ways-to-manage-emi-payments#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/smart-ways-to-manage-emi-payments#breadcrumb",
+        "@id": "https://www.settleloans.in/smart-ways-to-manage-emi-payments#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Smart Ways to Manage EMI Payments",
-            "item": "https://settleloans.in/smart-ways-to-manage-emi-payments"
+            "item": "https://www.settleloans.in/smart-ways-to-manage-emi-payments"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/smart-ways-to-manage-emi-payments#article",
+        "@id": "https://www.settleloans.in/smart-ways-to-manage-emi-payments#article",
         "headline": "Smart Ways to Manage EMI Payments: Your Roadmap to Financial Freedom",
         "description": "A comprehensive 5000+ word guide on mastering EMI management, utilizing repayment strategies, and leveraging legal protections in India.",
         "author": {
@@ -55,16 +55,16 @@ export default function SmartEMIManagementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2026-03-28",
         "dateModified": "2026-03-28",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/smart-ways-to-manage-emi-payments#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/smart-ways-to-manage-emi-payments#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/smart-ways-to-manage-emi-payments#product",
+        "@id": "https://www.settleloans.in/smart-ways-to-manage-emi-payments#product",
         "name": "EMI Management & Debt Recovery Services",
         "description": "Professional guidance and negotiation services for managing and settling overwhelming EMI burdens.",
         "aggregateRating": {
@@ -112,7 +112,7 @@ export default function SmartEMIManagementPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/smart-ways-to-manage-emi-payments#faq",
+        "@id": "https://www.settleloans.in/smart-ways-to-manage-emi-payments#faq",
         "mainEntity": [
           {
             "@type": "Question",

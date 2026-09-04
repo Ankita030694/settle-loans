@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement in Andhra Pradesh | 3500+ Word Legal Guide",
   description: "Comprehensive 3500+ word guide to loan settlement in Andhra Pradesh. Legal protection under AP Money Lenders Act, APSLSA Lok Adalat procedures, and debt recovery defenses in Visakhapatnam & Vijayawada.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/andhra-pradesh",
+    canonical: "https://www.settleloans.in/loan-settlement/andhra-pradesh",
   },
 };
 
@@ -16,47 +16,47 @@ export default function AndhraPradeshLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/andhra-pradesh#webpage",
-        "url": "https://settleloans.in/loan-settlement/andhra-pradesh",
+        "@id": "https://www.settleloans.in/loan-settlement/andhra-pradesh#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/andhra-pradesh",
         "name": "Professional Loan Settlement Andhra Pradesh | Legal Guide - SettleLoans",
         "description": "Comprehensive word guide to loan settlement in Andhra Pradesh. Legal protection under AP Money Lenders Act, APSLSA Lok Adalat procedures, and debt recovery defenses in Visakhapatnam & Vijayawada.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/andhra-pradesh#breadcrumb" },
-        "mainEntity": { "@id": "https://settleloans.in/loan-settlement/andhra-pradesh#service" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/andhra-pradesh#breadcrumb" },
+        "mainEntity": { "@id": "https://www.settleloans.in/loan-settlement/andhra-pradesh#service" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/andhra-pradesh#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/andhra-pradesh#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Andhra Pradesh",
-            "item": "https://settleloans.in/loan-settlement/andhra-pradesh"
+            "item": "https://www.settleloans.in/loan-settlement/andhra-pradesh"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/andhra-pradesh#service",
+        "@id": "https://www.settleloans.in/loan-settlement/andhra-pradesh#service",
         "name": "Andhra Pradesh Loan Settlement Services",
         "description": "Professional debt negotiation and legal protection services for personal loans and credit cards in Visakhapatnam, Vijayawada, and across Andhra Pradesh.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": [
           { "@type": "City", "name": "Visakhapatnam" },
@@ -93,7 +93,7 @@ export default function AndhraPradeshLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/andhra-pradesh#article",
+        "@id": "https://www.settleloans.in/loan-settlement/andhra-pradesh#article",
         "headline": "Strategic Loan Settlement in Andhra Pradesh: Legal Protections and Guide",
         "description": "The most comprehensive guide for Andhra Pradesh residents on legal debt resolution, featuring AP Money Lenders Act, APSLSA Lok Adalat procedures, and banking recovery defenses.",
         "author": {
@@ -105,16 +105,16 @@ export default function AndhraPradeshLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-02-03",
         "dateModified": "2024-02-03",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/andhra-pradesh#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/andhra-pradesh#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/andhra-pradesh#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/andhra-pradesh#faq",
         "mainEntity": [
           {
             "@type": "Question",

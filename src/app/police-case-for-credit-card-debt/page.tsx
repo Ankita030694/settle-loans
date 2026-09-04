@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Police Case for Credit Card Debt in India? | Your Legal Protection 2024-25",
     description: "Facing a police case for credit card debt? Learn about RBI guidelines, criminal vs civil default, and how to legally stop harassment from recovery agents using the law.",
     alternates: {
-        canonical: "https://settleloans.in/police-case-for-credit-card-debt",
+        canonical: "https://www.settleloans.in/police-case-for-credit-card-debt",
     },
 };
 
@@ -16,34 +16,34 @@ export default function PoliceCaseCardDebtPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/police-case-for-credit-card-debt#webpage",
-                "url": "https://settleloans.in/police-case-for-credit-card-debt",
+                "@id": "https://www.settleloans.in/police-case-for-credit-card-debt#webpage",
+                "url": "https://www.settleloans.in/police-case-for-credit-card-debt",
                 "name": "Police Case for Credit Card Debt in India | Legal Rights & Protections",
                 "description": "Comprehensive guide on whether you can face a police case for credit card debt and your rights under RBI rules.",
-                "breadcrumb": { "@id": "https://settleloans.in/police-case-for-credit-card-debt#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/police-case-for-credit-card-debt#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/police-case-for-credit-card-debt#breadcrumb",
+                "@id": "https://www.settleloans.in/police-case-for-credit-card-debt#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Police Case for Credit Card Debt",
-                        "item": "https://settleloans.in/police-case-for-credit-card-debt"
+                        "item": "https://www.settleloans.in/police-case-for-credit-card-debt"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/police-case-for-credit-card-debt#article",
+                "@id": "https://www.settleloans.in/police-case-for-credit-card-debt#article",
                 "headline": "Can Banks File a Police Case for Credit Card Debt? Know the Truth",
                 "description": "Exposing the illegal threats of police action for credit card default and empowering borrowers with RBI guidelines.",
                 "author": {
@@ -55,16 +55,16 @@ export default function PoliceCaseCardDebtPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-10",
                 "dateModified": "2024-03-10",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/police-case-for-credit-card-debt#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/police-case-for-credit-card-debt#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/police-case-for-credit-card-debt#product",
+                "@id": "https://www.settleloans.in/police-case-for-credit-card-debt#product",
                 "name": "Credit Card Settlement Services",
                 "description": "Expert negotiation with banks to settle credit card dues and stop harassment legally.",
                 "aggregateRating": {
@@ -84,7 +84,7 @@ export default function PoliceCaseCardDebtPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/police-case-for-credit-card-debt#faq",
+                "@id": "https://www.settleloans.in/police-case-for-credit-card-debt#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

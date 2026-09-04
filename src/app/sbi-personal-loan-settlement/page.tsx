@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'state bank of india one time settlement process',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/sbi-personal-loan-settlement',
+    canonical: 'https://www.settleloans.in/sbi-personal-loan-settlement',
   },
   openGraph: {
     title: 'SBI Personal Loan Settlement: OTS Rules, Rin Samadhan Scheme & Lok Adalat (2026)',
     description: 'Learn how to settle an SBI personal loan, Xpress Credit, or credit card. Understand PSU banking OTS frameworks, Rin Samadhan guidelines, Lok Adalat settlement slabs, and legal protections.',
-    url: 'https://settleloans.in/sbi-personal-loan-settlement',
+    url: 'https://www.settleloans.in/sbi-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/sbi-personal-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/sbi-personal-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'State Bank of India (SBI) Personal Loan Settlement Process and OTS Guide',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'SBI Personal Loan Settlement: OTS Rules, Rin Samadhan Scheme & Legal Process',
     description: 'Technical and legal manual for settling defaulted State Bank of India personal loans, Xpress Credit, and credit cards under PSU compromise frameworks and Lok Adalat.',
-    images: ['https://settleloans.in/images/infographics/sbi-personal-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/sbi-personal-loan-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/sbi-personal-loan-settlement#webpage",
-      "url": "https://settleloans.in/sbi-personal-loan-settlement",
+      "@id": "https://www.settleloans.in/sbi-personal-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/sbi-personal-loan-settlement",
       "name": "SBI Personal Loan Settlement: OTS Rules, Rin Samadhan Scheme & Lok Adalat (2026)",
       "description": "Exhaustive guide to State Bank of India (SBI) personal loan settlement. Understand PSU OTS policies, Rin Samadhan scheme, SARB escalation, Lok Adalat compromise, and legal defense under RBI rules.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/sbi-personal-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/sbi-personal-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/sbi-personal-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/sbi-personal-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "SBI Personal Loan Settlement",
-          "item": "https://settleloans.in/sbi-personal-loan-settlement"
+          "item": "https://www.settleloans.in/sbi-personal-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/sbi-personal-loan-settlement#article",
+      "@id": "https://www.settleloans.in/sbi-personal-loan-settlement#article",
       "headline": "SBI Personal Loan Settlement: OTS Rules, Rin Samadhan Scheme & Lok Adalat",
       "description": "A comprehensive guide on negotiating One-Time Settlements (OTS) with State Bank of India (SBI) for personal loans and Xpress Credit, navigating PSU Rin Samadhan schemes, SARB branch transfers, and Lok Adalat conciliation.",
-      "image": "https://settleloans.in/images/infographics/sbi-personal-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/sbi-personal-loan-settlement.jpg",
       "datePublished": "2026-08-21T14:51:54+05:30",
       "dateModified": "2026-08-21T14:51:54+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/sbi-personal-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/sbi-personal-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/sbi-personal-loan-settlement#service",
+      "@id": "https://www.settleloans.in/sbi-personal-loan-settlement#service",
       "name": "SettleLoans - SBI Personal Loan Settlement & Legal Defense",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted State Bank of India (SBI) personal loans, Xpress Credit, and credit cards under PSU compromise frameworks with maximum debt waivers.",
-      "url": "https://settleloans.in/sbi-personal-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/sbi-personal-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/sbi-personal-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/sbi-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/sbi-personal-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/sbi-personal-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -292,12 +292,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

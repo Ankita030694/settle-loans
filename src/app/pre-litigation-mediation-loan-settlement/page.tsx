@@ -52,16 +52,16 @@ export const metadata: Metadata = {
     'pre litigation notice bank loan reply'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/pre-litigation-mediation-loan-settlement',
+    canonical: 'https://www.settleloans.in/pre-litigation-mediation-loan-settlement',
   },
   openGraph: {
     title: 'Pre-Litigation Mediation for Bank Loan Default: Free DLSA Settlement Guide',
     description: 'Proactively initiate free, court-backed pre-litigation mediation through DLSA for unsecured personal loans and credit cards. Halt recovery harassment and secure an official Lok Adalat compromise decree with 45%–60% principal waivers.',
-    url: 'https://settleloans.in/pre-litigation-mediation-loan-settlement',
+    url: 'https://www.settleloans.in/pre-litigation-mediation-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/pre-litigation-mediation-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/pre-litigation-mediation-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Pre-Litigation Mediation for Bank Loan Default via DLSA Guide',
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Pre-Litigation Mediation for Bank Loan Default: DLSA Process & Legal Rights',
     description: 'Struggling with loan default or aggressive bank recovery? Learn how to file for free pre-litigation mediation at your local District Court DLSA to negotiate a binding One-Time Settlement.',
-    images: ['https://settleloans.in/images/infographics/pre-litigation-mediation-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/pre-litigation-mediation-loan-settlement.jpg'],
   },
 };
 
@@ -83,74 +83,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/pre-litigation-mediation-loan-settlement#webpage",
-      "url": "https://settleloans.in/pre-litigation-mediation-loan-settlement",
+      "@id": "https://www.settleloans.in/pre-litigation-mediation-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/pre-litigation-mediation-loan-settlement",
       "name": "Pre-Litigation Mediation for Bank Loan Default: Free DLSA Process & Settlement Guide (2026)",
       "description": "Discover how to proactively initiate free, court-backed pre-litigation mediation through your District Legal Services Authority (DLSA) for bank loan defaults. Stop recovery harassment, force banks into compromise negotiations, and secure a binding Lok Adalat consent decree.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/pre-litigation-mediation-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/pre-litigation-mediation-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/pre-litigation-mediation-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/pre-litigation-mediation-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Pre-Litigation Mediation Loan Settlement Guide",
-          "item": "https://settleloans.in/pre-litigation-mediation-loan-settlement"
+          "item": "https://www.settleloans.in/pre-litigation-mediation-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/pre-litigation-mediation-loan-settlement#article",
+      "@id": "https://www.settleloans.in/pre-litigation-mediation-loan-settlement#article",
       "headline": "Pre-Litigation Mediation for Bank Loan Default: How to Use DLSA to Settle Bank Debts Free and Legally",
       "description": "An in-depth legal and practical guide for borrowers on utilizing Pre-Litigation Mediation under the Legal Services Authorities Act, 1987 and Mediation Act, 2023 to resolve bank loan defaults, halt recovery agent harassment, and obtain a court-decreed compromise settlement.",
-      "image": "https://settleloans.in/images/infographics/pre-litigation-mediation-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/pre-litigation-mediation-loan-settlement.jpg",
       "datePublished": "2026-08-26T12:00:00+05:30",
       "dateModified": "2026-08-26T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/pre-litigation-mediation-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/pre-litigation-mediation-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/pre-litigation-mediation-loan-settlement#service",
+      "@id": "https://www.settleloans.in/pre-litigation-mediation-loan-settlement#service",
       "name": "SettleLoans - Pre-Litigation Mediation & Bank Debt Settlement Advisory",
       "description": "Expert legal representation and dispute mediation services helping distressed borrowers initiate pre-litigation conciliation via DLSA, defend against coercive debt recovery, and secure formal bank compromise settlements.",
-      "url": "https://settleloans.in/pre-litigation-mediation-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/pre-litigation-mediation-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/pre-litigation-mediation-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/pre-litigation-mediation-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -163,9 +163,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -239,7 +239,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/pre-litigation-mediation-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/pre-litigation-mediation-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -325,12 +325,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     title: "Legal Action for Credit Card Default in India | Rights & Remedies",
     description: "Facing legal action for credit card default? Learn about CIBIL impact, recovery agent guidelines, civil suits, and your rights as a borrower in India.",
     alternates: {
-        canonical: "https://settleloans.in/legal-action-for-credit-card-default",
+        canonical: "https://www.settleloans.in/legal-action-for-credit-card-default",
     },
 };
 
@@ -17,34 +17,34 @@ export default function CreditCardDefaultPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/legal-action-for-credit-card-default#webpage",
-                "url": "https://settleloans.in/legal-action-for-credit-card-default",
+                "@id": "https://www.settleloans.in/legal-action-for-credit-card-default#webpage",
+                "url": "https://www.settleloans.in/legal-action-for-credit-card-default",
                 "name": "Legal Action for Credit Card Default India | Step-by-Step Guide",
                 "description": "Comprehensive guide on the legal consequences of credit card default in India and how to protect yourself legally.",
-                "breadcrumb": { "@id": "https://settleloans.in/legal-action-for-credit-card-default#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/legal-action-for-credit-card-default#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/legal-action-for-credit-card-default#breadcrumb",
+                "@id": "https://www.settleloans.in/legal-action-for-credit-card-default#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Credit Card Default Legal Action",
-                        "item": "https://settleloans.in/legal-action-for-credit-card-default"
+                        "item": "https://www.settleloans.in/legal-action-for-credit-card-default"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/legal-action-for-credit-card-default#article",
+                "@id": "https://www.settleloans.in/legal-action-for-credit-card-default#article",
                 "headline": "Credit Card Default in India: Legal Consequences and Defensive Strategies",
                 "description": "An in-depth analysis of what happens when you default on a credit card and the legal protections available to you under RBI guidelines.",
                 "author": {
@@ -56,16 +56,16 @@ export default function CreditCardDefaultPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-10",
                 "dateModified": "2024-03-10",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/legal-action-for-credit-card-default#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/legal-action-for-credit-card-default#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/legal-action-for-credit-card-default#product",
+                "@id": "https://www.settleloans.in/legal-action-for-credit-card-default#product",
                 "name": "Credit Card Debt Resolution",
                 "description": "Professional mediation and legal settlement services for credit card defaulters facing harassment or litigation.",
                 "aggregateRating": {
@@ -76,7 +76,7 @@ export default function CreditCardDefaultPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/legal-action-for-credit-card-default#faq",
+                "@id": "https://www.settleloans.in/legal-action-for-credit-card-default#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

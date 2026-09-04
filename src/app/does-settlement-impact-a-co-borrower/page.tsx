@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Does Loan Settlement Impact a Co-Borrower? Legal & Credit Risks",
   description: "Understand how a loan settlement affects co-borrowers in India. Learn about joint liability, CIBIL score drops, and legal consequences for all applicants.",
   alternates: {
-    canonical: "https://settleloans.in/does-settlement-impact-a-co-borrower",
+    canonical: "https://www.settleloans.in/does-settlement-impact-a-co-borrower",
   },
 };
 
@@ -16,34 +16,34 @@ export default function CoBorrowerSettlementImpactPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/does-settlement-impact-a-co-borrower#webpage",
-        "url": "https://settleloans.in/does-settlement-impact-a-co-borrower",
+        "@id": "https://www.settleloans.in/does-settlement-impact-a-co-borrower#webpage",
+        "url": "https://www.settleloans.in/does-settlement-impact-a-co-borrower",
         "name": "Does Loan Settlement Impact a Co-Borrower? Your Complete Guide",
         "description": "In-depth analysis of the impact of loan settlement on co-borrowers in India, covering credit and legal aspects.",
-        "breadcrumb": { "@id": "https://settleloans.in/does-settlement-impact-a-co-borrower#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/does-settlement-impact-a-co-borrower#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/does-settlement-impact-a-co-borrower#breadcrumb",
+        "@id": "https://www.settleloans.in/does-settlement-impact-a-co-borrower#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Does Settlement Impact a Co-Borrower?",
-            "item": "https://settleloans.in/does-settlement-impact-a-co-borrower"
+            "item": "https://www.settleloans.in/does-settlement-impact-a-co-borrower"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/does-settlement-impact-a-co-borrower#article",
+        "@id": "https://www.settleloans.in/does-settlement-impact-a-co-borrower#article",
         "headline": "Does Loan Settlement Impact a Co-Borrower? The Hidden Risks Explained",
         "description": "A comprehensive guide for co-borrowers and primary applicants on the shared consequences of settling a loan in India.",
         "author": {
@@ -55,16 +55,16 @@ export default function CoBorrowerSettlementImpactPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-27",
         "dateModified": "2024-03-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/does-settlement-impact-a-co-borrower#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/does-settlement-impact-a-co-borrower#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/does-settlement-impact-a-co-borrower#product",
+        "@id": "https://www.settleloans.in/does-settlement-impact-a-co-borrower#product",
         "name": "Co-Borrower Legal Advisory",
         "description": "Specialized guidance for co-borrowers facing loan defaults and settlement scenarios.",
         "aggregateRating": {
@@ -84,7 +84,7 @@ export default function CoBorrowerSettlementImpactPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/does-settlement-impact-a-co-borrower#faq",
+        "@id": "https://www.settleloans.in/does-settlement-impact-a-co-borrower#faq",
         "mainEntity": [
           {
             "@type": "Question",

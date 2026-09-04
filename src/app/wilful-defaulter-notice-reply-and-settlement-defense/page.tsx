@@ -51,16 +51,16 @@ export const metadata: Metadata = {
     'high court writ petition article 226 wilful defaulter'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense',
+    canonical: 'https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense',
   },
   openGraph: {
     title: 'Wilful Defaulter Notice Reply & Settlement Defense: RBI Rules & Legal Guide',
     description: 'Received a bank Wilful Defaulter show-cause notice? Learn how advocates challenge Identification Committees, invoke the 21-day representation window, contest forensic audits, and secure a binding compromise OTS.',
-    url: 'https://settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense',
+    url: 'https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/wilful-defaulter-notice-reply-and-settlement-defense.jpg',
+        url: 'https://www.settleloans.in/images/infographics/wilful-defaulter-notice-reply-and-settlement-defense.jpg',
         width: 1200,
         height: 675,
         alt: 'Wilful Defaulter Notice Reply and Legal Settlement Defense Guide',
@@ -73,7 +73,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Wilful Defaulter Notice Reply & Settlement Defense: RBI Legal Guide',
     description: 'Expert advocate guide on responding to Wilful Defaulter notices, GRC personal hearings, 21-day statutory representations, and structuring bank compromise settlements.',
-    images: ['https://settleloans.in/images/infographics/wilful-defaulter-notice-reply-and-settlement-defense.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/wilful-defaulter-notice-reply-and-settlement-defense.jpg'],
   },
 };
 
@@ -82,74 +82,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense#webpage",
-      "url": "https://settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense",
+      "@id": "https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense#webpage",
+      "url": "https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense",
       "name": "Wilful Defaulter Notice Reply Format & Defense Guide: RBI Rules (2026)",
       "description": "Comprehensive legal defense against bank Wilful Defaulter show-cause notices under RBI Master Directions. Explains the 21-day representation window, Grievance Redressal Committee hearings, Supreme Court case laws, and compromise OTS strategies.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense#breadcrumb"
+        "@id": "https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense#breadcrumb",
+      "@id": "https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Wilful Defaulter Defense & Notice Reply Guide",
-          "item": "https://settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense"
+          "item": "https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense#article",
+      "@id": "https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense#article",
       "headline": "Wilful Defaulter Notice Reply Format & Settlement Defense: RBI Master Directions, GRC Hearings & 21-Day Representation Guide",
       "description": "An exhaustive regulatory defense guide explaining how borrowers and corporate directors can contest wrongful Wilful Defaulter classifications, invoke the mandatory 21-day representation window, defend before Review Committees, and structure an institutional One Time Settlement.",
-      "image": "https://settleloans.in/images/infographics/wilful-defaulter-notice-reply-and-settlement-defense.jpg",
+      "image": "https://www.settleloans.in/images/infographics/wilful-defaulter-notice-reply-and-settlement-defense.jpg",
       "datePublished": "2026-08-28T09:00:00+05:30",
       "dateModified": "2026-08-28T09:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense#webpage"
+        "@id": "https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense#service",
+      "@id": "https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense#service",
       "name": "SettleLoans - Wilful Defaulter Legal Defense & Regulatory Dispute Resolution",
       "description": "Specialized legal representation, forensic ledger audits, and institutional dispute resolution for borrowers and directors facing Wilful Defaulter show cause notices, Identification Committee proceedings, and Grievance Redressal Committee hearings across India.",
-      "url": "https://settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense",
-      "image": "https://settleloans.in/images/infographics/wilful-defaulter-notice-reply-and-settlement-defense.jpg",
+      "url": "https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense",
+      "image": "https://www.settleloans.in/images/infographics/wilful-defaulter-notice-reply-and-settlement-defense.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -162,9 +162,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -238,7 +238,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense#faq",
+      "@id": "https://www.settleloans.in/wilful-defaulter-notice-reply-and-settlement-defense#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -324,12 +324,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

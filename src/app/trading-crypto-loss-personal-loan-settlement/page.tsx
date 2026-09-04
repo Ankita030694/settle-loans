@@ -46,16 +46,16 @@ export const metadata: Metadata = {
     'personal loan default stock market loss'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/trading-crypto-loss-personal-loan-settlement',
+    canonical: 'https://www.settleloans.in/trading-crypto-loss-personal-loan-settlement',
   },
   openGraph: {
     title: 'Personal Loan Taken for Trading Loss Settlement: F&O & Crypto Debt Relief (2026)',
     description: 'Exhaustive legal and financial guide for retail traders who defaulted on personal loans due to stock options (F&O) or cryptocurrency losses. Discover how to halt recovery harassment, build an insolvency hardship dossier, and negotiate a 40%–60% OTS haircut.',
-    url: 'https://settleloans.in/trading-crypto-loss-personal-loan-settlement',
+    url: 'https://www.settleloans.in/trading-crypto-loss-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/trading-crypto-loss-personal-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/trading-crypto-loss-personal-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan Taken for Trading Loss Settlement Infographic',
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Personal Loan Taken for Trading Loss Settlement: How to Resolve F&O and Crypto Debt',
     description: 'Navigate severe financial ruin from trading losses. Learn statutory protections under RBI Master Directions, Section 25 PSSA defense, and advocate-led loan settlement.',
-    images: ['https://settleloans.in/images/infographics/trading-crypto-loss-personal-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/trading-crypto-loss-personal-loan-settlement.jpg'],
   },
 };
 
@@ -77,74 +77,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/trading-crypto-loss-personal-loan-settlement#webpage",
-      "url": "https://settleloans.in/trading-crypto-loss-personal-loan-settlement",
+      "@id": "https://www.settleloans.in/trading-crypto-loss-personal-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/trading-crypto-loss-personal-loan-settlement",
       "name": "Personal Loan Taken for Trading Loss Settlement: F&O & Crypto Debt Relief (2026)",
       "description": "Comprehensive legal and banking guide for borrowers who borrowed personal loans for stock market options (F&O) or cryptocurrency trading and suffered catastrophic capital loss.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/trading-crypto-loss-personal-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/trading-crypto-loss-personal-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/trading-crypto-loss-personal-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/trading-crypto-loss-personal-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Trading & Crypto Loss Loan Settlement",
-          "item": "https://settleloans.in/trading-crypto-loss-personal-loan-settlement"
+          "item": "https://www.settleloans.in/trading-crypto-loss-personal-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/trading-crypto-loss-personal-loan-settlement#article",
+      "@id": "https://www.settleloans.in/trading-crypto-loss-personal-loan-settlement#article",
       "headline": "Personal Loan Taken for Trading Loss Settlement: How to Resolve F&O and Crypto Debt",
       "description": "A strategic legal and financial roadmap for resolving personal loan defaults triggered by derivatives trading and cryptocurrency market collapses under RBI compromise settlement frameworks.",
-      "image": "https://settleloans.in/images/infographics/trading-crypto-loss-personal-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/trading-crypto-loss-personal-loan-settlement.jpg",
       "datePublished": "2026-08-26T12:00:00+05:30",
       "dateModified": "2026-08-26T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/trading-crypto-loss-personal-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/trading-crypto-loss-personal-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/trading-crypto-loss-personal-loan-settlement#service",
+      "@id": "https://www.settleloans.in/trading-crypto-loss-personal-loan-settlement#service",
       "name": "SettleLoans - Trading & Crypto Debt Settlement Advisory",
       "description": "Specialized legal defense and financial negotiation advisory for settling unsecured personal loans defaulted due to stock options (F&O) and cryptocurrency trading losses under official RBI compromise frameworks.",
-      "url": "https://settleloans.in/trading-crypto-loss-personal-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/trading-crypto-loss-personal-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/trading-crypto-loss-personal-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/trading-crypto-loss-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -157,9 +157,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -233,7 +233,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/trading-crypto-loss-personal-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/trading-crypto-loss-personal-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -319,12 +319,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

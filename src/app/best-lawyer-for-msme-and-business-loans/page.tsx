@@ -125,8 +125,8 @@ const MSMEAndBusinessLoansPage = () => {
                             "breadcrumb": {
                                 "@type": "BreadcrumbList",
                                 "itemListElement": [
-                                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                                    { "@type": "ListItem", "position": 2, "name": "MSME and Business Loans", "item": "https://settleloans.in/best-lawyer-for-msme-and-business-loans" }
+                                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                                    { "@type": "ListItem", "position": 2, "name": "MSME and Business Loans", "item": "https://www.settleloans.in/best-lawyer-for-msme-and-business-loans" }
                                 ]
                             },
                             "mainEntity": {
@@ -136,7 +136,7 @@ const MSMEAndBusinessLoansPage = () => {
                                 "publisher": {
                                     "@type": "Organization",
                                     "name": "SettleLoans",
-                                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                                 },
                                 "datePublished": "2024-03-03"
                             },

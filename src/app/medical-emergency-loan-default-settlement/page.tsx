@@ -53,16 +53,16 @@ export const metadata: Metadata = {
     "one time settlement for medical crisis india",
   ],
   alternates: {
-    canonical: "https://settleloans.in/medical-emergency-loan-default-settlement",
+    canonical: "https://www.settleloans.in/medical-emergency-loan-default-settlement",
   },
   openGraph: {
     title: "Medical Emergency Loan Default Settlement Guide: Settle Debt on Compassionate Grounds (2026)",
     description: "Comprehensive legal and financial manual on settling defaulted personal loans following critical illnesses, surgeries, or prolonged hospitalization in India. Discover how hospital discharge summaries and medical bills serve as irrefutable legal evidence for bank OTS committees.",
-    url: "https://settleloans.in/medical-emergency-loan-default-settlement",
+    url: "https://www.settleloans.in/medical-emergency-loan-default-settlement",
     siteName: "SettleLoans",
     images: [
       {
-        url: "https://settleloans.in/images/infographics/medical-emergency-loan-default-settlement.jpg",
+        url: "https://www.settleloans.in/images/infographics/medical-emergency-loan-default-settlement.jpg",
         width: 1200,
         height: 675,
         alt: "Medical Emergency Loan Default Settlement, Hospital Discharge Evidence, and Compassionate Grounds OTS Guide",
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Medical Emergency Loan Default Settlement Guide: Settle Debt on Compassionate Grounds",
     description: "Strategic legal guide for borrowers facing loan defaults after catastrophic medical emergencies. Learn how to present medical hardship dossiers, invoke RBI compromise settlement norms, and negotiate 50%–75% debt haircuts.",
-    images: ["https://settleloans.in/images/infographics/medical-emergency-loan-default-settlement.jpg"],
+    images: ["https://www.settleloans.in/images/infographics/medical-emergency-loan-default-settlement.jpg"],
   },
 };
 
@@ -84,74 +84,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/medical-emergency-loan-default-settlement#webpage",
-      "url": "https://settleloans.in/medical-emergency-loan-default-settlement",
+      "@id": "https://www.settleloans.in/medical-emergency-loan-default-settlement#webpage",
+      "url": "https://www.settleloans.in/medical-emergency-loan-default-settlement",
       "name": "Medical Emergency Loan Default Settlement Guide: Settle Debt on Compassionate Grounds (2026)",
       "description": "Learn how to settle personal loans and credit cards after critical illness or hospitalization in India. Use medical discharge summaries and bills as irrefutable evidence for bank OTS committees, stop recovery harassment under RBI rules, and negotiate 50%–75% debt waivers.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/medical-emergency-loan-default-settlement#breadcrumb",
+        "@id": "https://www.settleloans.in/medical-emergency-loan-default-settlement#breadcrumb",
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
       },
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/medical-emergency-loan-default-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/medical-emergency-loan-default-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in",
+          "item": "https://www.settleloans.in",
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Medical Emergency Loan Default Settlement",
-          "item": "https://settleloans.in/medical-emergency-loan-default-settlement",
+          "item": "https://www.settleloans.in/medical-emergency-loan-default-settlement",
         },
       ],
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/medical-emergency-loan-default-settlement#article",
+      "@id": "https://www.settleloans.in/medical-emergency-loan-default-settlement#article",
       "headline": "Medical Emergency Loan Default Settlement Guide: Settle Bank Debt on Compassionate Grounds",
       "description": "A comprehensive strategic and legal blueprint on resolving defaulted personal loans and credit cards caused by critical illness or emergency hospitalization, compiling an evidentiary medical hardship portfolio, halting recovery harassment, and securing a formal bank OTS sanction letter.",
-      "image": "https://settleloans.in/images/infographics/medical-emergency-loan-default-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/medical-emergency-loan-default-settlement.jpg",
       "datePublished": "2026-08-25T10:00:00+05:30",
       "dateModified": "2026-08-25T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/medical-emergency-loan-default-settlement#webpage",
+        "@id": "https://www.settleloans.in/medical-emergency-loan-default-settlement#webpage",
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra",
+        "url": "https://www.settleloans.in/authors/ashish-jhangra",
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg",
+          "url": "https://www.settleloans.in/logo/logo.svg",
         },
       },
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/medical-emergency-loan-default-settlement#service",
+      "@id": "https://www.settleloans.in/medical-emergency-loan-default-settlement#service",
       "name": "SettleLoans - Medical Emergency & Compassionate Hardship Loan Settlement Advisory",
       "description": "Specialized legal and financial negotiation advisory for settling defaulted unsecured personal loans and credit cards caused by catastrophic medical expenses, critical illness, or severe accidents under RBI compromise settlement frameworks.",
-      "url": "https://settleloans.in/medical-emergency-loan-default-settlement",
-      "image": "https://settleloans.in/images/infographics/medical-emergency-loan-default-settlement.jpg",
+      "url": "https://www.settleloans.in/medical-emergency-loan-default-settlement",
+      "image": "https://www.settleloans.in/images/infographics/medical-emergency-loan-default-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -164,9 +164,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -240,7 +240,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/medical-emergency-loan-default-settlement#faq",
+      "@id": "https://www.settleloans.in/medical-emergency-loan-default-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -326,12 +326,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg",
+        "url": "https://www.settleloans.in/logo/logo.svg",
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

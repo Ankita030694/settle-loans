@@ -10,23 +10,23 @@ export default function ImproveCibilAfterSettlementPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/how-to-improve-cibil-score-after-loan-settlement#article",
+                "@id": "https://www.settleloans.in/how-to-improve-cibil-score-after-loan-settlement#article",
                 "headline": "How to Improve CIBIL Score After Loan Settlement: The Complete 2026 Guide",
                 "description": "Learn the exact steps to rebuild your credit score after a loan settlement. Discover how to convert 'Settled' to 'Closed' and boost your CIBIL rating effectively.",
-                "image": "https://settleloans.in/images/improve-cibil-after-settlement.jpg",
+                "image": "https://www.settleloans.in/images/improve-cibil-after-settlement.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-05-07",
                 "dateModified": "2026-05-07",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/how-to-improve-cibil-score-after-loan-settlement" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/how-to-improve-cibil-score-after-loan-settlement" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/how-to-improve-cibil-score-after-loan-settlement#product",
+                "@id": "https://www.settleloans.in/how-to-improve-cibil-score-after-loan-settlement#product",
                 "name": "Credit Rebuilding Consultation",
                 "description": "Professional assistance in converting settled loan status to closed and rebuilding credit history in India.",
                 "brand": {
@@ -35,7 +35,7 @@ export default function ImproveCibilAfterSettlementPage() {
                 },
                 "offers": {
                     "@type": "Offer",
-                    "url": "https://settleloans.in/how-to-improve-cibil-score-after-loan-settlement",
+                    "url": "https://www.settleloans.in/how-to-improve-cibil-score-after-loan-settlement",
                     "priceCurrency": "INR",
                     "price": "0",
                     "valueAddedTaxIncluded": "true",
@@ -174,9 +174,9 @@ export default function ImproveCibilAfterSettlementPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://settleloans.in/loan-settlement" },
-                    { "@type": "ListItem", "position": 3, "name": "Improve CIBIL After Settlement", "item": "https://settleloans.in/how-to-improve-cibil-score-after-loan-settlement" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://www.settleloans.in/loan-settlement" },
+                    { "@type": "ListItem", "position": 3, "name": "Improve CIBIL After Settlement", "item": "https://www.settleloans.in/how-to-improve-cibil-score-after-loan-settlement" }
                 ]
             }
         ]

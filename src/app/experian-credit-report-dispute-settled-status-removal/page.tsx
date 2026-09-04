@@ -58,16 +58,16 @@ export const metadata: Metadata = {
     'loan settlement credit repair experian india'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/experian-credit-report-dispute-settled-status-removal',
+    canonical: 'https://www.settleloans.in/experian-credit-report-dispute-settled-status-removal',
   },
   openGraph: {
     title: 'How to Remove Settled Status from Experian Credit Report: Dispute Protocol & CICRA Legal Guide',
     description: 'Master the legal and operational steps to dispute and remove Settled or Written-Off remarks from Experian India under the CICRA Act 2005 and RBI Master Directions.',
-    url: 'https://settleloans.in/experian-credit-report-dispute-settled-status-removal',
+    url: 'https://www.settleloans.in/experian-credit-report-dispute-settled-status-removal',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/experian-credit-report-dispute-settled-status-removal.jpg',
+        url: 'https://www.settleloans.in/images/infographics/experian-credit-report-dispute-settled-status-removal.jpg',
         width: 1200,
         height: 675,
         alt: 'Experian Credit Report Dispute and Settled Status Removal Guide',
@@ -80,7 +80,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Remove Settled Status from Experian Credit Report: Dispute Protocol & CICRA Legal Guide',
     description: 'Comprehensive legal blueprint to rectify Experian India credit reporting discrepancies, dispute settled remarks, and enforce RBI 30-day turnaround rules.',
-    images: ['https://settleloans.in/images/infographics/experian-credit-report-dispute-settled-status-removal.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/experian-credit-report-dispute-settled-status-removal.jpg'],
   },
 };
 
@@ -89,74 +89,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/experian-credit-report-dispute-settled-status-removal#webpage",
-      "url": "https://settleloans.in/experian-credit-report-dispute-settled-status-removal",
+      "@id": "https://www.settleloans.in/experian-credit-report-dispute-settled-status-removal#webpage",
+      "url": "https://www.settleloans.in/experian-credit-report-dispute-settled-status-removal",
       "name": "How to Remove Settled Status from Experian Credit Report: Dispute Protocol & CICRA Legal Guide",
       "description": "Learn how to remove settled status from Experian credit report in India. Step-by-step Experian dispute protocol, CICRA Act 2005 30-day mandate, RBI rules, and score recovery.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/experian-credit-report-dispute-settled-status-removal#breadcrumb"
+        "@id": "https://www.settleloans.in/experian-credit-report-dispute-settled-status-removal#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/experian-credit-report-dispute-settled-status-removal#breadcrumb",
+      "@id": "https://www.settleloans.in/experian-credit-report-dispute-settled-status-removal#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Experian Credit Report Dispute Guide",
-          "item": "https://settleloans.in/experian-credit-report-dispute-settled-status-removal"
+          "item": "https://www.settleloans.in/experian-credit-report-dispute-settled-status-removal"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/experian-credit-report-dispute-settled-status-removal#article",
+      "@id": "https://www.settleloans.in/experian-credit-report-dispute-settled-status-removal#article",
       "headline": "How to Remove Settled Status from Experian Credit Report: Dispute Protocol, CICRA Act 2005 & Multi-Bureau Credit Repair",
       "description": "A comprehensive regulatory and legal analysis on resolving credit bureau reporting discrepancies on Experian India. Covers CICRA Act 2005 dispute rights, RBI Circular RBI/2023-24/72 statutory compensation, converting Settled remarks to Closed, and rebuilding Experian scores to 750+.",
-      "image": "https://settleloans.in/images/infographics/experian-credit-report-dispute-settled-status-removal.jpg",
+      "image": "https://www.settleloans.in/images/infographics/experian-credit-report-dispute-settled-status-removal.jpg",
       "datePublished": "2026-08-28T10:00:00+05:30",
       "dateModified": "2026-08-28T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/experian-credit-report-dispute-settled-status-removal#webpage"
+        "@id": "https://www.settleloans.in/experian-credit-report-dispute-settled-status-removal#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/experian-credit-report-dispute-settled-status-removal#service",
+      "@id": "https://www.settleloans.in/experian-credit-report-dispute-settled-status-removal#service",
       "name": "SettleLoans - Credit Bureau Dispute & Multi-Bureau Rectification Advisory",
       "description": "Expert legal representation and statutory dispute filing for borrowers facing incorrect loan reporting, erroneous Written-Off flags, and unrectified Settled status on Experian India and CIBIL.",
-      "url": "https://settleloans.in/experian-credit-report-dispute-settled-status-removal",
-      "image": "https://settleloans.in/images/infographics/experian-credit-report-dispute-settled-status-removal.jpg",
+      "url": "https://www.settleloans.in/experian-credit-report-dispute-settled-status-removal",
+      "image": "https://www.settleloans.in/images/infographics/experian-credit-report-dispute-settled-status-removal.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -169,9 +169,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -245,7 +245,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/experian-credit-report-dispute-settled-status-removal#faq",
+      "@id": "https://www.settleloans.in/experian-credit-report-dispute-settled-status-removal#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -331,12 +331,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

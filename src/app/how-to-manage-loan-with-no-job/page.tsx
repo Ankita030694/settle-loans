@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How to Manage Loan With No Job in India: Ultimate Survival Guide 2025",
   description: "Drowning in debt after job loss? Learn how to manage loans with no income, understand RBI guidelines 2025, handle recovery agents, and find legal paths to loan settlement.",
   alternates: {
-    canonical: "https://settleloans.in/how-to-manage-loan-with-no-job",
+    canonical: "https://www.settleloans.in/how-to-manage-loan-with-no-job",
   },
 };
 
@@ -16,40 +16,40 @@ export default function HowToManageLoanNoJobPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-to-manage-loan-with-no-job#webpage",
-        "url": "https://settleloans.in/how-to-manage-loan-with-no-job",
+        "@id": "https://www.settleloans.in/how-to-manage-loan-with-no-job#webpage",
+        "url": "https://www.settleloans.in/how-to-manage-loan-with-no-job",
         "name": "How to Manage Loan With No Job in India: Ultimate Survival Guide",
         "description": "Comprehensive resource for Indian borrowers facing unemployment and debt. Covers legal rights, RBI updates, and settlement success strategies.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-to-manage-loan-with-no-job#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-to-manage-loan-with-no-job#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-to-manage-loan-with-no-job#breadcrumb",
+        "@id": "https://www.settleloans.in/how-to-manage-loan-with-no-job#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "How to Manage Loan With No Job",
-            "item": "https://settleloans.in/how-to-manage-loan-with-no-job"
+            "item": "https://www.settleloans.in/how-to-manage-loan-with-no-job"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-to-manage-loan-with-no-job#product",
+        "@id": "https://www.settleloans.in/how-to-manage-loan-with-no-job#product",
         "name": "Unemployment Debt Relief & Consultation",
         "description": "Legal and financial consultancy for managing loans during job loss.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -75,7 +75,7 @@ export default function HowToManageLoanNoJobPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-to-manage-loan-with-no-job#article",
+        "@id": "https://www.settleloans.in/how-to-manage-loan-with-no-job#article",
         "headline": "How to Manage Loan With No Job in India: Ultimate Survival Guide",
         "description": "A comprehensive 7500+ word guide on managing debt during unemployment, including legal rights and settlement strategies.",
         "author": {
@@ -87,16 +87,16 @@ export default function HowToManageLoanNoJobPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2025-02-05",
         "dateModified": "2025-02-05",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-to-manage-loan-with-no-job#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-to-manage-loan-with-no-job#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-to-manage-loan-with-no-job#faq",
+        "@id": "https://www.settleloans.in/how-to-manage-loan-with-no-job#faq",
         "mainEntity": [
           { "@type": "Question", "name": "Can I settle my loan if I loose my job?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, loan settlement is a common path for those with genuine financial hardship like job loss. Banks prefer recovering a part of the amount rather than nothing." } },
           { "@type": "Question", "name": "What are RBI guidelines for jobless borrowers 2025?", "acceptedAnswer": { "@type": "Answer", "text": "RBI mandates fair recovery practices, prohibits harassment, and encourages lenders to offer restructuring or moratoriums for genuine hardship cases." } },

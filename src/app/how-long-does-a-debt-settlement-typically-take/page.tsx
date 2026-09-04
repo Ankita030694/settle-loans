@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "How Long Does Debt Settlement Typically Take? | India Roadmap 2024",
   description: "Learn the exact timeline for debt settlement in India. From NPA status to NOC issuance, understand the 18 to 48 month journey to a debt-free life.",
   alternates: {
-    canonical: "https://settleloans.in/how-long-does-a-debt-settlement-typically-take",
+    canonical: "https://www.settleloans.in/how-long-does-a-debt-settlement-typically-take",
   },
 };
 
@@ -59,39 +59,39 @@ export default function SettlementTimelinePage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/how-long-does-a-debt-settlement-typically-take#webpage",
-        "url": "https://settleloans.in/how-long-does-a-debt-settlement-typically-take",
+        "@id": "https://www.settleloans.in/how-long-does-a-debt-settlement-typically-take#webpage",
+        "url": "https://www.settleloans.in/how-long-does-a-debt-settlement-typically-take",
         "name": "Debt Settlement Timeline Guide",
         "description": "A comprehensive breakdown of the time required for debt settlement in India, from default to final closure.",
-        "breadcrumb": { "@id": "https://settleloans.in/how-long-does-a-debt-settlement-typically-take#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/how-long-does-a-debt-settlement-typically-take#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/how-long-does-a-debt-settlement-typically-take#breadcrumb",
+        "@id": "https://www.settleloans.in/how-long-does-a-debt-settlement-typically-take#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Settlement Timeline Guide", "item": "https://settleloans.in/how-long-does-a-debt-settlement-typically-take" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Settlement Timeline Guide", "item": "https://www.settleloans.in/how-long-does-a-debt-settlement-typically-take" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/how-long-does-a-debt-settlement-typically-take#article",
+        "@id": "https://www.settleloans.in/how-long-does-a-debt-settlement-typically-take#article",
         "headline": "How Long Does a Debt Settlement Typically Take?",
         "description": "Understand the multi-stage journey of debt settlement. We break down the months and weeks required for each phase of the process.",
         "author": { "@type": "Organization", "name": "SettleLoans Research Lab" },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+          "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
         },
         "datePublished": "2024-03-16",
         "dateModified": "2024-03-16",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/how-long-does-a-debt-settlement-typically-take#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/how-long-does-a-debt-settlement-typically-take#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/how-long-does-a-debt-settlement-typically-take#product",
+        "@id": "https://www.settleloans.in/how-long-does-a-debt-settlement-typically-take#product",
         "name": "Debt Settlement Plan Builder",
         "description": "Strategic timeline planning for multiple-lender debt portfolios.",
         "aggregateRating": {
@@ -111,7 +111,7 @@ export default function SettlementTimelinePage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/how-long-does-a-debt-settlement-typically-take#faq",
+        "@id": "https://www.settleloans.in/how-long-does-a-debt-settlement-typically-take#faq",
         "mainEntity": faqs.map(faq => ({
           "@type": "Question",
           "name": faq.q,

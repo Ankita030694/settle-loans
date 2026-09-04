@@ -46,16 +46,16 @@ export const metadata: Metadata = {
     'hero fincorp no dues certificate after settlement',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/hero-fincorp-personal-loan-settlement',
+    canonical: 'https://www.settleloans.in/hero-fincorp-personal-loan-settlement',
   },
   openGraph: {
     title: 'Hero Fincorp Loan Settlement: Process, OTS Rules & Legal Defense (2026)',
     description: 'Learn how to settle defaulted Hero Fincorp personal loans. Stop recovery calls, invoke RBI compromise frameworks, and negotiate 40% to 60% debt haircuts.',
-    url: 'https://settleloans.in/hero-fincorp-personal-loan-settlement',
+    url: 'https://www.settleloans.in/hero-fincorp-personal-loan-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/hero-fincorp-personal-loan-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/hero-fincorp-personal-loan-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'Hero Fincorp Loan Settlement Process and OTS Haircut Guide',
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Hero Fincorp Personal Loan Settlement Process & OTS Guidelines',
     description: 'Legal guide for settling defaulted Hero Fincorp unsecured personal loans under RBI compromise settlement frameworks.',
-    images: ['https://settleloans.in/images/infographics/hero-fincorp-personal-loan-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/hero-fincorp-personal-loan-settlement.jpg'],
   },
 };
 
@@ -77,74 +77,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/hero-fincorp-personal-loan-settlement#webpage",
-      "url": "https://settleloans.in/hero-fincorp-personal-loan-settlement",
+      "@id": "https://www.settleloans.in/hero-fincorp-personal-loan-settlement#webpage",
+      "url": "https://www.settleloans.in/hero-fincorp-personal-loan-settlement",
       "name": "Hero Fincorp Loan Settlement: Process, OTS Rules & Legal Defense (2026)",
       "description": "Comprehensive guide to Hero Fincorp personal loan settlement process under RBI guidelines.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/hero-fincorp-personal-loan-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/hero-fincorp-personal-loan-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/hero-fincorp-personal-loan-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/hero-fincorp-personal-loan-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Hero Fincorp Personal Loan Settlement",
-          "item": "https://settleloans.in/hero-fincorp-personal-loan-settlement"
+          "item": "https://www.settleloans.in/hero-fincorp-personal-loan-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/hero-fincorp-personal-loan-settlement#article",
+      "@id": "https://www.settleloans.in/hero-fincorp-personal-loan-settlement#article",
       "headline": "Hero Fincorp Personal Loan Settlement: OTS Rules, Legal Defense & Haircut Guide",
       "description": "Strategic manual for negotiating One-Time Settlements with Hero FinCorp Limited and securing No Dues Certificates.",
-      "image": "https://settleloans.in/images/infographics/hero-fincorp-personal-loan-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/hero-fincorp-personal-loan-settlement.jpg",
       "datePublished": "2026-08-28T12:00:00+05:30",
       "dateModified": "2026-08-28T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/hero-fincorp-personal-loan-settlement#webpage"
+        "@id": "https://www.settleloans.in/hero-fincorp-personal-loan-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/hero-fincorp-personal-loan-settlement#service",
+      "@id": "https://www.settleloans.in/hero-fincorp-personal-loan-settlement#service",
       "name": "SettleLoans - Hero FinCorp Loan Settlement & Legal Defense",
       "description": "Legal advocacy for settling defaulted Hero FinCorp personal loans under RBI compromise frameworks.",
-      "url": "https://settleloans.in/hero-fincorp-personal-loan-settlement",
-      "image": "https://settleloans.in/images/infographics/hero-fincorp-personal-loan-settlement.jpg",
+      "url": "https://www.settleloans.in/hero-fincorp-personal-loan-settlement",
+      "image": "https://www.settleloans.in/images/infographics/hero-fincorp-personal-loan-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -157,9 +157,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -201,7 +201,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/hero-fincorp-personal-loan-settlement#faq",
+      "@id": "https://www.settleloans.in/hero-fincorp-personal-loan-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -287,12 +287,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

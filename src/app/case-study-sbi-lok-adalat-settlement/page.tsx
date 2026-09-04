@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'lok adalat loan settlement percentage sbi',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/case-study-sbi-lok-adalat-settlement',
+    canonical: 'https://www.settleloans.in/case-study-sbi-lok-adalat-settlement',
   },
   openGraph: {
     title: 'SBI Lok Adalat Settlement Case Study: ₹12 Lakh Settled for ₹5.4L',
     description: 'In-depth legal case study: How an MSME owner resolved a ₹12 Lakh SBI loan default for ₹5.4 Lakhs (55% haircut) through National Lok Adalat conciliation and advocate defense.',
-    url: 'https://settleloans.in/case-study-sbi-lok-adalat-settlement',
+    url: 'https://www.settleloans.in/case-study-sbi-lok-adalat-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/case-study-sbi-lok-adalat-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/case-study-sbi-lok-adalat-settlement.jpg',
         width: 1200,
         height: 675,
         alt: 'SBI Lok Adalat Loan Settlement Case Study Infographic: ₹12L Settled for ₹5.4L',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'SBI Lok Adalat Settlement Case Study: ₹12 Lakh Settled for ₹5.4L',
     description: 'Real proof: How SettleLoans advocates represented a borrower with a ₹12 Lakh SBI default at Lok Adalat and secured a formal 55% haircut consent award.',
-    images: ['https://settleloans.in/images/infographics/case-study-sbi-lok-adalat-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/case-study-sbi-lok-adalat-settlement.jpg'],
   },
 };
 
@@ -50,74 +50,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/case-study-sbi-lok-adalat-settlement#webpage",
-      "url": "https://settleloans.in/case-study-sbi-lok-adalat-settlement",
+      "@id": "https://www.settleloans.in/case-study-sbi-lok-adalat-settlement#webpage",
+      "url": "https://www.settleloans.in/case-study-sbi-lok-adalat-settlement",
       "name": "SBI Lok Adalat Settlement Case Study: ₹12 Lakh Settled for ₹5.4L",
       "description": "Real case study: How a ₹12 Lakh SBI personal loan default was resolved for ₹5.4 Lakhs (55% waiver) at National Lok Adalat with full legal immunity and zero dues NDC.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/case-study-sbi-lok-adalat-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/case-study-sbi-lok-adalat-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/case-study-sbi-lok-adalat-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/case-study-sbi-lok-adalat-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "SBI Lok Adalat Settlement Case Study",
-          "item": "https://settleloans.in/case-study-sbi-lok-adalat-settlement"
+          "item": "https://www.settleloans.in/case-study-sbi-lok-adalat-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/case-study-sbi-lok-adalat-settlement#article",
+      "@id": "https://www.settleloans.in/case-study-sbi-lok-adalat-settlement#article",
       "headline": "SBI Lok Adalat Settlement Case Study: How a ₹12 Lakh Loan Default Was Resolved for ₹5.4 Lakhs",
       "description": "A comprehensive empirical case study detailing how an MSME proprietor settled a ₹12,00,000 State Bank of India default for ₹5,40,000 (a 55% haircut) via National Lok Adalat conciliation.",
-      "image": "https://settleloans.in/images/infographics/case-study-sbi-lok-adalat-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/case-study-sbi-lok-adalat-settlement.jpg",
       "datePublished": "2026-08-22T12:36:18+05:30",
       "dateModified": "2026-08-22T12:36:18+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/case-study-sbi-lok-adalat-settlement#webpage"
+        "@id": "https://www.settleloans.in/case-study-sbi-lok-adalat-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/case-study-sbi-lok-adalat-settlement#service",
+      "@id": "https://www.settleloans.in/case-study-sbi-lok-adalat-settlement#service",
       "name": "SettleLoans - SBI Lok Adalat Debt Settlement & Dispute Resolution",
       "description": "Expert advocate representation and financial conciliation services for distressed borrowers facing State Bank of India loan defaults, Lok Adalat notices, and recovery disputes.",
-      "url": "https://settleloans.in/case-study-sbi-lok-adalat-settlement",
-      "image": "https://settleloans.in/images/infographics/case-study-sbi-lok-adalat-settlement.jpg",
+      "url": "https://www.settleloans.in/case-study-sbi-lok-adalat-settlement",
+      "image": "https://www.settleloans.in/images/infographics/case-study-sbi-lok-adalat-settlement.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -130,9 +130,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -206,7 +206,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/case-study-sbi-lok-adalat-settlement#faq",
+      "@id": "https://www.settleloans.in/case-study-sbi-lok-adalat-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -284,12 +284,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

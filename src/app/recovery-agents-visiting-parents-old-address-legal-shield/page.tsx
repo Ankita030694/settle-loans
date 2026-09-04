@@ -56,16 +56,16 @@ export const metadata: Metadata = {
     'senior citizens protection act recovery agent harassment'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield',
+    canonical: 'https://www.settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield',
   },
   openGraph: {
     title: 'Recovery Agent Visiting Parents House for Son Loan: Legal Shield & Rights',
     description: "Are recovery agents visiting your elderly parents' home for your personal loan? Discover Section 329 BNS criminal trespass laws, Supreme Court privacy rulings, and advocate-led cease-and-desist shields.",
-    url: 'https://settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield',
+    url: 'https://www.settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/recovery-agents-visiting-parents-old-address-legal-shield.jpg',
+        url: 'https://www.settleloans.in/images/infographics/recovery-agents-visiting-parents-old-address-legal-shield.jpg',
         width: 1200,
         height: 675,
         alt: 'Recovery Agent Visiting Parents House for Son Loan Legal Shield Infographic',
@@ -78,7 +78,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Recovery Agent Visiting Parents House for Son Loan: Legal Rights & Protection',
     description: "Learn how to protect elderly parents from bank recovery agents visiting their native house. Supreme Court privacy rulings, Section 329 BNS, and legal notices explained.",
-    images: ['https://settleloans.in/images/infographics/recovery-agents-visiting-parents-old-address-legal-shield.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/recovery-agents-visiting-parents-old-address-legal-shield.jpg'],
   },
 };
 
@@ -122,75 +122,75 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield#webpage",
-      "url": "https://settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield",
+      "@id": "https://www.settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield#webpage",
+      "url": "https://www.settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield",
       "name": "Recovery Agent Visiting Parents House for Son Loan: Legal Shield & Rights",
       "description": "Comprehensive legal guide on protecting aging parents from bank recovery agents visiting their native address for an adult child's loan default in India. Explains Section 329 BNS criminal trespass, Privity of Contract non-liability, Puttaswamy privacy jurisprudence, and advocate cease-and-desist notices.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield#breadcrumb"
+        "@id": "https://www.settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield#breadcrumb",
+      "@id": "https://www.settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Recovery Agent Visiting Parents House Legal Shield",
-          "item": "https://settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield"
+          "item": "https://www.settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield#article",
+      "@id": "https://www.settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield#article",
       "headline": "Recovery Agent Visiting Parents House for Son Loan: Supreme Court Privacy Shield & Legal Remedies",
       "description": "An exhaustive analytical and statutory breakdown examining the illegality of bank recovery agents visiting elderly parents at native addresses for an adult child's debt. Explains Section 329 BNS, Privity of Contract, Senior Citizens Act safeguards, and advocate-led OTS settlements.",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-visiting-parents-old-address-legal-shield.jpg",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-visiting-parents-old-address-legal-shield.jpg",
       "datePublished": "2026-08-31T10:00:00+05:30",
       "dateModified": "2026-08-31T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield#webpage"
+        "@id": "https://www.settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "contactPoint": {
         "@type": "ContactPoint",
@@ -202,11 +202,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield#service",
+      "@id": "https://www.settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield#service",
       "name": "SettleLoans - Parental Legal Defense & Loan Resolution Services",
       "description": "Dedicated nationwide legal representation protecting aging parents from coercive recovery agent visits, third-party harassment, and criminal trespass, combined with institutional One-Time Settlement (OTS) negotiations.",
-      "url": "https://settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield",
-      "image": "https://settleloans.in/images/infographics/recovery-agents-visiting-parents-old-address-legal-shield.jpg",
+      "url": "https://www.settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield",
+      "image": "https://www.settleloans.in/images/infographics/recovery-agents-visiting-parents-old-address-legal-shield.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -219,9 +219,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -295,7 +295,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield#faq",
+      "@id": "https://www.settleloans.in/recovery-agents-visiting-parents-old-address-legal-shield#faq",
       "mainEntity": faqsList.map(faq => ({
         "@type": "Question",
         "name": faq.name,

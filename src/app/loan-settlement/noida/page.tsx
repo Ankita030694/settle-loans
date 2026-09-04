@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Noida's Best Loan Settlement Lawyers | Stop Recovery Harassment - SettleLoans",
   description: "Facing bank recovery house calls in Noida Extension or Greater Noida? Settle your personal loans with expert legal defense in Surajpur Court. Trusted by 600+ families in NCR.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement/noida",
+    canonical: "https://www.settleloans.in/loan-settlement/noida",
   },
 };
 
@@ -16,46 +16,46 @@ export default function NoidaLoanSettlementPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement/noida#webpage",
-        "url": "https://settleloans.in/loan-settlement/noida",
+        "@id": "https://www.settleloans.in/loan-settlement/noida#webpage",
+        "url": "https://www.settleloans.in/loan-settlement/noida",
         "name": "Noida's Best Loan Settlement Lawyers | Stop Recovery Harassment - SettleLoans",
         "description": "Facing bank recovery house calls in Noida Extension or Greater Noida? Settle your personal loans with expert legal defense in Surajpur Court. Trusted by 600+ families in NCR.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement/noida#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement/noida#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement/noida#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement/noida#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement",
-            "item": "https://settleloans.in/loan-settlement"
+            "item": "https://www.settleloans.in/loan-settlement"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "Noida",
-            "item": "https://settleloans.in/loan-settlement/noida"
+            "item": "https://www.settleloans.in/loan-settlement/noida"
           }
         ]
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement/noida#service",
+        "@id": "https://www.settleloans.in/loan-settlement/noida#service",
         "name": "Noida Loan Settlement Services",
         "description": "Expert debt settlement and legal assistance for personal loans and credit cards in Noida and Greater Noida.",
         "provider": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "url": "https://settleloans.in"
+          "url": "https://www.settleloans.in"
         },
         "areaServed": {
           "@type": "City",
@@ -111,7 +111,7 @@ export default function NoidaLoanSettlementPage() {
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement/noida#article",
+        "@id": "https://www.settleloans.in/loan-settlement/noida#article",
         "headline": "The Ultimate Guide to Loan Settlement in Noida and Greater Noida",
         "description": "Complete information on legal loan settlement processes, RBI rules, and borrower rights for residents of Gautam Buddh Nagar.",
         "author": {
@@ -123,16 +123,16 @@ export default function NoidaLoanSettlementPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-01-31",
         "dateModified": "2024-01-31",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement/noida#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement/noida#webpage" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement/noida#faq",
+        "@id": "https://www.settleloans.in/loan-settlement/noida#faq",
         "mainEntity": [
           {
             "@type": "Question",

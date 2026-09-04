@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Can Bank Recover Spouse's Loan Default from Separate Account?",
   description: "Is your bank threatening to freeze or auto-debit your separate salary account for your husband's or wife's loan default? Learn your legal rights and RBI rules on cross liability.",
   alternates: {
-    canonical: "https://settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account",
+    canonical: "https://www.settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account",
   },
 };
 
@@ -16,34 +16,34 @@ export default function SpouseSeparateAccountRecoveryPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account#webpage",
-        "url": "https://settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account",
+        "@id": "https://www.settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account#webpage",
+        "url": "https://www.settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account",
         "name": "Can Bank Recover Spouse's Loan Default from Separate Account?",
         "description": "A clear legal analysis explaining that banks have absolutely zero right to attach an individual, separate salary account to recover the other spouse's personal loan default.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account#breadcrumb",
+        "@id": "https://www.settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Spouse Loan Recovery Defense",
-            "item": "https://settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account"
+            "item": "https://www.settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account#article",
+        "@id": "https://www.settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account#article",
         "headline": "Can the Bank Recover My Spouse's Loan Default from My Separate Salary Account?",
         "description": "Learn why it's illegal for banks to freeze a wife's or husband's separate account for their spouse's personal loan default, and how to fight back.",
         "author": {
@@ -55,22 +55,22 @@ export default function SpouseSeparateAccountRecoveryPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-05-15",
         "dateModified": "2024-05-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account#product",
+        "@id": "https://www.settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account#product",
         "name": "Legal Defense for Illegal Account Freezing",
         "brand": {
           "@type": "Brand",
           "name": "SettleLoans"
         },
-        "image": "https://settleloans.in/logo/logo.svg",
+        "image": "https://www.settleloans.in/logo/logo.svg",
         "description": "Expert lawyers to unfreeze separate salary accounts illegally attached by banks for a spouse's loan default.",
         "aggregateRating": {
           "@type": "AggregateRating",
@@ -119,7 +119,7 @@ export default function SpouseSeparateAccountRecoveryPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account#faq",
+        "@id": "https://www.settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account#faq",
         "mainEntity": [
           {
             "@type": "Question",

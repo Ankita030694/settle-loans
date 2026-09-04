@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: "Best Settlement Deals for Vehicle Loans in India | Car & Bike Debt Relief",
     description: "Learn how to negotiate the best settlement deals for car loans, bike loans, and commercial vehicle debts in India. Expert guide on repossession laws and RTO formalities.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services",
+        canonical: "https://www.settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services",
     },
 };
 
@@ -21,40 +21,40 @@ export default function VehicleLoanFAQ() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services#webpage",
-                "url": "https://settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services",
+                "@id": "https://www.settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services#webpage",
+                "url": "https://www.settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services",
                 "name": "Best Settlement Deals for Vehicle Loans",
                 "description": "A comprehensive guide on resolving vehicle loan defaults through professional negotiation and legal settlement.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://settleloans.in/faqs" },
-                    { "@type": "ListItem", "position": 3, "name": "Vehicle Loan Settlement", "item": "https://settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "FAQs", "item": "https://www.settleloans.in/faqs" },
+                    { "@type": "ListItem", "position": 3, "name": "Vehicle Loan Settlement", "item": "https://www.settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services#article",
+                "@id": "https://www.settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services#article",
                 "headline": "Best Settlement Deals for Vehicle Loans in India: Car & Bike Relief",
                 "description": "Expert advice on preventing vehicle repossession and negotiating the best waiver deals for car and bike loans.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": { "@type": "Organization", "name": "SettleLoans Auto Finance Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2025-02-22",
                 "dateModified": "2025-02-22"
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services#faq",
+                "@id": "https://www.settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services#faq",
                 "mainEntity": [
                     { "@type": "Question", "name": "Can a bank take my car if I miss 3 EMIs?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, after 3 consecutive missed payments, the account is classified as an NPA, and the bank can initiate repossession procedures. However, they must follow the due process of law." } },
                     { "@type": "Question", "name": "What is the RTO process after loan settlement?", "acceptedAnswer": { "@type": "Answer", "text": "After settlement, the bank issues an NOC (No Objection Certificate). You must submit this to the RTO to remove the 'Hypothecation' from your vehicle's RC." } },
@@ -63,7 +63,7 @@ export default function VehicleLoanFAQ() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services#service",
+                "@id": "https://www.settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services#service",
                 "name": "Vehicle Loan Debt Resolution",
                 "description": "Professional negotiation services for car, bike, and commercial vehicle loan settlements.",
                 "brand": { "@type": "Brand", "name": "SettleLoans" },

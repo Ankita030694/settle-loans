@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Digital Online Cyber Loan Disputes India | Stop Harassment & Legal Help",
     description: "Expert legal help for digital online cyber loan disputes in India. Stop loan app harassment, understand RBI guidelines, and protect your data privacy with our technical guide.",
     alternates: {
-        canonical: "https://settleloans.in/digital-online-cyber-loan-disputes",
+        canonical: "https://www.settleloans.in/digital-online-cyber-loan-disputes",
     },
 };
 
@@ -16,34 +16,34 @@ export default function DigitalLoanDisputePage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/digital-online-cyber-loan-disputes#webpage",
-                "url": "https://settleloans.in/digital-online-cyber-loan-disputes",
+                "@id": "https://www.settleloans.in/digital-online-cyber-loan-disputes#webpage",
+                "url": "https://www.settleloans.in/digital-online-cyber-loan-disputes",
                 "name": "Digital Online Cyber Loan Disputes India | Stop Harassment & Legal Help",
                 "description": "Comprehensive guide to resolving digital loan app disputes, stopping harassment, and legal recourse under RBI guidelines in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/digital-online-cyber-loan-disputes#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/digital-online-cyber-loan-disputes#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/digital-online-cyber-loan-disputes#breadcrumb",
+                "@id": "https://www.settleloans.in/digital-online-cyber-loan-disputes#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Digital Online Cyber Loan Disputes",
-                        "item": "https://settleloans.in/digital-online-cyber-loan-disputes"
+                        "item": "https://www.settleloans.in/digital-online-cyber-loan-disputes"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/digital-online-cyber-loan-disputes#article",
+                "@id": "https://www.settleloans.in/digital-online-cyber-loan-disputes#article",
                 "headline": "Digital Online & Cyber Loan Disputes in India: Stop Harassment & Protect Your Rights",
                 "description": "Navigate the legal landscape of digital lending in India. Learn about RBI Digital Lending Guidelines 2025 and how to combat loan app harassment.",
                 "author": {
@@ -55,16 +55,16 @@ export default function DigitalLoanDisputePage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-06",
                 "dateModified": "2024-03-06",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/digital-online-cyber-loan-disputes#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/digital-online-cyber-loan-disputes#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/digital-online-cyber-loan-disputes#product",
+                "@id": "https://www.settleloans.in/digital-online-cyber-loan-disputes#product",
                 "name": "Digital Loan Defense Services",
                 "description": "Legal protection and advisory against illegal digital lending apps and recovery harassment.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function DigitalLoanDisputePage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/digital-online-cyber-loan-disputes#faq",
+                "@id": "https://www.settleloans.in/digital-online-cyber-loan-disputes#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

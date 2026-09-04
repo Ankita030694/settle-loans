@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Is Loan Settlement in Installments Possible? | 2024 Legal Guide",
   description: "Learn how to settle your loan in installments in India. Discover the process, RBI guidelines, legal rights, and how to negotiate with banks for a manageable debt recovery.",
   alternates: {
-    canonical: "https://settleloans.in/is-loan-settlement-in-installments-possible",
+    canonical: "https://www.settleloans.in/is-loan-settlement-in-installments-possible",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LoanSettlementInstallmentsPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/is-loan-settlement-in-installments-possible#webpage",
-        "url": "https://settleloans.in/is-loan-settlement-in-installments-possible",
+        "@id": "https://www.settleloans.in/is-loan-settlement-in-installments-possible#webpage",
+        "url": "https://www.settleloans.in/is-loan-settlement-in-installments-possible",
         "name": "Is Loan Settlement in Installments Possible? | 2024 Legal Guide",
         "description": "Comprehensive guide on settling bank loans through installments in India, covering legal rights and negotiation strategies.",
-        "breadcrumb": { "@id": "https://settleloans.in/is-loan-settlement-in-installments-possible#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/is-loan-settlement-in-installments-possible#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/is-loan-settlement-in-installments-possible#breadcrumb",
+        "@id": "https://www.settleloans.in/is-loan-settlement-in-installments-possible#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Is Loan Settlement in Installments Possible",
-            "item": "https://settleloans.in/is-loan-settlement-in-installments-possible"
+            "item": "https://www.settleloans.in/is-loan-settlement-in-installments-possible"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/is-loan-settlement-in-installments-possible#article",
+        "@id": "https://www.settleloans.in/is-loan-settlement-in-installments-possible#article",
         "headline": "Is Loan Settlement in Installments Possible? A Path to Financial Freedom",
         "description": "Discover how you can settle your bank debt through manageable installments while protecting your legal rights in India.",
         "author": {
@@ -55,16 +55,16 @@ export default function LoanSettlementInstallmentsPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-27",
         "dateModified": "2024-03-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/is-loan-settlement-in-installments-possible#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/is-loan-settlement-in-installments-possible#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/is-loan-settlement-in-installments-possible#product",
+        "@id": "https://www.settleloans.in/is-loan-settlement-in-installments-possible#product",
         "name": "Loan Settlement Negotiation Services",
         "description": "Professional assistance in negotiating installment-based loan settlements with banks and NBFCs.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function LoanSettlementInstallmentsPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/is-loan-settlement-in-installments-possible#faq",
+        "@id": "https://www.settleloans.in/is-loan-settlement-in-installments-possible#faq",
         "mainEntity": [
           {
             "@type": "Question",

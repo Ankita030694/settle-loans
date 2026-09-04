@@ -9,39 +9,39 @@ export default function GoldLoanInterestPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/gold-loan-interest-in-india#webpage",
-                "url": "https://settleloans.in/gold-loan-interest-in-india",
+                "@id": "https://www.settleloans.in/gold-loan-interest-in-india#webpage",
+                "url": "https://www.settleloans.in/gold-loan-interest-in-india",
                 "name": "Gold Loan Interest Rates India 2024-25 | Bank vs NBFC Comparison",
                 "description": "Comprehensive guide to gold loan interest rates in India. Compare SBI, HDFC, ICICI, Muthoot, and Manappuram. Learn about per gram rates, LTV impacts, and hidden charges.",
-                "breadcrumb": { "@id": "https://settleloans.in/gold-loan-interest-in-india#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/gold-loan-interest-in-india#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/gold-loan-interest-in-india#breadcrumb",
+                "@id": "https://www.settleloans.in/gold-loan-interest-in-india#breadcrumb",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Gold Loan Interest India", "item": "https://settleloans.in/gold-loan-interest-in-india" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Gold Loan Interest India", "item": "https://www.settleloans.in/gold-loan-interest-in-india" }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/gold-loan-interest-in-india#article",
+                "@id": "https://www.settleloans.in/gold-loan-interest-in-india#article",
                 "headline": "Gold Loan Interest Rates in India: The Ultimate 2024-25 Comparison Guide",
                 "description": "A deep dive into the interest rate structures of gold loans in India, comparing public sector banks, private lenders, and specialized NBFCs.",
                 "author": { "@type": "Organization", "name": "SettleLoans Research Team" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo/logo.svg" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo/logo.svg" }
                 },
                 "datePublished": "2024-03-05",
                 "dateModified": "2024-03-05",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/gold-loan-interest-in-india#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/gold-loan-interest-in-india#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/gold-loan-interest-in-india#product",
+                "@id": "https://www.settleloans.in/gold-loan-interest-in-india#product",
                 "name": "Gold Loan Interest Optimization Service",
                 "description": "Expert assistance in choosing the lowest interest gold loan and managing repayment to avoid penal charges.",
                 "aggregateRating": {
@@ -61,7 +61,7 @@ export default function GoldLoanInterestPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/gold-loan-interest-in-india#faq",
+                "@id": "https://www.settleloans.in/gold-loan-interest-in-india#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

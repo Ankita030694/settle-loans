@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Can I Settle My Loan Without a Lawyer? | RBI Guidelines 2025",
   description: "Learn how to settle your bank loan in India without a lawyer. Expert DIY guide covering 2025 RBI settlement rules, Lok Adalat schedule, and saving 50%+ on debt.",
   alternates: {
-    canonical: "https://settleloans.in/can-i-settle-my-loan-without-a-lawyer",
+    canonical: "https://www.settleloans.in/can-i-settle-my-loan-without-a-lawyer",
   },
 };
 
@@ -16,39 +16,39 @@ export default function SettleWithoutLawyerPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/can-i-settle-my-loan-without-a-lawyer#webpage",
-        "url": "https://settleloans.in/can-i-settle-my-loan-without-a-lawyer",
+        "@id": "https://www.settleloans.in/can-i-settle-my-loan-without-a-lawyer#webpage",
+        "url": "https://www.settleloans.in/can-i-settle-my-loan-without-a-lawyer",
         "name": "Can I Settle My Loan Without a Lawyer? | RBI Guidelines 2025",
         "description": "Comprehensive guide to settling personal, credit card, and business loans independently in India using 2025 RBI frameworks.",
-        "breadcrumb": { "@id": "https://settleloans.in/can-i-settle-my-loan-without-a-lawyer#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/can-i-settle-my-loan-without-a-lawyer#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/can-i-settle-my-loan-without-a-lawyer#breadcrumb",
+        "@id": "https://www.settleloans.in/can-i-settle-my-loan-without-a-lawyer#breadcrumb",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-          { "@type": "ListItem", "position": 2, "name": "Settle Loan Without Lawyer", "item": "https://settleloans.in/can-i-settle-my-loan-without-a-lawyer" }
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+          { "@type": "ListItem", "position": 2, "name": "Settle Loan Without Lawyer", "item": "https://www.settleloans.in/can-i-settle-my-loan-without-a-lawyer" }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/can-i-settle-my-loan-without-a-lawyer#article",
+        "@id": "https://www.settleloans.in/can-i-settle-my-loan-without-a-lawyer#article",
         "headline": "Can I Settle My Loan Without a Lawyer? The 5000+ Word Definite Guide 2025",
         "description": "Discover your legal rights and the exact step by step process to settle bank debt in India without hiring expensive legal representation.",
         "author": { "@type": "Organization", "name": "SettleLoans Legal Content Team" },
         "publisher": {
           "@type": "Organization",
           "name": "SettleLoans",
-          "logo": { "@type": "ImageObject", url: "https://settleloans.in/logo/logo.svg" }
+          "logo": { "@type": "ImageObject", url: "https://www.settleloans.in/logo/logo.svg" }
         },
         "datePublished": "2024-03-27",
         "dateModified": "2025-03-27",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/can-i-settle-my-loan-without-a-lawyer#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/can-i-settle-my-loan-without-a-lawyer#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/can-i-settle-my-loan-without-a-lawyer#product",
+        "@id": "https://www.settleloans.in/can-i-settle-my-loan-without-a-lawyer#product",
         "name": "DIY Loan Settlement Program",
         "description": "Comprehensive resources for settling loans independently in India without legal representative fees.",
         "aggregateRating": {
@@ -68,7 +68,7 @@ export default function SettleWithoutLawyerPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/can-i-settle-my-loan-without-a-lawyer#faq",
+        "@id": "https://www.settleloans.in/can-i-settle-my-loan-without-a-lawyer#faq",
         "mainEntity": [
           {
             "@type": "Question",

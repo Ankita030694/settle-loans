@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "Legal Help for Non-Closure of Settled Loan India | Expert Debt Lawyers",
     description: "Facing issues with non-closure of a settled loan in India? Get expert legal help for NOC issuance, CIBIL update disputes, and RBI Ombudsman complaints. Learn your rights today.",
     alternates: {
-        canonical: "https://settleloans.in/legal-help-for-non-closure-of-settled-loan",
+        canonical: "https://www.settleloans.in/legal-help-for-non-closure-of-settled-loan",
     },
 };
 
@@ -16,34 +16,34 @@ export default function NonClosureSettledLoanPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/legal-help-for-non-closure-of-settled-loan#webpage",
-                "url": "https://settleloans.in/legal-help-for-non-closure-of-settled-loan",
+                "@id": "https://www.settleloans.in/legal-help-for-non-closure-of-settled-loan#webpage",
+                "url": "https://www.settleloans.in/legal-help-for-non-closure-of-settled-loan",
                 "name": "Legal Help for Non-Closure of Settled Loan India | Expert Debt Lawyers",
                 "description": "Comprehensive guide on resolving non-closure of settled loan accounts, obtaining NOCs, and rectifying credit reports in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/legal-help-for-non-closure-of-settled-loan#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/legal-help-for-non-closure-of-settled-loan#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/legal-help-for-non-closure-of-settled-loan#breadcrumb",
+                "@id": "https://www.settleloans.in/legal-help-for-non-closure-of-settled-loan#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Legal Help for Non-Closure of Settled Loan",
-                        "item": "https://settleloans.in/legal-help-for-non-closure-of-settled-loan"
+                        "item": "https://www.settleloans.in/legal-help-for-non-closure-of-settled-loan"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/legal-help-for-non-closure-of-settled-loan#article",
+                "@id": "https://www.settleloans.in/legal-help-for-non-closure-of-settled-loan#article",
                 "headline": "Solving Non-Closure of Settled Loans: A Legal Masterclass for Indian Borrowers",
                 "description": "Expert insights into the legal process of closing settled loan accounts, handling bank delays, and using the RBI Ombudsman for relief.",
                 "author": {
@@ -55,16 +55,16 @@ export default function NonClosureSettledLoanPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-07",
                 "dateModified": "2024-03-07",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/legal-help-for-non-closure-of-settled-loan#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/legal-help-for-non-closure-of-settled-loan#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/legal-help-for-non-closure-of-settled-loan#product",
+                "@id": "https://www.settleloans.in/legal-help-for-non-closure-of-settled-loan#product",
                 "name": "Loan Closure Legal Assistance",
                 "description": "Professional legal services to ensure banks close settled loan accounts and issue No Dues Certificates.",
                 "aggregateRating": {
@@ -91,7 +91,7 @@ export default function NonClosureSettledLoanPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/legal-help-for-non-closure-of-settled-loan#faq",
+                "@id": "https://www.settleloans.in/legal-help-for-non-closure-of-settled-loan#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

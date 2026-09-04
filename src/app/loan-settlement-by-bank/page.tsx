@@ -25,7 +25,7 @@ export default function LoanSettlementByBank() {
     "@graph": [
       {
         "@type": "WebPage",
-        "url": "https://settleloans.in/loan-settlement-by-bank",
+        "url": "https://www.settleloans.in/loan-settlement-by-bank",
         "name": "Loan Settlement for Banks in India | SettleLoans",
         "description": "Find loan settlement procedures for all major banks and NBFCs in India."
       },

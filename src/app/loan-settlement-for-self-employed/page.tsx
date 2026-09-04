@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "Loan Settlement for Self-Employed in India | Business Debt Relief Guide",
   description: "Are you self-employed and struggling with business debt? Learn the legal process of loan settlement for entrepreneurs. Get experts tips on business loan negotiation and debt relief.",
   alternates: {
-    canonical: "https://settleloans.in/loan-settlement-for-self-employed",
+    canonical: "https://www.settleloans.in/loan-settlement-for-self-employed",
   },
 };
 
@@ -16,34 +16,34 @@ export default function LoanSettlementSelfEmployedPage() {
     "@graph": [
       {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/loan-settlement-for-self-employed#webpage",
-        "url": "https://settleloans.in/loan-settlement-for-self-employed",
+        "@id": "https://www.settleloans.in/loan-settlement-for-self-employed#webpage",
+        "url": "https://www.settleloans.in/loan-settlement-for-self-employed",
         "name": "Loan Settlement for Self-Employed in India | Business Debt Relief Guide",
         "description": "Comprehensive guide to loan settlement and debt resolution for self-employed individuals and business owners in India.",
-        "breadcrumb": { "@id": "https://settleloans.in/loan-settlement-for-self-employed#breadcrumb" },
+        "breadcrumb": { "@id": "https://www.settleloans.in/loan-settlement-for-self-employed#breadcrumb" },
         "inLanguage": "en-IN"
       },
       {
         "@type": "BreadcrumbList",
-        "@id": "https://settleloans.in/loan-settlement-for-self-employed#breadcrumb",
+        "@id": "https://www.settleloans.in/loan-settlement-for-self-employed#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "Home",
-            "item": "https://settleloans.in"
+            "item": "https://www.settleloans.in"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "Loan Settlement for Self-Employed",
-            "item": "https://settleloans.in/loan-settlement-for-self-employed"
+            "item": "https://www.settleloans.in/loan-settlement-for-self-employed"
           }
         ]
       },
       {
         "@type": "Article",
-        "@id": "https://settleloans.in/loan-settlement-for-self-employed#article",
+        "@id": "https://www.settleloans.in/loan-settlement-for-self-employed#article",
         "headline": "Loan Settlement for Self-Employed in India: Reclaim Your Financial Future",
         "description": "Learn how business owners and entrepreneurs can settle their bank loans and credit card debts legally after business losses or financial crisis.",
         "author": {
@@ -55,16 +55,16 @@ export default function LoanSettlementSelfEmployedPage() {
           "name": "SettleLoans",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://settleloans.in/logo/logo.svg"
+            "url": "https://www.settleloans.in/logo/logo.svg"
           }
         },
         "datePublished": "2024-03-15",
         "dateModified": "2024-03-15",
-        "mainEntityOfPage": { "@id": "https://settleloans.in/loan-settlement-for-self-employed#webpage" }
+        "mainEntityOfPage": { "@id": "https://www.settleloans.in/loan-settlement-for-self-employed#webpage" }
       },
       {
         "@type": "Product",
-        "@id": "https://settleloans.in/loan-settlement-for-self-employed#product",
+        "@id": "https://www.settleloans.in/loan-settlement-for-self-employed#product",
         "name": "Business Debt Settlement Services",
         "description": "Professional debt negotiation and legal settlement for self-employed individuals in India.",
         "aggregateRating": {
@@ -91,7 +91,7 @@ export default function LoanSettlementSelfEmployedPage() {
       },
       {
         "@type": "FAQPage",
-        "@id": "https://settleloans.in/loan-settlement-for-self-employed#faq",
+        "@id": "https://www.settleloans.in/loan-settlement-for-self-employed#faq",
         "mainEntity": [
           {
             "@type": "Question",

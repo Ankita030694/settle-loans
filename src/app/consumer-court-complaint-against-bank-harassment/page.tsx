@@ -54,16 +54,16 @@ export const metadata: Metadata = {
     'one time settlement consumer court complaint'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/consumer-court-complaint-against-bank-harassment',
+    canonical: 'https://www.settleloans.in/consumer-court-complaint-against-bank-harassment',
   },
   openGraph: {
     title: 'Consumer Court Case Against Bank for Harassment | DCDRC Filing & Compensation Guide',
     description: 'Learn how to counter rogue recovery agents by filing a consumer court case in DCDRC for deficiency of service, claiming monetary damages for mental agony, and securing a debt settlement.',
-    url: 'https://settleloans.in/consumer-court-complaint-against-bank-harassment',
+    url: 'https://www.settleloans.in/consumer-court-complaint-against-bank-harassment',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/consumer-court-complaint-against-bank-harassment.jpg',
+        url: 'https://www.settleloans.in/images/infographics/consumer-court-complaint-against-bank-harassment.jpg',
         width: 1200,
         height: 675,
         alt: 'Consumer Court Complaint Against Bank Harassment Legal Guide',
@@ -76,7 +76,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Consumer Court Complaint Against Bank Harassment: Legal Defense & Damages Guide',
     description: 'Facing abusive loan collection calls or workplace visits? Discover how to file a DCDRC consumer court complaint for deficiency of service and claim monetary compensation.',
-    images: ['https://settleloans.in/images/infographics/consumer-court-complaint-against-bank-harassment.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/consumer-court-complaint-against-bank-harassment.jpg'],
   },
 };
 
@@ -85,74 +85,74 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/consumer-court-complaint-against-bank-harassment#webpage",
-      "url": "https://settleloans.in/consumer-court-complaint-against-bank-harassment",
+      "@id": "https://www.settleloans.in/consumer-court-complaint-against-bank-harassment#webpage",
+      "url": "https://www.settleloans.in/consumer-court-complaint-against-bank-harassment",
       "name": "Consumer Court Case Against Bank for Harassment | DCDRC Filing & Compensation Guide (2026)",
       "description": "Suffering bank recovery agent harassment? Learn how to file a consumer court complaint in DCDRC for deficiency of service, claim ₹10L+ damages for mental agony, and force a 50%–70% OTS settlement.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/consumer-court-complaint-against-bank-harassment#breadcrumb"
+        "@id": "https://www.settleloans.in/consumer-court-complaint-against-bank-harassment#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/consumer-court-complaint-against-bank-harassment#breadcrumb",
+      "@id": "https://www.settleloans.in/consumer-court-complaint-against-bank-harassment#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Consumer Court Bank Harassment Guide",
-          "item": "https://settleloans.in/consumer-court-complaint-against-bank-harassment"
+          "item": "https://www.settleloans.in/consumer-court-complaint-against-bank-harassment"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/consumer-court-complaint-against-bank-harassment#article",
+      "@id": "https://www.settleloans.in/consumer-court-complaint-against-bank-harassment#article",
       "headline": "Consumer Court Case Against Bank for Harassment: Legal Defense, DCDRC Pleading & Damages Blueprint",
       "description": "A comprehensive legal blueprint detailing how aggrieved borrowers can file a consumer court case against banks and NBFCs for coercive recovery tactics under the Consumer Protection Act 2019, establish deficiency in service, claim substantial compensation for mental agony, and leverage proceedings into a favorable debt settlement.",
-      "image": "https://settleloans.in/images/infographics/consumer-court-complaint-against-bank-harassment.jpg",
+      "image": "https://www.settleloans.in/images/infographics/consumer-court-complaint-against-bank-harassment.jpg",
       "datePublished": "2026-08-26T12:00:00+05:30",
       "dateModified": "2026-08-26T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/consumer-court-complaint-against-bank-harassment#webpage"
+        "@id": "https://www.settleloans.in/consumer-court-complaint-against-bank-harassment#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/consumer-court-complaint-against-bank-harassment#service",
+      "@id": "https://www.settleloans.in/consumer-court-complaint-against-bank-harassment#service",
       "name": "SettleLoans - Consumer Court Bank Harassment Defense & Compensation Advisory",
       "description": "Specialized legal representation and financial resolution advisory for borrowers facing coercive bank collection harassment, unlawful third-party shaming, and deficiency in banking services across India.",
-      "url": "https://settleloans.in/consumer-court-complaint-against-bank-harassment",
-      "image": "https://settleloans.in/images/infographics/consumer-court-complaint-against-bank-harassment.jpg",
+      "url": "https://www.settleloans.in/consumer-court-complaint-against-bank-harassment",
+      "image": "https://www.settleloans.in/images/infographics/consumer-court-complaint-against-bank-harassment.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -165,9 +165,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -241,7 +241,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/consumer-court-complaint-against-bank-harassment#faq",
+      "@id": "https://www.settleloans.in/consumer-court-complaint-against-bank-harassment#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -327,12 +327,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

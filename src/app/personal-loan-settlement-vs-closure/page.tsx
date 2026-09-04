@@ -17,16 +17,16 @@ export const metadata: Metadata = {
     'how to remove settled remark from cibil report'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-vs-closure',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-vs-closure',
   },
   openGraph: {
     title: 'Loan Settlement vs Loan Closure: CIBIL Impact & Long-Term Financial Differences',
     description: 'Confused between settling a personal loan and closing it? Discover how each status affects your CIBIL score, future loan eligibility, legal liabilities, and credit score recovery.',
-    url: 'https://settleloans.in/personal-loan-settlement-vs-closure',
+    url: 'https://www.settleloans.in/personal-loan-settlement-vs-closure',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-debt-settlement.jpg',
         width: 1200,
         height: 630,
         alt: 'Loan Settlement vs Loan Closure CIBIL Impact Guide',
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Loan Settlement vs Loan Closure: CIBIL Impact & Credit Recovery Guide',
     description: 'Learn the exact difference between Settled and Closed in CIBIL, credit score drop, RBI compromise norms, and how to protect your financial future.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-debt-settlement.jpg'],
   },
 };
 
@@ -48,73 +48,73 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-vs-closure#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-vs-closure",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vs-closure#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-vs-closure",
       "name": "Loan Settlement vs Loan Closure CIBIL: Score Impact & Differences (2026)",
       "description": "Understand the difference between loan settlement vs loan closure in CIBIL. Compare credit score impact (-150 vs +40 pts), 7-year remarks, RBI rules & recovery roadmap.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-vs-closure#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-vs-closure#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-vs-closure#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vs-closure#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Personal Loan Settlement vs Closure",
-          "item": "https://settleloans.in/personal-loan-settlement-vs-closure"
+          "item": "https://www.settleloans.in/personal-loan-settlement-vs-closure"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-vs-closure#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vs-closure#article",
       "headline": "Loan Settlement vs. Loan Closure in CIBIL: Complete Credit Impact, Legal Distinction & Score Recovery Guide",
       "description": "An exhaustive comparative analysis between loan settlement and loan closure in India, evaluating CIBIL score mechanics, account status tags, legal standing under RBI guidelines, future loan eligibility, and how to convert Settled to Closed.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-debt-settlement.jpg",
       "datePublished": "2026-08-19T10:00:00+05:30",
       "dateModified": "2026-08-19T10:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-vs-closure#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-vs-closure#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Product",
-      "@id": "https://settleloans.in/personal-loan-settlement-vs-closure#product",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vs-closure#product",
       "name": "Loan Settlement & CIBIL Closure Legal Advisory Services",
       "description": "Expert legal representation, bank compromise negotiation, anti-harassment defense, and CIBIL score rehabilitation services for borrowers across India.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-debt-settlement.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-debt-settlement.jpg",
       "brand": {
         "@type": "Brand",
         "name": "SettleLoans"
@@ -191,7 +191,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-vs-closure#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-vs-closure#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -277,12 +277,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

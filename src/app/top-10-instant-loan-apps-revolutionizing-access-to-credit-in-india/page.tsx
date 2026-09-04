@@ -10,22 +10,22 @@ export default function TopLoanAppsIndiaPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/top-10-instant-loan-apps-revolutionizing-access-to-credit-in-india#article",
+                "@id": "https://www.settleloans.in/top-10-instant-loan-apps-revolutionizing-access-to-credit-in-india#article",
                 "headline": "Top 10 Instant Loan Apps Revolutionizing Access to Credit in India",
                 "description": "Comprehensive guide to India's leading instant loan apps. Learn how digital lending is transforming credit access with our expert review of the top 10 platforms.",
-                "image": "https://settleloans.in/images/top-loan-apps-india.jpg",
+                "image": "https://www.settleloans.in/images/top-loan-apps-india.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-05-07",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/top-10-instant-loan-apps-revolutionizing-access-to-credit-in-india" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/top-10-instant-loan-apps-revolutionizing-access-to-credit-in-india" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/top-10-instant-loan-apps-revolutionizing-access-to-credit-in-india#product",
+                "@id": "https://www.settleloans.in/top-10-instant-loan-apps-revolutionizing-access-to-credit-in-india#product",
                 "name": "Digital Lending Comparison Service",
                 "description": "Expert analysis and comparison of India's top 10 instant credit applications for borrowers.",
                 "aggregateRating": {
@@ -159,9 +159,9 @@ export default function TopLoanAppsIndiaPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Guides", "item": "https://settleloans.in/guides" },
-                    { "@type": "ListItem", "position": 3, "name": "Top 10 Instant Loan Apps", "item": "https://settleloans.in/top-10-instant-loan-apps-revolutionizing-access-to-credit-in-india" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Guides", "item": "https://www.settleloans.in/guides" },
+                    { "@type": "ListItem", "position": 3, "name": "Top 10 Instant Loan Apps", "item": "https://www.settleloans.in/top-10-instant-loan-apps-revolutionizing-access-to-credit-in-india" }
                 ]
             }
         ]

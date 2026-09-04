@@ -19,16 +19,16 @@ export const metadata: Metadata = {
     'multi loan no dues certificate',
   ],
   alternates: {
-    canonical: 'https://settleloans.in/case-study-25-lakh-multiple-bank-settlement',
+    canonical: 'https://www.settleloans.in/case-study-25-lakh-multiple-bank-settlement',
   },
   openGraph: {
     title: 'How to Settle Multiple Personal Loans: ₹25 Lakh Multi-Bank Case Study',
     description: 'Real case study: How a distressed borrower settled ₹25 Lakhs across 3 personal loans and 4 credit cards for ₹10.5 Lakhs (58% waiver). Learn multi-bank prioritization, legal shields, and OTS negotiations.',
-    url: 'https://settleloans.in/case-study-25-lakh-multiple-bank-settlement',
+    url: 'https://www.settleloans.in/case-study-25-lakh-multiple-bank-settlement',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/case-study-25-lakh-multiple-bank-settlement-settleloans.jpg',
+        url: 'https://www.settleloans.in/images/infographics/case-study-25-lakh-multiple-bank-settlement-settleloans.jpg',
         width: 1200,
         height: 675,
         alt: 'How to Settle Multiple Personal Loans: ₹25 Lakh Multi-Bank Settlement Case Study Infographic',
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'How to Settle Multiple Personal Loans: ₹25 Lakh Multi-Bank Case Study',
     description: 'Case study proof: Step-by-step breakdown of settling ₹25 Lakhs across 7 defaulted accounts for ₹10.5 Lakhs with zero dues NDCs.',
-    images: ['https://settleloans.in/images/infographics/case-study-25-lakh-multiple-bank-settlement-settleloans.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/case-study-25-lakh-multiple-bank-settlement-settleloans.jpg'],
   },
 };
 
@@ -50,80 +50,80 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/case-study-25-lakh-multiple-bank-settlement#webpage",
-      "url": "https://settleloans.in/case-study-25-lakh-multiple-bank-settlement",
+      "@id": "https://www.settleloans.in/case-study-25-lakh-multiple-bank-settlement#webpage",
+      "url": "https://www.settleloans.in/case-study-25-lakh-multiple-bank-settlement",
       "name": "How to Settle Multiple Personal Loans: ₹25 Lakh Multi-Bank Case Study",
       "description": "Real case study: How a distressed borrower settled ₹25 Lakhs across 3 personal loans and 4 credit cards for ₹10.5 Lakhs (58% waiver). Learn multi-bank prioritization, legal shields, and OTS negotiations.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/case-study-25-lakh-multiple-bank-settlement#breadcrumb"
+        "@id": "https://www.settleloans.in/case-study-25-lakh-multiple-bank-settlement#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/case-study-25-lakh-multiple-bank-settlement#breadcrumb",
+      "@id": "https://www.settleloans.in/case-study-25-lakh-multiple-bank-settlement#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Resources",
-          "item": "https://settleloans.in/resources"
+          "item": "https://www.settleloans.in/resources"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "How to Settle Multiple Personal Loans",
-          "item": "https://settleloans.in/case-study-25-lakh-multiple-bank-settlement"
+          "item": "https://www.settleloans.in/case-study-25-lakh-multiple-bank-settlement"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/case-study-25-lakh-multiple-bank-settlement#article",
+      "@id": "https://www.settleloans.in/case-study-25-lakh-multiple-bank-settlement#article",
       "headline": "How to Settle Multiple Personal Loans: ₹25 Lakh Multi-Bank Settlement Case Study",
       "description": "A comprehensive case study detailing how a borrower trapped in ₹25 Lakhs of multi-bank unsecured debt across 3 personal loans and 4 credit cards settled for ₹10.5 Lakhs (58% waiver) through strategic bank prioritization, legal shields, and OTS negotiations.",
-      "image": "https://settleloans.in/images/infographics/case-study-25-lakh-multiple-bank-settlement-settleloans.jpg",
+      "image": "https://www.settleloans.in/images/infographics/case-study-25-lakh-multiple-bank-settlement-settleloans.jpg",
       "datePublished": "2026-08-24T10:50:00+05:30",
       "dateModified": "2026-08-24T10:50:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/case-study-25-lakh-multiple-bank-settlement#webpage"
+        "@id": "https://www.settleloans.in/case-study-25-lakh-multiple-bank-settlement#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in",
+        "url": "https://www.settleloans.in",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/#service",
+      "@id": "https://www.settleloans.in/#service",
       "name": "SettleLoans - Multi-Bank Debt Settlement & Legal Protection Services",
       "description": "Specialized legal defense, debt prioritization, and One-Time Settlement (OTS) advisory for borrowers dealing with multiple defaulted personal loans and credit cards across Indian banks.",
-      "url": "https://settleloans.in/case-study-25-lakh-multiple-bank-settlement",
-      "image": "https://settleloans.in/images/infographics/case-study-25-lakh-multiple-bank-settlement-settleloans.jpg",
+      "url": "https://www.settleloans.in/case-study-25-lakh-multiple-bank-settlement",
+      "image": "https://www.settleloans.in/images/infographics/case-study-25-lakh-multiple-bank-settlement-settleloans.jpg",
       "telephone": "+91-8800226635",
       "priceRange": "₹₹",
       "address": {
@@ -136,9 +136,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -152,7 +152,7 @@ const jsonLdGraph = {
           "@type": "Review",
           "itemReviewed": {
             "@type": "FinancialService",
-            "@id": "https://settleloans.in/#service"
+            "@id": "https://www.settleloans.in/#service"
           },
           "author": {
             "@type": "Person",
@@ -171,7 +171,7 @@ const jsonLdGraph = {
           "@type": "Review",
           "itemReviewed": {
             "@type": "FinancialService",
-            "@id": "https://settleloans.in/#service"
+            "@id": "https://www.settleloans.in/#service"
           },
           "author": {
             "@type": "Person",
@@ -190,7 +190,7 @@ const jsonLdGraph = {
           "@type": "Review",
           "itemReviewed": {
             "@type": "FinancialService",
-            "@id": "https://settleloans.in/#service"
+            "@id": "https://www.settleloans.in/#service"
           },
           "author": {
             "@type": "Person",
@@ -209,7 +209,7 @@ const jsonLdGraph = {
           "@type": "Review",
           "itemReviewed": {
             "@type": "FinancialService",
-            "@id": "https://settleloans.in/#service"
+            "@id": "https://www.settleloans.in/#service"
           },
           "author": {
             "@type": "Person",
@@ -228,7 +228,7 @@ const jsonLdGraph = {
           "@type": "Review",
           "itemReviewed": {
             "@type": "FinancialService",
-            "@id": "https://settleloans.in/#service"
+            "@id": "https://www.settleloans.in/#service"
           },
           "author": {
             "@type": "Person",
@@ -247,7 +247,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/case-study-25-lakh-multiple-bank-settlement#faq",
+      "@id": "https://www.settleloans.in/case-study-25-lakh-multiple-bank-settlement#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -333,12 +333,12 @@ const jsonLdGraph = {
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",

@@ -10,22 +10,22 @@ export default function TradingLoanSettlementPage() {
         "@graph": [
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/trading-loan-settlement#article",
+                "@id": "https://www.settleloans.in/trading-loan-settlement#article",
                 "headline": "Trading Loan Settlement: Comprehensive Guide for Debt Resolution in India",
                 "description": "Learn about trading loan settlement in India. Expert advice on settling Margin Trading Facility (MTF), Loan Against Securities (LAS), and trading business debts with banks and brokers.",
-                "image": "https://settleloans.in/images/trading-loan-settlement.jpg",
+                "image": "https://www.settleloans.in/images/trading-loan-settlement.jpg",
                 "author": { "@type": "Organization", "name": "SettleLoans" },
                 "publisher": {
                     "@type": "Organization",
                     "name": "SettleLoans",
-                    "logo": { "@type": "ImageObject", "url": "https://settleloans.in/logo.png" }
+                    "logo": { "@type": "ImageObject", "url": "https://www.settleloans.in/logo.png" }
                 },
                 "datePublished": "2024-05-07",
-                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://settleloans.in/trading-loan-settlement" }
+                "mainEntityOfPage": { "@type": "WebPage", "@id": "https://www.settleloans.in/trading-loan-settlement" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/trading-loan-settlement#product",
+                "@id": "https://www.settleloans.in/trading-loan-settlement#product",
                 "name": "Trading Loan Settlement Legal Service",
                 "description": "Specialized legal assistance for traders and investors to settle debts arising from market losses, MTF, and stock market leverage.",
                 "aggregateRating": {
@@ -95,9 +95,9 @@ export default function TradingLoanSettlementPage() {
             {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://settleloans.in" },
-                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://settleloans.in/services" },
-                    { "@type": "ListItem", "position": 3, "name": "Trading Loan Settlement", "item": "https://settleloans.in/trading-loan-settlement" }
+                    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.settleloans.in" },
+                    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://www.settleloans.in/services" },
+                    { "@type": "ListItem", "position": 3, "name": "Trading Loan Settlement", "item": "https://www.settleloans.in/trading-loan-settlement" }
                 ]
             }
         ]

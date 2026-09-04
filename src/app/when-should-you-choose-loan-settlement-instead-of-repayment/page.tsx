@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     title: "When Should You Choose Loan Settlement Instead of Repayment? | Expert Advice",
     description: "Confused between loan settlement and repayment? Our 5500+ word guide helps you decide when to choose settlement based on RBI guidelines, financial distress, and future credit goals.",
     alternates: {
-        canonical: "https://settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment",
+        canonical: "https://www.settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment",
     },
 };
 
@@ -16,34 +16,34 @@ export default function WhenToChooseSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment#webpage",
-                "url": "https://settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment",
+                "@id": "https://www.settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment#webpage",
+                "url": "https://www.settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment",
                 "name": "When Should You Choose Loan Settlement Instead of Repayment? | Comprehensive Guide",
                 "description": "A deep dive into the decision-making process for loan settlement vs full repayment in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment#breadcrumb",
+                "@id": "https://www.settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "Settlement vs Repayment",
-                        "item": "https://settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment"
+                        "item": "https://www.settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment#article",
+                "@id": "https://www.settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment#article",
                 "headline": "When Should You Choose Loan Settlement Instead of Repayment?",
                 "description": "Analyzing the pros, cons, and criteria for choosing debt settlement over full repayment.",
                 "author": {
@@ -55,16 +55,16 @@ export default function WhenToChooseSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-03-12",
                 "dateModified": "2024-03-12",
-                "mainEntityOfPage": { "@id": "https://settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment#webpage" }
+                "mainEntityOfPage": { "@id": "https://www.settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment#webpage" }
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment#product",
+                "@id": "https://www.settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment#product",
                 "name": "Debt Settlement Decision Support",
                 "description": "Professional guidance on whether you should settle your loan or pursue full repayment.",
                 "aggregateRating": {
@@ -105,7 +105,7 @@ export default function WhenToChooseSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment#faq",
+                "@id": "https://www.settleloans.in/when-should-you-choose-loan-settlement-instead-of-repayment#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",

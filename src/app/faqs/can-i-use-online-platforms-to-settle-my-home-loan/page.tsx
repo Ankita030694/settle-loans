@@ -10,7 +10,7 @@ export const metadata: Metadata = {
     title: "Can I Use Online Platforms to Settle My Home Loan? | Digital Resolution Guide",
     description: "Learn how to use online platforms for home loan settlement in India. Expert guide on digital mediation, SARFAESI defense, and negotiating with top banks.",
     alternates: {
-        canonical: "https://settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan",
+        canonical: "https://www.settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan",
     },
 };
 
@@ -20,43 +20,43 @@ export default function HomeLoanOnlineSettlementPage() {
         "@graph": [
             {
                 "@type": "WebPage",
-                "@id": "https://settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan#webpage",
-                "url": "https://settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan",
+                "@id": "https://www.settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan#webpage",
+                "url": "https://www.settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan",
                 "name": "Can I Use Online Platforms to Settle My Home Loan? | Professional Guide",
                 "description": "Comprehensive guide on using online platforms for home loan settlement and SARFAESI defense in India.",
-                "breadcrumb": { "@id": "https://settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan#breadcrumb" },
+                "breadcrumb": { "@id": "https://www.settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan#breadcrumb" },
                 "inLanguage": "en-IN"
             },
             {
                 "@type": "BreadcrumbList",
-                "@id": "https://settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan#breadcrumb",
+                "@id": "https://www.settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan#breadcrumb",
                 "itemListElement": [
                     {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://settleloans.in"
+                        "item": "https://www.settleloans.in"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "FAQs",
-                        "item": "https://settleloans.in/faqs"
+                        "item": "https://www.settleloans.in/faqs"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "Online Home Loan Settlement",
-                        "item": "https://settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan"
+                        "item": "https://www.settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan"
                     }
                 ]
             },
             {
                 "@type": "Article",
-                "@id": "https://settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan#article",
+                "@id": "https://www.settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan#article",
                 "headline": "Can I Use Online Platforms to Settle My Home Loan?",
                 "description": "The definitive guide to navigating the digital landscape of housing loan defaults, SARFAESI defense, and E-mediation in India.",
-                "image": "https://settleloans.in/logo/logo.svg",
+                "image": "https://www.settleloans.in/logo/logo.svg",
                 "author": {
                     "@type": "Organization",
                     "name": "SettleLoans Research Team"
@@ -66,7 +66,7 @@ export default function HomeLoanOnlineSettlementPage() {
                     "name": "SettleLoans",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://settleloans.in/logo/logo.svg"
+                        "url": "https://www.settleloans.in/logo/logo.svg"
                     }
                 },
                 "datePublished": "2024-06-25",
@@ -74,7 +74,7 @@ export default function HomeLoanOnlineSettlementPage() {
             },
             {
                 "@type": "FAQPage",
-                "@id": "https://settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan#faq",
+                "@id": "https://www.settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan#faq",
                 "mainEntity": [
                     {
                         "@type": "Question",
@@ -160,7 +160,7 @@ export default function HomeLoanOnlineSettlementPage() {
             },
             {
                 "@type": "Product",
-                "@id": "https://settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan#service",
+                "@id": "https://www.settleloans.in/faqs/can-i-use-online-platforms-to-settle-my-home-loan#service",
                 "name": "Home Loan Resolution Service",
                 "description": "Professional assistance for home loan settlement, SARFAESI defense, and digital mediation with Indian banks.",
                 "brand": {
