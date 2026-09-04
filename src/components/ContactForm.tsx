@@ -172,12 +172,12 @@ export default function ContactForm({
             )}
 
             <div className={`${variant === 'section' ? 'mb-8' : 'mb-6 pr-8'}`}>
-                <h2 className={`${variant === 'section' ? 'text-[32px] md:text-[48px]' : 'text-2xl'} font-bold leading-[1.1] text-[#2E2E2E]`} style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
+                <div className={`${variant === 'section' ? 'text-[32px] md:text-[48px]' : 'text-2xl'} font-bold leading-[1.1] text-[#2E2E2E]`} style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
                     Breathe Easy.
-                </h2>
-                <h2 className={`${variant === 'section' ? 'text-[32px] md:text-[48px]' : 'text-2xl'} font-bold leading-[1.1] text-[#6D6D6D]`} style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
+                </div>
+                <div className={`${variant === 'section' ? 'text-[32px] md:text-[48px]' : 'text-2xl'} font-bold leading-[1.1] text-[#6D6D6D]`} style={{ fontFamily: 'var(--font-satoshi), Satoshi, sans-serif' }}>
                     Let’s Move Forward.
-                </h2>
+                </div>
             </div>
 
             <form onSubmit={handleSubmit} className={`${variant === 'section' ? 'space-y-6' : 'space-y-5'}`}>

@@ -64,9 +64,9 @@ export function TableOfContents({ items = [] }: TableOfContentsProps) {
       {/* Desktop Sidebar TOC */}
       <div className="w-full">
         <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-4 text-slate-800">
-          <h3 className="text-xs font-bold uppercase tracking-wider text-[#1F5EFF] mb-3 pb-2 border-b border-slate-100 flex items-center gap-2">
+          <div className="text-xs font-bold uppercase tracking-wider text-[#1F5EFF] mb-3 pb-2 border-b border-slate-100 flex items-center gap-2">
             <span>Contents Index</span>
-          </h3>
+          </div>
           <nav className="flex flex-col gap-1 max-h-[calc(100vh-260px)] overflow-y-auto pr-1">
             {items.map((heading) => {
               const isActive = activeId === heading.id;

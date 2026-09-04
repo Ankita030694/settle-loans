@@ -66,7 +66,7 @@ export default function Footer() {
 
           {/* Column 2: Services */}
           <div className="flex flex-col gap-4 w-full lg:w-auto">
-            <h3 className="text-xl font-bold text-gray-900 mb-2">Services</h3>
+            <div className="text-xl font-bold text-gray-900 mb-2">Services</div>
             <div className="flex flex-col gap-3">
               <Link href="/contact" className="text-blue-600 hover:text-blue-800 text-base font-base">Contact Us</Link>
               <Link href="/loan-settlement" className="text-blue-600 hover:text-blue-800 text-base">Loan Settlement</Link>
@@ -87,7 +87,7 @@ export default function Footer() {
 
           {/* Column 3: FAQs */}
           <div className="flex flex-col gap-4 w-full lg:w-auto">
-            <h3 className="text-xl font-bold text-gray-900 mb-2">FAQs</h3>
+            <div className="text-xl font-bold text-gray-900 mb-2">FAQs</div>
             <div className="flex flex-col gap-3">
               <Link href="/faqs/how-to-settle-loan" className="text-blue-600 hover:text-blue-800 text-base">How to Settle Loan</Link>
               <Link href="/faqs/ots-full-form" className="text-blue-600 hover:text-blue-800 text-base">OTS Full Form</Link>
@@ -102,7 +102,7 @@ export default function Footer() {
 
           {/* Column 4: Legal & Compliance */}
           <div className="flex flex-col gap-4 w-full lg:w-auto">
-            <h3 className="text-xl font-bold text-gray-900 mb-2">Legal & Compliance</h3>
+            <div className="text-xl font-bold text-gray-900 mb-2">Legal & Compliance</div>
             <div className="flex flex-col gap-3">
               <Link href="/terms-and-conditions" className='text-blue-600 hover:text-blue-800 text-base'>Terms & Conditions</Link>
               <Link href="/privacy-policy" className='text-blue-600 hover:text-blue-800 text-base'>Privacy Policy</Link>
@@ -117,7 +117,7 @@ export default function Footer() {
 
         {/* States Grid Section */}
         <div className="w-full mt-16 pt-12 border-t border-gray-100">
-          <h3 className="text-xl font-bold text-gray-900 mb-8 uppercase tracking-wider text-sm opacity-70">States & Cities We Serve</h3>
+          <div className="text-xl font-bold text-gray-900 mb-8 uppercase tracking-wider text-sm opacity-70">States & Cities We Serve</div>
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-x-4 gap-y-3">
             {[
               { name: "Andaman & Nicobar", href: "/loan-settlement/andaman-and-nicobar" },
