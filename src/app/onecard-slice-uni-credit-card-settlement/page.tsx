@@ -35,7 +35,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'OneCard, Slice & Uni Credit Card Settlement: Partner Bank OTS Rules & Legal Defense (2026)',
+  title: 'OneCard, Slice & Uni Card Settlement | SettleLoans',
   description: 'Comprehensive guide to OneCard, Slice, and Uni credit card settlement in India. Learn how to settle co-branded fintech cards backed by Federal Bank, SBM Bank, BOB Financial, and NESFB, halt 36%-48% APR compounding, defend recovery harassment under RBI Digital Lending rules, and negotiate up to 60% OTS debt haircuts.',
   keywords: [
     'onecard credit card settlement process',

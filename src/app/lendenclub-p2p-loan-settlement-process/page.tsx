@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'LenDenClub Loan Settlement Process: Stop Recovery Harassment & Settle (2026)',
+  title: 'LenDenClub P2P Loan Settlement | SettleLoans',
   description: 'Comprehensive legal guide to the LenDenClub loan settlement process. Learn how to settle defaulted P2P personal loans with Innofin Solutions and Finstree under RBI Master Directions, stop recovery agent harassment, defend Section 25 PSSA notices, and negotiate a 40% to 65% OTS haircut with an official No Dues Certificate.',
   keywords: [
     'lendenclub loan settlement process',

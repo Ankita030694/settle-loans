@@ -29,7 +29,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement Company in Ranchi Jharkhand | Top Debt Relief Lawyers',
+  title: 'Personal Loan Settlement in Ranchi | SettleLoans',
   description: 'Leading personal loan settlement company in Ranchi, Jharkhand. Expert legal defense against PSU bank SARB notices, mining debt distress, JHALSA Lok Adalat OTS & bank harassment.',
   keywords: [
     'personal loan settlement company in ranchi jharkhand',

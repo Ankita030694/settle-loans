@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Services in Nashik: Legal Defense & 40%–70% OTS',
+  title: 'Personal Loan Settlement in Nashik | SettleLoans',
   description:
     'Expert loan settlement services in Nashik by senior advocates. Defend against recovery harassment, Old Agra Road District Court notices, and secure 40%–70% OTS waivers under RBI rules.',
   keywords: [

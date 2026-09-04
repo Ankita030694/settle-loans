@@ -33,7 +33,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Lawyer in Bhubaneswar Odisha: Bank OTS & Notice Defense (2026)',
+  title: 'Personal Loan Settlement in Bhubaneswar | SettleLoans',
   description:
     'Top loan settlement lawyers in Bhubaneswar & Odisha. Defend against bank SARB notices, Section 138 & 25 PSSA summons, halt recovery harassment for Infocity IT staff, mining contractors, and government employees, and negotiate 40%–60% OTS waivers under RBI rules.',
   keywords: [

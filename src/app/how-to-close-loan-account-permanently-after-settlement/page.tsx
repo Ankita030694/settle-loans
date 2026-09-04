@@ -39,7 +39,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Steps to Permanently Close Loan Account After Settlement: 5-Step NDC & CIBIL Protocol (2026)',
+  title: 'How to Permanently Close Settled Loan | SettleLoans',
   description: 'Complete end-to-end checklist to permanently close loan account after settlement: bank ledger zeroing, physical branch NDC, NPCI NACH mandate cancellation, ECS revocation, and CIBIL zero-balance update.',
   keywords: [
     'steps to permanently close loan account after settlement',

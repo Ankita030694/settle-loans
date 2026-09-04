@@ -34,7 +34,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Foreclosure vs Prepayment vs Settlement | RBI Rules & CIBIL Impact',
+  title: 'Foreclosure vs Prepayment vs Settlement | SettleLoans',
   description: 'Confused between loan foreclosure, part-prepayment, and debt settlement? Discover the difference in CIBIL credit tags (Closed vs Settled), RBI zero-fee rules, tax implications under Section 194R, and NPV cost comparisons.',
   keywords: [
     'difference between loan foreclosure and settlement',

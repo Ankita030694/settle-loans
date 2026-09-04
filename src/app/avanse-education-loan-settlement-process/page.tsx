@@ -33,7 +33,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Avanse Education Loan Settlement: OTS Process, Co-Borrower Shield & Haircut (2026)',
+  title: 'Avanse Education Loan Settlement | SettleLoans',
   description:
     'Comprehensive guide to Avanse Financial Services education loan settlement. Learn how to settle domestic & overseas student loans, shield co-borrower parents, eliminate capitalized moratorium interest, defend legal notices, and negotiate up to 60% OTS haircut under RBI guidelines.',
   keywords: [

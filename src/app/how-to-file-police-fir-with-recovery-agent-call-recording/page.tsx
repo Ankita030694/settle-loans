@@ -44,7 +44,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'How to File Police FIR with Recovery Agent Call Recording: Section 63 BSA / 65B Guide',
+  title: 'File Police FIR for Recovery Call Harassment | SettleLoans',
   description: 'Recorded abusive loan recovery calls? Learn step-by-step how to draft an electronic certificate under Section 63 BSA / Section 65B, file a police FIR, and stop harassment.',
   keywords: [
     'police complaint with call recording against recovery agent',

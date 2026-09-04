@@ -34,7 +34,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Can I Get Home Loan After Loan Settlement? Step-by-Step Approval Guide (2026)',
+  title: 'Home Loan After Personal Loan Settlement | SettleLoans',
   description: 'Can you get a home loan after personal loan settlement in India? Discover the complete roadmap: prime bank rejection realities, 24-36 month CIBIL repair, converting Settled to Closed status, and securing mortgage approval with NBFCs and HFCs.',
   keywords: [
     'can i get home loan after loan settlement',

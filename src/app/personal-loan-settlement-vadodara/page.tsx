@@ -38,7 +38,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Debt Settlement Services in Vadodara: Legal OTS, Bank NPA Rules & Haircut Guide (2026)',
+  title: 'Personal Loan Settlement in Vadodara | SettleLoans',
   description: 'Comprehensive legal guide to debt settlement services in Vadodara. Learn how industrialists, engineers & borrowers across Vadodara, Anand & Bharuch negotiate 40%–60% loan haircuts under RBI rules, SARB policies & Lok Adalat.',
   keywords: [
     'debt settlement services in vadodara',

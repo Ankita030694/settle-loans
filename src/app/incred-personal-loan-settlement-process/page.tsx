@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'InCred Personal Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
+  title: 'InCred Personal Loan Settlement | SettleLoans',
   description: 'Comprehensive guide to InCred Financial Services personal loan settlement. Learn how to settle personal and MSME loans, stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA and arbitration notices, and negotiate up to 60% OTS haircut under RBI rules.',
   keywords: [
     'incred personal loan settlement',

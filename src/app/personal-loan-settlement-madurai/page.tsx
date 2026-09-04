@@ -33,7 +33,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Debt Settlement Advocates in Madurai: Personal Loan & SARB OTS Legal Guide (2026)',
+  title: 'Personal Loan Settlement in Madurai | SettleLoans',
   description: 'Engage top debt settlement advocates in Madurai, Dindigul & Virudhunagar. Settle defaulted personal loans, private bank SARB notices, and microfinance disputes under RBI compromise rules with up to 60% legal waivers.',
   keywords: [
     'debt settlement advocates in madurai',

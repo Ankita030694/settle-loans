@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'MSME Loan Settlement Scheme in India: Resolve Business Debt & Protect Machinery (2026)',
+  title: 'MSME Samadhaan Loan Default Guide | SettleLoans',
   description: 'Struggling with stressed MSME working capital loans, CC/OD limits, or SARFAESI notices? Learn how Udyam-registered businesses leverage MSME Samadhaan, RBI\'s Prudential Framework, and OTS schemes to settle bank debt without losing plant and machinery.',
   keywords: [
     'msme loan settlement scheme in india',

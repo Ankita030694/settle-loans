@@ -43,7 +43,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Recovery Agent Shouting at Home in Front of Kids? Legal Rights & Police FIR Guide',
+  title: 'Stop Recovery Agents Harassing Family | SettleLoans',
   description: 'Is a bank recovery agent shouting at your home in front of your kids, elderly parents, or family? Learn child protection laws, Juvenile Justice Act provisions, emergency police FIR remedies, and advocate-led OTS settlement.',
   keywords: [
     'recovery agent shouting at home in front of kids',

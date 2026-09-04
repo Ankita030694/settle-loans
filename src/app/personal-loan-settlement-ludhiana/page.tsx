@@ -41,7 +41,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement in Ludhiana | Debt Settlement Advocates Punjab',
+  title: 'Personal Loan Settlement in Ludhiana | SettleLoans',
   description: 'Facing debt distress in Ludhiana, Jalandhar, or Amritsar? Consult top debt settlement advocates in Ludhiana Punjab for factory owners, MSMEs, and salaried professionals to secure 40%–65% bank OTS waivers.',
   keywords: [
     'debt settlement advocates in ludhiana punjab',

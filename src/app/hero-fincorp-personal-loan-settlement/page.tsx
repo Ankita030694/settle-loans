@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Hero Fincorp Loan Settlement: Process, OTS Rules & Legal Defense (2026)',
+  title: 'Hero FinCorp Loan Settlement Guide | SettleLoans',
   description: 'Step-by-step guide to Hero Fincorp loan settlement process. Learn how to settle personal loans, halt recovery harassment, stop NACH bounce charges, defend Section 25 notices, and negotiate 40%–60% OTS haircuts under RBI rules.',
   keywords: [
     'hero fincorp loan settlement process',

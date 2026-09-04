@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Federal Bank Loan Settlement: OTS Rules, Legal Defense & Haircut (2026)',
+  title: 'Federal Bank Personal Loan Settlement | SettleLoans',
   description: 'Comprehensive guide to Federal Bank loan settlement. Learn how to settle personal, business, and gold loan deficits, halt recovery harassment, defend Section 138 NI Act & Section 25 PSSA summons, navigate SAMD escalation, and negotiate up to 60% OTS haircut under RBI guidelines.',
   keywords: [
     'federal bank loan settlement',

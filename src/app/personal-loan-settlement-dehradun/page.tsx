@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Services in Dehradun: Legal Debt Relief in Uttarakhand (2026)',
+  title: 'Personal Loan Settlement in Dehradun | SettleLoans',
   description: 'Leading loan settlement services in Dehradun, Haridwar & Rishikesh. Advocate representation for government employees, hotel/tourism businesses & students facing bank recovery under RBI OTS rules.',
   keywords: [
     'loan settlement services in dehradun uttarakhand',

@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'RBI Debt Resolution Framework vs Loan Settlement: Restructuring vs OTS Compared (2026)',
+  title: 'RBI Debt Resolution vs Loan Settlement | SettleLoans',
   description: 'Understand the critical difference between loan restructuring under the RBI Debt Resolution Framework and One Time Settlement (OTS). Compare tenure extensions, moratoriums, CIBIL reporting, NPV haircut formulas, and legal finality.',
   keywords: [
     'difference between loan restructuring and loan settlement',

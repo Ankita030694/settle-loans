@@ -39,7 +39,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'How to File Complaint in RBI Ombudsman Against Recovery Agents | Step-by-Step Guide',
+  title: 'File RBI Ombudsman Complaint for Harassment | SettleLoans',
   description: 'Step-by-step guide to filing an online complaint on the RBI CMS portal (cms.rbi.org.in) against bank & NBFC recovery agent harassment, uploading evidence, and claiming ₹20 Lakh compensation.',
   keywords: [
     'how to file complaint in rbi ombudsman against recovery agents',

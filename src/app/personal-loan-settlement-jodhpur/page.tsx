@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement Lawyer in Jodhpur: Legal Defense & OTS Advocates',
+  title: 'Personal Loan Settlement in Jodhpur | SettleLoans',
   description:
     'Facing personal loan default, recovery harassment, or court notices in Jodhpur, Pali, or Bikaner? Experienced debt settlement lawyers provide Rajasthan High Court defense, salary protection, and 40%–70% OTS waivers.',
   keywords: [

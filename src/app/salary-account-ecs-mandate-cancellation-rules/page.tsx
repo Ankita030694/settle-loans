@@ -39,7 +39,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'How to Stop ECS Mandate for Loan: Salary Account Auto-Debit Cancellation Rules',
+  title: 'Salary Account ECS Mandate Cancellation | SettleLoans',
   description: 'Learn how to stop ECS mandate for loan without fraud allegations. Discover RBI NACH e-mandate cancellation rights, Section 7 Payment of Wages Act protections, and legal steps to halt auto-debits.',
   keywords: [
     'how to stop ecs mandate for loan',

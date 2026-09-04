@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'CRED Cash Loan Default Settlement: Settle Partner Bank Dues (2026)',
+  title: 'CRED Cash Loan Settlement Guide | SettleLoans',
   description: 'Comprehensive guide to CRED Cash loan default settlement. Learn how to settle instant credit lines underwritten by IDFC FIRST Bank, Newtap Finance, and L&T Finance. Stop recovery harassment, revoke e-NACH bounce charges, defend Section 25 PSSA notices, and negotiate a 40% to 60% OTS haircut under RBI compromise rules.',
   keywords: [
     'cred cash loan default settlement',

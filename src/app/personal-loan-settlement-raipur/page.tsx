@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Debt Settlement Services in Raipur Chhattisgarh: Settle Loans (2026)',
+  title: 'Personal Loan Settlement in Raipur | SettleLoans',
   description: 'Overdue loans in Raipur, Bhilai or Bilaspur? Consult top debt settlement services in Raipur Chhattisgarh to halt recovery harassment, defend Section 138/25 PSSA notices in District Court, represent at DLSA Lok Adalat, and negotiate 45%–65% RBI OTS debt waivers.',
   keywords: [
     'debt settlement services in raipur chhattisgarh',

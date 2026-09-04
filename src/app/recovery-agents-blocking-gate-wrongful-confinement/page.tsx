@@ -40,7 +40,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Recovery Agent Blocking Door or Car From Leaving? Sec 127 BNS & Legal Action',
+  title: 'Legal Action: Recovery Agents Gate Blocking | SettleLoans',
   description: 'Is a loan recovery agent blocking your door, gate, or car from leaving? Learn why physical restraint is wrongful confinement under Section 127 BNS / Section 340 IPC, and how to file an FIR.',
   keywords: [
     'recovery agent blocking door or car from leaving',

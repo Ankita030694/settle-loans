@@ -43,7 +43,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'How to Verify Bank Recovery Agent ID Card & DRA Certificate | SettleLoans',
+  title: 'Check Recovery Agent ID & DRA Certificate | SettleLoans',
   description: 'Learn how to verify bank recovery agent identity card, check mandatory IIBF DRA certificate, bank authorization letter, and your legal rights to refuse unverified agents.',
   keywords: [
     'how to verify bank recovery agent identity card',

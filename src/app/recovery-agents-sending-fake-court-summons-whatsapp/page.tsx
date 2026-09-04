@@ -39,7 +39,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Fake Court Notice by Loan Recovery Agent on WhatsApp: Legal Rights & FIR Process',
+  title: 'Fake Court Summons on WhatsApp Rules | SettleLoans',
   description: 'Received a fake court notice or arrest warrant on WhatsApp from a recovery agent? Learn how to identify forged court summons, Section 336/338 BNS and 465/471 IPC penalties, and how to take legal action.',
   keywords: [
     'fake court notice by loan recovery agent on whatsapp',

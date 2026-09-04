@@ -46,7 +46,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Recovery Agents Calling from Virtual Numbers & WhatsApp? Legal Defenses & DoT Chakshu Guide',
+  title: 'Stop Recovery Calls from Virtual Numbers | SettleLoans',
   description: 'Are recovery agents harassing you using unknown virtual numbers, VoIP auto-dialers, or disappearing WhatsApp messages? Learn how to preserve CDR evidence, file DoT Chakshu and RBI complaints, and hold lending banks accountable.',
   keywords: [
     'recovery agent calling from virtual numbers whatsapp',

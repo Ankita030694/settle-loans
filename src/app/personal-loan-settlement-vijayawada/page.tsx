@@ -33,7 +33,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Debt Settlement Advocates in Vijayawada: Loan OTS & Legal Notice Defense (2026)',
+  title: 'Personal Loan Settlement in Vijayawada | SettleLoans',
   description: 'Top debt settlement advocates in Vijayawada & Guntur. Defend against Section 138 & 25 PSSA court notices, stop recovery harassment, protect trader and salaried incomes, and negotiate 40%–60% OTS haircuts under RBI rules.',
   keywords: [
     'debt settlement advocates in vijayawada',

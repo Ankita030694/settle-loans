@@ -30,7 +30,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement Lawyer in Varanasi: Legal Defense & Bank OTS (2026)',
+  title: 'Personal Loan Settlement in Varanasi | SettleLoans',
   description:
     'Struggling with loan default, recovery harassment, or court summons in Varanasi, Prayagraj, or Gorakhpur? Get expert advocate defense, Lok Adalat compromise, and 40%–70% OTS waivers.',
   keywords: [

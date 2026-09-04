@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'MoneyTap (Freo) Credit Line Settlement: OTS Process, RBL & DMI Legal Defense (2026)',
+  title: 'Freo MoneyTap Credit Line Settlement | SettleLoans',
   description: 'Comprehensive guide to MoneyTap (Freo) credit line settlement. Resolve revolving credit debt with RBL Bank & DMI Finance, stop e-NACH bounce penalties, halt recovery harassment, defend Section 25 PSSA notices, and negotiate a 40%–60% OTS haircut under RBI rules.',
   keywords: [
     'moneytap freo loan settlement process',

@@ -41,7 +41,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Recovery Agent Visiting Parents House for Son Loan: Legal Shield & Rights',
+  title: 'Recovery Agents Visiting Parents Address | SettleLoans',
   description: "Are recovery agents visiting your elderly parents' home for a son's loan? Discover Section 329 BNS criminal trespass laws, Supreme Court privacy rulings, and legal cease-and-desist shields.",
   keywords: [
     'recovery agent visiting parents house for son loan',

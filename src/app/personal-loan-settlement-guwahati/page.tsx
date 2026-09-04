@@ -29,7 +29,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Company in Guwahati Assam: Legal Defense & OTS',
+  title: 'Personal Loan Settlement in Guwahati | SettleLoans',
   description: 'Struggling with personal loan default, recovery harassment, or court notices in Guwahati & Assam? Discover how SettleLoans provides Gauhati High Court legal defense, SBI SARB negotiations, and 40%–70% OTS debt waivers.',
   keywords: [
     'loan settlement company in guwahati assam',

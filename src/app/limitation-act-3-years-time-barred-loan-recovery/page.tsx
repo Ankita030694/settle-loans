@@ -30,7 +30,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Limitation Act 3 Years for Bank Loan Recovery in India | Time-Barred Debt Defense',
+  title: '3-Year Limitation Act Loan Recovery | SettleLoans',
   description: 'Under Article 19 and 55 of the Limitation Act 1963, banks have a strict 3-year window from loan default to file a civil recovery suit. Learn how time-barred debt shields borrowers, Section 18 acknowledgment traps, and how to stop recovery agent harassment on 4-5 year old loans.',
   keywords: [
     'limitation act 3 years for bank loan recovery in india',

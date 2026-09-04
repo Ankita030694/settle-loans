@@ -34,7 +34,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Wilful Defaulter Notice Reply Format & Defense Guide: RBI Rules (2026)',
+  title: 'Wilful Defaulter Notice Reply Defense | SettleLoans',
   description: 'Master the legal defense against bank Wilful Defaulter show-cause notices. Learn the RBI Master Directions, 21-day representation window, Grievance Redressal Committee (GRC) hearings, Supreme Court precedents, and how to negotiate an institutional One Time Settlement (OTS).',
   keywords: [
     'wilful defaulter notice reply format',

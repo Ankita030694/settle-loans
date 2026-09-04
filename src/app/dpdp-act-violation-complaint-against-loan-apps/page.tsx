@@ -41,7 +41,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'DPDP Act Violation Complaint Against Loan Apps Accessing Contacts: Legal Guide',
+  title: 'DPDP Act Complaint Against Loan Apps | SettleLoans',
   description: 'Loan app accessing contacts without consent? Learn how to file a DPDP Act 2023 complaint with the Data Protection Board of India, RBI rules, and civil remedies.',
   keywords: [
     'loan app accessing contacts complaint dpdp act',

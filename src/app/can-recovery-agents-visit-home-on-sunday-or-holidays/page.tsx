@@ -41,7 +41,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Can Recovery Agents Visit on Sunday or Holidays? RBI Rules & Legal Rights',
+  title: 'Can Recovery Agents Visit on Holidays? | SettleLoans',
   description: 'Can bank recovery agents visit your home on Sundays or public holidays? Discover RBI rules, prior notice mandates, criminal trespass laws under Section 329 BNS, and how to lawfully turn away holiday visitors.',
   keywords: [
     'can recovery agents visit on sunday or public holidays',

@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Can You Pay Cash to Loan Recovery Agents? RBI Rules & Fraud Risks (2026)',
+  title: 'Should You Pay Cash to Recovery Agents? | SettleLoans',
   description: 'Can you pay cash to loan recovery agents? Discover strict RBI rules banning cash collection without real-time digital receipts, why cash never credits your loan account, and safe payment protocols.',
   keywords: [
     'can you pay cash to loan recovery agents',

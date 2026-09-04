@@ -30,7 +30,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'CRIF High Mark & Equifax Loan Settlement Dispute: Online Correction Guide (2026)',
+  title: 'Fix CRIF & Equifax Settlement Disputes | SettleLoans',
   description: 'Step-by-step legal guide on filing online dispute corrections with CRIF High Mark and Equifax post loan settlement. Learn how to rectify wrong overdue balances to ₹0, invoke CICRA 2005 rules, claim RBI ₹100/day delay compensation, and restore credit scores.',
   keywords: [
     'crif high mark dispute for loan settlement',

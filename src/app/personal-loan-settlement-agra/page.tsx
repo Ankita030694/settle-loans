@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement Lawyer in Agra: Legal Defense & OTS (2026)',
+  title: 'Personal Loan Settlement in Agra | SettleLoans',
   description:
     'Struggling with loan default, recovery harassment, or court summons in Agra, Mathura, or Firozabad? Senior debt settlement advocates protect footwear MSMEs, exporters, and salaried employees with 40%–70% OTS waivers.',
   keywords: [

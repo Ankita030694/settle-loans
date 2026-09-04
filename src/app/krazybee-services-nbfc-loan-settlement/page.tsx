@@ -33,7 +33,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'KrazyBee Services NBFC Loan Settlement: Legal Notice Defense & OTS Guide (2026)',
+  title: 'KrazyBee NBFC Loan Settlement | SettleLoans',
   description: 'Comprehensive legal and financial guide to KrazyBee Services NBFC loan settlement. Learn how to settle KreditBee personal loans, respond to Section 25 PSSA legal notices and arbitration summons, halt digital recovery harassment, and negotiate a 40% to 60% OTS debt haircut under RBI rules.',
   keywords: [
     'krazybee services legal notice settlement',

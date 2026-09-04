@@ -37,7 +37,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Against Property (LAP) Shortfall Settlement: Settle Residual Debt After Bank Auction (2026)',
+  title: 'Property Loan (LAP) Shortfall Settlement | SettleLoans',
   description: 'Bank auctioned your mortgaged property under SARFAESI and now demanding an unsecured shortfall? Learn how post-auction debt converts to unsecured claims, 3-year DRT limitation rules, and how advocates settle residual LAP debt.',
   keywords: [
     'loan against property shortfall settlement',

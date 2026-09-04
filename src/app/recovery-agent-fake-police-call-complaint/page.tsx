@@ -44,7 +44,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Recovery Agent Pretending to Be Police Officer? FIR, BNS/IPC Sections & RBI Rules',
+  title: 'Report Fake Police Calls from Recovery Agents | SettleLoans',
   description: 'Is a loan recovery agent posing as a police officer or Crime Branch inspector? Discover criminal offenses under Section 204 BNS / 170 IPC, RBI rules, and how to file an immediate FIR.',
   keywords: [
     'recovery agent pretending to be police officer',

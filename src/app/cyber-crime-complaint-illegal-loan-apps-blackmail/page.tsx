@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'How to File Cyber Crime Complaint Against Loan App | Blackmail Defense 2026',
+  title: 'Cyber Complaint for Loan App Blackmail | SettleLoans',
   description: 'Trapped by illegal 7-day loan apps or contact blackmail? Learn how to file a cyber crime complaint on cybercrime.gov.in, report numbers on Chakshu portal, invoke RBI digital lending rules, and stop morphed photo threats.',
   keywords: [
     'how to file cyber crime complaint against loan app',

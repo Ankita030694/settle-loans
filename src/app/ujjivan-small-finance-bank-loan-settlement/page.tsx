@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Ujjivan Small Finance Bank Loan Settlement: Process, OTS Rules & Haircut (2026)',
+  title: 'Ujjivan Bank Loan Settlement Guide | SettleLoans',
   description: 'Exhaustive legal guide to Ujjivan Small Finance Bank loan settlement. Settle unsecured personal loans, group micro-loans & MSE lines, stop recovery harassment under RBI rules, defend Sec 25 PSSA notices, and negotiate up to 60% OTS haircut.',
   keywords: [
     'ujjivan small finance bank loan settlement',

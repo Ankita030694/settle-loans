@@ -30,7 +30,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'SMA Account Classification & Loan Settlement Window: Settle Before 90-Day NPA (2026)',
+  title: 'SMA Account & Loan Settlement Window | SettleLoans',
   description: 'Understand RBI Special Mention Account (SMA) framework: SMA-0 (1-30 days), SMA-1 (31-60 days), and SMA-2 (61-90 days). Learn how borrowers can leverage the pre-90-day window to negotiate massive penalty waivers, restructuring, or compromise settlements before formal NPA classification and coercive legal recovery.',
   keywords: [
     'sma account classification loan settlement',

@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Abroad Education Loan Default Settlement Process: Shield Parents & Settle NBFC Debt in India (2026)',
+  title: 'Abroad Education Loan Default Options | SettleLoans',
   description: 'Defaulted on an abroad education loan from Avanse, InCred, Auxilo, or HDFC Credila? Learn how to legally protect Indian co-borrower parents, halt recovery agent harassment, and negotiate a cross-border One-Time Settlement (OTS).',
   keywords: [
     'abroad education loan default settlement india',

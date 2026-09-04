@@ -40,7 +40,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement for Non Earning Co Borrower & Housewives | SettleLoans',
+  title: 'Loan Settlement for Housewives & Co-Borrowers | SettleLoans',
   description: 'Protect non-earning co-borrowers and housewives from loan recovery harassment. Learn Section 60 CPC Stridhan protections, zero-asset defense, and OTS debt relief.',
   keywords: [
     'loan settlement for non earning co borrower',

@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement Advocates in Bhopal: Settle Debt (2026)',
+  title: 'Personal Loan Settlement in Bhopal | SettleLoans',
   description: 'Facing loan default in Bhopal? Consult expert personal loan settlement advocates in Bhopal to stop recovery harassment, defend Section 138/25 PSSA summons at Arera Hills District Court, represent at DLSA Lok Adalat, and secure 45%–65% RBI OTS debt waivers.',
   keywords: [
     'personal loan settlement advocates in bhopal',

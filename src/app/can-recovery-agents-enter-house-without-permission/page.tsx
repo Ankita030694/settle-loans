@@ -39,7 +39,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Can Recovery Agents Enter House Without Permission? Legal Rights & RBI Rules',
+  title: 'Can Recovery Agents Enter Your House? | SettleLoans',
   description: 'Can loan recovery agents enter your house without permission? Discover Section 329 BNS / Section 441 IPC criminal trespass laws, Puttaswamy privacy rights, RBI rules, and how to shut the door lawfully.',
   keywords: [
     'can recovery agents enter house without permission',

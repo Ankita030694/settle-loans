@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Equitas Small Finance Bank Loan Settlement: Process, OTS Rules & Haircut (2026)',
+  title: 'Equitas Bank Loan Settlement Guide | SettleLoans',
   description: 'Exhaustive legal guide to Equitas Small Finance Bank loan settlement. Settle unsecured personal and micro-business loans, stop NACH bounce charges, halt recovery agent harassment, defend Section 25 PSSA notices, and negotiate up to 60% OTS haircut under RBI guidelines.',
   keywords: [
     'equitas small finance bank loan settlement process',

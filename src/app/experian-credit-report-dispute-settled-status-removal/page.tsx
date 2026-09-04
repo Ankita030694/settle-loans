@@ -41,7 +41,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'How to Remove Settled Status from Experian Credit Report: Dispute Protocol & CICRA Legal Guide',
+  title: 'Remove Settled Status from Experian | SettleLoans',
   description: 'Learn how to remove settled status from Experian credit report in India. Step-by-step Experian dispute protocol, CICRA Act 2005 30-day mandate, RBI rules, and score recovery.',
   keywords: [
     'how to remove settled status from experian credit report',

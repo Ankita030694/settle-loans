@@ -30,7 +30,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'SBI Card Credit Card Settlement: OTS Rules, Gurugram Legal Defense & Lok Adalat Guide (2026)',
+  title: 'SBI Credit Card Settlement Guide | SettleLoans',
   description: 'Comprehensive guide to SBI Card credit card settlement in India. Learn how to settle SimplySAVE, SimplyCLICK, and Prime cards, defend Gurugram legal notices, secure 60%-70% Lok Adalat waivers, and obtain ₹0 NDC under RBI rules.',
   keywords: [
     'sbi credit card settlement process online',

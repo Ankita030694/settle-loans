@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'PostPe & BharatPe Credit Line Settlement: OTS Rules & Legal Defense (2026)',
+  title: 'PostPe & BharatPe Line Settlement | SettleLoans',
   description: 'Comprehensive guide to PostPe and BharatPe loan settlement. Learn how to settle retail and merchant credit lines, stop daily QR deductions & NACH bounce fees, halt WhatsApp harassment, defend partner NBFC legal notices, and negotiate 45%–65% OTS debt waivers under RBI rules.',
   keywords: [
     'postpe bharatpe loan default settlement',

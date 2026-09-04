@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Stashfin Loan Default Settlement Process: Akara Capital OTS & 60% Haircut (2026)',
+  title: 'Stashfin Loan Default Settlement Guide | SettleLoans',
   description: 'Comprehensive guide to Stashfin loan settlement and Akara Capital debt resolution. Learn how to halt late fee accumulation, stop recovery harassment, defend Section 25 PSSA advocate notices, and negotiate a 50% to 60% principal waiver under RBI rules.',
   keywords: [
     'stashfin loan settlement',

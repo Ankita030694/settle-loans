@@ -40,7 +40,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Unfair Contract Terms in Loan Agreements | Consumer Protection Act Sec 2(46)',
+  title: 'Unfair Bank Loan Agreement Terms | SettleLoans',
   description: 'Subject to unilateral penalty clauses or arbitrary interest hikes? Learn how Section 2(46) of the Consumer Protection Act 2019 declares abusive loan terms null and void.',
   keywords: [
     'unfair contract terms in loan agreement consumer protection act',

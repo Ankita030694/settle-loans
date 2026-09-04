@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Debt Settlement Advocates in Kanpur: Legal Defense & OTS (2026)',
+  title: 'Personal Loan Settlement in Kanpur | SettleLoans',
   description:
     'Facing loan default, recovery agent harassment, or court summons in Kanpur? Senior debt settlement advocates protect leather exporters, merchants, and workers with 40%–70% OTS waivers.',
   keywords: [

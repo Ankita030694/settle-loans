@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'IIFL Finance Loan Settlement: OTS Process, Gold Auction Shortfall & Haircut (2026)',
+  title: 'IIFL Finance Loan Settlement Guide | SettleLoans',
   description: 'Comprehensive guide to IIFL Finance loan settlement. Learn how to settle personal and business loans, resolve gold loan auction shortfall notices, stop recovery harassment, defend Section 25 PSSA summons, and negotiate up to 60% OTS haircut under RBI rules.',
   keywords: [
     'iifl personal loan settlement',

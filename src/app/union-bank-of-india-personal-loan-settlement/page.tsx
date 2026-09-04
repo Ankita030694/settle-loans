@@ -36,7 +36,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Union Bank of India Personal Loan Settlement: SAMB Process, RCC Limits & OTS Rules (2026)',
+  title: 'Union Bank Personal Loan Settlement | SettleLoans',
   description: 'Exhaustive guide to Union Bank of India personal loan settlement. Master UBI Stressed Asset Management Branch (SAMB) procedures, Regional Credit Committee (RCC) limits, Special Lok Adalat OTS, and negotiate up to 60% haircut under RBI rules.',
   keywords: [
     'union bank of india loan settlement process',

@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'L&T Finance Personal Loan Settlement: OTS Rules, Haircut Matrix & Legal Defense (2026)',
+  title: 'L&T Finance Personal Loan Settlement | SettleLoans',
   description: 'Comprehensive guide to L&T Finance personal loan settlement. Learn how to negotiate One-Time Settlements (OTS), stop repeated NACH bounce fees, halt recovery harassment across urban and rural borrowers, defend Section 25 PSSA and arbitration notices, and secure up to 60% debt haircuts under RBI rules.',
   keywords: [
     'lt finance personal loan settlement',

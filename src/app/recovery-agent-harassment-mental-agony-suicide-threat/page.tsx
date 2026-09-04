@@ -39,7 +39,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Recovery Agent Harassment Causing Mental Agony & Despair | Legal Protection',
+  title: 'Stop Recovery Agent Mental Harassment | SettleLoans',
   description: 'Suffering from recovery agent harassment causing depression, panic attacks, or despair? Discover Section 108 BNS / Section 306 IPC abetment protections, crisis helplines, and 24h advocate defense.',
   keywords: [
     'recovery agent harassment causing depression and mental agony',

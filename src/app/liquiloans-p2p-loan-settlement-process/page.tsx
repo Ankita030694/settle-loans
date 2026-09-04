@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'LiquiLoans Settlement Process: NDX P2P Loan Relief & Legal Defense (2026)',
+  title: 'LiquiLoans P2P Loan Settlement | SettleLoans',
   description: 'Comprehensive legal guide to LiquiLoans (NDX P2P) loan settlement. Learn how to settle zero-cost EMI, healthcare, and EdTech loans, stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA notices, and negotiate 40%–60% debt haircuts under RBI rules.',
   keywords: [
     'liquiloans settlement process',

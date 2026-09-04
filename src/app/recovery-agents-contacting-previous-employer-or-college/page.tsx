@@ -40,7 +40,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Recovery Agents Calling Previous Employer or College? DPDP Act & Legal Rights',
+  title: 'Stop Recovery Calls to Employers & Colleges | SettleLoans',
   description: 'Are recovery agents contacting your former employer, past colleagues, or college professors? Discover illegal scraping violations under DPDP Act 2023, RBI bans, and legal remedies.',
   keywords: [
     'recovery agents calling previous employer or college',

@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'HDFC Credila Loan Settlement Process: OTS Rules, Moratorium Interest & Haircut (2026)',
+  title: 'HDFC Credila Education Loan Settlement | SettleLoans',
   description: 'Comprehensive guide to HDFC Credila education loan settlement. Learn how to settle student loans, eliminate compounded moratorium interest, protect co-borrowers, halt recovery harassment, and negotiate up to 60% OTS haircut under RBI rules.',
   keywords: [
     'hdfc credila loan settlement process',

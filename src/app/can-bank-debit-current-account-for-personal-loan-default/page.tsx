@@ -41,7 +41,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Can Bank Freeze Current Account for Personal Loan Default? Legal Entity Protection & Unfreeze Guide',
+  title: 'Can Bank Debit Current Account for Loan? | SettleLoans',
   description: 'Can a bank debit or freeze your business current account for a personal loan default? Understand legal entity separation (Proprietorship vs Partnership vs Pvt Ltd), Doctrine of Mutuality, High Court stays, and advocate unfreezing protocols.',
   keywords: [
     'can bank freeze current account for personal loan default',

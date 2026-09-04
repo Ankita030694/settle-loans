@@ -36,7 +36,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Lawyer in Vizag Visakhapatnam: Legal Notice Defense & OTS Haircut (2026)',
+  title: 'Personal Loan Settlement in Vizag | SettleLoans',
   description: 'Top loan settlement lawyer in Vizag Visakhapatnam. Defend against Section 138/25 notices in Vizag District Court, stop recovery harassment, protect port & PSU salaries, and secure 40%–65% OTS waivers.',
   keywords: [
     'loan settlement lawyer in vizag visakhapatnam',

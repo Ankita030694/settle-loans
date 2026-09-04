@@ -41,7 +41,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Can Bank Freeze Family Member Account for Loan Default? Legal Rights & Protection Guide',
+  title: 'Can Recovery Agents Freeze Family Accounts? | SettleLoans',
   description: 'Can a bank or recovery agent freeze your family member bank account for personal loan default? Discover the legal truth under Indian contract law, PAN separation, and RBI rules.',
   keywords: [
     'can bank freeze family members account for loan default',

@@ -34,7 +34,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'American Express Credit Card Settlement: Amex OTS Rules & Legal Defense (2026)',
+  title: 'Amex Credit Card Settlement in India | SettleLoans',
   description: 'Comprehensive guide to American Express (Amex) credit card settlement in India. Learn how to settle Platinum and Gold cards, halt 42%-52% APR interest, defend Gurugram legal notices, and negotiate up to 60% OTS haircut under RBI rules.',
   keywords: [
     'american express credit card settlement process india',

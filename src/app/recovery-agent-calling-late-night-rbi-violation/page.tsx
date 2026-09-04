@@ -44,7 +44,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Recovery Agents Calling Before 8 AM or After 7 PM? RBI Rules & Injunction Guide',
+  title: 'Late Night Recovery Calls RBI Rules | SettleLoans',
   description: 'Are bank recovery agents calling before 8:00 AM or after 7:00 PM? Learn strict RBI operating hours, sleep deprivation legal protections, Banking Ombudsman restraining orders, and 55% OTS solutions.',
   keywords: [
     'recovery agents calling before 8am or after 7pm',

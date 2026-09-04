@@ -40,7 +40,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Recovery Agent Sitting Outside House Refusing to Leave? Police 112 Protocol & Legal Eviction Guide',
+  title: "What to Do If Recovery Agents Won't Leave | SettleLoans",
   description: 'Recovery agent staging a dharna outside your house, sitting on stairs, or refusing to leave? Follow our emergency 112 police protocol, DD entry guide for public nuisance, and RWA eviction remedies.',
   keywords: [
     'recovery agent sitting outside house refusing to leave',

@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement Advocates in Trivandrum | Legal Defense & OTS',
+  title: 'Personal Loan Settlement in Trivandrum | SettleLoans',
   description:
     'Confidential debt defense & personal loan settlement advocates in Trivandrum. Protecting Technopark IT professionals & govt employees in Vanchiyoor court with 40%–70% OTS waivers.',
   keywords: [

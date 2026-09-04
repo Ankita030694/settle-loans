@@ -39,7 +39,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Recovery Agent Misbehaving with Female Borrower? Legal Action & RBI Rules',
+  title: 'Action Against Recovery Agents Misbehaving | SettleLoans',
   description: 'Are male recovery agents harassing, shouting at, or intimidating a female borrower or housewife? Learn mandatory RBI female staff rules, Section 74/75 BNS, NCW escalation, and legal remedies.',
   keywords: [
     'recovery agent misbehaving with female borrower',

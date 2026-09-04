@@ -39,7 +39,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Can Recovery Agents Seize Household Furniture or Gold? Legal Rights & RBI Rules',
+  title: 'Can Agents Take Furniture or Gold? | SettleLoans',
   description: 'Can recovery agents seize household items, furniture, or gold for personal loan default? Discover Section 60 CPC protections, RBI rules against harassment, and legal steps to stop asset threats.',
   keywords: [
     'can recovery agent seize household items for personal loan',

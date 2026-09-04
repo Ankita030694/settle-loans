@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement Advocates in Meerut: Legal Defense & OTS (2026)',
+  title: 'Personal Loan Settlement in Meerut | SettleLoans',
   description:
     'Facing loan default, recovery harassment, or court notices in Meerut or Ghaziabad? Senior debt settlement advocates protect sports goods MSMEs, real estate traders, and salaried professionals with 40%–70% OTS waivers.',
   keywords: [

@@ -43,7 +43,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Recovery Agents Harassing Neighbours & Landlord? Legal Rights, Privacy Laws & Defamation Remedies',
+  title: 'Stop Recovery Agents Contacting Neighbours | SettleLoans',
   description: 'Are bank recovery agents harassing your neighbours, building guards, or landlord? Learn Supreme Court privacy protections, Section 356 BNS defamation laws, and society trespass remedies.',
   keywords: [
     'recovery agent harassing neighbours and landlord',

@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'AU Small Finance Bank Loan Settlement: SARB Rules, Legal Defense & Haircut (2026)',
+  title: 'AU Small Finance Bank Settlement | SettleLoans',
   description: 'Master guide to AU Small Finance Bank personal and business loan settlement. Learn how to negotiate directly with AU Bank\'s SARB, halt recovery harassment, defend Section 25 PSSA and arbitration notices, and secure up to 55% OTS haircut under RBI guidelines.',
   keywords: [
     'au small finance bank personal loan settlement',

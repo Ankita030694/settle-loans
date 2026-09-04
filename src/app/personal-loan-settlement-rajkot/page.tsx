@@ -28,7 +28,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Services in Rajkot: Settle Personal & MSME Debt (2026)',
+  title: 'Personal Loan Settlement in Rajkot | SettleLoans',
   description: 'Expert loan settlement services in Rajkot for MSME owners, foundry operators, and individuals. Resolve unsecured personal and business loans with 40%–70% legal waiver.',
   keywords: [
     'loan settlement services in rajkot',

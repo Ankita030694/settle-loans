@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Company in Coimbatore: Legal Debt Relief & OTS | SettleLoans',
+  title: 'Personal Loan Settlement in Coimbatore | SettleLoans',
   description: 'Looking for a trusted loan settlement company in Coimbatore, Tirupur, or Salem? SettleLoans provides advocate-led debt relief, bank OTS negotiation, and RBI legal protection.',
   keywords: [
     'loan settlement company in coimbatore',

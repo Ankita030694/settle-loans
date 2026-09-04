@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'MobiKwik ZIP Settlement: Settle Default, Waive Late Fees & CIBIL Fix (2026)',
+  title: 'MobiKwik Zip Pay Later Settlement | SettleLoans',
   description: 'Trapped by ballooning MobiKwik ZIP Pay Later late fees? Learn how to settle defaulted ₹10,000–₹60,000 ZIP credit lines, waive 100% penalties, halt recovery harassment, and resolve active CIBIL defaults under RBI rules.',
   keywords: [
     'mobikwik zip pay later default settlement',

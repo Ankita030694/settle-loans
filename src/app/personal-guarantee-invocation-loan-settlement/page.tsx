@@ -40,7 +40,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Personal Guarantee Invocation for Business Loan Settlement: Legal Defenses & Promoter OTS Guide (2026)',
+  title: 'Personal Guarantee Invocation Rules | SettleLoans',
   description: 'Facing personal guarantee invocation for a defaulted business loan? Learn Section 128 Indian Contract Act defenses, Section 133-139 surety discharge rules, DRT & IBC strategies, and advocate-led OTS blueprints to protect promoter personal assets.',
   keywords: [
     'personal guarantee invocation for business loan settlement',

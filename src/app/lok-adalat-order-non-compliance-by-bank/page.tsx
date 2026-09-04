@@ -41,7 +41,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'What to Do If Bank Does Not Follow Lok Adalat Settlement Order? Section 21 LSA Act Execution Guide',
+  title: 'Lok Adalat Order Non-Compliance by Bank | SettleLoans',
   description: 'Bank refusing to issue NDC or update CIBIL after Lok Adalat settlement? Learn how to execute a Lok Adalat Award as a Civil Court Decree under Section 21 LSA Act and Order 21 CPC.',
   keywords: [
     'what to do if bank does not follow lok adalat settlement',

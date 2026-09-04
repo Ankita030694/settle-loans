@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement Lawyer in Nagpur: Legal Defense & Lok Adalat OTS (2026)',
+  title: 'Personal Loan Settlement in Nagpur | SettleLoans',
   description:
     'Consult an expert personal loan settlement lawyer in Nagpur. Defend against recovery harassment, JMFC Nyay Mandir court notices, and negotiate 40%–70% OTS debt waivers under RBI rules.',
   keywords: [

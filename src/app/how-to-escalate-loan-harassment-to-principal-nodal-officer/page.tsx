@@ -41,7 +41,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'How to Escalate Bank Loan Harassment to Principal Nodal Officer (PNO) | RBI Grievance & Collection Freeze Guide',
+  title: 'Escalate Loan Harassment to Nodal Officer | SettleLoans',
   description: 'Suffering bank recovery agent harassment? Learn how to bypass local branch managers and file formal statutory representations directly with the bank’s Principal Nodal Officer (PNO) under RBI Internal Ombudsman guidelines to freeze collection actions and secure a 50%–70% OTS settlement.',
   keywords: [
     'bank principal nodal officer complaint loan harassment',

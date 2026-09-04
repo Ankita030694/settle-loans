@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Recovery Agents Seizing Vehicle by Force on Road: Supreme Court Ban & Police Retrieval Guide',
+  title: 'Illegal Vehicle Repossession Rules | SettleLoans',
   description: 'Bike, car, or commercial vehicle snatched on the road by recovery agents? Learn why Supreme Court rulings deem street repossessions illegal extortion and how to retrieve your vehicle with police intervention.',
   keywords: [
     'recovery agents seizing vehicle by force on road',

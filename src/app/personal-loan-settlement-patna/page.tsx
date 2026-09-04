@@ -29,7 +29,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Loan Settlement Services in Patna Bihar | Top Debt Relief Lawyers',
+  title: 'Personal Loan Settlement in Patna | SettleLoans',
   description: 'Expert loan settlement services in Patna, Bihar. Professional legal defense against PSU bank SARB notices, microfinance recovery harassment, and Lok Adalat OTS.',
   keywords: [
     'loan settlement services in patna bihar',
