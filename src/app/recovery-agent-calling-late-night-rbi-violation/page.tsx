@@ -659,7 +659,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 4: Bank NPA Accounting & NPV Recovery Formula */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Realities</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting &amp; Night Calling Violations</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why collection agencies turn aggressive and how borrowers can decisively defeat them, one must examine the balance sheet pressures governing Indian commercial banking. Under RBI prudential norms, when an unsecured personal loan, business loan, or credit card remains unpaid for 90 consecutive days, the account is classified as a <strong>Non-Performing Asset (NPA)</strong>.
               </p>
@@ -866,7 +866,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 9: Comparative Matrix */}
             <section id="comparative-recovery-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Night Calling Legal Defense Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To assist borrowers in distinguishing between lawful recovery communications and actionable statutory violations, the table below provides a comprehensive side-by-side legal comparison:
               </p>
@@ -925,7 +925,7 @@ export default function RecoveryAgentCallingLateNightPage() {
 
             {/* Section 10: SettleLoans Defense Advisory */}
             <section id="settleloans-defense-advisory" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Night Harassment Legal Defense</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 At <strong>SettleLoans</strong>, we believe that defaulting on a civil monetary loan due to legitimate financial adversity is never a crime. No citizen of India should ever endure sleep deprivation, domestic humiliation, or predatory late-night harassment at the hands of unmonitored collection agencies.
               </p>

@@ -558,7 +558,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 2: Supreme Court Privacy Jurisprudence & RBI Directives */}
             <section id="supreme-court-privacy-rbi-mandates" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Privacy &amp; Anti-Defamation Protections</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Indian jurisprudence and Reserve Bank of India regulatory frameworks explicitly prohibit commercial lenders from using public shaming, third-party disclosures, or residential intimidation as collection strategies. A multi-tiered legislative and regulatory structure shields borrowers from intrusive recovery practices:
               </p>
@@ -664,7 +664,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 4: Bank Balance Sheet Dynamics & The NPV Recovery Equation */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Dynamics</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Provisioning &amp; Social Shaming Risks</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To dismantle residential recovery harassment, borrowers must understand the commercial incentives operating within the banking system. Major banks and NBFCs rarely dispatch full-time branch managers to visit residential societies. When an unsecured personal loan or credit card becomes delinquent past 60 to 90 days, the file is handed over to third-party Direct Recovery Agencies (DRAs) working on aggressive contingency commissions of 15% to 25%.
               </p>
@@ -736,7 +736,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="residential-harassment-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Strategic Roadmap</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Neighbour Harassment Defense Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The strategic roadmap below illustrates the structured 5-stage institutional legal workflow deployed by senior banking defense advocates to halt neighbour and landlord harassment, invoke constitutional privacy protections, and conclude an official debt compromise.
               </p>
@@ -859,7 +859,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC for Harassed Borrowers</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers dealing with aggressive recovery agencies must exercise extreme caution during settlement execution. Rogue collectors frequently fabricate unauthorized settlement letters on WhatsApp or make false verbal promises to collect partial cash payments. A borrower must never transfer funds until the sanction letter is forensically authenticated by legal counsel.
               </p>
@@ -897,7 +897,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
 
             {/* Section 9: Comparative Legal Defense Matrix */}
             <section id="comparative-legal-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Legal Defense Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Neighbour Defamation Legal Defense Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the legal remedies available to borrowers allows you to select the most effective strategy to protect your dignity, safeguard your tenancy, and resolve your outstanding debt:
               </p>
@@ -950,7 +950,7 @@ export default function RecoveryAgentsTalkingToNeighboursLandlordPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense for Privacy Violations</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Confronting illegal residential debt recovery requires experienced banking litigation advocates who understand how to enforce RBI Master Directions, invoke Supreme Court privacy protections, and draft hard-hitting criminal defamation notices. SettleLoans provides end-to-end legal defense for borrowers across India: issuing emergency cease-and-desist notices to bank management, filing formal complaints with the RBI Banking Ombudsman, reassuring your landlord, and negotiating directly with bank zonal authorities to secure 45% to 65% principal haircuts backed by official, bank-stamped No Dues Certificates.
                 </p>

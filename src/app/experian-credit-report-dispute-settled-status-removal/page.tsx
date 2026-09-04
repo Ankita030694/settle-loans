@@ -559,7 +559,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 2: Statutory Legal Grounding: CICRA Act 2005 & RBI Compensation Framework */}
             <section id="statutory-dispute-rights-cicra-2005" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Grounding</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Grounding for Experian Disputes</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The rights of borrowers regarding credit reporting accuracy are firmly codified under parliamentary legislation and Reserve Bank of India prudential directives. The primary statutory framework governing all credit information bureaus is the <strong>Credit Information Companies (Regulation) Act, 2005 (CICRA)</strong>, read alongside the Credit Information Companies Rules, 2006, and the Credit Information Companies Regulations, 2006.
               </p>
@@ -728,7 +728,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="experian-dispute-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Experian Credit Report Dispute</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Experian Credit Dispute Strategic Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below illustrates the structured 5-stage institutional progression from executing a loan settlement and acquiring an official No Dues Certificate to conducting a multi-bureau audit, lodging an Experian ERN dispute under the CICRA Act 2005, enforcing the 30-day lender verification loop, and achieving complete status rectification to Closed with a 750+ score rebuild.
               </p>
@@ -762,7 +762,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 6: The Step-by-Step Experian India Online & Legal Dispute Protocol */}
             <section id="step-by-step-experian-dispute-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. The Step-by-Step Experian India Online</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Step-by-Step Experian India Dispute Protocol</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Rectifying an erroneous or outdated credit entry on Experian India requires precision, complete documentary backing, and adherence to official dispute channels. Following unverified online advice or calling general customer care lines will produce zero results, as consumer support agents lack administrative authority to modify database tables without formal member bank verification. Instead, borrowers must execute the official 4-stage Experian dispute protocol:
               </p>
@@ -855,7 +855,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC for Experian</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A common pitfall encountered by distressed borrowers is relying on unauthorized settlement letters or verbal assurances provided by outsourced collection agencies. Unscrupulous recovery agents routinely fabricate fraudulent settlement slips to collect funds, which are subsequently credited as routine overdue payments rather than a formal compromise settlement. Disbursing funds under an unverified settlement letter ensures that your Experian credit report will continue reflecting an active default.
               </p>
@@ -893,7 +893,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
 
             {/* Section 9: Comparative Matrix: Experian Dispute Resolution Pathways */}
             <section id="comparative-matrix-dispute-pathways" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Experian Credit Report Dispute Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the various dispute and rectification mechanisms available under Indian banking and consumer laws allows borrowers to choose the optimal legal strategy based on their specific situation:
               </p>
@@ -911,32 +911,32 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-semibold text-slate-900">Experian Online Consumer Portal</td>
-                      <td>Section 21 CICRA Act 2005 (30-Day Rule)</td>
-                      <td>21 – 30 Calendar Days</td>
-                      <td>Written-Off updated to Settled / ₹0 Balance</td>
-                      <td>Direct statutory bureau verification loop</td>
+                      <td className="font-semibold text-slate-900">Direct Experian ERN Online Dispute</td>
+                      <td>Section 21 CICRA Act 2005</td>
+                      <td>30 Calendar Days</td>
+                      <td>Status Updated / Corrected to ₹0</td>
+                      <td>Binding Statutory Mandate</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Advocate Demand Notice to Bank PNO</td>
-                      <td>CICRA 2005 &amp; RBI Fair Practices Code</td>
-                      <td>10 – 15 Working Days</td>
-                      <td>Bank transmits corrected member XML data file</td>
-                      <td>Formal pre-litigation legal notice with penalty warning</td>
+                      <td className="font-semibold text-slate-900">Advocate Legal Notice to Nodal Officer</td>
+                      <td>CICRA 2005 &amp; Consumer Protection 2019</td>
+                      <td>15 Calendar Days</td>
+                      <td>Expedited Member File Submission</td>
+                      <td>Pre-Litigation Legal Instrument</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">RBI Banking Ombudsman (CMS)</td>
-                      <td>RBI Integrated Ombudsman Scheme 2021</td>
-                      <td>30 – 45 Calendar Days</td>
-                      <td>Enforced bureau update + ₹100/day compensation</td>
-                      <td>Binding regulatory award backed by RBI penal powers</td>
+                      <td className="font-semibold text-slate-900">RBI Integrated Ombudsman Escalation</td>
+                      <td>RBI Circular RBI/2023-24/72</td>
+                      <td>30 – 45 Days</td>
+                      <td>Compelled Rectification + ₹100/Day Award</td>
+                      <td>Statutory Regulatory Award</td>
                     </tr>
                     <tr>
-                      <td className="font-semibold text-slate-900">Post-Settlement Shortfall Closure</td>
-                      <td>Consensual Commercial Settlement Addendum</td>
-                      <td>15 – 30 Calendar Days</td>
-                      <td>Status upgraded from &quot;Settled&quot; to &quot;Closed&quot;</td>
-                      <td>Absolute credit restoration with zero historical default flags</td>
+                      <td className="font-semibold text-slate-900">Post-Settlement Closure Agreement</td>
+                      <td>RBI Prudential Compromise Framework</td>
+                      <td>20 – 30 Days</td>
+                      <td>Converted from Settled to &quot;Closed&quot;</td>
+                      <td>Bilateral Contractual Discharge</td>
                     </tr>
                   </tbody>
                 </table>
@@ -960,7 +960,7 @@ export default function ExperianDisputeSettledStatusRemovalPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Experian Credit Report Dispute</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Experian Credit Report Disputes</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Direct, legally verified answers to critical questions regarding Experian India credit dispute procedures, CICRA 2005 turnaround mandates, and credit score rehabilitation.

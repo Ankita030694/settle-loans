@@ -921,7 +921,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Forensics</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SBI Card OTS Sanction Letter Forensics</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The most perilous hazard in credit card debt resolution is remitting settlement funds based on verbal assurances or fraudulent discount letters fabricated by unauthorized external collection agencies. Third-party collection agents often pocket borrower funds or classify payments as partial installments, leaving the remaining ledger balance active and accumulating compounding finance charges.
               </p>
@@ -945,7 +945,7 @@ export default function SBICardCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Trajectory &amp; Score Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CIBIL Recovery &amp; Score Rebuilding</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">SBI Card CIBIL Recovery &amp; Credit Rebuilding</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Understanding the credit bureau impact of a One-Time Settlement is essential for long-term financial rehabilitation. When SBI Cards &amp; Payment Services concludes a compromise settlement, it updates Credit Information Companies (CIBIL, Experian, Equifax, and CRIF High Mark) reflecting the account status as &apos;Settled&apos; or &apos;Post-Write-off Settled&apos; with a current outstanding balance of ₹0.
               </p>

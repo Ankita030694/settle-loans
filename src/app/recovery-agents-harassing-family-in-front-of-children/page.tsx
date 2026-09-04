@@ -668,7 +668,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 4: Bank Accounting, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Dynamics</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting &amp; Family Harassment Risks</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To counter residential recovery harassment with confidence, borrowers must understand the commercial incentives motivating third-party recovery agencies. Commercial banks and NBFCs in India do not typically deploy direct bank branch managers to visit homes. Instead, when an unsecured personal loan or credit card account enters 60 to 90 days of default, the debt file is outsourced to external Direct Recovery Agencies (DRAs) working on high-risk, high-reward commission models ranging from 12% to 30% of recovered capital.
               </p>
@@ -740,7 +740,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="family-protection-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Strategic Roadmap</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Child Protection Legal Defense Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual strategic roadmap below details the structured 5-stage legal defense workflow deployed by banking defense advocates to protect families from residential harassment, enforce statutory child protections under the Juvenile Justice Act, lodge emergency police complaints, and negotiate an official compromise debt resolution.
               </p>
@@ -901,7 +901,7 @@ export default function RecoveryAgentsHarassingFamilyInFrontOfChildrenPage() {
 
             {/* Section 9: Comparative Legal Defense Matrix */}
             <section id="comparative-legal-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Family Harassment Legal Defense Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding the legal avenues available to families facing residential debt harassment enables you to choose the most effective strategy to safeguard your home, protect your children, and resolve your outstanding debt:
               </p>

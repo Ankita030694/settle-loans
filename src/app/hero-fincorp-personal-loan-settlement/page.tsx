@@ -849,7 +849,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Navigating Sec 25 PSSA &amp; Lok Adalat</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Navigating Hero Fincorp Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 When a loan reaches 60 to 90 days of default, Hero FinCorp routinely issues statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for bounced NACH debits, or notices initiating sole arbitration. A Section 25 notice is a statutory demand, not an arrest warrant. Replying within 15 days demonstrating financial hardship preserves legal rights and establishes groundwork for compromise.
               </p>
@@ -923,7 +923,7 @@ export default function HeroFincorpPersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Post-Settlement CIBIL Score Recovery</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-3 leading-tight">Hero Fincorp Post-Settlement CIBIL Score Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-3 text-sm sm:text-base">
                 Following an OTS, Hero FinCorp updates credit bureaus with the status <strong>&apos;Settled&apos;</strong> and an outstanding balance of <strong>₹0</strong>. While credit scores drop by 75–150 points initially, this terminates active compounding default marks and eliminates ongoing litigation risk.
               </p>

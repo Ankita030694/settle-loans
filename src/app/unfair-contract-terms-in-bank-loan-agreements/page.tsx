@@ -541,7 +541,7 @@ export default function UnfairContractTermsLoanAgreementsPage() {
 
             {/* Section 2: Statutory Framework CPA Sec 2(46) & Precedents */}
             <section id="statutory-framework-cpa-sec-2-46" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Framework</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Laws Against Unfair Loan Terms</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Prior to 2019, aggrieved borrowers had to rely on general principles under Section 23 of the Indian Contract Act, 1872, asserting that unconscionable clauses were contrary to public policy—a standard that required lengthy and expensive civil litigation. The <strong>Consumer Protection Act, 2019 (CPA 2019)</strong> introduced <strong>Section 2(46)</strong>, providing an explicit, codified statutory definition of an &apos;unfair contract&apos; for the first time in Indian statutory history.
               </p>

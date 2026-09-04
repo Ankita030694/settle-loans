@@ -634,7 +634,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
 
             {/* Section 4: Bank Accounting Economics & NPV Formula */}
             <section id="bank-accounting-economics-pre-npa-provisioning" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Economics</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank SMA Accounting &amp; Balance Sheet Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why commercial banks are willing to grant substantial waivers during the SMA-2 phase, one must examine the severe financial penalties imposed on banks by the RBI upon NPA classification. Under RBI Master Directions on Income Recognition and Asset Classification (IRAC) norms, the moment an account crosses Day 90:
               </p>
@@ -784,7 +784,7 @@ export default function SmaAccountClassificationLoanSettlementWindowPage() {
 
             {/* Section 7: Forensic Verification of Sanctions */}
             <section id="forensic-verification-pre-npa-settlement-sanctions" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Forensic Checklist</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. SMA Settlement Forensic Sanction Checklist</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A dangerous hazard during the SMA-1 and SMA-2 stages involves unofficial or deceptive settlement representations made by outsourced recovery agencies. Under severe pressure to hit monthly collection targets, third-party recovery agents frequently send WhatsApp messages, unofficial emails, or verbal assurances promising that paying a partial token amount will &quot;settle&quot; the account.
               </p>

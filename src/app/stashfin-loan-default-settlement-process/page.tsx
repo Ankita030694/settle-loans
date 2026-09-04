@@ -809,7 +809,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Roadmap</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Stashfin Settlement Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Achieving a maximum-discount One-Time Settlement with Akara Capital requires an evidence-based roadmap:
               </p>
@@ -889,7 +889,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Sec 25 PSSA &amp; Lok Adalat</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Stashfin Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Section 25 PSSA demand notices for bounced NACH debits are statutory precursors to Magistrate Court complaints, not arrest warrants. Responding through counsel within 15 days detailing financial hardship protects your legal standing and facilitates compromise discussions.
               </p>
@@ -963,7 +963,7 @@ export default function StashfinLoanDefaultSettlementProcessPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Trajectory &amp; 18-Month Credit Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Recovery</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stashfin Post-Settlement CIBIL Score Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a Stashfin loan updates credit bureau records to <strong>&apos;Settled&apos;</strong> with a <strong>₹0 balance</strong>. While this brings an initial score drop of 70 to 130 points, it halts compounding monthly defaults.
               </p>

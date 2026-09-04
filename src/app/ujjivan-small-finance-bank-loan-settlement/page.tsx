@@ -898,7 +898,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Sec 25 PSSA &amp; Lok Adalat</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Ujjivan Bank Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Ujjivan SFB frequently serves statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates, or Section 138 NI Act for bounced cheques. These are compoundable quasi-criminal notices, not arrest warrants. Issuing a formal legal reply within 15 days citing genuine hardship establishes conciliation channels for OTS.
               </p>
@@ -972,7 +972,7 @@ export default function UjjivanSmallFinanceBankLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery (18M)</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Ujjivan Bank Post-Settlement CIBIL Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Post-settlement, Ujjivan SFB updates credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> and an outstanding balance of <strong>₹0</strong>. While causing an initial temporary dip, it stops active default degradation and eliminates legal risk.
               </p>

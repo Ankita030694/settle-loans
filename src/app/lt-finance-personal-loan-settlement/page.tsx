@@ -808,7 +808,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with L&amp;T</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step L&amp;T Finance Settlement Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally protected One-Time Settlement with L&amp;T Finance follows a structured six-phase roadmap:
               </p>
@@ -888,7 +888,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Sec 25 PSSA &amp; Lok Adalat</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating L&amp;T Finance Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) require a formal response within 15 days to set out financial hardship and contest unauthorized mandate presentations. Under Supreme Court precedents (<em>Perkins Eastman</em> and <em>TRF Ltd.</em>), unilateral sole arbitrator appointments by lenders without mutual consent are legally invalid and can be challenged under Sections 12 and 14 of the Arbitration Act.
               </p>
@@ -947,7 +947,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating L&amp;T Finance Settlement Letters</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating L&amp;T Finance OTS Sanction Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never deposit settlement funds based on verbal promises or unofficial messages. Borrowers must ensure the OTS sanction letter is printed on official L&amp;T Finance Limited letterhead bearing its Corporate Identification Number (CIN: L65910MH2008PLC182224), registered Mumbai office address, proposal reference number, authorized signatory name, and official company stamp.
               </p>
@@ -962,7 +962,7 @@ export default function LTFinancePersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Trajectory &amp; Rehabilitation Plan</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Trajectory</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">L&amp;T Finance Post-Settlement CIBIL Trajectory</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling an L&amp;T Finance loan reports the status as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong> across TransUnion CIBIL, Experian, Equifax, and CRIF High Mark. While an initial score dip of 75 to 150 points occurs, it permanently stops compounding default damage.
               </p>

@@ -537,7 +537,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
             <section id="statutory-protections-surety-discharge" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Scale className="w-6 h-6 text-[#1F5EFF]" />
-                <span>2. Statutory Protections</span>
+                <span>2. Statutory Protections for Personal Guarantors</span>
               </h2>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
@@ -750,7 +750,7 @@ export default function PersonalGuaranteeInvocationLoanSettlementPage() {
             <section id="guarantee-defense-comparative-matrix" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2 border-b border-slate-200 pb-3">
                 <Layers className="w-6 h-6 text-[#1F5EFF]" />
-                <span>9. Comparative Debt Resolution Matrix</span>
+                <span>9. Personal Guarantee Resolution Matrix</span>
               </h2>
 
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">

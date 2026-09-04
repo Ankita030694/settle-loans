@@ -554,7 +554,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* Section 2: RBI Directives & Mandatory Female Staff Rule */}
             <section id="rbi-mandates-female-agent-rule" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Master Directions</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Protections for Women Borrowers</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India (RBI) has enacted detailed regulatory frameworks governing the code of conduct for commercial banks, Non-Banking Financial Companies (NBFCs), and their outsourced Direct Recovery Agencies (DRAs). Central to these regulations are clear restrictions designed to protect the dignity, privacy, and safety of female borrowers.
               </p>
@@ -606,7 +606,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* Section 3: Criminal Law Protections: Sections 74, 75 & 79 BNS (IPC 354 & 509) */}
             <section id="bns-ipc-criminal-protections" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Law Protections</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Criminal Law Protections for Women</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Misbehavior by recovery agents toward female borrowers transcends civil banking disputes and directly enters the realm of substantive criminal offenses. Under the <strong>Bharatiya Nyaya Sanhita (BNS), 2023</strong> (and corresponding sections of the Indian Penal Code, 1860), Indian criminal jurisprudence provides powerful statutory weapons against debt collectors who demean, threaten, or intimidate women:
               </p>
@@ -657,7 +657,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* Section 4: Bank Accounting Dynamics, NPA Delinquency & NPV Recovery Formula */}
             <section id="npa-accounting-npv-recovery-equation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Mechanics</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Provisions &amp; Harassment Liabilities</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To counter recovery agent harassment effectively, female borrowers and their families must understand the financial drivers behind collection agency behavior. Regulated commercial banks and NBFCs operate under strict Reserve Bank of India prudential provisioning norms. When an unsecured personal loan or credit card default crosses 90 days, the loan is classified as a <strong>Non-Performing Asset (NPA)</strong>, forcing the bank to lock away capital in regulatory provisions:
               </p>
@@ -726,7 +726,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="legal-protection-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Strategic Roadmap</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Women Legal Defense Strategic Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comprehensive infographic roadmap below details the exact 5-stage institutional workflow deployed by seasoned banking litigation advocates to halt unlawful recovery agent conduct, initiate criminal and NCW escalation, and secure an official compromise debt resolution.
               </p>
@@ -799,7 +799,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* Section 7: Converting Harassment into 45%–65% One-Time Settlement (OTS) */}
             <section id="transforming-harassment-into-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Converting Harassment into an Affordable 45%–65% One-Time</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Negotiating a 45%–65% Settlement on Harassment</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Recovery agent harassment is conclusive evidence that the lending institution is unable to recover funds through lawful judicial channels and is utilizing intimidation out of desperation. By documenting these violations through legal counsel, you convert an agonizing harassment ordeal into substantial leverage to negotiate a formal <strong>One-Time Settlement (OTS)</strong>.
               </p>
@@ -849,7 +849,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* Section 8: Sanction Letter Forensics, Direct Remittance & RBI NDC Mandate */}
             <section id="sanction-letter-forensics-rbi-ndc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC for Women Borrowers</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When concluding a loan settlement, female borrowers must exercise utmost diligence to avoid falling victim to settlement fraud. Rogue collection agents often generate fake settlement letters on WhatsApp or promise verbal closures to meet monthly recovery quotas. A borrower must never transfer funds until the sanction letter is verified by legal counsel.
               </p>
@@ -887,7 +887,7 @@ export default function RecoveryAgentMisbehavingWithWomenPage() {
 
             {/* Section 9: Comparative Protection Matrix */}
             <section id="comparative-legal-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Protection Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Women Borrower Legal Defense Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the legal remedies available to female borrowers and families facing aggressive collection tactics highlights the power of formal legal intervention:
               </p>

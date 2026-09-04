@@ -866,7 +866,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 PSSA, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending MoneyTap Sec 25 PSSA &amp; Arbitration</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 As defaults exceed 90 to 120 days, lenders initiate automated legal proceedings. Understanding your legal defense protects against panic:
               </p>
@@ -887,7 +887,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Forensics</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MoneyTap OTS Sanction Letter Forensics</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay against verbal offers or unofficial settlement letters from collection agents. Payments made without authorized documentation are routinely credited against penal interest rather than closing the loan.
               </p>
@@ -917,7 +917,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery (18M)</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MoneyTap Post-Settlement CIBIL Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a MoneyTap credit line updates credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> and an outstanding balance of <strong>₹0</strong>.
               </p>
@@ -935,7 +935,7 @@ export default function FreoMoneyTapCreditLineSettlementPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Defense &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in MoneyTap</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Distressed Borrowers Choose SettleLoans</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 SettleLoans protects borrowers from aggressive collection harassment with statutory cease-and-desist notices, eliminates predatory bounce charges, defends Section 25 PSSA and arbitration notices, and negotiates directly with RBL Bank and DMI Finance to achieve 40% to 60% debt haircuts and guaranteed ₹0 No Dues Certificates.
               </p>

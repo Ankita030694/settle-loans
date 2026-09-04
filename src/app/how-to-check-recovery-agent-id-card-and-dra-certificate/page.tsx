@@ -561,7 +561,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 4: Bank Economics & The NPV Recovery Equation */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Economics</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank DRA Accounting &amp; Agency Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding the financial accounting governing delinquent retail loans explains why recovery agencies employ aggressive doorstep methods and why decisive legal pushback rapidly forces institutional compromise. Commercial banks operate under rigorous Reserve Bank of India prudential provisioning guidelines that mandate increasing capital deductions from quarterly profits as loans age through delinquency buckets.
               </p>
@@ -596,7 +596,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="doorstep-verification-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Strategic Roadmap</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. DRA Verification Strategic Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the structured 4-pillar verification framework established by banking defense advocates to inspect visiting field agents, authenticate official credentials, invoke statutory protections, and eliminate illegal doorstep harassment.
               </p>
@@ -656,7 +656,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; DRA Verification NDC</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Executing a loan settlement requires strict forensic verification. Rogue collection agents frequently generate fraudulent settlement letters on WhatsApp or make deceptive verbal promises to collect partial token amounts that are subsequently misallocated to normal interest arrears. Borrowers must never transfer funds until the settlement sanction letter has been thoroughly vetted by legal counsel.
               </p>
@@ -673,7 +673,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
 
             {/* Section 9: Comparative Matrix: Verified DRA Agent vs Uncertified Collection Agent vs Advocate OTS */}
             <section id="comparative-verification-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. DRA Verification Legal Defense Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the legal standing, operating boundaries, and long-term financial consequences of different recovery interactions empowers borrowers to handle doorstep situations with clarity and authority:
               </p>
@@ -731,7 +731,7 @@ export default function CheckRecoveryAgentIdCardAndDraCertificatePage() {
             {/* Section 10: SettleLoans Legal Defense & Doorstep Protection Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans DRA Compliance Legal Defense</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Confronting unverified recovery agents and illegal doorstep harassment requires seasoned banking litigation advocates who understand how to enforce RBI Master Directions, invoke Supreme Court privacy protections, and draft hard-hitting criminal trespass and defamation notices. SettleLoans provides end-to-end legal defense for distressed borrowers across India: issuing emergency cease-and-desist notices to bank management, filing formal complaints with the RBI Banking Ombudsman, shielding your residential peace, and negotiating directly with bank zonal authorities to secure 45% to 65% principal haircuts backed by official, bank-stamped No Dues Certificates.
                 </p>

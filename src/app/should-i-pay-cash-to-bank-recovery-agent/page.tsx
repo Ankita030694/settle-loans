@@ -507,7 +507,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 2: RBI Master Directions & Regulatory Framework */}
             <section id="rbi-master-directions-cash-collection-rules" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Master Directions</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. RBI Master Directions on Cash Collections</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India has established stringent statutory guidelines to protect consumers against coercive, fraudulent, and opaque recovery mechanisms. Under the <strong>RBI Master Direction on Fair Practices Code for Lenders (DOR.ORG.REC.65/21.04.158/2022-23)</strong> and circulars on Outsourcing of Financial Services, the central bank has placed unambiguous legal restrictions on how recovery agents may interact with borrowers and handle loan repayments.
               </p>
@@ -683,7 +683,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="field-cash-vs-verified-settlement-visual-guide" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Process Roadmap</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Safe Payment &amp; Resolution Process Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual guide below illustrates the stark contrast between the high-risk trajectory of paying cash to field agents and the secure, advocate-supervised institutional settlement pathway governed by RBI compliance protocols.
               </p>
@@ -858,7 +858,7 @@ export default function ShouldIPayCashToBankRecoveryAgentPage() {
 
             {/* Section 9: Comparative Matrix */}
             <section id="direct-cash-vs-advocate-settlement-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Cash Payment vs Direct Bank Remittance Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the stark operational and legal differences between paying cash to a field recovery agent versus executing an advocate-negotiated institutional settlement demonstrates why direct cash handovers should never be entertained:
               </p>

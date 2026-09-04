@@ -836,7 +836,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>7. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with IIFL</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step IIFL Finance Settlement Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Securing a legally binding One-Time Settlement with IIFL Finance follows a 6-phase legal roadmap:
               </p>
@@ -910,7 +910,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>8. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Sec 25 PSSA &amp; Lok Adalat</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating IIFL Sec 25 PSSA, Arbitration &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Past 60 to 90 days default, IIFL frequently issues statutory notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for bounced mandates and private arbitration notices in Mumbai. Section 25 notices are compoundable matters that should be responded to through counsel detailing bona fide financial hardship.
               </p>
@@ -969,7 +969,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating IIFL Finance Settlement Letters</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating IIFL Finance OTS Sanction Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers must verify that their settlement letter is issued directly on official IIFL Finance Limited letterhead bearing the Corporate Identification Number (CIN: L67100MH1995PLC093797), registered office details, unique settlement reference number, authorized signatory name, and official seal. Never remit funds against verbal assurances or unverified third-party receipts.
               </p>
@@ -984,7 +984,7 @@ export default function IIFLFinanceLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Trajectory</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">IIFL Post-Settlement CIBIL Score Trajectory</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Post-settlement, IIFL reports the account across credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) as <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While an initial credit score drop of 75 to 150 points occurs alongside a 12-month cooling period, it permanently terminates compounding default marks and legal exposure.
               </p>

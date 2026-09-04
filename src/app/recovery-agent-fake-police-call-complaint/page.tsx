@@ -662,7 +662,7 @@ export default function RecoveryAgentFakePoliceCallComplaintPage() {
 
             {/* Section 4: Bank Accounting Dynamics, NPA Provisioning & NPV Recovery Formula */}
             <section id="bank-npa-accounting-npv-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Dynamics</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting &amp; Fake Police Threat Risks</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding why recovery agents resort to extreme, illegal measures requires examining the financial pressures within commercial banking. Recovery agencies operate on high-incentive contingency fee structures, often earning between 10% and 25% of the total amount collected from delinquent accounts. As an account ages past 90 days of default, it is classified as a <strong>Non-Performing Asset (NPA)</strong>, triggering stringent RBI provisioning rules:
               </p>

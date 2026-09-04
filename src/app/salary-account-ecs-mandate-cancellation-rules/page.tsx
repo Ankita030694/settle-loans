@@ -554,7 +554,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 2: Statutory Legal Grounding: RBI Directives & Wages Act */}
             <section id="statutory-legal-protections-rbi-wages-act" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Grounding</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Rights on Mandate Cancellation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Contrary to deceptive claims made by aggressive loan recovery agents, an ECS or NACH mandate is not an irrevocable, eternal surrender of your fundamental banking autonomy. Under the regulatory architecture established by the Reserve Bank of India, payment mandates are conditional authorizations that remain fully subject to the customer&apos;s continuous consent and statutory legal protections.
               </p>
@@ -856,7 +856,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 8: Sanction Letter Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC for Mandate Debt</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 During the debt settlement process, borrowers must remain extremely vigilant against unauthorized settlement letters issued by external recovery agencies. Aggressive collection agents frequently generate fraudulent settlement slips over WhatsApp to meet monthly collection quotas. Remitting funds without forensic verification can result in your payment being credited as partial interest while the loan remains fully open and delinquent.
               </p>
@@ -894,7 +894,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
 
             {/* Section 9: Dispute Resolution Comparative Matrix */}
             <section id="comparative-mandate-revocation-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. ECS Stop-Payment vs Legal Revocation Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the different operational and legal pathways to handle recurring ECS loan mandates empowers borrowers to choose the most effective strategy for their financial situation:
               </p>
@@ -947,7 +947,7 @@ export default function SalaryAccountEcsMandateCancellationPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense for ECS Mandates</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating the complex interplay between RBI mandate circulars, the Payment and Settlement Systems Act, and aggressive bank recovery tactics requires experienced banking litigation advocates. SettleLoans provides complete legal protection for salaried borrowers across India: executing lawful ECS and NACH mandate revocations, shielding salary accounts from cash-flow strangulation, defending against Section 25 PSSA and Section 138 NI Act notices, and negotiating directly with senior bank credit committees to secure 45% to 65% principal haircuts backed by official, bank-stamped No Dues Certificates.
                 </p>

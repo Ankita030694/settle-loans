@@ -641,7 +641,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 4: Bank Accounting Dynamics & NPV Recovery Formula */}
             <section id="bank-accounting-npa-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Dynamics</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting &amp; Workplace Harassment Risks</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Understanding why recovery agencies resort to extreme scraping tactics requires examining the operational economics of Indian banking. When an unsecured personal loan becomes delinquent, it passes through sequential regulatory aging buckets governed by RBI prudential guidelines. When payments remain unpaid beyond 90 days, the loan is formally classified as a <strong>Non-Performing Asset (NPA)</strong>, forcing the lending institution to set aside mandatory capital provisioning out of its operating profits:
               </p>
@@ -710,7 +710,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
 
             {/* Section 5: Infographic Banner */}
             <section id="data-privacy-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Strategic Roadmap</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Employer Contact Defense Strategic Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual strategic roadmap below outlines the structured 4-step institutional process utilized by seasoned banking litigation advocates to neutralize predatory collection scraping, enforce statutory privacy compliance, and conclude an official debt settlement.
               </p>
@@ -930,7 +930,7 @@ export default function RecoveryAgentsContactingPreviousEmployerOrCollegePage() 
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="settleloans-data-defense-advisory" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Workplace Privacy Legal Defense</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Confronting predatory collection agencies scraping your professional and academic networks requires specialized banking litigation advocates who understand how to enforce the DPDP Act 2023, invoke Supreme Court privacy precedents, and serve hard-hitting criminal defamation notices. SettleLoans provides end-to-end legal protection for borrowers across India: serving emergency cease-and-desist notices on bank Data Protection Officers, filing formal regulatory complaints with the RBI Banking Ombudsman, shielding your reputation across past workplaces and educational institutions, and negotiating directly with bank zonal authorities to secure 45% to 65% principal waivers backed by official, bank-stamped No Dues Certificates.
                 </p>

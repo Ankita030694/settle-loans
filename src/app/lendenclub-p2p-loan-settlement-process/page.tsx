@@ -796,9 +796,9 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <section id="rbi-anti-harassment-protections" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <ShieldAlert className="w-4 h-4" />
-                <span>5. Anti-Harassment Defense &amp; RBI Regulations</span>
+                <span>5. Statutory Protections &amp; Anti-Harassment Law</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Statutory Protections</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Statutory Protections Against P2P Recovery Harassment</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Defaulted LenDenClub borrowers frequently face aggressive collection tactics, including relentless automated tele-calling, calls placed to corporate workplace lines, and unauthorized outreach to relatives who are not legal guarantors. Under the RBI Master Directions on Recovery Agents and Digital Lending Guidelines, these practices are strictly unlawful. Contact is limited to 08:00 AM to 07:00 PM, third-party disclosure is prohibited, and mobile apps cannot access device contacts or photo storage.
               </p>
@@ -813,7 +813,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step P2P Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Legal Roadmap</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step LenDenClub Settlement Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating a successful One-Time Settlement with an NBFC-P2P requires a disciplined, legally fortified approach that prevents fraudulent agency arrangements and secures permanent financial release:
               </p>
@@ -893,7 +893,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Defending Legal Notices &amp; Digital Arbitration</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Section 25 PSSA Notices, Digital Arbitration</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending LenDenClub Sec 25 PSSA &amp; Arbitration</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 At 60 to 90 days of default, lenders frequently issue 15-day statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured e-NACH debits. This is a demand notice rather than a court warrant, and the offense is entirely compoundable. A timely advocate reply demonstrating involuntary distress refutes criminal intent and initiates formal compromise channels.
               </p>
@@ -906,41 +906,41 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <table className="min-w-full bg-white">
                   <thead>
                     <tr>
-                      <th>Resolution Mechanism</th>
-                      <th>Governing Statutory Framework</th>
+                      <th>Resolution Channel</th>
+                      <th>Legal Mechanism</th>
                       <th>Haircut Potential</th>
-                      <th>Execution Timeline</th>
-                      <th>Enforceability &amp; Finality</th>
+                      <th>Timeline</th>
+                      <th>Enforceability</th>
                     </tr>
                   </thead>
                   <tbody>
                     <tr>
-                      <td className="font-bold text-slate-900">Direct NBFC-P2P OTS</td>
-                      <td>RBI Master Directions on Compromise Settlements (2023).</td>
-                      <td><strong>40% – 65% Haircut</strong></td>
-                      <td>15 to 30 Days</td>
-                      <td>Binding private contract; ₹0 NDC issued.</td>
+                      <td className="font-bold text-slate-900">Direct Platform OTS</td>
+                      <td>Bilateral settlement under RBI rules.</td>
+                      <td>40% to 60% Haircut</td>
+                      <td>15-30 Days</td>
+                      <td>Binding contract with NDC.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">National Lok Adalat</td>
-                      <td>Legal Services Authorities Act, 1987 (NALSA).</td>
-                      <td><strong>45% – 65% Haircut</strong></td>
-                      <td>Single-day session</td>
-                      <td><strong>Civil Court Decree</strong> (Permanent, non-appealable).</td>
+                      <td>Judicial conciliation before DLSA bench.</td>
+                      <td>45% to 65% Haircut</td>
+                      <td>Single session</td>
+                      <td>Civil Court Decree (Final).</td>
                     </tr>
                     <tr>
-                      <td className="font-bold text-slate-900">Arbitration Challenge</td>
-                      <td>Arbitration &amp; Conciliation Act, 1996 (Sec 12/14).</td>
-                      <td>Variable (Converts to OTS)</td>
-                      <td>2 to 4 Months</td>
-                      <td>Halted under Perkins Eastman precedent.</td>
+                      <td className="font-bold text-slate-900">Arbitration Defense</td>
+                      <td>Contesting unilateral digital arbitrations.</td>
+                      <td>Converts to OTS</td>
+                      <td>3-8 Months</td>
+                      <td>Section 34 / 14 challenge.</td>
                     </tr>
                     <tr>
                       <td className="font-bold text-slate-900">Section 25 PSSA Defense</td>
-                      <td>Payment and Settlement Systems Act, 2007.</td>
-                      <td><strong>35% – 50% Haircut</strong></td>
-                      <td>1 to 3 Months</td>
-                      <td>Compounded and withdrawn upon OTS payment.</td>
+                      <td>Magistrate court compoundable defense.</td>
+                      <td>35% to 55% Haircut</td>
+                      <td>2-6 Months</td>
+                      <td>Formal criminal withdrawal.</td>
                     </tr>
                   </tbody>
                 </table>
@@ -955,11 +955,11 @@ export default function LenDenClubP2PLoanSettlementPage() {
             <section id="sanction-letter-audit-ndc" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <FileCheck className="w-4 h-4" />
-                <span>8. Sanction Letter Forensics &amp; ₹0 NDC Mandate</span>
+                <span>8. Sanction Letter Forensics &amp; NDC Mandate</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating the OTS Sanction Letter</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Borrowers must never remit settlement funds against verbal promises or WhatsApp messages from recovery callers. A legally binding One-Time Settlement requires an authentic Sanction Letter issued on the corporate letterhead of Innofin Solutions Private Limited (LenDenClub), citing CIN, borrower PAN, exact loan account identifier, approved settlement sum, payment schedule, and an irrevocable release of all claims by underlying retail lenders.
+                Before remitting any funds, borrowers must verify that the settlement sanction letter is issued on official Innofin Solutions Pvt Ltd letterhead containing valid CIN, corporate office addresses, exact loan account numbers, and authorized managerial signatures. Payments must be routed exclusively to designated lender escrow accounts, never to personal accounts or unverified third-party UPI links.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following remittance, the lender is legally required under RBI Circular RBI/2023-24/60 to issue the No Dues Certificate (NDC) and update credit bureau records within 30 calendar days, subject to statutory delay compensation of ₹5,000 per day payable directly to the borrower.
@@ -972,7 +972,7 @@ export default function LenDenClubP2PLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Bureau Reporting &amp; Credit Rebuilding</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Trajectory</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">LenDenClub CIBIL Bureau Reporting &amp; Score Trajectory</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Upon settlement completion, Innofin Solutions reports the account to CIBIL and all credit bureaus as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While causing an initial temporary credit score dip of 75 to 120 points, it permanently extinguishes compounding default marks and eliminates legal exposure.
               </p>

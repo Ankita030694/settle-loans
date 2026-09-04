@@ -811,7 +811,7 @@ export default function InCredPersonalLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Recovery Practices &amp; RBI Harassment Defense</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Harassment Under RBI NBFC Directives</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending InCred Harassment Under RBI NBFC Rules</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 InCred Financial Services contracts external third-party Debt Recovery Agencies (DRAs) whose tele-callers and field agents operate under aggressive collection incentive models. In defaulted accounts, collection personnel frequently overstep regulatory boundaries by executing high-frequency telephonic harassment, contacting friends or family members whose numbers were scraped or stored during onboarding, and showing up at borrower offices or residences.
               </p>
@@ -829,7 +829,7 @@ export default function InCredPersonalLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step NBFC Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Compromise Settlement with InCred</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step InCred Loan Settlement Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Executing a legally secure, maximum-haircut One-Time Settlement with InCred Financial Services requires a disciplined, evidence-based roadmap:
               </p>
@@ -909,7 +909,7 @@ export default function InCredPersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 Notices, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Sec 25 PSSA &amp; Lok Adalat</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating InCred Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When an unsecured personal or MSME loan crosses 60 to 90 days of default, InCred Financial Services routinely issues statutory demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured NACH mandates, alongside notices invoking private arbitration proceedings in Mumbai or Delhi.
               </p>
@@ -974,7 +974,7 @@ export default function InCredPersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating InCred Settlement Letters</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating InCred OTS Sanction Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A serious risk in digital loan debt recovery involves unauthorized collection agents issuing fake settlement letters to collect partial payments. If a borrower transfers funds against an unverified or verbal offer, InCred Financial Services credits the money toward outstanding penal charges, leaving the default open and compounding.
               </p>
@@ -992,7 +992,7 @@ export default function InCredPersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Trajectory</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">InCred Post-Settlement CIBIL Trajectory</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Completing a One-Time Settlement with InCred Financial Services results in the account being reported to all four licensed credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) with the status <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This causes an initial credit score drop of 75 to 150 points.
               </p>

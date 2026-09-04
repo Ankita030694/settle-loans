@@ -884,7 +884,7 @@ export default function OneCardSliceUniCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Trajectory &amp; Score Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CIBIL Recovery &amp; Score Rebuilding</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Fintech Card CIBIL Recovery &amp; Credit Rebuilding</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following settlement, the partner bank reports the account to credit bureaus as &quot;Settled&quot; with a current balance of ₹0. While this temporarily lowers scores by 75 to 120 points, it halts rolling default marks and eliminates legal risk. Borrowers can restore prime 750+ scores within 18 to 24 months:
               </p>

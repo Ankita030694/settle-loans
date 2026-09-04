@@ -805,7 +805,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
 
             {/* Section 7: Forensic Verification Checklist */}
             <section id="forensic-verification-addendums-and-sanctions" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Forensic Checklist</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. RBI Compromise Sanction Forensic Checklist</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Whether executing an RBI restructuring addendum agreement or an OTS settlement sanction letter, borrowers face substantial legal risks if the underlying documentation is flawed. Banks and recovery desks frequently incorporate restrictive covenants, ambiguous terms, or one-sided indemnity clauses that leave the borrower exposed to future litigation.
               </p>
@@ -991,7 +991,7 @@ export default function RbiDebtResolutionFrameworkVsLoanSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Resolution Defense &amp; Advisory</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating the complex boundary between RBI debt restructuring and a high-haircut One-Time Settlement requires seasoned debt defense advocates who understand banking jurisprudence, credit committee guidelines, and recovery economics. SettleLoans represents individual borrowers and business promoters across India: evaluating financial viability, halting third-party recovery harassment under RBI Fair Practices Codes, auditing loan contracts for illegal compounded levies, and negotiating directly with bank zonal committees to secure the most advantageous resolution—whether structuring a viable RBI restructuring plan or executing a deep 50% to 75% OTS haircut backed by an official, legally binding No Dues Certificate.
                 </p>

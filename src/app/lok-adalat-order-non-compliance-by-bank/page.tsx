@@ -633,7 +633,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 4: Bank Accounting Dynamics, Provisioning Reversals & The NPV Recovery Equation */}
             <section id="bank-accounting-npv-dynamics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Realities</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Realities in Lok Adalat Awards</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To master post-settlement enforcement, one must look behind the legal curtain and analyze how Indian commercial banks account for Lok Adalat settlements on their balance sheets. When a loan is referred to a Lok Adalat, it has almost always crossed 90 to 180 days of non-payment and sits in the bank&apos;s books as a <strong>Non-Performing Asset (NPA)</strong>. Under RBI Prudential Norms on Income Recognition, Asset Classification, and Provisioning, lenders must lock up substantial risk capital against delinquent portfolios:
               </p>
@@ -848,7 +848,7 @@ export default function LokAdalatOrderNonCompliancePage() {
 
             {/* Section 9: Comparative Judicial Remedies Matrix */}
             <section id="comparative-judicial-remedies-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Lok Adalat Non-Compliance Defense Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the different legal channels available to borrowers allows you to select the most efficient strategy to force bank compliance and claim compensation:
               </p>

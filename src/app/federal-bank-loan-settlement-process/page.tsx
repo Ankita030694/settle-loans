@@ -977,7 +977,7 @@ export default function FederalBankLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Score Recovery &amp; 18-Month Plan</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Recovery</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Federal Bank Post-Settlement CIBIL Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Upon completion of a One-Time Settlement with Federal Bank, the bank transmits updated credit records to all four licensed credit bureaus in India (TransUnion CIBIL, Experian, Equifax, and CRIF High Mark). The account status transitions from &apos;Active Default&apos; to <strong>&apos;Settled&apos;</strong> or <strong>&apos;Post-Write-off Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>.
               </p>

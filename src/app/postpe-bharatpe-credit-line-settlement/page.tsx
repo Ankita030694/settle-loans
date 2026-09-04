@@ -896,7 +896,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Legal Notice Forensics, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Sec 25 PSSA &amp; Lok Adalat</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating PostPe Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When digital loans default past 60–90 days, partner NBFCs issue demand notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for bounced NACH mandates, or Section 138 NI Act for security cheques. A Section 25 notice is a 15-day demand notice, not a warrant. Responding through counsel detailing genuine hardship protects legal standing and initiates conciliation.
               </p>
@@ -971,7 +971,7 @@ export default function PostPeBharatPeCreditLineSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Score Trajectory &amp; Credit Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery (18M)</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">PostPe Post-Settlement CIBIL Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a PostPe credit line or BharatPe loan updates credit bureaus to <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While an initial 70–120 point score dip and 12-month cooling window apply, it halts active default penalties and litigation risk.
               </p>

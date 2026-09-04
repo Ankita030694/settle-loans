@@ -602,7 +602,7 @@ export default function MSMESamadhaanLoanDefaultSettlementPage() {
 
             {/* Section 4: Bank Accounting Economics */}
             <section id="bank-accounting-economics-npa-provisioning" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Economics</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; MSME Samadhaan Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To achieve a successful debt settlement, a business promoter must look beyond emotional frustration and understand the balance sheet mathematics that govern commercial banking decisions. In Indian banking operations, an unresolved non-performing asset is not merely an uncollected loan—it is an active drain on the bank&apos;s regulatory capital and profitability due to mandatory RBI provisioning norms.
               </p>

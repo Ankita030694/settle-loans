@@ -635,7 +635,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <Banknote className="w-4 h-4" />
                 <span>3. Halting NACH Bounces &amp; Mandate Revocation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping Repetitive LiquiLoans NACH Bounce Charges and</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Stopping LiquiLoans NACH Bounce Penalty Loops</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers struggling with cash-flow crises face compounding penalty loops from automated debit sweeps. NDX P2P automated systems repeatedly present electronic NACH mandates during billing cycles. Each failed presentation triggers bank return charges of ₹295 to ₹590 alongside internal late payment penalties and penal interest of 24% to 36% per annum.
               </p>
@@ -873,7 +873,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Section 25 PSSA, Arbitration &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Section 25 PSSA Notices, Arbitration and National</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating LiquiLoans Sec 25 PSSA &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When an account crosses 60 to 90 days of default, NDX P2P issues statutory legal notices under Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for bounced NACH instructions, alongside private arbitration notices. A Section 25 PSSA notice is a 15-day demand notice, not an arrest warrant. Responding promptly through legal counsel detailing genuine hardship preserves your defense while opening settlement conciliation.
               </p>
@@ -935,7 +935,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating LiquiLoans Settlement Letters and Enforcing</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating LiquiLoans Settlement Sanction Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Fintech borrowers must avoid unauthorized collection agents issuing fake settlement letters. Depositing money without an authentic stamped sanction letter leads to funds being absorbed into penal fees without loan closure.
               </p>
@@ -943,7 +943,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 Borrowers must verify the OTS letter is on official NDX P2P Lending Technologies letterhead displaying CIN U67200MH2015PTC262114, Mumbai address, loan details, sanctioned amount, and authorized signatory credentials.
               </p>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Under RBI Circular RBI/2023-24/60, NDX P2P must deliver the No Dues Certificate and update credit bureaus within 30 calendar days, backed by statutory delay compensation of ₹5,000 per day.
+                The settlement amount must be transferred exclusively into the designated NDX P2P nodal account. Under RBI Circular RBI/2023-24/60, NDX P2P must issue a formal No Dues Certificate within 30 days. Unreasonable delays incur a mandatory penalty of ₹5,000 per day payable to the borrower.
               </p>
             </section>
 
@@ -953,7 +953,7 @@ export default function LiquiLoansP2PLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. Credit Bureau Trajectory &amp; Score Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Trajectory</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">LiquiLoans CIBIL Score Trajectory &amp; Score Recovery</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling with NDX P2P updates credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) to Settled or Post-Write-off Settled with zero balance. While causing an initial score dip, it stops compounding defaults, monthly DPD accruals, and legal risks.
               </p>

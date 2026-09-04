@@ -729,7 +729,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
 
             {/* Section 8: Sanction Letter Forensics, NDC & CIBIL */}
             <section id="sanction-letter-forensics-ndc-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Settlement Sanction Letter Forensics, RBI ₹0 NDC Mandate</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. LAP Shortfall Sanction Letter Forensics &amp; NDC</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Achieving a negotiated compromise with the bank&apos;s settlement committee is a critical victory, but the process is not complete until the agreement is formalized in a legally airtight <strong>One-Time Settlement (OTS) Sanction Letter</strong>. Borrowers must never make any payment based on verbal assurances or emails from recovery agents.
               </p>
@@ -822,7 +822,7 @@ export default function LoanAgainstPropertyShortfallSettlementPage() {
             {/* Section 10: SettleLoans Legal Defense Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans LAP Shortfall Legal Defense</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating the post-auction recovery demands of commercial banks and housing finance institutions requires seasoned legal advocates who specialize in the SARFAESI Act, the Recovery of Debts and Bankruptcy Act, the Limitation Act, 1963, and RBI prudential regulations. SettleLoans provides end-to-end legal representation for borrowers across India: conducting forensic audits of auction records, identifying statutory violations under Rule 8 and Rule 9, representing clients before Debt Recovery Tribunals, neutralizing recovery harassment, and negotiating directly with bank zonal authorities to secure complete ₹0 to deeply discounted shortfall settlements backed by official No Dues Certificates.
                 </p>

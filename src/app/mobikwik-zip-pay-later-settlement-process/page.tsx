@@ -811,7 +811,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step MobiKwik ZIP Settlement</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Roadmap</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step MobiKwik ZIP Settlement Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving a defaulted MobiKwik ZIP account with maximum debt relief follows six structured steps:
               </p>
@@ -891,7 +891,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Legal Notices, Section 25 &amp; Lok Adalat</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Digital Legal Notices, Section 25 PSSA Demands</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating MobiKwik Sec 25 PSSA Demands &amp; Lok Adalat</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Defaulted borrowers frequently receive legal notices citing Section 25 of the Payment and Settlement Systems Act, 2007 (PSSA) for dishonoured mandates. These are compoundable demand notices designed to facilitate conciliation rather than criminal action.
               </p>
@@ -966,7 +966,7 @@ export default function MobiKwikZipPayLaterSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Resolution &amp; Credit Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Trajectory</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">MobiKwik ZIP Post-Settlement CIBIL Score Trajectory</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a MobiKwik ZIP line updates credit bureau records to <strong>&apos;Settled&apos;</strong> with an outstanding balance of exactly <strong>₹0</strong>. This terminates monthly compounding default records.
               </p>

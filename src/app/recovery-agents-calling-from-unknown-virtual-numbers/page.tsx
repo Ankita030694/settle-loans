@@ -561,7 +561,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* Section 2: Statutory Framework */}
             <section id="statutory-telecom-it-act-rbi-regulations" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Framework</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Laws on Virtual Number Harassment</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Indian telecommunications regulations and cyber laws provide a comprehensive, multi-tiered framework designed specifically to prohibit anonymous, automated, and spoofed commercial communications. When debt recovery agencies utilize virtual numbers and VoIP dialers, they directly contravene several binding statutory mandates established by the Telecom Regulatory Authority of India (TRAI), the Department of Telecommunications (DoT), the Ministry of Electronics and Information Technology (MeitY), and the Reserve Bank of India (RBI):
               </p>
@@ -613,7 +613,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* Section 3: Vicarious Liability */}
             <section id="holding-lending-banks-vicariously-liable" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Principal-Agent Vicarious Liability</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Bank Liability for Virtual Harassment Agents</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A standard defense frequently raised by institutional lenders when confronted with egregious tele-calling harassment is to disclaim all responsibility, asserting that the rogue caller was an independent third-party contractor or outsourced Direct Recovery Agency (DRA) acting outside bank oversight. Under established Indian civil, tort, and banking law, this defense is completely untenable.
               </p>
@@ -658,7 +658,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* Section 4: Bank Accounting & NPV Recovery */}
             <section id="npa-accounting-npv-recovery-dynamics" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Dynamics</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Provisions &amp; Virtual Harassment Fallout</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why recovery agencies resort to frenzied, unverified digital dialing campaigns, one must dissect the financial balance sheet mechanics governing non-performing retail loans. Commercial banks and regulated NBFCs in India do not maintain internal recovery call centers for long-term default management. Instead, once an unsecured credit card or personal loan passes 60 to 90 days of continuous non-payment, the loan moves through strictly timed prudential delinquency buckets under RBI guidelines:
               </p>
@@ -730,7 +730,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="digital-harassment-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Strategic Roadmap</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Virtual Number Harassment Defense Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The strategic roadmap below outlines the systematic 5-stage institutional protocol deployed by banking litigation advocates to preserve digital evidence, lodge telecom grievances on the DoT Sanchar Saathi Chakshu portal, invoke IT Act protections, establish vicarious bank liability, and finalize an official 55% One-Time Settlement.
               </p>
@@ -764,7 +764,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* Section 6: Digital Forensics & DoT Chakshu */}
             <section id="evidence-preservation-cdr-dot-chakshu-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Digital Forensics</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Digital Evidence &amp; Forensics Against Spoofing</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When dealing with sophisticated virtual auto-dialers and disappearing WhatsApp messages, mere verbal complaints will not suffice. Legal forums, the RBI Banking Ombudsman, and cyber crime divisions require verifiable, tamper-evident digital proof. Borrowers must follow a precise digital forensics protocol to establish legal admissibility under Section 65B of the Indian Evidence Act, 1872 (now Section 63 of the <strong>Bharatiya Sakshya Adhiniyam, 2023</strong>):
               </p>
@@ -853,7 +853,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* Section 8: Sanction Forensics & RBI NDC Mandate */}
             <section id="sanction-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, Direct Remittance, RBI ₹0 NDC</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; NDC for Spoofed Calls</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When negotiating loan settlements in an environment polluted by rogue tele-callers and virtual number operators, borrowers must exercise absolute legal caution. Unscrupulous recovery agents frequently generate fraudulent settlement letters on WhatsApp or promise verbal closures to meet monthly recovery quotas. Transferring funds based on informal messages will result in complete financial loss, with the money credited merely as partial interest while the default persists.
               </p>
@@ -891,7 +891,7 @@ export default function RecoveryAgentsVirtualNumbersPage() {
 
             {/* Section 9: Comparative Matrix */}
             <section id="comparative-digital-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Virtual Calling Legal Defense Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Evaluating the effectiveness, procedural timelines, and permanent outcomes of different response strategies enables borrowers to take decisive, legally grounded action:
               </p>

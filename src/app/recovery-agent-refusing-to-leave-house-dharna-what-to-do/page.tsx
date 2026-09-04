@@ -555,7 +555,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 2: RBI Master Directions & Supreme Court Jurisprudence */}
             <section id="rbi-master-directions-and-supreme-court-precedents" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Doorstep Harassment &amp; Statutory Limits</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India has established comprehensive, legally binding directives governing the conduct of debt collection and recovery agencies. Under the <strong>RBI Master Direction on Fair Practices Code for Lenders</strong> and the <strong>Circular on Guidelines on Recovery Agents Engaged by Regulated Entities</strong>, financial institutions and their agents are strictly circumscribed in their interactions with borrowers:
               </p>
@@ -721,7 +721,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="doorstep-standoff-defense-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Visual Strategic Roadmap</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Doorstep Standoff Resolution Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The strategic visual roadmap below outlines the systematic, multi-tiered institutional defense workflow deployed by senior debt defense advocates to neutralize doorstep recovery standoffs, enforce immediate police removal, register formal station diary entries, and transition the dispute into an official One-Time Settlement.
               </p>
@@ -883,7 +883,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
 
             {/* Section 9: Comparative Legal Defense Matrix */}
             <section id="comparative-standoff-defense-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Standoff Legal Remedies Comparison Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Analyzing the various legal avenues available to a borrower facing doorstep harassment enables informed, strategic decision-making to protect personal safety, family dignity, and long-term financial health:
               </p>
@@ -936,7 +936,7 @@ export default function RecoveryAgentRefusingToLeaveHousePage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense for Dharna Tactics</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Navigating an aggressive doorstep recovery standoff demands seasoned banking litigation advocates who understand how to enforce RBI Master Directions, invoke Supreme Court privacy protections, and draft hard-hitting criminal complaints. SettleLoans provides end-to-end legal protection for distressed borrowers across India: issuing emergency cease-and-desist notices to bank management, filing formal complaints with the RBI Banking Ombudsman, coordinating with local law enforcement and RWA authorities, and negotiating directly with bank zonal authorities to secure 45% to 65% principal waivers backed by official, bank-stamped No Dues Certificates.
                 </p>
