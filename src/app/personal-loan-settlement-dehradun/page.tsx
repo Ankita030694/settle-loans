@@ -572,7 +572,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <Mountain className="w-4 h-4" />
                 <span>1. Capital, Tourism Corridor &amp; Higher Education Hub</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Managing Debt Default Dynamics in Dehradun, Haridwar</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Managing Debt Default Dynamics in Dehradun</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 As Uttarakhand&apos;s administrative capital and economic anchor, Dehradun forms the primary commercial hub of the Doon Valley. Bordered by Haridwar and Rishikesh, this region features state and central government employees, major scientific research institutes, vibrant hospitality and pilgrimage tourism enterprises, and an extensive higher education cluster. Over recent years, aggressive retail credit disbursement by commercial banks and digital NBFCs has created substantial unsecured loan exposure across these key borrower segments.
               </p>
@@ -598,7 +598,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <Gavel className="w-4 h-4" />
                 <span>2. Uttarakhand Judicial Architecture &amp; Local Jurisdictions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Uttarakhand Legal Hierarchy &amp; DRT Oversight</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Uttarakhand Court System &amp; DRT Dehradun</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Resolving distressed banking disputes in Uttarakhand requires precise knowledge of the local court hierarchy. In Dehradun, summary debt recovery suits under Order 37 CPC, Section 138 NI Act cheque bounce complaints, and Section 25 PSSA NACH auto-debit cases are heard before Judicial Magistrates at the District Court Complex at Dehradun Sadar.
               </p>
@@ -665,7 +665,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <Calculator className="w-4 h-4" />
                 <span>3. Bank Balance-Sheet Accounting &amp; Recovery Economics</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Bank NPA Accounting &amp; Debt Waivers</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Bank NPA Accounting &amp; Debt Waivers in Dehradun</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Commercial banks and NBFCs operate under RBI Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP) and Ind AS 109 Expected Credit Loss rules. When a borrower misses three consecutive EMIs (crossing 90 days past due), the loan account is classified as a Non-Performing Asset (NPA), halting future interest recognition and mandating capital reserves from operating profits.
               </p>
@@ -698,7 +698,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>4. Anti-Harassment Legal Protections</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Halting Harassment Under RBI Guidelines</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Halting Harassment Under RBI Guidelines in Dehradun</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers in Uttarakhand frequently endure aggressive recovery tactics from third-party Debt Recovery Agencies (DRAs). Recovery callers often violate statutory banking regulations by calling persistently outside permitted hours, contacting non-guarantor family members, or threatening workplace visits in Dehradun and Rishikesh.
               </p>
@@ -769,7 +769,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <Briefcase className="w-4 h-4" />
                 <span>6. Sector-Specific Resolution Protocols</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Tailored Legal Settlement Strategies</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Tailored Settlement Strategies in Dehradun</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Because the socio-economic landscape of Dehradun, Haridwar, and Rishikesh comprises distinct employment and business groups, SettleLoans applies targeted legal defense and negotiation frameworks tailored to specific borrower profiles:
               </p>
@@ -813,7 +813,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <Scale className="w-4 h-4" />
                 <span>7. Legal Defense &amp; Lok Adalat Conciliation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Section 138 NI Act, Section 25 PSSA</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 138 &amp; Sec 25 PSSA in Dehradun</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When defaults cross 90 to 180 days, lenders frequently initiate statutory proceedings across Dehradun and Haridwar courts via Section 138 NI Act (cheque bounce) or Section 25 PSSA (electronic NACH bounce). Although heard in Magistrate Courts, these are compoundable civil-origin disputes.
               </p>
@@ -831,7 +831,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Forensics &amp; NDC Verification</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Forensics</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Forensics &amp; NDC in Dehradun</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Before making settlement payments, verifying the authenticity of the OTS sanction letter is essential to avoid fraudulent agency receipts. SettleLoans subjects every settlement letter to strict forensic review: validating official bank letterheads, authorized signatory credentials, clear debt discharge clauses, and terms mandating withdrawal of court litigation.
               </p>
@@ -846,7 +846,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. Credit Score Trajectory &amp; Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Trajectory</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Trajectory in Dehradun</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Following an OTS, the lender reports the account to credit bureaus (CIBIL, Experian, Equifax, CRIF High Mark) as &apos;Settled&apos; with a ₹0 balance. While an initial 75–150 point score reduction occurs with a temporary 12-month cooling window, settling permanently halts active default compounding.
               </p>
@@ -907,7 +907,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Representation &amp; Advisory</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Distressed Borrowers Across Uttarakhand Trust</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Uttarakhand Borrowers Choose SettleLoans</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Resolving unsecured personal loan and business credit defaults across Dehradun, Haridwar, and Rishikesh demands experienced legal advocacy, rigorous forensic accounting, and direct institutional engagement with bank Zonal Credit Committees. SettleLoans delivers total anti-harassment protection, robust defense in local district courts, maximized debt haircuts, and authentic ₹0 No Dues Certificates delivered with complete transparency and confidentiality.
               </p>
@@ -924,7 +924,7 @@ export default function PersonalLoanSettlementDehradunPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>11. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Dehradun &amp; Uttarakhand</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Dehradun</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

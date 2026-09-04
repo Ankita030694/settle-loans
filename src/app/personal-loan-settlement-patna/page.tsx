@@ -589,7 +589,7 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* Section 3: Statutory Borrower Protections: RBI Fair Practices Code, High Court Precedents & Anti-Harassment Law in Bihar */}
             <section id="statutory-borrower-protections-bihar" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Borrower Legal Protections</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Borrower Legal Protections in Patna</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers facing financial distress in Bihar must recognize that default is a civil contractual breach, not a criminal transgression. The Reserve Bank of India, the Supreme Court of India, and the Hon&apos;ble Patna High Court have instituted robust statutory firewalls to protect borrowers from coercive debt collection, public humiliation, and privacy infringements.
               </p>
@@ -629,7 +629,7 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* Section 4: Bank Balance Sheet Accounting, Unsecured NPA Provisioning & The Net Present Value (NPV) Equation */}
             <section id="npa-provisioning-balance-sheet-npv" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. NPA Balance Sheet Accounting</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. NPA Balance Sheet Accounting in Patna</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Securing a deep 40% to 60% principal waiver on a defaulted personal loan or credit card in Patna is not achieved through emotional pleading. It is rooted in an objective understanding of bank balance sheet economics, Reserve Bank of India prudential provisioning mandates, and Net Present Value (NPV) financial recovery models.
               </p>
@@ -713,7 +713,7 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* Section 5: Visual Roadmap Infographic Banner */}
             <section id="patna-settlement-visual-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Personal Loan Settlement Process Roadmap</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Settlement Process Roadmap in Patna</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The infographic roadmap below outlines the structured 5-stage legal and financial protocol required to successfully settle defaulted bank loans across Patna and Bihar—from legal notice defense to RBI-mandated No Dues Certificate issuance and CIBIL score rehabilitation.
               </p>
@@ -792,7 +792,7 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* Section 7: National Lok Adalat Representation & Patna Debt Recovery Tribunal (DRT) Protocols */}
             <section id="lok-adalat-bslsa-drt-patna-protocols" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Lok Adalat Representation</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Patna DLSA Lok Adalat Representation</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 In Bihar, statutory alternative dispute resolution forums play an indispensable role in stressed asset resolution. The <strong>Bihar State Legal Services Authority (BSLSA)</strong> organizes quarterly National Lok Adalats across all 38 district courts in Bihar, including Patna Civil Court, Gaya District Court, Muzaffarpur Civil Court, and Bhagalpur District Court.
               </p>
@@ -831,7 +831,7 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* Section 8: Forensic Sanction Letter Verification, Direct Bank Remittance & The RBI 30-Day NDC Mandate */}
             <section id="sanction-letter-forensics-rbi-ndc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Audit &amp; ₹0 NDC Mandate</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Audit &amp; NDC in Patna</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 One of the most dangerous hazards in debt settlement across Bihar is the circulation of fraudulent or unauthorized settlement letters. Rogue recovery executives frequently issue fake &quot;concession letters&quot; on fabricated bank letterheads or make verbal promises to meet quarterly targets, pocketing the borrower&apos;s funds or crediting them as part-payments toward accumulated penalties.
               </p>
@@ -901,7 +901,7 @@ export default function PersonalLoanSettlementPatnaPage() {
 
             {/* Section 9: Comparative Matrix: Debt Resolution Mechanisms Across Bihar */}
             <section id="debt-resolution-strategy-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Debt Resolution Matrix for Patna Borrowers</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Borrowers evaluating their options in Patna must compare the legal, financial, and procedural implications of various debt resolution pathways to select the strategy that maximizes financial savings while safeguarding legal rights:
               </p>

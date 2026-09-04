@@ -676,7 +676,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. NPV Recovery Valuation &amp; Haircut Slabs</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Net Present Value (NPV) Recovery Modeling</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Amex NPV Recovery Valuation Modeling</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 A common misconception among cardholders is that bank debt settlements represent arbitrary haggling with tele-callers. In institutional reality, American Express Banking Corp. evaluates compromise settlements through rigorous quantitative modeling based on the Net Present Value (NPV) of recovery. Under Reserve Bank of India Master Directions on Compromise Settlements, regulated lenders must determine whether the immediate cash recovery from a negotiated One-Time Settlement exceeds the discounted expected value of pursuing prolonged civil litigation through Indian courts.
               </p>
@@ -854,7 +854,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>8. Step-by-Step Amex Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Strategic Roadmap</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Amex Settlement Roadmap</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing a legally secure and economically optimal settlement with American Express Banking Corp. requires disciplined adherence to an institutional roadmap:
               </p>
@@ -918,7 +918,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics &amp; Mandatory ₹0 NDC</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Forensics</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Amex Sanction Letter Forensics &amp; NDC</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The single most hazardous pitfall in credit card settlement is paying settlement amounts based on unverified verbal promises or fraudulent emails dispatched by external collection agencies. Third-party collection agents frequently issue fabricated discount letters or misappropriate funds into partial payments, leaving the remaining ledger balance active and accumulating compounding interest.
               </p>
@@ -942,7 +942,7 @@ export default function AmericanExpressCreditCardSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. CIBIL Trajectory &amp; Score Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">CIBIL Recovery &amp; Score Rebuilding</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Amex CIBIL Score Rehabilitation</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Understanding the credit bureau impact of a One-Time Settlement is critical for long-term financial recovery. When American Express Banking Corp. concludes a compromise settlement, it updates Credit Information Companies (CIBIL, Experian, Equifax, and CRIF High Mark) reflecting the account status as &apos;Settled&apos; or &apos;Post-Write-off Settled&apos; with a current balance of ₹0.
               </p>

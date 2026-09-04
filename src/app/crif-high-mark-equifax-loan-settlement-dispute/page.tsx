@@ -653,7 +653,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <Scale className="w-4 h-4" />
                 <span>3. Statutory Protections &amp; Legal Framework</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Statutory Protections</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">3. CICRA 2005 &amp; Statutory Bureau Protections</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The rights of Indian borrowers regarding the accuracy, completeness, and rectification of credit bureau records are anchored in parliamentary legislation under the Credit Information Companies (Regulation) Act, 2005 (CICRA 2005) and its accompanying Credit Information Companies Rules and Regulations, 2006. Understanding this statutory foundation is crucial for borrowers seeking to compel reluctant lenders and credit bureaus to rectify unupdated records.
               </p>
@@ -953,7 +953,7 @@ export default function CrifHighMarkEquifaxLoanSettlementDisputePage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>10. Legal Advocacy &amp; Representation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in Distressed Borrowers Choose SettleLoans</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers Trust SettleLoans for Bureau Disputes</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating the complex regulatory bureaucracy of credit information companies and intransigent banking institutions requires specialized legal expertise and rigorous procedural advocacy. SettleLoans audits historical loan ledgers, identifies hidden reporting discrepancies across CRIF High Mark and Equifax, files statutory dispute petitions under CICRA Section 21, escalates non-compliant lenders to the RBI Ombudsman, and enforces the recovery of statutory ₹100/day delay compensation.
               </p>

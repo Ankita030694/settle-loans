@@ -529,7 +529,7 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
             {/* Section 2: Statutory Legal Protections */}
             <section id="statutory-legal-protections-gauhati-hc" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Protections for Assam Borrowers</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Debt resolution in Assam operates under federal statutes, RBI master directions, and authoritative jurisprudence from the Hon&apos;ble Gauhati High Court. Under Section 73 of the Indian Contract Act, 1872, unsecured personal loans and credit cards are civil contracts. Involuntary default due to financial hardship or medical crisis is purely a civil dispute. The Gauhati High Court has repeatedly held that police authorities lack jurisdiction to register criminal FIRs or intervene in civil loan recovery disputes.
               </p>
@@ -744,7 +744,7 @@ export default function PersonalLoanSettlementGuwahatiPage() {
             {/* Section 7: Forensic Verification of Settlement Letters */}
             <section id="forensic-verification-settlement-letters" className="space-y-4">
               <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">
-                7. Forensic Checklist for Bank Settlement Sanction Letters
+                7. Forensic Audit of Settlement Letters in Assam
               </h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To prevent fraud by recovery agents issuing fake settlement emails to extract token payments, every settlement sanction letter must satisfy four critical validation checkpoints:
@@ -802,7 +802,7 @@ export default function PersonalLoanSettlementGuwahatiPage() {
 
             {/* Section 8: Remittance, NDC & CIBIL Recovery */}
             <section id="remittance-ndc-cibil-restoration" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Settlement Remittance, RBI No Dues Certificate</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Settlement Remittance &amp; ₹0 NDC in Assam</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under <strong>RBI Circular RBI/2023-24/60</strong>, regulated lending institutions are statutorily mandated to deliver a formal <strong>No Dues Certificate (NDC)</strong> and update credit bureau databases within <strong>30 calendar days</strong> of receiving the final settlement payment. Any unjustified delay makes the bank liable to pay compensation of <strong>₹5,000 per day of delay</strong> directly to the borrower.
               </p>

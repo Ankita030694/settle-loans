@@ -550,7 +550,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 4: RBI Master Directions & Fair Practices Code */}
             <section id="rbi-master-directions-fair-practices" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. RBI Master Directions &amp; Fair Practices Code</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. RBI Fair Practice Code on Doorstep Recovery</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The Reserve Bank of India has established comprehensive, enforceable regulations to govern the conduct of banks, NBFCs, and their outsourced recovery agents. These rules are codified under the <em>Master Direction – Reserve Bank of India (Managing Risks and Code of Conduct in Outsourcing of Financial Services by Regulated Entities) Directions</em> and the <em>Master Circular on Fair Practices Code</em>.
               </p>
@@ -649,7 +649,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 7: Bank NPA Accounting, Provisioning Burden & The NPV Recovery Model */}
             <section id="bank-npa-accounting-npv-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting Realities</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Bank NPA Accounting &amp; Doorstep Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why collection agencies resort to aggressive doorstep visits rather than pursuing court remedies, one must analyze the institutional economics of bad debt recovery in India. Under the Reserve Bank of India Prudential Norms on Income Recognition, Asset Classification and Provisioning, an unsecured retail loan or credit card facility is categorized as a Non-Performing Asset (NPA) once repayments remain overdue for more than 90 days.
               </p>
@@ -686,7 +686,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 8: Direct OTS Negotiation, Cease-and-Desist Notices & NDC */}
             <section id="cease-and-desist-ots-negotiation" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Direct OTS Settlement Protocols</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Direct OTS Settlement Protocol for Borrowers</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A common trap for distressed borrowers during doorstep harassment is making token payments or UPI transfers to collection agents based on verbal promises that visits will stop. Such informal payments are routinely credited toward penal interest and late fees, leaving the core principal delinquent and inviting fresh harassment weeks later.
               </p>
@@ -722,7 +722,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
 
             {/* Section 9: Comparative Legal Matrix */}
             <section id="comparative-enforcement-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Doorstep Recovery &amp; Defense Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative matrix below details the statutory boundaries, entry authority, and borrower legal protections across various debt recovery mechanisms operating in India:
               </p>
@@ -782,7 +782,7 @@ export default function CanRecoveryAgentsEnterHouseWithoutPermissionPage() {
             {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Doorstep Harassment Defense</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   No individual or family should have to live in terror of aggressive collection agents banging on doors, shouting in residential hallways, or attempting to violate the sanctity of their home. At SettleLoans, our senior banking advocates, consumer protection specialists, and financial negotiators provide robust nationwide representation for distressed borrowers. We immediately enforce your constitutional privacy rights and statutory protections under Section 329 BNS and the RBI Fair Practices Code. By serving formal Vakalatnama and Cease-and-Desist notices, we halt uninvited doorstep harassment permanently and negotiate directly with senior banking executives to secure structured 40% to 65% One-Time Settlements backed by official No Dues Certificates.
                 </p>

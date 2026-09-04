@@ -524,7 +524,7 @@ export default function Page() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Visakhapatnam Retail &amp; Industrial Debt Landscape</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Landscape &amp; Borrowers</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Landscape &amp; Borrowers in Visakhapatnam</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Visakhapatnam drives Andhra Pradesh&apos;s industrial economy through maritime shipping, steel manufacturing, petroleum refining, and IT. Key employment corridors include the Visakhapatnam Port Authority, Gangavaram Port, RINL (Vizag Steel Plant), HPCL, NTPC, Eastern Naval Command civilian personnel, Parawada Pharma City, and Rushikonda IT SEZ.
               </p>
@@ -550,7 +550,7 @@ export default function Page() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; AP High Court Norms</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Aging Architecture</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging in Visakhapatnam</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Securing an effective One-Time Settlement (OTS) requires navigating the RBI&apos;s IRACP prudential norms. Banks offer substantial compromise haircuts only as delinquent loans advance through statutory classification stages on their balance sheets.
               </p>
@@ -633,7 +633,7 @@ export default function Page() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>4. Section 171 Lien &amp; Port/PSU Salary Shielding</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s General Lien (Section 171)</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s General Lien in Visakhapatnam</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under Section 171 of the Indian Contract Act, 1872, banks possess the right of general lien to set off balances from accounts within the same institution under the same PAN. For port, PSU, or IT staff in Visakhapatnam defaulting on a loan held where their salary account is maintained, automated debits can disrupt essential living expenses.
               </p>
@@ -675,7 +675,7 @@ export default function Page() {
                 <Percent className="w-4 h-4" />
                 <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV Benchmarks</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV in Vizag</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI compromise directives, bank Credit Committees in Dwaraka Nagar and Siripuram evaluate OTS offers against a mathematical <strong>Net Present Value (NPV) Benchmark</strong>. Because civil recovery suits take 4 to 7 years with high legal fees, immediate cash recovery holds higher financial value.
               </p>
@@ -705,7 +705,7 @@ export default function Page() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>7. Anti-Harassment Laws &amp; Vizag Police Jurisdiction</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices in Vizag</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers in Visakhapatnam are protected under the <strong>RBI Master Directions on Recovery Agents (2022)</strong>. Agents cannot call before 08:00 AM or after 07:00 PM, use abusive language, or visit workplaces and homes without authorization.
               </p>
@@ -723,7 +723,7 @@ export default function Page() {
                 <Scale className="w-4 h-4" />
                 <span>8. DLSA Lok Adalat &amp; Arbitration Defense in Vizag</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">DLSA Lok Adalat Conciliation</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Vizag DLSA Lok Adalat Conciliation</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 The <strong>Visakhapatnam District Legal Services Authority (DLSA)</strong> at Nyayaseva Sadan conducts regular Lok Adalats. Legal representation secures 40% to 65% haircuts formalized as binding Section 21 civil decrees with full court fee refunds.
               </p>
@@ -738,7 +738,7 @@ export default function Page() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit &amp; CIBIL Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC Mandate</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Vizag</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay based on verbal assurances. We audit the bank&apos;s official <strong>OTS Sanction Letter</strong> to verify official letterhead authenticity, exact account numbers, compromised settlement amounts, payment schedules, and debt extinguishment terms.
               </p>
@@ -825,7 +825,7 @@ export default function Page() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Visakhapatnam</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Vizag</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq: any, index: number) => (

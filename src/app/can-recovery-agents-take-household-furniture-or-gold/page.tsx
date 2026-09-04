@@ -508,7 +508,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
 
             {/* Section 2: Statutory Framework & Section 60 CPC */}
             <section id="statutory-framework-cpc-section-60" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Framework &amp; Section 60 CPC</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Section 60 CPC Property Protections</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Even in the rare event that a commercial bank initiates a formal civil lawsuit, spends years litigating, and successfully secures a final monetary decree against a debtor, the Indian legal system provides comprehensive, non-negotiable statutory protections for individuals and their families. The cornerstone of this protection is codified under Section 60 of the Code of Civil Procedure, 1908 (CPC), which governs the attachment and sale of property in execution of a court decree.
               </p>
@@ -586,7 +586,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
 
             {/* Section 4: Bank Balance Sheet Accounting & The NPV Recovery Formula */}
             <section id="bank-npa-accounting-npv-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Accounting Realities</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; Seizure Economics</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To understand why collection agencies resort to dramatic threats of bringing trucks to seize furniture rather than pursuing legitimate judicial remedies, one must examine the internal balance sheet economics of Indian banking. Under the Reserve Bank of India (RBI) Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances, an unsecured personal loan or credit card account is classified as a Non-Performing Asset (NPA) once repayments remain past due for more than 90 days.
               </p>
@@ -675,7 +675,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
 
             {/* Section 7: Civil Court Execution Realities */}
             <section id="civil-court-execution-reality" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Civil Court Realities</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Civil Court Execution Realities for Assets</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To thoroughly dismantle the fear of abrupt household confiscation, borrowers must understand how a legitimate court-ordered attachment actually functions in the Indian judicial framework. A bank cannot simply walk into a court and obtain a property attachment order overnight. The procedural pipeline under the Code of Civil Procedure, 1908 involves extensive multi-year stages:
               </p>
@@ -716,7 +716,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
 
             {/* Section 8: Direct OTS Settlement Protocols */}
             <section id="settlement-negotiation-ndc-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Direct OTS Settlement Protocols</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. OTS Settlement &amp; NDC for Unsecured Debt</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A critical danger faced by unrepresented borrowers during recovery disputes is making informal cash payments or online UPI transfers to collection agents based on verbal promises of loan closure. Recovery personnel frequently tell borrowers, &quot;Pay ₹30,000 today and we will not bring the truck to seize your furniture.&quot; In reality, such informal payments are treated as partial interest servicing, leaving the principal balance untouched, keeping the account delinquent, and allowing harassment to resume the following month.
               </p>
@@ -752,7 +752,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
 
             {/* Section 9: Comparative Legal Matrix */}
             <section id="asset-protection-comparative-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Asset Seizure &amp; Property Protection Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative matrix below details the statutory boundaries, legal authority, and borrower protections across the various recovery channels operating in India:
               </p>
@@ -812,7 +812,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
             {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-legal-defense-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Asset Seizure Defense</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Living under the constant dread of aggressive recovery agents storming your residence, threatening your family, and attempting to confiscate your personal belongings is an emotionally devastating ordeal. At SettleLoans, our senior legal advocates, ex-banking professionals, and debt resolution specialists provide comprehensive nationwide protection for distressed borrowers. We immediately invoke statutory protections under Section 60 CPC and RBI Fair Practices Directions, serve formal Vakalatnama and Cease-and-Desist notices to halt third-party intimidation, and negotiate directly with bank zonal authorities to secure structured 40% to 65% One-Time Settlements backed by official, bank-stamped No Dues Certificates.
                 </p>
@@ -826,7 +826,7 @@ export default function CanRecoveryAgentsTakeHouseholdFurnitureOrGoldPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Can Recovery Agents Take Household Furniture or</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Can Agents Take Household Goods or Gold?</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Clear, legally verified answers to essential questions regarding recovery agent limitations, property attachment rules, Section 60 CPC exemptions, and borrower defense in India.

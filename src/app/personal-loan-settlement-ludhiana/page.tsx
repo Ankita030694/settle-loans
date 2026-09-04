@@ -538,7 +538,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 3: Civil Court & DRT Jurisdictions in Punjab */}
             <section id="civil-court-drt-jurisdiction-ludhiana" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Judicial Architecture</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">3. Judicial Architecture in Ludhiana</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Lenders pursuing unsecured debts in Punjab must approach competent civil and criminal courts depending on the claim quantum and instruments involved.
               </p>
@@ -563,7 +563,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 4: Bank NPA Accounting Realities & The NPV Recovery Valuation Formula */}
             <section id="bank-npa-accounting-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting in Ludhiana</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Banks agree to substantial OTS waivers due to mandatory RBI provisioning norms. Under RBI Prudential Norms (IRACP), unsecured loans are classified as Non-Performing Assets (NPAs) after 90 days of non-payment.
               </p>
@@ -618,7 +618,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 6: Tactical Step-by-Step Defense & Advocate-Led Settlement Protocol */}
             <section id="advocate-defense-negotiation-protocol" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Advocate-Led Tactical Defense &amp; Debt Settlement Protocol</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Tactical Settlement Protocol in Ludhiana</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Negotiating directly with branch managers or recovery agents often leads to partial token payments being credited to penal charges rather than settling principal debt. A conclusive compromise requires a structured 5-stage legal protocol:
               </p>
@@ -655,7 +655,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 7: Sanction Letter Forensics & Verification */}
             <section id="sanction-letter-forensics-waivers" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Sanction Letter Forensics</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Sanction Letter Forensics in Ludhiana</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Distressed borrowers often fall prey to fake settlement letters fabricated by rogue collection agents. Paying funds against unofficial receipts leaves the loan active and subject to fresh demand notices.
               </p>
@@ -695,7 +695,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
 
             {/* Section 8: Post-Settlement No Dues Certificate (NDC) & CIBIL Commercial / Retail Credit Rectification */}
             <section id="ndc-cibil-commercial-credit-repair" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. No Dues Certificate &amp; Credit Rebuilding</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. ₹0 NDC &amp; Credit Rebuilding in Ludhiana</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Under RBI Circular <em>RBI/2023-24/60</em>, lenders must issue an official No Dues Certificate (NDC) and release documents within 30 days of settlement payment.
               </p>
@@ -776,7 +776,7 @@ export default function PersonalLoanSettlementLudhianaPage() {
             {/* Section 10: SettleLoans Legal Defense Framework */}
             <section id="settleloans-punjab-legal-framework" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense in Ludhiana</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Managing debt distress while operating a factory in Focal Point or maintaining a salaried career in Ludhiana requires expert advocacy. SettleLoans provides complete legal defense across Punjab. We stop recovery harassment through statutory Cease-and-Desist notices, represent borrowers before Ludhiana Courts and Chandigarh DRT, and negotiate directly with bank committees to secure 40% to 65% One-Time Settlements with official No Dues Certificates.
                 </p>

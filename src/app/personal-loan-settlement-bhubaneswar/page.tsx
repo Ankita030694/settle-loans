@@ -576,7 +576,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Commercial Dynamics &amp; Debt Landscape in Odisha</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Navigating Debt Realities in Eastern India&apos;s Tech</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Landscape &amp; Realities in Bhubaneswar</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Bhubaneswar and Cuttack form the administrative and economic engine of Odisha. While the Infocity corridor in Patia hosts global IT firms and industrial estates thrive in Mancheswar and Rasulgarh, an acute debt crisis affects local professionals. Software engineers facing project roll-offs, mining contractors from Keonjhar, Barbil, and Angul coping with delayed receivables, and public sector employees at Lok Seva Bhavan or Nalco frequently find their personal credit lines and cards overextended when income streams face sudden shocks.
               </p>
@@ -616,7 +616,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <Clock className="w-4 h-4" />
                 <span>3. Delinquency Timeline &amp; Bank NPA Balance-Sheet Accounting</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Delinquency Lifecycle</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Delinquency Lifecycle &amp; NPA Stages in Bhubaneswar</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI&apos;s Prudential Norms (IRACP) and Ind AS 109, loan accounts transition through strict delinquency buckets. At 91 Days Past Due (DPD), the account is classified as a Non-Performing Asset (NPA). The bank must halt interest recognition and allocate mandatory capital provisions from operating profits, shifting institutional focus from monthly collection to bad-debt resolution.
               </p>
@@ -684,7 +684,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. Mathematical NPV Valuation &amp; Bank Haircut Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Mathematical Net Present Value (NPV) Logic Behind Bank</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPV Valuation Logic &amp; Haircuts in Bhubaneswar</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Lenders evaluate OTS proposals through a mathematical Net Present Value (NPV) recovery methodology mandated by the RBI. Because unsecured loans carry no physical collateral, the bank compares immediate OTS cash against the discounted recovery of civil litigation. In Odisha civil courts, Order 37 summary suits typically require 3 to 5 years, accumulating legal fees and capital provisioning burdens. When an advocate proves that the NPV of an upfront settlement exceeds delayed court recovery, the bank approves substantial debt haircuts.
               </p>
@@ -809,7 +809,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <Gavel className="w-4 h-4" />
                 <span>6. Defending SARB Notices, Section 138 &amp; PSSA in Bhubaneswar</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending SARB Demands &amp; Sec 138 NI Act</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending SARB Demands &amp; Sec 138 in Bhubaneswar</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 When personal loans default past 90 days, lenders transfer files to centralized Stressed Assets Recovery Branches (SARB) in Bhubaneswar, such as SBI SARB in Ashok Nagar or PNB in Saheed Nagar. Lenders frequently issue statutory 15-day demand notices under Section 138 of the Negotiable Instruments Act for bounced cheques or Section 25 of the Payment and Settlement Systems Act (PSSA) for failed e-mandates.
               </p>
@@ -839,7 +839,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <Layers className="w-4 h-4" />
                 <span>8. Step-by-Step Advocate Negotiation Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Settlement Blueprint</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Settlement Blueprint in Bhubaneswar</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Achieving an authorized, binding One-Time Settlement requires an evidence-driven, legally structured methodology executed across six decisive phases:
               </p>
@@ -919,7 +919,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Audit, ₹0 NDC &amp; CIBIL Rehabilitation</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC Mandate</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Bhubaneswar</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Borrowers in Bhubaneswar must guard against recovery fraud where unauthorized agents issue fake settlement receipts. Every legitimate sanction letter must be issued on official bank letterhead, bearing unique proposal reference numbers, authorized officer seals, and explicit covenants confirming complete debt extinction upon payment.
               </p>
@@ -934,7 +934,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <Briefcase className="w-4 h-4" />
                 <span>10. Comprehensive Debt Resolution Matrix</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Comparative Resolution Matrix in Bhubaneswar</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Evaluating different legal debt resolution pathways enables borrowers in Bhubaneswar, Cuttack, and across Odisha to select the most effective strategy for their specific financial profile:
               </p>
@@ -991,7 +991,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <ShieldCheck className="w-4 h-4" />
                 <span>11. SettleLoans Legal Advocacy in Bhubaneswar &amp; Odisha</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Distressed Borrowers in Bhubaneswar</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Why Borrowers in Bhubaneswar Choose SettleLoans</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Navigating complex banking regulations and aggressive court notices in Odisha requires rigorous legal defense. SettleLoans provides complete representation: issuing cease-and-desist notices to stop harassment, defending Section 138/25 summons in Bhubaneswar courts, representing clients at DLSA Khordha Lok Adalats, and negotiating directly with bank SARB desks to secure maximum debt haircuts with authentic ₹0 No Dues Certificates.
               </p>
@@ -1008,7 +1008,7 @@ export default function PersonalLoanSettlementBhubaneswarPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Bhubaneswar &amp; Odisha</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Bhubaneswar</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

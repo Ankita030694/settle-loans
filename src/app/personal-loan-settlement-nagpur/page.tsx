@@ -645,7 +645,7 @@ export default function PersonalLoanSettlementNagpurPage() {
             <section id="anti-harassment-nach-protection" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <ShieldAlert className="w-6 h-6 text-[#1F5EFF]" />
-                <span>3. Borrower Legal Protections</span>
+                <span>3. Borrower Legal Protections in Nagpur</span>
               </h2>
               <p>
                 A primary concern for distressed borrowers in Nagpur is aggressive, unlawful recovery practices. Collection agencies frequently violate statutory boundaries by dispatching unannounced recovery agents to corporate campuses in MIHAN, retail establishments in Sitabuldi and Gandhibagh, or residential neighborhoods across Dharampeth and Ramdaspeth. Borrowers must recognize that debt default is strictly a civil contractual matter governed by the Indian Contract Act, 1872, and not a criminal offense.
@@ -679,7 +679,7 @@ export default function PersonalLoanSettlementNagpurPage() {
             <section id="rbi-ots-npv-valuation" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Calculator className="w-6 h-6 text-[#1F5EFF]" />
-                <span>4. NPV Valuation Mechanics &amp; OTS Haircuts</span>
+                <span>4. NPV Valuation &amp; OTS Haircuts in Nagpur</span>
               </h2>
               <p>
                 One-Time Settlement (OTS) sanctioning is governed by the Reserve Bank of India’s Master Directions on Compromise Settlements and Technical Write-offs. Bank Zonal Committees and Credit Sanctioning Authorities do not evaluate settlement requests based on emotional distress; they operate strictly on comparative Net Present Value (NPV) financial recovery modeling.
@@ -714,7 +714,7 @@ export default function PersonalLoanSettlementNagpurPage() {
             <section id="infographic-resolution-blueprint" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Layers className="w-6 h-6 text-[#1F5EFF]" />
-                <span>5. Visual Resolution Blueprint</span>
+                <span>5. Visual Resolution Roadmap in Nagpur</span>
               </h2>
               <p>
                 The resolution framework below illustrates the complete end-to-end pathway from delinquency and legal notice defense to advocate-led Zonal SARB negotiations, Lok Adalat conciliation, and final ₹0 No Dues Certificate issuance for borrowers across Nagpur and Vidarbha:
@@ -809,7 +809,7 @@ export default function PersonalLoanSettlementNagpurPage() {
             <section id="step-by-step-settlement-roadmap" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Clock className="w-6 h-6 text-[#1F5EFF]" />
-                <span>8. The 5-Stage Advocate-Led Settlement Protocol</span>
+                <span>8. 5-Stage Settlement Protocol in Nagpur</span>
               </h2>
               <p>
                 Resolving delinquent personal loans and credit card debt requires a structured, multi-stage legal and financial protocol designed to maximize debt waivers while eliminating legal vulnerability:
@@ -860,7 +860,7 @@ export default function PersonalLoanSettlementNagpurPage() {
             <section id="sanction-letter-audit-ndc" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <FileCheck className="w-6 h-6 text-[#1F5EFF]" />
-                <span>9. Forensic Audit of Nagpur OTS Letters</span>
+                <span>9. Forensic Audit of OTS Letters in Nagpur</span>
               </h2>
               <p>
                 A critical danger for distressed borrowers is settling with unauthorized third-party recovery agents who issue forged compromise letters or misappropriate funds into third-party accounts. SettleLoans enforces strict forensic protocols to verify every settlement document before a single rupee is remitted.
@@ -897,7 +897,7 @@ export default function PersonalLoanSettlementNagpurPage() {
             <section id="cibil-score-rehabilitation-nagpur" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <TrendingUp className="w-6 h-6 text-[#1F5EFF]" />
-                <span>10. CIBIL Trajectory &amp; Score Rehabilitation</span>
+                <span>10. CIBIL Score Rehabilitation in Nagpur</span>
               </h2>
               <p>
                 A transparent understanding of credit bureau reporting is vital for long-term financial recovery. When an unsecured personal loan or credit card is settled through an OTS, the lender reports the trade line status to TransUnion CIBIL, Experian, Equifax, and CRIF High Mark as &quot;Settled&quot; or &quot;Post-Write-Off Settled&quot; with a current balance of ₹0.
@@ -928,7 +928,7 @@ export default function PersonalLoanSettlementNagpurPage() {
             <section id="nagpur-debt-matrix" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Scale className="w-6 h-6 text-[#1F5EFF]" />
-                <span>11. Nagpur Debt Resolution</span>
+                <span>11. Nagpur Debt Resolution Matrix</span>
               </h2>
               <p>
                 The table below outlines key procedural dynamics, expected OTS haircut percentages, and court resolution pathways across different credit categories for borrowers in Nagpur and Vidarbha:
@@ -989,7 +989,7 @@ export default function PersonalLoanSettlementNagpurPage() {
             <section id="company-resolution-section" className="scroll-mt-24 space-y-4">
               <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2.5">
                 <Shield className="w-6 h-6 text-[#1F5EFF]" />
-                <span>12. SettleLoans Legal Defense &amp; Advisory</span>
+                <span>12. SettleLoans Legal Defense in Nagpur</span>
               </h2>
               <p>
                 SettleLoans is India’s premier advocate-backed debt resolution and financial defense consultancy. Our dedicated Nagpur legal team combines deep expertise in banking regulations, SARB stressed asset negotiations, and court representation across the Nagpur District and Sessions Court at Nyay Mandir. We have successfully defended over 1,200+ borrowers, safeguarding their legal dignity, halting recovery harassment, and securing maximum financial waivers.

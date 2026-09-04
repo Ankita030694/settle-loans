@@ -527,7 +527,7 @@ export default function CyberCrimeComplaintIllegalLoanAppsPage() {
 
             {/* Section 2: Statutory Legal Framework */}
             <section id="statutory-framework-bns-it-act-rbi-digital-lending" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Legal Framework</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Statutory Cyber Crime &amp; BNS Legal Framework</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The operations of illegal loan applications violate multiple federal statutes, constitutional privacy mandates, and central banking directives in India. Both criminal law and regulatory jurisprudence provide sweeping protections to borrowers while subjecting syndicate operators and local recovery goons to severe non-bailable criminal penalties.
               </p>

@@ -684,7 +684,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. OTS Haircut Policies &amp; Valuation Models</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Partner Bank OTS Haircut Valuation &amp; NPV Recovery Economics</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Partner Bank OTS Haircut Valuation</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI compromise directives, partner lenders evaluate settlement proposals using Net Present Value (NPV) recovery algorithms. Because unsecured digital credit lines lack physical collateral, lenders mathematically compare an immediate cash settlement against the discounted future recoveries of multi-year civil litigation, legal fees, and ongoing NPA provisioning burdens.
               </p>
@@ -816,7 +816,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <ShieldAlert className="w-4 h-4" />
                 <span>5. Recovery Practices &amp; Anti-Harassment Rights</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Halting Collection Harassment Under RBI Digital Lending</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Halting CRED Cash Harassment Under RBI Directives</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Because CRED Cash caters to prime corporate borrowers, outsourced collection agencies frequently deploy high-pressure tactics including calling workplace numbers, reaching out to colleagues on professional networks, and threatening residential visits.
               </p>
@@ -834,7 +834,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <Layers className="w-4 h-4" />
                 <span>6. Step-by-Step Resolution Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to a Defaulted CRED Cash Credit Line</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Step-by-Step Guide to CRED Cash Settlement</h2>
               <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                 Achieving an authorized settlement requires an organized, legally backed process:
               </p>
@@ -914,7 +914,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <Gavel className="w-4 h-4" />
                 <span>7. Legal Notices, Section 25 &amp; Arbitration</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Sec 25 PSSA &amp; Lok Adalat</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sec 25 PSSA &amp; Lok Adalat Defense for CRED Cash</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 After 60 to 90 days of default, lenders may issue 15-day statutory notices under Section 25 of the Payment and Settlement Systems Act (PSSA) for dishonoured NACH debits, or invoke unilateral sole-arbitration in distant metro locations.
               </p>
@@ -976,7 +976,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>8. Sanction Letter Audit &amp; ₹0 NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating OTS Sanction Letters</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Authenticating CRED Cash OTS Sanction Letters</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Never pay against verbal offers or collection agency messages. An authentic OTS Sanction Letter must be on the underwriting institution&apos;s corporate letterhead (e.g., IDFC FIRST Bank, Newtap Finance, or L&amp;T Finance) containing CIN, registered address, exact loan number, approved settlement amount, and explicit covenants of complete liability release.
               </p>
@@ -991,7 +991,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>9. CIBIL Trajectory &amp; Credit Restoration</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Score Recovery</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery for CRED Cash</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Settling a CRED Cash loan results in bureaus reporting the status as <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While causing an initial drop of 75 to 120 points, it permanently stops compounding default marks and legal exposure.
               </p>
@@ -1026,7 +1026,7 @@ export default function CredCashPersonalLoanSettlementPage() {
                 <span>11. Frequently Asked Questions</span>
               </div>
               <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">
-                Frequently Asked Questions About CRED Cash Loan Settlement
+                FAQs on CRED Cash Loan Settlement &amp; RBI Rules
               </h2>
 
               <div className="space-y-4">

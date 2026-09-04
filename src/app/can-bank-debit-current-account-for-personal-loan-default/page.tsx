@@ -658,7 +658,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 4: Bank Balance Sheet Accounting & NPV Recovery Formula */}
             <section id="bank-accounting-npa-npv-recovery-formula" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank Balance Sheet Accounting, NPA Provisioning</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting &amp; Current Account Freezes</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To comprehend why commercial lenders resort to aggressive current account freezes—and how legal counsel turns that desperation into a heavily discounted compromise settlement—one must examine the prudential accounting framework mandated by the Reserve Bank of India. When an unsecured personal loan passes 90 days of non-payment, it is classified as a <strong>Non-Performing Asset (NPA)</strong> under RBI Master Circulars.
               </p>
@@ -851,32 +851,61 @@ export default function CanBankDebitCurrentAccountPage() {
               </div>
             </section>
 
-            {/* Section 8: Sanction Letter Forensics, RBI NDC Mandate & Commercial CIBIL Trajectory */}
-            <section id="sanction-letter-forensics-rbi-ndc-mandate" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics, RBI ₹0 NDC Mandate</h2>
+            {/* Section 8: Forensic Sanction Verification & ₹0 NDC Mandate */}
+            <section id="sanction-letter-forensics-ndc-compliance" className="space-y-4">
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Sanction Letter Forensics &amp; RBI ₹0 NDC</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
-                During debt resolution negotiations, borrowers must remain vigilant against fraudulent settlement offers. External collection agencies often issue unauthorized, fake settlement letters over WhatsApp to meet monthly recovery targets. A borrower must never disburse settlement funds until the sanction letter passes strict forensic legal verification.
+                When settling a loan that previously triggered a business account freeze, executing the settlement without airtight documentary validation carries enormous legal risk. Distressed borrowers frequently fall victim to verbal promises from collection managers who accept compromised payments, only to leave remaining amounts active on the ledger or maintain internal debit flags.
               </p>
-              
-              <div className="p-4 rounded-2xl bg-amber-50 border border-amber-200 text-xs sm:text-sm text-amber-900 space-y-2 my-4">
-                <div className="flex items-center gap-2 font-bold text-amber-950">
-                  <AlertTriangle className="w-4 h-4 text-amber-600" />
-                  <span>The 4 Forensic Checkpoints of an Authentic Bank OTS Letter</span>
+              <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
+                Our advocates audit every settlement document against 4 essential forensic verification benchmarks:
+              </p>
+
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 my-4">
+                <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm space-y-1.5">
+                  <div className="flex items-center gap-2 font-bold text-slate-900 text-xs sm:text-sm">
+                    <FileCheck className="w-4 h-4 text-emerald-600" />
+                    <span>Official Corporate Letterhead &amp; Proposal Ref</span>
+                  </div>
+                  <p className="text-xs text-slate-600 leading-relaxed">
+                    The sanction letter must originate directly from the bank&apos;s corporate email domain or official stationery signed by a designated Zonal Credit Manager (Scale-IV or higher).
+                  </p>
                 </div>
-                <ul className="space-y-1.5 text-xs text-amber-800 list-disc pl-4">
-                  <li><strong>Official Bank Letterhead &amp; Zonal Seal:</strong> Must be issued on registered bank stationery bearing unique sanction reference numbers and authorized signatures from Scale-IV/Zonal Credit Committee officers.</li>
-                  <li><strong>Exact PAN &amp; Loan Identifier Recital:</strong> Must clearly list the borrower&apos;s Permanent Account Number (PAN), registered residential address, and exact 16-digit loan account number.</li>
-                  <li><strong>Absolute Debt Extinguishment Clause:</strong> Must explicitly state that upon receipt of the agreed compromised sum, the entire loan balance stands fully discharged with zero remaining claims.</li>
-                  <li><strong>Express Account Unfreezing Covenant:</strong> Must contain an express undertaking confirming the immediate and irrevocable release of all debit freezes and liens across all related accounts.</li>
-                </ul>
+                <div className="p-4 rounded-xl bg-white border border-slate-200 shadow-sm space-y-1.5">
+                  <div className="flex items-center gap-2 font-bold text-slate-900 text-xs sm:text-sm">
+                    <CheckCircle2 className="w-4 h-4 text-[#1F5EFF]" />
+                    <span>Explicit Account Identification &amp; Waiver Breakdown</span>
+                  </div>
+                  <p className="text-xs text-slate-600 leading-relaxed">
+                    The document must clearly list the loan account number, borrower PAN, pre-settlement balance, principal waiver quantum, and the exact net settlement remittance figure.
+                  </p>
+                </div>
+                <div className="p-4 rounded-xl border border-slate-200 shadow-sm space-y-1.5">
+                  <div className="flex items-center gap-2 font-bold text-slate-900 text-xs sm:text-sm">
+                    <Lock className="w-4 h-4 text-purple-600" />
+                    <span>Express Covenant on Complete Lien Removal</span>
+                  </div>
+                  <p className="text-xs text-slate-600 leading-relaxed">
+                    The sanction letter must incorporate an express undertaking that all internal debit freezes, liens, and administrative holds across all connected current accounts stand permanently vacated.
+                  </p>
+                </div>
+                <div className="p-4 rounded-xl border border-slate-200 shadow-sm space-y-1.5">
+                  <div className="flex items-center gap-2 font-bold text-slate-900 text-xs sm:text-sm">
+                    <Gavel className="w-4 h-4 text-amber-600" />
+                    <span>Withdrawal of All Legal Proceedings</span>
+                  </div>
+                  <p className="text-xs text-slate-600 leading-relaxed">
+                    The bank must formally covenant to withdraw all pending Section 138 NI Act complaints, Section 25 PSSA summons, or civil summary suits upon receipt of the agreed settlement sum.
+                  </p>
+                </div>
               </div>
 
-              <div className="p-4 rounded-2xl bg-emerald-50 border border-emerald-200 text-xs sm:text-sm text-emerald-950 space-y-2 my-4">
-                <div className="flex items-center gap-2 font-bold text-emerald-900">
-                  <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                  <span>RBI Circular RBI/2023-24/60: Mandatory ₹0 NDC Delivery &amp; ₹5,000/Day Penalty</span>
+              <div className="p-4 rounded-2xl bg-amber-50 border border-amber-200 text-xs sm:text-sm text-amber-900 space-y-2">
+                <div className="flex items-center gap-2 font-bold text-amber-950">
+                  <ShieldCheck className="w-4 h-4 text-amber-600" />
+                  <span>The Mandatory 30-Day RBI No Dues Certificate Directive</span>
                 </div>
-                <p className="leading-relaxed text-emerald-900">
+                <p className="leading-relaxed text-amber-800">
                   Under <strong>RBI Circular RBI/2023-24/60</strong>, regulated commercial banks and NBFCs are legally mandated to deliver a formal <strong>No Dues Certificate (NDC) / Loan Closure Letter</strong> and update all credit information companies (CIBIL, Experian, Equifax, CRIF High Mark) to zero balance within <strong>30 calendar days</strong> of receiving final settlement payment. Any unjustified delay beyond 30 days incurs a mandatory statutory penalty of <strong>₹5,000 for each day of delay</strong> payable directly to the borrower.
                 </p>
               </div>
@@ -891,7 +920,7 @@ export default function CanBankDebitCurrentAccountPage() {
 
             {/* Section 9: Comparative Legal Matrix */}
             <section id="comparative-legal-matrix-setoff-vs-injunction" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Current Account Debt Defense Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Comparing the legal mechanisms governing bank account actions and business debt defense enables enterprise founders to understand their strategic options and enforce their rights effectively:
               </p>
@@ -944,7 +973,7 @@ export default function CanBankDebitCurrentAccountPage() {
             {/* Section 10: SettleLoans Legal Defense & Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Account Unfreezing Legal Relief</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   Defending your enterprise against an unlawful current account freeze demands specialized banking litigation counsel who understand corporate jurisprudence, the Doctrine of Mutuality, and institutional debt restructuring frameworks. SettleLoans delivers complete legal defense for business founders, partners, and self-employed professionals across India: serving formal statutory notices, stopping recovery harassment, escalating breaches to the RBI Banking Ombudsman, and negotiating directly with bank zonal authorities to achieve 45% to 65% principal haircuts backed by official No Dues Certificates.
                 </p>

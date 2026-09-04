@@ -764,7 +764,7 @@ export default function DpdpActViolationComplaintAgainstLoanAppsPage() {
 
             {/* Section 9: Comparative Enforcement Matrix */}
             <section id="comparative-statutory-protection-matrix" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative DPDP Enforcement &amp; Debt Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The comparative matrix below outlines the statutory mandates, data access restrictions, and penal liabilities across different regulatory frameworks governing digital lending in India:
               </p>

@@ -520,7 +520,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* Section 2: Legal Distinction: Unsecured vs Secured */}
             <section id="legal-distinction-unsecured-vs-secured" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Legal Distinction</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">2. Legal Distinctions for Rajkot Borrowers</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 A fundamental distinction in debt resolution lies between secured industrial credit and unsecured personal loans. Under the SARFAESI Act, 2002, secured lenders with registered mortgages on factory land or registered hypothecation on machinery can issue Section 13(2) demand notices and pursue possession under Section 13(4). However, this statutory enforcement applies strictly to collateral specifically mortgaged in the loan agreements.
               </p>
@@ -542,7 +542,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* Section 4: Bank Accounting, Provisioning Drag & NPV Equation */}
             <section id="bank-accounting-npa-npv-recovery" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting, Provisioning Drag</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">4. Bank NPA Accounting in Rajkot</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Substantial principal haircuts in loan settlements are driven by regulatory accounting rules under the <strong>RBI Prudential Norms on Income Recognition, Asset Classification, and Provisioning (IRACP)</strong>. When an unsecured loan default crosses 90 days, it is classified as a Non-Performing Asset (NPA), requiring mandatory provisioning from operating profits:
               </p>
@@ -607,7 +607,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="rajkot-debt-settlement-infographic-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Process Roadmap</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Loan Settlement Roadmap in Rajkot</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual roadmap below details the structured 5-stage institutional debt resolution pathway: from MSME and promoter hardship auditing to statutory legal shielding, court notice defense, advocate-led One-Time Settlement negotiations, and complete RBI credit bureau clearance.
               </p>
@@ -630,7 +630,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* Section 6: Judicial Defense in Gujarat Courts */}
             <section id="judicial-defense-ni-act-pssa-drt-gujarat" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Judicial Defense in Gujarat Courts</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">6. Judicial Defense in Rajkot Courts</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When personal loan accounts default, lenders initiate judicial proceedings to exert legal pressure. The most common action is filing cheque bounce complaints under Section 138 of the Negotiable Instruments Act, 1881 or NACH bounce cases under Section 25 of the Payment and Settlement Systems Act, 2007 before the Chief Judicial Magistrate (CJM) in Rajkot. Crucially, under Section 147 of the NI Act, cheque bounce offenses are compoundable by law at any stage. Advocates file appearances, secure personal bail, dispute notice defects, and record compounded out-of-court settlements resulting in full acquittal.
               </p>
@@ -641,7 +641,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* Section 7: Structuring an Institutional OTS for Rajkot Borrowers */}
             <section id="structuring-ots-for-rajkot-manufacturers" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Structuring an Institutional OTS</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">7. Structuring an Institutional OTS in Rajkot</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Achieving a favorable One-Time Settlement requires escalating negotiations directly to the lender&apos;s Zonal Stressed Asset Resolution Branch (SARB) or Chief Credit Officer. Borrowers compile a comprehensive hardship dossier with audited MSME balance sheets, GST return drops, cancelled buyer orders, and bank statements establishing genuine commercial distress and asset non-availability.
               </p>
@@ -662,7 +662,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* Section 8: Sanction Letter Forensics & CIBIL Bureau Clean-Up */}
             <section id="sanction-letter-forensics-ndc-cibil" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Forensic Audit of Bank OTS Letters</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">8. Forensic Audit of OTS Letters in Rajkot</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 To guarantee permanent legal closure, the settlement sanction letter must be issued on official bank letterhead with unique reference numbers, official seals, and authorized officer signatures. It must explicitly state the exact loan account numbers, borrower PAN, compromised settlement amount, and unambiguous covenants confirming complete debt extinguishment and unconditional court case withdrawal in Rajkot courts.
               </p>
@@ -683,7 +683,7 @@ export default function PersonalLoanSettlementRajkotPage() {
 
             {/* Section 9: Comparative Strategic Matrix */}
             <section id="comparative-matrix-litigation-vs-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Debt Resolution Matrix for Rajkot Borrowers</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 Rajkot business owners must evaluate the strategic contrast between prolonged litigation exposure and a professionally negotiated One-Time Settlement:
               </p>
@@ -741,7 +741,7 @@ export default function PersonalLoanSettlementRajkotPage() {
             {/* Section 10: SettleLoans Legal Debt Resolution & MSME Advisory + CompanySection */}
             <section id="company-resolution-section" className="space-y-6">
               <div className="border-t border-slate-200 pt-8 space-y-4">
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense &amp; Advisory</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">10. SettleLoans Legal Defense in Rajkot</h2>
                 <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                   SettleLoans provides comprehensive legal and financial representation for foundry owners, auto-component manufacturers, and individual borrowers across Rajkot, Jamnagar, and Bhavnagar. Our senior banking advocates shield promoters from collection harassment, defend Section 138 NI Act notices in Rajkot courts, and negotiate directly with bank Stressed Asset Committees to secure deep 40% to 70% One-Time Settlements backed by official No Dues Certificates.
                 </p>
@@ -755,7 +755,7 @@ export default function PersonalLoanSettlementRajkotPage() {
             <section id="faqs" className="space-y-4 border-t border-slate-200 pt-8">
               <div className="flex items-center gap-2 mb-2">
                 <HelpCircle className="w-5 h-5 text-[#1F5EFF]" />
-                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Rajkot</h2>
+                <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">11. FAQs: Debt Settlement in Rajkot</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 mb-6">
                 Authoritative answers to critical questions regarding personal loan settlement, MSME debt resolution, court defense, and borrower protections in Rajkot and Gujarat.

@@ -562,7 +562,7 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <Building2 className="w-4 h-4" />
                 <span>1. Raipur Commercial Hub &amp; Debt Distress</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Managing Debt Default Dynamics in Central India&apos;s Industrial</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Default Dynamics in Raipur &amp; Bhilai</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Raipur serves as the primary commercial and industrial hub of Chhattisgarh, anchoring mineral trade and secondary steel manufacturing across central India. Interlinked with the heavy industrial belt of Bhilai-Durg and the judicial center of Bilaspur, Raipur hosts an intricate economic network ranging from rolling mills in Urla and Siltara to wholesale trading centers in Pandri Cloth Market, Gol Bazar, and Malviya Road. Furthermore, commercial growth across Shankar Nagar, Devendra Nagar, and Tatibandh has driven widespread adoption of unsecured personal lines and retail consumer financing.
               </p>
@@ -577,7 +577,7 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <Clock className="w-4 h-4" />
                 <span>2. Delinquency Timeline &amp; NPA Accounting</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Delinquency Timeline &amp; Non-Performing Asset Classifications</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Delinquency Timeline &amp; NPA Rules in Raipur</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under the Reserve Bank of India Prudential Norms on Income Recognition, Asset Classification and Provisioning pertaining to Advances (IRACP) and Ind AS 109, loan delinquency follows an exacting statutory trajectory. Financial institutions categorize overdue accounts into Special Mention Account (SMA) buckets: SMA-0 (1–30 days), SMA-1 (31–60 days), and SMA-2 (61–90 days). Beyond 90 Days Past Due, the facility is classified as a Non-Performing Asset (NPA).
               </p>
@@ -633,19 +633,15 @@ export default function PersonalLoanSettlementRaipurPage() {
                   </tbody>
                 </table>
               </div>
-
-              <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                Once an account undergoes technical write-off, the institution has already recognized the financial loss on its audited balance sheet. Presenting a lump-sum compromise settlement backed by verifiable hardship proof delivers an immediate cash write-back to the bank&apos;s operating profit, providing compelling financial rationale for Zonal Committees to sanction substantial principal waivers.
-              </p>
             </section>
 
-            {/* Section 3: Stopping Recovery Aggression & Halting Unlawful NACH Sweeps */}
-            <section id="anti-harassment-nach-protection" className="scroll-mt-24 mb-12">
+            {/* Section 3: Statutory Borrower Protections & Stopping Harassment */}
+            <section id="borrower-protections-anti-harassment" className="scroll-mt-24 mb-12">
               <div className="inline-flex items-center gap-2 text-xs font-bold text-[#1F5EFF] uppercase tracking-wider mb-2">
                 <ShieldAlert className="w-4 h-4" />
                 <span>3. Halting Harassment &amp; Stopping NACH Charges</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Harassment</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Against Recovery Harassment in Raipur</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 In commercial centers like Raipur and Bhilai, recovery agents hired by private lenders frequently resort to intimidating collection tactics. Borrowers across residential localities like Shankar Nagar, Devendra Nagar, and Kapa, as well as wholesale markets like Gol Bazar and Pandri, encounter unscheduled visits and deceptive threats of police action. Under the RBI Master Direction on Recovery Agents and NBFC Fair Practices Code, recovery personnel must strictly adhere to statutory guidelines:
               </p>
@@ -666,7 +662,7 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <Calculator className="w-4 h-4" />
                 <span>4. RBI Compromise Guidelines &amp; NPV Math</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">RBI Compromise Rules &amp; NPV Valuation</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">RBI Compromise Rules &amp; NPV in Raipur</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Under RBI Master Direction DOR.STR.REC.20/21.04.048/2023-24, lenders must operate transparent, board-approved compromise settlement policies. Because unsecured credit lines lack physical collateral that can be attached under the SARFAESI Act, credit committees evaluate compromise offers against the Net Present Value (NPV) of prolonged court litigation.
               </p>
@@ -835,7 +831,7 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <Layers className="w-4 h-4" />
                 <span>8. Step-by-Step Settlement Roadmap</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">The 6-Phase Legal &amp; Financial Debt Settlement Framework</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">6-Phase Debt Settlement Protocol in Raipur</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 SettleLoans executes a disciplined 6-phase resolution strategy tailored to Chhattisgarh&apos;s legal and commercial landscape:
               </p>
@@ -909,7 +905,7 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <FileCheck className="w-4 h-4" />
                 <span>9. Sanction Letter Forensics &amp; NDC Mandate</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; Verification</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Raipur</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Distressed borrowers often risk receiving deceptive settlement letters from collection agents aiming to collect partial recoveries against interest dues. To ensure full legal discharge, your advocate verifies:
               </p>
@@ -930,7 +926,7 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <TrendingUp className="w-4 h-4" />
                 <span>10. Credit Rehabilitation &amp; Score Recovery</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery (18M)</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Post-Settlement CIBIL Recovery in Raipur</h2>
               <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                 Executing an OTS updates your credit profile across TransUnion CIBIL, Experian, Equifax, and CRIF High Mark to <strong>&apos;Settled&apos;</strong> with an outstanding balance of <strong>₹0</strong>. While causing an initial drop of 75 to 150 points, this halts monthly compounding default flags and legal risk.
               </p>
@@ -970,7 +966,7 @@ export default function PersonalLoanSettlementRaipurPage() {
                 <HelpCircle className="w-4 h-4" />
                 <span>12. Frequently Asked Questions</span>
               </div>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Raipur Chhattisgarh</h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-6 leading-tight">FAQs: Personal Loan Settlement in Raipur</h2>
 
               <div className="space-y-4">
                 {faqs.map((faq, index) => (

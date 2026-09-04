@@ -526,7 +526,7 @@ export default function Page() {
                   <Building2 className="w-4 h-4" />
                   <span>1. Agra MSME, Footwear &amp; Tourism Crisis</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Landscape &amp; Borrowers</h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Landscape &amp; Borrowers in Agra</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Agra serves as Northern India&apos;s footwear and tourism powerhouse, manufacturing over 65% of domestic leather shoes across industrial clusters in Sikandra, Nunhai, Foundry Nagar, and Bodla, with wholesale trade centered in Hing Ki Mandi. Along with marble inlay artisans, hospitality operators in Tajganj and Fatehabad Road, and neighboring industrial corridors in Mathura and Firozabad, the region represents an extensive commercial network. Aggressive lending by PSU banks (SBI, PNB, BOB), private lenders (HDFC, ICICI, Axis), and NBFCs has left many unit proprietors and salaried professionals burdened with high-interest unsecured credit lines and overdrafts.
                 </p>
@@ -549,7 +549,7 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; Allahabad HC Norms</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging</h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging in Agra</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under the RBI&apos;s Prudential Norms on Income Recognition, Asset Classification and Provisioning (IRACP), overdue accounts transition from Special Mention Accounts (SMA-0 to SMA-2) to Non-Performing Asset (NPA) status once delinquency crosses 90 days. Unsecured NPAs obligate banks to lock regulatory provisioning between 15% and 100%, eroding balance sheet profitability and incentivizing institutional compromise settlements.
                 </p>
@@ -626,7 +626,7 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Account Protection</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s Right of General Lien (Section 171)</h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s General Lien Rules in Agra</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under Section 171 of the Indian Contract Act, 1872, banks possess a general lien permitting them to set off debts against balances held within the same institution under the matching CIF and PAN. For footwear manufacturers in Sikandra or traders in Hing Ki Mandi, an unannounced sweep of operating current accounts can paralyze business liquidity.
                 </p>
@@ -666,7 +666,7 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV Benchmarks</h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV in Agra</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Bank Settlement Committees in Sanjay Place evaluate compromise offers against an institutional <strong>Net Present Value (NPV) Recovery Valuation Benchmark</strong>. Pursuing 4 to 7 years of civil and magistrate litigation in Uttar Pradesh incurs significant advocate fees, court costs, and locks expensive 100% loss asset provisioning capital.
                 </p>
@@ -696,7 +696,7 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. RBI Anti-Harassment &amp; Police Limits</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices &amp; Police Interference in Agra</h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices in Agra</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   The <strong>RBI Master Directions on Recovery Agents (2022)</strong> strictly forbid collection calls before 8:00 AM or after 7:00 PM, ban abusive language, and prohibit contacting third parties or workplace colleagues. Agents visiting Sikandra factories or Dayalbagh residences must carry verified bank authorization cards and respect privacy.
                 </p>
@@ -711,7 +711,7 @@ export default function Page() {
                   <Layers className="w-4 h-4" />
                   <span>8. 5-Step Zonal SARB Settlement Protocol</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Legal Protocol</h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">5-Step Settlement Protocol in Agra</h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Achieving a binding One-Time Settlement with banks in Agra follows an advocate-led five-stage legal protocol:
                 </p>
@@ -785,7 +785,7 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Rebuilding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC Mandate</h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Agra</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Borrowers must never remit funds based on informal communications. A legally valid settlement requires a stamped <strong>OTS Sanction Letter</strong> on official bank letterhead detailing compromised amounts, full debt extinguishment terms, and commitments to withdraw court proceedings.
                 </p>
@@ -857,7 +857,7 @@ export default function Page() {
                   <span>11. SettleLoans Legal Defense &amp; Advisory</span>
                 </div>
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">
-                  Premier Loan Settlement &amp; Legal Defense Services in Agra
+                  SettleLoans Legal Defense in Agra
                 </h2>
                 <p className="text-slate-700 leading-relaxed mb-6 text-base md:text-lg">
                   Resolving unmanageable debt in Agra, Mathura, and Firozabad demands decisive advocate defense to halt harassment, defend against court notices in the Civil Court Compound, and negotiate directly with bank Zonal Committees. SettleLoans provides complete legal defense to help borrowers across Western Uttar Pradesh achieve financial freedom.

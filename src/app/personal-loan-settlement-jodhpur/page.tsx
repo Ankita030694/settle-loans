@@ -522,7 +522,7 @@ export default function Page() {
                   <Building2 className="w-4 h-4" />
                   <span>1. Jodhpur &amp; Western Rajasthan Debt Realities</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Landscape &amp; Borrowers</h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Debt Landscape &amp; Borrowers in Jodhpur</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   As Rajasthan&apos;s judicial capital and Western Rajasthan&apos;s commercial hub, Jodhpur hosts thriving wooden furniture and handicraft export clusters in Boronada and Basni, solar EPC contractors across the Bhadla renewable corridor, textile printing units in Pali, and major medical and educational centers. Over recent years, aggressive credit disbursement by PSU banks, private commercial lenders, and NBFCs created heavy unsecured debt exposure across Sardarpura, Ratanada, Shastri Nagar, and Chopasni.
                 </p>
@@ -545,7 +545,7 @@ export default function Page() {
                   <Clock className="w-4 h-4" />
                   <span>2. Delinquency Timeline &amp; High Court Jurisprudence</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging</h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">NPA Delinquency Aging in Jodhpur</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under RBI&apos;s Prudential IRACP norms, debt settlement negotiations align directly with delinquency aging. Loans transition from Special Mention Accounts (SMA-0 to SMA-2) into Non-Performing Assets (NPAs) after 90 days of non-payment, requiring banks to set aside mandatory capital provisions from operational profits:
                 </p>
@@ -609,10 +609,7 @@ export default function Page() {
                 </div>
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Defending Legal Notices in Jodhpur Courts</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
-                  When NACH electronic mandates or cheques bounce, bank legal departments issue statutory demand notices under Section 25 PSSA or Section 138 NI Act through magistrate courts at Paota. Borrowers must respond within the mandatory <strong>15-day statutory window</strong> to prevent automatic complaint filing under Section 142 NI Act.
-                </p>
-                <p className="text-slate-700 leading-relaxed text-base md:text-lg">
-                  An advocate-drafted reply establishes lack of fraudulent intent, details documented commercial hardship (such as export cancellation or medical emergencies), disputes unlawful compound interest, and formally presents a compromise proposal. Confronted with years of magistrate litigation friction in Paota, banks routinely re-route the account toward Zonal SARB desks or Lok Adalat for an expedited settlement.
+                  When debt surpasses 90 days, private lenders and PSU regional recovery wings in Jodhpur routinely issue legal demand notices threatening Section 138 NI Act proceedings in the Paota Civil Court Compound or Section 25 PSSA actions. Involuntary loan default is solely a civil breach of contract under the Indian Contract Act, 1872. Our advocates file timely legal replies under Vakalatnama to dismantle criminal allegations, challenge inflated penalty claims, and transition disputes toward DLSA Lok Adalat conciliation benches.
                 </p>
               </section>
 
@@ -622,7 +619,7 @@ export default function Page() {
                   <ShieldAlert className="w-4 h-4" />
                   <span>4. Section 171 Lien &amp; Salary Shielding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s Right of General Lien (Section 171)</h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Banker&apos;s General Lien Rules in Jodhpur</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under Section 171 of the Indian Contract Act, 1872, a lending bank can set off balances against accounts held within that exact same bank under the same CIF. However, lenders cannot freeze or appropriate funds maintained in separate, independent banks without a formal Civil Court order.
                 </p>
@@ -662,7 +659,7 @@ export default function Page() {
                   <Percent className="w-4 h-4" />
                   <span>6. OTS Haircut Mechanics &amp; NPV Formula</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV Benchmarks</h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">OTS Haircut Mechanics &amp; NPV in Jodhpur</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Under RBI compromise guidelines, Zonal Settlement Committees in Paota and Sardarpura evaluate OTS proposals using Net Present Value (NPV) recovery economics rather than discretionary leniency. Civil suits or DRT litigation require 4 to 7 years with high legal costs and negligible collateral recovery on unsecured loans.
                 </p>
@@ -692,7 +689,7 @@ export default function Page() {
                   <ShieldCheck className="w-4 h-4" />
                   <span>7. Anti-Harassment &amp; Police Limits in Jodhpur</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices</h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Enforcing RBI Fair Practices in Jodhpur</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   The RBI Master Directions on Recovery Agents (2022) strictly prohibit contacting borrowers before 8 AM or after 7 PM, using abusive language, contacting employers or relatives, or making unauthorized visits.
                 </p>
@@ -781,7 +778,7 @@ export default function Page() {
                   <FileCheck className="w-4 h-4" />
                   <span>9. Sanction Letter Audit &amp; CIBIL Rebuilding</span>
                 </div>
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; ₹0 NDC Mandate</h2>
+                <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-slate-900 mb-4 leading-tight">Sanction Letter Audit &amp; NDC in Jodhpur</h2>
                 <p className="text-slate-700 leading-relaxed mb-4 text-base md:text-lg">
                   Borrowers must never remit settlement funds without a verified, official bank OTS sanction letter on bank letterhead stating loan account numbers, payment timelines, explicit full debt extinguishment, and NDC commitments.
                 </p>

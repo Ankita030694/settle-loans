@@ -651,7 +651,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 5: Infographic Banner */}
             <section id="abroad-education-loan-settlement-infographic-roadmap" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Process Roadmap</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">5. Abroad Education Loan Settlement Roadmap</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 The visual flowchart below illustrates the structured 5-stage institutional framework: from post-study international employment disruption and emergency parental shielding to advocate-led cross-border One-Time Settlement negotiations, official bank sanction audit, and complete RBI credit bureau clearance.
               </p>
@@ -846,7 +846,7 @@ export default function AbroadEducationLoanDefaultSettlementPage() {
 
             {/* Section 9: Comparative Strategic Matrix */}
             <section id="comparative-matrix-recovery-vs-ots" className="space-y-4">
-              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Comparative Debt Resolution Matrix</h2>
+              <h2 className="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 tracking-tight">9. Education Debt Resolution Matrix</h2>
               <p className="text-sm sm:text-base text-slate-700 leading-relaxed">
                 When faced with an education loan default, families must evaluate the stark divergence between prolonged litigation exposure and a professionally negotiated cross-border One-Time Settlement:
               </p>
