@@ -51,17 +51,17 @@ export const metadata: Metadata = {
     'one time settlement ots banks gwalior'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-gwalior',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-gwalior',
   },
   openGraph: {
     title: 'Personal Loan Settlement Advocates in Gwalior: MP High Court Bench Defense & Bank OTS',
     description:
       'Authoritative legal defense, MP High Court Bench safeguards, and bank OTS settlement representation for salaried professionals and traders facing loan default in Gwalior, Morena, and Bhind.',
-    url: 'https://settleloans.in/personal-loan-settlement-gwalior',
+    url: 'https://www.settleloans.in/personal-loan-settlement-gwalior',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-gwalior.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-gwalior.jpg',
         width: 1200,
         height: 675,
         alt: 'Personal Loan Settlement Advocates in Gwalior Legal Guide',
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     title: 'Personal Loan Settlement Advocates in Gwalior: MP High Court Bench Region Defense',
     description:
       'Senior advocate defense for personal loan defaults, Section 138/25 notices in CJM Gwalior, DLSA Lok Adalat compromise decrees, and anti-harassment protection across Gwalior, Morena, and Bhind.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-gwalior.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-gwalior.jpg'],
   },
 };
 
@@ -123,79 +123,79 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-gwalior#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-gwalior",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-gwalior#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-gwalior",
       "name": "Personal Loan Settlement Advocates in Gwalior: MP High Court Bench Defense & Bank OTS",
       "description": "Strategic legal defense against aggressive NBFC recovery tactics, Section 138/25 notice defense in CJM Gwalior, and bank OTS settlement advisory across Gwalior, Morena, and Bhind.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-gwalior#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-gwalior#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-gwalior#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-gwalior#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Personal Loan Settlement Advocates in Gwalior",
-          "item": "https://settleloans.in/personal-loan-settlement-gwalior"
+          "item": "https://www.settleloans.in/personal-loan-settlement-gwalior"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-gwalior#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-gwalior#article",
       "headline": "Personal Loan Settlement Advocates in Gwalior: MP High Court Bench Defense & Bank OTS",
       "description": "Comprehensive legal defense, MP High Court Bench safeguards, and bank OTS settlement advisory for salaried employees and traders across Gwalior, Morena, and Bhind.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-gwalior.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-gwalior.jpg",
       "datePublished": "2026-09-05T12:00:00+05:30",
       "dateModified": "2026-09-05T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-gwalior#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-gwalior#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
@@ -205,7 +205,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-gwalior#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-gwalior#faq",
       "mainEntity": faqsData.map((faq) => ({
         "@type": "Question",
         "name": faq.question,
@@ -217,11 +217,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-gwalior#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-gwalior#service",
       "name": "SettleLoans - Personal Loan Settlement Advocates in Gwalior & Legal Defense",
       "description": "Premier debt settlement advisory, court notice defense, and DLSA Lok Adalat legal representation for salaried professionals and traders across Gwalior, Morena, and Bhind.",
-      "url": "https://settleloans.in/personal-loan-settlement-gwalior",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-gwalior.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-gwalior",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-gwalior.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -234,9 +234,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",

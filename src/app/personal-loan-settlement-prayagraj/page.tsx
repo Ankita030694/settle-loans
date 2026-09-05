@@ -51,17 +51,17 @@ export const metadata: Metadata = {
     'one time settlement ots prayagraj banks'
   ],
   alternates: {
-    canonical: 'https://settleloans.in/personal-loan-settlement-prayagraj',
+    canonical: 'https://www.settleloans.in/personal-loan-settlement-prayagraj',
   },
   openGraph: {
     title: 'Debt Settlement Services in Prayagraj Allahabad: Legal Defense & Bank OTS Advisory',
     description:
       'Authoritative legal defense, Allahabad High Court safeguards, and bank OTS settlement representation for government employees, teachers, and merchants facing loan default in Prayagraj and Kaushambi.',
-    url: 'https://settleloans.in/personal-loan-settlement-prayagraj',
+    url: 'https://www.settleloans.in/personal-loan-settlement-prayagraj',
     siteName: 'SettleLoans',
     images: [
       {
-        url: 'https://settleloans.in/images/infographics/personal-loan-settlement-prayagraj.jpg',
+        url: 'https://www.settleloans.in/images/infographics/personal-loan-settlement-prayagraj.jpg',
         width: 1200,
         height: 675,
         alt: 'Debt Settlement Services in Prayagraj Allahabad Legal Guide',
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
     title: 'Debt Settlement Services in Prayagraj Allahabad: Legal Defense & Lok Adalat Guide',
     description:
       'Senior advocate defense for personal loan defaults, Section 138/25 notices in Prayagraj District Court, DLSA Lok Adalat compromise decrees, and anti-harassment protection in Prayagraj & Kaushambi.',
-    images: ['https://settleloans.in/images/infographics/personal-loan-settlement-prayagraj.jpg'],
+    images: ['https://www.settleloans.in/images/infographics/personal-loan-settlement-prayagraj.jpg'],
   },
 };
 
@@ -123,79 +123,79 @@ const jsonLdGraph = {
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-prayagraj#webpage",
-      "url": "https://settleloans.in/personal-loan-settlement-prayagraj",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-prayagraj#webpage",
+      "url": "https://www.settleloans.in/personal-loan-settlement-prayagraj",
       "name": "Debt Settlement Services in Prayagraj Allahabad: Legal Defense & Bank OTS",
       "description": "Comprehensive legal defense, Allahabad High Court safeguards, and bank OTS settlement advisory for government employees, teachers, and merchants in Prayagraj and Kaushambi.",
       "breadcrumb": {
-        "@id": "https://settleloans.in/personal-loan-settlement-prayagraj#breadcrumb"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-prayagraj#breadcrumb"
       },
       "inLanguage": "en-IN",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://settleloans.in/#website",
+        "@id": "https://www.settleloans.in/#website",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://settleloans.in/personal-loan-settlement-prayagraj#breadcrumb",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-prayagraj#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://settleloans.in"
+          "item": "https://www.settleloans.in"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Services",
-          "item": "https://settleloans.in/services"
+          "item": "https://www.settleloans.in/services"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Debt Settlement Services in Prayagraj Allahabad",
-          "item": "https://settleloans.in/personal-loan-settlement-prayagraj"
+          "item": "https://www.settleloans.in/personal-loan-settlement-prayagraj"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://settleloans.in/personal-loan-settlement-prayagraj#article",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-prayagraj#article",
       "headline": "Debt Settlement Services in Prayagraj Allahabad: Legal Defense, High Court Norms & Bank OTS",
       "description": "An exhaustive legal and financial guide for government employees, teachers, and business owners in Prayagraj and Kaushambi facing loan defaults, court notices, and recovery agent pressure.",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-prayagraj.jpg",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-prayagraj.jpg",
       "datePublished": "2026-09-05T12:00:00+05:30",
       "dateModified": "2026-09-05T12:00:00+05:30",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://settleloans.in/personal-loan-settlement-prayagraj#webpage"
+        "@id": "https://www.settleloans.in/personal-loan-settlement-prayagraj#webpage"
       },
       "author": {
         "@type": "Person",
         "name": "Ashish Jhangra",
-        "url": "https://settleloans.in/authors/ashish-jhangra"
+        "url": "https://www.settleloans.in/authors/ashish-jhangra"
       },
       "publisher": {
         "@type": "Organization",
         "name": "SettleLoans",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://settleloans.in/logo/logo.svg"
+          "url": "https://www.settleloans.in/logo/logo.svg"
         }
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://settleloans.in/#organization",
+      "@id": "https://www.settleloans.in/#organization",
       "name": "SettleLoans",
-      "url": "https://settleloans.in",
+      "url": "https://www.settleloans.in",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://settleloans.in/logo/logo.svg"
+        "url": "https://www.settleloans.in/logo/logo.svg"
       },
       "sameAs": [
         "https://www.linkedin.com/company/settleloans",
@@ -205,7 +205,7 @@ const jsonLdGraph = {
     },
     {
       "@type": "FAQPage",
-      "@id": "https://settleloans.in/personal-loan-settlement-prayagraj#faq",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-prayagraj#faq",
       "mainEntity": faqsData.map((faq) => ({
         "@type": "Question",
         "name": faq.question,
@@ -217,11 +217,11 @@ const jsonLdGraph = {
     },
     {
       "@type": "FinancialService",
-      "@id": "https://settleloans.in/personal-loan-settlement-prayagraj#service",
+      "@id": "https://www.settleloans.in/personal-loan-settlement-prayagraj#service",
       "name": "SettleLoans - Debt Settlement Services in Prayagraj Allahabad & Legal Defense",
       "description": "Premier debt settlement advisory, court notice defense, and DLSA Lok Adalat representation for government employees, educators, traders, and borrowers across Prayagraj, Civil Lines, Katra, Naini, and Kaushambi.",
-      "url": "https://settleloans.in/personal-loan-settlement-prayagraj",
-      "image": "https://settleloans.in/images/infographics/personal-loan-settlement-prayagraj.jpg",
+      "url": "https://www.settleloans.in/personal-loan-settlement-prayagraj",
+      "image": "https://www.settleloans.in/images/infographics/personal-loan-settlement-prayagraj.jpg",
       "telephone": "+91-99999-99999",
       "priceRange": "₹₹",
       "address": {
@@ -234,9 +234,9 @@ const jsonLdGraph = {
       },
       "provider": {
         "@type": "Organization",
-        "@id": "https://settleloans.in/#organization",
+        "@id": "https://www.settleloans.in/#organization",
         "name": "SettleLoans",
-        "url": "https://settleloans.in"
+        "url": "https://www.settleloans.in"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
