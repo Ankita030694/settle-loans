@@ -31,7 +31,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Debt Settlement Services in Prayagraj Allahabad | SettleLoans',
+  title: 'Debt Settlement in Prayagraj | SettleLoans',
   description:
     'Settle personal loans in Prayagraj. Stop recovery harassment, defend court notices, and negotiate 40%–70% bank OTS waivers with SettleLoans.',
   keywords: [
@@ -398,7 +398,7 @@ export default function Page() {
               <span>Regional Debt Resolution • Prayagraj, Allahabad &amp; Kaushambi</span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Debt Settlement Services in Prayagraj Allahabad: Legal OTS &amp; Court Defense</h1>
+            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-[38px] xl:text-[42px] font-black leading-tight tracking-tight text-white mb-5">Debt Settlement Services in Prayagraj: Legal OTS Guide</h1>
 
             <div className="text-xs text-slate-300 border-b border-slate-700 max-w-xl mx-auto pb-3 mb-5 flex flex-wrap items-center justify-center gap-4">
               <span className="flex items-center gap-1.5">

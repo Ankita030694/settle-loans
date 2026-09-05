@@ -41,7 +41,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Personal Loan Settlement Company in Jalandhar Punjab | SettleLoans',
+  title: 'Loan Settlement in Jalandhar | SettleLoans',
   description:
     'Settle personal loans in Jalandhar Punjab. Stop recovery calls, defend legal notices, and negotiate 40%–70% OTS debt waivers with SettleLoans.',
   keywords: [
