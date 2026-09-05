@@ -43,7 +43,7 @@ import {
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement Company in Jalandhar Punjab | SettleLoans',
   description:
-    'Resolve overdue debt with the leading personal loan settlement company in Jalandhar Punjab. Legal defense for sports exporters, leather traders & expat families.',
+    'Settle personal loans in Jalandhar Punjab. Stop recovery calls, defend legal notices, and negotiate 40%–70% OTS debt waivers with SettleLoans.',
   keywords: [
     'personal loan settlement company in jalandhar punjab',
     'personal loan settlement jalandhar',

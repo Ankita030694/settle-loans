@@ -31,7 +31,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Lendingkart Loan Settlement Process: MSME OTS Rules, Legal Defense & Haircut (2026)',
-  description: 'Facing default on a Lendingkart MSME working capital business loan? Learn how to halt NACH bounce penalties, defend Section 25 PSSA and arbitration notices, stop recovery harassment, and negotiate up to 55% OTS haircut under RBI guidelines.',
+  description: 'Settle your Lendingkart MSME business loan legally. Stop NACH bounce fees, defend arbitration notices, and negotiate up to 55% OTS haircut.',
   keywords: [
     'lendingkart loan settlement process',
     'lendingkart business loan settlement',

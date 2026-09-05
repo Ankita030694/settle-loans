@@ -33,7 +33,7 @@ import {
 export const metadata: Metadata = {
   title: 'Debt Settlement Services in Prayagraj Allahabad | SettleLoans',
   description:
-    'Settle personal loans legally in Prayagraj & Allahabad. Stop recovery agent harassment, defend High Court & District Court notices, and negotiate 40%–70% OTS waivers.',
+    'Settle personal loans in Prayagraj. Stop recovery harassment, defend court notices, and negotiate 40%–70% bank OTS waivers with SettleLoans.',
   keywords: [
     'debt settlement services in prayagraj allahabad',
     'personal loan settlement prayagraj',
