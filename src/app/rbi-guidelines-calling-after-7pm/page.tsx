@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Recovery Agent Calling After 7 PM: RBI Rules | SettleLoans",
-  description: "Are recovery agents calling you at night? RBI guidelines mandate that recovery contact is only permitted between 8 AM and 7 PM. Learn your rights and stop illegal late-night harassment today.",
+  description: "Are recovery agents calling you at night? RBI guidelines mandate that recovery contact is only permitted between 8 AM and 7 PM.",
   alternates: {
     canonical: "https://www.settleloans.in/rbi-guidelines-calling-after-7pm",
   },

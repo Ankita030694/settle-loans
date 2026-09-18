@@ -4,7 +4,7 @@ import PersonalLoanSettlementPuneClient from './PersonalLoanSettlementPuneClient
 export const metadata: Metadata = {
   title: 'Debt Settlement Services in Pune | SettleLoans',
   description:
-    'Struggling with personal loan default, recovery harassment, or court notices in Pune & PCMC? Get expert debt settlement services in Pune, legal shielding for IT/Auto professionals, and 40%–70% OTS waivers.',
+    'Struggling with personal loan default, recovery harassment, or court notices in Pune & PCMC? Get expert debt settlement services in Pune.',
   keywords: [
     'debt settlement services in pune',
     'personal loan settlement pune',

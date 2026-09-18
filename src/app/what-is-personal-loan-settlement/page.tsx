@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "What is Personal Loan Settlement? | SettleLoans",
-  description: "Comprehensive guide to personal loan settlement in India. Learn the step by step process, legal rights under RBI guidelines, CIBIL impact, and how to negotiate for 50 to 70 percent waivers.",
+  description: "Comprehensive guide to personal loan settlement in India. Learn the step by step process, legal rights under RBI guidelines, CIBIL impact.",
   alternates: {
     canonical: "https://www.settleloans.in/what-is-personal-loan-settlement",
   },

@@ -3,7 +3,7 @@ import SbiPersonalLoanSettlementClient from './SbiPersonalLoanSettlementClient';
 
 export const metadata: Metadata = {
   title: 'SBI Personal Loan Settlement Guide | SettleLoans',
-  description: 'Exhaustive guide to State Bank of India (SBI) personal loan settlement. Understand PSU OTS policies, Rin Samadhan scheme, SARB escalation, Lok Adalat compromise, and legal defense under RBI rules.',
+  description: 'Exhaustive guide to State Bank of India (SBI) personal loan settlement. Understand PSU OTS policies, Rin Samadhan scheme, SARB escalation.',
   keywords: [
     'sbi personal loan settlement online',
     'sbi personal loan settlement',

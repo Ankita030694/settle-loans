@@ -3,7 +3,7 @@ import CaseStudyHdfcClient from './CaseStudyHdfcClient';
 
 export const metadata: Metadata = {
   title: 'HDFC Personal Loan Settlement Case Study | SettleLoans',
-  description: 'Real case study: How an ₹8 Lakh HDFC Bank personal loan was settled for ₹3.2 Lakhs (60% waiver) following job loss. Learn the step-by-step OTS negotiation process, NPV recovery formula, and legal defense.',
+  description: 'Real case study: How an ₹8 Lakh HDFC Bank personal loan was settled for ₹3. Stop harassment & settle debt legally with SettleLoans.',
   keywords: [
     'hdfc personal loan settlement success story',
     'hdfc personal loan settlement case study',

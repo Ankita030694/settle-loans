@@ -3,7 +3,7 @@ import LokAdalatNoticeClient from './LokAdalatNoticeClient';
 
 export const metadata: Metadata = {
   title: 'Lok Adalat Notice for Personal Loan | SettleLoans',
-  description: 'Received a Lok Adalat notice for personal loan default? Learn if attendance is mandatory, if you can be arrested, how pre-litigation conciliation works, and how to negotiate a 40%–70% OTS settlement award.',
+  description: 'Received a Lok Adalat notice for personal loan default? Learn if attendance is mandatory, if you can be arrested, how pre-litigation conciliation works.',
   keywords: [
     'received lok adalat notice for loan default',
     'lok adalat personal loan settlement',

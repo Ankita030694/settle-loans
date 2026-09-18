@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Is E-Sign Valid for Personal Loan Agreement in India?",
-  description: "Learn how to challenge the validity of e-sign in a loan agreement. Understand the IT Act and Section 65B Evidence Act defenses against forged digital signatures by loan apps.",
+  description: "Learn how to challenge the validity of e-sign in a loan agreement. Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/is-digital-signature-e-sign-valid-for-personal-loan-agreement-in-india",
   },

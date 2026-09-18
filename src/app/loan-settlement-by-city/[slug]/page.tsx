@@ -22,9 +22,17 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const titleText = `Loan Settlement in ${location.name}`;
   const metaTitle = titleText.length <= 46 ? `${titleText} | SettleLoans` : titleText;
 
+  let metaDesc = `Expert loan settlement & debt relief in ${location.name}. Settle personal loans and credit cards legally while stopping bank harassment.`;
+  if (metaDesc.length > 160) {
+    metaDesc = `Loan settlement & debt relief in ${location.name}. Settle personal loans and credit cards legally while stopping recovery harassment.`;
+  }
+  if (metaDesc.length > 160) {
+    metaDesc = `Loan settlement & debt relief in ${location.name}. Settle debts legally and stop bank recovery harassment today.`;
+  }
+
   return {
     title: metaTitle,
-    description: location.description,
+    description: metaDesc,
     keywords: [
       `loan settlement ${location.name}`,
       `best lawyer ${location.name}`,

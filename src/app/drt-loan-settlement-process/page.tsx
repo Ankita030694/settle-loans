@@ -37,7 +37,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'DRT Loan Settlement Process in India | SettleLoans',
-  description: 'Master the DRT loan settlement process in India for debts exceeding ₹20 Lakhs. Learn how to contest bank Original Applications (OA), file interim stay petitions, leverage RDB Act protections, and secure a DRT-supervised One Time Settlement (OTS) with significant principal waivers.',
+  description: 'Master the DRT loan settlement process in India for debts exceeding ₹20 Lakhs. Learn how to contest bank Original Applications (OA).',
   keywords: [
     'drt loan settlement process in india',
     'debt recovery tribunal settlement process',

@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
     title: "Mudra Loan Settlement Legal Help | SettleLoans",
-    description: "Struggling with Mudra loan repayment? Get expert legal help for Mudra loan settlement (Shishu, Kishor, Tarun). Learn about OTS, RBI guidelines, and stopping harassment.",
+    description: "Struggling with Mudra loan repayment? Get expert legal help for Mudra loan settlement (Shishu, Kishor, Tarun). Learn about OTS, RBI guidelines.",
     alternates: {
         canonical: "https://www.settleloans.in/mudra-loan-settlement-legal-help",
     },

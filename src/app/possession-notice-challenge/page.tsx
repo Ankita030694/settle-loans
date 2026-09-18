@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Possession Notice Challenge: DRT Stay Guide | SettleLoans",
-  description: "Received a SARFAESI possession notice? Learn how to challenge it legally in the DRT. Protect your home from bank auctions with our comprehensive guide on Section 13(2), 13(4), and 17 rights.",
+  description: "Received a SARFAESI possession notice? Learn how to challenge it legally in the DRT. Protect your home from bank auctions with our comprehensive guide.",
   alternates: {
     canonical: "https://www.settleloans.in/possession-notice-challenge",
   },

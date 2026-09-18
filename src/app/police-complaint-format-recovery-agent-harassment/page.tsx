@@ -37,7 +37,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Police Complaint Against Recovery Agent Format | SettleLoans',
-  description: 'Facing recovery agent harassment? Access the statutory police complaint format against loan recovery agents under IPC Sections 506, 509 & RBI rules to file with your local SHO.',
+  description: 'Facing recovery agent harassment? Access the statutory police complaint format against loan recovery agents under IPC Sections 506.',
   keywords: [
     'police complaint against recovery agent format',
     'complaint letter against recovery agent to police',

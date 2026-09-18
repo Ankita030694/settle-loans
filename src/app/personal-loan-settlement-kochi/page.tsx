@@ -37,7 +37,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Debt Settlement Advocates in Kochi Kerala | SettleLoans',
-  description: 'Top debt settlement advocates in Kochi, Kerala. Defend against Ernakulam CJM Section 138/25 PSSA notices, stop private bank recovery harassment, resolve NRI returnee debts, and secure 40%–65% OTS haircuts.',
+  description: 'Top debt settlement advocates in Kochi, Kerala. Defend against Ernakulam CJM Section 138/25 PSSA notices, stop private bank recovery harassment.',
   keywords: [
     'debt settlement advocates in kochi kerala',
     'personal loan settlement kochi',

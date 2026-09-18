@@ -18,7 +18,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Loan Settlement in Arunachal Pradesh | SettleLoans',
-  description: 'Struggling with debt in Arunachal Pradesh? Expert loan settlement services to stop harassment, reduce debt by up to 50%, and settle legally. Know your rights under AP Money Lending Act.',
+  description: 'Struggling with debt in Arunachal Pradesh? Expert loan settlement services to stop harassment, reduce debt by up to 50%, and settle legally.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-settlement/arunachal-pradesh',
   },

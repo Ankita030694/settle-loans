@@ -3,7 +3,7 @@ import TenLakhPersonalLoanSettlementClient from './TenLakhPersonalLoanSettlement
 
 export const metadata: Metadata = {
   title: 'How to Settle 10 Lakh Personal Loan in India | SettleLoans',
-  description: 'Complete legal guide to 10 lakh loan settlement process in India. Learn how to handle Section 25 PSSA and Section 138 notices, stop recovery harassment, calculate 40%–50% OTS haircuts, and obtain a zero-balance NDC.',
+  description: 'Complete legal guide to 10 lakh loan settlement process in India. Learn how to handle Section 25 PSSA and Section 138 notices, stop recovery harassment.',
   keywords: [
     '10 lakh loan settlement process',
     'how to settle 10 lakh personal loan',

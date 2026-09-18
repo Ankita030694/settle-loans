@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Mumbai | SettleLoans",
-  description: "Overwhelmed by debt in Mumbai? Navigate Lok Adalat 2026, stop recovery harassment legally, and settle credit cards/personal loans with 40-70% waivers. Expert legal aid for MMR families.",
+  description: "Overwhelmed by debt in Mumbai? Navigate Lok Adalat 2026, stop recovery harassment legally, and settle credit cards/personal loans with 40-70% waivers.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/mumbai",
   },

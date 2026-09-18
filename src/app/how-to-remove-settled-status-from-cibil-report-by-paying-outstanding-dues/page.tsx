@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "How to Remove 'Settled' Status from CIBIL Report",
-  description: "Learn how to convert 'Settled' to 'Closed' in your CIBIL report. Understand the technical process of paying outstanding dues, getting an NOC, and restoring your credit score.",
+  description: "Learn how to convert 'Settled' to 'Closed' in your CIBIL report. Understand the technical process of paying outstanding dues, getting an NOC.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-remove-settled-status-from-cibil-report-by-paying-outstanding-dues",
   },

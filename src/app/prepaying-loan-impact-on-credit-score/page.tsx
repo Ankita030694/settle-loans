@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "Does Closing a Loan Early Hurt Credit Score? | SettleLoans",
-  description: "Will paying off your loan years early actually HURT your CIBIL score? The answer will shock you. Learn about the prepaying loan CIBIL impact and early closure credit history.",
+  description: "Will paying off your loan years early actually HURT your CIBIL score? Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/prepaying-loan-impact-on-credit-score",
   },

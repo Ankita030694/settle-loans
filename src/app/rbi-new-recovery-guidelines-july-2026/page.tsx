@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
     title: "RBI New Recovery Guidelines July 2026 | SettleLoans",
-    description: "Explore the latest RBI guidelines on loan recovery effective July 2026. Learn about prohibited harassment, certified recovery agents, and your legal rights as a borrower.",
+    description: "Explore the latest RBI guidelines on loan recovery effective July 2026. Learn about prohibited harassment, certified recovery agents.",
     alternates: {
         canonical: "https://www.settleloans.in/rbi-new-recovery-guidelines-july-2026",
     },

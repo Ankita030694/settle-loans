@@ -6,7 +6,7 @@ import { faStar } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
     title: "Lawyer for Project Finance Loan Recovery | SettleLoans",
-    description: "Expert legal defense for project finance disputes and builder loan recovery in India. Navigate RBI 2025 project finance guidelines, RERA vs IBC conflicts, and project debt restructuring.",
+    description: "Expert legal defense for project finance disputes and builder loan recovery in India. Navigate RBI 2025 project finance guidelines, RERA vs IBC conflicts.",
     alternates: {
         canonical: "https://www.settleloans.in/best-project-finance-builder-loan-recovery-matter-lawyer",
     },

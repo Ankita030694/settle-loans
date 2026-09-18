@@ -9,7 +9,7 @@ import CompanyComparison from "@/components/CompanyComparison";
 
 export const metadata: Metadata = {
     title: "Top Loan Settlement Companies in India | SettleLoans",
-    description: "Discover which companies offer loan settlement services in India. A comprehensive guide to the top debt resolution agencies, their processes, and how to settle for up to 60% less.",
+    description: "Discover which companies offer loan settlement services in India. A comprehensive guide to the top debt resolution agencies, their processes.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/which-companies-offer-loan-settlement-services-in-india",
     },

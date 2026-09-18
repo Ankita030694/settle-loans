@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "Avoid Recovery Agents: Legal Risks of Changing Number",
-  description: "Learn why changing your SIM card to avoid loan recovery agents can turn a civil default into a criminal fraud case (Section 420 IPC) and how skip tracing works in India.",
+  description: "Learn why changing your SIM card to avoid loan recovery agents can turn a civil default into a criminal fraud case (Section 420 IPC) and how skip tracing.",
   alternates: {
     canonical: "https://www.settleloans.in/legal-consequences-of-changing-phone-number-and-address-to-avoid-loan-recovery-agents"
   }

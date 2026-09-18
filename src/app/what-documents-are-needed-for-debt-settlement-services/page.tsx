@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Documents Needed for Debt Settlement | SettleLoans",
-  description: "Complete list of documents required for debt settlement in India. Learn about KYC, financial hardship proof, income documents, and post-settlement NOC requirements.",
+  description: "Complete list of documents required for debt settlement in India. Learn about KYC, financial hardship proof, income documents.",
   alternates: {
     canonical: "https://www.settleloans.in/what-documents-are-needed-for-debt-settlement-services",
   },

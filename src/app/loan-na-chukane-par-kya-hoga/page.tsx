@@ -37,7 +37,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Loan Na Chukane Par Kya Hota Hai? | SettleLoans',
-  description: 'Bank ka loan na chukane par kya hota hai? Understand your legal rights against recovery harassment, why police cannot arrest you for loan default, CIBIL impact, and OTS exit solutions.',
+  description: 'Bank ka loan na chukane par kya hota hai? Understand your legal rights against recovery harassment, why police cannot arrest you for loan default.',
   keywords: [
     'loan na chukane par kya hota hai',
     'loan default hone par kya kare',

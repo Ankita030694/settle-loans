@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Settle Personal Loan with Low Funds | SettleLoans",
-  description: "Struggling with debt? Learn how to negotiate a settlement of personal loan immediately even with low funds. Expert legal advice to stop harassment and save 40-70%.",
+  description: "Struggling with debt? Learn how to negotiate a settlement of personal loan immediately even with low funds. Expert legal advice to stop harassment and save.",
   alternates: {
     canonical: "https://www.settleloans.in/settlement-of-personal-loan-immediately-with-low-funds",
   },

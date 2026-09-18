@@ -3,7 +3,7 @@ import WhatIsHaircutClient from './WhatIsHaircutClient';
 
 export const metadata: Metadata = {
   title: 'What Is a Haircut in Loan Settlement? | SettleLoans',
-  description: 'Understand what a haircut means in loan settlement, how Indian banks calculate NPA write-off discounts, RBI compromise guidelines, and how to negotiate maximum debt reduction.',
+  description: 'Understand what a haircut means in loan settlement, how Indian banks calculate NPA write-off discounts, RBI compromise guidelines.',
   keywords: [
     'haircut meaning in loan settlement',
     'what is haircut in banking loan settlement',

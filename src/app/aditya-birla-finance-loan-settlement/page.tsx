@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Aditya Birla Loan Settlement Process | SettleLoans',
-  description: 'Comprehensive guide to Aditya Birla Capital & Finance loan settlement. Learn how to settle personal and business loans, stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA and arbitration notices, and negotiate up to 60% OTS haircut under RBI rules.',
+  description: 'Comprehensive guide to Aditya Birla Capital & Finance loan settlement. Learn how to settle personal and business loans, stop NACH bounce charges.',
   keywords: [
     'aditya birla capital loan settlement',
     'aditya birla finance loan settlement',

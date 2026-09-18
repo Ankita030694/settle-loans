@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Order 37 CPC Summary Suit for Loan Recovery | SettleLoans',
-  description: 'Bank filed a Summary Suit under Order 37 CPC for loan recovery? Learn how to enter appearance in 10 days, file Leave to Defend, raise triable issues, and negotiate an OTS.',
+  description: 'Bank filed a Summary Suit under Order 37 CPC for loan recovery? Learn how to enter appearance in 10 days, file Leave to Defend, raise triable issues.',
   keywords: [
     'order 37 cpc summary suit for loan recovery',
     'summary suit loan recovery defense',

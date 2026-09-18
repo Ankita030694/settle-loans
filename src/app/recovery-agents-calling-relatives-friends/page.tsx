@@ -3,7 +3,7 @@ import RecoveryAgentsCallingRelativesFriendsClient from './RecoveryAgentsCalling
 
 export const metadata: Metadata = {
   title: 'Recovery Agents Calling Family? RBI Rules | SettleLoans',
-  description: 'Is a bank recovery agent calling your family, parents, or friends? Discover strict RBI guidelines prohibiting third-party contact, legal rights, and immediate action to stop harassment.',
+  description: 'Is a bank recovery agent calling your family, parents, or friends? Discover strict RBI guidelines prohibiting third-party contact, legal rights.',
   keywords: [
     'bank recovery agent calling my family',
     'recovery agents calling relatives',

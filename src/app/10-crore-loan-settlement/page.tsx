@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
     title: "10 Crore Loan Settlement in India | SettleLoans",
-    description: "Master the 10 Crore loan settlement process in India. Specialized guide for corporate debt, IBC Section 12A, NCLT defense, and Large Credit Exposure (LCE) protocols.",
+    description: "Master the 10 Crore loan settlement process in India. Specialized guide for corporate debt, IBC Section 12A, NCLT defense.",
     alternates: {
         canonical: "https://www.settleloans.in/10-crore-loan-settlement",
     },

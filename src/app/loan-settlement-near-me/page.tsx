@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
     title: "Loan Settlement Near Me in India | SettleLoans",
-    description: "Find the best loan settlement services near you. Expert legal help for personal loans, credit cards, and business debt resolution across all Indian states and cities.",
+    description: "Find the best loan settlement services near you. Expert legal help for personal loans, credit cards, and business debt resolution across all Indian states.",
     alternates: {
         canonical: "https://www.settleloans.in/loan-settlement-near-me",
     },

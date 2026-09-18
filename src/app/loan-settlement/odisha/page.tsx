@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Odisha | SettleLoans",
-  description: "Expert loan settlement services in Odisha. Stop bank harassment, reduce EMI burden, and settle personal loans & credit cards. Legal protection under Odisha Money Lenders Act. Serving Bhubaneswar, Cuttack, Rourkela & entire state.",
+  description: "Expert loan settlement services in Odisha. Stop bank harassment, reduce EMI burden, and settle personal loans & credit cards.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/odisha",
   },

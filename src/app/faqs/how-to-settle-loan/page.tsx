@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "How to Settle Your Loan in India: Guide | SettleLoans",
-  description: "Learn how to settle your loan legally and ethically in India. Step-by-step guide on debt negotiation, RBI guidelines, Lok Adalat, and rebuilding CIBIL score. Get 40-70% waiver.",
+  description: "Learn how to settle your loan legally and ethically in India. Step-by-step guide on debt negotiation, RBI guidelines, Lok Adalat, and rebuilding CIBIL score.",
   alternates: {
     canonical: "https://www.settleloans.in/faqs/how-to-settle-loan",
   },

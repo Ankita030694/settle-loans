@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Stop Aggressive Recovery Practices | SettleLoans",
-  description: "Stop aggressive recovery practices with SettleLoans. Learn about RBI guidelines for recovery agents, your rights as a borrower, and how to stop harassment legally. Get expert support from Amalegal Solutions.",
+  description: "Stop aggressive recovery practices with SettleLoans. Learn about RBI guidelines for recovery agents, your rights as a borrower.",
   alternates: {
     canonical: "https://www.settleloans.in/settle-loans-support-for-avoiding-aggressive-recovery-practices",
   },

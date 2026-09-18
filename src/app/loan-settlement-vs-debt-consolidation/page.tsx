@@ -4,7 +4,7 @@ import LoanSettlementVsDebtConsolidationClient from './LoanSettlementVsDebtConso
 export const metadata: Metadata = {
   title: 'Loan Settlement vs Debt Consolidation Guide | SettleLoans',
   description:
-    'Confused between loan settlement vs debt consolidation? Compare monthly EMI relief vs 40%–70% debt haircuts, CIBIL score impact, eligibility, costs, and RBI rules.',
+    'Confused between loan settlement vs debt consolidation? Compare monthly EMI relief vs 40%–70% debt haircuts, CIBIL score impact, eligibility, costs.',
   keywords: [
     'personal loan settlement vs debt consolidation',
     'debt consolidation vs loan settlement in india',

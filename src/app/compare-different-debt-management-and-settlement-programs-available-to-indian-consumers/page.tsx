@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Compare Debt Management & Settlement Programs India 2025",
-  description: "Exhaustive 5000+ word comparison of debt settlement, consolidation, restructuring, and counseling in India. Find the perfect debt relief solution for your financial situation.",
+  description: "Exhaustive 5000+ word comparison of debt settlement, consolidation, restructuring, and counseling in India. Learn legal rights & settle debt with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/compare-different-debt-management-and-settlement-programs-available-to-indian-consumers",
   },

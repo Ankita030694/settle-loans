@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Credit Counseling Services in Chennai | SettleLoans",
-  description: "Find government-approved and bank-led credit counseling services in Chennai. Locate RBI-supported Financial Literacy Centres (FLCs), Disha, and Abhay for free debt advice.",
+  description: "Find government-approved and bank-led credit counseling services in Chennai. Locate RBI-supported Financial Literacy Centres (FLCs), Disha.",
   alternates: {
     canonical: "https://www.settleloans.in/where-can-i-locate-government-approved-consumer-credit-counseling-services-in-chennai",
   },

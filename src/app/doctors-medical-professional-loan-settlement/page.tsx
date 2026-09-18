@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Loan Settlement for Doctors in India | SettleLoans',
-  description: 'Specialized guide on loan settlement for doctors in India. Learn how to resolve unsecured professional loans, clinic expansion debts, safeguard medical equipment, halt clinic harassment, and negotiate structured OTS under RBI rules.',
+  description: 'Specialized guide on loan settlement for doctors in India. Learn how to resolve unsecured professional loans, clinic expansion debts.',
   keywords: [
     'loan settlement for doctors in india',
     'doctor loan settlement',

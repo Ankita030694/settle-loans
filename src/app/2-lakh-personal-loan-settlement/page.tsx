@@ -3,7 +3,7 @@ import TwoLakhPersonalLoanSettlementClient from './TwoLakhPersonalLoanSettlement
 
 export const metadata: Metadata = {
   title: 'How to Settle 2 Lakh Personal Loan in India | SettleLoans',
-  description: 'Step-by-step legal guide to settling a ₹2 Lakh personal loan in India. Discover realistic OTS haircut percentages (₹60k–₹1L settlements), legal action vs tele-calling reality, RBI recovery rules, and ₹0 NDC process.',
+  description: 'Step-by-step legal guide to settling a ₹2 Lakh personal loan in India. Discover realistic OTS haircut percentages (₹60k–₹1L settlements).',
   keywords: [
     '2 lakh loan settlement in india',
     'how to settle 2 lakh personal loan',

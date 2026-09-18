@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Home Loan Eligibility After Settlement | SettleLoans",
-  description: "Can you get a home loan after a loan settlement? Learn how to improve eligibility, rebuild CIBIL, and convert 'settled' status to 'closed'. A complete guide for Indian homeowners.",
+  description: "Can you get a home loan after a loan settlement? Learn how to improve eligibility, rebuild CIBIL, and convert 'settled' status to 'closed'.",
   alternates: {
     canonical: "https://www.settleloans.in/home-loan-eligibility-after-settlement",
   },

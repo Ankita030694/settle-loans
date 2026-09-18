@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
     title: "SME Loan Dispute Resolution in India | SettleLoans",
-    description: "Comprehensive guide to SME loan dispute resolution in India. Learn about MSME Samadhan, MSEFC conciliation, DRT litigation, and legal remedies for business owners.",
+    description: "Comprehensive guide to SME loan dispute resolution in India. Learn about MSME Samadhan, MSEFC conciliation, DRT litigation.",
     alternates: {
         canonical: "https://www.settleloans.in/SME-loan-dispute-resolution",
     },

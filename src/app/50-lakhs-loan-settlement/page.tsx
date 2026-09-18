@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
     title: "50 Lakhs Loan Settlement in India | SettleLoans",
-    description: "Navigate the complexities of a 50 lakhs loan settlement in India. Understand bank committee structures, RBI guidelines for high-value debt, and expert negotiation strategies.",
+    description: "Navigate the complexities of a 50 lakhs loan settlement in India. Understand bank committee structures, RBI guidelines for high-value debt.",
     alternates: {
         canonical: "https://www.settleloans.in/50-lakhs-loan-settlement",
     },

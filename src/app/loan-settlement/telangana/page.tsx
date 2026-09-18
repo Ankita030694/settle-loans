@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "Legal Loan Settlement Services in Telangana | 40-70% Waiver",
-  description: 'Struggling with debt in Telangana? Expert loan settlement services in Hyderabad, Warangal, and Nizamabad. Settle personal loans and credit cards legally for up to 60% less.',
+  description: 'Struggling with debt in Telangana? Expert loan settlement services in Hyderabad, Warangal, and Nizamabad. Settle personal loans and credit cards legally.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-settlement/telangana',
   },

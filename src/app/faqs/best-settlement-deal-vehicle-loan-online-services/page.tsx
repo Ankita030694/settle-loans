@@ -9,7 +9,7 @@ import CompanyComparison from "@/components/CompanyComparison";
 
 export const metadata: Metadata = {
     title: "Settlement Deals for Vehicle Loans in India | SettleLoans",
-    description: "Learn how to negotiate the best settlement deals for car loans, bike loans, and commercial vehicle debts in India. Expert guide on repossession laws and RTO formalities.",
+    description: "Learn how to negotiate the best settlement deals for car loans, bike loans, and commercial vehicle debts in India. Expert guide on repossession laws.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/best-settlement-deal-vehicle-loan-online-services",
     },

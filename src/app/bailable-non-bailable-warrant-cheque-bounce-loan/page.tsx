@@ -30,7 +30,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Cheque Bounce Warrant for Loan Default | SettleLoans',
-  description: 'Received a bailable or non-bailable warrant for cheque bounce loan default? Learn how advocates file an urgent application under Section 70(2) CrPC / BNSS to cancel warrants, secure bail, and negotiate out-of-court loan compounding under Section 147 NI Act.',
+  description: 'Received a bailable or non-bailable warrant for cheque bounce loan default? Stop harassment & settle debt legally with SettleLoans.',
   keywords: [
     'warrant issued for cheque bounce loan default',
     'bailable warrant cheque bounce loan',

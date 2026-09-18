@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Don't Have Job & Can't Pay EMI? Loan Settlement Options & Rights",
-  description: "Struggling with EMI payments after losing your job? Learn about loan settlement, RBI guidelines for jobless borrowers, and your rights against harassment. Professional debt relief help.",
+  description: "Struggling with EMI payments after losing your job? Learn about loan settlement, RBI guidelines for jobless borrowers, and your rights against harassment.",
   alternates: {
     canonical: "https://www.settleloans.in/dont-have-job-cant-pay-emi",
   },

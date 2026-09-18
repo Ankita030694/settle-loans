@@ -42,7 +42,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Canara Bank Personal Loan Settlement | SettleLoans',
-  description: 'Master the Canara Bank personal loan settlement process under RBI guidelines. Learn tier-based haircut approvals (Branch vs Circle Office), SAMB escalation, and how advocates secure 40%–60% waivers.',
+  description: 'Master the Canara Bank personal loan settlement process under RBI guidelines. Learn tier-based haircut approvals (Branch vs Circle Office), SAMB escalation.',
   keywords: [
     'canara bank loan settlement process',
     'canara bank personal loan settlement',

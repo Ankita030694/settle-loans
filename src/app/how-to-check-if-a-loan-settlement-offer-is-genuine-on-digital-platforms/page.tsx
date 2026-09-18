@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "How to Check if a Loan Settlement Offer is Genuine",
-  description: "Learn how to verify if a loan settlement offer is genuine on digital platforms. Identify red flags, follow RBI guidelines, and protect yourself from debt settlement scams in India.",
+  description: "Learn how to verify if a loan settlement offer is genuine on digital platforms. Identify red flags, follow RBI guidelines.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-check-if-a-loan-settlement-offer-is-genuine-on-digital-platforms",
   },

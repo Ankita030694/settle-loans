@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "RBI Rules for Recovery Agents: Guide | SettleLoans",
-  description: "Comprehensive guide to RBI rules for recovery agents in 2026. Learn about 8 AM-7 PM timing, certification requirements, and how to stop illegal harassment today.",
+  description: "Comprehensive guide to RBI rules for recovery agents in 2026. Learn about 8 AM-7 PM timing, certification requirements, and how to stop illegal harassment.",
   alternates: {
     canonical: "https://www.settleloans.in/rbi-rules-for-recovery-agents",
   },

@@ -6,7 +6,7 @@ import { faFileLines, faGavel, faClock, faUserShield, faScaleBalanced, faShieldH
 
 export const metadata: Metadata = {
     title: "Lawyer for Loan Default Notice Defence | SettleLoans",
-    description: "Received a 13(2) or 13(4) notice for loan default? Get expert legal help to reply to bank notices, challenge possession, and stay auctions in DRT. Protect your home and business today.",
+    description: "Received a 13(2) or 13(4) notice for loan default? Get expert legal help to reply to bank notices, challenge possession, and stay auctions in DRT.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-notice-for-loan-default",
     },

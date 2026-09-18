@@ -37,7 +37,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Can Bank File FIR for Loan Default? Section 420 Myth',
-  description: 'Can a bank file an FIR for loan default? Uncover the truth behind Section 420 & 406 IPC threats by collection agencies, Supreme Court precedents prohibiting criminal color on civil defaults, and your legal rights.',
+  description: 'Can a bank file an FIR for loan default? Uncover the truth behind Section 420 & 406 IPC threats by collection agencies, Supreme Court precedents.',
   keywords: [
     'can bank file fir for personal loan default',
     'loan default fir section 420 ipc',

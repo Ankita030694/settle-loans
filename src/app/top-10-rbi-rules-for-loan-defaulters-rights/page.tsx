@@ -41,7 +41,7 @@ import {
 
 export const metadata: Metadata = {
   title: "Top 10 RBI Rules for Loan Defaulters' Rights",
-  description: 'Master guide on RBI guidelines for loan defaulters rights in India. Discover statutory rules on 8 AM-7 PM calling hours, privacy protection, harassment penalties, One-Time Settlement (OTS) circulars, and Ombudsman remedies.',
+  description: 'Master guide on RBI guidelines for loan defaulters rights in India. Discover statutory rules on 8 AM-7 PM calling hours, privacy protection.',
   keywords: [
     'rbi guidelines for loan defaulters rights',
     'rbi rules for loan recovery',

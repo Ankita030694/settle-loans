@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Cooperative Bank Loan Settlement Rules | SettleLoans',
-  description: 'Master the cooperative bank loan settlement process in India. Learn how One-Time Settlement (OTS) works in Urban Co-operative Banks (UCBs) & DCCBs under State Cooperative Societies Acts, Registrar Section 101 notices, Board approvals, RBI compromise guidelines, and credit bureau ₹0 NDC restoration.',
+  description: 'Master the cooperative bank loan settlement process in India. Learn how One-Time Settlement (OTS) works in Urban Co-operative Banks (UCBs) & DCCBs.',
   keywords: [
     'cooperative bank loan settlement process',
     'cooperative bank loan settlement rules',

@@ -45,7 +45,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settle Kaise Kare: Full Guide | SettleLoans',
-  description: 'Jane personal loan settle kaise kare step-by-step. Bank negotiation strategies, 40%-60% OTS haircut calculation, legal notice reply, authentic settlement letter audit, aur CIBIL score recovery process.',
+  description: 'Jane personal loan settle kaise kare step-by-step. Bank negotiation strategies, 40%-60% OTS haircut calculation, legal notice reply.',
   keywords: [
     'personal loan settle kaise kare',
     'loan settlement process in hindi',

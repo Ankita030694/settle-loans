@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Bank Ka Legal Notice Aane Par Kya Kare: 15-Day Action Plan',
-  description: 'Bank ka legal notice aane par kya kare? Learn why ignoring notice is dangerous, the 15-day reply window, advocate reply drafting, and OTS loan settlement roadmap.',
+  description: 'Bank ka legal notice aane par kya kare? Learn why ignoring notice is dangerous, the 15-day reply window, advocate reply drafting.',
   keywords: [
     'bank ka legal notice aane par kya kare',
     'bank legal notice reply format india',

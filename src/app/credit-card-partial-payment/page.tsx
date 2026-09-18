@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "Credit Card Partial Payment: Why It's a Massive Debt Trap",
-  description: "Making partial payments on your credit card? You are falling into a massive debt trap. Read the brutal truth about compounding interest and minimum due vs partial payment.",
+  description: "Making partial payments on your credit card? You are falling into a massive debt trap. Read the brutal truth about compounding interest and minimum due.",
   alternates: {
     canonical: "https://www.settleloans.in/credit-card-partial-payment",
   },

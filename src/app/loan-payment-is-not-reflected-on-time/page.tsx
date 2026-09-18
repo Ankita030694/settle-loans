@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "Loan Payment Not Reflected on Time | SettleLoans",
-  description: "Money deducted from your account but the bank says 'EMI bounced'? Learn how to resolve when your loan payment is not reflected on time and avoid penal interest for bank delays.",
+  description: "Money deducted from your account but the bank says 'EMI bounced'? Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-payment-is-not-reflected-on-time",
   },

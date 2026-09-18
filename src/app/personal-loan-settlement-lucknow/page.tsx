@@ -34,7 +34,7 @@ import {
 export const metadata: Metadata = {
   title: 'Loan Settlement Advocates in Lucknow | SettleLoans',
   description:
-    'Struggling with loan default, recovery harassment, or court summons in Lucknow, Gomti Nagar, or Kanpur? Get senior advocate defense, salary protection, and 40%–70% OTS waivers.',
+    'Struggling with loan default, recovery harassment, or court summons in Lucknow, Gomti Nagar, or Kanpur? Get senior advocate defense, salary protection.',
   keywords: [
     'personal loan settlement advocates in lucknow',
     'loan settlement lawyers in lucknow',

@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
     title: "Loan Default Recovery Freeze Defense | SettleLoans",
-    description: "Expert legal defense to freeze loan recovery, stop SARFAESI auctions, and obtain DRT stay orders. Navigate NPA classification challenges and debt recovery freezes.",
+    description: "Expert legal defense to freeze loan recovery, stop SARFAESI auctions, and obtain DRT stay orders. Stop harassment & settle debt legally with SettleLoans.",
     alternates: {
         canonical: "https://www.settleloans.in/loan-default-recovery-freeze-defense",
     },

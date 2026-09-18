@@ -31,7 +31,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Will Loan Default Affect Overseas Credit? | SettleLoans',
-  description: 'Will an Indian loan default affect your overseas credit score in the US, UK, Canada, or UAE? Understand cross-border credit reporting laws, CICRA 2005 data firewalls, visa renewal realities, and remote debt settlement solutions for Non-Resident Indians (NRIs).',
+  description: 'Will an Indian loan default affect your overseas credit score in the US, UK, Canada, or UAE? Understand cross-border credit reporting laws.',
   keywords: [
     'will indian loan default affect overseas credit score',
     'nri credit bureau mapping cibil overseas default',

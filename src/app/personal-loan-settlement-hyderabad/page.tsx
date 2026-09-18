@@ -3,7 +3,7 @@ import PersonalLoanSettlementHyderabadClient from './PersonalLoanSettlementHyder
 
 export const metadata: Metadata = {
   title: 'Loan Settlement Advocates in Hyderabad | SettleLoans',
-  description: 'Facing loan default, recovery harassment, or court summons in Hyderabad, Secunderabad, or Cyberabad? Get premier loan settlement advocates, legal defense, and 40%–70% OTS waivers under RBI guidelines.',
+  description: 'Facing loan default, recovery harassment, or court summons in Hyderabad, Secunderabad, or Cyberabad? Get premier loan settlement advocates, legal defense.',
   keywords: [
     'loan settlement advocates in hyderabad',
     'personal loan settlement hyderabad',

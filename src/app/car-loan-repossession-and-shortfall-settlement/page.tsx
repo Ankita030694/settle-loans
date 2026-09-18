@@ -38,7 +38,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Car Loan Repossession & Shortfall Settlement | SettleLoans',
-  description: 'Vehicle seized or facing a car loan shortfall recovery notice? Learn Supreme Court rulings against forceful repossession, how banks undervalue auction sales, and how advocates settle residual shortfall balances to ₹0 with full NDC.',
+  description: 'Vehicle seized or facing a car loan shortfall recovery notice? Learn Supreme Court rulings against forceful repossession.',
   keywords: [
     'car loan repossession rules and settlement',
     'car loan default repossession process',

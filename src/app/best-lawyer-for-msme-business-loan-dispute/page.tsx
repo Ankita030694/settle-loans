@@ -6,7 +6,7 @@ import { faGavel, faScaleBalanced, faShieldHalved, faHandshake, faBuildingCircle
 
 export const metadata: Metadata = {
     title: "Lawyer for MSME Business Loan Disputes | SettleLoans",
-    description: "Are you facing a business loan dispute? Consult the best lawyer for MSME business loan disputes in India. Expert legal help for SARFAESI notices, DRT cases, and loan settlement.",
+    description: "Are you facing a business loan dispute? Consult the best lawyer for MSME business loan disputes in India. Expert legal help for SARFAESI notices, DRT.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-msme-business-loan-dispute",
     },

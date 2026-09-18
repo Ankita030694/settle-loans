@@ -3,7 +3,7 @@ import InstantAppLoanSettlementClient from './InstantAppLoanSettlementClient';
 
 export const metadata: Metadata = {
   title: 'How to Settle Instant App Loan: RBI Rules & Defense',
-  description: 'Trapped by predatory instant loan apps or fake 7-day lending platforms? Learn how to settle instant app loans legally, stop contact harassment and morphed photos, file 1930 cyber complaints, and enforce RBI digital lending guidelines.',
+  description: 'Trapped by predatory instant loan apps or fake 7-day lending platforms? Stop harassment & settle debt legally with SettleLoans.',
   keywords: [
     'how to settle instant app loan',
     'instant loan app harassment complaint',

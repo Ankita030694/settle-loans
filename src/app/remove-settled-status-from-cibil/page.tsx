@@ -3,7 +3,7 @@ import RemoveSettledStatusFromCibilClient from './RemoveSettledStatusFromCibilCl
 
 export const metadata: Metadata = {
   title: 'How to Remove Settled Status from CIBIL: Legal Guide to "Closed" (2026)',
-  description: 'Learn how to remove settled status from CIBIL and convert it to "Closed". Step-by-step process to pay residual balance, get No Dues Certificate, file CIBIL disputes, and rebuild credit to 750+.',
+  description: 'Learn how to remove settled status from CIBIL and convert it to "Closed". Step-by-step process to pay residual balance, get No Dues Certificate.',
   alternates: {
     canonical: 'https://www.settleloans.in/remove-settled-status-from-cibil',
   },

@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Eligibility Criteria | SettleLoans",
-  description: "Explore the comprehensive eligibility criteria for loan settlement programs in India. Understand how banks, NBFCs, and fintech platforms evaluate your case for debt resolution.",
+  description: "Explore the comprehensive eligibility criteria for loan settlement programs in India. Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/what-are-the-eligibility-criteria-for-loan-settlement-programs-by-lending-platforms",
   },

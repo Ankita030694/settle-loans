@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: "Credit Card Settlement Services India | SettleLoans",
-  description: "Stuck in the credit card Minimum Due trap? SettleLoans helps you legally settle credit card debt for 50% less. Expert protection from recovery agents and arbitration.",
+  description: "Stuck in the credit card Minimum Due trap? SettleLoans helps you legally settle credit card debt for 50% less. Expert protection from recovery agents.",
   alternates: {
     canonical: "https://www.settleloans.in/services/credit-card-settlement",
   },

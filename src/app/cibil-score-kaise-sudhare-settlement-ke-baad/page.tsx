@@ -34,7 +34,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'CIBIL Score Kaise Sudhare Settlement Ke Baad | SettleLoans',
-  description: 'Loan settlement ke baad CIBIL score kaise sudhare? Complete legal and financial guide on converting Settled status to Closed, secured credit cards, and credit mix.',
+  description: 'Loan settlement ke baad CIBIL score kaise sudhare? Complete legal and financial guide on converting Settled status to Closed, secured credit cards.',
   keywords: [
     'cibil score kaise sudhare settlement ke baad',
     'loan settlement ke baad cibil kaise improve kare',

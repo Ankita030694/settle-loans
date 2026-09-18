@@ -3,7 +3,7 @@ import CannotPayPersonalLoanEmiClient from './CannotPayPersonalLoanEmiClient';
 
 export const metadata: Metadata = {
   title: 'Cannot Pay Personal Loan EMI? Relief Guide | SettleLoans',
-  description: 'Cannot pay your personal loan EMI? Discover immediate 24-hour crisis steps, RBI borrower protection rules, legal notice defense, and how to settle or restructure safely.',
+  description: 'Cannot pay your personal loan EMI? Discover immediate 24-hour crisis steps, RBI borrower protection rules, legal notice defense.',
   alternates: {
     canonical: 'https://www.settleloans.in/cannot-pay-personal-loan-emi',
   },

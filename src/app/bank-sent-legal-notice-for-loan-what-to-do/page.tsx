@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
     title: "Bank Sent Legal Notice for Loan: Next Steps | SettleLoans",
-    description: "Received a legal notice for loan default? Learn about immediate response steps, SARFAESI Act rights, and how to contest unfair demands. Professional legal aid for borrowers.",
+    description: "Received a legal notice for loan default? Learn about immediate response steps, SARFAESI Act rights, and how to contest unfair demands.",
     alternates: {
         canonical: "https://www.settleloans.in/bank-sent-legal-notice-for-loan-what-to-do",
     },

@@ -3,7 +3,7 @@ import BajajFinancePersonalLoanSettlementClient from './BajajFinancePersonalLoan
 
 export const metadata: Metadata = {
   title: 'Bajaj Finance Personal Loan Settlement Guide | SettleLoans',
-  description: 'Exhaustive guide to Bajaj Finance personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, NACH bounce defense, and how to negotiate up to 60% haircut under RBI rules.',
+  description: 'Exhaustive guide to Bajaj Finance personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, NACH bounce defense.',
   keywords: [
     'bajaj finserv personal loan settlement',
     'bajaj finance loan settlement process',

@@ -4,7 +4,7 @@ import LoanWriteOffVsLoanWaiveOffClient from './LoanWriteOffVsLoanWaiveOffClient
 export const metadata: Metadata = {
   title: 'Loan Write-Off vs Loan Waive-Off Truth | SettleLoans',
   description:
-    'Saw "Written Off" in your CIBIL? Learn why loan write-off is not debt forgiveness. Discover legal differences, bank recovery rules, and how to settle for a clean ₹0 NDC.',
+    'Saw "Written Off" in your CIBIL? Learn why loan write-off is not debt forgiveness. Discover legal differences, bank recovery rules, and how to settle.',
   keywords: [
     'difference between loan write off and waive off',
     'loan write off vs loan waive off',

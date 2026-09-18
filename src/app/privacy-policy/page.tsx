@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy - SettleLoans",
+  title: "Privacy Policy & Data Protection | SettleLoans",
   description: "Learn about how SettleLoans collects, uses, and protects your personal and financial information. Our commitment to your privacy and data security.",
   alternates: {
     canonical: "https://www.settleloans.in/privacy-policy",

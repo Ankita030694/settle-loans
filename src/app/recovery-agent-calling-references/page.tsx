@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Recovery Agent Calling References: RBI Rules | SettleLoans",
-  description: "Learn your legal rights when recovery agents call your references, friends, or family. RBI guidelines strictly prohibit third-party contact. Get expert help to stop harassment and settle loans legally.",
+  description: "Learn your legal rights when recovery agents call your references, friends, or family. RBI guidelines strictly prohibit third-party contact.",
   alternates: {
     canonical: "https://www.settleloans.in/recovery-agent-calling-references",
   },

@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
     title: "Best NBFC Loan Settlement Lawyer in India | SettleLoans",
-    description: "Expert legal assistance for NBFC loan settlement in India. Protect your rights under RBI guidelines, stop harassment, and secure a favorable One-Time Settlement (OTS).",
+    description: "Expert legal assistance for NBFC loan settlement in India. Protect your rights under RBI guidelines, stop harassment, and secure a favorable One-Time.",
     alternates: {
         canonical: "https://www.settleloans.in/best-nbfc-loan-settlement-lawyer",
     },

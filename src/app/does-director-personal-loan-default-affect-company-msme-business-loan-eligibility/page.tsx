@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Does a Director's Personal Loan Default Affect Their Company's MSME Loan Eligibility?",
-  description: "Learn how a single director's personal loan default can impact a Private Limited Company's MSME loan and working capital eligibility, despite the separate legal entity rule.",
+  description: "Learn how a single director's personal loan default can impact a Private Limited Company's MSME loan and working capital eligibility.",
   alternates: {
     canonical: "https://www.settleloans.in/does-director-personal-loan-default-affect-company-msme-business-loan-eligibility",
   },

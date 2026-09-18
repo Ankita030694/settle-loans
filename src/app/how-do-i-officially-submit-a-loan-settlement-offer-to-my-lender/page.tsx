@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
   title: "Submit Loan Settlement Offer to Lender | SettleLoans",
-  description: "A step-by-step guide on officially submitting a loan settlement offer to banks or NBFCs in India. Learn about assessment, documentation, negotiation, and templates.",
+  description: "A step-by-step guide on officially submitting a loan settlement offer to banks or NBFCs in India. Learn about assessment, documentation, negotiation.",
   alternates: {
     canonical: "https://www.settleloans.in/how-do-i-officially-submit-a-loan-settlement-offer-to-my-lender",
   },

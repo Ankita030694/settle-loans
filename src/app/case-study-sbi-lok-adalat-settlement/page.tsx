@@ -3,7 +3,7 @@ import CaseStudySbiLokAdalatClient from './CaseStudySbiLokAdalatClient';
 
 export const metadata: Metadata = {
   title: 'SBI Lok Adalat Settlement Case Study | SettleLoans',
-  description: 'Real case study: How a ₹12 Lakh SBI personal loan default was resolved for ₹5.4 Lakhs (55% waiver) at National Lok Adalat with full legal immunity and zero dues NDC.',
+  description: 'Real case study: How a ₹12 Lakh SBI personal loan default was resolved for ₹5. Stop harassment & settle debt legally with SettleLoans.',
   keywords: [
     'sbi lok adalat settlement case study',
     'sbi lok adalat settlement',

@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Recovery Agents Calling Family Members? | SettleLoans",
-  description: "Are recovery agents calling your family members? Learn about the strict RBI rules that prohibit third-party contact, your legal rights against harassment, and how to file a complaint for immediate relief.",
+  description: "Are recovery agents calling your family members? Learn about the strict RBI rules that prohibit third-party contact, your legal rights against harassment.",
   alternates: {
     canonical: "https://www.settleloans.in/recovery-agents-calling-family-members",
   },

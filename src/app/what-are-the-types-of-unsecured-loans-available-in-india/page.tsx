@@ -5,7 +5,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
     title: "What Are the Types of Unsecured Loans Available in India?",
-    description: "Looking for money without pledging your assets? Discover the complete list of unsecured loans available in India today, including personal loans and credit cards.",
+    description: "Looking for money without pledging your assets? Discover the complete list of unsecured loans available in India today, including personal loans and credit.",
     alternates: {
         canonical: "https://www.settleloans.in/what-are-the-types-of-unsecured-loans-available-in-india",
     },

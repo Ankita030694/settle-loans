@@ -6,7 +6,7 @@ import { faStar } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
     title: "Lawyers for Bounced Security Checks | SettleLoans",
-    description: "Expert legal representation for Section 138 cheque bounce cases in India. Defence for security checks, loan disputes, and credit card irregularities. 2025 NI Act updates.",
+    description: "Expert legal representation for Section 138 cheque bounce cases in India. Defence for security checks, loan disputes, and credit card irregularities.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyers-for-bounced-security-check-for-loans-and-credit-card-disputes",
     },

@@ -2,8 +2,8 @@ import Link from 'next/link';
 import React from 'react';
 
 export const metadata = {
-  title: 'Sitemap - SettleLoans Queries',
-  description: 'Explore all our loan settlement queries and topics.',
+  title: "All Debt Settlement Queries & Topics | SettleLoans",
+  description: "Explore all our comprehensive loan settlement queries, bank OTS policies, debt relief legal guides, and expert answers to become debt-free.",
 };
 
 export default function SitemapPage() {

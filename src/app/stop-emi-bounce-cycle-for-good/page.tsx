@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "Stop the EMI Bounce Cycle for Good | Break the Debt Trap",
-  description: "Are you paying thousands in bounce charges every month but your loan principal isn't going down? Learn how to break the toxic bounce cycle permanently and restructure your personal loan.",
+  description: "Are you paying thousands in bounce charges every month but your loan principal isn't going down? Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/stop-emi-bounce-cycle-for-good"
   }

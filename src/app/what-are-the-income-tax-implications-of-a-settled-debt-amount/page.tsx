@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Tax Implications of Settled Debt in India | SettleLoans",
-  description: "Understand the income tax implications of settled loan amounts in India. Learn about Section 41(1), the Finance Act 2023 amendment to Section 28(iv), and how it affects personal vs business debt waivers.",
+  description: "Understand the income tax implications of settled loan amounts in India. Learn about Section 41(1), the Finance Act 2023 amendment to Section 28(iv).",
   alternates: {
     canonical: "https://www.settleloans.in/what-are-the-income-tax-implications-of-a-settled-debt-amount",
   },

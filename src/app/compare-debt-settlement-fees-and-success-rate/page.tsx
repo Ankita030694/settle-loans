@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Compare Debt Settlement Fees & Success Rates India 2024",
-  description: "Detailed comparison of debt settlement fee structures and success rates in India. Learn about flat fees, percentage-based models, and average debt waivers (30% to 70%).",
+  description: "Detailed comparison of debt settlement fee structures and success rates in India. Learn about flat fees, percentage-based models.",
   alternates: {
     canonical: "https://www.settleloans.in/compare-debt-settlement-fees-and-success-rate",
   },

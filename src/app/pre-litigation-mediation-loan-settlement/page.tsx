@@ -37,7 +37,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Pre-Litigation Mediation for Loan Default | SettleLoans',
-  description: 'Discover how to proactively initiate free, court-backed pre-litigation mediation through your District Legal Services Authority (DLSA) for bank loan defaults. Stop recovery harassment, force banks into compromise negotiations, and secure a binding Lok Adalat consent decree.',
+  description: 'Discover how to proactively initiate free, court-backed pre-litigation mediation through your District Legal Services Authority (DLSA) for bank loan defaults.',
   keywords: [
     'pre litigation mediation for bank loan default',
     'dlsa loan settlement process',

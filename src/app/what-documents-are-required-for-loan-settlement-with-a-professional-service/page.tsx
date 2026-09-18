@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Documents Required for Loan Settlement | SettleLoans",
-  description: "Complete list of documents required for loan settlement in India. Hardship letters, KYC, bank statements, and more. A professional guide to debt resolution paperwork.",
+  description: "Complete list of documents required for loan settlement in India. Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/what-documents-are-required-for-loan-settlement-with-a-professional-service",
   },

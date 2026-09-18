@@ -31,7 +31,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Section 25 PSSA Notice for Loan Default | SettleLoans',
-  description: 'Received a Section 25 Payment and Settlement Systems Act notice for NACH auto-debit bounce? Learn borrower legal rights, 15-day reply protocol, and how OTS extinguishes criminal complaints.',
+  description: 'Received a Section 25 Payment and Settlement Systems Act notice for NACH auto-debit bounce? Learn borrower legal rights, 15-day reply protocol.',
   keywords: [
     'section 25 payment and settlement systems act notice',
     'section 25 pssa notice loan default',

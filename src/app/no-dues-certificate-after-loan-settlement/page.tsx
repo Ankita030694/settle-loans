@@ -3,7 +3,7 @@ import NoDuesCertificateAfterLoanSettlementClient from './NoDuesCertificateAfter
 
 export const metadata: Metadata = {
   title: 'No Dues Certificate After Loan Settlement | SettleLoans',
-  description: 'Paid your loan settlement? Learn how to get and verify an authentic No Dues Certificate (NDC/NOC), RBI 30-day rules, ₹5,000/day compensation penalty, and avoid recovery scams.',
+  description: 'Paid your loan settlement? Learn how to get and verify an authentic No Dues Certificate (NDC/NOC), RBI 30-day rules, ₹5, 000/day compensation penalty.',
   keywords: [
     'how to get no dues certificate after settlement',
     'no dues certificate after loan settlement',

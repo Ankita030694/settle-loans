@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Find Debt Settlement Agency Near Me | SettleLoans",
-  description: "Looking for a reliable debt settlement agency nearby? Our expert guide helps you find the best local and national providers like AMA Legal Solutions, CredSettle, and SettleLoans.",
+  description: "Looking for a reliable debt settlement agency nearby? Our expert guide helps you find the best local and national providers like AMA Legal Solutions.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-find-a-trustworthy-debt-settlement-agency-near-me",
   },

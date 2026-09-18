@@ -3,7 +3,7 @@ import PersonalLoanSettlementDelhiNcrClient from './PersonalLoanSettlementDelhiN
 
 export const metadata: Metadata = {
   title: 'Loan Settlement Lawyer in Delhi NCR | SettleLoans',
-  description: 'Facing personal loan default, court summons, or recovery harassment in Delhi NCR? Connect with experienced debt settlement lawyers for Tis Hazari, Saket, Karkardooma, Rohini, Dwarka & Gurugram courts. RBI-compliant legal defense & Lok Adalat settlements.',
+  description: 'Facing personal loan default, court summons, or recovery harassment in Delhi NCR? Connect with experienced debt settlement lawyers for Tis Hazari, Saket.',
   keywords: [
     'personal loan settlement lawyer in delhi ncr',
     'loan settlement lawyer delhi',

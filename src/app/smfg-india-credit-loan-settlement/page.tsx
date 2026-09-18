@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'SMFG India Credit Loan Settlement Guide | SettleLoans',
-  description: 'Comprehensive guide to SMFG India Credit (formerly Fullerton India) loan settlement. Learn how to settle high-ticket personal and business loans, navigate SARB recovery collections, halt aggressive NACH bounce fees, defend Section 25 PSSA and arbitration notices, and negotiate up to 60% OTS haircut under RBI compromise rules.',
+  description: 'Comprehensive guide to SMFG India Credit (formerly Fullerton India) loan settlement. Learn how to settle high-ticket personal and business loans.',
   keywords: [
     'smfg india credit loan settlement',
     'smfg india credit ots policy',

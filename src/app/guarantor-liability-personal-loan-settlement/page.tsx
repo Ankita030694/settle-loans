@@ -38,7 +38,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Guarantor Liability in Loan Settlement | SettleLoans',
-  description: 'Worried about guarantor liability in personal loan default? Understand Section 128 Indian Contract Act co-extensive liability, stop recovery harassment against aging parents or spouse, and secure a simultaneous dual OTS discharge.',
+  description: 'Worried about guarantor liability in personal loan default? Understand Section 128 Indian Contract Act co-extensive liability.',
   keywords: [
     'guarantor liability in personal loan default',
     'co applicant liability loan default india',

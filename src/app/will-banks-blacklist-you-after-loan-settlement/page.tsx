@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
     title: "Will Banks Blacklist You After Settlement? | SettleLoans",
-    description: "Concerned about being blacklisted after loan settlement? This 5500+ word guide explains internal bank lists, CIBIL impact, and how to regain your creditworthiness.",
+    description: "Concerned about being blacklisted after loan settlement? This 5500+ word guide explains internal bank lists, CIBIL impact.",
     alternates: {
         canonical: "https://www.settleloans.in/will-banks-blacklist-you-after-loan-settlement",
     },

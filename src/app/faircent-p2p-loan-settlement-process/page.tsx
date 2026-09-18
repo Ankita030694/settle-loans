@@ -34,7 +34,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Faircent & P2P Loan Settlement Process | SettleLoans',
-  description: 'Complete guide to Faircent and P2P loan settlement in India. Learn how to settle Peer-to-Peer personal loans across Faircent, LenDenClub, and LiquiLoans under RBI Master Directions, stop recovery harassment, defend Section 25 PSSA notices, and negotiate a 40%–65% OTS debt haircut with official No Dues Certificates.',
+  description: 'Complete guide to Faircent and P2P loan settlement in India. Learn how to settle Peer-to-Peer personal loans across Faircent, LenDenClub.',
   keywords: [
     'p2p loan settlement process',
     'faircent loan settlement',

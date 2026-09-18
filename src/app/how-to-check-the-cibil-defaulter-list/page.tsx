@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "How to Check the CIBIL Defaulter List | RBI Guidelines",
-  description: "Has a recovery agent threatened to put your name on the 'CIBIL Defaulter List'? Discover what this list actually is, how to check it online, and stop recovery agent threats.",
+  description: "Has a recovery agent threatened to put your name on the 'CIBIL Defaulter List'? Discover what this list actually is, how to check it online.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-check-the-cibil-defaulter-list",
   },

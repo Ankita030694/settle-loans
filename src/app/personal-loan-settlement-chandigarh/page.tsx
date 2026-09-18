@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Loan Settlement Company in Chandigarh | SettleLoans',
-  description: 'Leading loan settlement company in Chandigarh, Mohali & Panchkula. Expert advocate representation for high-ticket personal loans, credit cards & NRI debt under RBI OTS rules.',
+  description: 'Leading loan settlement company in Chandigarh, Mohali & Panchkula. Expert advocate representation for high-ticket personal loans.',
   keywords: [
     'loan settlement company in chandigarh',
     'personal loan settlement chandigarh',

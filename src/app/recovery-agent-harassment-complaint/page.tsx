@@ -6,7 +6,7 @@ import { faStar, faShieldAlt, faGavel, faScaleBalanced, faHandshake, faCheckCirc
 
 export const metadata: Metadata = {
   title: "Recovery Agent Harassment Complaint | SettleLoans",
-  description: "Face recovery agent harassment? Learn how to file a complaint against bank recovery agents in India. Know your RBI guidelines, legal rights, and how to stop debt collection calls.",
+  description: "Face recovery agent harassment? Learn how to file a complaint against bank recovery agents in India. Know your RBI guidelines, legal rights.",
   alternates: {
     canonical: "https://www.settleloans.in/recovery-agent-harassment-complaint",
   },

@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Penalty Waiver Request Letter Format | Reverse Late Fees",
-  description: "Suffered a genuine medical or financial crisis that caused you to miss a payment? Copy our proven Penalty Waiver Request Letter to get the bank to reverse thousands in late fees.",
+  description: "Suffered a genuine medical or financial crisis that caused you to miss a payment? Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/penalty-waiver-request-letter",
   },

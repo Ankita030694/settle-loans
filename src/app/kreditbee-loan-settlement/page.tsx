@@ -3,7 +3,7 @@ import KreditBeeLoanSettlementClient from './KreditBeeLoanSettlementClient';
 
 export const metadata: Metadata = {
   title: 'KreditBee Loan Settlement Guide | SettleLoans',
-  description: 'Complete legal guide to KreditBee and Krazybee Services personal loan settlement. Halt automated recovery calls and WhatsApp harassment, stop NACH bounce charges, defend Section 25 PSSA notices, and negotiate up to 65% OTS haircut under RBI guidelines.',
+  description: 'Complete legal guide to KreditBee and Krazybee Services personal loan settlement. Halt automated recovery calls and WhatsApp harassment.',
   keywords: [
     'kreditbee loan settlement process',
     'kreditbee loan settlement',

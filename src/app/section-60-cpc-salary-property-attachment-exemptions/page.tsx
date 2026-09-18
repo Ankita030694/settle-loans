@@ -43,7 +43,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Section 60 CPC Attachment Exemptions Guide | SettleLoans',
-  description: 'What property and salary is exempted from attachment under Section 60 CPC? Understand statutory shields for wages, Stridhan, PF, gratuity, and tools of trade against bank recovery execution.',
+  description: 'What property and salary is exempted from attachment under Section 60 CPC? Understand statutory shields for wages, Stridhan, PF, gratuity.',
   keywords: [
     'section 60 cpc property exempted from attachment',
     'section 60 cpc salary attachment limit',

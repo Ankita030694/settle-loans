@@ -3,7 +3,7 @@ import PersonalLoanSettlementVsRestructuringClient from './PersonalLoanSettlemen
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement vs Restructuring | SettleLoans',
-  description: 'Confused between personal loan settlement vs restructuring? Compare EMI reduction vs one-time settlement haircut, CIBIL score drop (-50 vs -120 pts), RBI guidelines, total repayment cost & recovery roadmap.',
+  description: 'Confused between personal loan settlement vs restructuring? Compare EMI reduction vs one-time settlement haircut, CIBIL score drop (-50 vs -120 pts).',
   keywords: [
     'personal loan settlement vs restructuring',
     'difference between loan settlement and restructuring',

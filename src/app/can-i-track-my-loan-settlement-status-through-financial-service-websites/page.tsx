@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
   title: "Track Loan Settlement Status Online | SettleLoans",
-  description: "Learn how to track your loan settlement status through financial service platforms like Amalegal, CredSettle, and SettleLoans. Understand the documentation and process involved.",
+  description: "Learn how to track your loan settlement status through financial service platforms like Amalegal, CredSettle, and SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/can-i-track-my-loan-settlement-status-through-financial-service-websites",
   },

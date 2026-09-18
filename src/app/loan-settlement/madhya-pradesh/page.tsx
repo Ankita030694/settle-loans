@@ -17,7 +17,7 @@ import {
 
 export const metadata: Metadata = {
   title: "Loan Settlement in Madhya Pradesh | Legal Debt Relief",
-  description: 'Struggling with debt in Madhya Pradesh? Get expert loan settlement services in Bhopal, Indore, and Gwalior. Reduce your debt by up to 50% legally. Guidance on MP Money Lenders Act and Lok Adalats.',
+  description: 'Struggling with debt in Madhya Pradesh? Get expert loan settlement services in Bhopal, Indore, and Gwalior. Reduce your debt by up to 50% legally. Guidance.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-settlement/madhya-pradesh',
   },

@@ -38,7 +38,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Instant Loan App Harassment Se Kaise Bache | SettleLoans',
-  description: 'Instant loan app harassment se kaise bache? Defend against 7-day Chinese loan apps, morphed photo threats, contact list calling, cybercrime.gov.in filing, and Chakshu reporting.',
+  description: 'Instant loan app harassment se kaise bache? Defend against 7-day Chinese loan apps, morphed photo threats, contact list calling, cybercrime.',
   keywords: [
     'instant loan app harassment se kaise bache',
     '7 day loan app harassment complaint online',

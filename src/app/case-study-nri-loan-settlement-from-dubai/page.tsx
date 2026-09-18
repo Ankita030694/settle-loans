@@ -3,7 +3,7 @@ import CaseStudyNriDubaiClient from './CaseStudyNriDubaiClient';
 
 export const metadata: Metadata = {
   title: 'NRI Personal Loan Settlement Case Study | SettleLoans',
-  description: 'Real case study: How an NRI in Dubai defaulted on a ₹10 Lakh Indian personal loan and settled it for ₹4.1 Lakhs (60% waiver) via Power of Attorney without flying to India.',
+  description: 'Real case study: How an NRI in Dubai defaulted on a ₹10 Lakh Indian personal loan and settled it for ₹4. Get expert legal help to settle your debt for less.',
   keywords: [
     'nri personal loan settlement case study',
     'nri loan default airport arrest india',

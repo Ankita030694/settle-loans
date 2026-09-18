@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
     title: "Loan Sanction Without Consent: Legal Case | SettleLoans",
-    description: "Victim of loan fraud or identity theft? Learn about legal remedies for loans sanctioned without consent, forged signatures, IPC sections, and RBI grievance redressal.",
+    description: "Victim of loan fraud or identity theft? Learn about legal remedies for loans sanctioned without consent, forged signatures, IPC sections.",
     alternates: {
         canonical: "https://www.settleloans.in/legal-case-for-loan-sanction-without-consent",
     },

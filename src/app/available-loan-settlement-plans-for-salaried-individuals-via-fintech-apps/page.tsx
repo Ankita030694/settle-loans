@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan Settlement for Salaried via Fintech Apps | SettleLoans",
-  description: "Explore the best loan settlement and debt relief plans for salaried individuals in India using fintech apps. Professional negotiation, harassment protection, and credit rebuilding.",
+  description: "Explore the best loan settlement and debt relief plans for salaried individuals in India using fintech apps. Professional negotiation.",
   alternates: {
     canonical: "https://www.settleloans.in/available-loan-settlement-plans-for-salaried-individuals-via-fintech-apps",
   },

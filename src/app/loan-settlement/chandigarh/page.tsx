@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Chandigarh | SettleLoans",
-  description: "Expert loan settlement services in Chandigarh. Detailed 3500+ word guide on debt relief, DRT Chandigarh procedures, stopping harassment in Tricity, and settling credit card dues legally.",
+  description: "Expert loan settlement services in Chandigarh. Detailed 3500+ word guide on debt relief, DRT Chandigarh procedures, stopping harassment in Tricity.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/chandigarh",
   },

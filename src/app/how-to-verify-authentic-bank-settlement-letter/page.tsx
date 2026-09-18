@@ -33,7 +33,7 @@ import {
 
 export const metadata: Metadata = {
   title: "Verify Authentic Bank Settlement Letter | SettleLoans",
-  description: "Learn how to verify a bank loan settlement letter authenticity. Discover 7 critical forensic checks, official domain email verification, branch seal checks, RBI safe remittance rules, and how to avoid fake WhatsApp OTS fraud.",
+  description: "Learn how to verify a bank loan settlement letter authenticity. Discover 7 critical forensic checks, official domain email verification, branch seal checks.",
   keywords: [
     "how to verify bank loan settlement letter",
     "fake bank loan settlement letter",

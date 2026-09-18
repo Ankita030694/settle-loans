@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Bengaluru | SettleLoans",
-  description: "Struggling with debt in Bengaluru or Karnataka? Get professional legal help for loan settlement. Expert negotiation at MG Road banks & Mayo Hall courts. Zero harassment.",
+  description: "Struggling with debt in Bengaluru or Karnataka? Get professional legal help for loan settlement. Expert negotiation at MG Road banks & Mayo Hall courts.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/bengaluru",
   },

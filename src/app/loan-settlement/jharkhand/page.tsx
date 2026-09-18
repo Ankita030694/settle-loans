@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan Settlement in Jharkhand | 3500+ Word Legal Guide",
-  description: "Comprehensive 3500+ word guide to loan settlement in Jharkhand. Legal protection under CNT/SPT Acts, JHALSA Lok Adalat procedures, and debt recovery defenses in Ranchi & Jamshedpur.",
+  description: "Comprehensive 3500+ word guide to loan settlement in Jharkhand. Legal protection under CNT/SPT Acts, JHALSA Lok Adalat procedures.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/jharkhand",
   },

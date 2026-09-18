@@ -36,7 +36,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'PNB Personal Loan Settlement Process | SettleLoans',
-  description: 'Exhaustive guide to Punjab National Bank (PNB) personal loan settlement. Understand PNB OTS compromise schemes, Circle SASTRA escalation, recovery agent conduct rules, Section 138/25 defense, and timeline for getting an NDC.',
+  description: 'Exhaustive guide to Punjab National Bank (PNB) personal loan settlement. Understand PNB OTS compromise schemes, Circle SASTRA escalation.',
   keywords: [
     'punjab national bank loan settlement',
     'pnb personal loan settlement process',

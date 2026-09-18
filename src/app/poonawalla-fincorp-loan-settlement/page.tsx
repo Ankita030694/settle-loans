@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Poonawalla Fincorp Loan Settlement Guide | SettleLoans',
-  description: 'Comprehensive guide to Poonawalla Fincorp personal, professional & pre-owned car loan settlement. Learn how to stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA notices, and negotiate 40%–60% OTS haircuts under RBI rules.',
+  description: 'Comprehensive guide to Poonawalla Fincorp personal, professional & pre-owned car loan settlement. Learn how to stop NACH bounce charges.',
   keywords: [
     'poonawalla fincorp personal loan settlement',
     'poonawalla fincorp loan settlement',

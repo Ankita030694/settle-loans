@@ -6,7 +6,7 @@ import { faTriangleExclamation, faStar, faCheck, faShieldHalved, faScaleBalanced
 
 export const metadata: Metadata = {
     title: "How to Apply for Loan Settlement | SettleLoans",
-    description: "Learn the professional steps to apply for a loan settlement in India. Master the process from financial audit to final 'No Dues Certificate' with expert guidance.",
+    description: "Learn the professional steps to apply for a loan settlement in India. Stop harassment & settle debt legally with SettleLoans.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/steps-to-apply-for-a-loan-settlement-through-a-financial-service-provider",
     },

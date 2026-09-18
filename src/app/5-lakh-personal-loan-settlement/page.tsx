@@ -3,7 +3,7 @@ import FiveLakhPersonalLoanSettlementClient from './5LakhPersonalLoanSettlementC
 
 export const metadata: Metadata = {
   title: 'How to Settle 5 Lakh Personal Loan in India | SettleLoans',
-  description: 'Step-by-step legal guide to settling a ₹5 Lakh personal loan in India. Discover realistic OTS haircut percentages (₹1.5L–₹2.5L settlements), NPA timelines, recovery harassment defense, and RBI compromise settlement rules.',
+  description: 'Step-by-step legal guide to settling a ₹5 Lakh personal loan in India. Stop harassment & settle debt legally with SettleLoans.',
   keywords: [
     'how to settle 5 lakh personal loan',
     '5 lakh personal loan settlement process',

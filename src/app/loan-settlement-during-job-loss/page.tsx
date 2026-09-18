@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan Settlement During Job Loss in India | SettleLoans",
-  description: "Struggling with loan repayments after losing your job? Learn about RBI guidelines, EMI restructuring, and how to negotiate a loan settlement during unemployment in India. Get expert help now.",
+  description: "Struggling with loan repayments after losing your job? Learn about RBI guidelines, EMI restructuring, and how to negotiate a loan settlement during.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-during-job-loss",
   },

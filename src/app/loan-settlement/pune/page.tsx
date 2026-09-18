@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Pune | SettleLoans",
-  description: "Legal help for loan settlement in Pune & Pimpri-Chinchwad. Negotiate credit card waivers at Shivajinagar Lok Adalat. Stop recovery agent visits in Baner, Kothrud & Hinjewadi.",
+  description: "Legal help for loan settlement in Pune & Pimpri-Chinchwad. Negotiate credit card waivers at Shivajinagar Lok Adalat. Stop recovery agent visits in Baner.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/pune",
   },

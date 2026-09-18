@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Bajaj Finance Loan Settlement | SettleLoans",
-  description: "Struggling with Bajaj Finance debt? Learn the expert process for Bajaj Finserv loan settlement and EMI card OTS. Settle for 40-70% less and stop collection harassment.",
+  description: "Struggling with Bajaj Finance debt? Learn the expert process for Bajaj Finserv loan settlement and EMI card OTS. Settle for 40-70% less and stop collection.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/bajaj-finance",
   },

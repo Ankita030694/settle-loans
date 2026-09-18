@@ -17,7 +17,7 @@ import {
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Meghalaya | SettleLoans",
-  description: 'Struggling with debt in Meghalaya? Expert loan settlement services in Shillong, Tura, and Jowai. Understand Meghalaya Land Transfer Act protections and settle legally.',
+  description: 'Struggling with debt in Meghalaya? Expert loan settlement services in Shillong, Tura, and Jowai. Understand Meghalaya Land Transfer Act protections.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-settlement/meghalaya',
   },

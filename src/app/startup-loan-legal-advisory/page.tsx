@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
     title: "Startup Loan Legal Advisory in India | SettleLoans",
-    description: "Expert legal advisory for startup loans in India. Understand funding structures, government schemes like Startup India, compliance requirements, and debt recovery laws. Scale your startup safely.",
+    description: "Expert legal advisory for startup loans in India. Understand funding structures, government schemes like Startup India, compliance requirements.",
     alternates: {
         canonical: "https://www.settleloans.in/startup-loan-legal-advisory",
     },

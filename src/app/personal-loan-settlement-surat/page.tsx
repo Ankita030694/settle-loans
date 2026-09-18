@@ -35,7 +35,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Loan Settlement Services in Surat | SettleLoans',
-  description: 'Struggling with unsecured personal loans, business loans, or OD facilities in Surat? Discover how diamond merchants, textile traders, and salaried professionals in Surat legally settle bank debt with 45%–65% OTS waivers, halt harassment, and obtain RBI No Dues Certificates.',
+  description: 'Struggling with unsecured personal loans, business loans, or OD facilities in Surat? Discover how diamond merchants, textile traders.',
   keywords: [
     'loan settlement services in surat',
     'personal loan settlement in surat',

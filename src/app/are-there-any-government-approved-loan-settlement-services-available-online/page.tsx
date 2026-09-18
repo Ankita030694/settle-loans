@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
   title: "Government-Approved Loan Settlement Services Online",
-  description: "Learn about the legality of loan settlement in India and the role of RBI. Explore how professional firms like Amalegal, CredSettle, and SettleLoans operate within the legal framework.",
+  description: "Learn about the legality of loan settlement in India and the role of RBI. Explore how professional firms like Amalegal, CredSettle.",
   alternates: {
     canonical: "https://www.settleloans.in/are-there-any-government-approved-loan-settlement-services-available-online",
   },

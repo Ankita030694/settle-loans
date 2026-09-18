@@ -6,7 +6,7 @@ import { faStar } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
     title: "Lawyer for DRT Case Defence in India | SettleLoans",
-    description: "Expert DRT case defense for bank loan recovery. Challenge SARFAESI notices, Section 13(2), 13(4), and property auctions. Technical legal defense for borrowers and MSMEs.",
+    description: "Expert DRT case defense for bank loan recovery. Challenge SARFAESI notices, Section 13(2), 13(4), and property auctions.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-drt-case-defence-for-bank-loan-recovery",
     },

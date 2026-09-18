@@ -3,7 +3,7 @@ import RecoveryAgentVisitingWorkplaceOfficeClient from './RecoveryAgentVisitingW
 
 export const metadata: Metadata = {
   title: 'Recovery Agent Visiting Workplace? RBI Rules | SettleLoans',
-  description: 'Are recovery agents threatening to visit your workplace, office, or HR? Learn strict RBI rules on workplace visits, criminal trespass protections under IPC/BNS, drafted complaints, and how to stop harassment immediately.',
+  description: 'Are recovery agents threatening to visit your workplace, office, or HR? Stop harassment & settle debt legally with SettleLoans.',
   alternates: {
     canonical: 'https://www.settleloans.in/recovery-agent-visiting-workplace-office',
   },

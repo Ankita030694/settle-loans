@@ -3,7 +3,7 @@ import CaseStudyCibilStatusSettledToClosedClient from './CaseStudyCibilStatusSet
 
 export const metadata: Metadata = {
   title: 'Convert CIBIL Status from Settled to Closed | SettleLoans',
-  description: 'Real case study: How a borrower converted their CIBIL status from Settled to Closed by paying residual waiver dues, boosting score to 785+ and unlocking a ₹75L home loan.',
+  description: 'Real case study: How a borrower converted their CIBIL status from Settled to Closed by paying residual waiver dues, boosting score to 785+ and unlocking.',
   keywords: [
     'converted cibil status from settled to closed',
     'cibil settled to closed process',

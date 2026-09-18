@@ -6,7 +6,7 @@ import { faStar, faShieldAlt, faGavel, faScaleBalanced, faHandshake, faCheckCirc
 
 export const metadata: Metadata = {
   title: "Recovery Agent Home Visit Rules & Rights | SettleLoans",
-  description: "Understand the strict RBI rules for recovery agent home visits in India. Know the timing (8am-7pm), ID requirements, and what to do if agents harass you at home.",
+  description: "Understand the strict RBI rules for recovery agent home visits in India. Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/recovery-agent-home-visit-rules",
   },

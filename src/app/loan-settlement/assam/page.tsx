@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan Settlement in Assam | Microfinance & Debt Relief",
-  description: "Expert loan settlement services in Assam. Protection against MFI harassment under Assam Micro Finance Act 2020. Resolve personal loans and credit card debt in Guwahati, Silchar, and Dibrugarh.",
+  description: "Expert loan settlement services in Assam. Protection against MFI harassment under Assam Micro Finance Act 2020. Resolve personal loans and credit card debt.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/assam",
   },

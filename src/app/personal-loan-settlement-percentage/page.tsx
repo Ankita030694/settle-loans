@@ -4,7 +4,7 @@ import PersonalLoanSettlementPercentageClient from './PersonalLoanSettlementPerc
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement Percentage Guide | SettleLoans',
   description:
-    'Wondering what percentage is personal loan settlement in India? Discover average settlement percentages (30%–50%), bank discount formulas, NPA timelines & fund planning guide.',
+    'Wondering what percentage is personal loan settlement in India? Discover average settlement percentages (30%–50%), bank discount formulas.',
   keywords: [
     'what percentage is personal loan settlement',
     'personal loan settlement percentage in india',

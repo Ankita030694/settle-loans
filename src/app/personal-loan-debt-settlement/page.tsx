@@ -6,7 +6,7 @@ export async function generateMetadata(): Promise<Metadata> {
   
   return {
     title: "Loan Debt Settlement vs Consolidation in India | SettleLoans",
-    description: "Compare personal loan debt settlement and debt consolidation in India. Learn which debt relief strategy works best for your financial situation with SettleLoans.",
+    description: "Compare personal loan debt settlement and debt consolidation in India. Stop harassment & settle debt legally with SettleLoans.",
     alternates: {
       canonical: url,
     },

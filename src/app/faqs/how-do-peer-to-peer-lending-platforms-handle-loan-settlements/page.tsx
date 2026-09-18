@@ -7,7 +7,7 @@ import { faTriangleExclamation, faStar, faCheck, faShieldHalved, faHandshake, fa
 
 export const metadata: Metadata = {
     title: "How P2P Lending Platforms Handle Loan Settlements",
-    description: "Discover how P2P platforms like Faircent and Lendbox handle loan settlements. Learn about individual lender negotiations, RBI recovery guidelines, and settlement strategies.",
+    description: "Discover how P2P platforms like Faircent and Lendbox handle loan settlements. Learn about individual lender negotiations, RBI recovery guidelines.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/how-do-peer-to-peer-lending-platforms-handle-loan-settlements",
     },

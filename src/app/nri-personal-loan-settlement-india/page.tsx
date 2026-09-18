@@ -3,7 +3,7 @@ import NriPersonalLoanSettlementIndiaClient from './NriPersonalLoanSettlementInd
 
 export const metadata: Metadata = {
   title: 'How NRIs Can Settle Personal Loans in India | SettleLoans',
-  description: 'Can an NRI settle a personal loan in India remotely? Learn how to settle bank debt from abroad via Consular Power of Attorney (POA), stop airport arrest fears, handle Section 138, and secure a No Dues Certificate.',
+  description: 'Can an NRI settle a personal loan in India remotely? Learn how to settle bank debt from abroad via Consular Power of Attorney (POA).',
   alternates: {
     canonical: 'https://www.settleloans.in/nri-personal-loan-settlement-india',
   },

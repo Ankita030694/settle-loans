@@ -39,7 +39,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Consumer Court Case Against Bank Harassment | SettleLoans',
-  description: 'Suffering bank recovery agent harassment? Learn how to file a consumer court complaint in DCDRC for deficiency of service, claim ₹10L+ damages for mental agony, and force a 50%–70% OTS settlement.',
+  description: 'Suffering bank recovery agent harassment? Learn how to file a consumer court complaint in DCDRC for deficiency of service.',
   keywords: [
     'consumer court case against bank for harassment',
     'consumer court complaint against bank harassment',

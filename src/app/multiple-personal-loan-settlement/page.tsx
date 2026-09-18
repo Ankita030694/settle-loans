@@ -3,7 +3,7 @@ import MultiplePersonalLoanSettlementClient from './MultiplePersonalLoanSettleme
 
 export const metadata: Metadata = {
   title: 'How to Settle Multiple Personal Loans | SettleLoans',
-  description: 'Drowning in multiple personal loans and credit cards? Discover how to negotiate multiple lenders simultaneously into one manageable settlement plan. Full RBI legal guide.',
+  description: 'Drowning in multiple personal loans and credit cards? Discover how to negotiate multiple lenders simultaneously into one manageable settlement plan.',
   keywords: [
     'how to settle multiple personal loans',
     'multiple personal loan settlement india',

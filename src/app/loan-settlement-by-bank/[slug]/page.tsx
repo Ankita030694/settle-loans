@@ -31,9 +31,17 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   const titleText = `${bank.company} Loan Settlement`;
   const metaTitle = titleText.length <= 46 ? `${titleText} | SettleLoans` : titleText;
 
+  let metaDesc = `Expert loan settlement for ${bank.company}. Settle personal loans & credit cards for 40-70% less. Legal debt relief & OTS assistance.`;
+  if (metaDesc.length > 160) {
+    metaDesc = `Expert loan settlement for ${bank.company}. Settle debts for 40-70% less. Legal debt relief and bank OTS assistance.`;
+  }
+  if (metaDesc.length > 160) {
+    metaDesc = `Loan settlement for ${bank.company}. Settle debts for 40-70% less with legal debt relief & OTS support.`;
+  }
+
   return {
     title: metaTitle,
-    description: `Expert assistance for loan settlement for ${bank.company}. Settle your credit card and personal loans for 40-70% less. Professional debt relief for ${bank.company} customers.`,
+    description: metaDesc,
     alternates: {
         canonical: `https://www.settleloans.in/loan-settlement-by-bank/${slug}`,
     },

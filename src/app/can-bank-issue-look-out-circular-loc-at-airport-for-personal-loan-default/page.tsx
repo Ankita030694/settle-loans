@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Can Banks Issue Airport LOC for Loan Default? | SettleLoans",
-  description: "Are you afraid of being stopped at the airport for loan default? Learn if banks can issue an LOC (Look Out Circular) or seize your passport for unpaid personal loans.",
+  description: "Are you afraid of being stopped at the airport for loan default? Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-issue-look-out-circular-loc-at-airport-for-personal-loan-default",
   },

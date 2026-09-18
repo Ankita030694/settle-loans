@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
     title: "Digital Loan Disputes in India | SettleLoans",
-    description: "Expert legal help for digital online cyber loan disputes in India. Stop loan app harassment, understand RBI guidelines, and protect your data privacy with our technical guide.",
+    description: "Expert legal help for digital online cyber loan disputes in India. Stop harassment & settle debt legally with SettleLoans.",
     alternates: {
         canonical: "https://www.settleloans.in/digital-online-cyber-loan-disputes",
     },

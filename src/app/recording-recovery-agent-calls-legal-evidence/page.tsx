@@ -42,7 +42,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Record Recovery Agent Calls for Evidence | SettleLoans',
-  description: 'Learn how to legally record loan recovery agent calls, CCTV footage, and WhatsApp threats for court evidence in India. Understand Section 65B Evidence Act / Section 63 BSA authentication, police FIR procedures, and legal protections.',
+  description: 'Learn how to legally record loan recovery agent calls, CCTV footage, and WhatsApp threats for court evidence in India. Understand Section 65B Evidence Act.',
   keywords: [
     'how to record recovery agent calls for court evidence',
     'section 65b certificate for audio recording',

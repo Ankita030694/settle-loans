@@ -4,7 +4,7 @@ import TableOfContents from "../../components/TableOfContents";
 
 export const metadata: Metadata = {
     title: "Overdue Loan Legal Protection in India | SettleLoans",
-    description: "Are you facing an overdue loan default? Understand your legal rights under RBI guidelines and Indian law. Protect yourself from illegal recovery and SARFAESI actions.",
+    description: "Are you facing an overdue loan default? Understand your legal rights under RBI guidelines and Indian law. Protect yourself from illegal recovery.",
     alternates: {
         canonical: "https://www.settleloans.in/overdue-loan-legal-protection",
     },

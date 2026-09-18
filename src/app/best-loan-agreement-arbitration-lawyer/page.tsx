@@ -6,7 +6,7 @@ import { faStar } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
     title: "Loan Agreement Arbitration Lawyer in India | SettleLoans",
-    description: "Expert legal defense for arbitration in loan agreements. Navigate Section 9 interim relief, Section 11 arbitrator challenges, Section 34 award setting aside, and MSME arbitration.",
+    description: "Expert legal defense for arbitration in loan agreements. Navigate Section 9 interim relief, Section 11 arbitrator challenges.",
     alternates: {
         canonical: "https://www.settleloans.in/best-loan-agreement-arbitration-lawyer",
     },

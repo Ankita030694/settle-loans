@@ -6,7 +6,7 @@ import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-
 
 export const metadata: Metadata = {
     title: "How to Negotiate Personal Loan Settlement | SettleLoans",
-    description: "Master the art of personal loan settlement negotiation in India. Get expert tips, learn RBI guidelines, avoid common mistakes, and save up to 50-70% on your debt.",
+    description: "Master the art of personal loan settlement negotiation in India. Get expert tips, learn RBI guidelines, avoid common mistakes.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/how-to-negotiate-personal-loan-settlement",
     },

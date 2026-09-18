@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
   title: "Loan Write-Off vs Loan Settlement in India | SettleLoans",
-  description: "Explore the critical differences between a loan write-off and a loan settlement. Learn about RBI rules, credit score impacts, and legal implications for borrowers in India.",
+  description: "Explore the critical differences between a loan write-off and a loan settlement. Learn about RBI rules, credit score impacts.",
   alternates: {
     canonical: "https://www.settleloans.in/explain-the-difference-between-a-loan-write-off-and-a-loan-settlement",
   },

@@ -6,7 +6,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Loan Settlement & Debt Relief by City | SettleLoans",
   description:
-    "Find expert advocates and lawyers for loan settlement across 1,500+ cities in India. Professional legal assistance to settle your debts and stop bank harassment.",
+    "Find expert advocates and lawyers for loan settlement across 1,500+ cities in India. Stop harassment & settle debt legally with SettleLoans.",
 };
 
 export default function LawyerByCity() {

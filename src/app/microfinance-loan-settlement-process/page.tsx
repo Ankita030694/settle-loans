@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Microfinance Loan Settlement Process & RBI Rules',
-  description: 'Comprehensive guide to microfinance loan settlement rules under RBI Master Directions (2022). Learn how to halt Joint Liability Group (JLG) coercion, stop social harassment from MFI recovery agents, and negotiate a 40% to 65% OTS debt haircut with Bandhan, Fusion, Spandana, and CreditAccess Grameen.',
+  description: 'Comprehensive guide to microfinance loan settlement rules under RBI Master Directions (2022). Learn how to halt Joint Liability Group (JLG) coercion.',
   keywords: [
     'microfinance loan settlement rules',
     'microfinance loan settlement process',

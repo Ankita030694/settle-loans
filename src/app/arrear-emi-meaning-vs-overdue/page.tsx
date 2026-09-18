@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "Arrear EMI Meaning vs Overdue: How to Clear Loan Arrears",
-  description: "Your bank statement shows 'Arrear EMI'—what does this actually mean? Understand the banking terminology that determines your default status and how to clear loan arrears.",
+  description: "Your bank statement shows 'Arrear EMI'—what does this actually mean? Stop harassment & settle debt legally with SettleLoans.",
   alternates: { canonical: "https://www.settleloans.in/arrear-emi-meaning-vs-overdue" }
 };
 

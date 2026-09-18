@@ -40,7 +40,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Stay Order Against Loan Recovery: Guide | SettleLoans',
-  description: 'Facing unlawful physical harassment by bank recovery agents? Learn how to get a court stay order and interim civil injunction under Order 39 CPC prohibiting agents from approaching your home or office.',
+  description: 'Facing unlawful physical harassment by bank recovery agents? Learn how to get a court stay order and interim civil injunction under Order 39 CPC.',
   keywords: [
     'how to get stay order against loan recovery',
     'court stay order against bank loan recovery',

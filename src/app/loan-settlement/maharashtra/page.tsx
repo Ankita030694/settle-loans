@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Maharashtra Debt Settlement Services | SettleLoans",
-  description: "Find legal debt resolution in Mumbai, Pune, and Nagpur. Our Maharashtra-specific loan settlement guide covers the 2014 Money Lending Act and Bombay High Court rulings to help you achieve a 40-70% waiver.",
+  description: "Find legal debt resolution in Mumbai, Pune, and Nagpur. Our Maharashtra-specific loan settlement guide covers the 2014 Money Lending Act and Bombay High.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/maharashtra",
   },

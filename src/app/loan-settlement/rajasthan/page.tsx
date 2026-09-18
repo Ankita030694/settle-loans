@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in Rajasthan | SettleLoans",
-  description: "Struggling with bank debts in Jaipur, Jodhpur, or Udaipur? Get professional legal representation, stop recovery agent harassment, and settle your credit cards and personal loans with up to 70% waiver. Expert Lok Adalat guidance for Rajasthan residents.",
+  description: "Struggling with bank debts in Jaipur, Jodhpur, or Udaipur? Get professional legal representation, stop recovery agent harassment.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/rajasthan",
   },

@@ -4,7 +4,7 @@ import CreditCardVsPersonalLoanSettlementClient from './CreditCardVsPersonalLoan
 export const metadata: Metadata = {
   title: 'Credit Card vs Personal Loan Settlement | SettleLoans',
   description:
-    'Confused between credit card vs personal loan settlement? Compare 50%–75% card haircuts vs 35%–60% loan discounts, legal risks, CIBIL impact, and payoff priority.',
+    'Confused between credit card vs personal loan settlement? Compare 50%–75% card haircuts vs 35%–60% loan discounts, legal risks, CIBIL impact.',
   keywords: [
     'difference between credit card and personal loan settlement',
     'credit card vs personal loan settlement',

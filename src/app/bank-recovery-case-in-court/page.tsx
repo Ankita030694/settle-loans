@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
     title: "Bank Recovery Case in Court India | Legal Process & Defense",
-    description: "Facing a bank recovery suit? Learn about the legal process in India, including Civil Suits, Summary Suits (Order 37), DRT proceedings, and how to defend your rights.",
+    description: "Facing a bank recovery suit? Learn about the legal process in India, including Civil Suits, Summary Suits (Order 37), DRT proceedings.",
     alternates: {
         canonical: "https://www.settleloans.in/bank-recovery-case-in-court",
     },

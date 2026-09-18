@@ -42,7 +42,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Bank of Baroda Personal Loan Settlement | SettleLoans',
-  description: 'Exhaustive legal guide to Bank of Baroda personal loan settlement. Master BOB Stressed Assets Recovery Branch (SARB) procedures, Zonal Office OTS approval limits, Lok Adalat compromise criteria, and negotiate up to 60% haircut under RBI rules.',
+  description: 'Exhaustive legal guide to Bank of Baroda personal loan settlement. Master BOB Stressed Assets Recovery Branch (SARB) procedures.',
   keywords: [
     'bank of baroda personal loan settlement process',
     'bank of baroda ots policy',

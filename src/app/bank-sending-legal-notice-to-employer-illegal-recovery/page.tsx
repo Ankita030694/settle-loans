@@ -42,7 +42,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Bank Contacting Employer HR About Loan? Legal Defenses',
-  description: 'Is a bank recovery agent contacting your employer HR or sending legal notices to your office? Learn Supreme Court privacy protections, RBI third-party disclosure bans, and criminal defamation remedies.',
+  description: 'Is a bank recovery agent contacting your employer HR or sending legal notices to your office? Learn Supreme Court privacy protections.',
   keywords: [
     'bank recovery agent contacting employer hr',
     'bank sending legal notice to employer',

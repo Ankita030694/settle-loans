@@ -30,7 +30,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Personal Insolvency & Bankruptcy in India | SettleLoans',
-  description: 'Exhaustive legal manual on the personal insolvency process in India under Part III of the IBC 2016. Learn how Section 94 debtor petitions, Section 96 interim moratoriums, DRT insolvency filings, Fresh Start processes, and Section 138 discharge orders permanently eliminate unsecured debt.',
+  description: 'Exhaustive legal manual on the personal insolvency process in India under Part III of the IBC 2016. Learn how Section 94 debtor petitions.',
   keywords: [
     'personal insolvency process in india',
     'personal bankruptcy process india',

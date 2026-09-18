@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Standard Chartered Loan & Credit Card Settlement',
-  description: 'Exhaustive guide to Standard Chartered Bank credit card and personal loan settlement in India. Learn how to negotiate with the Central Collections Hub, eliminate finance charges, halt recovery harassment, defend Section 25 PSSA notices, and secure up to 65% OTS debt haircut under RBI rules.',
+  description: 'Exhaustive guide to Standard Chartered Bank credit card and personal loan settlement in India. Learn how to negotiate with the Central Collections Hub.',
   keywords: [
     'standard chartered credit card settlement',
     'standard chartered personal loan settlement',

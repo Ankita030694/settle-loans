@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Noida's Best Loan Settlement Lawyers | Stop Recovery Harassment - SettleLoans",
-  description: "Facing bank recovery house calls in Noida Extension or Greater Noida? Settle your personal loans with expert legal defense in Surajpur Court. Trusted by 600+ families in NCR.",
+  description: "Facing bank recovery house calls in Noida Extension or Greater Noida? Settle your personal loans with expert legal defense in Surajpur Court.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/noida",
   },

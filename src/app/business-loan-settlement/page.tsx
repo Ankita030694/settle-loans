@@ -27,7 +27,7 @@ import {
 
 export const metadata: Metadata = {
   title: "Business Loan Settlement Services | SettleLoans",
-  description: "Unable to repay your business loan? We specialize in settling Unsecured Business Loans, MSME loans, and handling Cheque Bounce (Sec 138) cases. Save up to 50% on outstanding dues.",
+  description: "Unable to repay your business loan? We specialize in settling Unsecured Business Loans, MSME loans, and handling Cheque Bounce (Sec 138) cases.",
   alternates: {
     canonical: "https://www.settleloans.in/business-loan-settlement",
   },

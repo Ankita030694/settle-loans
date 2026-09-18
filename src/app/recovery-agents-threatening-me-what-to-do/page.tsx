@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
     title: "Recovery Agents Threatening Me? Legal Help | SettleLoans",
-    description: "Are loan recovery agents harrassing or threatening you? Learn about your legal rights in India, RBI guidelines on recovery agents, and how to file a police complaint.",
+    description: "Are loan recovery agents harrassing or threatening you? Learn about your legal rights in India, RBI guidelines on recovery agents.",
     alternates: {
         canonical: "https://www.settleloans.in/recovery-agents-threatening-me-what-to-do",
     },

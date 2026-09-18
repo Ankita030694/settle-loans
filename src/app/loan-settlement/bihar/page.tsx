@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan Settlement in Bihar | 3500+ Word Legal Guide",
-  description: "Comprehensive 3500+ word guide to loan settlement in Bihar. Legal protection under Bihar Money Lenders Act, BSLSA Lok Adalat procedures, and debt recovery defenses in Patna & Gaya.",
+  description: "Comprehensive 3500+ word guide to loan settlement in Bihar. Legal protection under Bihar Money Lenders Act, BSLSA Lok Adalat procedures.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/bihar",
   },

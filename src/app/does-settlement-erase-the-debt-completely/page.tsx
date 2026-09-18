@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Does Loan Settlement Erase Debt Completely? | SettleLoans",
-  description: "Wondering if loan settlement clears your debt completely? Discover the impact on CIBIL, the difference between 'Settled' & 'Closed', and how to rebuild your credit after settlement.",
+  description: "Wondering if loan settlement clears your debt completely? Discover the impact on CIBIL, the difference between 'Settled' & 'Closed'.",
   alternates: {
     canonical: "https://www.settleloans.in/does-settlement-erase-the-debt-completely",
   },

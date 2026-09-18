@@ -7,7 +7,7 @@ import { faArrowRight, faCircleCheck, faShieldHalved, faScaleBalanced, faClock, 
 
 export const metadata: Metadata = {
   title: "Why Credit Score Drops Despite On-Time Pay | SettleLoans",
-  description: "Confused why your CIBIL score is dropping despite timely payments? Discover the hidden factors like utilization, credit mix, and report errors. Expert guide for 2026.",
+  description: "Confused why your CIBIL score is dropping despite timely payments? Discover the hidden factors like utilization, credit mix, and report errors.",
   alternates: {
     canonical: "https://www.settleloans.in/why-does-my-credit-score-drop-even-though-i-pay-on-time",
   },

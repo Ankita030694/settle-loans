@@ -29,7 +29,7 @@ import {
 
 export const metadata: Metadata = {
   title: "NBFC Loan Settlement Services in India | SettleLoans",
-  description: "Specialized debt settlement services for NBFC loans. Stop harassment from Bajaj Finance, Tata Capital, and more. Legal arbitration defense and negotiation for up to 50% waiver.",
+  description: "Specialized debt settlement services for NBFC loans. Stop harassment from Bajaj Finance, Tata Capital, and more. Legal arbitration defense and negotiation.",
   alternates: {
     canonical: "https://www.settleloans.in/services/nbfc-loan-settlement",
   },

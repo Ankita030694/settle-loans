@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
     title: "Can Bank File Case for Personal Loan Default? | SettleLoans",
-    description: "Wondering if a bank can file a case for personal loan default in India? Discover the legal consequences, summary suits, 138 NI Act risks, and how to defend your case effectively.",
+    description: "Wondering if a bank can file a case for personal loan default in India? Discover the legal consequences, summary suits, 138 NI Act risks.",
     alternates: {
         canonical: "https://www.settleloans.in/can-bank-file-case-for-personal-loan",
     },

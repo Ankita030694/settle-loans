@@ -3,7 +3,7 @@ import IDFCFirstBankLoanSettlementClient from './IDFCFirstBankLoanSettlementClie
 
 export const metadata: Metadata = {
   title: 'IDFC First Bank Loan Settlement Guide | SettleLoans',
-  description: 'Exhaustive legal guide to IDFC First Bank loan settlement. Understand consumer durable and personal loan default, digital portal vs advocate representation, Section 25 PSSA summons, and negotiate up to 60% haircut under RBI rules.',
+  description: 'Exhaustive legal guide to IDFC First Bank loan settlement. Understand consumer durable and personal loan default, digital portal vs advocate representation.',
   keywords: [
     'idfc first bank loan settlement process',
     'idfc first bank personal loan settlement',

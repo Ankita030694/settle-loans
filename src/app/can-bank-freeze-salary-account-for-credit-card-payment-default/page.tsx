@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Can Bank Freeze Salary Account for Default? | SettleLoans",
-  description: "Learn how to unfreeze a salary account frozen for credit card default. Understand the Banker's Right of Set-Off and RBI rules against deducting your full salary.",
+  description: "Learn how to unfreeze a salary account frozen for credit card default. Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-freeze-salary-account-for-credit-card-payment-default",
   },

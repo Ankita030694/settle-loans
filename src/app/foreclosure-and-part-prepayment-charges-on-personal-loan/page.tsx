@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: 'Foreclosure & Prepayment Charges on Loans | SettleLoans',
-  description: 'A detailed financial and legal breakdown of the RBI rules governing foreclosure (pre-closure) and part-prepayment charges on personal loans. Learn how to challenge illegal bank fees.',
+  description: 'A detailed financial and legal breakdown of the RBI rules governing foreclosure (pre-closure) and part-prepayment charges on personal loans.',
   alternates: { canonical: 'https://www.settleloans.in/foreclosure-and-part-prepayment-charges-on-personal-loan' }
 };
 

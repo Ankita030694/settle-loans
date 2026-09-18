@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "What is Credit Pulse Report? Meaning & How to Check",
-  description: "Banks use a secret 'Credit Pulse' algorithm to decide your loan approval. Learn the Credit Pulse report meaning, how it differs from CIBIL, and how to check your credit health report.",
+  description: "Banks use a secret 'Credit Pulse' algorithm to decide your loan approval. Learn the Credit Pulse report meaning, how it differs from CIBIL.",
   alternates: {
     canonical: "https://www.settleloans.in/what-is-credit-pulse-report",
   },

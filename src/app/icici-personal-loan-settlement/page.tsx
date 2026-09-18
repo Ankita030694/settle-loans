@@ -3,7 +3,7 @@ import IciciPersonalLoanSettlementClient from './IciciPersonalLoanSettlementClie
 
 export const metadata: Metadata = {
   title: 'ICICI Personal Loan Settlement Guide | SettleLoans',
-  description: 'Exhaustive guide to ICICI Bank personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, recovery agent defense, and how to negotiate up to 60% haircut under RBI rules.',
+  description: 'Exhaustive guide to ICICI Bank personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, recovery agent defense.',
   keywords: [
     'icici bank loan settlement process',
     'icici personal loan settlement',

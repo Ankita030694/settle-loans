@@ -3,7 +3,7 @@ import TataCapitalPersonalLoanSettlementClient from './TataCapitalPersonalLoanSe
 
 export const metadata: Metadata = {
   title: 'Tata Capital Personal Loan Settlement | SettleLoans',
-  description: 'Comprehensive guide to Tata Capital personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, NACH bounce defense, and how to negotiate up to 60% haircut under RBI rules.',
+  description: 'Comprehensive guide to Tata Capital personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, NACH bounce defense.',
   keywords: [
     'tata capital loan settlement process',
     'tata capital personal loan settlement',

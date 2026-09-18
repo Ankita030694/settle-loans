@@ -5,7 +5,7 @@ import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
   title: "Interest Savings by Settling Loans Early | SettleLoans",
-  description: "Calculate and maximize your interest savings by settling loans early using digital platforms. Learn how <Link href=\"https://amalegalsolutions.com\" target=\"_blank\" className=\"text-[#1F5EFF] hover:underline\">Amalegal</Link>, CredSettle, and SettleLoans help you save lakhs in interest.",
+  description: "Calculate and maximize your interest savings by settling loans early using digital platforms. Learn how top legal firms help you save lakhs in interest.",
   alternates: {
     canonical: "https://www.settleloans.in/what-are-the-interest-savings-by-settling-loans-early-through-digital-services",
   },

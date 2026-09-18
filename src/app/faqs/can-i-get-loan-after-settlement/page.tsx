@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Can I Get a Loan After Settlement? | SettleLoans",
-  description: "Wondering if you can get a loan after settlement? Learn about the impact on CIBIL score, the cooling-off period, and actionable steps to rebuild credit and get approved again.",
+  description: "Wondering if you can get a loan after settlement? Learn about the impact on CIBIL score, the cooling-off period, and actionable steps to rebuild credit.",
   alternates: {
     canonical: "https://www.settleloans.in/faqs/can-i-get-loan-after-settlement",
   },

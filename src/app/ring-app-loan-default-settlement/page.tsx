@@ -35,7 +35,7 @@ import {
 export const metadata: Metadata = {
   title: 'Ring App Loan Default & Settlement Guide | SettleLoans',
   description:
-    'Trapped in Ring app (PayWithRing) revolving debt? Learn how to stop automated calling bots, halt NACH bounce penalties, invoke RBI Digital Lending Guidelines, defend legal notices, and negotiate a 40% to 60% OTS settlement haircut.',
+    'Trapped in Ring app (PayWithRing) revolving debt? Learn how to stop automated calling bots, halt NACH bounce penalties, invoke RBI Digital Lending.',
   keywords: [
     'ring app loan settlement',
     'ring app loan default',

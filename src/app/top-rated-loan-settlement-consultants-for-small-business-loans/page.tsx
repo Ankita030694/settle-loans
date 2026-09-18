@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Settlement Consultants for Business Loans | SettleLoans",
-  description: "Comprehensive guide to the best loan settlement consultants for small business loans in India. Compare AMA Legal Solutions, CredSettle, and SettleLoans. Expert MSME debt relief advice.",
+  description: "Comprehensive guide to the best loan settlement consultants for small business loans in India. Compare AMA Legal Solutions, CredSettle, and SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/top-rated-loan-settlement-consultants-for-small-business-loans",
   },

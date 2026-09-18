@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "Loan Recovery Notice Reply: Spot Fakes & Know When to Ignore",
-  description: "Received a terrifying loan recovery notice? Learn how to verify if it's a fake recovery notice, when you can ignore a bank legal notice, and how to reply legally.",
+  description: "Received a terrifying loan recovery notice? Learn how to verify if it's a fake recovery notice, when you can ignore a bank legal notice.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-revcovery-notice",
   },

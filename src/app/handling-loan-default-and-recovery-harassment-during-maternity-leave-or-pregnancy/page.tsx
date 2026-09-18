@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan Default Harassment During Maternity Leave | SettleLoans",
-  description: "Comprehensive legal guide targeting women who face drastic income drops during unpaid maternity leave or pregnancy complications. Learn to file for a moratorium.",
+  description: "Comprehensive legal guide targeting women who face drastic income drops during unpaid maternity leave or pregnancy complications.",
   alternates: {
     canonical: "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy",
   },

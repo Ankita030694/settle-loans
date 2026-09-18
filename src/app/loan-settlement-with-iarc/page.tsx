@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan Settlement with IARC | SettleLoans",
-  description: "Struggling with IARC loan settlement or can't pay EMI due to job loss? Learn the process of settling with International Asset Reconstruction Company and your legal rights.",
+  description: "Struggling with IARC loan settlement or can't pay EMI due to job loss? Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-with-iarc",
   },

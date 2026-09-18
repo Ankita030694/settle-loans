@@ -5,7 +5,7 @@ import { ShieldCheck, Scale, AlertTriangle, FileText, CheckCircle2, IndianRupee,
 
 export const metadata = {
   title: 'Personal Bankruptcy for Unsecured Loans | SettleLoans',
-  description: 'Learn the individual bankruptcy process under IBC in India. Understand how to file for personal insolvency, Fresh Start process, and legal protection from creditors.',
+  description: 'Learn the individual bankruptcy process under IBC in India. Understand how to file for personal insolvency, Fresh Start process.',
   alternates: {
     canonical: 'https://www.settleloans.in/how-to-declare-personal-bankruptcy-insolvency-for-unsecured-loans-in-india',
   }

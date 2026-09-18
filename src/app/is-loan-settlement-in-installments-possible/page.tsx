@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Is Loan Settlement in Installments Possible? | SettleLoans",
-  description: "Learn how to settle your loan in installments in India. Discover the process, RBI guidelines, legal rights, and how to negotiate with banks for a manageable debt recovery.",
+  description: "Learn how to settle your loan in installments in India. Discover the process, RBI guidelines, legal rights, and how to negotiate with banks.",
   alternates: {
     canonical: "https://www.settleloans.in/is-loan-settlement-in-installments-possible",
   },

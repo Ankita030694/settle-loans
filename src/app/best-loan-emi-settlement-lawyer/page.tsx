@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
     title: "Best Loan EMI Settlement Lawyer in India | SettleLoans",
-    description: "Looking for the best loan EMI settlement lawyer in India? Get expert legal help for personal loan EMI settlement, business debt negotiation, and protection from recovery harassment.",
+    description: "Looking for the best loan EMI settlement lawyer in India? Get expert legal help for personal loan EMI settlement, business debt negotiation.",
     alternates: {
         canonical: "https://www.settleloans.in/best-loan-emi-settlement-lawyer",
     },

@@ -34,7 +34,7 @@ import {
 
 export const metadata: Metadata = {
   title: "Job Loss & Layoff Loan Settlement Guide | SettleLoans",
-  description: "Learn how to settle personal loans and credit card debt after job loss or corporate layoffs in India. Discover how to compile a formal hardship portfolio, halt recovery harassment under RBI rules, defend Section 25 PSSA notices, and negotiate 50%–70% OTS debt waivers.",
+  description: "Learn how to settle personal loans and credit card debt after job loss or corporate layoffs in India. Discover how to compile a formal hardship portfolio.",
   keywords: [
     "how to settle loan after job loss",
     "loan settlement after job loss",

@@ -3,7 +3,7 @@ import CaseStudyAxisBankBusinessLoanSettlementClient from './CaseStudyAxisBankBu
 
 export const metadata: Metadata = {
   title: 'Axis Bank Business Loan Settlement Case Study | SettleLoans',
-  description: 'Real case study: How an ₹15 Lakh unsecured Axis Bank business loan was settled for ₹5.5 Lakhs (63.3% waiver) following SME failure. Learn commercial debt negotiation, personal guarantor asset protection, and RBI OTS rules.',
+  description: 'Real case study: How an ₹15 Lakh unsecured Axis Bank business loan was settled for ₹5. Stop harassment & settle debt legally with SettleLoans.',
   keywords: [
     'unsecured business loan settlement case study',
     'axis bank business loan settlement',

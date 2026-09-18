@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan Settlement Services in West Bengal | SettleLoans",
-  description: "Struggling with debt in Kolkata or West Bengal? Get expert legal representation for loan settlement. Bengal Money-Lenders Act protection & Damdupat rule guidance. Settle credit cards & personal loans with 70% waiver.",
+  description: "Struggling with debt in Kolkata or West Bengal? Get expert legal representation for loan settlement. Bengal Money-Lenders Act protection & Damdupat rule.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/west-bengal",
   },

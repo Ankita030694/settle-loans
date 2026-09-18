@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "Credit Life Insurance Claim for Overdue EMIs | SettleLoans",
-  description: "Learn the complete loan insurance claim process. Discover how to use credit shield for a personal loan default and claim insurance for job loss to cover overdue EMIs.",
+  description: "Learn the complete loan insurance claim process. Discover how to use credit shield for a personal loan default and claim insurance for job loss to cover.",
   alternates: {
     canonical: "https://www.settleloans.in/credit-life-insurance-claim-overdue-loan-emi",
   },

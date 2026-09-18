@@ -6,7 +6,7 @@ import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-
 
 export const metadata: Metadata = {
     title: "Settle Credit Card Dues with Debt Settlement Companies",
-    description: "Learn how to settle credit card dues with third party companies like SettleLoans. Expert guide on negotiation, legal protection, and stopping harassment in 2024-25.",
+    description: "Learn how to settle credit card dues with third party companies like SettleLoans. Expert guide on negotiation, legal protection.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/settle-credit-card-dues-third-party-loan-companies",
     },

@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan App Harassment: Contacts & Gallery Access Rights",
-  description: "A critical crisis-management guide for victims of illegal '7-day' digital lending apps. Learn how to stop Chinese loan app harassment, block fake loan app blackmailing with photos, and file a cyber cell complaint against loan app.",
+  description: "A critical crisis-management guide for victims of illegal '7-day' digital lending apps. Learn how to stop Chinese loan app harassment.",
   alternates: {
     canonical: "https://www.settleloans.in/instant-loan-app-harassment-can-they-access-contacts-and-gallery",
   },

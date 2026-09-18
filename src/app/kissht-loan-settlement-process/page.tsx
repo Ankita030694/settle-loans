@@ -34,7 +34,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Kissht App Loan Settlement Guide | SettleLoans',
-  description: 'Trapped in Kissht or Ring app debt? Learn how to stop aggressive recovery harassment, halt WhatsApp threats, invoke RBI Digital Lending Guidelines, defend Section 25 notices, and negotiate a 40% to 60% OTS settlement haircut.',
+  description: 'Trapped in Kissht or Ring app debt? Learn how to stop aggressive recovery harassment, halt WhatsApp threats, invoke RBI Digital Lending Guidelines.',
   keywords: [
     'kissht app loan settlement',
     'kissht loan settlement process',

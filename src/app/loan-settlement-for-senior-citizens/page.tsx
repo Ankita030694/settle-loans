@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Loan Settlement for Senior Citizens in India | SettleLoans",
-  description: "Comprehensive guide to loan settlement for senior citizens in India. Learn about legal rights, RBI guidelines, medical debt relief, and how to negotiate a final settlement safely.",
+  description: "Comprehensive guide to loan settlement for senior citizens in India. Learn about legal rights, RBI guidelines, medical debt relief.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-for-senior-citizens",
   },

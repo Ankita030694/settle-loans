@@ -4,7 +4,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: 'Bajaj Finance Flexi Loan Overdue: Action Plan',
-  description: 'Trapped in a Bajaj Flexi Loan overdue cycle? Learn about flexi loan default consequences, overdue charges, the recovery process, and how to negotiate a settlement.',
+  description: 'Trapped in a Bajaj Flexi Loan overdue cycle? Learn about flexi loan default consequences, overdue charges, the recovery process.',
   alternates: { canonical: 'https://www.settleloans.in/bajaj-finance-flexi-loan-overdue' },
 };
 

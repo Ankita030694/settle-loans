@@ -34,7 +34,7 @@ import {
 export const metadata: Metadata = {
   title: 'Debt Settlement Services in Jaipur | SettleLoans',
   description:
-    'Facing personal loan default, recovery harassment, or court notices in Jaipur, Mansarovar, or Vaishali Nagar? Senior debt settlement advocates offer legal defense, salary protection, and 40%–70% OTS waivers.',
+    'Facing personal loan default, recovery harassment, or court notices in Jaipur, Mansarovar, or Vaishali Nagar? Learn your legal rights and debt relief options.',
   keywords: [
     'debt settlement services in jaipur',
     'personal loan settlement jaipur',

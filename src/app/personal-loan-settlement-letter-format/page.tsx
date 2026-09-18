@@ -3,7 +3,7 @@ import PersonalLoanSettlementLetterFormatClient from './PersonalLoanSettlementLe
 
 export const metadata: Metadata = {
   title: 'Personal Loan Settlement Letter Format | SettleLoans',
-  description: 'Download ready-to-use personal loan settlement letter formats for Indian banks. Get formal OTS request templates for job loss, medical crisis, RBI guidelines & approval tips.',
+  description: 'Download ready-to-use personal loan settlement letter formats for Indian banks. Get formal OTS request templates for job loss, medical crisis.',
   keywords: [
     'personal loan settlement letter format',
     'loan settlement request letter to bank manager',

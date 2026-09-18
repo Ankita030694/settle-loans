@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: 'Loan EMI Overdue by 1 Day: What Actually Happens?',
-  description: 'Missed your loan EMI by 1 day? Find out if there is a grace period for personal loans, the exact impact on your CIBIL score, and how to avoid late payment charges.',
+  description: 'Missed your loan EMI by 1 day? Find out if there is a grace period for personal loans, the exact impact on your CIBIL score.',
   alternates: {
     canonical: 'https://www.settleloans.in/loan-emi-overdue-1-day-what-happens',
   },

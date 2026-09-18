@@ -38,7 +38,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'MoneyView Loan Settlement: OTS Rules & Guide | SettleLoans',
-  description: 'Master the MoneyView personal loan settlement process. Learn how Whizdm Finance & partner NBFCs operate, stop NACH bounce charges, halt recovery harassment, defend Section 25 PSSA notices, and negotiate up to 60% OTS haircut under RBI rules.',
+  description: 'Master the MoneyView personal loan settlement process. Learn how Whizdm Finance & partner NBFCs operate, stop NACH bounce charges, halt recovery harassment.',
   keywords: [
     'money view loan settlement process',
     'moneyview loan settlement',

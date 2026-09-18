@@ -40,7 +40,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Can Bank Freeze Salary Account for Loan Default? Guide',
-  description: 'Can a bank freeze your salary account for loan default? Discover your legal rights under Section 60 CPC, Banker Right of Set-Off limits, RBI Ombudsman rules, and advocate unfreezing protocols.',
+  description: 'Can a bank freeze your salary account for loan default? Discover your legal rights under Section 60 CPC, Banker Right of Set-Off limits.',
   keywords: [
     'can bank freeze salary account for loan default',
     'bank freeze salary account right of set off',

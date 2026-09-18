@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Can Bank Recover Spouse's Loan Default from Separate Account?",
-  description: "Is your bank threatening to freeze or auto-debit your separate salary account for your husband's or wife's loan default? Learn your legal rights and RBI rules on cross liability.",
+  description: "Is your bank threatening to freeze or auto-debit your separate salary account for your husband's or wife's loan default?",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-recover-spouses-loan-default-from-my-separate-salary-account",
   },

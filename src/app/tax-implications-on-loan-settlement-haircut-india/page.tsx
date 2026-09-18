@@ -43,7 +43,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Tax on Loan Settlement Haircut in India | SettleLoans',
-  description: 'Is loan settlement haircut taxable in India? Understand tax implications of waived debt under Section 28(iv), Section 41(1), Section 194R TDS, and personal capital vs business debt remission.',
+  description: 'Is loan settlement haircut taxable in India? Understand tax implications of waived debt under Section 28(iv), Section 41(1), Section 194R TDS.',
   keywords: [
     'is loan settlement haircut taxable in india',
     'tax on loan waiver india',

@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Legal Loan Settlement Services in Karnataka | 40-70% Waiver",
-  description: "Struggling with debt in Bangalore or Karnataka? Get expert legal representation for loan settlement. Settle credit cards & personal loans with 70% waiver. Expert Lok Adalat guidance.",
+  description: "Struggling with debt in Bangalore or Karnataka? Get expert legal representation for loan settlement. Settle credit cards & personal loans with 70% waiver.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/karnataka",
   },

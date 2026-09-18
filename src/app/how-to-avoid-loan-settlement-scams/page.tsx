@@ -4,7 +4,7 @@ import HowToAvoidLoanSettlementScamsClient from './HowToAvoidLoanSettlementScams
 export const metadata: Metadata = {
   title: 'Identify Fake Loan Settlement Companies | SettleLoans',
   description:
-    'Worried about loan settlement fraud? Learn how to identify fake loan settlement companies, spot upfront fee scams, verify authentic bank OTS letters, and protect your rights.',
+    'Worried about loan settlement fraud? Learn how to identify fake loan settlement companies, spot upfront fee scams, verify authentic bank OTS letters.',
   keywords: [
     'how to identify fake loan settlement companies',
     'how to avoid loan settlement scams',

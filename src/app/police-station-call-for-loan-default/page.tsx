@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Recovery Agent Police Call: Legal Rights & Protection',
-  description: 'Received a fake police call or Crime Branch notice from a loan recovery agent? Learn your legal protections, how to verify FIR status, file Section 384/419 criminal complaints, and settle debt safely.',
+  description: 'Received a fake police call or Crime Branch notice from a loan recovery agent? Learn your legal protections, how to verify FIR status.',
   keywords: [
     'recovery agent calling from police station',
     'fake police call loan recovery',

@@ -3,7 +3,7 @@ import PersonalLoanSettlementCibilImpactClient from './PersonalLoanSettlementCib
 
 export const metadata: Metadata = {
   title: 'Does Loan Settlement Affect CIBIL? | SettleLoans',
-  description: 'Does personal loan settlement affect CIBIL? Discover the exact score drop (75-150 pts), how long "Settled" status lasts (7 years), RBI guidelines, and how to rebuild to 750+.',
+  description: 'Does personal loan settlement affect CIBIL? Discover the exact score drop (75-150 pts), how long "Settled" status lasts (7 years), RBI guidelines.',
   alternates: {
     canonical: 'https://www.settleloans.in/personal-loan-settlement-cibil-impact',
   },

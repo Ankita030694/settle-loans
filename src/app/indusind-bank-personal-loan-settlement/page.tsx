@@ -35,7 +35,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'IndusInd Bank Personal Loan Settlement | SettleLoans',
-  description: 'Comprehensive legal guide to IndusInd Bank personal loan and credit card settlement. Understand recovery calls, Section 25 PSSA notices, NPA provisioning, and how to negotiate up to 60% haircut under RBI rules.',
+  description: 'Comprehensive legal guide to IndusInd Bank personal loan and credit card settlement. Understand recovery calls, Section 25 PSSA notices, NPA provisioning.',
   keywords: [
     'indusind bank personal loan settlement',
     'indusind bank loan settlement process',

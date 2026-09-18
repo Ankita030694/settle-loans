@@ -37,7 +37,7 @@ import {
 
 export const metadata: Metadata = {
   title: "Medical Emergency Loan Default Settlement Guide",
-  description: "Learn how to settle personal loans and credit cards after critical illness or hospitalization in India. Use medical discharge summaries and bills as irrefutable evidence for bank OTS committees, stop recovery harassment under RBI rules, and negotiate 50%–75% debt waivers.",
+  description: "Learn how to settle personal loans and credit cards after critical illness or hospitalization in India. Get expert legal help to settle your debt for less.",
   keywords: [
     "loan settlement due to medical emergency",
     "medical emergency personal loan default",

@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
     title: "Loan Default EMI Foreclosure Assistance | SettleLoans",
-    description: "Get professional legal help for loan default and EMI foreclosure in India. Understand your rights under RBI guidelines, stop SARFAESI possession, and explore loan restructuring.",
+    description: "Get professional legal help for loan default and EMI foreclosure in India. Understand your rights under RBI guidelines, stop SARFAESI possession.",
     alternates: {
         canonical: "https://www.settleloans.in/loan-default-emi-foreclosure-assistance",
     },

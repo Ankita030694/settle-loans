@@ -45,7 +45,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'Kotak Mahindra Bank Loan Settlement | SettleLoans',
-  description: 'In-depth legal guide to Kotak Mahindra Bank personal loan settlement. Navigate Kotak pre-litigation notices, Section 25 PSSA summons, Phoenix ARC transfers, and negotiate up to 60% waiver with a ₹0 NDC under RBI rules.',
+  description: 'In-depth legal guide to Kotak Mahindra Bank personal loan settlement. Navigate Kotak pre-litigation notices, Section 25 PSSA summons, Phoenix ARC transfers.',
   keywords: [
     'kotak mahindra bank loan settlement',
     'kotak bank personal loan settlement process',

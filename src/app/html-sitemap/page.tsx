@@ -3,8 +3,8 @@ import Link from 'next/link';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Sitemap | SettleLoan',
-  description: 'Sitemap for SettleLoan containing all our pages.',
+  title: 'Complete HTML Sitemap | SettleLoans',
+  description: 'Browse the complete HTML sitemap of SettleLoans to access all loan settlement guides, bank settlement procedures, legal protections, and resources.',
 };
 
 export default function SitemapPage() {

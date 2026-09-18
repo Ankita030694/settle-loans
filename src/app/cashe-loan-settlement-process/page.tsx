@@ -32,7 +32,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'CASHe App Loan Settlement Process | SettleLoans',
-  description: 'Comprehensive guide to CASHe app loan settlement and Bhanix Finance debt resolution. Learn how to halt late fee accumulation, stop recovery harassment, defend Mumbai/Bengaluru advocate legal notices, and negotiate a 40% to 65% one-time principal waiver under RBI rules.',
+  description: 'Comprehensive guide to CASHe app loan settlement and Bhanix Finance debt resolution. Learn how to halt late fee accumulation, stop recovery harassment.',
   keywords: [
     'cashe app loan settlement',
     'cashe loan settlement process',

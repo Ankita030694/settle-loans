@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "How to Handle Loan Default Without Panicking | SettleLoans",
-  description: "Struggling with loan default? Learn how to handle loan default without panicking. Explore RBI guidelines, borrower rights, recovery agent rules, and legal debt settlement options in India.",
+  description: "Struggling with loan default? Learn how to handle loan default without panicking. Explore RBI guidelines, borrower rights, recovery agent rules, and legal.",
   alternates: {
     canonical: "https://www.settleloans.in/handle-loan-default-without-panicking",
   },

@@ -3,7 +3,7 @@ import PersonalLoanSettlementVsClosureClient from './PersonalLoanSettlementVsClo
 
 export const metadata: Metadata = {
   title: 'Loan Settlement vs Loan Closure in CIBIL | SettleLoans',
-  description: 'Understand the difference between loan settlement vs loan closure in CIBIL. Compare credit score impact (-150 vs +40 pts), 7-year remarks, RBI rules & recovery roadmap.',
+  description: 'Understand the difference between loan settlement vs loan closure in CIBIL. Compare credit score impact (-150 vs +40 pts), 7-year remarks.',
   keywords: [
     'loan settlement vs loan closure cibil',
     'difference between loan settlement and loan closure',

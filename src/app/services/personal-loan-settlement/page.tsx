@@ -6,7 +6,7 @@ import { faTriangleExclamation, faChartLine, faCalculator, faGavel, faUserInjure
 
 export const metadata: Metadata = {
   title: "Personal Loan Settlement Services in India | SettleLoans",
-  description: "Struggling with debt? SettleLoans is a top-rated loan settlement company offering professional debt relief. We help you settle personal loans, negotiate with banks, and become debt-free without taking new loans. Expert financial help for debt management.",
+  description: "Struggling with debt? SettleLoans is a top-rated loan settlement company offering professional debt relief. We help you settle personal loans, negotiate.",
   alternates: {
     canonical: "https://www.settleloans.in/services/personal-loan-settlement",
   },

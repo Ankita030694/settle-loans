@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
   title: "Bank Recovery Agent Threatening Me | SettleLoans",
-  description: "Are you being threatened by a bank recovery agent? Learn your legal rights under RBI rules, how to stop harassment, and steps to file a complaint. We help you deal with recovery agent threats legally.",
+  description: "Are you being threatened by a bank recovery agent? Learn your legal rights under RBI rules, how to stop harassment, and steps to file a complaint.",
   alternates: {
     canonical: "https://www.settleloans.in/bank-recovery-agent-threatening-me",
   },

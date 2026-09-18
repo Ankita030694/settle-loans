@@ -5,7 +5,7 @@ import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
   title: "How Long Does a Lien Stay on Property? | SettleLoans",
-  description: "Closed your loan but the bank's 'Lien' is still marked on your property or car? Discover the exact process to remove a bank lien after loan closure or foreclosure.",
+  description: "Closed your loan but the bank's 'Lien' is still marked on your property or car? Stop harassment & settle debt legally with SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/how-does-long-lien-stay-after-foreclosure",
   },

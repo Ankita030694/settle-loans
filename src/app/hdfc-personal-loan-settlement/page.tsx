@@ -3,7 +3,7 @@ import HdfcPersonalLoanSettlementClient from './HdfcPersonalLoanSettlementClient
 
 export const metadata: Metadata = {
   title: 'HDFC Personal Loan Settlement Guide | SettleLoans',
-  description: 'Exhaustive guide to HDFC Bank personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, recovery agent defense, and how to negotiate up to 60% haircut under RBI rules.',
+  description: 'Exhaustive guide to HDFC Bank personal loan settlement. Understand internal OTS policies, NPA provisioning timelines, recovery agent defense.',
   keywords: [
     'hdfc bank personal loan settlement process',
     'hdfc personal loan settlement',

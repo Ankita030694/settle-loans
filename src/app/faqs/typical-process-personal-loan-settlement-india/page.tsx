@@ -6,7 +6,7 @@ import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-
 
 export const metadata: Metadata = {
     title: "Process for Personal Loan Settlement in India | SettleLoans",
-    description: "Learn the step-by-step process of personal loan settlement in India. Understand RBI guidelines, negotiation strategies, and how to settle for 50% or less legally.",
+    description: "Learn the step-by-step process of personal loan settlement in India. Stop harassment & settle debt legally with SettleLoans.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/typical-process-personal-loan-settlement-india",
     },

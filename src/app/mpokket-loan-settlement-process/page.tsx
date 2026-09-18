@@ -30,7 +30,7 @@ import {
 
 export const metadata: Metadata = {
   title: 'mPokket Loan Settlement Process Guide | SettleLoans',
-  description: 'Step-by-step legal guide to mPokket and Maybright Ventures loan settlement for college students and young professionals. Halt third-party tele-calling, stop reference harassment, cancel e-NACH debits, and secure a 40% to 60% OTS debt haircut with an official RBI-compliant No Dues Certificate.',
+  description: 'Step-by-step legal guide to mPokket and Maybright Ventures loan settlement for college students and young professionals.',
   keywords: [
     'mpokket loan settlement process',
     'mpokket loan settlement',
