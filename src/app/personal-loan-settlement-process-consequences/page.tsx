@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "The Hidden Consequences of the Personal Loan Settlement Process",
+  title: "Consequences of Personal Loan Settlement | SettleLoans",
   description: "Learn the crucial difference between closing and settling a personal loan. Understand the severe long-term consequences of a 'Settled' CIBIL status.",
   alternates: {
     canonical: "https://www.settleloans.in/personal-loan-settlement-process-consequences",

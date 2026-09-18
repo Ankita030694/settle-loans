@@ -3,7 +3,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Is It Legal to Record Phone Calls of Bank Recovery Agents in India?",
+  title: "Can You Record Recovery Agent Calls? | SettleLoans",
   description: "Learn if recording recovery agent calls is legal in India. Discover how to use call recording as proof in DRT to prove bank harassment and stop abuse.",
   alternates: {
     canonical: "https://www.settleloans.in/is-it-legal-to-record-phone-calls-of-bank-recovery-agents-in-india",

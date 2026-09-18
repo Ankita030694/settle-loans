@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: 'CIBIL Dispute: Wrong Overdue Entry Filing Process | Ultimate Guide',
+  title: 'CIBIL Dispute: Wrong Overdue Entry Process | SettleLoans',
   description: 'Did a bank update wrong CIBIL data? Learn how to file a CIBIL dispute online and permanently remove a false overdue from your CIBIL report.',
   alternates: {
     canonical: 'https://www.settleloans.in/cibil-dispute-wrong-overdue-entry-filing-process',

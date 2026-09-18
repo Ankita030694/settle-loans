@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTriangleExclamation, faStar, faCheck } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Fees & Charges | Transparent Pricing - SettleLoans",
+  title: "Loan Settlement Fees & Transparent Pricing | SettleLoans",
   description: "Understanding loan settlement costs has never been easier. We charge a flat fee of 15% of the outstanding amount, while the bank typically settles for 35%. Total cost to you: 50% of your debt.",
   alternates: {
     canonical: "https://www.settleloans.in/faqs/loan-settlement-fees",

@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: 'Online Loan During Cash Crunch: Avoid Illegal Instant Loan Apps',
+  title: 'Avoid Illegal Instant Loan Apps in Cash Crunch | SettleLoans',
   description: 'Desperate for an instant cash loan emergency? Read this before using 7-day loan apps during a cash crunch. Learn how to identify safe online loans in India.',
   alternates: {
     canonical: 'https://www.settleloans.in/online-loan-during-cash-crunch',

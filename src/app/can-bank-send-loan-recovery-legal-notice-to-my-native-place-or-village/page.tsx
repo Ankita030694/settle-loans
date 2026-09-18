@@ -3,7 +3,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Can the Bank Send a Legal Notice to My Native Place or Village?",
+  title: "Can Bank Send Legal Notice to Native Village? | SettleLoans",
   description: "Learn how to stop banks from sending loan recovery notices or agents to your native village or parents' address, and how to redirect all communication legally.",
   alternates: {
     canonical: "https://www.settleloans.in/can-bank-send-loan-recovery-legal-notice-to-my-native-place-or-village",

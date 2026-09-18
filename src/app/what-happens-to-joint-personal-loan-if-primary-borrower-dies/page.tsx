@@ -3,7 +3,7 @@ import Link from "next/link";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "What Happens to a Joint Personal Loan if the Primary Borrower Dies?",
+  title: "Joint Personal Loan If Primary Borrower Dies | SettleLoans",
   description: "Learn about co-borrower liability after death in India. Discover how to handle a joint loan death clause and negotiate a compassionate settlement with the bank.",
   alternates: {
     canonical: "https://www.settleloans.in/what-happens-to-joint-personal-loan-if-primary-borrower-dies",

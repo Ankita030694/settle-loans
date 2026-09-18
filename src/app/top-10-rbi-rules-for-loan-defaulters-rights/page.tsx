@@ -75,7 +75,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Top 10 RBI Rules for Loan Defaulters Rights: Complete Legal Guide',
+    title: 'Top 10 RBI Rules for Loan Defaulters Rights | SettleLoans',
     description: 'Facing recovery agent harassment or loan default? Explore the top 10 statutory RBI rules that safeguard your dignity, privacy, and financial rights in India.',
     images: ['https://www.settleloans.in/images/infographics/top-10-rbi-rules-for-loan-defaulters-rights.jpg'],
   },

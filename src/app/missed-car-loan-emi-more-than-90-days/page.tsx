@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Missed Car Loan EMI More Than 90 Days? RBI Rules on Vehicle Seizure",
+  title: "Missed Car Loan EMI Over 90 Days: RBI Rules | SettleLoans",
   description: "Have you missed your car loan EMI for more than 90 days? Learn about RBI vehicle seizure rules, auto loan default consequences, and how to stop illegal towing.",
   alternates: {
     canonical: "https://www.settleloans.in/missed-car-loan-emi-more-than-90-days",

@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Can I Pay Extra EMI for Personal Loan? | Save Lakhs in Interest",
+  title: "Can I Pay Extra EMI for Personal Loan? | SettleLoans",
   description: "Learn how paying just one extra EMI every year can dramatically reduce your personal loan tenure and save you lakhs in interest payments. Expert guide.",
   alternates: {
     canonical: "https://www.settleloans.in/can-i-pay-extra-emi-for-personal-loan",

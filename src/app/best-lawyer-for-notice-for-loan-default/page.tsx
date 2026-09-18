@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFileLines, faGavel, faClock, faUserShield, faScaleBalanced, faShieldHalved } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Best Lawyer for Notice for Loan Default | SARFAESI 13(2) Defense",
+    title: "Lawyer for Loan Default Notice Defence | SettleLoans",
     description: "Received a 13(2) or 13(4) notice for loan default? Get expert legal help to reply to bank notices, challenge possession, and stay auctions in DRT. Protect your home and business today.",
     alternates: {
         canonical: "https://www.settleloans.in/best-lawyer-for-notice-for-loan-default",

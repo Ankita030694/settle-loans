@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
-    title: "Can Recovery Agents Come to Your Home? | Legal Rights in India",
+    title: "Can Recovery Agents Come to Your Home? | SettleLoans",
     description: "Discover the legal truth about recovery agent home visits. Learn about RBI guidelines, authorization requirements, and your right to refuse entry under IPC Section 441.",
     alternates: {
         canonical: "https://www.settleloans.in/can-recovery-agents-come-home",

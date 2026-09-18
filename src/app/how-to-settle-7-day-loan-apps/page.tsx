@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "How to Settle 7-Day Loan Apps in India | 5000+ Word Detailed Guide",
+  title: "How to Settle 7-Day Loan Apps in India | SettleLoans",
   description: "The ultimate 5000-word guide on settling illegal 7-day loan apps. Stop harassment, report to cybercrime, and secure your digital life legally in India.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-settle-7-day-loan-apps",

@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
-    title: "Loan Settlement for Borrowers Facing Economic Downturn | 2025 Guide",
+    title: "Loan Settlement in Economic Downturn | SettleLoans",
     description: "Expert guide on loan settlement for borrowers facing economic downturn in India. Learn about RBI guidelines 2025, compromise settlement policies, and legal rights.",
     alternates: {
         canonical: "https://www.settleloans.in/loan-settlement-for-borrowers-facing-economic-downturn",

@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import PersonalLoanSettlementFeesClient from './PersonalLoanSettlementFeesClient';
 
 export const metadata: Metadata = {
-  title: 'How Much Do Loan Settlement Companies Charge? Fees & Scams (2026)',
+  title: 'How Much Do Loan Settlement Companies Charge? | SettleLoans',
   description: 'Wondering how much loan settlement companies charge in India? Compare standard success fee models (10–20% of savings), upfront fee red flags, RBI rules & fee calculator.',
   keywords: [
     'how much do loan settlement companies charge',

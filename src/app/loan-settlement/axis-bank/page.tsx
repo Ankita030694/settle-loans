@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Axis Bank Loan Settlement Guide 2026 | Expert OTS & Debt Resolution",
+  title: "Axis Bank Loan Settlement Guide 2026 | SettleLoans",
   description: "Advanced legal analysis of Axis Bank loan and credit card settlement. Master the Citi migration nuances, Burgundy banking protocols, and MSME OTS 2026.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement/axis-bank",

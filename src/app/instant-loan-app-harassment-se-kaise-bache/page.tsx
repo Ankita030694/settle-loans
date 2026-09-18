@@ -37,7 +37,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Instant Loan App Harassment Se Kaise Bache: Emergency Cyber Shield',
+  title: 'Instant Loan App Harassment Se Kaise Bache | SettleLoans',
   description: 'Instant loan app harassment se kaise bache? Defend against 7-day Chinese loan apps, morphed photo threats, contact list calling, cybercrime.gov.in filing, and Chakshu reporting.',
   keywords: [
     'instant loan app harassment se kaise bache',

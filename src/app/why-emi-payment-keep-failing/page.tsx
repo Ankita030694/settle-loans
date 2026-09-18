@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Why EMI Payment Keep Failing | NACH & Auto Debit Bounce Reasons",
+  title: "Why EMI Payment Keeps Failing: NACH Bounces | SettleLoans",
   description: "Are your EMI auto-debits constantly failing despite having balance? Learn the top NACH mandate failure reasons and how to stop illegal ECS bounce charges.",
   alternates: {
     canonical: "https://www.settleloans.in/why-emi-payment-keep-failing",

@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-    title: "How to Settle Loan with Bank legally in India | Step-by-Step Guide",
+    title: "How to Settle Loan with Bank in India | SettleLoans",
     description: "Learn how to settle loan with bank legally in India. Access expert negotiation tips, latest RBI guidelines 2024-25, and a step-by-step process to resolve debt.",
     alternates: {
         canonical: "https://www.settleloans.in/how-to-settle-loan-with-bank",

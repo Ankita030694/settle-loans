@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Reduce EMI or Tenure After Part Payment? Make the Right Choice",
+  title: "Reduce EMI or Tenure After Part Payment? | SettleLoans",
   description: "Find out how part payment effects on loan work. Learn whether you should lower EMI vs lower tenure to save the most on interest and clear your debt faster.",
   alternates: {
     canonical: "https://www.settleloans.in/emi-or-interest-change-after-part-payment",

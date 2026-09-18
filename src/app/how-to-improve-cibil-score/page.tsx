@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "How to Improve CIBIL Score Fast | Rebuild Credit After Default",
+  title: "How to Improve CIBIL Score Fast | SettleLoans",
   description: "Did a past loan default ruin your credit? Follow these exact steps to rebuild your CIBIL score back to 750+ and regain your financial freedom.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-improve-cibil-score",

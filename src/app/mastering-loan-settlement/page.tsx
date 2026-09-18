@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Mastering Loan Settlement: Tips to Negotiate Your Debt Wisely",
+  title: "Mastering Loan Settlement & Debt Negotiation | SettleLoans",
   description: "Unlock the secrets to mastering loan settlement with our expert tips! Negotiate your debt wisely and gain financial freedom today.",
   alternates: {
     canonical: "https://www.settleloans.in/mastering-loan-settlement",

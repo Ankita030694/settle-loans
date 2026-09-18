@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Minimum Debt Amount for Settlement | What Is Required in India?",
+  title: "Minimum Debt Amount for Settlement in India | SettleLoans",
   description: "Learn about the minimum debt amount required for debt settlement programs in India. Discover thresholds for banks, NBFCs, and MSME settlement schemes.",
   alternates: {
     canonical: "https://www.settleloans.in/what-is-minimun-debt-amount-required-for-settlement-programs",

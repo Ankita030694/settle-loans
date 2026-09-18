@@ -4,7 +4,7 @@ import TableOfContents from "@/components/TableOfContents";
 import ReviewSnippets from "@/components/ReviewSnippets";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Customer Support Options: Direct Access to Experts",
+  title: "Debt Settlement Customer Support Options | SettleLoans",
   description: "Explore the customer support options provided by loan settlement companies in India. From dedicated case managers to 24/7 legal support and harassment relief services.",
   alternates: {
     canonical: "https://www.settleloans.in/what-customer-support-options-do-loan-settlement-companies-provide",

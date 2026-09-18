@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement for Startup Founders in India | Venture Debt Relief",
+  title: "Loan Settlement for Startup Founders | SettleLoans",
   description: "Are you a startup founder struggling with personal guarantees and venture debt? Learn the legal process of startup loan settlement and debt resolution in India. Reclaim your future today.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-for-startup-founders",

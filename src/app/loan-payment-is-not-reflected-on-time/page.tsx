@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "EMI Deducted But Not Updated? Loan Payment Is Not Reflected on Time",
+  title: "Loan Payment Not Reflected on Time | SettleLoans",
   description: "Money deducted from your account but the bank says 'EMI bounced'? Learn how to resolve when your loan payment is not reflected on time and avoid penal interest for bank delays.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-payment-is-not-reflected-on-time",

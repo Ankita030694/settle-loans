@@ -60,7 +60,7 @@ export const metadata: Metadata = {
     canonical: 'https://www.settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do',
   },
   openGraph: {
-    title: 'Recovery Agent Sitting Outside House Refusing to Leave? Police 112 Protocol & Legal Eviction Guide',
+    title: 'Recovery Agent Refusing to Leave House? | SettleLoans',
     description: 'Bank recovery agents staging a dharna outside your flat or doorstep? Learn your rights under Supreme Court privacy rulings, Section 270 BNS public nuisance, and immediate police 112 action.',
     url: 'https://www.settleloans.in/recovery-agent-refusing-to-leave-house-dharna-what-to-do',
     siteName: 'SettleLoans',

@@ -4,7 +4,7 @@ import Link from 'next/link';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: 'Handling Reminder Calls After an EMI Bounce | Stop Harassment',
+  title: 'Reminder Calls After EMI Bounce: Your Rights | SettleLoans',
   description: 'Getting 20 calls a day after a single EMI bounce? Learn the exact script to use with tele-callers to stop the harassment and understand your rights.',
   alternates: {
     canonical: 'https://www.settleloans.in/reminder-calls-after-emi-bounce'

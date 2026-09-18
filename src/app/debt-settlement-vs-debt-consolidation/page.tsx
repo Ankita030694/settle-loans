@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Debt Settlement vs Debt Consolidation India | 2025 Comparison",
+  title: "Debt Settlement vs Debt Consolidation | SettleLoans",
   description: "Compare Debt Settlement and Debt Consolidation in India. Learn the pros, cons, CIBIL impact, and interest rate differences to choose the best debt relief path.",
   alternates: {
     canonical: "https://www.settleloans.in/debt-settlement-vs-debt-consolidation",

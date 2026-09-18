@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Application to Unblock Bank Account for Loan EMI | Legal Format",
+  title: "Unblock Bank Account for Loan EMI | SettleLoans",
   description: "Bank froze account illegally? Get the exact letter format to unfreeze bank account and unblock account for EMI payment before other cheques bounce.",
   alternates: {
     canonical: "https://www.settleloans.in/application-to-unblock-bank-account-for-loan-emi",

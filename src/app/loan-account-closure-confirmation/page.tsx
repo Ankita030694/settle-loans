@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Bank Delaying Loan Closure Confirmation? Get NOC Under RBI Rules",
+  title: "Bank Delaying Loan Closure Confirmation NOC? | SettleLoans",
   description: "Paid your final EMI but the bank is delaying your loan closure confirmation or NOC? Learn how to use RBI rules to force them to issue it and claim compensation.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-account-closure-confirmation",

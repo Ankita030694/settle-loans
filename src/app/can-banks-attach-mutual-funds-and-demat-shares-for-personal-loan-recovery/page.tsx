@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Can Banks Attach Mutual Funds & Demat Shares for Loan Recovery?",
+  title: "Can Banks Attach Mutual Funds & Demat Shares? | SettleLoans",
   description: "Learn if banks can freeze your Demat account or attach mutual funds for an unsecured loan default. Understand the legal procedures, court orders, and how to protect investments.",
   alternates: {
     canonical: "https://www.settleloans.in/can-banks-attach-mutual-funds-and-demat-shares-for-personal-loan-recovery"

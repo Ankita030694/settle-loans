@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "How Long Does Debt Settlement Typically Take? | India Roadmap 2024",
+  title: "How Long Does Debt Settlement Take? | SettleLoans",
   description: "Learn the exact timeline for debt settlement in India. From NPA status to NOC issuance, understand the 18 to 48 month journey to a debt-free life.",
   alternates: {
     canonical: "https://www.settleloans.in/how-long-does-a-debt-settlement-typically-take",

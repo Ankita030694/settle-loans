@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "What is a Creditor? Meaning, Definition, and Types (IBC & Banking)",
+  title: "What is a Creditor? Meaning & Types in India | SettleLoans",
   description: "Understand the meaning and types of creditors in banking. Learn the difference between secured vs unsecured creditor, and financial vs operational creditor under IBC.",
   alternates: {
     canonical: "https://www.settleloans.in/what-is-creditor-meaning-definition-and-types",

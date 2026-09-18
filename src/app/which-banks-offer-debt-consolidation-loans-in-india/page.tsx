@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Which Banks Offer Debt Consolidation Loans in India? (2026 Guide)",
+  title: "Which Banks Offer Debt Consolidation Loans? | SettleLoans",
   description: "Explore the top banks and NBFCs in India offering debt consolidation loans in 2026. Compare HDFC, ICICI, SBI, and Axis Bank interest rates, eligibility, and benefits.",
   alternates: {
     canonical: "https://www.settleloans.in/which-banks-offer-debt-consolidation-loans-in-india",

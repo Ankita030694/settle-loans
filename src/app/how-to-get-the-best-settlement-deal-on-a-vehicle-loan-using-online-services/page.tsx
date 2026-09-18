@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Best Vehicle Loan Settlement Guide India | Car & Bike Loan Relief",
+  title: "Vehicle Loan Settlement Guide in India | SettleLoans",
   description: "Learn how to get the best settlement deal on a vehicle loan in India using online services. Expert guide on car loan settlement process, negotiation tactics, and avoiding repossession.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-get-the-best-settlement-deal-on-a-vehicle-loan-using-online-services",

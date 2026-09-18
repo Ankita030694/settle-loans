@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-    title: "Loan Default Recovery Freeze Defense | Stop Bank Action Legally",
+    title: "Loan Default Recovery Freeze Defense | SettleLoans",
     description: "Expert legal defense to freeze loan recovery, stop SARFAESI auctions, and obtain DRT stay orders. Navigate NPA classification challenges and debt recovery freezes.",
     alternates: {
         canonical: "https://www.settleloans.in/loan-default-recovery-freeze-defense",

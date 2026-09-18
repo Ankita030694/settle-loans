@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Debt Settlement Offers for Business Loans | MSME & SME Guide 2024",
+  title: "Debt Settlement Offers for Business Loans | SettleLoans",
   description: "Explore the latest debt settlement offers for business loans in India. Comprehensive guide on MSME OTS schemes, RBI guidelines, and bank negotiation strategies.",
   alternates: {
     canonical: "https://www.settleloans.in/debt-settlement-offers-for-business-loans",

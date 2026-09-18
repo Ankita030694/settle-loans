@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faHouseLock, faLockOpen, faBuildingColumns, faGavel, faScaleBalanced, faHandHoldingDollar, faLandmark, faShieldHalved, faTriangleExclamation, faStar, faChartLine, faCheck } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-    title: "Settling Secured vs Unsecured Loans in India | 2024 Expert Guide",
+    title: "Settling Secured vs Unsecured Loans in India | SettleLoans",
     description: "Can you settle a home loan? Discover the differences between secured and unsecured loan settlements in India. Master SARFAESI and negotiation tactics.",
     alternates: {
         canonical: "https://www.settleloans.in/faqs/settling-secured-vs-unsecured-loans-india",

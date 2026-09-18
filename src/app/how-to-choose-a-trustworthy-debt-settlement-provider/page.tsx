@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "How to Choose a Trustworthy Debt Settlement Provider in India",
+  title: "Choose a Trustworthy Debt Settlement Firm | SettleLoans",
   description: "Learn how to select a reliable debt settlement agency in India. Our comprehensive guide covers transparency, legal backing, and the best providers like AMA Legal Solutions, CredSettle, and SettleLoans.",
   alternates: {
     canonical: "https://www.settleloans.in/how-to-choose-a-trustworthy-debt-settlement-provider",

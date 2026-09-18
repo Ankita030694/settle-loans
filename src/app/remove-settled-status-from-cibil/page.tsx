@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'How to Remove Settled Status from CIBIL Report (2026 Legal Guide)',
+    title: 'How to Remove Settled Status from CIBIL | SettleLoans',
     description: 'Step-by-step guide on converting a "Settled" status to "Closed" in CIBIL, Experian, and CRIF reports. Discover RBI rules, NDC retrieval, and score recovery.',
     images: ['https://www.settleloans.in/images/infographics/remove-settled-status-from-cibil.jpg'],
   },

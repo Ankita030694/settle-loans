@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Loan Settlement Letter Format & NOC Format | Bank Sample 2026",
+  title: "Loan Settlement Letter & NOC Format | SettleLoans",
   description: "Find the best loan settlement letter format and NOC format for Indian banks. Download sample templates for settlement requests, offer letters, and no dues certificates. RBI rules 2026 included.",
   alternates: {
     canonical: "https://www.settleloans.in/loan-settlement-letter-format-noc-format",

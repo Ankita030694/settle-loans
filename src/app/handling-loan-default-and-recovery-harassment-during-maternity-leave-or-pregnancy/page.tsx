@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import TableOfContents from "@/components/TableOfContents";
 
 export const metadata: Metadata = {
-  title: "Handling Loan Default & Recovery Harassment During Maternity Leave",
+  title: "Loan Default Harassment During Maternity Leave | SettleLoans",
   description: "Comprehensive legal guide targeting women who face drastic income drops during unpaid maternity leave or pregnancy complications. Learn to file for a moratorium.",
   alternates: {
     canonical: "https://www.settleloans.in/handling-loan-default-and-recovery-harassment-during-maternity-leave-or-pregnancy",

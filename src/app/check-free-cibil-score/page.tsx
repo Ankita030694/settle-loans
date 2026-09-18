@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 import TableOfContents from '@/components/TableOfContents';
 
 export const metadata: Metadata = {
-  title: "Check Free CIBIL Score Online | Official Report Without Impact",
+  title: "Check Free CIBIL Score Online | SettleLoans",
   description: "Stop paying for expensive credit reports. Learn how to legally download your full, official CIBIL report for absolutely free.",
   alternates: {
     canonical: "https://www.settleloans.in/check-free-cibil-score",

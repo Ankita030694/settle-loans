@@ -5,7 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faStar, faShieldAlt, faGavel, faScaleBalanced, faHandshake, faCheckCircle, faExclamationTriangle, faClock, faIdCard, faDoorOpen, faUserShield } from "@fortawesome/free-solid-svg-icons";
 
 export const metadata: Metadata = {
-  title: "Recovery Agent Home Visit Rules | RBI Guidelines & Borrower Rights",
+  title: "Recovery Agent Home Visit Rules & Rights | SettleLoans",
   description: "Understand the strict RBI rules for recovery agent home visits in India. Know the timing (8am-7pm), ID requirements, and what to do if agents harass you at home.",
   alternates: {
     canonical: "https://www.settleloans.in/recovery-agent-home-visit-rules",

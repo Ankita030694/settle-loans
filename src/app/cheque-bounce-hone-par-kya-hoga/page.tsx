@@ -32,7 +32,7 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Cheque Bounce Hone Par Kya Hoga: Section 138 Legal Defence & OTS',
+  title: 'Cheque Bounce Hone Par Kya Hoga: Legal Guide | SettleLoans',
   description: 'Cheque bounce hone par kya kare? Discover your rights against bank security cheque misuse, Section 138 notice timelines, bailable offense protections, and case withdrawal via OTS.',
   keywords: [
     'cheque bounce hone par kya kare',
